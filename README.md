@@ -29,7 +29,7 @@ The available items, along with types, are available from this module:
   - translations
   - villagers
 
-Note that the values are changed from the spreadsheets in favor of JavaScript syntax, for example, `NA` is `null`, `Yes/No` is changed to `true/false`, etc., to see how the values will look like, you can take a look at the [directory](./directory) with the JSON files. But for the rest of the values, they're the same as the values on the spreadsheets.
+Note that the values are changed from the spreadsheets in favor of JavaScript syntax, for example, `NA` is `null`, `Yes/No` is changed to `true/false`, etc., to see how the values will look like, you can take a look at the [directory](https://github.com/Norviah/animal-crossing/tree/master/combined) with the JSON files. But for the rest of the values, they're the same as the values on the spreadsheets.
 
 In addition, the keys are changed to camelCase, so they won't be the same as the ones on the spreadsheets.
 
