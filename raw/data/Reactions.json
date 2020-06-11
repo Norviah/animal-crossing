@@ -1,0 +1,398 @@
+[
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Aggravation",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Outraged.png\")",
+    "Source": "Peppy",
+    "Source Notes": "",
+    "Internal ID": "Outraged",
+    "Unique Entry ID": "6suhKYAAhh5QMKt64"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Agreement",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Nodding.png\")",
+    "Source": "Cranky",
+    "Source Notes": "",
+    "Internal ID": "Nodding",
+    "Unique Entry ID": "7smqwK9J7eFBxta28"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Amazed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Shocked.png\")",
+    "Source": "Snooty",
+    "Source Notes": "",
+    "Internal ID": "Shocked",
+    "Unique Entry ID": "vosig4bbr4kPq57AT"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Apologetic",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Apologize.png\")",
+    "Source": "Big Sister",
+    "Source Notes": "",
+    "Internal ID": "Apologize",
+    "Unique Entry ID": "jBKsQYCAd7PtymQeB"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Bashfulness",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Blushing.png\")",
+    "Source": "Lazy",
+    "Source Notes": "",
+    "Internal ID": "Blushing",
+    "Unique Entry ID": "wzvKbFrEJCseTohoz"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Bewilderment",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Pardon.png\")",
+    "Source": "Cranky",
+    "Source Notes": "",
+    "Internal ID": "Pardon",
+    "Unique Entry ID": "WRSSRZMtM6rXfXBrR"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Cold Chill",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/ColdChill.png\")",
+    "Source": "Big Sister",
+    "Source Notes": "",
+    "Internal ID": "ColdChill",
+    "Unique Entry ID": "K62u2owKFDLmPCB3Q"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Confident",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Assent.png\")",
+    "Source": "Big Sister",
+    "Source Notes": "Requires a high level of friendship",
+    "Internal ID": "Assent",
+    "Unique Entry ID": "TGifHTbyLBh4f3gDQ"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Curiosity",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/QuestionMark.png\")",
+    "Source": "Peppy",
+    "Source Notes": "",
+    "Internal ID": "QuestionMark",
+    "Unique Entry ID": "SskgipgnKzm5TsK7d"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Daydreaming",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AbsentMindedness.png\")",
+    "Source": "Normal",
+    "Source Notes": "Requires a high level of friendship",
+    "Internal ID": "AbsentMindedness",
+    "Unique Entry ID": "JFrTBJCEaX5R4kABT"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Delight",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Clapping.png\")",
+    "Source": "All",
+    "Source Notes": "",
+    "Internal ID": "Clapping",
+    "Unique Entry ID": "F9DpGeqZzDeSTh2bq"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Disagreement",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Negative.png\")",
+    "Source": "Big Sister",
+    "Source Notes": "",
+    "Internal ID": "Negative",
+    "Unique Entry ID": "Bw5YBM6iuWgMzutWq"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Distress",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Frantic.png\")",
+    "Source": "Jock",
+    "Source Notes": "",
+    "Internal ID": "Frantic",
+    "Unique Entry ID": "vsSjQBZXPeSK6uDTK"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Dozing",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Sleep.png\")",
+    "Source": "Smug",
+    "Source Notes": "",
+    "Internal ID": "Sleep",
+    "Unique Entry ID": "2vvgAacGjthcFW5Qa"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Encouraging",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Cheering.png\")",
+    "Source": "Jock",
+    "Source Notes": "",
+    "Internal ID": "Cheering",
+    "Unique Entry ID": "fomfML4NWdY8x6adv"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Fearful",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Shaking.png\")",
+    "Source": "Normal",
+    "Source Notes": "",
+    "Internal ID": "Shaking",
+    "Unique Entry ID": "noKrWYCMSWcH4jwvi"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Flourish",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Dance.png\")",
+    "Source": "Jock",
+    "Source Notes": "Requires a high level of friendship",
+    "Internal ID": "Dance",
+    "Unique Entry ID": "5QDD3DcwdPhbGoJAf"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Glee",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/HappyDance.png\")",
+    "Source": "Normal",
+    "Source Notes": "",
+    "Internal ID": "HappyDance",
+    "Unique Entry ID": "8nAwdhzZfotqpLC9R"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Greetings",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Greeting.png\")",
+    "Source": "All",
+    "Source Notes": "",
+    "Internal ID": "Greeting",
+    "Unique Entry ID": "oE6uqhZYjYfuqb55n"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Happiness",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Smiling.png\")",
+    "Source": "Peppy",
+    "Source Notes": "",
+    "Internal ID": "Smiling",
+    "Unique Entry ID": "TWENXBbBENgnFiGq3"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Heartbreak",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/BrokenHeart.png\")",
+    "Source": "Smug",
+    "Source Notes": "",
+    "Internal ID": "BrokenHeart",
+    "Unique Entry ID": "ex6gKZu6zsyd6MgDr"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Inspiration",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/IdeaBulb.png\")",
+    "Source": "Cranky",
+    "Source Notes": "Requires a high level of friendship",
+    "Internal ID": "IdeaBulb",
+    "Unique Entry ID": "8ux4ddfibJQR2EuWW"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Intense",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Silent.png\")",
+    "Source": "Snooty",
+    "Source Notes": "",
+    "Internal ID": "Silent",
+    "Unique Entry ID": "X2kzqTaPwtG6SGNT8"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Joy",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/HappyFlower.png\")",
+    "Source": "All",
+    "Source Notes": "",
+    "Internal ID": "HappyFlower",
+    "Unique Entry ID": "fSNyHJHgLKac5mSLT"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Laughter",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Laughing.png\")",
+    "Source": "Big Sister",
+    "Source Notes": "",
+    "Internal ID": "Laughing",
+    "Unique Entry ID": "EBenMHMpwnkMgS6eg"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Love",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Love.png\")",
+    "Source": "Snooty",
+    "Source Notes": "Requires a high level of friendship",
+    "Internal ID": "Love",
+    "Unique Entry ID": "GvAsErCFuGAcMAeXM"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Mischief",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Scheming.png\")",
+    "Source": "Peppy",
+    "Source Notes": "Requires a high level of friendship",
+    "Internal ID": "Scheming",
+    "Unique Entry ID": "E7it7yLfFaddFvEhQ"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Mistaken",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Oops.png\")",
+    "Source": "Lazy",
+    "Source Notes": "",
+    "Internal ID": "Oops",
+    "Unique Entry ID": "DPR7WWkmR36Bsf2LG"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Pleased",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Hello.png\")",
+    "Source": "Normal",
+    "Source Notes": "",
+    "Internal ID": "Hello",
+    "Unique Entry ID": "Z3MuKfQMaH3D8vkPA"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Pride",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/SmugFace.png\")",
+    "Source": "Lazy",
+    "Source Notes": "Requires a high level of friendship",
+    "Internal ID": "SmugFace",
+    "Unique Entry ID": "xKoQpdJMtocNFRckm"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Resignation",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/OhGeez.png\")",
+    "Source": "Smug",
+    "Source Notes": "",
+    "Internal ID": "OhGeez",
+    "Unique Entry ID": "7YdF3ZMr95XP3FaoW"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Sadness",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/SadSpiral.png\")",
+    "Source": "Normal",
+    "Source Notes": "",
+    "Internal ID": "SadSpiral",
+    "Unique Entry ID": "Wo8q6KhPtL2CYwat4"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Sheepishness",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/WrySmile.png\")",
+    "Source": "Cranky",
+    "Source Notes": "",
+    "Internal ID": "WrySmile",
+    "Unique Entry ID": "5cRnCPDJRdRpPJF8D"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Shocked",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Surprised.png\")",
+    "Source": "Jock",
+    "Source Notes": "",
+    "Internal ID": "Surprised",
+    "Unique Entry ID": "bn29da8SNdMYYyWAa"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Showmanship",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Shaki.png\")",
+    "Source": "Smug",
+    "Source Notes": "Requires a high level of friendship",
+    "Internal ID": "Shaki",
+    "Unique Entry ID": "Bj5iG7kc6tLND9bjn"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Shyness",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Hesitate.png\")",
+    "Source": "Lazy",
+    "Source Notes": "",
+    "Internal ID": "Hesitate",
+    "Unique Entry ID": "9H7jt7AGKbh6mW4y8"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Sighing",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Sighing.png\")",
+    "Source": "Snooty",
+    "Source Notes": "",
+    "Internal ID": "Sighing",
+    "Unique Entry ID": "ntjLqg82EQNsgnzYA"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Sleepy",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Sleepy.png\")",
+    "Source": "Peppy",
+    "Source Notes": "",
+    "Internal ID": "Sleepy",
+    "Unique Entry ID": "9e5BhxmqtMurNWqW4"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Smirking",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Grin.png\")",
+    "Source": "Smug",
+    "Source Notes": "",
+    "Internal ID": "Grin",
+    "Unique Entry ID": "KDAWT9zDKpufEWgaW"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Sneezing",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Sneezing.png\")",
+    "Source": "Jock",
+    "Source Notes": "",
+    "Internal ID": "Sneezing",
+    "Unique Entry ID": "F6Dkk4PGtjDMCgry3"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Sorrow",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Crying.png\")",
+    "Source": "Lazy",
+    "Source Notes": "",
+    "Internal ID": "Crying",
+    "Unique Entry ID": "W8nngMS98uwpHHW4m"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Surprise",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Aha.png\")",
+    "Source": "All",
+    "Source Notes": "",
+    "Internal ID": "Aha",
+    "Unique Entry ID": "7jmkZiSxrYT7MMm4P"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Thought",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Thinking.png\")",
+    "Source": "Snooty",
+    "Source Notes": "",
+    "Internal ID": "Thinking",
+    "Unique Entry ID": "HEFCeCGtJ7Bkb5PXG"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Worry",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Worried.png\")",
+    "Source": "Cranky",
+    "Source Notes": "",
+    "Internal ID": "Worried",
+    "Unique Entry ID": "TygKeKxvotLEzWqvY"
+  }
+]

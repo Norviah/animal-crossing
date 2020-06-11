@@ -1,0 +1,56 @@
+{
+  "name": "animal-crossing",
+  "version": "1.0.0",
+  "description": "A database for Animal Crossing: New Horizons.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+    "build:src": "./node_modules/typescript/bin/tsc",
+    "build:types": "bash ./bin/types.sh",
+    "build:docs": "/bin/rm -rf ./module/docs; ./node_modules/typedoc/bin/typedoc --plugin typedoc-plugin-markdown --includes ./module/**/* --exclude \"./src/**/*.ts\" --out ./module/docs && sed -i '' '4d;5d' ./module/docs/README.md",
+    "build:module-src": "./node_modules/typescript/bin/tsc --outDir lib -p module",
+    "build:module": "npm run convert && npm run build:types && npm run build:module-src && npm run build:docs",
+    "publish:patch": "npm run build:module && ./node_modules/standard-version/bin/cli.js --release-as patch && npm run publish",
+    "publish:minor": "npm run build:module && ./node_modules/standard-version/bin/cli.js --release-as minor && npm run publish",
+    "publish:major": "npm run build:module && ./node_modules/standard-version/bin/cli.js --release-as major && npm run publish",
+    "publish:version": "npm run build:module && ./node_modules/standard-version/bin/cli.js --release-as $1 && npm run publish",
+    "publish": "git push --follow-tags origin master && npm publish",
+    "convert": "/bin/rm -rf combined data raw; npm run build:src && node ./build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Norviah/animal-crossing.git"
+  },
+  "keywords": [
+    "Animal Crossing"
+  ],
+  "author": "norviah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Norviah/animal-crossing/issues"
+  },
+  "homepage": "https://github.com/Norviah/animal-crossing/tree/master/module#readme",
+  "devDependencies": {
+    "@norviah/sheets": "^3.0.1",
+    "@types/app-root-path": "^1.2.4",
+    "@types/lodash": "^4.14.155",
+    "@types/node": "^14.0.11",
+    "@types/ws": "^7.2.5",
+    "@typescript-eslint/eslint-plugin": "^3.1.0",
+    "@typescript-eslint/parser": "^3.1.0",
+    "app-root-path": "^3.0.0",
+    "eslint": "^7.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "lodash": "^4.17.15",
+    "prettier": "^2.0.5",
+    "quicktype": "^15.0.245",
+    "standard-version": "^8.0.0",
+    "typedoc": "^0.17.7",
+    "typedoc-plugin-markdown": "^2.3.1",
+    "typescript": "^3.9.5"
+  }
+}

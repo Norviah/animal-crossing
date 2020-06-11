@@ -1,0 +1,8 @@
+# directories
+lib
+build
+node_modules
+
+# files
+.DS_Store
+config/*.json

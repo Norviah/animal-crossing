@@ -1,0 +1,149 @@
+[
+  {
+    "SourceSheet": "Events",
+    "Event": "Spring Fishing Tourney",
+    "Northern Hemisphere Dates": "2nd Saturday of April",
+    "Southern Hemisphere Dates": "2nd Saturday of October",
+    "Times": "9 AM – 6 PM"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Summer Fishing Tourney",
+    "Northern Hemisphere Dates": "2nd Saturday of July",
+    "Southern Hemisphere Dates": "2nd Saturday of January",
+    "Times": "9 AM – 6 PM"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Fall Fishing Tourney",
+    "Northern Hemisphere Dates": "2nd Saturday of October",
+    "Southern Hemisphere Dates": "2nd Saturday of April",
+    "Times": "9 AM – 6 PM"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Winter Fishing Tourney",
+    "Northern Hemisphere Dates": "2nd Saturday of January",
+    "Southern Hemisphere Dates": "2nd Saturday of July",
+    "Times": "9 AM – 6 PM"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Bug-Off",
+    "Northern Hemisphere Dates": "4th Saturday of June",
+    "Southern Hemisphere Dates": "3rd Saturday of November",
+    "Times": "9 AM – 6 PM"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Bug-Off",
+    "Northern Hemisphere Dates": "4th Saturday of July",
+    "Southern Hemisphere Dates": "3rd Saturday of December",
+    "Times": "9 AM – 6 PM"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Bug-Off",
+    "Northern Hemisphere Dates": "4th Saturday of August",
+    "Southern Hemisphere Dates": "3rd Saturday of January",
+    "Times": "9 AM – 6 PM"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Bug-Off",
+    "Northern Hemisphere Dates": "4th Saturday of September",
+    "Southern Hemisphere Dates": "3rd Saturday of February",
+    "Times": "9 AM – 6 PM"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "New Year’s Day",
+    "Northern Hemisphere Dates": "January 1",
+    "Southern Hemisphere Dates": "January 1",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Lunar New Year",
+    "Northern Hemisphere Dates": "Chinese New Year day\n\n2020: January 25\n2021: February 12\n2022: February 1\n2023: January 22\n2024: February 10\n2025: January 29",
+    "Southern Hemisphere Dates": "Chinese New Year day\n(same as northern hemisphere)",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Bunny Day",
+    "Northern Hemisphere Dates": "Easter Sunday and the preceding 11 days\n\n2020: April 1–12\n2021: March 24 – April 4\n2022: April 6–17\n2023: March 29 – April 9\n2024: March 20–31\n2025: April 9–20",
+    "Southern Hemisphere Dates": "Easter Sunday and the preceding 11 days\n(same as northern hemisphere)",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Nature Day",
+    "Northern Hemisphere Dates": "April 23 – May 4",
+    "Southern Hemisphere Dates": "April 23 – May 4",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "May Day",
+    "Northern Hemisphere Dates": "May 1–7",
+    "Southern Hemisphere Dates": "May 1–7",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Mother's Day",
+    "Northern Hemisphere Dates": "May 1–31",
+    "Southern Hemisphere Dates": "May 1–31",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "International Museum Day",
+    "Northern Hemisphere Dates": "May 18–31",
+    "Southern Hemisphere Dates": "May 18–31",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Wedding Season",
+    "Northern Hemisphere Dates": "June 1–30",
+    "Southern Hemisphere Dates": "June 1–30",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "International Children's Day",
+    "Northern Hemisphere Dates": "June 1–30",
+    "Southern Hemisphere Dates": "June 1–30",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Father's Day",
+    "Northern Hemisphere Dates": "June 1–30",
+    "Southern Hemisphere Dates": "June 1–30",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Summer Solstice",
+    "Northern Hemisphere Dates": "June 7 – July 6",
+    "Southern Hemisphere Dates": "Not available",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Winter Solstice",
+    "Northern Hemisphere Dates": "Not available",
+    "Southern Hemisphere Dates": "June 7 – July 6",
+    "Times": "All day"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Countdown",
+    "Northern Hemisphere Dates": "December 31",
+    "Southern Hemisphere Dates": "December 31",
+    "Times": "11 PM – 2 AM"
+  }
+]
