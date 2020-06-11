@@ -2,11 +2,11 @@
 
 # animal-crossing
 
-An npm database for Animal Crossing: New Horizons, the items were generated from the various public Google Spreadsheets, and the source code for the module is available in the [module](./module) directory.
+An npm database for Animal Crossing: New Horizons, the items were generated from the various public Google Spreadsheets, and the source code for the module is available in the [module](https://github.com/Norviah/animal-crossing/tree/master/module) directory.
 
-For a guide on how to run and generate the converter locally, look at this [README](./CONVERT.md). Translations are linked to the items of the spreadsheets, but expect errors to arrise as the internal IDs on the [translations](https://docs.google.com/spreadsheets/d/1BjqVeqIrfEezvyrWLUrwMjmK_UbY2LXkZ12mttamTtk/edit#gid=1222873902) and [AC: NH](https://docs.google.com/spreadsheets/d/1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM/edit#gid=1916357977) spreadsheet aren't linked 100% correctly.
+For a guide on how to run and generate the converter locally, look at this [README](https://github.com/Norviah/animal-crossing/blob/master/CONVERT.md). Translations are linked to the items of the spreadsheets, but expect errors to arrise as the internal IDs on the [translations](https://docs.google.com/spreadsheets/d/1BjqVeqIrfEezvyrWLUrwMjmK_UbY2LXkZ12mttamTtk/edit#gid=1222873902) and [AC: NH](https://docs.google.com/spreadsheets/d/1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM/edit#gid=1916357977) spreadsheet aren't linked 100% correctly.
 
-Documentation is available in the [documentation](./module/docs) directory.
+Documentation is available in the [documentation](https://github.com/Norviah/animal-crossing/tree/master/module/docs) directory.
 
 ### Installation
 
@@ -31,7 +31,7 @@ The available items, along with types, are available from this module:
   - translations
   - villagers
 
-Note that the values are changed from the spreadsheets in favor of JavaScript syntax, for example, `NA` is `null`, `Yes/No` is changed to `true/false`, etc., to see how the values will look like, you can take a look at the [directory](./directory) with the JSON files. But for the rest of the values, they're the same as the values on the spreadsheets.
+Note that the values are changed from the spreadsheets in favor of JavaScript syntax, for example, `NA` is `null`, `Yes/No` is changed to `true/false`, etc., to see how the values will look like, you can take a look at the [directory](https://github.com/Norviah/animal-crossing/tree/master/combined) with the JSON files. But for the rest of the values, they're the same as the values on the spreadsheets.
 
 In addition, the keys are changed to camelCase, so they won't be the same as the ones on the spreadsheets.
 

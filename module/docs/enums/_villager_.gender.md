@@ -15,7 +15,7 @@
 
 • **Female**: = "Female"
 
-Defined in Villager.ts:78
+*Defined in [Villager.ts:78](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Villager.ts#L78)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Male**: = "Male"
 
-Defined in Villager.ts:79
+*Defined in [Villager.ts:79](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Villager.ts#L79)*

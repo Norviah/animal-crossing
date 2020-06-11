@@ -16,7 +16,7 @@
 
 • **CherryBlossomPetals**: = "🌸 cherry-blossom petals"
 
-Defined in Hemisphere.ts:47
+*Defined in [Hemisphere.ts:47](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Hemisphere.ts#L47)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **Mushrooms**: = "🍄 mushrooms"
 
-Defined in Hemisphere.ts:48
+*Defined in [Hemisphere.ts:48](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Hemisphere.ts#L48)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **Ornaments**: = "🎄 ornaments"
 
-Defined in Hemisphere.ts:49
+*Defined in [Hemisphere.ts:49](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Hemisphere.ts#L49)*

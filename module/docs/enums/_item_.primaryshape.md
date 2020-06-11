@@ -24,7 +24,7 @@
 
 • **ALine**: = "A-line"
 
-Defined in Item.ts:190
+*Defined in [Item.ts:190](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L190)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • **ALong**: = "A-long"
 
-Defined in Item.ts:191
+*Defined in [Item.ts:191](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L191)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **BLong**: = "B-long"
 
-Defined in Item.ts:192
+*Defined in [Item.ts:192](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L192)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **Balloon**: = "Balloon"
 
-Defined in Item.ts:193
+*Defined in [Item.ts:193](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L193)*
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 • **Box**: = "Box"
 
-Defined in Item.ts:194
+*Defined in [Item.ts:194](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L194)*
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 • **Dress**: = "Dress"
 
-Defined in Item.ts:195
+*Defined in [Item.ts:195](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L195)*
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 • **Kimono**: = "Kimono"
 
-Defined in Item.ts:196
+*Defined in [Item.ts:196](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L196)*
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 • **Overall**: = "Overall"
 
-Defined in Item.ts:197
+*Defined in [Item.ts:197](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L197)*
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 • **Rib**: = "Rib"
 
-Defined in Item.ts:198
+*Defined in [Item.ts:198](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L198)*
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 • **Robe**: = "Robe"
 
-Defined in Item.ts:199
+*Defined in [Item.ts:199](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L199)*
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 • **Salopette**: = "Salopette"
 
-Defined in Item.ts:200
+*Defined in [Item.ts:200](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L200)*

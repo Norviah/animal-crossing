@@ -15,7 +15,7 @@
 
 • **Emission**: = "Emission"
 
-Defined in Creature.ts:54
+*Defined in [Creature.ts:54](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L54)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Fluorescent**: = "Fluorescent"
 
-Defined in Creature.ts:55
+*Defined in [Creature.ts:55](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L55)*

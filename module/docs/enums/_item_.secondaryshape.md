@@ -16,7 +16,7 @@
 
 • **H**: = "H"
 
-Defined in Item.ts:212
+*Defined in [Item.ts:212](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L212)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **L**: = "L"
 
-Defined in Item.ts:213
+*Defined in [Item.ts:213](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L213)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **N**: = "N"
 
-Defined in Item.ts:214
+*Defined in [Item.ts:214](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L214)*

@@ -19,7 +19,7 @@
 
 • **Active**: = "Active"
 
-Defined in Villager.ts:103
+*Defined in [Villager.ts:103](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Villager.ts#L103)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **Cool**: = "Cool"
 
-Defined in Villager.ts:104
+*Defined in [Villager.ts:104](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Villager.ts#L104)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Cute**: = "Cute"
 
-Defined in Villager.ts:105
+*Defined in [Villager.ts:105](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Villager.ts#L105)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **Elegant**: = "Elegant"
 
-Defined in Villager.ts:106
+*Defined in [Villager.ts:106](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Villager.ts#L106)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **Gorgeous**: = "Gorgeous"
 
-Defined in Villager.ts:107
+*Defined in [Villager.ts:107](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Villager.ts#L107)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **Simple**: = "Simple"
 
-Defined in Villager.ts:108
+*Defined in [Villager.ts:108](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Villager.ts#L108)*
