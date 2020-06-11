@@ -1,0 +1,18 @@
+[animal-crossing](../README.md) › [Globals](../globals.md) › ["Recipe"](_recipe_.md)
+
+# Module: "Recipe"
+
+## Index
+
+### Enumerations
+
+* [Category](../enums/_recipe_.category.md)
+* [RecipeSourceSheet](../enums/_recipe_.recipesourcesheet.md)
+* [TranslationsSourceSheet](../enums/_recipe_.translationssourcesheet.md)
+* [Version](../enums/_recipe_.version.md)
+* [VersionUnlocked](../enums/_recipe_.versionunlocked.md)
+
+### Interfaces
+
+* [Recipe](../interfaces/_recipe_.recipe.md)
+* [Translations](../interfaces/_recipe_.translations.md)
