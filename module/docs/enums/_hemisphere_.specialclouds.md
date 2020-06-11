@@ -17,7 +17,7 @@
 
 • **BillowClouds**: = "billow clouds"
 
-Defined in Hemisphere.ts:63
+*Defined in [Hemisphere.ts:63](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Hemisphere.ts#L63)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **CirrusCirrocumulus**: = "cirrus; cirrocumulus"
 
-Defined in Hemisphere.ts:64
+*Defined in [Hemisphere.ts:64](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Hemisphere.ts#L64)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Cumulonimbus**: = "cumulonimbus"
 
-Defined in Hemisphere.ts:65
+*Defined in [Hemisphere.ts:65](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Hemisphere.ts#L65)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **ThinClouds**: = "thin clouds"
 
-Defined in Hemisphere.ts:66
+*Defined in [Hemisphere.ts:66](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Hemisphere.ts#L66)*

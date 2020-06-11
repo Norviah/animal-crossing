@@ -15,7 +15,7 @@
 
 • **Villagers**: = "Villagers"
 
-Defined in Villager.ts:52
+*Defined in [Villager.ts:52](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Villager.ts#L52)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **VillagersCatchPhrase**: = "Villagers Catch Phrase"
 
-Defined in Villager.ts:53
+*Defined in [Villager.ts:53](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Villager.ts#L53)*
