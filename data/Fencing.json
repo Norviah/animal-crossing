@@ -7,7 +7,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 960,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -36,7 +35,10 @@
       "internalIds": [
         3403
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -46,7 +48,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 1980,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -75,7 +76,10 @@
       "internalIds": [
         5213
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -85,7 +89,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 1200,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -114,7 +117,10 @@
       "internalIds": [
         3080
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -124,7 +130,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 2400,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -153,7 +158,10 @@
       "internalIds": [
         12630
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -163,7 +171,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 720,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -192,7 +199,10 @@
       "internalIds": [
         4349
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -202,7 +212,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 720,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -231,7 +240,10 @@
       "internalIds": [
         4350
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -241,7 +253,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 55,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -270,7 +281,10 @@
       "internalIds": [
         12758
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -280,7 +294,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 1200,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -309,7 +322,10 @@
       "internalIds": [
         4354
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -319,7 +335,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 4500,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -348,7 +363,10 @@
       "internalIds": [
         4357
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -358,7 +376,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 3150,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -387,7 +404,10 @@
       "internalIds": [
         5206
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -397,7 +417,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 960,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -426,7 +445,10 @@
       "internalIds": [
         11712
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -436,7 +458,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 3000,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -465,7 +486,10 @@
       "internalIds": [
         4352
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -475,7 +499,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 720,
-    "source": "Crafting; Tom Nook",
     "sourceNotes": "50 fences are given by Tom Nook after completing the three house plots during the main storyline",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -504,7 +527,11 @@
       "internalIds": [
         11711
       ]
-    }
+    },
+    "sources": [
+      "Crafting",
+      "Tom Nook"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -514,7 +541,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 960,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -543,7 +569,10 @@
       "internalIds": [
         4358
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -553,7 +582,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 600,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -582,7 +610,10 @@
       "internalIds": [
         5212
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -592,7 +623,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 560,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -621,7 +651,10 @@
       "internalIds": [
         4356
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -631,7 +664,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 960,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -660,7 +692,10 @@
       "internalIds": [
         3402
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -670,7 +705,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 411,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -699,7 +733,10 @@
       "internalIds": [
         12894
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Fencing",
@@ -709,7 +746,6 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 3300,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -738,6 +774,9 @@
       "internalIds": [
         5207
       ]
-    }
+    },
+    "sources": [
+      "Crafting"
+    ]
   }
 ]

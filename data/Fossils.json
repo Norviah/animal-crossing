@@ -6,7 +6,6 @@
     "buy": -1,
     "sell": 2000,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -39,6 +38,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -48,7 +50,6 @@
     "buy": -1,
     "sell": 1200,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -81,6 +82,9 @@
     "colors": [
       "Yellow",
       "Yellow"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -90,7 +94,6 @@
     "buy": -1,
     "sell": 1100,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -123,6 +126,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -132,7 +138,6 @@
     "buy": -1,
     "sell": 3500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -165,6 +170,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -174,7 +182,6 @@
     "buy": -1,
     "sell": 2500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -207,6 +214,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -216,7 +226,6 @@
     "buy": -1,
     "sell": 3000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -249,6 +258,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -258,7 +270,6 @@
     "buy": -1,
     "sell": 2000,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -291,6 +302,9 @@
     "colors": [
       "Black",
       "Gray"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -300,7 +314,6 @@
     "buy": -1,
     "sell": 1300,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -333,6 +346,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -342,7 +358,6 @@
     "buy": -1,
     "sell": 4000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -375,6 +390,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -384,7 +402,6 @@
     "buy": -1,
     "sell": 3500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -417,6 +434,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -426,7 +446,6 @@
     "buy": -1,
     "sell": 1100,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -459,6 +478,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -468,7 +490,6 @@
     "buy": -1,
     "sell": 5500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -501,6 +522,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -510,7 +534,6 @@
     "buy": -1,
     "sell": 5000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -543,6 +566,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -552,7 +578,6 @@
     "buy": -1,
     "sell": 6000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -585,6 +610,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -594,7 +622,6 @@
     "buy": -1,
     "sell": 5500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -627,6 +654,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -636,7 +666,6 @@
     "buy": -1,
     "sell": 1100,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -669,6 +698,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -678,7 +710,6 @@
     "buy": -1,
     "sell": 2500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -711,6 +742,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -720,7 +754,6 @@
     "buy": -1,
     "sell": 3000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -753,6 +786,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -762,7 +798,6 @@
     "buy": -1,
     "sell": 5500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -795,6 +830,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -804,7 +842,6 @@
     "buy": -1,
     "sell": 5000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -837,6 +874,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -846,7 +886,6 @@
     "buy": -1,
     "sell": 1000,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -879,6 +918,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -888,7 +930,6 @@
     "buy": -1,
     "sell": 4000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -921,6 +962,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -930,7 +974,6 @@
     "buy": -1,
     "sell": 4500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -963,6 +1006,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -972,7 +1018,6 @@
     "buy": -1,
     "sell": 4500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1005,6 +1050,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1014,7 +1062,6 @@
     "buy": -1,
     "sell": 5000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1047,6 +1094,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1056,7 +1106,6 @@
     "buy": -1,
     "sell": 5000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1089,6 +1138,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1098,7 +1150,6 @@
     "buy": -1,
     "sell": 4000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1131,6 +1182,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1140,7 +1194,6 @@
     "buy": -1,
     "sell": 3500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -1173,6 +1226,9 @@
     "colors": [
       "Gray",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1182,7 +1238,6 @@
     "buy": -1,
     "sell": 2000,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -1215,6 +1270,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1224,7 +1282,6 @@
     "buy": -1,
     "sell": 4000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1257,6 +1314,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1266,7 +1326,6 @@
     "buy": -1,
     "sell": 3000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1299,6 +1358,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1308,7 +1370,6 @@
     "buy": -1,
     "sell": 3500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1341,6 +1402,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1350,7 +1414,6 @@
     "buy": -1,
     "sell": 1500,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1383,6 +1446,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1392,7 +1458,6 @@
     "buy": -1,
     "sell": 4000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1425,6 +1490,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1434,7 +1502,6 @@
     "buy": -1,
     "sell": 4500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1467,6 +1534,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1476,7 +1546,6 @@
     "buy": -1,
     "sell": 5000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1509,6 +1578,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1518,7 +1590,6 @@
     "buy": -1,
     "sell": 3000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1551,6 +1622,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1560,7 +1634,6 @@
     "buy": -1,
     "sell": 2500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1593,6 +1666,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1602,7 +1678,6 @@
     "buy": -1,
     "sell": 4500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1635,6 +1710,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1644,7 +1722,6 @@
     "buy": -1,
     "sell": 3000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1677,6 +1754,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1686,7 +1766,6 @@
     "buy": -1,
     "sell": 3500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1719,6 +1798,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1728,7 +1810,6 @@
     "buy": -1,
     "sell": 1500,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -1761,6 +1842,9 @@
     "colors": [
       "Gray",
       "Gray"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1770,7 +1854,6 @@
     "buy": -1,
     "sell": 2500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1803,6 +1886,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1812,7 +1898,6 @@
     "buy": -1,
     "sell": 2000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1845,6 +1930,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1854,7 +1942,6 @@
     "buy": -1,
     "sell": 4000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
@@ -1887,6 +1974,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1896,7 +1986,6 @@
     "buy": -1,
     "sell": 3500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1929,6 +2018,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1938,7 +2030,6 @@
     "buy": -1,
     "sell": 3500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1971,6 +2062,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -1980,7 +2074,6 @@
     "buy": -1,
     "sell": 2500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2013,6 +2106,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2022,7 +2118,6 @@
     "buy": -1,
     "sell": 3000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2055,6 +2150,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2064,7 +2162,6 @@
     "buy": -1,
     "sell": 4500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2097,6 +2194,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2106,7 +2206,6 @@
     "buy": -1,
     "sell": 4000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2139,6 +2238,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2148,7 +2250,6 @@
     "buy": -1,
     "sell": 4500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2181,6 +2282,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2190,7 +2294,6 @@
     "buy": -1,
     "sell": 4000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2223,6 +2326,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2232,7 +2338,6 @@
     "buy": -1,
     "sell": 4500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2265,6 +2370,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2274,7 +2382,6 @@
     "buy": -1,
     "sell": 5500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -2307,6 +2414,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2316,7 +2426,6 @@
     "buy": -1,
     "sell": 4500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2349,6 +2458,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2358,7 +2470,6 @@
     "buy": -1,
     "sell": 5000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2391,6 +2502,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2400,7 +2514,6 @@
     "buy": -1,
     "sell": 2500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -2433,6 +2546,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2442,7 +2558,6 @@
     "buy": -1,
     "sell": 2000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -2475,6 +2590,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2484,7 +2602,6 @@
     "buy": -1,
     "sell": 1000,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -2517,6 +2634,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2526,7 +2646,6 @@
     "buy": -1,
     "sell": 4000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
@@ -2559,6 +2678,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2568,7 +2690,6 @@
     "buy": -1,
     "sell": 2500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2601,6 +2722,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2610,7 +2734,6 @@
     "buy": -1,
     "sell": 3000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2643,6 +2766,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2652,7 +2778,6 @@
     "buy": -1,
     "sell": 5000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2685,6 +2810,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2694,7 +2822,6 @@
     "buy": -1,
     "sell": 4000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2727,6 +2854,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2736,7 +2866,6 @@
     "buy": -1,
     "sell": 4500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2769,6 +2898,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2778,7 +2910,6 @@
     "buy": -1,
     "sell": 6000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
@@ -2811,6 +2942,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2820,7 +2954,6 @@
     "buy": -1,
     "sell": 5000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2853,6 +2986,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2862,7 +2998,6 @@
     "buy": -1,
     "sell": 5500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2895,6 +3030,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2904,7 +3042,6 @@
     "buy": -1,
     "sell": 5500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
@@ -2937,6 +3074,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2946,7 +3086,6 @@
     "buy": -1,
     "sell": 4500,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2979,6 +3118,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -2988,7 +3130,6 @@
     "buy": -1,
     "sell": 5000,
     "size": "2x2",
-    "source": "Assessing fossils",
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -3021,6 +3162,9 @@
     "colors": [
       "Brown",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   },
   {
@@ -3030,7 +3174,6 @@
     "buy": -1,
     "sell": 1300,
     "size": "1x1",
-    "source": "Assessing fossils",
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -3063,6 +3206,9 @@
     "colors": [
       "Beige",
       "Brown"
+    ],
+    "sources": [
+      "Assessing fossils"
     ]
   }
 ]

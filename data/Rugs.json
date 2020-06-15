@@ -9,7 +9,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -49,7 +48,10 @@
       "garden",
       "outdoors"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -61,7 +63,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -101,7 +102,10 @@
       "fancy",
       "child's room"
     ],
-    "series": "fruits"
+    "series": "fruits",
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -113,7 +117,6 @@
     "size": "3x3",
     "sizeCategory": "Medium",
     "milesPrice": 1200,
-    "source": "Nook Miles Shop",
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -149,7 +152,10 @@
     "concepts": [
       "expensive"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Nook Miles Shop"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -161,7 +167,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -200,7 +205,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -212,7 +220,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -251,7 +258,10 @@
     "concepts": [
       "outdoors"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -263,7 +273,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -302,7 +311,10 @@
     "concepts": [
       "kitchen"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -314,7 +326,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -354,7 +365,10 @@
       "living room",
       "expensive"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -366,7 +380,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -405,7 +418,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -417,7 +433,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -457,7 +472,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -469,7 +487,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -508,7 +525,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -520,7 +540,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -559,7 +578,10 @@
     "concepts": [
       "kitchen"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -571,7 +593,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -611,7 +632,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -623,7 +647,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -662,7 +685,10 @@
     "concepts": [
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -674,7 +700,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -714,7 +739,10 @@
       "expensive",
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -726,7 +754,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -765,7 +792,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -777,7 +807,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -817,7 +846,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -829,7 +861,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -869,7 +900,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -881,7 +915,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -920,7 +953,10 @@
     "concepts": [
       "garden"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -932,7 +968,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -972,7 +1007,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -984,7 +1022,6 @@
     "size": "3x2",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Cyrus",
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -1021,7 +1058,10 @@
       "party",
       "expensive"
     ],
-    "series": "wedding"
+    "series": "wedding",
+    "sources": [
+      "Cyrus"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1033,7 +1073,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1072,7 +1111,10 @@
     "concepts": [
       "kitchen"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1084,7 +1126,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1123,7 +1164,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1135,7 +1179,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1175,7 +1218,10 @@
       "living room",
       "expensive"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1187,7 +1233,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1226,7 +1271,10 @@
     "concepts": [
       "kitchen"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1238,7 +1286,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1277,7 +1324,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1289,7 +1339,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1328,7 +1377,10 @@
     "concepts": [
       "outdoors"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1340,7 +1392,6 @@
     "size": "3x3",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -1377,7 +1428,10 @@
       "fancy",
       "child's room"
     ],
-    "series": "Bunny Day"
+    "series": "Bunny Day",
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1389,7 +1443,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1429,7 +1482,10 @@
       "fancy",
       "child's room"
     ],
-    "series": "fruits"
+    "series": "fruits",
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1441,7 +1497,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1480,7 +1535,10 @@
     "concepts": [
       "garden"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1492,7 +1550,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1531,7 +1588,10 @@
     "concepts": [
       "zen-style"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1543,7 +1603,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1583,7 +1642,10 @@
       "space",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1595,7 +1657,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Fishing Tourney",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1635,7 +1696,10 @@
       "ocean",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Fishing Tourney"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1647,7 +1711,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1687,7 +1750,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1699,7 +1765,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1739,7 +1804,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1751,7 +1819,6 @@
     "size": "4x4 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1791,7 +1858,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1803,7 +1873,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1842,7 +1911,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1854,7 +1926,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1893,7 +1964,10 @@
     "concepts": [
       "kitchen"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1905,7 +1979,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1944,7 +2017,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -1956,7 +2032,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1996,7 +2071,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2008,7 +2086,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2048,7 +2125,10 @@
       "shop",
       "expensive"
     ],
-    "series": "iron"
+    "series": "iron",
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2060,7 +2140,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2100,7 +2179,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2112,7 +2194,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2151,7 +2232,10 @@
     "concepts": [
       "bathroom"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2163,7 +2247,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2203,7 +2286,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2215,7 +2301,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2255,7 +2340,10 @@
       "fancy",
       "expensive"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2267,7 +2355,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Bug-Off",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2307,7 +2394,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Bug-Off"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2319,7 +2409,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2358,7 +2447,10 @@
     "concepts": [
       "zen-style"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2370,7 +2462,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2410,7 +2501,10 @@
       "horror",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2422,7 +2516,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2462,7 +2555,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2474,7 +2570,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Mom",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2514,7 +2609,10 @@
       "fancy",
       "kitchen"
     ],
-    "series": "motherly"
+    "series": "motherly",
+    "sources": [
+      "Mom"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2526,7 +2624,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Mom",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2566,7 +2663,10 @@
       "fancy",
       "kitchen"
     ],
-    "series": "motherly"
+    "series": "motherly",
+    "sources": [
+      "Mom"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2578,7 +2678,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Mom",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2618,7 +2717,10 @@
       "fancy",
       "kitchen"
     ],
-    "series": "motherly"
+    "series": "motherly",
+    "sources": [
+      "Mom"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2630,7 +2732,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Mom",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2670,7 +2771,10 @@
       "fancy",
       "kitchen"
     ],
-    "series": "motherly"
+    "series": "motherly",
+    "sources": [
+      "Mom"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2682,7 +2786,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2722,7 +2825,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2734,7 +2840,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2774,7 +2879,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2786,7 +2894,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2826,7 +2933,10 @@
       "fancy",
       "child's room"
     ],
-    "series": "mush"
+    "series": "mush",
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2838,7 +2948,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2877,7 +2986,10 @@
     "concepts": [
       "outdoors"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2889,7 +3001,6 @@
     "size": "3x3",
     "sizeCategory": "Medium",
     "milesPrice": 1000,
-    "source": "Nook Miles Shop",
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0",
@@ -2926,7 +3037,10 @@
       "fancy",
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Nook Miles Shop"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2938,7 +3052,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": 1000,
-    "source": "Nook Miles Shop",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2978,7 +3091,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Nook Miles Shop"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -2990,7 +3106,6 @@
     "size": "4x3",
     "sizeCategory": "Large",
     "milesPrice": 600,
-    "source": "Nook Miles Shop",
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0",
@@ -3027,7 +3142,10 @@
       "facility",
       "shop"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Nook Miles Shop"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3039,7 +3157,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3079,7 +3196,10 @@
       "fancy",
       "child's room"
     ],
-    "series": "fruits"
+    "series": "fruits",
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3091,7 +3211,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3130,7 +3249,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3142,7 +3264,6 @@
     "size": "4x4 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3182,7 +3303,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3194,7 +3318,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3234,7 +3357,10 @@
       "fancy",
       "child's room"
     ],
-    "series": "fruits"
+    "series": "fruits",
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3246,7 +3372,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3286,7 +3411,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3298,7 +3426,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3338,7 +3465,10 @@
       "fancy",
       "child's room"
     ],
-    "series": "fruits"
+    "series": "fruits",
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3350,7 +3480,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3390,7 +3519,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3402,7 +3534,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3442,7 +3573,10 @@
       "fancy",
       "expensive"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3454,7 +3588,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3494,7 +3627,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3506,7 +3642,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3546,7 +3681,10 @@
       "expensive",
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3558,7 +3696,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3597,7 +3734,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3609,7 +3749,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3649,7 +3788,10 @@
       "living room",
       "expensive"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3661,7 +3803,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3700,7 +3841,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3712,7 +3856,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3751,7 +3894,10 @@
     "concepts": [
       "expensive"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3763,7 +3909,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3803,7 +3948,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3815,7 +3963,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3854,7 +4001,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3866,7 +4016,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3906,7 +4055,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3918,7 +4070,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3957,7 +4108,10 @@
     "concepts": [
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -3969,7 +4123,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4009,7 +4162,10 @@
       "expensive",
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4021,7 +4177,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4061,7 +4216,10 @@
       "fancy",
       "expensive"
     ],
-    "series": "flowers"
+    "series": "flowers",
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4073,7 +4231,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4113,7 +4270,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4125,7 +4285,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4164,7 +4323,10 @@
     "concepts": [
       "garden"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4176,7 +4338,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4216,7 +4377,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4228,7 +4392,6 @@
     "size": "3x2",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Cyrus",
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -4265,7 +4428,10 @@
       "party",
       "expensive"
     ],
-    "series": "wedding"
+    "series": "wedding",
+    "sources": [
+      "Cyrus"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4277,7 +4443,6 @@
     "size": "4x4 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4317,7 +4482,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4329,7 +4497,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4368,7 +4535,10 @@
     "concepts": [
       "kitchen"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4380,7 +4550,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4420,7 +4589,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4432,7 +4604,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4472,7 +4643,10 @@
       "school",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4484,7 +4658,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4523,7 +4696,10 @@
     "concepts": [
       "school"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4535,7 +4711,6 @@
     "size": "4x4 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4574,7 +4749,10 @@
     "concepts": [
       "zen-style"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4586,7 +4764,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4626,7 +4803,10 @@
       "ocean",
       "fancy"
     ],
-    "series": "shell"
+    "series": "shell",
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4638,7 +4818,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4677,7 +4856,10 @@
     "concepts": [
       "bathroom"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4689,7 +4871,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4729,7 +4910,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4741,7 +4925,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4781,7 +4964,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4793,7 +4979,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4833,7 +5018,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4845,7 +5033,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4885,7 +5072,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4897,7 +5087,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4937,7 +5126,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -4949,7 +5141,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4989,7 +5180,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5001,7 +5195,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5041,7 +5234,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5053,7 +5249,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5092,7 +5287,10 @@
     "concepts": [
       "bathroom"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5104,7 +5302,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5143,7 +5340,10 @@
     "concepts": [
       "bathroom"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5155,7 +5355,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5195,7 +5394,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5207,7 +5409,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5247,7 +5448,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5259,7 +5463,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5299,7 +5502,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5311,7 +5517,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5351,7 +5556,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5363,7 +5571,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5403,7 +5610,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5415,7 +5625,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5455,7 +5664,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5467,7 +5679,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5507,7 +5718,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5519,7 +5733,6 @@
     "size": "4x4 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5559,7 +5772,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5571,7 +5787,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5611,7 +5826,10 @@
       "freezing cold",
       "fancy"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5623,7 +5841,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5662,7 +5879,10 @@
     "concepts": [
       "zen-style"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5674,7 +5894,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5713,7 +5932,10 @@
     "concepts": [
       "ocean"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5725,7 +5947,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5765,7 +5986,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5777,7 +6001,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5817,7 +6040,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5829,7 +6055,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5868,7 +6093,10 @@
     "concepts": [
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5880,7 +6108,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5920,7 +6147,10 @@
       "fancy",
       "expensive"
     ],
-    "series": "flowers"
+    "series": "flowers",
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5932,7 +6162,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5972,7 +6201,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -5984,7 +6216,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6024,7 +6255,10 @@
       "living room",
       "facility"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6036,7 +6270,6 @@
     "size": "3x2",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Cyrus",
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -6073,7 +6306,10 @@
       "party",
       "expensive"
     ],
-    "series": "wedding"
+    "series": "wedding",
+    "sources": [
+      "Cyrus"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6085,7 +6321,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6124,7 +6359,10 @@
     "concepts": [
       "outdoors"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6136,7 +6374,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6176,7 +6413,10 @@
       "living room",
       "fancy"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6188,7 +6428,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6227,7 +6466,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6239,7 +6481,6 @@
     "size": "4x4 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6279,7 +6520,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6291,7 +6535,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6330,7 +6573,10 @@
     "concepts": [
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6342,7 +6588,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6381,7 +6626,10 @@
     "concepts": [
       "kitchen"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6393,7 +6641,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6433,7 +6680,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6445,7 +6695,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6484,7 +6733,10 @@
     "concepts": [
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6496,7 +6748,6 @@
     "size": "5x5 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6536,7 +6787,10 @@
       "expensive",
       "living room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6548,7 +6802,6 @@
     "size": "3x3 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6588,7 +6841,10 @@
       "fancy",
       "expensive"
     ],
-    "series": "flowers"
+    "series": "flowers",
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6600,7 +6856,6 @@
     "size": "2x2 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6640,7 +6895,10 @@
       "living room",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6652,7 +6910,6 @@
     "size": "4x3 ",
     "sizeCategory": "Large",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6692,7 +6949,10 @@
       "fancy",
       "child's room"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6704,7 +6964,6 @@
     "size": "3x2 ",
     "sizeCategory": "Medium",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6743,7 +7002,10 @@
     "concepts": [
       "garden"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   },
   {
     "sourceSheet": "Rugs",
@@ -6755,7 +7017,6 @@
     "size": "2x1 ",
     "sizeCategory": "Small",
     "milesPrice": null,
-    "source": "Saharah",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6794,6 +7055,9 @@
     "concepts": [
       "kitchen"
     ],
-    "series": null
+    "series": null,
+    "sources": [
+      "Saharah"
+    ]
   }
 ]

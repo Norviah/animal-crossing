@@ -10,7 +10,6 @@
     "sell": 35,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -54,8 +53,13 @@
     "styles": [
       "Active"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "outdoorsy; comfy; sporty"
+      "outdoorsy",
+      "comfy",
+      "sporty"
     ]
   },
   {
@@ -69,7 +73,6 @@
     "sell": 122,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -113,8 +116,13 @@
     "styles": [
       "Cute"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "fairy tale; party; theatrical"
+      "fairy tale",
+      "party",
+      "theatrical"
     ]
   },
   {
@@ -128,7 +136,6 @@
     "sell": 122,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -172,6 +179,9 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
       "comfy"
     ]
@@ -187,7 +197,6 @@
     "sell": 175,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -231,8 +240,13 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "fairy tale; formal; party"
+      "fairy tale",
+      "formal",
+      "party"
     ]
   },
   {
@@ -246,7 +260,6 @@
     "sell": 1010,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Dodo Airlines",
     "sourceNotes": "Received in mail from DAL after 15 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -290,8 +303,12 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Dodo Airlines"
+    ],
     "themes": [
-      "comfy; vacation"
+      "comfy",
+      "vacation"
     ]
   },
   {
@@ -305,7 +322,6 @@
     "sell": 1010,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Dodo Airlines",
     "sourceNotes": "Received in mail from DAL after 75 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -349,8 +365,12 @@
     "styles": [
       "Gorgeous"
     ],
+    "sources": [
+      "Dodo Airlines"
+    ],
     "themes": [
-      "comfy; vacation"
+      "comfy",
+      "vacation"
     ]
   },
   {
@@ -364,7 +384,6 @@
     "sell": 35,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -408,8 +427,13 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "everyday; goth; comfy"
+      "everyday",
+      "goth",
+      "comfy"
     ]
   },
   {
@@ -423,7 +447,6 @@
     "sell": 35,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -467,8 +490,12 @@
     "styles": [
       "Cool"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "fairy tale; goth"
+      "fairy tale",
+      "goth"
     ]
   },
   {
@@ -482,7 +509,6 @@
     "sell": 140,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -526,8 +552,12 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "goth; comfy"
+      "goth",
+      "comfy"
     ]
   },
   {
@@ -541,7 +571,6 @@
     "sell": 122,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -585,8 +614,13 @@
     "styles": [
       "Cute"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "fairy tale; party; theatrical"
+      "fairy tale",
+      "party",
+      "theatrical"
     ]
   },
   {
@@ -600,7 +634,6 @@
     "sell": 122,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -644,6 +677,9 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
       "comfy"
     ]
@@ -659,7 +695,6 @@
     "sell": 275,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -703,8 +738,12 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "comfy; work"
+      "comfy",
+      "work"
     ]
   },
   {
@@ -718,7 +757,6 @@
     "sell": 245,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -762,8 +800,13 @@
     "styles": [
       "Cool"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "everyday; comfy; theatrical"
+      "everyday",
+      "comfy",
+      "theatrical"
     ]
   },
   {
@@ -777,7 +820,6 @@
     "sell": 280,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -821,8 +863,13 @@
     "styles": [
       "Elegant"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "fairy tale; formal; theatrical"
+      "fairy tale",
+      "formal",
+      "theatrical"
     ]
   },
   {
@@ -836,7 +883,6 @@
     "sell": 500,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -880,6 +926,9 @@
     "styles": [
       "Cool"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
       "comfy"
     ]
@@ -895,7 +944,6 @@
     "sell": 100,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -939,8 +987,13 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
-      "outdoorsy; comfy; vacation"
+      "outdoorsy",
+      "comfy",
+      "vacation"
     ]
   },
   {
@@ -954,7 +1007,6 @@
     "sell": 390,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -998,6 +1050,9 @@
     "styles": [
       "Active"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
       "outdoorsy"
     ]
@@ -1013,7 +1068,6 @@
     "sell": 2000,
     "size": "1x1",
     "milesPrice": 400,
-    "source": "Nook Miles Shop",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1057,6 +1111,9 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Nook Miles Shop"
+    ],
     "themes": [
       "comfy"
     ]
@@ -1072,7 +1129,6 @@
     "sell": 122,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1116,6 +1172,9 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
       "comfy"
     ]
@@ -1131,7 +1190,6 @@
     "sell": 140,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1175,8 +1233,13 @@
     "styles": [
       "Cute"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "fairy tale; party; theatrical"
+      "fairy tale",
+      "party",
+      "theatrical"
     ]
   },
   {
@@ -1190,7 +1253,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1234,6 +1296,9 @@
     "styles": [
       "Cool"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
       "goth"
     ]
@@ -1249,7 +1314,6 @@
     "sell": 122,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1293,6 +1357,9 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
       "goth"
     ]
@@ -1308,7 +1375,6 @@
     "sell": 140,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1352,8 +1418,13 @@
     "styles": [
       "Cool"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "everyday; goth; comfy"
+      "everyday",
+      "goth",
+      "comfy"
     ]
   },
   {
@@ -1367,7 +1438,6 @@
     "sell": 140,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1411,6 +1481,9 @@
     "styles": [
       "Cool"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
       "work"
     ]
@@ -1426,7 +1499,6 @@
     "sell": 245,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1470,8 +1542,13 @@
     "styles": [
       "Cool"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "everyday; comfy; theatrical"
+      "everyday",
+      "comfy",
+      "theatrical"
     ]
   },
   {
@@ -1485,7 +1562,6 @@
     "sell": 10,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Recycle bin",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1529,6 +1605,9 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Recycle bin"
+    ],
     "themes": [
       "goth"
     ]
@@ -1544,7 +1623,6 @@
     "sell": 122,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1588,6 +1666,9 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
       "comfy"
     ]
@@ -1603,7 +1684,6 @@
     "sell": 260,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1647,8 +1727,13 @@
     "styles": [
       "Cool"
     ],
+    "sources": [
+      "Able Sisters"
+    ],
     "themes": [
-      "fairy tale; theatrical; work"
+      "fairy tale",
+      "theatrical",
+      "work"
     ]
   },
   {
@@ -1657,7 +1742,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1709,6 +1793,9 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "party"
         ]
@@ -1733,6 +1820,9 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "party"
         ]
@@ -1745,7 +1835,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Birthday",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1799,6 +1888,9 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Birthday"
+        ],
         "themes": [
           "party"
         ]
@@ -1822,6 +1914,9 @@
         ],
         "styles": [
           "Gorgeous"
+        ],
+        "sources": [
+          "Birthday"
         ],
         "themes": [
           "party"
@@ -1847,6 +1942,9 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Birthday"
+        ],
         "themes": [
           "party"
         ]
@@ -1871,6 +1969,9 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Birthday"
+        ],
         "themes": [
           "party"
         ]
@@ -1883,7 +1984,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1940,8 +2040,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; comfy; work"
+          "everyday",
+          "comfy",
+          "work"
         ]
       },
       {
@@ -1964,8 +2069,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; comfy; work"
+          "everyday",
+          "comfy",
+          "work"
         ]
       },
       {
@@ -1988,8 +2098,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; comfy; work"
+          "everyday",
+          "comfy",
+          "work"
         ]
       },
       {
@@ -2012,8 +2127,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; comfy; work"
+          "everyday",
+          "comfy",
+          "work"
         ]
       },
       {
@@ -2036,8 +2156,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; comfy; work"
+          "everyday",
+          "comfy",
+          "work"
         ]
       },
       {
@@ -2060,8 +2185,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; comfy; work"
+          "everyday",
+          "comfy",
+          "work"
         ]
       },
       {
@@ -2084,8 +2214,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; comfy; work"
+          "everyday",
+          "comfy",
+          "work"
         ]
       }
     ]
@@ -2096,7 +2231,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2150,8 +2284,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       },
       {
@@ -2174,8 +2312,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       },
       {
@@ -2198,8 +2340,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       },
       {
@@ -2222,8 +2368,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       }
     ]
@@ -2234,7 +2384,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2289,6 +2438,9 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -2312,6 +2464,9 @@
         ],
         "styles": [
           "Simple"
+        ],
+        "sources": [
+          "Able Sisters"
         ],
         "themes": [
           "comfy"
@@ -2337,6 +2492,9 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -2360,6 +2518,9 @@
         ],
         "styles": [
           "Simple"
+        ],
+        "sources": [
+          "Able Sisters"
         ],
         "themes": [
           "comfy"
@@ -2385,6 +2546,9 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -2397,7 +2561,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2450,8 +2613,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -2474,8 +2642,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -2498,8 +2671,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       }
     ]
@@ -2510,7 +2688,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2563,6 +2740,9 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "outdoorsy"
         ]
@@ -2586,6 +2766,9 @@
         ],
         "styles": [
           "Cool"
+        ],
+        "sources": [
+          "Able Sisters"
         ],
         "themes": [
           "outdoorsy"
@@ -2611,6 +2794,9 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "outdoorsy"
         ]
@@ -2623,7 +2809,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Gulliver",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2676,8 +2861,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Gulliver"
+        ],
         "themes": [
-          "formal; party; theatrical"
+          "formal",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -2700,8 +2890,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Gulliver"
+        ],
         "themes": [
-          "formal; party; theatrical"
+          "formal",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -2724,8 +2919,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Gulliver"
+        ],
         "themes": [
-          "formal; party; theatrical"
+          "formal",
+          "party",
+          "theatrical"
         ]
       }
     ]
@@ -2736,7 +2936,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2789,8 +2988,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -2813,8 +3017,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -2837,8 +3046,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       }
     ]
@@ -2849,7 +3063,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2905,8 +3118,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -2929,8 +3146,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -2953,8 +3174,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -2977,8 +3202,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -3001,8 +3230,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -3025,8 +3258,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       }
     ]
@@ -3037,7 +3274,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3090,8 +3326,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -3114,8 +3355,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -3138,8 +3384,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       }
     ]
@@ -3150,7 +3401,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3204,8 +3454,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       },
       {
@@ -3228,8 +3483,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       },
       {
@@ -3252,8 +3512,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       },
       {
@@ -3276,8 +3541,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       }
     ]
@@ -3288,7 +3558,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3342,8 +3611,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       },
       {
@@ -3366,8 +3640,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       },
       {
@@ -3390,8 +3669,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       },
       {
@@ -3414,8 +3698,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       }
     ]
@@ -3426,7 +3715,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3482,6 +3770,9 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -3505,6 +3796,9 @@
         ],
         "styles": [
           "Simple"
+        ],
+        "sources": [
+          "Able Sisters"
         ],
         "themes": [
           "comfy"
@@ -3530,6 +3824,9 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -3553,6 +3850,9 @@
         ],
         "styles": [
           "Simple"
+        ],
+        "sources": [
+          "Able Sisters"
         ],
         "themes": [
           "comfy"
@@ -3578,6 +3878,9 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -3602,6 +3905,9 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -3614,7 +3920,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3669,8 +3974,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -3693,8 +4002,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -3717,8 +4030,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -3741,8 +4058,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -3765,8 +4086,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       }
     ]
@@ -3777,7 +4102,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3830,8 +4154,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -3854,8 +4183,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -3878,8 +4212,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       }
     ]
@@ -3890,7 +4229,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3942,8 +4280,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "goth; work"
+          "goth",
+          "work"
         ]
       },
       {
@@ -3966,8 +4308,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "goth; work"
+          "goth",
+          "work"
         ]
       }
     ]
@@ -3978,7 +4324,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4034,8 +4379,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty; vacation"
+          "outdoorsy",
+          "sporty",
+          "vacation"
         ]
       },
       {
@@ -4058,8 +4408,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty; vacation"
+          "outdoorsy",
+          "sporty",
+          "vacation"
         ]
       },
       {
@@ -4082,8 +4437,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty; vacation"
+          "outdoorsy",
+          "sporty",
+          "vacation"
         ]
       },
       {
@@ -4106,8 +4466,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty; vacation"
+          "outdoorsy",
+          "sporty",
+          "vacation"
         ]
       },
       {
@@ -4130,8 +4495,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty; vacation"
+          "outdoorsy",
+          "sporty",
+          "vacation"
         ]
       },
       {
@@ -4154,8 +4524,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty; vacation"
+          "outdoorsy",
+          "sporty",
+          "vacation"
         ]
       }
     ]
@@ -4166,7 +4541,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4221,8 +4595,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -4245,8 +4623,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -4269,8 +4651,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -4293,8 +4679,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -4317,8 +4707,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       }
     ]
@@ -4329,7 +4723,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4383,8 +4776,15 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; goth; party; theatrical; work"
+          "fairy tale",
+          "goth",
+          "party",
+          "theatrical",
+          "work"
         ]
       },
       {
@@ -4407,8 +4807,15 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; goth; party; theatrical; work"
+          "fairy tale",
+          "goth",
+          "party",
+          "theatrical",
+          "work"
         ]
       },
       {
@@ -4431,8 +4838,15 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; goth; party; theatrical; work"
+          "fairy tale",
+          "goth",
+          "party",
+          "theatrical",
+          "work"
         ]
       },
       {
@@ -4455,8 +4869,15 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; goth; party; theatrical; work"
+          "fairy tale",
+          "goth",
+          "party",
+          "theatrical",
+          "work"
         ]
       }
     ]
@@ -4467,7 +4888,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Labelle",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4523,8 +4943,15 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Labelle"
+        ],
         "themes": [
-          "everyday; formal; party; theatrical; vacation"
+          "everyday",
+          "formal",
+          "party",
+          "theatrical",
+          "vacation"
         ]
       },
       {
@@ -4547,8 +4974,15 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Labelle"
+        ],
         "themes": [
-          "everyday; formal; party; theatrical; vacation"
+          "everyday",
+          "formal",
+          "party",
+          "theatrical",
+          "vacation"
         ]
       },
       {
@@ -4571,8 +5005,15 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Labelle"
+        ],
         "themes": [
-          "everyday; formal; party; theatrical; vacation"
+          "everyday",
+          "formal",
+          "party",
+          "theatrical",
+          "vacation"
         ]
       },
       {
@@ -4595,8 +5036,15 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Labelle"
+        ],
         "themes": [
-          "everyday; formal; party; theatrical; vacation"
+          "everyday",
+          "formal",
+          "party",
+          "theatrical",
+          "vacation"
         ]
       },
       {
@@ -4619,8 +5067,15 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Labelle"
+        ],
         "themes": [
-          "everyday; formal; party; theatrical; vacation"
+          "everyday",
+          "formal",
+          "party",
+          "theatrical",
+          "vacation"
         ]
       },
       {
@@ -4643,8 +5098,15 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Labelle"
+        ],
         "themes": [
-          "everyday; formal; party; theatrical; vacation"
+          "everyday",
+          "formal",
+          "party",
+          "theatrical",
+          "vacation"
         ]
       }
     ]
@@ -4655,7 +5117,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4711,8 +5172,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -4735,8 +5200,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -4759,8 +5228,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -4783,8 +5256,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -4807,8 +5284,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -4831,8 +5312,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       }
     ]
@@ -4843,7 +5328,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4899,8 +5383,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -4923,8 +5412,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -4947,8 +5441,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -4971,8 +5470,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -4995,8 +5499,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -5019,8 +5528,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; party; theatrical"
+          "fairy tale",
+          "party",
+          "theatrical"
         ]
       }
     ]
@@ -5031,7 +5545,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5084,8 +5597,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; formal; work"
+          "fairy tale",
+          "formal",
+          "work"
         ]
       },
       {
@@ -5108,8 +5626,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; formal; work"
+          "fairy tale",
+          "formal",
+          "work"
         ]
       },
       {
@@ -5132,8 +5655,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; formal; work"
+          "fairy tale",
+          "formal",
+          "work"
         ]
       }
     ]
@@ -5144,7 +5672,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5199,8 +5726,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       },
       {
@@ -5223,8 +5755,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       },
       {
@@ -5247,8 +5784,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       },
       {
@@ -5271,8 +5813,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       },
       {
@@ -5295,8 +5842,13 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "comfy; vacation; work"
+          "comfy",
+          "vacation",
+          "work"
         ]
       }
     ]
@@ -5307,7 +5859,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5364,8 +5915,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; work"
+          "everyday",
+          "work"
         ]
       },
       {
@@ -5388,8 +5943,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; work"
+          "everyday",
+          "work"
         ]
       },
       {
@@ -5412,8 +5971,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; work"
+          "everyday",
+          "work"
         ]
       },
       {
@@ -5436,8 +5999,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; work"
+          "everyday",
+          "work"
         ]
       },
       {
@@ -5460,8 +6027,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; work"
+          "everyday",
+          "work"
         ]
       },
       {
@@ -5484,8 +6055,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; work"
+          "everyday",
+          "work"
         ]
       },
       {
@@ -5508,8 +6083,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; work"
+          "everyday",
+          "work"
         ]
       }
     ]
@@ -5520,7 +6099,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5578,6 +6156,9 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -5601,6 +6182,9 @@
         ],
         "styles": [
           "Cute"
+        ],
+        "sources": [
+          "Able Sisters"
         ],
         "themes": [
           "comfy"
@@ -5626,6 +6210,9 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -5649,6 +6236,9 @@
         ],
         "styles": [
           "Cute"
+        ],
+        "sources": [
+          "Able Sisters"
         ],
         "themes": [
           "comfy"
@@ -5674,6 +6264,9 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -5697,6 +6290,9 @@
         ],
         "styles": [
           "Cute"
+        ],
+        "sources": [
+          "Able Sisters"
         ],
         "themes": [
           "comfy"
@@ -5722,6 +6318,9 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -5746,6 +6345,9 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
           "comfy"
         ]
@@ -5758,7 +6360,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5810,8 +6411,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "sporty; work"
+          "sporty",
+          "work"
         ]
       },
       {
@@ -5834,8 +6439,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "sporty; work"
+          "sporty",
+          "work"
         ]
       }
     ]
@@ -5846,7 +6455,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5900,8 +6508,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -5924,8 +6536,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -5948,8 +6564,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -5972,8 +6592,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       }
     ]
@@ -5984,7 +6608,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6040,8 +6663,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6064,8 +6692,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6088,8 +6721,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6112,8 +6750,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6136,8 +6779,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6160,8 +6808,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       }
     ]
@@ -6172,7 +6825,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6225,8 +6877,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical; vacation"
+          "party",
+          "theatrical",
+          "vacation"
         ]
       },
       {
@@ -6249,8 +6906,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical; vacation"
+          "party",
+          "theatrical",
+          "vacation"
         ]
       },
       {
@@ -6273,8 +6935,13 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical; vacation"
+          "party",
+          "theatrical",
+          "vacation"
         ]
       }
     ]
@@ -6285,7 +6952,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6340,8 +7006,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       },
       {
@@ -6364,8 +7035,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       },
       {
@@ -6388,8 +7064,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       },
       {
@@ -6412,8 +7093,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       },
       {
@@ -6436,8 +7122,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       }
     ]
@@ -6448,7 +7139,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6506,8 +7196,13 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6530,8 +7225,13 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6554,8 +7254,13 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6578,8 +7283,13 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6602,8 +7312,13 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6626,8 +7341,13 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6650,8 +7370,13 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       },
       {
@@ -6674,8 +7399,13 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; party; vacation"
+          "everyday",
+          "party",
+          "vacation"
         ]
       }
     ]
@@ -6686,7 +7416,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6740,8 +7469,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       },
       {
@@ -6764,8 +7497,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       },
       {
@@ -6788,8 +7525,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       },
       {
@@ -6812,8 +7553,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       }
     ]
@@ -6824,7 +7569,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6880,8 +7624,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -6904,8 +7652,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -6928,8 +7680,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -6952,8 +7708,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -6976,8 +7736,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -7000,8 +7764,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -7012,7 +7780,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7067,8 +7834,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -7091,8 +7862,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -7115,8 +7890,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -7139,8 +7918,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -7163,8 +7946,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -7175,7 +7962,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7229,8 +8015,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       },
       {
@@ -7253,8 +8044,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       },
       {
@@ -7277,8 +8073,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       },
       {
@@ -7301,8 +8102,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       }
     ]
@@ -7313,7 +8119,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7365,8 +8170,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -7389,8 +8198,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; theatrical"
+          "party",
+          "theatrical"
         ]
       }
     ]
@@ -7401,7 +8214,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7456,8 +8268,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -7480,8 +8296,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -7504,8 +8324,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -7528,8 +8352,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -7552,8 +8380,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       }
     ]
@@ -7564,7 +8396,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7616,8 +8447,12 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; theatrical"
+          "fairy tale",
+          "theatrical"
         ]
       },
       {
@@ -7640,8 +8475,12 @@
         "styles": [
           "Gorgeous"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; theatrical"
+          "fairy tale",
+          "theatrical"
         ]
       }
     ]
@@ -7652,7 +8491,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7705,8 +8543,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; formal"
+          "fairy tale",
+          "formal"
         ]
       },
       {
@@ -7729,8 +8571,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; formal"
+          "fairy tale",
+          "formal"
         ]
       },
       {
@@ -7753,8 +8599,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "fairy tale; formal"
+          "fairy tale",
+          "formal"
         ]
       }
     ]
@@ -7765,7 +8615,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7818,8 +8667,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       },
       {
@@ -7842,8 +8695,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       },
       {
@@ -7866,8 +8723,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       }
     ]
@@ -7878,7 +8739,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7935,8 +8795,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -7959,8 +8823,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -7983,8 +8851,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -8007,8 +8879,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -8031,8 +8907,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -8055,8 +8935,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       },
       {
@@ -8079,8 +8963,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "party; vacation"
+          "party",
+          "vacation"
         ]
       }
     ]
@@ -8091,7 +8979,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Able Sisters",
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8143,8 +9030,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       },
       {
@@ -8167,8 +9059,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Able Sisters"
+        ],
         "themes": [
-          "everyday; formal; work"
+          "everyday",
+          "formal",
+          "work"
         ]
       }
     ]
