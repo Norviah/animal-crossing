@@ -35,6 +35,12 @@ const idRegex: RegExp = /^.*_(\d{5}).*$/;
 // Matches the ID for variations.
 const variantRegex: RegExp = /.*_(\d+)$/;
 
+// When manually trying to find IDs of translations, we'll ignore these tabs as
+// they have internal IDs that are the same of other items, and we shouldn't get
+// the IDs from these tabs as 'Recipes' have a property representing the ID of
+// the item it represents, and achievements shouldn't/don't have translations.
+const ignore: string[] = ['Recipes', 'Achievements'];
+
 // Import all items from the AC: NH spreadsheet.
 const items: obj[] = get(directories.raw);
 
@@ -93,7 +99,9 @@ for (let translation of get(directories.translations)) {
   // the internal ID of the item the translation represents manually.
   else {
     // Find all items that shares the same name with the translation.
-    const matches: obj[] = items.filter((item: any) => item.Name.toLowerCase() === translation.english.toLowerCase());
+    const matches: obj[] = items.filter(
+      (item: any) => !ignore.includes(item.SourceSheet) && item.Name.toLowerCase() === translation.english.toLowerCase()
+    );
 
     // Set the internal ID for the translation to the IDs of the items that were
     // matched. Some items may not have IDs so we'll use the item's filename.
