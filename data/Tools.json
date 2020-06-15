@@ -15,7 +15,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Nook's Cranny; Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -47,7 +46,11 @@
         2100
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Nook's Cranny",
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -65,7 +68,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -97,7 +99,10 @@
         7590
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -115,7 +120,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Bug-Off",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -147,7 +151,10 @@
         8769
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Bug-Off"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -165,7 +172,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -197,7 +203,10 @@
         12578
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -215,7 +224,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -247,7 +255,10 @@
         7589
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -265,7 +276,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -297,7 +307,10 @@
         5092
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -315,7 +328,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Fishing Tourney",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -347,7 +359,10 @@
         8770
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Fishing Tourney"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -365,7 +380,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Nook's Cranny; Crafting",
     "sourceNotes": "Available after unlocking the axe in the story",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -397,7 +411,11 @@
         3068
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Nook's Cranny",
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -415,7 +433,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Nook's Cranny; Crafting",
     "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -447,7 +464,11 @@
         3084
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Nook's Cranny",
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -465,7 +486,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Nook's Cranny; Crafting",
     "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -497,7 +517,11 @@
         2376
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Nook's Cranny",
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -515,7 +539,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Nook's Cranny; Crafting",
     "sourceNotes": "Available after unlocking the shovel in the story",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -547,7 +570,11 @@
         3082
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Nook's Cranny",
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -565,7 +592,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Nook's Cranny; Crafting",
     "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -597,7 +623,11 @@
         3083
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Nook's Cranny",
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -615,7 +645,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -647,7 +676,10 @@
         9617
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -665,7 +697,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -697,7 +728,10 @@
         8179
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -715,7 +749,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -747,7 +780,10 @@
         8660
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -765,7 +801,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -797,7 +832,10 @@
         8574
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -815,7 +853,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -847,7 +884,10 @@
         8578
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -865,7 +905,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -897,7 +936,10 @@
         7591
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -915,7 +957,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -947,7 +988,10 @@
         8533
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -965,7 +1009,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -997,7 +1040,10 @@
         5083
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1015,7 +1061,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1047,7 +1092,10 @@
         7585
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1065,7 +1113,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1097,7 +1144,10 @@
         7592
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1115,7 +1165,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1147,7 +1196,10 @@
         2615
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1165,7 +1217,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Isabelle",
     "sourceNotes": "Obtained by speaking to Isabelle on New Year's Eve",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1197,7 +1248,10 @@
         5741
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Isabelle"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1215,7 +1269,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1247,7 +1300,10 @@
         5094
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1265,7 +1321,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1297,7 +1352,10 @@
         5095
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1315,7 +1373,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": 400,
-    "source": "Nook Miles Shop",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1350,6 +1407,9 @@
     "colors": [
       "Green",
       "White"
+    ],
+    "sources": [
+      "Nook Miles Shop"
     ]
   },
   {
@@ -1368,7 +1428,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1400,7 +1459,10 @@
         5320
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1418,7 +1480,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1450,7 +1511,10 @@
         5517
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1468,7 +1532,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1500,7 +1563,10 @@
         5091
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1518,7 +1584,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Only available close to new year holiday",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1550,7 +1615,10 @@
         2753
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Nook's Cranny"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1568,7 +1636,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1600,7 +1667,10 @@
         5093
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1618,7 +1688,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1650,7 +1719,10 @@
         7586
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1668,7 +1740,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1700,7 +1771,10 @@
         2544
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1718,7 +1792,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1750,7 +1823,10 @@
         5856
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1768,7 +1844,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1800,7 +1875,10 @@
         5430
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Nook's Cranny"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1818,7 +1896,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1850,7 +1927,10 @@
         3331
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Nook's Cranny"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1868,7 +1948,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1900,7 +1979,10 @@
         7587
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1918,7 +2000,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1950,7 +2031,10 @@
         5085
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -1968,7 +2052,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2000,7 +2083,10 @@
         4703
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -2018,7 +2104,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2050,7 +2135,10 @@
         7584
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -2068,7 +2156,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Cyrus",
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -2100,7 +2187,10 @@
         12695
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Cyrus"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -2118,7 +2208,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2150,7 +2239,10 @@
         5084
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "Crafting"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -2168,7 +2260,6 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "source": "May Day Tour",
     "sourceNotes": "Only available during May Day Tour",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0a",
@@ -2200,7 +2291,10 @@
         12615
       ]
     },
-    "colors": []
+    "colors": [],
+    "sources": [
+      "May Day Tour"
+    ]
   },
   {
     "sourceSheet": "Tools",
@@ -2209,7 +2303,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2252,7 +2345,10 @@
         "internalId": 8472,
         "uniqueEntryId": "ZTf6fzMoETiRSgYyv",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_1_0.png",
@@ -2264,7 +2360,10 @@
         "internalId": 8472,
         "uniqueEntryId": "9RuY2ZBRztSNDRrfy",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_2_0.png",
@@ -2276,7 +2375,10 @@
         "internalId": 8472,
         "uniqueEntryId": "8PASMoPi9YgSBQ2LK",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_3_0.png",
@@ -2288,7 +2390,10 @@
         "internalId": 8472,
         "uniqueEntryId": "sfSivSgSps27Jaz5M",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_4_0.png",
@@ -2300,7 +2405,10 @@
         "internalId": 8472,
         "uniqueEntryId": "vnSiERDKYDcddtuv6",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_5_0.png",
@@ -2312,7 +2420,10 @@
         "internalId": 8472,
         "uniqueEntryId": "avewXgm4JtCerDcd6",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_6_0.png",
@@ -2324,7 +2435,10 @@
         "internalId": 8472,
         "uniqueEntryId": "wmcSp5RZAczawLnJf",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_7_0.png",
@@ -2336,7 +2450,10 @@
         "internalId": 8472,
         "uniqueEntryId": "v76QddpoKv2M4XspK",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -2347,7 +2464,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2390,7 +2506,10 @@
         "internalId": 8177,
         "uniqueEntryId": "5wGjS9fxCaGhWK5Cv",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_1_0.png",
@@ -2402,7 +2521,10 @@
         "internalId": 8177,
         "uniqueEntryId": "k4Ssqq2DesuGTy6hy",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_2_0.png",
@@ -2414,7 +2536,10 @@
         "internalId": 8177,
         "uniqueEntryId": "6pJhWYNiuyZKuKvYz",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_3_0.png",
@@ -2426,7 +2551,10 @@
         "internalId": 8177,
         "uniqueEntryId": "AmK8KNTDWxdrJH6h7",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_4_0.png",
@@ -2438,7 +2566,10 @@
         "internalId": 8177,
         "uniqueEntryId": "zcdZjuNZWrHas5efC",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_5_0.png",
@@ -2450,7 +2581,10 @@
         "internalId": 8177,
         "uniqueEntryId": "cTrR3cREJBqWZyfN6",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_6_0.png",
@@ -2462,7 +2596,10 @@
         "internalId": 8177,
         "uniqueEntryId": "wFcTeKJ9gM4yLgfTQ",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_7_0.png",
@@ -2474,7 +2611,10 @@
         "internalId": 8177,
         "uniqueEntryId": "kgBcZghywrT4j47vx",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -2485,7 +2625,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2528,7 +2667,10 @@
         "internalId": 8577,
         "uniqueEntryId": "ojvEkqxvFKKrrB6GR",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_1_0.png",
@@ -2540,7 +2682,10 @@
         "internalId": 8577,
         "uniqueEntryId": "pnM6ygwcMS5KmSP6c",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_2_0.png",
@@ -2552,7 +2697,10 @@
         "internalId": 8577,
         "uniqueEntryId": "MYmh4oANQabcGNjJ6",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_3_0.png",
@@ -2564,7 +2712,10 @@
         "internalId": 8577,
         "uniqueEntryId": "c3Frxwsyo8PSKZNya",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_4_0.png",
@@ -2576,7 +2727,10 @@
         "internalId": 8577,
         "uniqueEntryId": "RbQtnSAf4HNLKuao2",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_5_0.png",
@@ -2588,7 +2742,10 @@
         "internalId": 8577,
         "uniqueEntryId": "MiJwRTGjbkK5Jx3Zw",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_6_0.png",
@@ -2600,7 +2757,10 @@
         "internalId": 8577,
         "uniqueEntryId": "XCrHq3vFnD83kY2Sg",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_7_0.png",
@@ -2612,7 +2772,10 @@
         "internalId": 8577,
         "uniqueEntryId": "zo7TsB8NzfnFDA7yS",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -2623,7 +2786,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2666,7 +2828,10 @@
         "internalId": 8580,
         "uniqueEntryId": "dSvd9K7sRTbx6k5cd",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_1_0.png",
@@ -2678,7 +2843,10 @@
         "internalId": 8580,
         "uniqueEntryId": "WAcZwYerSQtwujaPZ",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_2_0.png",
@@ -2690,7 +2858,10 @@
         "internalId": 8580,
         "uniqueEntryId": "k7afhFcA5Pqd8qu5F",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_3_0.png",
@@ -2702,7 +2873,10 @@
         "internalId": 8580,
         "uniqueEntryId": "GBqsH5XYgDHk8wGAz",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_4_0.png",
@@ -2714,7 +2888,10 @@
         "internalId": 8580,
         "uniqueEntryId": "qq67sn4aq9w7w9Ga2",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_5_0.png",
@@ -2726,7 +2903,10 @@
         "internalId": 8580,
         "uniqueEntryId": "2JHaGhkbpoa4qbhge",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_6_0.png",
@@ -2738,7 +2918,10 @@
         "internalId": 8580,
         "uniqueEntryId": "cQYdSQ4MzKcnYAyc8",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_7_0.png",
@@ -2750,7 +2933,10 @@
         "internalId": 8580,
         "uniqueEntryId": "KiTQgsCkJSTq6ssm6",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -2761,7 +2947,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2804,7 +2989,10 @@
         "internalId": 8534,
         "uniqueEntryId": "35yzBzko3wrMwHjST",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_1_0.png",
@@ -2816,7 +3004,10 @@
         "internalId": 8534,
         "uniqueEntryId": "ngYPKLyn5xXawzas3",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_2_0.png",
@@ -2828,7 +3019,10 @@
         "internalId": 8534,
         "uniqueEntryId": "QxhyiwvJWyAShwyhJ",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_3_0.png",
@@ -2840,7 +3034,10 @@
         "internalId": 8534,
         "uniqueEntryId": "yuB5QpzCg94HN6u4g",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_4_0.png",
@@ -2852,7 +3049,10 @@
         "internalId": 8534,
         "uniqueEntryId": "q3p2jaJBt5gD2HRkZ",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_5_0.png",
@@ -2864,7 +3064,10 @@
         "internalId": 8534,
         "uniqueEntryId": "fAm9eEkidwn5LSjSd",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_6_0.png",
@@ -2876,7 +3079,10 @@
         "internalId": 8534,
         "uniqueEntryId": "4ySFWfB9G3KCq8sKf",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_7_0.png",
@@ -2888,7 +3094,10 @@
         "internalId": 8534,
         "uniqueEntryId": "yLHsKfxS39qTMyZ67",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -2899,7 +3108,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2942,7 +3150,10 @@
         "internalId": 8535,
         "uniqueEntryId": "AjAhCPjQAreLmqKCB",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_1_0.png",
@@ -2954,7 +3165,10 @@
         "internalId": 8535,
         "uniqueEntryId": "JBApgvSrYbJcSmsd2",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_2_0.png",
@@ -2966,7 +3180,10 @@
         "internalId": 8535,
         "uniqueEntryId": "HcqA5ggg9XBLsfYNK",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_3_0.png",
@@ -2978,7 +3195,10 @@
         "internalId": 8535,
         "uniqueEntryId": "mvF2W6yf4hcXLu3eM",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_4_0.png",
@@ -2990,7 +3210,10 @@
         "internalId": 8535,
         "uniqueEntryId": "B6oWDPizvZRRBDbop",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_5_0.png",
@@ -3002,7 +3225,10 @@
         "internalId": 8535,
         "uniqueEntryId": "AoZCaqfJYb6TSNctg",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_6_0.png",
@@ -3014,7 +3240,10 @@
         "internalId": 8535,
         "uniqueEntryId": "cBG6avJmvncbTX56k",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_7_0.png",
@@ -3026,7 +3255,10 @@
         "internalId": 8535,
         "uniqueEntryId": "XphbdnArYGwJp8kmj",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -3037,7 +3269,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3080,7 +3311,10 @@
         "internalId": 8471,
         "uniqueEntryId": "dBNahAnSJkF5q7Wta",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_1_0.png",
@@ -3092,7 +3326,10 @@
         "internalId": 8471,
         "uniqueEntryId": "ziRQL2REqF652sgkc",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_2_0.png",
@@ -3104,7 +3341,10 @@
         "internalId": 8471,
         "uniqueEntryId": "7id3sXPC6a2qTsM9S",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_3_0.png",
@@ -3116,7 +3356,10 @@
         "internalId": 8471,
         "uniqueEntryId": "txjiE4Yoi66P59Rpi",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_4_0.png",
@@ -3128,7 +3371,10 @@
         "internalId": 8471,
         "uniqueEntryId": "mQQKH3hfMyn2P4SAT",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_5_0.png",
@@ -3140,7 +3386,10 @@
         "internalId": 8471,
         "uniqueEntryId": "oPumzrhQMfYrdrhfC",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_6_0.png",
@@ -3152,7 +3401,10 @@
         "internalId": 8471,
         "uniqueEntryId": "A44B9ELrDxsrY6HaR",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_7_0.png",
@@ -3164,7 +3416,10 @@
         "internalId": 8471,
         "uniqueEntryId": "k6AepGHtwTJhBzxXZ",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -3175,7 +3430,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3218,7 +3472,10 @@
         "internalId": 2377,
         "uniqueEntryId": "Y62px4Jy5vaMtN46u",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_1_0.png",
@@ -3230,7 +3487,10 @@
         "internalId": 2377,
         "uniqueEntryId": "JLMypnErvJc6n9wS8",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_2_0.png",
@@ -3242,7 +3502,10 @@
         "internalId": 2377,
         "uniqueEntryId": "WTqWoAYMKuJsXjWWv",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_3_0.png",
@@ -3254,7 +3517,10 @@
         "internalId": 2377,
         "uniqueEntryId": "SWX3JZeySqWz8PKQi",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_4_0.png",
@@ -3266,7 +3532,10 @@
         "internalId": 2377,
         "uniqueEntryId": "PBLScat4po99B5h4k",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_5_0.png",
@@ -3278,7 +3547,10 @@
         "internalId": 2377,
         "uniqueEntryId": "9bT9ZRhRG3e3WA8Bn",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_6_0.png",
@@ -3290,7 +3562,10 @@
         "internalId": 2377,
         "uniqueEntryId": "G58mfRs22f48nF9QA",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_7_0.png",
@@ -3302,7 +3577,10 @@
         "internalId": 2377,
         "uniqueEntryId": "bgrXEg4NvgPjudWar",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       }
     ]
   },
@@ -3313,7 +3591,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3356,7 +3633,10 @@
         "internalId": 7588,
         "uniqueEntryId": "6PLR84qz4JifgtLmh",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_1_0.png",
@@ -3368,7 +3648,10 @@
         "internalId": 7588,
         "uniqueEntryId": "T898uqxxT6AXuXyBt",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_2_0.png",
@@ -3380,7 +3663,10 @@
         "internalId": 7588,
         "uniqueEntryId": "rcjxuvmyCPyTjbbwm",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_3_0.png",
@@ -3392,7 +3678,10 @@
         "internalId": 7588,
         "uniqueEntryId": "nN6uiNEshKx8sYwKE",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_4_0.png",
@@ -3404,7 +3693,10 @@
         "internalId": 7588,
         "uniqueEntryId": "Dtm7dJLAERgpCpGXv",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       }
     ]
   },
@@ -3415,7 +3707,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny; Crafting",
     "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3458,7 +3749,11 @@
         "internalId": 5784,
         "uniqueEntryId": "HH8tKPMbt8DQpSrMS",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_1_0.png",
@@ -3470,7 +3765,11 @@
         "internalId": 5784,
         "uniqueEntryId": "YiRCkQXgKaLKf8D6p",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_2_0.png",
@@ -3482,7 +3781,11 @@
         "internalId": 5784,
         "uniqueEntryId": "X3x4tGwZiYnM5SRZv",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_3_0.png",
@@ -3494,7 +3797,11 @@
         "internalId": 5784,
         "uniqueEntryId": "WtArd6h6MFQ8sjwEt",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_4_0.png",
@@ -3506,7 +3813,11 @@
         "internalId": 5784,
         "uniqueEntryId": "b8L8wbutCQEQjAzwD",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_5_0.png",
@@ -3518,7 +3829,11 @@
         "internalId": 5784,
         "uniqueEntryId": "8Khqvy2vpnJkpKLET",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_6_0.png",
@@ -3530,7 +3845,11 @@
         "internalId": 5784,
         "uniqueEntryId": "yNCid2KGDGFSz2W7L",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_7_0.png",
@@ -3542,7 +3861,11 @@
         "internalId": 5784,
         "uniqueEntryId": "pFaH2eF4JpK3roNtQ",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       }
     ]
   },
@@ -3553,7 +3876,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3596,7 +3918,10 @@
         "internalId": 8473,
         "uniqueEntryId": "bvYTHd7dbDC9ZijAd",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_1_0.png",
@@ -3608,7 +3933,10 @@
         "internalId": 8473,
         "uniqueEntryId": "bMdHGfZQu6846Somm",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_2_0.png",
@@ -3620,7 +3948,10 @@
         "internalId": 8473,
         "uniqueEntryId": "3Ne39o36LkhGc9rGk",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_3_0.png",
@@ -3632,7 +3963,10 @@
         "internalId": 8473,
         "uniqueEntryId": "BJAg7c5HmD6LncCCj",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_4_0.png",
@@ -3644,7 +3978,10 @@
         "internalId": 8473,
         "uniqueEntryId": "DZwxGwf6DY8ucEKwP",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_5_0.png",
@@ -3656,7 +3993,10 @@
         "internalId": 8473,
         "uniqueEntryId": "sGPYWwozfBgoi62fk",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_6_0.png",
@@ -3668,7 +4008,10 @@
         "internalId": 8473,
         "uniqueEntryId": "3M7FJL2qfL5iAZvxn",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_7_0.png",
@@ -3680,7 +4023,10 @@
         "internalId": 8473,
         "uniqueEntryId": "JdGkE9Mf9mXN3jXj5",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -3691,7 +4037,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3734,7 +4079,10 @@
         "internalId": 8178,
         "uniqueEntryId": "v8G8jriZ3R47Y5CTA",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_1_0.png",
@@ -3746,7 +4094,10 @@
         "internalId": 8178,
         "uniqueEntryId": "SeeobMqj2fMCHFRR5",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_2_0.png",
@@ -3758,7 +4109,10 @@
         "internalId": 8178,
         "uniqueEntryId": "dDuDFS3Q87rSEvYGA",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_3_0.png",
@@ -3770,7 +4124,10 @@
         "internalId": 8178,
         "uniqueEntryId": "bhFAvdtCDNFuaL7tp",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_4_0.png",
@@ -3782,7 +4139,10 @@
         "internalId": 8178,
         "uniqueEntryId": "cdXFG76YRzMhcBKvE",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_5_0.png",
@@ -3794,7 +4154,10 @@
         "internalId": 8178,
         "uniqueEntryId": "mRjtY48TEQkJaiYqv",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_6_0.png",
@@ -3806,7 +4169,10 @@
         "internalId": 8178,
         "uniqueEntryId": "qJWCYusFziCAZowwo",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_7_0.png",
@@ -3818,7 +4184,10 @@
         "internalId": 8178,
         "uniqueEntryId": "v4vzaPQkSf4PHpjnC",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -3829,7 +4198,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3872,7 +4240,10 @@
         "internalId": 8575,
         "uniqueEntryId": "Je4oQvJHrridANtwW",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_1_0.png",
@@ -3884,7 +4255,10 @@
         "internalId": 8575,
         "uniqueEntryId": "Qkuxh7aBzEEcgXX3g",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_2_0.png",
@@ -3896,7 +4270,10 @@
         "internalId": 8575,
         "uniqueEntryId": "PhHgvEkW3oiFvhWuk",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_3_0.png",
@@ -3908,7 +4285,10 @@
         "internalId": 8575,
         "uniqueEntryId": "6cvhBz44Z4BAxt8AX",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_4_0.png",
@@ -3920,7 +4300,10 @@
         "internalId": 8575,
         "uniqueEntryId": "R2WDYoFbBG2hWfFtf",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_5_0.png",
@@ -3932,7 +4315,10 @@
         "internalId": 8575,
         "uniqueEntryId": "RKjgnpJYtFKZgKDRk",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_6_0.png",
@@ -3944,7 +4330,10 @@
         "internalId": 8575,
         "uniqueEntryId": "ccQGhqapinP7FiXPJ",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_7_0.png",
@@ -3956,7 +4345,10 @@
         "internalId": 8575,
         "uniqueEntryId": "e8xYribiE3L9zbeNz",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -3967,7 +4359,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4010,7 +4401,10 @@
         "internalId": 8579,
         "uniqueEntryId": "qJkGDgJtD9cQye8oD",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_1_0.png",
@@ -4022,7 +4416,10 @@
         "internalId": 8579,
         "uniqueEntryId": "AGkd53Dzoh7p5R5ef",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_2_0.png",
@@ -4034,7 +4431,10 @@
         "internalId": 8579,
         "uniqueEntryId": "coBFkGLRCML7SdfZb",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_3_0.png",
@@ -4046,7 +4446,10 @@
         "internalId": 8579,
         "uniqueEntryId": "ekLvFR39DuH4SdSgB",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_4_0.png",
@@ -4058,7 +4461,10 @@
         "internalId": 8579,
         "uniqueEntryId": "mLqZThcPR7oSdGETt",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_5_0.png",
@@ -4070,7 +4476,10 @@
         "internalId": 8579,
         "uniqueEntryId": "4QBCHA5pzb8Hapo7g",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_6_0.png",
@@ -4082,7 +4491,10 @@
         "internalId": 8579,
         "uniqueEntryId": "FDEpHpn9wAoHmzq6S",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_7_0.png",
@@ -4094,7 +4506,10 @@
         "internalId": 8579,
         "uniqueEntryId": "d2BxLmN5fFdSTsXvP",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -4105,7 +4520,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4148,7 +4562,10 @@
         "internalId": 8536,
         "uniqueEntryId": "QSmseNnk3WqSmSFH8",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_1_0.png",
@@ -4160,7 +4577,10 @@
         "internalId": 8536,
         "uniqueEntryId": "SrmzprzDgkRoPoGcN",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_2_0.png",
@@ -4172,7 +4592,10 @@
         "internalId": 8536,
         "uniqueEntryId": "PRfaCyGvx3hieqpKh",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_3_0.png",
@@ -4184,7 +4607,10 @@
         "internalId": 8536,
         "uniqueEntryId": "AvLJNwY9w5fSpT47f",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_4_0.png",
@@ -4196,7 +4622,10 @@
         "internalId": 8536,
         "uniqueEntryId": "o2Zd58pLWuNfHSRoz",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_5_0.png",
@@ -4208,7 +4637,10 @@
         "internalId": 8536,
         "uniqueEntryId": "6GRguzWiwsicHTun6",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_6_0.png",
@@ -4220,7 +4652,10 @@
         "internalId": 8536,
         "uniqueEntryId": "iyppHKcwic4M3Mb9N",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_7_0.png",
@@ -4232,7 +4667,10 @@
         "internalId": 8536,
         "uniqueEntryId": "vWuJ6J7YaPtB7vE88",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -4243,7 +4681,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4286,7 +4723,10 @@
         "internalId": 8576,
         "uniqueEntryId": "nQuRoWnfXx8BPFTmA",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_1_0.png",
@@ -4298,7 +4738,10 @@
         "internalId": 8576,
         "uniqueEntryId": "uayKLmvAsj6EHGnJW",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_2_0.png",
@@ -4310,7 +4753,10 @@
         "internalId": 8576,
         "uniqueEntryId": "Aa39b233u5kL2BZ5M",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_3_0.png",
@@ -4322,7 +4768,10 @@
         "internalId": 8576,
         "uniqueEntryId": "jBDbWkxf2bC4Q7FXw",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_4_0.png",
@@ -4334,7 +4783,10 @@
         "internalId": 8576,
         "uniqueEntryId": "8p4An2z69STF7vEXo",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_5_0.png",
@@ -4346,7 +4798,10 @@
         "internalId": 8576,
         "uniqueEntryId": "6T8xrvDKPvnmAgoAm",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_6_0.png",
@@ -4358,7 +4813,10 @@
         "internalId": 8576,
         "uniqueEntryId": "uYrRaXdBb23RrpGNc",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_7_0.png",
@@ -4370,7 +4828,10 @@
         "internalId": 8576,
         "uniqueEntryId": "mwWibomJ7C9h9diZ3",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -4381,7 +4842,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4424,7 +4884,10 @@
         "internalId": 2099,
         "uniqueEntryId": "B6ejTnMqrR65wXv5z",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_1_0.png",
@@ -4436,7 +4899,10 @@
         "internalId": 2099,
         "uniqueEntryId": "6sKHnKeEuPcLpjEF3",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_2_0.png",
@@ -4448,7 +4914,10 @@
         "internalId": 2099,
         "uniqueEntryId": "SSzNaAfdGfnFoL8Qq",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_3_0.png",
@@ -4460,7 +4929,10 @@
         "internalId": 2099,
         "uniqueEntryId": "qiAf2KCaX5Xr57bXb",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_4_0.png",
@@ -4472,7 +4944,10 @@
         "internalId": 2099,
         "uniqueEntryId": "bbbeRassLbyY8HCP3",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_5_0.png",
@@ -4484,7 +4959,10 @@
         "internalId": 2099,
         "uniqueEntryId": "CZoPP24ecNvDxdNfY",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_6_0.png",
@@ -4496,7 +4974,10 @@
         "internalId": 2099,
         "uniqueEntryId": "JLemP4xchhzB2BmLk",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_7_0.png",
@@ -4508,7 +4989,10 @@
         "internalId": 2099,
         "uniqueEntryId": "egJGqooiodvdWtv6Y",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       }
     ]
   },
@@ -4519,7 +5003,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny; Crafting",
     "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4562,7 +5045,11 @@
         "internalId": 2822,
         "uniqueEntryId": "kgAEBkWjeZrdvZLwC",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_1_0.png",
@@ -4574,7 +5061,11 @@
         "internalId": 2822,
         "uniqueEntryId": "aoeJ6gnZq7Cz9MH58",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_2_0.png",
@@ -4586,7 +5077,11 @@
         "internalId": 2822,
         "uniqueEntryId": "prpgd3XrcJHJZybaD",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_3_0.png",
@@ -4598,7 +5093,11 @@
         "internalId": 2822,
         "uniqueEntryId": "bHrn2thixWf3tPgQB",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_4_0.png",
@@ -4610,7 +5109,11 @@
         "internalId": 2822,
         "uniqueEntryId": "o2z73jZqDyg3Bwjtq",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_5_0.png",
@@ -4622,7 +5125,11 @@
         "internalId": 2822,
         "uniqueEntryId": "J47FSys2XtpZr8dT9",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_6_0.png",
@@ -4634,7 +5141,11 @@
         "internalId": 2822,
         "uniqueEntryId": "qKjLAtchN5GvjyknF",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_7_0.png",
@@ -4646,7 +5157,11 @@
         "internalId": 2822,
         "uniqueEntryId": "dq9S8zrmf4efRddki",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny",
+          "Crafting"
+        ]
       }
     ]
   },
@@ -4657,7 +5172,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4700,7 +5214,10 @@
         "internalId": 8176,
         "uniqueEntryId": "wmcDHN8JZMbnvLiNs",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_1_0.png",
@@ -4712,7 +5229,10 @@
         "internalId": 8176,
         "uniqueEntryId": "KxYpvPeESLFNeLjGm",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_2_0.png",
@@ -4724,7 +5244,10 @@
         "internalId": 8176,
         "uniqueEntryId": "7GJJruF4u4y62nvQy",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_3_0.png",
@@ -4736,7 +5259,10 @@
         "internalId": 8176,
         "uniqueEntryId": "y7BXcMSNByN5Q4Ycs",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_4_0.png",
@@ -4748,7 +5274,10 @@
         "internalId": 8176,
         "uniqueEntryId": "ajfxbnCnpzWsxsk9q",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_5_0.png",
@@ -4760,7 +5289,10 @@
         "internalId": 8176,
         "uniqueEntryId": "4mcfWQJQeebqu4az6",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_6_0.png",
@@ -4772,7 +5304,10 @@
         "internalId": 8176,
         "uniqueEntryId": "ngWXLftz3J8uf7WZq",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_7_0.png",
@@ -4784,7 +5319,10 @@
         "internalId": 8176,
         "uniqueEntryId": "YZeGaCuXAbFSpEg3h",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Nook's Cranny"
+        ]
       }
     ]
   },
@@ -4795,7 +5333,6 @@
     "kitCost": 1,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4838,7 +5375,10 @@
         "internalId": 2379,
         "uniqueEntryId": "wLChevsx2T9Sm6yf4",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_1_0.png",
@@ -4850,7 +5390,10 @@
         "internalId": 2379,
         "uniqueEntryId": "29SBgiL9wQWpYmfa4",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_2_0.png",
@@ -4862,7 +5405,10 @@
         "internalId": 2379,
         "uniqueEntryId": "m8fFeTsh7z7JgjB6H",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_3_0.png",
@@ -4874,7 +5420,10 @@
         "internalId": 2379,
         "uniqueEntryId": "95zusTkvS5ou2wPEC",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_4_0.png",
@@ -4886,7 +5435,10 @@
         "internalId": 2379,
         "uniqueEntryId": "wiAp8rGXiDM3kyxpo",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_5_0.png",
@@ -4898,7 +5450,10 @@
         "internalId": 2379,
         "uniqueEntryId": "JSe4Du3wPtE2TT98X",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_6_0.png",
@@ -4910,7 +5465,10 @@
         "internalId": 2379,
         "uniqueEntryId": "Z7ggDgjzNii2RWjNQ",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_7_0.png",
@@ -4922,7 +5480,10 @@
         "internalId": 2379,
         "uniqueEntryId": "77zFHmNrGhuJAvvjA",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "sources": [
+          "Crafting"
+        ]
       }
     ]
   }

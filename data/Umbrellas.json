@@ -9,7 +9,6 @@
     "sell": 1400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -44,6 +43,9 @@
     "colors": [
       "Yellow",
       "Red"
+    ],
+    "sources": [
+      "Crafting"
     ]
   },
   {
@@ -56,7 +58,6 @@
     "sell": 210,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -91,6 +92,9 @@
     "colors": [
       "Black",
       "Black"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -103,7 +107,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -138,6 +141,9 @@
     "colors": [
       "Blue",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -150,7 +156,6 @@
     "sell": 392,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -185,6 +190,9 @@
     "colors": [
       "Brown",
       "Beige"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -197,7 +205,6 @@
     "sell": 405,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -232,6 +239,9 @@
     "colors": [
       "Black",
       "Black"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -244,7 +254,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -279,6 +288,9 @@
     "colors": [
       "Black",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -291,7 +303,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -326,6 +337,9 @@
     "colors": [
       "Blue",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -338,7 +352,6 @@
     "sell": 405,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -373,6 +386,9 @@
     "colors": [
       "Blue",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -385,7 +401,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -420,6 +435,9 @@
     "colors": [
       "Blue",
       "Blue"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -432,7 +450,6 @@
     "sell": 392,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -467,6 +484,9 @@
     "colors": [
       "Black",
       "Black"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -479,7 +499,6 @@
     "sell": 162,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -514,6 +533,9 @@
     "colors": [
       "Green",
       "Beige"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -526,7 +548,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -561,6 +582,9 @@
     "colors": [
       "Pink",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -573,7 +597,6 @@
     "sell": 1400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -608,6 +631,9 @@
     "colors": [
       "Red",
       "Red"
+    ],
+    "sources": [
+      "Crafting"
     ]
   },
   {
@@ -620,7 +646,6 @@
     "sell": 2800,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -655,6 +680,9 @@
     "colors": [
       "Pink",
       "Green"
+    ],
+    "sources": [
+      "Crafting"
     ]
   },
   {
@@ -667,7 +695,6 @@
     "sell": 1010,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Dodo Airlines",
     "sourceNotes": "Received in mail from DAL after 160 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -702,6 +729,9 @@
     "colors": [
       "Blue",
       "Blue"
+    ],
+    "sources": [
+      "Dodo Airlines"
     ]
   },
   {
@@ -714,7 +744,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -749,6 +778,9 @@
     "colors": [
       "Yellow",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -761,7 +793,6 @@
     "sell": 417,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -796,6 +827,9 @@
     "colors": [
       "Yellow",
       "Pink"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -808,7 +842,6 @@
     "sell": 205,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -843,6 +876,9 @@
     "colors": [
       "Green",
       "Yellow"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -855,7 +891,6 @@
     "sell": 80,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Fishing Tourney",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -890,6 +925,9 @@
     "colors": [
       "Blue",
       "Light blue"
+    ],
+    "sources": [
+      "Fishing Tourney"
     ]
   },
   {
@@ -902,7 +940,6 @@
     "sell": 392,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -937,6 +974,9 @@
     "colors": [
       "Green",
       "Green"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -949,7 +989,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -984,6 +1023,9 @@
     "colors": [
       "Colorful",
       "Colorful"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -996,7 +1038,6 @@
     "sell": 417,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1031,6 +1072,9 @@
     "colors": [
       "White",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1043,7 +1087,6 @@
     "sell": 387,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1078,6 +1121,9 @@
     "colors": [
       "Purple",
       "Green"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1090,7 +1136,6 @@
     "sell": 405,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1125,6 +1170,9 @@
     "colors": [
       "Green",
       "Black"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1137,7 +1185,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1172,6 +1219,9 @@
     "colors": [
       "Green",
       "Green"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1184,7 +1234,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1219,6 +1268,9 @@
     "colors": [
       "Light blue",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1231,7 +1283,6 @@
     "sell": 417,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1266,6 +1317,9 @@
     "colors": [
       "Purple",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1278,7 +1332,6 @@
     "sell": 387,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1313,6 +1366,9 @@
     "colors": [
       "Green",
       "Brown"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1325,7 +1381,6 @@
     "sell": 387,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1360,6 +1415,9 @@
     "colors": [
       "White",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1372,7 +1430,6 @@
     "sell": 80,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Bug-Off",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1407,6 +1464,9 @@
     "colors": [
       "Red",
       "Black"
+    ],
+    "sources": [
+      "Bug-Off"
     ]
   },
   {
@@ -1419,7 +1479,6 @@
     "sell": 300,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1454,6 +1513,9 @@
     "colors": [
       "Green",
       "Green"
+    ],
+    "sources": [
+      "Crafting"
     ]
   },
   {
@@ -1466,7 +1528,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1501,6 +1562,9 @@
     "colors": [
       "Yellow",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1513,7 +1577,6 @@
     "sell": 162,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1548,6 +1611,9 @@
     "colors": [
       "Blue",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1560,7 +1626,6 @@
     "sell": 2800,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1595,6 +1660,9 @@
     "colors": [
       "Orange",
       "Orange"
+    ],
+    "sources": [
+      "Crafting"
     ]
   },
   {
@@ -1607,7 +1675,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1642,6 +1709,9 @@
     "colors": [
       "Green",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1654,7 +1724,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1689,6 +1758,9 @@
     "colors": [
       "Pink",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1701,7 +1773,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1736,6 +1807,9 @@
     "colors": [
       "Brown",
       "Green"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1748,7 +1822,6 @@
     "sell": 1200,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1783,6 +1856,9 @@
     "colors": [
       "Brown",
       "Beige"
+    ],
+    "sources": [
+      "Crafting"
     ]
   },
   {
@@ -1795,7 +1871,6 @@
     "sell": 3500,
     "size": "1x1",
     "milesPrice": 700,
-    "source": "Nook Miles Shop",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1830,6 +1905,9 @@
     "colors": [
       "Green",
       "White"
+    ],
+    "sources": [
+      "Nook Miles Shop"
     ]
   },
   {
@@ -1842,7 +1920,6 @@
     "sell": 1400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1877,6 +1954,9 @@
     "colors": [
       "Orange",
       "Yellow"
+    ],
+    "sources": [
+      "Crafting"
     ]
   },
   {
@@ -1889,7 +1969,6 @@
     "sell": 392,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1924,6 +2003,9 @@
     "colors": [
       "White",
       "Black"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1936,7 +2018,6 @@
     "sell": 217,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1971,6 +2052,9 @@
     "colors": [
       "Brown",
       "Green"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -1983,7 +2067,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2018,6 +2101,9 @@
     "colors": [
       "White",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2030,7 +2116,6 @@
     "sell": 1400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2065,6 +2150,9 @@
     "colors": [
       "Pink",
       "Green"
+    ],
+    "sources": [
+      "Crafting"
     ]
   },
   {
@@ -2077,7 +2165,6 @@
     "sell": 1400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2112,6 +2199,9 @@
     "colors": [
       "Yellow",
       "Green"
+    ],
+    "sources": [
+      "Crafting"
     ]
   },
   {
@@ -2124,7 +2214,6 @@
     "sell": 397,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2159,6 +2248,9 @@
     "colors": [
       "White",
       "Yellow"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2171,7 +2263,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2206,6 +2297,9 @@
     "colors": [
       "Purple",
       "Pink"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2218,7 +2312,6 @@
     "sell": 387,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2253,6 +2346,9 @@
     "colors": [
       "Yellow",
       "Green"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2265,7 +2361,6 @@
     "sell": 405,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2300,6 +2395,9 @@
     "colors": [
       "Pink",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2312,7 +2410,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2347,6 +2444,9 @@
     "colors": [
       "Pink",
       "Pink"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2359,7 +2459,6 @@
     "sell": 405,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2394,6 +2493,9 @@
     "colors": [
       "Purple",
       "Black"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2406,7 +2508,6 @@
     "sell": 405,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2441,6 +2542,9 @@
     "colors": [
       "Purple",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2453,7 +2557,6 @@
     "sell": 210,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2488,6 +2591,9 @@
     "colors": [
       "Colorful",
       "Colorful"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2500,7 +2606,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2535,6 +2640,9 @@
     "colors": [
       "Yellow",
       "Light blue"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2547,7 +2655,6 @@
     "sell": 405,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2582,6 +2689,9 @@
     "colors": [
       "Red",
       "Black"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2594,7 +2704,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2629,6 +2738,9 @@
     "colors": [
       "Red",
       "Red"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2641,7 +2753,6 @@
     "sell": 387,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2676,6 +2787,9 @@
     "colors": [
       "Light blue",
       "Light blue"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2688,7 +2802,6 @@
     "sell": 210,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2723,6 +2836,9 @@
     "colors": [
       "Black",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2735,7 +2851,6 @@
     "sell": 387,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2770,6 +2885,9 @@
     "colors": [
       "Pink",
       "Green"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2782,7 +2900,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2817,6 +2934,9 @@
     "colors": [
       "Gray",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2829,7 +2949,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2864,6 +2983,9 @@
     "colors": [
       "Yellow",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2876,7 +2998,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2911,6 +3032,9 @@
     "colors": [
       "Red",
       "Green"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2923,7 +3047,6 @@
     "sell": 187,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2958,6 +3081,9 @@
     "colors": [
       "Red",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -2970,7 +3096,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3005,6 +3130,9 @@
     "colors": [
       "Red",
       "Yellow"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -3017,7 +3145,6 @@
     "sell": 192,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3052,6 +3179,9 @@
     "colors": [
       "White",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -3064,7 +3194,6 @@
     "sell": 387,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3099,6 +3228,9 @@
     "colors": [
       "Red",
       "Green"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   },
   {
@@ -3111,7 +3243,6 @@
     "sell": 405,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Nook's Cranny",
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3146,6 +3277,9 @@
     "colors": [
       "White",
       "White"
+    ],
+    "sources": [
+      "Nook's Cranny"
     ]
   }
 ]

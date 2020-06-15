@@ -10,7 +10,6 @@
     "sell": 2400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -52,6 +51,9 @@
     "styles": [
       "Cute"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
       "fairy tale"
     ]
@@ -67,7 +69,6 @@
     "sell": 2400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -109,8 +110,12 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
-      "outdoorsy; work"
+      "outdoorsy",
+      "work"
     ]
   },
   {
@@ -124,7 +129,6 @@
     "sell": 122,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Bug-Off",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -166,8 +170,12 @@
     "styles": [
       "Active"
     ],
+    "sources": [
+      "Bug-Off"
+    ],
     "themes": [
-      "outdoorsy; vacation"
+      "outdoorsy",
+      "vacation"
     ]
   },
   {
@@ -181,7 +189,6 @@
     "sell": 2400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -223,8 +230,13 @@
     "styles": [
       "Active"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
-      "fairy tale; party; theatrical"
+      "fairy tale",
+      "party",
+      "theatrical"
     ]
   },
   {
@@ -238,7 +250,6 @@
     "sell": 210,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Bug-Off",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -280,8 +291,13 @@
     "styles": [
       "Cute"
     ],
+    "sources": [
+      "Bug-Off"
+    ],
     "themes": [
-      "everyday; formal; party"
+      "everyday",
+      "formal",
+      "party"
     ]
   },
   {
@@ -295,7 +311,6 @@
     "sell": 325,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -337,6 +352,9 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Kicks"
+    ],
     "themes": [
       "everyday"
     ]
@@ -352,7 +370,6 @@
     "sell": 2400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -394,6 +411,9 @@
     "styles": [
       "Cute"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
       "fairy tale"
     ]
@@ -409,7 +429,6 @@
     "sell": 1010,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Dodo Airlines",
     "sourceNotes": "Received in mail from DAL after 200 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -451,8 +470,12 @@
     "styles": [
       "Cool"
     ],
+    "sources": [
+      "Dodo Airlines"
+    ],
     "themes": [
-      "outdoorsy; vacation"
+      "outdoorsy",
+      "vacation"
     ]
   },
   {
@@ -466,7 +489,6 @@
     "sell": 210,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Fishing Tourney",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -508,8 +530,12 @@
     "styles": [
       "Cute"
     ],
+    "sources": [
+      "Fishing Tourney"
+    ],
     "themes": [
-      "formal; party"
+      "formal",
+      "party"
     ]
   },
   {
@@ -523,7 +549,6 @@
     "sell": 400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -565,8 +590,13 @@
     "styles": [
       "Elegant"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
-      "outdoorsy; comfy; vacation"
+      "outdoorsy",
+      "comfy",
+      "vacation"
     ]
   },
   {
@@ -580,7 +610,6 @@
     "sell": 960,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -622,8 +651,12 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
-      "fairy tale; outdoorsy"
+      "fairy tale",
+      "outdoorsy"
     ]
   },
   {
@@ -637,7 +670,6 @@
     "sell": 2400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -679,6 +711,9 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
       "fairy tale"
     ]
@@ -694,7 +729,6 @@
     "sell": 4000,
     "size": "1x1",
     "milesPrice": 800,
-    "source": "Nook Miles Shop",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -736,6 +770,9 @@
     "styles": [
       "Gorgeous"
     ],
+    "sources": [
+      "Nook Miles Shop"
+    ],
     "themes": [
       "everyday"
     ]
@@ -751,7 +788,6 @@
     "sell": 10800,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -793,8 +829,12 @@
     "styles": [
       "Cute"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
-      "fairy tale; vacation"
+      "fairy tale",
+      "vacation"
     ]
   },
   {
@@ -808,7 +848,6 @@
     "sell": 2400,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -850,8 +889,13 @@
     "styles": [
       "Elegant"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
-      "fairy tale; party; vacation"
+      "fairy tale",
+      "party",
+      "vacation"
     ]
   },
   {
@@ -865,7 +909,6 @@
     "sell": 3000,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Crafting",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -907,8 +950,13 @@
     "styles": [
       "Cute"
     ],
+    "sources": [
+      "Crafting"
+    ],
     "themes": [
-      "fairy tale; party; vacation"
+      "fairy tale",
+      "party",
+      "vacation"
     ]
   },
   {
@@ -922,7 +970,6 @@
     "sell": 245,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -964,8 +1011,12 @@
     "styles": [
       "Simple"
     ],
+    "sources": [
+      "Kicks"
+    ],
     "themes": [
-      "comfy; vacation"
+      "comfy",
+      "vacation"
     ]
   },
   {
@@ -979,7 +1030,6 @@
     "sell": 175,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Fishing Tourney",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1021,8 +1071,13 @@
     "styles": [
       "Active"
     ],
+    "sources": [
+      "Fishing Tourney"
+    ],
     "themes": [
-      "outdoorsy; sporty; work"
+      "outdoorsy",
+      "sporty",
+      "work"
     ]
   },
   {
@@ -1036,7 +1091,6 @@
     "sell": 227,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1078,8 +1132,12 @@
     "styles": [
       "Active"
     ],
+    "sources": [
+      "Kicks"
+    ],
     "themes": [
-      "outdoorsy; work"
+      "outdoorsy",
+      "work"
     ]
   },
   {
@@ -1088,7 +1146,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1139,6 +1196,9 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
           "everyday"
         ]
@@ -1160,6 +1220,9 @@
         ],
         "styles": [
           "Simple"
+        ],
+        "sources": [
+          "Kicks"
         ],
         "themes": [
           "everyday"
@@ -1183,6 +1246,9 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
           "everyday"
         ]
@@ -1195,7 +1261,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1247,8 +1312,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1269,8 +1339,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1291,8 +1366,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1313,8 +1393,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -1325,7 +1410,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1375,8 +1459,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1397,8 +1486,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -1409,7 +1503,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1459,8 +1552,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1481,8 +1578,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -1493,7 +1594,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1544,8 +1644,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "formal; party"
+          "formal",
+          "party"
         ]
       },
       {
@@ -1566,8 +1670,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "formal; party"
+          "formal",
+          "party"
         ]
       },
       {
@@ -1588,8 +1696,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "formal; party"
+          "formal",
+          "party"
         ]
       }
     ]
@@ -1600,7 +1712,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1652,8 +1763,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1674,8 +1789,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1696,8 +1815,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1718,8 +1841,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -1730,7 +1857,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1780,8 +1906,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "formal; party"
+          "formal",
+          "party"
         ]
       },
       {
@@ -1802,8 +1932,12 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "formal; party"
+          "formal",
+          "party"
         ]
       }
     ]
@@ -1814,7 +1948,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1866,8 +1999,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1888,8 +2025,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1910,8 +2051,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -1932,8 +2077,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -1944,7 +2093,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1994,8 +2142,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; comfy"
+          "everyday",
+          "comfy"
         ]
       },
       {
@@ -2016,8 +2168,12 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; comfy"
+          "everyday",
+          "comfy"
         ]
       }
     ]
@@ -2028,7 +2184,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2078,6 +2233,9 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
           "vacation"
         ]
@@ -2100,6 +2258,9 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
           "vacation"
         ]
@@ -2112,7 +2273,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2163,8 +2323,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; work"
+          "outdoorsy",
+          "work"
         ]
       },
       {
@@ -2185,8 +2349,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; work"
+          "outdoorsy",
+          "work"
         ]
       },
       {
@@ -2207,8 +2375,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; work"
+          "outdoorsy",
+          "work"
         ]
       }
     ]
@@ -2219,7 +2391,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2269,8 +2440,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -2291,8 +2467,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -2303,7 +2484,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2354,8 +2534,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -2376,8 +2561,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -2398,8 +2588,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -2410,7 +2605,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2460,8 +2654,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; formal; party"
+          "everyday",
+          "formal",
+          "party"
         ]
       },
       {
@@ -2482,8 +2681,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; formal; party"
+          "everyday",
+          "formal",
+          "party"
         ]
       }
     ]
@@ -2494,7 +2698,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Mom",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2550,6 +2753,9 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Mom"
+        ],
         "themes": [
           "comfy"
         ]
@@ -2571,6 +2777,9 @@
         ],
         "styles": [
           "Cute"
+        ],
+        "sources": [
+          "Mom"
         ],
         "themes": [
           "comfy"
@@ -2594,6 +2803,9 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Mom"
+        ],
         "themes": [
           "comfy"
         ]
@@ -2615,6 +2827,9 @@
         ],
         "styles": [
           "Cute"
+        ],
+        "sources": [
+          "Mom"
         ],
         "themes": [
           "comfy"
@@ -2638,6 +2853,9 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Mom"
+        ],
         "themes": [
           "comfy"
         ]
@@ -2659,6 +2877,9 @@
         ],
         "styles": [
           "Cute"
+        ],
+        "sources": [
+          "Mom"
         ],
         "themes": [
           "comfy"
@@ -2682,6 +2903,9 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Mom"
+        ],
         "themes": [
           "comfy"
         ]
@@ -2704,6 +2928,9 @@
         "styles": [
           "Cute"
         ],
+        "sources": [
+          "Mom"
+        ],
         "themes": [
           "comfy"
         ]
@@ -2716,7 +2943,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2767,8 +2993,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -2789,8 +3019,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -2811,8 +3045,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -2823,7 +3061,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2873,8 +3110,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; work"
+          "everyday",
+          "work"
         ]
       },
       {
@@ -2895,8 +3136,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; work"
+          "everyday",
+          "work"
         ]
       }
     ]
@@ -2907,7 +3152,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2957,8 +3201,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; formal; party"
+          "everyday",
+          "formal",
+          "party"
         ]
       },
       {
@@ -2979,8 +3228,13 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; formal; party"
+          "everyday",
+          "formal",
+          "party"
         ]
       }
     ]
@@ -2991,7 +3245,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3041,8 +3294,12 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       },
       {
@@ -3063,8 +3320,12 @@
         "styles": [
           "Elegant"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; formal"
+          "everyday",
+          "formal"
         ]
       }
     ]
@@ -3075,7 +3336,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3126,8 +3386,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -3148,8 +3412,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -3170,8 +3438,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -3182,7 +3454,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3233,8 +3504,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -3255,8 +3530,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -3277,8 +3556,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "outdoorsy; sporty"
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -3289,7 +3572,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3340,8 +3622,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -3362,8 +3649,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       },
       {
@@ -3384,8 +3676,13 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy; sporty"
+          "everyday",
+          "outdoorsy",
+          "sporty"
         ]
       }
     ]
@@ -3396,7 +3693,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3446,8 +3742,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; goth"
+          "everyday",
+          "goth"
         ]
       },
       {
@@ -3468,8 +3768,12 @@
         "styles": [
           "Cool"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; goth"
+          "everyday",
+          "goth"
         ]
       }
     ]
@@ -3480,7 +3784,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3532,8 +3835,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy"
+          "everyday",
+          "outdoorsy"
         ]
       },
       {
@@ -3554,8 +3861,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy"
+          "everyday",
+          "outdoorsy"
         ]
       },
       {
@@ -3576,8 +3887,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy"
+          "everyday",
+          "outdoorsy"
         ]
       },
       {
@@ -3598,8 +3913,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy"
+          "everyday",
+          "outdoorsy"
         ]
       }
     ]
@@ -3610,7 +3929,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3662,8 +3980,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy"
+          "everyday",
+          "outdoorsy"
         ]
       },
       {
@@ -3684,8 +4006,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy"
+          "everyday",
+          "outdoorsy"
         ]
       },
       {
@@ -3706,8 +4032,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy"
+          "everyday",
+          "outdoorsy"
         ]
       },
       {
@@ -3728,8 +4058,12 @@
         "styles": [
           "Active"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "everyday; outdoorsy"
+          "everyday",
+          "outdoorsy"
         ]
       }
     ]
@@ -3740,7 +4074,6 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "source": "Kicks",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3791,8 +4124,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "fairy tale; outdoorsy; work"
+          "fairy tale",
+          "outdoorsy",
+          "work"
         ]
       },
       {
@@ -3813,8 +4151,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "fairy tale; outdoorsy; work"
+          "fairy tale",
+          "outdoorsy",
+          "work"
         ]
       },
       {
@@ -3835,8 +4178,13 @@
         "styles": [
           "Simple"
         ],
+        "sources": [
+          "Kicks"
+        ],
         "themes": [
-          "fairy tale; outdoorsy; work"
+          "fairy tale",
+          "outdoorsy",
+          "work"
         ]
       }
     ]
