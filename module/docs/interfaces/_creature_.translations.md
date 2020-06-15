@@ -36,7 +36,7 @@
 
 • **chinese**: *string*
 
-*Defined in [Creature.ts:83](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L83)*
+*Defined in [Creature.ts:83](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L83)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **chineseTraditional**: *string*
 
-*Defined in [Creature.ts:84](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L84)*
+*Defined in [Creature.ts:84](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L84)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **dutch**: *string*
 
-*Defined in [Creature.ts:82](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L82)*
+*Defined in [Creature.ts:82](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L82)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **english**: *string*
 
-*Defined in [Creature.ts:74](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L74)*
+*Defined in [Creature.ts:74](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L74)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **englishEurope**: *string*
 
-*Defined in [Creature.ts:75](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L75)*
+*Defined in [Creature.ts:75](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L75)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 • **french**: *string*
 
-*Defined in [Creature.ts:79](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L79)*
+*Defined in [Creature.ts:79](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L79)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 • **frenchUs**: *string*
 
-*Defined in [Creature.ts:80](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L80)*
+*Defined in [Creature.ts:80](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L80)*
 
 ___
 
@@ -92,15 +92,15 @@ ___
 
 • **german**: *string*
 
-*Defined in [Creature.ts:76](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L76)*
+*Defined in [Creature.ts:76](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L76)*
 
 ___
 
 ###  id
 
-• **id**: *number | string*
+• **id**: *string*
 
-*Defined in [Creature.ts:72](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L72)*
+*Defined in [Creature.ts:72](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L72)*
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 • **internalIds**: *number[]*
 
-*Defined in [Creature.ts:89](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L89)*
+*Defined in [Creature.ts:89](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L89)*
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 • **italian**: *string*
 
-*Defined in [Creature.ts:81](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L81)*
+*Defined in [Creature.ts:81](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L81)*
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 • **japanese**: *string*
 
-*Defined in [Creature.ts:85](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L85)*
+*Defined in [Creature.ts:85](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L85)*
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 • **korean**: *string*
 
-*Defined in [Creature.ts:86](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L86)*
+*Defined in [Creature.ts:86](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L86)*
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 • **plural**: *boolean*
 
-*Defined in [Creature.ts:88](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L88)*
+*Defined in [Creature.ts:88](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L88)*
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 • **russian**: *string*
 
-*Defined in [Creature.ts:87](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L87)*
+*Defined in [Creature.ts:87](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L87)*
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 • **sourceSheet**: *[TranslationsSourceSheet](../enums/_creature_.translationssourcesheet.md)*
 
-*Defined in [Creature.ts:71](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L71)*
+*Defined in [Creature.ts:71](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L71)*
 
 ___
 
@@ -164,7 +164,7 @@ ___
 
 • **spanish**: *string*
 
-*Defined in [Creature.ts:77](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L77)*
+*Defined in [Creature.ts:77](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L77)*
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 • **spanishUs**: *string*
 
-*Defined in [Creature.ts:78](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L78)*
+*Defined in [Creature.ts:78](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L78)*
 
 ___
 
@@ -180,4 +180,4 @@ ___
 
 • **version**: *[Version](../enums/_creature_.version.md)*
 
-*Defined in [Creature.ts:73](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L73)*
+*Defined in [Creature.ts:73](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L73)*

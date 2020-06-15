@@ -19,7 +19,7 @@
 
 • **Bridge**: = "Bridge"
 
-*Defined in [Construction.ts:14](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Construction.ts#L14)*
+*Defined in [Construction.ts:14](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L14)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **Door**: = "Door"
 
-*Defined in [Construction.ts:15](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Construction.ts#L15)*
+*Defined in [Construction.ts:15](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L15)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Incline**: = "Incline"
 
-*Defined in [Construction.ts:16](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Construction.ts#L16)*
+*Defined in [Construction.ts:16](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L16)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **Mailbox**: = "Mailbox"
 
-*Defined in [Construction.ts:17](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Construction.ts#L17)*
+*Defined in [Construction.ts:17](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L17)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **Roofing**: = "Roofing"
 
-*Defined in [Construction.ts:18](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Construction.ts#L18)*
+*Defined in [Construction.ts:18](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L18)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **Siding**: = "Siding"
 
-*Defined in [Construction.ts:19](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Construction.ts#L19)*
+*Defined in [Construction.ts:19](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L19)*

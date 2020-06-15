@@ -32,7 +32,7 @@
 
 • **AcceEyeMouth**: = "AcceEyeMouth"
 
-*Defined in [Item.ts:374](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L374)*
+*Defined in [Item.ts:400](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L400)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **AccessoryEye**: = "AccessoryEye"
 
-*Defined in [Item.ts:375](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L375)*
+*Defined in [Item.ts:401](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L401)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **AccessoryEyeMouthInvisibleNose**: = "AccessoryEyeMouthInvisibleNose"
 
-*Defined in [Item.ts:376](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L376)*
+*Defined in [Item.ts:402](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L402)*
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 • **AccessoryMouth**: = "AccessoryMouth"
 
-*Defined in [Item.ts:377](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L377)*
+*Defined in [Item.ts:403](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L403)*
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 • **AccessoryMouthEarJaw**: = "AccessoryMouthEarJaw"
 
-*Defined in [Item.ts:378](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L378)*
+*Defined in [Item.ts:404](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L404)*
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 • **AccessoryMouthInvisibleNose**: = "AccessoryMouthInvisibleNose"
 
-*Defined in [Item.ts:379](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L379)*
+*Defined in [Item.ts:405](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L405)*
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 • **AccessoryOneEye**: = "AccessoryOneEye"
 
-*Defined in [Item.ts:380](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L380)*
+*Defined in [Item.ts:406](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L406)*
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 • **HeadCap**: = "HeadCap"
 
-*Defined in [Item.ts:381](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L381)*
+*Defined in [Item.ts:407](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L407)*
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 • **HeadFace**: = "HeadFace"
 
-*Defined in [Item.ts:382](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L382)*
+*Defined in [Item.ts:408](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L408)*
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 • **HeadFullFace**: = "HeadFullFace"
 
-*Defined in [Item.ts:383](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L383)*
+*Defined in [Item.ts:409](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L409)*
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 • **HeadHairOrnamentBack**: = "HeadHairOrnament_Back"
 
-*Defined in [Item.ts:384](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L384)*
+*Defined in [Item.ts:410](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L410)*
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 • **HeadHairOrnamentFront**: = "HeadHairOrnament_Front"
 
-*Defined in [Item.ts:385](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L385)*
+*Defined in [Item.ts:411](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L411)*
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 • **HeadHairOrnamentLeft**: = "HeadHairOrnament_Left"
 
-*Defined in [Item.ts:386](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L386)*
+*Defined in [Item.ts:412](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L412)*
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 • **HeadHairOrnamentPeak**: = "HeadHairOrnament_Peak"
 
-*Defined in [Item.ts:387](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L387)*
+*Defined in [Item.ts:413](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L413)*
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 • **HeadHairOrnamentTop**: = "HeadHairOrnament_Top"
 
-*Defined in [Item.ts:388](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L388)*
+*Defined in [Item.ts:414](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L414)*
 
 ___
 
@@ -152,7 +152,7 @@ ___
 
 • **HeadgearHasBang**: = "Headgear_HasBang"
 
-*Defined in [Item.ts:389](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L389)*
+*Defined in [Item.ts:415](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L415)*
 
 ___
 
@@ -160,7 +160,7 @@ ___
 
 • **HeadgearHasEar**: = "Headgear_HasEar"
 
-*Defined in [Item.ts:390](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L390)*
+*Defined in [Item.ts:416](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L416)*
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 • **HeadgearNoEar**: = "Headgear_NoEar"
 
-*Defined in [Item.ts:391](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L391)*
+*Defined in [Item.ts:417](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L417)*
 
 ___
 
@@ -176,4 +176,4 @@ ___
 
 • **HeadgearNoEarNoJaw**: = "Headgear_NoEarNoJaw"
 
-*Defined in [Item.ts:392](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Item.ts#L392)*
+*Defined in [Item.ts:418](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L418)*
