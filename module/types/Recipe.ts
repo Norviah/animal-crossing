@@ -13,7 +13,7 @@ export interface Recipe {
     serialId:              number;
     internalId:            number;
     uniqueEntryId:         string;
-    translations:          Translations | null;
+    translations:          Translations;
     materials:             { [key: string]: number };
     sources:               string[];
 }
@@ -45,7 +45,7 @@ export enum RecipeSourceSheet {
 export interface Translations {
     sourceSheet:        TranslationsSourceSheet;
     id:                 number | string;
-    version?:           Version;
+    version:            Version;
     english:            string;
     englishEurope:      string;
     german:             string;
@@ -62,8 +62,6 @@ export interface Translations {
     russian:            string;
     plural:             boolean;
     internalIds:        number[];
-    variantId?:         number;
-    furnitureName?:     string;
 }
 
 export enum TranslationsSourceSheet {
@@ -77,10 +75,11 @@ export enum TranslationsSourceSheet {
     Fence = "Fence",
     Floors = "Floors",
     Furniture = "Furniture",
-    FurnitureVariants = "Furniture Variants",
+    Masks = "Masks",
     Rugs = "Rugs",
     Shoes = "Shoes",
     Tools = "Tools",
+    Tops = "Tops",
     Umbrella = "Umbrella",
     Walls = "Walls",
 }
