@@ -21,6 +21,7 @@
     "filename": "BottomsTexPantsHalfComic0",
     "internalId": 5411,
     "uniqueEntryId": "TFDJr788MeaHhmaw4",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Bottoms",
       "id": 726,
@@ -77,6 +78,7 @@
     "filename": "BottomsTexSkirtBoxGrass0",
     "internalId": 4333,
     "uniqueEntryId": "F3GSr8B7zuThrFq5p",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Bottoms",
       "id": 312,
@@ -97,8 +99,7 @@
       "russian": "юбка из сухих листьев",
       "plural": false,
       "internalIds": [
-        4333,
-        603
+        4333
       ]
     },
     "colors": [
@@ -134,6 +135,7 @@
     "filename": "BottomsTexSkirtBoxGrass1",
     "internalId": 8907,
     "uniqueEntryId": "yNBwCvymEC4CDMdKq",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Bottoms",
       "id": 1190,
@@ -154,8 +156,7 @@
       "russian": "юбка из зеленых листьев",
       "plural": false,
       "internalIds": [
-        8907,
-        605
+        8907
       ]
     },
     "colors": [
@@ -191,6 +192,7 @@
     "filename": "BottomsTexSkirtAlinePearlNavy",
     "internalId": 5737,
     "uniqueEntryId": "AhwjyLdd993xipZXk",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Bottoms",
       "id": 855,
@@ -247,6 +249,7 @@
     "filename": "BottomsTexPantsWideCowboyBrown",
     "internalId": 3463,
     "uniqueEntryId": "eAfvmW3BYiuPEh7GD",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Bottoms",
       "id": 175,
@@ -329,6 +332,7 @@
         "filename": "BottomsTexPantsNormalChemical1",
         "internalId": 11385,
         "uniqueEntryId": "a7HNjgRFkCznkDLLH",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -351,6 +355,7 @@
         "filename": "BottomsTexPantsNormalChemical0",
         "internalId": 5286,
         "uniqueEntryId": "QaecPktemD3XuFdwy",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -412,6 +417,7 @@
         "filename": "BottomsTexSkirtBoxStripe1",
         "internalId": 12067,
         "uniqueEntryId": "4mDRmSG3scfXh3oon",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -434,6 +440,7 @@
         "filename": "BottomsTexSkirtBoxStripe0",
         "internalId": 9842,
         "uniqueEntryId": "qmtHwBmtJDvtNntTs",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -496,6 +503,7 @@
         "filename": "BottomsTexSkirtBoxApron1",
         "internalId": 8921,
         "uniqueEntryId": "cfzi35RpY8onR3hra",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Light blue"
@@ -518,6 +526,7 @@
         "filename": "BottomsTexSkirtBoxApron0",
         "internalId": 5710,
         "uniqueEntryId": "MtsvEMQ9Z9damsycd",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Purple"
@@ -540,6 +549,7 @@
         "filename": "BottomsTexSkirtBoxApron2",
         "internalId": 8922,
         "uniqueEntryId": "AmWS5iMbatqDr2eLs",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Beige"
@@ -605,6 +615,7 @@
         "filename": "BottomsTexPantsNormalJersey2",
         "internalId": 11296,
         "uniqueEntryId": "8NcTmEpkckocYvTf2",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -627,6 +638,7 @@
         "filename": "BottomsTexPantsNormalJersey4",
         "internalId": 11298,
         "uniqueEntryId": "HSgcZgAkXCBroWboG",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -649,6 +661,7 @@
         "filename": "BottomsTexPantsNormalJersey0",
         "internalId": 3311,
         "uniqueEntryId": "iL9vd8DerEEJDJQbA",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -671,6 +684,7 @@
         "filename": "BottomsTexPantsNormalJersey1",
         "internalId": 11295,
         "uniqueEntryId": "Ygp8L2zeem8ECZroK",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -693,6 +707,7 @@
         "filename": "BottomsTexPantsNormalJersey3",
         "internalId": 11297,
         "uniqueEntryId": "R6apb74ivZCDbvEvi",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -715,6 +730,7 @@
         "filename": "BottomsTexPantsNormalJersey5",
         "internalId": 11299,
         "uniqueEntryId": "zauG7p57gDAPSqPH4",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -780,6 +796,7 @@
         "filename": "BottomsTexPantsHalfJersey2",
         "internalId": 11906,
         "uniqueEntryId": "XZyRpyaiPbfw5nwTD",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -802,6 +819,7 @@
         "filename": "BottomsTexPantsHalfJersey4",
         "internalId": 11908,
         "uniqueEntryId": "QWxKgGJSnKgHEyz5Y",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -824,6 +842,7 @@
         "filename": "BottomsTexPantsHalfJersey0",
         "internalId": 4518,
         "uniqueEntryId": "Pz4KvZgNanynj88ut",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -846,6 +865,7 @@
         "filename": "BottomsTexPantsHalfJersey1",
         "internalId": 11905,
         "uniqueEntryId": "Cgi5fvfgm5YEdCpNu",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -868,6 +888,7 @@
         "filename": "BottomsTexPantsHalfJersey3",
         "internalId": 11907,
         "uniqueEntryId": "omNsW8d3EgoAs3tLL",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -890,6 +911,7 @@
         "filename": "BottomsTexPantsHalfJersey5",
         "internalId": 11909,
         "uniqueEntryId": "wkX3PL2R5dYC8PNJ2",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -957,6 +979,7 @@
         "filename": "BottomsTexPantsHalfBasketball7",
         "internalId": 11313,
         "uniqueEntryId": "gRj6pG26jHFQZB8TA",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Red"
@@ -979,6 +1002,7 @@
         "filename": "BottomsTexPantsHalfBasketball1",
         "internalId": 11307,
         "uniqueEntryId": "TpYJQMq2Z8tEkK2Wd",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -1001,6 +1025,7 @@
         "filename": "BottomsTexPantsHalfBasketball3",
         "internalId": 11309,
         "uniqueEntryId": "iHFbTwYkKaqut6RnX",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Blue"
@@ -1023,6 +1048,7 @@
         "filename": "BottomsTexPantsHalfBasketball5",
         "internalId": 11311,
         "uniqueEntryId": "zjahPrxJ4ZBRcnq74",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Green"
@@ -1045,6 +1071,7 @@
         "filename": "BottomsTexPantsHalfBasketball2",
         "internalId": 11308,
         "uniqueEntryId": "KCggjKmE8js3MG6bq",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Orange"
@@ -1067,6 +1094,7 @@
         "filename": "BottomsTexPantsHalfBasketball6",
         "internalId": 11312,
         "uniqueEntryId": "iDr7MMuWGDqgsh5Be",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Blue"
@@ -1089,6 +1117,7 @@
         "filename": "BottomsTexPantsHalfBasketball4",
         "internalId": 11310,
         "uniqueEntryId": "4iB4fmJjkKNNzWJBS",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Red"
@@ -1111,6 +1140,7 @@
         "filename": "BottomsTexPantsHalfBasketball0",
         "internalId": 5720,
         "uniqueEntryId": "yTsGx7eQh4JWNdXB2",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Yellow"
@@ -1175,6 +1205,7 @@
         "filename": "BottomsTexPantsWideBellbottoms0",
         "internalId": 4364,
         "uniqueEntryId": "sAGeX7YksW4qTsRz9",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -1197,6 +1228,7 @@
         "filename": "BottomsTexPantsWideBellbottoms3",
         "internalId": 9272,
         "uniqueEntryId": "tn3suswYrh2ZcD649",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -1219,6 +1251,7 @@
         "filename": "BottomsTexPantsWideBellbottoms4",
         "internalId": 9273,
         "uniqueEntryId": "mRdLrYzxuYuP7yqB9",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -1241,6 +1274,7 @@
         "filename": "BottomsTexPantsWideBellbottoms1",
         "internalId": 9270,
         "uniqueEntryId": "AhZR3qCS8owvTgWS9",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -1263,6 +1297,7 @@
         "filename": "BottomsTexPantsWideBellbottoms2",
         "internalId": 9271,
         "uniqueEntryId": "h5fKoKik2BmT6JPAb",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -1326,6 +1361,7 @@
         "filename": "BottomsTexSkirtLongWrap1",
         "internalId": 8721,
         "uniqueEntryId": "TuKyTJdQckfqf2nae",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -1348,6 +1384,7 @@
         "filename": "BottomsTexSkirtLongWrap0",
         "internalId": 4545,
         "uniqueEntryId": "6j99icX2C8n2NQSxe",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -1370,6 +1407,7 @@
         "filename": "BottomsTexSkirtLongWrap2",
         "internalId": 8722,
         "uniqueEntryId": "FCtNFz4XG85wdDcbu",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -1392,6 +1430,7 @@
         "filename": "BottomsTexSkirtLongWrap3",
         "internalId": 8723,
         "uniqueEntryId": "Z3y37JrC5nnCjyFgC",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -1459,6 +1498,7 @@
         "filename": "BottomsTexPantsHalfBoa7",
         "internalId": 9120,
         "uniqueEntryId": "3Z3cYyfhRkhmDKKKP",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -1481,6 +1521,7 @@
         "filename": "BottomsTexPantsHalfBoa4",
         "internalId": 9117,
         "uniqueEntryId": "Ydd3mZGaYrNupaAop",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -1503,6 +1544,7 @@
         "filename": "BottomsTexPantsHalfBoa5",
         "internalId": 9118,
         "uniqueEntryId": "nmpe6DS922LwufDP5",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Black"
@@ -1525,6 +1567,7 @@
         "filename": "BottomsTexPantsHalfBoa1",
         "internalId": 9114,
         "uniqueEntryId": "diDTCzmh2EfcQ8Est",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -1547,6 +1590,7 @@
         "filename": "BottomsTexPantsHalfBoa6",
         "internalId": 9119,
         "uniqueEntryId": "y3bqMB4hjKdxHjeRQ",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Black"
@@ -1569,6 +1613,7 @@
         "filename": "BottomsTexPantsHalfBoa3",
         "internalId": 9116,
         "uniqueEntryId": "uNMeoCpWFsgQnhyGJ",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -1591,6 +1636,7 @@
         "filename": "BottomsTexPantsHalfBoa0",
         "internalId": 5419,
         "uniqueEntryId": "hHHSAxKeTKy94FrLh",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -1613,6 +1659,7 @@
         "filename": "BottomsTexPantsHalfBoa2",
         "internalId": 9115,
         "uniqueEntryId": "rxrscQDTFaB6T3CS3",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Black"
@@ -1680,6 +1727,7 @@
         "filename": "BottomsTexSkirtBoxBoa3",
         "internalId": 9109,
         "uniqueEntryId": "ef7PeMEWM8geRb2JX",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -1702,6 +1750,7 @@
         "filename": "BottomsTexSkirtBoxBoa4",
         "internalId": 9110,
         "uniqueEntryId": "sBZFNvhEg4Bsi8WLM",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -1724,6 +1773,7 @@
         "filename": "BottomsTexSkirtBoxBoa0",
         "internalId": 5418,
         "uniqueEntryId": "nFzxYepHxpSzdLHrw",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -1746,6 +1796,7 @@
         "filename": "BottomsTexSkirtBoxBoa5",
         "internalId": 9111,
         "uniqueEntryId": "JzeKHWEDDS5k9KpBy",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Black"
@@ -1768,6 +1819,7 @@
         "filename": "BottomsTexSkirtBoxBoa1",
         "internalId": 9107,
         "uniqueEntryId": "MYjHWe4KXX2bDwP6k",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -1790,6 +1842,7 @@
         "filename": "BottomsTexSkirtBoxBoa2",
         "internalId": 9108,
         "uniqueEntryId": "eSPxEhawpKLm2ceMk",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -1812,6 +1865,7 @@
         "filename": "BottomsTexSkirtBoxBoa7",
         "internalId": 9113,
         "uniqueEntryId": "uDTLrmXkDEqToQbJ3",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Black"
@@ -1834,6 +1888,7 @@
         "filename": "BottomsTexSkirtBoxBoa6",
         "internalId": 9112,
         "uniqueEntryId": "GtiB2HMiy56rLvCYA",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Black"
@@ -1897,6 +1952,7 @@
         "filename": "BottomsTexSkirtLongMaone1",
         "internalId": 11663,
         "uniqueEntryId": "Bp7H3PBvjLpJycCqv",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -1919,6 +1975,7 @@
         "filename": "BottomsTexSkirtLongMaone0",
         "internalId": 5722,
         "uniqueEntryId": "jhqr7bGfmAXM6uK3x",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -1941,6 +1998,7 @@
         "filename": "BottomsTexSkirtLongMaone2",
         "internalId": 11664,
         "uniqueEntryId": "EQerBX3MAFt27siGH",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -1963,6 +2021,7 @@
         "filename": "BottomsTexSkirtLongMaone3",
         "internalId": 11665,
         "uniqueEntryId": "xy5EjisA8WfpzSGcW",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -2024,6 +2083,7 @@
         "filename": "BottomsTexPantsHalfBotanical1",
         "internalId": 9193,
         "uniqueEntryId": "iDnWPtRoBpziJEEwt",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Red"
@@ -2046,6 +2106,7 @@
         "filename": "BottomsTexPantsHalfBotanical0",
         "internalId": 5854,
         "uniqueEntryId": "kFwQPwqhakmXTPHC2",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Red"
@@ -2109,6 +2170,7 @@
         "filename": "BottomsTexSkirtBoxBoxpleats2",
         "internalId": 11787,
         "uniqueEntryId": "KxYmNHwegBmRL9uxJ",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -2131,6 +2193,7 @@
         "filename": "BottomsTexSkirtBoxBoxpleats3",
         "internalId": 11788,
         "uniqueEntryId": "LrqFHr8zsLgjDoBtZ",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -2153,6 +2216,7 @@
         "filename": "BottomsTexSkirtBoxBoxpleats0",
         "internalId": 5703,
         "uniqueEntryId": "Rwte5DmWEbaQdQgqu",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -2175,6 +2239,7 @@
         "filename": "BottomsTexSkirtBoxBoxpleats1",
         "internalId": 11786,
         "uniqueEntryId": "MXmzA39FLKtQzzCpv",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -2239,6 +2304,7 @@
         "filename": "BottomsTexSkirtLongLace1",
         "internalId": 8727,
         "uniqueEntryId": "hYFNGFXqrvmujTJJm",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -2261,6 +2327,7 @@
         "filename": "BottomsTexSkirtLongLace2",
         "internalId": 8728,
         "uniqueEntryId": "sJnpKrkWcAxGxoaix",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -2283,6 +2350,7 @@
         "filename": "BottomsTexSkirtLongLace0",
         "internalId": 5421,
         "uniqueEntryId": "n4JbiQzu22rdtdy9a",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -2305,6 +2373,7 @@
         "filename": "BottomsTexSkirtLongLace3",
         "internalId": 8729,
         "uniqueEntryId": "MYzQEa7dvMqmrWLN7",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -2327,6 +2396,7 @@
         "filename": "BottomsTexSkirtLongLace4",
         "internalId": 8730,
         "uniqueEntryId": "tkit3npe9HwdDufJQ",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -2392,6 +2462,7 @@
         "filename": "BottomsTexSkirtLongWrapbicolor0",
         "internalId": 5816,
         "uniqueEntryId": "MeqvzbNAieKTjMAgF",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -2414,6 +2485,7 @@
         "filename": "BottomsTexSkirtLongWrapbicolor3",
         "internalId": 8733,
         "uniqueEntryId": "rEFFT7saJTdTb6kG8",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Black"
@@ -2436,6 +2508,7 @@
         "filename": "BottomsTexSkirtLongWrapbicolor2",
         "internalId": 8732,
         "uniqueEntryId": "ypymB5aMKxZStb8ch",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Black"
@@ -2458,6 +2531,7 @@
         "filename": "BottomsTexSkirtLongWrapbicolor4",
         "internalId": 8734,
         "uniqueEntryId": "JCkkAtMCEr6kaRwaH",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -2480,6 +2554,7 @@
         "filename": "BottomsTexSkirtLongWrapbicolor1",
         "internalId": 8731,
         "uniqueEntryId": "YYgfpmdbXNoCFzBmw",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -2502,6 +2577,7 @@
         "filename": "BottomsTexSkirtLongWrapbicolor5",
         "internalId": 8735,
         "uniqueEntryId": "BEqJbSTipj8WRGE55",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -2568,6 +2644,7 @@
         "filename": "BottomsTexPantsNormalCamouflage0",
         "internalId": 3342,
         "uniqueEntryId": "aNFpYieN49dxPKyYy",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Beige"
@@ -2590,6 +2667,7 @@
         "filename": "BottomsTexPantsNormalCamouflage4",
         "internalId": 10188,
         "uniqueEntryId": "EAtqzquCLivjkZhWr",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -2612,6 +2690,7 @@
         "filename": "BottomsTexPantsNormalCamouflage6",
         "internalId": 10190,
         "uniqueEntryId": "5dYWfib2BWXgC3Rc4",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Beige"
@@ -2634,6 +2713,7 @@
         "filename": "BottomsTexPantsNormalCamouflage2",
         "internalId": 10186,
         "uniqueEntryId": "nXT2XiJEx3CHegAip",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Brown"
@@ -2656,6 +2736,7 @@
         "filename": "BottomsTexPantsNormalCamouflage1",
         "internalId": 10185,
         "uniqueEntryId": "qtsT4H3FaWL6rb8Pp",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Beige"
@@ -2678,6 +2759,7 @@
         "filename": "BottomsTexPantsNormalCamouflage3",
         "internalId": 10187,
         "uniqueEntryId": "26N6fryHPqE2DNxTR",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Light blue"
@@ -2700,6 +2782,7 @@
         "filename": "BottomsTexPantsNormalCamouflage5",
         "internalId": 10189,
         "uniqueEntryId": "H86rkRrvcpRorAzTf",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -2766,6 +2849,7 @@
         "filename": "BottomsTexSkirtBoxCamo0",
         "internalId": 4434,
         "uniqueEntryId": "q5c559aFcRKoBNr4w",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Beige"
@@ -2788,6 +2872,7 @@
         "filename": "BottomsTexSkirtBoxCamo4",
         "internalId": 11325,
         "uniqueEntryId": "tZTrTGhi5YdxdNi8f",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -2810,6 +2895,7 @@
         "filename": "BottomsTexSkirtBoxCamo6",
         "internalId": 11327,
         "uniqueEntryId": "5vPqqjmwqkMBLpm8y",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Beige"
@@ -2832,6 +2918,7 @@
         "filename": "BottomsTexSkirtBoxCamo2",
         "internalId": 11323,
         "uniqueEntryId": "oz3YufzmPiL39q4CM",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Brown"
@@ -2854,6 +2941,7 @@
         "filename": "BottomsTexSkirtBoxCamo1",
         "internalId": 11322,
         "uniqueEntryId": "GvqcgrFieJhgy5Jpw",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Beige"
@@ -2876,6 +2964,7 @@
         "filename": "BottomsTexSkirtBoxCamo3",
         "internalId": 11324,
         "uniqueEntryId": "HpyMqkJ4oWAietZmq",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Light blue"
@@ -2898,6 +2987,7 @@
         "filename": "BottomsTexSkirtBoxCamo5",
         "internalId": 11326,
         "uniqueEntryId": "BNhmc7m6TBukQNosf",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -2965,6 +3055,7 @@
         "filename": "BottomsTexSkirtBoxCareer0",
         "internalId": 4504,
         "uniqueEntryId": "nPFtncH3euNHGz2dj",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -2987,6 +3078,7 @@
         "filename": "BottomsTexSkirtBoxCareer7",
         "internalId": 11353,
         "uniqueEntryId": "jcZP8k8ETAgyyiuh5",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -3009,6 +3101,7 @@
         "filename": "BottomsTexSkirtBoxCareer2",
         "internalId": 11348,
         "uniqueEntryId": "adRgkTRKLohGw8obF",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -3031,6 +3124,7 @@
         "filename": "BottomsTexSkirtBoxCareer4",
         "internalId": 11350,
         "uniqueEntryId": "tWpAfzeAvq8FBxtTW",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -3053,6 +3147,7 @@
         "filename": "BottomsTexSkirtBoxCareer5",
         "internalId": 11351,
         "uniqueEntryId": "LgL59ZfDAre6HTfSx",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -3075,6 +3170,7 @@
         "filename": "BottomsTexSkirtBoxCareer3",
         "internalId": 11349,
         "uniqueEntryId": "xNYdSrxuyczCSKPGi",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -3097,6 +3193,7 @@
         "filename": "BottomsTexSkirtBoxCareer6",
         "internalId": 11352,
         "uniqueEntryId": "86ca36YiBEuZeEvRS",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -3119,6 +3216,7 @@
         "filename": "BottomsTexSkirtBoxCareer1",
         "internalId": 11347,
         "uniqueEntryId": "vGt7atvSCh9Qy7Mm7",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -3183,6 +3281,7 @@
         "filename": "BottomsTexPantsWideCargo3",
         "internalId": 9705,
         "uniqueEntryId": "eG7sZuGE2wp7or2Rq",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -3205,6 +3304,7 @@
         "filename": "BottomsTexPantsWideCargo0",
         "internalId": 3351,
         "uniqueEntryId": "DDAHZHuS496kgxWwH",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -3227,6 +3327,7 @@
         "filename": "BottomsTexPantsWideCargo2",
         "internalId": 9704,
         "uniqueEntryId": "E9cHhMTiduzizSpsM",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -3249,6 +3350,7 @@
         "filename": "BottomsTexPantsWideCargo4",
         "internalId": 9706,
         "uniqueEntryId": "oJGyRjQePhaFecQsd",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -3271,6 +3373,7 @@
         "filename": "BottomsTexPantsWideCargo1",
         "internalId": 9703,
         "uniqueEntryId": "Fp3ffEayi79Wh6bQ7",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -3335,6 +3438,7 @@
         "filename": "BottomsTexPantsHalfCargo3",
         "internalId": 8837,
         "uniqueEntryId": "XfSgGJoDQJY77dQhg",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -3357,6 +3461,7 @@
         "filename": "BottomsTexPantsHalfCargo2",
         "internalId": 8836,
         "uniqueEntryId": "kNKe7u4ZsvCie9ENh",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -3379,6 +3484,7 @@
         "filename": "BottomsTexPantsHalfCargo1",
         "internalId": 8835,
         "uniqueEntryId": "vEnqBX2onCbeNqtit",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -3401,6 +3507,7 @@
         "filename": "BottomsTexPantsHalfCargo4",
         "internalId": 8838,
         "uniqueEntryId": "7yRKReQZ3PzPXPYy3",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -3423,6 +3530,7 @@
         "filename": "BottomsTexPantsHalfCargo0",
         "internalId": 4150,
         "uniqueEntryId": "YcGuBwEQnJECddEic",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -3488,6 +3596,7 @@
         "filename": "BottomsTexPantsWideEasy1",
         "internalId": 9714,
         "uniqueEntryId": "Za9fHScKzquRFg3aJ",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -3510,6 +3619,7 @@
         "filename": "BottomsTexPantsWideEasy4",
         "internalId": 9717,
         "uniqueEntryId": "drkTQr6MAuptTbKBJ",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -3532,6 +3642,7 @@
         "filename": "BottomsTexPantsWideEasy2",
         "internalId": 9715,
         "uniqueEntryId": "fycsBvwX3NiuWvksP",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -3554,6 +3665,7 @@
         "filename": "BottomsTexPantsWideEasy0",
         "internalId": 4430,
         "uniqueEntryId": "bpJ3hEuxXj9AKNHif",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -3576,6 +3688,7 @@
         "filename": "BottomsTexPantsWideEasy5",
         "internalId": 9718,
         "uniqueEntryId": "LSuTt2QkyYrdL5DmZ",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -3598,6 +3711,7 @@
         "filename": "BottomsTexPantsWideEasy3",
         "internalId": 9716,
         "uniqueEntryId": "i4JcDRnsLP5JZWuC8",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -3661,6 +3775,7 @@
         "filename": "BottomsTexPantsNormalChain2",
         "internalId": 9243,
         "uniqueEntryId": "aN2dkxJ7b7nCP8XaX",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Black"
@@ -3683,6 +3798,7 @@
         "filename": "BottomsTexPantsNormalChain3",
         "internalId": 9244,
         "uniqueEntryId": "H595qDsKwRawC5sz2",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -3705,6 +3821,7 @@
         "filename": "BottomsTexPantsNormalChain0",
         "internalId": 4255,
         "uniqueEntryId": "S5Ra4nkP7ouR66Ruf",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -3727,6 +3844,7 @@
         "filename": "BottomsTexPantsNormalChain1",
         "internalId": 9242,
         "uniqueEntryId": "RQazrWjLj5YkG9XEq",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -3794,6 +3912,7 @@
         "filename": "BottomsTexPantsNormalChino4",
         "internalId": 4178,
         "uniqueEntryId": "D6KCYWuZqY88CAATu",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -3816,6 +3935,7 @@
         "filename": "BottomsTexPantsNormalChino5",
         "internalId": 9013,
         "uniqueEntryId": "pgrmQRsgR2qgxwJ8t",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -3838,6 +3958,7 @@
         "filename": "BottomsTexPantsNormalChino7",
         "internalId": 9015,
         "uniqueEntryId": "TwhDtvuDCotbDtKKh",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -3860,6 +3981,7 @@
         "filename": "BottomsTexPantsNormalChino3",
         "internalId": 4177,
         "uniqueEntryId": "S6pSqRksTsdzBi2Yk",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -3882,6 +4004,7 @@
         "filename": "BottomsTexPantsNormalChino6",
         "internalId": 9014,
         "uniqueEntryId": "afD5PHF2cBvnKi8ES",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -3904,6 +4027,7 @@
         "filename": "BottomsTexPantsNormalChino2",
         "internalId": 4176,
         "uniqueEntryId": "7NcEMTxER9ww3sA5B",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -3926,6 +4050,7 @@
         "filename": "BottomsTexPantsNormalChino1",
         "internalId": 4175,
         "uniqueEntryId": "uf6Lr8ddF7urXKan3",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -3948,6 +4073,7 @@
         "filename": "BottomsTexPantsNormalChino0",
         "internalId": 3308,
         "uniqueEntryId": "4bM6obTFKJ3B2PGEL",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -4012,6 +4138,7 @@
         "filename": "BottomsTexSkirtLongEnaguas0",
         "internalId": 5665,
         "uniqueEntryId": "dkj7vqFes2bnYp9hW",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Green"
@@ -4034,6 +4161,7 @@
         "filename": "BottomsTexSkirtLongEnaguas4",
         "internalId": 8746,
         "uniqueEntryId": "ZQGSEG9RP9sqfa7ia",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Blue"
@@ -4056,6 +4184,7 @@
         "filename": "BottomsTexSkirtLongEnaguas2",
         "internalId": 8744,
         "uniqueEntryId": "pn9yS5D9FtupYJ6WR",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Green"
@@ -4078,6 +4207,7 @@
         "filename": "BottomsTexSkirtLongEnaguas3",
         "internalId": 8745,
         "uniqueEntryId": "Ly94vKvqsqm4xJ2Zt",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Pink"
@@ -4100,6 +4230,7 @@
         "filename": "BottomsTexSkirtLongEnaguas1",
         "internalId": 8743,
         "uniqueEntryId": "84sm6aSEFS2uH3H5B",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Orange"
@@ -4167,6 +4298,7 @@
         "filename": "BottomsTexPantsNormalComedian7",
         "internalId": 11378,
         "uniqueEntryId": "6KpRqiQ7reR2rRuJt",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Black"
@@ -4189,6 +4321,7 @@
         "filename": "BottomsTexPantsNormalComedian2",
         "internalId": 11373,
         "uniqueEntryId": "dfbDHy7bcSL65F5iS",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -4211,6 +4344,7 @@
         "filename": "BottomsTexPantsNormalComedian0",
         "internalId": 5736,
         "uniqueEntryId": "2AgN6yfDb4J7vkrLw",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Black"
@@ -4233,6 +4367,7 @@
         "filename": "BottomsTexPantsNormalComedian3",
         "internalId": 11374,
         "uniqueEntryId": "cFJbT39oyaosBJgZW",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -4255,6 +4390,7 @@
         "filename": "BottomsTexPantsNormalComedian4",
         "internalId": 11375,
         "uniqueEntryId": "xxqufwfX3RAtXGEwG",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -4277,6 +4413,7 @@
         "filename": "BottomsTexPantsNormalComedian6",
         "internalId": 11377,
         "uniqueEntryId": "ujrZCxQMHg5xpQDmg",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -4299,6 +4436,7 @@
         "filename": "BottomsTexPantsNormalComedian1",
         "internalId": 11372,
         "uniqueEntryId": "ZMNbGsd6ohsAeMdWP",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -4321,6 +4459,7 @@
         "filename": "BottomsTexPantsNormalComedian5",
         "internalId": 11376,
         "uniqueEntryId": "ebEXKa53MZCSMJk6M",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -4386,6 +4525,7 @@
         "filename": "BottomsTexPantsWideCorduroy4",
         "internalId": 9728,
         "uniqueEntryId": "sivNDyug23pyzX5vX",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -4408,6 +4548,7 @@
         "filename": "BottomsTexPantsWideCorduroy5",
         "internalId": 9729,
         "uniqueEntryId": "jghFRrscG3LNw3Zjs",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -4430,6 +4571,7 @@
         "filename": "BottomsTexPantsWideCorduroy2",
         "internalId": 9726,
         "uniqueEntryId": "C7Z2sj3c25KN5NbXX",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -4452,6 +4594,7 @@
         "filename": "BottomsTexPantsWideCorduroy0",
         "internalId": 4602,
         "uniqueEntryId": "eYgbZsTTRhZiKqeJL",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -4474,6 +4617,7 @@
         "filename": "BottomsTexPantsWideCorduroy3",
         "internalId": 9727,
         "uniqueEntryId": "bpSpcGFuw6ev9G4DM",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -4496,6 +4640,7 @@
         "filename": "BottomsTexPantsWideCorduroy1",
         "internalId": 9725,
         "uniqueEntryId": "4NBNcdENnPc6CQ9Tg",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -4561,6 +4706,7 @@
         "filename": "BottomsTexSkirtBoxCorduroy4",
         "internalId": 11148,
         "uniqueEntryId": "s2NQ2ErkM9ww5n2yR",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -4583,6 +4729,7 @@
         "filename": "BottomsTexSkirtBoxCorduroy5",
         "internalId": 11149,
         "uniqueEntryId": "gQpa9CCG6BtGZ3p8Y",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -4605,6 +4752,7 @@
         "filename": "BottomsTexSkirtBoxCorduroy2",
         "internalId": 11146,
         "uniqueEntryId": "SEAWj7xusERnyPfX2",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -4627,6 +4775,7 @@
         "filename": "BottomsTexSkirtBoxCorduroy1",
         "internalId": 11145,
         "uniqueEntryId": "j87g2ybZPiMSuFM3c",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -4649,6 +4798,7 @@
         "filename": "BottomsTexSkirtBoxCorduroy3",
         "internalId": 11147,
         "uniqueEntryId": "rsn5a7ewFoKZwqGBM",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -4671,6 +4821,7 @@
         "filename": "BottomsTexSkirtBoxCorduroy0",
         "internalId": 4296,
         "uniqueEntryId": "hkh2BatWWHbp4Takj",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -4733,6 +4884,7 @@
         "filename": "BottomsTexSkirtLongCorte1",
         "internalId": 8747,
         "uniqueEntryId": "BT4nLGNxHn76pGAGS",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Red"
@@ -4755,6 +4907,7 @@
         "filename": "BottomsTexSkirtLongCorte2",
         "internalId": 8748,
         "uniqueEntryId": "XvWSD3qqc2S4ngTbn",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -4777,6 +4930,7 @@
         "filename": "BottomsTexSkirtLongCorte0",
         "internalId": 5781,
         "uniqueEntryId": "QztEA2BHy6k26G47J",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Blue"
@@ -4844,6 +4998,7 @@
         "filename": "BottomsTexPantsNormalCropped1",
         "internalId": 9707,
         "uniqueEntryId": "3kxw3nFpQHeNdweep",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -4866,6 +5021,7 @@
         "filename": "BottomsTexPantsNormalCropped0",
         "internalId": 4408,
         "uniqueEntryId": "AMgJhWiZ3cwDzCE4L",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -4888,6 +5044,7 @@
         "filename": "BottomsTexPantsNormalCropped2",
         "internalId": 9708,
         "uniqueEntryId": "DXthceTZC45rJ3zSL",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -4910,6 +5067,7 @@
         "filename": "BottomsTexPantsNormalCropped5",
         "internalId": 9711,
         "uniqueEntryId": "fWnwgErZPiu6iCNEF",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -4932,6 +5090,7 @@
         "filename": "BottomsTexPantsNormalCropped7",
         "internalId": 9713,
         "uniqueEntryId": "2CgLvY2RgEmj7tKBT",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -4954,6 +5113,7 @@
         "filename": "BottomsTexPantsNormalCropped3",
         "internalId": 9709,
         "uniqueEntryId": "mAxKFpZasiLL3zbvp",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -4976,6 +5136,7 @@
         "filename": "BottomsTexPantsNormalCropped6",
         "internalId": 9712,
         "uniqueEntryId": "2PdktqSeZMosQpqPG",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -4998,6 +5159,7 @@
         "filename": "BottomsTexPantsNormalCropped4",
         "internalId": 9710,
         "uniqueEntryId": "zKAAToR2hxStXvw9a",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -5061,6 +5223,7 @@
         "filename": "BottomsTexPantsWideSusomise3",
         "internalId": 9265,
         "uniqueEntryId": "am6sZqRcWeCFrFMXR",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Yellow"
@@ -5083,6 +5246,7 @@
         "filename": "BottomsTexPantsWideSusomise2",
         "internalId": 9264,
         "uniqueEntryId": "qL7Y8MZrKWirDf6ZZ",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -5105,6 +5269,7 @@
         "filename": "BottomsTexPantsWideSusomise1",
         "internalId": 9263,
         "uniqueEntryId": "FJhjZmdbL3vDw48fH",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Pink"
@@ -5127,6 +5292,7 @@
         "filename": "BottomsTexPantsWideSusomise0",
         "internalId": 3353,
         "uniqueEntryId": "3LaTyaJxffCQu8SAt",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Beige"
@@ -5190,6 +5356,7 @@
         "filename": "BottomsTexPantsHotCulotte1",
         "internalId": 6842,
         "uniqueEntryId": "x9PFQGeAAT5iNmgjj",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -5212,6 +5379,7 @@
         "filename": "BottomsTexPantsHotCulotte2",
         "internalId": 8864,
         "uniqueEntryId": "GEG3RYzADsSxdt38c",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -5234,6 +5402,7 @@
         "filename": "BottomsTexPantsHotCulotte3",
         "internalId": 8865,
         "uniqueEntryId": "SQWJ8DzsM6ry2kTeg",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -5256,6 +5425,7 @@
         "filename": "BottomsTexPantsHotCulotte0",
         "internalId": 4444,
         "uniqueEntryId": "RgAErh45t95DZ8Nn4",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -5319,6 +5489,7 @@
         "filename": "BottomsTexSkirtLongCutleather3",
         "internalId": 10214,
         "uniqueEntryId": "fAuc7GZHMFQTx4CFc",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -5341,6 +5512,7 @@
         "filename": "BottomsTexSkirtLongCutleather1",
         "internalId": 10212,
         "uniqueEntryId": "4yn6GrC7rawbQjqfK",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -5363,6 +5535,7 @@
         "filename": "BottomsTexSkirtLongCutleather0",
         "internalId": 5810,
         "uniqueEntryId": "8r7m68QdwqXr8epLs",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -5385,6 +5558,7 @@
         "filename": "BottomsTexSkirtLongCutleather2",
         "internalId": 10213,
         "uniqueEntryId": "o9gdhykGrGLeE45fn",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -5452,6 +5626,7 @@
         "filename": "BottomsTexPantsNormalCycle2",
         "internalId": 11301,
         "uniqueEntryId": "52MTmeEAG46xvAb9s",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Red"
@@ -5474,6 +5649,7 @@
         "filename": "BottomsTexPantsNormalCycle1",
         "internalId": 11300,
         "uniqueEntryId": "9vh2QAKuomxh5Kbta",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Blue"
@@ -5496,6 +5672,7 @@
         "filename": "BottomsTexPantsNormalCycle0",
         "internalId": 4514,
         "uniqueEntryId": "ef7kY3mvZ7Xk5jPWa",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Red"
@@ -5518,6 +5695,7 @@
         "filename": "BottomsTexPantsNormalCycle7",
         "internalId": 11306,
         "uniqueEntryId": "oYfNtrQiHbFMhT92j",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Pink"
@@ -5540,6 +5718,7 @@
         "filename": "BottomsTexPantsNormalCycle5",
         "internalId": 11304,
         "uniqueEntryId": "FoKGJ4QjcBpwydgyG",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Orange"
@@ -5562,6 +5741,7 @@
         "filename": "BottomsTexPantsNormalCycle3",
         "internalId": 11302,
         "uniqueEntryId": "MFtRt3sF9Z7dEr7aN",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Yellow"
@@ -5584,6 +5764,7 @@
         "filename": "BottomsTexPantsNormalCycle4",
         "internalId": 11303,
         "uniqueEntryId": "bguvHHqsen4aQwRny",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Green"
@@ -5606,6 +5787,7 @@
         "filename": "BottomsTexPantsNormalCycle6",
         "internalId": 11305,
         "uniqueEntryId": "vrogRCEDBGCmNmfdc",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Purple"
@@ -5669,6 +5851,7 @@
         "filename": "BottomsTexPantsWideCool1",
         "internalId": 11395,
         "uniqueEntryId": "2QxKM3mAxYXq5qskp",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Yellow"
@@ -5691,6 +5874,7 @@
         "filename": "BottomsTexPantsWideCool0",
         "internalId": 5341,
         "uniqueEntryId": "ZTZwYwqz2n9qW53Mi",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Yellow"
@@ -5713,6 +5897,7 @@
         "filename": "BottomsTexPantsWideCool3",
         "internalId": 11397,
         "uniqueEntryId": "fiwEXBH5Y8oqgaDJ5",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Yellow"
@@ -5735,6 +5920,7 @@
         "filename": "BottomsTexPantsWideCool2",
         "internalId": 11396,
         "uniqueEntryId": "q55f5tgKiTLQvpmJf",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Yellow"
@@ -5799,6 +5985,7 @@
         "filename": "BottomsTexPantsHotDenim0",
         "internalId": 4274,
         "uniqueEntryId": "Kv8PYshxcyKKdmyhX",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -5821,6 +6008,7 @@
         "filename": "BottomsTexPantsHotDenim3",
         "internalId": 11439,
         "uniqueEntryId": "THnK5A7xGdsBLo8Pp",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -5843,6 +6031,7 @@
         "filename": "BottomsTexPantsHotDenim4",
         "internalId": 11440,
         "uniqueEntryId": "SzPQyd6uxYRKWW8kY",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -5865,6 +6054,7 @@
         "filename": "BottomsTexPantsHotDenim1",
         "internalId": 11437,
         "uniqueEntryId": "ym3PWLnmFQcWyJ4d4",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -5887,6 +6077,7 @@
         "filename": "BottomsTexPantsHotDenim2",
         "internalId": 11438,
         "uniqueEntryId": "ypCqhyLDBAuqh4fbt",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -5951,6 +6142,7 @@
         "filename": "BottomsTexPantsWideDenim0",
         "internalId": 4326,
         "uniqueEntryId": "ceiiX7GP8z5jcbuTD",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -5973,6 +6165,7 @@
         "filename": "BottomsTexPantsWideDenim4",
         "internalId": 11444,
         "uniqueEntryId": "fjFfcnuP6AspciSsy",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -5995,6 +6188,7 @@
         "filename": "BottomsTexPantsWideDenim3",
         "internalId": 11443,
         "uniqueEntryId": "Hjej972wpF6ACEpwh",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -6017,6 +6211,7 @@
         "filename": "BottomsTexPantsWideDenim1",
         "internalId": 11441,
         "uniqueEntryId": "HzSnkzELNBWK4yCPF",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -6039,6 +6234,7 @@
         "filename": "BottomsTexPantsWideDenim2",
         "internalId": 11442,
         "uniqueEntryId": "RDTrkZNQcQfic5BjR",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -6103,6 +6299,7 @@
         "filename": "BottomsTexPantsNormalDenim0",
         "internalId": 2403,
         "uniqueEntryId": "DpJvPcpkWgRqisKcL",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Brown"
@@ -6125,6 +6322,7 @@
         "filename": "BottomsTexPantsNormalDenim4",
         "internalId": 9011,
         "uniqueEntryId": "sH4QKboThjrZCQN6w",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Black"
@@ -6147,6 +6345,7 @@
         "filename": "BottomsTexPantsNormalDenim3",
         "internalId": 4188,
         "uniqueEntryId": "QgsJKasays7kidmWx",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -6169,6 +6368,7 @@
         "filename": "BottomsTexPantsNormalDenim1",
         "internalId": 4186,
         "uniqueEntryId": "izYciEGnwPJ7Erg3p",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Brown"
@@ -6191,6 +6391,7 @@
         "filename": "BottomsTexPantsNormalDenim2",
         "internalId": 4187,
         "uniqueEntryId": "zSsve7gJc6zCaLnpW",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Brown"
@@ -6255,6 +6456,7 @@
         "filename": "BottomsTexSkirtBoxDenim0",
         "internalId": 4246,
         "uniqueEntryId": "vfhfZyEpu3Mcf2wAy",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -6277,6 +6479,7 @@
         "filename": "BottomsTexSkirtBoxDenim4",
         "internalId": 11433,
         "uniqueEntryId": "KSAGPGrfmWBy6pigt",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -6299,6 +6502,7 @@
         "filename": "BottomsTexSkirtBoxDenim3",
         "internalId": 11432,
         "uniqueEntryId": "2NZnFeDdBNbi8GZSj",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -6321,6 +6525,7 @@
         "filename": "BottomsTexSkirtBoxDenim1",
         "internalId": 11430,
         "uniqueEntryId": "498nbZBktiBQLfwKp",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -6343,6 +6548,7 @@
         "filename": "BottomsTexSkirtBoxDenim2",
         "internalId": 11431,
         "uniqueEntryId": "KtBuYGSet8Encdqvy",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -6404,6 +6610,7 @@
         "filename": "BottomsTexPantsHotDotgold1",
         "internalId": 8915,
         "uniqueEntryId": "Ps3tCz2qEf8e7K4Jq",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Yellow"
@@ -6426,6 +6633,7 @@
         "filename": "BottomsTexPantsHotDotgold0",
         "internalId": 4523,
         "uniqueEntryId": "HuouSMhXorBsF2tf9",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Brown"
@@ -6493,6 +6701,7 @@
         "filename": "BottomsTexPantsNormalDown3",
         "internalId": 11265,
         "uniqueEntryId": "4LAK548pbxr8HzPnb",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -6515,6 +6724,7 @@
         "filename": "BottomsTexPantsNormalDown1",
         "internalId": 11263,
         "uniqueEntryId": "z233kJawJeJET3qa8",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -6537,6 +6747,7 @@
         "filename": "BottomsTexPantsNormalDown2",
         "internalId": 11264,
         "uniqueEntryId": "y7GbDiW9p3uWGhmFE",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -6559,6 +6770,7 @@
         "filename": "BottomsTexPantsNormalDown6",
         "internalId": 11268,
         "uniqueEntryId": "AMTdn9MsNLKpDEWx2",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -6581,6 +6793,7 @@
         "filename": "BottomsTexPantsNormalDown5",
         "internalId": 11267,
         "uniqueEntryId": "ndGsiwDgZcpGP69rL",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -6603,6 +6816,7 @@
         "filename": "BottomsTexPantsNormalDown7",
         "internalId": 11269,
         "uniqueEntryId": "fu6ZGqKNMtZQyYzq7",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -6625,6 +6839,7 @@
         "filename": "BottomsTexPantsNormalDown4",
         "internalId": 11266,
         "uniqueEntryId": "ezyQsKqbiFkxN33yb",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -6647,6 +6862,7 @@
         "filename": "BottomsTexPantsNormalDown0",
         "internalId": 4256,
         "uniqueEntryId": "FzsL6Xz7obxkJrytM",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -6714,6 +6930,7 @@
         "filename": "BottomsTexSkirtBoxDown3",
         "internalId": 11330,
         "uniqueEntryId": "7X4aN5KCzFXWL8P9s",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -6736,6 +6953,7 @@
         "filename": "BottomsTexSkirtBoxDown1",
         "internalId": 11328,
         "uniqueEntryId": "dBkF3Zf6oWLg3Gt4y",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -6758,6 +6976,7 @@
         "filename": "BottomsTexSkirtBoxDown2",
         "internalId": 11329,
         "uniqueEntryId": "QCezqDHXCah3TBZaz",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -6780,6 +6999,7 @@
         "filename": "BottomsTexSkirtBoxDown6",
         "internalId": 11333,
         "uniqueEntryId": "6oMwW9rekLGpZTvWq",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -6802,6 +7022,7 @@
         "filename": "BottomsTexSkirtBoxDown5",
         "internalId": 11332,
         "uniqueEntryId": "tvwaCKBZWKXPgnYk6",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -6824,6 +7045,7 @@
         "filename": "BottomsTexSkirtBoxDown7",
         "internalId": 11334,
         "uniqueEntryId": "KAqonXaQTynmzJpM6",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -6846,6 +7068,7 @@
         "filename": "BottomsTexSkirtBoxDown4",
         "internalId": 11331,
         "uniqueEntryId": "Hx5JtwDLQhPrihaYM",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -6868,6 +7091,7 @@
         "filename": "BottomsTexSkirtBoxDown0",
         "internalId": 4266,
         "uniqueEntryId": "3wL2E3cZSa4aRkHGz",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -6935,6 +7159,7 @@
         "filename": "BottomsTexSkirtLongDrape3",
         "internalId": 11658,
         "uniqueEntryId": "7Cq9eFLxn57JAcrTo",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -6957,6 +7182,7 @@
         "filename": "BottomsTexSkirtLongDrape0",
         "internalId": 4505,
         "uniqueEntryId": "yZoqHMZqpbCWxRupR",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -6979,6 +7205,7 @@
         "filename": "BottomsTexSkirtLongDrape5",
         "internalId": 11660,
         "uniqueEntryId": "QEXkG9fkbrQw7d44e",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -7001,6 +7228,7 @@
         "filename": "BottomsTexSkirtLongDrape4",
         "internalId": 11659,
         "uniqueEntryId": "wd9z4LFNDH8LaF3JD",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -7023,6 +7251,7 @@
         "filename": "BottomsTexSkirtLongDrape1",
         "internalId": 11656,
         "uniqueEntryId": "DM6hBScxAq4ebriqJ",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -7045,6 +7274,7 @@
         "filename": "BottomsTexSkirtLongDrape7",
         "internalId": 11662,
         "uniqueEntryId": "NJWeNW7PagKY9xcTv",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -7067,6 +7297,7 @@
         "filename": "BottomsTexSkirtLongDrape2",
         "internalId": 11657,
         "uniqueEntryId": "zNjaggXwY25wcX5dF",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -7089,6 +7320,7 @@
         "filename": "BottomsTexSkirtLongDrape6",
         "internalId": 11661,
         "uniqueEntryId": "m648ufsymAXe5gCT2",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "White"
@@ -7152,6 +7384,7 @@
         "filename": "BottomsTexPantsWideYumekawa0",
         "internalId": 5923,
         "uniqueEntryId": "qxz4uFbtDijhELoSY",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Purple"
@@ -7174,6 +7407,7 @@
         "filename": "BottomsTexPantsWideYumekawa2",
         "internalId": 9195,
         "uniqueEntryId": "2T8YtpzT8Q9JEer7j",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Purple"
@@ -7196,6 +7430,7 @@
         "filename": "BottomsTexPantsWideYumekawa1",
         "internalId": 9194,
         "uniqueEntryId": "MTyieKigAqK73aGWS",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Purple"
@@ -7218,6 +7453,7 @@
         "filename": "BottomsTexPantsWideYumekawa3",
         "internalId": 9196,
         "uniqueEntryId": "tqtyCzjYMSQyFc9s6",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Purple"
@@ -7281,6 +7517,7 @@
         "filename": "BottomsTexPantsWideSchool3",
         "internalId": 11406,
         "uniqueEntryId": "hGGMn4vHorqBCaPbT",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -7303,6 +7540,7 @@
         "filename": "BottomsTexPantsWideSchool0",
         "internalId": 3405,
         "uniqueEntryId": "YB8iwLz2z8nhBcNXR",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -7325,6 +7563,7 @@
         "filename": "BottomsTexPantsWideSchool1",
         "internalId": 11404,
         "uniqueEntryId": "jjGzTyNa4ZaLdqJz7",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -7347,6 +7586,7 @@
         "filename": "BottomsTexPantsWideSchool2",
         "internalId": 11405,
         "uniqueEntryId": "BZRAPb4eYcA6kcHei",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Black"
@@ -7412,6 +7652,7 @@
         "filename": "BottomsTexPantsWideThail5",
         "internalId": 9188,
         "uniqueEntryId": "H2GKWBafcBg2xpnAv",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Gray"
@@ -7434,6 +7675,7 @@
         "filename": "BottomsTexPantsWideThail0",
         "internalId": 5735,
         "uniqueEntryId": "TptfethckFaEv2umX",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Beige"
@@ -7456,6 +7698,7 @@
         "filename": "BottomsTexPantsWideThail2",
         "internalId": 9185,
         "uniqueEntryId": "H3xYakEHJu4PDqqBv",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Beige"
@@ -7478,6 +7721,7 @@
         "filename": "BottomsTexPantsWideThail3",
         "internalId": 9186,
         "uniqueEntryId": "adfKNMuuNk5hnokLz",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Beige"
@@ -7500,6 +7744,7 @@
         "filename": "BottomsTexPantsWideThail1",
         "internalId": 9184,
         "uniqueEntryId": "vRpzBD9yEctZm3Ypg",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Light blue"
@@ -7522,6 +7767,7 @@
         "filename": "BottomsTexPantsWideThail4",
         "internalId": 9187,
         "uniqueEntryId": "Nc42fqDjjkTbGAw5F",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -7584,6 +7830,7 @@
         "filename": "BottomsTexPantsWidePrintdenim0",
         "internalId": 5459,
         "uniqueEntryId": "nL8iXvEk3KyGuN6dN",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Red"
@@ -7606,6 +7853,7 @@
         "filename": "BottomsTexPantsWidePrintdenim2",
         "internalId": 9540,
         "uniqueEntryId": "bHgq9muErTbDvecaH",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Gray"
@@ -7628,6 +7876,7 @@
         "filename": "BottomsTexPantsWidePrintdenim1",
         "internalId": 9539,
         "uniqueEntryId": "tea9oG7cEbx48Mpwd",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -7690,6 +7939,7 @@
         "filename": "BottomsTexSkirtLongEmbroidery2",
         "internalId": 8737,
         "uniqueEntryId": "E9i6TADw7SYbhTrQx",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Orange"
@@ -7712,6 +7962,7 @@
         "filename": "BottomsTexSkirtLongEmbroidery0",
         "internalId": 4547,
         "uniqueEntryId": "3puHTTuuCW8zSegSS",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Light blue"
@@ -7734,6 +7985,7 @@
         "filename": "BottomsTexSkirtLongEmbroidery1",
         "internalId": 8736,
         "uniqueEntryId": "JAsz32D72zGzZkqus",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Purple"
@@ -7796,6 +8048,7 @@
         "filename": "BottomsTexSkirtLongGeometric2",
         "internalId": 8739,
         "uniqueEntryId": "95X4egfZWzLpqXHnG",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -7818,6 +8071,7 @@
         "filename": "BottomsTexSkirtLongGeometric1",
         "internalId": 8738,
         "uniqueEntryId": "vGos45xxvLFD2hpNu",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -7840,6 +8094,7 @@
         "filename": "BottomsTexSkirtLongGeometric0",
         "internalId": 4548,
         "uniqueEntryId": "rnhaZHTvdzMZBjSqQ",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -7903,6 +8158,7 @@
         "filename": "BottomsTexPantsHalfExplorer2",
         "internalId": 12069,
         "uniqueEntryId": "5AftSjCxYkFX3D2T9",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -7925,6 +8181,7 @@
         "filename": "BottomsTexPantsHalfExplorer1",
         "internalId": 12068,
         "uniqueEntryId": "4M5CJwGuT64GeSaLQ",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -7947,6 +8204,7 @@
         "filename": "BottomsTexPantsHalfExplorer3",
         "internalId": 12070,
         "uniqueEntryId": "FjY7RDn9pa37x83oK",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -7969,6 +8227,7 @@
         "filename": "BottomsTexPantsHalfExplorer0",
         "internalId": 9841,
         "uniqueEntryId": "TauZEXz8mGuXTcxy3",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -8033,6 +8292,7 @@
         "filename": "BottomsTexSkirtAlineFur2",
         "internalId": 8795,
         "uniqueEntryId": "sB4fadAttyksKamG4",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -8055,6 +8315,7 @@
         "filename": "BottomsTexSkirtAlineFur1",
         "internalId": 8794,
         "uniqueEntryId": "DE6yhBPSroP6SSYXT",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -8077,6 +8338,7 @@
         "filename": "BottomsTexSkirtAlineFur0",
         "internalId": 5415,
         "uniqueEntryId": "xC4BjxNbbBaDnSKPY",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -8099,6 +8361,7 @@
         "filename": "BottomsTexSkirtAlineFur3",
         "internalId": 8796,
         "uniqueEntryId": "kMTt78m6kS9jSX6yD",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "White"
@@ -8121,6 +8384,7 @@
         "filename": "BottomsTexSkirtAlineFur4",
         "internalId": 8797,
         "uniqueEntryId": "nFYDGbYaJ8pX935Pa",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "White"
@@ -8185,6 +8449,7 @@
         "filename": "BottomsTexSkirtBoxMouton4",
         "internalId": 11338,
         "uniqueEntryId": "QW95DS3pd7MD8WjWr",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "White"
@@ -8207,6 +8472,7 @@
         "filename": "BottomsTexSkirtBoxMouton3",
         "internalId": 11337,
         "uniqueEntryId": "aCDhfD5BfTYLG3qXu",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -8229,6 +8495,7 @@
         "filename": "BottomsTexSkirtBoxMouton1",
         "internalId": 11335,
         "uniqueEntryId": "8GMFDPcrFsX3ymhzB",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -8251,6 +8518,7 @@
         "filename": "BottomsTexSkirtBoxMouton2",
         "internalId": 11336,
         "uniqueEntryId": "2pb7ShdzGnCQPBiNW",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -8273,6 +8541,7 @@
         "filename": "BottomsTexSkirtBoxMouton0",
         "internalId": 5704,
         "uniqueEntryId": "tbkDAFjHkzEi6we7W",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "White"
@@ -8337,6 +8606,7 @@
         "filename": "BottomsTexSkirtAlineFlare1",
         "internalId": 8790,
         "uniqueEntryId": "yzAzKqfeZNyMgHpXA",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -8359,6 +8629,7 @@
         "filename": "BottomsTexSkirtAlineFlare0",
         "internalId": 4614,
         "uniqueEntryId": "aRBpzu6mqFcYYd5uP",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -8381,6 +8652,7 @@
         "filename": "BottomsTexSkirtAlineFlare2",
         "internalId": 8791,
         "uniqueEntryId": "Z2cE6GSDY33GgqM85",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -8403,6 +8675,7 @@
         "filename": "BottomsTexSkirtAlineFlare3",
         "internalId": 8792,
         "uniqueEntryId": "EvfJFFcK8joNcCb2Q",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -8425,6 +8698,7 @@
         "filename": "BottomsTexSkirtAlineFlare4",
         "internalId": 8793,
         "uniqueEntryId": "B36kirhtF9EWoiBrr",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -8490,6 +8764,7 @@
         "filename": "BottomsTexPantsNormalSlacksgaudy0",
         "internalId": 3408,
         "uniqueEntryId": "5jce5PN9sChgYiXyw",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Black"
@@ -8512,6 +8787,7 @@
         "filename": "BottomsTexPantsNormalSlacksgaudy1",
         "internalId": 11354,
         "uniqueEntryId": "QaLiuAsBfGP7ZtYhj",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -8534,6 +8810,7 @@
         "filename": "BottomsTexPantsNormalSlacksgaudy3",
         "internalId": 11356,
         "uniqueEntryId": "mcWW6kW87v3hcrNJ9",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -8556,6 +8833,7 @@
         "filename": "BottomsTexPantsNormalSlacksgaudy5",
         "internalId": 11358,
         "uniqueEntryId": "DrJANPn82YoBTnNHM",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -8578,6 +8856,7 @@
         "filename": "BottomsTexPantsNormalSlacksgaudy4",
         "internalId": 11357,
         "uniqueEntryId": "qGu8Qna2nTnNpm4SK",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -8600,6 +8879,7 @@
         "filename": "BottomsTexPantsNormalSlacksgaudy2",
         "internalId": 11355,
         "uniqueEntryId": "xu4DZY2htaXCGNDwu",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -8667,6 +8947,7 @@
         "filename": "BottomsTexSkirtBoxLace7",
         "internalId": 11655,
         "uniqueEntryId": "HCxGmyoHRzEp9ZeBi",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -8689,6 +8970,7 @@
         "filename": "BottomsTexSkirtBoxLace3",
         "internalId": 11651,
         "uniqueEntryId": "cyedaR7oqKZDDJBGo",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -8711,6 +8993,7 @@
         "filename": "BottomsTexSkirtBoxLace1",
         "internalId": 11649,
         "uniqueEntryId": "9SN8GjYjQ9HnnQocy",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -8733,6 +9016,7 @@
         "filename": "BottomsTexSkirtBoxLace4",
         "internalId": 11652,
         "uniqueEntryId": "8oa3cezyGixJNiEqu",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -8755,6 +9039,7 @@
         "filename": "BottomsTexSkirtBoxLace5",
         "internalId": 11653,
         "uniqueEntryId": "xze362wgyGn26qr5p",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -8777,6 +9062,7 @@
         "filename": "BottomsTexSkirtBoxLace0",
         "internalId": 4612,
         "uniqueEntryId": "ykmHyQELAhqGimL2b",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -8799,6 +9085,7 @@
         "filename": "BottomsTexSkirtBoxLace2",
         "internalId": 11650,
         "uniqueEntryId": "fPevGvERgug8XMjAo",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -8821,6 +9108,7 @@
         "filename": "BottomsTexSkirtBoxLace6",
         "internalId": 11654,
         "uniqueEntryId": "nGeDMCqd44re2bgPn",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -8883,6 +9171,7 @@
         "filename": "BottomsTexSkirtLongFlower2",
         "internalId": 8756,
         "uniqueEntryId": "d6ACYF3PCoekDK6Y2",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Purple"
@@ -8905,6 +9194,7 @@
         "filename": "BottomsTexSkirtLongFlower1",
         "internalId": 8755,
         "uniqueEntryId": "hjXuE9nJSJqpiKpGZ",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Pink"
@@ -8927,6 +9217,7 @@
         "filename": "BottomsTexSkirtLongFlower0",
         "internalId": 5925,
         "uniqueEntryId": "uvcRyALs8z7DoxquB",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Red"
@@ -8994,6 +9285,7 @@
         "filename": "BottomsTexPantsNormalAmericanfootball1",
         "internalId": 12059,
         "uniqueEntryId": "uvft6mzMCCXgEG8qq",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -9016,6 +9308,7 @@
         "filename": "BottomsTexPantsNormalAmericanfootball7",
         "internalId": 12065,
         "uniqueEntryId": "SYWWn8sDx8HYcWq7g",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -9038,6 +9331,7 @@
         "filename": "BottomsTexPantsNormalAmericanfootball3",
         "internalId": 12061,
         "uniqueEntryId": "7C2Drte5pnG4HWur3",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -9060,6 +9354,7 @@
         "filename": "BottomsTexPantsNormalAmericanfootball6",
         "internalId": 12064,
         "uniqueEntryId": "2medp8KJqhz6Hw5mY",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -9082,6 +9377,7 @@
         "filename": "BottomsTexPantsNormalAmericanfootball2",
         "internalId": 12060,
         "uniqueEntryId": "eDDRfF8i5HCRheX2c",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -9104,6 +9400,7 @@
         "filename": "BottomsTexPantsNormalAmericanfootball0",
         "internalId": 9844,
         "uniqueEntryId": "i46kykKLdRQfv3fYD",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -9126,6 +9423,7 @@
         "filename": "BottomsTexPantsNormalAmericanfootball5",
         "internalId": 12063,
         "uniqueEntryId": "fZAgtpoSTH3WdpbL3",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -9148,6 +9446,7 @@
         "filename": "BottomsTexPantsNormalAmericanfootball4",
         "internalId": 12062,
         "uniqueEntryId": "5QFQRHGHvKfrGBR9P",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -9215,6 +9514,7 @@
         "filename": "BottomsTexPantsHalfFormal0",
         "internalId": 4372,
         "uniqueEntryId": "sSaK6D3uiSjFGcAj7",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -9237,6 +9537,7 @@
         "filename": "BottomsTexPantsHalfFormal2",
         "internalId": 9093,
         "uniqueEntryId": "4uFHmdDXq48yrb9C6",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -9259,6 +9560,7 @@
         "filename": "BottomsTexPantsHalfFormal4",
         "internalId": 9095,
         "uniqueEntryId": "xWcqCJyKrQXjWMP9J",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -9281,6 +9583,7 @@
         "filename": "BottomsTexPantsHalfFormal6",
         "internalId": 9097,
         "uniqueEntryId": "fCpCZoJQqTBfYLuCJ",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -9303,6 +9606,7 @@
         "filename": "BottomsTexPantsHalfFormal3",
         "internalId": 9094,
         "uniqueEntryId": "CTYcXMeRYW8vhCWCX",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -9325,6 +9629,7 @@
         "filename": "BottomsTexPantsHalfFormal1",
         "internalId": 9092,
         "uniqueEntryId": "BpHfoBBwXQ9sLTnX3",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -9347,6 +9652,7 @@
         "filename": "BottomsTexPantsHalfFormal5",
         "internalId": 9096,
         "uniqueEntryId": "B9jyFZD7bCa4wbctA",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -9369,6 +9675,7 @@
         "filename": "BottomsTexPantsHalfFormal7",
         "internalId": 9098,
         "uniqueEntryId": "FzZ65NjiwFekCsaBZ",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -9433,6 +9740,7 @@
         "filename": "BottomsTexPantsWideFrilled2",
         "internalId": 9275,
         "uniqueEntryId": "GtwnvbEyK2jaZJGAS",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -9455,6 +9763,7 @@
         "filename": "BottomsTexPantsWideFrilled4",
         "internalId": 9277,
         "uniqueEntryId": "iPsftEvdnvDJsxNHG",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -9477,6 +9786,7 @@
         "filename": "BottomsTexPantsWideFrilled0",
         "internalId": 4369,
         "uniqueEntryId": "jjeTpSRC3v7tGa9Ee",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -9499,6 +9809,7 @@
         "filename": "BottomsTexPantsWideFrilled1",
         "internalId": 9274,
         "uniqueEntryId": "4af3KswsDdeZe4dRY",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -9521,6 +9832,7 @@
         "filename": "BottomsTexPantsWideFrilled3",
         "internalId": 9276,
         "uniqueEntryId": "Yop2kKQ7gCv8sqtdB",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -9586,6 +9898,7 @@
         "filename": "BottomsTexSkirtAlineFrilled5",
         "internalId": 8789,
         "uniqueEntryId": "WTKQPCEJmEDGBJSCH",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -9608,6 +9921,7 @@
         "filename": "BottomsTexSkirtAlineFrilled0",
         "internalId": 4410,
         "uniqueEntryId": "XF4SPyL6LTtxkSYzh",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -9630,6 +9944,7 @@
         "filename": "BottomsTexSkirtAlineFrilled3",
         "internalId": 8787,
         "uniqueEntryId": "vqmrggC7MyvNCDLue",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -9652,6 +9967,7 @@
         "filename": "BottomsTexSkirtAlineFrilled2",
         "internalId": 8786,
         "uniqueEntryId": "rBjtXPf5yoDFQKtMh",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -9674,6 +9990,7 @@
         "filename": "BottomsTexSkirtAlineFrilled1",
         "internalId": 8785,
         "uniqueEntryId": "fG8cCuBmuJhb58M3h",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -9696,6 +10013,7 @@
         "filename": "BottomsTexSkirtAlineFrilled4",
         "internalId": 8788,
         "uniqueEntryId": "3mwCvp9coRcP3ZK5z",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -9761,6 +10079,7 @@
         "filename": "BottomsTexPantsNormalSweatfrill5",
         "internalId": 8802,
         "uniqueEntryId": "frvFycyZzLin2rGxb",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -9783,6 +10102,7 @@
         "filename": "BottomsTexPantsNormalSweatfrill1",
         "internalId": 8798,
         "uniqueEntryId": "goWwi5zjd3suWSKmX",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -9805,6 +10125,7 @@
         "filename": "BottomsTexPantsNormalSweatfrill3",
         "internalId": 8800,
         "uniqueEntryId": "hZDnrbAHvhQzzDuit",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -9827,6 +10148,7 @@
         "filename": "BottomsTexPantsNormalSweatfrill2",
         "internalId": 8799,
         "uniqueEntryId": "pZc6YBKqvipn62ZZC",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -9849,6 +10171,7 @@
         "filename": "BottomsTexPantsNormalSweatfrill0",
         "internalId": 5416,
         "uniqueEntryId": "9aE5tW8ijGHNp7sEw",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -9871,6 +10194,7 @@
         "filename": "BottomsTexPantsNormalSweatfrill4",
         "internalId": 8801,
         "uniqueEntryId": "NJr5LGf6JRotcEcju",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -9937,6 +10261,7 @@
         "filename": "BottomsTexSkirtBoxFringe2",
         "internalId": 10192,
         "uniqueEntryId": "mN2dwus9NspsZXqn2",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -9959,6 +10284,7 @@
         "filename": "BottomsTexSkirtBoxFringe1",
         "internalId": 10191,
         "uniqueEntryId": "mv5Rh3qBvhEj2LArH",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -9981,6 +10307,7 @@
         "filename": "BottomsTexSkirtBoxFringe6",
         "internalId": 10196,
         "uniqueEntryId": "pQv6HTgKnKe8M5QiH",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -10003,6 +10330,7 @@
         "filename": "BottomsTexSkirtBoxFringe4",
         "internalId": 10194,
         "uniqueEntryId": "8pemxX4SBT8KxNZj2",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -10025,6 +10353,7 @@
         "filename": "BottomsTexSkirtBoxFringe5",
         "internalId": 10195,
         "uniqueEntryId": "x7o3AYtAqmhXd2cCH",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -10047,6 +10376,7 @@
         "filename": "BottomsTexSkirtBoxFringe3",
         "internalId": 10193,
         "uniqueEntryId": "6dsgCKFzdoeKMdFru",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -10069,6 +10399,7 @@
         "filename": "BottomsTexSkirtBoxFringe0",
         "internalId": 4307,
         "uniqueEntryId": "ZsgocY2maGNpqGaxw",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -10133,6 +10464,7 @@
         "filename": "BottomsTexPantsWideGaucho0",
         "internalId": 4299,
         "uniqueEntryId": "ucvJL5YFCQ9o2x2dM",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -10155,6 +10487,7 @@
         "filename": "BottomsTexPantsWideGaucho3",
         "internalId": 9268,
         "uniqueEntryId": "HFPGpyH83SfaZ4wXy",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -10177,6 +10510,7 @@
         "filename": "BottomsTexPantsWideGaucho2",
         "internalId": 9267,
         "uniqueEntryId": "jy7chTg2aJBN4eF8S",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -10199,6 +10533,7 @@
         "filename": "BottomsTexPantsWideGaucho4",
         "internalId": 9269,
         "uniqueEntryId": "6zr7iP6iYPdwWKo3Y",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -10221,6 +10556,7 @@
         "filename": "BottomsTexPantsWideGaucho1",
         "internalId": 9266,
         "uniqueEntryId": "o8D49zpNWMuHKGtEN",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -10285,6 +10621,7 @@
         "filename": "BottomsTexPantsNormalChimayo3",
         "internalId": 9191,
         "uniqueEntryId": "Ba59zqpnxnoinpvA2",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Blue"
@@ -10307,6 +10644,7 @@
         "filename": "BottomsTexPantsNormalChimayo1",
         "internalId": 9189,
         "uniqueEntryId": "EXahMofijrzoK7d4k",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Beige"
@@ -10329,6 +10667,7 @@
         "filename": "BottomsTexPantsNormalChimayo4",
         "internalId": 9192,
         "uniqueEntryId": "6ihFndRxfynQpC5oe",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Green"
@@ -10351,6 +10690,7 @@
         "filename": "BottomsTexPantsNormalChimayo0",
         "internalId": 5795,
         "uniqueEntryId": "KnvsHTwKxnp4sbGyF",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Red"
@@ -10373,6 +10713,7 @@
         "filename": "BottomsTexPantsNormalChimayo2",
         "internalId": 9190,
         "uniqueEntryId": "XD7h2WiQxjHB9YL5q",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Green"
@@ -10440,6 +10781,7 @@
         "filename": "BottomsTexSkirtAlineGingham3",
         "internalId": 12194,
         "uniqueEntryId": "358kKFuPBqMSY6upv",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -10462,6 +10804,7 @@
         "filename": "BottomsTexSkirtAlineGingham0",
         "internalId": 3319,
         "uniqueEntryId": "n3xXsiZ8hEZRPWYMm",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -10484,6 +10827,7 @@
         "filename": "BottomsTexSkirtAlineGingham5",
         "internalId": 12196,
         "uniqueEntryId": "nXgpyJEQxqSW9uW4r",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -10506,6 +10850,7 @@
         "filename": "BottomsTexSkirtAlineGingham4",
         "internalId": 12195,
         "uniqueEntryId": "CXMT6SazYkYDRCGAB",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -10528,6 +10873,7 @@
         "filename": "BottomsTexSkirtAlineGingham1",
         "internalId": 12192,
         "uniqueEntryId": "F4gsJR6jMnfM3Eqo8",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -10550,6 +10896,7 @@
         "filename": "BottomsTexSkirtAlineGingham7",
         "internalId": 12198,
         "uniqueEntryId": "TybzRCu8gofwRzgXP",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -10572,6 +10919,7 @@
         "filename": "BottomsTexSkirtAlineGingham2",
         "internalId": 12193,
         "uniqueEntryId": "oKFbmrtXNgtiTFwvn",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -10594,6 +10942,7 @@
         "filename": "BottomsTexSkirtAlineGingham6",
         "internalId": 12197,
         "uniqueEntryId": "uX8Ar954vSF79YCuX",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -10655,6 +11004,7 @@
         "filename": "BottomsTexPantsHalfGobelins1",
         "internalId": 8923,
         "uniqueEntryId": "it5MgrQ7YEK2K7apb",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Pink"
@@ -10677,6 +11027,7 @@
         "filename": "BottomsTexPantsHalfGobelins0",
         "internalId": 5734,
         "uniqueEntryId": "ZpbzaPwWnQwfA3DME",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Pink"
@@ -10738,6 +11089,7 @@
         "filename": "BottomsTexPantsWideHickory1",
         "internalId": 9537,
         "uniqueEntryId": "tHRqJdZkTHZxiPHjg",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -10760,6 +11112,7 @@
         "filename": "BottomsTexPantsWideHickory0",
         "internalId": 4254,
         "uniqueEntryId": "ad3vra7ZNB3DaC6mo",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -10827,6 +11180,7 @@
         "filename": "BottomsTexPantsHotRunning5",
         "internalId": 8858,
         "uniqueEntryId": "KcpYzXuWQAiDEsvaf",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -10849,6 +11203,7 @@
         "filename": "BottomsTexPantsHotRunning3",
         "internalId": 8856,
         "uniqueEntryId": "Jn33wdEruRdfj87pA",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -10871,6 +11226,7 @@
         "filename": "BottomsTexPantsHotRunning0",
         "internalId": 4195,
         "uniqueEntryId": "CTx32u5FGCu5aZZuP",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -10893,6 +11249,7 @@
         "filename": "BottomsTexPantsHotRunning7",
         "internalId": 8860,
         "uniqueEntryId": "BQNxxPe7PG7huwxS9",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -10915,6 +11272,7 @@
         "filename": "BottomsTexPantsHotRunning2",
         "internalId": 8855,
         "uniqueEntryId": "CnPTgw8SjtrhsPJ2F",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -10937,6 +11295,7 @@
         "filename": "BottomsTexPantsHotRunning1",
         "internalId": 8854,
         "uniqueEntryId": "cAFpLCjoHafHZtejk",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -10959,6 +11318,7 @@
         "filename": "BottomsTexPantsHotRunning4",
         "internalId": 8857,
         "uniqueEntryId": "RJuwnKm9EY6HofbGE",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -10981,6 +11341,7 @@
         "filename": "BottomsTexPantsHotRunning6",
         "internalId": 8859,
         "uniqueEntryId": "Wv5cT3YE7xbjKCTR9",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "White"
@@ -11044,6 +11405,7 @@
         "filename": "BottomsTexSkirtAlineKilt1",
         "internalId": 9239,
         "uniqueEntryId": "BpTEQtbEi68wMeaL9",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Gray"
@@ -11066,6 +11428,7 @@
         "filename": "BottomsTexSkirtAlineKilt0",
         "internalId": 3337,
         "uniqueEntryId": "8BGPGtvekJsqBcLiQ",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Green"
@@ -11088,6 +11451,7 @@
         "filename": "BottomsTexSkirtAlineKilt3",
         "internalId": 9241,
         "uniqueEntryId": "ZTaoikkNirDS3dxEF",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Blue"
@@ -11110,6 +11474,7 @@
         "filename": "BottomsTexSkirtAlineKilt2",
         "internalId": 9240,
         "uniqueEntryId": "swhKFsdKc9E5g5bkS",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -11173,6 +11538,7 @@
         "filename": "BottomsTexPantsNormalKnit0",
         "internalId": 5707,
         "uniqueEntryId": "z6pi693sEwe2AxrAy",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -11195,6 +11561,7 @@
         "filename": "BottomsTexPantsNormalKnit3",
         "internalId": 9260,
         "uniqueEntryId": "PJLeRXCxuP6DJKqAY",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -11217,6 +11584,7 @@
         "filename": "BottomsTexPantsNormalKnit2",
         "internalId": 9259,
         "uniqueEntryId": "xWXnRrYrrjneP9bHB",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -11239,6 +11607,7 @@
         "filename": "BottomsTexPantsNormalKnit1",
         "internalId": 9258,
         "uniqueEntryId": "EJAfqqEGESkh2oyzo",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -11302,6 +11671,7 @@
         "filename": "BottomsTexSkirtBoxAran2",
         "internalId": 11345,
         "uniqueEntryId": "LXBhPXRpPKmaRCdNN",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -11324,6 +11694,7 @@
         "filename": "BottomsTexSkirtBoxAran3",
         "internalId": 11346,
         "uniqueEntryId": "DFx48KndN2WNz75Rm",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -11346,6 +11717,7 @@
         "filename": "BottomsTexSkirtBoxAran1",
         "internalId": 11344,
         "uniqueEntryId": "whbwsoMENpvy8qHZj",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -11368,6 +11740,7 @@
         "filename": "BottomsTexSkirtBoxAran0",
         "internalId": 5414,
         "uniqueEntryId": "F7Xac2bbWiCJCZ2C4",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -11432,6 +11805,7 @@
         "filename": "BottomsTexPantsWideKungfu1",
         "internalId": 11391,
         "uniqueEntryId": "gLeocYifHqdNsHEG6",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Gray"
@@ -11454,6 +11828,7 @@
         "filename": "BottomsTexPantsWideKungfu3",
         "internalId": 11393,
         "uniqueEntryId": "Yk52zcJ7rDsEWzMhP",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -11476,6 +11851,7 @@
         "filename": "BottomsTexPantsWideKungfu4",
         "internalId": 11394,
         "uniqueEntryId": "EB9gbDn9bhM8TwxWo",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -11498,6 +11874,7 @@
         "filename": "BottomsTexPantsWideKungfu2",
         "internalId": 11392,
         "uniqueEntryId": "t5mvyqPadXRFwiNZg",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -11520,6 +11897,7 @@
         "filename": "BottomsTexPantsWideKungfu0",
         "internalId": 4331,
         "uniqueEntryId": "xT2tRs9QEz8Abq35H",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -11585,6 +11963,7 @@
         "filename": "BottomsTexPantsHalfKate1",
         "internalId": 11736,
         "uniqueEntryId": "qB4Kcq5nuibyXhCy2",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -11607,6 +11986,7 @@
         "filename": "BottomsTexPantsHalfKate2",
         "internalId": 11737,
         "uniqueEntryId": "uKD3aWEBQBMHcKTT5",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -11629,6 +12009,7 @@
         "filename": "BottomsTexPantsHalfKate5",
         "internalId": 11740,
         "uniqueEntryId": "6addiE89fJ9f3sn5D",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -11651,6 +12032,7 @@
         "filename": "BottomsTexPantsHalfKate4",
         "internalId": 11739,
         "uniqueEntryId": "KohDta8WbSDqCTNTk",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -11673,6 +12055,7 @@
         "filename": "BottomsTexPantsHalfKate3",
         "internalId": 11738,
         "uniqueEntryId": "nLHaHhD5MzAuWBxLS",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -11695,6 +12078,7 @@
         "filename": "BottomsTexPantsHalfKate0",
         "internalId": 9878,
         "uniqueEntryId": "kzZZteHnKLToihQCK",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "White"
@@ -11760,6 +12144,7 @@
         "filename": "BottomsTexSkirtLongKate1",
         "internalId": 11741,
         "uniqueEntryId": "SeLCtytEtbRpQQgYx",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -11782,6 +12167,7 @@
         "filename": "BottomsTexSkirtLongKate2",
         "internalId": 11742,
         "uniqueEntryId": "42axJbXMpeDW8dvfp",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -11804,6 +12190,7 @@
         "filename": "BottomsTexSkirtLongKate5",
         "internalId": 11745,
         "uniqueEntryId": "xZmwSCw7o2dfPYctq",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -11826,6 +12213,7 @@
         "filename": "BottomsTexSkirtLongKate4",
         "internalId": 11744,
         "uniqueEntryId": "6AKz7auzD3F9xDbRr",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -11848,6 +12236,7 @@
         "filename": "BottomsTexSkirtLongKate3",
         "internalId": 11743,
         "uniqueEntryId": "QHA6ZsTDp6CuEWrwJ",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -11870,6 +12259,7 @@
         "filename": "BottomsTexSkirtLongKate0",
         "internalId": 9879,
         "uniqueEntryId": "6L6Xvpy9pNWg5Z3es",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -11934,6 +12324,7 @@
         "filename": "BottomsTexPantsHotLace0",
         "internalId": 4517,
         "uniqueEntryId": "AX53u7EzMvfP7wrqi",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -11956,6 +12347,7 @@
         "filename": "BottomsTexPantsHotLace1",
         "internalId": 8911,
         "uniqueEntryId": "B4f5JxYbauFsp9pmH",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -11978,6 +12370,7 @@
         "filename": "BottomsTexPantsHotLace3",
         "internalId": 8913,
         "uniqueEntryId": "WNCDCvth9vPAX2ZNW",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -12000,6 +12393,7 @@
         "filename": "BottomsTexPantsHotLace2",
         "internalId": 8912,
         "uniqueEntryId": "P5ikAFxnDHtHkWBZf",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -12022,6 +12416,7 @@
         "filename": "BottomsTexPantsHotLace4",
         "internalId": 8914,
         "uniqueEntryId": "MYorobK3bYTgM8Csn",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -12085,6 +12480,7 @@
         "filename": "BottomsTexSkirtAlineLace0",
         "internalId": 3384,
         "uniqueEntryId": "W9HRSi2Ksj7ZphxoY",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -12107,6 +12503,7 @@
         "filename": "BottomsTexSkirtAlineLace1",
         "internalId": 8904,
         "uniqueEntryId": "S44D7w7Y8SR68EoqG",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -12129,6 +12526,7 @@
         "filename": "BottomsTexSkirtAlineLace2",
         "internalId": 8905,
         "uniqueEntryId": "HyuDmjiBppBZyRq8r",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -12151,6 +12549,7 @@
         "filename": "BottomsTexSkirtAlineLace3",
         "internalId": 8906,
         "uniqueEntryId": "SR9z43HqSzCyD3Zuo",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -12213,6 +12612,7 @@
         "filename": "BottomsTexSkirtLongLemon1",
         "internalId": 8753,
         "uniqueEntryId": "MPGFwwDJAjWLFXuq8",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Yellow"
@@ -12235,6 +12635,7 @@
         "filename": "BottomsTexSkirtLongLemon2",
         "internalId": 8754,
         "uniqueEntryId": "aLgBffim3HfTs7nGq",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Yellow"
@@ -12257,6 +12658,7 @@
         "filename": "BottomsTexSkirtLongLemon0",
         "internalId": 5874,
         "uniqueEntryId": "9atjQqucTpgA2pFte",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Yellow"
@@ -12322,6 +12724,7 @@
         "filename": "BottomsTexSkirtBoxLeopard1",
         "internalId": 10197,
         "uniqueEntryId": "tAZk7z6WCeXGCWqke",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -12344,6 +12747,7 @@
         "filename": "BottomsTexSkirtBoxLeopard5",
         "internalId": 10201,
         "uniqueEntryId": "2jJ3W7oBwpkSKicak",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -12366,6 +12770,7 @@
         "filename": "BottomsTexSkirtBoxLeopard3",
         "internalId": 10199,
         "uniqueEntryId": "HfWYSCxn6psda7Fjc",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -12388,6 +12793,7 @@
         "filename": "BottomsTexSkirtBoxLeopard2",
         "internalId": 10198,
         "uniqueEntryId": "vHLiK3GrTnaqwAWzD",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -12410,6 +12816,7 @@
         "filename": "BottomsTexSkirtBoxLeopard4",
         "internalId": 10200,
         "uniqueEntryId": "nbZd8jQEsyvXwS7w7",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -12432,6 +12839,7 @@
         "filename": "BottomsTexSkirtBoxLeopard0",
         "internalId": 4373,
         "uniqueEntryId": "WoNf9psGq2LCY3Cqx",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -12496,6 +12904,7 @@
         "filename": "BottomsTexSkirtLongChino4",
         "internalId": 11144,
         "uniqueEntryId": "fp8R3aEpYBh62bkjj",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -12518,6 +12927,7 @@
         "filename": "BottomsTexSkirtLongChino3",
         "internalId": 11143,
         "uniqueEntryId": "fB8CtjDLoPvBdSN59",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -12540,6 +12950,7 @@
         "filename": "BottomsTexSkirtLongChino2",
         "internalId": 11142,
         "uniqueEntryId": "fcN5bye89Y5qtF58r",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -12562,6 +12973,7 @@
         "filename": "BottomsTexSkirtLongChino1",
         "internalId": 11141,
         "uniqueEntryId": "vpATwf6eMvgw4v83c",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -12584,6 +12996,7 @@
         "filename": "BottomsTexSkirtLongChino0",
         "internalId": 4257,
         "uniqueEntryId": "cdSNMNyTvCycMhuNF",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -12648,6 +13061,7 @@
         "filename": "BottomsTexSkirtLongDenim0",
         "internalId": 5708,
         "uniqueEntryId": "k5H7RaCmv9cXMz9YA",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Brown"
@@ -12670,6 +13084,7 @@
         "filename": "BottomsTexSkirtLongDenim4",
         "internalId": 11448,
         "uniqueEntryId": "rJMPgTcd3wnhp5RR5",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Brown"
@@ -12692,6 +13107,7 @@
         "filename": "BottomsTexSkirtLongDenim3",
         "internalId": 11447,
         "uniqueEntryId": "dW7XsDmjjhzaZYs4C",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Brown"
@@ -12714,6 +13130,7 @@
         "filename": "BottomsTexSkirtLongDenim1",
         "internalId": 11445,
         "uniqueEntryId": "FecB3dJvM7HnHxnpp",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Brown"
@@ -12736,6 +13153,7 @@
         "filename": "BottomsTexSkirtLongDenim2",
         "internalId": 11446,
         "uniqueEntryId": "Q2NunYCa8ga9CZTx9",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Brown"
@@ -12799,6 +13217,7 @@
         "filename": "BottomsTexSkirtLongCheck0",
         "internalId": 4374,
         "uniqueEntryId": "tcAF2nzwed7veqHCf",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Blue"
@@ -12821,6 +13240,7 @@
         "filename": "BottomsTexSkirtLongCheck3",
         "internalId": 8716,
         "uniqueEntryId": "DifYjZ3fynwdRqymF",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Brown"
@@ -12843,6 +13263,7 @@
         "filename": "BottomsTexSkirtLongCheck1",
         "internalId": 8714,
         "uniqueEntryId": "sD4KPiQQaZdJqrZ72",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Blue"
@@ -12865,6 +13286,7 @@
         "filename": "BottomsTexSkirtLongCheck2",
         "internalId": 8715,
         "uniqueEntryId": "EPcY88EucvpArMM3R",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -12929,6 +13351,7 @@
         "filename": "BottomsTexSkirtLongPleats1",
         "internalId": 8703,
         "uniqueEntryId": "5WYCRFHmPbR2haY4a",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -12951,6 +13374,7 @@
         "filename": "BottomsTexSkirtLongPleats4",
         "internalId": 8706,
         "uniqueEntryId": "yDt6N9sLYp2uw7QHY",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -12973,6 +13397,7 @@
         "filename": "BottomsTexSkirtLongPleats0",
         "internalId": 4222,
         "uniqueEntryId": "6jNhukbRYHAqtu5Hj",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -12995,6 +13420,7 @@
         "filename": "BottomsTexSkirtLongPleats2",
         "internalId": 8704,
         "uniqueEntryId": "7MSYPu2thg7mm6AfS",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -13017,6 +13443,7 @@
         "filename": "BottomsTexSkirtLongPleats3",
         "internalId": 8705,
         "uniqueEntryId": "25KnhcDGdmzN9ACCx",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -13084,6 +13511,7 @@
         "filename": "BottomsTexSkirtLongDot0",
         "internalId": 4252,
         "uniqueEntryId": "FSYwLYbg9L5oBw3YB",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -13106,6 +13534,7 @@
         "filename": "BottomsTexSkirtLongDot1",
         "internalId": 8707,
         "uniqueEntryId": "CRnAjF3bQ57nQi8v3",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -13128,6 +13557,7 @@
         "filename": "BottomsTexSkirtLongDot6",
         "internalId": 8712,
         "uniqueEntryId": "mF6a4SRs3hSkSqCp3",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -13150,6 +13580,7 @@
         "filename": "BottomsTexSkirtLongDot4",
         "internalId": 8710,
         "uniqueEntryId": "KiRJyej38jwQK5Ayp",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -13172,6 +13603,7 @@
         "filename": "BottomsTexSkirtLongDot5",
         "internalId": 8711,
         "uniqueEntryId": "mQ4e9xpyBNoTs8xH6",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -13194,6 +13626,7 @@
         "filename": "BottomsTexSkirtLongDot3",
         "internalId": 8709,
         "uniqueEntryId": "9CP9MMQqpvG5cieYh",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -13216,6 +13649,7 @@
         "filename": "BottomsTexSkirtLongDot7",
         "internalId": 8713,
         "uniqueEntryId": "jfPERKFf5GWQZfGaz",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -13238,6 +13672,7 @@
         "filename": "BottomsTexSkirtLongDot2",
         "internalId": 8708,
         "uniqueEntryId": "65RdE5YqrrBcxtnpy",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -13305,6 +13740,7 @@
         "filename": "BottomsTexSkirtLongSailor0",
         "internalId": 6016,
         "uniqueEntryId": "X83drivyAr84upLBr",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -13327,6 +13763,7 @@
         "filename": "BottomsTexSkirtLongSailor6",
         "internalId": 11647,
         "uniqueEntryId": "CD2sRswRDy4pZdFJB",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -13349,6 +13786,7 @@
         "filename": "BottomsTexSkirtLongSailor7",
         "internalId": 11648,
         "uniqueEntryId": "ukofZGnGSqn6hBPPm",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -13371,6 +13809,7 @@
         "filename": "BottomsTexSkirtLongSailor1",
         "internalId": 11642,
         "uniqueEntryId": "c8MehxQwwwMZCbE2B",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -13393,6 +13832,7 @@
         "filename": "BottomsTexSkirtLongSailor3",
         "internalId": 11644,
         "uniqueEntryId": "D9xKxgbGsvKPoNuB7",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -13415,6 +13855,7 @@
         "filename": "BottomsTexSkirtLongSailor2",
         "internalId": 11643,
         "uniqueEntryId": "aNNvE2GoT4eBA7xdY",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -13437,6 +13878,7 @@
         "filename": "BottomsTexSkirtLongSailor5",
         "internalId": 11646,
         "uniqueEntryId": "DHZhEznTXwHSN3Skc",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -13459,6 +13901,7 @@
         "filename": "BottomsTexSkirtLongSailor4",
         "internalId": 11645,
         "uniqueEntryId": "358aZdBvabmSYLT9s",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -13522,6 +13965,7 @@
         "filename": "BottomsTexSkirtLongSweat1",
         "internalId": 8724,
         "uniqueEntryId": "f9Wt3Akph7spJoKS2",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Red"
@@ -13544,6 +13988,7 @@
         "filename": "BottomsTexSkirtLongSweat2",
         "internalId": 8725,
         "uniqueEntryId": "xxyPoAMNBfLFHAJqL",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Pink"
@@ -13566,6 +14011,7 @@
         "filename": "BottomsTexSkirtLongSweat0",
         "internalId": 5417,
         "uniqueEntryId": "NSB3n8kiT27zXnbiq",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Orange"
@@ -13588,6 +14034,7 @@
         "filename": "BottomsTexSkirtLongSweat3",
         "internalId": 8726,
         "uniqueEntryId": "AuYqoDaF5L3WyXxiC",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Yellow"
@@ -13651,6 +14098,7 @@
         "filename": "BottomsTexPantsHotThai1",
         "internalId": 11947,
         "uniqueEntryId": "Tr9kMKPnQwHKYLchp",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -13673,6 +14121,7 @@
         "filename": "BottomsTexPantsHotThai2",
         "internalId": 11948,
         "uniqueEntryId": "LHicMMvB8KD6bwnoH",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Red"
@@ -13695,6 +14144,7 @@
         "filename": "BottomsTexPantsHotThai0",
         "internalId": 4522,
         "uniqueEntryId": "9263kuAdDrHbrgbSb",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Yellow"
@@ -13717,6 +14167,7 @@
         "filename": "BottomsTexPantsHotThai3",
         "internalId": 11949,
         "uniqueEntryId": "ybd8sH8iegsSxqzsR",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Pink"
@@ -13780,6 +14231,7 @@
         "filename": "BottomsTexPantsHalfMulticolor1",
         "internalId": 9089,
         "uniqueEntryId": "A5stfNp2Xw4JY4RHQ",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Orange"
@@ -13802,6 +14254,7 @@
         "filename": "BottomsTexPantsHalfMulticolor3",
         "internalId": 9091,
         "uniqueEntryId": "eRQxH8sZXcqrBySLz",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Yellow"
@@ -13824,6 +14277,7 @@
         "filename": "BottomsTexPantsHalfMulticolor0",
         "internalId": 4371,
         "uniqueEntryId": "FPSibGapXftYYcJGa",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -13846,6 +14300,7 @@
         "filename": "BottomsTexPantsHalfMulticolor2",
         "internalId": 9090,
         "uniqueEntryId": "wpZwK6RNivMrsLF7T",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Light blue"
@@ -13913,6 +14368,7 @@
         "filename": "BottomsTexPantsNormalNoble2",
         "internalId": 9249,
         "uniqueEntryId": "vZEFsie7Fvw8enc9r",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Yellow"
@@ -13935,6 +14391,7 @@
         "filename": "BottomsTexPantsNormalNoble0",
         "internalId": 4398,
         "uniqueEntryId": "rWWFgt9QoDxe6EfPA",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Yellow"
@@ -13957,6 +14414,7 @@
         "filename": "BottomsTexPantsNormalNoble7",
         "internalId": 9254,
         "uniqueEntryId": "DBAqRZ5xpjuZhFJn6",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Yellow"
@@ -13979,6 +14437,7 @@
         "filename": "BottomsTexPantsNormalNoble1",
         "internalId": 9248,
         "uniqueEntryId": "2632igFydKw3WFxHx",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Yellow"
@@ -14001,6 +14460,7 @@
         "filename": "BottomsTexPantsNormalNoble6",
         "internalId": 9253,
         "uniqueEntryId": "rQEANJyC4MqRNPoDo",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -14023,6 +14483,7 @@
         "filename": "BottomsTexPantsNormalNoble4",
         "internalId": 9251,
         "uniqueEntryId": "vp8NwkMskehYgD5Qd",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Yellow"
@@ -14045,6 +14506,7 @@
         "filename": "BottomsTexPantsNormalNoble3",
         "internalId": 9250,
         "uniqueEntryId": "hJKzokWv3YSPCNWBf",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Yellow"
@@ -14067,6 +14529,7 @@
         "filename": "BottomsTexPantsNormalNoble5",
         "internalId": 9252,
         "uniqueEntryId": "Z6QuTfSDk3fdNsXkg",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Yellow"
@@ -14134,6 +14597,7 @@
         "filename": "BottomsTexPantsHalfOutdoor1",
         "internalId": 6899,
         "uniqueEntryId": "eKaCM9hPWebjPu9tT",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -14156,6 +14620,7 @@
         "filename": "BottomsTexPantsHalfOutdoor3",
         "internalId": 9122,
         "uniqueEntryId": "rEYJZgs4HT8deTKJ9",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -14178,6 +14643,7 @@
         "filename": "BottomsTexPantsHalfOutdoor0",
         "internalId": 4472,
         "uniqueEntryId": "3ofXnkcsJAo6gXNjn",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -14200,6 +14666,7 @@
         "filename": "BottomsTexPantsHalfOutdoor7",
         "internalId": 9126,
         "uniqueEntryId": "nwCbkQf3jXtb59WMh",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -14222,6 +14689,7 @@
         "filename": "BottomsTexPantsHalfOutdoor5",
         "internalId": 9124,
         "uniqueEntryId": "RQRHHzY2yMCNMvzk8",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -14244,6 +14712,7 @@
         "filename": "BottomsTexPantsHalfOutdoor4",
         "internalId": 9123,
         "uniqueEntryId": "4C2g2XjEPXzaa8NnA",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -14266,6 +14735,7 @@
         "filename": "BottomsTexPantsHalfOutdoor2",
         "internalId": 9121,
         "uniqueEntryId": "6DYexAvj3fYuK478d",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -14288,6 +14758,7 @@
         "filename": "BottomsTexPantsHalfOutdoor6",
         "internalId": 9125,
         "uniqueEntryId": "3LqkfkNH3e7fpiJeu",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -14351,6 +14822,7 @@
         "filename": "BottomsTexPantsWideKnee3",
         "internalId": 9280,
         "uniqueEntryId": "XcpNbTdYpMGEdXjjn",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -14373,6 +14845,7 @@
         "filename": "BottomsTexPantsWideKnee2",
         "internalId": 9279,
         "uniqueEntryId": "nEwEXGs8HuhgFQW5e",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Light blue"
@@ -14395,6 +14868,7 @@
         "filename": "BottomsTexPantsWideKnee1",
         "internalId": 9278,
         "uniqueEntryId": "z9zmTFvLEecuraK3k",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -14417,6 +14891,7 @@
         "filename": "BottomsTexPantsWideKnee0",
         "internalId": 4490,
         "uniqueEntryId": "vCX28eerHYeKTPsqi",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Orange"
@@ -14480,6 +14955,7 @@
         "filename": "BottomsTexSkirtLongPatch1",
         "internalId": 8740,
         "uniqueEntryId": "iN9SXNzomgrk4M2ht",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Brown"
@@ -14502,6 +14978,7 @@
         "filename": "BottomsTexSkirtLongPatch2",
         "internalId": 8741,
         "uniqueEntryId": "yY5DKvtpH9oJ3qZ2d",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Brown"
@@ -14524,6 +15001,7 @@
         "filename": "BottomsTexSkirtLongPatch3",
         "internalId": 8742,
         "uniqueEntryId": "QCvXDx76yBFkAEhMs",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -14546,6 +15024,7 @@
         "filename": "BottomsTexSkirtLongPatch0",
         "internalId": 5544,
         "uniqueEntryId": "xHB5bjnwngmR4vi8A",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Light blue"
@@ -14608,6 +15087,7 @@
         "filename": "BottomsTexSkirtAlineTutu0",
         "internalId": 5422,
         "uniqueEntryId": "JahPjXhLzEXoZ6ExE",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Colorful"
@@ -14630,6 +15110,7 @@
         "filename": "BottomsTexSkirtAlineTutu2",
         "internalId": 8917,
         "uniqueEntryId": "K39pB2sJ5TngpRNx2",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Colorful"
@@ -14652,6 +15133,7 @@
         "filename": "BottomsTexSkirtAlineTutu1",
         "internalId": 8916,
         "uniqueEntryId": "meApZdCjhq2CwthBL",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Colorful"
@@ -14718,6 +15200,7 @@
         "filename": "BottomsTexPantsHalfAloha1",
         "internalId": 11314,
         "uniqueEntryId": "YxSWwAsdc5G4N5R5m",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Yellow"
@@ -14740,6 +15223,7 @@
         "filename": "BottomsTexPantsHalfAloha5",
         "internalId": 11318,
         "uniqueEntryId": "fEcxudoTXdvSkmeyj",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Orange"
@@ -14762,6 +15246,7 @@
         "filename": "BottomsTexPantsHalfAloha6",
         "internalId": 11319,
         "uniqueEntryId": "khWybQcRhyu53FLSr",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Yellow"
@@ -14784,6 +15269,7 @@
         "filename": "BottomsTexPantsHalfAloha2",
         "internalId": 11315,
         "uniqueEntryId": "xopHMsb5M5dDq58tt",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Light blue"
@@ -14806,6 +15292,7 @@
         "filename": "BottomsTexPantsHalfAloha3",
         "internalId": 11316,
         "uniqueEntryId": "BvXFqpT2m7eqTJ7NP",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Yellow"
@@ -14828,6 +15315,7 @@
         "filename": "BottomsTexPantsHalfAloha0",
         "internalId": 4405,
         "uniqueEntryId": "HgDALSLpNdPF53Fpc",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Light blue"
@@ -14850,6 +15338,7 @@
         "filename": "BottomsTexPantsHalfAloha4",
         "internalId": 11317,
         "uniqueEntryId": "9vgmnf7i8HTnavG8s",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Light blue"
@@ -14913,6 +15402,7 @@
         "filename": "BottomsTexPantsHotShaggycheck3",
         "internalId": 8844,
         "uniqueEntryId": "Bp9aGAfzBLEvcvwpS",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Pink"
@@ -14935,6 +15425,7 @@
         "filename": "BottomsTexPantsHotShaggycheck2",
         "internalId": 8843,
         "uniqueEntryId": "YKwxiTSXgoAWPFKto",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -14957,6 +15448,7 @@
         "filename": "BottomsTexPantsHotShaggycheck0",
         "internalId": 5664,
         "uniqueEntryId": "ZjwBFB9GkmP8R5yjg",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Gray"
@@ -14979,6 +15471,7 @@
         "filename": "BottomsTexPantsHotShaggycheck1",
         "internalId": 8842,
         "uniqueEntryId": "XnrtJorxPR9v7shAe",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Orange"
@@ -15046,6 +15539,7 @@
         "filename": "BottomsTexSkirtAlineLeather7",
         "internalId": 10208,
         "uniqueEntryId": "uEgrjZeMJ3e7R4eC7",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -15068,6 +15562,7 @@
         "filename": "BottomsTexSkirtAlineLeather1",
         "internalId": 10202,
         "uniqueEntryId": "htGM9L8vGuoFR7DKk",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -15090,6 +15585,7 @@
         "filename": "BottomsTexSkirtAlineLeather2",
         "internalId": 10203,
         "uniqueEntryId": "w3TvbZyje7qP3N44p",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -15112,6 +15608,7 @@
         "filename": "BottomsTexSkirtAlineLeather5",
         "internalId": 10206,
         "uniqueEntryId": "NwhrhoQsg9gk9f7CM",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -15134,6 +15631,7 @@
         "filename": "BottomsTexSkirtAlineLeather4",
         "internalId": 10205,
         "uniqueEntryId": "5T8Bf5SJcG7i9yj97",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -15156,6 +15654,7 @@
         "filename": "BottomsTexSkirtAlineLeather6",
         "internalId": 10207,
         "uniqueEntryId": "yR5wmCLJXDrwenXaQ",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -15178,6 +15677,7 @@
         "filename": "BottomsTexSkirtAlineLeather3",
         "internalId": 10204,
         "uniqueEntryId": "vPycBi7ge2sohbnvo",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -15200,6 +15700,7 @@
         "filename": "BottomsTexSkirtAlineLeather0",
         "internalId": 5420,
         "uniqueEntryId": "TPN77SS5XxatzMWew",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -15265,6 +15766,7 @@
         "filename": "BottomsTexPantsNormalLeather0",
         "internalId": 3309,
         "uniqueEntryId": "bP35TbatDbfYvtKnf",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -15287,6 +15789,7 @@
         "filename": "BottomsTexPantsNormalLeather3",
         "internalId": 11292,
         "uniqueEntryId": "NbXonensSP5tBM2CN",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -15309,6 +15812,7 @@
         "filename": "BottomsTexPantsNormalLeather5",
         "internalId": 11294,
         "uniqueEntryId": "zTrXPthFDf68646TM",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -15331,6 +15835,7 @@
         "filename": "BottomsTexPantsNormalLeather4",
         "internalId": 11293,
         "uniqueEntryId": "jHKt5sBE7iAKewTuK",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -15353,6 +15858,7 @@
         "filename": "BottomsTexPantsNormalLeather1",
         "internalId": 11290,
         "uniqueEntryId": "z9e8X9wFZPCrg7tA4",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -15375,6 +15881,7 @@
         "filename": "BottomsTexPantsNormalLeather2",
         "internalId": 11291,
         "uniqueEntryId": "t2hrs4jXbseomNbXQ",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -15438,6 +15945,7 @@
         "filename": "BottomsTexSkirtAlinePatch0",
         "internalId": 5811,
         "uniqueEntryId": "NySzJBjXsMTQCGNjy",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Blue"
@@ -15460,6 +15968,7 @@
         "filename": "BottomsTexSkirtAlinePatch3",
         "internalId": 8926,
         "uniqueEntryId": "xAeahsrJHAwqmyzAe",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Brown"
@@ -15482,6 +15991,7 @@
         "filename": "BottomsTexSkirtAlinePatch1",
         "internalId": 8924,
         "uniqueEntryId": "BNmxjJtsbdroNdhKT",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Orange"
@@ -15504,6 +16014,7 @@
         "filename": "BottomsTexSkirtAlinePatch2",
         "internalId": 8925,
         "uniqueEntryId": "99ESP5Hf2Wi5SutKv",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Gray"
@@ -15567,6 +16078,7 @@
         "filename": "BottomsTexPantsHotLeather2",
         "internalId": 10210,
         "uniqueEntryId": "NBMNXkpsrnwQzibw6",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Gray"
@@ -15589,6 +16101,7 @@
         "filename": "BottomsTexPantsHotLeather0",
         "internalId": 5733,
         "uniqueEntryId": "Z2WQ3FgEgNyjn64Aw",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Gray"
@@ -15611,6 +16124,7 @@
         "filename": "BottomsTexPantsHotLeather3",
         "internalId": 10211,
         "uniqueEntryId": "WkWMgRDdSTye4TanN",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Gray"
@@ -15633,6 +16147,7 @@
         "filename": "BottomsTexPantsHotLeather1",
         "internalId": 10209,
         "uniqueEntryId": "sLoDrhfzS9Pk4788p",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Gray"
@@ -15698,6 +16213,7 @@
         "filename": "BottomsTexSkirtBoxLeather0",
         "internalId": 4303,
         "uniqueEntryId": "bbp2oY3uiJ78Fh2hu",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -15720,6 +16236,7 @@
         "filename": "BottomsTexSkirtBoxLeather3",
         "internalId": 11341,
         "uniqueEntryId": "EzdXWvjrxrmeTJrnk",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -15742,6 +16259,7 @@
         "filename": "BottomsTexSkirtBoxLeather5",
         "internalId": 11343,
         "uniqueEntryId": "9XQaakSQTH2T5DxXn",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -15764,6 +16282,7 @@
         "filename": "BottomsTexSkirtBoxLeather4",
         "internalId": 11342,
         "uniqueEntryId": "GHeYLdmbkk4kPeQHW",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -15786,6 +16305,7 @@
         "filename": "BottomsTexSkirtBoxLeather1",
         "internalId": 11339,
         "uniqueEntryId": "rQsphhQso2iJuokec",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -15808,6 +16328,7 @@
         "filename": "BottomsTexSkirtBoxLeather2",
         "internalId": 11340,
         "uniqueEntryId": "YwDYs47GmtDhWxkgK",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -15870,6 +16391,7 @@
         "filename": "BottomsTexSkirtBoxChidori1",
         "internalId": 11320,
         "uniqueEntryId": "78XYLC6DFW9fJviyz",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Beige"
@@ -15892,6 +16414,7 @@
         "filename": "BottomsTexSkirtBoxChidori0",
         "internalId": 5448,
         "uniqueEntryId": "gmwjCKN8CboekoKNQ",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Beige"
@@ -15914,6 +16437,7 @@
         "filename": "BottomsTexSkirtBoxChidori2",
         "internalId": 11321,
         "uniqueEntryId": "vLCToaQtCvuvRFmqj",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Beige"
@@ -15977,6 +16501,7 @@
         "filename": "BottomsTexSkirtAlineDot3",
         "internalId": 12178,
         "uniqueEntryId": "33jjvbydtzk72BH8m",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -15999,6 +16524,7 @@
         "filename": "BottomsTexSkirtAlineDot1",
         "internalId": 12176,
         "uniqueEntryId": "z7dHdbw4CRczuZuMu",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -16021,6 +16547,7 @@
         "filename": "BottomsTexSkirtAlineDot2",
         "internalId": 12177,
         "uniqueEntryId": "xnauur6Y9BjK7sJSz",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -16043,6 +16570,7 @@
         "filename": "BottomsTexSkirtAlineDot0",
         "internalId": 12173,
         "uniqueEntryId": "nWDWH2bcEL7bqwLMW",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -16106,6 +16634,7 @@
         "filename": "BottomsTexPantsNormalBondage0",
         "internalId": 4485,
         "uniqueEntryId": "TY3EBjn9hvr43exS6",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -16128,6 +16657,7 @@
         "filename": "BottomsTexPantsNormalBondage2",
         "internalId": 9256,
         "uniqueEntryId": "6DEDkvEpmai59G4DP",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -16150,6 +16680,7 @@
         "filename": "BottomsTexPantsNormalBondage1",
         "internalId": 9255,
         "uniqueEntryId": "QgPvp3JrDjBGLhdQT",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -16172,6 +16703,7 @@
         "filename": "BottomsTexPantsNormalBondage3",
         "internalId": 9257,
         "uniqueEntryId": "TBfvBpGGmFwwWw8sC",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -16239,6 +16771,7 @@
         "filename": "BottomsTexPantsWideRain7",
         "internalId": 11418,
         "uniqueEntryId": "EksjCmE54EnF6Whgy",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -16261,6 +16794,7 @@
         "filename": "BottomsTexPantsWideRain5",
         "internalId": 11416,
         "uniqueEntryId": "fTSGagzSQshQWFaLQ",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -16283,6 +16817,7 @@
         "filename": "BottomsTexPantsWideRain4",
         "internalId": 11415,
         "uniqueEntryId": "CB6pFsd7zA4XQePf5",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -16305,6 +16840,7 @@
         "filename": "BottomsTexPantsWideRain0",
         "internalId": 5413,
         "uniqueEntryId": "A7GARcaHCbPx6sJZR",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -16327,6 +16863,7 @@
         "filename": "BottomsTexPantsWideRain1",
         "internalId": 11412,
         "uniqueEntryId": "Rjqup8NERDnQmiXWp",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -16349,6 +16886,7 @@
         "filename": "BottomsTexPantsWideRain2",
         "internalId": 11413,
         "uniqueEntryId": "D5ormZj6xJ4QbbsoP",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -16371,6 +16909,7 @@
         "filename": "BottomsTexPantsWideRain3",
         "internalId": 11414,
         "uniqueEntryId": "PsQrgPtMnwE2HZ4EN",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -16393,6 +16932,7 @@
         "filename": "BottomsTexPantsWideRain6",
         "internalId": 11417,
         "uniqueEntryId": "B2PKcrDBGwAvHTDD9",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -16460,6 +17000,7 @@
         "filename": "BottomsTexSkirtAlineSailor0",
         "internalId": 3341,
         "uniqueEntryId": "yyQMMTYNGy7cbs2io",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -16482,6 +17023,7 @@
         "filename": "BottomsTexSkirtAlineSailor6",
         "internalId": 11640,
         "uniqueEntryId": "GjeJ8AiZA2wz9Amrx",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -16504,6 +17046,7 @@
         "filename": "BottomsTexSkirtAlineSailor7",
         "internalId": 11641,
         "uniqueEntryId": "ttwGFMpPXQjHJdxuP",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -16526,6 +17069,7 @@
         "filename": "BottomsTexSkirtAlineSailor1",
         "internalId": 11635,
         "uniqueEntryId": "Kq8WayHX2g9FdWQAR",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -16548,6 +17092,7 @@
         "filename": "BottomsTexSkirtAlineSailor3",
         "internalId": 11637,
         "uniqueEntryId": "pwSRnvR5A9iHGCnto",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -16570,6 +17115,7 @@
         "filename": "BottomsTexSkirtAlineSailor2",
         "internalId": 11636,
         "uniqueEntryId": "v9amX7ZmthPWsQnpv",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -16592,6 +17138,7 @@
         "filename": "BottomsTexSkirtAlineSailor5",
         "internalId": 11639,
         "uniqueEntryId": "Y7AR5HNuEjHdc5Tzo",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -16614,6 +17161,7 @@
         "filename": "BottomsTexSkirtAlineSailor4",
         "internalId": 11638,
         "uniqueEntryId": "vAu3YFBGbgpEZf4g4",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -16680,6 +17228,7 @@
         "filename": "BottomsTexPantsWideSatin4",
         "internalId": 9722,
         "uniqueEntryId": "ejhLLbFYyibcmLk76",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -16702,6 +17251,7 @@
         "filename": "BottomsTexPantsWideSatin5",
         "internalId": 9723,
         "uniqueEntryId": "tcX5Dbdo9GqKajYFZ",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -16724,6 +17274,7 @@
         "filename": "BottomsTexPantsWideSatin3",
         "internalId": 9721,
         "uniqueEntryId": "wuRwD6B6TKJzDKN2Z",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -16746,6 +17297,7 @@
         "filename": "BottomsTexPantsWideSatin0",
         "internalId": 4593,
         "uniqueEntryId": "GxjYkjG67sTMf7Bph",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -16768,6 +17320,7 @@
         "filename": "BottomsTexPantsWideSatin1",
         "internalId": 9719,
         "uniqueEntryId": "Cv73Mivga3BMPQi6Y",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -16790,6 +17343,7 @@
         "filename": "BottomsTexPantsWideSatin2",
         "internalId": 9720,
         "uniqueEntryId": "s7c8KYtvMbvpWS4Fa",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -16812,6 +17366,7 @@
         "filename": "BottomsTexPantsWideSatin6",
         "internalId": 9724,
         "uniqueEntryId": "BsHXxcYcWHPisPBpN",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -16878,6 +17433,7 @@
         "filename": "BottomsTexPantsWideGakuran0",
         "internalId": 5873,
         "uniqueEntryId": "jRJWoEy8giJ8vTfeW",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Blue"
@@ -16900,6 +17456,7 @@
         "filename": "BottomsTexPantsWideGakuran3",
         "internalId": 11400,
         "uniqueEntryId": "yzSg5aLnmRQPFMq9G",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Blue"
@@ -16922,6 +17479,7 @@
         "filename": "BottomsTexPantsWideGakuran5",
         "internalId": 11402,
         "uniqueEntryId": "DBdd789ANhHo6Rioa",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Blue"
@@ -16944,6 +17502,7 @@
         "filename": "BottomsTexPantsWideGakuran1",
         "internalId": 11398,
         "uniqueEntryId": "K5wigHETture6F8WJ",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Blue"
@@ -16966,6 +17525,7 @@
         "filename": "BottomsTexPantsWideGakuran2",
         "internalId": 11399,
         "uniqueEntryId": "s2QgJ5xFH2X9ChNFK",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Blue"
@@ -16988,6 +17548,7 @@
         "filename": "BottomsTexPantsWideGakuran6",
         "internalId": 11403,
         "uniqueEntryId": "4csWpqivK7ihagJ5N",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -17010,6 +17571,7 @@
         "filename": "BottomsTexPantsWideGakuran4",
         "internalId": 11401,
         "uniqueEntryId": "aPrngiviQRAuYXBKg",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Blue"
@@ -17076,6 +17638,7 @@
         "filename": "BottomsTexPantsNormalChinashort3",
         "internalId": 11381,
         "uniqueEntryId": "AdAkpgTXeSK38wECL",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Yellow"
@@ -17098,6 +17661,7 @@
         "filename": "BottomsTexPantsNormalChinashort0",
         "internalId": 4329,
         "uniqueEntryId": "GySRYxWcFCDwjcTrN",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Yellow"
@@ -17120,6 +17684,7 @@
         "filename": "BottomsTexPantsNormalChinashort6",
         "internalId": 11384,
         "uniqueEntryId": "pFvaJEThJ2ELDxzEi",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Yellow"
@@ -17142,6 +17707,7 @@
         "filename": "BottomsTexPantsNormalChinashort2",
         "internalId": 11380,
         "uniqueEntryId": "8PZtKDYDJxzJrSMG5",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -17164,6 +17730,7 @@
         "filename": "BottomsTexPantsNormalChinashort5",
         "internalId": 11383,
         "uniqueEntryId": "mCqZoXsD39DPcKxuf",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Yellow"
@@ -17186,6 +17753,7 @@
         "filename": "BottomsTexPantsNormalChinashort1",
         "internalId": 11379,
         "uniqueEntryId": "3kcrgRouLd9EdNPhP",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Yellow"
@@ -17208,6 +17776,7 @@
         "filename": "BottomsTexPantsNormalChinashort4",
         "internalId": 11382,
         "uniqueEntryId": "QztuYyBLJwHvejBBL",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Yellow"
@@ -17272,6 +17841,7 @@
         "filename": "BottomsTexPantsNormalChina4",
         "internalId": 11362,
         "uniqueEntryId": "hMNpGQLuNCaddRo3Y",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Yellow"
@@ -17294,6 +17864,7 @@
         "filename": "BottomsTexPantsNormalChina1",
         "internalId": 11359,
         "uniqueEntryId": "KicyT4MA4AMQyHX7W",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Yellow"
@@ -17316,6 +17887,7 @@
         "filename": "BottomsTexPantsNormalChina3",
         "internalId": 11361,
         "uniqueEntryId": "n7o6oSLQRmybRvvhP",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -17338,6 +17910,7 @@
         "filename": "BottomsTexPantsNormalChina0",
         "internalId": 4330,
         "uniqueEntryId": "P5xEL333ZPeSTDXsJ",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Yellow"
@@ -17360,6 +17933,7 @@
         "filename": "BottomsTexPantsNormalChina2",
         "internalId": 11360,
         "uniqueEntryId": "LxC4HNJtfJbvAGqpJ",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Yellow"
@@ -17425,6 +17999,7 @@
         "filename": "BottomsTexPantsWideSki2",
         "internalId": 11408,
         "uniqueEntryId": "nDiGP8wp2Zrsxbqnt",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Purple"
@@ -17447,6 +18022,7 @@
         "filename": "BottomsTexPantsWideSki1",
         "internalId": 11407,
         "uniqueEntryId": "D4QQiQZNBmEs4ZBp4",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Light blue"
@@ -17469,6 +18045,7 @@
         "filename": "BottomsTexPantsWideSki5",
         "internalId": 11411,
         "uniqueEntryId": "MXkckHi2iqMPvo9JN",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Pink"
@@ -17491,6 +18068,7 @@
         "filename": "BottomsTexPantsWideSki0",
         "internalId": 4450,
         "uniqueEntryId": "veCodAXXupKXyHvW2",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Blue"
@@ -17513,6 +18091,7 @@
         "filename": "BottomsTexPantsWideSki4",
         "internalId": 11410,
         "uniqueEntryId": "7r5tu9eNC49zqu69c",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Red"
@@ -17535,6 +18114,7 @@
         "filename": "BottomsTexPantsWideSki3",
         "internalId": 11409,
         "uniqueEntryId": "Qh9i4Py67kRJM9uEu",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Green"
@@ -17601,6 +18181,7 @@
         "filename": "BottomsTexPantsNormalSlacks6",
         "internalId": 11282,
         "uniqueEntryId": "guZekCACL5z9X2eWg",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Brown"
@@ -17623,6 +18204,7 @@
         "filename": "BottomsTexPantsNormalSlacks1",
         "internalId": 11277,
         "uniqueEntryId": "QtRvky3BhimPDzHQ5",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Brown"
@@ -17645,6 +18227,7 @@
         "filename": "BottomsTexPantsNormalSlacks0",
         "internalId": 3310,
         "uniqueEntryId": "JodCXpM9mB63mpKBq",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Brown"
@@ -17667,6 +18250,7 @@
         "filename": "BottomsTexPantsNormalSlacks3",
         "internalId": 11279,
         "uniqueEntryId": "NxbZ4kY7Jc5BEHKcw",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Brown"
@@ -17689,6 +18273,7 @@
         "filename": "BottomsTexPantsNormalSlacks2",
         "internalId": 11278,
         "uniqueEntryId": "BBdY6xFyKd7NFi9Sq",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Brown"
@@ -17711,6 +18296,7 @@
         "filename": "BottomsTexPantsNormalSlacks4",
         "internalId": 11280,
         "uniqueEntryId": "uruX8srKHwkmgGaMp",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Brown"
@@ -17733,6 +18319,7 @@
         "filename": "BottomsTexPantsNormalSlacks5",
         "internalId": 11281,
         "uniqueEntryId": "5inNgsCdz53jbj3DA",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Brown"
@@ -17800,6 +18387,7 @@
         "filename": "BottomsTexPantsHalfSoccer5",
         "internalId": 12075,
         "uniqueEntryId": "bf8ML7toRrpW6eWca",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -17822,6 +18410,7 @@
         "filename": "BottomsTexPantsHalfSoccer7",
         "internalId": 12077,
         "uniqueEntryId": "BFPsmjvrrcu74Lo6r",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -17844,6 +18433,7 @@
         "filename": "BottomsTexPantsHalfSoccer1",
         "internalId": 12071,
         "uniqueEntryId": "AetZbMxSdazTnAtgE",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -17866,6 +18456,7 @@
         "filename": "BottomsTexPantsHalfSoccer6",
         "internalId": 12076,
         "uniqueEntryId": "TJgJtXnWygz45W6Rx",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -17888,6 +18479,7 @@
         "filename": "BottomsTexPantsHalfSoccer0",
         "internalId": 9840,
         "uniqueEntryId": "FrC7cM8Wayr7jjgfk",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -17910,6 +18502,7 @@
         "filename": "BottomsTexPantsHalfSoccer4",
         "internalId": 12074,
         "uniqueEntryId": "6GvhiTLPC4f6DziZD",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -17932,6 +18525,7 @@
         "filename": "BottomsTexPantsHalfSoccer3",
         "internalId": 12073,
         "uniqueEntryId": "kfwPmWexXT2RBKvxF",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -17954,6 +18548,7 @@
         "filename": "BottomsTexPantsHalfSoccer2",
         "internalId": 12072,
         "uniqueEntryId": "eQ6czDsneCgGYKgpP",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -18021,6 +18616,7 @@
         "filename": "BottomsTexPantsHotSequins3",
         "internalId": 9179,
         "uniqueEntryId": "cCGawq7fuvSd9tDSm",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -18043,6 +18639,7 @@
         "filename": "BottomsTexPantsHotSequins4",
         "internalId": 9180,
         "uniqueEntryId": "yyi6FBSXf28PSSyN8",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -18065,6 +18662,7 @@
         "filename": "BottomsTexPantsHotSequins0",
         "internalId": 5723,
         "uniqueEntryId": "Ebx86H8miQETsNzrN",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -18087,6 +18685,7 @@
         "filename": "BottomsTexPantsHotSequins5",
         "internalId": 9181,
         "uniqueEntryId": "NS33yYMvjCer5kP4d",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -18109,6 +18708,7 @@
         "filename": "BottomsTexPantsHotSequins2",
         "internalId": 9178,
         "uniqueEntryId": "yGeKmvaR5AnguvsGG",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -18131,6 +18731,7 @@
         "filename": "BottomsTexPantsHotSequins6",
         "internalId": 9182,
         "uniqueEntryId": "ZbAbTKd9Az3S9x6FE",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -18153,6 +18754,7 @@
         "filename": "BottomsTexPantsHotSequins1",
         "internalId": 9177,
         "uniqueEntryId": "jj7Gpk9hu654MnBkp",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -18175,6 +18777,7 @@
         "filename": "BottomsTexPantsHotSequins7",
         "internalId": 9183,
         "uniqueEntryId": "qMrKr2APmp4KYqTij",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -18238,6 +18841,7 @@
         "filename": "BottomsTexSkirtBoxSweat0",
         "internalId": 4283,
         "uniqueEntryId": "bRuo3F5XTqxuiPQiv",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -18260,6 +18864,7 @@
         "filename": "BottomsTexSkirtBoxSweat1",
         "internalId": 9245,
         "uniqueEntryId": "P5FeggP5bCffv2Ypo",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -18282,6 +18887,7 @@
         "filename": "BottomsTexSkirtBoxSweat3",
         "internalId": 9247,
         "uniqueEntryId": "DNqwHFm5KbZJgZFs4",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -18304,6 +18910,7 @@
         "filename": "BottomsTexSkirtBoxSweat2",
         "internalId": 9246,
         "uniqueEntryId": "BA4eMwwegF4WMRM9T",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -18367,6 +18974,7 @@
         "filename": "BottomsTexPantsWideMultistripe1",
         "internalId": 8851,
         "uniqueEntryId": "db24g2WEcY7WSkfwt",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Blue"
@@ -18389,6 +18997,7 @@
         "filename": "BottomsTexPantsWideMultistripe3",
         "internalId": 8853,
         "uniqueEntryId": "otYfpq53PEEzrJgfC",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -18411,6 +19020,7 @@
         "filename": "BottomsTexPantsWideMultistripe0",
         "internalId": 5724,
         "uniqueEntryId": "ZmwMF86vxKmEyiitP",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -18433,6 +19043,7 @@
         "filename": "BottomsTexPantsWideMultistripe2",
         "internalId": 8852,
         "uniqueEntryId": "yJZjSfnbT8sinEnKE",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Blue"
@@ -18497,6 +19108,7 @@
         "filename": "BottomsTexPantsNormalBoder4",
         "internalId": 9238,
         "uniqueEntryId": "xm3zxASYwjThmz2cq",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -18519,6 +19131,7 @@
         "filename": "BottomsTexPantsNormalBoder3",
         "internalId": 9237,
         "uniqueEntryId": "bm2eXt7CEb4d3uXpG",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -18541,6 +19154,7 @@
         "filename": "BottomsTexPantsNormalBoder1",
         "internalId": 9235,
         "uniqueEntryId": "FY3CHREweJxMhafhc",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -18563,6 +19177,7 @@
         "filename": "BottomsTexPantsNormalBoder2",
         "internalId": 9236,
         "uniqueEntryId": "ae64JHvFiDgE8roow",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -18585,6 +19200,7 @@
         "filename": "BottomsTexPantsNormalBoder0",
         "internalId": 3312,
         "uniqueEntryId": "nQCk2KLZAN67hyYNr",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -18648,6 +19264,7 @@
         "filename": "BottomsTexPantsHotMultistripe2",
         "internalId": 8846,
         "uniqueEntryId": "r9Tu7SgxzGRRu9rWx",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Colorful"
@@ -18670,6 +19287,7 @@
         "filename": "BottomsTexPantsHotMultistripe0",
         "internalId": 5705,
         "uniqueEntryId": "LDhAEhqfkHmbMc355",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Colorful"
@@ -18692,6 +19310,7 @@
         "filename": "BottomsTexPantsHotMultistripe3",
         "internalId": 8847,
         "uniqueEntryId": "pcJZrB7EQYmoev9FD",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Colorful"
@@ -18714,6 +19333,7 @@
         "filename": "BottomsTexPantsHotMultistripe1",
         "internalId": 8845,
         "uniqueEntryId": "xtJBJ2Ju9CTJrErmd",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Colorful"
@@ -18778,6 +19398,7 @@
         "filename": "BottomsTexPantsHalfSurf4",
         "internalId": 9106,
         "uniqueEntryId": "8XhmzxJgexm9z8msw",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -18800,6 +19421,7 @@
         "filename": "BottomsTexPantsHalfSurf3",
         "internalId": 9105,
         "uniqueEntryId": "zSokS7N87o5jGQ4mY",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Red"
@@ -18822,6 +19444,7 @@
         "filename": "BottomsTexPantsHalfSurf2",
         "internalId": 9104,
         "uniqueEntryId": "erBndA9ARkAhRLNaq",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -18844,6 +19467,7 @@
         "filename": "BottomsTexPantsHalfSurf0",
         "internalId": 4515,
         "uniqueEntryId": "gxEHYhqPKdQhML9vk",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Blue"
@@ -18866,6 +19490,7 @@
         "filename": "BottomsTexPantsHalfSurf1",
         "internalId": 9103,
         "uniqueEntryId": "R626fn6vEPWWe5tZ6",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -18933,6 +19558,7 @@
         "filename": "BottomsTexPantsNormalSweat0",
         "internalId": 3296,
         "uniqueEntryId": "6vXpJD8d5FigCEy5P",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -18955,6 +19581,7 @@
         "filename": "BottomsTexPantsNormalSweat7",
         "internalId": 11276,
         "uniqueEntryId": "4dW56Dhznhjn5H9Ce",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -18977,6 +19604,7 @@
         "filename": "BottomsTexPantsNormalSweat1",
         "internalId": 11270,
         "uniqueEntryId": "yHDfpDWP95QuXhaDa",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -18999,6 +19627,7 @@
         "filename": "BottomsTexPantsNormalSweat5",
         "internalId": 11274,
         "uniqueEntryId": "w6K4J796mGsnTo9oA",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -19021,6 +19650,7 @@
         "filename": "BottomsTexPantsNormalSweat4",
         "internalId": 11273,
         "uniqueEntryId": "GQnNhQ3D3PikwSBnb",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -19043,6 +19673,7 @@
         "filename": "BottomsTexPantsNormalSweat2",
         "internalId": 11271,
         "uniqueEntryId": "dNxcC2F2sX8SKCGcS",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -19065,6 +19696,7 @@
         "filename": "BottomsTexPantsNormalSweat6",
         "internalId": 11275,
         "uniqueEntryId": "ZkTbFE58B96GLabag",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -19087,6 +19719,7 @@
         "filename": "BottomsTexPantsNormalSweat3",
         "internalId": 11272,
         "uniqueEntryId": "xkKian3gZK9WHskDM",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -19150,6 +19783,7 @@
         "filename": "BottomsTexSkirtAlineTennis0",
         "internalId": 4223,
         "uniqueEntryId": "cPZdHk6QxtxFF5gFW",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Blue"
@@ -19172,6 +19806,7 @@
         "filename": "BottomsTexSkirtAlineTennis3",
         "internalId": 8784,
         "uniqueEntryId": "HBatHaLp6us4m4Ky2",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -19194,6 +19829,7 @@
         "filename": "BottomsTexSkirtAlineTennis2",
         "internalId": 8783,
         "uniqueEntryId": "NRzStqGcSJDW7ppGo",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Blue"
@@ -19216,6 +19852,7 @@
         "filename": "BottomsTexSkirtAlineTennis1",
         "internalId": 8782,
         "uniqueEntryId": "TdeZ9cmn3ejB6FRJv",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -19279,6 +19916,7 @@
         "filename": "BottomsTexPantsHotFluffy0",
         "internalId": 5711,
         "uniqueEntryId": "HE5xJzP3Yu9ifJ745",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -19301,6 +19939,7 @@
         "filename": "BottomsTexPantsHotFluffy3",
         "internalId": 8850,
         "uniqueEntryId": "JfpSFkXks6w2SBcLy",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -19323,6 +19962,7 @@
         "filename": "BottomsTexPantsHotFluffy1",
         "internalId": 8848,
         "uniqueEntryId": "xiZ7C3vewcTv5ieS7",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -19345,6 +19985,7 @@
         "filename": "BottomsTexPantsHotFluffy2",
         "internalId": 8849,
         "uniqueEntryId": "3EDZEAy5bTgcdL7JZ",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -19412,6 +20053,7 @@
         "filename": "BottomsTexPantsNormalCroppedsweat4",
         "internalId": 11368,
         "uniqueEntryId": "fvsCZqn4eTCqReEkZ",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -19434,6 +20076,7 @@
         "filename": "BottomsTexPantsNormalCroppedsweat6",
         "internalId": 11370,
         "uniqueEntryId": "CwAYu5ihqHrTJsLd6",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -19456,6 +20099,7 @@
         "filename": "BottomsTexPantsNormalCroppedsweat1",
         "internalId": 11365,
         "uniqueEntryId": "q6JKSrekYwPqEnzNE",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -19478,6 +20122,7 @@
         "filename": "BottomsTexPantsNormalCroppedsweat3",
         "internalId": 11367,
         "uniqueEntryId": "r66CBfx8CCMJqouer",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -19500,6 +20145,7 @@
         "filename": "BottomsTexPantsNormalCroppedsweat5",
         "internalId": 11369,
         "uniqueEntryId": "j57w2BL4LfQd74sBz",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -19522,6 +20168,7 @@
         "filename": "BottomsTexPantsNormalCroppedsweat0",
         "internalId": 5702,
         "uniqueEntryId": "nyq9B6mTWidH5n5Hr",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -19544,6 +20191,7 @@
         "filename": "BottomsTexPantsNormalCroppedsweat2",
         "internalId": 11366,
         "uniqueEntryId": "9vxQkDJ3YatsGKFT6",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -19566,6 +20214,7 @@
         "filename": "BottomsTexPantsNormalCroppedsweat7",
         "internalId": 11371,
         "uniqueEntryId": "K6mjpxubY7xd7kqQR",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "White"
@@ -19630,6 +20279,7 @@
         "filename": "BottomsTexSkirtLongTiedye0",
         "internalId": 5826,
         "uniqueEntryId": "64MqcXfrSPMMREAwK",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Light blue"
@@ -19652,6 +20302,7 @@
         "filename": "BottomsTexSkirtLongTiedye4",
         "internalId": 8752,
         "uniqueEntryId": "pv3PKQHvmpeoM6gzn",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Green"
@@ -19674,6 +20325,7 @@
         "filename": "BottomsTexSkirtLongTiedye2",
         "internalId": 8750,
         "uniqueEntryId": "DCixrf33EkNYAPPMu",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Pink"
@@ -19696,6 +20348,7 @@
         "filename": "BottomsTexSkirtLongTiedye1",
         "internalId": 8749,
         "uniqueEntryId": "zid6BqnPPQF97NPD5",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Orange"
@@ -19718,6 +20371,7 @@
         "filename": "BottomsTexSkirtLongTiedye3",
         "internalId": 8751,
         "uniqueEntryId": "g68iEhnysuFYgBup3",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Yellow"
@@ -19782,6 +20436,7 @@
         "filename": "BottomsTexSkirtLongTiered0",
         "internalId": 4502,
         "uniqueEntryId": "Pz7hCfPExX8cCPgAH",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -19804,6 +20459,7 @@
         "filename": "BottomsTexSkirtLongTiered3",
         "internalId": 8719,
         "uniqueEntryId": "5KhcEe8DJ4CSjNiW5",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -19826,6 +20482,7 @@
         "filename": "BottomsTexSkirtLongTiered2",
         "internalId": 8718,
         "uniqueEntryId": "sWk6G7Ceqv8Lqeg58",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -19848,6 +20505,7 @@
         "filename": "BottomsTexSkirtLongTiered1",
         "internalId": 8717,
         "uniqueEntryId": "4gXPrDgHyZWEuArER",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -19870,6 +20528,7 @@
         "filename": "BottomsTexSkirtLongTiered4",
         "internalId": 8720,
         "uniqueEntryId": "QrMtzDRxGF75foy3F",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -19932,6 +20591,7 @@
         "filename": "BottomsTexPantsWideTeared2",
         "internalId": 9282,
         "uniqueEntryId": "vwftSXCSwsCsBmbhx",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -19954,6 +20614,7 @@
         "filename": "BottomsTexPantsWideTeared1",
         "internalId": 9281,
         "uniqueEntryId": "PZRnJXs8sxPCC4vE6",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -19976,6 +20637,7 @@
         "filename": "BottomsTexPantsWideTeared0",
         "internalId": 5701,
         "uniqueEntryId": "kepGvoJ3xHFXLwJvp",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -20042,6 +20704,7 @@
         "filename": "BottomsTexPantsNormalSportsjersey2",
         "internalId": 11285,
         "uniqueEntryId": "cBhfnx7gfTtAvhKfn",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Pink"
@@ -20064,6 +20727,7 @@
         "filename": "BottomsTexPantsNormalSportsjersey1",
         "internalId": 11284,
         "uniqueEntryId": "eeoJ3osaNohwGSTGY",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Pink"
@@ -20086,6 +20750,7 @@
         "filename": "BottomsTexPantsNormalSportsjersey3",
         "internalId": 11286,
         "uniqueEntryId": "ZGcTAcZBmqoX5YpjF",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Black"
@@ -20108,6 +20773,7 @@
         "filename": "BottomsTexPantsNormalSportsjersey5",
         "internalId": 11288,
         "uniqueEntryId": "sPMQyoZ37nXmWbsjR",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -20130,6 +20796,7 @@
         "filename": "BottomsTexPantsNormalSportsjersey4",
         "internalId": 11287,
         "uniqueEntryId": "5sxwPtzDZrnYXhXFt",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -20152,6 +20819,7 @@
         "filename": "BottomsTexPantsNormalSportsjersey6",
         "internalId": 11289,
         "uniqueEntryId": "TfdjQjZwcyLSuGhhX",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Orange"
@@ -20174,6 +20842,7 @@
         "filename": "BottomsTexPantsNormalSportsjersey0",
         "internalId": 3335,
         "uniqueEntryId": "E5cqgBweC9ZF5FMSD",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Light blue"
@@ -20237,6 +20906,7 @@
         "filename": "BottomsTexPantsNormalMonpe3",
         "internalId": 9171,
         "uniqueEntryId": "zXtA37muiXwm2ckoc",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Orange"
@@ -20259,6 +20929,7 @@
         "filename": "BottomsTexPantsNormalMonpe2",
         "internalId": 9170,
         "uniqueEntryId": "uc6hPSAoDQama7Chm",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -20281,6 +20952,7 @@
         "filename": "BottomsTexPantsNormalMonpe0",
         "internalId": 5412,
         "uniqueEntryId": "zSGaTZdYFkmwDmJu6",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Red"
@@ -20303,6 +20975,7 @@
         "filename": "BottomsTexPantsNormalMonpe1",
         "internalId": 9169,
         "uniqueEntryId": "yYKvjhWMEQWmu4poE",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Orange"
@@ -20368,6 +21041,7 @@
         "filename": "BottomsTexPantsWideSuteteko0",
         "internalId": 5460,
         "uniqueEntryId": "CcYr85ukPhHrzjxBc",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -20390,6 +21064,7 @@
         "filename": "BottomsTexPantsWideSuteteko2",
         "internalId": 9173,
         "uniqueEntryId": "rZqvuYXYNABTwadnN",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -20412,6 +21087,7 @@
         "filename": "BottomsTexPantsWideSuteteko1",
         "internalId": 9172,
         "uniqueEntryId": "LZ3W8iFp5Arqhwr5Z",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -20434,6 +21110,7 @@
         "filename": "BottomsTexPantsWideSuteteko4",
         "internalId": 9175,
         "uniqueEntryId": "J7mpdWGdfKPQxChAN",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -20456,6 +21133,7 @@
         "filename": "BottomsTexPantsWideSuteteko5",
         "internalId": 9176,
         "uniqueEntryId": "vjQJNB2qSRWD8Ngzi",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -20478,6 +21156,7 @@
         "filename": "BottomsTexPantsWideSuteteko3",
         "internalId": 9174,
         "uniqueEntryId": "kBfBhnTkPJGfcP8Z6",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -20541,6 +21220,7 @@
         "filename": "BottomsTexSkirtAlineTweedfrill1",
         "internalId": 8908,
         "uniqueEntryId": "uFSa6h3JWJQkvJJNm",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -20563,6 +21243,7 @@
         "filename": "BottomsTexSkirtAlineTweedfrill2",
         "internalId": 8909,
         "uniqueEntryId": "5bCqs8Mhmvdx2RJtM",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Brown"
@@ -20585,6 +21266,7 @@
         "filename": "BottomsTexSkirtAlineTweedfrill3",
         "internalId": 8910,
         "uniqueEntryId": "qiEHXLZMNSvNXKPFh",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Blue"
@@ -20607,6 +21289,7 @@
         "filename": "BottomsTexSkirtAlineTweedfrill0",
         "internalId": 4428,
         "uniqueEntryId": "x2BD6PuvAkPaiHBKy",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -20672,6 +21355,7 @@
         "filename": "BottomsTexPantsWideTweed3",
         "internalId": 11388,
         "uniqueEntryId": "xjPKcWq6iPa78S2Tw",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -20694,6 +21378,7 @@
         "filename": "BottomsTexPantsWideTweed5",
         "internalId": 11390,
         "uniqueEntryId": "7j9P7XnEhBzScs6bf",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -20716,6 +21401,7 @@
         "filename": "BottomsTexPantsWideTweed4",
         "internalId": 11389,
         "uniqueEntryId": "kNaAeauZPyZdMddcA",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -20738,6 +21424,7 @@
         "filename": "BottomsTexPantsWideTweed1",
         "internalId": 11386,
         "uniqueEntryId": "iQyXbdEtJx9ktr3dc",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -20760,6 +21447,7 @@
         "filename": "BottomsTexPantsWideTweed0",
         "internalId": 3708,
         "uniqueEntryId": "5Sj3iH6txuoZtZMBn",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -20782,6 +21470,7 @@
         "filename": "BottomsTexPantsWideTweed2",
         "internalId": 11387,
         "uniqueEntryId": "QnThywpsT9priJobB",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -20844,6 +21533,7 @@
         "filename": "BottomsTexSkirtAlineTweed1",
         "internalId": 11666,
         "uniqueEntryId": "TDmgEAYemyAsKAMdu",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Blue"
@@ -20866,6 +21556,7 @@
         "filename": "BottomsTexSkirtAlineTweed0",
         "internalId": 3297,
         "uniqueEntryId": "irSR7thcoG4kKqsJ8",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Green"
@@ -20888,6 +21579,7 @@
         "filename": "BottomsTexSkirtAlineTweed2",
         "internalId": 11667,
         "uniqueEntryId": "XhB9sFiNSsDJvYJBT",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Yellow"
@@ -20951,6 +21643,7 @@
         "filename": "BottomsTexPantsNormalTwotoneMonochrome",
         "internalId": 3317,
         "uniqueEntryId": "Rzfvg3L7AhnCBQu3h",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -20973,6 +21666,7 @@
         "filename": "BottomsTexPantsNormalTwotoneRed",
         "internalId": 4184,
         "uniqueEntryId": "egAw2r93TF3R65Zn2",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -20995,6 +21689,7 @@
         "filename": "BottomsTexPantsNormalTwotoneYellow",
         "internalId": 4183,
         "uniqueEntryId": "TGuTEn7Ecjbqb6P6M",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Light blue"
@@ -21017,6 +21712,7 @@
         "filename": "BottomsTexPantsNormalTwotoneBlue",
         "internalId": 4185,
         "uniqueEntryId": "FH9WFq9jSFsRXLpkw",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -21079,6 +21775,7 @@
         "filename": "BottomsTexSkirtAlineShabby1",
         "internalId": 8918,
         "uniqueEntryId": "ALCuuNzoKWhf8ehqY",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -21101,6 +21798,7 @@
         "filename": "BottomsTexSkirtAlineShabby2",
         "internalId": 8919,
         "uniqueEntryId": "LTbPzFTGxS8hfw22Z",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -21123,6 +21821,7 @@
         "filename": "BottomsTexSkirtAlineShabby0",
         "internalId": 5449,
         "uniqueEntryId": "ZwXhjeFgdvZZjBKMY",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "White"
@@ -21187,6 +21886,7 @@
         "filename": "BottomsTexPantsHalfEthnic4",
         "internalId": 9102,
         "uniqueEntryId": "MEDYoymwJwwReCkxz",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Gray"
@@ -21209,6 +21909,7 @@
         "filename": "BottomsTexPantsHalfEthnic2",
         "internalId": 9100,
         "uniqueEntryId": "QmYhJsSGSGSCCSmQ7",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Green"
@@ -21231,6 +21932,7 @@
         "filename": "BottomsTexPantsHalfEthnic0",
         "internalId": 4487,
         "uniqueEntryId": "Z2az8LxLzPu5FrK22",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Green"
@@ -21253,6 +21955,7 @@
         "filename": "BottomsTexPantsHalfEthnic1",
         "internalId": 9099,
         "uniqueEntryId": "xRBvYGAfeNWCW7dYd",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Orange"
@@ -21275,6 +21978,7 @@
         "filename": "BottomsTexPantsHalfEthnic3",
         "internalId": 9101,
         "uniqueEntryId": "xRPSWLKrorEfK5hcf",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Yellow"
@@ -21339,6 +22043,7 @@
         "filename": "BottomsTexPantsWideChino4",
         "internalId": 11153,
         "uniqueEntryId": "yjPwZ3zQJA3PpDaZz",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -21361,6 +22066,7 @@
         "filename": "BottomsTexPantsWideChino3",
         "internalId": 11152,
         "uniqueEntryId": "r74mKfXWrf6j6Lj3y",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -21383,6 +22089,7 @@
         "filename": "BottomsTexPantsWideChino2",
         "internalId": 11151,
         "uniqueEntryId": "EczowvXpswDM3TZEY",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -21405,6 +22112,7 @@
         "filename": "BottomsTexPantsWideChino0",
         "internalId": 5285,
         "uniqueEntryId": "EmJsQ4gnatKFANNWK",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -21427,6 +22135,7 @@
         "filename": "BottomsTexPantsWideChino1",
         "internalId": 11150,
         "uniqueEntryId": "fa4HcJC7BaR5YhPNp",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -21489,6 +22198,7 @@
         "filename": "BottomsTexPantsNormalTraining1",
         "internalId": 11363,
         "uniqueEntryId": "ePFPGnTiii8QC2zhc",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Pink"
@@ -21511,6 +22221,7 @@
         "filename": "BottomsTexPantsNormalTraining2",
         "internalId": 11364,
         "uniqueEntryId": "wESNkSTHEJroSFYjN",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Orange"
@@ -21533,6 +22244,7 @@
         "filename": "BottomsTexPantsNormalTraining0",
         "internalId": 5721,
         "uniqueEntryId": "yYrLfinoqTdxksHAm",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Green"
@@ -21596,6 +22308,7 @@
         "filename": "BottomsTexPantsHotDenimholes0",
         "internalId": 4251,
         "uniqueEntryId": "7QRfaFs7ZYcnyn55v",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -21618,6 +22331,7 @@
         "filename": "BottomsTexPantsHotDenimholes2",
         "internalId": 11435,
         "uniqueEntryId": "hypdwpnkKJusfEFEj",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -21640,6 +22354,7 @@
         "filename": "BottomsTexPantsHotDenimholes3",
         "internalId": 11436,
         "uniqueEntryId": "ru9teEwCJsaBhpsAt",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -21662,6 +22377,7 @@
         "filename": "BottomsTexPantsHotDenimholes1",
         "internalId": 11434,
         "uniqueEntryId": "MpngYTiKXh3JMMjtP",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -21725,6 +22441,7 @@
         "filename": "BottomsTexPantsNormalDenimholes0",
         "internalId": 3313,
         "uniqueEntryId": "JhGC2ifiRnfSPvAyL",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -21747,6 +22464,7 @@
         "filename": "BottomsTexPantsNormalDenimholes2",
         "internalId": 11428,
         "uniqueEntryId": "B7P4b6wMaPXZnZ7iv",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -21769,6 +22487,7 @@
         "filename": "BottomsTexPantsNormalDenimholes3",
         "internalId": 11429,
         "uniqueEntryId": "HtDFpJdmRMruqoD6W",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -21791,6 +22510,7 @@
         "filename": "BottomsTexPantsNormalDenimholes1",
         "internalId": 11427,
         "uniqueEntryId": "RPkPvmzue9Qv5fvhv",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -21854,6 +22574,7 @@
         "filename": "BottomsTexPantsHotYacht1",
         "internalId": 8861,
         "uniqueEntryId": "XWv6onJTs5ohuDqWP",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Green"
@@ -21876,6 +22597,7 @@
         "filename": "BottomsTexPantsHotYacht2",
         "internalId": 8862,
         "uniqueEntryId": "a229KAJ53nBYbMx8K",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Light blue"
@@ -21898,6 +22620,7 @@
         "filename": "BottomsTexPantsHotYacht0",
         "internalId": 4370,
         "uniqueEntryId": "QjdSSCSF9XYsJE24c",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Yellow"
@@ -21920,6 +22643,7 @@
         "filename": "BottomsTexPantsHotYacht3",
         "internalId": 8863,
         "uniqueEntryId": "FxpA7aZnQmEj9kJJb",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Pink"
