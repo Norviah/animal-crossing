@@ -5,8 +5,21 @@ import { files } from '../util/category';
 
 // This script combines values of items into an array and sets the trnaslations.
 
+// Represents the keys to delete from items after we joined values.
+const keys: string[] = [
+  'style',
+  'color1',
+  'color2',
+  'hhaConcept1',
+  'hhaConcept2',
+  'hhaSet',
+  'hhaSeries',
+  'labelThemes',
+  'source',
+];
+
 /**
- * Combines values from the object.
+ * Sanitizes values from the object.
  * @param object The given object.
  */
 function sanitize(object: obj): void {
@@ -30,11 +43,15 @@ function sanitize(object: obj): void {
     object.styles = object.style.split('/; /g');
   }
 
-  if (object.hasOwnProperty('labelThemes')) {
-    object.themes = object.labelThemes ? object.labelThemes.split('/; /g') : object.labelThemes;
+  if (object.hasOwnProperty('source')) {
+    object.sources = object.source;
   }
 
-  for (const key of ['style', 'color1', 'color2', 'hhaConcept1', 'hhaConcept2', 'hhaSet', 'hhaSeries', 'labelThemes']) {
+  if (object.hasOwnProperty('labelThemes')) {
+    object.themes = object.labelThemes;
+  }
+
+  for (const key of keys) {
     delete object[key];
   }
 }
