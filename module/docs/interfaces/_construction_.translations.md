@@ -36,7 +36,7 @@
 
 • **chinese**: *string*
 
-*Defined in [Construction.ts:48](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L48)*
+*Defined in [Construction.ts:48](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L48)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **chineseTraditional**: *string*
 
-*Defined in [Construction.ts:49](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L49)*
+*Defined in [Construction.ts:49](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L49)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **dutch**: *string*
 
-*Defined in [Construction.ts:47](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L47)*
+*Defined in [Construction.ts:47](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L47)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **english**: *string*
 
-*Defined in [Construction.ts:39](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L39)*
+*Defined in [Construction.ts:39](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L39)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **englishEurope**: *string*
 
-*Defined in [Construction.ts:40](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L40)*
+*Defined in [Construction.ts:40](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L40)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 • **french**: *string*
 
-*Defined in [Construction.ts:44](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L44)*
+*Defined in [Construction.ts:44](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L44)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 • **frenchUs**: *string*
 
-*Defined in [Construction.ts:45](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L45)*
+*Defined in [Construction.ts:45](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L45)*
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 • **german**: *string*
 
-*Defined in [Construction.ts:41](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L41)*
+*Defined in [Construction.ts:41](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L41)*
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 • **id**: *number | string*
 
-*Defined in [Construction.ts:37](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L37)*
+*Defined in [Construction.ts:37](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L37)*
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 • **internalIds**: *Array‹number | string›*
 
-*Defined in [Construction.ts:54](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L54)*
+*Defined in [Construction.ts:54](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L54)*
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 • **italian**: *string*
 
-*Defined in [Construction.ts:46](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L46)*
+*Defined in [Construction.ts:46](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L46)*
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 • **japanese**: *string*
 
-*Defined in [Construction.ts:50](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L50)*
+*Defined in [Construction.ts:50](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L50)*
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 • **korean**: *string*
 
-*Defined in [Construction.ts:51](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L51)*
+*Defined in [Construction.ts:51](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L51)*
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 • **plural**: *boolean*
 
-*Defined in [Construction.ts:53](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L53)*
+*Defined in [Construction.ts:53](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L53)*
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 • **russian**: *string*
 
-*Defined in [Construction.ts:52](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L52)*
+*Defined in [Construction.ts:52](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L52)*
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 • **sourceSheet**: *[TranslationsSourceSheet](../enums/_construction_.translationssourcesheet.md)*
 
-*Defined in [Construction.ts:36](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L36)*
+*Defined in [Construction.ts:36](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L36)*
 
 ___
 
@@ -164,7 +164,7 @@ ___
 
 • **spanish**: *string*
 
-*Defined in [Construction.ts:42](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L42)*
+*Defined in [Construction.ts:42](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L42)*
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 • **spanishUs**: *string*
 
-*Defined in [Construction.ts:43](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L43)*
+*Defined in [Construction.ts:43](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L43)*
 
 ___
 
@@ -180,4 +180,4 @@ ___
 
 • **version**: *[Version](../enums/_construction_.version.md)*
 
-*Defined in [Construction.ts:38](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Construction.ts#L38)*
+*Defined in [Construction.ts:38](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Construction.ts#L38)*

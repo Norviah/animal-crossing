@@ -13,7 +13,7 @@
 * [SeasonalCrafting2](../enums/_hemisphere_.seasonalcrafting2.md)
 * [SkyEffect](../enums/_hemisphere_.skyeffect.md)
 * [SourceSheet](../enums/_hemisphere_.sourcesheet.md)
-* [SpecialClouds](../enums/_hemisphere_.specialclouds.md)
+* [SpecialCloud](../enums/_hemisphere_.specialcloud.md)
 
 ### Interfaces
 
