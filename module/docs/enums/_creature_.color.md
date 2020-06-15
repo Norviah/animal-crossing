@@ -26,7 +26,7 @@
 
 • **Beige**: = "Beige"
 
-*Defined in [Creature.ts:28](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L28)*
+*Defined in [Creature.ts:28](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L28)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **Black**: = "Black"
 
-*Defined in [Creature.ts:29](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L29)*
+*Defined in [Creature.ts:29](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L29)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **Blue**: = "Blue"
 
-*Defined in [Creature.ts:30](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L30)*
+*Defined in [Creature.ts:30](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L30)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **Brown**: = "Brown"
 
-*Defined in [Creature.ts:31](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L31)*
+*Defined in [Creature.ts:31](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L31)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **Gray**: = "Gray"
 
-*Defined in [Creature.ts:32](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L32)*
+*Defined in [Creature.ts:32](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L32)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **Green**: = "Green"
 
-*Defined in [Creature.ts:33](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L33)*
+*Defined in [Creature.ts:33](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L33)*
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 • **LightBlue**: = "Light blue"
 
-*Defined in [Creature.ts:34](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L34)*
+*Defined in [Creature.ts:34](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L34)*
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 • **Orange**: = "Orange"
 
-*Defined in [Creature.ts:35](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L35)*
+*Defined in [Creature.ts:35](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L35)*
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 • **Pink**: = "Pink"
 
-*Defined in [Creature.ts:36](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L36)*
+*Defined in [Creature.ts:36](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L36)*
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 • **Purple**: = "Purple"
 
-*Defined in [Creature.ts:37](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L37)*
+*Defined in [Creature.ts:37](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L37)*
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 • **Red**: = "Red"
 
-*Defined in [Creature.ts:38](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L38)*
+*Defined in [Creature.ts:38](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L38)*
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 • **White**: = "White"
 
-*Defined in [Creature.ts:39](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L39)*
+*Defined in [Creature.ts:39](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L39)*
 
 ___
 
@@ -122,4 +122,4 @@ ___
 
 • **Yellow**: = "Yellow"
 
-*Defined in [Creature.ts:40](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L40)*
+*Defined in [Creature.ts:40](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L40)*

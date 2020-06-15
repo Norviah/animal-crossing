@@ -16,7 +16,7 @@
 
 • **AnyExceptRain**: = "Any except rain"
 
-*Defined in [Creature.ts:104](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L104)*
+*Defined in [Creature.ts:102](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L102)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **AnyWeather**: = "Any weather"
 
-*Defined in [Creature.ts:105](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L105)*
+*Defined in [Creature.ts:103](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L103)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **RainOnly**: = "Rain only"
 
-*Defined in [Creature.ts:106](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L106)*
+*Defined in [Creature.ts:104](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L104)*

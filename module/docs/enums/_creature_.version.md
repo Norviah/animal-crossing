@@ -14,4 +14,4 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Creature.ts:100](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L100)*
+*Defined in [Creature.ts:98](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L98)*

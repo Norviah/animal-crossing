@@ -19,7 +19,7 @@
 
 • **months**: *string[]*
 
-*Defined in [Creature.ts:49](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L49)*
+*Defined in [Creature.ts:49](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L49)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **time**: *string[]*
 
-*Defined in [Creature.ts:50](https://github.com/Norviah/animal-crossing/blob/13550bd/module/types/Creature.ts#L50)*
+*Defined in [Creature.ts:50](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Creature.ts#L50)*

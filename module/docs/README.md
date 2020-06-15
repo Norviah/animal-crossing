@@ -2,7 +2,7 @@
 
 # animal-crossing
 
-An npm database for Animal Crossing: New Horizons, the items were generated from the various public Google Spreadsheets, and the source code for the module is available in the [module](https://github.com/Norviah/animal-crossing/tree/master/module) directory.
+A npm database for Animal Crossing: New Horizons, the items were generated from the various public Google Spreadsheets, and the source code for the module is available in the [module](https://github.com/Norviah/animal-crossing/tree/master/module) directory.
 
 For a guide on how to run and generate the converter locally, look at this [README](https://github.com/Norviah/animal-crossing/blob/master/CONVERT.md). Translations are linked to the items of the spreadsheets, but expect errors to arrise as the internal IDs on the [translations](https://docs.google.com/spreadsheets/d/1BjqVeqIrfEezvyrWLUrwMjmK_UbY2LXkZ12mttamTtk/edit#gid=1222873902) and [AC: NH](https://docs.google.com/spreadsheets/d/1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM/edit#gid=1916357977) spreadsheet aren't linked 100% correctly.
 
