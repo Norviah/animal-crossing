@@ -5,6 +5,7 @@ import { basename, join } from 'path';
 import { directories } from '../util/directories';
 import { get, readdir } from '../util/get';
 import { link } from '../util/link';
+import { separate } from '../util/separate';
 import { translate } from '../util/translate';
 
 // After converting the spreadsheets into JSON, the keys and values won't
@@ -45,7 +46,6 @@ const duplicateValues: string[] = [
   'kitCost',
   'size',
   'milesPrice',
-  'source',
   'sourceNotes',
   'versionAdded',
   'versionUnlocked',
@@ -64,6 +64,11 @@ const duplicateValues: string[] = [
   'customize',
   'translations',
 ];
+
+// Some items in the various spreadsheets have multiple values for them, for
+// example, the themes of an item. For each value, it's separated with a ';',
+// so for each key in this array, we'll split each value via a ';'.
+const separateValues: string[] = ['noun', 'labelThemes', 'source', 'fog', 'specialClouds'];
 
 // This array contains the absolute paths of the files that we'll sanitize,
 // which are the JSON files from the AC: NH and seasons spreadsheet.
@@ -102,6 +107,11 @@ for (const file of files) {
 
     // Set the item's translation, if one can be found.
     translate(object);
+
+    // Separate specific values from the object.
+    for (const value of separateValues) {
+      if (object[value]) object[value] = separate(object[value], ';');
+    }
 
     sanitized.push(object);
 

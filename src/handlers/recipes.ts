@@ -4,7 +4,6 @@ import { writeFileSync } from 'fs';
 
 import { category } from '../util/category';
 import { directories } from '../util/directories';
-import { separate } from '../util/separate';
 
 // Obviously, there are craftiable items in Animal Crossing, with each recipe
 // having a maximum amount of six materials, I'm assuming. On the spreadsheet,
@@ -36,8 +35,7 @@ for (const recipe of recipes) {
   // an object with the names as the key and the amount as the value.
   recipe.materials = zipObject(names, amount);
 
-  // Split sources into an array.
-  recipe.sources = separate(recipe.source, ';');
+  recipe.sources = recipe.source;
 
   for (const key of [...count, ...materials, 'source']) {
     delete recipe[key];
