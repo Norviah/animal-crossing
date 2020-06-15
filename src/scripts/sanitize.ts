@@ -68,7 +68,18 @@ const duplicateValues: string[] = [
 // Some items in the various spreadsheets have multiple values for them, for
 // example, the themes of an item. For each value, it's separated with a ';',
 // so for each key in this array, we'll split each value via a ';'.
-const separateValues: string[] = ['noun', 'labelThemes', 'source', 'fog', 'specialClouds'];
+const separateValues: string[] = [
+  'tier1Noun',
+  'tier2Noun',
+  'tier3Noun',
+  'tier4Noun',
+  'tier5Noun',
+  'tier6Noun',
+  'labelThemes',
+  'source',
+  'fog',
+  'specialClouds',
+];
 
 // This array contains the absolute paths of the files that we'll sanitize,
 // which are the JSON files from the AC: NH and seasons spreadsheet.
