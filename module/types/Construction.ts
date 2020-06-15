@@ -4,7 +4,7 @@ export interface Construction {
     image:         string;
     buy:           number;
     category:      Category;
-    source:        Source;
+    source:        Source[];
     filename:      string;
     uniqueEntryId: string;
     translations:  Translations | null;

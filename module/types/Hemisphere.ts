@@ -10,8 +10,8 @@ export interface Hemisphere {
     skyEffect:          SkyEffect | null;
     blossoms:           string;
     petalLeafFall:      null | string;
-    fog:                Fog | null;
-    specialClouds:      SpecialClouds | null;
+    fog:                Fog[] | null;
+    specialClouds:      SpecialCloud[] | null;
     seasonalCrafting1:  SeasonalCrafting1;
     seasonalCrafting2?: SeasonalCrafting2;
     translations:       null;
@@ -19,8 +19,8 @@ export interface Hemisphere {
 }
 
 export enum Fog {
+    HeavyFog = "heavy fog",
     RiverSeaFog = "river/sea fog",
-    RiverSeaFogHeavyFog = "river/sea fog; heavy fog",
 }
 
 export enum RainSnow {
@@ -59,9 +59,10 @@ export enum SourceSheet {
     SouthernHemisphere = "Southern Hemisphere",
 }
 
-export enum SpecialClouds {
+export enum SpecialCloud {
     BillowClouds = "billow clouds",
-    CirrusCirrocumulus = "cirrus; cirrocumulus",
+    Cirrocumulus = "cirrocumulus",
+    Cirrus = "cirrus",
     Cumulonimbus = "cumulonimbus",
     ThinClouds = "thin clouds",
 }

@@ -17,7 +17,9 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": "Patron",
+        "nouns": [
+          "Patron"
+        ],
         "modifiers": "Nook Inc.'s"
       }
     }
@@ -40,31 +42,42 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Lad;Lass",
+        "nouns": [
+          "Lad",
+          "Lass"
+        ],
         "modifiers": "Accomplished"
       },
       "2": {
         "required": 100,
         "reward": 500,
-        "nouns": "Fishing Fan",
+        "nouns": [
+          "Fishing Fan"
+        ],
         "modifiers": "Competent"
       },
       "3": {
         "required": 500,
         "reward": 1000,
-        "nouns": "Beach Bum",
+        "nouns": [
+          "Beach Bum"
+        ],
         "modifiers": "Moderate"
       },
       "4": {
         "required": 2000,
         "reward": 2000,
-        "nouns": "Fisher",
+        "nouns": [
+          "Fisher"
+        ],
         "modifiers": "Fierce"
       },
       "5": {
         "required": 5000,
         "reward": 3000,
-        "nouns": "Catch of the Day",
+        "nouns": [
+          "Catch of the Day"
+        ],
         "modifiers": "Battle-Tested"
       }
     }
@@ -87,31 +100,41 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Pesca Pro",
+        "nouns": [
+          "Pesca Pro"
+        ],
         "modifiers": "Small-Fry"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": "Angler",
+        "nouns": [
+          "Angler"
+        ],
         "modifiers": "Energetic"
       },
       "3": {
         "required": 40,
         "reward": 1000,
-        "nouns": "Tropical Fish",
+        "nouns": [
+          "Tropical Fish"
+        ],
         "modifiers": "Pond-Raised"
       },
       "4": {
         "required": 60,
         "reward": 2000,
-        "nouns": "Reaction",
+        "nouns": [
+          "Reaction"
+        ],
         "modifiers": "Hooked"
       },
       "5": {
         "required": 80,
         "reward": 3000,
-        "nouns": "Expert",
+        "nouns": [
+          "Expert"
+        ],
         "modifiers": "Pole-Fishing"
       }
     }
@@ -134,31 +157,42 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Wallflower",
+        "nouns": [
+          "Wallflower"
+        ],
         "modifiers": "Unhindered"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Shy Kid",
+        "nouns": [
+          "Shy Kid"
+        ],
         "modifiers": "Unabashedly"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": "One",
+        "nouns": [
+          "One"
+        ],
         "modifiers": "Respected"
       },
       "4": {
         "required": 30,
         "reward": 2000,
-        "nouns": "\"It\" Guy;\"It\" Girl",
+        "nouns": [
+          "\"It\" Guy",
+          "\"It\" Girl"
+        ],
         "modifiers": "Ludicrously Popular"
       },
       "5": {
         "required": 50,
         "reward": 3000,
-        "nouns": "Heart Stealer",
+        "nouns": [
+          "Heart Stealer"
+        ],
         "modifiers": "Natural"
       }
     }
@@ -181,31 +215,41 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Egg",
+        "nouns": [
+          "Egg"
+        ],
         "modifiers": "Freshly Delivered"
       },
       "2": {
         "required": 100,
         "reward": 500,
-        "nouns": "Grub",
+        "nouns": [
+          "Grub"
+        ],
         "modifiers": "Weak"
       },
       "3": {
         "required": 500,
         "reward": 1000,
-        "nouns": "Pupa",
+        "nouns": [
+          "Pupa"
+        ],
         "modifiers": "Emerging"
       },
       "4": {
         "required": 2000,
         "reward": 2000,
-        "nouns": "Butterfly",
+        "nouns": [
+          "Butterfly"
+        ],
         "modifiers": "Soaring"
       },
       "5": {
         "required": 5000,
         "reward": 3000,
-        "nouns": "Metamorphosis",
+        "nouns": [
+          "Metamorphosis"
+        ],
         "modifiers": "Complete"
       }
     }
@@ -228,31 +272,41 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Bug Fan",
+        "nouns": [
+          "Bug Fan"
+        ],
         "modifiers": "Hobby-Level"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": "Insect",
+        "nouns": [
+          "Insect"
+        ],
         "modifiers": "Night-Owl"
       },
       "3": {
         "required": 40,
         "reward": 1000,
-        "nouns": "Ant",
+        "nouns": [
+          "Ant"
+        ],
         "modifiers": "Defiant"
       },
       "4": {
         "required": 60,
         "reward": 2000,
-        "nouns": "Creature",
+        "nouns": [
+          "Creature"
+        ],
         "modifiers": "Polymorphing"
       },
       "5": {
         "required": 80,
         "reward": 3000,
-        "nouns": "Critter",
+        "nouns": [
+          "Critter"
+        ],
         "modifiers": "Scarce"
       }
     }
@@ -275,31 +329,42 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Representative",
+        "nouns": [
+          "Representative"
+        ],
         "modifiers": "Trivia"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": "Intellectual",
+        "nouns": [
+          "Intellectual"
+        ],
         "modifiers": "Savvy"
       },
       "3": {
         "required": 100,
         "reward": 1000,
-        "nouns": "Authority",
+        "nouns": [
+          "Authority"
+        ],
         "modifiers": "Understated"
       },
       "4": {
         "required": 150,
         "reward": 2000,
-        "nouns": "Sidekick",
+        "nouns": [
+          "Sidekick"
+        ],
         "modifiers": "Knowledge-Thirsty"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": "Father;Mother",
+        "nouns": [
+          "Father",
+          "Mother"
+        ],
         "modifiers": "Clever"
       }
     }
@@ -322,31 +387,41 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": "Enthusiast",
+        "nouns": [
+          "Enthusiast"
+        ],
         "modifiers": "Creative"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": "Club Member",
+        "nouns": [
+          "Club Member"
+        ],
         "modifiers": "Crafty"
       },
       "3": {
         "required": 200,
         "reward": 1000,
-        "nouns": "Virtuoso",
+        "nouns": [
+          "Virtuoso"
+        ],
         "modifiers": "Hip"
       },
       "4": {
         "required": 1000,
         "reward": 2000,
-        "nouns": "Technician",
+        "nouns": [
+          "Technician"
+        ],
         "modifiers": "Bona Fide"
       },
       "5": {
         "required": 3000,
         "reward": 3000,
-        "nouns": "Meister",
+        "nouns": [
+          "Meister"
+        ],
         "modifiers": "Relentless"
       }
     }
@@ -369,31 +444,43 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": "Resident",
+        "nouns": [
+          "Resident"
+        ],
         "modifiers": "Handmade"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": "Artisan",
+        "nouns": [
+          "Artisan"
+        ],
         "modifiers": "Emergent"
       },
       "3": {
         "required": 200,
         "reward": 1000,
-        "nouns": "Crafter",
+        "nouns": [
+          "Crafter"
+        ],
         "modifiers": "Picky"
       },
       "4": {
         "required": 1000,
         "reward": 2000,
-        "nouns": "Master;Matriarch",
+        "nouns": [
+          "Master",
+          "Matriarch"
+        ],
         "modifiers": "Humbly Begun"
       },
       "5": {
         "required": 3000,
         "reward": 3000,
-        "nouns": "King;Queen",
+        "nouns": [
+          "King",
+          "Queen"
+        ],
         "modifiers": "Destructive-Creative"
       }
     }
@@ -416,31 +503,41 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": "Eccentric",
+        "nouns": [
+          "Eccentric"
+        ],
         "modifiers": "Unique"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": "Challenger",
+        "nouns": [
+          "Challenger"
+        ],
         "modifiers": "Change-It-Up"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": "Engineer",
+        "nouns": [
+          "Engineer"
+        ],
         "modifiers": "Detail-Oriented"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": "Modder",
+        "nouns": [
+          "Modder"
+        ],
         "modifiers": "Mold-Breaking"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": "Inspiration",
+        "nouns": [
+          "Inspiration"
+        ],
         "modifiers": "Remodeling"
       }
     }
@@ -463,31 +560,41 @@
       "1": {
         "required": 20,
         "reward": 300,
-        "nouns": "Producer",
+        "nouns": [
+          "Producer"
+        ],
         "modifiers": "Specific"
       },
       "2": {
         "required": 100,
         "reward": 500,
-        "nouns": "Problem Solver",
+        "nouns": [
+          "Problem Solver"
+        ],
         "modifiers": "Aggressive"
       },
       "3": {
         "required": 500,
         "reward": 1000,
-        "nouns": "Guard",
+        "nouns": [
+          "Guard"
+        ],
         "modifiers": "Sharp"
       },
       "4": {
         "required": 2000,
         "reward": 2000,
-        "nouns": "Tack",
+        "nouns": [
+          "Tack"
+        ],
         "modifiers": "Pointy"
       },
       "5": {
         "required": 5000,
         "reward": 3000,
-        "nouns": "Superhero",
+        "nouns": [
+          "Superhero"
+        ],
         "modifiers": "Productive"
       }
     }
@@ -510,31 +617,41 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Clown",
+        "nouns": [
+          "Clown"
+        ],
         "modifiers": "Rascally"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": "Crusher",
+        "nouns": [
+          "Crusher"
+        ],
         "modifiers": "Overboard"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": "Punk",
+        "nouns": [
+          "Punk"
+        ],
         "modifiers": "Rowdy"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": "Meanie",
+        "nouns": [
+          "Meanie"
+        ],
         "modifiers": "Rough-And-Tumble"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": "Ruiner",
+        "nouns": [
+          "Ruiner"
+        ],
         "modifiers": "Chaotic"
       }
     }
@@ -557,7 +674,9 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": "Muscle",
+        "nouns": [
+          "Muscle"
+        ],
         "modifiers": "Sports-Minded"
       }
     }
@@ -580,7 +699,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Fossil",
+        "nouns": [
+          "Fossil"
+        ],
         "modifiers": "Discovered"
       }
     }
@@ -603,31 +724,41 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": "Something Or Other",
+        "nouns": [
+          "Something Or Other"
+        ],
         "modifiers": "Anonymous"
       },
       "2": {
         "required": 30,
         "reward": 500,
-        "nouns": "Truth",
+        "nouns": [
+          "Truth"
+        ],
         "modifiers": "Ancient"
       },
       "3": {
         "required": 100,
         "reward": 1000,
-        "nouns": "Researcher",
+        "nouns": [
+          "Researcher"
+        ],
         "modifiers": "History-Loving"
       },
       "4": {
         "required": 300,
         "reward": 2000,
-        "nouns": "Scatterbrain",
+        "nouns": [
+          "Scatterbrain"
+        ],
         "modifiers": "Evolving"
       },
       "5": {
         "required": 500,
         "reward": 3000,
-        "nouns": "Discovery",
+        "nouns": [
+          "Discovery"
+        ],
         "modifiers": "Historic"
       }
     }
@@ -650,31 +781,41 @@
       "1": {
         "required": 50,
         "reward": 300,
-        "nouns": "Lawn Clippings",
+        "nouns": [
+          "Lawn Clippings"
+        ],
         "modifiers": "Messy"
       },
       "2": {
         "required": 200,
         "reward": 500,
-        "nouns": "Custodian",
+        "nouns": [
+          "Custodian"
+        ],
         "modifiers": "Omnivorous"
       },
       "3": {
         "required": 1000,
         "reward": 1000,
-        "nouns": "Sorter",
+        "nouns": [
+          "Sorter"
+        ],
         "modifiers": "Herbivorous"
       },
       "4": {
         "required": 2000,
         "reward": 2000,
-        "nouns": "Sprout",
+        "nouns": [
+          "Sprout"
+        ],
         "modifiers": "Vigorous"
       },
       "5": {
         "required": 3000,
         "reward": 3000,
-        "nouns": "Beast",
+        "nouns": [
+          "Beast"
+        ],
         "modifiers": "Wild"
       }
     }
@@ -697,31 +838,42 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Flower",
+        "nouns": [
+          "Flower"
+        ],
         "modifiers": "Greenhouse"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": "Rose",
+        "nouns": [
+          "Rose"
+        ],
         "modifiers": "Thorny"
       },
       "3": {
         "required": 100,
         "reward": 1000,
-        "nouns": "Rejuvenator",
+        "nouns": [
+          "Rejuvenator"
+        ],
         "modifiers": "Heavenly"
       },
       "4": {
         "required": 200,
         "reward": 2000,
-        "nouns": "Blossom",
+        "nouns": [
+          "Blossom"
+        ],
         "modifiers": "Sweet-Smelling"
       },
       "5": {
         "required": 300,
         "reward": 3000,
-        "nouns": "Groom;Bride",
+        "nouns": [
+          "Groom",
+          "Bride"
+        ],
         "modifiers": "Gorgeous"
       }
     }
@@ -744,31 +896,41 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Caretaker",
+        "nouns": [
+          "Caretaker"
+        ],
         "modifiers": "Refined"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": "Keeper",
+        "nouns": [
+          "Keeper"
+        ],
         "modifiers": "Detailed"
       },
       "3": {
         "required": 100,
         "reward": 1000,
-        "nouns": "Gardener",
+        "nouns": [
+          "Gardener"
+        ],
         "modifiers": "Careful"
       },
       "4": {
         "required": 500,
         "reward": 2000,
-        "nouns": "Ringleader",
+        "nouns": [
+          "Ringleader"
+        ],
         "modifiers": "Caretaking"
       },
       "5": {
         "required": 1000,
         "reward": 3000,
-        "nouns": "Boss",
+        "nouns": [
+          "Boss"
+        ],
         "modifiers": "Flower-Loving"
       }
     }
@@ -791,19 +953,25 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": "Defender",
+        "nouns": [
+          "Defender"
+        ],
         "modifiers": "Outdoorsy"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Dietitian",
+        "nouns": [
+          "Dietitian"
+        ],
         "modifiers": "Organic"
       },
       "3": {
         "required": 30,
         "reward": 1000,
-        "nouns": "Sneezer",
+        "nouns": [
+          "Sneezer"
+        ],
         "modifiers": "Hay-Feverish"
       }
     }
@@ -826,31 +994,41 @@
       "1": {
         "required": 20,
         "reward": 300,
-        "nouns": "Observationist",
+        "nouns": [
+          "Observationist"
+        ],
         "modifiers": "Inexperienced"
       },
       "2": {
         "required": 100,
         "reward": 500,
-        "nouns": "Bounty",
+        "nouns": [
+          "Bounty"
+        ],
         "modifiers": "Precocious"
       },
       "3": {
         "required": 500,
         "reward": 1000,
-        "nouns": "Tree",
+        "nouns": [
+          "Tree"
+        ],
         "modifiers": "Seasonal"
       },
       "4": {
         "required": 1000,
         "reward": 2000,
-        "nouns": "Kind",
+        "nouns": [
+          "Kind"
+        ],
         "modifiers": "Mature"
       },
       "5": {
         "required": 3000,
         "reward": 3000,
-        "nouns": "Scent",
+        "nouns": [
+          "Scent"
+        ],
         "modifiers": "Rotten"
       }
     }
@@ -873,37 +1051,50 @@
       "1": {
         "required": 0,
         "reward": 100,
-        "nouns": "Other Half",
+        "nouns": [
+          "Other Half"
+        ],
         "modifiers": "Twin's"
       },
       "2": {
         "required": 0,
         "reward": 200,
-        "nouns": "Freshman",
+        "nouns": [
+          "Freshman"
+        ],
         "modifiers": "Total"
       },
       "3": {
         "required": 0,
         "reward": 300,
-        "nouns": "Pear",
+        "nouns": [
+          "Pear"
+        ],
         "modifiers": "Unpearable"
       },
       "4": {
         "required": 0,
         "reward": 500,
-        "nouns": "Star",
+        "nouns": [
+          "Star"
+        ],
         "modifiers": "Plucky"
       },
       "5": {
         "required": 0,
         "reward": 700,
-        "nouns": "Mr. Popular;Ms. Popular\n",
+        "nouns": [
+          "Mr. Popular",
+          "Ms. Popular"
+        ],
         "modifiers": "Crisp"
       },
       "6": {
         "required": 0,
         "reward": 1000,
-        "nouns": "Coconut",
+        "nouns": [
+          "Coconut"
+        ],
         "modifiers": "Tropically Grown"
       }
     }
@@ -926,19 +1117,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Wonder",
+        "nouns": [
+          "Wonder"
+        ],
         "modifiers": "Verdant"
       },
       "2": {
         "required": 2,
         "reward": 500,
-        "nouns": "Sentinel",
+        "nouns": [
+          "Sentinel"
+        ],
         "modifiers": "Unrestrained"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": "Snake",
+        "nouns": [
+          "Snake"
+        ],
         "modifiers": "Surprising"
       }
     }
@@ -961,31 +1158,42 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Shell Fan",
+        "nouns": [
+          "Shell Fan"
+        ],
         "modifiers": "Shell-Grabbing"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": "Seashell Seller",
+        "nouns": [
+          "Seashell Seller"
+        ],
         "modifiers": "Seashore"
       },
       "3": {
         "required": 200,
         "reward": 1000,
-        "nouns": "Shellector",
+        "nouns": [
+          "Shellector"
+        ],
         "modifiers": "Shifty"
       },
       "4": {
         "required": 500,
         "reward": 2000,
-        "nouns": "Shell Master",
+        "nouns": [
+          "Shell Master"
+        ],
         "modifiers": "Over-Shelled"
       },
       "5": {
         "required": 1000,
         "reward": 3000,
-        "nouns": "Shellaborator;Shellarina",
+        "nouns": [
+          "Shellaborator",
+          "Shellarina"
+        ],
         "modifiers": "Shellfish"
       }
     }
@@ -1008,31 +1216,41 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": "Season",
+        "nouns": [
+          "Season"
+        ],
         "modifiers": "Tidal"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": "Coast Dweller",
+        "nouns": [
+          "Coast Dweller"
+        ],
         "modifiers": "Ready"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": "Genius",
+        "nouns": [
+          "Genius"
+        ],
         "modifiers": "Buried"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": "Prodigy",
+        "nouns": [
+          "Prodigy"
+        ],
         "modifiers": "Rare"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": "Mermaid",
+        "nouns": [
+          "Mermaid"
+        ],
         "modifiers": "Water's Edge"
       }
     }
@@ -1055,19 +1273,25 @@
       "1": {
         "required": 3,
         "reward": 300,
-        "nouns": "Trash",
+        "nouns": [
+          "Trash"
+        ],
         "modifiers": "Untossable"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Ecologist",
+        "nouns": [
+          "Ecologist"
+        ],
         "modifiers": "Eco-Friendly"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": "Cleaner",
+        "nouns": [
+          "Cleaner"
+        ],
         "modifiers": "Waterway"
       }
     }
@@ -1090,19 +1314,25 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Fish",
+        "nouns": [
+          "Fish"
+        ],
         "modifiers": "Mistakenly Caught"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": "Frenzy",
+        "nouns": [
+          "Frenzy"
+        ],
         "modifiers": "Bait-Snatching"
       },
       "3": {
         "required": 100,
         "reward": 1000,
-        "nouns": "Life-Form",
+        "nouns": [
+          "Life-Form"
+        ],
         "modifiers": "Wave-Tossed"
       }
     }
@@ -1125,31 +1355,41 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": "Loner",
+        "nouns": [
+          "Loner"
+        ],
         "modifiers": "One-Room"
       },
       "2": {
         "required": 2,
         "reward": 1000,
-        "nouns": "Beginner",
+        "nouns": [
+          "Beginner"
+        ],
         "modifiers": "Single-Occupant"
       },
       "3": {
         "required": 5,
         "reward": 2000,
-        "nouns": "Sentiment",
+        "nouns": [
+          "Sentiment"
+        ],
         "modifiers": "Homey"
       },
       "4": {
         "required": 6,
         "reward": 3000,
-        "nouns": "Landlord",
+        "nouns": [
+          "Landlord"
+        ],
         "modifiers": "Second-Floor"
       },
       "5": {
         "required": 7,
         "reward": 5000,
-        "nouns": "Backbone",
+        "nouns": [
+          "Backbone"
+        ],
         "modifiers": "Basement"
       }
     }
@@ -1172,7 +1412,9 @@
       "1": {
         "required": 1,
         "reward": 1000,
-        "nouns": "Overachiever",
+        "nouns": [
+          "Overachiever"
+        ],
         "modifiers": "Happy"
       }
     }
@@ -1195,31 +1437,41 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": "Sort",
+        "nouns": [
+          "Sort"
+        ],
         "modifiers": "Interior"
       },
       "2": {
         "required": 15,
         "reward": 1000,
-        "nouns": "Remodeler",
+        "nouns": [
+          "Remodeler"
+        ],
         "modifiers": "Tentative"
       },
       "3": {
         "required": 30,
         "reward": 2000,
-        "nouns": "Sundries Fan",
+        "nouns": [
+          "Sundries Fan"
+        ],
         "modifiers": "Comparative"
       },
       "4": {
         "required": 100,
         "reward": 3000,
-        "nouns": "Appliance Fan",
+        "nouns": [
+          "Appliance Fan"
+        ],
         "modifiers": "Assumed"
       },
       "5": {
         "required": 150,
         "reward": 5000,
-        "nouns": "Interior-Design Fan",
+        "nouns": [
+          "Interior-Design Fan"
+        ],
         "modifiers": "Abounding"
       }
     }
@@ -1242,31 +1494,41 @@
       "1": {
         "required": 20,
         "reward": 300,
-        "nouns": "Stylist",
+        "nouns": [
+          "Stylist"
+        ],
         "modifiers": "Overstuffed"
       },
       "2": {
         "required": 50,
         "reward": 1000,
-        "nouns": "Talent",
+        "nouns": [
+          "Talent"
+        ],
         "modifiers": "Partially Obscured"
       },
       "3": {
         "required": 100,
         "reward": 2000,
-        "nouns": "Manager",
+        "nouns": [
+          "Manager"
+        ],
         "modifiers": "At-Capacity"
       },
       "4": {
         "required": 200,
         "reward": 3000,
-        "nouns": "Coordinator",
+        "nouns": [
+          "Coordinator"
+        ],
         "modifiers": "Self-Possessed"
       },
       "5": {
         "required": 300,
         "reward": 5000,
-        "nouns": "Life Hacker",
+        "nouns": [
+          "Life Hacker"
+        ],
         "modifiers": "Invulnerable"
       }
     }
@@ -1289,19 +1551,25 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": "Transformer",
+        "nouns": [
+          "Transformer"
+        ],
         "modifiers": "Home"
       },
       "2": {
         "required": 3,
         "reward": 1000,
-        "nouns": "Dreamer",
+        "nouns": [
+          "Dreamer"
+        ],
         "modifiers": "Dreamy"
       },
       "3": {
         "required": 5,
         "reward": 2000,
-        "nouns": "Space",
+        "nouns": [
+          "Space"
+        ],
         "modifiers": "Quintessential"
       }
     }
@@ -1324,31 +1592,42 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Standard",
+        "nouns": [
+          "Standard"
+        ],
         "modifiers": "Kindly"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Ally",
+        "nouns": [
+          "Ally"
+        ],
         "modifiers": "Reliable"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": "Supervisor",
+        "nouns": [
+          "Supervisor"
+        ],
         "modifiers": "Generous"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": "Savior",
+        "nouns": [
+          "Savior"
+        ],
         "modifiers": "Exalted"
       },
       "5": {
         "required": 300,
         "reward": 3000,
-        "nouns": "Hero;Heroine",
+        "nouns": [
+          "Hero",
+          "Heroine"
+        ],
         "modifiers": "Foolhardy"
       }
     }
@@ -1371,31 +1650,41 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Neophyte",
+        "nouns": [
+          "Neophyte"
+        ],
         "modifiers": "Overacting"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Dancer",
+        "nouns": [
+          "Dancer"
+        ],
         "modifiers": "Apprentice"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": "Semiprofessional",
+        "nouns": [
+          "Semiprofessional"
+        ],
         "modifiers": "Dad-Joking"
       },
       "4": {
         "required": 30,
         "reward": 2000,
-        "nouns": "Comedian",
+        "nouns": [
+          "Comedian"
+        ],
         "modifiers": "Solo"
       },
       "5": {
         "required": 42,
         "reward": 3000,
-        "nouns": "Mega Star",
+        "nouns": [
+          "Mega Star"
+        ],
         "modifiers": "Super-Popular"
       }
     }
@@ -1418,7 +1707,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Photographer",
+        "nouns": [
+          "Photographer"
+        ],
         "modifiers": "Photogenic"
       }
     }
@@ -1441,7 +1732,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Traveler",
+        "nouns": [
+          "Traveler"
+        ],
         "modifiers": "Future"
       }
     }
@@ -1464,7 +1757,9 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Savant",
+        "nouns": [
+          "Savant"
+        ],
         "modifiers": "Smartphone"
       }
     }
@@ -1487,7 +1782,9 @@
       "1": {
         "required": 1000,
         "reward": 1000,
-        "nouns": "Child",
+        "nouns": [
+          "Child"
+        ],
         "modifiers": "Digital-Age"
       }
     }
@@ -1510,31 +1807,41 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Surfer",
+        "nouns": [
+          "Surfer"
+        ],
         "modifiers": "Internet"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": "Reviewer",
+        "nouns": [
+          "Reviewer"
+        ],
         "modifiers": "Connected"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": "Connector",
+        "nouns": [
+          "Connector"
+        ],
         "modifiers": "Widely Accepted"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": "Worrywart",
+        "nouns": [
+          "Worrywart"
+        ],
         "modifiers": "Disconnected"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": "Bigwig",
+        "nouns": [
+          "Bigwig"
+        ],
         "modifiers": "Always-On"
       }
     }
@@ -1557,31 +1864,41 @@
       "1": {
         "required": 100,
         "reward": 300,
-        "nouns": "Materialist",
+        "nouns": [
+          "Materialist"
+        ],
         "modifiers": "Casual"
       },
       "2": {
         "required": 200,
         "reward": 500,
-        "nouns": "Force",
+        "nouns": [
+          "Force"
+        ],
         "modifiers": "Curious"
       },
       "3": {
         "required": 300,
         "reward": 1000,
-        "nouns": "Collector",
+        "nouns": [
+          "Collector"
+        ],
         "modifiers": "Greedy"
       },
       "4": {
         "required": 400,
         "reward": 2000,
-        "nouns": "Avatar",
+        "nouns": [
+          "Avatar"
+        ],
         "modifiers": "Materialistic"
       },
       "5": {
         "required": 500,
         "reward": 3000,
-        "nouns": "Walking Dictionary",
+        "nouns": [
+          "Walking Dictionary"
+        ],
         "modifiers": "Legendary"
       }
     }
@@ -1604,31 +1921,41 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": "Ground Traveler",
+        "nouns": [
+          "Ground Traveler"
+        ],
         "modifiers": "So-Called"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": "Rookie",
+        "nouns": [
+          "Rookie"
+        ],
         "modifiers": "Novice"
       },
       "3": {
         "required": 200,
         "reward": 1000,
-        "nouns": "Hobbyist",
+        "nouns": [
+          "Hobbyist"
+        ],
         "modifiers": "Wide-Ranging"
       },
       "4": {
         "required": 1000,
         "reward": 2000,
-        "nouns": "Go-Getter",
+        "nouns": [
+          "Go-Getter"
+        ],
         "modifiers": "Perfectionist"
       },
       "5": {
         "required": 3000,
         "reward": 3000,
-        "nouns": "Dynamo",
+        "nouns": [
+          "Dynamo"
+        ],
         "modifiers": "Year-Round"
       }
     }
@@ -1651,7 +1978,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Consumer",
+        "nouns": [
+          "Consumer"
+        ],
         "modifiers": "Full-Fledged"
       }
     }
@@ -1674,7 +2003,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Eventuality",
+        "nouns": [
+          "Eventuality"
+        ],
         "modifiers": "Down-And-Out"
       }
     }
@@ -1697,7 +2028,9 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": "Life",
+        "nouns": [
+          "Life"
+        ],
         "modifiers": "Autonomous"
       }
     }
@@ -1720,31 +2053,41 @@
       "1": {
         "required": 5000,
         "reward": 300,
-        "nouns": "Shopaholic",
+        "nouns": [
+          "Shopaholic"
+        ],
         "modifiers": "Invested"
       },
       "2": {
         "required": 50000,
         "reward": 500,
-        "nouns": "Family Member",
+        "nouns": [
+          "Family Member"
+        ],
         "modifiers": "Thrifty"
       },
       "3": {
         "required": 500000,
         "reward": 1000,
-        "nouns": "Personality",
+        "nouns": [
+          "Personality"
+        ],
         "modifiers": "Covetous"
       },
       "4": {
         "required": 2000000,
         "reward": 2000,
-        "nouns": "Celebrity",
+        "nouns": [
+          "Celebrity"
+        ],
         "modifiers": "Wasteful"
       },
       "5": {
         "required": 5000000,
         "reward": 3000,
-        "nouns": "VIP",
+        "nouns": [
+          "VIP"
+        ],
         "modifiers": "Name-Dropping"
       }
     }
@@ -1767,7 +2110,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Stalkholder",
+        "nouns": [
+          "Stalkholder"
+        ],
         "modifiers": "Weekend"
       }
     }
@@ -1790,31 +2135,41 @@
       "1": {
         "required": 1000,
         "reward": 300,
-        "nouns": "Speculator",
+        "nouns": [
+          "Speculator"
+        ],
         "modifiers": "Status-Minded"
       },
       "2": {
         "required": 10000,
         "reward": 500,
-        "nouns": "Moneybags",
+        "nouns": [
+          "Moneybags"
+        ],
         "modifiers": "Avaricious"
       },
       "3": {
         "required": 100000,
         "reward": 1000,
-        "nouns": "Trader",
+        "nouns": [
+          "Trader"
+        ],
         "modifiers": "Upstart"
       },
       "4": {
         "required": 1000000,
         "reward": 2000,
-        "nouns": "Bellionaire",
+        "nouns": [
+          "Bellionaire"
+        ],
         "modifiers": "Worldwide"
       },
       "5": {
         "required": 10000000,
         "reward": 3000,
-        "nouns": "Fixer",
+        "nouns": [
+          "Fixer"
+        ],
         "modifiers": "Shadowy"
       }
     }
@@ -1837,7 +2192,9 @@
       "1": {
         "required": 1,
         "reward": 1000,
-        "nouns": "Bill Payer",
+        "nouns": [
+          "Bill Payer"
+        ],
         "modifiers": "Responsible"
       }
     }
@@ -1860,7 +2217,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Influencer",
+        "nouns": [
+          "Influencer"
+        ],
         "modifiers": "Rumermongering"
       }
     }
@@ -1883,31 +2242,42 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": "Boy;Girl",
+        "nouns": [
+          "Boy",
+          "Girl"
+        ],
         "modifiers": "Art-School"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": "Student",
+        "nouns": [
+          "Student"
+        ],
         "modifiers": "Science-y"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": "Poet",
+        "nouns": [
+          "Poet"
+        ],
         "modifiers": "Liberal-Arts"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": "Denizen",
+        "nouns": [
+          "Denizen"
+        ],
         "modifiers": "Subculture"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": "Writer",
+        "nouns": [
+          "Writer"
+        ],
         "modifiers": "Deadline"
       }
     }
@@ -1930,19 +2300,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Wild Child",
+        "nouns": [
+          "Wild Child"
+        ],
         "modifiers": "Tidy"
       },
       "2": {
         "required": 5,
         "reward": 500,
-        "nouns": "Neatnik",
+        "nouns": [
+          "Neatnik"
+        ],
         "modifiers": "Highly Aware"
       },
       "3": {
         "required": 10,
         "reward": 1000,
-        "nouns": "Character",
+        "nouns": [
+          "Character"
+        ],
         "modifiers": "Fastidious"
       }
     }
@@ -1965,7 +2341,9 @@
       "1": {
         "required": 1,
         "reward": 1000,
-        "nouns": "Being",
+        "nouns": [
+          "Being"
+        ],
         "modifiers": "Shell-Less"
       }
     }
@@ -1988,7 +2366,9 @@
       "1": {
         "required": 1,
         "reward": 1000,
-        "nouns": "Deadeye",
+        "nouns": [
+          "Deadeye"
+        ],
         "modifiers": "Accurate"
       }
     }
@@ -2011,7 +2391,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Troublemaker",
+        "nouns": [
+          "Troublemaker"
+        ],
         "modifiers": "Wild-Child"
       }
     }
@@ -2034,7 +2416,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Crybaby",
+        "nouns": [
+          "Crybaby"
+        ],
         "modifiers": "Teary-Eyed"
       }
     }
@@ -2057,7 +2441,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Phoenix",
+        "nouns": [
+          "Phoenix"
+        ],
         "modifiers": "Risen"
       }
     }
@@ -2080,7 +2466,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Reckless One",
+        "nouns": [
+          "Reckless One"
+        ],
         "modifiers": "Trapped"
       }
     }
@@ -2103,7 +2491,9 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": "Fake",
+        "nouns": [
+          "Fake"
+        ],
         "modifiers": "Plausible"
       }
     }
@@ -2126,7 +2516,9 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": "Klutz",
+        "nouns": [
+          "Klutz"
+        ],
         "modifiers": "Catchable"
       }
     }
@@ -2149,31 +2541,41 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": "Slingshot Ace",
+        "nouns": [
+          "Slingshot Ace"
+        ],
         "modifiers": "Easy-Breezy"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": "Floaty Thing",
+        "nouns": [
+          "Floaty Thing"
+        ],
         "modifiers": "Atmospheric"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": "Hunter",
+        "nouns": [
+          "Hunter"
+        ],
         "modifiers": "Restless"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": "Paradise",
+        "nouns": [
+          "Paradise"
+        ],
         "modifiers": "Flying"
       },
       "5": {
         "required": 300,
         "reward": 3000,
-        "nouns": "Vagabond",
+        "nouns": [
+          "Vagabond"
+        ],
         "modifiers": "Elusive"
       }
     }
@@ -2196,7 +2598,9 @@
       "1": {
         "required": 20,
         "reward": 500,
-        "nouns": "Partitioner",
+        "nouns": [
+          "Partitioner"
+        ],
         "modifiers": "Efficient"
       }
     }
@@ -2219,19 +2623,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Sprite",
+        "nouns": [
+          "Sprite"
+        ],
         "modifiers": "Cold-Sensitive"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Angel",
+        "nouns": [
+          "Angel"
+        ],
         "modifiers": "Snow"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": "Imp",
+        "nouns": [
+          "Imp"
+        ],
         "modifiers": "Cool"
       }
     }
@@ -2254,19 +2664,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Meteorite",
+        "nouns": [
+          "Meteorite"
+        ],
         "modifiers": "Late-Night"
       },
       "2": {
         "required": 30,
         "reward": 1000,
-        "nouns": "Legend",
+        "nouns": [
+          "Legend"
+        ],
         "modifiers": "Wishful"
       },
       "3": {
         "required": 200,
         "reward": 2000,
-        "nouns": "Superstar",
+        "nouns": [
+          "Superstar"
+        ],
         "modifiers": "Overnight"
       }
     }
@@ -2289,7 +2705,9 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": "Decorating Fiend",
+        "nouns": [
+          "Decorating Fiend"
+        ],
         "modifiers": "Outdoor-Loving"
       }
     }
@@ -2312,13 +2730,17 @@
       "1": {
         "required": 0,
         "reward": 500,
-        "nouns": "Flag Waver",
+        "nouns": [
+          "Flag Waver"
+        ],
         "modifiers": "Flapping"
       },
       "2": {
         "required": 0,
         "reward": 500,
-        "nouns": "Musician",
+        "nouns": [
+          "Musician"
+        ],
         "modifiers": "Humming"
       }
     }
@@ -2341,19 +2763,25 @@
       "1": {
         "required": 0,
         "reward": 500,
-        "nouns": "Runner",
+        "nouns": [
+          "Runner"
+        ],
         "modifiers": "Trailblazing"
       },
       "2": {
         "required": 0,
         "reward": 1000,
-        "nouns": "Pioneer",
+        "nouns": [
+          "Pioneer"
+        ],
         "modifiers": "Swept-Away"
       },
       "3": {
         "required": 0,
         "reward": 1000,
-        "nouns": "Creator",
+        "nouns": [
+          "Creator"
+        ],
         "modifiers": "Cliffhanging"
       }
     }
@@ -2376,19 +2804,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Ghost",
+        "nouns": [
+          "Ghost"
+        ],
         "modifiers": "Cowardly"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Soul",
+        "nouns": [
+          "Soul"
+        ],
         "modifiers": "Supernatural"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": "Soul Mate",
+        "nouns": [
+          "Soul Mate"
+        ],
         "modifiers": "Soulful"
       }
     }
@@ -2411,19 +2845,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Fowl",
+        "nouns": [
+          "Fowl"
+        ],
         "modifiers": "Flightless"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Lost One",
+        "nouns": [
+          "Lost One"
+        ],
         "modifiers": "Perennial"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": "Migratory Bird",
+        "nouns": [
+          "Migratory Bird"
+        ],
         "modifiers": "Off-Season"
       }
     }
@@ -2446,31 +2886,41 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Music-Lover",
+        "nouns": [
+          "Music-Lover"
+        ],
         "modifiers": "Fickle"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Supporter",
+        "nouns": [
+          "Supporter"
+        ],
         "modifiers": "Covert"
       },
       "3": {
         "required": 30,
         "reward": 1000,
-        "nouns": "Fan",
+        "nouns": [
+          "Fan"
+        ],
         "modifiers": "Regular"
       },
       "4": {
         "required": 60,
         "reward": 2000,
-        "nouns": "Pop Star",
+        "nouns": [
+          "Pop Star"
+        ],
         "modifiers": "The Definition of"
       },
       "5": {
         "required": 100,
         "reward": 3000,
-        "nouns": "Follower",
+        "nouns": [
+          "Follower"
+        ],
         "modifiers": "Longtime"
       }
     }
@@ -2493,19 +2943,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Seller",
+        "nouns": [
+          "Seller"
+        ],
         "modifiers": "Shady"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Aficionado",
+        "nouns": [
+          "Aficionado"
+        ],
         "modifiers": "Discerning"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": "Artistic Statement",
+        "nouns": [
+          "Artistic Statement"
+        ],
         "modifiers": "Bold"
       }
     }
@@ -2528,19 +2984,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Pal",
+        "nouns": [
+          "Pal"
+        ],
         "modifiers": "Soothing"
       },
       "2": {
         "required": 2,
         "reward": 500,
-        "nouns": "Buddy",
+        "nouns": [
+          "Buddy"
+        ],
         "modifiers": "Friendly"
       },
       "3": {
         "required": 3,
         "reward": 1000,
-        "nouns": "Seeker",
+        "nouns": [
+          "Seeker"
+        ],
         "modifiers": "Friendship"
       }
     }
@@ -2563,19 +3025,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Party Animal",
+        "nouns": [
+          "Party Animal"
+        ],
         "modifiers": "Untamed"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": "Youth",
+        "nouns": [
+          "Youth"
+        ],
         "modifiers": "Growing"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": "Adult",
+        "nouns": [
+          "Adult"
+        ],
         "modifiers": "Grown"
       }
     }
@@ -2598,7 +3066,10 @@
       "1": {
         "required": 1,
         "reward": 2000,
-        "nouns": "Birthday Boy;Birthday Girl",
+        "nouns": [
+          "Birthday Boy",
+          "Birthday Girl"
+        ],
         "modifiers": "Celebratory"
       }
     }
@@ -2621,25 +3092,33 @@
       "1": {
         "required": 0,
         "reward": 300,
-        "nouns": "Free Spirit",
+        "nouns": [
+          "Free Spirit"
+        ],
         "modifiers": "Spring-Born"
       },
       "2": {
         "required": 0,
         "reward": 500,
-        "nouns": "Chiller",
+        "nouns": [
+          "Chiller"
+        ],
         "modifiers": "Summer-Born"
       },
       "3": {
         "required": 0,
         "reward": 1000,
-        "nouns": "Free-Wheeler",
+        "nouns": [
+          "Free-Wheeler"
+        ],
         "modifiers": "Fall-Born"
       },
       "4": {
         "required": 0,
         "reward": 2000,
-        "nouns": "Overheater",
+        "nouns": [
+          "Overheater"
+        ],
         "modifiers": "Winter-Born"
       }
     }
@@ -2662,25 +3141,33 @@
       "1": {
         "required": 0,
         "reward": 300,
-        "nouns": "Youngster",
+        "nouns": [
+          "Youngster"
+        ],
         "modifiers": "Adolescent"
       },
       "2": {
         "required": 0,
         "reward": 500,
-        "nouns": "Rebel",
+        "nouns": [
+          "Rebel"
+        ],
         "modifiers": "Rebellious"
       },
       "3": {
         "required": 0,
         "reward": 1000,
-        "nouns": "Lone Wolf",
+        "nouns": [
+          "Lone Wolf"
+        ],
         "modifiers": "Solitary"
       },
       "4": {
         "required": 0,
         "reward": 2000,
-        "nouns": "Individual",
+        "nouns": [
+          "Individual"
+        ],
         "modifiers": "Standoffish"
       }
     }
@@ -2703,7 +3190,9 @@
       "1": {
         "required": 1,
         "reward": 1000,
-        "nouns": "Merrymaker",
+        "nouns": [
+          "Merrymaker"
+        ],
         "modifiers": "Countdown"
       }
     }
@@ -2726,7 +3215,9 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": "Model",
+        "nouns": [
+          "Model"
+        ],
         "modifiers": "Trendy"
       }
     }
@@ -2749,7 +3240,9 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": "Artist",
+        "nouns": [
+          "Artist"
+        ],
         "modifiers": "Aspiring"
       }
     }
@@ -2772,7 +3265,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Designer",
+        "nouns": [
+          "Designer"
+        ],
         "modifiers": "Pro"
       }
     }
@@ -2795,7 +3290,9 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Type",
+        "nouns": [
+          "Type"
+        ],
         "modifiers": "Lucky"
       }
     }
@@ -2818,31 +3315,41 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Figure",
+        "nouns": [
+          "Figure"
+        ],
         "modifiers": "Carefree"
       },
       "2": {
         "required": 10,
         "reward": 1000,
-        "nouns": "Brute",
+        "nouns": [
+          "Brute"
+        ],
         "modifiers": "Jovial"
       },
       "3": {
         "required": 20,
         "reward": 2000,
-        "nouns": "Gifted One",
+        "nouns": [
+          "Gifted One"
+        ],
         "modifiers": "Spirited"
       },
       "4": {
         "required": 50,
         "reward": 3000,
-        "nouns": "Outlaw",
+        "nouns": [
+          "Outlaw"
+        ],
         "modifiers": "Factual"
       },
       "5": {
         "required": 100,
         "reward": 5000,
-        "nouns": "Statement",
+        "nouns": [
+          "Statement"
+        ],
         "modifiers": "Inspirational"
       }
     }
@@ -2865,37 +3372,51 @@
       "1": {
         "required": 0,
         "reward": 300,
-        "nouns": "Jewel",
+        "nouns": [
+          "Jewel"
+        ],
         "modifiers": "Shining"
       },
       "2": {
         "required": 0,
         "reward": 500,
-        "nouns": "Luminary",
+        "nouns": [
+          "Luminary"
+        ],
         "modifiers": "Top-Notch"
       },
       "3": {
         "required": 0,
         "reward": 1000,
-        "nouns": "Miracle",
+        "nouns": [
+          "Miracle"
+        ],
         "modifiers": "Ultimate"
       },
       "4": {
         "required": 0,
         "reward": 2000,
-        "nouns": "Prince;Princess",
+        "nouns": [
+          "Prince",
+          "Princess"
+        ],
         "modifiers": "Royal"
       },
       "5": {
         "required": 0,
         "reward": 3000,
-        "nouns": "Emperor;Empress",
+        "nouns": [
+          "Emperor",
+          "Empress"
+        ],
         "modifiers": "Glittering"
       },
       "6": {
         "required": 0,
         "reward": 5000,
-        "nouns": "Supreme Being",
+        "nouns": [
+          "Supreme Being"
+        ],
         "modifiers": "Radiant"
       }
     }
@@ -2918,19 +3439,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Person",
+        "nouns": [
+          "Person"
+        ],
         "modifiers": "Traveling"
       },
       "2": {
         "required": 5,
         "reward": 500,
-        "nouns": "Tourist",
+        "nouns": [
+          "Tourist"
+        ],
         "modifiers": "Occasional"
       },
       "3": {
         "required": 10,
         "reward": 1000,
-        "nouns": "Wanderer",
+        "nouns": [
+          "Wanderer"
+        ],
         "modifiers": "Global"
       }
     }
@@ -2953,19 +3480,25 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": "Friend",
+        "nouns": [
+          "Friend"
+        ],
         "modifiers": "Hospitable"
       },
       "2": {
         "required": 5,
         "reward": 500,
-        "nouns": "Chum",
+        "nouns": [
+          "Chum"
+        ],
         "modifiers": "Lonely"
       },
       "3": {
         "required": 10,
         "reward": 1000,
-        "nouns": "Partier",
+        "nouns": [
+          "Partier"
+        ],
         "modifiers": "Well-Known"
       }
     }
@@ -2988,31 +3521,41 @@
       "1": {
         "required": 3,
         "reward": 300,
-        "nouns": "Chill Soul",
+        "nouns": [
+          "Chill Soul"
+        ],
         "modifiers": "Self-Paced"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": "Specialist",
+        "nouns": [
+          "Specialist"
+        ],
         "modifiers": "Active"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": "Adventurer",
+        "nouns": [
+          "Adventurer"
+        ],
         "modifiers": "Sleepless"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": "Gamer",
+        "nouns": [
+          "Gamer"
+        ],
         "modifiers": "Nicknamed"
       },
       "5": {
         "required": 300,
         "reward": 3000,
-        "nouns": "MVP",
+        "nouns": [
+          "MVP"
+        ],
         "modifiers": "Ready-Made"
       }
     }
