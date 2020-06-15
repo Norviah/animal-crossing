@@ -22,6 +22,7 @@
     "filename": "ShoesKneeKnightIron",
     "internalId": 5472,
     "uniqueEntryId": "osBLFxSiCDnRf8eXR",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 763,
@@ -42,7 +43,6 @@
       "russian": "рыцарские сапоги",
       "plural": false,
       "internalIds": [
-        642,
         5472
       ]
     },
@@ -80,6 +80,7 @@
     "filename": "AccessoryGlassSlippers0",
     "internalId": 12130,
     "uniqueEntryId": "gg8YSYsr2xNKYS9rd",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1184,
@@ -137,6 +138,7 @@
     "filename": "ShoesLowcutEggground0",
     "internalId": 12455,
     "uniqueEntryId": "PXnPHB4ZkaMwv3Y7s",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1211,
@@ -157,7 +159,6 @@
       "russian": "боты «Земляное яйцо»",
       "plural": false,
       "internalIds": [
-        675,
         12455
       ]
     },
@@ -195,6 +196,7 @@
     "filename": "ShoesKneeKnightGold",
     "internalId": 5524,
     "uniqueEntryId": "HE5wbwjxnuqXWwuTq",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 777,
@@ -215,7 +217,6 @@
       "russian": "латные золотые сапоги",
       "plural": false,
       "internalIds": [
-        643,
         5524
       ]
     },
@@ -253,6 +254,7 @@
     "filename": "ShoesLowcutKungfu0",
     "internalId": 9846,
     "uniqueEntryId": "uNAzFWaTbC7Qsp2cD",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1097,
@@ -310,6 +312,7 @@
     "filename": "ShoesLowcutEggleaf0",
     "internalId": 12457,
     "uniqueEntryId": "LE3RpADLBDaJ7hHNP",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1213,
@@ -330,7 +333,6 @@
       "russian": "боты «Лиственное яйцо»",
       "plural": false,
       "internalIds": [
-        681,
         12457
       ]
     },
@@ -368,6 +370,7 @@
     "filename": "ShoesSandalRco",
     "internalId": 5630,
     "uniqueEntryId": "Aba2jKEYFb3ZSzoWv",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1145,
@@ -425,6 +428,7 @@
     "filename": "ShoesKneeRecyclingboots0",
     "internalId": 12326,
     "uniqueEntryId": "pymFdvNQcZoDF2EQg",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1191,
@@ -445,7 +449,6 @@
       "russian": "сапоги из утиль-сырья",
       "plural": false,
       "internalIds": [
-        664,
         12326
       ]
     },
@@ -483,6 +486,7 @@
     "filename": "ShoesLowcutEggsky0",
     "internalId": 12459,
     "uniqueEntryId": "cfFHEY8TX3qfsWXc5",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1215,
@@ -503,7 +507,6 @@
       "russian": "боты «Небесное яйцо»",
       "plural": false,
       "internalIds": [
-        687,
         12459
       ]
     },
@@ -541,6 +544,7 @@
     "filename": "ShoesKneeSpaceWhite",
     "internalId": 5760,
     "uniqueEntryId": "wJ5GGhiCqRiGiyADm",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 863,
@@ -598,6 +602,7 @@
     "filename": "ShoesLowcutEggrock0",
     "internalId": 12456,
     "uniqueEntryId": "iNjeDCdctCeLqyxjv",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1212,
@@ -618,7 +623,6 @@
       "russian": "боты «Каменное яйцо»",
       "plural": false,
       "internalIds": [
-        678,
         12456
       ]
     },
@@ -656,6 +660,7 @@
     "filename": "ShoesKneeVisualBlack",
     "internalId": 5609,
     "uniqueEntryId": "hP4STomyv7jb7tKnT",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 792,
@@ -713,6 +718,7 @@
     "filename": "ShoesLowcutEggfish0",
     "internalId": 12460,
     "uniqueEntryId": "CT5SYnidy4tF7xneW",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1216,
@@ -733,7 +739,6 @@
       "russian": "боты «Водяное яйцо»",
       "plural": false,
       "internalIds": [
-        690,
         12460
       ]
     },
@@ -771,6 +776,7 @@
     "filename": "ShoesLowcutJunepumps0",
     "internalId": 12495,
     "uniqueEntryId": "ZXMfkX6hWrb3Bf4cJ",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1217,
@@ -828,6 +834,7 @@
     "filename": "ShoesLowcutJuneshoes0",
     "internalId": 12496,
     "uniqueEntryId": "j2RAxuwc7BvaMTicF",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1218,
@@ -885,6 +892,7 @@
     "filename": "ShoesLowcutEggforest0",
     "internalId": 12458,
     "uniqueEntryId": "8ZgL3dbCk7dXrNite",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 1214,
@@ -905,7 +913,6 @@
       "russian": "боты «Лесное яйцо»",
       "plural": false,
       "internalIds": [
-        684,
         12458
       ]
     },
@@ -943,6 +950,7 @@
     "filename": "ShoesKneeHeroWhite",
     "internalId": 5624,
     "uniqueEntryId": "8rjzx96Avdzbq7hFv",
+    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Shoes",
       "id": 799,
@@ -1027,6 +1035,7 @@
         "filename": "ShoesKneeAntique1",
         "internalId": 11689,
         "uniqueEntryId": "hpTunJzb4CJPueMW7",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -1049,6 +1058,7 @@
         "filename": "ShoesKneeAntique0",
         "internalId": 5523,
         "uniqueEntryId": "jQ9MMJXSCde9q8NPP",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -1071,6 +1081,7 @@
         "filename": "ShoesKneeAntique2",
         "internalId": 11690,
         "uniqueEntryId": "ngk8sGuhSHQoBmwqv",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -1139,6 +1150,7 @@
         "filename": "ShoesSandalBaboush4",
         "internalId": 10112,
         "uniqueEntryId": "N9jHqLCE8WsfZxJHo",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Yellow"
@@ -1161,6 +1173,7 @@
         "filename": "ShoesSandalBaboush7",
         "internalId": 10115,
         "uniqueEntryId": "EZKKTpCAN4CEvJJwC",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Yellow"
@@ -1183,6 +1196,7 @@
         "filename": "ShoesSandalBaboush2",
         "internalId": 10110,
         "uniqueEntryId": "KrfcX2z6gFKZziGwx",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -1205,6 +1219,7 @@
         "filename": "ShoesSandalBaboush1",
         "internalId": 10109,
         "uniqueEntryId": "hzHj4PYSRpa8fkQey",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -1227,6 +1242,7 @@
         "filename": "ShoesSandalBaboush3",
         "internalId": 10111,
         "uniqueEntryId": "BRTZYzjci4T3qodP8",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -1249,6 +1265,7 @@
         "filename": "ShoesSandalBaboush6",
         "internalId": 10114,
         "uniqueEntryId": "okW9rusWLMPm4bcDz",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Yellow"
@@ -1271,6 +1288,7 @@
         "filename": "ShoesSandalBaboush0",
         "internalId": 6043,
         "uniqueEntryId": "AvkHgWmEW5vTs4Ckc",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -1293,6 +1311,7 @@
         "filename": "ShoesSandalBaboush5",
         "internalId": 10113,
         "uniqueEntryId": "sth7EXmjdbwzk439A",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Yellow"
@@ -1361,6 +1380,7 @@
         "filename": "ShoesLowcutBallet4",
         "internalId": 10158,
         "uniqueEntryId": "oQNLiop5Do6CH5eTu",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -1383,6 +1403,7 @@
         "filename": "ShoesLowcutBallet0",
         "internalId": 5608,
         "uniqueEntryId": "uABG45ozFPCwrBXuS",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -1405,6 +1426,7 @@
         "filename": "ShoesLowcutBallet7",
         "internalId": 10161,
         "uniqueEntryId": "CpLSLkvz3Jo982p6e",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -1427,6 +1449,7 @@
         "filename": "ShoesLowcutBallet6",
         "internalId": 10160,
         "uniqueEntryId": "Qv7eADgLwdsNuSBZZ",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -1449,6 +1472,7 @@
         "filename": "ShoesLowcutBallet1",
         "internalId": 10155,
         "uniqueEntryId": "bE4c36LYqcRmkajHL",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -1471,6 +1495,7 @@
         "filename": "ShoesLowcutBallet2",
         "internalId": 10156,
         "uniqueEntryId": "jJ565rnrzozyhRNYP",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -1493,6 +1518,7 @@
         "filename": "ShoesLowcutBallet3",
         "internalId": 10157,
         "uniqueEntryId": "kuEQdTi7ZXLw5AZgR",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -1515,6 +1541,7 @@
         "filename": "ShoesLowcutBallet5",
         "internalId": 10159,
         "uniqueEntryId": "cQt3ftJejYwuPrqWS",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -1583,6 +1610,7 @@
         "filename": "ShoesHighcutBasket0",
         "internalId": 5638,
         "uniqueEntryId": "7xRWZmoxAaCxRYMuJ",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -1605,6 +1633,7 @@
         "filename": "ShoesHighcutBasket7",
         "internalId": 10066,
         "uniqueEntryId": "a7uqKcknGcWHoD43C",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Black"
@@ -1627,6 +1656,7 @@
         "filename": "ShoesHighcutBasket3",
         "internalId": 10062,
         "uniqueEntryId": "McTum2E4XpJfhavsX",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -1649,6 +1679,7 @@
         "filename": "ShoesHighcutBasket1",
         "internalId": 10060,
         "uniqueEntryId": "uRRCWDgRkrABjPdyg",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -1671,6 +1702,7 @@
         "filename": "ShoesHighcutBasket6",
         "internalId": 10065,
         "uniqueEntryId": "JhY975aRNditFYyhm",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Black"
@@ -1693,6 +1725,7 @@
         "filename": "ShoesHighcutBasket4",
         "internalId": 10063,
         "uniqueEntryId": "rixr4TkNPxrXrRRcw",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -1715,6 +1748,7 @@
         "filename": "ShoesHighcutBasket5",
         "internalId": 10064,
         "uniqueEntryId": "ryZhP2vjw4vQNiPMx",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -1737,6 +1771,7 @@
         "filename": "ShoesHighcutBasket2",
         "internalId": 10061,
         "uniqueEntryId": "9qivZWfCZucqweqBJ",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Black"
@@ -1803,6 +1838,7 @@
         "filename": "ShoesSandalBeads3",
         "internalId": 10139,
         "uniqueEntryId": "ukMZbdaNwYXQgdzEJ",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Colorful"
@@ -1825,6 +1861,7 @@
         "filename": "ShoesSandalBeads0",
         "internalId": 5478,
         "uniqueEntryId": "otoeZ6wQmT38HECcy",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Colorful"
@@ -1847,6 +1884,7 @@
         "filename": "ShoesSandalBeads2",
         "internalId": 10138,
         "uniqueEntryId": "pwpLSaDGk58SSvJYe",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Colorful"
@@ -1869,6 +1907,7 @@
         "filename": "ShoesSandalBeads4",
         "internalId": 10140,
         "uniqueEntryId": "Bjzm2LFHF6cwXKbfu",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Colorful"
@@ -1891,6 +1930,7 @@
         "filename": "ShoesSandalBeads1",
         "internalId": 10137,
         "uniqueEntryId": "kCEzmje6LKzAuHemd",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Colorful"
@@ -1913,6 +1953,7 @@
         "filename": "ShoesSandalBeads5",
         "internalId": 10141,
         "uniqueEntryId": "veLWy2EQQ49fq6F7p",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Colorful"
@@ -1979,6 +2020,7 @@
         "filename": "ShoesKneeRubberboots1",
         "internalId": 11685,
         "uniqueEntryId": "ffPXk8bFosbBzhxRo",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -2001,6 +2043,7 @@
         "filename": "ShoesKneeRubberboots3",
         "internalId": 11687,
         "uniqueEntryId": "MkX86RRKQ9GkwfGaL",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -2023,6 +2066,7 @@
         "filename": "ShoesKneeRubberboots4",
         "internalId": 11688,
         "uniqueEntryId": "NGSrsWRHfAtBKqPYz",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -2045,6 +2089,7 @@
         "filename": "ShoesKneeRubberboots0",
         "internalId": 5479,
         "uniqueEntryId": "nvyQe4J4JosazJ46S",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -2067,6 +2112,7 @@
         "filename": "ShoesKneeRubberboots2",
         "internalId": 11686,
         "uniqueEntryId": "Hvinu73hgLPsmDkcM",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -2129,6 +2175,7 @@
         "filename": "ShoesLowcutBusiness0",
         "internalId": 4730,
         "uniqueEntryId": "JxbjRNkGXgodBD8P7",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -2151,6 +2198,7 @@
         "filename": "ShoesLowcutBusiness1",
         "internalId": 11455,
         "uniqueEntryId": "sja7tXF4cPCa5hsrH",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -2219,6 +2267,7 @@
         "filename": "ShoesLowcutSpike4",
         "internalId": 10248,
         "uniqueEntryId": "Pr3hHw8YguTL57DwF",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Gray"
@@ -2241,6 +2290,7 @@
         "filename": "ShoesLowcutSpike2",
         "internalId": 10246,
         "uniqueEntryId": "NGWNC246yBWm3snJE",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Gray"
@@ -2263,6 +2313,7 @@
         "filename": "ShoesLowcutSpike5",
         "internalId": 10249,
         "uniqueEntryId": "iiKeEbNN6S9tRZ3st",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Gray"
@@ -2285,6 +2336,7 @@
         "filename": "ShoesLowcutSpike3",
         "internalId": 10247,
         "uniqueEntryId": "WkkwqXv9oS59HJzzT",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Gray"
@@ -2307,6 +2359,7 @@
         "filename": "ShoesLowcutSpike6",
         "internalId": 10250,
         "uniqueEntryId": "k2KmPiG39zPaP5aKE",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Gray"
@@ -2329,6 +2382,7 @@
         "filename": "ShoesLowcutSpike1",
         "internalId": 10245,
         "uniqueEntryId": "6kQs9rKWn47gLLs2M",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Gray"
@@ -2351,6 +2405,7 @@
         "filename": "ShoesLowcutSpike0",
         "internalId": 5654,
         "uniqueEntryId": "ozSLcS5AH7EbyuvKf",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Gray"
@@ -2373,6 +2428,7 @@
         "filename": "ShoesLowcutSpike7",
         "internalId": 10251,
         "uniqueEntryId": "QZLqNeTSRQishPzZX",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Gray"
@@ -2441,6 +2497,7 @@
         "filename": "ShoesSandalComfort1",
         "internalId": 10700,
         "uniqueEntryId": "7qmEHHQRDzoZwjzqi",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Beige"
@@ -2463,6 +2520,7 @@
         "filename": "ShoesSandalComfort4",
         "internalId": 10703,
         "uniqueEntryId": "MQ7rNNpQR9ExjjDeW",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Beige"
@@ -2485,6 +2543,7 @@
         "filename": "ShoesSandalComfort5",
         "internalId": 10704,
         "uniqueEntryId": "s4PZf4H5PuJR9XNbk",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Beige"
@@ -2507,6 +2566,7 @@
         "filename": "ShoesSandalComfort6",
         "internalId": 10705,
         "uniqueEntryId": "t4MnDYkWR9uExZncz",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Beige"
@@ -2529,6 +2589,7 @@
         "filename": "ShoesSandalComfort2",
         "internalId": 10701,
         "uniqueEntryId": "XaesMFTS6T3GBL97H",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Beige"
@@ -2551,6 +2612,7 @@
         "filename": "ShoesSandalComfort3",
         "internalId": 10702,
         "uniqueEntryId": "BPWe3svCXCzdrtMEr",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Beige"
@@ -2573,6 +2635,7 @@
         "filename": "ShoesSandalComfort7",
         "internalId": 10706,
         "uniqueEntryId": "zwbeCzpknc63Fptcv",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Beige"
@@ -2595,6 +2658,7 @@
         "filename": "ShoesSandalComfort0",
         "internalId": 5619,
         "uniqueEntryId": "bH8H3cpWoFegDZKg3",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Beige"
@@ -2660,6 +2724,7 @@
         "filename": "ShoesKneeWestern2",
         "internalId": 11254,
         "uniqueEntryId": "xv62ZghErnQR8Q73m",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Brown"
@@ -2682,6 +2747,7 @@
         "filename": "ShoesKneeWestern1",
         "internalId": 11253,
         "uniqueEntryId": "qzEjaaYJH93BC2Hh9",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Brown"
@@ -2704,6 +2770,7 @@
         "filename": "ShoesKneeWestern3",
         "internalId": 11255,
         "uniqueEntryId": "KgdfPqZxZYhrp4C2x",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Brown"
@@ -2726,6 +2793,7 @@
         "filename": "ShoesKneeWestern4",
         "internalId": 11256,
         "uniqueEntryId": "KDAEKS4qY5fpDgQuu",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Brown"
@@ -2748,6 +2816,7 @@
         "filename": "ShoesKneeWestern0",
         "internalId": 5643,
         "uniqueEntryId": "T59MhhiGhjcnsGnFu",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -2814,6 +2883,7 @@
         "filename": "ShoesSandalCrossbelt2",
         "internalId": 10122,
         "uniqueEntryId": "qAwap9h6YjWohE39n",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -2836,6 +2906,7 @@
         "filename": "ShoesSandalCrossbelt4",
         "internalId": 10124,
         "uniqueEntryId": "H8DTJawEDSPC8jf99",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -2858,6 +2929,7 @@
         "filename": "ShoesSandalCrossbelt1",
         "internalId": 10121,
         "uniqueEntryId": "wmAKDzzYnjbLzxhJ3",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -2880,6 +2952,7 @@
         "filename": "ShoesSandalCrossbelt0",
         "internalId": 4725,
         "uniqueEntryId": "S8PsLoFCGMqX3F6fZ",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -2902,6 +2975,7 @@
         "filename": "ShoesSandalCrossbelt5",
         "internalId": 10125,
         "uniqueEntryId": "PCPv5Mv6SGFnjg8ux",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -2924,6 +2998,7 @@
         "filename": "ShoesSandalCrossbelt3",
         "internalId": 10123,
         "uniqueEntryId": "eNkiMc8xbma2Ymdzx",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -2990,6 +3065,7 @@
         "filename": "ShoesHighcutCute2",
         "internalId": 10267,
         "uniqueEntryId": "9tQTbbf9bPTKu7qWz",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Purple"
@@ -3012,6 +3088,7 @@
         "filename": "ShoesHighcutCute3",
         "internalId": 10268,
         "uniqueEntryId": "Egxvg95EdXYikxzfF",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Green"
@@ -3034,6 +3111,7 @@
         "filename": "ShoesHighcutCute1",
         "internalId": 10266,
         "uniqueEntryId": "QyYoExD4R6xgzhzw3",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Yellow"
@@ -3056,6 +3134,7 @@
         "filename": "ShoesHighcutCute0",
         "internalId": 5803,
         "uniqueEntryId": "WdawbJs9jXzQsuFhx",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Pink"
@@ -3078,6 +3157,7 @@
         "filename": "ShoesHighcutCute5",
         "internalId": 10270,
         "uniqueEntryId": "f2oLT3HRXWPPEmpTu",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Pink"
@@ -3100,6 +3180,7 @@
         "filename": "ShoesHighcutCute4",
         "internalId": 10269,
         "uniqueEntryId": "w8pFobgTR68viQLPy",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Green"
@@ -3164,6 +3245,7 @@
         "filename": "ShoesLowcutEmbroidery1",
         "internalId": 11987,
         "uniqueEntryId": "rzZXksuyaHbm4SMM9",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Pink"
@@ -3186,6 +3268,7 @@
         "filename": "ShoesLowcutEmbroidery2",
         "internalId": 11988,
         "uniqueEntryId": "2JD3QbctqaQhPpBAb",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Pink"
@@ -3208,6 +3291,7 @@
         "filename": "ShoesLowcutEmbroidery0",
         "internalId": 9847,
         "uniqueEntryId": "GpHkK4Gy7yLYxbtcL",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Pink"
@@ -3230,6 +3314,7 @@
         "filename": "ShoesLowcutEmbroidery3",
         "internalId": 11989,
         "uniqueEntryId": "SuLAcSivQvdYEXHJB",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Pink"
@@ -3294,6 +3379,7 @@
         "filename": "ShoesHighcutFurboots2",
         "internalId": 11683,
         "uniqueEntryId": "jdCjhSTkbKzX85LN2",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Beige"
@@ -3316,6 +3402,7 @@
         "filename": "ShoesHighcutFurboots0",
         "internalId": 5476,
         "uniqueEntryId": "5FBywrCNgwAiqhXa7",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -3338,6 +3425,7 @@
         "filename": "ShoesHighcutFurboots3",
         "internalId": 11684,
         "uniqueEntryId": "Dzxt6pdX2LJWacn3H",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Gray"
@@ -3360,6 +3448,7 @@
         "filename": "ShoesHighcutFurboots1",
         "internalId": 11682,
         "uniqueEntryId": "KAt8hHZ3mDftYYiYt",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "White"
@@ -3425,6 +3514,7 @@
         "filename": "ShoesHighcutMouton4",
         "internalId": 11550,
         "uniqueEntryId": "GG7HfiPFNJvLwh5XC",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "White"
@@ -3447,6 +3537,7 @@
         "filename": "ShoesHighcutMouton3",
         "internalId": 11549,
         "uniqueEntryId": "YksdBvaJ3k6ouj243",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -3469,6 +3560,7 @@
         "filename": "ShoesHighcutMouton1",
         "internalId": 11547,
         "uniqueEntryId": "pbeHtooPfjRSuwhmY",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -3491,6 +3583,7 @@
         "filename": "ShoesHighcutMouton2",
         "internalId": 11548,
         "uniqueEntryId": "gyP9Azdy4b7iaCGoH",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -3513,6 +3606,7 @@
         "filename": "ShoesHighcutMouton0",
         "internalId": 4721,
         "uniqueEntryId": "z8A8CEX4Zoxos8ECz",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "White"
@@ -3581,6 +3675,7 @@
         "filename": "ShoesLowcutSuede7",
         "internalId": 10080,
         "uniqueEntryId": "PcsAkqLHgZo2yhwSH",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -3603,6 +3698,7 @@
         "filename": "ShoesLowcutSuede4",
         "internalId": 10077,
         "uniqueEntryId": "oqSaR83bRDZiLnibc",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -3625,6 +3721,7 @@
         "filename": "ShoesLowcutSuede3",
         "internalId": 10076,
         "uniqueEntryId": "442jYo3kkgtjrfNJw",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -3647,6 +3744,7 @@
         "filename": "ShoesLowcutSuede0",
         "internalId": 6893,
         "uniqueEntryId": "8ci7eigwwimo5zHrm",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -3669,6 +3767,7 @@
         "filename": "ShoesLowcutSuede5",
         "internalId": 10078,
         "uniqueEntryId": "2h5vwhQBfHf6Qmbzc",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -3691,6 +3790,7 @@
         "filename": "ShoesLowcutSuede1",
         "internalId": 10074,
         "uniqueEntryId": "gCcxqWq9CrrDemMzu",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -3713,6 +3813,7 @@
         "filename": "ShoesLowcutSuede6",
         "internalId": 10079,
         "uniqueEntryId": "3gXbkXjifTka79wk5",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "White"
@@ -3735,6 +3836,7 @@
         "filename": "ShoesLowcutSuede2",
         "internalId": 10075,
         "uniqueEntryId": "h7v8F5izpTkwhCo9X",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "White"
@@ -3803,6 +3905,7 @@
         "filename": "ShoesSandalBeachborder3",
         "internalId": 10735,
         "uniqueEntryId": "43ihwwTdqsQFFdDra",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Pink"
@@ -3825,6 +3928,7 @@
         "filename": "ShoesSandalBeachborder7",
         "internalId": 10739,
         "uniqueEntryId": "e49sttYMp9iQhn5JA",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Yellow"
@@ -3847,6 +3951,7 @@
         "filename": "ShoesSandalBeachborder6",
         "internalId": 10738,
         "uniqueEntryId": "KzSKyqg45TYFdmmq5",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Gray"
@@ -3869,6 +3974,7 @@
         "filename": "ShoesSandalBeachborder4",
         "internalId": 10736,
         "uniqueEntryId": "A4KkCM8MYzSzgiLxm",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Blue"
@@ -3891,6 +3997,7 @@
         "filename": "ShoesSandalBeachborder2",
         "internalId": 10169,
         "uniqueEntryId": "SKNg35jGs9MaLTD77",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Green"
@@ -3913,6 +4020,7 @@
         "filename": "ShoesSandalBeachborder1",
         "internalId": 6922,
         "uniqueEntryId": "wjnPzGx8aWE7G6gce",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Orange"
@@ -3935,6 +4043,7 @@
         "filename": "ShoesSandalBeachborder5",
         "internalId": 10737,
         "uniqueEntryId": "YyhMNsS7x3fugPLzk",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Orange"
@@ -3957,6 +4066,7 @@
         "filename": "ShoesSandalBeachborder0",
         "internalId": 5470,
         "uniqueEntryId": "b2pTnAJLeY3nCC85w",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Light blue"
@@ -4024,6 +4134,7 @@
         "filename": "ShoesSandalFlower6",
         "internalId": 10131,
         "uniqueEntryId": "zEAdQCRGCGkGXo3zH",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Gray"
@@ -4046,6 +4157,7 @@
         "filename": "ShoesSandalFlower5",
         "internalId": 10130,
         "uniqueEntryId": "sZKDexuZQqMHvKNha",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Gray"
@@ -4068,6 +4180,7 @@
         "filename": "ShoesSandalFlower1",
         "internalId": 10126,
         "uniqueEntryId": "CuM8H6yjAxM9hvKbB",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Pink"
@@ -4090,6 +4203,7 @@
         "filename": "ShoesSandalFlower0",
         "internalId": 5475,
         "uniqueEntryId": "iKjt4fpKTzWFNoWqv",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -4112,6 +4226,7 @@
         "filename": "ShoesSandalFlower2",
         "internalId": 10127,
         "uniqueEntryId": "MvQdXTd5fpze9DrcN",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -4134,6 +4249,7 @@
         "filename": "ShoesSandalFlower4",
         "internalId": 10129,
         "uniqueEntryId": "iBZH8z7aReKctqLyG",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Light blue"
@@ -4156,6 +4272,7 @@
         "filename": "ShoesSandalFlower3",
         "internalId": 10128,
         "uniqueEntryId": "vMQexjCj2Egq6S9Tm",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -4219,6 +4336,7 @@
         "filename": "ShoesLowcutBrogues2",
         "internalId": 11478,
         "uniqueEntryId": "2mGMrrGvMowcBDYh7",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -4241,6 +4359,7 @@
         "filename": "ShoesLowcutBrogues1",
         "internalId": 11477,
         "uniqueEntryId": "eFrTYfFkrBdwoSecE",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -4263,6 +4382,7 @@
         "filename": "ShoesLowcutBrogues0",
         "internalId": 6042,
         "uniqueEntryId": "85Ro38Bbgo5G7rSLw",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -4326,6 +4446,7 @@
         "filename": "ShoesSandalGladiator1",
         "internalId": 11251,
         "uniqueEntryId": "sKQvzqzGvs2ykcSbz",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -4348,6 +4469,7 @@
         "filename": "ShoesSandalGladiator2",
         "internalId": 11252,
         "uniqueEntryId": "S5PcJMFPpTfkdsrBv",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -4370,6 +4492,7 @@
         "filename": "ShoesSandalGladiator0",
         "internalId": 5620,
         "uniqueEntryId": "b4X3xaeXEp9ChQQr5",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -4435,6 +4558,7 @@
         "filename": "ShoesHighcutHightech1",
         "internalId": 10252,
         "uniqueEntryId": "PtSjcthWToYvF8son",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Green"
@@ -4457,6 +4581,7 @@
         "filename": "ShoesHighcutHightech0",
         "internalId": 5659,
         "uniqueEntryId": "vjJoBSPAnnmMtGJui",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Yellow"
@@ -4479,6 +4604,7 @@
         "filename": "ShoesHighcutHightech2",
         "internalId": 10253,
         "uniqueEntryId": "ZuFY68yoJCdmrLuWr",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Light blue"
@@ -4501,6 +4627,7 @@
         "filename": "ShoesHighcutHightech3",
         "internalId": 10254,
         "uniqueEntryId": "xasZPBabpo9zFAYMR",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Purple"
@@ -4523,6 +4650,7 @@
         "filename": "ShoesHighcutHightech4",
         "internalId": 10255,
         "uniqueEntryId": "QdudohpJ9dc3hANJF",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Red"
@@ -4591,6 +4719,7 @@
         "filename": "ShoesHighcutSneaker7",
         "internalId": 10045,
         "uniqueEntryId": "49789htHCpZsBFEYb",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Black"
@@ -4613,6 +4742,7 @@
         "filename": "ShoesHighcutSneaker0",
         "internalId": 2572,
         "uniqueEntryId": "A6PJmQQbeWQc4ks8Q",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -4635,6 +4765,7 @@
         "filename": "ShoesHighcutSneaker5",
         "internalId": 10043,
         "uniqueEntryId": "vQJchxGQbFYwCtRtG",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -4657,6 +4788,7 @@
         "filename": "ShoesHighcutSneaker6",
         "internalId": 10044,
         "uniqueEntryId": "oJLevZfue26fB7qbq",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -4679,6 +4811,7 @@
         "filename": "ShoesHighcutSneaker2",
         "internalId": 10040,
         "uniqueEntryId": "HsMaJWumxL4uY8voa",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -4701,6 +4834,7 @@
         "filename": "ShoesHighcutSneaker3",
         "internalId": 10041,
         "uniqueEntryId": "R26LoWHFtNPCiaQnT",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -4723,6 +4857,7 @@
         "filename": "ShoesHighcutSneaker4",
         "internalId": 10042,
         "uniqueEntryId": "ddCRfjPN2Xq2KENQF",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -4745,6 +4880,7 @@
         "filename": "ShoesHighcutSneaker1",
         "internalId": 10039,
         "uniqueEntryId": "6bXv8wbDiCDaRHXLb",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Black"
@@ -4813,6 +4949,7 @@
         "filename": "ShoesSandalRoomborder0",
         "internalId": 5564,
         "uniqueEntryId": "tZ2mLMoSBry5tTdA6",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "White"
@@ -4835,6 +4972,7 @@
         "filename": "ShoesSandalRoomborder6",
         "internalId": 10096,
         "uniqueEntryId": "Hr7KzEdakoD9LEXNL",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -4857,6 +4995,7 @@
         "filename": "ShoesSandalRoomborder2",
         "internalId": 10092,
         "uniqueEntryId": "BdzMBFw9xgcZPh2cQ",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -4879,6 +5018,7 @@
         "filename": "ShoesSandalRoomborder3",
         "internalId": 10093,
         "uniqueEntryId": "TBB5qAmPTjZHgLRgo",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -4901,6 +5041,7 @@
         "filename": "ShoesSandalRoomborder4",
         "internalId": 10094,
         "uniqueEntryId": "6tfgHMCwmTrRZwiQQ",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -4923,6 +5064,7 @@
         "filename": "ShoesSandalRoomborder5",
         "internalId": 10095,
         "uniqueEntryId": "3ACsSJTCB2bWPwZqm",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -4945,6 +5087,7 @@
         "filename": "ShoesSandalRoomborder1",
         "internalId": 10091,
         "uniqueEntryId": "TMeDiovzy92KvCgNT",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -4967,6 +5110,7 @@
         "filename": "ShoesSandalRoomborder7",
         "internalId": 10097,
         "uniqueEntryId": "B7W2EXnB3QmMEgjbM",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "White"
@@ -5031,6 +5175,7 @@
         "filename": "ShoesKneeClown1",
         "internalId": 11558,
         "uniqueEntryId": "niQbfxs5g6937bDmP",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Red"
@@ -5053,6 +5198,7 @@
         "filename": "ShoesKneeClown2",
         "internalId": 11559,
         "uniqueEntryId": "uBt8KnMps2wigFd7x",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Blue"
@@ -5075,6 +5221,7 @@
         "filename": "ShoesKneeClown3",
         "internalId": 11560,
         "uniqueEntryId": "4i7swMp5oRyQE9rTH",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Yellow"
@@ -5097,6 +5244,7 @@
         "filename": "ShoesKneeClown0",
         "internalId": 5639,
         "uniqueEntryId": "kFDPkeYy4wcHmPdbQ",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Red"
@@ -5163,6 +5311,7 @@
         "filename": "ShoesHighcutSports4",
         "internalId": 10264,
         "uniqueEntryId": "oxQ6Zq7k9LLPhxMyj",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Blue"
@@ -5185,6 +5334,7 @@
         "filename": "ShoesHighcutSports5",
         "internalId": 10265,
         "uniqueEntryId": "xvrKLHrw4cuouBZ4P",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Red"
@@ -5207,6 +5357,7 @@
         "filename": "ShoesHighcutSports0",
         "internalId": 5761,
         "uniqueEntryId": "DiPuWBTmBh88DRn5r",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Yellow"
@@ -5229,6 +5380,7 @@
         "filename": "ShoesHighcutSports2",
         "internalId": 10262,
         "uniqueEntryId": "JsrscqqMSNsh3igS7",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Blue"
@@ -5251,6 +5403,7 @@
         "filename": "ShoesHighcutSports1",
         "internalId": 10261,
         "uniqueEntryId": "kAr6gcCKT8HoCuSRE",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Red"
@@ -5273,6 +5426,7 @@
         "filename": "ShoesHighcutSports3",
         "internalId": 10263,
         "uniqueEntryId": "YtsQtuSuRpNJ9K8nJ",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Orange"
@@ -5341,6 +5495,7 @@
         "filename": "ShoesSandalGeta4",
         "internalId": 10965,
         "uniqueEntryId": "EgT778SJG3yj69j9X",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Beige"
@@ -5363,6 +5518,7 @@
         "filename": "ShoesSandalGeta0",
         "internalId": 3704,
         "uniqueEntryId": "GLnAezFtAC88MkqHv",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Beige"
@@ -5385,6 +5541,7 @@
         "filename": "ShoesSandalGeta1",
         "internalId": 10962,
         "uniqueEntryId": "9BqtfBqkG7e2XvC5E",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Beige"
@@ -5407,6 +5564,7 @@
         "filename": "ShoesSandalGeta2",
         "internalId": 10963,
         "uniqueEntryId": "euyfneg4wKNBxaRAb",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Beige"
@@ -5429,6 +5587,7 @@
         "filename": "ShoesSandalGeta6",
         "internalId": 10967,
         "uniqueEntryId": "SvCuc7AwtmzkHtGBu",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Beige"
@@ -5451,6 +5610,7 @@
         "filename": "ShoesSandalGeta7",
         "internalId": 10968,
         "uniqueEntryId": "rzpWkSsb7z9Er4TRC",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Beige"
@@ -5473,6 +5633,7 @@
         "filename": "ShoesSandalGeta3",
         "internalId": 10964,
         "uniqueEntryId": "GsGxnse3sG9cSK5Qp",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Beige"
@@ -5495,6 +5656,7 @@
         "filename": "ShoesSandalGeta5",
         "internalId": 10966,
         "uniqueEntryId": "jxJh2qEEPq43eW8rE",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Beige"
@@ -5561,6 +5723,7 @@
         "filename": "ShoesLowcutKateheel1",
         "internalId": 11766,
         "uniqueEntryId": "WHsTLAXaLK3xxLsGE",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Gray"
@@ -5583,6 +5746,7 @@
         "filename": "ShoesLowcutKateheel2",
         "internalId": 11767,
         "uniqueEntryId": "a3C3YgvQsLy9jrCNu",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Gray"
@@ -5605,6 +5769,7 @@
         "filename": "ShoesLowcutKateheel5",
         "internalId": 11770,
         "uniqueEntryId": "dtKmyfWf7S2nyer8g",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Gray"
@@ -5627,6 +5792,7 @@
         "filename": "ShoesLowcutKateheel4",
         "internalId": 11769,
         "uniqueEntryId": "tyTvXLX3dX8qtecHz",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Gray"
@@ -5649,6 +5815,7 @@
         "filename": "ShoesLowcutKateheel3",
         "internalId": 11768,
         "uniqueEntryId": "mSbTfdnHdwzyjQ3E8",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Gray"
@@ -5671,6 +5838,7 @@
         "filename": "ShoesLowcutKateheel0",
         "internalId": 9884,
         "uniqueEntryId": "sEJGhBBxTL7qWJE4M",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Gray"
@@ -5737,6 +5905,7 @@
         "filename": "ShoesHighcutKatesneaker1",
         "internalId": 11771,
         "uniqueEntryId": "5hkTnYdABuHSECmDm",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -5759,6 +5928,7 @@
         "filename": "ShoesHighcutKatesneaker2",
         "internalId": 11772,
         "uniqueEntryId": "Ed6wWhidegCLG2DAM",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -5781,6 +5951,7 @@
         "filename": "ShoesHighcutKatesneaker5",
         "internalId": 11775,
         "uniqueEntryId": "sb4a63H75Cd2SbNFA",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Black"
@@ -5803,6 +5974,7 @@
         "filename": "ShoesHighcutKatesneaker4",
         "internalId": 11774,
         "uniqueEntryId": "GvsavAFMFoXuPMDbR",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -5825,6 +5997,7 @@
         "filename": "ShoesHighcutKatesneaker3",
         "internalId": 11773,
         "uniqueEntryId": "unwHxhSKXYSngG4Qj",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -5847,6 +6020,7 @@
         "filename": "ShoesHighcutKatesneaker0",
         "internalId": 9885,
         "uniqueEntryId": "YRtQpMnJxg9nNHL5A",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -5911,6 +6085,7 @@
         "filename": "ShoesKneeLaceup1",
         "internalId": 11257,
         "uniqueEntryId": "vMF7xDM6WkNnoSn5g",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -5933,6 +6108,7 @@
         "filename": "ShoesKneeLaceup0",
         "internalId": 5667,
         "uniqueEntryId": "sNmoLH8tnpNCC5X4z",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -5955,6 +6131,7 @@
         "filename": "ShoesKneeLaceup3",
         "internalId": 11259,
         "uniqueEntryId": "fP7ujb2fhYNT3RWZ7",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Brown"
@@ -5977,6 +6154,7 @@
         "filename": "ShoesKneeLaceup2",
         "internalId": 11258,
         "uniqueEntryId": "7ztxnCQz2E5TFXv57",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -6043,6 +6221,7 @@
         "filename": "ShoesLowcutLeopard1",
         "internalId": 10132,
         "uniqueEntryId": "4dWXRYLHywa22CiDJ",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -6065,6 +6244,7 @@
         "filename": "ShoesLowcutLeopard5",
         "internalId": 10136,
         "uniqueEntryId": "F9dwiM2YcJy8C8kBZ",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -6087,6 +6267,7 @@
         "filename": "ShoesLowcutLeopard3",
         "internalId": 10134,
         "uniqueEntryId": "TcbC2LDWxS5iHeSqm",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -6109,6 +6290,7 @@
         "filename": "ShoesLowcutLeopard2",
         "internalId": 10133,
         "uniqueEntryId": "AnEBDgrZ4523Ndji9",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -6131,6 +6313,7 @@
         "filename": "ShoesLowcutLeopard4",
         "internalId": 10135,
         "uniqueEntryId": "2nK5kvg7qiEdpxFCN",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -6153,6 +6336,7 @@
         "filename": "ShoesLowcutLeopard0",
         "internalId": 5477,
         "uniqueEntryId": "Ey7Y3uBu6WKm8y8ct",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Brown"
@@ -6220,6 +6404,7 @@
         "filename": "ShoesLowcutLoafers2",
         "internalId": 11450,
         "uniqueEntryId": "pKntHcedJhPRZKHmf",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Brown"
@@ -6242,6 +6427,7 @@
         "filename": "ShoesLowcutLoafers1",
         "internalId": 11449,
         "uniqueEntryId": "nKNWYa5dKmARM7SvT",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -6264,6 +6450,7 @@
         "filename": "ShoesLowcutLoafers6",
         "internalId": 11454,
         "uniqueEntryId": "PukSQjXvyYzFeZqcD",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -6286,6 +6473,7 @@
         "filename": "ShoesLowcutLoafers3",
         "internalId": 11451,
         "uniqueEntryId": "fPPRtqopYqbAny4As",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Black"
@@ -6308,6 +6496,7 @@
         "filename": "ShoesLowcutLoafers5",
         "internalId": 11453,
         "uniqueEntryId": "yQbPEnufsfMi3W3bX",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -6330,6 +6519,7 @@
         "filename": "ShoesLowcutLoafers4",
         "internalId": 11452,
         "uniqueEntryId": "KZbcJ6Y2azsNN5CQp",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -6352,6 +6542,7 @@
         "filename": "ShoesLowcutLoafers0",
         "internalId": 4724,
         "uniqueEntryId": "XyqDFz4BRSEzksRqq",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -6416,6 +6607,7 @@
         "filename": "ShoesKneeWitch2",
         "internalId": 11562,
         "uniqueEntryId": "ncnoEonPFECoYQJdP",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -6438,6 +6630,7 @@
         "filename": "ShoesKneeWitch0",
         "internalId": 6894,
         "uniqueEntryId": "tKv2qT7NoEHtYiP4n",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Purple"
@@ -6460,6 +6653,7 @@
         "filename": "ShoesKneeWitch3",
         "internalId": 11563,
         "uniqueEntryId": "XczPtA2SGxvdSmuwH",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -6482,6 +6676,7 @@
         "filename": "ShoesKneeWitch1",
         "internalId": 11561,
         "uniqueEntryId": "mbi2SGaxxTc9DCKqb",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Light blue"
@@ -6550,6 +6745,7 @@
         "filename": "ShoesLowcutStrap2",
         "internalId": 10163,
         "uniqueEntryId": "fs9C7jNtLwxKADExm",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -6572,6 +6768,7 @@
         "filename": "ShoesLowcutStrap0",
         "internalId": 5471,
         "uniqueEntryId": "tcPAf8PdxWMPJ56TC",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -6594,6 +6791,7 @@
         "filename": "ShoesLowcutStrap1",
         "internalId": 10162,
         "uniqueEntryId": "fhovDJCbyJ4ECSeEr",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -6616,6 +6814,7 @@
         "filename": "ShoesLowcutStrap7",
         "internalId": 10168,
         "uniqueEntryId": "HyyFEEoddMkfGhZKN",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -6638,6 +6837,7 @@
         "filename": "ShoesLowcutStrap4",
         "internalId": 10165,
         "uniqueEntryId": "STYMB3qiDR7pocoAt",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -6660,6 +6860,7 @@
         "filename": "ShoesLowcutStrap6",
         "internalId": 10167,
         "uniqueEntryId": "XgJAZ7yWs43DKkfjm",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -6682,6 +6883,7 @@
         "filename": "ShoesLowcutStrap3",
         "internalId": 10164,
         "uniqueEntryId": "3vTqRmCZpmeQWANB9",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -6704,6 +6906,7 @@
         "filename": "ShoesLowcutStrap5",
         "internalId": 10166,
         "uniqueEntryId": "P2y3oTkbFmXHwSSDx",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -6771,6 +6974,7 @@
         "filename": "ShoesHighcutMoccasin4",
         "internalId": 11459,
         "uniqueEntryId": "8oSWwD9gw84jXsvEm",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Beige"
@@ -6793,6 +6997,7 @@
         "filename": "ShoesHighcutMoccasin3",
         "internalId": 11458,
         "uniqueEntryId": "EizwkphgKRHNZjqdS",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Beige"
@@ -6815,6 +7020,7 @@
         "filename": "ShoesHighcutMoccasin0",
         "internalId": 5542,
         "uniqueEntryId": "6a8aJ5Ca4uJXRn5cF",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Beige"
@@ -6837,6 +7043,7 @@
         "filename": "ShoesHighcutMoccasin1",
         "internalId": 11456,
         "uniqueEntryId": "6ufhuatgmDBKgNCZL",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Beige"
@@ -6859,6 +7066,7 @@
         "filename": "ShoesHighcutMoccasin5",
         "internalId": 11460,
         "uniqueEntryId": "AzNm6SnygdC6nD69M",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Beige"
@@ -6881,6 +7089,7 @@
         "filename": "ShoesHighcutMoccasin6",
         "internalId": 11461,
         "uniqueEntryId": "S75a7Lg4LsrZWdE7u",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Beige"
@@ -6903,6 +7112,7 @@
         "filename": "ShoesHighcutMoccasin2",
         "internalId": 11457,
         "uniqueEntryId": "L4cyTp779xTQr4dem",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -6970,6 +7180,7 @@
         "filename": "ShoesLowcutMoccasin3",
         "internalId": 11467,
         "uniqueEntryId": "EEsaJmPjGLnXNxFKm",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Black"
@@ -6992,6 +7203,7 @@
         "filename": "ShoesLowcutMoccasin5",
         "internalId": 11469,
         "uniqueEntryId": "4unvwzJxsS3XjpfuB",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -7014,6 +7226,7 @@
         "filename": "ShoesLowcutMoccasin6",
         "internalId": 11470,
         "uniqueEntryId": "qzZAMBDZCAjRFFD8v",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -7036,6 +7249,7 @@
         "filename": "ShoesLowcutMoccasin1",
         "internalId": 11465,
         "uniqueEntryId": "tHHXagqyKFSz4f8w8",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -7058,6 +7272,7 @@
         "filename": "ShoesLowcutMoccasin4",
         "internalId": 11468,
         "uniqueEntryId": "pBBdogRTWvdxBems7",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Brown"
@@ -7080,6 +7295,7 @@
         "filename": "ShoesLowcutMoccasin0",
         "internalId": 5807,
         "uniqueEntryId": "SpvHngyJ9AuiKwYzm",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Brown"
@@ -7102,6 +7318,7 @@
         "filename": "ShoesLowcutMoccasin2",
         "internalId": 11466,
         "uniqueEntryId": "DjFwDzv5JsXzbBh7n",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Brown"
@@ -7170,6 +7387,7 @@
         "filename": "ShoesSandalOutdoor6",
         "internalId": 10712,
         "uniqueEntryId": "iZnEdXRHGkB8upzKY",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Black"
@@ -7192,6 +7410,7 @@
         "filename": "ShoesSandalOutdoor7",
         "internalId": 10713,
         "uniqueEntryId": "TxWPbv6SR2kkQ5qW6",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -7214,6 +7433,7 @@
         "filename": "ShoesSandalOutdoor1",
         "internalId": 10707,
         "uniqueEntryId": "mfmnkmNpSzWgKcRsT",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -7236,6 +7456,7 @@
         "filename": "ShoesSandalOutdoor5",
         "internalId": 10711,
         "uniqueEntryId": "4PqGRqeQ7CzcnXt2P",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Black"
@@ -7258,6 +7479,7 @@
         "filename": "ShoesSandalOutdoor4",
         "internalId": 10710,
         "uniqueEntryId": "CvPPDbRnzFKKBSFSC",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -7280,6 +7502,7 @@
         "filename": "ShoesSandalOutdoor0",
         "internalId": 5640,
         "uniqueEntryId": "BnWQmdRpMLoHthF3j",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -7302,6 +7525,7 @@
         "filename": "ShoesSandalOutdoor2",
         "internalId": 10708,
         "uniqueEntryId": "QaPK5tMTrBohRYkzh",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -7324,6 +7548,7 @@
         "filename": "ShoesSandalOutdoor3",
         "internalId": 10709,
         "uniqueEntryId": "6xpDCB24AbaE99KCF",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -7389,6 +7614,7 @@
         "filename": "ShoesLowcutAnimal2",
         "internalId": 10977,
         "uniqueEntryId": "yrXceyd3fyhzg4PDD",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -7411,6 +7637,7 @@
         "filename": "ShoesLowcutAnimal4",
         "internalId": 10979,
         "uniqueEntryId": "7uDbKzSsn9M4YjKD8",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -7433,6 +7660,7 @@
         "filename": "ShoesLowcutAnimal0",
         "internalId": 5469,
         "uniqueEntryId": "zPA3tiBnSWjb49scP",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -7455,6 +7683,7 @@
         "filename": "ShoesLowcutAnimal3",
         "internalId": 10978,
         "uniqueEntryId": "moK7LvPta9MKL6WKP",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -7477,6 +7706,7 @@
         "filename": "ShoesLowcutAnimal1",
         "internalId": 10976,
         "uniqueEntryId": "QuqDNpdRXWXzHKY9h",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -7541,6 +7771,7 @@
         "filename": "ShoesHighcutShortboots1",
         "internalId": 11679,
         "uniqueEntryId": "ckPxzgw73nbjWg6Bq",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -7563,6 +7794,7 @@
         "filename": "ShoesHighcutShortboots3",
         "internalId": 11681,
         "uniqueEntryId": "ubApDpnHA6xBoteSP",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -7585,6 +7817,7 @@
         "filename": "ShoesHighcutShortboots2",
         "internalId": 11680,
         "uniqueEntryId": "zvnxRiA7p4LpjtsD9",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -7607,6 +7840,7 @@
         "filename": "ShoesHighcutShortboots0",
         "internalId": 5474,
         "uniqueEntryId": "QSxtJ4L7qnMs3AmhT",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -7675,6 +7909,7 @@
         "filename": "ShoesLowcutLeathersneker0",
         "internalId": 4716,
         "uniqueEntryId": "MvyqYcx2cPGoDnG2F",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -7697,6 +7932,7 @@
         "filename": "ShoesLowcutLeathersneker1",
         "internalId": 10046,
         "uniqueEntryId": "meSAwpgrLaXYTZ6PM",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -7719,6 +7955,7 @@
         "filename": "ShoesLowcutLeathersneker2",
         "internalId": 10047,
         "uniqueEntryId": "6MRPf3xicDyzPnwTT",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -7741,6 +7978,7 @@
         "filename": "ShoesLowcutLeathersneker7",
         "internalId": 10052,
         "uniqueEntryId": "hnwirvwCRgHHG9oSM",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -7763,6 +8001,7 @@
         "filename": "ShoesLowcutLeathersneker5",
         "internalId": 10050,
         "uniqueEntryId": "XkKrKvtQ7WtaoPAFR",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -7785,6 +8024,7 @@
         "filename": "ShoesLowcutLeathersneker3",
         "internalId": 10048,
         "uniqueEntryId": "wZN8iiWBhegci4vH8",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -7807,6 +8047,7 @@
         "filename": "ShoesLowcutLeathersneker6",
         "internalId": 10051,
         "uniqueEntryId": "YyTT7rtusTv5i2kf7",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -7829,6 +8070,7 @@
         "filename": "ShoesLowcutLeathersneker4",
         "internalId": 10049,
         "uniqueEntryId": "TJn6f2GivkPh3wNCW",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -7896,6 +8138,7 @@
         "filename": "ShoesHighcutBobbles6",
         "internalId": 11694,
         "uniqueEntryId": "PyrYHQEgWYw5A5xxe",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -7918,6 +8161,7 @@
         "filename": "ShoesHighcutBobbles1",
         "internalId": 6860,
         "uniqueEntryId": "jwWqyc6DdM7qBStcR",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -7940,6 +8184,7 @@
         "filename": "ShoesHighcutBobbles0",
         "internalId": 5545,
         "uniqueEntryId": "ikoDt2wBKC4tMdMTd",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -7962,6 +8207,7 @@
         "filename": "ShoesHighcutBobbles2",
         "internalId": 6867,
         "uniqueEntryId": "rSXv7GNTw2kzXvDMh",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -7984,6 +8230,7 @@
         "filename": "ShoesHighcutBobbles4",
         "internalId": 11692,
         "uniqueEntryId": "6SYe4Ap54nWGsCEFY",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -8006,6 +8253,7 @@
         "filename": "ShoesHighcutBobbles5",
         "internalId": 11693,
         "uniqueEntryId": "ZbvBuyaGsoBguhSP7",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -8028,6 +8276,7 @@
         "filename": "ShoesHighcutBobbles3",
         "internalId": 11691,
         "uniqueEntryId": "gNQ8dYScE5ZRJ4F6z",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "White"
@@ -8092,6 +8341,7 @@
         "filename": "ShoesKneePowered3",
         "internalId": 11799,
         "uniqueEntryId": "7hsm7pbTKWbeaqHQc",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Red"
@@ -8114,6 +8364,7 @@
         "filename": "ShoesKneePowered0",
         "internalId": 5698,
         "uniqueEntryId": "EdeJCph8C4rwyyeDF",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Gray"
@@ -8136,6 +8387,7 @@
         "filename": "ShoesKneePowered2",
         "internalId": 11798,
         "uniqueEntryId": "hMfdaCgqqdYB5SxcT",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Purple"
@@ -8158,6 +8410,7 @@
         "filename": "ShoesKneePowered1",
         "internalId": 11797,
         "uniqueEntryId": "7Ps3tA9FuZdMPHFhN",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Green"
@@ -8226,6 +8479,7 @@
         "filename": "ShoesKneeRainboots7",
         "internalId": 11557,
         "uniqueEntryId": "dBLH9boiqRY25CAkE",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -8248,6 +8502,7 @@
         "filename": "ShoesKneeRainboots5",
         "internalId": 11555,
         "uniqueEntryId": "TBaCCXwZQrPpXfyRc",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -8270,6 +8525,7 @@
         "filename": "ShoesKneeRainboots4",
         "internalId": 11554,
         "uniqueEntryId": "FHjX8EryuvqR8Lriq",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -8292,6 +8548,7 @@
         "filename": "ShoesKneeRainboots0",
         "internalId": 4733,
         "uniqueEntryId": "QWCYpFbf4JEobjwav",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -8314,6 +8571,7 @@
         "filename": "ShoesKneeRainboots1",
         "internalId": 11551,
         "uniqueEntryId": "R3vuRBSPQ8kMsx4cn",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -8336,6 +8594,7 @@
         "filename": "ShoesKneeRainboots2",
         "internalId": 11552,
         "uniqueEntryId": "bC58G7zF8S62ueYyS",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -8358,6 +8617,7 @@
         "filename": "ShoesKneeRainboots3",
         "internalId": 11553,
         "uniqueEntryId": "yb8Xzzv8eeCS4TJq7",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -8380,6 +8640,7 @@
         "filename": "ShoesKneeRainboots6",
         "internalId": 11556,
         "uniqueEntryId": "GThEGgGR9schjrSLL",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -8445,6 +8706,7 @@
         "filename": "ShoesLowcutToilet1",
         "internalId": 10105,
         "uniqueEntryId": "YgbKhnaDc53vupcpX",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -8467,6 +8729,7 @@
         "filename": "ShoesLowcutToilet4",
         "internalId": 10108,
         "uniqueEntryId": "eLhP3LBZSerB3Rz2E",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -8489,6 +8752,7 @@
         "filename": "ShoesLowcutToilet2",
         "internalId": 10106,
         "uniqueEntryId": "XF7u6KhqeRd99bJ7q",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -8511,6 +8775,7 @@
         "filename": "ShoesLowcutToilet3",
         "internalId": 10107,
         "uniqueEntryId": "ofPJY5TFLBryNjWwW",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -8533,6 +8798,7 @@
         "filename": "ShoesLowcutToilet0",
         "internalId": 5800,
         "uniqueEntryId": "BJToZwde8mPrayZHC",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -8601,6 +8867,7 @@
         "filename": "ShoesSandalRibbon1",
         "internalId": 10721,
         "uniqueEntryId": "Wq5syMKeGKA2qbD2s",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Beige"
@@ -8623,6 +8890,7 @@
         "filename": "ShoesSandalRibbon7",
         "internalId": 10727,
         "uniqueEntryId": "7yuxPjGQx5kfkhtnd",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Beige"
@@ -8645,6 +8913,7 @@
         "filename": "ShoesSandalRibbon6",
         "internalId": 10726,
         "uniqueEntryId": "cb2sKjFjwFDFgsgSb",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Beige"
@@ -8667,6 +8936,7 @@
         "filename": "ShoesSandalRibbon5",
         "internalId": 10725,
         "uniqueEntryId": "NJEv8nHDPBobY8uF4",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Beige"
@@ -8689,6 +8959,7 @@
         "filename": "ShoesSandalRibbon2",
         "internalId": 10722,
         "uniqueEntryId": "QkAtu7Q6CJon4XNoa",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Beige"
@@ -8711,6 +8982,7 @@
         "filename": "ShoesSandalRibbon3",
         "internalId": 10723,
         "uniqueEntryId": "Fk8yQ59e8fJdYiprE",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Beige"
@@ -8733,6 +9005,7 @@
         "filename": "ShoesSandalRibbon4",
         "internalId": 10724,
         "uniqueEntryId": "RjfiqFkqYxszRspu3",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Beige"
@@ -8755,6 +9028,7 @@
         "filename": "ShoesSandalRibbon0",
         "internalId": 5814,
         "uniqueEntryId": "KeqaR8Ze6LyYW9RqA",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Beige"
@@ -8823,6 +9097,7 @@
         "filename": "ShoesHighcutRubbertoe6",
         "internalId": 10058,
         "uniqueEntryId": "atTwSXfw9x52DbZRj",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -8845,6 +9120,7 @@
         "filename": "ShoesHighcutRubbertoe7",
         "internalId": 10059,
         "uniqueEntryId": "LhiGsXbeLR3BfwEnT",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -8867,6 +9143,7 @@
         "filename": "ShoesHighcutRubbertoe4",
         "internalId": 10056,
         "uniqueEntryId": "qKtTEY7u2itPu6kPf",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -8889,6 +9166,7 @@
         "filename": "ShoesHighcutRubbertoe3",
         "internalId": 10055,
         "uniqueEntryId": "vdcE6F47jbNvpFHSS",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -8911,6 +9189,7 @@
         "filename": "ShoesHighcutRubbertoe5",
         "internalId": 10057,
         "uniqueEntryId": "HBFY9CWNhtx57khyM",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "White"
@@ -8933,6 +9212,7 @@
         "filename": "ShoesHighcutRubbertoe1",
         "internalId": 10053,
         "uniqueEntryId": "tfMMQyk3kTFo8Grj3",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -8955,6 +9235,7 @@
         "filename": "ShoesHighcutRubbertoe0",
         "internalId": 5617,
         "uniqueEntryId": "r495YqHHQjC5tS9tc",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -8977,6 +9258,7 @@
         "filename": "ShoesHighcutRubbertoe2",
         "internalId": 10054,
         "uniqueEntryId": "kxNYJ6ecrni3FYsQC",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "White"
@@ -9045,6 +9327,7 @@
         "filename": "ShoesLowcutRubbertoe7",
         "internalId": 10073,
         "uniqueEntryId": "n9ef92fAk5TDu29EN",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -9067,6 +9350,7 @@
         "filename": "ShoesLowcutRubbertoe4",
         "internalId": 10070,
         "uniqueEntryId": "3uw8c5QGwBv954cDs",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -9089,6 +9373,7 @@
         "filename": "ShoesLowcutRubbertoe5",
         "internalId": 10071,
         "uniqueEntryId": "WX8FE3WFJf588yRJq",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -9111,6 +9396,7 @@
         "filename": "ShoesLowcutRubbertoe2",
         "internalId": 10068,
         "uniqueEntryId": "zd3N7wBnQEYNczJiS",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -9133,6 +9419,7 @@
         "filename": "ShoesLowcutRubbertoe1",
         "internalId": 10067,
         "uniqueEntryId": "JCn5sFjYokpJtNyqZ",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -9155,6 +9442,7 @@
         "filename": "ShoesLowcutRubbertoe3",
         "internalId": 10069,
         "uniqueEntryId": "gFYvSYE6RhYPYfGRC",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -9177,6 +9465,7 @@
         "filename": "ShoesLowcutRubbertoe6",
         "internalId": 10072,
         "uniqueEntryId": "tiNSYwmShxfo2mTiP",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -9199,6 +9488,7 @@
         "filename": "ShoesLowcutRubbertoe0",
         "internalId": 6892,
         "uniqueEntryId": "eq7PSgXfLfTbmKGKY",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "White"
@@ -9264,6 +9554,7 @@
         "filename": "ShoesKneeLegguard3",
         "internalId": 11569,
         "uniqueEntryId": "MB4ES9NjTNx2DE5Ps",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Blue"
@@ -9286,6 +9577,7 @@
         "filename": "ShoesKneeLegguard1",
         "internalId": 11567,
         "uniqueEntryId": "GpcGFYoMWDXKKvTuT",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Blue"
@@ -9308,6 +9600,7 @@
         "filename": "ShoesKneeLegguard0",
         "internalId": 5546,
         "uniqueEntryId": "su835EMzZKpv2Whv2",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Blue"
@@ -9330,6 +9623,7 @@
         "filename": "ShoesKneeLegguard4",
         "internalId": 11570,
         "uniqueEntryId": "vKNjjoQ6LLoQN6z2a",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Blue"
@@ -9352,6 +9646,7 @@
         "filename": "ShoesKneeLegguard2",
         "internalId": 11568,
         "uniqueEntryId": "uxQmHGifmnCb3Boyw",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -9419,6 +9714,7 @@
         "filename": "ShoesLowcutLolita5",
         "internalId": 10153,
         "uniqueEntryId": "vm3ugd64szb933prn",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -9441,6 +9737,7 @@
         "filename": "ShoesLowcutLolita1",
         "internalId": 10149,
         "uniqueEntryId": "xs3WYWx8mSTYQwq9n",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -9463,6 +9760,7 @@
         "filename": "ShoesLowcutLolita2",
         "internalId": 10150,
         "uniqueEntryId": "p3p8ifj6sWkrx5uuC",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -9485,6 +9783,7 @@
         "filename": "ShoesLowcutLolita0",
         "internalId": 5606,
         "uniqueEntryId": "JCHkpNJKK4q3f7G3R",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -9507,6 +9806,7 @@
         "filename": "ShoesLowcutLolita4",
         "internalId": 10152,
         "uniqueEntryId": "wwGACYDtygfqRdp5N",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -9529,6 +9829,7 @@
         "filename": "ShoesLowcutLolita3",
         "internalId": 10151,
         "uniqueEntryId": "947juCMoGceMJSytH",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -9551,6 +9852,7 @@
         "filename": "ShoesLowcutLolita6",
         "internalId": 10154,
         "uniqueEntryId": "tTGe9YJzagEXzFZjj",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -9616,6 +9918,7 @@
         "filename": "ShoesSandalShower1",
         "internalId": 10696,
         "uniqueEntryId": "TeepAoZAHJGpJXXv7",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Gray"
@@ -9638,6 +9941,7 @@
         "filename": "ShoesSandalShower0",
         "internalId": 4714,
         "uniqueEntryId": "Zf4HuKDJSaXy5Qzwg",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -9660,6 +9964,7 @@
         "filename": "ShoesSandalShower3",
         "internalId": 10698,
         "uniqueEntryId": "iH6Z7x6rcaxHCdHnW",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -9682,6 +9987,7 @@
         "filename": "ShoesSandalShower2",
         "internalId": 10697,
         "uniqueEntryId": "ubXSMjNnaXDaobiAX",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -9704,6 +10010,7 @@
         "filename": "ShoesSandalShower4",
         "internalId": 10699,
         "uniqueEntryId": "F8maThw5HTMMWxrEY",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -9770,6 +10077,7 @@
         "filename": "ShoesKneeSki0",
         "internalId": 5660,
         "uniqueEntryId": "n2QGDJbTEi3ttYi7o",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Blue"
@@ -9792,6 +10100,7 @@
         "filename": "ShoesKneeSki2",
         "internalId": 10993,
         "uniqueEntryId": "FGXQs3vPFSaPSR6tr",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -9814,6 +10123,7 @@
         "filename": "ShoesKneeSki1",
         "internalId": 10992,
         "uniqueEntryId": "2sC56DmBS9zFAY8fh",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Black"
@@ -9836,6 +10146,7 @@
         "filename": "ShoesKneeSki3",
         "internalId": 10994,
         "uniqueEntryId": "ovpA5W2y9AL5XC5Hv",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Green"
@@ -9858,6 +10169,7 @@
         "filename": "ShoesKneeSki4",
         "internalId": 10995,
         "uniqueEntryId": "9b8sNnAJRpZNaQZ3Y",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Yellow"
@@ -9880,6 +10192,7 @@
         "filename": "ShoesKneeSki5",
         "internalId": 10996,
         "uniqueEntryId": "kXThwqjtFGyQ98HwE",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Pink"
@@ -9948,6 +10261,7 @@
         "filename": "ShoesLowcutSlipon6",
         "internalId": 10082,
         "uniqueEntryId": "evdWzeC43jXRiwusj",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -9970,6 +10284,7 @@
         "filename": "ShoesLowcutSlipon4",
         "internalId": 6890,
         "uniqueEntryId": "jyAseCiyNq9Zd9jKY",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -9992,6 +10307,7 @@
         "filename": "ShoesLowcutSlipon1",
         "internalId": 6884,
         "uniqueEntryId": "ZTxijqo9K5Kh4D888",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -10014,6 +10330,7 @@
         "filename": "ShoesLowcutSlipon0",
         "internalId": 5566,
         "uniqueEntryId": "72obQqFyftJiNYhSP",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -10036,6 +10353,7 @@
         "filename": "ShoesLowcutSlipon3",
         "internalId": 6889,
         "uniqueEntryId": "CwnHY2c3C6oXDufr7",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -10058,6 +10376,7 @@
         "filename": "ShoesLowcutSlipon5",
         "internalId": 10081,
         "uniqueEntryId": "kS2gPazmLfKkpTp7L",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "White"
@@ -10080,6 +10399,7 @@
         "filename": "ShoesLowcutSlipon2",
         "internalId": 6885,
         "uniqueEntryId": "HWaWPHrpsfMRPw9GS",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -10102,6 +10422,7 @@
         "filename": "ShoesLowcutSlipon7",
         "internalId": 10083,
         "uniqueEntryId": "SAuKXG665PM22Mw7A",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "White"
@@ -10170,6 +10491,7 @@
         "filename": "ShoesSandalResin2",
         "internalId": 10099,
         "uniqueEntryId": "2DKQL5YxfRBYfyoSJ",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -10192,6 +10514,7 @@
         "filename": "ShoesSandalResin5",
         "internalId": 10102,
         "uniqueEntryId": "K4wdSdsbzS4hWayuW",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -10214,6 +10537,7 @@
         "filename": "ShoesSandalResin3",
         "internalId": 10100,
         "uniqueEntryId": "Fo7b3LxcBP9xWEKhv",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -10236,6 +10560,7 @@
         "filename": "ShoesSandalResin6",
         "internalId": 10103,
         "uniqueEntryId": "5r2nWqrT9v5rAQWRA",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -10258,6 +10583,7 @@
         "filename": "ShoesSandalResin1",
         "internalId": 10098,
         "uniqueEntryId": "pxonyKAtPKaYnhH49",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -10280,6 +10606,7 @@
         "filename": "ShoesSandalResin0",
         "internalId": 5565,
         "uniqueEntryId": "bek7zCaZSfGbYQhnk",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -10302,6 +10629,7 @@
         "filename": "ShoesSandalResin4",
         "internalId": 10101,
         "uniqueEntryId": "CaWkjvoY5Cw4gcESj",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -10324,6 +10652,7 @@
         "filename": "ShoesSandalResin7",
         "internalId": 10104,
         "uniqueEntryId": "Dbu4WoRkqf82e3HhD",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -10389,6 +10718,7 @@
         "filename": "ShoesLowcutSchool0",
         "internalId": 5473,
         "uniqueEntryId": "AGAqPgkMwAgR4rP3d",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -10411,6 +10741,7 @@
         "filename": "ShoesLowcutSchool4",
         "internalId": 10983,
         "uniqueEntryId": "TByGGPr6Kj48zSXzT",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -10433,6 +10764,7 @@
         "filename": "ShoesLowcutSchool3",
         "internalId": 10982,
         "uniqueEntryId": "REPBefCd7N79fexSs",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -10455,6 +10787,7 @@
         "filename": "ShoesLowcutSchool2",
         "internalId": 10981,
         "uniqueEntryId": "BDCciYtBdfLFZsTKK",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -10477,6 +10810,7 @@
         "filename": "ShoesLowcutSchool1",
         "internalId": 10980,
         "uniqueEntryId": "u8BD7oMwRB7suh4f4",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -10545,6 +10879,7 @@
         "filename": "ShoesLowcutSlipper2",
         "internalId": 10085,
         "uniqueEntryId": "bpzqd39eBwbJssiHz",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -10567,6 +10902,7 @@
         "filename": "ShoesLowcutSlipper0",
         "internalId": 5525,
         "uniqueEntryId": "3w8MXDtDn4e56iX54",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -10589,6 +10925,7 @@
         "filename": "ShoesLowcutSlipper1",
         "internalId": 10084,
         "uniqueEntryId": "ahkFhsQDxdmbmEae4",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -10611,6 +10948,7 @@
         "filename": "ShoesLowcutSlipper6",
         "internalId": 10089,
         "uniqueEntryId": "XmM5wAFrFkbtD9D2m",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -10633,6 +10971,7 @@
         "filename": "ShoesLowcutSlipper3",
         "internalId": 10086,
         "uniqueEntryId": "7XL3FwRuMpX8pPSXM",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -10655,6 +10994,7 @@
         "filename": "ShoesLowcutSlipper7",
         "internalId": 10090,
         "uniqueEntryId": "ohaR7XgRkjjK7WrAj",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -10677,6 +11017,7 @@
         "filename": "ShoesLowcutSlipper4",
         "internalId": 10087,
         "uniqueEntryId": "YWYrqAtzzDkkBDF8c",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -10699,6 +11040,7 @@
         "filename": "ShoesLowcutSlipper5",
         "internalId": 10088,
         "uniqueEntryId": "HqAwM9tDz8fPfjaZr",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -10767,6 +11109,7 @@
         "filename": "ShoesSandalSports0",
         "internalId": 5824,
         "uniqueEntryId": "dB9Zh49MxmTnhe2sT",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -10789,6 +11132,7 @@
         "filename": "ShoesSandalSports5",
         "internalId": 10732,
         "uniqueEntryId": "cFDQtHvQLzvDxXBmF",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Black"
@@ -10811,6 +11155,7 @@
         "filename": "ShoesSandalSports1",
         "internalId": 10728,
         "uniqueEntryId": "vvY85zikpeYg4Y2bh",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -10833,6 +11178,7 @@
         "filename": "ShoesSandalSports4",
         "internalId": 10731,
         "uniqueEntryId": "DAkrAkhrWzoLCghmY",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -10855,6 +11201,7 @@
         "filename": "ShoesSandalSports7",
         "internalId": 10734,
         "uniqueEntryId": "FtBvM9FNfSW2YkvR4",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Black"
@@ -10877,6 +11224,7 @@
         "filename": "ShoesSandalSports2",
         "internalId": 10729,
         "uniqueEntryId": "fjn8jpqyKCATL5Zrj",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -10899,6 +11247,7 @@
         "filename": "ShoesSandalSports3",
         "internalId": 10730,
         "uniqueEntryId": "NPRvY4itdRnthXiXb",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -10921,6 +11270,7 @@
         "filename": "ShoesSandalSports6",
         "internalId": 10733,
         "uniqueEntryId": "gHXQ5sakxYkDn3fAP",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Black"
@@ -10987,6 +11337,7 @@
         "filename": "ShoesKneeEngineerboots5",
         "internalId": 11236,
         "uniqueEntryId": "QsKyMZv4z788odcXQ",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Brown"
@@ -11009,6 +11360,7 @@
         "filename": "ShoesKneeEngineerboots3",
         "internalId": 11234,
         "uniqueEntryId": "JLqpaYbMxsMNeattz",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Gray"
@@ -11031,6 +11383,7 @@
         "filename": "ShoesKneeEngineerboots4",
         "internalId": 11235,
         "uniqueEntryId": "AFT7LK6ZemaX5DpGb",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Brown"
@@ -11053,6 +11406,7 @@
         "filename": "ShoesKneeEngineerboots2",
         "internalId": 11233,
         "uniqueEntryId": "8bdJLyFwFaLiPyBgM",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Brown"
@@ -11075,6 +11429,7 @@
         "filename": "ShoesKneeEngineerboots0",
         "internalId": 2593,
         "uniqueEntryId": "hjin67297NyjQEihM",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -11097,6 +11452,7 @@
         "filename": "ShoesKneeEngineerboots1",
         "internalId": 11232,
         "uniqueEntryId": "Nc8FzgrGXu7C7yw5c",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Brown"
@@ -11165,6 +11521,7 @@
         "filename": "ShoesLowcutGlitter3",
         "internalId": 10144,
         "uniqueEntryId": "chbFMWwZyPPaqbkjg",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -11187,6 +11544,7 @@
         "filename": "ShoesLowcutGlitter4",
         "internalId": 10145,
         "uniqueEntryId": "g2CG68ZjmWHrGRKjk",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -11209,6 +11567,7 @@
         "filename": "ShoesLowcutGlitter0",
         "internalId": 5561,
         "uniqueEntryId": "bmvzeeTGHXiwdZJcg",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -11231,6 +11590,7 @@
         "filename": "ShoesLowcutGlitter5",
         "internalId": 10146,
         "uniqueEntryId": "vqMwAq9ky8WxLKPG8",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -11253,6 +11613,7 @@
         "filename": "ShoesLowcutGlitter2",
         "internalId": 10143,
         "uniqueEntryId": "KsqvFoouvtYt6KAYE",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -11275,6 +11636,7 @@
         "filename": "ShoesLowcutGlitter6",
         "internalId": 10147,
         "uniqueEntryId": "BR6iENsuxdaGLEZam",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -11297,6 +11659,7 @@
         "filename": "ShoesLowcutGlitter1",
         "internalId": 10142,
         "uniqueEntryId": "A3oghyX4PgSMkZJef",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -11319,6 +11682,7 @@
         "filename": "ShoesLowcutGlitter7",
         "internalId": 10148,
         "uniqueEntryId": "E75eKo2LiRpEdp8bT",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -11384,6 +11748,7 @@
         "filename": "ShoesLowcutGgotshin0",
         "internalId": 5622,
         "uniqueEntryId": "p8rmo5DkHoGjSK5SA",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Blue"
@@ -11406,6 +11771,7 @@
         "filename": "ShoesLowcutGgotshin1",
         "internalId": 10988,
         "uniqueEntryId": "u3MShjWuHsM8H4jkv",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -11428,6 +11794,7 @@
         "filename": "ShoesLowcutGgotshin4",
         "internalId": 10991,
         "uniqueEntryId": "cN9q9x2LaZYY8qv6F",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Red"
@@ -11450,6 +11817,7 @@
         "filename": "ShoesLowcutGgotshin3",
         "internalId": 10990,
         "uniqueEntryId": "8jieRWyNTggC4jMrr",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Brown"
@@ -11472,6 +11840,7 @@
         "filename": "ShoesLowcutGgotshin2",
         "internalId": 10989,
         "uniqueEntryId": "gP6Pc7r6PG9hrQHNK",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Brown"
@@ -11540,6 +11909,7 @@
         "filename": "ShoesHighcutTrekking6",
         "internalId": 11242,
         "uniqueEntryId": "Ywpc2D7NoK2qBxf6F",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Green"
@@ -11562,6 +11932,7 @@
         "filename": "ShoesHighcutTrekking1",
         "internalId": 11237,
         "uniqueEntryId": "TkjSkJFhub7FjDuMC",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Green"
@@ -11584,6 +11955,7 @@
         "filename": "ShoesHighcutTrekking2",
         "internalId": 11238,
         "uniqueEntryId": "sfQZCGCu4tTHfMpNt",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Blue"
@@ -11606,6 +11978,7 @@
         "filename": "ShoesHighcutTrekking4",
         "internalId": 11240,
         "uniqueEntryId": "FmbcmRRcN58qYyLXu",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -11628,6 +12001,7 @@
         "filename": "ShoesHighcutTrekking3",
         "internalId": 11239,
         "uniqueEntryId": "embSAwtn69LDNFbAD",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Purple"
@@ -11650,6 +12024,7 @@
         "filename": "ShoesHighcutTrekking5",
         "internalId": 11241,
         "uniqueEntryId": "aexteKPGADNrE9xfs",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Pink"
@@ -11672,6 +12047,7 @@
         "filename": "ShoesHighcutTrekking0",
         "internalId": 5388,
         "uniqueEntryId": "Qbk8zzBxRCSM2J5zJ",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Red"
@@ -11694,6 +12070,7 @@
         "filename": "ShoesHighcutTrekking7",
         "internalId": 11243,
         "uniqueEntryId": "T3ZqLcjzTfxQdKYMw",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Beige"
@@ -11759,6 +12136,7 @@
         "filename": "ShoesKneeVelour1",
         "internalId": 11675,
         "uniqueEntryId": "tAmnjnqTjNDGCWarN",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -11781,6 +12159,7 @@
         "filename": "ShoesKneeVelour0",
         "internalId": 4732,
         "uniqueEntryId": "bb8zrf3uymyQcZ95R",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -11803,6 +12182,7 @@
         "filename": "ShoesKneeVelour4",
         "internalId": 11678,
         "uniqueEntryId": "FgLL99NEEz5piTwSu",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -11825,6 +12205,7 @@
         "filename": "ShoesKneeVelour3",
         "internalId": 11677,
         "uniqueEntryId": "Zvqbb4TRJvGTvRRKa",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -11847,6 +12228,7 @@
         "filename": "ShoesKneeVelour2",
         "internalId": 11676,
         "uniqueEntryId": "zhxznAbZgApqG5tsS",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Black"
@@ -11913,6 +12295,7 @@
         "filename": "ShoesLowcutEnamelpumps4",
         "internalId": 10119,
         "uniqueEntryId": "nTzMdQGrukqyBP8tk",
+        "variantTranslations": null,
         "colors": [
           "White",
           "White"
@@ -11935,6 +12318,7 @@
         "filename": "ShoesLowcutEnamelpumps5",
         "internalId": 10120,
         "uniqueEntryId": "HG234xKCQ8jRhttM6",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -11957,6 +12341,7 @@
         "filename": "ShoesLowcutEnamelpumps3",
         "internalId": 10118,
         "uniqueEntryId": "dhcs3Lwx3oeiy4ngb",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -11979,6 +12364,7 @@
         "filename": "ShoesLowcutEnamelpumps1",
         "internalId": 10116,
         "uniqueEntryId": "St4Gybmqd2uS7cvwF",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -12001,6 +12387,7 @@
         "filename": "ShoesLowcutEnamelpumps2",
         "internalId": 10117,
         "uniqueEntryId": "NZymvJ5oCBcmgXJ5t",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Brown"
@@ -12023,6 +12410,7 @@
         "filename": "ShoesLowcutEnamelpumps0",
         "internalId": 4723,
         "uniqueEntryId": "RecSgePXKnagDi74R",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -12086,6 +12474,7 @@
         "filename": "ShoesLowcutHealth2",
         "internalId": 10998,
         "uniqueEntryId": "KWAceiwcGzkfNab4o",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Beige"
@@ -12108,6 +12497,7 @@
         "filename": "ShoesLowcutHealth0",
         "internalId": 5775,
         "uniqueEntryId": "sJbiGPfjohy3MRz9g",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Beige"
@@ -12130,6 +12520,7 @@
         "filename": "ShoesLowcutHealth1",
         "internalId": 10997,
         "uniqueEntryId": "ZTWABEzco2pisNq3q",
+        "variantTranslations": null,
         "colors": [
           "Beige",
           "Beige"
@@ -12198,6 +12589,7 @@
         "filename": "ShoesSandalAqua2",
         "internalId": 10715,
         "uniqueEntryId": "zE2ydSF3h8ZEQDoN6",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -12220,6 +12612,7 @@
         "filename": "ShoesSandalAqua0",
         "internalId": 5652,
         "uniqueEntryId": "G7gjqcTKEpcbbNKJS",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -12242,6 +12635,7 @@
         "filename": "ShoesSandalAqua4",
         "internalId": 10717,
         "uniqueEntryId": "SKnxks78Mbearkot6",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Orange"
@@ -12264,6 +12658,7 @@
         "filename": "ShoesSandalAqua7",
         "internalId": 10720,
         "uniqueEntryId": "vkYy5oFc353orgyxa",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -12286,6 +12681,7 @@
         "filename": "ShoesSandalAqua6",
         "internalId": 10719,
         "uniqueEntryId": "2pc8Ywv9ZgxzpfcCN",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -12308,6 +12704,7 @@
         "filename": "ShoesSandalAqua3",
         "internalId": 10716,
         "uniqueEntryId": "ThthTKiHz8qWwHmAc",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Light blue"
@@ -12330,6 +12727,7 @@
         "filename": "ShoesSandalAqua1",
         "internalId": 10714,
         "uniqueEntryId": "xZGwaMKKzuwBZifue",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Blue"
@@ -12352,6 +12750,7 @@
         "filename": "ShoesSandalAqua5",
         "internalId": 10718,
         "uniqueEntryId": "eCfe52j6KebvShSxF",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Purple"
@@ -12420,6 +12819,7 @@
         "filename": "ShoesLowcutMarine7",
         "internalId": 10276,
         "uniqueEntryId": "TZMXjppMESwhT2hZt",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -12442,6 +12842,7 @@
         "filename": "ShoesLowcutMarine6",
         "internalId": 10275,
         "uniqueEntryId": "5Mt6LsY5NwhrwC8Ro",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -12464,6 +12865,7 @@
         "filename": "ShoesLowcutMarine0",
         "internalId": 5808,
         "uniqueEntryId": "b3hXNNAFjYXNfYDNq",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Black"
@@ -12486,6 +12888,7 @@
         "filename": "ShoesLowcutMarine2",
         "internalId": 10271,
         "uniqueEntryId": "vwQp84gqxvqxSGHpB",
+        "variantTranslations": null,
         "colors": [
           "Orange",
           "Black"
@@ -12508,6 +12911,7 @@
         "filename": "ShoesLowcutMarine5",
         "internalId": 10274,
         "uniqueEntryId": "r9y8YdqpCCSFymCJx",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -12530,6 +12934,7 @@
         "filename": "ShoesLowcutMarine3",
         "internalId": 10272,
         "uniqueEntryId": "k5X6gHQcJWkWB8ZAi",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -12552,6 +12957,7 @@
         "filename": "ShoesLowcutMarine1",
         "internalId": 10177,
         "uniqueEntryId": "ur4D7j8TfzytpkBRr",
+        "variantTranslations": null,
         "colors": [
           "Light blue",
           "Black"
@@ -12574,6 +12980,7 @@
         "filename": "ShoesLowcutMarine4",
         "internalId": 10273,
         "uniqueEntryId": "JXymcRAWNMbDogEPA",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -12641,6 +13048,7 @@
         "filename": "ShoesLowcutWing2",
         "internalId": 11472,
         "uniqueEntryId": "P69MLRkggjw9LcDbY",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "White"
@@ -12663,6 +13071,7 @@
         "filename": "ShoesLowcutWing4",
         "internalId": 11474,
         "uniqueEntryId": "7iADtoNeh8krcW6YN",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Gray"
@@ -12685,6 +13094,7 @@
         "filename": "ShoesLowcutWing0",
         "internalId": 5809,
         "uniqueEntryId": "DjWLRAQtGePadCqZu",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -12707,6 +13117,7 @@
         "filename": "ShoesLowcutWing6",
         "internalId": 11476,
         "uniqueEntryId": "9jhqxdBvQusYccJdf",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -12729,6 +13140,7 @@
         "filename": "ShoesLowcutWing5",
         "internalId": 11475,
         "uniqueEntryId": "zcGqNXjwrSPCmaadF",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Red"
@@ -12751,6 +13163,7 @@
         "filename": "ShoesLowcutWing3",
         "internalId": 11473,
         "uniqueEntryId": "875an6cBm4fer5mt9",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
@@ -12773,6 +13186,7 @@
         "filename": "ShoesLowcutWing1",
         "internalId": 11471,
         "uniqueEntryId": "eXgKY3DCBPmo7eJ5y",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "White"
@@ -12837,6 +13251,7 @@
         "filename": "ShoesLowcutPointedtoe1",
         "internalId": 11462,
         "uniqueEntryId": "xTXhymN8bhf3HnQJE",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Black"
@@ -12859,6 +13274,7 @@
         "filename": "ShoesLowcutPointedtoe2",
         "internalId": 11463,
         "uniqueEntryId": "QPCwCrLDkHPGKeDLY",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "Black"
@@ -12881,6 +13297,7 @@
         "filename": "ShoesLowcutPointedtoe0",
         "internalId": 5655,
         "uniqueEntryId": "HSHgP2d5LZSoGynWh",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -12903,6 +13320,7 @@
         "filename": "ShoesLowcutPointedtoe3",
         "internalId": 11464,
         "uniqueEntryId": "ag3yY4kAomB56hxtW",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -12968,6 +13386,7 @@
         "filename": "ShoesLowcutClog2",
         "internalId": 10985,
         "uniqueEntryId": "brPp9ECXpN3EfhFPY",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Yellow"
@@ -12990,6 +13409,7 @@
         "filename": "ShoesLowcutClog0",
         "internalId": 5618,
         "uniqueEntryId": "eupdqegxsCMDRLsAv",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Red"
@@ -13012,6 +13432,7 @@
         "filename": "ShoesLowcutClog3",
         "internalId": 10986,
         "uniqueEntryId": "96LeQLuLdHgEXyhSh",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Red"
@@ -13034,6 +13455,7 @@
         "filename": "ShoesLowcutClog1",
         "internalId": 10984,
         "uniqueEntryId": "LmNCSiQxwsPrRqNc2",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Pink"
@@ -13056,6 +13478,7 @@
         "filename": "ShoesLowcutClog4",
         "internalId": 10987,
         "uniqueEntryId": "TjifkBrTMro68JHrf",
+        "variantTranslations": null,
         "colors": [
           "Brown",
           "Orange"
@@ -13124,6 +13547,7 @@
         "filename": "ShoesHighcutWorkboots4",
         "internalId": 11247,
         "uniqueEntryId": "5m2NP7dcLbtght3Zq",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Black"
@@ -13146,6 +13570,7 @@
         "filename": "ShoesHighcutWorkboots7",
         "internalId": 11250,
         "uniqueEntryId": "7CcCC33Hs28yeZsE4",
+        "variantTranslations": null,
         "colors": [
           "Gray",
           "Black"
@@ -13168,6 +13593,7 @@
         "filename": "ShoesHighcutWorkboots0",
         "internalId": 5541,
         "uniqueEntryId": "JC86Q4fvPqrg6xzTT",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -13190,6 +13616,7 @@
         "filename": "ShoesHighcutWorkboots2",
         "internalId": 11245,
         "uniqueEntryId": "jk3ExmQodg8c84doE",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Black"
@@ -13212,6 +13639,7 @@
         "filename": "ShoesHighcutWorkboots3",
         "internalId": 11246,
         "uniqueEntryId": "amC72rwkxxLrYy5vv",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Black"
@@ -13234,6 +13662,7 @@
         "filename": "ShoesHighcutWorkboots6",
         "internalId": 11249,
         "uniqueEntryId": "CxP7jSJTTyeYwyBQs",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Black"
@@ -13256,6 +13685,7 @@
         "filename": "ShoesHighcutWorkboots5",
         "internalId": 11248,
         "uniqueEntryId": "HWEKSWZAjZJdbfxvr",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "Black"
@@ -13278,6 +13708,7 @@
         "filename": "ShoesHighcutWorkboots1",
         "internalId": 11244,
         "uniqueEntryId": "t74L3o98zyuxzwB4d",
+        "variantTranslations": null,
         "colors": [
           "Purple",
           "Black"
@@ -13344,6 +13775,7 @@
         "filename": "ShoesKneeRing4",
         "internalId": 10259,
         "uniqueEntryId": "AH4NE2FJGLZC8gMtg",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -13366,6 +13798,7 @@
         "filename": "ShoesKneeRing0",
         "internalId": 5668,
         "uniqueEntryId": "yAfdmgXZ2jHaPGwdC",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "White"
@@ -13388,6 +13821,7 @@
         "filename": "ShoesKneeRing3",
         "internalId": 10258,
         "uniqueEntryId": "DibQyHP3eMLwvLuoj",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "White"
@@ -13410,6 +13844,7 @@
         "filename": "ShoesKneeRing5",
         "internalId": 10260,
         "uniqueEntryId": "FfBwW5d5L8tzyW6Dj",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "White"
@@ -13432,6 +13867,7 @@
         "filename": "ShoesKneeRing2",
         "internalId": 10257,
         "uniqueEntryId": "5aADX4xErrreMqNLc",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "White"
@@ -13454,6 +13890,7 @@
         "filename": "ShoesKneeRing1",
         "internalId": 10256,
         "uniqueEntryId": "soxSEJioRf2gpa3Sz",
+        "variantTranslations": null,
         "colors": [
           "Blue",
           "White"
@@ -13522,6 +13959,7 @@
         "filename": "ShoesSandalZori6",
         "internalId": 10974,
         "uniqueEntryId": "zTMWqRabE8s4dFwn4",
+        "variantTranslations": null,
         "colors": [
           "White",
           "Light blue"
@@ -13544,6 +13982,7 @@
         "filename": "ShoesSandalZori5",
         "internalId": 10973,
         "uniqueEntryId": "6w73ZozNHuWqmAfKj",
+        "variantTranslations": null,
         "colors": [
           "Black",
           "White"
@@ -13566,6 +14005,7 @@
         "filename": "ShoesSandalZori0",
         "internalId": 4734,
         "uniqueEntryId": "3R4cnGLLNWRcKDekf",
+        "variantTranslations": null,
         "colors": [
           "Red",
           "Black"
@@ -13588,6 +14028,7 @@
         "filename": "ShoesSandalZori2",
         "internalId": 10970,
         "uniqueEntryId": "3bC5rzWARy28xor2p",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Pink"
@@ -13610,6 +14051,7 @@
         "filename": "ShoesSandalZori3",
         "internalId": 10971,
         "uniqueEntryId": "svEPR34GPmYRCe5kz",
+        "variantTranslations": null,
         "colors": [
           "Pink",
           "Beige"
@@ -13632,6 +14074,7 @@
         "filename": "ShoesSandalZori7",
         "internalId": 10975,
         "uniqueEntryId": "yYoSq8oCcAp8wFLTz",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Red"
@@ -13654,6 +14097,7 @@
         "filename": "ShoesSandalZori1",
         "internalId": 10969,
         "uniqueEntryId": "FQetz9ANMJo6q6YMd",
+        "variantTranslations": null,
         "colors": [
           "Yellow",
           "Yellow"
@@ -13676,6 +14120,7 @@
         "filename": "ShoesSandalZori4",
         "internalId": 10972,
         "uniqueEntryId": "8ZYLPLudoxHWSBzEh",
+        "variantTranslations": null,
         "colors": [
           "Green",
           "Green"
