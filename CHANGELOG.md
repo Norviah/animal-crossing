@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/Norviah/animal-crossing/compare/v1.1.0...v1.1.1) (2020-06-15)
+
+
+### Features
+
+* separated specific values of items into an array ([d7e0652](https://github.com/Norviah/animal-crossing/commit/d7e0652485ca9bc9b32b6f7fd4575823965e8457))
+
+
+### Bug Fixes
+
+* fixed keys to separate from achievements ([d20f7e8](https://github.com/Norviah/animal-crossing/commit/d20f7e8b590b3473e381107eed4bea0bbab79201))
+
 ## [1.1.0](https://github.com/Norviah/animal-crossing/compare/v1.0.0...v1.1.0) (2020-06-15)
 
 
