@@ -9,7 +9,6 @@ export interface Item {
     sell:                  number | null;
     size?:                 Size;
     milesPrice?:           number | null;
-    source:                string;
     sourceNotes?:          null | string;
     versionAdded?:         Version;
     versionUnlocked?:      Version;
@@ -26,7 +25,8 @@ export interface Item {
     translations:          TranslationsClass | null;
     colors?:               Color[];
     styles?:               Style[];
-    themes?:               string[];
+    sources?:              string[];
+    themes?:               Theme[];
     variations?:           VariationElement[];
     image?:                string;
     highResTexture?:       null;
@@ -332,6 +332,20 @@ export enum Style {
     Simple = "Simple",
 }
 
+export enum Theme {
+    Comfy = "comfy",
+    Everyday = "everyday",
+    FairyTale = "fairy tale",
+    Formal = "formal",
+    Goth = "goth",
+    Outdoorsy = "outdoorsy",
+    Party = "party",
+    Sporty = "sporty",
+    Theatrical = "theatrical",
+    Vacation = "vacation",
+    Work = "work",
+}
+
 export interface TranslationsClass {
     sourceSheet:        TranslationsSourceSheet;
     id:                 number | string;
@@ -500,7 +514,8 @@ export interface VariationElement {
     variantTranslations:   Translations | null;
     colors:                Color[];
     styles?:               Style[];
-    themes?:               string[];
+    sources:               Source[];
+    themes?:               Theme[];
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
     image?:                string;
@@ -577,6 +592,29 @@ export enum VariationSet {
     School = "school",
     Standee = "standee",
     Writing = "writing",
+}
+
+export enum Source {
+    AbleSisters = "Able Sisters",
+    Birthday = "Birthday",
+    BugOff = "Bug-Off",
+    Crafting = "Crafting",
+    Cyrus = "Cyrus",
+    DodoAirlines = "Dodo Airlines",
+    FishingTourney = "Fishing Tourney",
+    Gulliver = "Gulliver",
+    HighFriendship = "High Friendship",
+    Kicks = "Kicks",
+    Labelle = "Labelle",
+    MOM = "Mom",
+    NewYearSEve = "New Year's Eve",
+    Nintendo = "Nintendo",
+    NookMilesShop = "Nook Miles Shop",
+    NookSCranny = "Nook's Cranny",
+    NookShopping = "Nook Shopping",
+    NookShoppingPromotion = "Nook Shopping Promotion",
+    RecycleBin = "Recycle bin",
+    StartingItems = "Starting items",
 }
 
 export enum VfxType {

@@ -22,7 +22,7 @@ export enum SourceSheet {
 export interface Tier {
     required:  number;
     reward:    number;
-    nouns:     string;
+    nouns:     string[];
     modifiers: string;
 }
 

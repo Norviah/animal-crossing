@@ -2,7 +2,7 @@ export interface Reaction {
     sourceSheet:   SourceSheet;
     name:          string;
     image:         string;
-    source:        string;
+    source:        string[];
     sourceNotes:   null | string;
     internalId:    string;
     uniqueEntryId: string;
