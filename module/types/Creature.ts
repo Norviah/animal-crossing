@@ -69,7 +69,7 @@ export enum CreatureSourceSheet {
 
 export interface Translations {
     sourceSheet:        TranslationsSourceSheet;
-    id:                 number | string;
+    id:                 string;
     version:            Version;
     english:            string;
     englishEurope:      string;
@@ -90,8 +90,6 @@ export interface Translations {
 }
 
 export enum TranslationsSourceSheet {
-    Bags = "Bags",
-    Bottoms = "Bottoms",
     Bugs = "Bugs",
     Fish = "Fish",
 }

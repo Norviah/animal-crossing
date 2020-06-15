@@ -34,8 +34,7 @@
       "russian": "сумочка-желудь",
       "plural": false,
       "internalIds": [
-        7492,
-        632
+        7492
       ]
     },
     "materials": {
@@ -60,7 +59,29 @@
     "serialId": 406,
     "internalId": 44,
     "uniqueEntryId": "Y62RymJYgbmZEyQon",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00383",
+      "version": "1.0.0",
+      "english": "acoustic guitar",
+      "englishEurope": "acoustic guitar",
+      "german": "Akustikgitarre",
+      "spanish": "guitarra acústica",
+      "spanishUs": "guitarra acústica",
+      "french": "guitare acoustique",
+      "frenchUs": "guitare acoustique",
+      "italian": "chitarra acustica",
+      "dutch": "akoestische gitaar",
+      "chinese": "木吉他",
+      "chineseTraditional": "木吉他",
+      "japanese": "アコースティックギター",
+      "korean": "어쿠스틱기타",
+      "russian": "акустическая гитара",
+      "plural": false,
+      "internalIds": [
+        383
+      ]
+    },
     "materials": {
       "softwood": 8,
       "iron nugget": 3
@@ -130,7 +151,29 @@
     "serialId": 1700,
     "internalId": 189,
     "uniqueEntryId": "HB55bMQf4D57ekNf4",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04134",
+      "version": "1.0.0",
+      "english": "apple chair",
+      "englishEurope": "apple chair",
+      "german": "Apfelstuhl",
+      "spanish": "silla manzana",
+      "spanishUs": "silla manzana",
+      "french": "chaise pomme",
+      "frenchUs": "chaise pomme",
+      "italian": "sedia mela",
+      "dutch": "appelstoel",
+      "chinese": "苹果椅",
+      "chineseTraditional": "蘋果椅",
+      "japanese": "リンゴのチェア",
+      "korean": "사과 체어",
+      "russian": "стул-яблоко",
+      "plural": false,
+      "internalIds": [
+        4134
+      ]
+    },
     "materials": {
       "apple": 10,
       "wood": 4
@@ -155,7 +198,29 @@
     "serialId": 1782,
     "internalId": 621,
     "uniqueEntryId": "KmfTvhh3qeyd6WcFJ",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Dresses",
+      "id": 1087,
+      "version": "1.0.0",
+      "english": "apple dress",
+      "englishEurope": "apple dress",
+      "german": "Apfelkleid",
+      "spanish": "vestido manzana",
+      "spanishUs": "vestido manzana",
+      "french": "robe pomme",
+      "frenchUs": "robe pomme",
+      "italian": "vestito mela",
+      "dutch": "appeljurk",
+      "chinese": "苹果服",
+      "chineseTraditional": "蘋果服",
+      "japanese": "リンゴのふく",
+      "korean": "사과 옷",
+      "russian": "платье «Яблоко»",
+      "plural": false,
+      "internalIds": [
+        9836
+      ]
+    },
     "materials": {
       "apple": 8
     },
@@ -178,7 +243,29 @@
     "serialId": 1781,
     "internalId": 622,
     "uniqueEntryId": "5ABmQxkN3SatETcEg",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Caps",
+      "id": 1122,
+      "version": "1.0.0",
+      "english": "apple hat",
+      "englishEurope": "apple hat",
+      "german": "Apfelhut",
+      "spanish": "gorro manzana",
+      "spanishUs": "gorro manzana",
+      "french": "chapeau pomme",
+      "frenchUs": "chapeau pomme",
+      "italian": "berretto mela",
+      "dutch": "appelmuts",
+      "chinese": "苹果帽子",
+      "chineseTraditional": "蘋果帽子",
+      "japanese": "リンゴのぼうし",
+      "korean": "사과 모자",
+      "russian": "шапка-яблоко",
+      "plural": false,
+      "internalIds": [
+        9871
+      ]
+    },
     "materials": {
       "apple": 5
     },
@@ -246,7 +333,29 @@
     "serialId": 1780,
     "internalId": 623,
     "uniqueEntryId": "N2aQCn6hYqjw2ijPX",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Umbrella",
+      "id": "Umbrella_09948",
+      "version": "1.0.0",
+      "english": "apple umbrella",
+      "englishEurope": "apple umbrella",
+      "german": "Apfelschirm",
+      "spanish": "paraguas manzana",
+      "spanishUs": "paraguas manzana",
+      "french": "parapluie pomme",
+      "frenchUs": "parapluie pomme",
+      "italian": "ombrello mela",
+      "dutch": "appelparaplu",
+      "chinese": "苹果雨伞",
+      "chineseTraditional": "蘋果雨傘",
+      "japanese": "リンゴのかさ",
+      "korean": "사과 우산",
+      "russian": "яблочный зонт",
+      "plural": false,
+      "internalIds": [
+        9948
+      ]
+    },
     "materials": {
       "apple": 7
     },
@@ -410,7 +519,29 @@
     "serialId": 982,
     "internalId": 642,
     "uniqueEntryId": "zbzh6s369wZ3anypo",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Shoes",
+      "id": 763,
+      "version": "1.0.0",
+      "english": "armor shoes",
+      "englishEurope": "armor shoes",
+      "german": "Paar Silberrüstungsschuhe",
+      "spanish": "escarpe",
+      "spanishUs": "escarpe",
+      "french": "paire de solerets",
+      "frenchUs": "paire de solerets",
+      "italian": "paio scarpe armatura",
+      "dutch": "ridderlaarzen",
+      "chinese": "铁甲靴",
+      "chineseTraditional": "鐵甲鞋",
+      "japanese": "アイアンアーマーシューズ",
+      "korean": "아이언 아머 슈즈",
+      "russian": "рыцарские сапоги",
+      "plural": false,
+      "internalIds": [
+        5472
+      ]
+    },
     "materials": {
       "iron nugget": 4
     },
@@ -478,7 +609,29 @@
     "serialId": 2203,
     "internalId": 235,
     "uniqueEntryId": "BPNHraJWRXYZahLoJ",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01439",
+      "version": "1.0.0",
+      "english": "asteroid",
+      "englishEurope": "asteroid",
+      "german": "Asteroid",
+      "spanish": "asteroide",
+      "spanishUs": "asteroide",
+      "french": "astéroïde",
+      "frenchUs": "astéroïde",
+      "italian": "asteroide",
+      "dutch": "asteroïde",
+      "chinese": "陨石",
+      "chineseTraditional": "隕石",
+      "japanese": "いんせき",
+      "korean": "운석",
+      "russian": "астероид",
+      "plural": false,
+      "internalIds": [
+        1439
+      ]
+    },
     "materials": {
       "star fragment": 5,
       "stone": 10
@@ -502,7 +655,29 @@
     "serialId": 2220,
     "internalId": 236,
     "uniqueEntryId": "sczENjHH7XW8e2n3Q",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01445",
+      "version": "1.0.0",
+      "english": "astronaut suit",
+      "englishEurope": "astronaut suit",
+      "german": "Astronautenanzug",
+      "spanish": "astronauta",
+      "spanishUs": "astronauta",
+      "french": "spationaute",
+      "frenchUs": "spationaute",
+      "italian": "tuta da astronauta",
+      "dutch": "astronautenpak",
+      "chinese": "太空人",
+      "chineseTraditional": "太空人",
+      "japanese": "アストロノーツ",
+      "korean": "우주 비행사",
+      "russian": "скафандр космонавта",
+      "plural": false,
+      "internalIds": [
+        1445
+      ]
+    },
     "materials": {
       "star fragment": 5,
       "iron nugget": 5
@@ -526,7 +701,29 @@
     "serialId": 2950,
     "internalId": 290,
     "uniqueEntryId": "vjyWT27sydFDoYjhF",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Walls",
+      "id": "RoomWall_04905",
+      "version": "1.0.0",
+      "english": "autumn wall",
+      "englishEurope": "autumn wall",
+      "german": "Herbstlaubtapete",
+      "spanish": "pared otoñal",
+      "spanishUs": "pared otoñal",
+      "french": "mur automne",
+      "frenchUs": "mur automne",
+      "italian": "muro autunnale",
+      "dutch": "herfstwand",
+      "chinese": "枫叶墙",
+      "chineseTraditional": "楓葉牆",
+      "japanese": "こうようのかべ",
+      "korean": "단풍 벽",
+      "russian": "стена «Осень»",
+      "plural": false,
+      "internalIds": [
+        4905
+      ]
+    },
     "materials": {
       "maple leaf": 10,
       "wood": 5,
@@ -688,7 +885,29 @@
     "serialId": 2401,
     "internalId": 46,
     "uniqueEntryId": "iRBcw227DDdksTz3J",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00710",
+      "version": "1.0.0",
+      "english": "bamboo bench",
+      "englishEurope": "bamboo bench",
+      "german": "Bambusbank",
+      "spanish": "banco de bambú",
+      "spanishUs": "banco de bambú",
+      "french": "banc en bambou",
+      "frenchUs": "banc en bambou",
+      "italian": "panca di bambù",
+      "dutch": "bamboebank",
+      "chinese": "竹长凳",
+      "chineseTraditional": "竹長椅",
+      "japanese": "たけのベンチ",
+      "korean": "대나무 벤치",
+      "russian": "лавка из бамбука",
+      "plural": false,
+      "internalIds": [
+        710
+      ]
+    },
     "materials": {
       "bamboo piece": 8
     },
@@ -938,7 +1157,29 @@
     "serialId": 1284,
     "internalId": 607,
     "uniqueEntryId": "p6dWvgRwv6574A7md",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Caps",
+      "id": 594,
+      "version": "1.0.0",
+      "english": "bamboo hat",
+      "englishEurope": "bamboo hat",
+      "german": "Bambushut",
+      "spanish": "gorro de bambú cónico",
+      "spanishUs": "gorro de bambú cónico",
+      "french": "nón lá",
+      "frenchUs": "nón lá",
+      "italian": "cappello di bambù",
+      "dutch": "bamboehoed",
+      "chinese": "斗笠",
+      "chineseTraditional": "斗笠",
+      "japanese": "かさぼうし",
+      "korean": "삼각 삿갓",
+      "russian": "бамбуковая шапочка",
+      "plural": false,
+      "internalIds": [
+        5143
+      ]
+    },
     "materials": {
       "clump of weeds": 10
     },
@@ -1189,7 +1430,29 @@
     "serialId": 2411,
     "internalId": 591,
     "uniqueEntryId": "59rwk7hPFaeWEX7AY",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_10743",
+      "version": "1.0.0",
+      "english": "bamboo speaker",
+      "englishEurope": "bamboo speaker",
+      "german": "Bambus-Lautsprecher",
+      "spanish": "altavoz de bambú",
+      "spanishUs": "altavoz de bambú",
+      "french": "enceinte en bambou",
+      "frenchUs": "enceinte en bambou",
+      "italian": "altoparlante di bambù",
+      "dutch": "bamboeluidspreker",
+      "chinese": "竹制扬声器",
+      "chineseTraditional": "竹廣播喇叭",
+      "japanese": "たけのスピーカー",
+      "korean": "대나무 스피커",
+      "russian": "бамбуковая колонка",
+      "plural": false,
+      "internalIds": [
+        10743
+      ]
+    },
     "materials": {
       "bamboo piece": 3,
       "iron nugget": 1
@@ -1258,7 +1521,29 @@
     "serialId": 2400,
     "internalId": 590,
     "uniqueEntryId": "cSywc8qQTGtF5PTqT",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_10742",
+      "version": "1.0.0",
+      "english": "bamboo stool",
+      "englishEurope": "bamboo stool",
+      "german": "Bambushocker",
+      "spanish": "taburete de bambú",
+      "spanishUs": "taburete de bambú",
+      "french": "tabouret en bambou",
+      "frenchUs": "tabouret en bambou",
+      "italian": "sgabello di bambù",
+      "dutch": "bamboekruk",
+      "chinese": "竹凳子",
+      "chineseTraditional": "竹凳子",
+      "japanese": "たけのスツール",
+      "korean": "대나무 스툴",
+      "russian": "бамбуковый табурет",
+      "plural": false,
+      "internalIds": [
+        10742
+      ]
+    },
     "materials": {
       "bamboo piece": 5
     },
@@ -1462,7 +1747,29 @@
     "serialId": 2551,
     "internalId": 300,
     "uniqueEntryId": "YEqTcFmBecj7pp4XX",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Walls",
+      "id": "RoomWall_04853",
+      "version": "1.0.0",
+      "english": "bamboo-grove wall",
+      "englishEurope": "bamboo-grove wall",
+      "german": "Bambuswaldtapete",
+      "spanish": "pared bosque bambú",
+      "spanishUs": "pared bosque bambú",
+      "french": "mur forêt de bambou",
+      "frenchUs": "mur forêt de bambou",
+      "italian": "muro canneto bambù",
+      "dutch": "bamboeboswand",
+      "chinese": "竹林墙",
+      "chineseTraditional": "竹林牆",
+      "japanese": "ちくりんのかべ",
+      "korean": "대나무 숲 벽",
+      "russian": "стена с бамбуком",
+      "plural": false,
+      "internalIds": [
+        4853
+      ]
+    },
     "materials": {
       "young spring bamboo": 7,
       "bamboo shoot": 3
@@ -1736,8 +2043,7 @@
       "russian": "заплечная корзина",
       "plural": false,
       "internalIds": [
-        7506,
-        645
+        7506
       ]
     },
     "materials": {
@@ -1762,7 +2068,29 @@
     "serialId": 2000,
     "internalId": 204,
     "uniqueEntryId": "nxtm2DdtRcHzAyrZX",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03406",
+      "version": "1.0.0",
+      "english": "beekeeper's hive",
+      "englishEurope": "beekeeper's hive",
+      "german": "Bienenstock",
+      "spanish": "colmena de apicultura",
+      "spanishUs": "colmena de apicultura",
+      "french": "ruche ouvragée",
+      "frenchUs": "ruche ouvragée",
+      "italian": "arnia",
+      "dutch": "bijenkast",
+      "chinese": "养蜂箱",
+      "chineseTraditional": "養蜂箱",
+      "japanese": "ようほうばこ",
+      "korean": "벌통",
+      "russian": "улей пасечника",
+      "plural": false,
+      "internalIds": [
+        3406
+      ]
+    },
     "materials": {
       "wasp nest": 3,
       "wood": 5
@@ -1835,7 +2163,29 @@
     "serialId": 802,
     "internalId": 42,
     "uniqueEntryId": "73BAmDLcYdhSDnHLR",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00331",
+      "version": "1.0.0",
+      "english": "birdbath",
+      "englishEurope": "birdbath",
+      "german": "Vogeltränke",
+      "spanish": "bañadero para pájaros",
+      "spanishUs": "fuente para pájaros",
+      "french": "bassin à oiseaux",
+      "frenchUs": "bassin à oiseaux",
+      "italian": "vaschetta per uccelli",
+      "dutch": "vogelbad",
+      "chinese": "小鸟水盆",
+      "chineseTraditional": "小鳥水盆",
+      "japanese": "バードバス",
+      "korean": "수반",
+      "russian": "поилка для птиц",
+      "plural": false,
+      "internalIds": [
+        331
+      ]
+    },
     "materials": {
       "stone": 6
     },
@@ -1859,7 +2209,29 @@
     "serialId": 404,
     "internalId": 216,
     "uniqueEntryId": "Dm56HseZexdC2ctda",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00865",
+      "version": "1.0.0",
+      "english": "birdcage",
+      "englishEurope": "birdcage",
+      "german": "Vogelkäfig",
+      "spanish": "jaula de pájaros",
+      "spanishUs": "jaula de pájaros",
+      "french": "cage à oiseau",
+      "frenchUs": "cage à oiseau",
+      "italian": "gabbia",
+      "dutch": "vogelkooi",
+      "chinese": "鸟笼",
+      "chineseTraditional": "鳥籠",
+      "japanese": "とりかご",
+      "korean": "새장",
+      "russian": "птичья клетка",
+      "plural": false,
+      "internalIds": [
+        865
+      ]
+    },
     "materials": {
       "wood": 8
     },
@@ -1882,7 +2254,29 @@
     "serialId": 435,
     "internalId": 41,
     "uniqueEntryId": "cDe3r9tficCbWgmH4",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00333",
+      "version": "1.0.0",
+      "english": "birdhouse",
+      "englishEurope": "birdhouse",
+      "german": "Vogelhaus",
+      "spanish": "casita para pájaros",
+      "spanishUs": "casita para pájaros",
+      "french": "abri à oiseau",
+      "frenchUs": "abri à oiseau",
+      "italian": "casetta per uccelli",
+      "dutch": "vogelhuis",
+      "chinese": "鸟巢屋",
+      "chineseTraditional": "鳥巢屋",
+      "japanese": "すばこ",
+      "korean": "새집",
+      "russian": "скворечник",
+      "plural": false,
+      "internalIds": [
+        333
+      ]
+    },
     "materials": {
       "wood": 2,
       "softwood": 5
@@ -1973,8 +2367,7 @@
       "russian": "синий венок из роз",
       "plural": false,
       "internalIds": [
-        7377,
-        459
+        7377
       ]
     },
     "materials": {
@@ -2089,7 +2482,29 @@
     "serialId": 201,
     "internalId": 34,
     "uniqueEntryId": "JxApKgoud4gfvEcwk",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01430",
+      "version": "1.0.0",
+      "english": "bonfire",
+      "englishEurope": "bonfire",
+      "german": "Feuerstelle",
+      "spanish": "hoguera",
+      "spanishUs": "fogata",
+      "french": "feu de joie",
+      "frenchUs": "feu de joie",
+      "italian": "fuoco di bivacco",
+      "dutch": "vreugdevuur",
+      "chinese": "篝火",
+      "chineseTraditional": "營火",
+      "japanese": "キャンプファイア",
+      "korean": "캠프파이어",
+      "russian": "большой костер",
+      "plural": false,
+      "internalIds": [
+        1430
+      ]
+    },
     "materials": {
       "campfire": 1,
       "wood": 10
@@ -2161,7 +2576,29 @@
     "serialId": 481,
     "internalId": 171,
     "uniqueEntryId": "rMasSCDby69z84Fai",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00682",
+      "version": "1.0.0",
+      "english": "boomerang",
+      "englishEurope": "boomerang",
+      "german": "Bumerang",
+      "spanish": "bumerán",
+      "spanishUs": "bumerán",
+      "french": "boomerang",
+      "frenchUs": "boomerang",
+      "italian": "boomerang",
+      "dutch": "boemerang",
+      "chinese": "飞旋镖",
+      "chineseTraditional": "迴力鏢",
+      "japanese": "ブーメラン",
+      "korean": "부메랑",
+      "russian": "бумеранг",
+      "plural": false,
+      "internalIds": [
+        682
+      ]
+    },
     "materials": {
       "hardwood": 3
     },
@@ -2485,8 +2922,7 @@
       "russian": "сумка на День зайцев",
       "plural": false,
       "internalIds": [
-        12447,
-        694
+        12447
       ]
     },
     "materials": {
@@ -2516,7 +2952,29 @@
     "serialId": 3704,
     "internalId": 698,
     "uniqueEntryId": "FiJ85ZKnHbkjNQ7FF",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_12414",
+      "version": "1.1.0",
+      "english": "Bunny Day bed",
+      "englishEurope": "Bunny Day bed",
+      "german": "Häschentag-Bett",
+      "spanish": "cama Caza del Huevo",
+      "spanishUs": "cama Caza del Huevo",
+      "french": "lit fête des œufs",
+      "frenchUs": "lit fête des œufs",
+      "italian": "letto caccia all'uovo",
+      "dutch": "eierbed",
+      "chinese": "复活节床铺",
+      "chineseTraditional": "復活節床鋪",
+      "japanese": "イースターなベッド",
+      "korean": "이스터 침대",
+      "russian": "кровать «День зайцев»",
+      "plural": false,
+      "internalIds": [
+        12414
+      ]
+    },
     "materials": {
       "earth egg": 1,
       "stone egg": 1,
@@ -2565,8 +3023,7 @@
       "russian": "корона на День зайцев",
       "plural": false,
       "internalIds": [
-        12445,
-        693
+        12445
       ]
     },
     "materials": {
@@ -2647,7 +3104,29 @@
     "serialId": 3707,
     "internalId": 704,
     "uniqueEntryId": "gSFqr84aRRt85bwzj",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_12421",
+      "version": "1.1.0",
+      "english": "Bunny Day festive balloons",
+      "englishEurope": "Bunny Day festive balloons",
+      "german": "Häschentag-Ballon-Deko B",
+      "spanish": "globo Caza del Huevo set 2",
+      "spanishUs": "globo Caza del Huevo set 2",
+      "french": "lot ballons fête des œufs 2",
+      "frenchUs": "lot ballons fête des œufs 2",
+      "italian": "set pallon. caccia all'uovo 2",
+      "dutch": "fraaie eierballonnenset",
+      "chinese": "复活节气球B",
+      "chineseTraditional": "復活節氣球B",
+      "japanese": "イースターなバルーンB",
+      "korean": "이스터 풍선 B",
+      "russian": "шарики на День зайцев Б",
+      "plural": false,
+      "internalIds": [
+        12421
+      ]
+    },
     "materials": {
       "stone egg": 1,
       "wood egg": 1,
@@ -2673,7 +3152,29 @@
     "serialId": 3751,
     "internalId": 710,
     "uniqueEntryId": "niHGKnTgXRGTbpEwc",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Floors",
+      "id": "RoomFloor_12423",
+      "version": "1.1.0",
+      "english": "Bunny Day flooring",
+      "englishEurope": "Bunny Day flooring",
+      "german": "Häschentag-Boden",
+      "spanish": "suelo Caza del Huevo",
+      "spanishUs": "suelo Caza del Huevo",
+      "french": "sol fête des œufs",
+      "frenchUs": "sol fête des œufs",
+      "italian": "pavimento caccia all'uovo",
+      "dutch": "eiervloer",
+      "chinese": "复活节地板",
+      "chineseTraditional": "復活節地板",
+      "japanese": "イースターなゆか",
+      "korean": "이스터 바닥",
+      "russian": "пол «День зайцев»",
+      "plural": false,
+      "internalIds": [
+        12423
+      ]
+    },
     "materials": {
       "earth egg": 2,
       "stone egg": 2,
@@ -2702,7 +3203,29 @@
     "serialId": 3731,
     "internalId": 700,
     "uniqueEntryId": "o4dxxDMeguMH8zQzx",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_12417",
+      "version": "1.1.0",
+      "english": "Bunny Day glowy garland",
+      "englishEurope": "Bunny Day glowy garland",
+      "german": "Häschentag-Girlande",
+      "spanish": "guirnalda luz Caza Huevo",
+      "spanishUs": "guirnalda luz Caza Huevo",
+      "french": "guirlande fête des œufs",
+      "frenchUs": "guirlande fête des œufs",
+      "italian": "festone caccia all'uovo",
+      "dutch": "eierlichtjesslinger",
+      "chinese": "复活节灯串",
+      "chineseTraditional": "復活節燈串",
+      "japanese": "イースターなライトガーランド",
+      "korean": "이스터 라이트 가랜드",
+      "russian": "гирлянда на День зайцев",
+      "plural": false,
+      "internalIds": [
+        12417
+      ]
+    },
     "materials": {
       "earth egg": 1,
       "stone egg": 1,
@@ -3345,7 +3868,29 @@
     "serialId": 200,
     "internalId": 13,
     "uniqueEntryId": "YDCiZFYQHNweKWYcz",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01429",
+      "version": "1.0.0",
+      "english": "campfire",
+      "englishEurope": "campfire",
+      "german": "Lagerfeuer",
+      "spanish": "fuego de campamento",
+      "spanishUs": "fuego de campamento",
+      "french": "feu de camp",
+      "frenchUs": "feu de camp",
+      "italian": "fuoco da campo",
+      "dutch": "kampvuur",
+      "chinese": "炊火",
+      "chineseTraditional": "炊火",
+      "japanese": "たきび",
+      "korean": "모닥불",
+      "russian": "костер",
+      "plural": false,
+      "internalIds": [
+        1429
+      ]
+    },
     "materials": {
       "tree branch": 3
     },
@@ -3692,7 +4237,29 @@
     "serialId": 1482,
     "internalId": 612,
     "uniqueEntryId": "XeA7zE2nkf38vLXR2",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Dresses",
+      "id": 1089,
+      "version": "1.0.0",
+      "english": "cherry dress",
+      "englishEurope": "cherry dress",
+      "german": "Kirschkleid",
+      "spanish": "vestido cerezas",
+      "spanishUs": "vestido cerezas",
+      "french": "robe cerise",
+      "frenchUs": "robe cerise",
+      "italian": "vestito ciliegia",
+      "dutch": "kersenjurk",
+      "chinese": "樱桃服",
+      "chineseTraditional": "櫻桃服",
+      "japanese": "さくらんぼのふく",
+      "korean": "체리 옷",
+      "russian": "платье «Вишня»",
+      "plural": false,
+      "internalIds": [
+        9838
+      ]
+    },
     "materials": {
       "cherry": 8
     },
@@ -3715,7 +4282,29 @@
     "serialId": 1481,
     "internalId": 613,
     "uniqueEntryId": "t7SsbKgRAa6GWgjR8",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Caps",
+      "id": 1124,
+      "version": "1.0.0",
+      "english": "cherry hat",
+      "englishEurope": "cherry hat",
+      "german": "Kirschhut",
+      "spanish": "gorro cerezas",
+      "spanishUs": "gorro cerezas",
+      "french": "chapeau cerise",
+      "frenchUs": "chapeau cerise",
+      "italian": "berretto ciliegia",
+      "dutch": "kersenmuts",
+      "chinese": "樱桃帽子",
+      "chineseTraditional": "櫻桃帽子",
+      "japanese": "さくらんぼのぼうし",
+      "korean": "체리 모자",
+      "russian": "шапка-вишня",
+      "plural": false,
+      "internalIds": [
+        9873
+      ]
+    },
     "materials": {
       "cherry": 5
     },
@@ -3877,7 +4466,29 @@
     "serialId": 1480,
     "internalId": 614,
     "uniqueEntryId": "pKzsdzbBmNX3hZd7R",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Umbrella",
+      "id": "Umbrella_09949",
+      "version": "1.0.0",
+      "english": "cherry umbrella",
+      "englishEurope": "cherry umbrella",
+      "german": "Kirschschirm",
+      "spanish": "paraguas cerezas",
+      "spanishUs": "paraguas cerezas",
+      "french": "parapluie cerises",
+      "frenchUs": "parapluie cerises",
+      "italian": "ombrello ciliegie",
+      "dutch": "kersenparaplu",
+      "chinese": "樱桃雨伞",
+      "chineseTraditional": "櫻桃雨傘",
+      "japanese": "さくらんぼのかさ",
+      "korean": "체리 우산",
+      "russian": "вишневый зонт",
+      "plural": false,
+      "internalIds": [
+        9949
+      ]
+    },
     "materials": {
       "cherry": 7
     },
@@ -4151,8 +4762,7 @@
       "russian": "сумочка «Лепестки вишни»",
       "plural": false,
       "internalIds": [
-        7490,
-        630
+        7490
       ]
     },
     "materials": {
@@ -4470,8 +5080,7 @@
       "russian": "диво-венок из хризантем",
       "plural": false,
       "internalIds": [
-        5118,
-        259
+        5118
       ]
     },
     "materials": {
@@ -4517,8 +5126,7 @@
       "russian": "диво-венок из роз",
       "plural": false,
       "internalIds": [
-        5113,
-        254
+        5113
       ]
     },
     "materials": {
@@ -4564,8 +5172,7 @@
       "russian": "диво-венок из тюльпанов",
       "plural": false,
       "internalIds": [
-        5103,
-        244
+        5103
       ]
     },
     "materials": {
@@ -4728,7 +5335,29 @@
     "serialId": 702,
     "internalId": 192,
     "uniqueEntryId": "jtdnvzuzyxYDa6xov",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04073",
+      "version": "1.0.0",
+      "english": "classic pitcher",
+      "englishEurope": "classic pitcher",
+      "german": "Keramikkrug",
+      "spanish": "jarra de cerámica",
+      "spanishUs": "jarra de cerámica",
+      "french": "cruche en terre",
+      "frenchUs": "cruche en terre",
+      "italian": "caraffa di ceramica",
+      "dutch": "aardewerken kan",
+      "chinese": "陶制牛奶壶",
+      "chineseTraditional": "陶製牛奶壺",
+      "japanese": "とうきのジャグ",
+      "korean": "도기 물병",
+      "russian": "кувшин",
+      "plural": false,
+      "internalIds": [
+        4073
+      ]
+    },
     "materials": {
       "clay": 4
     },
@@ -5000,8 +5629,7 @@
       "russian": "яркий венок из гиацинтов",
       "plural": false,
       "internalIds": [
-        5097,
-        238
+        5097
       ]
     },
     "materials": {
@@ -5095,8 +5723,7 @@
       "russian": "яркий венок из фиалок",
       "plural": false,
       "internalIds": [
-        5106,
-        247
+        5106
       ]
     },
     "materials": {
@@ -5187,8 +5814,7 @@
       "russian": "яркий венок из ветрениц",
       "plural": false,
       "internalIds": [
-        5100,
-        241
+        5100
       ]
     },
     "materials": {
@@ -5326,8 +5952,7 @@
       "russian": "венок из космей",
       "plural": false,
       "internalIds": [
-        5108,
-        249
+        5108
       ]
     },
     "materials": {
@@ -5446,7 +6071,29 @@
     "serialId": 3546,
     "internalId": 227,
     "uniqueEntryId": "KwujCjwLcpr42PGb3",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Doorplates",
+      "id": "DoorDeco_04293",
+      "version": "1.0.0",
+      "english": "cosmos wreath",
+      "englishEurope": "cosmos wreath",
+      "german": "Cosmeentürkranz",
+      "spanish": "corona cosmos",
+      "spanishUs": "corona cosmos",
+      "french": "couronne cosmos",
+      "frenchUs": "couronne cosmos",
+      "italian": "ghirlanda cosmee",
+      "dutch": "cosmeakrans",
+      "chinese": "波斯菊花环",
+      "chineseTraditional": "波斯菊花圈",
+      "japanese": "コスモスのリース",
+      "korean": "코스모스 리스",
+      "russian": "венок с космеями",
+      "plural": false,
+      "internalIds": [
+        4293
+      ]
+    },
     "materials": {
       "yellow cosmos": 3,
       "white cosmos": 3,
@@ -5674,8 +6321,7 @@
       "russian": "диво-венок из лилий",
       "plural": false,
       "internalIds": [
-        5115,
-        256
+        5115
       ]
     },
     "materials": {
@@ -5722,8 +6368,7 @@
       "russian": "милый венок из роз",
       "plural": false,
       "internalIds": [
-        5112,
-        253
+        5112
       ]
     },
     "materials": {
@@ -5860,8 +6505,7 @@
       "russian": "темн. венок из космей",
       "plural": false,
       "internalIds": [
-        5110,
-        251
+        5110
       ]
     },
     "materials": {
@@ -5906,8 +6550,7 @@
       "russian": "темный венок из лилий",
       "plural": false,
       "internalIds": [
-        5116,
-        257
+        5116
       ]
     },
     "materials": {
@@ -6043,8 +6686,7 @@
       "russian": "темн. венок из тюльпанов",
       "plural": false,
       "internalIds": [
-        5104,
-        245
+        5104
       ]
     },
     "materials": {
@@ -6296,7 +6938,29 @@
     "serialId": 441,
     "internalId": 383,
     "uniqueEntryId": "39ryJtTNCrokaosYW",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04309",
+      "version": "1.0.0",
+      "english": "destinations signpost",
+      "englishEurope": "destinations signpost",
+      "german": "Weltwegweiser",
+      "spanish": "poste cruce de caminos",
+      "spanishUs": "poste cruce de caminos",
+      "french": "poteau indicateur",
+      "frenchUs": "poteau indicateur",
+      "italian": "palo segnaletico",
+      "dutch": "wereldwegwijzer",
+      "chinese": "世界的路标",
+      "chineseTraditional": "世界的路標",
+      "japanese": "せかいのみちしるべ",
+      "korean": "섬 이정표",
+      "russian": "указатель направлений",
+      "plural": false,
+      "internalIds": [
+        4309
+      ]
+    },
     "materials": {
       "hardwood": 4,
       "softwood": 8
@@ -6414,7 +7078,29 @@
     "serialId": 430,
     "internalId": 14,
     "uniqueEntryId": "vMF3FP2steT4gaJ9u",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01799",
+      "version": "1.0.0",
+      "english": "doghouse",
+      "englishEurope": "doghouse",
+      "german": "Hundehütte",
+      "spanish": "caseta de perro",
+      "spanishUs": "casa de perro",
+      "french": "niche",
+      "frenchUs": "niche",
+      "italian": "cuccia",
+      "dutch": "hondenhok",
+      "chinese": "狗屋",
+      "chineseTraditional": "狗屋",
+      "japanese": "いぬごや",
+      "korean": "개집",
+      "russian": "собачья будка",
+      "plural": false,
+      "internalIds": [
+        1799
+      ]
+    },
     "materials": {
       "wood": 10,
       "hardwood": 7
@@ -6504,8 +7190,7 @@
       "russian": "наряд «Земляное яйцо»",
       "plural": false,
       "internalIds": [
-        12449,
-        674
+        12449
       ]
     },
     "materials": {
@@ -6550,8 +7235,7 @@
       "russian": "скорлупа земляного яйца",
       "plural": false,
       "internalIds": [
-        12439,
-        673
+        12439
       ]
     },
     "materials": {
@@ -6596,7 +7280,6 @@
       "russian": "боты «Земляное яйцо»",
       "plural": false,
       "internalIds": [
-        675,
         12455
       ]
     },
@@ -6642,8 +7325,7 @@
       "russian": "платье на День зайцев",
       "plural": false,
       "internalIds": [
-        12448,
-        692
+        12448
       ]
     },
     "materials": {
@@ -6693,8 +7375,7 @@
       "russian": "шляпка на День зайцев",
       "plural": false,
       "internalIds": [
-        12446,
-        691
+        12446
       ]
     },
     "materials": {
@@ -6865,7 +7546,29 @@
     "serialId": 3400,
     "internalId": 650,
     "uniqueEntryId": "tyq7gwEQhneN7ret4",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_12230",
+      "version": "1.0.0",
+      "english": "festive top set",
+      "englishEurope": "festive top set",
+      "german": "Dreidelspiel",
+      "spanish": "juego de peonzas festivo",
+      "spanishUs": "juego de trompos festivo",
+      "french": "jeu de toupies de fête",
+      "frenchUs": "jeu de toupies festives",
+      "italian": "set di trottole festive",
+      "dutch": "feesttollenset",
+      "chinese": "节日陀螺",
+      "chineseTraditional": "節日陀螺",
+      "japanese": "おまつりのコマ",
+      "korean": "축제 팽이",
+      "russian": "традиционный набор",
+      "plural": false,
+      "internalIds": [
+        12230
+      ]
+    },
     "materials": {
       "gold ornament": 2,
       "hardwood": 1
@@ -7073,7 +7776,29 @@
     "serialId": 806,
     "internalId": 646,
     "uniqueEntryId": "JFxaTW3m9gD8zWTyQ",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_12206",
+      "version": "1.0.0",
+      "english": "flat garden rock",
+      "englishEurope": "flat garden rock",
+      "german": "Flach-Gartenstein",
+      "spanish": "roca plana",
+      "spanishUs": "roca plana",
+      "french": "pierre de jardin basse",
+      "frenchUs": "pierre de jardin basse",
+      "italian": "pietra da giardino bassa",
+      "dutch": "lage tuinrots",
+      "chinese": "低矮庭院石",
+      "chineseTraditional": "低矮庭園石",
+      "japanese": "ひくいにわいし",
+      "korean": "낮은 바위",
+      "russian": "садовый камень",
+      "plural": false,
+      "internalIds": [
+        12206
+      ]
+    },
     "materials": {
       "stone": 20
     },
@@ -7096,7 +7821,29 @@
     "serialId": 100,
     "internalId": 10,
     "uniqueEntryId": "6WFHd6r74ZDND9eCx",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Tools",
+      "id": "Axe_03068",
+      "version": "1.0.0",
+      "english": "flimsy axe",
+      "englishEurope": "flimsy axe",
+      "german": "Wackelaxt",
+      "spanish": "hacha endeble",
+      "spanishUs": "hacha frágil",
+      "french": "hache rudimentaire",
+      "frenchUs": "hache rudimentaire",
+      "italian": "ascia fragile",
+      "dutch": "breekbare bijl",
+      "chinese": "简陋斧头",
+      "chineseTraditional": "簡陋斧頭",
+      "japanese": "ショボいオノ",
+      "korean": "엉성한 도끼",
+      "russian": "непрочный топор",
+      "plural": false,
+      "internalIds": [
+        3068
+      ]
+    },
     "materials": {
       "tree branch": 5,
       "stone": 1
@@ -7257,7 +8004,29 @@
     "serialId": 109,
     "internalId": 20,
     "uniqueEntryId": "FnnhLbn7KQdg2Xqey",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Tools",
+      "id": "Watering_03083",
+      "version": "1.0.0",
+      "english": "flimsy watering can",
+      "englishEurope": "flimsy watering can",
+      "german": "Wackelgießkanne",
+      "spanish": "regadera endeble",
+      "spanishUs": "regadera frágil",
+      "french": "arrosoir rudimentaire",
+      "frenchUs": "arrosoir rudimentaire",
+      "italian": "annaffiatoio fragile",
+      "dutch": "breekbare gieter",
+      "chinese": "简陋浇花壶",
+      "chineseTraditional": "簡陋澆花壺",
+      "japanese": "ショボいジョウロ",
+      "korean": "엉성한 물뿌리개",
+      "russian": "непрочная лейка",
+      "plural": false,
+      "internalIds": [
+        3083
+      ]
+    },
     "materials": {
       "softwood": 5
     },
@@ -7326,7 +8095,29 @@
     "serialId": 3508,
     "internalId": 608,
     "uniqueEntryId": "faN686NpjrFkDricn",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_07527",
+      "version": "1.0.0",
+      "english": "flower stand",
+      "englishEurope": "flower stand",
+      "german": "Blumenständer",
+      "spanish": "arreglo floral con pie",
+      "spanishUs": "arreglo floral con pie",
+      "french": "stand de fleurs",
+      "frenchUs": "stand de fleurs",
+      "italian": "portafiori",
+      "dutch": "bloemenstaander",
+      "chinese": "立花篮",
+      "chineseTraditional": "高架花籃",
+      "japanese": "スタンドフラワー",
+      "korean": "플라워 스탠드",
+      "russian": "подставка для цветов",
+      "plural": false,
+      "internalIds": [
+        7527
+      ]
+    },
     "materials": {
       "red roses": 1,
       "pink roses": 2,
@@ -7544,7 +8335,29 @@
     "serialId": 804,
     "internalId": 599,
     "uniqueEntryId": "LWAeuHiDEv25pHRQx",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_08031",
+      "version": "1.0.0",
+      "english": "fountain",
+      "englishEurope": "fountain",
+      "german": "Springbrunnen",
+      "spanish": "fuente",
+      "spanishUs": "fuente",
+      "french": "fontaine",
+      "frenchUs": "fontaine",
+      "italian": "fontana",
+      "dutch": "fontein",
+      "chinese": "喷泉",
+      "chineseTraditional": "噴泉",
+      "japanese": "ふんすい",
+      "korean": "분수",
+      "russian": "фонтан",
+      "plural": false,
+      "internalIds": [
+        8031
+      ]
+    },
     "materials": {
       "drinking fountain": 1,
       "stone": 20,
@@ -7891,7 +8704,29 @@
     "serialId": 3203,
     "internalId": 146,
     "uniqueEntryId": "ERiC3P6oPfo8EgJcb",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03497",
+      "version": "1.0.0",
+      "english": "frozen table",
+      "englishEurope": "frozen table",
+      "german": "Eistisch",
+      "spanish": "mesa iceberg",
+      "spanishUs": "mesa iceberg",
+      "french": "table arctique",
+      "frenchUs": "table arctique",
+      "italian": "tavolo iceberg",
+      "dutch": "ijstafel",
+      "chinese": "冰块桌",
+      "chineseTraditional": "冰桌",
+      "japanese": "こおりのテーブル",
+      "korean": "얼음 테이블",
+      "russian": "ледяной стол",
+      "plural": false,
+      "internalIds": [
+        3497
+      ]
+    },
     "materials": {
       "large snowflake": 1,
       "snowflake": 8
@@ -8007,7 +8842,29 @@
     "serialId": 1900,
     "internalId": 56,
     "uniqueEntryId": "sAtJ8kdcam2FX5MJb",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00975",
+      "version": "1.0.0",
+      "english": "fruit basket",
+      "englishEurope": "fruit basket",
+      "german": "Fruchtkorb",
+      "spanish": "cesta de frutas",
+      "spanishUs": "cesta de frutas",
+      "french": "panier de fruits",
+      "frenchUs": "panier de fruits",
+      "italian": "cestino di frutta",
+      "dutch": "fruitmand",
+      "chinese": "水果篮",
+      "chineseTraditional": "水果籃",
+      "japanese": "フルーツバスケット",
+      "korean": "과일 바구니",
+      "russian": "корзина с фруктами",
+      "plural": false,
+      "internalIds": [
+        975
+      ]
+    },
     "materials": {
       "apple": 1,
       "pear": 1,
@@ -8034,7 +8891,29 @@
     "serialId": 1940,
     "internalId": 223,
     "uniqueEntryId": "FPCNEvg2aBDZZkjxu",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Doorplates",
+      "id": "DoorDeco_04378",
+      "version": "1.0.0",
+      "english": "fruit wreath",
+      "englishEurope": "fruit wreath",
+      "german": "Früchtetürkranz",
+      "spanish": "corona frutal",
+      "spanishUs": "corona frutal",
+      "french": "couronne fruits",
+      "frenchUs": "couronne fruits",
+      "italian": "ghirlanda frutta",
+      "dutch": "fruitkrans",
+      "chinese": "水果花环",
+      "chineseTraditional": "水果花圈",
+      "japanese": "フルーツのリース",
+      "korean": "과일 리스",
+      "russian": "венок с фруктами",
+      "plural": false,
+      "internalIds": [
+        4378
+      ]
+    },
     "materials": {
       "apple": 2,
       "pear": 1,
@@ -8061,7 +8940,29 @@
     "serialId": 908,
     "internalId": 199,
     "uniqueEntryId": "bgMKMNGmxjKPXaDNp",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04104",
+      "version": "1.0.0",
+      "english": "frying pan",
+      "englishEurope": "frying pan",
+      "german": "Pfanne",
+      "spanish": "sartén",
+      "spanishUs": "sartén",
+      "french": "poêle à frire",
+      "frenchUs": "poêle à frire",
+      "italian": "padella",
+      "dutch": "koekenpan",
+      "chinese": "平底锅",
+      "chineseTraditional": "平底鍋",
+      "japanese": "フライパン",
+      "korean": "프라이팬",
+      "russian": "сковорода",
+      "plural": false,
+      "internalIds": [
+        4104
+      ]
+    },
     "materials": {
       "iron nugget": 2
     },
@@ -8177,7 +9078,29 @@
     "serialId": 650,
     "internalId": 301,
     "uniqueEntryId": "pmFETBqn6JQFmXnA3",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Walls",
+      "id": "RoomWall_05229",
+      "version": "1.0.0",
+      "english": "garbage-heap wall",
+      "englishEurope": "garbage-heap wall",
+      "german": "Müllbergtapete",
+      "spanish": "pared vertedero",
+      "spanishUs": "pared basural",
+      "french": "mur dépotoir",
+      "frenchUs": "mur dépotoir",
+      "italian": "muro discarica",
+      "dutch": "stortplaatswand",
+      "chinese": "垃圾堆墙",
+      "chineseTraditional": "垃圾堆牆",
+      "japanese": "ゴミのやまなかべ",
+      "korean": "쓰레기 더미 벽",
+      "russian": "стена «Свалка»",
+      "plural": false,
+      "internalIds": [
+        5229
+      ]
+    },
     "materials": {
       "empty can": 2,
       "boot": 2,
@@ -8248,7 +9171,29 @@
     "serialId": 805,
     "internalId": 48,
     "uniqueEntryId": "gH69947Ybie3us6SB",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00729",
+      "version": "1.0.0",
+      "english": "garden rock",
+      "englishEurope": "garden rock",
+      "german": "Gartenstein",
+      "spanish": "roca gruesa",
+      "spanishUs": "roca gruesa",
+      "french": "petit rocher jardin",
+      "frenchUs": "petit rocher jardin",
+      "italian": "pietra da giardino",
+      "dutch": "rots",
+      "chinese": "常见庭院石",
+      "chineseTraditional": "常見庭園石",
+      "japanese": "よくあるにわいし",
+      "korean": "평범한 정원 돌",
+      "russian": "валун",
+      "plural": false,
+      "internalIds": [
+        729
+      ]
+    },
     "materials": {
       "stone": 15
     },
@@ -8435,8 +9380,7 @@
       "russian": "золотые доспехи",
       "plural": false,
       "internalIds": [
-        4590,
-        566
+        4590
       ]
     },
     "materials": {
@@ -8462,27 +9406,26 @@
     "internalId": 81,
     "uniqueEntryId": "3DtQMaiAHW8XDdX4c",
     "translations": {
-      "sourceSheet": "Furniture Variants",
-      "variantId": 1,
-      "id": "Ftr_07453",
-      "furnitureName": "aluminum briefcase",
-      "english": "Gold bars",
-      "englishEurope": "Gold bars",
-      "german": "Goldbarren",
-      "spanish": "Lingotes de oro",
-      "spanishUs": "Lingotes de oro",
-      "french": "Lingots d'or",
-      "frenchUs": "Lingots d'or",
-      "italian": "Lingotti d'oro",
-      "dutch": "Goudstaven",
-      "chinese": "金块",
-      "chineseTraditional": "金塊",
-      "japanese": "きんかい金塊",
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03065",
+      "version": "1.0.0",
+      "english": "gold bars",
+      "englishEurope": "gold bars",
+      "german": "Goldbarrenstapel",
+      "spanish": "pila de lingotes de oro",
+      "spanishUs": "pila de lingotes de oro",
+      "french": "pile de lingots",
+      "frenchUs": "pile de lingots",
+      "italian": "piramide di lingotti dorata",
+      "dutch": "goudstaven",
+      "chinese": "金条",
+      "chineseTraditional": "金條",
+      "japanese": "きんののべぼう",
       "korean": "금괴",
-      "russian": "Золотые слитки",
+      "russian": "золотые слитки",
       "plural": false,
       "internalIds": [
-        7453
+        3065
       ]
     },
     "materials": {
@@ -8507,7 +9450,29 @@
     "serialId": 1180,
     "internalId": 644,
     "uniqueEntryId": "ihpryTYADPJmMyH3G",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Masks",
+      "id": 692,
+      "version": "1.0.0",
+      "english": "gold helmet",
+      "englishEurope": "gold helmet",
+      "german": "Goldhelm",
+      "spanish": "yelmo dorado",
+      "spanishUs": "yelmo dorado",
+      "french": "casque en or",
+      "frenchUs": "casque en or",
+      "italian": "elmo d'oro",
+      "dutch": "gouden helm",
+      "chinese": "金甲头盔",
+      "chineseTraditional": "金頭盔",
+      "japanese": "ゴールデンアーマーヘルメット",
+      "korean": "골든 아머 헬멧",
+      "russian": "золотой шлем",
+      "plural": false,
+      "internalIds": [
+        5346
+      ]
+    },
     "materials": {
       "gold nugget": 5
     },
@@ -8550,8 +9515,7 @@
       "russian": "золотой венок из роз",
       "plural": false,
       "internalIds": [
-        7378,
-        460
+        7378
       ]
     },
     "materials": {
@@ -8621,7 +9585,29 @@
     "serialId": 1182,
     "internalId": 643,
     "uniqueEntryId": "4nY6xoTSqFMjzsTLp",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Shoes",
+      "id": 777,
+      "version": "1.0.0",
+      "english": "gold-armor shoes",
+      "englishEurope": "gold-armor shoes",
+      "german": "Paar Goldrüstungsschuhe",
+      "spanish": "escarpe de oro",
+      "spanishUs": "escarpe de oro",
+      "french": "paire de solerets or",
+      "frenchUs": "paire de solerets or",
+      "italian": "paio scarpe armatura dorata",
+      "dutch": "gouden ridderlaarzen",
+      "chinese": "金甲靴",
+      "chineseTraditional": "金甲鞋",
+      "japanese": "ゴールデンアーマーシューズ",
+      "korean": "골든 아머 슈즈",
+      "russian": "латные золотые сапоги",
+      "plural": false,
+      "internalIds": [
+        5524
+      ]
+    },
     "materials": {
       "gold nugget": 4
     },
@@ -8644,7 +9630,29 @@
     "serialId": 1151,
     "internalId": 298,
     "uniqueEntryId": "oCeLPYajbm2MHZyGn",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Walls",
+      "id": "RoomWall_04820",
+      "version": "1.0.0",
+      "english": "gold-screen wall",
+      "englishEurope": "gold-screen wall",
+      "german": "Goldtürtapete",
+      "spanish": "pared oriental",
+      "spanishUs": "pared oriental",
+      "french": "mur paravent",
+      "frenchUs": "mur paravent",
+      "italian": "muro porta scorrevole d'oro",
+      "dutch": "gouden scherm",
+      "chinese": "金箔日式拉门",
+      "chineseTraditional": "金箔日式拉門",
+      "japanese": "きんぱくのふすま",
+      "korean": "황금 미닫이 문 벽",
+      "russian": "золотая стена-ширма",
+      "plural": false,
+      "internalIds": [
+        4820
+      ]
+    },
     "materials": {
       "gold nugget": 2,
       "screen wall": 1
@@ -8668,7 +9676,29 @@
     "serialId": 1132,
     "internalId": 602,
     "uniqueEntryId": "TG3z4Bf2ju3Wo5tRK",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_11260",
+      "version": "1.0.0",
+      "english": "golden arowana model",
+      "englishEurope": "golden arowana model",
+      "german": "Gold-Arowana-Modell",
+      "spanish": "trofeo arowana de oro",
+      "spanishUs": "trofeo arowana de oro",
+      "french": "arowana en or",
+      "frenchUs": "arowana en or",
+      "italian": "replica di arowana in oro",
+      "dutch": "model-gouden-arowana",
+      "chinese": "金色骨舌鱼",
+      "chineseTraditional": "金色骨舌魚",
+      "japanese": "きんのアロワナ",
+      "korean": "금 아로와나",
+      "russian": "муляж золотой араваны",
+      "plural": false,
+      "internalIds": [
+        11260
+      ]
+    },
     "materials": {
       "gold nugget": 3
     },
@@ -8827,7 +9857,29 @@
     "serialId": 1101,
     "internalId": 131,
     "uniqueEntryId": "NX2ZZ8qZnEqqWtSGH",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03810",
+      "version": "1.0.0",
+      "english": "golden dishes",
+      "englishEurope": "golden dishes",
+      "german": "Goldgeschirr",
+      "spanish": "servicio de mesa dorado",
+      "spanishUs": "servicio de mesa dorado",
+      "french": "vaisselle d'or",
+      "frenchUs": "vaisselle d'or",
+      "italian": "set da tavola dorato",
+      "dutch": "gouden servies",
+      "chinese": "黄金餐具",
+      "chineseTraditional": "黃金餐具",
+      "japanese": "おうごんのしょっき",
+      "korean": "황금 식기",
+      "russian": "золотая посуда",
+      "plural": false,
+      "internalIds": [
+        3810
+      ]
+    },
     "materials": {
       "gold nugget": 1
     },
@@ -8850,7 +9902,29 @@
     "serialId": 1131,
     "internalId": 601,
     "uniqueEntryId": "XhKhDoMTgc8eAoJna",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_05941",
+      "version": "1.0.0",
+      "english": "golden dung beetle",
+      "englishEurope": "golden dung beetle",
+      "german": "Gold-Skarabäus",
+      "spanish": "escarabajo pelotero de oro",
+      "spanishUs": "escarabajo pelotero de oro",
+      "french": "scarabée doré",
+      "frenchUs": "scarabée doré",
+      "italian": "scarabeo stercorario d'oro",
+      "dutch": "gouden mestkever",
+      "chinese": "金色蜣螂",
+      "chineseTraditional": "金色糞金龜",
+      "japanese": "きんのスカラベ",
+      "korean": "금 쇠똥구리",
+      "russian": "золотой дупляк",
+      "plural": false,
+      "internalIds": [
+        5941
+      ]
+    },
     "materials": {
       "gold nugget": 3
     },
@@ -8918,7 +9992,29 @@
     "serialId": 1130,
     "internalId": 595,
     "uniqueEntryId": "5JDaCQoYazbP4QkGN",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_11261",
+      "version": "1.0.0",
+      "english": "golden gears",
+      "englishEurope": "golden gears",
+      "german": "Gold-Getriebe",
+      "spanish": "engranaje de oro",
+      "spanishUs": "engranaje de oro",
+      "french": "engrenage en or",
+      "frenchUs": "engrenage en or",
+      "italian": "ingranaggio dorato",
+      "dutch": "gouden tandwielen",
+      "chinese": "黄金齿轮",
+      "chineseTraditional": "黃金齒輪",
+      "japanese": "おうごんのはぐるま",
+      "korean": "황금 톱니바퀴",
+      "russian": "золотые шестеренки",
+      "plural": false,
+      "internalIds": [
+        11261
+      ]
+    },
     "materials": {
       "gold nugget": 1,
       "iron nugget": 3
@@ -9419,8 +10515,7 @@
       "russian": "юбка из сухих листьев",
       "plural": false,
       "internalIds": [
-        4333,
-        603
+        4333
       ]
     },
     "materials": {
@@ -9445,7 +10540,29 @@
     "serialId": 378,
     "internalId": 582,
     "uniqueEntryId": "Q7M9H8k9C9iTsWafA",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00530",
+      "version": "1.0.0",
+      "english": "grass standee",
+      "englishEurope": "grass standee",
+      "german": "Pappgras",
+      "spanish": "hierba de atrezo",
+      "spanishUs": "césped de utilería",
+      "french": "herbe en carton",
+      "frenchUs": "herbe en carton",
+      "italian": "sagoma di erba",
+      "dutch": "decoratiegras",
+      "chinese": "草丛道具",
+      "chineseTraditional": "草叢道具",
+      "japanese": "ハリボテのくさ",
+      "korean": "연극용 잔디",
+      "russian": "бутафорская трава",
+      "plural": false,
+      "internalIds": [
+        530
+      ]
+    },
     "materials": {
       "wood": 2,
       "softwood": 2
@@ -9489,8 +10606,7 @@
       "russian": "юбка из зеленых листьев",
       "plural": false,
       "internalIds": [
-        8907,
-        605
+        8907
       ]
     },
     "materials": {
@@ -9515,7 +10631,29 @@
     "serialId": 2501,
     "internalId": 587,
     "uniqueEntryId": "yN7Ly9tsMKDvKqHu8",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04269",
+      "version": "1.0.0",
+      "english": "green-leaf pile",
+      "englishEurope": "green-leaf pile",
+      "german": "Laubhaufen",
+      "spanish": "pila de hojas verdes",
+      "spanishUs": "pila de hojas verdes",
+      "french": "tas de feuilles vertes",
+      "frenchUs": "tas de feuilles vertes",
+      "italian": "mucchio di foglie verdi",
+      "dutch": "hoop groene bladeren",
+      "chinese": "绿色落叶",
+      "chineseTraditional": "綠色落葉",
+      "japanese": "みどりのおちば",
+      "korean": "초록 낙엽",
+      "russian": "охапка зеленых листьев",
+      "plural": false,
+      "internalIds": [
+        4269
+      ]
+    },
     "materials": {
       "young spring bamboo": 1,
       "clump of weeds": 10
@@ -9630,7 +10768,29 @@
     "serialId": 2407,
     "internalId": 217,
     "uniqueEntryId": "HwZwNAuYqaBbwS2YL",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00722",
+      "version": "1.0.0",
+      "english": "hearth",
+      "englishEurope": "hearth",
+      "german": "Kochfeuer",
+      "spanish": "hogar",
+      "spanishUs": "irori",
+      "french": "âtre",
+      "frenchUs": "âtre",
+      "italian": "focolare",
+      "dutch": "kookplaats",
+      "chinese": "地炉",
+      "chineseTraditional": "地爐",
+      "japanese": "いろり",
+      "korean": "노",
+      "russian": "кострище",
+      "plural": false,
+      "internalIds": [
+        722
+      ]
+    },
     "materials": {
       "bamboo piece": 2,
       "iron nugget": 5,
@@ -9703,7 +10863,29 @@
     "serialId": 379,
     "internalId": 583,
     "uniqueEntryId": "6Gq4PMmcJqzJySt7G",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00531",
+      "version": "1.0.0",
+      "english": "hedge standee",
+      "englishEurope": "hedge standee",
+      "german": "Pappbusch",
+      "spanish": "seto de atrezo",
+      "spanishUs": "arbusto de utilería",
+      "french": "buisson en carton",
+      "frenchUs": "buisson en carton",
+      "italian": "sagoma di cespuglio",
+      "dutch": "decoratieheg",
+      "chinese": "树丛道具",
+      "chineseTraditional": "樹叢道具",
+      "japanese": "ハリボテのいけがき",
+      "korean": "연극용 산울타리",
+      "russian": "бутафорский куст",
+      "plural": false,
+      "internalIds": [
+        531
+      ]
+    },
     "materials": {
       "wood": 2,
       "softwood": 3
@@ -9818,7 +11000,29 @@
     "serialId": 2050,
     "internalId": 296,
     "uniqueEntryId": "XJZCow9k2yrtvYDSc",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Walls",
+      "id": "RoomWall_04865",
+      "version": "1.0.0",
+      "english": "honeycomb wall",
+      "englishEurope": "honeycomb wall",
+      "german": "Bienenwabenwand",
+      "spanish": "pared melosa",
+      "spanishUs": "pared melosa",
+      "french": "mur rayons de miel",
+      "frenchUs": "mur rayons de miel",
+      "italian": "muro alveare",
+      "dutch": "honingraatwand",
+      "chinese": "蜂巢墙",
+      "chineseTraditional": "蜂巢牆",
+      "japanese": "ビーハイブなかべ",
+      "korean": "벌집 벽",
+      "russian": "стена-соты",
+      "plural": false,
+      "internalIds": [
+        4865
+      ]
+    },
     "materials": {
       "wasp nest": 6
     },
@@ -9861,8 +11065,7 @@
       "russian": "венок из гиацинтов",
       "plural": false,
       "internalIds": [
-        5096,
-        237
+        5096
       ]
     },
     "materials": {
@@ -10121,7 +11324,29 @@
     "serialId": 3290,
     "internalId": 533,
     "uniqueEntryId": "pfuLcy3eLoxPsFMQy",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Tools",
+      "id": "ChangeStick_07585",
+      "version": "1.0.0",
+      "english": "ice wand",
+      "englishEurope": "ice wand",
+      "german": "Eisstab",
+      "spanish": "varita hielo",
+      "spanishUs": "varita hielo",
+      "french": "baguette glace",
+      "frenchUs": "baguette glace",
+      "italian": "bacchetta ghiaccio",
+      "dutch": "ijsstaf",
+      "chinese": "冰之棒",
+      "chineseTraditional": "冰之棒",
+      "japanese": "こおりのステッキ",
+      "korean": "얼음 지팡이",
+      "russian": "ледяная палочка",
+      "plural": false,
+      "internalIds": [
+        7585
+      ]
+    },
     "materials": {
       "large snowflake": 1,
       "star fragment": 3
@@ -10190,7 +11415,29 @@
     "serialId": 3351,
     "internalId": 302,
     "uniqueEntryId": "89NQTyckGsnbPBcxX",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Walls",
+      "id": "RoomWall_05662",
+      "version": "1.0.0",
+      "english": "iceberg wall",
+      "englishEurope": "iceberg wall",
+      "german": "Eisbergtapete",
+      "spanish": "pared glaciar",
+      "spanishUs": "pared glaciar",
+      "french": "mur banquise",
+      "frenchUs": "mur banquise",
+      "italian": "muro artico",
+      "dutch": "ijsbergwand",
+      "chinese": "冰山墙",
+      "chineseTraditional": "冰山牆",
+      "japanese": "ひょうざんのかべ",
+      "korean": "빙산 벽",
+      "russian": "арктическая стена",
+      "plural": false,
+      "internalIds": [
+        5662
+      ]
+    },
     "materials": {
       "large snowflake": 1,
       "snowflake": 8
@@ -10353,7 +11600,29 @@
     "serialId": 3410,
     "internalId": 203,
     "uniqueEntryId": "S8meymsrnGbZRN5XM",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04066",
+      "version": "1.0.0",
+      "english": "illuminated tree",
+      "englishEurope": "illuminated tree",
+      "german": "Leuchtbaum",
+      "spanish": "árbol de luces",
+      "spanishUs": "árbol de luces",
+      "french": "sapin illuminé",
+      "frenchUs": "sapin illuminé",
+      "italian": "albero illuminato",
+      "dutch": "lichtgevende boom",
+      "chinese": "树型灯饰",
+      "chineseTraditional": "樹型燈飾",
+      "japanese": "ツリーのイルミネーション",
+      "korean": "트리 일루미네이션",
+      "russian": "елка с подсветкой",
+      "plural": false,
+      "internalIds": [
+        4066
+      ]
+    },
     "materials": {
       "red ornament": 3,
       "gold ornament": 4,
@@ -10474,7 +11743,29 @@
     "serialId": 981,
     "internalId": 640,
     "uniqueEntryId": "qMDWWFfXPFTMpGTpQ",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Dresses",
+      "id": 456,
+      "version": "1.0.0",
+      "english": "iron armor",
+      "englishEurope": "iron armor",
+      "german": "Eisenrüstung",
+      "spanish": "armadura de hierro",
+      "spanishUs": "armadura de hierro",
+      "french": "armure en fer",
+      "frenchUs": "armure en fer",
+      "italian": "armatura di ferro",
+      "dutch": "ijzeren harnas",
+      "chinese": "铁盔甲",
+      "chineseTraditional": "鐵盔甲",
+      "japanese": "アイアンアーマー",
+      "korean": "아이언 아머",
+      "russian": "железные доспехи",
+      "plural": false,
+      "internalIds": [
+        4588
+      ]
+    },
     "materials": {
       "iron nugget": 8
     },
@@ -10768,7 +12059,29 @@
     "serialId": 901,
     "internalId": 65,
     "uniqueEntryId": "LfmT6j46no2RNRXDi",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01627",
+      "version": "1.0.0",
+      "english": "iron garden table",
+      "englishEurope": "iron garden table",
+      "german": "Romantikgartentisch",
+      "spanish": "mesa de forja",
+      "spanishUs": "mesa de hierro",
+      "french": "table de jardin fer",
+      "frenchUs": "table de jardin fer",
+      "italian": "tavolo da giardino di ferro",
+      "dutch": "ijzeren tuintafel",
+      "chinese": "花园铸铁桌",
+      "chineseTraditional": "鑄鐵花園桌",
+      "japanese": "アイアンガーデンテーブル",
+      "korean": "아이언 가든 테이블",
+      "russian": "железный стол",
+      "plural": false,
+      "internalIds": [
+        1627
+      ]
+    },
     "materials": {
       "iron nugget": 5
     },
@@ -11157,7 +12470,29 @@
     "serialId": 1001,
     "internalId": 85,
     "uniqueEntryId": "MdPCQSxd8CnBRe9Ac",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03195",
+      "version": "1.0.0",
+      "english": "ironwood cart",
+      "englishEurope": "ironwood cart",
+      "german": "Eisen-Holz-Rollwagen",
+      "spanish": "carrito universidad",
+      "spanishUs": "carrito universidad",
+      "french": "desserte en bois de fer",
+      "frenchUs": "desserte en bois-de-fer",
+      "italian": "carrello di legno ferro",
+      "dutch": "ijzeren-houten roltafel",
+      "chinese": "铸铁木收纳推车",
+      "chineseTraditional": "鑄鐵木收納推車",
+      "japanese": "アイアンウッドワゴン",
+      "korean": "아이언우드 왜건",
+      "russian": "тележка из ДСП и стали",
+      "plural": false,
+      "internalIds": [
+        3195
+      ]
+    },
     "materials": {
       "wood": 6,
       "iron nugget": 4
@@ -11181,7 +12516,29 @@
     "serialId": 1000,
     "internalId": 83,
     "uniqueEntryId": "geDcbiFqc4L4eZojy",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03193",
+      "version": "1.0.0",
+      "english": "ironwood chair",
+      "englishEurope": "ironwood chair",
+      "german": "Eisen-Holz-Stuhl",
+      "spanish": "taburete universidad",
+      "spanishUs": "banco universidad",
+      "french": "tabouret en bois de fer",
+      "frenchUs": "tabouret en bois-de-fer",
+      "italian": "sgabello di legno ferro",
+      "dutch": "ijzeren-houten kruk",
+      "chinese": "铸铁木凳",
+      "chineseTraditional": "鑄鐵木椅",
+      "japanese": "アイアンウッドチェア",
+      "korean": "아이언우드 체어",
+      "russian": "табурет из ДСП и стали",
+      "plural": false,
+      "internalIds": [
+        3193
+      ]
+    },
     "materials": {
       "wood": 3,
       "iron nugget": 2
@@ -11345,7 +12702,29 @@
     "serialId": 1002,
     "internalId": 86,
     "uniqueEntryId": "zHZA38BSSukQPvfAx",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03196",
+      "version": "1.0.0",
+      "english": "ironwood dresser",
+      "englishEurope": "ironwood dresser",
+      "german": "Eisen-Holz-Kommode",
+      "spanish": "cómoda universidad",
+      "spanishUs": "cómoda universidad",
+      "french": "commode en bois de fer",
+      "frenchUs": "commode en bois-de-fer",
+      "italian": "comodino di legno ferro",
+      "dutch": "ijzeren-houten ladekast",
+      "chinese": "铸铁木矮柜",
+      "chineseTraditional": "鑄鐵木矮櫃",
+      "japanese": "アイアンウッドチェスト",
+      "korean": "아이언우드 수납장",
+      "russian": "комод из ДСП и стали",
+      "plural": false,
+      "internalIds": [
+        3196
+      ]
+    },
     "materials": {
       "wood": 7,
       "iron nugget": 4
@@ -11602,7 +12981,29 @@
     "serialId": 1701,
     "internalId": 6,
     "uniqueEntryId": "gjc7Wju56JYDhkwvJ",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_02596",
+      "version": "1.0.0",
+      "english": "juicy-apple TV",
+      "englishEurope": "juicy-apple TV",
+      "german": "Apfelfernseher",
+      "spanish": "tele manzana",
+      "spanishUs": "tele manzana",
+      "french": "télé pomme",
+      "frenchUs": "télé pomme",
+      "italian": "TV mela",
+      "dutch": "appel-tv",
+      "chinese": "苹果电视",
+      "chineseTraditional": "蘋果電視",
+      "japanese": "リンゴのテレビ",
+      "korean": "사과 TV",
+      "russian": "телевизор-яблоко",
+      "plural": false,
+      "internalIds": [
+        2596
+      ]
+    },
     "materials": {
       "apple": 10,
       "iron nugget": 2
@@ -11768,7 +13169,29 @@
     "serialId": 913,
     "internalId": 600,
     "uniqueEntryId": "Mmspyi3WpibXgBh2u",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_07535",
+      "version": "1.0.0",
+      "english": "kettlebell",
+      "englishEurope": "kettlebell",
+      "german": "Kugelhantel",
+      "spanish": "pesa rusa",
+      "spanishUs": "pesa rusa",
+      "french": "kettlebell",
+      "frenchUs": "kettlebell",
+      "italian": "kettlebell",
+      "dutch": "kettlebell",
+      "chinese": "壶铃",
+      "chineseTraditional": "壺鈴",
+      "japanese": "ケトルベル",
+      "korean": "케틀벨",
+      "russian": "гиря",
+      "plural": false,
+      "internalIds": [
+        7535
+      ]
+    },
     "materials": {
       "iron nugget": 5
     },
@@ -11837,7 +13260,29 @@
     "serialId": 980,
     "internalId": 641,
     "uniqueEntryId": "3u8tk4SyAemkHTRzz",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Masks",
+      "id": 686,
+      "version": "1.0.0",
+      "english": "knight's helmet",
+      "englishEurope": "knight's helmet",
+      "german": "Ritterhelm",
+      "spanish": "yelmo",
+      "spanishUs": "yelmo",
+      "french": "casque de chevalier",
+      "frenchUs": "casque de chevalier",
+      "italian": "elmo medievale",
+      "dutch": "ridderhelm",
+      "chinese": "铁甲头盔",
+      "chineseTraditional": "鐵甲面罩",
+      "japanese": "アイアンアーマーヘルメット",
+      "korean": "아이언 아머 헬멧",
+      "russian": "рыцарский шлем",
+      "plural": false,
+      "internalIds": [
+        5334
+      ]
+    },
     "materials": {
       "iron nugget": 5
     },
@@ -11880,8 +13325,7 @@
       "russian": "плетеный рюкзак",
       "plural": false,
       "internalIds": [
-        7511,
-        636
+        7511
       ]
     },
     "materials": {
@@ -11954,7 +13398,29 @@
     "serialId": 2136,
     "internalId": 611,
     "uniqueEntryId": "6eBT8zf9Fv2GWbZRk",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03412",
+      "version": "1.0.0",
+      "english": "large cardboard boxes",
+      "englishEurope": "large cardboard boxes",
+      "german": "Umzugskistenset",
+      "spanish": "lote grande de cajas",
+      "spanishUs": "set de cajas grande",
+      "french": "tas de cartons L",
+      "frenchUs": "tas de boîtes G",
+      "italian": "set di scatoloni grandi",
+      "dutch": "grote set kartonnen dozen",
+      "chinese": "搬家纸箱L",
+      "chineseTraditional": "搬家紙箱L",
+      "japanese": "ひっこしダンボールL",
+      "korean": "이삿짐 박스 L",
+      "russian": "картонные коробки L",
+      "plural": false,
+      "internalIds": [
+        3412
+      ]
+    },
     "materials": {
       "cardboard box": 5
     },
@@ -12042,8 +13508,7 @@
       "russian": "листик",
       "plural": false,
       "internalIds": [
-        4682,
-        261
+        4682
       ]
     },
     "materials": {
@@ -12115,7 +13580,29 @@
     "serialId": 1281,
     "internalId": 635,
     "uniqueEntryId": "ng67WBZo7rRfQSWDa",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Masks",
+      "id": 956,
+      "version": "1.0.0",
+      "english": "leaf mask",
+      "englishEurope": "leaf mask",
+      "german": "Blatt-Maske",
+      "spanish": "máscara hoja",
+      "spanishUs": "máscara hoja",
+      "french": "masque feuille",
+      "frenchUs": "masque feuille",
+      "italian": "maschera a foglia",
+      "dutch": "bladmasker",
+      "chinese": "叶子面具",
+      "chineseTraditional": "葉子面具",
+      "japanese": "はっぱのおめん",
+      "korean": "나뭇잎 가면",
+      "russian": "маска-лист",
+      "plural": false,
+      "internalIds": [
+        7291
+      ]
+    },
     "materials": {
       "clump of weeds": 10
     },
@@ -12249,8 +13736,7 @@
       "russian": "наряд «Лиственное яйцо»",
       "plural": false,
       "internalIds": [
-        12451,
-        680
+        12451
       ]
     },
     "materials": {
@@ -12295,8 +13781,7 @@
       "russian": "скорлупа листвен. яйца",
       "plural": false,
       "internalIds": [
-        12441,
-        679
+        12441
       ]
     },
     "materials": {
@@ -12341,7 +13826,6 @@
       "russian": "боты «Лиственное яйцо»",
       "plural": false,
       "internalIds": [
-        681,
         12457
       ]
     },
@@ -12415,7 +13899,29 @@
     "serialId": 2306,
     "internalId": 132,
     "uniqueEntryId": "td7wJhwym4yZKy6tQ",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03774",
+      "version": "1.0.0",
+      "english": "Libra scale",
+      "englishEurope": "Libra scale",
+      "german": "Balkenwaage",
+      "spanish": "balanza Libra",
+      "spanishUs": "balanza Libra",
+      "french": "Balance à plateaux",
+      "frenchUs": "Balance à plateaux",
+      "italian": "pesa oggetti Bilancia",
+      "dutch": "Weegschaal-bascule",
+      "chinese": "天秤",
+      "chineseTraditional": "天秤",
+      "japanese": "リブラのてんびん",
+      "korean": "천칭자리 저울",
+      "russian": "рычажные весы",
+      "plural": false,
+      "internalIds": [
+        3774
+      ]
+    },
     "materials": {
       "star fragment": 3,
       "Libra fragment": 2,
@@ -12505,8 +14011,7 @@
       "russian": "венок из лилий",
       "plural": false,
       "internalIds": [
-        5114,
-        255
+        5114
       ]
     },
     "materials": {
@@ -12580,7 +14085,29 @@
     "serialId": 3677,
     "internalId": 530,
     "uniqueEntryId": "sKXdSX9eDXe7mEpxG",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Tools",
+      "id": "ChangeStick_05094",
+      "version": "1.0.0",
+      "english": "lily wand",
+      "englishEurope": "lily wand",
+      "german": "Lilienstab",
+      "spanish": "varita lirio",
+      "spanishUs": "varita lirio",
+      "french": "baguette lys",
+      "frenchUs": "baguette lys",
+      "italian": "bacchetta giglio",
+      "dutch": "leliestaf",
+      "chinese": "百合棒",
+      "chineseTraditional": "百合棒",
+      "japanese": "ユリのステッキ",
+      "korean": "백합 지팡이",
+      "russian": "палочка с лилией",
+      "plural": false,
+      "internalIds": [
+        5094
+      ]
+    },
     "materials": {
       "white lilies": 1,
       "star fragment": 3
@@ -12991,8 +14518,7 @@
       "russian": "вязанка дров",
       "plural": false,
       "internalIds": [
-        7498,
-        638
+        7498
       ]
     },
     "materials": {
@@ -13221,8 +14747,7 @@
       "russian": "чудный венок из космей",
       "plural": false,
       "internalIds": [
-        5109,
-        250
+        5109
       ]
     },
     "materials": {
@@ -13589,8 +15114,7 @@
       "russian": "сумочка «Кленовый лист»",
       "plural": false,
       "internalIds": [
-        7491,
-        631
+        7491
       ]
     },
     "materials": {
@@ -13797,7 +15321,29 @@
     "serialId": 2135,
     "internalId": 610,
     "uniqueEntryId": "Q9uBnt9n4okWbCgvg",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03411",
+      "version": "1.0.0",
+      "english": "medium cardboard boxes",
+      "englishEurope": "medium cardboard boxes",
+      "german": "Umzugskistenset",
+      "spanish": "lote mediano de cajas",
+      "spanishUs": "set de cajas mediano",
+      "french": "tas de cartons M",
+      "frenchUs": "tas de boîtes M",
+      "italian": "set di scatoloni medi",
+      "dutch": "set kartonnen dozen",
+      "chinese": "搬家纸箱M",
+      "chineseTraditional": "搬家紙箱M",
+      "japanese": "ひっこしダンボールM",
+      "korean": "이삿짐 박스 M",
+      "russian": "картонные коробки M",
+      "plural": false,
+      "internalIds": [
+        3411
+      ]
+    },
     "materials": {
       "cardboard box": 4
     },
@@ -14005,7 +15551,29 @@
     "serialId": 2202,
     "internalId": 234,
     "uniqueEntryId": "5GevvAMTu6Lf7ueyE",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01054",
+      "version": "1.0.0",
+      "english": "moon",
+      "englishEurope": "moon",
+      "german": "Mond",
+      "spanish": "Luna",
+      "spanishUs": "Luna",
+      "french": "lune",
+      "frenchUs": "lune",
+      "italian": "luna",
+      "dutch": "maan",
+      "chinese": "月亮",
+      "chineseTraditional": "月亮",
+      "japanese": "つき",
+      "korean": "달",
+      "russian": "луна",
+      "plural": false,
+      "internalIds": [
+        1054
+      ]
+    },
     "materials": {
       "star fragment": 15,
       "large star fragment": 1
@@ -14029,7 +15597,29 @@
     "serialId": 807,
     "internalId": 647,
     "uniqueEntryId": "Fn45YxZCtsHx5u3t2",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_12208",
+      "version": "1.0.0",
+      "english": "mossy garden rock",
+      "englishEurope": "mossy garden rock",
+      "german": "Moos-Gartenstein",
+      "spanish": "roca con musgo",
+      "spanishUs": "roca con musgo",
+      "french": "pierre de jardin moussue",
+      "frenchUs": "pierre de jardin moussue",
+      "italian": "pietra giardino muschiosa",
+      "dutch": "bemoste tuinrots",
+      "chinese": "青苔庭院石",
+      "chineseTraditional": "青苔庭園石",
+      "japanese": "こけむしたにわいし",
+      "korean": "이끼 낀 바위",
+      "russian": "садовый камень с мхом",
+      "plural": false,
+      "internalIds": [
+        12208
+      ]
+    },
     "materials": {
       "stone": 15,
       "clump of weeds": 15
@@ -14053,7 +15643,29 @@
     "serialId": 380,
     "internalId": 584,
     "uniqueEntryId": "zAFMi693PuR7nPnMs",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00532",
+      "version": "1.0.0",
+      "english": "mountain standee",
+      "englishEurope": "mountain standee",
+      "german": "Papphügel",
+      "spanish": "montaña de atrezo",
+      "spanishUs": "colina de utilería",
+      "french": "colline en carton",
+      "frenchUs": "colline en carton",
+      "italian": "sagoma di collina",
+      "dutch": "decoratieberg",
+      "chinese": "假山道具",
+      "chineseTraditional": "假山道具",
+      "japanese": "ハリボテのやま",
+      "korean": "연극용 산",
+      "russian": "бутафорские горы",
+      "plural": false,
+      "internalIds": [
+        532
+      ]
+    },
     "materials": {
       "wood": 4,
       "softwood": 5
@@ -14097,8 +15709,7 @@
       "russian": "фиол. венок из хризантем",
       "plural": false,
       "internalIds": [
-        5117,
-        258
+        5117
       ]
     },
     "materials": {
@@ -14219,7 +15830,29 @@
     "serialId": 3671,
     "internalId": 531,
     "uniqueEntryId": "jbWRPr9kP6jXS3SLW",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Tools",
+      "id": "ChangeStick_05095",
+      "version": "1.0.0",
+      "english": "mums wand",
+      "englishEurope": "mums wand",
+      "german": "Chrysanthemenstab",
+      "spanish": "varita crisantemo",
+      "spanishUs": "varita crisantemo",
+      "french": "baguette chrysanthème",
+      "frenchUs": "baguette chrysanthème",
+      "italian": "bacchetta crisantemo",
+      "dutch": "chrysantenstaf",
+      "chinese": "菊花棒",
+      "chineseTraditional": "菊花棒",
+      "japanese": "キクのステッキ",
+      "korean": "국화 지팡이",
+      "russian": "палочка с хризантемой",
+      "plural": false,
+      "internalIds": [
+        5095
+      ]
+    },
     "materials": {
       "yellow mums": 1,
       "star fragment": 3
@@ -14335,7 +15968,29 @@
     "serialId": 3000,
     "internalId": 220,
     "uniqueEntryId": "RZwmANPWaM7jntL5R",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04708",
+      "version": "1.0.0",
+      "english": "mush low stool",
+      "englishEurope": "mush low stool",
+      "german": "Pilzschemel",
+      "spanish": "banqueta hongo",
+      "spanishUs": "banqueta hongo",
+      "french": "tabouret bas champi",
+      "frenchUs": "tabouret bas champi",
+      "italian": "mini sgabello fungo",
+      "dutch": "paddenstoelkruk",
+      "chinese": "蘑菇凳子",
+      "chineseTraditional": "蘑菇凳子",
+      "japanese": "キノコのスツール",
+      "korean": "버섯 스툴",
+      "russian": "табуретка-гриб",
+      "plural": false,
+      "internalIds": [
+        4708
+      ]
+    },
     "materials": {
       "round mushroom": 2
     },
@@ -14448,7 +16103,29 @@
     "serialId": 3003,
     "internalId": 32,
     "uniqueEntryId": "cECL9PSx9yNfPWNvW",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00808",
+      "version": "1.0.0",
+      "english": "mush table",
+      "englishEurope": "mush table",
+      "german": "Pilztisch",
+      "spanish": "mesa hongo",
+      "spanishUs": "mesa hongo",
+      "french": "table champi",
+      "frenchUs": "table champi",
+      "italian": "tavolo fungo",
+      "dutch": "paddenstoeltafel",
+      "chinese": "蘑菇桌",
+      "chineseTraditional": "蘑菇桌",
+      "japanese": "キノコのテーブル",
+      "korean": "버섯 테이블",
+      "russian": "гриб-стол",
+      "plural": false,
+      "internalIds": [
+        808
+      ]
+    },
     "materials": {
       "flat mushroom": 2,
       "wood": 6
@@ -14472,7 +16149,29 @@
     "serialId": 3080,
     "internalId": 648,
     "uniqueEntryId": "PT3wRG87hdFbt8kgG",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Umbrella",
+      "id": "Umbrella_07174",
+      "version": "1.0.0",
+      "english": "mush umbrella",
+      "englishEurope": "mush umbrella",
+      "german": "Pilzregenschirm",
+      "spanish": "parasol seta",
+      "spanishUs": "parasol hongo",
+      "french": "parapluie champi",
+      "frenchUs": "parapluie champignon",
+      "italian": "ombrello fungo",
+      "dutch": "paddenstoelparaplu",
+      "chinese": "蘑菇雨伞",
+      "chineseTraditional": "蘑菇雨傘",
+      "japanese": "キノコのかさ",
+      "korean": "버섯 우산",
+      "russian": "зонт-гриб",
+      "plural": false,
+      "internalIds": [
+        7174
+      ]
+    },
     "materials": {
       "flat mushroom": 3
     },
@@ -14682,7 +16381,29 @@
     "serialId": 373,
     "internalId": 80,
     "uniqueEntryId": "jaDD9msGTLXHRu2cB",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_02586",
+      "version": "1.0.0",
+      "english": "natural garden chair",
+      "englishEurope": "natural garden chair",
+      "german": "Funktional-Gartenstuhl",
+      "spanish": "silla de madera natural",
+      "spanishUs": "silla de madera natural",
+      "french": "chaise de jardin naturelle",
+      "frenchUs": "chaise de jardin naturelle",
+      "italian": "sedia naturale da giardino",
+      "dutch": "natuurlijke tuinstoel",
+      "chinese": "自然风花园椅",
+      "chineseTraditional": "自然風花園椅",
+      "japanese": "ナチュラルなガーデンチェア",
+      "korean": "내추럴 가든 체어",
+      "russian": "обычный садовый стул",
+      "plural": false,
+      "internalIds": [
+        2586
+      ]
+    },
     "materials": {
       "hardwood": 6,
       "iron nugget": 2
@@ -14707,7 +16428,29 @@
     "serialId": 375,
     "internalId": 224,
     "uniqueEntryId": "gRf7qMpExewtthEWH",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03396",
+      "version": "1.0.0",
+      "english": "natural garden table",
+      "englishEurope": "natural garden table",
+      "german": "Funktional-Gartentisch",
+      "spanish": "mesa de madera natural",
+      "spanishUs": "mesa de madera natural",
+      "french": "table de jardin naturelle",
+      "frenchUs": "table de jardin naturelle",
+      "italian": "tavolo naturale da giardino",
+      "dutch": "natuurlijke tuintafel",
+      "chinese": "自然风花园桌",
+      "chineseTraditional": "自然風花園桌",
+      "japanese": "ナチュラルなガーデンテーブル",
+      "korean": "내추럴 가든 테이블",
+      "russian": "обычный садовый стол",
+      "plural": false,
+      "internalIds": [
+        3396
+      ]
+    },
     "materials": {
       "hardwood": 9,
       "iron nugget": 3
@@ -14914,7 +16657,29 @@
     "serialId": 133,
     "internalId": 218,
     "uniqueEntryId": "QzhL3j8Tgv2cNDZQe",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "ETC",
+      "id": "Ocarina_05320",
+      "version": "1.0.0",
+      "english": "ocarina",
+      "englishEurope": "ocarina",
+      "german": "Okarina",
+      "spanish": "ocarina",
+      "spanishUs": "ocarina",
+      "french": "ocarina",
+      "frenchUs": "ocarina",
+      "italian": "ocarina",
+      "dutch": "ocarina",
+      "chinese": "陶笛",
+      "chineseTraditional": "陶笛",
+      "japanese": "オカリナ",
+      "korean": "오카리나",
+      "russian": "окарина",
+      "plural": false,
+      "internalIds": [
+        5320
+      ]
+    },
     "materials": {
       "clay": 5
     },
@@ -14984,7 +16749,29 @@
     "serialId": 464,
     "internalId": 195,
     "uniqueEntryId": "ebzFXSHFr3vGLoDSb",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04393",
+      "version": "1.0.0",
+      "english": "old-fashioned washtub",
+      "englishEurope": "old-fashioned washtub",
+      "german": "Waschbottich",
+      "spanish": "palangana tradicional",
+      "spanishUs": "palangana tradicional",
+      "french": "baquet à lessive",
+      "frenchUs": "baquet à lessive",
+      "italian": "tinozza da bucato",
+      "dutch": "wastobbe",
+      "chinese": "洗衣盆",
+      "chineseTraditional": "洗衣盆",
+      "japanese": "せんたくおけ",
+      "korean": "빨랫대야",
+      "russian": "чан для стирки",
+      "plural": false,
+      "internalIds": [
+        4393
+      ]
+    },
     "materials": {
       "softwood": 3
     },
@@ -15007,7 +16794,29 @@
     "serialId": 1382,
     "internalId": 626,
     "uniqueEntryId": "kdDWtuakgMkxF8ohK",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Dresses",
+      "id": 115,
+      "version": "1.0.0",
+      "english": "orange dress",
+      "englishEurope": "orange dress",
+      "german": "Orangenkleid",
+      "spanish": "vestido naranja",
+      "spanishUs": "vestido naranja",
+      "french": "robe orange",
+      "frenchUs": "robe orange",
+      "italian": "vestito arancia",
+      "dutch": "sinaasappeljurk",
+      "chinese": "橘子服",
+      "chineseTraditional": "夏蜜柑服",
+      "japanese": "オレンジのふく",
+      "korean": "오렌지 옷",
+      "russian": "платье «Апельсин»",
+      "plural": false,
+      "internalIds": [
+        3288
+      ]
+    },
     "materials": {
       "orange": 8
     },
@@ -15030,7 +16839,29 @@
     "serialId": 1300,
     "internalId": 185,
     "uniqueEntryId": "XsnyjhPAFhghBQj7r",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03975",
+      "version": "1.0.0",
+      "english": "orange end table",
+      "englishEurope": "orange end table",
+      "german": "Orange-Tischchen",
+      "spanish": "mesa auxiliar naranja",
+      "spanishUs": "mesa auxiliar naranja",
+      "french": "guéridon orange",
+      "frenchUs": "guéridon orange",
+      "italian": "tavolino arancia",
+      "dutch": "sinaasappeltafeltje",
+      "chinese": "橘子边桌",
+      "chineseTraditional": "橘子邊桌",
+      "japanese": "オレンジのサイドテーブル",
+      "korean": "오렌지 사이드 테이블",
+      "russian": "столик-апельсин",
+      "plural": false,
+      "internalIds": [
+        3975
+      ]
+    },
     "materials": {
       "orange": 10,
       "wood": 4
@@ -15055,7 +16886,29 @@
     "serialId": 1381,
     "internalId": 624,
     "uniqueEntryId": "yqpHcrzwzywbANi6S",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Caps",
+      "id": 637,
+      "version": "1.0.0",
+      "english": "orange hat",
+      "englishEurope": "orange hat",
+      "german": "Orangenhut",
+      "spanish": "gorro naranja",
+      "spanishUs": "gorro naranja",
+      "french": "chapeau orange",
+      "frenchUs": "chapeau orange",
+      "italian": "cappello arancia",
+      "dutch": "sinaasappelmuts",
+      "chinese": "橘子帽子",
+      "chineseTraditional": "夏蜜柑帽子",
+      "japanese": "オレンジのぼうし",
+      "korean": "귤 모자",
+      "russian": "шапка-апельсин",
+      "plural": false,
+      "internalIds": [
+        5275
+      ]
+    },
     "materials": {
       "orange": 5
     },
@@ -15123,7 +16976,29 @@
     "serialId": 1380,
     "internalId": 625,
     "uniqueEntryId": "ZFxY5TXjBeThpDkjy",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Umbrella",
+      "id": "Umbrella_06912",
+      "version": "1.0.0",
+      "english": "orange umbrella",
+      "englishEurope": "orange umbrella",
+      "german": "Orangenschirm",
+      "spanish": "paraguas naranja",
+      "spanishUs": "paraguas naranja",
+      "french": "parapluie orange",
+      "frenchUs": "parapluie orange",
+      "italian": "ombrello arancia",
+      "dutch": "sinaasappelparaplu",
+      "chinese": "橘子雨伞",
+      "chineseTraditional": "橘子雨傘",
+      "japanese": "オレンジのかさ",
+      "korean": "오렌지 우산",
+      "russian": "апельсиновый зонт",
+      "plural": false,
+      "internalIds": [
+        6912
+      ]
+    },
     "materials": {
       "orange": 7
     },
@@ -15146,7 +17021,29 @@
     "serialId": 1350,
     "internalId": 303,
     "uniqueEntryId": "8rnfwGyLMaw5FTMQb",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Walls",
+      "id": "RoomWall_04915",
+      "version": "1.0.0",
+      "english": "orange wall",
+      "englishEurope": "orange wall",
+      "german": "Orangentapete",
+      "spanish": "pared naranjas",
+      "spanishUs": "pared naranjas",
+      "french": "mur oranges",
+      "frenchUs": "mur oranges",
+      "italian": "muro arance",
+      "dutch": "sinaasappelwand",
+      "chinese": "橘子壁纸",
+      "chineseTraditional": "橘子壁紙",
+      "japanese": "オレンジのかべがみ",
+      "korean": "오렌지 벽지",
+      "russian": "стена с апельсинами",
+      "plural": false,
+      "internalIds": [
+        4915
+      ]
+    },
     "materials": {
       "orange": 20
     },
@@ -15169,7 +17066,29 @@
     "serialId": 1330,
     "internalId": 184,
     "uniqueEntryId": "rJaAL5N8CQQ5dPd9y",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03976",
+      "version": "1.0.0",
+      "english": "orange wall-mounted clock",
+      "englishEurope": "orange wall-mounted clock",
+      "german": "Orange-Wanduhr",
+      "spanish": "reloj de pared naranja",
+      "spanishUs": "reloj de pared naranja",
+      "french": "horloge murale orange",
+      "frenchUs": "horloge murale orange",
+      "italian": "orologio da muro arancia",
+      "dutch": "sinaasappelwandklok",
+      "chinese": "橘子壁挂钟",
+      "chineseTraditional": "橘子壁掛鐘",
+      "japanese": "オレンジのかべかけどけい",
+      "korean": "오렌지 벽시계",
+      "russian": "часы-апельсин",
+      "plural": false,
+      "internalIds": [
+        3976
+      ]
+    },
     "materials": {
       "orange": 10,
       "wood": 2
@@ -15242,7 +17161,29 @@
     "serialId": 3440,
     "internalId": 226,
     "uniqueEntryId": "rLcgugWkG2sntC7Lh",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Doorplates",
+      "id": "DoorDeco_04377",
+      "version": "1.0.0",
+      "english": "ornament wreath",
+      "englishEurope": "ornament wreath",
+      "german": "Dekotürkranz",
+      "spanish": "corona bolas decorativas",
+      "spanishUs": "corona decorativa",
+      "french": "couronne décorative",
+      "frenchUs": "couronne décorative",
+      "italian": "ghirlanda con palline",
+      "dutch": "feestelijke krans",
+      "chinese": "装饰花环",
+      "chineseTraditional": "裝飾花圈",
+      "japanese": "オーナメントのリース",
+      "korean": "오너먼트 리스",
+      "russian": "праздничный венок",
+      "plural": false,
+      "internalIds": [
+        4377
+      ]
+    },
     "materials": {
       "blue ornament": 6,
       "gold ornament": 2
@@ -15470,8 +17411,7 @@
       "russian": "венок из фиалок",
       "plural": false,
       "internalIds": [
-        5105,
-        246
+        5105
       ]
     },
     "materials": {
@@ -15730,7 +17670,29 @@
     "serialId": 1582,
     "internalId": 618,
     "uniqueEntryId": "zmPZEvBG6yYGmeFBx",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Dresses",
+      "id": 1090,
+      "version": "1.0.0",
+      "english": "peach dress",
+      "englishEurope": "peach dress",
+      "german": "Pfirsichkleid",
+      "spanish": "vestido melocotón",
+      "spanishUs": "vestido durazno",
+      "french": "robe pêche",
+      "frenchUs": "robe pêche",
+      "italian": "vestito pesca",
+      "dutch": "perzikjurk",
+      "chinese": "桃子服",
+      "chineseTraditional": "桃子服",
+      "japanese": "モモのふく",
+      "korean": "복숭아 옷",
+      "russian": "платье «Персик»",
+      "plural": false,
+      "internalIds": [
+        9839
+      ]
+    },
     "materials": {
       "peach": 8
     },
@@ -15753,7 +17715,29 @@
     "serialId": 1581,
     "internalId": 619,
     "uniqueEntryId": "iSQTJwDAeiFowjbt5",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Caps",
+      "id": 1125,
+      "version": "1.0.0",
+      "english": "peach hat",
+      "englishEurope": "peach hat",
+      "german": "Pfirsichhut",
+      "spanish": "gorro melocotón",
+      "spanishUs": "gorro durazno",
+      "french": "chapeau pêche",
+      "frenchUs": "chapeau pêche",
+      "italian": "berretto pesca",
+      "dutch": "perzikmuts",
+      "chinese": "桃子帽子",
+      "chineseTraditional": "桃子帽子",
+      "japanese": "モモのぼうし",
+      "korean": "복숭아 모자",
+      "russian": "шапка-персик",
+      "plural": false,
+      "internalIds": [
+        9874
+      ]
+    },
     "materials": {
       "peach": 5
     },
@@ -15821,7 +17805,29 @@
     "serialId": 1501,
     "internalId": 188,
     "uniqueEntryId": "47GdZP9FTse2XqXCv",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04128",
+      "version": "1.0.0",
+      "english": "peach surprise box",
+      "englishEurope": "peach surprise box",
+      "german": "Überraschungspfirsich",
+      "spanish": "caja sorpresa melocotón",
+      "spanishUs": "caja sorpresa durazno",
+      "french": "boîte à malice pêche",
+      "frenchUs": "boîte à malice pêche",
+      "italian": "scatola a sorpresa pesca",
+      "dutch": "verrassingsperzik",
+      "chinese": "桃子惊吓箱",
+      "chineseTraditional": "桃子驚嚇箱",
+      "japanese": "モモのビックリばこ",
+      "korean": "복숭아 깜짝 상자",
+      "russian": "шкатулка-персик",
+      "plural": false,
+      "internalIds": [
+        4128
+      ]
+    },
     "materials": {
       "peach": 10,
       "softwood": 4
@@ -15846,7 +17852,29 @@
     "serialId": 1580,
     "internalId": 620,
     "uniqueEntryId": "bpoAgczMK3d6dmtte",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Umbrella",
+      "id": "Umbrella_09947",
+      "version": "1.0.0",
+      "english": "peach umbrella",
+      "englishEurope": "peach umbrella",
+      "german": "Pfirsichschirm",
+      "spanish": "paraguas melocotón",
+      "spanishUs": "paraguas durazno",
+      "french": "parapluie pêche",
+      "frenchUs": "parapluie pêche",
+      "italian": "ombrello pesca",
+      "dutch": "perzikparaplu",
+      "chinese": "桃子雨伞",
+      "chineseTraditional": "桃子雨傘",
+      "japanese": "モモのかさ",
+      "korean": "복숭아 우산",
+      "russian": "персиковый зонт",
+      "plural": false,
+      "internalIds": [
+        9947
+      ]
+    },
     "materials": {
       "peach": 7
     },
@@ -15961,7 +17989,29 @@
     "serialId": 1682,
     "internalId": 615,
     "uniqueEntryId": "Gc8pnkWgCZcMbeJnk",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Dresses",
+      "id": 1088,
+      "version": "1.0.0",
+      "english": "pear dress",
+      "englishEurope": "pear dress",
+      "german": "Birnenkleid",
+      "spanish": "vestido pera",
+      "spanishUs": "vestido pera",
+      "french": "robe poire",
+      "frenchUs": "robe poire",
+      "italian": "vestito pera",
+      "dutch": "perenjurk",
+      "chinese": "梨子服",
+      "chineseTraditional": "梨子服",
+      "japanese": "ナシのふく",
+      "korean": "배 옷",
+      "russian": "платье «Груша»",
+      "plural": false,
+      "internalIds": [
+        9837
+      ]
+    },
     "materials": {
       "pear": 8
     },
@@ -15984,7 +18034,29 @@
     "serialId": 1681,
     "internalId": 616,
     "uniqueEntryId": "u6hqbCNXEpdwk5TyW",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Caps",
+      "id": 1123,
+      "version": "1.0.0",
+      "english": "pear hat",
+      "englishEurope": "pear hat",
+      "german": "Birnenhut",
+      "spanish": "gorro pera",
+      "spanishUs": "gorro pera",
+      "french": "chapeau poire",
+      "frenchUs": "chapeau poire",
+      "italian": "berretto pera",
+      "dutch": "perenmuts",
+      "chinese": "梨子帽子",
+      "chineseTraditional": "梨子帽子",
+      "japanese": "ナシのぼうし",
+      "korean": "배 모자",
+      "russian": "шапка-груша",
+      "plural": false,
+      "internalIds": [
+        9872
+      ]
+    },
     "materials": {
       "pear": 5
     },
@@ -16007,7 +18079,29 @@
     "serialId": 1670,
     "internalId": 546,
     "uniqueEntryId": "eEcepcMqPiijQzjta",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Rugs",
+      "id": "Rug_07332",
+      "version": "1.0.0",
+      "english": "pear rug",
+      "englishEurope": "pear rug",
+      "german": "Birnen-Teppich",
+      "spanish": "alfombra pera",
+      "spanishUs": "alfombra pera",
+      "french": "tapis poire",
+      "frenchUs": "tapis poire",
+      "italian": "tappeto pera",
+      "dutch": "peertapijt",
+      "chinese": "梨子地毯",
+      "chineseTraditional": "梨子地毯",
+      "japanese": "ナシのラグ",
+      "korean": "배 러그",
+      "russian": "ковер-груша",
+      "plural": false,
+      "internalIds": [
+        7332
+      ]
+    },
     "materials": {
       "pear": 6
     },
@@ -16030,7 +18124,29 @@
     "serialId": 1680,
     "internalId": 617,
     "uniqueEntryId": "Z4yN2HWQNGM9HYBZo",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Umbrella",
+      "id": "Umbrella_09950",
+      "version": "1.0.0",
+      "english": "pear umbrella",
+      "englishEurope": "pear umbrella",
+      "german": "Birnenschirm",
+      "spanish": "paraguas pera",
+      "spanishUs": "paraguas pera",
+      "french": "parapluie poire",
+      "frenchUs": "parapluie poire",
+      "italian": "ombrello pera",
+      "dutch": "perenparaplu",
+      "chinese": "梨子雨伞",
+      "chineseTraditional": "梨子雨傘",
+      "japanese": "ナシのかさ",
+      "korean": "배 우산",
+      "russian": "грушевый зонт",
+      "plural": false,
+      "internalIds": [
+        9950
+      ]
+    },
     "materials": {
       "pear": 7
     },
@@ -16098,7 +18214,29 @@
     "serialId": 1600,
     "internalId": 9,
     "uniqueEntryId": "ruECmxoLmFHpjeKau",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01263",
+      "version": "1.0.0",
+      "english": "pear wardrobe",
+      "englishEurope": "pear wardrobe",
+      "german": "Birnenschrank",
+      "spanish": "armario pera",
+      "spanishUs": "armario pera",
+      "french": "armoire poire",
+      "frenchUs": "armoire poire",
+      "italian": "armadio pera",
+      "dutch": "perenkast",
+      "chinese": "梨子衣柜",
+      "chineseTraditional": "梨子衣櫃",
+      "japanese": "ナシのクロゼット",
+      "korean": "배 옷장",
+      "russian": "шкаф-груша",
+      "plural": false,
+      "internalIds": [
+        1263
+      ]
+    },
     "materials": {
       "pear": 10,
       "wood": 5
@@ -16123,7 +18261,29 @@
     "serialId": 2902,
     "internalId": 586,
     "uniqueEntryId": "4DfamX3gvgQKPaGYi",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01023",
+      "version": "1.0.0",
+      "english": "pile of leaves",
+      "englishEurope": "pile of leaves",
+      "german": "Laubhaufen",
+      "spanish": "montón de hojas",
+      "spanishUs": "montón de hojas",
+      "french": "tas de feuilles",
+      "frenchUs": "tas de feuilles",
+      "italian": "mucchio di foglie",
+      "dutch": "berg bladeren",
+      "chinese": "落叶",
+      "chineseTraditional": "落葉",
+      "japanese": "おちば",
+      "korean": "낙엽",
+      "russian": "куча листьев",
+      "plural": false,
+      "internalIds": [
+        1023
+      ]
+    },
     "materials": {
       "pine cone": 3,
       "clump of weeds": 5
@@ -16192,7 +18352,29 @@
     "serialId": 2910,
     "internalId": 592,
     "uniqueEntryId": "ifZ8RQ4kxXgJawABR",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03802",
+      "version": "1.0.0",
+      "english": "pine bonsai tree",
+      "englishEurope": "pine bonsai tree",
+      "german": "Kiefern-Bonsai",
+      "spanish": "conífera bonsái",
+      "spanishUs": "conífera bonsái",
+      "french": "bonsaï pin japonais",
+      "frenchUs": "bonsaï pin japonais",
+      "italian": "bonsai conifera",
+      "dutch": "bonsai-dennenboom",
+      "chinese": "松树盆栽",
+      "chineseTraditional": "松樹盆栽",
+      "japanese": "マツのぼんさい",
+      "korean": "소나무 분재",
+      "russian": "бонсай из сосны",
+      "plural": false,
+      "internalIds": [
+        3802
+      ]
+    },
     "materials": {
       "pine cone": 8,
       "clay": 5
@@ -16493,7 +18675,29 @@
     "serialId": 1231,
     "internalId": 214,
     "uniqueEntryId": "PRZpskqoyoPoT6g3c",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03785",
+      "version": "1.0.0",
+      "english": "potted ivy",
+      "englishEurope": "potted ivy",
+      "german": "Efeu-Topfpflanze",
+      "spanish": "maceta con hiedra",
+      "spanishUs": "maceta con hiedra",
+      "french": "lierre en pot",
+      "frenchUs": "lierre en pot",
+      "italian": "edera in vaso",
+      "dutch": "klimop in pot",
+      "chinese": "壁挂式盆栽",
+      "chineseTraditional": "壁掛式盆栽",
+      "japanese": "かべかけのはっぱ",
+      "korean": "벽걸이 식물",
+      "russian": "плющ в горшке",
+      "plural": false,
+      "internalIds": [
+        3785
+      ]
+    },
     "materials": {
       "clump of weeds": 5,
       "clay": 5
@@ -16631,8 +18835,7 @@
       "russian": "фиол. венок из гиацинтов",
       "plural": false,
       "internalIds": [
-        5098,
-        239
+        5098
       ]
     },
     "materials": {
@@ -16722,8 +18925,7 @@
       "russian": "фиол. венок из фиалок",
       "plural": false,
       "internalIds": [
-        5107,
-        248
+        5107
       ]
     },
     "materials": {
@@ -16768,8 +18970,7 @@
       "russian": "фиол. венок из ветрениц",
       "plural": false,
       "internalIds": [
-        5101,
-        242
+        5101
       ]
     },
     "materials": {
@@ -16839,7 +19040,29 @@
     "serialId": 690,
     "internalId": 664,
     "uniqueEntryId": "yqYz3fPAdv4nDcv9X",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Shoes",
+      "id": 1191,
+      "version": "1.0.0",
+      "english": "recycled boots",
+      "englishEurope": "recycled boots",
+      "german": "Paar Recyclingstiefel",
+      "spanish": "bota reciclada",
+      "spanishUs": "bota reciclada",
+      "french": "paire de bottes recyclées",
+      "frenchUs": "paire de bottes recyclées",
+      "italian": "paio di stivali riciclati",
+      "dutch": "hergebruikte laarzen",
+      "chinese": "回收长靴",
+      "chineseTraditional": "舊長靴",
+      "japanese": "リサイクルながぐつ",
+      "korean": "재활용 장화",
+      "russian": "сапоги из утиль-сырья",
+      "plural": false,
+      "internalIds": [
+        12326
+      ]
+    },
     "materials": {
       "boot": 2
     },
@@ -17002,7 +19225,29 @@
     "serialId": 2228,
     "internalId": 594,
     "uniqueEntryId": "4AjeuiarF5T2AAKSG",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01509",
+      "version": "1.0.0",
+      "english": "robot hero",
+      "englishEurope": "robot hero",
+      "german": "Heldenroboter",
+      "spanish": "robot gigante",
+      "spanishUs": "robot gigante",
+      "french": "robot géant",
+      "frenchUs": "robot géant",
+      "italian": "eroe robot",
+      "dutch": "robotheld",
+      "chinese": "英雄机器人",
+      "chineseTraditional": "英雄機器人",
+      "japanese": "ヒーローロボ",
+      "korean": "히어로 로봇",
+      "russian": "робот-герой",
+      "plural": false,
+      "internalIds": [
+        1509
+      ]
+    },
     "materials": {
       "rocket": 1,
       "gold armor": 1,
@@ -17277,8 +19522,7 @@
       "russian": "венок из роз",
       "plural": false,
       "internalIds": [
-        5111,
-        252
+        5111
       ]
     },
     "materials": {
@@ -17492,7 +19736,29 @@
     "serialId": 2661,
     "internalId": 649,
     "uniqueEntryId": "fPZCc3qyHmip4YE4o",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Floors",
+      "id": "RoomFloor_05056",
+      "version": "1.0.0",
+      "english": "sakura-wood flooring",
+      "englishEurope": "sakura-wood flooring",
+      "german": "Kirschholzboden",
+      "spanish": "parqué cerezo",
+      "spanishUs": "parquet cerezo",
+      "french": "sol bois sakura",
+      "frenchUs": "sol bois sakura",
+      "italian": "pavimento legno rosa",
+      "dutch": "kersenbloesemroze vloer",
+      "chinese": "粉红色木地板",
+      "chineseTraditional": "櫻花木地板",
+      "japanese": "さくらのウッドフローリング",
+      "korean": "벚꽃색 우드 바닥",
+      "russian": "пол из вишневого дерева",
+      "plural": false,
+      "internalIds": [
+        5056
+      ]
+    },
     "materials": {
       "cherry-blossom petal": 5,
       "wood": 10
@@ -17562,7 +19828,29 @@
     "serialId": 2760,
     "internalId": 669,
     "uniqueEntryId": "39nh7pMHJthnDFjYE",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Floors",
+      "id": "RoomFloor_04970",
+      "version": "1.0.0",
+      "english": "sandy-beach flooring",
+      "englishEurope": "sandy-beach flooring",
+      "german": "Sandboden",
+      "spanish": "suelo playa tropical",
+      "spanishUs": "suelo tropical",
+      "french": "sol plage de sable",
+      "frenchUs": "sol plage de sable",
+      "italian": "pavimento spiaggia",
+      "dutch": "zandstrandvloer",
+      "chinese": "沙滩地板",
+      "chineseTraditional": "沙灘地板",
+      "japanese": "すなはまのゆか",
+      "korean": "모래사장 바닥",
+      "russian": "пляжный пол",
+      "plural": false,
+      "internalIds": [
+        4970
+      ]
+    },
     "materials": {
       "sea snail": 1,
       "venus comb": 1,
@@ -17964,7 +20252,29 @@
     "serialId": 2703,
     "internalId": 181,
     "uniqueEntryId": "PQaCd4ohLujJeKoLQ",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03983",
+      "version": "1.0.0",
+      "english": "shell bed",
+      "englishEurope": "shell bed",
+      "german": "Muschelbett",
+      "spanish": "cama conchas marinas",
+      "spanishUs": "cama caracolas",
+      "french": "lit coquillages",
+      "frenchUs": "lit coquillage",
+      "italian": "letto conchiglia",
+      "dutch": "schelpenbed",
+      "chinese": "贝壳床铺",
+      "chineseTraditional": "貝殼床鋪",
+      "japanese": "かいがらのベッド",
+      "korean": "조개 침대",
+      "russian": "кровать из ракушки",
+      "plural": false,
+      "internalIds": [
+        3983
+      ]
+    },
     "materials": {
       "giant clam": 5,
       "clay": 3,
@@ -17989,7 +20299,29 @@
     "serialId": 2701,
     "internalId": 180,
     "uniqueEntryId": "FQcXcbtASXK7kdQ9Q",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03982",
+      "version": "1.0.0",
+      "english": "shell fountain",
+      "englishEurope": "shell fountain",
+      "german": "Muschel-Springbrunnen",
+      "spanish": "fuente conchas marinas",
+      "spanishUs": "fuente caracolas",
+      "french": "fontaine coquillages",
+      "frenchUs": "fontaine coquillage",
+      "italian": "fontana conchiglia",
+      "dutch": "schelpenfontein",
+      "chinese": "贝壳喷泉",
+      "chineseTraditional": "貝殼噴泉",
+      "japanese": "かいがらのふんすい",
+      "korean": "조개 분수",
+      "russian": "фонтан из ракушек",
+      "plural": false,
+      "internalIds": [
+        3982
+      ]
+    },
     "materials": {
       "giant clam": 5,
       "stone": 3
@@ -18013,7 +20345,29 @@
     "serialId": 2706,
     "internalId": 182,
     "uniqueEntryId": "27oeQoY4DhhmPaEWS",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03984",
+      "version": "1.0.0",
+      "english": "shell lamp",
+      "englishEurope": "shell lamp",
+      "german": "Muschellampe",
+      "spanish": "lamparita conchas marinas",
+      "spanishUs": "lamparita caracolas",
+      "french": "lampe coquillages",
+      "frenchUs": "lampe coquillage",
+      "italian": "lampada conchiglia",
+      "dutch": "schelpenlamp",
+      "chinese": "贝壳灯",
+      "chineseTraditional": "貝殼燈",
+      "japanese": "かいがらのランプ",
+      "korean": "조개 램프",
+      "russian": "лампа из ракушки",
+      "plural": false,
+      "internalIds": [
+        3984
+      ]
+    },
     "materials": {
       "giant clam": 2,
       "clay": 3
@@ -18174,7 +20528,29 @@
     "serialId": 2700,
     "internalId": 177,
     "uniqueEntryId": "f4wdMHhuARgmQfdnB",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03979",
+      "version": "1.0.0",
+      "english": "shell stool",
+      "englishEurope": "shell stool",
+      "german": "Muschelhocker",
+      "spanish": "taburete conchas marinas",
+      "spanishUs": "taburete caracola",
+      "french": "siège coquillages",
+      "frenchUs": "siège coquillage",
+      "italian": "sgabello conchiglia",
+      "dutch": "schelpenkruk",
+      "chinese": "贝壳凳子",
+      "chineseTraditional": "貝殼凳子",
+      "japanese": "かいがらのスツール",
+      "korean": "조개 스툴",
+      "russian": "табурет из ракушки",
+      "plural": false,
+      "internalIds": [
+        3979
+      ]
+    },
     "materials": {
       "cowrie": 5
     },
@@ -18197,7 +20573,29 @@
     "serialId": 2702,
     "internalId": 178,
     "uniqueEntryId": "RXY6M4BmsWFJNqHAt",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03980",
+      "version": "1.0.0",
+      "english": "shell table",
+      "englishEurope": "shell table",
+      "german": "Muscheltisch",
+      "spanish": "mesa conchas marinas",
+      "spanishUs": "mesa caracolas",
+      "french": "table coquillages",
+      "frenchUs": "table coquillages",
+      "italian": "tavolo conchiglia",
+      "dutch": "schelpentafel",
+      "chinese": "贝壳桌",
+      "chineseTraditional": "貝殼桌",
+      "japanese": "かいがらのテーブル",
+      "korean": "조개 테이블",
+      "russian": "стол из ракушки",
+      "plural": false,
+      "internalIds": [
+        3980
+      ]
+    },
     "materials": {
       "sand dollar": 7,
       "clay": 3
@@ -18267,7 +20665,29 @@
     "serialId": 2840,
     "internalId": 219,
     "uniqueEntryId": "k7dondWtbpmYBYHaX",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Doorplates",
+      "id": "DoorDeco_04376",
+      "version": "1.0.0",
+      "english": "shell wreath",
+      "englishEurope": "shell wreath",
+      "german": "Muscheltürkranz",
+      "spanish": "corona conchas",
+      "spanishUs": "corona caracolas",
+      "french": "couronne coquillages",
+      "frenchUs": "couronne coquillages",
+      "italian": "ghirlanda tema conchiglia",
+      "dutch": "schelpenkrans",
+      "chinese": "贝壳花环",
+      "chineseTraditional": "貝殼花圈",
+      "japanese": "かいがらのリース",
+      "korean": "조개껍데기 리스",
+      "russian": "венок с ракушками",
+      "plural": false,
+      "internalIds": [
+        4376
+      ]
+    },
     "materials": {
       "summer shell": 1,
       "sea snail": 1,
@@ -18315,8 +20735,7 @@
       "russian": "сумочка-моллюск",
       "plural": false,
       "internalIds": [
-        7494,
-        634
+        7494
       ]
     },
     "materials": {
@@ -18388,7 +20807,29 @@
     "serialId": 439,
     "internalId": 213,
     "uniqueEntryId": "Z6H8xP4vNMznirGDX",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03588",
+      "version": "1.0.0",
+      "english": "signpost",
+      "englishEurope": "signpost",
+      "german": "Wegweiser",
+      "spanish": "poste indicador",
+      "spanishUs": "poste indicador",
+      "french": "panneau de direction",
+      "frenchUs": "panneau de direction",
+      "italian": "segnale direzionale",
+      "dutch": "wegwijzer",
+      "chinese": "路标",
+      "chineseTraditional": "路標",
+      "japanese": "みちしるべ",
+      "korean": "이정표",
+      "russian": "столбик с указателем",
+      "plural": false,
+      "internalIds": [
+        3588
+      ]
+    },
     "materials": {
       "hardwood": 2,
       "softwood": 3
@@ -18412,7 +20853,29 @@
     "serialId": 708,
     "internalId": 598,
     "uniqueEntryId": "6czwDvwNcJ6aLqsPm",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_07247",
+      "version": "1.0.0",
+      "english": "silo",
+      "englishEurope": "silo",
+      "german": "Silo",
+      "spanish": "silo",
+      "spanishUs": "silo",
+      "french": "silo",
+      "frenchUs": "silo",
+      "italian": "silo",
+      "dutch": "silo",
+      "chinese": "筒仓",
+      "chineseTraditional": "筒倉",
+      "japanese": "サイロ",
+      "korean": "저장탑",
+      "russian": "силосная башня",
+      "plural": false,
+      "internalIds": [
+        7247
+      ]
+    },
     "materials": {
       "iron nugget": 12,
       "hardwood": 6,
@@ -18504,8 +20967,7 @@
       "russian": "веночек из хризантем",
       "plural": false,
       "internalIds": [
-        5119,
-        260
+        5119
       ]
     },
     "materials": {
@@ -18666,7 +21128,29 @@
     "serialId": 3350,
     "internalId": 295,
     "uniqueEntryId": "GpPrFGQc3wjpPYh2C",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Walls",
+      "id": "RoomWall_05498",
+      "version": "1.0.0",
+      "english": "ski-slope wall",
+      "englishEurope": "ski-slope wall",
+      "german": "Skipistentapete",
+      "spanish": "pared esquí",
+      "spanishUs": "pared esquí",
+      "french": "mur piste de ski",
+      "frenchUs": "mur piste de ski",
+      "italian": "muro pista da sci",
+      "dutch": "skihellingwand",
+      "chinese": "滑雪场壁纸",
+      "chineseTraditional": "滑雪場壁紙",
+      "japanese": "ゲレンデなかべがみ",
+      "korean": "스키장 벽",
+      "russian": "стена «Лыжный курорт»",
+      "plural": false,
+      "internalIds": [
+        5498
+      ]
+    },
     "materials": {
       "snowflake": 8
     },
@@ -18709,8 +21193,7 @@
       "russian": "наряд «Небесное яйцо»",
       "plural": false,
       "internalIds": [
-        12453,
-        686
+        12453
       ]
     },
     "materials": {
@@ -18755,8 +21238,7 @@
       "russian": "скорлупа небесного яйца",
       "plural": false,
       "internalIds": [
-        12443,
-        685
+        12443
       ]
     },
     "materials": {
@@ -18801,7 +21283,6 @@
       "russian": "боты «Небесное яйцо»",
       "plural": false,
       "internalIds": [
-        687,
         12459
       ]
     },
@@ -18917,7 +21398,29 @@
     "serialId": 2134,
     "internalId": 609,
     "uniqueEntryId": "5dYMgBRhSgGpHNRcW",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03410",
+      "version": "1.0.0",
+      "english": "small cardboard boxes",
+      "englishEurope": "small cardboard boxes",
+      "german": "Umzugskistenset",
+      "spanish": "lote pequeño de cajas",
+      "spanishUs": "set de cajas pequeño",
+      "french": "tas de cartons S",
+      "frenchUs": "tas de boîtes P",
+      "italian": "set di scatoloni piccoli",
+      "dutch": "kleine set kartonnen dozen",
+      "chinese": "搬家纸箱S",
+      "chineseTraditional": "搬家紙箱S",
+      "japanese": "ひっこしダンボールS",
+      "korean": "이삿짐 박스 S",
+      "russian": "картонные коробки S",
+      "plural": false,
+      "internalIds": [
+        3410
+      ]
+    },
     "materials": {
       "cardboard box": 2
     },
@@ -19007,8 +21510,7 @@
       "russian": "сумочка-снежинка",
       "plural": false,
       "internalIds": [
-        7493,
-        633
+        7493
       ]
     },
     "materials": {
@@ -19078,7 +21580,29 @@
     "serialId": 3340,
     "internalId": 222,
     "uniqueEntryId": "syeDkgGnge76zBJ5y",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Doorplates",
+      "id": "DoorDeco_04375",
+      "version": "1.0.0",
+      "english": "snowflake wreath",
+      "englishEurope": "snowflake wreath",
+      "german": "Schneeflockentürschmuck",
+      "spanish": "placa copo de nieve",
+      "spanishUs": "placa copo de nieve",
+      "french": "décoration flocon",
+      "frenchUs": "décoration flocon",
+      "italian": "ghirlanda fiocco di neve",
+      "dutch": "sneeuwvlokkenkrans",
+      "chinese": "雪花花环",
+      "chineseTraditional": "雪花花圈",
+      "japanese": "ゆきのけっしょうのリース",
+      "korean": "눈의 결정 리스",
+      "russian": "венок-снежинка",
+      "plural": false,
+      "internalIds": [
+        4375
+      ]
+    },
     "materials": {
       "snowflake": 4
     },
@@ -19102,7 +21626,29 @@
     "serialId": 3280,
     "internalId": 637,
     "uniqueEntryId": "6TuttvHpXz8cBQAqa",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Masks",
+      "id": 1040,
+      "version": "1.0.0",
+      "english": "snowperson head",
+      "englishEurope": "snowperson head",
+      "german": "Schneemannhut",
+      "spanish": "casco de Copito",
+      "spanishUs": "casco de Copito",
+      "french": "cagoule neige",
+      "frenchUs": "cagoule neige",
+      "italian": "testa da pupazzo di neve",
+      "dutch": "sneeuwpopkop",
+      "chinese": "雪人头套",
+      "chineseTraditional": "雪人帽子",
+      "japanese": "ゆきだるまのぼうし",
+      "korean": "눈사람 모자",
+      "russian": "шапка снеговика",
+      "plural": false,
+      "internalIds": [
+        8609
+      ]
+    },
     "materials": {
       "large snowflake": 1,
       "snowflake": 5
@@ -19217,7 +21763,29 @@
     "serialId": 2100,
     "internalId": 196,
     "uniqueEntryId": "wRs5mmgErDd3guzAD",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01759",
+      "version": "1.0.0",
+      "english": "stack of books",
+      "englishEurope": "stack of books",
+      "german": "Bücherstapel",
+      "spanish": "pila de libros",
+      "spanishUs": "pila de libros",
+      "french": "pile de livres",
+      "frenchUs": "pile de livres",
+      "italian": "pila di libri",
+      "dutch": "stapel boeken",
+      "chinese": "书堆",
+      "chineseTraditional": "書堆",
+      "japanese": "つまれたほん",
+      "korean": "쌓인 책",
+      "russian": "стопка книг",
+      "plural": false,
+      "internalIds": [
+        1759
+      ]
+    },
     "materials": {
       "book": 5
     },
@@ -19330,7 +21898,29 @@
     "serialId": 438,
     "internalId": 596,
     "uniqueEntryId": "Et4TyaGdqojFhBPej",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03617",
+      "version": "1.0.0",
+      "english": "stall",
+      "englishEurope": "stall",
+      "german": "Verkaufsstand",
+      "spanish": "tenderete",
+      "spanishUs": "puesto",
+      "french": "stand",
+      "frenchUs": "stand",
+      "italian": "bancarella",
+      "dutch": "kraampje",
+      "chinese": "路边摊",
+      "chineseTraditional": "路邊攤",
+      "japanese": "やたい",
+      "korean": "노점",
+      "russian": "прилавок",
+      "plural": false,
+      "internalIds": [
+        3617
+      ]
+    },
     "materials": {
       "wood": 12
     },
@@ -19353,7 +21943,29 @@
     "serialId": 907,
     "internalId": 169,
     "uniqueEntryId": "vXFQZrMwx56imYidt",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03445",
+      "version": "1.0.0",
+      "english": "standard umbrella stand",
+      "englishEurope": "standard umbrella stand",
+      "german": "Regenschirmständer",
+      "spanish": "paragüero cuadrado",
+      "spanishUs": "paragüero cuadrado",
+      "french": "porte-parapluie",
+      "frenchUs": "porte-parapluie",
+      "italian": "portaombrelli standard",
+      "dutch": "parapluhouder",
+      "chinese": "雨伞架",
+      "chineseTraditional": "雨傘架",
+      "japanese": "かさたて",
+      "korean": "우산꽂이",
+      "russian": "обычная зонтница",
+      "plural": false,
+      "internalIds": [
+        3445
+      ]
+    },
     "materials": {
       "iron nugget": 3
     },
@@ -19422,7 +22034,29 @@
     "serialId": 2280,
     "internalId": 628,
     "uniqueEntryId": "ruy96poyPqtxc5K4Y",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Masks",
+      "id": 1113,
+      "version": "1.0.0",
+      "english": "star head",
+      "englishEurope": "star head",
+      "german": "Sternenkapuze",
+      "spanish": "casco estrella",
+      "spanishUs": "casco estrella",
+      "french": "cagoule étoile",
+      "frenchUs": "cagoule étoile",
+      "italian": "cappuccio stella",
+      "dutch": "sterrenkop",
+      "chinese": "星星头套",
+      "chineseTraditional": "星星頭套",
+      "japanese": "おほしさまのあたま",
+      "korean": "별님 머리",
+      "russian": "звездный шлем",
+      "plural": false,
+      "internalIds": [
+        9862
+      ]
+    },
     "materials": {
       "star fragment": 5
     },
@@ -19465,8 +22099,7 @@
       "russian": "сумочка-звезда",
       "plural": false,
       "internalIds": [
-        7489,
-        627
+        7489
       ]
     },
     "materials": {
@@ -19628,7 +22261,29 @@
     "serialId": 2861,
     "internalId": 667,
     "uniqueEntryId": "eR5A2YsGKuygX85s2",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Floors",
+      "id": "RoomFloor_07239",
+      "version": "1.0.0",
+      "english": "starry-sands flooring",
+      "englishEurope": "starry-sands flooring",
+      "german": "Glitzersandboden",
+      "spanish": "suelo playa de arena",
+      "spanishUs": "suelo playa de arena",
+      "french": "sol plage étoilée",
+      "frenchUs": "sol plage étoilée",
+      "italian": "pavimento sabbia deserto",
+      "dutch": "glitterzandvloer",
+      "chinese": "星星沙滩地板",
+      "chineseTraditional": "星星沙灘地板",
+      "japanese": "ほしのすなはまのゆか",
+      "korean": "별빛 모래사장 바닥",
+      "russian": "блестящий пол из песка",
+      "plural": false,
+      "internalIds": [
+        7239
+      ]
+    },
     "materials": {
       "summer shell": 3,
       "sandy-beach flooring": 1
@@ -19652,7 +22307,29 @@
     "serialId": 2250,
     "internalId": 294,
     "uniqueEntryId": "k4Fuy56j7X2gnPbhq",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Walls",
+      "id": "RoomWall_05500",
+      "version": "1.0.0",
+      "english": "starry-sky wall",
+      "englishEurope": "starry-sky wall",
+      "german": "Sternenhimmeltapete",
+      "spanish": "horizonte lunar",
+      "spanishUs": "horizonte lunar",
+      "french": "mur ciel étoilé",
+      "frenchUs": "mur ciel étoilé",
+      "italian": "muro cielo stellato",
+      "dutch": "heelalwand",
+      "chinese": "星空墙",
+      "chineseTraditional": "星空牆",
+      "japanese": "ほしぞらのかべ",
+      "korean": "별이 빛나는 벽",
+      "russian": "стена «Ночное небо»",
+      "plural": false,
+      "internalIds": [
+        5500
+      ]
+    },
     "materials": {
       "star fragment": 5,
       "large star fragment": 1
@@ -19811,7 +22488,29 @@
     "serialId": 809,
     "internalId": 652,
     "uniqueEntryId": "6nZpvNEdHwxMgNtYC",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_11941",
+      "version": "1.0.0",
+      "english": "stone arch",
+      "englishEurope": "stone arch",
+      "german": "Steinbogen",
+      "spanish": "megalito",
+      "spanishUs": "megalito",
+      "french": "arche en pierre",
+      "frenchUs": "arche en pierre",
+      "italian": "arco di pietra",
+      "dutch": "stenen boog",
+      "chinese": "石拱门",
+      "chineseTraditional": "石拱門",
+      "japanese": "ストーンアーチ",
+      "korean": "석제 아치",
+      "russian": "каменная арка",
+      "plural": false,
+      "internalIds": [
+        11941
+      ]
+    },
     "materials": {
       "stone": 90
     },
@@ -20061,7 +22760,29 @@
     "serialId": 817,
     "internalId": 651,
     "uniqueEntryId": "DoFhuq2qKsiTHz6T6",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_11943",
+      "version": "1.0.0",
+      "english": "stone tablet",
+      "englishEurope": "stone tablet",
+      "german": "Gedenkstein",
+      "spanish": "placa de piedra",
+      "spanishUs": "placa de piedra",
+      "french": "pierre gravée",
+      "frenchUs": "pierre gravée",
+      "italian": "stele incisa",
+      "dutch": "gedenksteen",
+      "chinese": "石碑",
+      "chineseTraditional": "石碑",
+      "japanese": "せきひ",
+      "korean": "비석",
+      "russian": "каменный монумент",
+      "plural": false,
+      "internalIds": [
+        11943
+      ]
+    },
     "materials": {
       "stone": 12
     },
@@ -20149,8 +22870,7 @@
       "russian": "наряд «Каменное яйцо»",
       "plural": false,
       "internalIds": [
-        12450,
-        677
+        12450
       ]
     },
     "materials": {
@@ -20195,8 +22915,7 @@
       "russian": "скорлупа каменного яйца",
       "plural": false,
       "internalIds": [
-        12440,
-        676
+        12440
       ]
     },
     "materials": {
@@ -20241,7 +22960,6 @@
       "russian": "боты «Каменное яйцо»",
       "plural": false,
       "internalIds": [
-        678,
         12456
       ]
     },
@@ -20313,7 +23031,29 @@
     "serialId": 1283,
     "internalId": 606,
     "uniqueEntryId": "ADu83C55zHi4DfoFp",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Caps",
+      "id": 953,
+      "version": "1.0.0",
+      "english": "straw umbrella hat",
+      "englishEurope": "straw umbrella hat",
+      "german": "Flach-Reishut",
+      "spanish": "gorro de paja achatado",
+      "spanishUs": "gorro de paja achatado",
+      "french": "chapeau de bambou",
+      "frenchUs": "chapeau de bambou",
+      "italian": "cappello di paglia orientale",
+      "dutch": "ronde strohoed",
+      "chinese": "三度笠",
+      "chineseTraditional": "三度笠",
+      "japanese": "さんどがさ",
+      "korean": "삿갓",
+      "russian": "соломенная шляпа-зонт",
+      "plural": false,
+      "internalIds": [
+        7254
+      ]
+    },
     "materials": {
       "clump of weeds": 10
     },
@@ -20382,7 +23122,29 @@
     "serialId": 1201,
     "internalId": 190,
     "uniqueEntryId": "YyxnntEPTDukJaRfY",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00132",
+      "version": "1.0.0",
+      "english": "succulent plant",
+      "englishEurope": "succulent plant",
+      "german": "Sukkulente",
+      "spanish": "aloe pequeño",
+      "spanishUs": "aloe pequeño",
+      "french": "pot de succulentes",
+      "frenchUs": "pot de succulentes",
+      "italian": "pianta grassa",
+      "dutch": "vetplant",
+      "chinese": "多肉植物",
+      "chineseTraditional": "多肉植物",
+      "japanese": "たにくしょくぶつ",
+      "korean": "다육 식물",
+      "russian": "суккуленты",
+      "plural": false,
+      "internalIds": [
+        132
+      ]
+    },
     "materials": {
       "clump of weeds": 10,
       "empty can": 1
@@ -20545,7 +23307,29 @@
     "serialId": 818,
     "internalId": 653,
     "uniqueEntryId": "5LkbaD7PpwzSvzERR",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00676",
+      "version": "1.0.0",
+      "english": "tall lantern",
+      "englishEurope": "tall lantern",
+      "german": "Mega-Laterne",
+      "spanish": "farol alto",
+      "spanishUs": "farol alto",
+      "french": "lanterne haute",
+      "frenchUs": "lanterne haute",
+      "italian": "lanterna alta",
+      "dutch": "hoge lantaarn",
+      "chinese": "石灯笼",
+      "chineseTraditional": "石燈籠",
+      "japanese": "とうろう",
+      "korean": "석등",
+      "russian": "высокий фонарь",
+      "plural": false,
+      "internalIds": [
+        676
+      ]
+    },
     "materials": {
       "stone": 18
     },
@@ -20938,7 +23722,29 @@
     "serialId": 601,
     "internalId": 78,
     "uniqueEntryId": "2bNpWkbwsHyXGCGb5",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_02329",
+      "version": "1.0.0",
+      "english": "tire toy",
+      "englishEurope": "tire toy",
+      "german": "Reifenspielgerät",
+      "spanish": "rueda de juguete",
+      "spanishUs": "rueda de juguete",
+      "french": "jeu en pneu",
+      "frenchUs": "jeu en pneu",
+      "italian": "gomma da parco",
+      "dutch": "autobandspeeltje",
+      "chinese": "轮胎玩具",
+      "chineseTraditional": "輪胎玩具",
+      "japanese": "タイヤのゆうぐ",
+      "korean": "타이어 놀이 기구",
+      "russian": "шина для игры",
+      "plural": false,
+      "internalIds": [
+        2329
+      ]
+    },
     "materials": {
       "old tire": 1
     },
@@ -21007,7 +23813,29 @@
     "serialId": 1285,
     "internalId": 604,
     "uniqueEntryId": "ofx4zP9Qj2tovbm3G",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Tops",
+      "id": 654,
+      "version": "1.0.0",
+      "english": "traditional straw coat",
+      "englishEurope": "traditional straw coat",
+      "german": "Strohmantel",
+      "spanish": "abrigo de paja",
+      "spanishUs": "abrigo de paja",
+      "french": "manteau en paille",
+      "frenchUs": "manteau en paille",
+      "italian": "giacca di paglia tradizionale",
+      "dutch": "traditionele strojas",
+      "chinese": "蓑衣",
+      "chineseTraditional": "蓑衣",
+      "japanese": "みの",
+      "korean": "도롱이",
+      "russian": "соломенная накидка",
+      "plural": false,
+      "internalIds": [
+        5291
+      ]
+    },
     "materials": {
       "clump of weeds": 8
     },
@@ -21030,7 +23858,29 @@
     "serialId": 603,
     "internalId": 66,
     "uniqueEntryId": "yofDbWxuR2q36otG4",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01823",
+      "version": "1.0.0",
+      "english": "trash bags",
+      "englishEurope": "trash bags",
+      "german": "Müll",
+      "spanish": "basura",
+      "spanishUs": "basura",
+      "french": "duo de sacs poubelle",
+      "frenchUs": "duo de sacs poubelle",
+      "italian": "spazzatura",
+      "dutch": "vuilniszakken",
+      "chinese": "垃圾袋",
+      "chineseTraditional": "垃圾袋",
+      "japanese": "ゴミぶくろ",
+      "korean": "쓰레기봉투",
+      "russian": "мешки с мусором",
+      "plural": false,
+      "internalIds": [
+        1823
+      ]
+    },
     "materials": {
       "empty can": 1,
       "boot": 1,
@@ -21100,7 +23950,29 @@
     "serialId": 381,
     "internalId": 585,
     "uniqueEntryId": "QnPjCxDRTXoQDHYqZ",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00533",
+      "version": "1.0.0",
+      "english": "tree standee",
+      "englishEurope": "tree standee",
+      "german": "Pappbaum",
+      "spanish": "árbol de atrezo",
+      "spanishUs": "árbol de utilería",
+      "french": "arbre en carton",
+      "frenchUs": "arbre en carton",
+      "italian": "sagoma di albero",
+      "dutch": "decoratieboom",
+      "chinese": "假树道具",
+      "chineseTraditional": "假樹道具",
+      "japanese": "ハリボテのき",
+      "korean": "연극용 나무",
+      "russian": "бутафорское дерево",
+      "plural": false,
+      "internalIds": [
+        533
+      ]
+    },
     "materials": {
       "wood": 5,
       "softwood": 8
@@ -21520,8 +24392,7 @@
       "russian": "венок из тюльпанов",
       "plural": false,
       "internalIds": [
-        5102,
-        243
+        5102
       ]
     },
     "materials": {
@@ -21779,7 +24650,29 @@
     "serialId": 2851,
     "internalId": 665,
     "uniqueEntryId": "EXDyLjtfBny7Nfg2W",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Walls",
+      "id": "RoomWall_05508",
+      "version": "1.0.0",
+      "english": "underwater wall",
+      "englishEurope": "underwater wall",
+      "german": "Meerestapete",
+      "spanish": "pared fondo marino",
+      "spanishUs": "pared fondo marino",
+      "french": "mur fonds marins",
+      "frenchUs": "mur fonds marins",
+      "italian": "muro sottomarino",
+      "dutch": "onderwaterwand",
+      "chinese": "水中壁纸",
+      "chineseTraditional": "水中壁紙",
+      "japanese": "すいちゅうのかべがみ",
+      "korean": "바닷속 벽",
+      "russian": "подводная стена",
+      "plural": false,
+      "internalIds": [
+        5508
+      ]
+    },
     "materials": {
       "summer shell": 3,
       "coral": 5
@@ -21987,7 +24880,29 @@
     "serialId": 123,
     "internalId": 532,
     "uniqueEntryId": "8vcfcHLWY7MLbb9Hn",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Tools",
+      "id": "ChangeStick_07584",
+      "version": "1.0.0",
+      "english": "wand",
+      "englishEurope": "wand",
+      "german": "Stab",
+      "spanish": "varita",
+      "spanishUs": "varita",
+      "french": "baguette magique",
+      "frenchUs": "baguette magique",
+      "italian": "bacchetta",
+      "dutch": "toverstaf",
+      "chinese": "棒子",
+      "chineseTraditional": "棒子",
+      "japanese": "ステッキ",
+      "korean": "지팡이",
+      "russian": "палочка",
+      "plural": false,
+      "internalIds": [
+        7584
+      ]
+    },
     "materials": {
       "star fragment": 2
     },
@@ -22122,8 +25037,7 @@
       "russian": "наряд «Водяное яйцо»",
       "plural": false,
       "internalIds": [
-        12454,
-        689
+        12454
       ]
     },
     "materials": {
@@ -22168,8 +25082,7 @@
       "russian": "скорлупа водяного яйца",
       "plural": false,
       "internalIds": [
-        12444,
-        688
+        12444
       ]
     },
     "materials": {
@@ -22194,7 +25107,29 @@
     "serialId": 3777,
     "internalId": 690,
     "uniqueEntryId": "Bg9geKwGApyACyXEx",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Shoes",
+      "id": 1216,
+      "version": "1.1.0",
+      "english": "water-egg shoes",
+      "englishEurope": "water-egg shoes",
+      "german": "Paar Wasser-Ei-Schuhe",
+      "spanish": "zapato de huevo acuático",
+      "spanishUs": "zapato de huevo acuático",
+      "french": "p. chaussures œuf aquatiq.",
+      "frenchUs": "p. chaussures œuf aquatiq.",
+      "italian": "p. scarpe uova acquatiche",
+      "dutch": "waterei-schoenen",
+      "chinese": "鱼儿蛋鞋子",
+      "chineseTraditional": "魚兒蛋鞋子",
+      "japanese": "サカナのたまごのくつ",
+      "korean": "물고기 달걀 신발",
+      "russian": "боты «Водяное яйцо»",
+      "plural": false,
+      "internalIds": [
+        12460
+      ]
+    },
     "materials": {
       "water egg": 2
     },
@@ -22263,7 +25198,29 @@
     "serialId": 813,
     "internalId": 55,
     "uniqueEntryId": "CruEkwMoLo3LcnyG4",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_00665",
+      "version": "1.0.0",
+      "english": "wave breaker",
+      "englishEurope": "wave breaker",
+      "german": "Wellenbrecher",
+      "spanish": "rompeolas",
+      "spanishUs": "rompeolas",
+      "french": "brise-lames",
+      "frenchUs": "brise-lames",
+      "italian": "frangionde",
+      "dutch": "golfbreker",
+      "chinese": "消波块",
+      "chineseTraditional": "消波塊",
+      "japanese": "しょうはブロック",
+      "korean": "방파제 블록",
+      "russian": "волнорез",
+      "plural": false,
+      "internalIds": [
+        665
+      ]
+    },
     "materials": {
       "stone": 10,
       "clay": 10
@@ -22534,8 +25491,7 @@
       "russian": "венок из ветрениц",
       "plural": false,
       "internalIds": [
-        5099,
-        240
+        5099
       ]
     },
     "materials": {
@@ -22654,7 +25610,29 @@
     "serialId": 3540,
     "internalId": 228,
     "uniqueEntryId": "xGTRnSEqPTzYGDwjT",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Doorplates",
+      "id": "DoorDeco_05436",
+      "version": "1.0.0",
+      "english": "windflower wreath",
+      "englishEurope": "windflower wreath",
+      "german": "Anemonentürkranz",
+      "spanish": "corona anémona",
+      "spanishUs": "corona anémonas",
+      "french": "couronne anémones",
+      "frenchUs": "couronne anémones",
+      "italian": "ghirlanda anemoni",
+      "dutch": "anemonenkrans",
+      "chinese": "银莲花花环",
+      "chineseTraditional": "銀蓮花花圈",
+      "japanese": "アネモネのリース",
+      "korean": "아네모네 리스",
+      "russian": "венок с ветреницами",
+      "plural": false,
+      "internalIds": [
+        5436
+      ]
+    },
     "materials": {
       "red windflowers": 3,
       "white windflowers": 3,
@@ -22750,8 +25728,7 @@
       "russian": "наряд «Лесное яйцо»",
       "plural": false,
       "internalIds": [
-        12452,
-        683
+        12452
       ]
     },
     "materials": {
@@ -22796,8 +25773,7 @@
       "russian": "скорлупа лесного яйца",
       "plural": false,
       "internalIds": [
-        12442,
-        682
+        12442
       ]
     },
     "materials": {
@@ -22842,7 +25818,6 @@
       "russian": "боты «Лесное яйцо»",
       "plural": false,
       "internalIds": [
-        684,
         12458
       ]
     },
@@ -23007,7 +25982,29 @@
     "serialId": 317,
     "internalId": 17,
     "uniqueEntryId": "hAgLHeuw7xfkbzjpu",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_02560",
+      "version": "1.0.0",
+      "english": "wooden chest",
+      "englishEurope": "wooden chest",
+      "german": "Holzkommode",
+      "spanish": "cómoda de madera",
+      "spanishUs": "cómoda de madera",
+      "french": "commode en bois",
+      "frenchUs": "coffre en bois",
+      "italian": "comò di legno",
+      "dutch": "houten ladekast",
+      "chinese": "木制矮柜",
+      "chineseTraditional": "木製矮櫃",
+      "japanese": "もくせいチェスト",
+      "korean": "목제 수납장",
+      "russian": "деревянный комод",
+      "plural": false,
+      "internalIds": [
+        2560
+      ]
+    },
     "materials": {
       "wood": 16
     },
@@ -23075,7 +26072,29 @@
     "serialId": 313,
     "internalId": 170,
     "uniqueEntryId": "nJDFrN9LmyK3FN7ZT",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03438",
+      "version": "1.0.0",
+      "english": "wooden end table",
+      "englishEurope": "wooden end table",
+      "german": "Holznachttisch",
+      "spanish": "mesita auxiliar de madera",
+      "spanishUs": "mesita de luz de madera",
+      "french": "table de chevet en bois",
+      "frenchUs": "table de chevet en bois",
+      "italian": "comodino di legno",
+      "dutch": "houten nachtkastje",
+      "chinese": "木制边桌",
+      "chineseTraditional": "木製邊桌",
+      "japanese": "もくせいサイドテーブル",
+      "korean": "목제 사이드 테이블",
+      "russian": "деревянная тумба",
+      "plural": false,
+      "internalIds": [
+        3438
+      ]
+    },
     "materials": {
       "wood": 8
     },
@@ -23098,7 +26117,29 @@
     "serialId": 463,
     "internalId": 193,
     "uniqueEntryId": "2ZuPfoHnSXBEwWfPL",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04124",
+      "version": "1.0.0",
+      "english": "wooden fish",
+      "englishEurope": "wooden fish",
+      "german": "Holzblocktrommel",
+      "spanish": "pez de madera de percusión",
+      "spanishUs": "pez de madera de percusión",
+      "french": "mokugyo",
+      "frenchUs": "mokugyo",
+      "italian": "mokugyo",
+      "dutch": "mokugyo",
+      "chinese": "木鱼",
+      "chineseTraditional": "木魚",
+      "japanese": "もくぎょ",
+      "korean": "목탁",
+      "russian": "деревянная рыба",
+      "plural": false,
+      "internalIds": [
+        4124
+      ]
+    },
     "materials": {
       "wood": 3
     },
@@ -23257,7 +26298,29 @@
     "serialId": 318,
     "internalId": 18,
     "uniqueEntryId": "ayWFNoe5BBmR5JDde",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_02605",
+      "version": "1.0.0",
+      "english": "wooden simple bed",
+      "englishEurope": "wooden simple bed",
+      "german": "Holzbett",
+      "spanish": "cama individual de madera",
+      "spanishUs": "cama individual de madera",
+      "french": "lit en bois",
+      "frenchUs": "lit en bois",
+      "italian": "letto singolo di legno",
+      "dutch": "houten bed",
+      "chinese": "木制单人床",
+      "chineseTraditional": "木製單人床",
+      "japanese": "もくせいシングルベッド",
+      "korean": "목제 싱글 침대",
+      "russian": "простая кровать из дерева",
+      "plural": false,
+      "internalIds": [
+        2605
+      ]
+    },
     "materials": {
       "wood": 18
     },
@@ -23599,7 +26662,29 @@
     "serialId": 353,
     "internalId": 23,
     "uniqueEntryId": "6X3d6utgMWpykB6cp",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01559",
+      "version": "1.0.0",
+      "english": "wooden-block bench",
+      "englishEurope": "wooden-block bench",
+      "german": "Bauklotzbank",
+      "spanish": "banco construcciones",
+      "spanishUs": "banco construcciones",
+      "french": "banc blocs de bois",
+      "frenchUs": "banc blocs de bois",
+      "italian": "panca blocchi di legno",
+      "dutch": "houtblokbank",
+      "chinese": "积木长凳",
+      "chineseTraditional": "積木長椅",
+      "japanese": "つみきベンチ",
+      "korean": "나무블록 벤치",
+      "russian": "лавка из дерев. блоков",
+      "plural": false,
+      "internalIds": [
+        1559
+      ]
+    },
     "materials": {
       "wooden-block toy": 1,
       "softwood": 4
@@ -23715,7 +26800,29 @@
     "serialId": 355,
     "internalId": 24,
     "uniqueEntryId": "9cAfAFEhqMFHTefLC",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_01561",
+      "version": "1.0.0",
+      "english": "wooden-block chest",
+      "englishEurope": "wooden-block chest",
+      "german": "Bauklotzregal",
+      "spanish": "cómoda construcciones",
+      "spanishUs": "cómoda construcciones",
+      "french": "commode blocs de bois",
+      "frenchUs": "commode blocs de bois",
+      "italian": "comò blocchi di legno",
+      "dutch": "houtblokladekast",
+      "chinese": "积木矮柜",
+      "chineseTraditional": "積木矮櫃",
+      "japanese": "つみきチェスト",
+      "korean": "나무블록 수납장",
+      "russian": "комод из дерев. блоков",
+      "plural": false,
+      "internalIds": [
+        1561
+      ]
+    },
     "materials": {
       "wooden-block toy": 1,
       "softwood": 12
@@ -23880,7 +26987,29 @@
     "serialId": 350,
     "internalId": 38,
     "uniqueEntryId": "uKX4pS9YuAJPSqAGX",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_03206",
+      "version": "1.0.0",
+      "english": "wooden-block toy",
+      "englishEurope": "wooden-block toy",
+      "german": "Bauklotzset",
+      "spanish": "juguete construcciones",
+      "spanishUs": "juguete construcciones",
+      "french": "jeu blocs de bois",
+      "frenchUs": "jeu blocs de bois",
+      "italian": "gioco blocchi di legno",
+      "dutch": "houtblokspeelgoed",
+      "chinese": "积木玩具",
+      "chineseTraditional": "積木玩具",
+      "japanese": "つみきのおもちゃ",
+      "korean": "나무블록 장난감",
+      "russian": "деревянные блоки",
+      "plural": false,
+      "internalIds": [
+        3206
+      ]
+    },
     "materials": {
       "softwood": 3
     },
@@ -24131,7 +27260,29 @@
     "serialId": 2900,
     "internalId": 588,
     "uniqueEntryId": "tFckEAxEjrgkrc3ga",
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": "Ftr_04270",
+      "version": "1.0.0",
+      "english": "yellow-leaf pile",
+      "englishEurope": "yellow-leaf pile",
+      "german": "Laubhaufen",
+      "spanish": "pila de hojas amarillas",
+      "spanishUs": "pila de hojas amarillas",
+      "french": "tas de feuilles jaunes",
+      "frenchUs": "tas de feuilles jaunes",
+      "italian": "mucchio di foglie gialle",
+      "dutch": "hoop gele bladeren",
+      "chinese": "黄色落叶",
+      "chineseTraditional": "黃色落葉",
+      "japanese": "きいろのおちば",
+      "korean": "노란 낙엽",
+      "russian": "охапка желтых листьев",
+      "plural": false,
+      "internalIds": [
+        4270
+      ]
+    },
     "materials": {
       "acorn": 3,
       "clump of weeds": 5

@@ -22,7 +22,8 @@ export interface Item {
     filename?:             string;
     internalId?:           number;
     uniqueEntryId?:        string;
-    translations:          Translations | null;
+    variantTranslations?:  null;
+    translations:          TranslationsClass | null;
     colors?:               Color[];
     styles?:               Style[];
     themes?:               string[];
@@ -54,6 +55,7 @@ export interface Item {
     kitCost?:              number | null;
     outdoor?:              boolean;
     variantId?:            VariantID | null;
+    patternTranslations?:  Translations | null;
     framedImage?:          null | string;
     albumImage?:           null | string;
     inventoryImage?:       null | string;
@@ -186,6 +188,34 @@ export enum PaneType {
     Screen = "Screen",
 }
 
+export interface Translations {
+    sourceSheet:        PatternTranslationsSourceSheet;
+    variantId:          number;
+    id:                 string;
+    furnitureName:      string;
+    english:            string;
+    englishEurope:      string;
+    german:             string;
+    spanish:            string;
+    spanishUs:          string;
+    french:             string;
+    frenchUs:           string;
+    italian:            string;
+    dutch:              string;
+    chinese:            string;
+    chineseTraditional: string;
+    japanese:           string;
+    korean:             string;
+    russian:            string;
+    plural:             boolean;
+    internalIds:        number[];
+}
+
+export enum PatternTranslationsSourceSheet {
+    FurniturePatterns = "Furniture Patterns",
+    FurnitureVariants = "Furniture Variants",
+}
+
 export enum PrimaryShape {
     ALine = "A-line",
     ALong = "A-long",
@@ -302,10 +332,10 @@ export enum Style {
     Simple = "Simple",
 }
 
-export interface Translations {
-    sourceSheet:        SourceSheet;
+export interface TranslationsClass {
+    sourceSheet:        TranslationsSourceSheet;
     id:                 number | string;
-    version?:           Version;
+    version:            Version;
     english:            string;
     englishEurope:      string;
     german:             string;
@@ -322,11 +352,9 @@ export interface Translations {
     russian:            string;
     plural:             boolean;
     internalIds:        Array<number | string>;
-    variantId?:         number;
-    furnitureName?:     string;
 }
 
-export enum SourceSheet {
+export enum TranslationsSourceSheet {
     Accessories = "Accessories",
     Art = "Art",
     Bags = "Bags",
@@ -343,8 +371,6 @@ export enum SourceSheet {
     Floors = "Floors",
     Fossils = "Fossils",
     Furniture = "Furniture",
-    FurniturePatterns = "Furniture Patterns",
-    FurnitureVariants = "Furniture Variants",
     KKAlbums = "K.K. Albums",
     Masks = "Masks",
     Pictures = "Pictures",
@@ -471,6 +497,7 @@ export interface VariationElement {
     filename:              string;
     internalId:            number;
     uniqueEntryId:         string;
+    variantTranslations:   Translations | null;
     colors:                Color[];
     styles?:               Style[];
     themes?:               string[];
@@ -480,6 +507,7 @@ export interface VariationElement {
     pattern?:              null | string;
     patternTitle?:         PatternTitle | null;
     variantId?:            VariantID;
+    patternTranslations?:  Translations | null;
     concepts?:             Concept[];
     set?:                  VariationSet | null;
     series?:               Series | null;
