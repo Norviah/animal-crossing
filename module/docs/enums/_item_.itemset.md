@@ -18,7 +18,7 @@
 
 • **ColorfulTools**: = "Colorful Tools"
 
-*Defined in [Item.ts:277](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L277)*
+*Defined in [Item.ts:277](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L277)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **OutdoorTools**: = "Outdoor Tools"
 
-*Defined in [Item.ts:278](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L278)*
+*Defined in [Item.ts:278](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L278)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **Panda**: = "panda"
 
-*Defined in [Item.ts:279](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L279)*
+*Defined in [Item.ts:279](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L279)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **SportsRing**: = "sports ring"
 
-*Defined in [Item.ts:280](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L280)*
+*Defined in [Item.ts:280](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L280)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **Stone**: = "stone"
 
-*Defined in [Item.ts:281](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Item.ts#L281)*
+*Defined in [Item.ts:281](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L281)*

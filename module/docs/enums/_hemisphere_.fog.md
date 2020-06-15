@@ -6,21 +6,21 @@
 
 ### Enumeration members
 
+* [HeavyFog](_hemisphere_.fog.md#heavyfog)
 * [RiverSeaFog](_hemisphere_.fog.md#riverseafog)
-* [RiverSeaFogHeavyFog](_hemisphere_.fog.md#riverseafogheavyfog)
 
 ## Enumeration members
+
+###  HeavyFog
+
+• **HeavyFog**: = "heavy fog"
+
+*Defined in [Hemisphere.ts:22](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Hemisphere.ts#L22)*
+
+___
 
 ###  RiverSeaFog
 
 • **RiverSeaFog**: = "river/sea fog"
 
-*Defined in [Hemisphere.ts:22](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Hemisphere.ts#L22)*
-
-___
-
-###  RiverSeaFogHeavyFog
-
-• **RiverSeaFogHeavyFog**: = "river/sea fog; heavy fog"
-
-*Defined in [Hemisphere.ts:23](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Hemisphere.ts#L23)*
+*Defined in [Hemisphere.ts:23](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Hemisphere.ts#L23)*

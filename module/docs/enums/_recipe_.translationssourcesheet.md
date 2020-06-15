@@ -30,7 +30,7 @@
 
 • **Accessories**: = "Accessories"
 
-*Defined in [Recipe.ts:68](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L68)*
+*Defined in [Recipe.ts:68](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L68)*
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 • **Bags**: = "Bags"
 
-*Defined in [Recipe.ts:69](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L69)*
+*Defined in [Recipe.ts:69](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L69)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **Bottoms**: = "Bottoms"
 
-*Defined in [Recipe.ts:70](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L70)*
+*Defined in [Recipe.ts:70](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L70)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **Caps**: = "Caps"
 
-*Defined in [Recipe.ts:71](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L71)*
+*Defined in [Recipe.ts:71](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L71)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **Doorplates**: = "Doorplates"
 
-*Defined in [Recipe.ts:72](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L72)*
+*Defined in [Recipe.ts:72](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L72)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **Dresses**: = "Dresses"
 
-*Defined in [Recipe.ts:73](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L73)*
+*Defined in [Recipe.ts:73](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L73)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **Etc**: = "ETC"
 
-*Defined in [Recipe.ts:74](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L74)*
+*Defined in [Recipe.ts:74](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L74)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 • **Fence**: = "Fence"
 
-*Defined in [Recipe.ts:75](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L75)*
+*Defined in [Recipe.ts:75](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L75)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 • **Floors**: = "Floors"
 
-*Defined in [Recipe.ts:76](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L76)*
+*Defined in [Recipe.ts:76](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L76)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 • **Furniture**: = "Furniture"
 
-*Defined in [Recipe.ts:77](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L77)*
+*Defined in [Recipe.ts:77](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L77)*
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 • **Masks**: = "Masks"
 
-*Defined in [Recipe.ts:78](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L78)*
+*Defined in [Recipe.ts:78](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L78)*
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 • **Rugs**: = "Rugs"
 
-*Defined in [Recipe.ts:79](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L79)*
+*Defined in [Recipe.ts:79](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L79)*
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 • **Shoes**: = "Shoes"
 
-*Defined in [Recipe.ts:80](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L80)*
+*Defined in [Recipe.ts:80](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L80)*
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 • **Tools**: = "Tools"
 
-*Defined in [Recipe.ts:81](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L81)*
+*Defined in [Recipe.ts:81](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L81)*
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 • **Tops**: = "Tops"
 
-*Defined in [Recipe.ts:82](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L82)*
+*Defined in [Recipe.ts:82](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L82)*
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 • **Umbrella**: = "Umbrella"
 
-*Defined in [Recipe.ts:83](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L83)*
+*Defined in [Recipe.ts:83](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L83)*
 
 ___
 
@@ -158,4 +158,4 @@ ___
 
 • **Walls**: = "Walls"
 
-*Defined in [Recipe.ts:84](https://github.com/Norviah/animal-crossing/blob/4071e19/module/types/Recipe.ts#L84)*
+*Defined in [Recipe.ts:84](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Recipe.ts#L84)*
