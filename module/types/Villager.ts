@@ -7,6 +7,7 @@ export interface Villager {
     species:           string;
     gender:            Gender;
     personality:       Personality;
+    subtype:           Subtype;
     hobby:             Hobby;
     birthday:          string;
     catchphrase:       string;
@@ -106,4 +107,9 @@ export enum Style {
     Elegant = "Elegant",
     Gorgeous = "Gorgeous",
     Simple = "Simple",
+}
+
+export enum Subtype {
+    A = "A",
+    B = "B",
 }

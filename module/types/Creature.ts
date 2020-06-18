@@ -6,12 +6,14 @@ export interface Creature {
     critterpediaImage:    string;
     furnitureImage:       string;
     size:                 Size;
+    surface:              boolean;
     sell:                 number;
     whereHow:             string;
     shadow?:              string;
     totalCatchesToUnlock: number;
     spawnRates:           string;
     rainSnowCatchUp?:     boolean;
+    hhaBaseScore:         number;
     lightingType?:        LightingType | null;
     iconFilename:         string;
     critterpediaFilename: string;
