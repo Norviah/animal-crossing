@@ -29,7 +29,7 @@
 
 • **Apple**: = "apple"
 
-*Defined in [Item.ts:579](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L579)*
+*Defined in [Item.ts:587](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L587)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **Bear**: = "bear"
 
-*Defined in [Item.ts:580](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L580)*
+*Defined in [Item.ts:588](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L588)*
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 • **Birthday**: = "birthday"
 
-*Defined in [Item.ts:581](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L581)*
+*Defined in [Item.ts:589](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L589)*
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 • **Cherry**: = "cherry"
 
-*Defined in [Item.ts:582](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L582)*
+*Defined in [Item.ts:590](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L590)*
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 • **Den**: = "den"
 
-*Defined in [Item.ts:583](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L583)*
+*Defined in [Item.ts:591](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L591)*
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 • **ImperialDining**: = "imperial dining"
 
-*Defined in [Item.ts:584](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L584)*
+*Defined in [Item.ts:592](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L592)*
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 • **LectureHall**: = "lecture hall"
 
-*Defined in [Item.ts:585](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L585)*
+*Defined in [Item.ts:593](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L593)*
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 • **Natural**: = "natural"
 
-*Defined in [Item.ts:586](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L586)*
+*Defined in [Item.ts:594](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L594)*
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 • **Office**: = "office"
 
-*Defined in [Item.ts:587](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L587)*
+*Defined in [Item.ts:595](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L595)*
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 • **Orange**: = "orange"
 
-*Defined in [Item.ts:588](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L588)*
+*Defined in [Item.ts:596](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L596)*
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 • **Peach**: = "peach"
 
-*Defined in [Item.ts:589](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L589)*
+*Defined in [Item.ts:597](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L597)*
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 • **Pear**: = "pear"
 
-*Defined in [Item.ts:590](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L590)*
+*Defined in [Item.ts:598](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L598)*
 
 ___
 
@@ -125,7 +125,7 @@ ___
 
 • **Pet**: = "pet"
 
-*Defined in [Item.ts:591](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L591)*
+*Defined in [Item.ts:599](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L599)*
 
 ___
 
@@ -133,7 +133,7 @@ ___
 
 • **School**: = "school"
 
-*Defined in [Item.ts:592](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L592)*
+*Defined in [Item.ts:600](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L600)*
 
 ___
 
@@ -141,7 +141,7 @@ ___
 
 • **Standee**: = "standee"
 
-*Defined in [Item.ts:593](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L593)*
+*Defined in [Item.ts:601](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L601)*
 
 ___
 
@@ -149,4 +149,4 @@ ___
 
 • **Writing**: = "writing"
 
-*Defined in [Item.ts:594](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L594)*
+*Defined in [Item.ts:602](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L602)*

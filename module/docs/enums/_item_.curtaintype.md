@@ -16,7 +16,7 @@
 
 • **Curtains**: = "Curtains"
 
-*Defined in [Item.ts:161](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L161)*
+*Defined in [Item.ts:165](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L165)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **RollerShades**: = "Roller Shades"
 
-*Defined in [Item.ts:162](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L162)*
+*Defined in [Item.ts:166](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L166)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **SlattedBlinds**: = "Slatted Blinds"
 
-*Defined in [Item.ts:163](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L163)*
+*Defined in [Item.ts:167](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L167)*

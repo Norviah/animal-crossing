@@ -12,6 +12,7 @@
 * [Personality](../enums/_villager_.personality.md)
 * [SourceSheet](../enums/_villager_.sourcesheet.md)
 * [Style](../enums/_villager_.style.md)
+* [Subtype](../enums/_villager_.subtype.md)
 * [Version](../enums/_villager_.version.md)
 
 ### Interfaces

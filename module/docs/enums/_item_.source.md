@@ -33,7 +33,7 @@
 
 • **AbleSisters**: = "Able Sisters"
 
-*Defined in [Item.ts:598](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L598)*
+*Defined in [Item.ts:606](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L606)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **Birthday**: = "Birthday"
 
-*Defined in [Item.ts:599](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L599)*
+*Defined in [Item.ts:607](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L607)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 • **BugOff**: = "Bug-Off"
 
-*Defined in [Item.ts:600](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L600)*
+*Defined in [Item.ts:608](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L608)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 • **Crafting**: = "Crafting"
 
-*Defined in [Item.ts:601](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L601)*
+*Defined in [Item.ts:609](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L609)*
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 • **Cyrus**: = "Cyrus"
 
-*Defined in [Item.ts:602](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L602)*
+*Defined in [Item.ts:610](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L610)*
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 • **DodoAirlines**: = "Dodo Airlines"
 
-*Defined in [Item.ts:603](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L603)*
+*Defined in [Item.ts:611](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L611)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 • **FishingTourney**: = "Fishing Tourney"
 
-*Defined in [Item.ts:604](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L604)*
+*Defined in [Item.ts:612](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L612)*
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 • **Gulliver**: = "Gulliver"
 
-*Defined in [Item.ts:605](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L605)*
+*Defined in [Item.ts:613](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L613)*
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 • **HighFriendship**: = "High Friendship"
 
-*Defined in [Item.ts:606](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L606)*
+*Defined in [Item.ts:614](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L614)*
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 • **Kicks**: = "Kicks"
 
-*Defined in [Item.ts:607](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L607)*
+*Defined in [Item.ts:615](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L615)*
 
 ___
 
@@ -113,7 +113,7 @@ ___
 
 • **Labelle**: = "Labelle"
 
-*Defined in [Item.ts:608](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L608)*
+*Defined in [Item.ts:616](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L616)*
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 • **MOM**: = "Mom"
 
-*Defined in [Item.ts:609](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L609)*
+*Defined in [Item.ts:617](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L617)*
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 • **NewYearSEve**: = "New Year's Eve"
 
-*Defined in [Item.ts:610](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L610)*
+*Defined in [Item.ts:618](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L618)*
 
 ___
 
@@ -137,7 +137,7 @@ ___
 
 • **Nintendo**: = "Nintendo"
 
-*Defined in [Item.ts:611](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L611)*
+*Defined in [Item.ts:619](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L619)*
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 • **NookMilesShop**: = "Nook Miles Shop"
 
-*Defined in [Item.ts:612](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L612)*
+*Defined in [Item.ts:620](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L620)*
 
 ___
 
@@ -153,7 +153,7 @@ ___
 
 • **NookSCranny**: = "Nook's Cranny"
 
-*Defined in [Item.ts:613](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L613)*
+*Defined in [Item.ts:621](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L621)*
 
 ___
 
@@ -161,7 +161,7 @@ ___
 
 • **NookShopping**: = "Nook Shopping"
 
-*Defined in [Item.ts:614](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L614)*
+*Defined in [Item.ts:622](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L622)*
 
 ___
 
@@ -169,7 +169,7 @@ ___
 
 • **NookShoppingPromotion**: = "Nook Shopping Promotion"
 
-*Defined in [Item.ts:615](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L615)*
+*Defined in [Item.ts:623](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L623)*
 
 ___
 
@@ -177,7 +177,7 @@ ___
 
 • **RecycleBin**: = "Recycle bin"
 
-*Defined in [Item.ts:616](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L616)*
+*Defined in [Item.ts:624](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L624)*
 
 ___
 
@@ -185,4 +185,4 @@ ___
 
 • **StartingItems**: = "Starting items"
 
-*Defined in [Item.ts:617](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L617)*
+*Defined in [Item.ts:625](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L625)*

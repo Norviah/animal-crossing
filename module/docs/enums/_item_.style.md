@@ -19,7 +19,7 @@
 
 • **Active**: = "Active"
 
-*Defined in [Item.ts:327](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L327)*
+*Defined in [Item.ts:331](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L331)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **Cool**: = "Cool"
 
-*Defined in [Item.ts:328](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L328)*
+*Defined in [Item.ts:332](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L332)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Cute**: = "Cute"
 
-*Defined in [Item.ts:329](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L329)*
+*Defined in [Item.ts:333](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L333)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **Elegant**: = "Elegant"
 
-*Defined in [Item.ts:330](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L330)*
+*Defined in [Item.ts:334](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L334)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **Gorgeous**: = "Gorgeous"
 
-*Defined in [Item.ts:331](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L331)*
+*Defined in [Item.ts:335](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L335)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **Simple**: = "Simple"
 
-*Defined in [Item.ts:332](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Item.ts#L332)*
+*Defined in [Item.ts:336](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L336)*
