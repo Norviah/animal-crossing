@@ -15,7 +15,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Achievement.ts:30](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Achievement.ts#L30)*
+*Defined in [Achievement.ts:30](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Achievement.ts#L30)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Achievement.ts:31](https://github.com/Norviah/animal-crossing/blob/0850a1e/module/types/Achievement.ts#L31)*
+*Defined in [Achievement.ts:31](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Achievement.ts#L31)*

@@ -6,6 +6,7 @@
 
 ### Enumerations
 
+* [CardColor](../enums/_recipe_.cardcolor.md)
 * [Category](../enums/_recipe_.category.md)
 * [RecipeSourceSheet](../enums/_recipe_.recipesourcesheet.md)
 * [TranslationsSourceSheet](../enums/_recipe_.translationssourcesheet.md)
