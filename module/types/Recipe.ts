@@ -6,16 +6,34 @@ export interface Recipe {
     milesPrice:            number | null;
     sourceNotes:           null | string;
     versionAdded:          Version;
-    versionUnlocked:       VersionUnlocked | null;
+    versionUnlocked:       VersionUnlocked;
     recipesToUnlock:       number;
     category:              Category;
-    craftedItemInternalId: number | string;
+    craftedItemInternalId: number;
+    cardColor:             CardColor | null;
     serialId:              number;
     internalId:            number;
     uniqueEntryId:         string;
     translations:          Translations;
     materials:             { [key: string]: number };
     sources:               string[];
+}
+
+export enum CardColor {
+    Beige = "beige",
+    Blue = "blue",
+    Brick = "brick",
+    Brown = "brown",
+    DarkGray = "dark gray",
+    Gold = "gold",
+    Green = "green",
+    LightGray = "light gray",
+    Orange = "orange",
+    Pink = "pink",
+    Red = "red",
+    Silver = "silver",
+    White = "white",
+    Yellow = "yellow",
 }
 
 export enum Category {
@@ -94,4 +112,5 @@ export enum VersionUnlocked {
     The100 = "1.0.0",
     The110A = "1.1.0a",
     The120 = "1.2.0",
+    The121C = "1.2.1c",
 }

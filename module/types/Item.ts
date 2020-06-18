@@ -7,6 +7,7 @@ export interface Item {
     diy?:                  boolean;
     buy:                   number;
     sell:                  number | null;
+    hhaBasePoints?:        number;
     size?:                 Size;
     milesPrice?:           number | null;
     sourceNotes?:          null | string;
@@ -35,6 +36,7 @@ export interface Item {
     realArtworkTitle?:     string;
     artist?:               string;
     museumDescription?:    string;
+    hhaBaseScore?:         number;
     interact?:             boolean | InteractEnum;
     tag?:                  null | string;
     speakerType?:          SpeakerType | null;
@@ -42,6 +44,7 @@ export interface Item {
     concepts?:             Concept[];
     set?:                  ItemSet | null;
     series?:               Series | null;
+    baseHhaScore?:         number;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape;
     stackSize?:            number;
@@ -53,6 +56,7 @@ export interface Item {
     bodyCustomize?:        boolean;
     patternCustomize?:     boolean;
     kitCost?:              number | null;
+    surface?:              boolean;
     outdoor?:              boolean;
     variantId?:            VariantID | null;
     patternTranslations?:  Translations | null;
@@ -503,6 +507,7 @@ export interface VariationElement {
     closetImage?:          string;
     storageImage?:         string;
     variation:             number | null | string;
+    hhaBasePoints?:        number;
     seasonalAvailability?: SeasonalAvailability;
     mannequinPiece?:       boolean;
     sortOrder?:            number;
@@ -516,11 +521,14 @@ export interface VariationElement {
     styles?:               Style[];
     sources:               Source[];
     themes?:               Theme[];
+    hhaBaseScore?:         number;
+    baseHhaScore?:         number;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
     image?:                string;
     pattern?:              null | string;
     patternTitle?:         PatternTitle | null;
+    surface?:              boolean;
     variantId?:            VariantID;
     patternTranslations?:  Translations | null;
     concepts?:             Concept[];
