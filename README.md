@@ -1,10 +1,10 @@
 ## animal-crossing
 
-A npm database for Animal Crossing: New Horizons, the items were generated from the various public Google Spreadsheets, and the source code for the module is available in the [module](https://github.com/Norviah/animal-crossing/tree/master/module) directory.
+An Animal Crossing: New Horizons database for npm, the data available through this module is generated from various public Google Spreadsheets for Animal Crossing: New Horizons.
 
-For a guide on how to run and generate the converter locally, look at this [README](https://github.com/Norviah/animal-crossing/blob/master/CONVERT.md). Translations are linked to the items of the spreadsheets, but expect errors to arrise as the internal IDs on the [translations](https://docs.google.com/spreadsheets/d/1BjqVeqIrfEezvyrWLUrwMjmK_UbY2LXkZ12mttamTtk/edit#gid=1222873902) and [AC: NH](https://docs.google.com/spreadsheets/d/1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM/edit#gid=1916357977) spreadsheet aren't linked 100% correctly.
+In addition to converting the spreadsheets to JSON, items have been sanitized so working with the data can be easier and friendlier. For example, translations are merged with items, but, errors and mistranslations are possible as the IDs aren't linked 100% correctly, so some translations had to be linked manually.
 
-Documentation is available in the [documentation](https://github.com/Norviah/animal-crossing/tree/master/module/docs) directory.
+For a guide on how to run the converter locally, look at this [README](https://github.com/Norviah/animal-crossing/blob/master/CONVERT.md).
 
 ### Installation
 
@@ -12,45 +12,73 @@ Documentation is available in the [documentation](https://github.com/Norviah/ani
 npm install animal-crossing
 ```
 
+### Documentation
+
+Documentation is generated using [typedoc](https://www.npmjs.com/package/typedoc) with the [typedoc-plugin-markdown](https://www.npmjs.com/package/typedoc-plugin-markdown) plugin, and is available in the [documentation](https://github.com/Norviah/animal-crossing/tree/master/module/docs) directory.
+
 ### Usage
 
-The available items, along with types, are available from this module:
+The following items are available from this module:
+  - `achievements`
+  - `construction`
+  - `creatures`
+  - `events`
+  - `ids`
+  - `items`
+  - `northenHemisphere`
+  - `southernHemisphere`
+  - `reactions`
+  - `recipes`
+  - `translations`
+  - `villagers`
 
-  - achievements
-  - construction
-  - creatures
-  - events
-  - ids
-  - items
-  - northenHemisphere
-  - southernHemisphere
-  - reactions
-  - recipes
-  - translations
-  - villagers
+In addition to types, for those using Typescript:
+  - `IAchievement`
+  - `IConstruction`
+  - `ICreature`
+  - `IEvent`
+  - `IID`
+  - `IItem`
+  - `IHemisphere`
+  - `IReaction`
+  - `IRecipe`
+  - `ITranslation`
+  - `IVillager`
 
-Note that the values are changed from the spreadsheets in favor of JavaScript syntax, for example, `NA` is `null`, `Yes/No` is changed to `true/false`, etc., to see how the values will look like, you can take a look at the [directory](https://github.com/Norviah/animal-crossing/tree/master/combined) with the JSON files. But for the rest of the values, they're the same as the values on the spreadsheets.
+Values of all items are changed in favor of native JavaScript types, for example, `N/A` is changed to `null`, `Yes/No` is changed to `true/false`, etc. If a value essentially represents that the key does not relate to the item, an example being the `Lighting Type` key to the item `acoustic guitar`, the value will be changed to `null`. In addition, if a key can have multiple values, for example, the source or theme of an item, the values will be split and changed into an array.
 
-In addition, the keys are changed to camelCase, so they won't be the same as the ones on the spreadsheets.
+As for the rest of the values, they're the same as they appear on the spreadsheets. To view how the values are represented, you can look at the [documentation](https://github.com/Norviah/animal-crossing/tree/master/module/docs) or the JSON files [here](https://github.com/Norviah/animal-crossing/tree/master/combined).
 
-### Example
+#### Examples
 
-```javascript
+All entries are arrays, so to find a certain item you want, you can use the `find` method.
 
+```Typescript
+// node.js
 const { villagers } = require('animal-crossing');
 
-// Note that all entries are arrays.
-const freya = villagers.find((villager) => villager.name === 'Freya');
-console.log(freya); // => information about Freya
+// Typescript
+import { villagers } from 'animal-crossing'
 
+const freya = villagers.find(villager => villager.name === 'Freya');
+
+// Once you have found the item you're looking for, you can view specific
+// information for said item. For example, for villagers, you can view
+// translations of their name and their catchphrase.
+
+console.log(freya.translations); => translations of Freya's name,
+console.log(freya.catchphrases); => and translations for her catchphrase.
+
+// To view the properties of all items, take a look at the documentation directory.
 ```
 
-### Credit
+### Credit/Thanks
 
-The spreadsheets converted are:
+The spreadsheets that were used and is available through this module are:
+  - the [Animal Crossing: New Horizons](https://docs.google.com/spreadsheets/d/1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM/edit#gid=1397507627) spreadsheet, specifically the editor's copy,
+  - the [Translations](https://tinyurl.com/acnh-translation) spreadsheet, and
+  - the [Seasons/Calendar](https://tinyurl.com/acnh-calendar) spreadsheet.
 
-  - the [AC: NH](https://docs.google.com/spreadsheets/d/1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM/edit#gid=1916357977) Spreadsheet, specifically the editor's edition,
-  - the [translations](https://docs.google.com/spreadsheets/d/1BjqVeqIrfEezvyrWLUrwMjmK_UbY2LXkZ12mttamTtk/edit#gid=1222873902) spreadsheet, and
-  - the [seasons and events](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=1805677455) spreadsheet.
+If you use any JSON file and/or this module for a project, please credit and link these spreadsheets somewhere in your project!
 
-And thanks to [acdb-team](https://github.com/acdb-team), as I took inspiration from their repo, [google-sheets-to-json](https://github.com/acdb-team/google-sheets-to-json).
+And thanks to the [acdb-team](https://github.com/acdb-team), as I took inspiration from their repo, [google-sheets-to-json](https://github.com/acdb-team/google-sheets-to-json).
