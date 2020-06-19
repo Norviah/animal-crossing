@@ -36,6 +36,9 @@ async function main(): Promise<void> {
     await import(handler);
   }
 
+  // Merge items with recipes.
+  await import('./scripts/recipes');
+
   // Combine every file via categories.
   await import('./scripts/combine');
 }
