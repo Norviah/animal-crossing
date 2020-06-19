@@ -39,7 +39,7 @@
 
 • **Size1X05**: = "1x0.5 "
 
-*Defined in [Item.ts:289](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L289)*
+*Defined in [Item.ts:396](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L396)*
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 • **Size1X1**: = "1x1 "
 
-*Defined in [Item.ts:290](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L290)*
+*Defined in [Item.ts:397](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L397)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **Size1X15**: = "1x1.5 "
 
-*Defined in [Item.ts:291](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L291)*
+*Defined in [Item.ts:398](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L398)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 • **Size1X2**: = "1x2 "
 
-*Defined in [Item.ts:292](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L292)*
+*Defined in [Item.ts:399](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L399)*
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 • **Size2X1**: = "2x1 "
 
-*Defined in [Item.ts:293](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L293)*
+*Defined in [Item.ts:400](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L400)*
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 • **Size2X15**: = "2x1.5 "
 
-*Defined in [Item.ts:294](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L294)*
+*Defined in [Item.ts:401](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L401)*
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 • **Size2X2**: = "2x2 "
 
-*Defined in [Item.ts:295](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L295)*
+*Defined in [Item.ts:402](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L402)*
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 • **Size3X2**: = "3x2 "
 
-*Defined in [Item.ts:296](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L296)*
+*Defined in [Item.ts:403](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L403)*
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 • **Size3X3**: = "3x3 "
 
-*Defined in [Item.ts:297](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L297)*
+*Defined in [Item.ts:404](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L404)*
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 • **Size4X3**: = "4x3"
 
-*Defined in [Item.ts:298](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L298)*
+*Defined in [Item.ts:405](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L405)*
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 • **The05X1**: = "0.5x1 "
 
-*Defined in [Item.ts:299](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L299)*
+*Defined in [Item.ts:406](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L406)*
 
 ___
 
@@ -127,7 +127,7 @@ ___
 
 • **The15X15**: = "1.5x1.5"
 
-*Defined in [Item.ts:300](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L300)*
+*Defined in [Item.ts:407](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L407)*
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 • **The1X05**: = "1x0.5"
 
-*Defined in [Item.ts:301](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L301)*
+*Defined in [Item.ts:408](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L408)*
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 • **The1X1**: = "1x1"
 
-*Defined in [Item.ts:302](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L302)*
+*Defined in [Item.ts:409](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L409)*
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 • **The1X15**: = "1x1.5"
 
-*Defined in [Item.ts:303](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L303)*
+*Defined in [Item.ts:410](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L410)*
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 • **The1X2**: = "1x2"
 
-*Defined in [Item.ts:304](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L304)*
+*Defined in [Item.ts:411](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L411)*
 
 ___
 
@@ -167,7 +167,7 @@ ___
 
 • **The2X05**: = "2x0.5"
 
-*Defined in [Item.ts:305](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L305)*
+*Defined in [Item.ts:412](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L412)*
 
 ___
 
@@ -175,7 +175,7 @@ ___
 
 • **The2X1**: = "2x1"
 
-*Defined in [Item.ts:306](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L306)*
+*Defined in [Item.ts:413](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L413)*
 
 ___
 
@@ -183,7 +183,7 @@ ___
 
 • **The2X15**: = "2x1.5"
 
-*Defined in [Item.ts:307](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L307)*
+*Defined in [Item.ts:414](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L414)*
 
 ___
 
@@ -191,7 +191,7 @@ ___
 
 • **The2X2**: = "2x2"
 
-*Defined in [Item.ts:308](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L308)*
+*Defined in [Item.ts:415](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L415)*
 
 ___
 
@@ -199,7 +199,7 @@ ___
 
 • **The3X1**: = "3x1"
 
-*Defined in [Item.ts:309](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L309)*
+*Defined in [Item.ts:416](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L416)*
 
 ___
 
@@ -207,7 +207,7 @@ ___
 
 • **The3X2**: = "3x2"
 
-*Defined in [Item.ts:310](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L310)*
+*Defined in [Item.ts:417](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L417)*
 
 ___
 
@@ -215,7 +215,7 @@ ___
 
 • **The3X3**: = "3x3"
 
-*Defined in [Item.ts:311](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L311)*
+*Defined in [Item.ts:418](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L418)*
 
 ___
 
@@ -223,7 +223,7 @@ ___
 
 • **The4X3**: = "4x3 "
 
-*Defined in [Item.ts:312](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L312)*
+*Defined in [Item.ts:419](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L419)*
 
 ___
 
@@ -231,7 +231,7 @@ ___
 
 • **The4X4**: = "4x4 "
 
-*Defined in [Item.ts:313](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L313)*
+*Defined in [Item.ts:420](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L420)*
 
 ___
 
@@ -239,4 +239,4 @@ ___
 
 • **The5X5**: = "5x5 "
 
-*Defined in [Item.ts:314](https://github.com/Norviah/animal-crossing/blob/1f4a387/module/types/Item.ts#L314)*
+*Defined in [Item.ts:421](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Item.ts#L421)*
