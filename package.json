@@ -12,13 +12,13 @@
     "build:types": "bash ./bin/types.sh",
     "build:docs": "/bin/rm -rf ./module/docs; ./node_modules/typedoc/bin/typedoc --plugin typedoc-plugin-markdown --includes ./module/**/* --exclude \"./src/**/*.ts\" --out ./module/docs && sed -i '' '4d;5d' ./module/docs/README.md",
     "build:module-src": "./node_modules/typescript/bin/tsc --outDir lib -p module",
-    "build:module": "npm run convert && npm run build:types && npm run build:module-src && npm run build:docs",
+    "build:module": "npm run build:src && npm run start && npm run build:types && npm run build:module-src && npm run build:docs",
     "publish:patch": "npm run build:module && ./node_modules/standard-version/bin/cli.js --release-as patch && npm run publish",
     "publish:minor": "npm run build:module && ./node_modules/standard-version/bin/cli.js --release-as minor && npm run publish",
     "publish:major": "npm run build:module && ./node_modules/standard-version/bin/cli.js --release-as major && npm run publish",
     "publish:version": "npm run build:module && ./node_modules/standard-version/bin/cli.js --release-as $1 && npm run publish",
     "publish": "git push --follow-tags origin master && npm publish",
-    "convert": "/bin/rm -rf combined data raw; npm run build:src && node ./build/index.js"
+    "start": "/bin/rm -rf combined data raw; node ./build/index.js"
   },
   "repository": {
     "type": "git",
