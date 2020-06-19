@@ -6,6 +6,7 @@
 
 ### Enumerations
 
+* [CardColor](../enums/_item_.cardcolor.md)
 * [Catalog](../enums/_item_.catalog.md)
 * [Category](../enums/_item_.category.md)
 * [CeilingType](../enums/_item_.ceilingtype.md)
@@ -20,6 +21,7 @@
 * [PatternTitle](../enums/_item_.patterntitle.md)
 * [PatternTranslationsSourceSheet](../enums/_item_.patterntranslationssourcesheet.md)
 * [PrimaryShape](../enums/_item_.primaryshape.md)
+* [RecipeSourceSheet](../enums/_item_.recipesourcesheet.md)
 * [SeasonalAvailability](../enums/_item_.seasonalavailability.md)
 * [SecondaryShape](../enums/_item_.secondaryshape.md)
 * [Series](../enums/_item_.series.md)
@@ -41,6 +43,8 @@
 ### Interfaces
 
 * [Item](../interfaces/_item_.item.md)
+* [ItemTranslations](../interfaces/_item_.itemtranslations.md)
+* [Recipe](../interfaces/_item_.recipe.md)
+* [RecipeTranslations](../interfaces/_item_.recipetranslations.md)
 * [Translations](../interfaces/_item_.translations.md)
-* [TranslationsClass](../interfaces/_item_.translationsclass.md)
 * [VariationElement](../interfaces/_item_.variationelement.md)
