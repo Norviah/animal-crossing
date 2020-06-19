@@ -140,9 +140,6 @@ for (const file of files) {
     // item's name or price. We remove those values from every variation.
     const values: obj[] = duplicates.map((item: any) => omit(item, duplicateValues));
 
-    // Using the same values, we initialize a new object containing the base
-    // for the items. We pick the values that are the same for each variation.
-
     // Using the same values, we initialize a new object which represents the
     // base of the item, for a lack of better words. The base consists of the
     // values that repeat with every variation, so we only have one instance.
