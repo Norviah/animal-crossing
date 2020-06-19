@@ -57,7 +57,53 @@
     ],
     "themes": [
       "fairy tale"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "acorn pochette",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Fall",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Bags",
+      "craftedItemInternalId": 7492,
+      "cardColor": "brown",
+      "serialId": 2982,
+      "internalId": 632,
+      "uniqueEntryId": "a9FFbP64fTcJ3Cn5E",
+      "translations": {
+        "sourceSheet": "Bags",
+        "id": 980,
+        "version": "1.0.0",
+        "english": "acorn pochette",
+        "englishEurope": "acorn pochette",
+        "german": "Eichel-Pochette",
+        "spanish": "bolsito bellota",
+        "spanishUs": "bolsita bellota",
+        "french": "pochette gland",
+        "frenchUs": "pochette gland",
+        "italian": "pochette ghianda",
+        "dutch": "eikeltasje",
+        "chinese": "橡栗斜挎包",
+        "chineseTraditional": "橡栗側背包",
+        "japanese": "どんぐりポシェット",
+        "korean": "도토리 미니백",
+        "russian": "сумочка-желудь",
+        "plural": false,
+        "internalIds": [
+          7492
+        ]
+      },
+      "materials": {
+        "acorn": 6
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Bags",
@@ -118,7 +164,53 @@
     "themes": [
       "outdoorsy",
       "work"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "basket pack",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Spring",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Bags",
+      "craftedItemInternalId": 7506,
+      "cardColor": "green",
+      "serialId": 2580,
+      "internalId": 645,
+      "uniqueEntryId": "j2a3p7Gtpy8fW2Z5S",
+      "translations": {
+        "sourceSheet": "Bags",
+        "id": 995,
+        "version": "1.0.0",
+        "english": "basket pack",
+        "englishEurope": "basket pack",
+        "german": "Tragekorb",
+        "spanish": "mochila cesta",
+        "spanishUs": "mochila cesta",
+        "french": "claie à panier",
+        "frenchUs": "claie à panier",
+        "italian": "cesta",
+        "dutch": "mandrugzak",
+        "chinese": "背篓",
+        "chineseTraditional": "後背架",
+        "japanese": "しょいこ",
+        "korean": "바구니 가방",
+        "russian": "заплечная корзина",
+        "plural": false,
+        "internalIds": [
+          7506
+        ]
+      },
+      "materials": {
+        "young spring bamboo": 6
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Bags",
@@ -179,7 +271,8 @@
     "themes": [
       "outdoorsy",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -241,7 +334,58 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Bunny Day bag",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Bags",
+      "craftedItemInternalId": 12447,
+      "cardColor": "yellow",
+      "serialId": 3781,
+      "internalId": 694,
+      "uniqueEntryId": "9njGw9d2nxaB5RiGR",
+      "translations": {
+        "sourceSheet": "Bags",
+        "id": 1203,
+        "version": "1.1.0",
+        "english": "Bunny Day bag",
+        "englishEurope": "Bunny Day bag",
+        "german": "Häschentag-Rucksack",
+        "spanish": "mochila Caza del Huevo",
+        "spanishUs": "mochila Caza del Huevo",
+        "french": "sac fête des œufs",
+        "frenchUs": "sac fête des œufs",
+        "italian": "zaino caccia all'uovo",
+        "dutch": "eiertas",
+        "chinese": "复活节包包",
+        "chineseTraditional": "復活節包包",
+        "japanese": "イースターなバッグ",
+        "korean": "이스터 가방",
+        "russian": "сумка на День зайцев",
+        "plural": false,
+        "internalIds": [
+          12447
+        ]
+      },
+      "materials": {
+        "earth egg": 1,
+        "stone egg": 1,
+        "leaf egg": 1,
+        "wood egg": 1,
+        "sky egg": 1,
+        "water egg": 1
+      },
+      "sources": [
+        "All villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Bags",
@@ -303,7 +447,8 @@
       "everyday",
       "formal",
       "party"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -363,7 +508,8 @@
     ],
     "themes": [
       "everyday"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -423,7 +569,53 @@
     ],
     "themes": [
       "fairy tale"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry-blossom pochette",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Cherry-Blossom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Bags",
+      "craftedItemInternalId": 7490,
+      "cardColor": "pink",
+      "serialId": 2681,
+      "internalId": 630,
+      "uniqueEntryId": "vh9iLeDKLo3LR8T4G",
+      "translations": {
+        "sourceSheet": "Bags",
+        "id": 978,
+        "version": "1.0.0",
+        "english": "cherry-blossom pochette",
+        "englishEurope": "cherry-blossom pochette",
+        "german": "Kirschblüten-Pochette",
+        "spanish": "bolsito flor de cerezo",
+        "spanishUs": "bolsita flor de cerezo",
+        "french": "pochette fleur de cerisier",
+        "frenchUs": "pochette fleur de cerisier",
+        "italian": "pochette fiore di ciliegio",
+        "dutch": "kersenbloesemtasje",
+        "chinese": "樱花斜挎包",
+        "chineseTraditional": "櫻花側背包",
+        "japanese": "さくらのポシェット",
+        "korean": "벚꽃 미니백",
+        "russian": "сумочка «Лепестки вишни»",
+        "plural": false,
+        "internalIds": [
+          7490
+        ]
+      },
+      "materials": {
+        "cherry-blossom petal": 6
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Bags",
@@ -484,7 +676,8 @@
     "themes": [
       "outdoorsy",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -545,7 +738,8 @@
     "themes": [
       "formal",
       "party"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -607,7 +801,53 @@
       "outdoorsy",
       "comfy",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "knitted-grass backpack",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Bags",
+      "craftedItemInternalId": 7511,
+      "cardColor": "green",
+      "serialId": 1288,
+      "internalId": 636,
+      "uniqueEntryId": "CoEssbnPs7xhuMbTF",
+      "translations": {
+        "sourceSheet": "Bags",
+        "id": 1000,
+        "version": "1.0.0",
+        "english": "knitted-grass backpack",
+        "englishEurope": "knitted-grass backpack",
+        "german": "Grasgeflecht-Rucksack",
+        "spanish": "mochila de mimbre",
+        "spanishUs": "mochila de mimbre",
+        "french": "sac à dos végétal tressé",
+        "frenchUs": "sac à dos végétal tressé",
+        "italian": "zaino di maglia",
+        "dutch": "rugzak van geweven gras",
+        "chinese": "草编双肩包",
+        "chineseTraditional": "草編後背包",
+        "japanese": "くさあみリュック",
+        "korean": "풀잎 니트 배낭",
+        "russian": "плетеный рюкзак",
+        "plural": false,
+        "internalIds": [
+          7511
+        ]
+      },
+      "materials": {
+        "clump of weeds": 20
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Bags",
@@ -668,7 +908,54 @@
     "themes": [
       "fairy tale",
       "outdoorsy"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "log pack",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Bags",
+      "craftedItemInternalId": 7498,
+      "cardColor": "brown",
+      "serialId": 570,
+      "internalId": 638,
+      "uniqueEntryId": "fGoNxEDmgeZRehXXj",
+      "translations": {
+        "sourceSheet": "Bags",
+        "id": 987,
+        "version": "1.0.0",
+        "english": "log pack",
+        "englishEurope": "log pack",
+        "german": "Holzfällerrucksack",
+        "spanish": "mochila troncos",
+        "spanishUs": "mochila troncos",
+        "french": "claie de portage",
+        "frenchUs": "sac à dos de portage",
+        "italian": "zaino con telaio",
+        "dutch": "boomstammenrugzak",
+        "chinese": "背架",
+        "chineseTraditional": "背薪架",
+        "japanese": "せおいばしご",
+        "korean": "지게",
+        "russian": "вязанка дров",
+        "plural": false,
+        "internalIds": [
+          7498
+        ]
+      },
+      "materials": {
+        "wood": 3,
+        "hardwood": 5
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Bags",
@@ -728,7 +1015,53 @@
     ],
     "themes": [
       "fairy tale"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "maple-leaf pochette",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Maple Leaf Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Bags",
+      "craftedItemInternalId": 7491,
+      "cardColor": "brown",
+      "serialId": 2981,
+      "internalId": 631,
+      "uniqueEntryId": "7uFqbJaQoW2doC3B3",
+      "translations": {
+        "sourceSheet": "Bags",
+        "id": 979,
+        "version": "1.0.0",
+        "english": "maple-leaf pochette",
+        "englishEurope": "maple-leaf pochette",
+        "german": "Ahorn-Pochette",
+        "spanish": "bolsito hoja de arce",
+        "spanishUs": "bolsita hoja de arce",
+        "french": "pochette feuille d'érable",
+        "frenchUs": "pochette feuille d'érable",
+        "italian": "pochette foglia d'acero",
+        "dutch": "esdoornbladtasje",
+        "chinese": "枫叶斜挎包",
+        "chineseTraditional": "楓葉側背包",
+        "japanese": "もみじのポシェット",
+        "korean": "단풍 미니백",
+        "russian": "сумочка «Кленовый лист»",
+        "plural": false,
+        "internalIds": [
+          7491
+        ]
+      },
+      "materials": {
+        "maple leaf": 6
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Bags",
@@ -788,7 +1121,8 @@
     ],
     "themes": [
       "everyday"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -849,7 +1183,54 @@
     "themes": [
       "fairy tale",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "shellfish pochette",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Summer",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Bags",
+      "craftedItemInternalId": 7494,
+      "cardColor": "white",
+      "serialId": 2880,
+      "internalId": 634,
+      "uniqueEntryId": "yArwqRFy5soMedxMk",
+      "translations": {
+        "sourceSheet": "Bags",
+        "id": 982,
+        "version": "1.0.0",
+        "english": "shellfish pochette",
+        "englishEurope": "shellfish pochette",
+        "german": "Muschel-Pochette",
+        "spanish": "bolsito concha marina",
+        "spanishUs": "bolsita concha marina",
+        "french": "pochette coquillage",
+        "frenchUs": "pochette coquillage",
+        "italian": "pochette guscio",
+        "dutch": "schelpentasje",
+        "chinese": "贝壳斜挎包",
+        "chineseTraditional": "貝殼側背包",
+        "japanese": "かいがらポシェット",
+        "korean": "조개 미니백",
+        "russian": "сумочка-моллюск",
+        "plural": false,
+        "internalIds": [
+          7494
+        ]
+      },
+      "materials": {
+        "giant clam": 2,
+        "summer shell": 6
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Bags",
@@ -911,7 +1292,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "snowflake pochette",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Winter",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Bags",
+      "craftedItemInternalId": 7493,
+      "cardColor": "blue",
+      "serialId": 3380,
+      "internalId": 633,
+      "uniqueEntryId": "8b7zapAg4LJDda6Tk",
+      "translations": {
+        "sourceSheet": "Bags",
+        "id": 981,
+        "version": "1.0.0",
+        "english": "snowflake pochette",
+        "englishEurope": "snowflake pochette",
+        "german": "Schneeflocken-Pochette",
+        "spanish": "bolsito copo de nieve",
+        "spanishUs": "bolsita copo de nieve",
+        "french": "pochette flocon",
+        "frenchUs": "pochette flocon",
+        "italian": "pochette fiocco di neve",
+        "dutch": "sneeuwvloktasje",
+        "chinese": "雪花斜挎包",
+        "chineseTraditional": "雪花側背包",
+        "japanese": "スノーフレークポシェット",
+        "korean": "눈꽃 미니백",
+        "russian": "сумочка-снежинка",
+        "plural": false,
+        "internalIds": [
+          7493
+        ]
+      },
+      "materials": {
+        "snowflake": 6
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Bags",
@@ -973,7 +1400,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "star pochette",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Bags",
+      "craftedItemInternalId": 7489,
+      "cardColor": "silver",
+      "serialId": 2281,
+      "internalId": 627,
+      "uniqueEntryId": "4fJpnNtzwpyCgJcNg",
+      "translations": {
+        "sourceSheet": "Bags",
+        "id": 977,
+        "version": "1.0.0",
+        "english": "star pochette",
+        "englishEurope": "star pochette",
+        "german": "Sternchen-Pochette",
+        "spanish": "bolsito estrella",
+        "spanishUs": "bolsita estrella",
+        "french": "pochette étoile",
+        "frenchUs": "pochette étoile",
+        "italian": "pochette stella",
+        "dutch": "sterrentasje",
+        "chinese": "星星斜挎包",
+        "chineseTraditional": "星星側背包",
+        "japanese": "スターなポシェット",
+        "korean": "별무늬 미니백",
+        "russian": "сумочка-звезда",
+        "plural": false,
+        "internalIds": [
+          7489
+        ]
+      },
+      "materials": {
+        "star fragment": 6
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Bags",
@@ -1034,7 +1507,8 @@
     "themes": [
       "comfy",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -1096,7 +1570,8 @@
       "outdoorsy",
       "sporty",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -1157,7 +1632,8 @@
     "themes": [
       "outdoorsy",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -1275,7 +1751,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -1428,7 +1905,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -1523,7 +2001,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -1616,7 +2095,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -1737,7 +2217,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -1886,7 +2367,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -1979,7 +2461,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -2128,7 +2611,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -2221,7 +2705,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -2312,7 +2797,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -2433,7 +2919,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -2528,7 +3015,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -2652,7 +3140,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -2747,7 +3236,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -3000,7 +3490,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -3121,7 +3612,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -3214,7 +3706,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -3309,7 +3802,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -3402,7 +3896,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -3523,7 +4018,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -3644,7 +4140,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -3768,7 +4265,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -3861,7 +4359,8 @@
           "goth"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -4010,7 +4509,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -4159,7 +4659,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Bags",
@@ -4283,6 +4784,7 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   }
 ]

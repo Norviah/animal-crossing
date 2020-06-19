@@ -60,7 +60,8 @@
     "themes": [
       "formal",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -124,7 +125,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "apple hat",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 9871,
+      "cardColor": "red",
+      "serialId": 1781,
+      "internalId": 622,
+      "uniqueEntryId": "5ABmQxkN3SatETcEg",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1122,
+        "version": "1.0.0",
+        "english": "apple hat",
+        "englishEurope": "apple hat",
+        "german": "Apfelhut",
+        "spanish": "gorro manzana",
+        "spanishUs": "gorro manzana",
+        "french": "chapeau pomme",
+        "frenchUs": "chapeau pomme",
+        "italian": "berretto mela",
+        "dutch": "appelmuts",
+        "chinese": "苹果帽子",
+        "chineseTraditional": "蘋果帽子",
+        "japanese": "リンゴのぼうし",
+        "korean": "사과 모자",
+        "russian": "шапка-яблоко",
+        "plural": false,
+        "internalIds": [
+          9871
+        ]
+      },
+      "materials": {
+        "apple": 5
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -187,7 +234,53 @@
     "themes": [
       "fairy tale",
       "outdoorsy"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo hat",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 5143,
+      "cardColor": "green",
+      "serialId": 1284,
+      "internalId": 607,
+      "uniqueEntryId": "p6dWvgRwv6574A7md",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 594,
+        "version": "1.0.0",
+        "english": "bamboo hat",
+        "englishEurope": "bamboo hat",
+        "german": "Bambushut",
+        "spanish": "gorro de bambú cónico",
+        "spanishUs": "gorro de bambú cónico",
+        "french": "nón lá",
+        "frenchUs": "nón lá",
+        "italian": "cappello di bambù",
+        "dutch": "bamboehoed",
+        "chinese": "斗笠",
+        "chineseTraditional": "斗笠",
+        "japanese": "かさぼうし",
+        "korean": "삼각 삿갓",
+        "russian": "бамбуковая шапочка",
+        "plural": false,
+        "internalIds": [
+          5143
+        ]
+      },
+      "materials": {
+        "clump of weeds": 10
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -251,7 +344,8 @@
       "everyday",
       "fairy tale",
       "party"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -315,7 +409,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "blue rose crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 7377,
+      "cardColor": "green",
+      "serialId": 3615,
+      "internalId": 459,
+      "uniqueEntryId": "5oscGctPhHbHFeSHY",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 959,
+        "version": "1.0.0",
+        "english": "blue rose crown",
+        "englishEurope": "blue rose crown",
+        "german": "Blaurosenkrone",
+        "spanish": "guirnalda rosa azul",
+        "spanishUs": "tiara rosas azules",
+        "french": "coiffe roses bleues",
+        "frenchUs": "coiffe roses bleues",
+        "italian": "corona di rose blu",
+        "dutch": "blauwe-rozenkroon",
+        "chinese": "蓝色玫瑰花冠",
+        "chineseTraditional": "藍色玫瑰花冠",
+        "japanese": "バラのかんむり・ブルー",
+        "korean": "블루 장미 화관",
+        "russian": "синий венок из роз",
+        "plural": false,
+        "internalIds": [
+          7377
+        ]
+      },
+      "materials": {
+        "blue roses": 6
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -380,7 +520,8 @@
       "formal",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -444,7 +585,58 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Bunny Day crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 12445,
+      "cardColor": "yellow",
+      "serialId": 3780,
+      "internalId": 693,
+      "uniqueEntryId": "ARB6gWR7MFyiPoP3b",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1201,
+        "version": "1.1.0",
+        "english": "Bunny Day crown",
+        "englishEurope": "Bunny Day crown",
+        "german": "Häschentag-Krone",
+        "spanish": "guirnalda Caza del Huevo",
+        "spanishUs": "tiara Caza del Huevo",
+        "french": "coiffe fête des œufs",
+        "frenchUs": "coiffe fête des œufs",
+        "italian": "corona caccia all'uovo",
+        "dutch": "eierkroon",
+        "chinese": "复活节花冠",
+        "chineseTraditional": "復活節花冠",
+        "japanese": "イースターなかんむり",
+        "korean": "이스터 화관",
+        "russian": "корона на День зайцев",
+        "plural": false,
+        "internalIds": [
+          12445
+        ]
+      },
+      "materials": {
+        "earth egg": 1,
+        "stone egg": 1,
+        "leaf egg": 1,
+        "wood egg": 1,
+        "sky egg": 1,
+        "water egg": 1
+      },
+      "sources": [
+        "All villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -507,7 +699,8 @@
     "themes": [
       "formal",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -569,7 +762,8 @@
     ],
     "themes": [
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -633,7 +827,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry hat",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 9873,
+      "cardColor": "yellow",
+      "serialId": 1481,
+      "internalId": 613,
+      "uniqueEntryId": "t7SsbKgRAa6GWgjR8",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1124,
+        "version": "1.0.0",
+        "english": "cherry hat",
+        "englishEurope": "cherry hat",
+        "german": "Kirschhut",
+        "spanish": "gorro cerezas",
+        "spanishUs": "gorro cerezas",
+        "french": "chapeau cerise",
+        "frenchUs": "chapeau cerise",
+        "italian": "berretto ciliegia",
+        "dutch": "kersenmuts",
+        "chinese": "樱桃帽子",
+        "chineseTraditional": "櫻桃帽子",
+        "japanese": "さくらんぼのぼうし",
+        "korean": "체리 모자",
+        "russian": "шапка-вишня",
+        "plural": false,
+        "internalIds": [
+          9873
+        ]
+      },
+      "materials": {
+        "cherry": 5
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -697,7 +937,54 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "chic mum crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 5118,
+      "cardColor": "green",
+      "serialId": 3604,
+      "internalId": 259,
+      "uniqueEntryId": "tZEt9aNRec7gTZDjp",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 574,
+        "version": "1.0.0",
+        "english": "chic mum crown",
+        "englishEurope": "chic mum crown",
+        "german": "Edelchrysanthemenkrone",
+        "spanish": "guirnalda crisantemo chic",
+        "spanishUs": "tiara crisantemos chic",
+        "french": "coiffe chrysanth. chic",
+        "frenchUs": "coiffe chrysanth. chic",
+        "italian": "corona di crisantemi chic",
+        "dutch": "chique chrysantenkroon",
+        "chinese": "典雅菊花花冠",
+        "chineseTraditional": "典雅菊花花冠",
+        "japanese": "キクのかんむり・シック",
+        "korean": "시크 국화 화관",
+        "russian": "диво-венок из хризантем",
+        "plural": false,
+        "internalIds": [
+          5118
+        ]
+      },
+      "materials": {
+        "purple mums": 3,
+        "pink mums": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -761,7 +1048,54 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "chic rose crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 5113,
+      "cardColor": "green",
+      "serialId": 3614,
+      "internalId": 254,
+      "uniqueEntryId": "af3PHSYfriLmgvb8b",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 569,
+        "version": "1.0.0",
+        "english": "chic rose crown",
+        "englishEurope": "chic rose crown",
+        "german": "Edelrosenkrone",
+        "spanish": "guirnalda rosa oscura",
+        "spanishUs": "tiara rosas oscuras",
+        "french": "coiffe roses chic",
+        "frenchUs": "coiffe roses chic",
+        "italian": "corona di rose chic",
+        "dutch": "chique rozenkroon",
+        "chinese": "典雅玫瑰花冠",
+        "chineseTraditional": "典雅玫瑰花冠",
+        "japanese": "バラのかんむり・シック",
+        "korean": "시크 장미 화관",
+        "russian": "диво-венок из роз",
+        "plural": false,
+        "internalIds": [
+          5113
+        ]
+      },
+      "materials": {
+        "purple roses": 3,
+        "black roses": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -825,7 +1159,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "chic tulip crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 5103,
+      "cardColor": "green",
+      "serialId": 3610,
+      "internalId": 244,
+      "uniqueEntryId": "AWo72X4YM3PnWSL2P",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 559,
+        "version": "1.0.0",
+        "english": "chic tulip crown",
+        "englishEurope": "chic tulip crown",
+        "german": "Edeltulpenkrone",
+        "spanish": "guirnalda tulipán chic",
+        "spanishUs": "tiara tulipanes chic",
+        "french": "coiffe tulipes chic",
+        "frenchUs": "coiffe tulipes chic",
+        "italian": "corona di tulipani chic",
+        "dutch": "chique tulpenkroon",
+        "chinese": "典雅郁金香花冠",
+        "chineseTraditional": "典雅鬱金香花冠",
+        "japanese": "チューリップのかんむり・シック",
+        "korean": "시크 튤립 화관",
+        "russian": "диво-венок из тюльпанов",
+        "plural": false,
+        "internalIds": [
+          5103
+        ]
+      },
+      "materials": {
+        "purple tulips": 2,
+        "pink tulips": 2,
+        "orange tulips": 1
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -887,7 +1269,8 @@
     ],
     "themes": [
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -953,7 +1336,8 @@
       "party",
       "theatrical",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -1017,7 +1401,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cool hyacinth crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 5097,
+      "cardColor": "green",
+      "serialId": 3621,
+      "internalId": 238,
+      "uniqueEntryId": "zRzWiZwk8nTjaPxy7",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 553,
+        "version": "1.0.0",
+        "english": "cool hyacinth crown",
+        "englishEurope": "cool hyacinth crown",
+        "german": "Bunthyazinthenkrone",
+        "spanish": "guirnalda jacinto refinada",
+        "spanishUs": "tiara jacintos atrevida",
+        "french": "coiffe jacinthes raffinée",
+        "frenchUs": "coiffe jacinthes raffinée",
+        "italian": "corona di giacinti spavalda",
+        "dutch": "toffe hyacintenkroon",
+        "chinese": "清新风信子花冠",
+        "chineseTraditional": "清新風信子花冠",
+        "japanese": "ヒヤシンスのかんむり・クール",
+        "korean": "쿨 히아신스 화관",
+        "russian": "яркий венок из гиацинтов",
+        "plural": false,
+        "internalIds": [
+          5097
+        ]
+      },
+      "materials": {
+        "blue hyacinths": 4,
+        "pink hyacinths": 2,
+        "orange hyacinths": 2
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1081,7 +1513,54 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cool pansy crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 5106,
+      "cardColor": "green",
+      "serialId": 3618,
+      "internalId": 247,
+      "uniqueEntryId": "HH3M3xNAeCLsHTZRj",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 562,
+        "version": "1.0.0",
+        "english": "cool pansy crown",
+        "englishEurope": "cool pansy crown",
+        "german": "Buntveilchenkrone",
+        "spanish": "guirnalda viola refinada",
+        "spanishUs": "tiara violas atrevida",
+        "french": "coiffe pensées raffinée",
+        "frenchUs": "coiffe pensées raffinée",
+        "italian": "corona di viole spavalda",
+        "dutch": "toffe viooltjeskroon",
+        "chinese": "清新三色堇花冠",
+        "chineseTraditional": "清新三色堇花冠",
+        "japanese": "パンジーのかんむり・クール",
+        "korean": "쿨 팬지 화관",
+        "russian": "яркий венок из фиалок",
+        "plural": false,
+        "internalIds": [
+          5106
+        ]
+      },
+      "materials": {
+        "orange pansies": 3,
+        "blue pansies": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1145,7 +1624,54 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cool windflower crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 5100,
+      "cardColor": "green",
+      "serialId": 3601,
+      "internalId": 241,
+      "uniqueEntryId": "8KsLNr5dskMACBgmg",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 556,
+        "version": "1.0.0",
+        "english": "cool windflower crown",
+        "englishEurope": "cool windflower crown",
+        "german": "Buntanemonenkrone",
+        "spanish": "guirnalda anémona refinada",
+        "spanishUs": "tiara anémonas atrevida",
+        "french": "coiffe anémones raffinée",
+        "frenchUs": "coiffe anémones raffinée",
+        "italian": "corona di anemoni spavalda",
+        "dutch": "toffe anemonenkroon",
+        "chinese": "清新银莲花花冠",
+        "chineseTraditional": "清新銀蓮花花冠",
+        "japanese": "アネモネのかんむり・クール",
+        "korean": "쿨 아네모네 화관",
+        "russian": "яркий венок из ветрениц",
+        "plural": false,
+        "internalIds": [
+          5100
+        ]
+      },
+      "materials": {
+        "blue windflowers": 3,
+        "pink windflowers": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1209,7 +1735,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cosmos crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 5108,
+      "cardColor": "green",
+      "serialId": 3606,
+      "internalId": 249,
+      "uniqueEntryId": "RBhKgvizEg6uocZvQ",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 564,
+        "version": "1.0.0",
+        "english": "cosmos crown",
+        "englishEurope": "cosmos crown",
+        "german": "Cosmeenkrone",
+        "spanish": "guirnalda cosmos",
+        "spanishUs": "tiara cosmos",
+        "french": "coiffe cosmos",
+        "frenchUs": "coiffe cosmos",
+        "italian": "corona di cosmee",
+        "dutch": "cosmeakroon",
+        "chinese": "波斯菊花冠",
+        "chineseTraditional": "波斯菊花冠",
+        "japanese": "コスモスのかんむり",
+        "korean": "코스모스 화관",
+        "russian": "венок из космей",
+        "plural": false,
+        "internalIds": [
+          5108
+        ]
+      },
+      "materials": {
+        "red cosmos": 2,
+        "yellow cosmos": 2,
+        "white cosmos": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1274,7 +1848,8 @@
       "formal",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -1338,7 +1913,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cute lily crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 5115,
+      "cardColor": "green",
+      "serialId": 3624,
+      "internalId": 256,
+      "uniqueEntryId": "WNR9mPLvre4qtfrnQ",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 571,
+        "version": "1.0.0",
+        "english": "cute lily crown",
+        "englishEurope": "cute lily crown",
+        "german": "Buntlilienkrone",
+        "spanish": "guirnalda lirio adorable",
+        "spanishUs": "tiara lirios adorable",
+        "french": "jolie coiffe lys",
+        "frenchUs": "jolie coiffe lys",
+        "italian": "corona di gigli graziosa",
+        "dutch": "schattige leliekroon",
+        "chinese": "可爱百合花冠",
+        "chineseTraditional": "可愛百合花冠",
+        "japanese": "ユリのかんむり・キュート",
+        "korean": "큐트 백합 화관",
+        "russian": "диво-венок из лилий",
+        "plural": false,
+        "internalIds": [
+          5115
+        ]
+      },
+      "materials": {
+        "pink lilies": 2,
+        "orange lilies": 2,
+        "white lilies": 2
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1402,7 +2025,54 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cute rose crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 5112,
+      "cardColor": "green",
+      "serialId": 3613,
+      "internalId": 253,
+      "uniqueEntryId": "GqacSkmPu6G4u43tR",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 568,
+        "version": "1.0.0",
+        "english": "cute rose crown",
+        "englishEurope": "cute rose crown",
+        "german": "Buntrosenkrone",
+        "spanish": "guirnalda rosa adorable",
+        "spanishUs": "tiara rosas adorable",
+        "french": "jolie coiffe roses",
+        "frenchUs": "jolie coiffe roses",
+        "italian": "corona di rose graziosa",
+        "dutch": "schattige rozenkroon",
+        "chinese": "可爱玫瑰花冠",
+        "chineseTraditional": "可愛玫瑰花冠",
+        "japanese": "バラのかんむり・キュート",
+        "korean": "큐트 장미 화관",
+        "russian": "милый венок из роз",
+        "plural": false,
+        "internalIds": [
+          5112
+        ]
+      },
+      "materials": {
+        "pink roses": 3,
+        "orange roses": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1466,7 +2136,8 @@
       "outdoorsy",
       "sporty",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -1530,7 +2201,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "dark cosmos crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 5110,
+      "cardColor": "green",
+      "serialId": 3608,
+      "internalId": 251,
+      "uniqueEntryId": "yoXYwWGZ7xpNi9P4W",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 566,
+        "version": "1.0.0",
+        "english": "dark cosmos crown",
+        "englishEurope": "dark cosmos crown",
+        "german": "Schwarzcosmeenkrone",
+        "spanish": "guirnalda cosmos negro",
+        "spanishUs": "tiara cosmos gótica",
+        "french": "coiffe cosmos sombre",
+        "frenchUs": "coiffe cosmos sombre",
+        "italian": "corona di cosmee cupa",
+        "dutch": "donkere-cosmeakroon",
+        "chinese": "深色波斯菊花冠",
+        "chineseTraditional": "深色波斯菊花冠",
+        "japanese": "コスモスのかんむり・ダーク",
+        "korean": "다크 코스모스 화관",
+        "russian": "темн. венок из космей",
+        "plural": false,
+        "internalIds": [
+          5110
+        ]
+      },
+      "materials": {
+        "black cosmos": 7
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1594,7 +2311,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "dark lily crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 5116,
+      "cardColor": "green",
+      "serialId": 3625,
+      "internalId": 257,
+      "uniqueEntryId": "Fr3oaQMDbkQ9N9i8t",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 572,
+        "version": "1.0.0",
+        "english": "dark lily crown",
+        "englishEurope": "dark lily crown",
+        "german": "Dunkellilienkrone",
+        "spanish": "guirnalda lirio negro",
+        "spanishUs": "tiara lirios gótica",
+        "french": "coiffe lys sombre",
+        "frenchUs": "coiffe lys sombre",
+        "italian": "corona di gigli cupa",
+        "dutch": "donkere-leliekroon",
+        "chinese": "深色百合花冠",
+        "chineseTraditional": "深色百合花冠",
+        "japanese": "ユリのかんむり・ダーク",
+        "korean": "다크 백합 화관",
+        "russian": "темный венок из лилий",
+        "plural": false,
+        "internalIds": [
+          5116
+        ]
+      },
+      "materials": {
+        "black lilies": 6
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1658,7 +2421,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "dark tulip crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 5104,
+      "cardColor": "green",
+      "serialId": 3611,
+      "internalId": 245,
+      "uniqueEntryId": "xJjpphgWJpHubYFET",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 560,
+        "version": "1.0.0",
+        "english": "dark tulip crown",
+        "englishEurope": "dark tulip crown",
+        "german": "Römertulpenkrone",
+        "spanish": "guirnalda tulipán negro",
+        "spanishUs": "tiara tulipanes gótica",
+        "french": "coiffe tulipes sombre",
+        "frenchUs": "coiffe tulipes sombre",
+        "italian": "corona di tulipani cupa",
+        "dutch": "donkere-tulpenkroon",
+        "chinese": "深色郁金香花冠",
+        "chineseTraditional": "深色鬱金香花冠",
+        "japanese": "チューリップのかんむり・ダーク",
+        "korean": "다크 튤립 화관",
+        "russian": "темн. венок из тюльпанов",
+        "plural": false,
+        "internalIds": [
+          5104
+        ]
+      },
+      "materials": {
+        "black tulips": 5
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1722,7 +2531,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "earth-egg shell",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 12439,
+      "cardColor": "yellow",
+      "serialId": 3760,
+      "internalId": 673,
+      "uniqueEntryId": "C9wvFR7fBGccZDyWa",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1195,
+        "version": "1.1.0",
+        "english": "earth-egg shell",
+        "englishEurope": "earth-egg shell",
+        "german": "Erd-Eierschale",
+        "spanish": "cáscara de huevo terrestre",
+        "spanishUs": "cáscara de huevo terrestre",
+        "french": "coquille d'œuf terrestre",
+        "frenchUs": "coquille d'œuf terrestre",
+        "italian": "guscio d'uovo terrestre",
+        "dutch": "aarde-eierschaal",
+        "chinese": "地面蛋壳",
+        "chineseTraditional": "地面蛋殼",
+        "japanese": "じめんのたまごのから",
+        "korean": "땅 달걀 껍질",
+        "russian": "скорлупа земляного яйца",
+        "plural": false,
+        "internalIds": [
+          12439
+        ]
+      },
+      "materials": {
+        "earth egg": 2
+      },
+      "sources": [
+        "Collecting earth eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1786,7 +2641,58 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "egg party hat",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 12446,
+      "cardColor": "yellow",
+      "serialId": 3778,
+      "internalId": 691,
+      "uniqueEntryId": "SCBtDqCaR7QLCprjw",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1202,
+        "version": "1.1.0",
+        "english": "egg party hat",
+        "englishEurope": "egg party hat",
+        "german": "Glücksei-Partyhut",
+        "spanish": "sombrero de fiesta huevo",
+        "spanishUs": "sombrero de fiesta huevo",
+        "french": "chapeau festif œuf",
+        "frenchUs": "chapeau festif œuf",
+        "italian": "cappello uova da sera",
+        "dutch": "eierfeesthoed",
+        "chinese": "蛋派对帽",
+        "chineseTraditional": "蛋派對帽",
+        "japanese": "たまごのパーティーハット",
+        "korean": "달걀 파티 모자",
+        "russian": "шляпка на День зайцев",
+        "plural": false,
+        "internalIds": [
+          12446
+        ]
+      },
+      "materials": {
+        "earth egg": 2,
+        "stone egg": 2,
+        "leaf egg": 2,
+        "wood egg": 2,
+        "sky egg": 2,
+        "water egg": 2
+      },
+      "sources": [
+        "Learning all egg outfit DIYs"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -1850,7 +2756,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -1913,7 +2820,8 @@
     "themes": [
       "goth",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -1976,7 +2884,8 @@
     "themes": [
       "formal",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -2039,7 +2948,53 @@
     "themes": [
       "fairy tale",
       "goth"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "gold helmet",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 5346,
+      "cardColor": "gold",
+      "serialId": 1180,
+      "internalId": 644,
+      "uniqueEntryId": "ihpryTYADPJmMyH3G",
+      "translations": {
+        "sourceSheet": "Masks",
+        "id": 692,
+        "version": "1.0.0",
+        "english": "gold helmet",
+        "englishEurope": "gold helmet",
+        "german": "Goldhelm",
+        "spanish": "yelmo dorado",
+        "spanishUs": "yelmo dorado",
+        "french": "casque en or",
+        "frenchUs": "casque en or",
+        "italian": "elmo d'oro",
+        "dutch": "gouden helm",
+        "chinese": "金甲头盔",
+        "chineseTraditional": "金頭盔",
+        "japanese": "ゴールデンアーマーヘルメット",
+        "korean": "골든 아머 헬멧",
+        "russian": "золотой шлем",
+        "plural": false,
+        "internalIds": [
+          5346
+        ]
+      },
+      "materials": {
+        "gold nugget": 5
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -2103,7 +3058,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "gold rose crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 7378,
+      "cardColor": "green",
+      "serialId": 3616,
+      "internalId": 460,
+      "uniqueEntryId": "RAj5rwhgZgfNLzsTh",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 960,
+        "version": "1.0.0",
+        "english": "gold rose crown",
+        "englishEurope": "gold rose crown",
+        "german": "Goldrosenkrone",
+        "spanish": "guirnalda rosa dorada",
+        "spanishUs": "tiara rosas doradas",
+        "french": "coiffe roses dorées",
+        "frenchUs": "coiffe roses dorées",
+        "italian": "corona di rose d'oro",
+        "dutch": "gouden rozenkroon",
+        "chinese": "金色玫瑰花冠",
+        "chineseTraditional": "金色玫瑰花冠",
+        "japanese": "バラのかんむり・ゴールド",
+        "korean": "골드 장미 화관",
+        "russian": "золотой венок из роз",
+        "plural": false,
+        "internalIds": [
+          7378
+        ]
+      },
+      "materials": {
+        "gold roses": 6
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -2167,7 +3168,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -2231,7 +3233,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -2294,7 +3297,8 @@
     "themes": [
       "fairy tale",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -2357,7 +3361,8 @@
     "themes": [
       "goth",
       "outdoorsy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -2421,7 +3426,8 @@
       "goth",
       "sporty",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -2484,7 +3490,8 @@
     "themes": [
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -2548,7 +3555,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "hyacinth crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 5096,
+      "cardColor": "green",
+      "serialId": 3620,
+      "internalId": 237,
+      "uniqueEntryId": "wChSX5vstYGQaWma7",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 552,
+        "version": "1.0.0",
+        "english": "hyacinth crown",
+        "englishEurope": "hyacinth crown",
+        "german": "Hyazinthenkrone",
+        "spanish": "guirnalda jacinto",
+        "spanishUs": "tiara jacintos",
+        "french": "coiffe jacinthes",
+        "frenchUs": "coiffe jacinthes",
+        "italian": "corona di giacinti",
+        "dutch": "hyacintenkroon",
+        "chinese": "风信子花冠",
+        "chineseTraditional": "風信子花冠",
+        "japanese": "ヒヤシンスのかんむり",
+        "korean": "히아신스 화관",
+        "russian": "венок из гиацинтов",
+        "plural": false,
+        "internalIds": [
+          5096
+        ]
+      },
+      "materials": {
+        "red hyacinths": 4,
+        "yellow hyacinths": 2,
+        "white hyacinths": 2
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -2611,7 +3666,8 @@
     "themes": [
       "goth",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -2675,7 +3731,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -2738,7 +3795,53 @@
     "themes": [
       "fairy tale",
       "goth"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "knight's helmet",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 5334,
+      "cardColor": "dark gray",
+      "serialId": 980,
+      "internalId": 641,
+      "uniqueEntryId": "3u8tk4SyAemkHTRzz",
+      "translations": {
+        "sourceSheet": "Masks",
+        "id": 686,
+        "version": "1.0.0",
+        "english": "knight's helmet",
+        "englishEurope": "knight's helmet",
+        "german": "Ritterhelm",
+        "spanish": "yelmo",
+        "spanishUs": "yelmo",
+        "french": "casque de chevalier",
+        "frenchUs": "casque de chevalier",
+        "italian": "elmo medievale",
+        "dutch": "ridderhelm",
+        "chinese": "铁甲头盔",
+        "chineseTraditional": "鐵甲面罩",
+        "japanese": "アイアンアーマーヘルメット",
+        "korean": "아이언 아머 헬멧",
+        "russian": "рыцарский шлем",
+        "plural": false,
+        "internalIds": [
+          5334
+        ]
+      },
+      "materials": {
+        "iron nugget": 5
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -2801,7 +3904,53 @@
     "themes": [
       "goth",
       "outdoorsy"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "leaf mask",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 7291,
+      "cardColor": "green",
+      "serialId": 1281,
+      "internalId": 635,
+      "uniqueEntryId": "ng67WBZo7rRfQSWDa",
+      "translations": {
+        "sourceSheet": "Masks",
+        "id": 956,
+        "version": "1.0.0",
+        "english": "leaf mask",
+        "englishEurope": "leaf mask",
+        "german": "Blatt-Maske",
+        "spanish": "máscara hoja",
+        "spanishUs": "máscara hoja",
+        "french": "masque feuille",
+        "frenchUs": "masque feuille",
+        "italian": "maschera a foglia",
+        "dutch": "bladmasker",
+        "chinese": "叶子面具",
+        "chineseTraditional": "葉子面具",
+        "japanese": "はっぱのおめん",
+        "korean": "나뭇잎 가면",
+        "russian": "маска-лист",
+        "plural": false,
+        "internalIds": [
+          7291
+        ]
+      },
+      "materials": {
+        "clump of weeds": 10
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -2865,7 +4014,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "leaf-egg shell",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 12441,
+      "cardColor": "yellow",
+      "serialId": 3766,
+      "internalId": 679,
+      "uniqueEntryId": "9Bf5xhQJQHvW8n8Jc",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1197,
+        "version": "1.1.0",
+        "english": "leaf-egg shell",
+        "englishEurope": "leaf-egg shell",
+        "german": "Laub-Eierschale",
+        "spanish": "cáscara de huevo boscoso",
+        "spanishUs": "cáscara de huevo boscoso",
+        "french": "coquille d'œuf feuillu",
+        "frenchUs": "coquille d'œuf feuillu",
+        "italian": "guscio d'uovo frondoso",
+        "dutch": "bladeierschaal",
+        "chinese": "叶子蛋壳",
+        "chineseTraditional": "葉子蛋殼",
+        "japanese": "はっぱのたまごのから",
+        "korean": "나뭇잎 달걀 껍질",
+        "russian": "скорлупа листвен. яйца",
+        "plural": false,
+        "internalIds": [
+          12441
+        ]
+      },
+      "materials": {
+        "leaf egg": 2
+      },
+      "sources": [
+        "Collecting leaf eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -2929,7 +4124,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "lily crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 5114,
+      "cardColor": "green",
+      "serialId": 3623,
+      "internalId": 255,
+      "uniqueEntryId": "kAqnCE6oFFAeZvYXN",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 570,
+        "version": "1.0.0",
+        "english": "lily crown",
+        "englishEurope": "lily crown",
+        "german": "Lilienkrone",
+        "spanish": "guirnalda lirio",
+        "spanishUs": "tiara lirios",
+        "french": "coiffe lys",
+        "frenchUs": "coiffe lys",
+        "italian": "corona di gigli",
+        "dutch": "leliekroon",
+        "chinese": "百合花冠",
+        "chineseTraditional": "百合花冠",
+        "japanese": "ユリのかんむり",
+        "korean": "백합 화관",
+        "russian": "венок из лилий",
+        "plural": false,
+        "internalIds": [
+          5114
+        ]
+      },
+      "materials": {
+        "red lilies": 2,
+        "yellow lilies": 2,
+        "white lilies": 2
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -2993,7 +4236,54 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "lovely cosmos crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 5109,
+      "cardColor": "green",
+      "serialId": 3607,
+      "internalId": 250,
+      "uniqueEntryId": "ud57HYkDcb9fpS3jN",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 565,
+        "version": "1.0.0",
+        "english": "lovely cosmos crown",
+        "englishEurope": "lovely cosmos crown",
+        "german": "Buntcosmeenkrone",
+        "spanish": "guirnalda cosmos adorable",
+        "spanishUs": "tiara cosmos adorable",
+        "french": "jolie coiffe cosmos",
+        "frenchUs": "jolie coiffe cosmos",
+        "italian": "corona di cosmee graziosa",
+        "dutch": "lieflijke cosmeakroon",
+        "chinese": "甜美波斯菊花冠",
+        "chineseTraditional": "甜美波斯菊花冠",
+        "japanese": "コスモスのかんむり・ラブリー",
+        "korean": "러블리 코스모스 화관",
+        "russian": "чудный венок из космей",
+        "plural": false,
+        "internalIds": [
+          5109
+        ]
+      },
+      "materials": {
+        "pink cosmos": 3,
+        "orange cosmos": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -3055,7 +4345,8 @@
     ],
     "themes": [
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -3118,7 +4409,8 @@
     "themes": [
       "everyday",
       "formal"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -3180,7 +4472,8 @@
     ],
     "themes": [
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -3244,7 +4537,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "mum crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 5117,
+      "cardColor": "green",
+      "serialId": 3603,
+      "internalId": 258,
+      "uniqueEntryId": "dm3bTGBfDYLSzWDHR",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 573,
+        "version": "1.0.0",
+        "english": "mum crown",
+        "englishEurope": "mum crown",
+        "german": "Chrysanthemenkrone",
+        "spanish": "guirnalda crisantemo",
+        "spanishUs": "tiara crisantemos",
+        "french": "coiffe chrysanthèmes",
+        "frenchUs": "coiffe chrysanthèmes",
+        "italian": "corona di crisantemi",
+        "dutch": "chrysantenkroon",
+        "chinese": "菊花花冠",
+        "chineseTraditional": "菊花花冠",
+        "japanese": "キクのかんむり",
+        "korean": "국화 화관",
+        "russian": "фиол. венок из хризантем",
+        "plural": false,
+        "internalIds": [
+          5117
+        ]
+      },
+      "materials": {
+        "red mums": 2,
+        "yellow mums": 2,
+        "white mums": 2
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -3308,7 +4649,8 @@
       "fairy tale",
       "goth",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -3371,7 +4713,8 @@
     "themes": [
       "goth",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -3434,7 +4777,8 @@
     "themes": [
       "outdoorsy",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -3497,7 +4841,8 @@
     "themes": [
       "outdoorsy",
       "sporty"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -3559,7 +4904,8 @@
     ],
     "themes": [
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -3623,7 +4969,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "orange hat",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 5275,
+      "cardColor": "orange",
+      "serialId": 1381,
+      "internalId": 624,
+      "uniqueEntryId": "yqpHcrzwzywbANi6S",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 637,
+        "version": "1.0.0",
+        "english": "orange hat",
+        "englishEurope": "orange hat",
+        "german": "Orangenhut",
+        "spanish": "gorro naranja",
+        "spanishUs": "gorro naranja",
+        "french": "chapeau orange",
+        "frenchUs": "chapeau orange",
+        "italian": "cappello arancia",
+        "dutch": "sinaasappelmuts",
+        "chinese": "橘子帽子",
+        "chineseTraditional": "夏蜜柑帽子",
+        "japanese": "オレンジのぼうし",
+        "korean": "귤 모자",
+        "russian": "шапка-апельсин",
+        "plural": false,
+        "internalIds": [
+          5275
+        ]
+      },
+      "materials": {
+        "orange": 5
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -3687,7 +5079,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pansy crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 5105,
+      "cardColor": "green",
+      "serialId": 3617,
+      "internalId": 246,
+      "uniqueEntryId": "X8taQdT4nzX6wvY3S",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 561,
+        "version": "1.0.0",
+        "english": "pansy crown",
+        "englishEurope": "pansy crown",
+        "german": "Veilchenkrone",
+        "spanish": "guirnalda viola",
+        "spanishUs": "tiara violas",
+        "french": "coiffe pensées",
+        "frenchUs": "coiffe pensées",
+        "italian": "corona di viole",
+        "dutch": "viooltjeskroon",
+        "chinese": "三色堇花冠",
+        "chineseTraditional": "三色堇花冠",
+        "japanese": "パンジーのかんむり",
+        "korean": "팬지 화관",
+        "russian": "венок из фиалок",
+        "plural": false,
+        "internalIds": [
+          5105
+        ]
+      },
+      "materials": {
+        "red pansies": 2,
+        "yellow pansies": 2,
+        "white pansies": 2
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -3749,7 +5189,8 @@
     ],
     "themes": [
       "goth"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -3813,7 +5254,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "peach hat",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 9874,
+      "cardColor": "pink",
+      "serialId": 1581,
+      "internalId": 619,
+      "uniqueEntryId": "iSQTJwDAeiFowjbt5",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1125,
+        "version": "1.0.0",
+        "english": "peach hat",
+        "englishEurope": "peach hat",
+        "german": "Pfirsichhut",
+        "spanish": "gorro melocotón",
+        "spanishUs": "gorro durazno",
+        "french": "chapeau pêche",
+        "frenchUs": "chapeau pêche",
+        "italian": "berretto pesca",
+        "dutch": "perzikmuts",
+        "chinese": "桃子帽子",
+        "chineseTraditional": "桃子帽子",
+        "japanese": "モモのぼうし",
+        "korean": "복숭아 모자",
+        "russian": "шапка-персик",
+        "plural": false,
+        "internalIds": [
+          9874
+        ]
+      },
+      "materials": {
+        "peach": 5
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -3877,7 +5364,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pear hat",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Headwear",
+      "craftedItemInternalId": 9872,
+      "cardColor": "green",
+      "serialId": 1681,
+      "internalId": 616,
+      "uniqueEntryId": "u6hqbCNXEpdwk5TyW",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1123,
+        "version": "1.0.0",
+        "english": "pear hat",
+        "englishEurope": "pear hat",
+        "german": "Birnenhut",
+        "spanish": "gorro pera",
+        "spanishUs": "gorro pera",
+        "french": "chapeau poire",
+        "frenchUs": "chapeau poire",
+        "italian": "berretto pera",
+        "dutch": "perenmuts",
+        "chinese": "梨子帽子",
+        "chineseTraditional": "梨子帽子",
+        "japanese": "ナシのぼうし",
+        "korean": "배 모자",
+        "russian": "шапка-груша",
+        "plural": false,
+        "internalIds": [
+          9872
+        ]
+      },
+      "materials": {
+        "pear": 5
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -3939,7 +5472,8 @@
     ],
     "themes": [
       "everyday"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -4004,7 +5538,8 @@
       "party",
       "theatrical",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -4067,7 +5602,8 @@
     "themes": [
       "formal",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -4129,7 +5665,8 @@
     ],
     "themes": [
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -4193,7 +5730,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "purple hyacinth crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 5098,
+      "cardColor": "green",
+      "serialId": 3622,
+      "internalId": 239,
+      "uniqueEntryId": "aHwaJQnuBTPrrjRtM",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 554,
+        "version": "1.0.0",
+        "english": "purple hyacinth crown",
+        "englishEurope": "purple hyacinth crown",
+        "german": "Purpurhyazinthenkrone",
+        "spanish": "guirnalda jacinto violeta",
+        "spanishUs": "tiara jacintos morados",
+        "french": "coiffe jacinthes mauves",
+        "frenchUs": "coiffe jacinthes mauves",
+        "italian": "corona di giacinti viola",
+        "dutch": "paarse-hyacintenkroon",
+        "chinese": "紫色风信子花冠",
+        "chineseTraditional": "紫色風信子花冠",
+        "japanese": "ヒヤシンスのかんむり・パープル",
+        "korean": "퍼플 히아신스 화관",
+        "russian": "фиол. венок из гиацинтов",
+        "plural": false,
+        "internalIds": [
+          5098
+        ]
+      },
+      "materials": {
+        "purple hyacinths": 6
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -4257,7 +5840,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "purple pansy crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 5107,
+      "cardColor": "green",
+      "serialId": 3619,
+      "internalId": 248,
+      "uniqueEntryId": "NJ8nZjXNYWmYkzzGA",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 563,
+        "version": "1.0.0",
+        "english": "purple pansy crown",
+        "englishEurope": "purple pansy crown",
+        "german": "Hainveilchenkrone",
+        "spanish": "guirnalda viola violeta",
+        "spanishUs": "tiara violas moradas",
+        "french": "coiffe pensées mauves",
+        "frenchUs": "coiffe pensées mauves",
+        "italian": "corona di viole viola",
+        "dutch": "paarse-viooltjeskroon",
+        "chinese": "紫色三色堇花冠",
+        "chineseTraditional": "紫色三色堇花冠",
+        "japanese": "パンジーのかんむり・パープル",
+        "korean": "퍼플 팬지 화관",
+        "russian": "фиол. венок из фиалок",
+        "plural": false,
+        "internalIds": [
+          5107
+        ]
+      },
+      "materials": {
+        "purple pansies": 6
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -4321,7 +5950,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "purple windflower crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 5101,
+      "cardColor": "green",
+      "serialId": 3602,
+      "internalId": 242,
+      "uniqueEntryId": "kz9eW99mbZKy5QZSA",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 557,
+        "version": "1.0.0",
+        "english": "purple windflower crown",
+        "englishEurope": "purple windflower crown",
+        "german": "Purpuranemonenkrone",
+        "spanish": "guirnalda anémona violeta",
+        "spanishUs": "tiara anémonas moradas",
+        "french": "coiffe anémones mauves",
+        "frenchUs": "coiffe anémones mauves",
+        "italian": "corona di anemoni viola",
+        "dutch": "paarse-anemonenkroon",
+        "chinese": "紫色银莲花花冠",
+        "chineseTraditional": "紫色銀蓮花花冠",
+        "japanese": "アネモネのかんむり・パープル",
+        "korean": "퍼플 아네모네 화관",
+        "russian": "фиол. венок из ветрениц",
+        "plural": false,
+        "internalIds": [
+          5101
+        ]
+      },
+      "materials": {
+        "purple windflowers": 6
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -4385,7 +6060,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "rose crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 5111,
+      "cardColor": "green",
+      "serialId": 3612,
+      "internalId": 252,
+      "uniqueEntryId": "nn5Ax694CmD7dzkDZ",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 567,
+        "version": "1.0.0",
+        "english": "rose crown",
+        "englishEurope": "rose crown",
+        "german": "Rosenkrone",
+        "spanish": "guirnalda rosa",
+        "spanishUs": "tiara rosas",
+        "french": "coiffe roses",
+        "frenchUs": "coiffe roses",
+        "italian": "corona di rose",
+        "dutch": "rozenkroon",
+        "chinese": "玫瑰花冠",
+        "chineseTraditional": "玫瑰花冠",
+        "japanese": "バラのかんむり",
+        "korean": "장미 화관",
+        "russian": "венок из роз",
+        "plural": false,
+        "internalIds": [
+          5111
+        ]
+      },
+      "materials": {
+        "red roses": 2,
+        "yellow roses": 2,
+        "white roses": 2
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -4449,7 +6172,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -4511,7 +6235,8 @@
     ],
     "themes": [
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -4575,7 +6300,53 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "simple mum crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Headwear",
+      "craftedItemInternalId": 5119,
+      "cardColor": "green",
+      "serialId": 3605,
+      "internalId": 260,
+      "uniqueEntryId": "Pib8R6Z4czejLxJK3",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 575,
+        "version": "1.0.0",
+        "english": "simple mum crown",
+        "englishEurope": "simple mum crown",
+        "german": "Grünchrysanthemenkrone",
+        "spanish": "guirnalda crisantemo verde",
+        "spanishUs": "tiara crisantemos verdes",
+        "french": "coiffe chrysanth. simple",
+        "frenchUs": "coiffe chrysanth. simple",
+        "italian": "corona crisantemi semplice",
+        "dutch": "simpele chrysantenkroon",
+        "chinese": "简约菊花花冠",
+        "chineseTraditional": "簡約菊花花冠",
+        "japanese": "キクのかんむり・シンプル",
+        "korean": "심플 국화 화관",
+        "russian": "веночек из хризантем",
+        "plural": false,
+        "internalIds": [
+          5119
+        ]
+      },
+      "materials": {
+        "green mums": 6
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -4639,7 +6410,8 @@
       "fairy tale",
       "goth",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -4703,7 +6475,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "sky-egg shell",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 12443,
+      "cardColor": "yellow",
+      "serialId": 3772,
+      "internalId": 685,
+      "uniqueEntryId": "dvaSzuxBdqGoQsQtn",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1199,
+        "version": "1.1.0",
+        "english": "sky-egg shell",
+        "englishEurope": "sky-egg shell",
+        "german": "Luft-Eierschale",
+        "spanish": "cáscara de huevo celeste",
+        "spanishUs": "cáscara de huevo celeste",
+        "french": "coquille d'œuf aérien",
+        "frenchUs": "coquille d'œuf aérien",
+        "italian": "guscio d'uovo celeste",
+        "dutch": "luchteierschaal",
+        "chinese": "飞天蛋壳",
+        "chineseTraditional": "飛天蛋殼",
+        "japanese": "そらとぶたまごのから",
+        "korean": "하늘을 나는 달걀 껍질",
+        "russian": "скорлупа небесного яйца",
+        "plural": false,
+        "internalIds": [
+          12443
+        ]
+      },
+      "materials": {
+        "sky egg": 2
+      },
+      "sources": [
+        "Collecting sky eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -4766,7 +6584,54 @@
     "themes": [
       "everyday",
       "outdoorsy"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "snowperson head",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 8609,
+      "cardColor": "blue",
+      "serialId": 3280,
+      "internalId": 637,
+      "uniqueEntryId": "6TuttvHpXz8cBQAqa",
+      "translations": {
+        "sourceSheet": "Masks",
+        "id": 1040,
+        "version": "1.0.0",
+        "english": "snowperson head",
+        "englishEurope": "snowperson head",
+        "german": "Schneemannhut",
+        "spanish": "casco de Copito",
+        "spanishUs": "casco de Copito",
+        "french": "cagoule neige",
+        "frenchUs": "cagoule neige",
+        "italian": "testa da pupazzo di neve",
+        "dutch": "sneeuwpopkop",
+        "chinese": "雪人头套",
+        "chineseTraditional": "雪人帽子",
+        "japanese": "ゆきだるまのぼうし",
+        "korean": "눈사람 모자",
+        "russian": "шапка снеговика",
+        "plural": false,
+        "internalIds": [
+          8609
+        ]
+      },
+      "materials": {
+        "large snowflake": 1,
+        "snowflake": 5
+      },
+      "sources": [
+        "Snowboy"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -4828,7 +6693,8 @@
     ],
     "themes": [
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -4891,7 +6757,8 @@
     "themes": [
       "theatrical",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -4955,7 +6822,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "star head",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 9862,
+      "cardColor": "silver",
+      "serialId": 2280,
+      "internalId": 628,
+      "uniqueEntryId": "ruy96poyPqtxc5K4Y",
+      "translations": {
+        "sourceSheet": "Masks",
+        "id": 1113,
+        "version": "1.0.0",
+        "english": "star head",
+        "englishEurope": "star head",
+        "german": "Sternenkapuze",
+        "spanish": "casco estrella",
+        "spanishUs": "casco estrella",
+        "french": "cagoule étoile",
+        "frenchUs": "cagoule étoile",
+        "italian": "cappuccio stella",
+        "dutch": "sterrenkop",
+        "chinese": "星星头套",
+        "chineseTraditional": "星星頭套",
+        "japanese": "おほしさまのあたま",
+        "korean": "별님 머리",
+        "russian": "звездный шлем",
+        "plural": false,
+        "internalIds": [
+          9862
+        ]
+      },
+      "materials": {
+        "star fragment": 5
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -5019,7 +6932,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stone-egg shell",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 12440,
+      "cardColor": "yellow",
+      "serialId": 3763,
+      "internalId": 676,
+      "uniqueEntryId": "bC74Ws22wnGThm6Mh",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1196,
+        "version": "1.1.0",
+        "english": "stone-egg shell",
+        "englishEurope": "stone-egg shell",
+        "german": "Fels-Eierschale",
+        "spanish": "cáscara de huevo rupestre",
+        "spanishUs": "cáscara de huevo rupestre",
+        "french": "coquille d'œuf minéral",
+        "frenchUs": "coquille d'œuf minéral",
+        "italian": "guscio d'uovo roccioso",
+        "dutch": "steeneierschaal",
+        "chinese": "岩石蛋壳",
+        "chineseTraditional": "岩石蛋殼",
+        "japanese": "いわのたまごのから",
+        "korean": "바위 달걀 껍질",
+        "russian": "скорлупа каменного яйца",
+        "plural": false,
+        "internalIds": [
+          12440
+        ]
+      },
+      "materials": {
+        "stone egg": 2
+      },
+      "sources": [
+        "Collecting stone eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -5082,7 +7041,53 @@
     "themes": [
       "fairy tale",
       "outdoorsy"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "straw umbrella hat",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 7254,
+      "cardColor": "green",
+      "serialId": 1283,
+      "internalId": 606,
+      "uniqueEntryId": "ADu83C55zHi4DfoFp",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 953,
+        "version": "1.0.0",
+        "english": "straw umbrella hat",
+        "englishEurope": "straw umbrella hat",
+        "german": "Flach-Reishut",
+        "spanish": "gorro de paja achatado",
+        "spanishUs": "gorro de paja achatado",
+        "french": "chapeau de bambou",
+        "frenchUs": "chapeau de bambou",
+        "italian": "cappello di paglia orientale",
+        "dutch": "ronde strohoed",
+        "chinese": "三度笠",
+        "chineseTraditional": "三度笠",
+        "japanese": "さんどがさ",
+        "korean": "삿갓",
+        "russian": "соломенная шляпа-зонт",
+        "plural": false,
+        "internalIds": [
+          7254
+        ]
+      },
+      "materials": {
+        "clump of weeds": 10
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -5146,7 +7151,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -5210,7 +7216,8 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -5274,7 +7281,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "tulip crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 5102,
+      "cardColor": "green",
+      "serialId": 3609,
+      "internalId": 243,
+      "uniqueEntryId": "Ltt8w4xYy5Qfp9R9b",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 558,
+        "version": "1.0.0",
+        "english": "tulip crown",
+        "englishEurope": "tulip crown",
+        "german": "Tulpenkrone",
+        "spanish": "guirnalda tulipán",
+        "spanishUs": "tiara tulipanes",
+        "french": "coiffe tulipes",
+        "frenchUs": "coiffe tulipes",
+        "italian": "corona di tulipani",
+        "dutch": "tulpenkroon",
+        "chinese": "郁金香花冠",
+        "chineseTraditional": "鬱金香花冠",
+        "japanese": "チューリップのかんむり",
+        "korean": "튤립 화관",
+        "russian": "венок из тюльпанов",
+        "plural": false,
+        "internalIds": [
+          5102
+        ]
+      },
+      "materials": {
+        "red tulips": 2,
+        "yellow tulips": 2,
+        "white tulips": 1
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -5338,7 +7393,8 @@
       "party",
       "theatrical",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -5402,7 +7458,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "water-egg shell",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 12444,
+      "cardColor": "yellow",
+      "serialId": 3775,
+      "internalId": 688,
+      "uniqueEntryId": "YqZedKTDWgjDWcTR4",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1200,
+        "version": "1.0.0",
+        "english": "water-egg shell",
+        "englishEurope": "water-egg shell",
+        "german": "Wasser-Eierschale",
+        "spanish": "cáscara de huevo acuático",
+        "spanishUs": "cáscara de huevo acuático",
+        "french": "coquille d'œuf aquatique",
+        "frenchUs": "coquille d'œuf aquatique",
+        "italian": "guscio d'uovo acquatico",
+        "dutch": "watereierschaal",
+        "chinese": "鱼儿蛋壳",
+        "chineseTraditional": "魚兒蛋殼",
+        "japanese": "サカナのたまごのから",
+        "korean": "물고기 달걀 껍질",
+        "russian": "скорлупа водяного яйца",
+        "plural": false,
+        "internalIds": [
+          12444
+        ]
+      },
+      "materials": {
+        "water egg": 2
+      },
+      "sources": [
+        "Collecting water eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -5467,7 +7569,8 @@
       "party",
       "theatrical",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -5530,7 +7633,8 @@
     "themes": [
       "goth",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -5594,7 +7698,55 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "windflower crown",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 5099,
+      "cardColor": "green",
+      "serialId": 3600,
+      "internalId": 240,
+      "uniqueEntryId": "2bHpYXqeSKyRgCsHx",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 555,
+        "version": "1.0.0",
+        "english": "windflower crown",
+        "englishEurope": "windflower crown",
+        "german": "Anemonenkrone",
+        "spanish": "guirnalda anémona",
+        "spanishUs": "tiara anémonas",
+        "french": "coiffe anémones",
+        "frenchUs": "coiffe anémones",
+        "italian": "corona di anemoni",
+        "dutch": "anemonenkroon",
+        "chinese": "银莲花花冠",
+        "chineseTraditional": "銀蓮花花冠",
+        "japanese": "アネモネのかんむり",
+        "korean": "아네모네 화관",
+        "russian": "венок из ветрениц",
+        "plural": false,
+        "internalIds": [
+          5099
+        ]
+      },
+      "materials": {
+        "red windflowers": 2,
+        "orange windflowers": 2,
+        "white windflowers": 2
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -5658,7 +7810,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wood-egg shell",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Headwear",
+      "craftedItemInternalId": 12442,
+      "cardColor": "yellow",
+      "serialId": 3769,
+      "internalId": 682,
+      "uniqueEntryId": "Dokk8EnqpoFPBXD8R",
+      "translations": {
+        "sourceSheet": "Caps",
+        "id": 1198,
+        "version": "1.1.0",
+        "english": "wood-egg shell",
+        "englishEurope": "wood-egg shell",
+        "german": "Holz-Eierschale",
+        "spanish": "cáscara de huevo leñoso",
+        "spanishUs": "cáscara de huevo leñoso",
+        "french": "coquille d'œuf boisé",
+        "frenchUs": "coquille d'œuf boisé",
+        "italian": "guscio d'uovo boscoso",
+        "dutch": "houteierschaal",
+        "chinese": "森林蛋壳",
+        "chineseTraditional": "森林蛋殼",
+        "japanese": "ウッディなたまごのから",
+        "korean": "나무 달걀 껍질",
+        "russian": "скорлупа лесного яйца",
+        "plural": false,
+        "internalIds": [
+          12442
+        ]
+      },
+      "materials": {
+        "wood egg": 2
+      },
+      "sources": [
+        "Collecting wood eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Headwear",
@@ -5875,7 +8073,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -6002,7 +8201,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -6163,7 +8363,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -6432,7 +8633,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -6589,7 +8791,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -6781,7 +8984,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -6968,7 +9172,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -7129,7 +9334,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -7352,7 +9558,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -7621,7 +9828,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -7745,7 +9953,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -7937,7 +10146,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -8177,7 +10387,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -8338,7 +10549,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -8465,7 +10677,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -8595,7 +10808,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -8782,7 +10996,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -8909,7 +11124,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -9126,7 +11342,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -9221,7 +11438,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -9498,7 +11716,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -9709,7 +11928,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -9870,7 +12090,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -9994,7 +12215,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -10155,7 +12377,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -10424,7 +12647,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -10519,7 +12743,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -10716,7 +12941,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -10873,7 +13099,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -11150,7 +13377,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -11404,7 +13632,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -11627,7 +13856,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -11809,7 +14039,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -12063,7 +14294,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -12250,7 +14482,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -12527,7 +14760,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -12624,7 +14858,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -12785,7 +15020,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -12912,7 +15148,8 @@
           "goth"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -13159,7 +15396,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -13444,7 +15682,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -13667,7 +15906,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -13820,7 +16060,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -13947,7 +16188,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -14134,7 +16376,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -14411,7 +16654,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -14568,7 +16812,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -14667,7 +16912,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -14836,7 +17082,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -15113,7 +17360,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -15240,7 +17488,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -15339,7 +17588,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -15586,7 +17836,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -15871,7 +18122,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -16094,7 +18346,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -16323,7 +18576,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -16453,7 +18707,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -16610,7 +18865,8 @@
           "goth"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -16737,7 +18993,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -16998,7 +19255,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -17275,7 +19533,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -17552,7 +19811,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -17829,7 +20089,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -17953,7 +20214,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -18145,7 +20407,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -18422,7 +20685,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -18579,7 +20843,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -18848,7 +21113,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -19040,7 +21306,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -19170,7 +21437,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -19297,7 +21565,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -19424,7 +21693,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -19611,7 +21881,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -19828,7 +22099,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -19989,7 +22261,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -20274,7 +22547,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -20551,7 +22825,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -20844,7 +23119,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -21005,7 +23281,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -21135,7 +23412,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -21317,7 +23595,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -21444,7 +23723,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -21631,7 +23911,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -21788,7 +24069,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -21883,7 +24165,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -22130,7 +24413,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -22291,7 +24575,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -22448,7 +24733,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -22630,7 +24916,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -22812,7 +25099,8 @@
           "goth"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -22942,7 +25230,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -23219,7 +25508,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -23504,7 +25794,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -23789,7 +26080,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -23942,7 +26234,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -24129,7 +26422,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -24414,7 +26708,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -24544,7 +26839,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -24791,7 +27087,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -24886,7 +27183,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -25171,7 +27469,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -25328,7 +27627,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -25557,7 +27857,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -25834,7 +28135,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -25967,7 +28269,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -26100,7 +28403,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -26323,7 +28627,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -26515,7 +28820,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -26672,7 +28978,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -26799,7 +29106,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -26956,7 +29264,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -27083,7 +29392,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -27244,7 +29554,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -27431,7 +29742,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -27555,7 +29867,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -27682,7 +29995,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -27779,7 +30093,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -28002,7 +30317,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -28287,7 +30603,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Headwear",
@@ -28564,6 +30881,7 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   }
 ]

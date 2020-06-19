@@ -38,7 +38,53 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo lattice fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 3403,
+      "cardColor": "green",
+      "serialId": 2490,
+      "internalId": 101,
+      "uniqueEntryId": "kFi2XW9eoPkAoWdS5",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_03403",
+        "version": "1.0.0",
+        "english": "bamboo lattice fence",
+        "englishEurope": "bamboo lattice fence",
+        "german": "Bambuszaun",
+        "spanish": "valla celosía de bambú",
+        "spanishUs": "valla celosía de bambú",
+        "french": "clôture bambou à treillis",
+        "frenchUs": "clôture bambou à treillis",
+        "italian": "recinzione di bambù",
+        "dutch": "bamboeschutting",
+        "chinese": "竹栅栏",
+        "chineseTraditional": "竹柵欄",
+        "japanese": "たけがき",
+        "korean": "대나무 울타리",
+        "russian": "забор из бамбука",
+        "plural": false,
+        "internalIds": [
+          3403
+        ]
+      },
+      "materials": {
+        "bamboo piece": 6
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -79,7 +125,54 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "barbed-wire fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 5213,
+      "cardColor": "brown",
+      "serialId": 585,
+      "internalId": 561,
+      "uniqueEntryId": "dgW8J3q4JWsyyrDxP",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_05213",
+        "version": "1.0.0",
+        "english": "barbed-wire fence",
+        "englishEurope": "barbed-wire fence",
+        "german": "Stacheldrahtzaun",
+        "spanish": "valla de alambre",
+        "spanishUs": "valla de alambre",
+        "french": "clôture de barbelés",
+        "frenchUs": "clôture de barbelés",
+        "italian": "filo spinato",
+        "dutch": "prikkeldraadhek",
+        "chinese": "有刺铁丝网",
+        "chineseTraditional": "有刺鐵絲網",
+        "japanese": "ゆうしてっせん",
+        "korean": "가시철조망 울타리",
+        "russian": "колючая проволока",
+        "plural": false,
+        "internalIds": [
+          5213
+        ]
+      },
+      "materials": {
+        "hardwood": 3,
+        "iron nugget": 2
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -120,7 +213,53 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "brick fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 3080,
+      "cardColor": "brick",
+      "serialId": 790,
+      "internalId": 99,
+      "uniqueEntryId": "F7bg775Kh6niY7gcZ",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_03080",
+        "version": "1.0.0",
+        "english": "brick fence",
+        "englishEurope": "brick fence",
+        "german": "Ziegelsteinmauer",
+        "spanish": "cerca de ladrillo",
+        "spanishUs": "cerca de ladrillo",
+        "french": "muret en briques",
+        "frenchUs": "muret en briques",
+        "italian": "muretto di mattoni",
+        "dutch": "bakstenen muurtje",
+        "chinese": "砖块栅栏",
+        "chineseTraditional": "磚塊柵欄",
+        "japanese": "レンガのカベ",
+        "korean": "벽돌 울타리",
+        "russian": "кирпичный забор",
+        "plural": false,
+        "internalIds": [
+          3080
+        ]
+      },
+      "materials": {
+        "clay": 6
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -161,7 +300,59 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Bunny Day fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 12630,
+      "cardColor": "yellow",
+      "serialId": 3790,
+      "internalId": 712,
+      "uniqueEntryId": "4Kdig9tWPTr4Xx6Kv",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_12630",
+        "version": "1.1.0",
+        "english": "Bunny Day fence",
+        "englishEurope": "Bunny Day fence",
+        "german": "Häschentag-Zaun",
+        "spanish": "valla Caza del Huevo",
+        "spanishUs": "valla Caza del Huevo",
+        "french": "clôture fête des œufs",
+        "frenchUs": "clôture fête des œufs",
+        "italian": "recinzione caccia all'uovo",
+        "dutch": "eierhek",
+        "chinese": "复活节栅栏",
+        "chineseTraditional": "復活節柵欄",
+        "japanese": "イースターなさく",
+        "korean": "이스터 울타리",
+        "russian": "забор «День зайцев»",
+        "plural": false,
+        "internalIds": [
+          12630
+        ]
+      },
+      "materials": {
+        "earth egg": 1,
+        "stone egg": 1,
+        "leaf egg": 1,
+        "wood egg": 1,
+        "sky egg": 1,
+        "water egg": 1
+      },
+      "sources": [
+        "Egg bottle",
+        "Egg balloon"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -202,7 +393,53 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "corral fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 4349,
+      "cardColor": "brown",
+      "serialId": 580,
+      "internalId": 269,
+      "uniqueEntryId": "MRhMdwsDKNuaDfi8s",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_04349",
+        "version": "1.0.0",
+        "english": "corral fence",
+        "englishEurope": "corral fence",
+        "german": "Weidezaun",
+        "spanish": "valla de corral",
+        "spanishUs": "valla de corral",
+        "french": "clôture de ferme",
+        "frenchUs": "clôture de ferme",
+        "italian": "staccionata ranch",
+        "dutch": "boerderijhek",
+        "chinese": "横条木板栅栏",
+        "chineseTraditional": "橫條木板柵欄",
+        "japanese": "よこいたのさく",
+        "korean": "가로 널빤지 울타리",
+        "russian": "дощатый забор",
+        "plural": false,
+        "internalIds": [
+          4349
+        ]
+      },
+      "materials": {
+        "wood": 6
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -243,7 +480,53 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "country fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 4350,
+      "cardColor": "brown",
+      "serialId": 583,
+      "internalId": 268,
+      "uniqueEntryId": "Wy3TCH3APTHJrpDhg",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_04350",
+        "version": "1.0.0",
+        "english": "country fence",
+        "englishEurope": "country fence",
+        "german": "Baumstammzaun",
+        "spanish": "valla leños",
+        "spanishUs": "valla rural",
+        "french": "clôture de rondins",
+        "frenchUs": "clôture de rondins",
+        "italian": "staccionata di ceppi",
+        "dutch": "paalhekje",
+        "chinese": "圆木栅栏",
+        "chineseTraditional": "圓木柵欄",
+        "japanese": "まるたのさく",
+        "korean": "통나무 울타리",
+        "russian": "забор из столбиков",
+        "plural": false,
+        "internalIds": [
+          4350
+        ]
+      },
+      "materials": {
+        "hardwood": 6
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -284,7 +567,55 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "hedge",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained from Tom Nook after completing one Nature Day Nook Miles+ task",
+      "versionAdded": "1.2.0",
+      "versionUnlocked": "1.2.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 12758,
+      "cardColor": "green",
+      "serialId": 1291,
+      "internalId": 713,
+      "uniqueEntryId": "m9LpprrQ6sP6EnArD",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_12758",
+        "version": "1.2.0",
+        "english": "hedge",
+        "englishEurope": "hedge",
+        "german": "Hecke",
+        "spanish": "seto",
+        "spanishUs": "arbusto",
+        "french": "clôture végétale",
+        "frenchUs": "clôture végétale",
+        "italian": "siepe",
+        "dutch": "heg",
+        "chinese": "树篱",
+        "chineseTraditional": "樹叢",
+        "japanese": "いけがき",
+        "korean": "낮은 나무 울타리",
+        "russian": "живая изгородь",
+        "plural": false,
+        "internalIds": [
+          12758
+        ]
+      },
+      "materials": {
+        "clump of weeds": 10,
+        "tree branch": 5,
+        "stone": 2
+      },
+      "sources": [
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -325,7 +656,54 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "imperial fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 4354,
+      "cardColor": "brown",
+      "serialId": 597,
+      "internalId": 550,
+      "uniqueEntryId": "6xscDDXokkLGARAzw",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_04354",
+        "version": "1.0.0",
+        "english": "imperial fence",
+        "englishEurope": "imperial fence",
+        "german": "Asienzauns",
+        "spanish": "valla dinastía",
+        "spanishUs": "valla dinastía",
+        "french": "clôture dynastie orientale",
+        "frenchUs": "clôture dynastie",
+        "italian": "recinzione dinastia",
+        "dutch": "keizerlijke hek",
+        "chinese": "东方风栅栏",
+        "chineseTraditional": "東方風柵欄",
+        "japanese": "オリエンタルなさく",
+        "korean": "오리엔탈 울타리",
+        "russian": "забор в азиатском стиле",
+        "plural": false,
+        "internalIds": [
+          4354
+        ]
+      },
+      "materials": {
+        "wood": 6,
+        "softwood": 4
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -366,7 +744,53 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "iron fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 4357,
+      "cardColor": "dark gray",
+      "serialId": 991,
+      "internalId": 267,
+      "uniqueEntryId": "6b9c3c3cRkfK3sqXu",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_04357",
+        "version": "1.0.0",
+        "english": "iron fence",
+        "englishEurope": "iron fence",
+        "german": "Eisenzaun",
+        "spanish": "verja de hierro",
+        "spanishUs": "valla de hierro",
+        "french": "clôture en fer",
+        "frenchUs": "clôture en fer",
+        "italian": "recinzione di ferro",
+        "dutch": "ijzeren hek",
+        "chinese": "铁栅栏",
+        "chineseTraditional": "鐵柵欄",
+        "japanese": "てつのさく",
+        "korean": "철제 울타리",
+        "russian": "железный забор",
+        "plural": false,
+        "internalIds": [
+          4357
+        ]
+      },
+      "materials": {
+        "iron nugget": 6
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -407,7 +831,54 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "iron-and-stone fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 5206,
+      "cardColor": "light gray",
+      "serialId": 891,
+      "internalId": 555,
+      "uniqueEntryId": "qe9qWWJB7wDbMLKTG",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_05206",
+        "version": "1.0.0",
+        "english": "iron-and-stone fence",
+        "englishEurope": "iron-and-stone fence",
+        "german": "Villenzaun",
+        "spanish": "verja de hierro y piedra",
+        "spanishUs": "valla de hierro y piedra",
+        "french": "clôture manoir",
+        "frenchUs": "clôture manoir",
+        "italian": "muretto con ringhiera",
+        "dutch": "hek met pijlers",
+        "chinese": "石砌铁艺栅栏",
+        "chineseTraditional": "西洋風柵欄",
+        "japanese": "ようふうのさく",
+        "korean": "아이언 스톤 울타리",
+        "russian": "кованый забор",
+        "plural": false,
+        "internalIds": [
+          5206
+        ]
+      },
+      "materials": {
+        "stone": 6,
+        "iron nugget": 3
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -448,7 +919,53 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "lattice fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 11712,
+      "cardColor": "brown",
+      "serialId": 592,
+      "internalId": 657,
+      "uniqueEntryId": "LRSdBoRQia8MgkGRg",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_11712",
+        "version": "1.0.0",
+        "english": "lattice fence",
+        "englishEurope": "lattice fence",
+        "german": "Gitterzaun",
+        "spanish": "valla celosía",
+        "spanishUs": "valla celosía",
+        "french": "clôture en treillis standard",
+        "frenchUs": "clôture en treillis standard",
+        "italian": "recinzione graticcio",
+        "dutch": "rasterhek",
+        "chinese": "交叉格栅",
+        "chineseTraditional": "交叉格柵",
+        "japanese": "ラティス",
+        "korean": "격자 울타리",
+        "russian": "решетка",
+        "plural": false,
+        "internalIds": [
+          11712
+        ]
+      },
+      "materials": {
+        "softwood": 8
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -489,7 +1006,53 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "rope fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 4352,
+      "cardColor": "dark gray",
+      "serialId": 990,
+      "internalId": 549,
+      "uniqueEntryId": "376NtDBZyAE9mDtSo",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_04352",
+        "version": "1.0.0",
+        "english": "rope fence",
+        "englishEurope": "rope fence",
+        "german": "Seilzauns",
+        "spanish": "valla cordón",
+        "spanishUs": "valla de soga",
+        "french": "clôture de corde",
+        "frenchUs": "clôture de corde",
+        "italian": "recinzione di corda",
+        "dutch": "touwhek",
+        "chinese": "钉子与绳索",
+        "chineseTraditional": "釘子與繩索",
+        "japanese": "ペグとロープ",
+        "korean": "페그 울타리",
+        "russian": "ограда из веревки",
+        "plural": false,
+        "internalIds": [
+          4352
+        ]
+      },
+      "materials": {
+        "iron nugget": 4
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -531,7 +1094,53 @@
     "sources": [
       "Crafting",
       "Tom Nook"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "simple wooden fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 11711,
+      "cardColor": "brown",
+      "serialId": 588,
+      "internalId": 656,
+      "uniqueEntryId": "ZGyfJBiFPk58dPFfn",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_11711",
+        "version": "1.0.0",
+        "english": "simple wooden fence",
+        "englishEurope": "simple wooden fence",
+        "german": "Standard-Holzzaun",
+        "spanish": "valla de madera",
+        "spanishUs": "valla de madera",
+        "french": "clôture en bois standard",
+        "frenchUs": "clôture en bois standard",
+        "italian": "recinzione di legno grezzo",
+        "dutch": "houten hekje",
+        "chinese": "朴素木制栅栏",
+        "chineseTraditional": "樸素木製柵欄",
+        "japanese": "そぼくなもくせいのさく",
+        "korean": "소박한 목제 울타리",
+        "russian": "простой дерев. забор",
+        "plural": false,
+        "internalIds": [
+          11711
+        ]
+      },
+      "materials": {
+        "softwood": 6
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -572,7 +1181,53 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "spiky fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 4358,
+      "cardColor": "brown",
+      "serialId": 584,
+      "internalId": 553,
+      "uniqueEntryId": "KwQDAafZxyPRLtYFn",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_04358",
+        "version": "1.0.0",
+        "english": "spiky fence",
+        "englishEurope": "spiky fence",
+        "german": "Spitzpfostenzaun",
+        "spanish": "valla puntiaguda",
+        "spanishUs": "valla puntiaguda",
+        "french": "clôture épieux",
+        "frenchUs": "clôture épieux",
+        "italian": "recinzione appuntita",
+        "dutch": "puntige hek",
+        "chinese": "尖刺栅栏",
+        "chineseTraditional": "尖刺柵欄",
+        "japanese": "トゲトゲのさく",
+        "korean": "뾰족뾰족 울타리",
+        "russian": "забор из кольев",
+        "plural": false,
+        "internalIds": [
+          4358
+        ]
+      },
+      "materials": {
+        "hardwood": 8
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -613,7 +1268,53 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stone fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 5212,
+      "cardColor": "light gray",
+      "serialId": 890,
+      "internalId": 266,
+      "uniqueEntryId": "SeyEuJLjP22oEeN2x",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_05212",
+        "version": "1.0.0",
+        "english": "stone fence",
+        "englishEurope": "stone fence",
+        "german": "Feldsteinmauer",
+        "spanish": "cerca de piedra",
+        "spanishUs": "cerca de piedra",
+        "french": "muret en pierre sèche",
+        "frenchUs": "muret en pierre sèche",
+        "italian": "muretto di pietra",
+        "dutch": "stenen muurtje",
+        "chinese": "石栅栏",
+        "chineseTraditional": "石柵欄",
+        "japanese": "いしかべ",
+        "korean": "돌 울타리",
+        "russian": "каменный забор",
+        "plural": false,
+        "internalIds": [
+          5212
+        ]
+      },
+      "materials": {
+        "stone": 4
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -654,7 +1355,54 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "straw fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 4356,
+      "cardColor": "green",
+      "serialId": 1290,
+      "internalId": 552,
+      "uniqueEntryId": "WpBzuYymcgmxSCn2m",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_04356",
+        "version": "1.0.0",
+        "english": "straw fence",
+        "englishEurope": "straw fence",
+        "german": "Strohzaun",
+        "spanish": "valla de paja",
+        "spanishUs": "valla de paja",
+        "french": "clôture de paille",
+        "frenchUs": "clôture de paille",
+        "italian": "recinzione di paglia",
+        "dutch": "strohek",
+        "chinese": "干稻草栅栏",
+        "chineseTraditional": "乾稻草柵欄",
+        "japanese": "わらぼしのさく",
+        "korean": "짚단 울타리",
+        "russian": "соломенный забор",
+        "plural": false,
+        "internalIds": [
+          4356
+        ]
+      },
+      "materials": {
+        "clump of weeds": 10,
+        "wood": 3
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -695,7 +1443,53 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "vertical-board fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 3402,
+      "cardColor": "brown",
+      "serialId": 581,
+      "internalId": 100,
+      "uniqueEntryId": "gJHaHfwkn4dANzaTt",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_03402",
+        "version": "1.0.0",
+        "english": "vertical-board fence",
+        "englishEurope": "vertical-board fence",
+        "german": "Bretterzaun",
+        "spanish": "valla de tablones",
+        "spanishUs": "valla de tablas",
+        "french": "clôture lattes verticales",
+        "frenchUs": "clôture lattes verticales",
+        "italian": "recinzione di assi verticali",
+        "dutch": "lichte schutting",
+        "chinese": "直条木板栅栏",
+        "chineseTraditional": "直條木板柵欄",
+        "japanese": "たていたのさく",
+        "korean": "세로 널빤지 울타리",
+        "russian": "штакетник",
+        "plural": false,
+        "internalIds": [
+          3402
+        ]
+      },
+      "materials": {
+        "wood": 8
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -736,7 +1530,54 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wedding fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Wedding Season",
+      "versionAdded": "1.2.0",
+      "versionUnlocked": "1.2.1c",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 12894,
+      "cardColor": "dark gray",
+      "serialId": 992,
+      "internalId": 714,
+      "uniqueEntryId": "yZNfKe6dESLFFQ8J4",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_12894",
+        "version": "1.2.0",
+        "english": "wedding fence",
+        "englishEurope": "wedding fence",
+        "german": "Hochzeitsabsperrung",
+        "spanish": "valla de boda",
+        "spanishUs": "valla de boda",
+        "french": "clôture de mariage",
+        "frenchUs": "clôture de mariage",
+        "italian": "recinzione nuziale",
+        "dutch": "trouwhek",
+        "chinese": "婚礼栅栏",
+        "chineseTraditional": "婚禮柵欄",
+        "japanese": "ウェディングなさく",
+        "korean": "웨딩 울타리",
+        "russian": "свадебный забор",
+        "plural": false,
+        "internalIds": [
+          12894
+        ]
+      },
+      "materials": {
+        "iron nugget": 5,
+        "softwood": 3
+      },
+      "sources": [
+        "Harvey"
+      ]
+    }
   },
   {
     "sourceSheet": "Fencing",
@@ -777,6 +1618,54 @@
     },
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "zen fence",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": 1000,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Fencing",
+      "craftedItemInternalId": 5207,
+      "cardColor": "light gray",
+      "serialId": 893,
+      "internalId": 556,
+      "uniqueEntryId": "i3NJEKs5tNY9dJSCX",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": "Fence_05207",
+        "version": "1.0.0",
+        "english": "zen fence",
+        "englishEurope": "zen fence",
+        "german": "Japanmauer",
+        "spanish": "cerca oriental",
+        "spanishUs": "cerca oriental",
+        "french": "muret zen",
+        "frenchUs": "muret zen",
+        "italian": "muretto giapponese",
+        "dutch": "zenmuurtje",
+        "chinese": "和风栅栏",
+        "chineseTraditional": "和風柵欄",
+        "japanese": "わふうのさく",
+        "korean": "동양풍 울타리",
+        "russian": "забор-дзен",
+        "plural": false,
+        "internalIds": [
+          5207
+        ]
+      },
+      "materials": {
+        "iron nugget": 3,
+        "clay": 3,
+        "stone": 3
+      },
+      "sources": [
+        "Nook Miles Exchange"
+      ]
+    }
   }
 ]

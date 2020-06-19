@@ -67,7 +67,8 @@
     "sources": [
       "Nintendo",
       "Nook Shopping"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -133,7 +134,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -199,7 +201,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -265,7 +268,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -334,7 +338,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -400,7 +405,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -466,7 +472,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -532,7 +539,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -601,7 +609,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -667,7 +676,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -735,7 +745,55 @@
     "series": "bamboo",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo-shoot lamp",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Spring",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 5977,
+      "cardColor": "green",
+      "serialId": 2504,
+      "internalId": 385,
+      "uniqueEntryId": "kdfzcoLwkhis8mbtR",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05977",
+        "version": "1.0.0",
+        "english": "bamboo-shoot lamp",
+        "englishEurope": "bamboo-shoot lamp",
+        "german": "Bambussprossenlampe",
+        "spanish": "lámpara brote de bambú",
+        "spanishUs": "lámpara brote de bambú",
+        "french": "lampe pousse de bambou",
+        "frenchUs": "lampe pousse de bambou",
+        "italian": "lampada germoglio bambù",
+        "dutch": "bamboescheutlamp",
+        "chinese": "竹笋灯",
+        "chineseTraditional": "竹筍燈",
+        "japanese": "たけのこランプ",
+        "korean": "죽순 램프",
+        "russian": "лампа-побег бамбука",
+        "plural": false,
+        "internalIds": [
+          5977
+        ]
+      },
+      "materials": {
+        "young spring bamboo": 4,
+        "bamboo shoot": 5,
+        "clay": 4
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -801,7 +859,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -867,7 +926,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -933,7 +993,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -999,7 +1060,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1067,7 +1129,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1133,7 +1196,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1199,7 +1263,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1265,7 +1330,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1331,7 +1397,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1397,7 +1464,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1463,7 +1531,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1532,7 +1601,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1600,7 +1670,8 @@
     "series": null,
     "sources": [
       "Bug-Off"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1668,7 +1739,8 @@
     "series": null,
     "sources": [
       "Fishing Tourney"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1736,7 +1808,8 @@
     "series": null,
     "sources": [
       "HHA"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1802,7 +1875,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1870,7 +1944,8 @@
     "series": "Bunny Day",
     "sources": [
       "Bunny Day"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -1938,7 +2013,54 @@
     "series": "Bunny Day",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Bunny Day lamp",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 12413,
+      "cardColor": "yellow",
+      "serialId": 3705,
+      "internalId": 697,
+      "uniqueEntryId": "aJAmvizpFhDespKHb",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_12413",
+        "version": "1.1.0",
+        "english": "Bunny Day lamp",
+        "englishEurope": "Bunny Day lamp",
+        "german": "Häschentag-Lampe",
+        "spanish": "lámpara Caza del Huevo",
+        "spanishUs": "lámpara Caza del Huevo",
+        "french": "lampe fête des œufs",
+        "frenchUs": "lampe fête des œufs",
+        "italian": "lampada caccia all'uovo",
+        "dutch": "eierlamp",
+        "chinese": "复活节灯",
+        "chineseTraditional": "復活節燈",
+        "japanese": "イースターなランプ",
+        "korean": "이스터 램프",
+        "russian": "лампа «День зайцев»",
+        "plural": false,
+        "internalIds": [
+          12413
+        ]
+      },
+      "materials": {
+        "wood egg": 4
+      },
+      "sources": [
+        "Egg bottle",
+        "Egg balloon"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2004,7 +2126,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2070,7 +2193,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2136,7 +2260,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2202,7 +2327,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2268,7 +2394,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2334,7 +2461,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2403,7 +2531,56 @@
     "series": "cherry blossoms",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry-blossom bonsai",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Cherry-Blossom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 6030,
+      "cardColor": "pink",
+      "serialId": 2601,
+      "internalId": 375,
+      "uniqueEntryId": "ToGQibiXb4sB3pT7B",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_06030",
+        "version": "1.0.0",
+        "english": "cherry-blossom bonsai",
+        "englishEurope": "cherry-blossom bonsai",
+        "german": "Kirschblüten-Bonsai",
+        "spanish": "cerezo en flor bonsái",
+        "spanishUs": "cerezo en flor bonsái",
+        "french": "bonsaï cerisier du Japon",
+        "frenchUs": "bonsaï cerisier du Japon",
+        "italian": "bonsai ciliegio",
+        "dutch": "kersenbloesembonsai",
+        "chinese": "樱花盆栽",
+        "chineseTraditional": "櫻花盆栽",
+        "japanese": "さくらのぼんさい",
+        "korean": "벚나무 분재",
+        "russian": "вишня в цвету бонсай",
+        "plural": false,
+        "internalIds": [
+          6030
+        ]
+      },
+      "materials": {
+        "cherry-blossom petal": 6,
+        "hardwood": 2,
+        "clump of weeds": 3,
+        "clay": 3
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2469,7 +2646,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2535,7 +2713,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2601,7 +2780,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2670,7 +2850,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "coconut juice",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3684,
+      "cardColor": "green",
+      "serialId": 1800,
+      "internalId": 163,
+      "uniqueEntryId": "43ztxc7D5XHDmAMXA",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03684",
+        "version": "1.0.0",
+        "english": "coconut juice",
+        "englishEurope": "coconut juice",
+        "german": "Kokosnusswasser",
+        "spanish": "zumo de coco",
+        "spanishUs": "jugo de coco",
+        "french": "jus de coco",
+        "frenchUs": "jus de noix de coco",
+        "italian": "acqua di cocco",
+        "dutch": "drinkkokosnoot",
+        "chinese": "椰子水",
+        "chineseTraditional": "椰子水",
+        "japanese": "ココナッツジュース",
+        "korean": "코코넛 주스",
+        "russian": "кокосовый сок",
+        "plural": false,
+        "internalIds": [
+          3684
+        ]
+      },
+      "materials": {
+        "coconut": 1
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2736,7 +2962,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2805,7 +3032,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2871,7 +3099,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2937,7 +3166,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3003,7 +3233,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3069,7 +3300,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3135,7 +3367,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3227,7 +3460,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3319,7 +3553,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3411,7 +3646,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3503,7 +3739,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3595,7 +3832,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3687,7 +3925,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3753,7 +3992,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3819,7 +4059,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3885,7 +4126,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -3954,7 +4196,8 @@
     "series": null,
     "sources": [
       "Dodo Airlines"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4020,7 +4263,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4086,7 +4330,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4155,7 +4400,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4221,7 +4467,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4313,7 +4560,53 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "document stack",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1750,
+      "cardColor": "yellow",
+      "serialId": 2120,
+      "internalId": 462,
+      "uniqueEntryId": "rLvnyoEj48NFgsNpX",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01750",
+        "version": "1.0.0",
+        "english": "document stack",
+        "englishEurope": "document stack",
+        "german": "Dokumentenstapel",
+        "spanish": "pila de documentos",
+        "spanishUs": "pila de documentos",
+        "french": "pile de documents",
+        "frenchUs": "pile de documents",
+        "italian": "pila di documenti",
+        "dutch": "stapel documenten",
+        "chinese": "文件堆",
+        "chineseTraditional": "文件堆",
+        "japanese": "しょるいのやま",
+        "korean": "서류 더미",
+        "russian": "стопка документов",
+        "plural": false,
+        "internalIds": [
+          1750
+        ]
+      },
+      "materials": {
+        "scattered papers": 1
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4405,7 +4698,53 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "document stack",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1750,
+      "cardColor": "yellow",
+      "serialId": 2120,
+      "internalId": 462,
+      "uniqueEntryId": "rLvnyoEj48NFgsNpX",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01750",
+        "version": "1.0.0",
+        "english": "document stack",
+        "englishEurope": "document stack",
+        "german": "Dokumentenstapel",
+        "spanish": "pila de documentos",
+        "spanishUs": "pila de documentos",
+        "french": "pile de documents",
+        "frenchUs": "pile de documents",
+        "italian": "pila di documenti",
+        "dutch": "stapel documenten",
+        "chinese": "文件堆",
+        "chineseTraditional": "文件堆",
+        "japanese": "しょるいのやま",
+        "korean": "서류 더미",
+        "russian": "стопка документов",
+        "plural": false,
+        "internalIds": [
+          1750
+        ]
+      },
+      "materials": {
+        "scattered papers": 1
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4497,7 +4836,53 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "document stack",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1750,
+      "cardColor": "yellow",
+      "serialId": 2120,
+      "internalId": 462,
+      "uniqueEntryId": "rLvnyoEj48NFgsNpX",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01750",
+        "version": "1.0.0",
+        "english": "document stack",
+        "englishEurope": "document stack",
+        "german": "Dokumentenstapel",
+        "spanish": "pila de documentos",
+        "spanishUs": "pila de documentos",
+        "french": "pile de documents",
+        "frenchUs": "pile de documents",
+        "italian": "pila di documenti",
+        "dutch": "stapel documenten",
+        "chinese": "文件堆",
+        "chineseTraditional": "文件堆",
+        "japanese": "しょるいのやま",
+        "korean": "서류 더미",
+        "russian": "стопка документов",
+        "plural": false,
+        "internalIds": [
+          1750
+        ]
+      },
+      "materials": {
+        "scattered papers": 1
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4589,7 +4974,53 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "document stack",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1750,
+      "cardColor": "yellow",
+      "serialId": 2120,
+      "internalId": 462,
+      "uniqueEntryId": "rLvnyoEj48NFgsNpX",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01750",
+        "version": "1.0.0",
+        "english": "document stack",
+        "englishEurope": "document stack",
+        "german": "Dokumentenstapel",
+        "spanish": "pila de documentos",
+        "spanishUs": "pila de documentos",
+        "french": "pile de documents",
+        "frenchUs": "pile de documents",
+        "italian": "pila di documenti",
+        "dutch": "stapel documenten",
+        "chinese": "文件堆",
+        "chineseTraditional": "文件堆",
+        "japanese": "しょるいのやま",
+        "korean": "서류 더미",
+        "russian": "стопка документов",
+        "plural": false,
+        "internalIds": [
+          1750
+        ]
+      },
+      "materials": {
+        "scattered papers": 1
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4655,7 +5086,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4721,7 +5153,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4787,7 +5220,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4853,7 +5287,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4919,7 +5354,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -4985,7 +5421,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5054,7 +5491,54 @@
     "series": "festive",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "festive top set",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Festive Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 12230,
+      "cardColor": "white",
+      "serialId": 3400,
+      "internalId": 650,
+      "uniqueEntryId": "tyq7gwEQhneN7ret4",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_12230",
+        "version": "1.0.0",
+        "english": "festive top set",
+        "englishEurope": "festive top set",
+        "german": "Dreidelspiel",
+        "spanish": "juego de peonzas festivo",
+        "spanishUs": "juego de trompos festivo",
+        "french": "jeu de toupies de fête",
+        "frenchUs": "jeu de toupies festives",
+        "italian": "set di trottole festive",
+        "dutch": "feesttollenset",
+        "chinese": "节日陀螺",
+        "chineseTraditional": "節日陀螺",
+        "japanese": "おまつりのコマ",
+        "korean": "축제 팽이",
+        "russian": "традиционный набор",
+        "plural": false,
+        "internalIds": [
+          12230
+        ]
+      },
+      "materials": {
+        "gold ornament": 2,
+        "hardwood": 1
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5122,7 +5606,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5188,7 +5673,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5257,7 +5743,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "firewood",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 5970,
+      "cardColor": "brown",
+      "serialId": 467,
+      "internalId": 402,
+      "uniqueEntryId": "yDibbjkFgmEuJtdS6",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05970",
+        "version": "1.0.0",
+        "english": "firewood",
+        "englishEurope": "firewood",
+        "german": "Feuerholz",
+        "spanish": "pila de leña",
+        "spanishUs": "leña",
+        "french": "tas de bûches",
+        "frenchUs": "tas de bûches",
+        "italian": "legna da ardere",
+        "dutch": "stapel brandhout",
+        "chinese": "柴火",
+        "chineseTraditional": "柴火",
+        "japanese": "まき",
+        "korean": "장작",
+        "russian": "дрова",
+        "plural": false,
+        "internalIds": [
+          5970
+        ]
+      },
+      "materials": {
+        "wood": 8
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5323,7 +5855,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5389,7 +5922,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5458,7 +5992,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5524,7 +6059,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5590,7 +6126,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5656,7 +6193,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5725,7 +6263,57 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "fruit basket",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 975,
+      "cardColor": "white",
+      "serialId": 1900,
+      "internalId": 56,
+      "uniqueEntryId": "sAtJ8kdcam2FX5MJb",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_00975",
+        "version": "1.0.0",
+        "english": "fruit basket",
+        "englishEurope": "fruit basket",
+        "german": "Fruchtkorb",
+        "spanish": "cesta de frutas",
+        "spanishUs": "cesta de frutas",
+        "french": "panier de fruits",
+        "frenchUs": "panier de fruits",
+        "italian": "cestino di frutta",
+        "dutch": "fruitmand",
+        "chinese": "水果篮",
+        "chineseTraditional": "水果籃",
+        "japanese": "フルーツバスケット",
+        "korean": "과일 바구니",
+        "russian": "корзина с фруктами",
+        "plural": false,
+        "internalIds": [
+          975
+        ]
+      },
+      "materials": {
+        "apple": 1,
+        "pear": 1,
+        "cherry": 1,
+        "orange": 1,
+        "peach": 1
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5791,7 +6379,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5857,7 +6446,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5923,7 +6513,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -5989,7 +6580,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6055,7 +6647,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6121,7 +6714,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6189,7 +6783,53 @@
     "series": "golden",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "gold bars",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3065,
+      "cardColor": "gold",
+      "serialId": 1100,
+      "internalId": 81,
+      "uniqueEntryId": "3DtQMaiAHW8XDdX4c",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03065",
+        "version": "1.0.0",
+        "english": "gold bars",
+        "englishEurope": "gold bars",
+        "german": "Goldbarrenstapel",
+        "spanish": "pila de lingotes de oro",
+        "spanishUs": "pila de lingotes de oro",
+        "french": "pile de lingots",
+        "frenchUs": "pile de lingots",
+        "italian": "piramide di lingotti dorata",
+        "dutch": "goudstaven",
+        "chinese": "金条",
+        "chineseTraditional": "金條",
+        "japanese": "きんののべぼう",
+        "korean": "금괴",
+        "russian": "золотые слитки",
+        "plural": false,
+        "internalIds": [
+          3065
+        ]
+      },
+      "materials": {
+        "gold nugget": 3
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6257,7 +6897,8 @@
     "series": null,
     "sources": [
       "Bug-Off"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6325,7 +6966,8 @@
     "series": null,
     "sources": [
       "Fishing Tourney"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6393,7 +7035,8 @@
     "series": null,
     "sources": [
       "HHA"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6462,7 +7105,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden arowana model",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 11260,
+      "cardColor": "gold",
+      "serialId": 1132,
+      "internalId": 602,
+      "uniqueEntryId": "TG3z4Bf2ju3Wo5tRK",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_11260",
+        "version": "1.0.0",
+        "english": "golden arowana model",
+        "englishEurope": "golden arowana model",
+        "german": "Gold-Arowana-Modell",
+        "spanish": "trofeo arowana de oro",
+        "spanishUs": "trofeo arowana de oro",
+        "french": "arowana en or",
+        "frenchUs": "arowana en or",
+        "italian": "replica di arowana in oro",
+        "dutch": "model-gouden-arowana",
+        "chinese": "金色骨舌鱼",
+        "chineseTraditional": "金色骨舌魚",
+        "japanese": "きんのアロワナ",
+        "korean": "금 아로와나",
+        "russian": "муляж золотой араваны",
+        "plural": false,
+        "internalIds": [
+          11260
+        ]
+      },
+      "materials": {
+        "gold nugget": 3
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6531,7 +7220,53 @@
     "series": "golden",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden candlestick",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3772,
+      "cardColor": "gold",
+      "serialId": 1102,
+      "internalId": 130,
+      "uniqueEntryId": "F78p9Pkj6X2TRfpDT",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03772",
+        "version": "1.0.0",
+        "english": "golden candlestick",
+        "englishEurope": "golden candlestick",
+        "german": "Goldkerzenhalter",
+        "spanish": "candelabro dorado",
+        "spanishUs": "candelabro dorado",
+        "french": "chandelier d'or",
+        "frenchUs": "chandelier d'or",
+        "italian": "candelabro dorato",
+        "dutch": "gouden kandelaar",
+        "chinese": "黄金烛台",
+        "chineseTraditional": "黃金燭台",
+        "japanese": "おうごんのしょくだい",
+        "korean": "황금 촛대",
+        "russian": "золотой подсвечник",
+        "plural": false,
+        "internalIds": [
+          3772
+        ]
+      },
+      "materials": {
+        "gold nugget": 2
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6600,7 +7335,53 @@
     "series": "golden",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden dishes",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3810,
+      "cardColor": "gold",
+      "serialId": 1101,
+      "internalId": 131,
+      "uniqueEntryId": "NX2ZZ8qZnEqqWtSGH",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03810",
+        "version": "1.0.0",
+        "english": "golden dishes",
+        "englishEurope": "golden dishes",
+        "german": "Goldgeschirr",
+        "spanish": "servicio de mesa dorado",
+        "spanishUs": "servicio de mesa dorado",
+        "french": "vaisselle d'or",
+        "frenchUs": "vaisselle d'or",
+        "italian": "set da tavola dorato",
+        "dutch": "gouden servies",
+        "chinese": "黄金餐具",
+        "chineseTraditional": "黃金餐具",
+        "japanese": "おうごんのしょっき",
+        "korean": "황금 식기",
+        "russian": "золотая посуда",
+        "plural": false,
+        "internalIds": [
+          3810
+        ]
+      },
+      "materials": {
+        "gold nugget": 1
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6668,7 +7449,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden dung beetle",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 5941,
+      "cardColor": "gold",
+      "serialId": 1131,
+      "internalId": 601,
+      "uniqueEntryId": "XhKhDoMTgc8eAoJna",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05941",
+        "version": "1.0.0",
+        "english": "golden dung beetle",
+        "englishEurope": "golden dung beetle",
+        "german": "Gold-Skarabäus",
+        "spanish": "escarabajo pelotero de oro",
+        "spanishUs": "escarabajo pelotero de oro",
+        "french": "scarabée doré",
+        "frenchUs": "scarabée doré",
+        "italian": "scarabeo stercorario d'oro",
+        "dutch": "gouden mestkever",
+        "chinese": "金色蜣螂",
+        "chineseTraditional": "金色糞金龜",
+        "japanese": "きんのスカラベ",
+        "korean": "금 쇠똥구리",
+        "russian": "золотой дупляк",
+        "plural": false,
+        "internalIds": [
+          5941
+        ]
+      },
+      "materials": {
+        "gold nugget": 3
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6734,7 +7561,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6800,7 +7628,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6866,7 +7695,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6932,7 +7762,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -6998,7 +7829,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7064,7 +7896,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7130,7 +7963,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7196,7 +8030,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7262,7 +8097,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7328,7 +8164,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7394,7 +8231,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7460,7 +8298,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7529,7 +8368,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7595,7 +8435,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7661,7 +8502,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7727,7 +8569,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7793,7 +8636,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7859,7 +8703,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7928,7 +8773,58 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "infused-water dispenser",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4107,
+      "cardColor": "white",
+      "serialId": 1901,
+      "internalId": 400,
+      "uniqueEntryId": "t24vHrtE8fyRkzyWK",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04107",
+        "version": "1.0.0",
+        "english": "infused-water dispenser",
+        "englishEurope": "infused-water dispenser",
+        "german": "Obst-Wasserspender",
+        "spanish": "jarro de agua afrutada",
+        "spanishUs": "jarro de agua saborizada",
+        "french": "distributeur d'eau fruitée",
+        "frenchUs": "distributeur d'eau fruitée",
+        "italian": "distributore acqua fruttata",
+        "dutch": "watertap met fruit",
+        "chinese": "水果桶装饮水机",
+        "chineseTraditional": "水果桶裝飲水機",
+        "japanese": "フルーツウォーターサーバー",
+        "korean": "프루츠 워터 디스펜서",
+        "russian": "дозатор фруктовой воды",
+        "plural": false,
+        "internalIds": [
+          4107
+        ]
+      },
+      "materials": {
+        "apple": 2,
+        "pear": 2,
+        "cherry": 2,
+        "orange": 2,
+        "peach": 2,
+        "coconut": 2
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -7996,7 +8892,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8064,7 +8961,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8132,7 +9030,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8200,7 +9099,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8266,7 +9166,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8334,7 +9235,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8403,7 +9305,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8469,7 +9372,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8535,7 +9439,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8601,7 +9506,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8670,7 +9576,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8736,7 +9643,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8804,7 +9712,55 @@
     "series": "stars",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Libra scale",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3774,
+      "cardColor": "silver",
+      "serialId": 2306,
+      "internalId": 132,
+      "uniqueEntryId": "td7wJhwym4yZKy6tQ",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03774",
+        "version": "1.0.0",
+        "english": "Libra scale",
+        "englishEurope": "Libra scale",
+        "german": "Balkenwaage",
+        "spanish": "balanza Libra",
+        "spanishUs": "balanza Libra",
+        "french": "Balance à plateaux",
+        "frenchUs": "Balance à plateaux",
+        "italian": "pesa oggetti Bilancia",
+        "dutch": "Weegschaal-bascule",
+        "chinese": "天秤",
+        "chineseTraditional": "天秤",
+        "japanese": "リブラのてんびん",
+        "korean": "천칭자리 저울",
+        "russian": "рычажные весы",
+        "plural": false,
+        "internalIds": [
+          3774
+        ]
+      },
+      "materials": {
+        "star fragment": 3,
+        "Libra fragment": 2,
+        "gold nugget": 2
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8870,7 +9826,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -8936,7 +9893,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9004,7 +9962,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "lucky gold cat",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 9814,
+      "cardColor": "gold",
+      "serialId": 1107,
+      "internalId": 578,
+      "uniqueEntryId": "bKrB5YcmewKR5AWot",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_09814",
+        "version": "1.0.0",
+        "english": "lucky gold cat",
+        "englishEurope": "lucky gold cat",
+        "german": "Gold-Glückskatze",
+        "spanish": "gato suerte oro",
+        "spanishUs": "gato suerte oro",
+        "french": "chat fétiche doré",
+        "frenchUs": "chat fétiche doré",
+        "italian": "gatto fortuna oro",
+        "dutch": "gouden gelukskat",
+        "chinese": "金色招财猫",
+        "chineseTraditional": "金色招財貓",
+        "japanese": "きんのまねきねこ",
+        "korean": "금색 복고양이",
+        "russian": "золотой кот удачи",
+        "plural": false,
+        "internalIds": [
+          9814
+        ]
+      },
+      "materials": {
+        "gold nugget": 2,
+        "lucky cat": 1
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9070,7 +10075,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9162,7 +10168,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9254,7 +10261,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9346,7 +10354,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9438,7 +10447,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9530,7 +10540,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9622,7 +10633,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9714,7 +10726,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9780,7 +10793,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9846,7 +10860,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9912,7 +10927,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -9980,7 +10996,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10046,7 +11063,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10114,7 +11132,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10180,7 +11199,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10246,7 +11266,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10312,7 +11333,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10378,7 +11400,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10444,7 +11467,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10510,7 +11534,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10578,7 +11603,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10644,7 +11670,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10710,7 +11737,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10776,7 +11804,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10845,7 +11874,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10911,7 +11941,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -10977,7 +12008,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11046,7 +12078,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11114,7 +12147,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "old-fashioned washtub",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase DIY for Beginners at Nook's Cranny",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4393,
+      "cardColor": "brown",
+      "serialId": 464,
+      "internalId": 195,
+      "uniqueEntryId": "ebzFXSHFr3vGLoDSb",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04393",
+        "version": "1.0.0",
+        "english": "old-fashioned washtub",
+        "englishEurope": "old-fashioned washtub",
+        "german": "Waschbottich",
+        "spanish": "palangana tradicional",
+        "spanishUs": "palangana tradicional",
+        "french": "baquet à lessive",
+        "frenchUs": "baquet à lessive",
+        "italian": "tinozza da bucato",
+        "dutch": "wastobbe",
+        "chinese": "洗衣盆",
+        "chineseTraditional": "洗衣盆",
+        "japanese": "せんたくおけ",
+        "korean": "빨랫대야",
+        "russian": "чан для стирки",
+        "plural": false,
+        "internalIds": [
+          4393
+        ]
+      },
+      "materials": {
+        "softwood": 3
+      },
+      "sources": [
+        "DIY for Beginners"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11180,7 +12259,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11246,7 +12326,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11312,7 +12393,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11378,7 +12460,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11446,7 +12529,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11512,7 +12596,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11580,7 +12665,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11646,7 +12732,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11712,7 +12799,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11780,7 +12868,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pine bonsai tree",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Fall",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3802,
+      "cardColor": "brown",
+      "serialId": 2910,
+      "internalId": 592,
+      "uniqueEntryId": "ifZ8RQ4kxXgJawABR",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03802",
+        "version": "1.0.0",
+        "english": "pine bonsai tree",
+        "englishEurope": "pine bonsai tree",
+        "german": "Kiefern-Bonsai",
+        "spanish": "conífera bonsái",
+        "spanishUs": "conífera bonsái",
+        "french": "bonsaï pin japonais",
+        "frenchUs": "bonsaï pin japonais",
+        "italian": "bonsai conifera",
+        "dutch": "bonsai-dennenboom",
+        "chinese": "松树盆栽",
+        "chineseTraditional": "松樹盆栽",
+        "japanese": "マツのぼんさい",
+        "korean": "소나무 분재",
+        "russian": "бонсай из сосны",
+        "plural": false,
+        "internalIds": [
+          3802
+        ]
+      },
+      "materials": {
+        "pine cone": 8,
+        "clay": 5
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11846,7 +12981,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11915,7 +13051,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -11981,7 +13118,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12047,7 +13185,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12113,7 +13252,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12179,7 +13319,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12245,7 +13386,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12311,7 +13453,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12377,7 +13520,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12443,7 +13587,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12509,7 +13654,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12575,7 +13721,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12641,7 +13788,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12710,7 +13858,8 @@
     "series": "wedding",
     "sources": [
       "Cyrus"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12776,7 +13925,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12842,7 +13992,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12908,7 +14059,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -12974,7 +14126,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13042,7 +14195,8 @@
     "series": null,
     "sources": [
       "Rover"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13108,7 +14262,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13174,7 +14329,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13240,7 +14396,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13306,7 +14463,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13372,7 +14530,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13441,7 +14600,56 @@
     "series": "stars",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Scorpio lamp",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 5962,
+      "cardColor": "silver",
+      "serialId": 2307,
+      "internalId": 380,
+      "uniqueEntryId": "nJbz3cz3Adu75WTG4",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05962",
+        "version": "1.0.0",
+        "english": "Scorpio lamp",
+        "englishEurope": "Scorpio lamp",
+        "german": "Skorpion-Lampe",
+        "spanish": "lámpara Escorpio",
+        "spanishUs": "lámpara Escorpio",
+        "french": "lampe Scorpion",
+        "frenchUs": "lampe Scorpion",
+        "italian": "lampada Scorpione",
+        "dutch": "Schorpioen-lamp",
+        "chinese": "天蝎座灯",
+        "chineseTraditional": "天蠍座燈",
+        "japanese": "スコーピオのランプ",
+        "korean": "전갈자리 램프",
+        "russian": "лампа-Скорпион",
+        "plural": false,
+        "internalIds": [
+          5962
+        ]
+      },
+      "materials": {
+        "star fragment": 3,
+        "Scorpius fragment": 2,
+        "gold nugget": 2,
+        "stone": 5
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13507,7 +14715,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13573,7 +14782,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13639,7 +14849,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13708,7 +14919,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13774,7 +14986,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13842,7 +15055,8 @@
     "series": null,
     "sources": [
       "Bug-Off"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13910,7 +15124,8 @@
     "series": null,
     "sources": [
       "Fishing Tourney"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -13978,7 +15193,8 @@
     "series": null,
     "sources": [
       "HHA"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14044,7 +15260,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14110,7 +15327,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14179,7 +15397,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14245,7 +15464,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14311,7 +15531,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14377,7 +15598,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14469,7 +15691,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stacked magazines",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1861,
+      "cardColor": "yellow",
+      "serialId": 2111,
+      "internalId": 197,
+      "uniqueEntryId": "3gMLM9p6vJS37zTZe",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01861",
+        "version": "1.0.0",
+        "english": "stacked magazines",
+        "englishEurope": "stacked magazines",
+        "german": "Magazinsammlung",
+        "spanish": "montón de revistas",
+        "spanishUs": "montón de revistas",
+        "french": "lot de magazines",
+        "frenchUs": "lot de magazines",
+        "italian": "raccolta di riviste",
+        "dutch": "stapel tijdschriften",
+        "chinese": "杂志堆",
+        "chineseTraditional": "雜誌堆",
+        "japanese": "ざっしのたば",
+        "korean": "쌓인 잡지",
+        "russian": "коллекция журналов",
+        "plural": false,
+        "internalIds": [
+          1861
+        ]
+      },
+      "materials": {
+        "magazine": 6
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14538,7 +15806,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stacked magazines",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1861,
+      "cardColor": "yellow",
+      "serialId": 2111,
+      "internalId": 197,
+      "uniqueEntryId": "3gMLM9p6vJS37zTZe",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01861",
+        "version": "1.0.0",
+        "english": "stacked magazines",
+        "englishEurope": "stacked magazines",
+        "german": "Magazinsammlung",
+        "spanish": "montón de revistas",
+        "spanishUs": "montón de revistas",
+        "french": "lot de magazines",
+        "frenchUs": "lot de magazines",
+        "italian": "raccolta di riviste",
+        "dutch": "stapel tijdschriften",
+        "chinese": "杂志堆",
+        "chineseTraditional": "雜誌堆",
+        "japanese": "ざっしのたば",
+        "korean": "쌓인 잡지",
+        "russian": "коллекция журналов",
+        "plural": false,
+        "internalIds": [
+          1861
+        ]
+      },
+      "materials": {
+        "magazine": 6
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14607,7 +15921,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stacked magazines",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1861,
+      "cardColor": "yellow",
+      "serialId": 2111,
+      "internalId": 197,
+      "uniqueEntryId": "3gMLM9p6vJS37zTZe",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01861",
+        "version": "1.0.0",
+        "english": "stacked magazines",
+        "englishEurope": "stacked magazines",
+        "german": "Magazinsammlung",
+        "spanish": "montón de revistas",
+        "spanishUs": "montón de revistas",
+        "french": "lot de magazines",
+        "frenchUs": "lot de magazines",
+        "italian": "raccolta di riviste",
+        "dutch": "stapel tijdschriften",
+        "chinese": "杂志堆",
+        "chineseTraditional": "雜誌堆",
+        "japanese": "ざっしのたば",
+        "korean": "쌓인 잡지",
+        "russian": "коллекция журналов",
+        "plural": false,
+        "internalIds": [
+          1861
+        ]
+      },
+      "materials": {
+        "magazine": 6
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14676,7 +16036,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stacked magazines",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1861,
+      "cardColor": "yellow",
+      "serialId": 2111,
+      "internalId": 197,
+      "uniqueEntryId": "3gMLM9p6vJS37zTZe",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01861",
+        "version": "1.0.0",
+        "english": "stacked magazines",
+        "englishEurope": "stacked magazines",
+        "german": "Magazinsammlung",
+        "spanish": "montón de revistas",
+        "spanishUs": "montón de revistas",
+        "french": "lot de magazines",
+        "frenchUs": "lot de magazines",
+        "italian": "raccolta di riviste",
+        "dutch": "stapel tijdschriften",
+        "chinese": "杂志堆",
+        "chineseTraditional": "雜誌堆",
+        "japanese": "ざっしのたば",
+        "korean": "쌓인 잡지",
+        "russian": "коллекция журналов",
+        "plural": false,
+        "internalIds": [
+          1861
+        ]
+      },
+      "materials": {
+        "magazine": 6
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14745,7 +16151,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stacked magazines",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1861,
+      "cardColor": "yellow",
+      "serialId": 2111,
+      "internalId": 197,
+      "uniqueEntryId": "3gMLM9p6vJS37zTZe",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01861",
+        "version": "1.0.0",
+        "english": "stacked magazines",
+        "englishEurope": "stacked magazines",
+        "german": "Magazinsammlung",
+        "spanish": "montón de revistas",
+        "spanishUs": "montón de revistas",
+        "french": "lot de magazines",
+        "frenchUs": "lot de magazines",
+        "italian": "raccolta di riviste",
+        "dutch": "stapel tijdschriften",
+        "chinese": "杂志堆",
+        "chineseTraditional": "雜誌堆",
+        "japanese": "ざっしのたば",
+        "korean": "쌓인 잡지",
+        "russian": "коллекция журналов",
+        "plural": false,
+        "internalIds": [
+          1861
+        ]
+      },
+      "materials": {
+        "magazine": 6
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14814,7 +16266,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stacked magazines",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1861,
+      "cardColor": "yellow",
+      "serialId": 2111,
+      "internalId": 197,
+      "uniqueEntryId": "3gMLM9p6vJS37zTZe",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01861",
+        "version": "1.0.0",
+        "english": "stacked magazines",
+        "englishEurope": "stacked magazines",
+        "german": "Magazinsammlung",
+        "spanish": "montón de revistas",
+        "spanishUs": "montón de revistas",
+        "french": "lot de magazines",
+        "frenchUs": "lot de magazines",
+        "italian": "raccolta di riviste",
+        "dutch": "stapel tijdschriften",
+        "chinese": "杂志堆",
+        "chineseTraditional": "雜誌堆",
+        "japanese": "ざっしのたば",
+        "korean": "쌓인 잡지",
+        "russian": "коллекция журналов",
+        "plural": false,
+        "internalIds": [
+          1861
+        ]
+      },
+      "materials": {
+        "magazine": 6
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14883,7 +16381,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stacked magazines",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1861,
+      "cardColor": "yellow",
+      "serialId": 2111,
+      "internalId": 197,
+      "uniqueEntryId": "3gMLM9p6vJS37zTZe",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01861",
+        "version": "1.0.0",
+        "english": "stacked magazines",
+        "englishEurope": "stacked magazines",
+        "german": "Magazinsammlung",
+        "spanish": "montón de revistas",
+        "spanishUs": "montón de revistas",
+        "french": "lot de magazines",
+        "frenchUs": "lot de magazines",
+        "italian": "raccolta di riviste",
+        "dutch": "stapel tijdschriften",
+        "chinese": "杂志堆",
+        "chineseTraditional": "雜誌堆",
+        "japanese": "ざっしのたば",
+        "korean": "쌓인 잡지",
+        "russian": "коллекция журналов",
+        "plural": false,
+        "internalIds": [
+          1861
+        ]
+      },
+      "materials": {
+        "magazine": 6
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -14952,7 +16496,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "steamer-basket set",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Spring",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3344,
+      "cardColor": "green",
+      "serialId": 2503,
+      "internalId": 382,
+      "uniqueEntryId": "Z7Bb4ApKb6B8pNne2",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03344",
+        "version": "1.0.0",
+        "english": "steamer-basket set",
+        "englishEurope": "steamer-basket set",
+        "german": "Dampfgarer",
+        "spanish": "set de vaporeras apilables",
+        "spanishUs": "set de vaporeras apilables",
+        "french": "set de paniers vapeur",
+        "frenchUs": "set de paniers vapeur",
+        "italian": "set per cottura a vapore",
+        "dutch": "stoommand",
+        "chinese": "蒸笼",
+        "chineseTraditional": "蒸籠",
+        "japanese": "せいろ",
+        "korean": "나무 찜통",
+        "russian": "пароварка из бамбука",
+        "plural": false,
+        "internalIds": [
+          3344
+        ]
+      },
+      "materials": {
+        "young spring bamboo": 6
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15018,7 +16608,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15084,7 +16675,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15150,7 +16742,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15218,7 +16811,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "succulent plant",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Fish up 1 empty can",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 132,
+      "cardColor": "green",
+      "serialId": 1201,
+      "internalId": 190,
+      "uniqueEntryId": "YyxnntEPTDukJaRfY",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_00132",
+        "version": "1.0.0",
+        "english": "succulent plant",
+        "englishEurope": "succulent plant",
+        "german": "Sukkulente",
+        "spanish": "aloe pequeño",
+        "spanishUs": "aloe pequeño",
+        "french": "pot de succulentes",
+        "frenchUs": "pot de succulentes",
+        "italian": "pianta grassa",
+        "dutch": "vetplant",
+        "chinese": "多肉植物",
+        "chineseTraditional": "多肉植物",
+        "japanese": "たにくしょくぶつ",
+        "korean": "다육 식물",
+        "russian": "суккуленты",
+        "plural": false,
+        "internalIds": [
+          132
+        ]
+      },
+      "materials": {
+        "clump of weeds": 10,
+        "empty can": 1
+      },
+      "sources": [
+        "Fishing"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15284,7 +16924,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15350,7 +16991,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15416,7 +17058,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15508,7 +17151,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15600,7 +17244,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15692,7 +17337,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15784,7 +17430,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15876,7 +17523,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -15968,7 +17616,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16060,7 +17709,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16126,7 +17776,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16192,7 +17843,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16261,7 +17913,8 @@
     "series": null,
     "sources": [
       "Nook Shopping Seasonal"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16330,7 +17983,8 @@
     "series": null,
     "sources": [
       "Nook Shopping Seasonal"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16396,7 +18050,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16462,7 +18117,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16528,7 +18184,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16596,7 +18253,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16665,7 +18323,8 @@
     "series": null,
     "sources": [
       "Bug-Off"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16734,7 +18393,8 @@
     "series": null,
     "sources": [
       "Bug-Off"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16803,7 +18463,54 @@
     "series": "tree's bounty or leaves ",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "traditional balancing toy",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Fall",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 5975,
+      "cardColor": "brown",
+      "serialId": 2905,
+      "internalId": 411,
+      "uniqueEntryId": "8jd6NZ7MD7hJjAgbw",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05975",
+        "version": "1.0.0",
+        "english": "traditional balancing toy",
+        "englishEurope": "traditional balancing toy",
+        "german": "Fingerschaukel",
+        "spanish": "muñeco equilibrista",
+        "spanishUs": "muñeco equilibrista",
+        "french": "jeu d'équilibre traditionnel",
+        "frenchUs": "jeu d'équilibre traditionnel",
+        "italian": "gioco d'equilibrio",
+        "dutch": "traditionele balansfiguurtje",
+        "chinese": "平衡玩具",
+        "chineseTraditional": "平衡玩具",
+        "japanese": "やじろべえ",
+        "korean": "균형 잡기 장난감",
+        "russian": "игрушка-балансир",
+        "plural": false,
+        "internalIds": [
+          5975
+        ]
+      },
+      "materials": {
+        "acorn": 4,
+        "hardwood": 2
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16869,7 +18576,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -16960,7 +18668,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17051,7 +18760,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17142,7 +18852,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17233,7 +18944,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17324,7 +19036,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17390,7 +19103,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17456,7 +19170,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17522,7 +19237,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17588,7 +19304,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17654,7 +19371,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17720,7 +19438,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17786,7 +19505,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17855,7 +19575,58 @@
     "series": "Bunny Day",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Wobbling Zipper toy",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Reward from Zipper after crafting all Bunny Day recipes; Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 12412,
+      "cardColor": "yellow",
+      "serialId": 3709,
+      "internalId": 696,
+      "uniqueEntryId": "3HBkSreJ3Rz7689K7",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_12412",
+        "version": "1.1.0",
+        "english": "wobbling Zipper toy",
+        "englishEurope": "wobbling Zipper toy",
+        "german": "Stehauf-Ohs",
+        "spanish": "tentetieso Coti Conejal",
+        "spanishUs": "juguete tambaleante Coti",
+        "french": "ramponeau d'Albin",
+        "frenchUs": "œuf à bascule d'Albin",
+        "italian": "misirizzi Ovidio",
+        "dutch": "Zipper-tuimelaar",
+        "chinese": "蹦蹦不倒娃娃",
+        "chineseTraditional": "蹦蹦不倒娃娃",
+        "japanese": "ぴょんたろうのおきあがりこぼし",
+        "korean": "토빗 오뚝이",
+        "russian": "неваляшка-Зиппер",
+        "plural": false,
+        "internalIds": [
+          12412
+        ]
+      },
+      "materials": {
+        "earth egg": 4,
+        "stone egg": 4,
+        "leaf egg": 4,
+        "wood egg": 4,
+        "sky egg": 4,
+        "water egg": 4
+      },
+      "sources": [
+        "Zipper"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17921,7 +19692,8 @@
     "series": null,
     "sources": [
       "Flick"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -17987,7 +19759,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -18053,7 +19826,8 @@
     "series": null,
     "sources": [
       "C.J."
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -18349,7 +20123,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -18495,7 +20270,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -18884,7 +20660,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -19330,7 +21107,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -19621,7 +21399,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -19961,7 +21740,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "aroma pot",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1753,
+      "cardColor": "brick",
+      "serialId": 704,
+      "internalId": 30,
+      "uniqueEntryId": "BTu3bRj64f2dwdDXa",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01753",
+        "version": "1.0.0",
+        "english": "aroma pot",
+        "englishEurope": "aroma pot",
+        "german": "Duftlampe",
+        "spanish": "quemador de esencias",
+        "spanishUs": "quemador de esencias",
+        "french": "brûle-parfum",
+        "frenchUs": "brûle-parfum",
+        "italian": "brucia essenze",
+        "dutch": "geurpot",
+        "chinese": "熏香台",
+        "chineseTraditional": "薰香台",
+        "japanese": "アロマポット",
+        "korean": "아로마 포트",
+        "russian": "аромалампа",
+        "plural": false,
+        "internalIds": [
+          1753
+        ]
+      },
+      "materials": {
+        "clay": 3
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -21621,7 +23446,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -21867,7 +23693,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -22060,7 +23887,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo candleholder",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3554,
+      "cardColor": "green",
+      "serialId": 2402,
+      "internalId": 153,
+      "uniqueEntryId": "9FCcnLSsxLXkR2NEA",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03554",
+        "version": "1.0.0",
+        "english": "bamboo candleholder",
+        "englishEurope": "bamboo candleholder",
+        "german": "Bambus-Kerzenhalter",
+        "spanish": "portavelas de bambú",
+        "spanishUs": "portavelas de bambú",
+        "french": "bougeoir en bambou",
+        "frenchUs": "bougeoir en bambou",
+        "italian": "candeliere di bambù",
+        "dutch": "bamboekaarsenhouder",
+        "chinese": "竹制烛台",
+        "chineseTraditional": "竹製燭台",
+        "japanese": "たけのキャンドルホルダー",
+        "korean": "대나무 촛대",
+        "russian": "подсвечник из бамбука",
+        "plural": false,
+        "internalIds": [
+          3554
+        ]
+      },
+      "materials": {
+        "bamboo piece": 3,
+        "clay": 2
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -22253,7 +24127,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo drum",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4093,
+      "cardColor": "green",
+      "serialId": 2413,
+      "internalId": 397,
+      "uniqueEntryId": "K5pwygoJtxAXbj7db",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04093",
+        "version": "1.0.0",
+        "english": "bamboo drum",
+        "englishEurope": "bamboo drum",
+        "german": "Bambustrommel",
+        "spanish": "xilófono de bambú",
+        "spanishUs": "xilofón de bambú",
+        "french": "tambour à fentes bambou",
+        "frenchUs": "tambour à fentes bambou",
+        "italian": "tamburo a fessura di bambù",
+        "dutch": "bamboe-xylofoon",
+        "chinese": "竹鼓",
+        "chineseTraditional": "竹鼓",
+        "japanese": "バンブードラム",
+        "korean": "대나무 드럼",
+        "russian": "барабаны из бамбука",
+        "plural": false,
+        "internalIds": [
+          4093
+        ]
+      },
+      "materials": {
+        "bamboo piece": 3,
+        "softwood": 2
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -22446,7 +24367,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo lunch box",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 5978,
+      "cardColor": "green",
+      "serialId": 2406,
+      "internalId": 421,
+      "uniqueEntryId": "ejw8RfXvq8vPJuLod",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05978",
+        "version": "1.0.0",
+        "english": "bamboo lunch box",
+        "englishEurope": "bamboo lunch box",
+        "german": "Bambus-Bento",
+        "spanish": "cesta de pícnic de bambú",
+        "spanishUs": "cesta de pícnic de bambú",
+        "french": "panier-repas en bambou",
+        "frenchUs": "panier-repas en bambou",
+        "italian": "portapranzo di bambù",
+        "dutch": "bamboelunchset",
+        "chinese": "竹制便当盒",
+        "chineseTraditional": "竹製便當盒",
+        "japanese": "たけのべんとうばこ",
+        "korean": "대나무 도시락",
+        "russian": "ланчбокс из бамбука",
+        "plural": false,
+        "internalIds": [
+          5978
+        ]
+      },
+      "materials": {
+        "bamboo piece": 4
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -22639,7 +24606,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo sphere",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 5976,
+      "cardColor": "green",
+      "serialId": 2404,
+      "internalId": 420,
+      "uniqueEntryId": "4DSiABqB4KvShtQdM",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05976",
+        "version": "1.0.0",
+        "english": "bamboo sphere",
+        "englishEurope": "bamboo sphere",
+        "german": "Bambuskugel",
+        "spanish": "esfera de bambú",
+        "spanishUs": "esfera de bambú",
+        "french": "sphère en bambou",
+        "frenchUs": "sphère en bambou",
+        "italian": "sfera di bambù",
+        "dutch": "bamboebol",
+        "chinese": "竹编球",
+        "chineseTraditional": "竹球",
+        "japanese": "たけのまり",
+        "korean": "대나무 공",
+        "russian": "бамбуковый шар",
+        "plural": false,
+        "internalIds": [
+          5976
+        ]
+      },
+      "materials": {
+        "bamboo piece": 3
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -22881,7 +24894,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -23077,7 +25091,8 @@
           "Birthday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -23423,7 +25438,8 @@
           "Birthday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -23619,7 +25635,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -23865,7 +25882,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -24111,7 +26129,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -24307,7 +26326,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -24647,7 +26667,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -24938,7 +26959,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -25327,7 +27349,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -26237,7 +28260,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -26675,7 +28699,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -26966,7 +28991,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -27257,7 +29283,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -27401,7 +29428,55 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry speakers",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native fruit is cherries",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4011,
+      "cardColor": "yellow",
+      "serialId": 1400,
+      "internalId": 161,
+      "uniqueEntryId": "TtSKEhTt2uf2P9Mcj",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04011",
+        "version": "1.0.0",
+        "english": "cherry speakers",
+        "englishEurope": "cherry speakers",
+        "german": "Kirschenlautsprecher",
+        "spanish": "altavoz cereza",
+        "spanishUs": "altavoz cereza",
+        "french": "haut-parleur cerise",
+        "frenchUs": "haut-parleur cerise",
+        "italian": "set di altoparlanti ciliegia",
+        "dutch": "kersenspeakers",
+        "chinese": "樱桃广播喇叭",
+        "chineseTraditional": "櫻桃廣播喇叭",
+        "japanese": "さくらんぼのスピーカー",
+        "korean": "체리 스피커",
+        "russian": "динамики-вишни",
+        "plural": false,
+        "internalIds": [
+          4011
+        ]
+      },
+      "materials": {
+        "cherry": 10,
+        "iron nugget": 2
+      },
+      "sources": [
+        "Peppy villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -27547,7 +29622,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -27893,7 +29969,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "classic pitcher",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4073,
+      "cardColor": "brick",
+      "serialId": 702,
+      "internalId": 192,
+      "uniqueEntryId": "jtdnvzuzyxYDa6xov",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04073",
+        "version": "1.0.0",
+        "english": "classic pitcher",
+        "englishEurope": "classic pitcher",
+        "german": "Keramikkrug",
+        "spanish": "jarra de cerámica",
+        "spanishUs": "jarra de cerámica",
+        "french": "cruche en terre",
+        "frenchUs": "cruche en terre",
+        "italian": "caraffa di ceramica",
+        "dutch": "aardewerken kan",
+        "chinese": "陶制牛奶壶",
+        "chineseTraditional": "陶製牛奶壺",
+        "japanese": "とうきのジャグ",
+        "korean": "도기 물병",
+        "russian": "кувшин",
+        "plural": false,
+        "internalIds": [
+          4073
+        ]
+      },
+      "materials": {
+        "clay": 4
+      },
+      "sources": [
+        "Tom Nook",
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -28239,7 +30362,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -28485,7 +30609,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -28881,7 +31006,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -29127,7 +31253,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -29418,7 +31545,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -30064,7 +32192,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cutting board",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3618,
+      "cardColor": "brown",
+      "serialId": 465,
+      "internalId": 284,
+      "uniqueEntryId": "ebxdGKznZzRDMMccg",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03618",
+        "version": "1.0.0",
+        "english": "cutting board",
+        "englishEurope": "cutting board",
+        "german": "Schneidebrett",
+        "spanish": "tabla de cortar sencilla",
+        "spanishUs": "tabla de cortar sencilla",
+        "french": "planche à pain",
+        "frenchUs": "planche à pain",
+        "italian": "tagliere semplice",
+        "dutch": "snijplank",
+        "chinese": "切菜板",
+        "chineseTraditional": "切菜板",
+        "japanese": "カッティングボード",
+        "korean": "도마",
+        "russian": "разделочная доска",
+        "plural": false,
+        "internalIds": [
+          3618
+        ]
+      },
+      "materials": {
+        "hardwood": 2,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -30310,7 +32485,8 @@
           "Dodo Airlines"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -30503,7 +32679,8 @@
           "Gulliver"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -30892,7 +33069,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "decoy duck",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1797,
+      "cardColor": "brown",
+      "serialId": 466,
+      "internalId": 390,
+      "uniqueEntryId": "Rb8PSLPkNwP7hCk8G",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01797",
+        "version": "1.0.0",
+        "english": "decoy duck",
+        "englishEurope": "decoy duck",
+        "german": "Deko-Ente",
+        "spanish": "señuelo para patos",
+        "spanishUs": "señuelo para patos",
+        "french": "faux canard",
+        "frenchUs": "faux canard",
+        "italian": "papero finto",
+        "dutch": "lokeend",
+        "chinese": "木雕鸭",
+        "chineseTraditional": "木雕鴨",
+        "japanese": "デコイ",
+        "korean": "유인용 오리",
+        "russian": "муляж утки",
+        "plural": false,
+        "internalIds": [
+          1797
+        ]
+      },
+      "materials": {
+        "softwood": 4
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -31238,7 +33461,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -33328,7 +35552,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -33774,7 +35999,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -34120,7 +36346,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -34466,7 +36693,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -34612,7 +36840,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -35008,7 +37237,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -35250,7 +37480,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -35446,7 +37677,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -36644,7 +38876,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -36890,7 +39123,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -37186,7 +39420,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -37332,7 +39567,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -37623,7 +39859,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -37869,7 +40106,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -38215,7 +40453,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "frozen-treat set",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4279,
+      "cardColor": "blue",
+      "serialId": 3200,
+      "internalId": 194,
+      "uniqueEntryId": "ygrBuPoB8ZKRjnXXD",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04279",
+        "version": "1.0.0",
+        "english": "frozen-treat set",
+        "englishEurope": "frozen-treat set",
+        "german": "Stieleis-Duo",
+        "spanish": "bandeja con polos",
+        "spanishUs": "bandeja con helados",
+        "french": "lot de glaces à l'eau",
+        "frenchUs": "lot de sucettes glacées",
+        "italian": "set di ghiaccioli iceberg",
+        "dutch": "ijslollyset",
+        "chinese": "冰棒",
+        "chineseTraditional": "冰棒",
+        "japanese": "アイスキャンディー",
+        "korean": "막대 아이스크림",
+        "russian": "мороженое на палочке",
+        "plural": false,
+        "internalIds": [
+          4279
+        ]
+      },
+      "materials": {
+        "large snowflake": 1,
+        "snowflake": 1
+      },
+      "sources": [
+        "Snowboy"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -38561,7 +40846,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "frying pan",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase DIY for Beginners at Nook's Cranny",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4104,
+      "cardColor": "dark gray",
+      "serialId": 908,
+      "internalId": 199,
+      "uniqueEntryId": "bgMKMNGmxjKPXaDNp",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04104",
+        "version": "1.0.0",
+        "english": "frying pan",
+        "englishEurope": "frying pan",
+        "german": "Pfanne",
+        "spanish": "sartén",
+        "spanishUs": "sartén",
+        "french": "poêle à frire",
+        "frenchUs": "poêle à frire",
+        "italian": "padella",
+        "dutch": "koekenpan",
+        "chinese": "平底锅",
+        "chineseTraditional": "平底鍋",
+        "japanese": "フライパン",
+        "korean": "프라이팬",
+        "russian": "сковорода",
+        "plural": false,
+        "internalIds": [
+          4104
+        ]
+      },
+      "materials": {
+        "iron nugget": 2
+      },
+      "sources": [
+        "DIY for Beginners"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -38999,7 +41330,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -39339,7 +41671,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -39535,7 +41868,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -39826,7 +42160,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -40172,7 +42507,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -40468,7 +42804,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "holiday candle",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Festive Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 891,
+      "cardColor": "white",
+      "serialId": 3401,
+      "internalId": 372,
+      "uniqueEntryId": "5f7xR7Kvm2mMwpGjz",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_00891",
+        "version": "1.0.0",
+        "english": "holiday candle",
+        "englishEurope": "holiday candle",
+        "german": "Festtagsgesteck",
+        "spanish": "vela festiva",
+        "spanishUs": "vela festiva",
+        "french": "chandelle de fête",
+        "frenchUs": "chandelle des Fêtes",
+        "italian": "candela centrotavola",
+        "dutch": "feestelijke kaars",
+        "chinese": "圣诞蜡烛",
+        "chineseTraditional": "聖誕蠟燭",
+        "japanese": "クリスマスキャンドル",
+        "korean": "크리스마스 양초",
+        "russian": "праздничная свеча",
+        "plural": false,
+        "internalIds": [
+          891
+        ]
+      },
+      "materials": {
+        "red ornament": 5,
+        "clump of weeds": 5
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -40714,7 +43097,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -41060,7 +43444,8 @@
           "Gulliver"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -41506,7 +43891,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -41699,7 +44085,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "hyacinth lamp",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 7234,
+      "cardColor": "green",
+      "serialId": 3506,
+      "internalId": 506,
+      "uniqueEntryId": "fBKmq2YprMreQQrYo",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_07234",
+        "version": "1.0.0",
+        "english": "hyacinth lamp",
+        "englishEurope": "hyacinth lamp",
+        "german": "Hyazinthenlampe",
+        "spanish": "lámpara jacinto",
+        "spanishUs": "lámpara jacinto",
+        "french": "lampe jacinthe",
+        "frenchUs": "lampe jacinthe",
+        "italian": "lampada giacinto",
+        "dutch": "hyacintlamp",
+        "chinese": "风信子灯",
+        "chineseTraditional": "風信子燈",
+        "japanese": "ヒヤシンスのランプ",
+        "korean": "히아신스 전등",
+        "russian": "лампа-гиацинт",
+        "plural": false,
+        "internalIds": [
+          7234
+        ]
+      },
+      "materials": {
+        "purple hyacinths": 5,
+        "clay": 3
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -42045,7 +44478,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -42341,7 +44775,8 @@
           "Gulliver"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -42681,7 +45116,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "kettlebell",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 7535,
+      "cardColor": "dark gray",
+      "serialId": 913,
+      "internalId": 600,
+      "uniqueEntryId": "Mmspyi3WpibXgBh2u",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_07535",
+        "version": "1.0.0",
+        "english": "kettlebell",
+        "englishEurope": "kettlebell",
+        "german": "Kugelhantel",
+        "spanish": "pesa rusa",
+        "spanishUs": "pesa rusa",
+        "french": "kettlebell",
+        "frenchUs": "kettlebell",
+        "italian": "kettlebell",
+        "dutch": "kettlebell",
+        "chinese": "壶铃",
+        "chineseTraditional": "壺鈴",
+        "japanese": "ケトルベル",
+        "korean": "케틀벨",
+        "russian": "гиря",
+        "plural": false,
+        "internalIds": [
+          7535
+        ]
+      },
+      "materials": {
+        "iron nugget": 5
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -42877,7 +45358,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -43315,7 +45797,8 @@
           "Starting items"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -45783,7 +48266,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -46221,7 +48705,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -46512,7 +48997,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -46754,7 +49240,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -46900,7 +49387,8 @@
           "Gulliver"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -51034,7 +53522,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "magazine rack",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1032,
+      "cardColor": "yellow",
+      "serialId": 2110,
+      "internalId": 413,
+      "uniqueEntryId": "8xG78nXxXkRwPuhqX",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01032",
+        "version": "1.0.0",
+        "english": "magazine rack",
+        "englishEurope": "magazine rack",
+        "german": "Zeitschriftenablage",
+        "spanish": "revistero",
+        "spanishUs": "revistero",
+        "french": "porte-revues pliable",
+        "frenchUs": "porte-revues pliable",
+        "italian": "portariviste",
+        "dutch": "tijdschriftenrekje",
+        "chinese": "杂志架",
+        "chineseTraditional": "雜誌架",
+        "japanese": "マガジンラック",
+        "korean": "잡지 꽂이",
+        "russian": "стоечка для журналов",
+        "plural": false,
+        "internalIds": [
+          1032
+        ]
+      },
+      "materials": {
+        "magazine": 2,
+        "wood": 4
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -51178,7 +53713,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -51474,7 +54010,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "matryoshka",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1652,
+      "cardColor": "brown",
+      "serialId": 461,
+      "internalId": 403,
+      "uniqueEntryId": "ogWXGmNDThxbXqgMG",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01652",
+        "version": "1.0.0",
+        "english": "matryoshka",
+        "englishEurope": "matryoshka",
+        "german": "Matroschka",
+        "spanish": "matrioska",
+        "spanishUs": "matrioska",
+        "french": "série matriochka",
+        "frenchUs": "série matriochka",
+        "italian": "matriosca",
+        "dutch": "matroesjka",
+        "chinese": "俄罗斯套娃",
+        "chineseTraditional": "俄羅斯套娃",
+        "japanese": "マトリョーシカ",
+        "korean": "마트료시카",
+        "russian": "матрешка",
+        "plural": false,
+        "internalIds": [
+          1652
+        ]
+      },
+      "materials": {
+        "softwood": 5
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -51765,7 +54347,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -51961,7 +54544,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -52207,7 +54791,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -52645,7 +55230,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -53041,7 +55627,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "modeling clay",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 7258,
+      "cardColor": "brick",
+      "serialId": 700,
+      "internalId": 574,
+      "uniqueEntryId": "Z7ycbJwgAh8HWaaSm",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_07258",
+        "version": "1.0.0",
+        "english": "modeling clay",
+        "englishEurope": "modeling clay",
+        "german": "Spielknete-Set",
+        "spanish": "arcilla para modelar",
+        "spanishUs": "arcilla para modelar",
+        "french": "kit de pâte à modeler",
+        "frenchUs": "kit de pâte à modeler",
+        "italian": "creta da modellare",
+        "dutch": "stuk boetseerklei",
+        "chinese": "黏土玩具",
+        "chineseTraditional": "黏土玩具",
+        "japanese": "ねんどのおもちゃ",
+        "korean": "점토 장난감",
+        "russian": "пластилин",
+        "plural": false,
+        "internalIds": [
+          7258
+        ]
+      },
+      "materials": {
+        "clay": 2
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -53387,7 +56019,8 @@
           "Mom"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -53733,7 +56366,8 @@
           "Mom"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -54079,7 +56713,8 @@
           "Mom"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -54425,7 +57060,8 @@
           "Mom"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -54771,7 +57407,8 @@
           "Mom"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -55117,7 +57754,8 @@
           "Mom"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -55463,7 +58101,8 @@
           "Mom"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -59013,7 +61652,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -59159,7 +61799,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -59301,7 +61942,8 @@
           "Nook Shopping"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -59697,7 +62339,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "nova light",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 6826,
+      "cardColor": "silver",
+      "serialId": 2200,
+      "internalId": 429,
+      "uniqueEntryId": "5RHPeNZ2mgin65Ny5",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_06826",
+        "version": "1.0.0",
+        "english": "nova light",
+        "englishEurope": "nova light",
+        "german": "Lichtstern",
+        "spanish": "lámpara estrella",
+        "spanishUs": "lámpara estrella",
+        "french": "lampe nova",
+        "frenchUs": "lampe nova",
+        "italian": "lampada stella",
+        "dutch": "novalamp",
+        "chinese": "星光",
+        "chineseTraditional": "星光",
+        "japanese": "スターライト",
+        "korean": "별 조명",
+        "russian": "светильник-звезда",
+        "plural": false,
+        "internalIds": [
+          6826
+        ]
+      },
+      "materials": {
+        "star fragment": 5
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -59841,7 +62529,8 @@
           "Gulliver"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -60287,7 +62976,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -61501,7 +64191,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -61647,7 +64338,55 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "peach surprise box",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native fruit is peaches",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4128,
+      "cardColor": "pink",
+      "serialId": 1501,
+      "internalId": 188,
+      "uniqueEntryId": "47GdZP9FTse2XqXCv",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04128",
+        "version": "1.0.0",
+        "english": "peach surprise box",
+        "englishEurope": "peach surprise box",
+        "german": "Überraschungspfirsich",
+        "spanish": "caja sorpresa melocotón",
+        "spanishUs": "caja sorpresa durazno",
+        "french": "boîte à malice pêche",
+        "frenchUs": "boîte à malice pêche",
+        "italian": "scatola a sorpresa pesca",
+        "dutch": "verrassingsperzik",
+        "chinese": "桃子惊吓箱",
+        "chineseTraditional": "桃子驚嚇箱",
+        "japanese": "モモのビックリばこ",
+        "korean": "복숭아 깜짝 상자",
+        "russian": "шкатулка-персик",
+        "plural": false,
+        "internalIds": [
+          4128
+        ]
+      },
+      "materials": {
+        "peach": 10,
+        "softwood": 4
+      },
+      "sources": [
+        "Normal villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -61843,7 +64582,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -62134,7 +64874,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -62474,7 +65215,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -62770,7 +65512,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -63095,7 +65838,8 @@
           "Nook Shopping Promotion"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -63420,7 +66164,8 @@
           "Nook Shopping Promotion"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -63766,7 +66511,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -64204,7 +66950,8 @@
           "Starting items"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -64600,7 +67347,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -64896,7 +67644,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pot",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 2559,
+      "cardColor": "brick",
+      "serialId": 703,
+      "internalId": 37,
+      "uniqueEntryId": "4kNto6azXBJEzDZvA",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_02559",
+        "version": "1.0.0",
+        "english": "pot",
+        "englishEurope": "pot",
+        "german": "Topf",
+        "spanish": "vasija",
+        "spanishUs": "vasija",
+        "french": "pot",
+        "frenchUs": "pot",
+        "italian": "vaso",
+        "dutch": "pot",
+        "chinese": "瓦罐",
+        "chineseTraditional": "甕",
+        "japanese": "かめ",
+        "korean": "항아리",
+        "russian": "горшок",
+        "plural": false,
+        "internalIds": [
+          2559
+        ]
+      },
+      "materials": {
+        "clay": 5
+      },
+      "sources": [
+        "Tom Nook",
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -65092,7 +67887,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -65338,7 +68134,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -65678,7 +68475,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -66024,7 +68822,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -68222,7 +71021,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -68562,7 +71362,55 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "recycled-can thumb piano",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Fish up 3 empty cans",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 7045,
+      "cardColor": "dark gray",
+      "serialId": 600,
+      "internalId": 504,
+      "uniqueEntryId": "Wg8fZ2B2HqkvzvHDP",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_07045",
+        "version": "1.0.0",
+        "english": "recycled-can thumb piano",
+        "englishEurope": "recycled-can thumb piano",
+        "german": "Dosen-Kalimba",
+        "spanish": "kalimba casero",
+        "spanishUs": "kalimba casero",
+        "french": "marimbula en métal recyclé",
+        "frenchUs": "marimbula en métal recyclé",
+        "italian": "kalimba di latta",
+        "dutch": "blikduimpiano",
+        "chinese": "空罐卡林巴琴",
+        "chineseTraditional": "空罐卡林巴琴",
+        "japanese": "あきかんカリンバ",
+        "korean": "깡통 칼림바",
+        "russian": "калимба из жестянки",
+        "plural": false,
+        "internalIds": [
+          7045
+        ]
+      },
+      "materials": {
+        "empty can": 1,
+        "wood": 1,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Fishing"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -68758,7 +71606,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -69054,7 +71903,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -69500,7 +72350,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -69746,7 +72597,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "ringtoss",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase Test Your DIY Skills from Nook's Cranny",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 88,
+      "cardColor": "brown",
+      "serialId": 460,
+      "internalId": 43,
+      "uniqueEntryId": "oADtSa2zmTwZ9NMQz",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_00088",
+        "version": "1.0.0",
+        "english": "ringtoss",
+        "englishEurope": "ringtoss",
+        "german": "Ringwurfspiel",
+        "spanish": "juego de lanzar aros",
+        "spanishUs": "juego de lanzar aros",
+        "french": "jeu lancer d'anneaux",
+        "frenchUs": "jeu lancer d'anneaux",
+        "italian": "gioco degli anelli",
+        "dutch": "ringwerpspel",
+        "chinese": "套圈圈",
+        "chineseTraditional": "套圈圈",
+        "japanese": "わなげ",
+        "korean": "고리 던지기",
+        "russian": "игра с кольцами",
+        "plural": false,
+        "internalIds": [
+          88
+        ]
+      },
+      "materials": {
+        "wood": 2,
+        "softwood": 2
+      },
+      "sources": [
+        "Test Your DIY Skills"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -70184,7 +73082,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -70573,7 +73472,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -70913,7 +73813,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -71059,7 +73960,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -71399,7 +74301,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "shell lamp",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3984,
+      "cardColor": "white",
+      "serialId": 2706,
+      "internalId": 182,
+      "uniqueEntryId": "27oeQoY4DhhmPaEWS",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03984",
+        "version": "1.0.0",
+        "english": "shell lamp",
+        "englishEurope": "shell lamp",
+        "german": "Muschellampe",
+        "spanish": "lamparita conchas marinas",
+        "spanishUs": "lamparita caracolas",
+        "french": "lampe coquillages",
+        "frenchUs": "lampe coquillage",
+        "italian": "lampada conchiglia",
+        "dutch": "schelpenlamp",
+        "chinese": "贝壳灯",
+        "chineseTraditional": "貝殼燈",
+        "japanese": "かいがらのランプ",
+        "korean": "조개 램프",
+        "russian": "лампа из ракушки",
+        "plural": false,
+        "internalIds": [
+          3984
+        ]
+      },
+      "materials": {
+        "giant clam": 2,
+        "clay": 3
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -71739,7 +74688,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "shell speaker",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 5150,
+      "cardColor": "white",
+      "serialId": 2707,
+      "internalId": 200,
+      "uniqueEntryId": "WdK7LJ8fbgXe9kfBv",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05150",
+        "version": "1.0.0",
+        "english": "shell speaker",
+        "englishEurope": "shell speaker",
+        "german": "Muschel-Lautsprecher",
+        "spanish": "altavoz caracola",
+        "spanishUs": "altavoz caracola",
+        "french": "haut-parleur coquillages",
+        "frenchUs": "haut-parleur coquillages",
+        "italian": "altoparlante conchiglia",
+        "dutch": "schelpenspeaker",
+        "chinese": "贝壳广播喇叭",
+        "chineseTraditional": "貝殼廣播喇叭",
+        "japanese": "かいがらのスピーカー",
+        "korean": "조개 스피커",
+        "russian": "колонка-ракушка",
+        "plural": false,
+        "internalIds": [
+          5150
+        ]
+      },
+      "materials": {
+        "conch": 3,
+        "iron nugget": 2
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -72135,7 +75131,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -72581,7 +75578,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -72827,7 +75825,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stack of books",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1759,
+      "cardColor": "yellow",
+      "serialId": 2100,
+      "internalId": 196,
+      "uniqueEntryId": "wRs5mmgErDd3guzAD",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01759",
+        "version": "1.0.0",
+        "english": "stack of books",
+        "englishEurope": "stack of books",
+        "german": "Bücherstapel",
+        "spanish": "pila de libros",
+        "spanishUs": "pila de libros",
+        "french": "pile de livres",
+        "frenchUs": "pile de livres",
+        "italian": "pila di libri",
+        "dutch": "stapel boeken",
+        "chinese": "书堆",
+        "chineseTraditional": "書堆",
+        "japanese": "つまれたほん",
+        "korean": "쌓인 책",
+        "russian": "стопка книг",
+        "plural": false,
+        "internalIds": [
+          1759
+        ]
+      },
+      "materials": {
+        "book": 5
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -73173,7 +76217,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -73569,7 +76614,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "star clock",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 7253,
+      "cardColor": "silver",
+      "serialId": 2230,
+      "internalId": 514,
+      "uniqueEntryId": "2svknEfP5LbMe6Qur",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_07253",
+        "version": "1.0.0",
+        "english": "star clock",
+        "englishEurope": "star clock",
+        "german": "Sternuhr",
+        "spanish": "reloj estrella",
+        "spanishUs": "reloj estrella",
+        "french": "horloge étoile",
+        "frenchUs": "horloge étoile",
+        "italian": "orologio stella",
+        "dutch": "sterrenklok",
+        "chinese": "星星时钟",
+        "chineseTraditional": "星星時鐘",
+        "japanese": "スタークロック",
+        "korean": "별 시계",
+        "russian": "часы-звезда",
+        "plural": false,
+        "internalIds": [
+          7253
+        ]
+      },
+      "materials": {
+        "star fragment": 3,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -73765,7 +76857,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -74105,7 +77198,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -75631,7 +78725,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -75977,7 +79072,55 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "tabletop festive tree",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Festive Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4067,
+      "cardColor": "white",
+      "serialId": 3402,
+      "internalId": 388,
+      "uniqueEntryId": "kNa25SiznwzDANzYb",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04067",
+        "version": "1.0.0",
+        "english": "tabletop festive tree",
+        "englishEurope": "tabletop festive tree",
+        "german": "Tischtannenbaum",
+        "spanish": "árbol festivo de sobremesa",
+        "spanishUs": "árbol festivo de mesa",
+        "french": "sapin décoré miniature",
+        "frenchUs": "sapin décoré miniature",
+        "italian": "albero festivo da tavolo",
+        "dutch": "tafelfeestboompje",
+        "chinese": "桌上圣诞树",
+        "chineseTraditional": "桌上聖誕樹",
+        "japanese": "テーブルクリスマスツリー",
+        "korean": "탁상 크리스마스트리",
+        "russian": "настольная елочка",
+        "plural": false,
+        "internalIds": [
+          4067
+        ]
+      },
+      "materials": {
+        "gold ornament": 5,
+        "tree branch": 3,
+        "clay": 2
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -76219,7 +79362,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -77249,7 +80393,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -77442,7 +80587,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "terrarium",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3773,
+      "cardColor": "green",
+      "serialId": 1202,
+      "internalId": 391,
+      "uniqueEntryId": "d7WN5879xto3Q7egY",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03773",
+        "version": "1.0.0",
+        "english": "terrarium",
+        "englishEurope": "terrarium",
+        "german": "Terrarium",
+        "spanish": "terrario botánico",
+        "spanishUs": "terrario botánico",
+        "french": "terrarium",
+        "frenchUs": "terrarium",
+        "italian": "terrario",
+        "dutch": "terrarium",
+        "chinese": "玻璃盆栽",
+        "chineseTraditional": "玻璃盆栽",
+        "japanese": "テラリウム",
+        "korean": "테라리움",
+        "russian": "террариум",
+        "plural": false,
+        "internalIds": [
+          3773
+        ]
+      },
+      "materials": {
+        "clump of weeds": 12,
+        "iron nugget": 2
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -77831,7 +81023,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -78027,7 +81220,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -78373,7 +81567,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -78713,7 +81908,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -79059,7 +82255,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -79399,7 +82596,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -79645,7 +82843,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -79841,7 +83040,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -80083,7 +83283,55 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "trash bags",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Fish up 15 trash",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 1823,
+      "cardColor": "dark gray",
+      "serialId": 603,
+      "internalId": 66,
+      "uniqueEntryId": "yofDbWxuR2q36otG4",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_01823",
+        "version": "1.0.0",
+        "english": "trash bags",
+        "englishEurope": "trash bags",
+        "german": "Müll",
+        "spanish": "basura",
+        "spanishUs": "basura",
+        "french": "duo de sacs poubelle",
+        "frenchUs": "duo de sacs poubelle",
+        "italian": "spazzatura",
+        "dutch": "vuilniszakken",
+        "chinese": "垃圾袋",
+        "chineseTraditional": "垃圾袋",
+        "japanese": "ゴミぶくろ",
+        "korean": "쓰레기봉투",
+        "russian": "мешки с мусором",
+        "plural": false,
+        "internalIds": [
+          1823
+        ]
+      },
+      "materials": {
+        "empty can": 1,
+        "boot": 1,
+        "old tire": 1
+      },
+      "sources": [
+        "Fishing"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -80227,7 +83475,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "tree's bounty lamp",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Fall",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 6078,
+      "cardColor": "brown",
+      "serialId": 2906,
+      "internalId": 415,
+      "uniqueEntryId": "fSYJ4F4BMefmKNXLT",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_06078",
+        "version": "1.0.0",
+        "english": "tree's bounty lamp",
+        "englishEurope": "tree's bounty lamp",
+        "german": "Baumfrucht-Lampe",
+        "spanish": "lámpara frutos del bosque",
+        "spanishUs": "lámpara frutos del bosque",
+        "french": "lampe fruits des bois",
+        "frenchUs": "lampe fruits des bois",
+        "italian": "lampada frutti dell'albero",
+        "dutch": "herfstlamp",
+        "chinese": "树果灯",
+        "chineseTraditional": "樹果燈",
+        "japanese": "きのみのランプ",
+        "korean": "나무 열매 램프",
+        "russian": "лампа из даров леса",
+        "plural": false,
+        "internalIds": [
+          6078
+        ]
+      },
+      "materials": {
+        "acorn": 6,
+        "clay": 4
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -80373,7 +83668,56 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "tree's bounty little tree",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Fall",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 6079,
+      "cardColor": "brown",
+      "serialId": 2907,
+      "internalId": 416,
+      "uniqueEntryId": "RgkwpSJpTC2nEc6vB",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_06079",
+        "version": "1.0.0",
+        "english": "tree's bounty little tree",
+        "englishEurope": "tree's bounty little tree",
+        "german": "Baumfrucht-Bäumchen",
+        "spanish": "arbolito frutos del bosque",
+        "spanishUs": "arbolito frutos del bosque",
+        "french": "petit sapin fruits des bois",
+        "frenchUs": "petit sapin fruits des bois",
+        "italian": "alberello frutti dell'albero",
+        "dutch": "herfstfeestboompje",
+        "chinese": "小树果树",
+        "chineseTraditional": "小樹果樹",
+        "japanese": "ちいさなきのみのツリー",
+        "korean": "작은 나무 열매 트리",
+        "russian": "деревце из даров леса",
+        "plural": false,
+        "internalIds": [
+          6079
+        ]
+      },
+      "materials": {
+        "pine cone": 6,
+        "acorn": 4,
+        "hardwood": 1
+      },
+      "sources": [
+        "Balloons",
+        "Isabelle"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -80719,7 +84063,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -80961,7 +84306,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "ukulele",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 669,
+      "cardColor": "brown",
+      "serialId": 462,
+      "internalId": 45,
+      "uniqueEntryId": "ERCKXc8shWWqxzNdA",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_00669",
+        "version": "1.0.0",
+        "english": "ukulele",
+        "englishEurope": "ukulele",
+        "german": "Ukulele",
+        "spanish": "ukelele",
+        "spanishUs": "ukelele",
+        "french": "ukulélé",
+        "frenchUs": "ukulélé",
+        "italian": "ukulele",
+        "dutch": "ukulele",
+        "chinese": "乌克丽丽",
+        "chineseTraditional": "烏克麗麗",
+        "japanese": "ウクレレ",
+        "korean": "우쿨렐레",
+        "russian": "укулеле",
+        "plural": false,
+        "internalIds": [
+          669
+        ]
+      },
+      "materials": {
+        "hardwood": 5
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -81307,7 +84698,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "unglazed dish set",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4025,
+      "cardColor": "brick",
+      "serialId": 701,
+      "internalId": 120,
+      "uniqueEntryId": "sWuKis4QjZNYnPDXK",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04025",
+        "version": "1.0.0",
+        "english": "unglazed dish set",
+        "englishEurope": "unglazed dish set",
+        "german": "Keramikgeschirr",
+        "spanish": "servicio de mesa de barro",
+        "spanishUs": "servicio de mesa de barro",
+        "french": "vaisselle en terracotta",
+        "frenchUs": "vaisselle en terracotta",
+        "italian": "set da tavola non smaltato",
+        "dutch": "aardewerken servies",
+        "chinese": "素烧碗盘",
+        "chineseTraditional": "素燒碗盤",
+        "japanese": "すやきのしょっき",
+        "korean": "질그릇 세트",
+        "russian": "неглазурованная посуда",
+        "plural": false,
+        "internalIds": [
+          4025
+        ]
+      },
+      "materials": {
+        "clay": 3
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -81503,7 +84940,8 @@
           "Cyrus"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -81699,7 +85137,8 @@
           "Cyrus"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -81892,7 +85331,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "windflower fan",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 7233,
+      "cardColor": "green",
+      "serialId": 3500,
+      "internalId": 503,
+      "uniqueEntryId": "6Fz77bGPrTCrYNffT",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_07233",
+        "version": "1.0.0",
+        "english": "windflower fan",
+        "englishEurope": "windflower fan",
+        "german": "Anemonenventilator",
+        "spanish": "ventilador anémona",
+        "spanishUs": "ventilador anémona",
+        "french": "ventilateur anémone",
+        "frenchUs": "ventilateur anémone",
+        "italian": "ventilatore anemone",
+        "dutch": "anemoonventilator",
+        "chinese": "银莲花风扇",
+        "chineseTraditional": "銀蓮花風扇",
+        "japanese": "アネモネのせんぷうき",
+        "korean": "아네모네 선풍기",
+        "russian": "вентилятор-ветреница",
+        "plural": false,
+        "internalIds": [
+          7233
+        ]
+      },
+      "materials": {
+        "red windflowers": 3,
+        "iron nugget": 2
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -82085,7 +85571,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wooden fish",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase Wildest Dreams DIY from Nook's Cranny",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 4124,
+      "cardColor": "brown",
+      "serialId": 463,
+      "internalId": 193,
+      "uniqueEntryId": "2ZuPfoHnSXBEwWfPL",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04124",
+        "version": "1.0.0",
+        "english": "wooden fish",
+        "englishEurope": "wooden fish",
+        "german": "Holzblocktrommel",
+        "spanish": "pez de madera de percusión",
+        "spanishUs": "pez de madera de percusión",
+        "french": "mokugyo",
+        "frenchUs": "mokugyo",
+        "italian": "mokugyo",
+        "dutch": "mokugyo",
+        "chinese": "木鱼",
+        "chineseTraditional": "木魚",
+        "japanese": "もくぎょ",
+        "korean": "목탁",
+        "russian": "деревянная рыба",
+        "plural": false,
+        "internalIds": [
+          4124
+        ]
+      },
+      "materials": {
+        "wood": 3
+      },
+      "sources": [
+        "Wildest Dreams DIY"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -82531,7 +86063,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wooden table mirror",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 8826,
+      "cardColor": "brown",
+      "serialId": 321,
+      "internalId": 572,
+      "uniqueEntryId": "7QmfhABkJayiuyPTt",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_08826",
+        "version": "1.0.0",
+        "english": "wooden table mirror",
+        "englishEurope": "wooden table mirror",
+        "german": "Holz-Tischspiegel",
+        "spanish": "espejo de mesa de madera",
+        "spanishUs": "espejo de mesa de madera",
+        "french": "miroir de table en bois",
+        "frenchUs": "miroir de table en bois",
+        "italian": "specchio da tavolo di legno",
+        "dutch": "houten tafelspiegel",
+        "chinese": "木制桌面镜",
+        "chineseTraditional": "木製桌鏡",
+        "japanese": "もくせいテーブルミラー",
+        "korean": "목제 테이블 거울",
+        "russian": "зеркало из дерева на стол",
+        "plural": false,
+        "internalIds": [
+          8826
+        ]
+      },
+      "materials": {
+        "wood": 3,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -82773,7 +86352,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wooden toolbox",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 7454,
+      "cardColor": "brown",
+      "serialId": 468,
+      "internalId": 579,
+      "uniqueEntryId": "qaHmYYCti572DQqW8",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_07454",
+        "version": "1.0.0",
+        "english": "wooden toolbox",
+        "englishEurope": "wooden toolbox",
+        "german": "Holz-Werkzeugkasten",
+        "spanish": "caja herramientas madera",
+        "spanishUs": "caja herramientas madera",
+        "french": "caisse à outils en bois",
+        "frenchUs": "caisse à outils en bois",
+        "italian": "portautensili di legno",
+        "dutch": "houten gereedschapskist",
+        "chinese": "木制工具箱",
+        "chineseTraditional": "木製工具箱",
+        "japanese": "もくせいのこうぐばこ",
+        "korean": "목제 공구 상자",
+        "russian": "ящик с инструментами",
+        "plural": false,
+        "internalIds": [
+          7454
+        ]
+      },
+      "materials": {
+        "softwood": 4,
+        "iron nugget": 2
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -83064,6 +86690,52 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wooden-block toy",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase DIY for Beginners at Nook's Cranny",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Miscellaneous",
+      "craftedItemInternalId": 3206,
+      "cardColor": "brown",
+      "serialId": 350,
+      "internalId": 38,
+      "uniqueEntryId": "uKX4pS9YuAJPSqAGX",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03206",
+        "version": "1.0.0",
+        "english": "wooden-block toy",
+        "englishEurope": "wooden-block toy",
+        "german": "Bauklotzset",
+        "spanish": "juguete construcciones",
+        "spanishUs": "juguete construcciones",
+        "french": "jeu blocs de bois",
+        "frenchUs": "jeu blocs de bois",
+        "italian": "gioco blocchi di legno",
+        "dutch": "houtblokspeelgoed",
+        "chinese": "积木玩具",
+        "chineseTraditional": "積木玩具",
+        "japanese": "つみきのおもちゃ",
+        "korean": "나무블록 장난감",
+        "russian": "деревянные блоки",
+        "plural": false,
+        "internalIds": [
+          3206
+        ]
+      },
+      "materials": {
+        "softwood": 3
+      },
+      "sources": [
+        "DIY for Beginners"
+      ]
+    }
   }
 ]

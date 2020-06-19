@@ -59,7 +59,53 @@
     "themes": [
       "fairy tale",
       "goth"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "armor shoes",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Shoes",
+      "craftedItemInternalId": 5472,
+      "cardColor": "dark gray",
+      "serialId": 982,
+      "internalId": 642,
+      "uniqueEntryId": "zbzh6s369wZ3anypo",
+      "translations": {
+        "sourceSheet": "Shoes",
+        "id": 763,
+        "version": "1.0.0",
+        "english": "armor shoes",
+        "englishEurope": "armor shoes",
+        "german": "Paar Silberrüstungsschuhe",
+        "spanish": "escarpe",
+        "spanishUs": "escarpe",
+        "french": "paire de solerets",
+        "frenchUs": "paire de solerets",
+        "italian": "paio scarpe armatura",
+        "dutch": "ridderlaarzen",
+        "chinese": "铁甲靴",
+        "chineseTraditional": "鐵甲鞋",
+        "japanese": "アイアンアーマーシューズ",
+        "korean": "아이언 아머 슈즈",
+        "russian": "рыцарские сапоги",
+        "plural": false,
+        "internalIds": [
+          5472
+        ]
+      },
+      "materials": {
+        "iron nugget": 4
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Shoes",
@@ -121,7 +167,8 @@
     "themes": [
       "comfy",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -184,7 +231,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "earth-egg shoes",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Shoes",
+      "craftedItemInternalId": 12455,
+      "cardColor": "yellow",
+      "serialId": 3762,
+      "internalId": 675,
+      "uniqueEntryId": "usLoxmkjFnPhxs9nr",
+      "translations": {
+        "sourceSheet": "Shoes",
+        "id": 1211,
+        "version": "1.1.0",
+        "english": "earth-egg shoes",
+        "englishEurope": "earth-egg shoes",
+        "german": "Paar Erd-Ei-Schuhe",
+        "spanish": "zapato de huevo terrestre",
+        "spanishUs": "zapato de huevo terrestre",
+        "french": "p. chaussures œuf terrestre",
+        "frenchUs": "p. chaussures œuf terrestre",
+        "italian": "paio di scarpe uova terrestri",
+        "dutch": "aarde-ei-schoenen",
+        "chinese": "地面蛋鞋子",
+        "chineseTraditional": "地面蛋鞋子",
+        "japanese": "じめんのたまごのくつ",
+        "korean": "땅 달걀 신발",
+        "russian": "боты «Земляное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12455
+        ]
+      },
+      "materials": {
+        "earth egg": 2
+      },
+      "sources": [
+        "Collecting earth eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Shoes",
@@ -246,7 +339,53 @@
     "themes": [
       "fairy tale",
       "goth"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "gold-armor shoes",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Shoes",
+      "craftedItemInternalId": 5524,
+      "cardColor": "gold",
+      "serialId": 1182,
+      "internalId": 643,
+      "uniqueEntryId": "4nY6xoTSqFMjzsTLp",
+      "translations": {
+        "sourceSheet": "Shoes",
+        "id": 777,
+        "version": "1.0.0",
+        "english": "gold-armor shoes",
+        "englishEurope": "gold-armor shoes",
+        "german": "Paar Goldrüstungsschuhe",
+        "spanish": "escarpe de oro",
+        "spanishUs": "escarpe de oro",
+        "french": "paire de solerets or",
+        "frenchUs": "paire de solerets or",
+        "italian": "paio scarpe armatura dorata",
+        "dutch": "gouden ridderlaarzen",
+        "chinese": "金甲靴",
+        "chineseTraditional": "金甲鞋",
+        "japanese": "ゴールデンアーマーシューズ",
+        "korean": "골든 아머 슈즈",
+        "russian": "латные золотые сапоги",
+        "plural": false,
+        "internalIds": [
+          5524
+        ]
+      },
+      "materials": {
+        "gold nugget": 4
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Shoes",
@@ -308,7 +447,8 @@
     "themes": [
       "everyday",
       "sporty"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -371,7 +511,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "leaf-egg shoes",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Shoes",
+      "craftedItemInternalId": 12457,
+      "cardColor": "yellow",
+      "serialId": 3768,
+      "internalId": 681,
+      "uniqueEntryId": "wKxwrd3MDWZDidSGp",
+      "translations": {
+        "sourceSheet": "Shoes",
+        "id": 1213,
+        "version": "1.1.0",
+        "english": "leaf-egg shoes",
+        "englishEurope": "leaf-egg shoes",
+        "german": "Paar Laub-Ei-Schuhe",
+        "spanish": "zapato de huevo boscoso",
+        "spanishUs": "zapato de huevo boscoso",
+        "french": "p. chaussures œuf feuillu",
+        "frenchUs": "p. chaussures œuf feuillu",
+        "italian": "paio scarpe uova frondose",
+        "dutch": "bladei-schoenen",
+        "chinese": "叶子蛋鞋子",
+        "chineseTraditional": "葉子蛋鞋子",
+        "japanese": "はっぱのたまごのくつ",
+        "korean": "나뭇잎 달걀 신발",
+        "russian": "боты «Лиственное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12457
+        ]
+      },
+      "materials": {
+        "leaf egg": 2
+      },
+      "sources": [
+        "Collecting leaf eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Shoes",
@@ -432,7 +618,8 @@
     ],
     "themes": [
       "comfy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -493,7 +680,53 @@
     ],
     "themes": [
       "outdoorsy"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "recycled boots",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Fish up 1 boot",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Shoes",
+      "craftedItemInternalId": 12326,
+      "cardColor": "dark gray",
+      "serialId": 690,
+      "internalId": 664,
+      "uniqueEntryId": "yqYz3fPAdv4nDcv9X",
+      "translations": {
+        "sourceSheet": "Shoes",
+        "id": 1191,
+        "version": "1.0.0",
+        "english": "recycled boots",
+        "englishEurope": "recycled boots",
+        "german": "Paar Recyclingstiefel",
+        "spanish": "bota reciclada",
+        "spanishUs": "bota reciclada",
+        "french": "paire de bottes recyclées",
+        "frenchUs": "paire de bottes recyclées",
+        "italian": "paio di stivali riciclati",
+        "dutch": "hergebruikte laarzen",
+        "chinese": "回收长靴",
+        "chineseTraditional": "舊長靴",
+        "japanese": "リサイクルながぐつ",
+        "korean": "재활용 장화",
+        "russian": "сапоги из утиль-сырья",
+        "plural": false,
+        "internalIds": [
+          12326
+        ]
+      },
+      "materials": {
+        "boot": 2
+      },
+      "sources": [
+        "Fishing"
+      ]
+    }
   },
   {
     "sourceSheet": "Shoes",
@@ -556,7 +789,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "sky-egg shoes",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Shoes",
+      "craftedItemInternalId": 12459,
+      "cardColor": "yellow",
+      "serialId": 3774,
+      "internalId": 687,
+      "uniqueEntryId": "EHXPk3QeW6EZy7pF9",
+      "translations": {
+        "sourceSheet": "Shoes",
+        "id": 1215,
+        "version": "1.1.0",
+        "english": "sky-egg shoes",
+        "englishEurope": "sky-egg shoes",
+        "german": "Paar Luft-Ei-Schuhe",
+        "spanish": "zapato de huevo celeste",
+        "spanishUs": "zapato de huevo celeste",
+        "french": "p. chaussures œuf aérien",
+        "frenchUs": "p. chaussures œuf aérien",
+        "italian": "paio di scarpe uova celesti",
+        "dutch": "luchtei-schoenen",
+        "chinese": "飞天蛋鞋子",
+        "chineseTraditional": "飛天蛋鞋子",
+        "japanese": "そらとぶたまごのくつ",
+        "korean": "하늘을 나는 달걀 신발",
+        "russian": "боты «Небесное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12459
+        ]
+      },
+      "materials": {
+        "sky egg": 2
+      },
+      "sources": [
+        "Collecting sky eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Shoes",
@@ -618,7 +897,8 @@
     "themes": [
       "fairy tale",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -681,7 +961,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stone-egg shoes",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Shoes",
+      "craftedItemInternalId": 12456,
+      "cardColor": "yellow",
+      "serialId": 3765,
+      "internalId": 678,
+      "uniqueEntryId": "qjuG3PA8rJWbnu5Qp",
+      "translations": {
+        "sourceSheet": "Shoes",
+        "id": 1212,
+        "version": "1.1.0",
+        "english": "stone-egg shoes",
+        "englishEurope": "stone-egg shoes",
+        "german": "Paar Fels-Ei-Schuhe",
+        "spanish": "zapato de huevo rupestre",
+        "spanishUs": "zapato de huevo rupestre",
+        "french": "p. chaussures œuf minéral",
+        "frenchUs": "p. chaussures œuf minéral",
+        "italian": "paio scarpe uova rocciose",
+        "dutch": "steenei-schoenen",
+        "chinese": "岩石蛋鞋子",
+        "chineseTraditional": "岩石蛋鞋子",
+        "japanese": "いわのたまごのくつ",
+        "korean": "바위 달걀 신발",
+        "russian": "боты «Каменное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12456
+        ]
+      },
+      "materials": {
+        "stone egg": 2
+      },
+      "sources": [
+        "Collecting stone eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Shoes",
@@ -744,7 +1070,8 @@
       "party",
       "theatrical",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -807,7 +1134,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "water-egg shoes",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Shoes",
+      "craftedItemInternalId": 12460,
+      "cardColor": "yellow",
+      "serialId": 3777,
+      "internalId": 690,
+      "uniqueEntryId": "Bg9geKwGApyACyXEx",
+      "translations": {
+        "sourceSheet": "Shoes",
+        "id": 1216,
+        "version": "1.1.0",
+        "english": "water-egg shoes",
+        "englishEurope": "water-egg shoes",
+        "german": "Paar Wasser-Ei-Schuhe",
+        "spanish": "zapato de huevo acuático",
+        "spanishUs": "zapato de huevo acuático",
+        "french": "p. chaussures œuf aquatiq.",
+        "frenchUs": "p. chaussures œuf aquatiq.",
+        "italian": "p. scarpe uova acquatiche",
+        "dutch": "waterei-schoenen",
+        "chinese": "鱼儿蛋鞋子",
+        "chineseTraditional": "魚兒蛋鞋子",
+        "japanese": "サカナのたまごのくつ",
+        "korean": "물고기 달걀 신발",
+        "russian": "боты «Водяное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12460
+        ]
+      },
+      "materials": {
+        "water egg": 2
+      },
+      "sources": [
+        "Collecting water eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Shoes",
@@ -870,7 +1243,8 @@
       "fairy tale",
       "formal",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -933,7 +1307,8 @@
       "fairy tale",
       "formal",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -996,7 +1371,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wood-egg shoes",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Shoes",
+      "craftedItemInternalId": 12458,
+      "cardColor": "yellow",
+      "serialId": 3771,
+      "internalId": 684,
+      "uniqueEntryId": "cEawPHH27B36anZsf",
+      "translations": {
+        "sourceSheet": "Shoes",
+        "id": 1214,
+        "version": "1.1.0",
+        "english": "wood-egg shoes",
+        "englishEurope": "wood-egg shoes",
+        "german": "Paar Holz-Ei-Schuhe",
+        "spanish": "zapato de huevo leñoso",
+        "spanishUs": "zapato de huevo leñoso",
+        "french": "p. chaussures œuf boisé",
+        "frenchUs": "p. chaussures œuf boisé",
+        "italian": "paio scarpe uova boscose",
+        "dutch": "houtei-schoenen",
+        "chinese": "森林蛋鞋子",
+        "chineseTraditional": "森林蛋鞋子",
+        "japanese": "ウッディなたまごのくつ",
+        "korean": "나무 달걀 신발",
+        "russian": "боты «Лесное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12458
+        ]
+      },
+      "materials": {
+        "wood egg": 2
+      },
+      "sources": [
+        "Collecting wood eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Shoes",
@@ -1059,7 +1480,8 @@
       "fairy tale",
       "theatrical",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -1183,7 +1605,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -1452,7 +1875,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -1737,7 +2161,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -2006,7 +2431,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -2223,7 +2649,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -2406,7 +2833,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -2501,7 +2929,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -2770,7 +3199,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -3047,7 +3477,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -3234,7 +3665,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -3445,7 +3877,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -3656,7 +4089,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -3809,7 +4243,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -3974,7 +4409,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -4156,7 +4592,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -4433,7 +4870,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -4718,7 +5156,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -4965,7 +5404,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -5089,7 +5529,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -5219,7 +5660,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -5401,7 +5843,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -5678,7 +6121,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -5947,7 +6391,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -6112,7 +6557,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -6329,7 +6775,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -6606,7 +7053,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -6835,7 +7283,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -7052,7 +7501,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -7205,7 +7655,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -7422,7 +7873,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -7669,7 +8121,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -7826,7 +8279,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -8119,7 +8573,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -8366,7 +8821,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -8606,7 +9062,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -8883,7 +9340,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -9070,7 +9528,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -9227,7 +9686,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -9504,7 +9964,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -9744,7 +10205,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -9901,7 +10363,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -10170,7 +10633,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -10347,7 +10811,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -10624,7 +11089,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -10893,7 +11359,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -11162,7 +11629,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -11344,7 +11812,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -11591,7 +12060,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -11783,7 +12253,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -11994,7 +12465,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -12263,7 +12735,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -12532,7 +13005,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -12709,7 +13183,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -12986,7 +13461,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -13271,7 +13747,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -13482,7 +13959,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -13759,7 +14237,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -13941,7 +14420,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -14210,7 +14690,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -14392,7 +14873,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -14627,7 +15109,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -14754,7 +15237,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -15031,7 +15515,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -15308,7 +15793,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -15569,7 +16055,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -15726,7 +16213,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -15903,7 +16391,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -16180,7 +16669,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -16391,7 +16881,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Shoes",
@@ -16668,6 +17159,7 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   }
 ]

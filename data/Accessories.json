@@ -61,7 +61,8 @@
       "outdoorsy",
       "comfy",
       "sporty"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -125,7 +126,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -187,7 +189,8 @@
     ],
     "themes": [
       "comfy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -251,7 +254,8 @@
       "fairy tale",
       "formal",
       "party"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -314,7 +318,8 @@
     "themes": [
       "comfy",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -377,7 +382,8 @@
     "themes": [
       "comfy",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -441,7 +447,8 @@
       "everyday",
       "goth",
       "comfy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -504,7 +511,8 @@
     "themes": [
       "fairy tale",
       "goth"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -567,7 +575,8 @@
     "themes": [
       "goth",
       "comfy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -631,7 +640,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -693,7 +703,8 @@
     ],
     "themes": [
       "comfy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -756,7 +767,8 @@
     "themes": [
       "comfy",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -820,7 +832,8 @@
       "everyday",
       "comfy",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -884,7 +897,8 @@
       "fairy tale",
       "formal",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -946,7 +960,8 @@
     ],
     "themes": [
       "comfy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1010,7 +1025,53 @@
       "outdoorsy",
       "comfy",
       "vacation"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "leaf",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Accessories",
+      "craftedItemInternalId": 4682,
+      "cardColor": "green",
+      "serialId": 1280,
+      "internalId": 261,
+      "uniqueEntryId": "cJ9rqxsr9oZKrjHXJ",
+      "translations": {
+        "sourceSheet": "Accessories",
+        "id": 508,
+        "version": "1.0.0",
+        "english": "leaf",
+        "englishEurope": "leaf",
+        "german": "Blatt",
+        "spanish": "hoja",
+        "spanishUs": "hoja",
+        "french": "feuille",
+        "frenchUs": "feuille",
+        "italian": "foglia",
+        "dutch": "blaadje",
+        "chinese": "叶子",
+        "chineseTraditional": "葉子",
+        "japanese": "はっぱ",
+        "korean": "나뭇잎",
+        "russian": "листик",
+        "plural": false,
+        "internalIds": [
+          4682
+        ]
+      },
+      "materials": {
+        "clump of weeds": 5
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Accessories",
@@ -1072,7 +1133,8 @@
     ],
     "themes": [
       "outdoorsy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1134,7 +1196,8 @@
     ],
     "themes": [
       "comfy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1196,7 +1259,8 @@
     ],
     "themes": [
       "comfy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1260,7 +1324,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1322,7 +1387,8 @@
     ],
     "themes": [
       "goth"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1384,7 +1450,8 @@
     ],
     "themes": [
       "goth"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1448,7 +1515,8 @@
       "everyday",
       "goth",
       "comfy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1510,7 +1578,8 @@
     ],
     "themes": [
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1574,7 +1643,8 @@
       "everyday",
       "comfy",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1636,7 +1706,8 @@
     ],
     "themes": [
       "goth"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1698,7 +1769,8 @@
     ],
     "themes": [
       "comfy"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1762,7 +1834,8 @@
       "fairy tale",
       "theatrical",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -1857,7 +1930,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -2010,7 +2084,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -2264,7 +2339,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -2421,7 +2497,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -2603,7 +2680,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -2733,7 +2811,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -2857,7 +2936,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -2987,7 +3067,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -3117,7 +3198,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -3334,7 +3416,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -3464,7 +3547,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -3625,7 +3709,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -3786,7 +3871,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -3997,7 +4083,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -4184,7 +4271,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -4314,7 +4402,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -4411,7 +4500,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -4634,7 +4724,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -4821,7 +4912,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -4990,7 +5082,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -5225,7 +5318,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -5442,7 +5536,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -5665,7 +5760,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -5795,7 +5891,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -5987,7 +6084,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -6234,7 +6332,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -6503,7 +6602,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -6600,7 +6700,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -6757,7 +6858,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -6980,7 +7082,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -7110,7 +7213,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -7302,7 +7406,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -7587,7 +7692,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -7744,7 +7850,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -7961,7 +8068,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -8148,7 +8256,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -8309,7 +8418,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -8406,7 +8516,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -8593,7 +8704,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -8690,7 +8802,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -8817,7 +8930,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -8944,7 +9058,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -9191,7 +9306,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Accessories",
@@ -9290,6 +9406,7 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   }
 ]
