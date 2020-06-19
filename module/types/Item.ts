@@ -23,11 +23,12 @@ export interface Item {
     internalId?:           number;
     uniqueEntryId?:        string;
     variantTranslations?:  null;
-    translations:          TranslationsClass | null;
+    translations:          ItemTranslations | null;
     colors?:               Color[];
     styles?:               Style[];
     sources?:              string[];
     themes?:               Theme[];
+    recipe:                Recipe | null;
     variations?:           VariationElement[];
     image?:                string;
     highResTexture?:       null;
@@ -234,6 +235,112 @@ export enum PrimaryShape {
     Salopette = "Salopette",
 }
 
+export interface Recipe {
+    sourceSheet:           RecipeSourceSheet;
+    name:                  string;
+    buy:                   number;
+    sell:                  number;
+    milesPrice:            number | null;
+    sourceNotes:           null | string;
+    versionAdded:          Version;
+    versionUnlocked:       Version;
+    recipesToUnlock:       number;
+    category:              Category;
+    craftedItemInternalId: number;
+    cardColor:             CardColor | null;
+    serialId:              number;
+    internalId:            number;
+    uniqueEntryId:         string;
+    translations:          RecipeTranslations;
+    materials:             { [key: string]: number };
+    sources:               string[];
+}
+
+export enum CardColor {
+    Beige = "beige",
+    Blue = "blue",
+    Brick = "brick",
+    Brown = "brown",
+    DarkGray = "dark gray",
+    Gold = "gold",
+    Green = "green",
+    LightGray = "light gray",
+    Orange = "orange",
+    Pink = "pink",
+    Red = "red",
+    Silver = "silver",
+    White = "white",
+    Yellow = "yellow",
+}
+
+export enum RecipeSourceSheet {
+    Recipes = "Recipes",
+}
+
+export interface RecipeTranslations {
+    sourceSheet:        TranslationsSourceSheet;
+    id:                 number | string;
+    version:            Version;
+    english:            string;
+    englishEurope:      string;
+    german:             string;
+    spanish:            string;
+    spanishUs:          string;
+    french:             string;
+    frenchUs:           string;
+    italian:            string;
+    dutch:              string;
+    chinese:            string;
+    chineseTraditional: string;
+    japanese:           string;
+    korean:             string;
+    russian:            string;
+    plural:             boolean;
+    internalIds:        number[];
+}
+
+export enum TranslationsSourceSheet {
+    Accessories = "Accessories",
+    Art = "Art",
+    Bags = "Bags",
+    Bottoms = "Bottoms",
+    BugsModels = "Bugs Models",
+    Caps = "Caps",
+    Craft = "Craft",
+    Doorplates = "Doorplates",
+    Dresses = "Dresses",
+    Etc = "ETC",
+    EventItems = "Event Items",
+    Fence = "Fence",
+    FishModels = "Fish Models",
+    Floors = "Floors",
+    Fossils = "Fossils",
+    Furniture = "Furniture",
+    KKAlbums = "K.K. Albums",
+    Masks = "Masks",
+    Pictures = "Pictures",
+    Plants = "Plants",
+    Posters = "Posters",
+    Rugs = "Rugs",
+    Shells = "Shells",
+    Shoes = "Shoes",
+    Socks = "Socks",
+    Tools = "Tools",
+    Tops = "Tops",
+    Umbrella = "Umbrella",
+    Walls = "Walls",
+}
+
+export enum Version {
+    The100 = "1.0.0",
+    The110 = "1.1.0",
+    The110A = "1.1.0a",
+    The120 = "1.2.0",
+    The120A = "1.2.0a",
+    The120B = "1.2.0b",
+    The121C = "1.2.1c",
+}
+
 export enum SeasonalAvailability {
     AllYear = "All Year",
     Fall = "Fall",
@@ -350,7 +457,7 @@ export enum Theme {
     Work = "work",
 }
 
-export interface TranslationsClass {
+export interface ItemTranslations {
     sourceSheet:        TranslationsSourceSheet;
     id:                 number | string;
     version:            Version;
@@ -370,48 +477,6 @@ export interface TranslationsClass {
     russian:            string;
     plural:             boolean;
     internalIds:        Array<number | string>;
-}
-
-export enum TranslationsSourceSheet {
-    Accessories = "Accessories",
-    Art = "Art",
-    Bags = "Bags",
-    Bottoms = "Bottoms",
-    BugsModels = "Bugs Models",
-    Caps = "Caps",
-    Craft = "Craft",
-    Doorplates = "Doorplates",
-    Dresses = "Dresses",
-    Etc = "ETC",
-    EventItems = "Event Items",
-    Fence = "Fence",
-    FishModels = "Fish Models",
-    Floors = "Floors",
-    Fossils = "Fossils",
-    Furniture = "Furniture",
-    KKAlbums = "K.K. Albums",
-    Masks = "Masks",
-    Pictures = "Pictures",
-    Plants = "Plants",
-    Posters = "Posters",
-    Rugs = "Rugs",
-    Shells = "Shells",
-    Shoes = "Shoes",
-    Socks = "Socks",
-    Tools = "Tools",
-    Tops = "Tops",
-    Umbrella = "Umbrella",
-    Walls = "Walls",
-}
-
-export enum Version {
-    The100 = "1.0.0",
-    The110 = "1.1.0",
-    The110A = "1.1.0a",
-    The120 = "1.2.0",
-    The120A = "1.2.0a",
-    The120B = "1.2.0b",
-    The121C = "1.2.1c",
 }
 
 export enum Type {
