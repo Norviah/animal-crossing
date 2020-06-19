@@ -51,7 +51,7 @@ As for the rest of the values, they're the same as they appear on the spreadshee
 
 All entries are arrays, so to find a certain item you want, you can use the `find` method.
 
-```Typescript
+```javascript
 // node.js
 const { villagers } = require('animal-crossing');
 
@@ -64,8 +64,8 @@ const freya = villagers.find(villager => villager.name === 'Freya');
 // information for said item. For example, for villagers, you can view
 // translations of their name and their catchphrase.
 
-console.log(freya.translations); => // Translations of Freya's name,
-console.log(freya.catchphrases); => // and translations for her catchphrase.
+console.log(freya.translations); // => Translations of Freya's name,
+console.log(freya.catchphrases); // => and translations for her catchphrase.
 
 // To view the properties of all items, take a look at the documentation directory.
 ```
