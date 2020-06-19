@@ -49,8 +49,6 @@ Values of all items are changed in favor of native JavaScript types, for example
 
 As for the rest of the values, they're the same as they appear on the spreadsheets. To view how the values are represented, you can look at the [documentation](https://github.com/Norviah/animal-crossing/tree/master/module/docs) or the JSON files [here](https://github.com/Norviah/animal-crossing/tree/master/combined).
 
-#### Examples
-
 All entries are arrays, so to find a certain item you want, you can use the `find` method.
 
 ```Typescript
@@ -66,8 +64,8 @@ const freya = villagers.find(villager => villager.name === 'Freya');
 // information for said item. For example, for villagers, you can view
 // translations of their name and their catchphrase.
 
-console.log(freya.translations); => translations of Freya's name,
-console.log(freya.catchphrases); => and translations for her catchphrase.
+console.log(freya.translations); => // Translations of Freya's name,
+console.log(freya.catchphrases); => // and translations for her catchphrase.
 
 // To view the properties of all items, take a look at the documentation directory.
 ```
