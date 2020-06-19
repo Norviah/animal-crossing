@@ -47,7 +47,53 @@
     ],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "apple umbrella",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Umbrellas",
+      "craftedItemInternalId": 9948,
+      "cardColor": "red",
+      "serialId": 1780,
+      "internalId": 623,
+      "uniqueEntryId": "N2aQCn6hYqjw2ijPX",
+      "translations": {
+        "sourceSheet": "Umbrella",
+        "id": "Umbrella_09948",
+        "version": "1.0.0",
+        "english": "apple umbrella",
+        "englishEurope": "apple umbrella",
+        "german": "Apfelschirm",
+        "spanish": "paraguas manzana",
+        "spanishUs": "paraguas manzana",
+        "french": "parapluie pomme",
+        "frenchUs": "parapluie pomme",
+        "italian": "ombrello mela",
+        "dutch": "appelparaplu",
+        "chinese": "苹果雨伞",
+        "chineseTraditional": "蘋果雨傘",
+        "japanese": "リンゴのかさ",
+        "korean": "사과 우산",
+        "russian": "яблочный зонт",
+        "plural": false,
+        "internalIds": [
+          9948
+        ]
+      },
+      "materials": {
+        "apple": 7
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Umbrellas",
@@ -97,7 +143,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -147,7 +194,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -197,7 +245,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -247,7 +296,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -297,7 +347,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -347,7 +398,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -397,7 +449,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -447,7 +500,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -497,7 +551,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -547,7 +602,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -597,7 +653,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -647,7 +704,53 @@
     ],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry umbrella",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Umbrellas",
+      "craftedItemInternalId": 9949,
+      "cardColor": "yellow",
+      "serialId": 1480,
+      "internalId": 614,
+      "uniqueEntryId": "pKzsdzbBmNX3hZd7R",
+      "translations": {
+        "sourceSheet": "Umbrella",
+        "id": "Umbrella_09949",
+        "version": "1.0.0",
+        "english": "cherry umbrella",
+        "englishEurope": "cherry umbrella",
+        "german": "Kirschschirm",
+        "spanish": "paraguas cerezas",
+        "spanishUs": "paraguas cerezas",
+        "french": "parapluie cerises",
+        "frenchUs": "parapluie cerises",
+        "italian": "ombrello ciliegie",
+        "dutch": "kersenparaplu",
+        "chinese": "樱桃雨伞",
+        "chineseTraditional": "櫻桃雨傘",
+        "japanese": "さくらんぼのかさ",
+        "korean": "체리 우산",
+        "russian": "вишневый зонт",
+        "plural": false,
+        "internalIds": [
+          9949
+        ]
+      },
+      "materials": {
+        "cherry": 7
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Umbrellas",
@@ -697,7 +800,53 @@
     ],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry-blossom umbrella",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Cherry-Blossom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Umbrellas",
+      "craftedItemInternalId": 9945,
+      "cardColor": "pink",
+      "serialId": 2680,
+      "internalId": 629,
+      "uniqueEntryId": "Ss2QnC4nP26NFyexM",
+      "translations": {
+        "sourceSheet": "Umbrella",
+        "id": "Umbrella_09945",
+        "version": "1.0.0",
+        "english": "cherry-blossom umbrella",
+        "englishEurope": "cherry-blossom umbrella",
+        "german": "Kirschblütenschirm",
+        "spanish": "paraguas flor de cerezo",
+        "spanishUs": "paraguas flor de cerezo",
+        "french": "parapluie fleur de cerisier",
+        "frenchUs": "parapluie fleur de cerisier",
+        "italian": "ombrello fiore di ciliegio",
+        "dutch": "kersenbloesemparaplu",
+        "chinese": "樱花雨伞",
+        "chineseTraditional": "櫻花雨傘",
+        "japanese": "さくらのかさ",
+        "korean": "벚꽃 우산",
+        "russian": "зонт «Цветок вишни»",
+        "plural": false,
+        "internalIds": [
+          9945
+        ]
+      },
+      "materials": {
+        "cherry-blossom petal": 7
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Umbrellas",
@@ -747,7 +896,8 @@
     ],
     "sources": [
       "Dodo Airlines"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -797,7 +947,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -847,7 +998,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -897,7 +1049,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -947,7 +1100,8 @@
     ],
     "sources": [
       "Fishing Tourney"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -997,7 +1151,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1047,7 +1202,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1097,7 +1253,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1147,7 +1304,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1197,7 +1355,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1247,7 +1406,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1297,7 +1457,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1347,7 +1508,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1397,7 +1559,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1447,7 +1610,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1497,7 +1661,8 @@
     ],
     "sources": [
       "Bug-Off"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1547,7 +1712,53 @@
     ],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "leaf umbrella",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Umbrellas",
+      "craftedItemInternalId": 6840,
+      "cardColor": "green",
+      "serialId": 1282,
+      "internalId": 456,
+      "uniqueEntryId": "DyPomQRjemr3vjDQt",
+      "translations": {
+        "sourceSheet": "Umbrella",
+        "id": "Umbrella_06840",
+        "version": "1.0.0",
+        "english": "leaf umbrella",
+        "englishEurope": "leaf umbrella",
+        "german": "Blättchenschirm",
+        "spanish": "parasol hoja",
+        "spanishUs": "parasol hoja",
+        "french": "feuillapluie",
+        "frenchUs": "feuillapluie",
+        "italian": "ombrello foglia",
+        "dutch": "bladparaplu",
+        "chinese": "叶子雨伞",
+        "chineseTraditional": "葉子雨傘",
+        "japanese": "はっぱのかさ",
+        "korean": "연꽃잎 우산",
+        "russian": "зонт-лист",
+        "plural": false,
+        "internalIds": [
+          6840
+        ]
+      },
+      "materials": {
+        "clump of weeds": 15
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1597,7 +1808,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1647,7 +1859,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1697,7 +1910,53 @@
     ],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "maple-leaf umbrella",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Maple Leaf Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Umbrellas",
+      "craftedItemInternalId": 7169,
+      "cardColor": "brown",
+      "serialId": 2980,
+      "internalId": 541,
+      "uniqueEntryId": "MWAN27apJPewSFHiR",
+      "translations": {
+        "sourceSheet": "Umbrella",
+        "id": "Umbrella_07169",
+        "version": "1.0.0",
+        "english": "maple-leaf umbrella",
+        "englishEurope": "maple-leaf umbrella",
+        "german": "Ahornschirm",
+        "spanish": "parasol hoja de arce",
+        "spanishUs": "parasol hoja de arce",
+        "french": "parapluie feuille d'érable",
+        "frenchUs": "parapluie feuille d'érable",
+        "italian": "ombrello foglia d'acero",
+        "dutch": "esdoornbladparaplu",
+        "chinese": "枫叶雨伞",
+        "chineseTraditional": "楓葉雨傘",
+        "japanese": "もみじのかさ",
+        "korean": "단풍잎 우산",
+        "russian": "кленовый лист-зонт",
+        "plural": false,
+        "internalIds": [
+          7169
+        ]
+      },
+      "materials": {
+        "maple leaf": 7
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1747,7 +2006,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1797,7 +2057,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1847,7 +2108,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1897,7 +2159,53 @@
     ],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "mush umbrella",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Mushroom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Umbrellas",
+      "craftedItemInternalId": 7174,
+      "cardColor": "orange",
+      "serialId": 3080,
+      "internalId": 648,
+      "uniqueEntryId": "PT3wRG87hdFbt8kgG",
+      "translations": {
+        "sourceSheet": "Umbrella",
+        "id": "Umbrella_07174",
+        "version": "1.0.0",
+        "english": "mush umbrella",
+        "englishEurope": "mush umbrella",
+        "german": "Pilzregenschirm",
+        "spanish": "parasol seta",
+        "spanishUs": "parasol hongo",
+        "french": "parapluie champi",
+        "frenchUs": "parapluie champignon",
+        "italian": "ombrello fungo",
+        "dutch": "paddenstoelparaplu",
+        "chinese": "蘑菇雨伞",
+        "chineseTraditional": "蘑菇雨傘",
+        "japanese": "キノコのかさ",
+        "korean": "버섯 우산",
+        "russian": "зонт-гриб",
+        "plural": false,
+        "internalIds": [
+          7174
+        ]
+      },
+      "materials": {
+        "flat mushroom": 3
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1947,7 +2255,8 @@
     ],
     "sources": [
       "Nook Miles Shop"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -1997,7 +2306,53 @@
     ],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "orange umbrella",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Umbrellas",
+      "craftedItemInternalId": 6912,
+      "cardColor": "orange",
+      "serialId": 1380,
+      "internalId": 625,
+      "uniqueEntryId": "ZFxY5TXjBeThpDkjy",
+      "translations": {
+        "sourceSheet": "Umbrella",
+        "id": "Umbrella_06912",
+        "version": "1.0.0",
+        "english": "orange umbrella",
+        "englishEurope": "orange umbrella",
+        "german": "Orangenschirm",
+        "spanish": "paraguas naranja",
+        "spanishUs": "paraguas naranja",
+        "french": "parapluie orange",
+        "frenchUs": "parapluie orange",
+        "italian": "ombrello arancia",
+        "dutch": "sinaasappelparaplu",
+        "chinese": "橘子雨伞",
+        "chineseTraditional": "橘子雨傘",
+        "japanese": "オレンジのかさ",
+        "korean": "오렌지 우산",
+        "russian": "апельсиновый зонт",
+        "plural": false,
+        "internalIds": [
+          6912
+        ]
+      },
+      "materials": {
+        "orange": 7
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2047,7 +2402,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2097,7 +2453,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2147,7 +2504,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2197,7 +2555,53 @@
     ],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "peach umbrella",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Umbrellas",
+      "craftedItemInternalId": 9947,
+      "cardColor": "pink",
+      "serialId": 1580,
+      "internalId": 620,
+      "uniqueEntryId": "bpoAgczMK3d6dmtte",
+      "translations": {
+        "sourceSheet": "Umbrella",
+        "id": "Umbrella_09947",
+        "version": "1.0.0",
+        "english": "peach umbrella",
+        "englishEurope": "peach umbrella",
+        "german": "Pfirsichschirm",
+        "spanish": "paraguas melocotón",
+        "spanishUs": "paraguas durazno",
+        "french": "parapluie pêche",
+        "frenchUs": "parapluie pêche",
+        "italian": "ombrello pesca",
+        "dutch": "perzikparaplu",
+        "chinese": "桃子雨伞",
+        "chineseTraditional": "桃子雨傘",
+        "japanese": "モモのかさ",
+        "korean": "복숭아 우산",
+        "russian": "персиковый зонт",
+        "plural": false,
+        "internalIds": [
+          9947
+        ]
+      },
+      "materials": {
+        "peach": 7
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2247,7 +2651,53 @@
     ],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pear umbrella",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Umbrellas",
+      "craftedItemInternalId": 9950,
+      "cardColor": "green",
+      "serialId": 1680,
+      "internalId": 617,
+      "uniqueEntryId": "Z4yN2HWQNGM9HYBZo",
+      "translations": {
+        "sourceSheet": "Umbrella",
+        "id": "Umbrella_09950",
+        "version": "1.0.0",
+        "english": "pear umbrella",
+        "englishEurope": "pear umbrella",
+        "german": "Birnenschirm",
+        "spanish": "paraguas pera",
+        "spanishUs": "paraguas pera",
+        "french": "parapluie poire",
+        "frenchUs": "parapluie poire",
+        "italian": "ombrello pera",
+        "dutch": "perenparaplu",
+        "chinese": "梨子雨伞",
+        "chineseTraditional": "梨子雨傘",
+        "japanese": "ナシのかさ",
+        "korean": "배 우산",
+        "russian": "грушевый зонт",
+        "plural": false,
+        "internalIds": [
+          9950
+        ]
+      },
+      "materials": {
+        "pear": 7
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2297,7 +2747,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2347,7 +2798,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2397,7 +2849,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2447,7 +2900,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2497,7 +2951,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2547,7 +3002,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2597,7 +3053,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2647,7 +3104,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2697,7 +3155,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2747,7 +3206,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2797,7 +3257,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2847,7 +3308,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2897,7 +3359,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2947,7 +3410,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -2997,7 +3461,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -3047,7 +3512,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -3097,7 +3563,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -3147,7 +3614,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -3197,7 +3665,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -3247,7 +3716,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -3297,7 +3767,8 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Umbrellas",
@@ -3347,6 +3818,7 @@
     ],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   }
 ]

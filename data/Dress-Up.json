@@ -59,7 +59,8 @@
     ],
     "themes": [
       "fairy tale"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -123,7 +124,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "apple dress",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 9836,
+      "cardColor": "red",
+      "serialId": 1782,
+      "internalId": 621,
+      "uniqueEntryId": "KmfTvhh3qeyd6WcFJ",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1087,
+        "version": "1.0.0",
+        "english": "apple dress",
+        "englishEurope": "apple dress",
+        "german": "Apfelkleid",
+        "spanish": "vestido manzana",
+        "spanishUs": "vestido manzana",
+        "french": "robe pomme",
+        "frenchUs": "robe pomme",
+        "italian": "vestito mela",
+        "dutch": "appeljurk",
+        "chinese": "苹果服",
+        "chineseTraditional": "蘋果服",
+        "japanese": "リンゴのふく",
+        "korean": "사과 옷",
+        "russian": "платье «Яблоко»",
+        "plural": false,
+        "internalIds": [
+          9836
+        ]
+      },
+      "materials": {
+        "apple": 8
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -185,7 +232,8 @@
     ],
     "themes": [
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -248,7 +296,8 @@
     "themes": [
       "fairy tale",
       "goth"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -313,7 +362,8 @@
       "formal",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -377,7 +427,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry dress",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 9838,
+      "cardColor": "yellow",
+      "serialId": 1482,
+      "internalId": 612,
+      "uniqueEntryId": "XeA7zE2nkf38vLXR2",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1089,
+        "version": "1.0.0",
+        "english": "cherry dress",
+        "englishEurope": "cherry dress",
+        "german": "Kirschkleid",
+        "spanish": "vestido cerezas",
+        "spanishUs": "vestido cerezas",
+        "french": "robe cerise",
+        "frenchUs": "robe cerise",
+        "italian": "vestito ciliegia",
+        "dutch": "kersenjurk",
+        "chinese": "樱桃服",
+        "chineseTraditional": "櫻桃服",
+        "japanese": "さくらんぼのふく",
+        "korean": "체리 옷",
+        "russian": "платье «Вишня»",
+        "plural": false,
+        "internalIds": [
+          9838
+        ]
+      },
+      "materials": {
+        "cherry": 8
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -440,7 +536,8 @@
     "themes": [
       "everyday",
       "formal"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -503,7 +600,8 @@
     "themes": [
       "formal",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -565,7 +663,8 @@
     ],
     "themes": [
       "sporty"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -629,7 +728,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "earth-egg outfit",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 12449,
+      "cardColor": "yellow",
+      "serialId": 3761,
+      "internalId": 674,
+      "uniqueEntryId": "7Mt6bHNy79mjNGipa",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1205,
+        "version": "1.1.0",
+        "english": "earth-egg outfit",
+        "englishEurope": "earth-egg outfit",
+        "german": "Erd-Glücksei-Outfit",
+        "spanish": "traje de huevo terrestre",
+        "spanishUs": "traje de huevo terrestre",
+        "french": "tenue œuf terrestre",
+        "frenchUs": "tenue œuf terrestre",
+        "italian": "abito a uovo terrestre",
+        "dutch": "aarde-ei-outfit",
+        "chinese": "地面蛋衣服",
+        "chineseTraditional": "地面蛋衣服",
+        "japanese": "じめんのたまごのふく",
+        "korean": "땅 달걀 옷",
+        "russian": "наряд «Земляное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12449
+        ]
+      },
+      "materials": {
+        "earth egg": 3
+      },
+      "sources": [
+        "Collecting earth eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -693,7 +838,58 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "egg party dress",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 12448,
+      "cardColor": "yellow",
+      "serialId": 3779,
+      "internalId": 692,
+      "uniqueEntryId": "zNdwTbYA7G3MRrqkE",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1204,
+        "version": "1.1.0",
+        "english": "egg party dress",
+        "englishEurope": "egg party dress",
+        "german": "Glücksei-Abendkleid",
+        "spanish": "vestido de fiesta huevo",
+        "spanishUs": "vestido de fiesta huevo",
+        "french": "robe de soirée œuf",
+        "frenchUs": "robe de soirée œuf",
+        "italian": "abito uova da sera",
+        "dutch": "eierfeestjurk",
+        "chinese": "蛋派对连身裙",
+        "chineseTraditional": "蛋派對連身裙",
+        "japanese": "たまごのパーティーワンピ",
+        "korean": "달걀 파티 원피스",
+        "russian": "платье на День зайцев",
+        "plural": false,
+        "internalIds": [
+          12448
+        ]
+      },
+      "materials": {
+        "earth egg": 3,
+        "stone egg": 3,
+        "leaf egg": 3,
+        "wood egg": 3,
+        "sky egg": 3,
+        "water egg": 3
+      },
+      "sources": [
+        "Learning all egg outfit DIYs"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -757,7 +953,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -820,7 +1017,8 @@
     "themes": [
       "fairy tale",
       "party"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -883,7 +1081,8 @@
     "themes": [
       "everyday",
       "formal"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -946,7 +1145,8 @@
     "themes": [
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1009,7 +1209,53 @@
     "themes": [
       "fairy tale",
       "goth"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "gold armor",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 4590,
+      "cardColor": "gold",
+      "serialId": 1181,
+      "internalId": 566,
+      "uniqueEntryId": "9ThvdcF6fyMHcpzx2",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 458,
+        "version": "1.0.0",
+        "english": "gold armor",
+        "englishEurope": "gold armor",
+        "german": "Goldrüstung",
+        "spanish": "armadura de oro",
+        "spanishUs": "armadura de oro",
+        "french": "armure en or",
+        "frenchUs": "armure en or",
+        "italian": "armatura dorata",
+        "dutch": "gouden harnas",
+        "chinese": "金盔甲",
+        "chineseTraditional": "金盔甲",
+        "japanese": "ゴールデンアーマー",
+        "korean": "골든 아머",
+        "russian": "золотые доспехи",
+        "plural": false,
+        "internalIds": [
+          4590
+        ]
+      },
+      "materials": {
+        "gold nugget": 8
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1073,7 +1319,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1136,7 +1383,8 @@
     "themes": [
       "formal",
       "party"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1199,7 +1447,8 @@
     "themes": [
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1262,7 +1511,8 @@
     "themes": [
       "fairy tale",
       "party"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1325,7 +1575,53 @@
     "themes": [
       "fairy tale",
       "goth"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "iron armor",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 4588,
+      "cardColor": "dark gray",
+      "serialId": 981,
+      "internalId": 640,
+      "uniqueEntryId": "qMDWWFfXPFTMpGTpQ",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 456,
+        "version": "1.0.0",
+        "english": "iron armor",
+        "englishEurope": "iron armor",
+        "german": "Eisenrüstung",
+        "spanish": "armadura de hierro",
+        "spanishUs": "armadura de hierro",
+        "french": "armure en fer",
+        "frenchUs": "armure en fer",
+        "italian": "armatura di ferro",
+        "dutch": "ijzeren harnas",
+        "chinese": "铁盔甲",
+        "chineseTraditional": "鐵盔甲",
+        "japanese": "アイアンアーマー",
+        "korean": "아이언 아머",
+        "russian": "железные доспехи",
+        "plural": false,
+        "internalIds": [
+          4588
+        ]
+      },
+      "materials": {
+        "iron nugget": 8
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1389,7 +1685,8 @@
       "formal",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1453,7 +1750,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1517,7 +1815,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "leaf-egg outfit",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 12451,
+      "cardColor": "yellow",
+      "serialId": 3767,
+      "internalId": 680,
+      "uniqueEntryId": "iJeXo3dJrybEpPEHw",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1207,
+        "version": "1.1.0",
+        "english": "leaf-egg outfit",
+        "englishEurope": "leaf-egg outfit",
+        "german": "Laub-Glücksei-Outfit",
+        "spanish": "traje de huevo boscoso",
+        "spanishUs": "traje de huevo boscoso",
+        "french": "tenue œuf feuillu",
+        "frenchUs": "tenue œuf feuillu",
+        "italian": "abito a uovo frondoso",
+        "dutch": "bladerei-outfit",
+        "chinese": "叶子蛋衣服",
+        "chineseTraditional": "葉子蛋衣服",
+        "japanese": "はっぱのたまごのふく",
+        "korean": "나뭇잎 달걀 옷",
+        "russian": "наряд «Лиственное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12451
+        ]
+      },
+      "materials": {
+        "leaf egg": 3
+      },
+      "sources": [
+        "Collecting leaf eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1580,7 +1924,8 @@
     "themes": [
       "everyday",
       "fairy tale"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1642,7 +1987,8 @@
     ],
     "themes": [
       "goth"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1705,7 +2051,8 @@
     "themes": [
       "fairy tale",
       "goth"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1769,7 +2116,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "orange dress",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 3288,
+      "cardColor": "orange",
+      "serialId": 1382,
+      "internalId": 626,
+      "uniqueEntryId": "kdDWtuakgMkxF8ohK",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 115,
+        "version": "1.0.0",
+        "english": "orange dress",
+        "englishEurope": "orange dress",
+        "german": "Orangenkleid",
+        "spanish": "vestido naranja",
+        "spanishUs": "vestido naranja",
+        "french": "robe orange",
+        "frenchUs": "robe orange",
+        "italian": "vestito arancia",
+        "dutch": "sinaasappeljurk",
+        "chinese": "橘子服",
+        "chineseTraditional": "夏蜜柑服",
+        "japanese": "オレンジのふく",
+        "korean": "오렌지 옷",
+        "russian": "платье «Апельсин»",
+        "plural": false,
+        "internalIds": [
+          3288
+        ]
+      },
+      "materials": {
+        "orange": 8
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1831,7 +2224,8 @@
     ],
     "themes": [
       "formal"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1895,7 +2289,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "peach dress",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 9839,
+      "cardColor": "pink",
+      "serialId": 1582,
+      "internalId": 618,
+      "uniqueEntryId": "zmPZEvBG6yYGmeFBx",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1090,
+        "version": "1.0.0",
+        "english": "peach dress",
+        "englishEurope": "peach dress",
+        "german": "Pfirsichkleid",
+        "spanish": "vestido melocotón",
+        "spanishUs": "vestido durazno",
+        "french": "robe pêche",
+        "frenchUs": "robe pêche",
+        "italian": "vestito pesca",
+        "dutch": "perzikjurk",
+        "chinese": "桃子服",
+        "chineseTraditional": "桃子服",
+        "japanese": "モモのふく",
+        "korean": "복숭아 옷",
+        "russian": "платье «Персик»",
+        "plural": false,
+        "internalIds": [
+          9839
+        ]
+      },
+      "materials": {
+        "peach": 8
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -1959,7 +2399,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pear dress",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 9837,
+      "cardColor": "green",
+      "serialId": 1682,
+      "internalId": 615,
+      "uniqueEntryId": "Gc8pnkWgCZcMbeJnk",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1088,
+        "version": "1.0.0",
+        "english": "pear dress",
+        "englishEurope": "pear dress",
+        "german": "Birnenkleid",
+        "spanish": "vestido pera",
+        "spanishUs": "vestido pera",
+        "french": "robe poire",
+        "frenchUs": "robe poire",
+        "italian": "vestito pera",
+        "dutch": "perenjurk",
+        "chinese": "梨子服",
+        "chineseTraditional": "梨子服",
+        "japanese": "ナシのふく",
+        "korean": "배 옷",
+        "russian": "платье «Груша»",
+        "plural": false,
+        "internalIds": [
+          9837
+        ]
+      },
+      "materials": {
+        "pear": 8
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2021,7 +2507,8 @@
     ],
     "themes": [
       "formal"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2085,7 +2572,8 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2147,7 +2635,8 @@
     ],
     "themes": [
       "formal"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2210,7 +2699,8 @@
     "themes": [
       "formal",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2274,7 +2764,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "sky-egg outfit",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 12453,
+      "cardColor": "yellow",
+      "serialId": 3773,
+      "internalId": 686,
+      "uniqueEntryId": "weRPdpf2rNKk5M6To",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1209,
+        "version": "1.1.0",
+        "english": "sky-egg outfit",
+        "englishEurope": "sky-egg outfit",
+        "german": "Luft-Glücksei-Outfit",
+        "spanish": "traje de huevo celeste",
+        "spanishUs": "traje de huevo celeste",
+        "french": "tenue œuf aérien",
+        "frenchUs": "tenue œuf aérien",
+        "italian": "abito a uovo celeste",
+        "dutch": "luchtei-outfit",
+        "chinese": "飞天蛋衣服",
+        "chineseTraditional": "飛天蛋衣服",
+        "japanese": "そらとぶたまごのふく",
+        "korean": "하늘을 나는 달걀 옷",
+        "russian": "наряд «Небесное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12453
+        ]
+      },
+      "materials": {
+        "sky egg": 3
+      },
+      "sources": [
+        "Collecting sky eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2336,7 +2872,8 @@
     ],
     "themes": [
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2400,7 +2937,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stone-egg outfit",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 12450,
+      "cardColor": "yellow",
+      "serialId": 3764,
+      "internalId": 677,
+      "uniqueEntryId": "xrQW5CeTyHda2fcut",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1206,
+        "version": "1.1.0",
+        "english": "stone-egg outfit",
+        "englishEurope": "stone-egg outfit",
+        "german": "Fels-Glücksei-Outfit",
+        "spanish": "traje de huevo rupestre",
+        "spanishUs": "traje de huevo rupestre",
+        "french": "tenue œuf minéral",
+        "frenchUs": "tenue œuf minéral",
+        "italian": "abito a uovo roccioso",
+        "dutch": "steenei-outfit",
+        "chinese": "岩石蛋衣服",
+        "chineseTraditional": "岩石蛋衣服",
+        "japanese": "いわのたまごのふく",
+        "korean": "바위 달걀 옷",
+        "russian": "наряд «Каменное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12450
+        ]
+      },
+      "materials": {
+        "stone egg": 3
+      },
+      "sources": [
+        "Collecting stone eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2464,7 +3047,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2528,7 +3112,8 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2592,7 +3177,8 @@
       "party",
       "theatrical",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2656,7 +3242,8 @@
       "party",
       "theatrical",
       "work"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2720,7 +3307,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "water-egg outfit",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 12454,
+      "cardColor": "yellow",
+      "serialId": 3776,
+      "internalId": 689,
+      "uniqueEntryId": "7iGNX78irzAu3Z5rw",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1210,
+        "version": "1.1.0",
+        "english": "water-egg outfit",
+        "englishEurope": "water-egg outfit",
+        "german": "Wasser-Glücksei-Outfit",
+        "spanish": "traje de huevo acuático",
+        "spanishUs": "traje de huevo acuático",
+        "french": "tenue œuf aquatique",
+        "frenchUs": "tenue œuf aquatique",
+        "italian": "abito a uovo acquatico",
+        "dutch": "waterei-outfit",
+        "chinese": "鱼儿蛋衣服",
+        "chineseTraditional": "魚兒蛋衣服",
+        "japanese": "サカナのたまごのふく",
+        "korean": "물고기 달걀 옷",
+        "russian": "наряд «Водяное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12454
+        ]
+      },
+      "materials": {
+        "water egg": 3
+      },
+      "sources": [
+        "Collecting water eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2784,7 +3417,8 @@
       "fairy tale",
       "party",
       "vacation"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2848,7 +3482,8 @@
       "fairy tale",
       "formal",
       "theatrical"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -2912,7 +3547,53 @@
       "fairy tale",
       "party",
       "theatrical"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wood-egg outfit",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Dress-Up",
+      "craftedItemInternalId": 12452,
+      "cardColor": "yellow",
+      "serialId": 3770,
+      "internalId": 683,
+      "uniqueEntryId": "Cqe6TyaE38gnjAtmr",
+      "translations": {
+        "sourceSheet": "Dresses",
+        "id": 1208,
+        "version": "1.1.0",
+        "english": "wood-egg outfit",
+        "englishEurope": "wood-egg outfit",
+        "german": "Holz-Glücksei-Outfit",
+        "spanish": "traje de huevo leñoso",
+        "spanishUs": "traje de huevo leñoso",
+        "french": "tenue œuf boisé",
+        "frenchUs": "tenue œuf boisé",
+        "italian": "abito a uovo boscoso",
+        "dutch": "houtei-outfit",
+        "chinese": "森林蛋衣服",
+        "chineseTraditional": "森林蛋衣服",
+        "japanese": "ウッディなたまごのふく",
+        "korean": "나무 달걀 옷",
+        "russian": "наряд «Лесное яйцо»",
+        "plural": false,
+        "internalIds": [
+          12452
+        ]
+      },
+      "materials": {
+        "wood egg": 3
+      },
+      "sources": [
+        "Collecting wood eggs"
+      ]
+    }
   },
   {
     "sourceSheet": "Dress-Up",
@@ -3041,7 +3722,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -3170,7 +3852,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -3299,7 +3982,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -3485,7 +4169,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -3671,7 +4356,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -3862,7 +4548,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -3991,7 +4678,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -4120,7 +4808,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -4404,7 +5093,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -4536,7 +5226,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -4692,7 +5383,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -4992,7 +5684,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -5118,7 +5811,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -5309,7 +6003,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -5555,7 +6250,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -5801,7 +6497,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -5965,7 +6662,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -6125,7 +6823,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -6289,7 +6988,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -6480,7 +7180,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -6578,7 +7279,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -6742,7 +7444,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -6874,7 +7577,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -6972,7 +7676,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -7136,7 +7841,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -7389,7 +8095,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -7518,7 +8225,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -7647,7 +8355,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -7875,7 +8584,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -8031,7 +8741,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -8163,7 +8874,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -8292,7 +9004,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -8418,7 +9131,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -8574,7 +9288,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -8858,7 +9573,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -9022,7 +9738,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -9208,7 +9925,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -9310,7 +10028,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -9439,7 +10158,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -9568,7 +10288,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -9759,7 +10480,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -9950,7 +10672,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -10079,7 +10802,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -10208,7 +10932,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -10500,7 +11225,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -10660,7 +11386,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -10820,7 +11547,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -11066,7 +11794,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -11340,7 +12069,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -11504,7 +12234,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -11700,7 +12431,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -11896,7 +12628,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -12180,7 +12913,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -12464,7 +13198,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -12624,7 +13359,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -12820,7 +13556,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -13021,7 +13758,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -13243,7 +13981,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -13503,7 +14242,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -13763,7 +14503,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -13949,7 +14690,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -14109,7 +14851,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -14300,7 +15043,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -14522,7 +15266,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -14620,7 +15365,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -14811,7 +15557,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -15119,7 +15866,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -15217,7 +15965,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -15403,7 +16152,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -15563,7 +16313,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -15727,7 +16478,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -15856,7 +16608,8 @@
           "goth"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -15985,7 +16738,8 @@
           "goth"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -16269,7 +17023,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -16437,7 +17192,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -16535,7 +17291,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -16664,7 +17421,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -16793,7 +17551,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -16891,7 +17650,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -17175,7 +17935,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -17275,7 +18036,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -17567,7 +18329,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -17739,7 +18502,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -17868,7 +18632,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -18152,7 +18917,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -18250,7 +19016,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -18534,7 +19301,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -18666,7 +19434,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -18795,7 +19564,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -18893,7 +19663,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -19121,7 +19892,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -19253,7 +20025,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -19385,7 +20158,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -19514,7 +20288,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -19674,7 +20449,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -19865,7 +20641,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -20025,7 +20802,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -20154,7 +20932,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -20345,7 +21124,8 @@
           "outdoorsy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -20477,7 +21257,8 @@
           "goth"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -20645,7 +21426,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -20805,7 +21587,8 @@
           "goth"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -21089,7 +21872,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -21389,7 +22173,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -21489,7 +22274,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -21675,7 +22461,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -21903,7 +22690,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -22125,7 +22913,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -22221,7 +23010,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -22350,7 +23140,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -22514,7 +23305,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -22643,7 +23435,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -22834,7 +23627,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -23126,7 +23920,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -23426,7 +24221,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -23718,7 +24514,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -23844,7 +24641,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -23973,7 +24771,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -24129,7 +24928,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -24315,7 +25115,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -24537,7 +25338,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -24733,7 +25535,8 @@
           "sporty"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -24862,7 +25665,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -25048,7 +25852,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -25177,7 +25982,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -25368,7 +26174,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -25464,7 +26271,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -25593,7 +26401,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -25722,7 +26531,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -25944,7 +26754,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -26130,7 +26941,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -26294,7 +27106,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -26423,7 +27236,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -26587,7 +27401,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -26719,7 +27534,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -27011,7 +27827,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -27107,9 +27924,8 @@
           "Able Sisters"
         ],
         "themes": [
-          "fairy tale",
-          "formal",
-          "party"
+          "sporty",
+          "work"
         ]
       },
       {
@@ -27172,7 +27988,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -27432,7 +28249,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -27666,7 +28484,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -27852,7 +28671,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -28068,7 +28888,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -28254,7 +29075,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -28389,7 +29211,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -28673,7 +29496,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -28738,8 +29562,8 @@
           "Able Sisters"
         ],
         "themes": [
-          "sporty",
-          "work"
+          "party",
+          "theatrical"
         ]
       },
       {
@@ -28802,7 +29626,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -28931,7 +29756,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -29095,7 +29921,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -29255,7 +30082,8 @@
           "formal"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -29451,7 +30279,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -29611,7 +30440,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -29775,7 +30605,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -30009,7 +30840,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -30138,7 +30970,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -30329,7 +31162,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -30461,7 +31295,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -30745,7 +31580,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -30936,7 +31772,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -31122,7 +31959,8 @@
           "everyday"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -31282,7 +32120,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -31542,7 +32381,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -31764,7 +32604,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -32010,7 +32851,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -32201,7 +33043,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -32299,7 +33142,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -32490,7 +33334,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -32774,7 +33619,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -32938,7 +33784,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -33098,7 +33945,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -33289,7 +34137,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -33485,7 +34334,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -33649,7 +34499,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -33781,7 +34632,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -33941,7 +34793,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -34137,7 +34990,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -34266,7 +35120,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -34366,7 +35221,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -34557,7 +35413,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -34779,7 +35636,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -35001,7 +35859,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -35197,7 +36056,8 @@
           "comfy"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -35293,7 +36153,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -35391,7 +36252,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -35582,7 +36444,8 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -35711,7 +36574,8 @@
           "fairy tale"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -35939,7 +36803,8 @@
           "theatrical"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -36037,7 +36902,8 @@
           "party"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -36265,7 +37131,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -36394,7 +37261,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -36686,7 +37554,8 @@
           "work"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
@@ -36902,6 +37771,7 @@
           "vacation"
         ]
       }
-    ]
+    ],
+    "recipe": null
   }
 ]

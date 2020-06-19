@@ -64,7 +64,53 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "blue rose wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5772,
+      "cardColor": "green",
+      "serialId": 3555,
+      "internalId": 447,
+      "uniqueEntryId": "XbGbAr5htMNb6h4mr",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05772",
+        "version": "1.0.0",
+        "english": "blue rose wreath",
+        "englishEurope": "blue rose wreath",
+        "german": "Blaurosentürkranz",
+        "spanish": "corona rosa azul",
+        "spanishUs": "corona rosas azules",
+        "french": "couronne roses bleues",
+        "frenchUs": "couronne roses bleues",
+        "italian": "ghirlanda rose blu",
+        "dutch": "blauwe-rozenkrans",
+        "chinese": "蓝色玫瑰花环",
+        "chineseTraditional": "藍色玫瑰花圈",
+        "japanese": "あおいバラのリース",
+        "korean": "파란 장미 리스",
+        "russian": "венок с синими розами",
+        "plural": false,
+        "internalIds": [
+          5772
+        ]
+      },
+      "materials": {
+        "blue roses": 10
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -132,7 +178,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -200,7 +247,8 @@
     "series": null,
     "sources": [
       "HHA"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -268,7 +316,8 @@
     "series": null,
     "sources": [
       "International Museum Day"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -336,7 +385,59 @@
     "series": "Bunny Day",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Bunny Day glowy garland",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 12417,
+      "cardColor": "yellow",
+      "serialId": 3731,
+      "internalId": 700,
+      "uniqueEntryId": "o4dxxDMeguMH8zQzx",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_12417",
+        "version": "1.1.0",
+        "english": "Bunny Day glowy garland",
+        "englishEurope": "Bunny Day glowy garland",
+        "german": "Häschentag-Girlande",
+        "spanish": "guirnalda luz Caza Huevo",
+        "spanishUs": "guirnalda luz Caza Huevo",
+        "french": "guirlande fête des œufs",
+        "frenchUs": "guirlande fête des œufs",
+        "italian": "festone caccia all'uovo",
+        "dutch": "eierlichtjesslinger",
+        "chinese": "复活节灯串",
+        "chineseTraditional": "復活節燈串",
+        "japanese": "イースターなライトガーランド",
+        "korean": "이스터 라이트 가랜드",
+        "russian": "гирлянда на День зайцев",
+        "plural": false,
+        "internalIds": [
+          12417
+        ]
+      },
+      "materials": {
+        "earth egg": 1,
+        "stone egg": 1,
+        "leaf egg": 1,
+        "wood egg": 1,
+        "sky egg": 1,
+        "water egg": 1
+      },
+      "sources": [
+        "Egg bottle",
+        "Egg balloon"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -403,7 +504,54 @@
     "series": "Bunny Day",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Bunny Day wall clock",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 12418,
+      "cardColor": "yellow",
+      "serialId": 3730,
+      "internalId": 701,
+      "uniqueEntryId": "CYdX8kEStsmMXX96v",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_12418",
+        "version": "1.1.0",
+        "english": "Bunny Day wall clock",
+        "englishEurope": "Bunny Day wall clock",
+        "german": "Häschentag-Wanduhr",
+        "spanish": "reloj pared Caza del Huevo",
+        "spanishUs": "reloj pared Caza del Huevo",
+        "french": "horloge mur. fête des œufs",
+        "frenchUs": "horloge mur. fête des œufs",
+        "italian": "orologio caccia all'uovo",
+        "dutch": "eierhangklok",
+        "chinese": "复活节壁钟",
+        "chineseTraditional": "復活節壁鐘",
+        "japanese": "イースターなウォールクロック",
+        "korean": "이스터 벽시계",
+        "russian": "часы «День зайцев»",
+        "plural": false,
+        "internalIds": [
+          12418
+        ]
+      },
+      "materials": {
+        "sky egg": 3
+      },
+      "sources": [
+        "Egg bottle",
+        "Egg balloon"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -468,7 +616,59 @@
     "series": "Bunny Day",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Bunny Day wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 12517,
+      "cardColor": "yellow",
+      "serialId": 3740,
+      "internalId": 707,
+      "uniqueEntryId": "296Ws5ikbL8hMv3ZC",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_12517",
+        "version": "1.1.0",
+        "english": "Bunny Day wreath",
+        "englishEurope": "Bunny Day wreath",
+        "german": "Häschentag-Türkranz",
+        "spanish": "corona Caza del Huevo",
+        "spanishUs": "corona Caza del Huevo",
+        "french": "couronne fête des œufs",
+        "frenchUs": "couronne fête des œufs",
+        "italian": "ghirlanda caccia all'uovo",
+        "dutch": "eierkrans",
+        "chinese": "复活节花环",
+        "chineseTraditional": "復活節花圈",
+        "japanese": "イースターなリース",
+        "korean": "이스터 리스",
+        "russian": "венок на День зайцев",
+        "plural": false,
+        "internalIds": [
+          12517
+        ]
+      },
+      "materials": {
+        "earth egg": 1,
+        "stone egg": 1,
+        "leaf egg": 1,
+        "wood egg": 1,
+        "sky egg": 1,
+        "water egg": 1
+      },
+      "sources": [
+        "Egg bottle",
+        "Egg balloon"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -536,7 +736,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -603,7 +804,53 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "chic cosmos wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5764,
+      "cardColor": "green",
+      "serialId": 3548,
+      "internalId": 444,
+      "uniqueEntryId": "XgThrnxG75cqkssWt",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05764",
+        "version": "1.0.0",
+        "english": "chic cosmos wreath",
+        "englishEurope": "chic cosmos wreath",
+        "german": "Edelcosmeentürkranz",
+        "spanish": "corona cosmos negro",
+        "spanishUs": "corona cosmos chic",
+        "french": "couronne cosmos chic",
+        "frenchUs": "couronne cosmos chic",
+        "italian": "ghirlanda cosmee chic",
+        "dutch": "chique cosmeakrans",
+        "chinese": "典雅波斯菊花环",
+        "chineseTraditional": "典雅波斯菊花圈",
+        "japanese": "シックなコスモスのリース",
+        "korean": "시크 코스모스 리스",
+        "russian": "диво-венок с космеями",
+        "plural": false,
+        "internalIds": [
+          5764
+        ]
+      },
+      "materials": {
+        "black cosmos": 10
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -670,7 +917,53 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "chic windflower wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5765,
+      "cardColor": "green",
+      "serialId": 3542,
+      "internalId": 440,
+      "uniqueEntryId": "2W5Pa9MKWHhknBENu",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05765",
+        "version": "1.0.0",
+        "english": "chic windflower wreath",
+        "englishEurope": "chic windflower wreath",
+        "german": "Edelanemonentürkranz",
+        "spanish": "corona anémona violeta",
+        "spanishUs": "corona anémonas chic",
+        "french": "couronne anémones chic",
+        "frenchUs": "couronne anémones chic",
+        "italian": "ghirlanda anemoni chic",
+        "dutch": "chique anemonenkrans",
+        "chinese": "典雅银莲花花环",
+        "chineseTraditional": "典雅銀蓮花花圈",
+        "japanese": "シックなアネモネのリース",
+        "korean": "시크 아네모네 리스",
+        "russian": "диво-венок с ветреницами",
+        "plural": false,
+        "internalIds": [
+          5765
+        ]
+      },
+      "materials": {
+        "purple windflowers": 10
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -738,7 +1031,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "coconut wall planter",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4130,
+      "cardColor": "green",
+      "serialId": 1830,
+      "internalId": 405,
+      "uniqueEntryId": "tw8LKPHQrkMZwgAua",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04130",
+        "version": "1.0.0",
+        "english": "coconut wall planter",
+        "englishEurope": "coconut wall planter",
+        "german": "Kokosnuss-Wandkübel",
+        "spanish": "macetero de coco colgante",
+        "spanishUs": "macetero de coco colgante",
+        "french": "pot mural noix de coco",
+        "frenchUs": "pot mural noix de coco",
+        "italian": "vaso pendente di cocco",
+        "dutch": "kokosnoot-plantenhanger",
+        "chinese": "椰子壁挂盆栽",
+        "chineseTraditional": "椰子壁掛盆栽",
+        "japanese": "ヤシのウォールプランター",
+        "korean": "야자 벽걸이 화분",
+        "russian": "настенное кашпо-кокос",
+        "plural": false,
+        "internalIds": [
+          4130
+        ]
+      },
+      "materials": {
+        "coconut": 1,
+        "clump of weeds": 5
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -805,7 +1145,55 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cool hyacinth wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5750,
+      "cardColor": "green",
+      "serialId": 3561,
+      "internalId": 453,
+      "uniqueEntryId": "HaC5frhoXCDpy5YYj",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05750",
+        "version": "1.0.0",
+        "english": "cool hyacinth wreath",
+        "englishEurope": "cool hyacinth wreath",
+        "german": "Bunthyazinthentürkranz",
+        "spanish": "corona jacinto refinada",
+        "spanishUs": "corona jacintos atrevida",
+        "french": "couronne jacinthe raffinée",
+        "frenchUs": "couronne jacinthes fraiche",
+        "italian": "ghirlanda giacinti spavalda",
+        "dutch": "toffe hyacintenkrans",
+        "chinese": "清新风信子花环",
+        "chineseTraditional": "清新風信子花圈",
+        "japanese": "クールなヒヤシンスのリース",
+        "korean": "쿨 히아신스 리스",
+        "russian": "ярк. венок с гиацинтами",
+        "plural": false,
+        "internalIds": [
+          5750
+        ]
+      },
+      "materials": {
+        "orange hyacinths": 3,
+        "blue hyacinths": 3,
+        "pink hyacinths": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -872,7 +1260,53 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cool pansy wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5767,
+      "cardColor": "green",
+      "serialId": 3559,
+      "internalId": 450,
+      "uniqueEntryId": "RxiJe64ebSZy3dsHg",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05767",
+        "version": "1.0.0",
+        "english": "cool pansy wreath",
+        "englishEurope": "cool pansy wreath",
+        "german": "Buntveilchentürkranz",
+        "spanish": "corona viola violeta",
+        "spanishUs": "corona violas atrevida",
+        "french": "couronne pensée raffinée",
+        "frenchUs": "couronne pensées fraiche",
+        "italian": "ghirlanda viole spavalda",
+        "dutch": "toffe viooltjeskrans",
+        "chinese": "清新三色堇花环",
+        "chineseTraditional": "清新三色堇花圈",
+        "japanese": "クールなパンジーのリース",
+        "korean": "쿨 팬지 리스",
+        "russian": "яркий венок с фиалками",
+        "plural": false,
+        "internalIds": [
+          5767
+        ]
+      },
+      "materials": {
+        "purple pansies": 10
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -939,7 +1373,55 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cool windflower wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5746,
+      "cardColor": "green",
+      "serialId": 3541,
+      "internalId": 441,
+      "uniqueEntryId": "Aer6cEdrENAWFD4TP",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05746",
+        "version": "1.0.0",
+        "english": "cool windflower wreath",
+        "englishEurope": "cool windflower wreath",
+        "german": "Buntanemonentürkranz",
+        "spanish": "corona anémona refinada",
+        "spanishUs": "corona anémonas atrevida",
+        "french": "couronne anémone raffinée",
+        "frenchUs": "couronne anémones fraiche",
+        "italian": "ghirlanda anemoni spavalda",
+        "dutch": "toffe anemonenkrans",
+        "chinese": "清新银莲花花环",
+        "chineseTraditional": "清新銀蓮花花圈",
+        "japanese": "クールなアネモネのリース",
+        "korean": "쿨 아네모네 리스",
+        "russian": "ярк. венок с ветреницами",
+        "plural": false,
+        "internalIds": [
+          5746
+        ]
+      },
+      "materials": {
+        "blue windflowers": 3,
+        "pink windflowers": 3,
+        "white windflowers": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1006,7 +1488,56 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cosmos wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is cosmos",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4293,
+      "cardColor": "green",
+      "serialId": 3546,
+      "internalId": 227,
+      "uniqueEntryId": "KwujCjwLcpr42PGb3",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_04293",
+        "version": "1.0.0",
+        "english": "cosmos wreath",
+        "englishEurope": "cosmos wreath",
+        "german": "Cosmeentürkranz",
+        "spanish": "corona cosmos",
+        "spanishUs": "corona cosmos",
+        "french": "couronne cosmos",
+        "frenchUs": "couronne cosmos",
+        "italian": "ghirlanda cosmee",
+        "dutch": "cosmeakrans",
+        "chinese": "波斯菊花环",
+        "chineseTraditional": "波斯菊花圈",
+        "japanese": "コスモスのリース",
+        "korean": "코스모스 리스",
+        "russian": "венок с космеями",
+        "plural": false,
+        "internalIds": [
+          4293
+        ]
+      },
+      "materials": {
+        "yellow cosmos": 3,
+        "white cosmos": 3,
+        "red cosmos": 3
+      },
+      "sources": [
+        "All Villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1074,7 +1605,53 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "dark lily wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5770,
+      "cardColor": "green",
+      "serialId": 3565,
+      "internalId": 454,
+      "uniqueEntryId": "ExWh3urifQgJTCCH3",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05770",
+        "version": "1.0.0",
+        "english": "dark lily wreath",
+        "englishEurope": "dark lily wreath",
+        "german": "Dunkellilientürkranz",
+        "spanish": "corona lirio negro",
+        "spanishUs": "corona lirios gótica",
+        "french": "couronne lys sombre",
+        "frenchUs": "couronne lys sombre",
+        "italian": "ghirlanda viole cupa",
+        "dutch": "donkere-leliekrans",
+        "chinese": "深色百合花环",
+        "chineseTraditional": "深色百合花圈",
+        "japanese": "ダークなユリのリース",
+        "korean": "다크 백합 리스",
+        "russian": "темный венок с лилиями",
+        "plural": false,
+        "internalIds": [
+          5770
+        ]
+      },
+      "materials": {
+        "black lilies": 10
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1142,7 +1719,54 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "dark rose wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5766,
+      "cardColor": "green",
+      "serialId": 3554,
+      "internalId": 446,
+      "uniqueEntryId": "utyr7MwFDwd8syFcW",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05766",
+        "version": "1.0.0",
+        "english": "dark rose wreath",
+        "englishEurope": "dark rose wreath",
+        "german": "Dunkelrosentürkranz",
+        "spanish": "corona rosa oscura",
+        "spanishUs": "corona rosas oscuras",
+        "french": "couronne roses sombre",
+        "frenchUs": "couronne roses sombre",
+        "italian": "ghirlanda rose cupa",
+        "dutch": "donkere-rozenkrans",
+        "chinese": "深色玫瑰花环",
+        "chineseTraditional": "深色玫瑰花圈",
+        "japanese": "ダークなバラのリース",
+        "korean": "다크 장미 리스",
+        "russian": "венок с темными розами",
+        "plural": false,
+        "internalIds": [
+          5766
+        ]
+      },
+      "materials": {
+        "black roses": 3,
+        "purple roses": 6
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1210,7 +1834,53 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "dark tulip wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5771,
+      "cardColor": "green",
+      "serialId": 3551,
+      "internalId": 362,
+      "uniqueEntryId": "oCnpF6D3PyAJ5kGz8",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05771",
+        "version": "1.0.0",
+        "english": "dark tulip wreath",
+        "englishEurope": "dark tulip wreath",
+        "german": "Römertulpentürkranz",
+        "spanish": "corona tulipán negro",
+        "spanishUs": "corona tulipanes gótica",
+        "french": "couronne tulipes sombre",
+        "frenchUs": "couronne tulipes sombre",
+        "italian": "ghirlanda tulipani cupa",
+        "dutch": "donkere-tulpenkrans",
+        "chinese": "深色郁金香花环",
+        "chineseTraditional": "深色鬱金香花圈",
+        "japanese": "ダークなチューリップのリース",
+        "korean": "다크 튤립 리스",
+        "russian": "темн. венок с тюльпанами",
+        "plural": false,
+        "internalIds": [
+          5771
+        ]
+      },
+      "materials": {
+        "black tulips": 10
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1277,7 +1947,55 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "fancy lily wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5677,
+      "cardColor": "green",
+      "serialId": 3564,
+      "internalId": 455,
+      "uniqueEntryId": "yj4Z2oGDi6Thvm89d",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05677",
+        "version": "1.0.0",
+        "english": "fancy lily wreath",
+        "englishEurope": "fancy lily wreath",
+        "german": "Prachtlilientürkranz",
+        "spanish": "corona lirio pomposa",
+        "spanishUs": "corona lirios lujosa",
+        "french": "couronne lys élégante",
+        "frenchUs": "couronne lys élégante",
+        "italian": "ghirlanda gigli sbarazzina",
+        "dutch": "luxe leliekrans",
+        "chinese": "精美百合花环",
+        "chineseTraditional": "精美百合花圈",
+        "japanese": "ファンシーなユリのリース",
+        "korean": "팬시 백합 리스",
+        "russian": "шикарн. венок с лилиями",
+        "plural": false,
+        "internalIds": [
+          5677
+        ]
+      },
+      "materials": {
+        "orange lilies": 3,
+        "pink lilies": 3,
+        "yellow lilies": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1344,7 +2062,55 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "fancy mum wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5749,
+      "cardColor": "green",
+      "serialId": 3544,
+      "internalId": 443,
+      "uniqueEntryId": "qW3wgimoN7XhG5BvD",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05749",
+        "version": "1.0.0",
+        "english": "fancy mum wreath",
+        "englishEurope": "fancy mum wreath",
+        "german": "Edelchrysanth.-Türkranz",
+        "spanish": "corona crisantemo pomposa",
+        "spanishUs": "corona crisantemos lujosa",
+        "french": "couronne chrys. élégante",
+        "frenchUs": "couronne chrys. élégante",
+        "italian": "ghirl. crisantemi sbarazzina",
+        "dutch": "luxe chrysantenkrans",
+        "chinese": "精美菊花花环",
+        "chineseTraditional": "精美菊花花圈",
+        "japanese": "ファンシーなキクのリース",
+        "korean": "팬시 국화 리스",
+        "russian": "шик. венок с хризантемами",
+        "plural": false,
+        "internalIds": [
+          5749
+        ]
+      },
+      "materials": {
+        "pink mums": 3,
+        "purple mums": 3,
+        "red mums": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1411,7 +2177,55 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "fancy rose wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5747,
+      "cardColor": "green",
+      "serialId": 3553,
+      "internalId": 448,
+      "uniqueEntryId": "vr9dDrXLQuDSwfDdy",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05747",
+        "version": "1.0.0",
+        "english": "fancy rose wreath",
+        "englishEurope": "fancy rose wreath",
+        "german": "Prachtrosentürkranz",
+        "spanish": "corona rosa pomposa",
+        "spanishUs": "corona rosas lujosa",
+        "french": "couronne rose élégante",
+        "frenchUs": "couronne roses élégante",
+        "italian": "ghirlanda rose sbarazzina",
+        "dutch": "luxe rozenkrans",
+        "chinese": "精美玫瑰花环",
+        "chineseTraditional": "精美玫瑰花圈",
+        "japanese": "ファンシーなバラのリース",
+        "korean": "팬시 장미 리스",
+        "russian": "шикарный венок с розами",
+        "plural": false,
+        "internalIds": [
+          5747
+        ]
+      },
+      "materials": {
+        "orange roses": 3,
+        "pink roses": 3,
+        "yellow roses": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1479,7 +2293,8 @@
     "series": null,
     "sources": [
       "International Museum Day"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1547,7 +2362,8 @@
     "series": null,
     "sources": [
       "International Museum Day"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1614,7 +2430,57 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "fruit wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4378,
+      "cardColor": "white",
+      "serialId": 1940,
+      "internalId": 223,
+      "uniqueEntryId": "FPCNEvg2aBDZZkjxu",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_04378",
+        "version": "1.0.0",
+        "english": "fruit wreath",
+        "englishEurope": "fruit wreath",
+        "german": "Früchtetürkranz",
+        "spanish": "corona frutal",
+        "spanishUs": "corona frutal",
+        "french": "couronne fruits",
+        "frenchUs": "couronne fruits",
+        "italian": "ghirlanda frutta",
+        "dutch": "fruitkrans",
+        "chinese": "水果花环",
+        "chineseTraditional": "水果花圈",
+        "japanese": "フルーツのリース",
+        "korean": "과일 리스",
+        "russian": "венок с фруктами",
+        "plural": false,
+        "internalIds": [
+          4378
+        ]
+      },
+      "materials": {
+        "apple": 2,
+        "pear": 1,
+        "cherry": 3,
+        "orange": 3,
+        "peach": 1
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1682,7 +2548,8 @@
     "series": null,
     "sources": [
       "HHA"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1749,7 +2616,53 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "gold rose wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5820,
+      "cardColor": "green",
+      "serialId": 3556,
+      "internalId": 449,
+      "uniqueEntryId": "fYHqu9bGpt2ivTWRt",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05820",
+        "version": "1.0.0",
+        "english": "gold rose wreath",
+        "englishEurope": "gold rose wreath",
+        "german": "Goldrosentürkranz",
+        "spanish": "corona rosa dorada",
+        "spanishUs": "corona rosas doradas",
+        "french": "couronne roses dorées",
+        "frenchUs": "couronne roses dorées",
+        "italian": "ghirlanda rose d'oro",
+        "dutch": "gouden rozenkrans",
+        "chinese": "金色玫瑰花环",
+        "chineseTraditional": "金色玫瑰花圈",
+        "japanese": "きんのバラのリース",
+        "korean": "금장미 리스",
+        "russian": "венок с золотыми розами",
+        "plural": false,
+        "internalIds": [
+          5820
+        ]
+      },
+      "materials": {
+        "gold roses": 10
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1816,7 +2729,54 @@
     "series": "golden",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden gears",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 11261,
+      "cardColor": "gold",
+      "serialId": 1130,
+      "internalId": 595,
+      "uniqueEntryId": "5JDaCQoYazbP4QkGN",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_11261",
+        "version": "1.0.0",
+        "english": "golden gears",
+        "englishEurope": "golden gears",
+        "german": "Gold-Getriebe",
+        "spanish": "engranaje de oro",
+        "spanishUs": "engranaje de oro",
+        "french": "engrenage en or",
+        "frenchUs": "engrenage en or",
+        "italian": "ingranaggio dorato",
+        "dutch": "gouden tandwielen",
+        "chinese": "黄金齿轮",
+        "chineseTraditional": "黃金齒輪",
+        "japanese": "おうごんのはぐるま",
+        "korean": "황금 톱니바퀴",
+        "russian": "золотые шестеренки",
+        "plural": false,
+        "internalIds": [
+          11261
+        ]
+      },
+      "materials": {
+        "gold nugget": 1,
+        "iron nugget": 3
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1883,7 +2843,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -1951,7 +2912,8 @@
     "series": null,
     "sources": [
       "HHA"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2018,7 +2980,56 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "hyacinth wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is hyacinths",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5468,
+      "cardColor": "green",
+      "serialId": 3560,
+      "internalId": 232,
+      "uniqueEntryId": "ysyo8kjy4NBvj929M",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05468",
+        "version": "1.0.0",
+        "english": "hyacinth wreath",
+        "englishEurope": "hyacinth wreath",
+        "german": "Hyazinthentürkranz",
+        "spanish": "corona jacinto",
+        "spanishUs": "corona jacintos",
+        "french": "couronne jacinthes",
+        "frenchUs": "couronne jacinthes",
+        "italian": "ghirlanda giacinti",
+        "dutch": "hyacintenkrans",
+        "chinese": "风信子花环",
+        "chineseTraditional": "風信子花圈",
+        "japanese": "ヒヤシンスのリース",
+        "korean": "히아신스 리스",
+        "russian": "венок с гиацинтами",
+        "plural": false,
+        "internalIds": [
+          5468
+        ]
+      },
+      "materials": {
+        "white hyacinths": 3,
+        "red hyacinths": 3,
+        "yellow hyacinths": 3
+      },
+      "sources": [
+        "All Villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2086,7 +3097,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2153,7 +3165,56 @@
     "series": "stars",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Leo sculpture",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5964,
+      "cardColor": "silver",
+      "serialId": 2304,
+      "internalId": 407,
+      "uniqueEntryId": "5QHREHAwKLPzLmmDi",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05964",
+        "version": "1.0.0",
+        "english": "Leo sculpture",
+        "englishEurope": "Leo sculpture",
+        "german": "Löwe-Wandschmuck",
+        "spanish": "escultura Leo",
+        "spanishUs": "escultura Leo",
+        "french": "sculpture Lion",
+        "frenchUs": "sculpture Lion",
+        "italian": "scultura Leone",
+        "dutch": "Leeuw-beeld",
+        "chinese": "狮子座雕塑",
+        "chineseTraditional": "獅子座雕塑",
+        "japanese": "レオのちょうこく",
+        "korean": "사자자리 벽걸이 장식",
+        "russian": "барельеф Льва",
+        "plural": false,
+        "internalIds": [
+          5964
+        ]
+      },
+      "materials": {
+        "star fragment": 3,
+        "Leo fragment": 2,
+        "gold nugget": 2,
+        "stone": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2220,7 +3281,56 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "lily wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is lilies",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5641,
+      "cardColor": "green",
+      "serialId": 3563,
+      "internalId": 438,
+      "uniqueEntryId": "T79DghfmPpWspJ9Eq",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05641",
+        "version": "1.0.0",
+        "english": "lily wreath",
+        "englishEurope": "lily wreath",
+        "german": "Lilientürkranz",
+        "spanish": "corona lirio",
+        "spanishUs": "corona lirios",
+        "french": "couronne lys",
+        "frenchUs": "couronne lys",
+        "italian": "ghirlanda gigli",
+        "dutch": "leliekrans",
+        "chinese": "百合花环",
+        "chineseTraditional": "百合花圈",
+        "japanese": "ユリのリース",
+        "korean": "백합 리스",
+        "russian": "венок с лилиями",
+        "plural": false,
+        "internalIds": [
+          5641
+        ]
+      },
+      "materials": {
+        "white lilies": 3,
+        "red lilies": 3,
+        "yellow lilies": 3
+      },
+      "sources": [
+        "All Villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2287,7 +3397,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2355,7 +3466,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2423,7 +3535,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2490,7 +3603,56 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "mum wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is mums",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5467,
+      "cardColor": "green",
+      "serialId": 3543,
+      "internalId": 231,
+      "uniqueEntryId": "LS93qbKCcMQLExqMG",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05467",
+        "version": "1.0.0",
+        "english": "mum wreath",
+        "englishEurope": "mum wreath",
+        "german": "Chrysanthementürkranz",
+        "spanish": "corona crisantemo",
+        "spanishUs": "corona crisantemos",
+        "french": "couronne chrysanthèmes",
+        "frenchUs": "couronne chrysanthèmes",
+        "italian": "ghirlanda crisantemi",
+        "dutch": "chrysantenkrans",
+        "chinese": "菊花花环",
+        "chineseTraditional": "菊花花圈",
+        "japanese": "キクのリース",
+        "korean": "국화 리스",
+        "russian": "венок с хризантемами",
+        "plural": false,
+        "internalIds": [
+          5467
+        ]
+      },
+      "materials": {
+        "white mums": 3,
+        "yellow mums": 3,
+        "red mums": 3
+      },
+      "sources": [
+        "All Villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2557,7 +3719,56 @@
     "series": "mush",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "mushroom wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Mushroom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4726,
+      "cardColor": "orange",
+      "serialId": 3040,
+      "internalId": 221,
+      "uniqueEntryId": "5XfaKLorByDHGp9pi",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_04726",
+        "version": "1.0.0",
+        "english": "mushroom wreath",
+        "englishEurope": "mushroom wreath",
+        "german": "Pilztürkranz",
+        "spanish": "corona setas",
+        "spanishUs": "corona hongos",
+        "french": "couronne champignons",
+        "frenchUs": "couronne champignons",
+        "italian": "ghirlanda tema fungo",
+        "dutch": "paddenstoelenkrans",
+        "chinese": "蘑菇花环",
+        "chineseTraditional": "蘑菇花圈",
+        "japanese": "キノコのリース",
+        "korean": "버섯 리스",
+        "russian": "венок с грибами",
+        "plural": false,
+        "internalIds": [
+          4726
+        ]
+      },
+      "materials": {
+        "tree branch": 10,
+        "round mushroom": 1,
+        "skinny mushroom": 1,
+        "flat mushroom": 1
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2624,7 +3835,53 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "natural mum wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5768,
+      "cardColor": "green",
+      "serialId": 3545,
+      "internalId": 442,
+      "uniqueEntryId": "p7kG7qim9jPGSwxtz",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05768",
+        "version": "1.0.0",
+        "english": "natural mum wreath",
+        "englishEurope": "natural mum wreath",
+        "german": "Grünchrysanth.-Türkranz",
+        "spanish": "corona crisantemo verde",
+        "spanishUs": "corona crisantemos verdes",
+        "french": "cour. chrysanthèmes nature",
+        "frenchUs": "cour. chrysanthèmes nature",
+        "italian": "ghirl. crisantemi naturale",
+        "dutch": "natuurlijke chrysantenkrans",
+        "chinese": "自然风菊花花环",
+        "chineseTraditional": "自然風菊花花圈",
+        "japanese": "ナチュラルなキクのリース",
+        "korean": "내추럴 국화 리스",
+        "russian": "зел. венок с хризантемами",
+        "plural": false,
+        "internalIds": [
+          5768
+        ]
+      },
+      "materials": {
+        "green mums": 10
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2691,7 +3948,56 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pansy wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is pansies",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5466,
+      "cardColor": "green",
+      "serialId": 3557,
+      "internalId": 230,
+      "uniqueEntryId": "qPZnLEKoAZbQxXQiG",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05466",
+        "version": "1.0.0",
+        "english": "pansy wreath",
+        "englishEurope": "pansy wreath",
+        "german": "Veilchentürkranz",
+        "spanish": "corona viola",
+        "spanishUs": "corona violas",
+        "french": "couronne pensées",
+        "frenchUs": "couronne pensées",
+        "italian": "ghirlanda viole",
+        "dutch": "viooltjeskrans",
+        "chinese": "三色堇花环",
+        "chineseTraditional": "三色堇花圈",
+        "japanese": "パンジーのリース",
+        "korean": "팬지 리스",
+        "russian": "венок с фиалками",
+        "plural": false,
+        "internalIds": [
+          5466
+        ]
+      },
+      "materials": {
+        "yellow pansies": 3,
+        "white pansies": 3,
+        "red pansies": 3
+      },
+      "sources": [
+        "All Villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2758,7 +4064,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2825,7 +4132,55 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pretty cosmos wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5745,
+      "cardColor": "green",
+      "serialId": 3547,
+      "internalId": 445,
+      "uniqueEntryId": "sSXrhgXnaQfP53KFk",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05745",
+        "version": "1.0.0",
+        "english": "pretty cosmos wreath",
+        "englishEurope": "pretty cosmos wreath",
+        "german": "Buntcosmeentürkranz",
+        "spanish": "corona cosmos adorable",
+        "spanishUs": "corona cosmos adorable",
+        "french": "jolie couronne cosmos",
+        "frenchUs": "jolie couronne cosmos",
+        "italian": "ghirlanda cosmee carina",
+        "dutch": "fraaie cosmeakrans",
+        "chinese": "可爱波斯菊花环",
+        "chineseTraditional": "可愛波斯菊花圈",
+        "japanese": "キュートなコスモスのリース",
+        "korean": "큐트 코스모스 리스",
+        "russian": "дивный венок с космеями",
+        "plural": false,
+        "internalIds": [
+          5745
+        ]
+      },
+      "materials": {
+        "orange cosmos": 3,
+        "pink cosmos": 3,
+        "red cosmos": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2892,7 +4247,55 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pretty tulip wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5751,
+      "cardColor": "green",
+      "serialId": 3550,
+      "internalId": 361,
+      "uniqueEntryId": "z4k9YXZrLp9x6TXXF",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05751",
+        "version": "1.0.0",
+        "english": "pretty tulip wreath",
+        "englishEurope": "pretty tulip wreath",
+        "german": "Bunttulpentürkranz",
+        "spanish": "corona tulipán adorable",
+        "spanishUs": "corona tulipanes adorable",
+        "french": "jolie couronne tulipe",
+        "frenchUs": "jolie couronne tulipes",
+        "italian": "ghirlanda tulipani carina",
+        "dutch": "fraaie tulpenkrans",
+        "chinese": "可爱郁金香花环",
+        "chineseTraditional": "可愛鬱金香花圈",
+        "japanese": "キュートなチューリップのリース",
+        "korean": "큐트 튤립 리스",
+        "russian": "дивн. венок с тюльпанами",
+        "plural": false,
+        "internalIds": [
+          5751
+        ]
+      },
+      "materials": {
+        "orange tulips": 3,
+        "pink tulips": 3,
+        "purple tulips": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -2959,7 +4362,53 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "purple hyacinth wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 200,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5769,
+      "cardColor": "green",
+      "serialId": 3562,
+      "internalId": 452,
+      "uniqueEntryId": "QXWyxbAncQeicP3xY",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05769",
+        "version": "1.0.0",
+        "english": "purple hyacinth wreath",
+        "englishEurope": "purple hyacinth wreath",
+        "german": "Purpurhyazinthentürkranz",
+        "spanish": "corona jacinto violeta",
+        "spanishUs": "corona jacintos morados",
+        "french": "couronne jacinthes mauves",
+        "frenchUs": "couronne jacinthes mauves",
+        "italian": "ghirlanda giacinti viola",
+        "dutch": "paarse-hyacintenkrans",
+        "chinese": "紫色风信子花环",
+        "chineseTraditional": "紫色風信子花圈",
+        "japanese": "むらさきのヒヤシンスのリース",
+        "korean": "보라색 히아신스 리스",
+        "russian": "фиол. венок с гиацинтами",
+        "plural": false,
+        "internalIds": [
+          5769
+        ]
+      },
+      "materials": {
+        "purple hyacinths": 10
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3027,7 +4476,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3094,7 +4544,56 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "rose wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is roses",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5437,
+      "cardColor": "green",
+      "serialId": 3552,
+      "internalId": 229,
+      "uniqueEntryId": "Swx6c6NHk94Htn86t",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05437",
+        "version": "1.0.0",
+        "english": "rose wreath",
+        "englishEurope": "rose wreath",
+        "german": "Rosentürkranz",
+        "spanish": "corona rosa",
+        "spanishUs": "corona rosas",
+        "french": "couronne roses",
+        "frenchUs": "couronne roses",
+        "italian": "ghirlanda rose",
+        "dutch": "rozenkrans",
+        "chinese": "玫瑰花环",
+        "chineseTraditional": "玫瑰花圈",
+        "japanese": "バラのリース",
+        "korean": "장미 리스",
+        "russian": "венок с розами",
+        "plural": false,
+        "internalIds": [
+          5437
+        ]
+      },
+      "materials": {
+        "red roses": 3,
+        "white roses": 3,
+        "yellow roses": 3
+      },
+      "sources": [
+        "All Villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3161,7 +4660,55 @@
     "series": "stars",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Sagittarius arrow",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5958,
+      "cardColor": "silver",
+      "serialId": 2308,
+      "internalId": 376,
+      "uniqueEntryId": "E3TJjo97BMNgHWPAH",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05958",
+        "version": "1.0.0",
+        "english": "Sagittarius arrow",
+        "englishEurope": "Sagittarius arrow",
+        "german": "Schütze-Bogen",
+        "spanish": "arco Sagitario",
+        "spanishUs": "arco Sagitario",
+        "french": "arc Sagittaire",
+        "frenchUs": "arc Sagittaire",
+        "italian": "arco Sagittario",
+        "dutch": "Boogschutter-pijl",
+        "chinese": "射手座箭矢",
+        "chineseTraditional": "射手座箭矢",
+        "japanese": "サジタリアスのや",
+        "korean": "사수자리 활",
+        "russian": "лук Стрельца",
+        "plural": false,
+        "internalIds": [
+          5958
+        ]
+      },
+      "materials": {
+        "star fragment": 3,
+        "Sagittarius fragment": 2,
+        "gold nugget": 2
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3228,7 +4775,58 @@
     "series": "shell",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "shell wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Summer",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4376,
+      "cardColor": "white",
+      "serialId": 2840,
+      "internalId": 219,
+      "uniqueEntryId": "k7dondWtbpmYBYHaX",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_04376",
+        "version": "1.0.0",
+        "english": "shell wreath",
+        "englishEurope": "shell wreath",
+        "german": "Muscheltürkranz",
+        "spanish": "corona conchas",
+        "spanishUs": "corona caracolas",
+        "french": "couronne coquillages",
+        "frenchUs": "couronne coquillages",
+        "italian": "ghirlanda tema conchiglia",
+        "dutch": "schelpenkrans",
+        "chinese": "贝壳花环",
+        "chineseTraditional": "貝殼花圈",
+        "japanese": "かいがらのリース",
+        "korean": "조개껍데기 리스",
+        "russian": "венок с ракушками",
+        "plural": false,
+        "internalIds": [
+          4376
+        ]
+      },
+      "materials": {
+        "summer shell": 1,
+        "sea snail": 1,
+        "sand dollar": 1,
+        "coral": 1,
+        "giant clam": 1,
+        "cowrie": 1
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3296,7 +4894,8 @@
     "series": null,
     "sources": [
       "HHA"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3363,7 +4962,55 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "snazzy pansy wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5748,
+      "cardColor": "green",
+      "serialId": 3558,
+      "internalId": 451,
+      "uniqueEntryId": "vyxRpZbkGm3iZo9FG",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05748",
+        "version": "1.0.0",
+        "english": "snazzy pansy wreath",
+        "englishEurope": "snazzy pansy wreath",
+        "german": "Schickveilchentürkranz",
+        "spanish": "corona viola vistosa",
+        "spanishUs": "corona violas vistosa",
+        "french": "couronne pensée pimpante",
+        "frenchUs": "couronne pensées pimpante",
+        "italian": "ghirlanda viole sgargiante",
+        "dutch": "opvallende viooltjeskrans",
+        "chinese": "华丽三色堇花环",
+        "chineseTraditional": "繽紛三色堇花圈",
+        "japanese": "ポップなパンジーのリース",
+        "korean": "팝 팬지 리스",
+        "russian": "броск. венок с фиалками",
+        "plural": false,
+        "internalIds": [
+          5748
+        ]
+      },
+      "materials": {
+        "orange pansies": 3,
+        "blue pansies": 3,
+        "yellow pansies": 3
+      },
+      "sources": [
+        "All Villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3431,7 +5078,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "snowflake wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Winter",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4375,
+      "cardColor": "blue",
+      "serialId": 3340,
+      "internalId": 222,
+      "uniqueEntryId": "syeDkgGnge76zBJ5y",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_04375",
+        "version": "1.0.0",
+        "english": "snowflake wreath",
+        "englishEurope": "snowflake wreath",
+        "german": "Schneeflockentürschmuck",
+        "spanish": "placa copo de nieve",
+        "spanishUs": "placa copo de nieve",
+        "french": "décoration flocon",
+        "frenchUs": "décoration flocon",
+        "italian": "ghirlanda fiocco di neve",
+        "dutch": "sneeuwvlokkenkrans",
+        "chinese": "雪花花环",
+        "chineseTraditional": "雪花花圈",
+        "japanese": "ゆきのけっしょうのリース",
+        "korean": "눈의 결정 리스",
+        "russian": "венок-снежинка",
+        "plural": false,
+        "internalIds": [
+          4375
+        ]
+      },
+      "materials": {
+        "snowflake": 4
+      },
+      "sources": [
+        "Balloons",
+        "Isabelle"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3499,7 +5193,8 @@
     "series": null,
     "sources": [
       "Bug-Off"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3566,7 +5261,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3633,7 +5329,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "tree branch wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4727,
+      "cardColor": "brown",
+      "serialId": 240,
+      "internalId": 225,
+      "uniqueEntryId": "JnbW5panqjR2iWknX",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_04727",
+        "version": "1.0.0",
+        "english": "tree branch wreath",
+        "englishEurope": "tree branch wreath",
+        "german": "Zweigetürkranz",
+        "spanish": "corona ramas",
+        "spanishUs": "corona ramas",
+        "french": "couronne branches",
+        "frenchUs": "couronne branches",
+        "italian": "ghirlanda rami",
+        "dutch": "twijgenkrans",
+        "chinese": "树枝花环",
+        "chineseTraditional": "樹枝花圈",
+        "japanese": "きのえだのリース",
+        "korean": "나뭇가지 리스",
+        "russian": "венок из веток",
+        "plural": false,
+        "internalIds": [
+          4727
+        ]
+      },
+      "materials": {
+        "tree branch": 10
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3700,7 +5442,56 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "tulip wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is tulips",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5670,
+      "cardColor": "green",
+      "serialId": 3549,
+      "internalId": 360,
+      "uniqueEntryId": "jpfWEEc78PXeP26Js",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05670",
+        "version": "1.0.0",
+        "english": "tulip wreath",
+        "englishEurope": "tulip wreath",
+        "german": "Tulpentürkranz",
+        "spanish": "corona tulipán",
+        "spanishUs": "corona tulipanes",
+        "french": "couronne tulipes",
+        "frenchUs": "couronne tulipes",
+        "italian": "ghirlanda tulipani",
+        "dutch": "tulpenkrans",
+        "chinese": "郁金香花环",
+        "chineseTraditional": "鬱金香花圈",
+        "japanese": "チューリップのリース",
+        "korean": "튤립 리스",
+        "russian": "венок с тюльпанами",
+        "plural": false,
+        "internalIds": [
+          5670
+        ]
+      },
+      "materials": {
+        "red tulips": 3,
+        "yellow tulips": 3,
+        "white tulips": 3
+      },
+      "sources": [
+        "All Villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3767,7 +5558,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -3834,7 +5626,56 @@
     "series": "flowers",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "windflower wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is windflowers",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5436,
+      "cardColor": "green",
+      "serialId": 3540,
+      "internalId": 228,
+      "uniqueEntryId": "xGTRnSEqPTzYGDwjT",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05436",
+        "version": "1.0.0",
+        "english": "windflower wreath",
+        "englishEurope": "windflower wreath",
+        "german": "Anemonentürkranz",
+        "spanish": "corona anémona",
+        "spanishUs": "corona anémonas",
+        "french": "couronne anémones",
+        "frenchUs": "couronne anémones",
+        "italian": "ghirlanda anemoni",
+        "dutch": "anemonenkrans",
+        "chinese": "银莲花花环",
+        "chineseTraditional": "銀蓮花花圈",
+        "japanese": "アネモネのリース",
+        "korean": "아네모네 리스",
+        "russian": "венок с ветреницами",
+        "plural": false,
+        "internalIds": [
+          5436
+        ]
+      },
+      "materials": {
+        "red windflowers": 3,
+        "white windflowers": 3,
+        "orange windflowers": 3
+      },
+      "sources": [
+        "All Villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -4179,7 +6020,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -4374,7 +6216,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -5003,7 +6846,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -5195,7 +7039,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo wall decoration",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 3558,
+      "cardColor": "green",
+      "serialId": 2430,
+      "internalId": 151,
+      "uniqueEntryId": "Xb2ywJv5tsDeSKG2H",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03558",
+        "version": "1.0.0",
+        "english": "bamboo wall decoration",
+        "englishEurope": "bamboo wall decoration",
+        "german": "Bambusdekoration",
+        "spanish": "adorno colgante de bambú",
+        "spanishUs": "adorno colgante de bambú",
+        "french": "déco murale en bambou",
+        "frenchUs": "déco murale en bambou",
+        "italian": "ornamento di bambù",
+        "dutch": "bamboewandversiering",
+        "chinese": "竹花瓶",
+        "chineseTraditional": "竹花瓶",
+        "japanese": "たけのいちりんざし",
+        "korean": "대나무 꽃병",
+        "russian": "декор из бамбука",
+        "plural": false,
+        "internalIds": [
+          3558
+        ]
+      },
+      "materials": {
+        "bamboo piece": 1
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -5436,7 +7326,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -5697,7 +7588,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bone doorplate",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4751,
+      "cardColor": "brown",
+      "serialId": 500,
+      "internalId": 467,
+      "uniqueEntryId": "jbvhjbWecrky57s9e",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_04751",
+        "version": "1.0.0",
+        "english": "bone doorplate",
+        "englishEurope": "bone doorplate",
+        "german": "Hundeknochentürschild",
+        "spanish": "placa hueso",
+        "spanishUs": "placa hueso",
+        "french": "plaque nonosse",
+        "frenchUs": "plaque os",
+        "italian": "targa da porta osso",
+        "dutch": "bottendeurplaatje",
+        "chinese": "骨头门牌",
+        "chineseTraditional": "骨頭門牌",
+        "japanese": "ボーンなドアプレート",
+        "korean": "뼈다귀 문패",
+        "russian": "табличка-косточка",
+        "plural": false,
+        "internalIds": [
+          4751
+        ]
+      },
+      "materials": {
+        "softwood": 3
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -5987,7 +7924,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "boomerang",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 682,
+      "cardColor": "brown",
+      "serialId": 481,
+      "internalId": 171,
+      "uniqueEntryId": "rMasSCDby69z84Fai",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_00682",
+        "version": "1.0.0",
+        "english": "boomerang",
+        "englishEurope": "boomerang",
+        "german": "Bumerang",
+        "spanish": "bumerán",
+        "spanishUs": "bumerán",
+        "french": "boomerang",
+        "frenchUs": "boomerang",
+        "italian": "boomerang",
+        "dutch": "boemerang",
+        "chinese": "飞旋镖",
+        "chineseTraditional": "迴力鏢",
+        "japanese": "ブーメラン",
+        "korean": "부메랑",
+        "russian": "бумеранг",
+        "plural": false,
+        "internalIds": [
+          682
+        ]
+      },
+      "materials": {
+        "hardwood": 3
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -6228,7 +8211,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -6371,7 +8355,55 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry lamp",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native fruit is cherries",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4012,
+      "cardColor": "yellow",
+      "serialId": 1430,
+      "internalId": 162,
+      "uniqueEntryId": "6hBjge6rn7Sxd5sr7",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04012",
+        "version": "1.0.0",
+        "english": "cherry lamp",
+        "englishEurope": "cherry lamp",
+        "german": "Kirschenlampe",
+        "spanish": "lámpara cereza",
+        "spanishUs": "lámpara cereza",
+        "french": "lampe cerise",
+        "frenchUs": "lampe cerise",
+        "italian": "lampada ciliegia",
+        "dutch": "kersenlamp",
+        "chinese": "樱桃灯",
+        "chineseTraditional": "櫻桃燈",
+        "japanese": "さくらんぼのランプ",
+        "korean": "체리 램프",
+        "russian": "светильник-вишни",
+        "plural": false,
+        "internalIds": [
+          4012
+        ]
+      },
+      "materials": {
+        "cherry": 10,
+        "clay": 2
+      },
+      "sources": [
+        "Peppy villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -6514,7 +8546,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry-blossom clock",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Cherry-Blossom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 6832,
+      "cardColor": "pink",
+      "serialId": 2630,
+      "internalId": 426,
+      "uniqueEntryId": "9kPKbzAAQzJTu9758",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_06832",
+        "version": "1.0.0",
+        "english": "cherry-blossom clock",
+        "englishEurope": "cherry-blossom clock",
+        "german": "Kirschblütenuhr",
+        "spanish": "reloj flor de cerezo",
+        "spanishUs": "reloj flor de cerezo",
+        "french": "horloge cerisier",
+        "frenchUs": "horloge cerisier",
+        "italian": "orologio fiore di ciliegio",
+        "dutch": "kersenbloesemklok",
+        "chinese": "樱花时钟",
+        "chineseTraditional": "櫻花時鐘",
+        "japanese": "さくらクロック",
+        "korean": "벚꽃 시계",
+        "russian": "часы-сакура",
+        "plural": false,
+        "internalIds": [
+          6832
+        ]
+      },
+      "materials": {
+        "cherry-blossom petal": 5
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -7216,7 +9294,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -7414,7 +9493,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "crest doorplate",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5717,
+      "cardColor": "dark gray",
+      "serialId": 941,
+      "internalId": 469,
+      "uniqueEntryId": "rBCZK2XaMKZ4jXrNH",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05717",
+        "version": "1.0.0",
+        "english": "crest doorplate",
+        "englishEurope": "crest doorplate",
+        "german": "Wappentürschild",
+        "spanish": "placa escudo de armas",
+        "spanishUs": "placa escudo de armas",
+        "french": "plaque blason",
+        "frenchUs": "plaque blason",
+        "italian": "targa da porta stemma",
+        "dutch": "schildwapendeurplaatje",
+        "chinese": "纹章门牌",
+        "chineseTraditional": "徽章門牌",
+        "japanese": "エンブレムなドアプレート",
+        "korean": "엠블럼 문패",
+        "russian": "герб",
+        "plural": false,
+        "internalIds": [
+          5717
+        ]
+      },
+      "materials": {
+        "iron nugget": 4
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -7809,7 +9934,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -8099,7 +10225,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -8389,7 +10516,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "deer decoration",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 3340,
+      "cardColor": "brown",
+      "serialId": 482,
+      "internalId": 378,
+      "uniqueEntryId": "BTF82ckDtSkknQmua",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03340",
+        "version": "1.0.0",
+        "english": "deer decoration",
+        "englishEurope": "deer decoration",
+        "german": "Holz-Rehkopf",
+        "spanish": "cabeza de ciervo decorativa",
+        "spanishUs": "cabeza de ciervo decorativa",
+        "french": "trophée cerf",
+        "frenchUs": "trophée cerf",
+        "italian": "trofeo del cervo",
+        "dutch": "hertendecoratie",
+        "chinese": "小鹿装饰品",
+        "chineseTraditional": "小鹿裝飾品",
+        "japanese": "しかのオブジェ",
+        "korean": "사슴 장식",
+        "russian": "декоративный олень",
+        "plural": false,
+        "internalIds": [
+          3340
+        ]
+      },
+      "materials": {
+        "softwood": 8
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -9946,7 +12119,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -10285,7 +12459,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -10530,7 +12705,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -10791,7 +12967,8 @@
           "Fishing Tourney"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -11186,7 +13363,8 @@
           "Fishing Tourney"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -11427,7 +13605,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -11717,7 +13896,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "floral swag",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4027,
+      "cardColor": "green",
+      "serialId": 1230,
+      "internalId": 121,
+      "uniqueEntryId": "d2brTtEXPaFRfbcFh",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04027",
+        "version": "1.0.0",
+        "english": "floral swag",
+        "englishEurope": "floral swag",
+        "german": "Blumengebinde",
+        "spanish": "ramillete colgante",
+        "spanishUs": "ramillete colgante",
+        "french": "bouquet mural",
+        "frenchUs": "bouquet mural",
+        "italian": "addobbo floreale",
+        "dutch": "hangende bloemstukje",
+        "chinese": "倒挂干燥花",
+        "chineseTraditional": "倒掛乾燥花",
+        "japanese": "スワッグ",
+        "korean": "벽걸이 드라이플라워",
+        "russian": "сухой букет",
+        "plural": false,
+        "internalIds": [
+          4027
+        ]
+      },
+      "materials": {
+        "clump of weeds": 10
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -11912,7 +14137,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -12009,7 +14235,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "fossil doorplate",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5719,
+      "cardColor": "light gray",
+      "serialId": 840,
+      "internalId": 464,
+      "uniqueEntryId": "eig2yBncaDeGLkfKP",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05719",
+        "version": "1.0.0",
+        "english": "fossil doorplate",
+        "englishEurope": "fossil doorplate",
+        "german": "Fossilientürschild",
+        "spanish": "placa fósil",
+        "spanishUs": "placa fósil",
+        "french": "plaque fossile",
+        "frenchUs": "plaque fossile",
+        "italian": "targa da porta fossile",
+        "dutch": "fossieldeurplaatje",
+        "chinese": "化石门牌",
+        "chineseTraditional": "化石門牌",
+        "japanese": "かせきのドアプレート",
+        "korean": "화석 문패",
+        "russian": "декоративный аммонит",
+        "plural": false,
+        "internalIds": [
+          5719
+        ]
+      },
+      "materials": {
+        "fossil": 1,
+        "stone": 2
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -12304,7 +14577,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -14174,7 +16448,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -14366,7 +16641,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "hanging terrarium",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 3775,
+      "cardColor": "green",
+      "serialId": 1232,
+      "internalId": 396,
+      "uniqueEntryId": "GNtJWEuH8EoLwwi2a",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03775",
+        "version": "1.0.0",
+        "english": "hanging terrarium",
+        "englishEurope": "hanging terrarium",
+        "german": "Hänge-Terrarium",
+        "spanish": "terrario botánico colgante",
+        "spanishUs": "terrario botánico colgante",
+        "french": "terrarium suspendu",
+        "frenchUs": "terrarium suspendu",
+        "italian": "terrario sospeso",
+        "dutch": "hangende terrarium",
+        "chinese": "垂吊玻璃盆栽",
+        "chineseTraditional": "垂吊玻璃盆栽",
+        "japanese": "ハンギングテラリウム",
+        "korean": "행잉 테라리움",
+        "russian": "подвесной террариум",
+        "plural": false,
+        "internalIds": [
+          3775
+        ]
+      },
+      "materials": {
+        "clump of weeds": 12,
+        "iron nugget": 4
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -14619,7 +16941,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -14860,7 +17183,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -15105,7 +17429,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -15358,7 +17683,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "iron doorplate",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4752,
+      "cardColor": "dark gray",
+      "serialId": 940,
+      "internalId": 468,
+      "uniqueEntryId": "ckD6nctsXhWjtaRmJ",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_04752",
+        "version": "1.0.0",
+        "english": "iron doorplate",
+        "englishEurope": "iron doorplate",
+        "german": "Gusseisentürschild",
+        "spanish": "placa hierro forjado",
+        "spanishUs": "placa hierro forjado",
+        "french": "plaque en fer forgé",
+        "frenchUs": "plaque en fer forgé",
+        "italian": "targa da porta di ferro",
+        "dutch": "ijzeren deurplaatje",
+        "chinese": "铸铁门牌",
+        "chineseTraditional": "鑄鐵門牌",
+        "japanese": "アイアンなドアプレート",
+        "korean": "아이언 문패",
+        "russian": "железное украшение",
+        "plural": false,
+        "internalIds": [
+          4752
+        ]
+      },
+      "materials": {
+        "iron nugget": 2
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -15503,7 +17874,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "iron wall lamp",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase Wildest Dreams DIY from Nook's Cranny",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 3559,
+      "cardColor": "dark gray",
+      "serialId": 930,
+      "internalId": 122,
+      "uniqueEntryId": "b9KAgbNSetaJieTKp",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03559",
+        "version": "1.0.0",
+        "english": "iron wall lamp",
+        "englishEurope": "iron wall lamp",
+        "german": "Eisenwandlampe",
+        "spanish": "aplique de hierro",
+        "spanishUs": "aplique de hierro",
+        "french": "lampe murale en fer",
+        "frenchUs": "lampe murale en fer",
+        "italian": "lampada a muro di ferro",
+        "dutch": "ijzeren wandlamp",
+        "chinese": "铸铁壁灯",
+        "chineseTraditional": "鑄鐵壁燈",
+        "japanese": "アイアンウォールランプ",
+        "korean": "아이언 벽걸이 램프",
+        "russian": "железное бра",
+        "plural": false,
+        "internalIds": [
+          3559
+        ]
+      },
+      "materials": {
+        "iron nugget": 4,
+        "clay": 2
+      },
+      "sources": [
+        "Wildest Dreams DIY"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -15648,7 +18066,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "iron wall rack",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 3562,
+      "cardColor": "dark gray",
+      "serialId": 931,
+      "internalId": 123,
+      "uniqueEntryId": "DYTTSvnJoQAtBqSpL",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03562",
+        "version": "1.0.0",
+        "english": "iron wall rack",
+        "englishEurope": "iron wall rack",
+        "german": "Eisenwandregal",
+        "spanish": "repisa de hierro",
+        "spanishUs": "repisa de hierro",
+        "french": "étagère murale en fer",
+        "frenchUs": "étagère murale en fer",
+        "italian": "mensola di ferro",
+        "dutch": "ijzeren wandrek",
+        "chinese": "铸铁壁架",
+        "chineseTraditional": "鑄鐵壁架",
+        "japanese": "アイアンウォールラック",
+        "korean": "아이언 벽걸이 선반",
+        "russian": "железная полка",
+        "plural": false,
+        "internalIds": [
+          3562
+        ]
+      },
+      "materials": {
+        "iron nugget": 3,
+        "clay": 1
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -15938,7 +18403,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "ironwood clock",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 3275,
+      "cardColor": "blue",
+      "serialId": 1040,
+      "internalId": 94,
+      "uniqueEntryId": "vWYzQ9pTSBH5Wbmmk",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03275",
+        "version": "1.0.0",
+        "english": "ironwood clock",
+        "englishEurope": "ironwood clock",
+        "german": "Eisen-Holz-Wanduhr",
+        "spanish": "reloj de pared universidad",
+        "spanishUs": "reloj de pared universidad",
+        "french": "horloge en bois de fer",
+        "frenchUs": "horloge en bois-de-fer",
+        "italian": "orologio di legno ferro",
+        "dutch": "ijzeren-houten klok",
+        "chinese": "铸铁木时钟",
+        "chineseTraditional": "鑄鐵木時鐘",
+        "japanese": "アイアンウッドクロック",
+        "korean": "아이언우드 시계",
+        "russian": "часы из ДСП и стали",
+        "plural": false,
+        "internalIds": [
+          3275
+        ]
+      },
+      "materials": {
+        "wood": 2,
+        "iron nugget": 2
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -16183,7 +18695,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "key holder",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 3992,
+      "cardColor": "brown",
+      "serialId": 480,
+      "internalId": 437,
+      "uniqueEntryId": "cXTKSu7vAHz2c3tmD",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03992",
+        "version": "1.0.0",
+        "english": "key holder",
+        "englishEurope": "key holder",
+        "german": "Schlüsselbrett",
+        "spanish": "portallaves",
+        "spanishUs": "portallaves",
+        "french": "panneau à clés",
+        "frenchUs": "panneau à clés",
+        "italian": "bacheca portachiavi",
+        "dutch": "sleutelbord",
+        "chinese": "钥匙挂钩",
+        "chineseTraditional": "鑰匙掛勾",
+        "japanese": "キーハンガー",
+        "korean": "열쇠 걸이",
+        "russian": "вешалка для ключей",
+        "plural": false,
+        "internalIds": [
+          3992
+        ]
+      },
+      "materials": {
+        "wood": 3,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -16428,7 +18987,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -16673,7 +19233,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "log wall-mounted clock",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4037,
+      "cardColor": "brown",
+      "serialId": 340,
+      "internalId": 115,
+      "uniqueEntryId": "qAiYovJGN6oxwXWqY",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_04037",
+        "version": "1.0.0",
+        "english": "log wall-mounted clock",
+        "englishEurope": "log wall-mounted clock",
+        "german": "Baumstammwanduhr",
+        "spanish": "reloj de pared leño",
+        "spanishUs": "reloj de pared troncos",
+        "french": "horloge murale tronc",
+        "frenchUs": "horloge murale tronc",
+        "italian": "orologio a muro tronco",
+        "dutch": "boomstamklok",
+        "chinese": "圆木壁挂钟",
+        "chineseTraditional": "圓木壁掛鐘",
+        "japanese": "まるたのかべかけどけい",
+        "korean": "통나무 벽시계",
+        "russian": "часы из бревна",
+        "plural": false,
+        "internalIds": [
+          4037
+        ]
+      },
+      "materials": {
+        "hardwood": 2,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -16914,7 +19521,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -17109,7 +19717,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -17404,7 +20013,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -17849,7 +20459,8 @@
           "Mom"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -18194,7 +20805,8 @@
           "Mom"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -18337,7 +20949,55 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "orange wall-mounted clock",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native fruit is oranges",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 3976,
+      "cardColor": "orange",
+      "serialId": 1330,
+      "internalId": 184,
+      "uniqueEntryId": "rJaAL5N8CQQ5dPd9y",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03976",
+        "version": "1.0.0",
+        "english": "orange wall-mounted clock",
+        "englishEurope": "orange wall-mounted clock",
+        "german": "Orange-Wanduhr",
+        "spanish": "reloj de pared naranja",
+        "spanishUs": "reloj de pared naranja",
+        "french": "horloge murale orange",
+        "frenchUs": "horloge murale orange",
+        "italian": "orologio da muro arancia",
+        "dutch": "sinaasappelwandklok",
+        "chinese": "橘子壁挂钟",
+        "chineseTraditional": "橘子壁掛鐘",
+        "japanese": "オレンジのかべかけどけい",
+        "korean": "오렌지 벽시계",
+        "russian": "часы-апельсин",
+        "plural": false,
+        "internalIds": [
+          3976
+        ]
+      },
+      "materials": {
+        "orange": 10,
+        "wood": 2
+      },
+      "sources": [
+        "Lazy villagers",
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -18682,7 +21342,56 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "ornament mobile",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Festive Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 6818,
+      "cardColor": "white",
+      "serialId": 3430,
+      "internalId": 433,
+      "uniqueEntryId": "RaotMSgnPsgG6PKLu",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_06818",
+        "version": "1.0.0",
+        "english": "ornament mobile",
+        "englishEurope": "ornament mobile",
+        "german": "Objektmobile",
+        "spanish": "móvil ornamentos",
+        "spanishUs": "móvil ornamentos",
+        "french": "mobile ornemental",
+        "frenchUs": "mobile ornemental",
+        "italian": "decorazione con palline",
+        "dutch": "feestelijke mobile",
+        "chinese": "挂饰",
+        "chineseTraditional": "掛飾",
+        "japanese": "オーナメントのモビール",
+        "korean": "오너먼트 모빌",
+        "russian": "праздничный мобиль",
+        "plural": false,
+        "internalIds": [
+          6818
+        ]
+      },
+      "materials": {
+        "red ornament": 1,
+        "blue ornament": 1,
+        "gold ornament": 1,
+        "tree branch": 4
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -18935,7 +21644,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "ornament wreath",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Festive Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 4377,
+      "cardColor": "white",
+      "serialId": 3440,
+      "internalId": 226,
+      "uniqueEntryId": "rLcgugWkG2sntC7Lh",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_04377",
+        "version": "1.0.0",
+        "english": "ornament wreath",
+        "englishEurope": "ornament wreath",
+        "german": "Dekotürkranz",
+        "spanish": "corona bolas decorativas",
+        "spanishUs": "corona decorativa",
+        "french": "couronne décorative",
+        "frenchUs": "couronne décorative",
+        "italian": "ghirlanda con palline",
+        "dutch": "feestelijke krans",
+        "chinese": "装饰花环",
+        "chineseTraditional": "裝飾花圈",
+        "japanese": "オーナメントのリース",
+        "korean": "오너먼트 리스",
+        "russian": "праздничный венок",
+        "plural": false,
+        "internalIds": [
+          4377
+        ]
+      },
+      "materials": {
+        "blue ornament": 6,
+        "gold ornament": 2
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -19280,7 +22036,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -19541,7 +22298,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "paw-print doorplate",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5716,
+      "cardColor": "brown",
+      "serialId": 501,
+      "internalId": 466,
+      "uniqueEntryId": "S3f74cedig2pCxFHu",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05716",
+        "version": "1.0.0",
+        "english": "paw-print doorplate",
+        "englishEurope": "paw-print doorplate",
+        "german": "Pfotenabdrucktürschild",
+        "spanish": "placa huella animal",
+        "spanishUs": "placa huella animal",
+        "french": "plaque patte de chien",
+        "frenchUs": "plaque patte de chien",
+        "italian": "targa da porta zampina",
+        "dutch": "pootafdrukdeurplaatje",
+        "chinese": "肉球门牌",
+        "chineseTraditional": "肉球門牌",
+        "japanese": "にくきゅうのドアプレート",
+        "korean": "발바닥 문패",
+        "russian": "декоративный отпечаток",
+        "plural": false,
+        "internalIds": [
+          5716
+        ]
+      },
+      "materials": {
+        "wood": 3
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -19836,7 +22639,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -20031,7 +22835,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -20272,7 +23077,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "potted ivy",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase Test Your DIY Skills from Nook's Cranny",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 3785,
+      "cardColor": "green",
+      "serialId": 1231,
+      "internalId": 214,
+      "uniqueEntryId": "PRZpskqoyoPoT6g3c",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03785",
+        "version": "1.0.0",
+        "english": "potted ivy",
+        "englishEurope": "potted ivy",
+        "german": "Efeu-Topfpflanze",
+        "spanish": "maceta con hiedra",
+        "spanishUs": "maceta con hiedra",
+        "french": "lierre en pot",
+        "frenchUs": "lierre en pot",
+        "italian": "edera in vaso",
+        "dutch": "klimop in pot",
+        "chinese": "壁挂式盆栽",
+        "chineseTraditional": "壁掛式盆栽",
+        "japanese": "かべかけのはっぱ",
+        "korean": "벽걸이 식물",
+        "russian": "плющ в горшке",
+        "plural": false,
+        "internalIds": [
+          3785
+        ]
+      },
+      "materials": {
+        "clump of weeds": 5,
+        "clay": 5
+      },
+      "sources": [
+        "Test Your DIY Skills"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -20513,7 +23365,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -20610,7 +23463,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -20871,7 +23725,8 @@
           "Bug-Off"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -21266,7 +24121,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "starry garland",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 6827,
+      "cardColor": "silver",
+      "serialId": 2231,
+      "internalId": 430,
+      "uniqueEntryId": "9LShEjECc39Sdyxzt",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_06827",
+        "version": "1.0.0",
+        "english": "starry garland",
+        "englishEurope": "starry garland",
+        "german": "Sternengirlande",
+        "spanish": "guirnalda estrellas",
+        "spanishUs": "guirnalda estrellas",
+        "french": "guirlande lumineuse étoiles",
+        "frenchUs": "guirlande lumineuse étoiles",
+        "italian": "decorazione stellata",
+        "dutch": "sterrenslinger",
+        "chinese": "星星挂饰",
+        "chineseTraditional": "星星掛旗",
+        "japanese": "スターなガーランド",
+        "korean": "별 모양 가랜드",
+        "russian": "гирлянда со звездами",
+        "plural": false,
+        "internalIds": [
+          6827
+        ]
+      },
+      "materials": {
+        "star fragment": 10
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -21711,7 +24612,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -22050,7 +24952,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -22438,7 +25341,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -22699,7 +25603,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "timber doorplate",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5718,
+      "cardColor": "brown",
+      "serialId": 502,
+      "internalId": 465,
+      "uniqueEntryId": "bk8JqAgdSKtw6EdC8",
+      "translations": {
+        "sourceSheet": "Doorplates",
+        "id": "DoorDeco_05718",
+        "version": "1.0.0",
+        "english": "timber doorplate",
+        "englishEurope": "timber doorplate",
+        "german": "Holztürschild",
+        "spanish": "placa de leña",
+        "spanishUs": "placa de leña",
+        "french": "plaque bûche",
+        "frenchUs": "plaque bûche",
+        "italian": "targa da porta ciocco",
+        "dutch": "deurplaatje",
+        "chinese": "原木门牌",
+        "chineseTraditional": "原木門牌",
+        "japanese": "ログなドアプレート",
+        "korean": "통나무 문패",
+        "russian": "табличка-срез",
+        "plural": false,
+        "internalIds": [
+          5718
+        ]
+      },
+      "materials": {
+        "wood": 2,
+        "pink roses": 1
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -22842,7 +25793,55 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "tree's bounty mobile",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Fall",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 6075,
+      "cardColor": "brown",
+      "serialId": 2930,
+      "internalId": 414,
+      "uniqueEntryId": "F6WehkKZG7sSwRLBo",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_06075",
+        "version": "1.0.0",
+        "english": "tree's bounty mobile",
+        "englishEurope": "tree's bounty mobile",
+        "german": "Baumfrucht-Mobile",
+        "spanish": "móvil frutos del bosque",
+        "spanishUs": "móvil frutos del bosque",
+        "french": "mobile fruits des bois",
+        "frenchUs": "mobile fruits des bois",
+        "italian": "giostrina frutti dell'albero",
+        "dutch": "herfstmobile",
+        "chinese": "树果挂饰",
+        "chineseTraditional": "樹果掛飾",
+        "japanese": "きのみのモビール",
+        "korean": "나무 열매 모빌",
+        "russian": "мобиль из даров леса",
+        "plural": false,
+        "internalIds": [
+          6075
+        ]
+      },
+      "materials": {
+        "pine cone": 2,
+        "acorn": 3,
+        "tree branch": 3
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -23137,7 +26136,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -23432,7 +26432,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -23877,7 +26878,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -24167,7 +27169,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -24506,7 +27509,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -24845,7 +27849,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -25282,7 +28287,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -25572,7 +28578,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -25767,7 +28774,8 @@
           "Cyrus"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -26057,7 +29065,55 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wooden-block wall clock",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 3208,
+      "cardColor": "brown",
+      "serialId": 359,
+      "internalId": 90,
+      "uniqueEntryId": "g9N9eFwC48vsPWz5e",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_03208",
+        "version": "1.0.0",
+        "english": "wooden-block wall clock",
+        "englishEurope": "wooden-block wall clock",
+        "german": "Bauklotzwanduhr",
+        "spanish": "reloj pared construcciones",
+        "spanishUs": "reloj pared construcciones",
+        "french": "coucou blocs de bois",
+        "frenchUs": "coucou blocs de bois",
+        "italian": "orologio blocchi di legno",
+        "dutch": "houtblokklok",
+        "chinese": "积木挂钟",
+        "chineseTraditional": "積木壁鐘",
+        "japanese": "つみきウォールクロック",
+        "korean": "나무블록 벽시계",
+        "russian": "часы из дерев. блоков",
+        "plural": false,
+        "internalIds": [
+          3208
+        ]
+      },
+      "materials": {
+        "wooden-block toy": 1,
+        "softwood": 2,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -26298,7 +29354,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wooden-plank sign",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wall-mounted",
+      "craftedItemInternalId": 5636,
+      "cardColor": "brown",
+      "serialId": 483,
+      "internalId": 279,
+      "uniqueEntryId": "EbrmatJDLMcc2oexh",
+      "translations": {
+        "sourceSheet": "Furniture",
+        "id": "Ftr_05636",
+        "version": "1.0.0",
+        "english": "wooden-plank sign",
+        "englishEurope": "wooden-plank sign",
+        "german": "Holzbrettschild",
+        "spanish": "rótulo en bajorrelieve",
+        "spanishUs": "letrero tallado",
+        "french": "écriteau en bois brut",
+        "frenchUs": "écriteau en bois brut",
+        "italian": "insegna di legno grezzo",
+        "dutch": "bord met tekst",
+        "chinese": "木匾额",
+        "chineseTraditional": "木匾額",
+        "japanese": "いちまいいたのかんばん",
+        "korean": "원목 간판",
+        "russian": "знак из бревна",
+        "plural": false,
+        "internalIds": [
+          5636
+        ]
+      },
+      "materials": {
+        "hardwood": 5
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -26445,7 +29547,8 @@
           "Nook Shopping"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wall-mounted",
@@ -26690,6 +29793,7 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   }
 ]

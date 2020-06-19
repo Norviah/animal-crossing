@@ -58,7 +58,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -119,7 +120,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -180,7 +182,53 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "apple wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4916,
+      "cardColor": "red",
+      "serialId": 1750,
+      "internalId": 304,
+      "uniqueEntryId": "7azjirioafcXyzPHB",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04916",
+        "version": "1.0.0",
+        "english": "apple wall",
+        "englishEurope": "apple wall",
+        "german": "Apfeltapete",
+        "spanish": "pared manzanas",
+        "spanishUs": "pared manzanas",
+        "french": "mur pommes",
+        "frenchUs": "mur pommes",
+        "italian": "muro mele",
+        "dutch": "appelwand",
+        "chinese": "苹果壁纸",
+        "chineseTraditional": "蘋果壁紙",
+        "japanese": "リンゴのかべがみ",
+        "korean": "사과 벽지",
+        "russian": "стена с яблоками",
+        "plural": false,
+        "internalIds": [
+          4916
+        ]
+      },
+      "materials": {
+        "apple": 20
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -241,7 +289,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -302,7 +351,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -362,7 +412,55 @@
     "series": "tree's bounty or leaves ",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "autumn wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Maple Leaf Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4905,
+      "cardColor": "brown",
+      "serialId": 2950,
+      "internalId": 290,
+      "uniqueEntryId": "vjyWT27sydFDoYjhF",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04905",
+        "version": "1.0.0",
+        "english": "autumn wall",
+        "englishEurope": "autumn wall",
+        "german": "Herbstlaubtapete",
+        "spanish": "pared otoñal",
+        "spanishUs": "pared otoñal",
+        "french": "mur automne",
+        "frenchUs": "mur automne",
+        "italian": "muro autunnale",
+        "dutch": "herfstwand",
+        "chinese": "枫叶墙",
+        "chineseTraditional": "楓葉牆",
+        "japanese": "こうようのかべ",
+        "korean": "단풍 벽",
+        "russian": "стена «Осень»",
+        "plural": false,
+        "internalIds": [
+          4905
+        ]
+      },
+      "materials": {
+        "maple leaf": 10,
+        "wood": 5,
+        "clump of weeds": 5
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -422,7 +520,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -482,7 +581,53 @@
     "series": "bamboo",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4833,
+      "cardColor": "green",
+      "serialId": 2450,
+      "internalId": 322,
+      "uniqueEntryId": "BYCNmo3a3HZQXWqHK",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04833",
+        "version": "1.0.0",
+        "english": "bamboo wall",
+        "englishEurope": "bamboo wall",
+        "german": "Bambuswand",
+        "spanish": "pared bambú",
+        "spanishUs": "pared bambú",
+        "french": "mur en bambou",
+        "frenchUs": "mur en bambou",
+        "italian": "muro bambù",
+        "dutch": "bamboewand",
+        "chinese": "竹子墙",
+        "chineseTraditional": "竹子牆",
+        "japanese": "バンブーなかべ",
+        "korean": "대나무 벽",
+        "russian": "бамбуковая стена",
+        "plural": false,
+        "internalIds": [
+          4833
+        ]
+      },
+      "materials": {
+        "bamboo piece": 15
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -542,7 +687,54 @@
     "series": "bamboo",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo-grove wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Spring",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4853,
+      "cardColor": "green",
+      "serialId": 2551,
+      "internalId": 300,
+      "uniqueEntryId": "YEqTcFmBecj7pp4XX",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04853",
+        "version": "1.0.0",
+        "english": "bamboo-grove wall",
+        "englishEurope": "bamboo-grove wall",
+        "german": "Bambuswaldtapete",
+        "spanish": "pared bosque bambú",
+        "spanishUs": "pared bosque bambú",
+        "french": "mur forêt de bambou",
+        "frenchUs": "mur forêt de bambou",
+        "italian": "muro canneto bambù",
+        "dutch": "bamboeboswand",
+        "chinese": "竹林墙",
+        "chineseTraditional": "竹林牆",
+        "japanese": "ちくりんのかべ",
+        "korean": "대나무 숲 벽",
+        "russian": "стена с бамбуком",
+        "plural": false,
+        "internalIds": [
+          4853
+        ]
+      },
+      "materials": {
+        "young spring bamboo": 7,
+        "bamboo shoot": 3
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -602,7 +794,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -663,7 +856,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -724,7 +918,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -785,7 +980,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -846,7 +1042,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -907,7 +1104,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -968,7 +1166,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1029,7 +1228,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1090,7 +1290,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1151,7 +1352,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1212,7 +1414,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1273,7 +1476,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1333,7 +1537,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1394,7 +1599,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1455,7 +1661,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1516,7 +1723,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1577,7 +1785,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1638,7 +1847,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1699,7 +1909,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1760,7 +1971,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1821,7 +2033,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1882,7 +2095,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -1943,7 +2157,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2004,7 +2219,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2065,7 +2281,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2126,7 +2343,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2187,7 +2405,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2247,7 +2466,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2308,7 +2528,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2369,7 +2590,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2430,7 +2652,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2491,7 +2714,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2551,7 +2775,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2612,7 +2837,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2673,7 +2899,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2734,7 +2961,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2795,7 +3023,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2856,7 +3085,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2917,7 +3147,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -2978,7 +3209,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3039,7 +3271,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "brown herringbone wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4804,
+      "cardColor": "brown",
+      "serialId": 524,
+      "internalId": 312,
+      "uniqueEntryId": "YXiuGMDZmkG7wbuQn",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04804",
+        "version": "1.0.0",
+        "english": "brown herringbone wall",
+        "englishEurope": "brown herringbone wall",
+        "german": "Hell-Fischgrätwand",
+        "spanish": "pared espiga clara",
+        "spanishUs": "pared espinapez marrón",
+        "french": "mur à chevrons beige",
+        "frenchUs": "mur à chevrons beige",
+        "italian": "muro spina di pesce beige",
+        "dutch": "lichtbruine visgraatwand",
+        "chinese": "茶色人字斜纹墙",
+        "chineseTraditional": "茶色人字斜紋牆",
+        "japanese": "ちゃいろいヘリンボーンのかべ",
+        "korean": "갈색 헤링본 벽",
+        "russian": "светлая стена-елочка",
+        "plural": false,
+        "internalIds": [
+          4804
+        ]
+      },
+      "materials": {
+        "softwood": 15
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3099,7 +3377,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3157,7 +3436,8 @@
     "series": "wedding",
     "sources": [
       "Cyrus"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3218,7 +3498,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3278,7 +3559,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3339,7 +3621,59 @@
     "series": "Bunny Day",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Bunny Day wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5231,
+      "cardColor": "yellow",
+      "serialId": 3750,
+      "internalId": 708,
+      "uniqueEntryId": "fJWKvdNQwBqRaKjsz",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05231",
+        "version": "1.1.0",
+        "english": "Bunny Day wall",
+        "englishEurope": "Bunny Day wall",
+        "german": "Häschentag-Tapete",
+        "spanish": "pared Caza del Huevo",
+        "spanishUs": "pared Caza del Huevo",
+        "french": "mur fête des œufs",
+        "frenchUs": "mur fête des œufs",
+        "italian": "muro caccia all'uovo",
+        "dutch": "eierwand",
+        "chinese": "复活节壁纸",
+        "chineseTraditional": "復活節壁紙",
+        "japanese": "イースターなかべがみ",
+        "korean": "이스터 벽지",
+        "russian": "стена «День зайцев»",
+        "plural": false,
+        "internalIds": [
+          5231
+        ]
+      },
+      "materials": {
+        "earth egg": 2,
+        "stone egg": 2,
+        "leaf egg": 2,
+        "wood egg": 2,
+        "sky egg": 2,
+        "water egg": 2
+      },
+      "sources": [
+        "Egg bottle",
+        "Egg balloon"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3400,7 +3734,8 @@
     "series": null,
     "sources": [
       "Bug-Off"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3461,7 +3796,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cabin wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4840,
+      "cardColor": "brown",
+      "serialId": 527,
+      "internalId": 315,
+      "uniqueEntryId": "vYePWAqNbmHCX2n7u",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04840",
+        "version": "1.0.0",
+        "english": "cabin wall",
+        "englishEurope": "cabin wall",
+        "german": "Blockhauswand",
+        "spanish": "pared cabaña",
+        "spanishUs": "pared cabaña",
+        "french": "mur chalet",
+        "frenchUs": "mur chalet",
+        "italian": "muro rustico",
+        "dutch": "blokhutwand",
+        "chinese": "木屋墙",
+        "chineseTraditional": "木屋牆",
+        "japanese": "ログハウスのかべ",
+        "korean": "통나무집 벽",
+        "russian": "бревенчатая стена",
+        "plural": false,
+        "internalIds": [
+          4840
+        ]
+      },
+      "materials": {
+        "hardwood": 15
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3522,7 +3903,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3583,7 +3965,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3644,7 +4027,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3705,7 +4089,53 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4919,
+      "cardColor": "yellow",
+      "serialId": 1450,
+      "internalId": 307,
+      "uniqueEntryId": "c4EyTmXti6TusMbGF",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04919",
+        "version": "1.0.0",
+        "english": "cherry wall",
+        "englishEurope": "cherry wall",
+        "german": "Kirschtapete",
+        "spanish": "pared cerezas",
+        "spanishUs": "pared cerezas",
+        "french": "mur cerises",
+        "frenchUs": "mur cerises",
+        "italian": "muro ciliegie",
+        "dutch": "kersenwand",
+        "chinese": "樱桃壁纸",
+        "chineseTraditional": "櫻桃壁紙",
+        "japanese": "さくらんぼのかべがみ",
+        "korean": "체리 벽지",
+        "russian": "стена с вишнями",
+        "plural": false,
+        "internalIds": [
+          4919
+        ]
+      },
+      "materials": {
+        "cherry": 20
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3765,7 +4195,54 @@
     "series": "cherry blossoms",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry-blossom-trees wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Cherry-Blossom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 7205,
+      "cardColor": "pink",
+      "serialId": 2650,
+      "internalId": 480,
+      "uniqueEntryId": "C4v4pT2hwNJdB82tD",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_07205",
+        "version": "1.0.0",
+        "english": "cherry-blossom-trees wall",
+        "englishEurope": "cherry-blossom-trees wall",
+        "german": "Kirschblütenwand",
+        "spanish": "pared cerezos en flor",
+        "spanishUs": "pared cerezos en flor",
+        "french": "mur fleurs de cerisier",
+        "frenchUs": "mur fleurs de cerisier",
+        "italian": "muro fiori di ciliegio",
+        "dutch": "kersenbloesemwand",
+        "chinese": "樱花树墙",
+        "chineseTraditional": "櫻花樹牆",
+        "japanese": "さくらなみきのかべ",
+        "korean": "벚나무길 벽",
+        "russian": "стена с сакурой",
+        "plural": false,
+        "internalIds": [
+          7205
+        ]
+      },
+      "materials": {
+        "cherry-blossom petal": 10,
+        "hardwood": 5
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3826,7 +4303,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3887,7 +4365,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -3948,7 +4427,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4009,7 +4489,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "chocolate herringbone wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4805,
+      "cardColor": "brown",
+      "serialId": 525,
+      "internalId": 313,
+      "uniqueEntryId": "TvTxY9NBsDvQfXAJH",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04805",
+        "version": "1.0.0",
+        "english": "chocolate herringbone wall",
+        "englishEurope": "chocolate herringbone wall",
+        "german": "Dunkel-Fischgrätwand",
+        "spanish": "pared espiga oscura",
+        "spanishUs": "pared espinapez chocolate",
+        "french": "mur à chevrons chocolat",
+        "frenchUs": "mur à chevrons chocolat",
+        "italian": "muro spina di pesce cacao",
+        "dutch": "donkerbruine visgraatwand",
+        "chinese": "深棕色人字斜纹墙",
+        "chineseTraditional": "深棕色人字斜紋牆",
+        "japanese": "こげちゃのヘリンボーンのかべ",
+        "korean": "고동색 헤링본 벽",
+        "russian": "темная стена-елочка",
+        "plural": false,
+        "internalIds": [
+          4805
+        ]
+      },
+      "materials": {
+        "softwood": 15
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4069,7 +4595,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4130,7 +4657,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4190,7 +4718,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "classic-library wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4837,
+      "cardColor": "yellow",
+      "serialId": 2103,
+      "internalId": 317,
+      "uniqueEntryId": "tWZXois4WZ3ztMwv6",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04837",
+        "version": "1.0.0",
+        "english": "classic-library wall",
+        "englishEurope": "classic-library wall",
+        "german": "Klassik-Bücherwand",
+        "spanish": "pared biblioteca de clásicos",
+        "spanishUs": "pared biblioteca de clásicos",
+        "french": "mur bibliothèque classique",
+        "frenchUs": "mur bibliothèque classique",
+        "italian": "muro libreria classica",
+        "dutch": "klassieke bibliotheekwand",
+        "chinese": "图书馆墙",
+        "chineseTraditional": "圖書館牆",
+        "japanese": "ライブラリーなかべ",
+        "korean": "도서관 벽",
+        "russian": "стена-библиотека",
+        "plural": false,
+        "internalIds": [
+          4837
+        ]
+      },
+      "materials": {
+        "book": 10
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4251,7 +4825,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4312,7 +4887,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4373,7 +4949,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4434,7 +5011,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4495,7 +5073,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4555,7 +5134,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4616,7 +5196,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4677,7 +5258,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4738,7 +5320,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4799,7 +5382,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4860,7 +5444,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "dark wooden-mosaic wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4860,
+      "cardColor": "brown",
+      "serialId": 522,
+      "internalId": 311,
+      "uniqueEntryId": "sEZQCkucygfgPphNu",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04860",
+        "version": "1.0.0",
+        "english": "dark wooden-mosaic wall",
+        "englishEurope": "dark wooden-mosaic wall",
+        "german": "Dunkel-Mischholzwand",
+        "spanish": "pared madera mixta oscura",
+        "spanishUs": "pared madera mixta oscura",
+        "french": "mur lambris fin sombre",
+        "frenchUs": "mur lambris fin sombre",
+        "italian": "muro a liste di legno scuro",
+        "dutch": "donkerhouten mozaïekwand",
+        "chinese": "深色嵌木墙",
+        "chineseTraditional": "深色嵌木牆",
+        "japanese": "ダークなよせぎのかべ",
+        "korean": "짙은 색 나무로 짠 벽",
+        "russian": "темная наборная стена",
+        "plural": false,
+        "internalIds": [
+          4860
+        ]
+      },
+      "materials": {
+        "wood": 15
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4920,7 +5550,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -4980,7 +5611,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5041,7 +5673,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5101,7 +5734,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5162,7 +5796,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5222,7 +5857,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5283,7 +5919,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5343,7 +5980,57 @@
     "series": "mush",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "forest wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Mushroom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 7187,
+      "cardColor": "orange",
+      "serialId": 3050,
+      "internalId": 484,
+      "uniqueEntryId": "dtfYZqMNT9jsPDwTj",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_07187",
+        "version": "1.0.0",
+        "english": "forest wall",
+        "englishEurope": "forest wall",
+        "german": "Waldtapete",
+        "spanish": "pared bosque",
+        "spanishUs": "pared bosque",
+        "french": "mur forêt",
+        "frenchUs": "mur forêt",
+        "italian": "muro bosco",
+        "dutch": "boswand",
+        "chinese": "蘑菇森林墙",
+        "chineseTraditional": "蘑菇森林牆",
+        "japanese": "キノコのもりのかべ",
+        "korean": "버섯숲 벽지",
+        "russian": "стена с дремучим лесом",
+        "plural": false,
+        "internalIds": [
+          7187
+        ]
+      },
+      "materials": {
+        "elegant mushroom": 2,
+        "round mushroom": 2,
+        "skinny mushroom": 2,
+        "flat mushroom": 2,
+        "wood": 10
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5404,7 +6091,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5465,7 +6153,55 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "garbage-heap wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Fish up 15 trash",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5229,
+      "cardColor": "dark gray",
+      "serialId": 650,
+      "internalId": 301,
+      "uniqueEntryId": "pmFETBqn6JQFmXnA3",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05229",
+        "version": "1.0.0",
+        "english": "garbage-heap wall",
+        "englishEurope": "garbage-heap wall",
+        "german": "Müllbergtapete",
+        "spanish": "pared vertedero",
+        "spanishUs": "pared basural",
+        "french": "mur dépotoir",
+        "frenchUs": "mur dépotoir",
+        "italian": "muro discarica",
+        "dutch": "stortplaatswand",
+        "chinese": "垃圾堆墙",
+        "chineseTraditional": "垃圾堆牆",
+        "japanese": "ゴミのやまなかべ",
+        "korean": "쓰레기 더미 벽",
+        "russian": "стена «Свалка»",
+        "plural": false,
+        "internalIds": [
+          5229
+        ]
+      },
+      "materials": {
+        "empty can": 2,
+        "boot": 2,
+        "old tire": 2
+      },
+      "sources": [
+        "Fishing"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5526,7 +6262,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "gold-screen wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4820,
+      "cardColor": "gold",
+      "serialId": 1151,
+      "internalId": 298,
+      "uniqueEntryId": "oCeLPYajbm2MHZyGn",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04820",
+        "version": "1.0.0",
+        "english": "gold-screen wall",
+        "englishEurope": "gold-screen wall",
+        "german": "Goldtürtapete",
+        "spanish": "pared oriental",
+        "spanishUs": "pared oriental",
+        "french": "mur paravent",
+        "frenchUs": "mur paravent",
+        "italian": "muro porta scorrevole d'oro",
+        "dutch": "gouden scherm",
+        "chinese": "金箔日式拉门",
+        "chineseTraditional": "金箔日式拉門",
+        "japanese": "きんぱくのふすま",
+        "korean": "황금 미닫이 문 벽",
+        "russian": "золотая стена-ширма",
+        "plural": false,
+        "internalIds": [
+          4820
+        ]
+      },
+      "materials": {
+        "gold nugget": 2,
+        "screen wall": 1
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5587,7 +6370,53 @@
     "series": "golden",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4894,
+      "cardColor": "gold",
+      "serialId": 1150,
+      "internalId": 299,
+      "uniqueEntryId": "u7gdHaAk5nbB4p5Ru",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04894",
+        "version": "1.0.0",
+        "english": "golden wall",
+        "englishEurope": "golden wall",
+        "german": "Goldtapete",
+        "spanish": "pared dorada",
+        "spanishUs": "pared dorada",
+        "french": "mur d'or",
+        "frenchUs": "mur d'or",
+        "italian": "muro d'oro",
+        "dutch": "gouden wand",
+        "chinese": "黄金墙",
+        "chineseTraditional": "黃金牆",
+        "japanese": "おうごんのかべ",
+        "korean": "황금 벽",
+        "russian": "золотая стена",
+        "plural": false,
+        "internalIds": [
+          4894
+        ]
+      },
+      "materials": {
+        "gold nugget": 4
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5648,7 +6477,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5709,7 +6539,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5769,7 +6600,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5830,7 +6662,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5891,7 +6724,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -5952,7 +6786,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6013,7 +6848,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6074,7 +6910,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6135,7 +6972,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6196,7 +7034,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6257,7 +7096,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6318,7 +7158,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6376,7 +7217,8 @@
     "series": "wedding",
     "sources": [
       "Cyrus"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6437,7 +7279,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6497,7 +7340,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6558,7 +7402,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6619,7 +7464,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6680,7 +7526,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "honeycomb wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4865,
+      "cardColor": "orange",
+      "serialId": 2050,
+      "internalId": 296,
+      "uniqueEntryId": "XJZCow9k2yrtvYDSc",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04865",
+        "version": "1.0.0",
+        "english": "honeycomb wall",
+        "englishEurope": "honeycomb wall",
+        "german": "Bienenwabenwand",
+        "spanish": "pared melosa",
+        "spanishUs": "pared melosa",
+        "french": "mur rayons de miel",
+        "frenchUs": "mur rayons de miel",
+        "italian": "muro alveare",
+        "dutch": "honingraatwand",
+        "chinese": "蜂巢墙",
+        "chineseTraditional": "蜂巢牆",
+        "japanese": "ビーハイブなかべ",
+        "korean": "벌집 벽",
+        "russian": "стена-соты",
+        "plural": false,
+        "internalIds": [
+          4865
+        ]
+      },
+      "materials": {
+        "wasp nest": 6
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6741,7 +7633,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6802,7 +7695,54 @@
     "series": "frozen",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "ice wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5505,
+      "cardColor": "blue",
+      "serialId": 3250,
+      "internalId": 293,
+      "uniqueEntryId": "An3uWvJLZrfNtdewM",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05505",
+        "version": "1.0.0",
+        "english": "ice wall",
+        "englishEurope": "ice wall",
+        "german": "Eistapete",
+        "spanish": "pared hielo",
+        "spanishUs": "pared hielo",
+        "french": "mur glace",
+        "frenchUs": "mur glace",
+        "italian": "muro ghiaccio",
+        "dutch": "ijswand",
+        "chinese": "冰雪壁纸",
+        "chineseTraditional": "冰雪壁紙",
+        "japanese": "アイスなかべがみ",
+        "korean": "아이스 벽",
+        "russian": "заледеневшая стена",
+        "plural": false,
+        "internalIds": [
+          5505
+        ]
+      },
+      "materials": {
+        "large snowflake": 1,
+        "snowflake": 8
+      },
+      "sources": [
+        "Snowboy"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6862,7 +7802,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "iceberg wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Winter",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5662,
+      "cardColor": "blue",
+      "serialId": 3351,
+      "internalId": 302,
+      "uniqueEntryId": "89NQTyckGsnbPBcxX",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05662",
+        "version": "1.0.0",
+        "english": "iceberg wall",
+        "englishEurope": "iceberg wall",
+        "german": "Eisbergtapete",
+        "spanish": "pared glaciar",
+        "spanishUs": "pared glaciar",
+        "french": "mur banquise",
+        "frenchUs": "mur banquise",
+        "italian": "muro artico",
+        "dutch": "ijsbergwand",
+        "chinese": "冰山墙",
+        "chineseTraditional": "冰山牆",
+        "japanese": "ひょうざんのかべ",
+        "korean": "빙산 벽",
+        "russian": "арктическая стена",
+        "plural": false,
+        "internalIds": [
+          5662
+        ]
+      },
+      "materials": {
+        "large snowflake": 1,
+        "snowflake": 8
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6922,7 +7909,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -6982,7 +7970,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7043,7 +8032,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7104,7 +8094,56 @@
     "series": "festive",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Jingle wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Festive Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5230,
+      "cardColor": "white",
+      "serialId": 3450,
+      "internalId": 291,
+      "uniqueEntryId": "yHZv2YNkbKzqaCich",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05230",
+        "version": "1.0.0",
+        "english": "Jingle wall",
+        "englishEurope": "Jingle wall",
+        "german": "Festtagstapete",
+        "spanish": "pared festiva",
+        "spanishUs": "pared festiva",
+        "french": "mur festif",
+        "frenchUs": "mur festif",
+        "italian": "muro Jingle",
+        "dutch": "feestboomwand",
+        "chinese": "圣诞墙",
+        "chineseTraditional": "聖誕牆",
+        "japanese": "クリスマスなかべ",
+        "korean": "크리스마스 벽",
+        "russian": "новогодняя стена",
+        "plural": false,
+        "internalIds": [
+          5230
+        ]
+      },
+      "materials": {
+        "red ornament": 5,
+        "blue ornament": 5,
+        "gold ornament": 5,
+        "clay": 5
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7165,7 +8204,56 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "jungle wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5457,
+      "cardColor": "green",
+      "serialId": 1250,
+      "internalId": 326,
+      "uniqueEntryId": "sKFxDKgEMLzZtPu7K",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05457",
+        "version": "1.0.0",
+        "english": "jungle wall",
+        "englishEurope": "jungle wall",
+        "german": "Dschungeltapete",
+        "spanish": "pared jungla",
+        "spanishUs": "pared jungla",
+        "french": "mur jungle",
+        "frenchUs": "mur jungle",
+        "italian": "muro giungla",
+        "dutch": "junglewand",
+        "chinese": "丛林壁纸",
+        "chineseTraditional": "叢林壁紙",
+        "japanese": "ジャングルのかべがみ",
+        "korean": "정글 벽",
+        "russian": "стена «Джунгли»",
+        "plural": false,
+        "internalIds": [
+          5457
+        ]
+      },
+      "materials": {
+        "clump of weeds": 15,
+        "wood": 3,
+        "hardwood": 3,
+        "softwood": 3
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7226,7 +8314,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7286,7 +8375,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7347,7 +8437,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7407,7 +8498,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7468,7 +8560,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "manga-library wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4838,
+      "cardColor": "yellow",
+      "serialId": 2112,
+      "internalId": 316,
+      "uniqueEntryId": "8JLp8kSxRMRChTXaT",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04838",
+        "version": "1.0.0",
+        "english": "manga-library wall",
+        "englishEurope": "manga-library wall",
+        "german": "Manga-Bücherwand",
+        "spanish": "pared biblioteca de manga",
+        "spanishUs": "pared biblioteca de manga",
+        "french": "mur bibliothèque manga",
+        "frenchUs": "mur bibliothèque manga",
+        "italian": "muro libreria di manga",
+        "dutch": "mangabibliotheekwand",
+        "chinese": "漫画图书馆墙",
+        "chineseTraditional": "漫畫圖書館牆",
+        "japanese": "マンガライブラリーなかべ",
+        "korean": "만화 도서관 벽",
+        "russian": "стена «Библиотека манги»",
+        "plural": false,
+        "internalIds": [
+          4838
+        ]
+      },
+      "materials": {
+        "magazine": 10
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7528,7 +8666,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7589,7 +8728,8 @@
     "series": null,
     "sources": [
       "Fishing Tourney"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7649,7 +8789,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7709,7 +8850,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7769,7 +8911,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7830,7 +8973,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7891,7 +9035,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -7952,7 +9097,55 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "modern wood wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4904,
+      "cardColor": "brown",
+      "serialId": 520,
+      "internalId": 320,
+      "uniqueEntryId": "LqPaTaPEXdwvFhGKC",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04904",
+        "version": "1.0.0",
+        "english": "modern wood wall",
+        "englishEurope": "modern wood wall",
+        "german": "Buntholzwand",
+        "spanish": "pared listones",
+        "spanishUs": "pared listones",
+        "french": "mur bois moderne",
+        "frenchUs": "mur bois moderne",
+        "italian": "muro legno",
+        "dutch": "moderne houten wand",
+        "chinese": "拼木墙",
+        "chineseTraditional": "拼木牆",
+        "japanese": "ミックスウッドのかべ",
+        "korean": "믹스우드 벽",
+        "russian": "соврем. стена из дерева",
+        "plural": false,
+        "internalIds": [
+          4904
+        ]
+      },
+      "materials": {
+        "wood": 5,
+        "softwood": 5,
+        "hardwood": 5
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8013,7 +9206,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8074,7 +9268,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8134,7 +9329,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8195,7 +9391,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8255,7 +9452,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8315,7 +9513,56 @@
     "series": "mush",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "mush wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Mushroom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5164,
+      "cardColor": "orange",
+      "serialId": 3051,
+      "internalId": 308,
+      "uniqueEntryId": "6HKBjFrzRdfY5PArn",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05164",
+        "version": "1.0.0",
+        "english": "mush wall",
+        "englishEurope": "mush wall",
+        "german": "Waldpilztapete",
+        "spanish": "pared hongo",
+        "spanishUs": "pared hongo",
+        "french": "mur champi",
+        "frenchUs": "mur champi",
+        "italian": "muro funghetti",
+        "dutch": "paddenstoelenwand",
+        "chinese": "蘑菇壁纸",
+        "chineseTraditional": "蘑菇壁紙",
+        "japanese": "キノコのかべがみ",
+        "korean": "버섯 벽지",
+        "russian": "стена с грибами",
+        "plural": false,
+        "internalIds": [
+          5164
+        ]
+      },
+      "materials": {
+        "elegant mushroom": 1,
+        "round mushroom": 1,
+        "skinny mushroom": 1,
+        "flat mushroom": 1
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8376,7 +9623,8 @@
     "series": null,
     "sources": [
       "Nook Miles Shop"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8436,7 +9684,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8496,7 +9745,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8556,7 +9806,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8617,7 +9868,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8678,7 +9930,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8739,7 +9992,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8800,7 +10054,53 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "orange wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4915,
+      "cardColor": "orange",
+      "serialId": 1350,
+      "internalId": 303,
+      "uniqueEntryId": "8rnfwGyLMaw5FTMQb",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04915",
+        "version": "1.0.0",
+        "english": "orange wall",
+        "englishEurope": "orange wall",
+        "german": "Orangentapete",
+        "spanish": "pared naranjas",
+        "spanishUs": "pared naranjas",
+        "french": "mur oranges",
+        "frenchUs": "mur oranges",
+        "italian": "muro arance",
+        "dutch": "sinaasappelwand",
+        "chinese": "橘子壁纸",
+        "chineseTraditional": "橘子壁紙",
+        "japanese": "オレンジのかべがみ",
+        "korean": "오렌지 벽지",
+        "russian": "стена с апельсинами",
+        "plural": false,
+        "internalIds": [
+          4915
+        ]
+      },
+      "materials": {
+        "orange": 20
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8861,7 +10161,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8922,7 +10223,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -8983,7 +10285,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9044,7 +10347,8 @@
     "series": null,
     "sources": [
       "Birthday"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9105,7 +10409,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9166,7 +10471,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9227,7 +10533,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9288,7 +10595,53 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "peach wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4918,
+      "cardColor": "pink",
+      "serialId": 1550,
+      "internalId": 306,
+      "uniqueEntryId": "EtpBMH46crTvLrLrn",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04918",
+        "version": "1.0.0",
+        "english": "peach wall",
+        "englishEurope": "peach wall",
+        "german": "Pfirsichtapete",
+        "spanish": "pared melocotones",
+        "spanishUs": "pared duraznos",
+        "french": "mur pêches",
+        "frenchUs": "mur pêches",
+        "italian": "muro pesche",
+        "dutch": "perzikwand",
+        "chinese": "桃子壁纸",
+        "chineseTraditional": "桃子壁紙",
+        "japanese": "モモのかべがみ",
+        "korean": "복숭아 벽지",
+        "russian": "стена с персиками",
+        "plural": false,
+        "internalIds": [
+          4918
+        ]
+      },
+      "materials": {
+        "peach": 20
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9349,7 +10702,53 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pear wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4917,
+      "cardColor": "green",
+      "serialId": 1650,
+      "internalId": 305,
+      "uniqueEntryId": "es6hFYQ5DneXyj8od",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04917",
+        "version": "1.0.0",
+        "english": "pear wall",
+        "englishEurope": "pear wall",
+        "german": "Birnentapete",
+        "spanish": "pared peras",
+        "spanishUs": "pared peras",
+        "french": "mur poires",
+        "frenchUs": "mur poires",
+        "italian": "muro pere",
+        "dutch": "perenwand",
+        "chinese": "梨子壁纸",
+        "chineseTraditional": "梨子壁紙",
+        "japanese": "ナシのかべがみ",
+        "korean": "배 벽지",
+        "russian": "стена с грушами",
+        "plural": false,
+        "internalIds": [
+          4917
+        ]
+      },
+      "materials": {
+        "pear": 20
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9410,7 +10809,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9471,7 +10871,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9532,7 +10933,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9593,7 +10995,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9654,7 +11057,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9715,7 +11119,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9776,7 +11181,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9837,7 +11243,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9897,7 +11304,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -9958,7 +11366,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10019,7 +11428,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10080,7 +11490,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10141,7 +11552,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10202,7 +11614,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10263,7 +11676,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10321,7 +11735,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10382,7 +11797,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10442,7 +11858,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10502,7 +11919,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10562,7 +11980,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10623,7 +12042,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10684,7 +12104,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10745,7 +12166,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10806,7 +12228,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10867,7 +12290,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10928,7 +12352,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -10989,7 +12414,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11050,7 +12476,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11111,7 +12538,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11171,7 +12599,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11231,7 +12660,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11291,7 +12721,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11351,7 +12782,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11412,7 +12844,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11473,7 +12906,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "rustic-stone wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4813,
+      "cardColor": "light gray",
+      "serialId": 851,
+      "internalId": 324,
+      "uniqueEntryId": "MmjudYWMYWwucKrMG",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04813",
+        "version": "1.0.0",
+        "english": "rustic-stone wall",
+        "englishEurope": "rustic-stone wall",
+        "german": "Bruchsteinwand",
+        "spanish": "pared piedra rústica",
+        "spanishUs": "pared piedra rústica",
+        "french": "mur en pierres traditionnel",
+        "frenchUs": "mur en pierres traditionnel",
+        "italian": "muro in pietra rustica",
+        "dutch": "rustieke stenen wand",
+        "chinese": "不规则石头墙",
+        "chineseTraditional": "不規則石頭牆",
+        "japanese": "ランダムストーンのかべ",
+        "korean": "마구 붙인 돌 벽",
+        "russian": "стена из грубого камня",
+        "plural": false,
+        "internalIds": [
+          4813
+        ]
+      },
+      "materials": {
+        "stone": 5,
+        "clay": 5
+      },
+      "sources": [
+        "Snooty villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11534,7 +13014,54 @@
     "series": "cherry blossoms",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "sakura-wood wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Cherry-Blossom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4947,
+      "cardColor": "pink",
+      "serialId": 2651,
+      "internalId": 321,
+      "uniqueEntryId": "qweZmh7LNTLp9FDiY",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04947",
+        "version": "1.0.0",
+        "english": "sakura-wood wall",
+        "englishEurope": "sakura-wood wall",
+        "german": "Kirschholzverkleidung",
+        "spanish": "pared cerezo",
+        "spanishUs": "pared cerezo",
+        "french": "mur bois sakura",
+        "frenchUs": "mur bois sakura",
+        "italian": "muro legno rosa",
+        "dutch": "kersenbloesemroze wand",
+        "chinese": "樱花木墙",
+        "chineseTraditional": "櫻花木牆",
+        "japanese": "さくらのウッドウォール",
+        "korean": "벚꽃색 우드 벽",
+        "russian": "стена из вишнев. дерева",
+        "plural": false,
+        "internalIds": [
+          4947
+        ]
+      },
+      "materials": {
+        "cherry-blossom petal": 5,
+        "wood": 10
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11595,7 +13122,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "sci-fi wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5510,
+      "cardColor": "silver",
+      "serialId": 2252,
+      "internalId": 292,
+      "uniqueEntryId": "e4h5PiReE4wkz2mvY",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05510",
+        "version": "1.0.0",
+        "english": "sci-fi wall",
+        "englishEurope": "sci-fi wall",
+        "german": "Raumschifftapete",
+        "spanish": "pared nave espacial",
+        "spanishUs": "pared nave espacial",
+        "french": "mur science-fiction",
+        "frenchUs": "mur science-fiction",
+        "italian": "muro astronave",
+        "dutch": "sciencefictionwand",
+        "chinese": "太空船墙",
+        "chineseTraditional": "太空船牆",
+        "japanese": "うちゅうせんのかべ",
+        "korean": "우주선 벽",
+        "russian": "стена космолета",
+        "plural": false,
+        "internalIds": [
+          5510
+        ]
+      },
+      "materials": {
+        "star fragment": 5,
+        "large star fragment": 1
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11656,7 +13230,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11716,7 +13291,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11776,7 +13352,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11837,7 +13414,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11897,7 +13475,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -11957,7 +13536,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12018,7 +13598,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12078,7 +13659,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "ski-slope wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Winter",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5498,
+      "cardColor": "blue",
+      "serialId": 3350,
+      "internalId": 295,
+      "uniqueEntryId": "GpPrFGQc3wjpPYh2C",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05498",
+        "version": "1.0.0",
+        "english": "ski-slope wall",
+        "englishEurope": "ski-slope wall",
+        "german": "Skipistentapete",
+        "spanish": "pared esquí",
+        "spanishUs": "pared esquí",
+        "french": "mur piste de ski",
+        "frenchUs": "mur piste de ski",
+        "italian": "muro pista da sci",
+        "dutch": "skihellingwand",
+        "chinese": "滑雪场壁纸",
+        "chineseTraditional": "滑雪場壁紙",
+        "japanese": "ゲレンデなかべがみ",
+        "korean": "스키장 벽",
+        "russian": "стена «Лыжный курорт»",
+        "plural": false,
+        "internalIds": [
+          5498
+        ]
+      },
+      "materials": {
+        "snowflake": 8
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12139,7 +13766,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12199,7 +13827,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12259,7 +13888,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12319,7 +13949,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "snowflake wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Winter",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4855,
+      "cardColor": "blue",
+      "serialId": 3352,
+      "internalId": 323,
+      "uniqueEntryId": "m8fufjb9uRvsqguGC",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04855",
+        "version": "1.0.0",
+        "english": "snowflake wall",
+        "englishEurope": "snowflake wall",
+        "german": "Schneeflockentapete",
+        "spanish": "pared nevada",
+        "spanishUs": "pared nevada",
+        "french": "mur flocons",
+        "frenchUs": "mur flocons",
+        "italian": "muro fiocchi di neve",
+        "dutch": "sneeuwvlokjeswand",
+        "chinese": "雪花壁纸",
+        "chineseTraditional": "雪花壁紙",
+        "japanese": "スノーフレークのかべがみ",
+        "korean": "눈꽃 벽지",
+        "russian": "стена со снежинками",
+        "plural": false,
+        "internalIds": [
+          4855
+        ]
+      },
+      "materials": {
+        "snowflake": 12
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12380,7 +14056,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12441,7 +14118,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stacked-wood wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4844,
+      "cardColor": "brown",
+      "serialId": 528,
+      "internalId": 314,
+      "uniqueEntryId": "NNmn5yJHFnwDWkcRN",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04844",
+        "version": "1.0.0",
+        "english": "stacked-wood wall",
+        "englishEurope": "stacked-wood wall",
+        "german": "Holzstapelwand",
+        "spanish": "pared leñera",
+        "spanishUs": "pared leñera",
+        "french": "mur tronçons de bois",
+        "frenchUs": "mur tronçons de bois",
+        "italian": "muro catasta di legna",
+        "dutch": "houtstapelwand",
+        "chinese": "木质墙",
+        "chineseTraditional": "木質牆",
+        "japanese": "ウッディなかべ",
+        "korean": "장작더미 벽",
+        "russian": "стена «Поленница»",
+        "plural": false,
+        "internalIds": [
+          4844
+        ]
+      },
+      "materials": {
+        "hardwood": 15
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12501,7 +14224,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12561,7 +14285,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12622,7 +14347,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "starry wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5528,
+      "cardColor": "silver",
+      "serialId": 2251,
+      "internalId": 286,
+      "uniqueEntryId": "dZ74auFDK9GYNkEnK",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05528",
+        "version": "1.0.0",
+        "english": "starry wall",
+        "englishEurope": "starry wall",
+        "german": "Sternentapete",
+        "spanish": "pared estrellas plateadas",
+        "spanishUs": "pared estrellas plateadas",
+        "french": "mur d'étoiles",
+        "frenchUs": "mur d'étoiles",
+        "italian": "muro stellato",
+        "dutch": "sterrenwand",
+        "chinese": "星星墙",
+        "chineseTraditional": "星星牆",
+        "japanese": "スターなかべ",
+        "korean": "별 무늬 벽지",
+        "russian": "стена со звездами",
+        "plural": false,
+        "internalIds": [
+          5528
+        ]
+      },
+      "materials": {
+        "star fragment": 5,
+        "large star fragment": 1
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12682,7 +14454,54 @@
     "series": "stars",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "starry-sky wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5500,
+      "cardColor": "silver",
+      "serialId": 2250,
+      "internalId": 294,
+      "uniqueEntryId": "k4Fuy56j7X2gnPbhq",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05500",
+        "version": "1.0.0",
+        "english": "starry-sky wall",
+        "englishEurope": "starry-sky wall",
+        "german": "Sternenhimmeltapete",
+        "spanish": "horizonte lunar",
+        "spanishUs": "horizonte lunar",
+        "french": "mur ciel étoilé",
+        "frenchUs": "mur ciel étoilé",
+        "italian": "muro cielo stellato",
+        "dutch": "heelalwand",
+        "chinese": "星空墙",
+        "chineseTraditional": "星空牆",
+        "japanese": "ほしぞらのかべ",
+        "korean": "별이 빛나는 벽",
+        "russian": "стена «Ночное небо»",
+        "plural": false,
+        "internalIds": [
+          5500
+        ]
+      },
+      "materials": {
+        "star fragment": 5,
+        "large star fragment": 1
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12742,7 +14561,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12803,7 +14623,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "steel-frame wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4801,
+      "cardColor": "dark gray",
+      "serialId": 950,
+      "internalId": 325,
+      "uniqueEntryId": "zStKcz96GL8oDdLW9",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04801",
+        "version": "1.0.0",
+        "english": "steel-frame wall",
+        "englishEurope": "steel-frame wall",
+        "german": "Eisengittertapete",
+        "spanish": "pared viga de hierro",
+        "spanishUs": "pared viga de hierro",
+        "french": "mur poutres en fer",
+        "frenchUs": "mur poutres en fer",
+        "italian": "muro struttura in ferro",
+        "dutch": "wand met stalen balken",
+        "chinese": "钢架墙",
+        "chineseTraditional": "鋼筋牆",
+        "japanese": "てっこつのかべ",
+        "korean": "철근 벽",
+        "russian": "каркасная стена",
+        "plural": false,
+        "internalIds": [
+          4801
+        ]
+      },
+      "materials": {
+        "iron nugget": 8
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12864,7 +14730,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stone wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5216,
+      "cardColor": "light gray",
+      "serialId": 850,
+      "internalId": 318,
+      "uniqueEntryId": "jkx7FkcrQdSWPqno2",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05216",
+        "version": "1.0.0",
+        "english": "stone wall",
+        "englishEurope": "stone wall",
+        "german": "Steinwand",
+        "spanish": "pared piedra",
+        "spanishUs": "pared piedra",
+        "french": "mur de pierre",
+        "frenchUs": "mur de pierre",
+        "italian": "muro pietra",
+        "dutch": "stenen wand",
+        "chinese": "石板墙",
+        "chineseTraditional": "石板牆",
+        "japanese": "いしのかべ",
+        "korean": "돌담 벽",
+        "russian": "каменная стена",
+        "plural": false,
+        "internalIds": [
+          5216
+        ]
+      },
+      "materials": {
+        "stone": 10
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12924,7 +14836,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -12984,7 +14897,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13044,7 +14958,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13104,7 +15019,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13164,7 +15080,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13224,7 +15141,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13284,7 +15202,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "tropical vista",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Summer",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5661,
+      "cardColor": "white",
+      "serialId": 2850,
+      "internalId": 666,
+      "uniqueEntryId": "5mypRC2jBZnq6ywTT",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05661",
+        "version": "1.0.0",
+        "english": "tropical vista",
+        "englishEurope": "tropical vista",
+        "german": "Tropentapete",
+        "spanish": "pared tropical",
+        "spanishUs": "pared tropical",
+        "french": "mur vue tropiques",
+        "frenchUs": "mur vue tropiques",
+        "italian": "muro tropicale",
+        "dutch": "strandwand",
+        "chinese": "南方海洋墙",
+        "chineseTraditional": "南方海洋牆",
+        "japanese": "みなみのうみなかべ",
+        "korean": "남쪽 해변 벽",
+        "russian": "тропическая стена",
+        "plural": false,
+        "internalIds": [
+          5661
+        ]
+      },
+      "materials": {
+        "summer shell": 5
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13344,7 +15308,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "underwater wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Summer",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5508,
+      "cardColor": "white",
+      "serialId": 2851,
+      "internalId": 665,
+      "uniqueEntryId": "EXDyLjtfBny7Nfg2W",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05508",
+        "version": "1.0.0",
+        "english": "underwater wall",
+        "englishEurope": "underwater wall",
+        "german": "Meerestapete",
+        "spanish": "pared fondo marino",
+        "spanishUs": "pared fondo marino",
+        "french": "mur fonds marins",
+        "frenchUs": "mur fonds marins",
+        "italian": "muro sottomarino",
+        "dutch": "onderwaterwand",
+        "chinese": "水中壁纸",
+        "chineseTraditional": "水中壁紙",
+        "japanese": "すいちゅうのかべがみ",
+        "korean": "바닷속 벽",
+        "russian": "подводная стена",
+        "plural": false,
+        "internalIds": [
+          5508
+        ]
+      },
+      "materials": {
+        "summer shell": 3,
+        "coral": 5
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13405,7 +15416,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13463,7 +15475,8 @@
     "series": "wedding",
     "sources": [
       "Cyrus"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13524,7 +15537,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13585,7 +15599,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13646,7 +15661,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13707,7 +15723,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13768,7 +15785,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13829,7 +15847,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13890,7 +15909,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -13951,7 +15971,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14012,7 +16033,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14070,7 +16092,8 @@
     "series": "wedding",
     "sources": [
       "Cyrus"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14131,7 +16154,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14191,7 +16215,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14251,7 +16276,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14312,7 +16338,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wild-wood wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4858,
+      "cardColor": "brown",
+      "serialId": 523,
+      "internalId": 309,
+      "uniqueEntryId": "RQL2msCcNbX2Nyvqg",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04858",
+        "version": "1.0.0",
+        "english": "wild-wood wall",
+        "englishEurope": "wild-wood wall",
+        "german": "Wildholzwand",
+        "spanish": "panelado madera de deriva",
+        "spanishUs": "pared madera selvática",
+        "french": "mur bois sauvage",
+        "frenchUs": "mur bois sauvage",
+        "italian": "muro legno selvatico",
+        "dutch": "wrakhoutmuur",
+        "chinese": "原木墙",
+        "chineseTraditional": "原木牆",
+        "japanese": "ワイルドウッドのかべ",
+        "korean": "거친 나무 벽",
+        "russian": "стена из грубого дерева",
+        "plural": false,
+        "internalIds": [
+          4858
+        ]
+      },
+      "materials": {
+        "wood": 15
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14373,7 +16445,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wooden-knot wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4911,
+      "cardColor": "brown",
+      "serialId": 526,
+      "internalId": 319,
+      "uniqueEntryId": "6aNph3fACbZjxyaWp",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04911",
+        "version": "1.0.0",
+        "english": "wooden-knot wall",
+        "englishEurope": "wooden-knot wall",
+        "german": "Zirbenverkleidung",
+        "spanish": "panelado madera nudosa",
+        "spanishUs": "panelado madera nudosa",
+        "french": "mur lambris avec nœuds",
+        "frenchUs": "mur lambris avec nœuds",
+        "italian": "muro legno nodoso",
+        "dutch": "houtenknoestwand",
+        "chinese": "木节墙",
+        "chineseTraditional": "木節牆",
+        "japanese": "ふしありウッドウォール",
+        "korean": "우드 벽",
+        "russian": "стена из дерева с сучками",
+        "plural": false,
+        "internalIds": [
+          4911
+        ]
+      },
+      "materials": {
+        "hardwood": 15
+      },
+      "sources": [
+        "Smug villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14434,7 +16552,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wooden-mosaic wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 4859,
+      "cardColor": "brown",
+      "serialId": 521,
+      "internalId": 310,
+      "uniqueEntryId": "TYGjpCGthu9jgA5ty",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_04859",
+        "version": "1.0.0",
+        "english": "wooden-mosaic wall",
+        "englishEurope": "wooden-mosaic wall",
+        "german": "Mischholzwand",
+        "spanish": "pared madera mixta",
+        "spanishUs": "pared madera mixta",
+        "french": "mur lambris fin",
+        "frenchUs": "mur lambris fin",
+        "italian": "muro a liste di legno",
+        "dutch": "blankhouten mozaïekwand",
+        "chinese": "嵌木墙",
+        "chineseTraditional": "嵌木牆",
+        "japanese": "よせぎのかべ",
+        "korean": "나무로 짠 벽",
+        "russian": "наборная стена",
+        "plural": false,
+        "internalIds": [
+          4859
+        ]
+      },
+      "materials": {
+        "wood": 15
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14495,7 +16659,54 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "woodland wall",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Wallpaper",
+      "craftedItemInternalId": 5223,
+      "cardColor": "green",
+      "serialId": 1251,
+      "internalId": 471,
+      "uniqueEntryId": "JaqMjuzXa8t426jeT",
+      "translations": {
+        "sourceSheet": "Walls",
+        "id": "RoomWall_05223",
+        "version": "1.0.0",
+        "english": "woodland wall",
+        "englishEurope": "woodland wall",
+        "german": "Urwaldtapete",
+        "spanish": "pared selva",
+        "spanishUs": "pared selva",
+        "french": "mur sylvestre",
+        "frenchUs": "mur sylvestre",
+        "italian": "muro foresta",
+        "dutch": "oerwoudwand",
+        "chinese": "树海墙",
+        "chineseTraditional": "樹海牆",
+        "japanese": "じゅかいなかべ",
+        "korean": "울창한 숲 벽",
+        "russian": "лесная стена",
+        "plural": false,
+        "internalIds": [
+          5223
+        ]
+      },
+      "materials": {
+        "clump of weeds": 15,
+        "softwood": 9
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14556,7 +16767,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14617,7 +16829,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14678,7 +16891,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14739,7 +16953,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14800,7 +17015,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14861,7 +17077,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14922,7 +17139,8 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Wallpaper",
@@ -14983,6 +17201,7 @@
     "series": null,
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   }
 ]

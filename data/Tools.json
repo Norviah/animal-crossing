@@ -51,7 +51,55 @@
     "sources": [
       "Nook's Cranny",
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "axe",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 2100,
+      "cardColor": "beige",
+      "serialId": 102,
+      "internalId": 271,
+      "uniqueEntryId": "b3QE9sXE7w5KCXkS5",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Axe_02100",
+        "version": "1.0.0",
+        "english": "axe",
+        "englishEurope": "axe",
+        "german": "Axt",
+        "spanish": "hacha",
+        "spanishUs": "hacha",
+        "french": "hache",
+        "frenchUs": "hache",
+        "italian": "ascia",
+        "dutch": "bijl",
+        "chinese": "斧头",
+        "chineseTraditional": "斧頭",
+        "japanese": "オノ",
+        "korean": "도끼",
+        "russian": "топор",
+        "plural": false,
+        "internalIds": [
+          2100
+        ]
+      },
+      "materials": {
+        "flimsy axe": 1,
+        "wood": 3,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Pretty Good Tools Recipes"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -104,7 +152,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "bamboo wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Spring",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 7590,
+      "cardColor": "green",
+      "serialId": 2590,
+      "internalId": 538,
+      "uniqueEntryId": "Z5FSewP6wM2McqRCJ",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_07590",
+        "version": "1.0.0",
+        "english": "bamboo wand",
+        "englishEurope": "bamboo wand",
+        "german": "Bambusstab",
+        "spanish": "varita bambú",
+        "spanishUs": "varita bambú",
+        "french": "baguette bambou",
+        "frenchUs": "baguette bambou",
+        "italian": "bacchetta bambù",
+        "dutch": "bamboestaf",
+        "chinese": "竹棒",
+        "chineseTraditional": "竹棒",
+        "japanese": "たけのステッキ",
+        "korean": "대나무 지팡이",
+        "russian": "палочка из бамбука",
+        "plural": false,
+        "internalIds": [
+          7590
+        ]
+      },
+      "materials": {
+        "young spring bamboo": 6,
+        "star fragment": 3
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -157,7 +252,8 @@
     "colors": [],
     "sources": [
       "Bug-Off"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -210,7 +306,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Bunny Day wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Reward from Zipper after crafting wobbling Zipper toy; Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 12578,
+      "cardColor": "yellow",
+      "serialId": 3791,
+      "internalId": 711,
+      "uniqueEntryId": "ySsGKkX7k5TFeytzQ",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_12578",
+        "version": "1.1.0",
+        "english": "Bunny Day wand",
+        "englishEurope": "Bunny Day wand",
+        "german": "Häschentag-Stab",
+        "spanish": "varita Caza del Huevo",
+        "spanishUs": "varita Caza del Huevo",
+        "french": "baguette fête des œufs",
+        "frenchUs": "baguette fête des œufs",
+        "italian": "bacchetta caccia all'uovo",
+        "dutch": "eierstaf",
+        "chinese": "复活节棒",
+        "chineseTraditional": "復活節棒",
+        "japanese": "イースターなステッキ",
+        "korean": "이스터 지팡이",
+        "russian": "палочка на День зайцев",
+        "plural": false,
+        "internalIds": [
+          12578
+        ]
+      },
+      "materials": {
+        "wobbling Zipper toy": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Zipper"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -263,7 +406,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry-blossom wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Cherry-Blossom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 7589,
+      "cardColor": "pink",
+      "serialId": 2690,
+      "internalId": 537,
+      "uniqueEntryId": "TRZ2p8L58k3FvGpPJ",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_07589",
+        "version": "1.0.0",
+        "english": "cherry-blossom wand",
+        "englishEurope": "cherry-blossom wand",
+        "german": "Kirschblütenstab",
+        "spanish": "varita flor de cerezo",
+        "spanishUs": "varita flor de cerezo",
+        "french": "baguette fleurs de cerisier",
+        "frenchUs": "baguette fleurs de cerisier",
+        "italian": "bacchetta ciliegio",
+        "dutch": "kersenbloesemstaf",
+        "chinese": "樱花棒",
+        "chineseTraditional": "櫻花棒",
+        "japanese": "さくらのステッキ",
+        "korean": "벚꽃 지팡이",
+        "russian": "палочка с сакурой",
+        "plural": false,
+        "internalIds": [
+          7589
+        ]
+      },
+      "materials": {
+        "cherry-blossom petal": 3,
+        "star fragment": 3
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -316,7 +506,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cosmos wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5092,
+      "cardColor": "green",
+      "serialId": 3672,
+      "internalId": 528,
+      "uniqueEntryId": "qw6sc7YjNoXFjQt7J",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_05092",
+        "version": "1.0.0",
+        "english": "cosmos wand",
+        "englishEurope": "cosmos wand",
+        "german": "Cosmeastab",
+        "spanish": "varita cosmos",
+        "spanishUs": "varita cosmos",
+        "french": "baguette cosmos",
+        "frenchUs": "baguette cosmos",
+        "italian": "bacchetta cosmea",
+        "dutch": "cosmeastaf",
+        "chinese": "波斯菊棒",
+        "chineseTraditional": "波斯菊棒",
+        "japanese": "コスモスのステッキ",
+        "korean": "코스모스 지팡이",
+        "russian": "палочка с космеей",
+        "plural": false,
+        "internalIds": [
+          5092
+        ]
+      },
+      "materials": {
+        "white cosmos": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -369,7 +606,8 @@
     "colors": [],
     "sources": [
       "Fishing Tourney"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -423,7 +661,55 @@
     "sources": [
       "Nook's Cranny",
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "flimsy axe",
+      "buy": 280,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained through Tom Nook's DIY Workshop at the beginning of the game and can also be purchased at Nook's Cranny",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 3068,
+      "cardColor": "beige",
+      "serialId": 100,
+      "internalId": 10,
+      "uniqueEntryId": "6WFHd6r74ZDND9eCx",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Axe_03068",
+        "version": "1.0.0",
+        "english": "flimsy axe",
+        "englishEurope": "flimsy axe",
+        "german": "Wackelaxt",
+        "spanish": "hacha endeble",
+        "spanishUs": "hacha frágil",
+        "french": "hache rudimentaire",
+        "frenchUs": "hache rudimentaire",
+        "italian": "ascia fragile",
+        "dutch": "breekbare bijl",
+        "chinese": "简陋斧头",
+        "chineseTraditional": "簡陋斧頭",
+        "japanese": "ショボいオノ",
+        "korean": "엉성한 도끼",
+        "russian": "непрочный топор",
+        "plural": false,
+        "internalIds": [
+          3068
+        ]
+      },
+      "materials": {
+        "tree branch": 5,
+        "stone": 1
+      },
+      "sources": [
+        "Tom Nook",
+        "Nook's Cranny"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -477,7 +763,53 @@
     "sources": [
       "Nook's Cranny",
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "flimsy fishing rod",
+      "buy": 280,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained through Tom Nook's DIY Workshop at the beginning of the game",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 3084,
+      "cardColor": "beige",
+      "serialId": 105,
+      "internalId": 21,
+      "uniqueEntryId": "9JboJHudaWqqbQxbZ",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "FishingRod_03084",
+        "version": "1.0.0",
+        "english": "flimsy fishing rod",
+        "englishEurope": "flimsy fishing rod",
+        "german": "Wackelangel",
+        "spanish": "caña endeble",
+        "spanishUs": "caña frágil",
+        "french": "canne à pêche rudimentaire",
+        "frenchUs": "canne à pêche rudimentaire",
+        "italian": "canna da pesca fragile",
+        "dutch": "breekbare hengel",
+        "chinese": "简陋钓竿",
+        "chineseTraditional": "簡陋釣竿",
+        "japanese": "ショボいつりざお",
+        "korean": "엉성한 낚싯대",
+        "russian": "непрочная удочка",
+        "plural": false,
+        "internalIds": [
+          3084
+        ]
+      },
+      "materials": {
+        "tree branch": 5
+      },
+      "sources": [
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -531,7 +863,53 @@
     "sources": [
       "Nook's Cranny",
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "flimsy net",
+      "buy": 280,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained from Tom Nook after completing his DIY Workshop at the beginning of the game",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 2376,
+      "cardColor": "beige",
+      "serialId": 107,
+      "internalId": 22,
+      "uniqueEntryId": "jF9AD5TZekwWomWwJ",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Net_02376",
+        "version": "1.0.0",
+        "english": "flimsy net",
+        "englishEurope": "flimsy net",
+        "german": "Wackelkescher",
+        "spanish": "red endeble",
+        "spanishUs": "red frágil",
+        "french": "filet rudimentaire",
+        "frenchUs": "filet rudimentaire",
+        "italian": "retino fragile",
+        "dutch": "breekbare net",
+        "chinese": "简陋捕虫网",
+        "chineseTraditional": "簡陋捕蟲網",
+        "japanese": "ショボいあみ",
+        "korean": "엉성한 잠자리채",
+        "russian": "непрочный сачок",
+        "plural": false,
+        "internalIds": [
+          2376
+        ]
+      },
+      "materials": {
+        "tree branch": 5
+      },
+      "sources": [
+        "Tom Nook"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -585,7 +963,54 @@
     "sources": [
       "Nook's Cranny",
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "flimsy shovel",
+      "buy": 280,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 3082,
+      "cardColor": "beige",
+      "serialId": 103,
+      "internalId": 19,
+      "uniqueEntryId": "bPp3TpiueJDRte9wT",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Shovel_03082",
+        "version": "1.0.0",
+        "english": "flimsy shovel",
+        "englishEurope": "flimsy shovel",
+        "german": "Wackelschaufel",
+        "spanish": "pala endeble",
+        "spanishUs": "pala frágil",
+        "french": "pelle rudimentaire",
+        "frenchUs": "pelle rudimentaire",
+        "italian": "pala fragile",
+        "dutch": "breekbare schep",
+        "chinese": "简陋铲子",
+        "chineseTraditional": "簡陋鏟子",
+        "japanese": "ショボいスコップ",
+        "korean": "엉성한 삽",
+        "russian": "непрочная лопата",
+        "plural": false,
+        "internalIds": [
+          3082
+        ]
+      },
+      "materials": {
+        "hardwood": 5
+      },
+      "sources": [
+        "Blathers",
+        "Nook's Cranny"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -639,7 +1064,54 @@
     "sources": [
       "Nook's Cranny",
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "flimsy watering can",
+      "buy": 280,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 3083,
+      "cardColor": "beige",
+      "serialId": 109,
+      "internalId": 20,
+      "uniqueEntryId": "FnnhLbn7KQdg2Xqey",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Watering_03083",
+        "version": "1.0.0",
+        "english": "flimsy watering can",
+        "englishEurope": "flimsy watering can",
+        "german": "Wackelgießkanne",
+        "spanish": "regadera endeble",
+        "spanishUs": "regadera frágil",
+        "french": "arrosoir rudimentaire",
+        "frenchUs": "arrosoir rudimentaire",
+        "italian": "annaffiatoio fragile",
+        "dutch": "breekbare gieter",
+        "chinese": "简陋浇花壶",
+        "chineseTraditional": "簡陋澆花壺",
+        "japanese": "ショボいジョウロ",
+        "korean": "엉성한 물뿌리개",
+        "russian": "непрочная лейка",
+        "plural": false,
+        "internalIds": [
+          3083
+        ]
+      },
+      "materials": {
+        "softwood": 5
+      },
+      "sources": [
+        "Tom Nook",
+        "Nook's Cranny"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -692,7 +1164,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden axe",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 9617,
+      "cardColor": "gold",
+      "serialId": 112,
+      "internalId": 663,
+      "uniqueEntryId": "M67DJhFjbWusf3xXk",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Axe_09617",
+        "version": "1.0.0",
+        "english": "golden axe",
+        "englishEurope": "golden axe",
+        "german": "Goldaxt",
+        "spanish": "hacha de oro",
+        "spanishUs": "hacha de oro",
+        "french": "hache dorée",
+        "frenchUs": "hache dorée",
+        "italian": "ascia d'oro",
+        "dutch": "gouden bijl",
+        "chinese": "金色斧头",
+        "chineseTraditional": "金色斧頭",
+        "japanese": "きんのオノ",
+        "korean": "금도끼",
+        "russian": "золотой топор",
+        "plural": false,
+        "internalIds": [
+          9617
+        ]
+      },
+      "materials": {
+        "axe": 1,
+        "gold nugget": 1
+      },
+      "sources": [
+        "Breaking 100 axes"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -745,7 +1264,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden net",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 8179,
+      "cardColor": "gold",
+      "serialId": 115,
+      "internalId": 658,
+      "uniqueEntryId": "cnQ4qLNgFDK7F4NQJ",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Net_08179",
+        "version": "1.0.0",
+        "english": "golden net",
+        "englishEurope": "golden net",
+        "german": "Goldkescher",
+        "spanish": "red de oro",
+        "spanishUs": "red de oro",
+        "french": "filet doré",
+        "frenchUs": "filet doré",
+        "italian": "retino d'oro",
+        "dutch": "gouden net",
+        "chinese": "金色捕虫网",
+        "chineseTraditional": "金色捕蟲網",
+        "japanese": "きんのあみ",
+        "korean": "금 잠자리채",
+        "russian": "золотой сачок",
+        "plural": false,
+        "internalIds": [
+          8179
+        ]
+      },
+      "materials": {
+        "net": 1,
+        "gold nugget": 1
+      },
+      "sources": [
+        "Completing bug Critterpedia"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -798,7 +1364,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden rod",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 8660,
+      "cardColor": "gold",
+      "serialId": 114,
+      "internalId": 662,
+      "uniqueEntryId": "FTWgTtoCgm3jNGhM4",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "FishingRod_08660",
+        "version": "1.0.0",
+        "english": "golden rod",
+        "englishEurope": "golden rod",
+        "german": "Goldangel",
+        "spanish": "caña de oro",
+        "spanishUs": "caña de oro",
+        "french": "canne à pêche dorée",
+        "frenchUs": "canne à pêche dorée",
+        "italian": "canna d'oro",
+        "dutch": "gouden hengel",
+        "chinese": "金色钓竿",
+        "chineseTraditional": "金色釣竿",
+        "japanese": "きんのつりざお",
+        "korean": "금 낚싯대",
+        "russian": "золотая удочка",
+        "plural": false,
+        "internalIds": [
+          8660
+        ]
+      },
+      "materials": {
+        "fishing rod": 1,
+        "gold nugget": 1
+      },
+      "sources": [
+        "Completing fish Critterpedia"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -851,7 +1464,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden shovel",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 8574,
+      "cardColor": "gold",
+      "serialId": 113,
+      "internalId": 660,
+      "uniqueEntryId": "aEtPEYkwgj9BJ48Et",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Shovel_08574",
+        "version": "1.0.0",
+        "english": "golden shovel",
+        "englishEurope": "golden shovel",
+        "german": "Goldschaufel",
+        "spanish": "pala de oro",
+        "spanishUs": "pala de oro",
+        "french": "pelle dorée",
+        "frenchUs": "pelle dorée",
+        "italian": "pala d'oro",
+        "dutch": "gouden schep",
+        "chinese": "金色铲子",
+        "chineseTraditional": "金色鏟子",
+        "japanese": "きんのスコップ",
+        "korean": "금 삽",
+        "russian": "золотая лопата",
+        "plural": false,
+        "internalIds": [
+          8574
+        ]
+      },
+      "materials": {
+        "shovel": 1,
+        "gold nugget": 1
+      },
+      "sources": [
+        "Helping Gulliver 30 times"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -904,7 +1564,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden slingshot",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 8578,
+      "cardColor": "gold",
+      "serialId": 117,
+      "internalId": 661,
+      "uniqueEntryId": "W7WY5fpjB4Lc36YYs",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Slingshot_08578",
+        "version": "1.0.0",
+        "english": "golden slingshot",
+        "englishEurope": "golden slingshot",
+        "german": "Goldschleuder",
+        "spanish": "tirachinas de oro",
+        "spanishUs": "resortera de oro",
+        "french": "lance-pierre doré",
+        "frenchUs": "lance-pierre doré",
+        "italian": "fionda d'oro",
+        "dutch": "gouden katapult",
+        "chinese": "金色弹弓",
+        "chineseTraditional": "金色彈弓",
+        "japanese": "きんのパチンコ",
+        "korean": "금 새총",
+        "russian": "золотая рогатка",
+        "plural": false,
+        "internalIds": [
+          8578
+        ]
+      },
+      "materials": {
+        "slingshot": 1,
+        "gold nugget": 1
+      },
+      "sources": [
+        "Shooting 300 balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -957,7 +1664,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 7591,
+      "cardColor": "gold",
+      "serialId": 1190,
+      "internalId": 539,
+      "uniqueEntryId": "RgNWgCdnAK2qjJTmo",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_07591",
+        "version": "1.0.0",
+        "english": "golden wand",
+        "englishEurope": "golden wand",
+        "german": "Goldstab",
+        "spanish": "varita dorada",
+        "spanishUs": "varita dorada",
+        "french": "baguette d'or",
+        "frenchUs": "baguette d'or",
+        "italian": "bacchetta d'oro",
+        "dutch": "gouden staf",
+        "chinese": "黄金棒",
+        "chineseTraditional": "黃金棒",
+        "japanese": "おうごんのステッキ",
+        "korean": "황금 지팡이",
+        "russian": "золотая палочка",
+        "plural": false,
+        "internalIds": [
+          7591
+        ]
+      },
+      "materials": {
+        "gold nugget": 2,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1010,7 +1764,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "golden watering can",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 8533,
+      "cardColor": "gold",
+      "serialId": 116,
+      "internalId": 659,
+      "uniqueEntryId": "HShnyCLB3cPL5xNTx",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Watering_08533",
+        "version": "1.0.0",
+        "english": "golden watering can",
+        "englishEurope": "golden watering can",
+        "german": "Goldkanne",
+        "spanish": "regadera de oro",
+        "spanishUs": "regadera de oro",
+        "french": "arrosoir doré",
+        "frenchUs": "arrosoir doré",
+        "italian": "annaffiatoio d'oro",
+        "dutch": "gouden gieter",
+        "chinese": "金色浇花壶",
+        "chineseTraditional": "金色澆花壺",
+        "japanese": "きんのジョウロ",
+        "korean": "금 물뿌리개",
+        "russian": "золотая лейка",
+        "plural": false,
+        "internalIds": [
+          8533
+        ]
+      },
+      "materials": {
+        "watering can": 1,
+        "gold nugget": 1
+      },
+      "sources": [
+        "5-star town evaluation"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1063,7 +1864,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "hyacinth wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5083,
+      "cardColor": "green",
+      "serialId": 3676,
+      "internalId": 524,
+      "uniqueEntryId": "SfyT7DJYnMvjQmSRX",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_05083",
+        "version": "1.0.0",
+        "english": "hyacinth wand",
+        "englishEurope": "hyacinth wand",
+        "german": "Hyazinthenstab",
+        "spanish": "varita jacinto",
+        "spanishUs": "varita jacinto",
+        "french": "baguette jacinthe",
+        "frenchUs": "baguette jacinthe",
+        "italian": "bacchetta giacinto",
+        "dutch": "hyacintenstaf",
+        "chinese": "风信子棒",
+        "chineseTraditional": "風信子棒",
+        "japanese": "ヒヤシンスのステッキ",
+        "korean": "히아신스 지팡이",
+        "russian": "палочка с гиацинтом",
+        "plural": false,
+        "internalIds": [
+          5083
+        ]
+      },
+      "materials": {
+        "pink hyacinths": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1116,7 +1964,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "ice wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 7585,
+      "cardColor": "blue",
+      "serialId": 3290,
+      "internalId": 533,
+      "uniqueEntryId": "pfuLcy3eLoxPsFMQy",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_07585",
+        "version": "1.0.0",
+        "english": "ice wand",
+        "englishEurope": "ice wand",
+        "german": "Eisstab",
+        "spanish": "varita hielo",
+        "spanishUs": "varita hielo",
+        "french": "baguette glace",
+        "frenchUs": "baguette glace",
+        "italian": "bacchetta ghiaccio",
+        "dutch": "ijsstaf",
+        "chinese": "冰之棒",
+        "chineseTraditional": "冰之棒",
+        "japanese": "こおりのステッキ",
+        "korean": "얼음 지팡이",
+        "russian": "ледяная палочка",
+        "plural": false,
+        "internalIds": [
+          7585
+        ]
+      },
+      "materials": {
+        "large snowflake": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Snowboy"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1169,7 +2064,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "iron wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 7592,
+      "cardColor": "dark gray",
+      "serialId": 999,
+      "internalId": 540,
+      "uniqueEntryId": "MYYovLTdmLov8y2hL",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_07592",
+        "version": "1.0.0",
+        "english": "iron wand",
+        "englishEurope": "iron wand",
+        "german": "Eisenstab",
+        "spanish": "varita de hierro",
+        "spanishUs": "varita de hierro",
+        "french": "baguette en fer",
+        "frenchUs": "baguette en fer",
+        "italian": "bacchetta d'acciaio",
+        "dutch": "ijzeren staf",
+        "chinese": "铁棒",
+        "chineseTraditional": "鐵棒",
+        "japanese": "てつのステッキ",
+        "korean": "철 지팡이",
+        "russian": "железная палочка",
+        "plural": false,
+        "internalIds": [
+          7592
+        ]
+      },
+      "materials": {
+        "iron nugget": 3,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1222,7 +2164,56 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "ladder",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Obtained during the main storyline during the villager house development quest",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 2615,
+      "cardColor": "beige",
+      "serialId": 122,
+      "internalId": 107,
+      "uniqueEntryId": "QHAFqRRLE65RSvmQh",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Ladder_02615",
+        "version": "1.0.0",
+        "english": "ladder",
+        "englishEurope": "ladder",
+        "german": "Leiter",
+        "spanish": "escalera de mano",
+        "spanishUs": "escalera de mano",
+        "french": "échelle",
+        "frenchUs": "échelle",
+        "italian": "scala a pioli",
+        "dutch": "ladder",
+        "chinese": "梯子",
+        "chineseTraditional": "梯子",
+        "japanese": "はしご",
+        "korean": "사다리",
+        "russian": "лестница",
+        "plural": false,
+        "internalIds": [
+          2615
+        ]
+      },
+      "materials": {
+        "wood": 4,
+        "hardwood": 4,
+        "softwood": 4
+      },
+      "sources": [
+        "Tom Nook",
+        "Nook's Cranny"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1275,7 +2266,8 @@
     "colors": [],
     "sources": [
       "Isabelle"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -1328,7 +2320,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "lily wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5094,
+      "cardColor": "green",
+      "serialId": 3677,
+      "internalId": 530,
+      "uniqueEntryId": "sKXdSX9eDXe7mEpxG",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_05094",
+        "version": "1.0.0",
+        "english": "lily wand",
+        "englishEurope": "lily wand",
+        "german": "Lilienstab",
+        "spanish": "varita lirio",
+        "spanishUs": "varita lirio",
+        "french": "baguette lys",
+        "frenchUs": "baguette lys",
+        "italian": "bacchetta giglio",
+        "dutch": "leliestaf",
+        "chinese": "百合棒",
+        "chineseTraditional": "百合棒",
+        "japanese": "ユリのステッキ",
+        "korean": "백합 지팡이",
+        "russian": "палочка с лилией",
+        "plural": false,
+        "internalIds": [
+          5094
+        ]
+      },
+      "materials": {
+        "white lilies": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1381,7 +2420,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "mums wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5095,
+      "cardColor": "green",
+      "serialId": 3671,
+      "internalId": 531,
+      "uniqueEntryId": "jbWRPr9kP6jXS3SLW",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_05095",
+        "version": "1.0.0",
+        "english": "mums wand",
+        "englishEurope": "mums wand",
+        "german": "Chrysanthemenstab",
+        "spanish": "varita crisantemo",
+        "spanishUs": "varita crisantemo",
+        "french": "baguette chrysanthème",
+        "frenchUs": "baguette chrysanthème",
+        "italian": "bacchetta crisantemo",
+        "dutch": "chrysantenstaf",
+        "chinese": "菊花棒",
+        "chineseTraditional": "菊花棒",
+        "japanese": "キクのステッキ",
+        "korean": "국화 지팡이",
+        "russian": "палочка с хризантемой",
+        "plural": false,
+        "internalIds": [
+          5095
+        ]
+      },
+      "materials": {
+        "yellow mums": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1437,7 +2523,8 @@
     ],
     "sources": [
       "Nook Miles Shop"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -1490,7 +2577,53 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "ocarina",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase DIY for Beginners at Nook's Cranny",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5320,
+      "cardColor": "brick",
+      "serialId": 133,
+      "internalId": 218,
+      "uniqueEntryId": "QzhL3j8Tgv2cNDZQe",
+      "translations": {
+        "sourceSheet": "ETC",
+        "id": "Ocarina_05320",
+        "version": "1.0.0",
+        "english": "ocarina",
+        "englishEurope": "ocarina",
+        "german": "Okarina",
+        "spanish": "ocarina",
+        "spanishUs": "ocarina",
+        "french": "ocarina",
+        "frenchUs": "ocarina",
+        "italian": "ocarina",
+        "dutch": "ocarina",
+        "chinese": "陶笛",
+        "chineseTraditional": "陶笛",
+        "japanese": "オカリナ",
+        "korean": "오카리나",
+        "russian": "окарина",
+        "plural": false,
+        "internalIds": [
+          5320
+        ]
+      },
+      "materials": {
+        "clay": 5
+      },
+      "sources": [
+        "DIY for Beginners"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1543,7 +2676,53 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pan flute",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Spring",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5517,
+      "cardColor": "green",
+      "serialId": 134,
+      "internalId": 398,
+      "uniqueEntryId": "oEeGqoaMP9XdQE3NF",
+      "translations": {
+        "sourceSheet": "ETC",
+        "id": "Panflute_05517",
+        "version": "1.0.0",
+        "english": "pan flute",
+        "englishEurope": "pan flute",
+        "german": "Panflöte",
+        "spanish": "sicu",
+        "spanishUs": "sicu",
+        "french": "flûte de pan",
+        "frenchUs": "flûte de pan",
+        "italian": "flauto di Pan",
+        "dutch": "panfluit",
+        "chinese": "排笛",
+        "chineseTraditional": "排笛",
+        "japanese": "パンフルート",
+        "korean": "팬파이프",
+        "russian": "многоствольная флейта",
+        "plural": false,
+        "internalIds": [
+          5517
+        ]
+      },
+      "materials": {
+        "young spring bamboo": 7
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1596,7 +2775,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pansy wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5091,
+      "cardColor": "green",
+      "serialId": 3675,
+      "internalId": 527,
+      "uniqueEntryId": "5NPaTGzE9ZCAryFmE",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_05091",
+        "version": "1.0.0",
+        "english": "pansy wand",
+        "englishEurope": "pansy wand",
+        "german": "Veilchenstab",
+        "spanish": "varita viola",
+        "spanishUs": "varita viola",
+        "french": "baguette pensée",
+        "frenchUs": "baguette pensée",
+        "italian": "bacchetta viola",
+        "dutch": "viooltjesstaf",
+        "chinese": "三色堇棒",
+        "chineseTraditional": "三色堇棒",
+        "japanese": "パンジーのステッキ",
+        "korean": "팬지 지팡이",
+        "russian": "палочка с фиалкой",
+        "plural": false,
+        "internalIds": [
+          5091
+        ]
+      },
+      "materials": {
+        "yellow pansies": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1649,7 +2875,8 @@
     "colors": [],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -1702,7 +2929,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "rose wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5093,
+      "cardColor": "green",
+      "serialId": 3674,
+      "internalId": 529,
+      "uniqueEntryId": "hH9qJNGJpxbY2TYTt",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_05093",
+        "version": "1.0.0",
+        "english": "rose wand",
+        "englishEurope": "rose wand",
+        "german": "Rosenstab",
+        "spanish": "varita rosa",
+        "spanishUs": "varita rosa",
+        "french": "baguette rose",
+        "frenchUs": "baguette rose",
+        "italian": "bacchetta rosa",
+        "dutch": "rozenstaf",
+        "chinese": "玫瑰棒",
+        "chineseTraditional": "玫瑰棒",
+        "japanese": "バラのステッキ",
+        "korean": "장미 지팡이",
+        "russian": "палочка с розой",
+        "plural": false,
+        "internalIds": [
+          5093
+        ]
+      },
+      "materials": {
+        "red roses": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1755,7 +3029,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "shell wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Summer",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 7586,
+      "cardColor": "white",
+      "serialId": 2890,
+      "internalId": 534,
+      "uniqueEntryId": "ZTaYhxtmS2F575QLd",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_07586",
+        "version": "1.0.0",
+        "english": "shell wand",
+        "englishEurope": "shell wand",
+        "german": "Muschelstab",
+        "spanish": "varita concha marina",
+        "spanishUs": "varita caracola",
+        "french": "baguette coquillage",
+        "frenchUs": "baguette coquillage",
+        "italian": "bacchetta conchiglia",
+        "dutch": "schelpenstaf",
+        "chinese": "贝壳棒",
+        "chineseTraditional": "貝殼棒",
+        "japanese": "かいがらのステッキ",
+        "korean": "조개껍데기 지팡이",
+        "russian": "палочка с ракушкой",
+        "plural": false,
+        "internalIds": [
+          7586
+        ]
+      },
+      "materials": {
+        "summer shell": 3,
+        "star fragment": 3
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1808,7 +3129,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "star wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 2544,
+      "cardColor": "silver",
+      "serialId": 2291,
+      "internalId": 523,
+      "uniqueEntryId": "yv5a3yQPS9tmBjhaP",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_02544",
+        "version": "1.0.0",
+        "english": "star wand",
+        "englishEurope": "star wand",
+        "german": "Sternenstab",
+        "spanish": "varita estrella",
+        "spanishUs": "varita estrella",
+        "french": "baguette étoile",
+        "frenchUs": "baguette étoile",
+        "italian": "bacchetta stella",
+        "dutch": "sterrenstaf",
+        "chinese": "星星棒",
+        "chineseTraditional": "星星棒",
+        "japanese": "スターなステッキ",
+        "korean": "별 지팡이",
+        "russian": "палочка со звездой",
+        "plural": false,
+        "internalIds": [
+          2544
+        ]
+      },
+      "materials": {
+        "large star fragment": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1861,7 +3229,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "stone axe",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5856,
+      "cardColor": "beige",
+      "serialId": 101,
+      "internalId": 285,
+      "uniqueEntryId": "RYD96qHETZn2ex3EP",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Axe_05856",
+        "version": "1.0.0",
+        "english": "stone axe",
+        "englishEurope": "stone axe",
+        "german": "Steinaxt",
+        "spanish": "hacha de piedra",
+        "spanishUs": "hacha de piedra",
+        "french": "hache de pierre",
+        "frenchUs": "hache de pierre",
+        "italian": "ascia di pietra",
+        "dutch": "stenen bijl",
+        "chinese": "石斧头",
+        "chineseTraditional": "石斧頭",
+        "japanese": "いしのオノ",
+        "korean": "돌도끼",
+        "russian": "каменный топор",
+        "plural": false,
+        "internalIds": [
+          5856
+        ]
+      },
+      "materials": {
+        "flimsy axe": 1,
+        "wood": 3
+      },
+      "sources": [
+        "Pretty Good Tools Recipes"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -1914,7 +3329,8 @@
     "colors": [],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -1967,7 +3383,8 @@
     "colors": [],
     "sources": [
       "Nook's Cranny"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -2020,7 +3437,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "tree-branch wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 7587,
+      "cardColor": "brown",
+      "serialId": 290,
+      "internalId": 535,
+      "uniqueEntryId": "8WNAJXXX3Dn4Ggv5T",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_07587",
+        "version": "1.0.0",
+        "english": "tree-branch wand",
+        "englishEurope": "tree-branch wand",
+        "german": "Zweigstab",
+        "spanish": "varita rama",
+        "spanishUs": "varita rama",
+        "french": "baguette branche",
+        "frenchUs": "baguette branche",
+        "italian": "bacchetta ramo",
+        "dutch": "wilgenstaf",
+        "chinese": "树枝棒",
+        "chineseTraditional": "樹枝棒",
+        "japanese": "きのえだのステッキ",
+        "korean": "나뭇가지 지팡이",
+        "russian": "палочка из ветки",
+        "plural": false,
+        "internalIds": [
+          7587
+        ]
+      },
+      "materials": {
+        "tree branch": 5,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -2073,7 +3537,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "tulip wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5085,
+      "cardColor": "green",
+      "serialId": 3673,
+      "internalId": 526,
+      "uniqueEntryId": "Hzq4v5JtEKASys3vY",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_05085",
+        "version": "1.0.0",
+        "english": "tulip wand",
+        "englishEurope": "tulip wand",
+        "german": "Tulpenstab",
+        "spanish": "varita tulipán",
+        "spanishUs": "varita tulipán",
+        "french": "baguette tulipe",
+        "frenchUs": "baguette tulipe",
+        "italian": "bacchetta tulipano",
+        "dutch": "tulpenstaf",
+        "chinese": "郁金香棒",
+        "chineseTraditional": "鬱金香棒",
+        "japanese": "チューリップのステッキ",
+        "korean": "튤립 지팡이",
+        "russian": "палочка с тюльпаном",
+        "plural": false,
+        "internalIds": [
+          5085
+        ]
+      },
+      "materials": {
+        "red tulips": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -2126,7 +3637,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "vaulting pole",
+      "buy": 500,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 4703,
+      "cardColor": "beige",
+      "serialId": 121,
+      "internalId": 183,
+      "uniqueEntryId": "osL5JbW5XpPxQZR6b",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "WoodenStickTool_04703",
+        "version": "1.0.0",
+        "english": "vaulting pole",
+        "englishEurope": "vaulting pole",
+        "german": "Sprungstab",
+        "spanish": "pértiga",
+        "spanishUs": "garrocha",
+        "french": "perche",
+        "frenchUs": "perche",
+        "italian": "asta da salto",
+        "dutch": "polsstok",
+        "chinese": "撑杆跳竿子",
+        "chineseTraditional": "撐竿跳竿子",
+        "japanese": "たかとびぼう",
+        "korean": "높이뛰기 장대",
+        "russian": "шест",
+        "plural": false,
+        "internalIds": [
+          4703
+        ]
+      },
+      "materials": {
+        "softwood": 5
+      },
+      "sources": [
+        "Blathers",
+        "Nook's Cranny"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -2179,7 +3737,53 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 7584,
+      "cardColor": "beige",
+      "serialId": 123,
+      "internalId": 532,
+      "uniqueEntryId": "8vcfcHLWY7MLbb9Hn",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_07584",
+        "version": "1.0.0",
+        "english": "wand",
+        "englishEurope": "wand",
+        "german": "Stab",
+        "spanish": "varita",
+        "spanishUs": "varita",
+        "french": "baguette magique",
+        "frenchUs": "baguette magique",
+        "italian": "bacchetta",
+        "dutch": "toverstaf",
+        "chinese": "棒子",
+        "chineseTraditional": "棒子",
+        "japanese": "ステッキ",
+        "korean": "지팡이",
+        "russian": "палочка",
+        "plural": false,
+        "internalIds": [
+          7584
+        ]
+      },
+      "materials": {
+        "star fragment": 2
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -2232,7 +3836,54 @@
     "colors": [],
     "sources": [
       "Cyrus"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "wedding wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Wedding Season",
+      "versionAdded": "1.2.0",
+      "versionUnlocked": "1.2.1c",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 12695,
+      "cardColor": "green",
+      "serialId": 3678,
+      "internalId": 715,
+      "uniqueEntryId": "LokHc5XaxADprKGWJ",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_12695",
+        "version": "1.2.0",
+        "english": "wedding wand",
+        "englishEurope": "wedding wand",
+        "german": "Hochzeitsstab",
+        "spanish": "varita ramo de boda",
+        "spanishUs": "varita ramo de boda",
+        "french": "baguette de mariage",
+        "frenchUs": "baguette de mariage",
+        "italian": "bacchetta nuziale",
+        "dutch": "trouwstaf",
+        "chinese": "婚礼棒",
+        "chineseTraditional": "婚禮棒",
+        "japanese": "ウェディングなステッキ",
+        "korean": "웨딩 지팡이",
+        "russian": "свадебная палочка",
+        "plural": false,
+        "internalIds": [
+          12695
+        ]
+      },
+      "materials": {
+        "wedding flower stand": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Cyrus"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -2285,7 +3936,54 @@
     "colors": [],
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "windflower wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5084,
+      "cardColor": "green",
+      "serialId": 3670,
+      "internalId": 525,
+      "uniqueEntryId": "GFM7MzdiDKiqhBb9X",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_05084",
+        "version": "1.0.0",
+        "english": "windflower wand",
+        "englishEurope": "windflower wand",
+        "german": "Anemonenstab",
+        "spanish": "varita anémona",
+        "spanishUs": "varita anémona",
+        "french": "baguette anémone",
+        "frenchUs": "baguette anémone",
+        "italian": "bacchetta anemone",
+        "dutch": "anemonenstaf",
+        "chinese": "银莲花棒",
+        "chineseTraditional": "銀蓮花棒",
+        "japanese": "アネモネのステッキ",
+        "korean": "아네모네 지팡이",
+        "russian": "палочка с ветреницей",
+        "plural": false,
+        "internalIds": [
+          5084
+        ]
+      },
+      "materials": {
+        "orange windflowers": 1,
+        "star fragment": 3
+      },
+      "sources": [
+        "Celeste"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -2338,7 +4036,8 @@
     "colors": [],
     "sources": [
       "May Day Tour"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -2507,7 +4206,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -2676,7 +4376,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -2845,7 +4546,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -3014,7 +4716,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -3183,7 +4886,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -3352,7 +5056,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -3521,7 +5226,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -3690,7 +5396,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "fishing rod",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 2377,
+      "cardColor": "beige",
+      "serialId": 106,
+      "internalId": 282,
+      "uniqueEntryId": "FeccEGBoFMHyMM75Q",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "FishingRod_02377",
+        "version": "1.0.0",
+        "english": "fishing rod",
+        "englishEurope": "fishing rod",
+        "german": "Angel",
+        "spanish": "caña",
+        "spanishUs": "caña",
+        "french": "canne à pêche",
+        "frenchUs": "canne à pêche",
+        "italian": "canna da pesca",
+        "dutch": "hengel",
+        "chinese": "钓竿",
+        "chineseTraditional": "釣竿",
+        "japanese": "つりざお",
+        "korean": "낚싯대",
+        "russian": "удочка",
+        "plural": false,
+        "internalIds": [
+          2377
+        ]
+      },
+      "materials": {
+        "flimsy fishing rod": 1,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Pretty Good Tools Recipes"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -3811,7 +5564,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "mushroom wand",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Mushroom Season",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 7588,
+      "cardColor": "orange",
+      "serialId": 3090,
+      "internalId": 536,
+      "uniqueEntryId": "N9He3qRD3RjrqQeGG",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "ChangeStick_07588",
+        "version": "1.0.0",
+        "english": "mushroom wand",
+        "englishEurope": "mushroom wand",
+        "german": "Pilzstab",
+        "spanish": "varita champiñón",
+        "spanishUs": "varita champiñón",
+        "french": "baguette champignon",
+        "frenchUs": "baguette champignon",
+        "italian": "bacchetta fungo",
+        "dutch": "paddenstoelstaf",
+        "chinese": "蘑菇棒",
+        "chineseTraditional": "蘑菇棒",
+        "japanese": "キノコのステッキ",
+        "korean": "버섯 지팡이",
+        "russian": "грибная палочка",
+        "plural": false,
+        "internalIds": [
+          7588
+        ]
+      },
+      "materials": {
+        "skinny mushroom": 3,
+        "star fragment": 3
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -3988,7 +5788,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "net",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 5784,
+      "cardColor": "beige",
+      "serialId": 108,
+      "internalId": 283,
+      "uniqueEntryId": "FZBFrFQRtepzzWPFp",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Net_05784",
+        "version": "1.0.0",
+        "english": "net",
+        "englishEurope": "net",
+        "german": "Kescher",
+        "spanish": "red",
+        "spanishUs": "red",
+        "french": "filet",
+        "frenchUs": "filet",
+        "italian": "retino",
+        "dutch": "net",
+        "chinese": "捕虫网",
+        "chineseTraditional": "捕蟲網",
+        "japanese": "あみ",
+        "korean": "잠자리채",
+        "russian": "сачок",
+        "plural": false,
+        "internalIds": [
+          5784
+        ]
+      },
+      "materials": {
+        "flimsy net": 1,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Pretty Good Tools Recipes"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -4157,7 +6004,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -4326,7 +6174,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -4495,7 +6344,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -4664,7 +6514,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -4833,7 +6684,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -5002,7 +6854,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -5171,7 +7024,54 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "shovel",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 2099,
+      "cardColor": "beige",
+      "serialId": 104,
+      "internalId": 281,
+      "uniqueEntryId": "M3RrgtikixGSNWq24",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Shovel_02099",
+        "version": "1.0.0",
+        "english": "shovel",
+        "englishEurope": "shovel",
+        "german": "Schaufel",
+        "spanish": "pala",
+        "spanishUs": "pala",
+        "french": "pelle",
+        "frenchUs": "pelle",
+        "italian": "pala",
+        "dutch": "schep",
+        "chinese": "铲子",
+        "chineseTraditional": "鏟子",
+        "japanese": "スコップ",
+        "korean": "삽",
+        "russian": "лопата",
+        "plural": false,
+        "internalIds": [
+          2099
+        ]
+      },
+      "materials": {
+        "flimsy shovel": 1,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Pretty Good Tools Recipes"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -5348,7 +7248,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "slingshot",
+      "buy": 300,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 2822,
+      "cardColor": "beige",
+      "serialId": 111,
+      "internalId": 29,
+      "uniqueEntryId": "Bbew7NAtvtH9wLJrD",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Slingshot_02822",
+        "version": "1.0.0",
+        "english": "slingshot",
+        "englishEurope": "slingshot",
+        "german": "Schleuder",
+        "spanish": "tirachinas",
+        "spanishUs": "resortera",
+        "french": "lance-pierre",
+        "frenchUs": "lance-pierre",
+        "italian": "fionda",
+        "dutch": "katapult",
+        "chinese": "弹弓",
+        "chineseTraditional": "彈弓",
+        "japanese": "パチンコ",
+        "korean": "새총",
+        "russian": "рогатка",
+        "plural": false,
+        "internalIds": [
+          2822
+        ]
+      },
+      "materials": {
+        "hardwood": 5
+      },
+      "sources": [
+        "Nook's Cranny"
+      ]
+    }
   },
   {
     "sourceSheet": "Tools",
@@ -5517,7 +7463,8 @@
           "Nook's Cranny"
         ]
       }
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Tools",
@@ -5686,6 +7633,53 @@
           "Crafting"
         ]
       }
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "watering can",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 2379,
+      "cardColor": "beige",
+      "serialId": 110,
+      "internalId": 280,
+      "uniqueEntryId": "2AGD3mCFzDSDNNZoK",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": "Watering_02379",
+        "version": "1.0.0",
+        "english": "watering can",
+        "englishEurope": "watering can",
+        "german": "Gießkanne",
+        "spanish": "regadera",
+        "spanishUs": "regadera",
+        "french": "arrosoir",
+        "frenchUs": "arrosoir",
+        "italian": "annaffiatoio",
+        "dutch": "gieter",
+        "chinese": "浇花壶",
+        "chineseTraditional": "澆花壺",
+        "japanese": "ジョウロ",
+        "korean": "물뿌리개",
+        "russian": "лейка",
+        "plural": false,
+        "internalIds": [
+          2379
+        ]
+      },
+      "materials": {
+        "flimsy watering can": 1,
+        "iron nugget": 1
+      },
+      "sources": [
+        "Pretty Good Tools Recipes"
+      ]
+    }
   }
 ]

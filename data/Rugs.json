@@ -52,7 +52,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -107,7 +108,53 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "apple rug",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Rugs",
+      "craftedItemInternalId": 7327,
+      "cardColor": "red",
+      "serialId": 1770,
+      "internalId": 542,
+      "uniqueEntryId": "5noTnXTTPzBfbsaz2",
+      "translations": {
+        "sourceSheet": "Rugs",
+        "id": "Rug_07327",
+        "version": "1.0.0",
+        "english": "apple rug",
+        "englishEurope": "apple rug",
+        "german": "Apfel-Teppich",
+        "spanish": "alfombra manzana",
+        "spanishUs": "alfombra manzana",
+        "french": "tapis pomme",
+        "frenchUs": "tapis pomme",
+        "italian": "tappeto mela",
+        "dutch": "appeltapijt",
+        "chinese": "苹果地毯",
+        "chineseTraditional": "蘋果地毯",
+        "japanese": "リンゴのラグ",
+        "korean": "사과 러그",
+        "russian": "ковер-яблоко",
+        "plural": false,
+        "internalIds": [
+          7327
+        ]
+      },
+      "materials": {
+        "apple": 6
+      },
+      "sources": [
+        "Big Sister villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Rugs",
@@ -158,7 +205,8 @@
     "series": null,
     "sources": [
       "Nook Miles Shop"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -212,7 +260,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -266,7 +315,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -320,7 +370,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -375,7 +426,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -429,7 +481,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -484,7 +537,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -538,7 +592,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -592,7 +647,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -647,7 +703,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -701,7 +758,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -756,7 +814,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -810,7 +869,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -865,7 +925,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -920,7 +981,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -974,7 +1036,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1029,7 +1092,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1081,7 +1145,8 @@
     "series": "wedding",
     "sources": [
       "Cyrus"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1135,7 +1200,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1189,7 +1255,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1244,7 +1311,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1298,7 +1366,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1352,7 +1421,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1406,7 +1476,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1458,7 +1529,59 @@
     "series": "Bunny Day",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "Bunny Day rug",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Bunny Day",
+      "versionAdded": "1.1.0",
+      "versionUnlocked": "1.1.0a",
+      "recipesToUnlock": 0,
+      "category": "Rugs",
+      "craftedItemInternalId": 7546,
+      "cardColor": "yellow",
+      "serialId": 3752,
+      "internalId": 709,
+      "uniqueEntryId": "qhQxRtRZztg72hh23",
+      "translations": {
+        "sourceSheet": "Rugs",
+        "id": "Rug_07546",
+        "version": "1.1.0",
+        "english": "Bunny Day rug",
+        "englishEurope": "Bunny Day rug",
+        "german": "Häschentag-Teppich",
+        "spanish": "alfombra Caza del Huevo",
+        "spanishUs": "alfombra Caza del Huevo",
+        "french": "tapis fête des œufs",
+        "frenchUs": "tapis fête des œufs",
+        "italian": "tappeto caccia all'uovo",
+        "dutch": "eiertapijt",
+        "chinese": "复活节地毯",
+        "chineseTraditional": "復活節地毯",
+        "japanese": "イースターなラグ",
+        "korean": "이스터 러그",
+        "russian": "ковер «День зайцев»",
+        "plural": false,
+        "internalIds": [
+          7546
+        ]
+      },
+      "materials": {
+        "earth egg": 1,
+        "stone egg": 1,
+        "leaf egg": 1,
+        "wood egg": 1,
+        "sky egg": 1,
+        "water egg": 1
+      },
+      "sources": [
+        "Egg bottle",
+        "Egg balloon"
+      ]
+    }
   },
   {
     "sourceSheet": "Rugs",
@@ -1513,7 +1636,53 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "cherry rug",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Rugs",
+      "craftedItemInternalId": 7328,
+      "cardColor": "yellow",
+      "serialId": 1470,
+      "internalId": 543,
+      "uniqueEntryId": "pMnYDcm7v9cjAdLj2",
+      "translations": {
+        "sourceSheet": "Rugs",
+        "id": "Rug_07328",
+        "version": "1.0.0",
+        "english": "cherry rug",
+        "englishEurope": "cherry rug",
+        "german": "Kirsch-Teppich",
+        "spanish": "alfombra cerezas",
+        "spanishUs": "alfombra cerezas",
+        "french": "tapis cerises",
+        "frenchUs": "tapis cerises",
+        "italian": "tappeto ciliegia",
+        "dutch": "kersentapijt",
+        "chinese": "樱桃地毯",
+        "chineseTraditional": "櫻桃地毯",
+        "japanese": "さくらんぼのラグ",
+        "korean": "체리 러그",
+        "russian": "ковер-вишни",
+        "plural": false,
+        "internalIds": [
+          7328
+        ]
+      },
+      "materials": {
+        "cherry": 6
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Rugs",
@@ -1567,7 +1736,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1621,7 +1791,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "dark bamboo rug",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 50,
+      "category": "Rugs",
+      "craftedItemInternalId": 11114,
+      "cardColor": "green",
+      "serialId": 2470,
+      "internalId": 672,
+      "uniqueEntryId": "4FRs7iQAhxjseeyWP",
+      "translations": {
+        "sourceSheet": "Rugs",
+        "id": "Rug_11114",
+        "version": "1.0.0",
+        "english": "dark bamboo rug",
+        "englishEurope": "dark bamboo rug",
+        "german": "Dunkel-Bambusmatte",
+        "spanish": "alfombra bambú oscura",
+        "spanishUs": "alfombra bambú oscura",
+        "french": "tapis bambou sombre",
+        "frenchUs": "tapis bambou sombre",
+        "italian": "tappeto di bambù scuro",
+        "dutch": "donkere bamboemat",
+        "chinese": "深色竹子地垫",
+        "chineseTraditional": "深色竹地毯",
+        "japanese": "ダークなバンブーラグ",
+        "korean": "어두운 대나무 러그",
+        "russian": "темный бамбук. коврик",
+        "plural": false,
+        "internalIds": [
+          11114
+        ]
+      },
+      "materials": {
+        "bamboo piece": 6
+      },
+      "sources": [
+        "Cranky villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Rugs",
@@ -1676,7 +1892,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1731,7 +1948,8 @@
     "series": null,
     "sources": [
       "Fishing Tourney"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1786,7 +2004,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1841,7 +2060,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1896,7 +2116,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -1950,7 +2171,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2004,7 +2226,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2058,7 +2281,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2113,7 +2337,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2168,7 +2393,8 @@
     "series": "iron",
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2223,7 +2449,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2277,7 +2504,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2332,7 +2560,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2387,7 +2616,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2442,7 +2672,8 @@
     "series": null,
     "sources": [
       "Bug-Off"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2496,7 +2727,53 @@
     "series": null,
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "light bamboo rug",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": "Only available during Spring",
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Rugs",
+      "craftedItemInternalId": 11113,
+      "cardColor": "green",
+      "serialId": 2570,
+      "internalId": 671,
+      "uniqueEntryId": "QfT9N8GGPr4x3u9hH",
+      "translations": {
+        "sourceSheet": "Rugs",
+        "id": "Rug_11113",
+        "version": "1.0.0",
+        "english": "light bamboo rug",
+        "englishEurope": "light bamboo rug",
+        "german": "Hell-Bambusmatte",
+        "spanish": "alfombra bambú clara",
+        "spanishUs": "alfombra bambú clara",
+        "french": "tapis bambou clair",
+        "frenchUs": "tapis bambou clair",
+        "italian": "tappeto di bambù chiaro",
+        "dutch": "lichte bamboemat",
+        "chinese": "浅色竹子地垫",
+        "chineseTraditional": "淺色竹地毯",
+        "japanese": "ライトなバンブーラグ",
+        "korean": "밝은 대나무 러그",
+        "russian": "светлый бамбук. коврик",
+        "plural": false,
+        "internalIds": [
+          11113
+        ]
+      },
+      "materials": {
+        "young spring bamboo": 6
+      },
+      "sources": [
+        "Balloons"
+      ]
+    }
   },
   {
     "sourceSheet": "Rugs",
@@ -2551,7 +2828,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2606,7 +2884,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2661,7 +2940,8 @@
     "series": "motherly",
     "sources": [
       "Mom"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2716,7 +2996,8 @@
     "series": "motherly",
     "sources": [
       "Mom"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2771,7 +3052,8 @@
     "series": "motherly",
     "sources": [
       "Mom"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2826,7 +3108,8 @@
     "series": "motherly",
     "sources": [
       "Mom"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2881,7 +3164,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2936,7 +3220,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -2991,7 +3276,8 @@
     "series": "mush",
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3045,7 +3331,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3097,7 +3384,8 @@
     "series": null,
     "sources": [
       "Nook Miles Shop"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3152,7 +3440,8 @@
     "series": null,
     "sources": [
       "Nook Miles Shop"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3204,7 +3493,8 @@
     "series": null,
     "sources": [
       "Nook Miles Shop"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3259,7 +3549,53 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "orange rug",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Rugs",
+      "craftedItemInternalId": 7330,
+      "cardColor": "orange",
+      "serialId": 1370,
+      "internalId": 544,
+      "uniqueEntryId": "ACfErxWo9j2zKTe47",
+      "translations": {
+        "sourceSheet": "Rugs",
+        "id": "Rug_07330",
+        "version": "1.0.0",
+        "english": "orange rug",
+        "englishEurope": "orange rug",
+        "german": "Orangen-Teppich",
+        "spanish": "alfombra rodaja de naranja",
+        "spanishUs": "alfombra rodaja de naranja",
+        "french": "tapis orange",
+        "frenchUs": "tapis orange",
+        "italian": "tappeto arancia",
+        "dutch": "sinaasappeltapijt",
+        "chinese": "橘子地毯",
+        "chineseTraditional": "橘子地毯",
+        "japanese": "オレンジのラグ",
+        "korean": "오렌지 러그",
+        "russian": "ковер-апельсин",
+        "plural": false,
+        "internalIds": [
+          7330
+        ]
+      },
+      "materials": {
+        "orange": 6
+      },
+      "sources": [
+        "Lazy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Rugs",
@@ -3313,7 +3649,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3368,7 +3705,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3423,7 +3761,53 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "peach rug",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Rugs",
+      "craftedItemInternalId": 7331,
+      "cardColor": "pink",
+      "serialId": 1570,
+      "internalId": 545,
+      "uniqueEntryId": "qYQTQktpoWBckW63d",
+      "translations": {
+        "sourceSheet": "Rugs",
+        "id": "Rug_07331",
+        "version": "1.0.0",
+        "english": "peach rug",
+        "englishEurope": "peach rug",
+        "german": "Pfirsich-Teppich",
+        "spanish": "alfombra melocotón",
+        "spanishUs": "alfombra durazno",
+        "french": "tapis pêche",
+        "frenchUs": "tapis pêche",
+        "italian": "tappeto pesca",
+        "dutch": "perziktapijt",
+        "chinese": "桃子地毯",
+        "chineseTraditional": "桃子地毯",
+        "japanese": "モモのラグ",
+        "korean": "복숭아 러그",
+        "russian": "ковер-персик",
+        "plural": false,
+        "internalIds": [
+          7331
+        ]
+      },
+      "materials": {
+        "peach": 6
+      },
+      "sources": [
+        "Normal villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Rugs",
@@ -3478,7 +3862,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3533,7 +3918,53 @@
     "series": "fruits",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "pear rug",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 100,
+      "category": "Rugs",
+      "craftedItemInternalId": 7332,
+      "cardColor": "green",
+      "serialId": 1670,
+      "internalId": 546,
+      "uniqueEntryId": "eEcepcMqPiijQzjta",
+      "translations": {
+        "sourceSheet": "Rugs",
+        "id": "Rug_07332",
+        "version": "1.0.0",
+        "english": "pear rug",
+        "englishEurope": "pear rug",
+        "german": "Birnen-Teppich",
+        "spanish": "alfombra pera",
+        "spanishUs": "alfombra pera",
+        "french": "tapis poire",
+        "frenchUs": "tapis poire",
+        "italian": "tappeto pera",
+        "dutch": "peertapijt",
+        "chinese": "梨子地毯",
+        "chineseTraditional": "梨子地毯",
+        "japanese": "ナシのラグ",
+        "korean": "배 러그",
+        "russian": "ковер-груша",
+        "plural": false,
+        "internalIds": [
+          7332
+        ]
+      },
+      "materials": {
+        "pear": 6
+      },
+      "sources": [
+        "Jock villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Rugs",
@@ -3588,7 +4019,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3643,7 +4075,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3698,7 +4131,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3753,7 +4187,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3807,7 +4242,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3862,7 +4298,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3916,7 +4353,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -3970,7 +4408,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4025,7 +4464,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4079,7 +4519,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4134,7 +4575,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4188,7 +4630,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4243,7 +4686,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4298,7 +4742,8 @@
     "series": "flowers",
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4353,7 +4798,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4407,7 +4853,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4462,7 +4909,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4514,7 +4962,8 @@
     "series": "wedding",
     "sources": [
       "Cyrus"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4569,7 +5018,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4623,7 +5073,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4678,7 +5129,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4733,7 +5185,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4787,7 +5240,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4841,7 +5295,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -4896,7 +5351,53 @@
     "series": "shell",
     "sources": [
       "Crafting"
-    ]
+    ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "shell rug",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.0.0",
+      "versionUnlocked": "1.0.0",
+      "recipesToUnlock": 0,
+      "category": "Rugs",
+      "craftedItemInternalId": 7362,
+      "cardColor": "white",
+      "serialId": 2770,
+      "internalId": 668,
+      "uniqueEntryId": "pJJzEZ9zTJQvgRdLu",
+      "translations": {
+        "sourceSheet": "Rugs",
+        "id": "Rug_07362",
+        "version": "1.0.0",
+        "english": "shell rug",
+        "englishEurope": "shell rug",
+        "german": "Muschelteppich",
+        "spanish": "alfombra concha",
+        "spanishUs": "alfombra concha marina",
+        "french": "tapis coquillage",
+        "frenchUs": "tapis coquillage",
+        "italian": "tappeto conchiglia",
+        "dutch": "schelptapijt",
+        "chinese": "贝壳地毯",
+        "chineseTraditional": "貝殼地毯",
+        "japanese": "かいがらのラグ",
+        "korean": "조개껍데기 러그",
+        "russian": "ковер-ракушка",
+        "plural": false,
+        "internalIds": [
+          7362
+        ]
+      },
+      "materials": {
+        "giant clam": 3
+      },
+      "sources": [
+        "Peppy villagers"
+      ]
+    }
   },
   {
     "sourceSheet": "Rugs",
@@ -4950,7 +5451,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5005,7 +5507,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5060,7 +5563,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5115,7 +5619,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5170,7 +5675,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5225,7 +5731,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5280,7 +5787,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5335,7 +5843,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5389,7 +5898,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5443,7 +5953,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5498,7 +6009,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5553,7 +6065,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5608,7 +6121,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5663,7 +6177,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5718,7 +6233,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5773,7 +6289,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5828,7 +6345,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5883,7 +6401,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5938,7 +6457,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -5992,7 +6512,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6046,7 +6567,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6101,7 +6623,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6156,7 +6679,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6210,7 +6734,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6265,7 +6790,8 @@
     "series": "flowers",
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6320,7 +6846,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6375,7 +6902,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6427,7 +6955,8 @@
     "series": "wedding",
     "sources": [
       "Cyrus"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6481,7 +7010,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6536,7 +7066,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6590,7 +7121,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6645,7 +7177,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6699,7 +7232,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6753,7 +7287,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6808,7 +7343,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6862,7 +7398,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6917,7 +7454,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -6972,7 +7510,8 @@
     "series": "flowers",
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -7027,7 +7566,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -7082,7 +7622,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -7136,7 +7677,8 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   },
   {
     "sourceSheet": "Rugs",
@@ -7190,6 +7732,7 @@
     "series": null,
     "sources": [
       "Saharah"
-    ]
+    ],
+    "recipe": null
   }
 ]
