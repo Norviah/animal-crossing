@@ -3,7 +3,7 @@ import { writeFileSync } from 'fs';
 import { get } from '../util/get';
 import { files } from '../util/category';
 
-// This script combines values of items into an array and sets the trnaslations.
+// This script combines values of items into an array and sets the translations.
 
 // Represents the keys to delete from items after we joined values.
 const keys: string[] = [
