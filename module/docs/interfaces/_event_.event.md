@@ -23,7 +23,7 @@
 
 • **event**: *string*
 
-*Defined in [Event.ts:3](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Event.ts#L3)*
+*Defined in [Event.ts:3](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Event.ts#L3)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **northernHemisphereDates**: *string*
 
-*Defined in [Event.ts:4](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Event.ts#L4)*
+*Defined in [Event.ts:4](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Event.ts#L4)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **sourceSheet**: *[SourceSheet](../enums/_event_.sourcesheet.md)*
 
-*Defined in [Event.ts:2](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Event.ts#L2)*
+*Defined in [Event.ts:2](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Event.ts#L2)*
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 • **southernHemisphereDates**: *string*
 
-*Defined in [Event.ts:5](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Event.ts#L5)*
+*Defined in [Event.ts:5](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Event.ts#L5)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **times**: *[Times](../enums/_event_.times.md)*
 
-*Defined in [Event.ts:6](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Event.ts#L6)*
+*Defined in [Event.ts:6](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Event.ts#L6)*
 
 ___
 
@@ -63,4 +63,4 @@ ___
 
 • **translations**: *[Translations](_event_.translations.md) | null*
 
-*Defined in [Event.ts:7](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Event.ts#L7)*
+*Defined in [Event.ts:7](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Event.ts#L7)*

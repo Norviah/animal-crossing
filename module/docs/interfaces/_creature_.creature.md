@@ -42,7 +42,7 @@
 
 • **colors**: *[Color](../enums/_creature_.color.md)[]*
 
-*Defined in [Creature.ts:25](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L25)*
+*Defined in [Creature.ts:25](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L25)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **critterpediaFilename**: *string*
 
-*Defined in [Creature.ts:19](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L19)*
+*Defined in [Creature.ts:19](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L19)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **critterpediaImage**: *string*
 
-*Defined in [Creature.ts:6](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L6)*
+*Defined in [Creature.ts:6](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L6)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **furnitureFilename**: *string*
 
-*Defined in [Creature.ts:20](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L20)*
+*Defined in [Creature.ts:20](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L20)*
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 • **furnitureImage**: *string*
 
-*Defined in [Creature.ts:7](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L7)*
+*Defined in [Creature.ts:7](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L7)*
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 • **hemipsheres**: *[Hemipsheres](_creature_.hemipsheres.md)*
 
-*Defined in [Creature.ts:24](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L24)*
+*Defined in [Creature.ts:24](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L24)*
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 • **hhaBaseScore**: *number*
 
-*Defined in [Creature.ts:16](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L16)*
+*Defined in [Creature.ts:16](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L16)*
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 • **iconFilename**: *string*
 
-*Defined in [Creature.ts:18](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L18)*
+*Defined in [Creature.ts:18](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L18)*
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 • **iconImage**: *string*
 
-*Defined in [Creature.ts:5](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L5)*
+*Defined in [Creature.ts:5](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L5)*
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 • **internalId**: *number*
 
-*Defined in [Creature.ts:21](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L21)*
+*Defined in [Creature.ts:21](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L21)*
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 • **lightingType**? : *[LightingType](../enums/_creature_.lightingtype.md) | null*
 
-*Defined in [Creature.ts:17](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L17)*
+*Defined in [Creature.ts:17](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L17)*
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [Creature.ts:4](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L4)*
+*Defined in [Creature.ts:4](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L4)*
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 • **num**: *number*
 
-*Defined in [Creature.ts:3](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L3)*
+*Defined in [Creature.ts:3](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L3)*
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 • **rainSnowCatchUp**? : *undefined | false | true*
 
-*Defined in [Creature.ts:15](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L15)*
+*Defined in [Creature.ts:15](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L15)*
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 • **sell**: *number*
 
-*Defined in [Creature.ts:10](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L10)*
+*Defined in [Creature.ts:10](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L10)*
 
 ___
 
@@ -162,7 +162,7 @@ ___
 
 • **shadow**? : *undefined | string*
 
-*Defined in [Creature.ts:12](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L12)*
+*Defined in [Creature.ts:12](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L12)*
 
 ___
 
@@ -170,7 +170,7 @@ ___
 
 • **size**: *[Size](../enums/_creature_.size.md)*
 
-*Defined in [Creature.ts:8](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L8)*
+*Defined in [Creature.ts:8](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L8)*
 
 ___
 
@@ -178,7 +178,7 @@ ___
 
 • **sourceSheet**: *[CreatureSourceSheet](../enums/_creature_.creaturesourcesheet.md)*
 
-*Defined in [Creature.ts:2](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L2)*
+*Defined in [Creature.ts:2](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L2)*
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 • **spawnRates**: *string*
 
-*Defined in [Creature.ts:14](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L14)*
+*Defined in [Creature.ts:14](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L14)*
 
 ___
 
@@ -194,7 +194,7 @@ ___
 
 • **surface**: *boolean*
 
-*Defined in [Creature.ts:9](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L9)*
+*Defined in [Creature.ts:9](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L9)*
 
 ___
 
@@ -202,7 +202,7 @@ ___
 
 • **totalCatchesToUnlock**: *number*
 
-*Defined in [Creature.ts:13](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L13)*
+*Defined in [Creature.ts:13](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L13)*
 
 ___
 
@@ -210,7 +210,7 @@ ___
 
 • **translations**: *[Translations](_creature_.translations.md)*
 
-*Defined in [Creature.ts:23](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L23)*
+*Defined in [Creature.ts:23](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L23)*
 
 ___
 
@@ -218,7 +218,7 @@ ___
 
 • **uniqueEntryId**: *string*
 
-*Defined in [Creature.ts:22](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L22)*
+*Defined in [Creature.ts:22](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L22)*
 
 ___
 
@@ -226,7 +226,7 @@ ___
 
 • **weather**? : *[Weather](../enums/_creature_.weather.md)*
 
-*Defined in [Creature.ts:26](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L26)*
+*Defined in [Creature.ts:26](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L26)*
 
 ___
 
@@ -234,4 +234,4 @@ ___
 
 • **whereHow**: *string*
 
-*Defined in [Creature.ts:11](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Creature.ts#L11)*
+*Defined in [Creature.ts:11](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L11)*
