@@ -25,8 +25,10 @@ for (const villager of villagers) {
     delete villager[key];
   }
 
-  villager.defaultClothingID = villager.defaultClothing;
-  villager.defaultClothing = items.find((item) => item['Internal ID'] === villager.defaultClothingID)?.Name ?? null;
+  const clothingInternalId = villager.defaultClothing;
+
+  villager.defaultClothingInternalId = clothingInternalId;
+  villager.defaultClothing = items.find((item) => item['Internal ID'] === clothingInternalId)?.Name ?? null;
 }
 
 writeFileSync(join(directories.sanitized, `Villagers.json`), JSON.stringify(villagers, null, 2));
