@@ -28598,7 +28598,7 @@
     "catalog": "Not for sale",
     "bodyTitle": "Design",
     "bodyCustomize": true,
-    "buy": 1000,
+    "buy": -1,
     "sell": 250,
     "translations": {
       "sourceSheet": "Furniture",

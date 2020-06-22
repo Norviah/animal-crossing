@@ -101,7 +101,7 @@
       "Black",
       "Blue"
     ],
-    "defaultClothingID": 3164
+    "defaultClothingInternalId": 3164
   },
   {
     "sourceSheet": "Villagers",
@@ -207,7 +207,7 @@
       "Blue",
       "Black"
     ],
-    "defaultClothingID": 12036
+    "defaultClothingInternalId": 12036
   },
   {
     "sourceSheet": "Villagers",
@@ -313,7 +313,7 @@
       "Pink",
       "White"
     ],
-    "defaultClothingID": 4290
+    "defaultClothingInternalId": 4290
   },
   {
     "sourceSheet": "Villagers",
@@ -415,7 +415,7 @@
       "Red",
       "White"
     ],
-    "defaultClothingID": 3244
+    "defaultClothingInternalId": 3244
   },
   {
     "sourceSheet": "Villagers",
@@ -517,7 +517,7 @@
       "Red",
       "Blue"
     ],
-    "defaultClothingID": 7969
+    "defaultClothingInternalId": 7969
   },
   {
     "sourceSheet": "Villagers",
@@ -621,7 +621,7 @@
       "Red",
       "Pink"
     ],
-    "defaultClothingID": 4729
+    "defaultClothingInternalId": 4729
   },
   {
     "sourceSheet": "Villagers",
@@ -721,7 +721,7 @@
       "Yellow",
       "Brown"
     ],
-    "defaultClothingID": 8199
+    "defaultClothingInternalId": 8199
   },
   {
     "sourceSheet": "Villagers",
@@ -823,7 +823,7 @@
       "Black",
       "White"
     ],
-    "defaultClothingID": 7675
+    "defaultClothingInternalId": 7675
   },
   {
     "sourceSheet": "Villagers",
@@ -931,7 +931,7 @@
       "Green",
       "Blue"
     ],
-    "defaultClothingID": 8190
+    "defaultClothingInternalId": 8190
   },
   {
     "sourceSheet": "Villagers",
@@ -1033,7 +1033,7 @@
       "Colorful",
       "Orange"
     ],
-    "defaultClothingID": 3630
+    "defaultClothingInternalId": 3630
   },
   {
     "sourceSheet": "Villagers",
@@ -1135,7 +1135,7 @@
       "Red",
       "Black"
     ],
-    "defaultClothingID": 9536
+    "defaultClothingInternalId": 9536
   },
   {
     "sourceSheet": "Villagers",
@@ -1245,7 +1245,7 @@
       "Red",
       "Pink"
     ],
-    "defaultClothingID": 7641
+    "defaultClothingInternalId": 7641
   },
   {
     "sourceSheet": "Villagers",
@@ -1343,7 +1343,7 @@
       "Colorful",
       "Brown"
     ],
-    "defaultClothingID": 3441
+    "defaultClothingInternalId": 3441
   },
   {
     "sourceSheet": "Villagers",
@@ -1443,7 +1443,7 @@
       "Red",
       "Pink"
     ],
-    "defaultClothingID": 3572
+    "defaultClothingInternalId": 3572
   },
   {
     "sourceSheet": "Villagers",
@@ -1545,7 +1545,7 @@
       "Blue",
       "Purple"
     ],
-    "defaultClothingID": 8190
+    "defaultClothingInternalId": 8190
   },
   {
     "sourceSheet": "Villagers",
@@ -1645,7 +1645,7 @@
       "Light blue",
       "Blue"
     ],
-    "defaultClothingID": 8200
+    "defaultClothingInternalId": 8200
   },
   {
     "sourceSheet": "Villagers",
@@ -1745,7 +1745,7 @@
       "Black",
       "Black"
     ],
-    "defaultClothingID": 8564
+    "defaultClothingInternalId": 8564
   },
   {
     "sourceSheet": "Villagers",
@@ -1857,7 +1857,7 @@
       "Colorful",
       "Red"
     ],
-    "defaultClothingID": 8296
+    "defaultClothingInternalId": 8296
   },
   {
     "sourceSheet": "Villagers",
@@ -1957,7 +1957,7 @@
       "Black",
       "Colorful"
     ],
-    "defaultClothingID": 4559
+    "defaultClothingInternalId": 4559
   },
   {
     "sourceSheet": "Villagers",
@@ -2063,7 +2063,7 @@
       "Green",
       "White"
     ],
-    "defaultClothingID": 2687
+    "defaultClothingInternalId": 2687
   },
   {
     "sourceSheet": "Villagers",
@@ -2169,7 +2169,7 @@
       "Pink",
       "Red"
     ],
-    "defaultClothingID": 4289
+    "defaultClothingInternalId": 4289
   },
   {
     "sourceSheet": "Villagers",
@@ -2273,7 +2273,7 @@
       "Red",
       "Gray"
     ],
-    "defaultClothingID": 4731
+    "defaultClothingInternalId": 4731
   },
   {
     "sourceSheet": "Villagers",
@@ -2373,7 +2373,7 @@
       "Orange",
       "Brown"
     ],
-    "defaultClothingID": 4154
+    "defaultClothingInternalId": 4154
   },
   {
     "sourceSheet": "Villagers",
@@ -2477,7 +2477,7 @@
       "Green",
       "White"
     ],
-    "defaultClothingID": 3575
+    "defaultClothingInternalId": 3575
   },
   {
     "sourceSheet": "Villagers",
@@ -2585,7 +2585,7 @@
       "Purple",
       "Blue"
     ],
-    "defaultClothingID": 4616
+    "defaultClothingInternalId": 4616
   },
   {
     "sourceSheet": "Villagers",
@@ -2687,7 +2687,7 @@
       "Green",
       "Brown"
     ],
-    "defaultClothingID": 7198
+    "defaultClothingInternalId": 7198
   },
   {
     "sourceSheet": "Villagers",
@@ -2795,7 +2795,7 @@
       "Yellow",
       "Green"
     ],
-    "defaultClothingID": 2687
+    "defaultClothingInternalId": 2687
   },
   {
     "sourceSheet": "Villagers",
@@ -2909,7 +2909,7 @@
       "Yellow",
       "Black"
     ],
-    "defaultClothingID": 8198
+    "defaultClothingInternalId": 8198
   },
   {
     "sourceSheet": "Villagers",
@@ -3029,7 +3029,7 @@
       "Light blue",
       "Green"
     ],
-    "defaultClothingID": 7784
+    "defaultClothingInternalId": 7784
   },
   {
     "sourceSheet": "Villagers",
@@ -3129,7 +3129,7 @@
       "Brown",
       "Blue"
     ],
-    "defaultClothingID": 3706
+    "defaultClothingInternalId": 3706
   },
   {
     "sourceSheet": "Villagers",
@@ -3229,7 +3229,7 @@
       "Beige",
       "Orange"
     ],
-    "defaultClothingID": 4566
+    "defaultClothingInternalId": 4566
   },
   {
     "sourceSheet": "Villagers",
@@ -3327,7 +3327,7 @@
       "Purple",
       "Pink"
     ],
-    "defaultClothingID": 8173
+    "defaultClothingInternalId": 8173
   },
   {
     "sourceSheet": "Villagers",
@@ -3437,7 +3437,7 @@
       "Black",
       "Purple"
     ],
-    "defaultClothingID": 4559
+    "defaultClothingInternalId": 4559
   },
   {
     "sourceSheet": "Villagers",
@@ -3537,7 +3537,7 @@
       "Blue",
       "Purple"
     ],
-    "defaultClothingID": 2541
+    "defaultClothingInternalId": 2541
   },
   {
     "sourceSheet": "Villagers",
@@ -3649,7 +3649,7 @@
       "Red",
       "White"
     ],
-    "defaultClothingID": 4145
+    "defaultClothingInternalId": 4145
   },
   {
     "sourceSheet": "Villagers",
@@ -3759,7 +3759,7 @@
       "Pink",
       "White"
     ],
-    "defaultClothingID": 4506
+    "defaultClothingInternalId": 4506
   },
   {
     "sourceSheet": "Villagers",
@@ -3871,7 +3871,7 @@
       "White",
       "Red"
     ],
-    "defaultClothingID": 3177
+    "defaultClothingInternalId": 3177
   },
   {
     "sourceSheet": "Villagers",
@@ -3977,7 +3977,7 @@
       "Pink",
       "Orange"
     ],
-    "defaultClothingID": 8506
+    "defaultClothingInternalId": 8506
   },
   {
     "sourceSheet": "Villagers",
@@ -4073,7 +4073,7 @@
       "Black",
       "Blue"
     ],
-    "defaultClothingID": 4327
+    "defaultClothingInternalId": 4327
   },
   {
     "sourceSheet": "Villagers",
@@ -4171,7 +4171,7 @@
       "Green",
       "Green"
     ],
-    "defaultClothingID": 12037
+    "defaultClothingInternalId": 12037
   },
   {
     "sourceSheet": "Villagers",
@@ -4283,7 +4283,7 @@
       "Blue",
       "Purple"
     ],
-    "defaultClothingID": 2727
+    "defaultClothingInternalId": 2727
   },
   {
     "sourceSheet": "Villagers",
@@ -4389,7 +4389,7 @@
       "Blue",
       "Purple"
     ],
-    "defaultClothingID": 3164
+    "defaultClothingInternalId": 3164
   },
   {
     "sourceSheet": "Villagers",
@@ -4491,7 +4491,7 @@
       "Purple",
       "Colorful"
     ],
-    "defaultClothingID": 4717
+    "defaultClothingInternalId": 4717
   },
   {
     "sourceSheet": "Villagers",
@@ -4589,7 +4589,7 @@
       "Pink",
       "Orange"
     ],
-    "defaultClothingID": 4403
+    "defaultClothingInternalId": 4403
   },
   {
     "sourceSheet": "Villagers",
@@ -4701,7 +4701,7 @@
       "Orange",
       "Brown"
     ],
-    "defaultClothingID": 2704
+    "defaultClothingInternalId": 2704
   },
   {
     "sourceSheet": "Villagers",
@@ -4799,7 +4799,7 @@
       "Black",
       "Brown"
     ],
-    "defaultClothingID": 6025
+    "defaultClothingInternalId": 6025
   },
   {
     "sourceSheet": "Villagers",
@@ -4899,7 +4899,7 @@
       "White",
       "Blue"
     ],
-    "defaultClothingID": 7672
+    "defaultClothingInternalId": 7672
   },
   {
     "sourceSheet": "Villagers",
@@ -4999,7 +4999,7 @@
       "Colorful",
       "Red"
     ],
-    "defaultClothingID": 8205
+    "defaultClothingInternalId": 8205
   },
   {
     "sourceSheet": "Villagers",
@@ -5101,7 +5101,7 @@
       "Light blue",
       "Yellow"
     ],
-    "defaultClothingID": 8360
+    "defaultClothingInternalId": 8360
   },
   {
     "sourceSheet": "Villagers",
@@ -5213,7 +5213,7 @@
       "Beige",
       "Brown"
     ],
-    "defaultClothingID": 7851
+    "defaultClothingInternalId": 7851
   },
   {
     "sourceSheet": "Villagers",
@@ -5311,7 +5311,7 @@
       "Brown",
       "Beige"
     ],
-    "defaultClothingID": 4207
+    "defaultClothingInternalId": 4207
   },
   {
     "sourceSheet": "Villagers",
@@ -5413,7 +5413,7 @@
       "Colorful",
       "Red"
     ],
-    "defaultClothingID": 3258
+    "defaultClothingInternalId": 3258
   },
   {
     "sourceSheet": "Villagers",
@@ -5515,7 +5515,7 @@
       "Colorful",
       "Purple"
     ],
-    "defaultClothingID": 3450
+    "defaultClothingInternalId": 3450
   },
   {
     "sourceSheet": "Villagers",
@@ -5625,7 +5625,7 @@
       "Purple",
       "Black"
     ],
-    "defaultClothingID": 3606
+    "defaultClothingInternalId": 3606
   },
   {
     "sourceSheet": "Villagers",
@@ -5735,7 +5735,7 @@
       "Red",
       "Black"
     ],
-    "defaultClothingID": 2498
+    "defaultClothingInternalId": 2498
   },
   {
     "sourceSheet": "Villagers",
@@ -5837,7 +5837,7 @@
       "Black",
       "Blue"
     ],
-    "defaultClothingID": 3696
+    "defaultClothingInternalId": 3696
   },
   {
     "sourceSheet": "Villagers",
@@ -5943,7 +5943,7 @@
       "Colorful",
       "Yellow"
     ],
-    "defaultClothingID": 2674
+    "defaultClothingInternalId": 2674
   },
   {
     "sourceSheet": "Villagers",
@@ -6049,7 +6049,7 @@
       "Black",
       "Red"
     ],
-    "defaultClothingID": 5645
+    "defaultClothingInternalId": 5645
   },
   {
     "sourceSheet": "Villagers",
@@ -6153,7 +6153,7 @@
       "Black",
       "Red"
     ],
-    "defaultClothingID": 4366
+    "defaultClothingInternalId": 4366
   },
   {
     "sourceSheet": "Villagers",
@@ -6259,7 +6259,7 @@
       "Purple",
       "Pink"
     ],
-    "defaultClothingID": 3290
+    "defaultClothingInternalId": 3290
   },
   {
     "sourceSheet": "Villagers",
@@ -6361,7 +6361,7 @@
       "Gray",
       "Brown"
     ],
-    "defaultClothingID": 3671
+    "defaultClothingInternalId": 3671
   },
   {
     "sourceSheet": "Villagers",
@@ -6461,7 +6461,7 @@
       "Green",
       "Yellow"
     ],
-    "defaultClothingID": 6821
+    "defaultClothingInternalId": 6821
   },
   {
     "sourceSheet": "Villagers",
@@ -6577,7 +6577,7 @@
       "Green",
       "Pink"
     ],
-    "defaultClothingID": 9504
+    "defaultClothingInternalId": 9504
   },
   {
     "sourceSheet": "Villagers",
@@ -6677,7 +6677,7 @@
       "Blue",
       "Gray"
     ],
-    "defaultClothingID": 3262
+    "defaultClothingInternalId": 3262
   },
   {
     "sourceSheet": "Villagers",
@@ -6775,7 +6775,7 @@
       "Yellow",
       "Red"
     ],
-    "defaultClothingID": 3326
+    "defaultClothingInternalId": 3326
   },
   {
     "sourceSheet": "Villagers",
@@ -6875,7 +6875,7 @@
       "Red",
       "Green"
     ],
-    "defaultClothingID": 3137
+    "defaultClothingInternalId": 3137
   },
   {
     "sourceSheet": "Villagers",
@@ -6977,7 +6977,7 @@
       "Blue",
       "White"
     ],
-    "defaultClothingID": 6835
+    "defaultClothingInternalId": 6835
   },
   {
     "sourceSheet": "Villagers",
@@ -7077,7 +7077,7 @@
       "Green",
       "Light blue"
     ],
-    "defaultClothingID": 3383
+    "defaultClothingInternalId": 3383
   },
   {
     "sourceSheet": "Villagers",
@@ -7179,7 +7179,7 @@
       "Light blue",
       "Yellow"
     ],
-    "defaultClothingID": 8593
+    "defaultClothingInternalId": 8593
   },
   {
     "sourceSheet": "Villagers",
@@ -7295,7 +7295,7 @@
       "Green",
       "Beige"
     ],
-    "defaultClothingID": 9421
+    "defaultClothingInternalId": 9421
   },
   {
     "sourceSheet": "Villagers",
@@ -7407,7 +7407,7 @@
       "Colorful",
       "White"
     ],
-    "defaultClothingID": 4729
+    "defaultClothingInternalId": 4729
   },
   {
     "sourceSheet": "Villagers",
@@ -7531,7 +7531,7 @@
       "Red",
       "Colorful"
     ],
-    "defaultClothingID": 8188
+    "defaultClothingInternalId": 8188
   },
   {
     "sourceSheet": "Villagers",
@@ -7637,7 +7637,7 @@
       "Purple",
       "Beige"
     ],
-    "defaultClothingID": 4599
+    "defaultClothingInternalId": 4599
   },
   {
     "sourceSheet": "Villagers",
@@ -7743,7 +7743,7 @@
       "Pink",
       "Green"
     ],
-    "defaultClothingID": 3168
+    "defaultClothingInternalId": 3168
   },
   {
     "sourceSheet": "Villagers",
@@ -7865,7 +7865,7 @@
       "Blue",
       "Light blue"
     ],
-    "defaultClothingID": 8532
+    "defaultClothingInternalId": 8532
   },
   {
     "sourceSheet": "Villagers",
@@ -7969,7 +7969,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 4440
+    "defaultClothingInternalId": 4440
   },
   {
     "sourceSheet": "Villagers",
@@ -8069,7 +8069,7 @@
       "Red",
       "Orange"
     ],
-    "defaultClothingID": 3244
+    "defaultClothingInternalId": 3244
   },
   {
     "sourceSheet": "Villagers",
@@ -8187,7 +8187,7 @@
       "Yellow",
       "Light blue"
     ],
-    "defaultClothingID": 8818
+    "defaultClothingInternalId": 8818
   },
   {
     "sourceSheet": "Villagers",
@@ -8291,7 +8291,7 @@
       "Black",
       "Purple"
     ],
-    "defaultClothingID": 8207
+    "defaultClothingInternalId": 8207
   },
   {
     "sourceSheet": "Villagers",
@@ -8391,7 +8391,7 @@
       "Yellow",
       "Green"
     ],
-    "defaultClothingID": 3462
+    "defaultClothingInternalId": 3462
   },
   {
     "sourceSheet": "Villagers",
@@ -8491,7 +8491,7 @@
       "Red",
       "Pink"
     ],
-    "defaultClothingID": 4368
+    "defaultClothingInternalId": 4368
   },
   {
     "sourceSheet": "Villagers",
@@ -8603,7 +8603,7 @@
       "White",
       "Gray"
     ],
-    "defaultClothingID": 3328
+    "defaultClothingInternalId": 3328
   },
   {
     "sourceSheet": "Villagers",
@@ -8703,7 +8703,7 @@
       "Red",
       "Green"
     ],
-    "defaultClothingID": 3231
+    "defaultClothingInternalId": 3231
   },
   {
     "sourceSheet": "Villagers",
@@ -8805,7 +8805,7 @@
       "Black",
       "White"
     ],
-    "defaultClothingID": 4327
+    "defaultClothingInternalId": 4327
   },
   {
     "sourceSheet": "Villagers",
@@ -8907,7 +8907,7 @@
       "Pink",
       "White"
     ],
-    "defaultClothingID": 8295
+    "defaultClothingInternalId": 8295
   },
   {
     "sourceSheet": "Villagers",
@@ -9011,7 +9011,7 @@
       "Black",
       "Colorful"
     ],
-    "defaultClothingID": 8202
+    "defaultClothingInternalId": 8202
   },
   {
     "sourceSheet": "Villagers",
@@ -9115,7 +9115,7 @@
       "Purple",
       "White"
     ],
-    "defaultClothingID": 4737
+    "defaultClothingInternalId": 4737
   },
   {
     "sourceSheet": "Villagers",
@@ -9217,7 +9217,7 @@
       "Beige",
       "Brown"
     ],
-    "defaultClothingID": 7859
+    "defaultClothingInternalId": 7859
   },
   {
     "sourceSheet": "Villagers",
@@ -9329,7 +9329,7 @@
       "Light blue",
       "White"
     ],
-    "defaultClothingID": 4570
+    "defaultClothingInternalId": 4570
   },
   {
     "sourceSheet": "Villagers",
@@ -9431,7 +9431,7 @@
       "Green",
       "White"
     ],
-    "defaultClothingID": 8966
+    "defaultClothingInternalId": 8966
   },
   {
     "sourceSheet": "Villagers",
@@ -9537,7 +9537,7 @@
       "Blue",
       "Red"
     ],
-    "defaultClothingID": 3246
+    "defaultClothingInternalId": 3246
   },
   {
     "sourceSheet": "Villagers",
@@ -9651,7 +9651,7 @@
       "White",
       "Blue"
     ],
-    "defaultClothingID": 8946
+    "defaultClothingInternalId": 8946
   },
   {
     "sourceSheet": "Villagers",
@@ -9755,7 +9755,7 @@
       "Beige",
       "Green"
     ],
-    "defaultClothingID": 4167
+    "defaultClothingInternalId": 4167
   },
   {
     "sourceSheet": "Villagers",
@@ -9859,7 +9859,7 @@
       "Orange",
       "Colorful"
     ],
-    "defaultClothingID": 3288
+    "defaultClothingInternalId": 3288
   },
   {
     "sourceSheet": "Villagers",
@@ -9957,7 +9957,7 @@
       "Blue",
       "Red"
     ],
-    "defaultClothingID": 4433
+    "defaultClothingInternalId": 4433
   },
   {
     "sourceSheet": "Villagers",
@@ -10059,7 +10059,7 @@
       "Green",
       "Light blue"
     ],
-    "defaultClothingID": 7916
+    "defaultClothingInternalId": 7916
   },
   {
     "sourceSheet": "Villagers",
@@ -10165,7 +10165,7 @@
       "Green",
       "Red"
     ],
-    "defaultClothingID": 2672
+    "defaultClothingInternalId": 2672
   },
   {
     "sourceSheet": "Villagers",
@@ -10273,7 +10273,7 @@
       "Beige",
       "Brown"
     ],
-    "defaultClothingID": 4154
+    "defaultClothingInternalId": 4154
   },
   {
     "sourceSheet": "Villagers",
@@ -10373,7 +10373,7 @@
       "Red",
       "Orange"
     ],
-    "defaultClothingID": 9127
+    "defaultClothingInternalId": 9127
   },
   {
     "sourceSheet": "Villagers",
@@ -10479,7 +10479,7 @@
       "Yellow",
       "Colorful"
     ],
-    "defaultClothingID": 8203
+    "defaultClothingInternalId": 8203
   },
   {
     "sourceSheet": "Villagers",
@@ -10585,7 +10585,7 @@
       "Red",
       "Green"
     ],
-    "defaultClothingID": 8204
+    "defaultClothingInternalId": 8204
   },
   {
     "sourceSheet": "Villagers",
@@ -10691,7 +10691,7 @@
       "Yellow",
       "Colorful"
     ],
-    "defaultClothingID": 5262
+    "defaultClothingInternalId": 5262
   },
   {
     "sourceSheet": "Villagers",
@@ -10793,7 +10793,7 @@
       "Blue",
       "White"
     ],
-    "defaultClothingID": 6835
+    "defaultClothingInternalId": 6835
   },
   {
     "sourceSheet": "Villagers",
@@ -10895,7 +10895,7 @@
       "Black",
       "Yellow"
     ],
-    "defaultClothingID": 3256
+    "defaultClothingInternalId": 3256
   },
   {
     "sourceSheet": "Villagers",
@@ -10991,7 +10991,7 @@
       "Yellow",
       "Beige"
     ],
-    "defaultClothingID": 4249
+    "defaultClothingInternalId": 4249
   },
   {
     "sourceSheet": "Villagers",
@@ -11095,7 +11095,7 @@
       "Colorful",
       "Blue"
     ],
-    "defaultClothingID": 4613
+    "defaultClothingInternalId": 4613
   },
   {
     "sourceSheet": "Villagers",
@@ -11195,7 +11195,7 @@
       "Colorful",
       "Blue"
     ],
-    "defaultClothingID": 3059
+    "defaultClothingInternalId": 3059
   },
   {
     "sourceSheet": "Villagers",
@@ -11297,7 +11297,7 @@
       "Orange",
       "Orange"
     ],
-    "defaultClothingID": 7844
+    "defaultClothingInternalId": 7844
   },
   {
     "sourceSheet": "Villagers",
@@ -11413,7 +11413,7 @@
       "Blue",
       "White"
     ],
-    "defaultClothingID": 2655
+    "defaultClothingInternalId": 2655
   },
   {
     "sourceSheet": "Villagers",
@@ -11525,7 +11525,7 @@
       "Purple",
       "Brown"
     ],
-    "defaultClothingID": 3262
+    "defaultClothingInternalId": 3262
   },
   {
     "sourceSheet": "Villagers",
@@ -11623,7 +11623,7 @@
       "Yellow",
       "Beige"
     ],
-    "defaultClothingID": 7764
+    "defaultClothingInternalId": 7764
   },
   {
     "sourceSheet": "Villagers",
@@ -11725,7 +11725,7 @@
       "Purple",
       "Pink"
     ],
-    "defaultClothingID": 3573
+    "defaultClothingInternalId": 3573
   },
   {
     "sourceSheet": "Villagers",
@@ -11825,7 +11825,7 @@
       "Purple",
       "Light blue"
     ],
-    "defaultClothingID": 3441
+    "defaultClothingInternalId": 3441
   },
   {
     "sourceSheet": "Villagers",
@@ -11925,7 +11925,7 @@
       "Yellow",
       "Blue"
     ],
-    "defaultClothingID": 8200
+    "defaultClothingInternalId": 8200
   },
   {
     "sourceSheet": "Villagers",
@@ -12041,7 +12041,7 @@
       "Brown",
       "Beige"
     ],
-    "defaultClothingID": 4212
+    "defaultClothingInternalId": 4212
   },
   {
     "sourceSheet": "Villagers",
@@ -12155,7 +12155,7 @@
       "Gray",
       "Beige"
     ],
-    "defaultClothingID": 3225
+    "defaultClothingInternalId": 3225
   },
   {
     "sourceSheet": "Villagers",
@@ -12263,7 +12263,7 @@
       "Red",
       "Colorful"
     ],
-    "defaultClothingID": 4211
+    "defaultClothingInternalId": 4211
   },
   {
     "sourceSheet": "Villagers",
@@ -12363,7 +12363,7 @@
       "Blue",
       "Light blue"
     ],
-    "defaultClothingID": 4407
+    "defaultClothingInternalId": 4407
   },
   {
     "sourceSheet": "Villagers",
@@ -12477,7 +12477,7 @@
       "Blue",
       "Black"
     ],
-    "defaultClothingID": 8359
+    "defaultClothingInternalId": 8359
   },
   {
     "sourceSheet": "Villagers",
@@ -12581,7 +12581,7 @@
       "Orange",
       "Red"
     ],
-    "defaultClothingID": 3462
+    "defaultClothingInternalId": 3462
   },
   {
     "sourceSheet": "Villagers",
@@ -12685,7 +12685,7 @@
       "Brown",
       "Red"
     ],
-    "defaultClothingID": 3630
+    "defaultClothingInternalId": 3630
   },
   {
     "sourceSheet": "Villagers",
@@ -12785,7 +12785,7 @@
       "Orange",
       "Red"
     ],
-    "defaultClothingID": 3323
+    "defaultClothingInternalId": 3323
   },
   {
     "sourceSheet": "Villagers",
@@ -12885,7 +12885,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 3690
+    "defaultClothingInternalId": 3690
   },
   {
     "sourceSheet": "Villagers",
@@ -12995,7 +12995,7 @@
       "Beige",
       "Brown"
     ],
-    "defaultClothingID": 4446
+    "defaultClothingInternalId": 4446
   },
   {
     "sourceSheet": "Villagers",
@@ -13101,7 +13101,7 @@
       "Purple",
       "Red"
     ],
-    "defaultClothingID": 4791
+    "defaultClothingInternalId": 4791
   },
   {
     "sourceSheet": "Villagers",
@@ -13207,7 +13207,7 @@
       "Gray",
       "Pink"
     ],
-    "defaultClothingID": 3633
+    "defaultClothingInternalId": 3633
   },
   {
     "sourceSheet": "Villagers",
@@ -13307,7 +13307,7 @@
       "Blue",
       "White"
     ],
-    "defaultClothingID": 3705
+    "defaultClothingInternalId": 3705
   },
   {
     "sourceSheet": "Villagers",
@@ -13413,7 +13413,7 @@
       "Green",
       "Orange"
     ],
-    "defaultClothingID": 8818
+    "defaultClothingInternalId": 8818
   },
   {
     "sourceSheet": "Villagers",
@@ -13515,7 +13515,7 @@
       "Red",
       "Black"
     ],
-    "defaultClothingID": 3283
+    "defaultClothingInternalId": 3283
   },
   {
     "sourceSheet": "Villagers",
@@ -13609,7 +13609,7 @@
       "Beige",
       "Red"
     ],
-    "defaultClothingID": 3630
+    "defaultClothingInternalId": 3630
   },
   {
     "sourceSheet": "Villagers",
@@ -13721,7 +13721,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 3198
+    "defaultClothingInternalId": 3198
   },
   {
     "sourceSheet": "Villagers",
@@ -13851,7 +13851,7 @@
       "Beige",
       "Orange"
     ],
-    "defaultClothingID": 3643
+    "defaultClothingInternalId": 3643
   },
   {
     "sourceSheet": "Villagers",
@@ -13951,7 +13951,7 @@
       "White",
       "Light blue"
     ],
-    "defaultClothingID": 7738
+    "defaultClothingInternalId": 7738
   },
   {
     "sourceSheet": "Villagers",
@@ -14061,7 +14061,7 @@
       "Beige",
       "White"
     ],
-    "defaultClothingID": 4409
+    "defaultClothingInternalId": 4409
   },
   {
     "sourceSheet": "Villagers",
@@ -14163,7 +14163,7 @@
       "Yellow",
       "Orange"
     ],
-    "defaultClothingID": 2677
+    "defaultClothingInternalId": 2677
   },
   {
     "sourceSheet": "Villagers",
@@ -14279,7 +14279,7 @@
       "Blue",
       "White"
     ],
-    "defaultClothingID": 8194
+    "defaultClothingInternalId": 8194
   },
   {
     "sourceSheet": "Villagers",
@@ -14387,7 +14387,7 @@
       "Blue",
       "Yellow"
     ],
-    "defaultClothingID": 8058
+    "defaultClothingInternalId": 8058
   },
   {
     "sourceSheet": "Villagers",
@@ -14495,7 +14495,7 @@
       "Red",
       "Purple"
     ],
-    "defaultClothingID": 4446
+    "defaultClothingInternalId": 4446
   },
   {
     "sourceSheet": "Villagers",
@@ -14593,7 +14593,7 @@
       "Colorful",
       "Pink"
     ],
-    "defaultClothingID": 2686
+    "defaultClothingInternalId": 2686
   },
   {
     "sourceSheet": "Villagers",
@@ -14703,7 +14703,7 @@
       "Red",
       "Pink"
     ],
-    "defaultClothingID": 3597
+    "defaultClothingInternalId": 3597
   },
   {
     "sourceSheet": "Villagers",
@@ -14811,7 +14811,7 @@
       "Blue",
       "Black"
     ],
-    "defaultClothingID": 8187
+    "defaultClothingInternalId": 8187
   },
   {
     "sourceSheet": "Villagers",
@@ -14909,7 +14909,7 @@
       "Brown",
       "Yellow"
     ],
-    "defaultClothingID": 2401
+    "defaultClothingInternalId": 2401
   },
   {
     "sourceSheet": "Villagers",
@@ -15027,7 +15027,7 @@
       "Green",
       "Colorful"
     ],
-    "defaultClothingID": 8820
+    "defaultClothingInternalId": 8820
   },
   {
     "sourceSheet": "Villagers",
@@ -15133,7 +15133,7 @@
       "Green",
       "Blue"
     ],
-    "defaultClothingID": 4566
+    "defaultClothingInternalId": 4566
   },
   {
     "sourceSheet": "Villagers",
@@ -15249,7 +15249,7 @@
       "Pink",
       "Black"
     ],
-    "defaultClothingID": 8509
+    "defaultClothingInternalId": 8509
   },
   {
     "sourceSheet": "Villagers",
@@ -15351,7 +15351,7 @@
       "Yellow",
       "Red"
     ],
-    "defaultClothingID": 5287
+    "defaultClothingInternalId": 5287
   },
   {
     "sourceSheet": "Villagers",
@@ -15459,7 +15459,7 @@
       "Blue",
       "Colorful"
     ],
-    "defaultClothingID": 4275
+    "defaultClothingInternalId": 4275
   },
   {
     "sourceSheet": "Villagers",
@@ -15563,7 +15563,7 @@
       "Pink",
       "Pink"
     ],
-    "defaultClothingID": 4616
+    "defaultClothingInternalId": 4616
   },
   {
     "sourceSheet": "Villagers",
@@ -15669,7 +15669,7 @@
       "Brown",
       "Red"
     ],
-    "defaultClothingID": 6811
+    "defaultClothingInternalId": 6811
   },
   {
     "sourceSheet": "Villagers",
@@ -15785,7 +15785,7 @@
       "Pink",
       "White"
     ],
-    "defaultClothingID": 6901
+    "defaultClothingInternalId": 6901
   },
   {
     "sourceSheet": "Villagers",
@@ -15887,7 +15887,7 @@
       "Brown",
       "Orange"
     ],
-    "defaultClothingID": 8489
+    "defaultClothingInternalId": 8489
   },
   {
     "sourceSheet": "Villagers",
@@ -15989,7 +15989,7 @@
       "Pink",
       "White"
     ],
-    "defaultClothingID": 3070
+    "defaultClothingInternalId": 3070
   },
   {
     "sourceSheet": "Villagers",
@@ -16089,7 +16089,7 @@
       "Green",
       "Purple"
     ],
-    "defaultClothingID": 8201
+    "defaultClothingInternalId": 8201
   },
   {
     "sourceSheet": "Villagers",
@@ -16191,7 +16191,7 @@
       "Black",
       "White"
     ],
-    "defaultClothingID": 4341
+    "defaultClothingInternalId": 4341
   },
   {
     "sourceSheet": "Villagers",
@@ -16289,7 +16289,7 @@
       "Green",
       "Pink"
     ],
-    "defaultClothingID": 8201
+    "defaultClothingInternalId": 8201
   },
   {
     "sourceSheet": "Villagers",
@@ -16385,7 +16385,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 8896
+    "defaultClothingInternalId": 8896
   },
   {
     "sourceSheet": "Villagers",
@@ -16489,7 +16489,7 @@
       "Yellow",
       "Orange"
     ],
-    "defaultClothingID": 2677
+    "defaultClothingInternalId": 2677
   },
   {
     "sourceSheet": "Villagers",
@@ -16589,7 +16589,7 @@
       "Black",
       "Green"
     ],
-    "defaultClothingID": 4566
+    "defaultClothingInternalId": 4566
   },
   {
     "sourceSheet": "Villagers",
@@ -16691,7 +16691,7 @@
       "Blue",
       "White"
     ],
-    "defaultClothingID": 8206
+    "defaultClothingInternalId": 8206
   },
   {
     "sourceSheet": "Villagers",
@@ -16803,7 +16803,7 @@
       "Green",
       "Orange"
     ],
-    "defaultClothingID": 4615
+    "defaultClothingInternalId": 4615
   },
   {
     "sourceSheet": "Villagers",
@@ -16913,7 +16913,7 @@
       "Pink",
       "Purple"
     ],
-    "defaultClothingID": 3536
+    "defaultClothingInternalId": 3536
   },
   {
     "sourceSheet": "Villagers",
@@ -17007,7 +17007,7 @@
       "Red",
       "Black"
     ],
-    "defaultClothingID": 3225
+    "defaultClothingInternalId": 3225
   },
   {
     "sourceSheet": "Villagers",
@@ -17113,7 +17113,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 3256
+    "defaultClothingInternalId": 3256
   },
   {
     "sourceSheet": "Villagers",
@@ -17209,7 +17209,7 @@
       "Purple",
       "Black"
     ],
-    "defaultClothingID": 7621
+    "defaultClothingInternalId": 7621
   },
   {
     "sourceSheet": "Villagers",
@@ -17313,7 +17313,7 @@
       "Green",
       "White"
     ],
-    "defaultClothingID": 2706
+    "defaultClothingInternalId": 2706
   },
   {
     "sourceSheet": "Villagers",
@@ -17417,7 +17417,7 @@
       "Purple",
       "Blue"
     ],
-    "defaultClothingID": 6822
+    "defaultClothingInternalId": 6822
   },
   {
     "sourceSheet": "Villagers",
@@ -17513,7 +17513,7 @@
       "Gray",
       "Beige"
     ],
-    "defaultClothingID": 8514
+    "defaultClothingInternalId": 8514
   },
   {
     "sourceSheet": "Villagers",
@@ -17621,7 +17621,7 @@
       "Gray",
       "Blue"
     ],
-    "defaultClothingID": 4735
+    "defaultClothingInternalId": 4735
   },
   {
     "sourceSheet": "Villagers",
@@ -17713,7 +17713,7 @@
       "Green",
       "Orange"
     ],
-    "defaultClothingID": 8420
+    "defaultClothingInternalId": 8420
   },
   {
     "sourceSheet": "Villagers",
@@ -17809,7 +17809,7 @@
       "Red",
       "Yellow"
     ],
-    "defaultClothingID": 3244
+    "defaultClothingInternalId": 3244
   },
   {
     "sourceSheet": "Villagers",
@@ -17929,7 +17929,7 @@
       "Light blue",
       "Blue"
     ],
-    "defaultClothingID": 3209
+    "defaultClothingInternalId": 3209
   },
   {
     "sourceSheet": "Villagers",
@@ -18033,7 +18033,7 @@
       "Brown",
       "Green"
     ],
-    "defaultClothingID": 8110
+    "defaultClothingInternalId": 8110
   },
   {
     "sourceSheet": "Villagers",
@@ -18139,7 +18139,7 @@
       "Blue",
       "Yellow"
     ],
-    "defaultClothingID": 2655
+    "defaultClothingInternalId": 2655
   },
   {
     "sourceSheet": "Villagers",
@@ -18237,7 +18237,7 @@
       "Yellow",
       "Red"
     ],
-    "defaultClothingID": 3462
+    "defaultClothingInternalId": 3462
   },
   {
     "sourceSheet": "Villagers",
@@ -18345,7 +18345,7 @@
       "Green",
       "Brown"
     ],
-    "defaultClothingID": 3579
+    "defaultClothingInternalId": 3579
   },
   {
     "sourceSheet": "Villagers",
@@ -18447,7 +18447,7 @@
       "Green",
       "Yellow"
     ],
-    "defaultClothingID": 3383
+    "defaultClothingInternalId": 3383
   },
   {
     "sourceSheet": "Villagers",
@@ -18569,7 +18569,7 @@
       "Beige",
       "Yellow"
     ],
-    "defaultClothingID": 3257
+    "defaultClothingInternalId": 3257
   },
   {
     "sourceSheet": "Villagers",
@@ -18679,7 +18679,7 @@
       "Red",
       "Blue"
     ],
-    "defaultClothingID": 4586
+    "defaultClothingInternalId": 4586
   },
   {
     "sourceSheet": "Villagers",
@@ -18785,7 +18785,7 @@
       "Green",
       "Blue"
     ],
-    "defaultClothingID": 4402
+    "defaultClothingInternalId": 4402
   },
   {
     "sourceSheet": "Villagers",
@@ -18883,7 +18883,7 @@
       "Green",
       "Red"
     ],
-    "defaultClothingID": 4402
+    "defaultClothingInternalId": 4402
   },
   {
     "sourceSheet": "Villagers",
@@ -18993,7 +18993,7 @@
       "Green",
       "Black"
     ],
-    "defaultClothingID": 4277
+    "defaultClothingInternalId": 4277
   },
   {
     "sourceSheet": "Villagers",
@@ -19093,7 +19093,7 @@
       "Brown",
       "Brown"
     ],
-    "defaultClothingID": 4657
+    "defaultClothingInternalId": 4657
   },
   {
     "sourceSheet": "Villagers",
@@ -19193,7 +19193,7 @@
       "Blue",
       "Light blue"
     ],
-    "defaultClothingID": 3323
+    "defaultClothingInternalId": 3323
   },
   {
     "sourceSheet": "Villagers",
@@ -19299,7 +19299,7 @@
       "Orange",
       "Yellow"
     ],
-    "defaultClothingID": 8974
+    "defaultClothingInternalId": 8974
   },
   {
     "sourceSheet": "Villagers",
@@ -19389,7 +19389,7 @@
       "Yellow",
       "Orange"
     ],
-    "defaultClothingID": 3249
+    "defaultClothingInternalId": 3249
   },
   {
     "sourceSheet": "Villagers",
@@ -19489,7 +19489,7 @@
       "Green",
       "Blue"
     ],
-    "defaultClothingID": 8196
+    "defaultClothingInternalId": 8196
   },
   {
     "sourceSheet": "Villagers",
@@ -19615,7 +19615,7 @@
       "Pink",
       "White"
     ],
-    "defaultClothingID": 8869
+    "defaultClothingInternalId": 8869
   },
   {
     "sourceSheet": "Villagers",
@@ -19721,7 +19721,7 @@
       "Purple",
       "Red"
     ],
-    "defaultClothingID": 8817
+    "defaultClothingInternalId": 8817
   },
   {
     "sourceSheet": "Villagers",
@@ -19853,7 +19853,7 @@
       "Purple",
       "Blue"
     ],
-    "defaultClothingID": 4418
+    "defaultClothingInternalId": 4418
   },
   {
     "sourceSheet": "Villagers",
@@ -19945,7 +19945,7 @@
       "White",
       "Red"
     ],
-    "defaultClothingID": 8189
+    "defaultClothingInternalId": 8189
   },
   {
     "sourceSheet": "Villagers",
@@ -20041,7 +20041,7 @@
       "Purple",
       "Red"
     ],
-    "defaultClothingID": 6024
+    "defaultClothingInternalId": 6024
   },
   {
     "sourceSheet": "Villagers",
@@ -20149,7 +20149,7 @@
       "Purple",
       "Black"
     ],
-    "defaultClothingID": 5292
+    "defaultClothingInternalId": 5292
   },
   {
     "sourceSheet": "Villagers",
@@ -20253,7 +20253,7 @@
       "Blue",
       "White"
     ],
-    "defaultClothingID": 4212
+    "defaultClothingInternalId": 4212
   },
   {
     "sourceSheet": "Villagers",
@@ -20353,7 +20353,7 @@
       "Purple",
       "Blue"
     ],
-    "defaultClothingID": 3460
+    "defaultClothingInternalId": 3460
   },
   {
     "sourceSheet": "Villagers",
@@ -20459,7 +20459,7 @@
       "Light blue",
       "White"
     ],
-    "defaultClothingID": 4737
+    "defaultClothingInternalId": 4737
   },
   {
     "sourceSheet": "Villagers",
@@ -20565,7 +20565,7 @@
       "Black",
       "Red"
     ],
-    "defaultClothingID": 4366
+    "defaultClothingInternalId": 4366
   },
   {
     "sourceSheet": "Villagers",
@@ -20663,7 +20663,7 @@
       "Red",
       "Red"
     ],
-    "defaultClothingID": 6888
+    "defaultClothingInternalId": 6888
   },
   {
     "sourceSheet": "Villagers",
@@ -20767,7 +20767,7 @@
       "Gray",
       "White"
     ],
-    "defaultClothingID": 3474
+    "defaultClothingInternalId": 3474
   },
   {
     "sourceSheet": "Villagers",
@@ -20865,7 +20865,7 @@
       "Brown",
       "Beige"
     ],
-    "defaultClothingID": 3579
+    "defaultClothingInternalId": 3579
   },
   {
     "sourceSheet": "Villagers",
@@ -20975,7 +20975,7 @@
       "Purple",
       "Red"
     ],
-    "defaultClothingID": 4290
+    "defaultClothingInternalId": 4290
   },
   {
     "sourceSheet": "Villagers",
@@ -21071,7 +21071,7 @@
       "Green",
       "Gray"
     ],
-    "defaultClothingID": 8954
+    "defaultClothingInternalId": 8954
   },
   {
     "sourceSheet": "Villagers",
@@ -21171,7 +21171,7 @@
       "Gray",
       "White"
     ],
-    "defaultClothingID": 3570
+    "defaultClothingInternalId": 3570
   },
   {
     "sourceSheet": "Villagers",
@@ -21279,7 +21279,7 @@
       "Brown",
       "Red"
     ],
-    "defaultClothingID": 8229
+    "defaultClothingInternalId": 8229
   },
   {
     "sourceSheet": "Villagers",
@@ -21385,7 +21385,7 @@
       "Colorful",
       "White"
     ],
-    "defaultClothingID": 8477
+    "defaultClothingInternalId": 8477
   },
   {
     "sourceSheet": "Villagers",
@@ -21485,7 +21485,7 @@
       "Black",
       "White"
     ],
-    "defaultClothingID": 3676
+    "defaultClothingInternalId": 3676
   },
   {
     "sourceSheet": "Villagers",
@@ -21593,7 +21593,7 @@
       "Red",
       "Blue"
     ],
-    "defaultClothingID": 4343
+    "defaultClothingInternalId": 4343
   },
   {
     "sourceSheet": "Villagers",
@@ -21699,7 +21699,7 @@
       "Purple",
       "Green"
     ],
-    "defaultClothingID": 3599
+    "defaultClothingInternalId": 3599
   },
   {
     "sourceSheet": "Villagers",
@@ -21813,7 +21813,7 @@
       "White",
       "Yellow"
     ],
-    "defaultClothingID": 9576
+    "defaultClothingInternalId": 9576
   },
   {
     "sourceSheet": "Villagers",
@@ -21907,7 +21907,7 @@
       "Green",
       "Blue"
     ],
-    "defaultClothingID": 3164
+    "defaultClothingInternalId": 3164
   },
   {
     "sourceSheet": "Villagers",
@@ -22007,7 +22007,7 @@
       "Green",
       "Gray"
     ],
-    "defaultClothingID": 3171
+    "defaultClothingInternalId": 3171
   },
   {
     "sourceSheet": "Villagers",
@@ -22113,7 +22113,7 @@
       "Black",
       "Beige"
     ],
-    "defaultClothingID": 4401
+    "defaultClothingInternalId": 4401
   },
   {
     "sourceSheet": "Villagers",
@@ -22219,7 +22219,7 @@
       "Gray",
       "Pink"
     ],
-    "defaultClothingID": 3631
+    "defaultClothingInternalId": 3631
   },
   {
     "sourceSheet": "Villagers",
@@ -22331,7 +22331,7 @@
       "Gray",
       "Gray"
     ],
-    "defaultClothingID": 4507
+    "defaultClothingInternalId": 4507
   },
   {
     "sourceSheet": "Villagers",
@@ -22449,7 +22449,7 @@
       "Gray",
       "Red"
     ],
-    "defaultClothingID": 4267
+    "defaultClothingInternalId": 4267
   },
   {
     "sourceSheet": "Villagers",
@@ -22543,7 +22543,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 7199
+    "defaultClothingInternalId": 7199
   },
   {
     "sourceSheet": "Villagers",
@@ -22641,7 +22641,7 @@
       "Beige",
       "White"
     ],
-    "defaultClothingID": 4715
+    "defaultClothingInternalId": 4715
   },
   {
     "sourceSheet": "Villagers",
@@ -22751,7 +22751,7 @@
       "Pink",
       "Red"
     ],
-    "defaultClothingID": 4403
+    "defaultClothingInternalId": 4403
   },
   {
     "sourceSheet": "Villagers",
@@ -22851,7 +22851,7 @@
       "Light blue",
       "Yellow"
     ],
-    "defaultClothingID": 3677
+    "defaultClothingInternalId": 3677
   },
   {
     "sourceSheet": "Villagers",
@@ -22955,7 +22955,7 @@
       "Red",
       "Black"
     ],
-    "defaultClothingID": 2674
+    "defaultClothingInternalId": 2674
   },
   {
     "sourceSheet": "Villagers",
@@ -23059,7 +23059,7 @@
       "Purple",
       "Pink"
     ],
-    "defaultClothingID": 8378
+    "defaultClothingInternalId": 8378
   },
   {
     "sourceSheet": "Villagers",
@@ -23165,7 +23165,7 @@
       "Pink",
       "White"
     ],
-    "defaultClothingID": 3597
+    "defaultClothingInternalId": 3597
   },
   {
     "sourceSheet": "Villagers",
@@ -23263,7 +23263,7 @@
       "Green",
       "Yellow"
     ],
-    "defaultClothingID": 8886
+    "defaultClothingInternalId": 8886
   },
   {
     "sourceSheet": "Villagers",
@@ -23363,7 +23363,7 @@
       "Blue",
       "White"
     ],
-    "defaultClothingID": 2655
+    "defaultClothingInternalId": 2655
   },
   {
     "sourceSheet": "Villagers",
@@ -23479,7 +23479,7 @@
       "Beige",
       "Green"
     ],
-    "defaultClothingID": 8194
+    "defaultClothingInternalId": 8194
   },
   {
     "sourceSheet": "Villagers",
@@ -23585,7 +23585,7 @@
       "Green",
       "Blue"
     ],
-    "defaultClothingID": 4407
+    "defaultClothingInternalId": 4407
   },
   {
     "sourceSheet": "Villagers",
@@ -23693,7 +23693,7 @@
       "Pink",
       "Beige"
     ],
-    "defaultClothingID": 4429
+    "defaultClothingInternalId": 4429
   },
   {
     "sourceSheet": "Villagers",
@@ -23801,7 +23801,7 @@
       "Pink",
       "Red"
     ],
-    "defaultClothingID": 3248
+    "defaultClothingInternalId": 3248
   },
   {
     "sourceSheet": "Villagers",
@@ -23899,7 +23899,7 @@
       "Pink",
       "Red"
     ],
-    "defaultClothingID": 3635
+    "defaultClothingInternalId": 3635
   },
   {
     "sourceSheet": "Villagers",
@@ -24017,7 +24017,7 @@
       "Light blue",
       "Blue"
     ],
-    "defaultClothingID": 4277
+    "defaultClothingInternalId": 4277
   },
   {
     "sourceSheet": "Villagers",
@@ -24123,7 +24123,7 @@
       "White",
       "Red"
     ],
-    "defaultClothingID": 3261
+    "defaultClothingInternalId": 3261
   },
   {
     "sourceSheet": "Villagers",
@@ -24233,7 +24233,7 @@
       "Yellow",
       "Light blue"
     ],
-    "defaultClothingID": 4406
+    "defaultClothingInternalId": 4406
   },
   {
     "sourceSheet": "Villagers",
@@ -24345,7 +24345,7 @@
       "White",
       "Green"
     ],
-    "defaultClothingID": 4399
+    "defaultClothingInternalId": 4399
   },
   {
     "sourceSheet": "Villagers",
@@ -24453,7 +24453,7 @@
       "White",
       "Red"
     ],
-    "defaultClothingID": 3177
+    "defaultClothingInternalId": 3177
   },
   {
     "sourceSheet": "Villagers",
@@ -24551,7 +24551,7 @@
       "Pink",
       "Light blue"
     ],
-    "defaultClothingID": 3635
+    "defaultClothingInternalId": 3635
   },
   {
     "sourceSheet": "Villagers",
@@ -24653,7 +24653,7 @@
       "Pink",
       "Pink"
     ],
-    "defaultClothingID": 9128
+    "defaultClothingInternalId": 9128
   },
   {
     "sourceSheet": "Villagers",
@@ -24757,7 +24757,7 @@
       "Pink",
       "Purple"
     ],
-    "defaultClothingID": 2686
+    "defaultClothingInternalId": 2686
   },
   {
     "sourceSheet": "Villagers",
@@ -24873,7 +24873,7 @@
       "Red",
       "Yellow"
     ],
-    "defaultClothingID": 9483
+    "defaultClothingInternalId": 9483
   },
   {
     "sourceSheet": "Villagers",
@@ -24973,7 +24973,7 @@
       "Blue",
       "Purple"
     ],
-    "defaultClothingID": 3387
+    "defaultClothingInternalId": 3387
   },
   {
     "sourceSheet": "Villagers",
@@ -25071,7 +25071,7 @@
       "Brown",
       "Beige"
     ],
-    "defaultClothingID": 2686
+    "defaultClothingInternalId": 2686
   },
   {
     "sourceSheet": "Villagers",
@@ -25171,7 +25171,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 7975
+    "defaultClothingInternalId": 7975
   },
   {
     "sourceSheet": "Villagers",
@@ -25279,7 +25279,7 @@
       "Yellow",
       "Pink"
     ],
-    "defaultClothingID": 8885
+    "defaultClothingInternalId": 8885
   },
   {
     "sourceSheet": "Villagers",
@@ -25389,7 +25389,7 @@
       "Purple",
       "Pink"
     ],
-    "defaultClothingID": 7887
+    "defaultClothingInternalId": 7887
   },
   {
     "sourceSheet": "Villagers",
@@ -25485,7 +25485,7 @@
       "Yellow",
       "Gray"
     ],
-    "defaultClothingID": 3687
+    "defaultClothingInternalId": 3687
   },
   {
     "sourceSheet": "Villagers",
@@ -25583,7 +25583,7 @@
       "Purple",
       "Red"
     ],
-    "defaultClothingID": 6822
+    "defaultClothingInternalId": 6822
   },
   {
     "sourceSheet": "Villagers",
@@ -25685,7 +25685,7 @@
       "Blue",
       "Green"
     ],
-    "defaultClothingID": 4306
+    "defaultClothingInternalId": 4306
   },
   {
     "sourceSheet": "Villagers",
@@ -25795,7 +25795,7 @@
       "Black",
       "Purple"
     ],
-    "defaultClothingID": 3385
+    "defaultClothingInternalId": 3385
   },
   {
     "sourceSheet": "Villagers",
@@ -25893,7 +25893,7 @@
       "Blue",
       "White"
     ],
-    "defaultClothingID": 8323
+    "defaultClothingInternalId": 8323
   },
   {
     "sourceSheet": "Villagers",
@@ -25995,7 +25995,7 @@
       "Orange",
       "Yellow"
     ],
-    "defaultClothingID": 2677
+    "defaultClothingInternalId": 2677
   },
   {
     "sourceSheet": "Villagers",
@@ -26097,7 +26097,7 @@
       "Pink",
       "White"
     ],
-    "defaultClothingID": 4766
+    "defaultClothingInternalId": 4766
   },
   {
     "sourceSheet": "Villagers",
@@ -26197,7 +26197,7 @@
       "Colorful",
       "Purple"
     ],
-    "defaultClothingID": 7926
+    "defaultClothingInternalId": 7926
   },
   {
     "sourceSheet": "Villagers",
@@ -26297,7 +26297,7 @@
       "White",
       "Green"
     ],
-    "defaultClothingID": 4566
+    "defaultClothingInternalId": 4566
   },
   {
     "sourceSheet": "Villagers",
@@ -26403,7 +26403,7 @@
       "Red",
       "Yellow"
     ],
-    "defaultClothingID": 3287
+    "defaultClothingInternalId": 3287
   },
   {
     "sourceSheet": "Villagers",
@@ -26501,7 +26501,7 @@
       "White",
       "Light blue"
     ],
-    "defaultClothingID": 4399
+    "defaultClothingInternalId": 4399
   },
   {
     "sourceSheet": "Villagers",
@@ -26605,7 +26605,7 @@
       "Blue",
       "Light blue"
     ],
-    "defaultClothingID": 3237
+    "defaultClothingInternalId": 3237
   },
   {
     "sourceSheet": "Villagers",
@@ -26697,7 +26697,7 @@
       "Black",
       "White"
     ],
-    "defaultClothingID": 4327
+    "defaultClothingInternalId": 4327
   },
   {
     "sourceSheet": "Villagers",
@@ -26795,7 +26795,7 @@
       "Red",
       "Black"
     ],
-    "defaultClothingID": 3613
+    "defaultClothingInternalId": 3613
   },
   {
     "sourceSheet": "Villagers",
@@ -26909,7 +26909,7 @@
       "Brown",
       "Yellow"
     ],
-    "defaultClothingID": 3128
+    "defaultClothingInternalId": 3128
   },
   {
     "sourceSheet": "Villagers",
@@ -27007,7 +27007,7 @@
       "White",
       "Black"
     ],
-    "defaultClothingID": 3696
+    "defaultClothingInternalId": 3696
   },
   {
     "sourceSheet": "Villagers",
@@ -27113,7 +27113,7 @@
       "Black",
       "Orange"
     ],
-    "defaultClothingID": 4320
+    "defaultClothingInternalId": 4320
   },
   {
     "sourceSheet": "Villagers",
@@ -27239,7 +27239,7 @@
       "Yellow",
       "Orange"
     ],
-    "defaultClothingID": 5262
+    "defaultClothingInternalId": 5262
   },
   {
     "sourceSheet": "Villagers",
@@ -27349,7 +27349,7 @@
       "Red",
       "Yellow"
     ],
-    "defaultClothingID": 4406
+    "defaultClothingInternalId": 4406
   },
   {
     "sourceSheet": "Villagers",
@@ -27447,7 +27447,7 @@
       "Orange",
       "Purple"
     ],
-    "defaultClothingID": 7920
+    "defaultClothingInternalId": 7920
   },
   {
     "sourceSheet": "Villagers",
@@ -27553,7 +27553,7 @@
       "Gray",
       "Light blue"
     ],
-    "defaultClothingID": 3056
+    "defaultClothingInternalId": 3056
   },
   {
     "sourceSheet": "Villagers",
@@ -27655,7 +27655,7 @@
       "Orange",
       "Light blue"
     ],
-    "defaultClothingID": 4613
+    "defaultClothingInternalId": 4613
   },
   {
     "sourceSheet": "Villagers",
@@ -27755,7 +27755,7 @@
       "Red",
       "Colorful"
     ],
-    "defaultClothingID": 4595
+    "defaultClothingInternalId": 4595
   },
   {
     "sourceSheet": "Villagers",
@@ -27863,7 +27863,7 @@
       "Yellow",
       "White"
     ],
-    "defaultClothingID": 4432
+    "defaultClothingInternalId": 4432
   },
   {
     "sourceSheet": "Villagers",
@@ -27957,7 +27957,7 @@
       "Orange",
       "Red"
     ],
-    "defaultClothingID": 3288
+    "defaultClothingInternalId": 3288
   },
   {
     "sourceSheet": "Villagers",
@@ -28057,7 +28057,7 @@
       "Orange",
       "Green"
     ],
-    "defaultClothingID": 4616
+    "defaultClothingInternalId": 4616
   },
   {
     "sourceSheet": "Villagers",
@@ -28161,7 +28161,7 @@
       "Colorful",
       "Light blue"
     ],
-    "defaultClothingID": 4555
+    "defaultClothingInternalId": 4555
   },
   {
     "sourceSheet": "Villagers",
@@ -28267,7 +28267,7 @@
       "Red",
       "Colorful"
     ],
-    "defaultClothingID": 7784
+    "defaultClothingInternalId": 7784
   },
   {
     "sourceSheet": "Villagers",
@@ -28371,7 +28371,7 @@
       "Purple",
       "Beige"
     ],
-    "defaultClothingID": 3614
+    "defaultClothingInternalId": 3614
   },
   {
     "sourceSheet": "Villagers",
@@ -28475,7 +28475,7 @@
       "Beige",
       "Red"
     ],
-    "defaultClothingID": 2674
+    "defaultClothingInternalId": 2674
   },
   {
     "sourceSheet": "Villagers",
@@ -28585,7 +28585,7 @@
       "Orange",
       "Blue"
     ],
-    "defaultClothingID": 3322
+    "defaultClothingInternalId": 3322
   },
   {
     "sourceSheet": "Villagers",
@@ -28693,7 +28693,7 @@
       "Blue",
       "Red"
     ],
-    "defaultClothingID": 3633
+    "defaultClothingInternalId": 3633
   },
   {
     "sourceSheet": "Villagers",
@@ -28793,7 +28793,7 @@
       "Red",
       "Beige"
     ],
-    "defaultClothingID": 5131
+    "defaultClothingInternalId": 5131
   },
   {
     "sourceSheet": "Villagers",
@@ -28897,7 +28897,7 @@
       "Pink",
       "Red"
     ],
-    "defaultClothingID": 4556
+    "defaultClothingInternalId": 4556
   },
   {
     "sourceSheet": "Villagers",
@@ -29005,7 +29005,7 @@
       "Green",
       "Red"
     ],
-    "defaultClothingID": 5658
+    "defaultClothingInternalId": 5658
   },
   {
     "sourceSheet": "Villagers",
@@ -29101,7 +29101,7 @@
       "Black",
       "Red"
     ],
-    "defaultClothingID": 4320
+    "defaultClothingInternalId": 4320
   },
   {
     "sourceSheet": "Villagers",
@@ -29203,7 +29203,7 @@
       "Orange",
       "Yellow"
     ],
-    "defaultClothingID": 3599
+    "defaultClothingInternalId": 3599
   },
   {
     "sourceSheet": "Villagers",
@@ -29299,7 +29299,7 @@
       "Colorful",
       "Red"
     ],
-    "defaultClothingID": 3450
+    "defaultClothingInternalId": 3450
   },
   {
     "sourceSheet": "Villagers",
@@ -29398,7 +29398,7 @@
       "Red",
       "Pink"
     ],
-    "defaultClothingID": 3248
+    "defaultClothingInternalId": 3248
   },
   {
     "sourceSheet": "Villagers",
@@ -29498,7 +29498,7 @@
       "Black",
       "White"
     ],
-    "defaultClothingID": 3811
+    "defaultClothingInternalId": 3811
   },
   {
     "sourceSheet": "Villagers",
@@ -29606,7 +29606,7 @@
       "Green",
       "Brown"
     ],
-    "defaultClothingID": 9012
+    "defaultClothingInternalId": 9012
   },
   {
     "sourceSheet": "Villagers",
@@ -29716,7 +29716,7 @@
       "Light blue",
       "Yellow"
     ],
-    "defaultClothingID": 8604
+    "defaultClothingInternalId": 8604
   },
   {
     "sourceSheet": "Villagers",
@@ -29820,7 +29820,7 @@
       "Pink",
       "Light blue"
     ],
-    "defaultClothingID": 4163
+    "defaultClothingInternalId": 4163
   },
   {
     "sourceSheet": "Villagers",
@@ -29938,7 +29938,7 @@
       "Orange",
       "Yellow"
     ],
-    "defaultClothingID": 5262
+    "defaultClothingInternalId": 5262
   },
   {
     "sourceSheet": "Villagers",
@@ -30042,7 +30042,7 @@
       "Green",
       "Yellow"
     ],
-    "defaultClothingID": 3168
+    "defaultClothingInternalId": 3168
   },
   {
     "sourceSheet": "Villagers",
@@ -30152,7 +30152,7 @@
       "Purple",
       "Black"
     ],
-    "defaultClothingID": 7902
+    "defaultClothingInternalId": 7902
   },
   {
     "sourceSheet": "Villagers",
@@ -30254,7 +30254,7 @@
       "Yellow",
       "White"
     ],
-    "defaultClothingID": 4147
+    "defaultClothingInternalId": 4147
   },
   {
     "sourceSheet": "Villagers",
@@ -30358,7 +30358,7 @@
       "Blue",
       "Red"
     ],
-    "defaultClothingID": 5831
+    "defaultClothingInternalId": 5831
   },
   {
     "sourceSheet": "Villagers",
@@ -30458,7 +30458,7 @@
       "Green",
       "Pink"
     ],
-    "defaultClothingID": 2706
+    "defaultClothingInternalId": 2706
   },
   {
     "sourceSheet": "Villagers",
@@ -30562,7 +30562,7 @@
       "Green",
       "Blue"
     ],
-    "defaultClothingID": 8306
+    "defaultClothingInternalId": 8306
   },
   {
     "sourceSheet": "Villagers",
@@ -30662,7 +30662,7 @@
       "Blue",
       "Light blue"
     ],
-    "defaultClothingID": 8967
+    "defaultClothingInternalId": 8967
   },
   {
     "sourceSheet": "Villagers",
@@ -30760,7 +30760,7 @@
       "Gray",
       "Blue"
     ],
-    "defaultClothingID": 2781
+    "defaultClothingInternalId": 2781
   },
   {
     "sourceSheet": "Villagers",
@@ -30862,7 +30862,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 3386
+    "defaultClothingInternalId": 3386
   },
   {
     "sourceSheet": "Villagers",
@@ -30962,7 +30962,7 @@
       "Beige",
       "Orange"
     ],
-    "defaultClothingID": 4553
+    "defaultClothingInternalId": 4553
   },
   {
     "sourceSheet": "Villagers",
@@ -31072,7 +31072,7 @@
       "White",
       "Gray"
     ],
-    "defaultClothingID": 7794
+    "defaultClothingInternalId": 7794
   },
   {
     "sourceSheet": "Villagers",
@@ -31178,7 +31178,7 @@
       "Blue",
       "Black"
     ],
-    "defaultClothingID": 3237
+    "defaultClothingInternalId": 3237
   },
   {
     "sourceSheet": "Villagers",
@@ -31290,7 +31290,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 3339
+    "defaultClothingInternalId": 3339
   },
   {
     "sourceSheet": "Villagers",
@@ -31384,7 +31384,7 @@
       "Purple",
       "Yellow"
     ],
-    "defaultClothingID": 3055
+    "defaultClothingInternalId": 3055
   },
   {
     "sourceSheet": "Villagers",
@@ -31492,7 +31492,7 @@
       "Black",
       "Purple"
     ],
-    "defaultClothingID": 4616
+    "defaultClothingInternalId": 4616
   },
   {
     "sourceSheet": "Villagers",
@@ -31592,7 +31592,7 @@
       "Blue",
       "Light blue"
     ],
-    "defaultClothingID": 2655
+    "defaultClothingInternalId": 2655
   },
   {
     "sourceSheet": "Villagers",
@@ -31692,7 +31692,7 @@
       "Purple",
       "Black"
     ],
-    "defaultClothingID": 3385
+    "defaultClothingInternalId": 3385
   },
   {
     "sourceSheet": "Villagers",
@@ -31802,7 +31802,7 @@
       "Blue",
       "Light blue"
     ],
-    "defaultClothingID": 7974
+    "defaultClothingInternalId": 7974
   },
   {
     "sourceSheet": "Villagers",
@@ -31910,7 +31910,7 @@
       "Blue",
       "Red"
     ],
-    "defaultClothingID": 2498
+    "defaultClothingInternalId": 2498
   },
   {
     "sourceSheet": "Villagers",
@@ -32008,7 +32008,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 3460
+    "defaultClothingInternalId": 3460
   },
   {
     "sourceSheet": "Villagers",
@@ -32106,7 +32106,7 @@
       "Red",
       "Yellow"
     ],
-    "defaultClothingID": 3225
+    "defaultClothingInternalId": 3225
   },
   {
     "sourceSheet": "Villagers",
@@ -32210,7 +32210,7 @@
       "Light blue",
       "Purple"
     ],
-    "defaultClothingID": 4320
+    "defaultClothingInternalId": 4320
   },
   {
     "sourceSheet": "Villagers",
@@ -32318,7 +32318,7 @@
       "Yellow",
       "Black"
     ],
-    "defaultClothingID": 8192
+    "defaultClothingInternalId": 8192
   },
   {
     "sourceSheet": "Villagers",
@@ -32424,7 +32424,7 @@
       "Pink",
       "Red"
     ],
-    "defaultClothingID": 12038
+    "defaultClothingInternalId": 12038
   },
   {
     "sourceSheet": "Villagers",
@@ -32516,7 +32516,7 @@
       "Blue",
       "Light blue"
     ],
-    "defaultClothingID": 7763
+    "defaultClothingInternalId": 7763
   },
   {
     "sourceSheet": "Villagers",
@@ -32616,7 +32616,7 @@
       "Black",
       "Red"
     ],
-    "defaultClothingID": 3140
+    "defaultClothingInternalId": 3140
   },
   {
     "sourceSheet": "Villagers",
@@ -32718,7 +32718,7 @@
       "Pink",
       "Colorful"
     ],
-    "defaultClothingID": 7768
+    "defaultClothingInternalId": 7768
   },
   {
     "sourceSheet": "Villagers",
@@ -32818,7 +32818,7 @@
       "Blue",
       "Black"
     ],
-    "defaultClothingID": 2778
+    "defaultClothingInternalId": 2778
   },
   {
     "sourceSheet": "Villagers",
@@ -32922,7 +32922,7 @@
       "Gray",
       "Black"
     ],
-    "defaultClothingID": 7994
+    "defaultClothingInternalId": 7994
   },
   {
     "sourceSheet": "Villagers",
@@ -33020,7 +33020,7 @@
       "Blue",
       "Red"
     ],
-    "defaultClothingID": 9218
+    "defaultClothingInternalId": 9218
   },
   {
     "sourceSheet": "Villagers",
@@ -33130,7 +33130,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 3198
+    "defaultClothingInternalId": 3198
   },
   {
     "sourceSheet": "Villagers",
@@ -33236,7 +33236,7 @@
       "Pink",
       "Red"
     ],
-    "defaultClothingID": 2783
+    "defaultClothingInternalId": 2783
   },
   {
     "sourceSheet": "Villagers",
@@ -33334,7 +33334,7 @@
       "Light blue",
       "Gray"
     ],
-    "defaultClothingID": 9498
+    "defaultClothingInternalId": 9498
   },
   {
     "sourceSheet": "Villagers",
@@ -33428,7 +33428,7 @@
       "Light blue",
       "Pink"
     ],
-    "defaultClothingID": 8197
+    "defaultClothingInternalId": 8197
   },
   {
     "sourceSheet": "Villagers",
@@ -33528,7 +33528,7 @@
       "Yellow",
       "Beige"
     ],
-    "defaultClothingID": 7972
+    "defaultClothingInternalId": 7972
   },
   {
     "sourceSheet": "Villagers",
@@ -33648,7 +33648,7 @@
       "White",
       "Beige"
     ],
-    "defaultClothingID": 3631
+    "defaultClothingInternalId": 3631
   },
   {
     "sourceSheet": "Villagers",
@@ -33748,7 +33748,7 @@
       "Red",
       "Yellow"
     ],
-    "defaultClothingID": 8426
+    "defaultClothingInternalId": 8426
   },
   {
     "sourceSheet": "Villagers",
@@ -33864,7 +33864,7 @@
       "Light blue",
       "White"
     ],
-    "defaultClothingID": 7763
+    "defaultClothingInternalId": 7763
   },
   {
     "sourceSheet": "Villagers",
@@ -33968,7 +33968,7 @@
       "Light blue",
       "Blue"
     ],
-    "defaultClothingID": 4574
+    "defaultClothingInternalId": 4574
   },
   {
     "sourceSheet": "Villagers",
@@ -34068,7 +34068,7 @@
       "Beige",
       "Blue"
     ],
-    "defaultClothingID": 8195
+    "defaultClothingInternalId": 8195
   },
   {
     "sourceSheet": "Villagers",
@@ -34170,7 +34170,7 @@
       "Light blue",
       "Yellow"
     ],
-    "defaultClothingID": 8075
+    "defaultClothingInternalId": 8075
   },
   {
     "sourceSheet": "Villagers",
@@ -34274,7 +34274,7 @@
       "Green",
       "Yellow"
     ],
-    "defaultClothingID": 3253
+    "defaultClothingInternalId": 3253
   },
   {
     "sourceSheet": "Villagers",
@@ -34380,7 +34380,7 @@
       "Light blue",
       "Blue"
     ],
-    "defaultClothingID": 3227
+    "defaultClothingInternalId": 3227
   },
   {
     "sourceSheet": "Villagers",
@@ -34478,7 +34478,7 @@
       "Gray",
       "Blue"
     ],
-    "defaultClothingID": 3631
+    "defaultClothingInternalId": 3631
   },
   {
     "sourceSheet": "Villagers",
@@ -34572,7 +34572,7 @@
       "Red",
       "Colorful"
     ],
-    "defaultClothingID": 7768
+    "defaultClothingInternalId": 7768
   },
   {
     "sourceSheet": "Villagers",
@@ -34680,7 +34680,7 @@
       "Blue",
       "White"
     ],
-    "defaultClothingID": 4247
+    "defaultClothingInternalId": 4247
   },
   {
     "sourceSheet": "Villagers",
@@ -34786,7 +34786,7 @@
       "Brown",
       "Green"
     ],
-    "defaultClothingID": 3257
+    "defaultClothingInternalId": 3257
   },
   {
     "sourceSheet": "Villagers",
@@ -34882,7 +34882,7 @@
       "Black",
       "Blue"
     ],
-    "defaultClothingID": 3460
+    "defaultClothingInternalId": 3460
   },
   {
     "sourceSheet": "Villagers",
@@ -34982,7 +34982,7 @@
       "Green",
       "Yellow"
     ],
-    "defaultClothingID": 8201
+    "defaultClothingInternalId": 8201
   },
   {
     "sourceSheet": "Villagers",
@@ -35086,7 +35086,7 @@
       "Red",
       "Yellow"
     ],
-    "defaultClothingID": 3685
+    "defaultClothingInternalId": 3685
   },
   {
     "sourceSheet": "Villagers",
@@ -35182,7 +35182,7 @@
       "Green",
       "Gray"
     ],
-    "defaultClothingID": 8407
+    "defaultClothingInternalId": 8407
   },
   {
     "sourceSheet": "Villagers",
@@ -35286,7 +35286,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 4327
+    "defaultClothingInternalId": 4327
   },
   {
     "sourceSheet": "Villagers",
@@ -35388,7 +35388,7 @@
       "Green",
       "Colorful"
     ],
-    "defaultClothingID": 8550
+    "defaultClothingInternalId": 8550
   },
   {
     "sourceSheet": "Villagers",
@@ -35488,7 +35488,7 @@
       "Light blue",
       "White"
     ],
-    "defaultClothingID": 3631
+    "defaultClothingInternalId": 3631
   },
   {
     "sourceSheet": "Villagers",
@@ -35586,7 +35586,7 @@
       "Orange",
       "Green"
     ],
-    "defaultClothingID": 3448
+    "defaultClothingInternalId": 3448
   },
   {
     "sourceSheet": "Villagers",
@@ -35692,7 +35692,7 @@
       "Black",
       "Yellow"
     ],
-    "defaultClothingID": 3256
+    "defaultClothingInternalId": 3256
   },
   {
     "sourceSheet": "Villagers",
@@ -35804,7 +35804,7 @@
       "Yellow",
       "Beige"
     ],
-    "defaultClothingID": 3597
+    "defaultClothingInternalId": 3597
   },
   {
     "sourceSheet": "Villagers",
@@ -35912,7 +35912,7 @@
       "Blue",
       "Red"
     ],
-    "defaultClothingID": 3233
+    "defaultClothingInternalId": 3233
   },
   {
     "sourceSheet": "Villagers",
@@ -36012,7 +36012,7 @@
       "Red",
       "Blue"
     ],
-    "defaultClothingID": 3244
+    "defaultClothingInternalId": 3244
   },
   {
     "sourceSheet": "Villagers",
@@ -36130,7 +36130,7 @@
       "Colorful",
       "White"
     ],
-    "defaultClothingID": 9535
+    "defaultClothingInternalId": 9535
   },
   {
     "sourceSheet": "Villagers",
@@ -36228,7 +36228,7 @@
       "Brown",
       "Beige"
     ],
-    "defaultClothingID": 7721
+    "defaultClothingInternalId": 7721
   },
   {
     "sourceSheet": "Villagers",
@@ -36338,7 +36338,7 @@
       "Beige",
       "Yellow"
     ],
-    "defaultClothingID": 4165
+    "defaultClothingInternalId": 4165
   },
   {
     "sourceSheet": "Villagers",
@@ -36442,7 +36442,7 @@
       "Green",
       "Purple"
     ],
-    "defaultClothingID": 3289
+    "defaultClothingInternalId": 3289
   },
   {
     "sourceSheet": "Villagers",
@@ -36552,7 +36552,7 @@
       "Yellow",
       "Green"
     ],
-    "defaultClothingID": 9578
+    "defaultClothingInternalId": 9578
   },
   {
     "sourceSheet": "Villagers",
@@ -36652,7 +36652,7 @@
       "Blue",
       "Black"
     ],
-    "defaultClothingID": 3164
+    "defaultClothingInternalId": 3164
   },
   {
     "sourceSheet": "Villagers",
@@ -36764,7 +36764,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 4559
+    "defaultClothingInternalId": 4559
   },
   {
     "sourceSheet": "Villagers",
@@ -36860,7 +36860,7 @@
       "Yellow",
       "Colorful"
     ],
-    "defaultClothingID": 3320
+    "defaultClothingInternalId": 3320
   },
   {
     "sourceSheet": "Villagers",
@@ -36966,7 +36966,7 @@
       "Purple",
       "Green"
     ],
-    "defaultClothingID": 9138
+    "defaultClothingInternalId": 9138
   },
   {
     "sourceSheet": "Villagers",
@@ -37070,7 +37070,7 @@
       "Red",
       "Purple"
     ],
-    "defaultClothingID": 4343
+    "defaultClothingInternalId": 4343
   },
   {
     "sourceSheet": "Villagers",
@@ -37184,7 +37184,7 @@
       "Green",
       "Yellow"
     ],
-    "defaultClothingID": 2706
+    "defaultClothingInternalId": 2706
   },
   {
     "sourceSheet": "Villagers",
@@ -37278,7 +37278,7 @@
       "Red",
       "Green"
     ],
-    "defaultClothingID": 6888
+    "defaultClothingInternalId": 6888
   },
   {
     "sourceSheet": "Villagers",
@@ -37386,7 +37386,7 @@
       "Beige",
       "Gray"
     ],
-    "defaultClothingID": 8433
+    "defaultClothingInternalId": 8433
   },
   {
     "sourceSheet": "Villagers",
@@ -37484,7 +37484,7 @@
       "Yellow",
       "Orange"
     ],
-    "defaultClothingID": 5262
+    "defaultClothingInternalId": 5262
   },
   {
     "sourceSheet": "Villagers",
@@ -37588,7 +37588,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 2401
+    "defaultClothingInternalId": 2401
   },
   {
     "sourceSheet": "Villagers",
@@ -37696,7 +37696,7 @@
       "Black",
       "White"
     ],
-    "defaultClothingID": 3138
+    "defaultClothingInternalId": 3138
   },
   {
     "sourceSheet": "Villagers",
@@ -37802,7 +37802,7 @@
       "Black",
       "Red"
     ],
-    "defaultClothingID": 4347
+    "defaultClothingInternalId": 4347
   },
   {
     "sourceSheet": "Villagers",
@@ -37910,7 +37910,7 @@
       "Green",
       "Brown"
     ],
-    "defaultClothingID": 3633
+    "defaultClothingInternalId": 3633
   },
   {
     "sourceSheet": "Villagers",
@@ -38012,7 +38012,7 @@
       "Colorful",
       "Pink"
     ],
-    "defaultClothingID": 4575
+    "defaultClothingInternalId": 4575
   },
   {
     "sourceSheet": "Villagers",
@@ -38120,7 +38120,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 5980
+    "defaultClothingInternalId": 5980
   },
   {
     "sourceSheet": "Villagers",
@@ -38220,7 +38220,7 @@
       "Green",
       "Red"
     ],
-    "defaultClothingID": 4423
+    "defaultClothingInternalId": 4423
   },
   {
     "sourceSheet": "Villagers",
@@ -38320,7 +38320,7 @@
       "Yellow",
       "Orange"
     ],
-    "defaultClothingID": 9626
+    "defaultClothingInternalId": 9626
   },
   {
     "sourceSheet": "Villagers",
@@ -38422,7 +38422,7 @@
       "Pink",
       "Red"
     ],
-    "defaultClothingID": 8193
+    "defaultClothingInternalId": 8193
   },
   {
     "sourceSheet": "Villagers",
@@ -38526,7 +38526,7 @@
       "Pink",
       "Blue"
     ],
-    "defaultClothingID": 7768
+    "defaultClothingInternalId": 7768
   },
   {
     "sourceSheet": "Villagers",
@@ -38630,7 +38630,7 @@
       "Blue",
       "Purple"
     ],
-    "defaultClothingID": 3056
+    "defaultClothingInternalId": 3056
   },
   {
     "sourceSheet": "Villagers",
@@ -38732,7 +38732,7 @@
       "Red",
       "Orange"
     ],
-    "defaultClothingID": 4729
+    "defaultClothingInternalId": 4729
   },
   {
     "sourceSheet": "Villagers",
@@ -38832,7 +38832,7 @@
       "Light blue",
       "Purple"
     ],
-    "defaultClothingID": 2784
+    "defaultClothingInternalId": 2784
   },
   {
     "sourceSheet": "Villagers",
@@ -38946,7 +38946,7 @@
       "Orange",
       "Red"
     ],
-    "defaultClothingID": 2746
+    "defaultClothingInternalId": 2746
   },
   {
     "sourceSheet": "Villagers",
@@ -39068,7 +39068,7 @@
       "Light blue",
       "Blue"
     ],
-    "defaultClothingID": 11950
+    "defaultClothingInternalId": 11950
   },
   {
     "sourceSheet": "Villagers",
@@ -39190,7 +39190,7 @@
       "Yellow",
       "Orange"
     ],
-    "defaultClothingID": 3320
+    "defaultClothingInternalId": 3320
   },
   {
     "sourceSheet": "Villagers",
@@ -39292,7 +39292,7 @@
       "Purple",
       "Pink"
     ],
-    "defaultClothingID": 4661
+    "defaultClothingInternalId": 4661
   },
   {
     "sourceSheet": "Villagers",
@@ -39404,7 +39404,7 @@
       "Gray",
       "Purple"
     ],
-    "defaultClothingID": 4594
+    "defaultClothingInternalId": 4594
   },
   {
     "sourceSheet": "Villagers",
@@ -39506,7 +39506,7 @@
       "Yellow",
       "Colorful"
     ],
-    "defaultClothingID": 4148
+    "defaultClothingInternalId": 4148
   },
   {
     "sourceSheet": "Villagers",
@@ -39614,7 +39614,7 @@
       "Light blue",
       "Blue"
     ],
-    "defaultClothingID": 8195
+    "defaultClothingInternalId": 8195
   },
   {
     "sourceSheet": "Villagers",
@@ -39720,7 +39720,7 @@
       "Orange",
       "Red"
     ],
-    "defaultClothingID": 3322
+    "defaultClothingInternalId": 3322
   },
   {
     "sourceSheet": "Villagers",
@@ -39816,7 +39816,7 @@
       "Black",
       "Gray"
     ],
-    "defaultClothingID": 4342
+    "defaultClothingInternalId": 4342
   },
   {
     "sourceSheet": "Villagers",
@@ -39924,7 +39924,7 @@
       "Blue",
       "Purple"
     ],
-    "defaultClothingID": 9199
+    "defaultClothingInternalId": 9199
   },
   {
     "sourceSheet": "Villagers",
@@ -40026,7 +40026,7 @@
       "Blue",
       "Black"
     ],
-    "defaultClothingID": 4149
+    "defaultClothingInternalId": 4149
   },
   {
     "sourceSheet": "Villagers",
@@ -40140,7 +40140,7 @@
       "Red",
       "Green"
     ],
-    "defaultClothingID": 3287
+    "defaultClothingInternalId": 3287
   },
   {
     "sourceSheet": "Villagers",
@@ -40246,7 +40246,7 @@
       "Blue",
       "Light blue"
     ],
-    "defaultClothingID": 3387
+    "defaultClothingInternalId": 3387
   },
   {
     "sourceSheet": "Villagers",
@@ -40354,7 +40354,7 @@
       "White",
       "Pink"
     ],
-    "defaultClothingID": 4766
+    "defaultClothingInternalId": 4766
   },
   {
     "sourceSheet": "Villagers",
@@ -40456,7 +40456,7 @@
       "White",
       "Gray"
     ],
-    "defaultClothingID": 7648
+    "defaultClothingInternalId": 7648
   },
   {
     "sourceSheet": "Villagers",
@@ -40572,7 +40572,7 @@
       "Black",
       "Green"
     ],
-    "defaultClothingID": 4207
+    "defaultClothingInternalId": 4207
   },
   {
     "sourceSheet": "Villagers",
@@ -40672,7 +40672,7 @@
       "Orange",
       "Yellow"
     ],
-    "defaultClothingID": 7676
+    "defaultClothingInternalId": 7676
   },
   {
     "sourceSheet": "Villagers",
@@ -40774,7 +40774,7 @@
       "Purple",
       "Gray"
     ],
-    "defaultClothingID": 3676
+    "defaultClothingInternalId": 3676
   },
   {
     "sourceSheet": "Villagers",
@@ -40884,6 +40884,6 @@
       "Blue",
       "Yellow"
     ],
-    "defaultClothingID": 3254
+    "defaultClothingInternalId": 3254
   }
 ]
