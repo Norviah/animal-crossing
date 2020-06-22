@@ -1,30 +1,30 @@
 export interface Villager {
-    sourceSheet:       SourceSheet;
-    name:              string;
-    iconImage:         string;
-    photoImage:        string;
-    houseImage:        string;
-    species:           string;
-    gender:            Gender;
-    personality:       Personality;
-    subtype:           Subtype;
-    hobby:             Hobby;
-    birthday:          string;
-    catchphrase:       string;
-    favoriteSong:      string;
-    favoriteSaying:    string;
-    defaultClothing:   string;
-    wallpaper:         string;
-    flooring:          string;
-    furnitureList:     string[];
-    furnitureNameList: string[];
-    filename:          string;
-    uniqueEntryId:     string;
-    catchphrases:      Catchphrases;
-    translations:      Catchphrases;
-    styles:            Style[];
-    colors:            Color[];
-    defaultClothingID: number;
+    sourceSheet:               SourceSheet;
+    name:                      string;
+    iconImage:                 string;
+    photoImage:                string;
+    houseImage:                string;
+    species:                   string;
+    gender:                    Gender;
+    personality:               Personality;
+    subtype:                   Subtype;
+    hobby:                     Hobby;
+    birthday:                  string;
+    catchphrase:               string;
+    favoriteSong:              string;
+    favoriteSaying:            string;
+    defaultClothing:           string;
+    wallpaper:                 string;
+    flooring:                  string;
+    furnitureList:             string[];
+    furnitureNameList:         string[];
+    filename:                  string;
+    uniqueEntryId:             string;
+    catchphrases:              Catchphrases;
+    translations:              Catchphrases;
+    styles:                    Style[];
+    colors:                    Color[];
+    defaultClothingInternalId: number;
 }
 
 export interface Catchphrases {
