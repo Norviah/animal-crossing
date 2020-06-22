@@ -17,7 +17,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Recipe.ts:112](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Recipe.ts#L112)*
+*Defined in [Recipe.ts:112](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Recipe.ts#L112)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **The110A**: = "1.1.0a"
 
-*Defined in [Recipe.ts:113](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Recipe.ts#L113)*
+*Defined in [Recipe.ts:113](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Recipe.ts#L113)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Recipe.ts:114](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Recipe.ts#L114)*
+*Defined in [Recipe.ts:114](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Recipe.ts#L114)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **The121C**: = "1.2.1c"
 
-*Defined in [Recipe.ts:115](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Recipe.ts#L115)*
+*Defined in [Recipe.ts:115](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Recipe.ts#L115)*

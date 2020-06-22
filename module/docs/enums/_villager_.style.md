@@ -19,7 +19,7 @@
 
 • **Active**: = "Active"
 
-*Defined in [Villager.ts:104](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Villager.ts#L104)*
+*Defined in [Villager.ts:104](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Villager.ts#L104)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **Cool**: = "Cool"
 
-*Defined in [Villager.ts:105](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Villager.ts#L105)*
+*Defined in [Villager.ts:105](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Villager.ts#L105)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Cute**: = "Cute"
 
-*Defined in [Villager.ts:106](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Villager.ts#L106)*
+*Defined in [Villager.ts:106](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Villager.ts#L106)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **Elegant**: = "Elegant"
 
-*Defined in [Villager.ts:107](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Villager.ts#L107)*
+*Defined in [Villager.ts:107](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Villager.ts#L107)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **Gorgeous**: = "Gorgeous"
 
-*Defined in [Villager.ts:108](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Villager.ts#L108)*
+*Defined in [Villager.ts:108](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Villager.ts#L108)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **Simple**: = "Simple"
 
-*Defined in [Villager.ts:109](https://github.com/Norviah/animal-crossing/blob/02b4c7f/module/types/Villager.ts#L109)*
+*Defined in [Villager.ts:109](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Villager.ts#L109)*
