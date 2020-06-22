@@ -464,7 +464,7 @@
     "storageImage": "https://acnhcdn.com/latest/FtrIcon/CapWigWedding.png",
     "variation": null,
     "diy": false,
-    "buy": 4600,
+    "buy": -1,
     "sell": 1150,
     "hhaBaseScore": 437,
     "size": "1x1",
@@ -4277,7 +4277,7 @@
         ]
       },
       "materials": {
-        "pink cosmos": 3,
+        "pink cosmos": 4,
         "orange cosmos": 3
       },
       "sources": [

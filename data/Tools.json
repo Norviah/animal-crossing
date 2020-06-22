@@ -722,7 +722,7 @@
     "kitCost": null,
     "uses": 9.5,
     "stackSize": 1,
-    "buy": -1,
+    "buy": 400,
     "sell": 100,
     "hhaBaseScore": 0,
     "size": "1x1",
@@ -822,7 +822,7 @@
     "kitCost": null,
     "uses": 10,
     "stackSize": 1,
-    "buy": -1,
+    "buy": 400,
     "sell": 100,
     "hhaBaseScore": 0,
     "size": "1x1",
@@ -3802,7 +3802,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
-    "sourceNotes": "Only available during Wedding Season",
+    "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
     "filename": "ToolStickJune",
@@ -3835,7 +3835,7 @@
     },
     "colors": [],
     "sources": [
-      "Cyrus"
+      "Crafting"
     ],
     "recipe": {
       "sourceSheet": "Recipes",

@@ -13803,7 +13803,7 @@
     "bodyCustomize": false,
     "patternCustomize": false,
     "kitCost": null,
-    "buy": 400,
+    "buy": -1,
     "sell": 100,
     "size": "1x1",
     "surface": false,
@@ -84764,7 +84764,7 @@
     "catalog": "Not for sale",
     "bodyTitle": "Design",
     "bodyCustomize": true,
-    "buy": 4000,
+    "buy": -1,
     "sell": 1000,
     "translations": {
       "sourceSheet": "Furniture",
@@ -84961,7 +84961,7 @@
     "catalog": "Not for sale",
     "bodyTitle": "Design",
     "bodyCustomize": true,
-    "buy": 1200,
+    "buy": -1,
     "sell": 300,
     "translations": {
       "sourceSheet": "Furniture",
