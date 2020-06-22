@@ -49,7 +49,7 @@ export interface Item {
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape;
     stackSize?:            number;
-    vfx?:                  boolean | null;
+    vfx?:                  boolean;
     museum?:               Museum;
     bodyTitle?:            null | string;
     pattern?:              null | string;
