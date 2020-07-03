@@ -1,21 +1,21 @@
 export interface Hemisphere {
-    sourceSheet:        SourceSheet;
-    from:               string;
-    to:                 string;
-    days:               number;
-    season:             Season;
-    shops:              Season;
-    vegetation:         string;
-    rainSnow:           RainSnow;
-    skyEffect:          SkyEffect | null;
-    blossoms:           string;
-    petalLeafFall:      null | string;
-    fog:                Fog[] | null;
-    specialClouds:      SpecialCloud[] | null;
-    seasonalCrafting1:  SeasonalCrafting1;
-    seasonalCrafting2?: SeasonalCrafting2;
-    translations:       null;
-    seasonalCrafting3?: string;
+    sourceSheet:       SourceSheet;
+    from:              string;
+    to:                string;
+    days:              number;
+    season:            Season;
+    shops:             Season;
+    vegetation:        string;
+    rainSnow:          RainSnow;
+    skyEffect:         SkyEffect | null;
+    blossoms:          string;
+    petalLeafFall:     null | string;
+    fog:               Fog[] | null;
+    specialClouds:     SpecialCloud[] | null;
+    seasonalCrafting1: SeasonalCrafting1;
+    seasonalCrafting2: SeasonalCrafting2 | null;
+    seasonalCrafting3: null | string;
+    translations:      null;
 }
 
 export enum Fog {

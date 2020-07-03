@@ -6,8 +6,8 @@ export interface Achievement {
     num:                    number;
     internalId:             number;
     internalName:           string;
-    internalCategory:       string;
-    numOfTiers:             number;
+    internalCategory:       null | string;
+    numOfTiers:             number | string;
     sequential:             boolean;
     versionAdded:           VersionAdded;
     uniqueEntryId:          string;
@@ -20,13 +20,14 @@ export enum SourceSheet {
 }
 
 export interface Tier {
-    required:  number;
-    reward:    number;
-    nouns:     string[];
-    modifiers: string;
+    required: number | string;
+    reward:   number | string;
+    nouns:    string[];
+    modifier: string;
 }
 
 export enum VersionAdded {
     The100 = "1.0.0",
     The120 = "1.2.0",
+    The130 = "1.3.0",
 }
