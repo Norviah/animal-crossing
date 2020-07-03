@@ -1,8 +1,7 @@
-import { writeFileSync } from 'fs';
-
 import { files, category } from '../util/category';
 import { directories } from '../util/directories';
 import { get } from '../util/get';
+import { write } from '../util/write';
 
 // Each recipe has the property 'craftedItemInternalId', which represents the
 // internal ID of the item the recipe represents, so we'll use that property to
@@ -24,5 +23,5 @@ for (const file of files('Items', directories.sanitized)) {
     item.recipe = recipe ?? null;
   }
 
-  writeFileSync(file, JSON.stringify(items, null, 2));
+  write(file, items);
 }

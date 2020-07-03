@@ -1,4 +1,3 @@
-import { writeFileSync } from 'fs';
 import { camelCase, flatten, omit, pick, zipObject } from 'lodash';
 import { basename, join } from 'path';
 
@@ -7,6 +6,7 @@ import { get, readdir } from '../util/get';
 import { link } from '../util/link';
 import { separate } from '../util/separate';
 import { translate } from '../util/translate';
+import { write } from '../util/write';
 
 // After converting the spreadsheets into JSON, the keys and values won't
 // necessarily be in compliant of JavaScript syntax. For every item, the keys
@@ -155,5 +155,5 @@ for (const file of files) {
   // 'sanitized' array, as those items are stored in the 'variations' set.
   sanitized = sanitized.filter((item: any) => !variationNames.has(item.name));
 
-  writeFileSync(join(directories.sanitized, basename(file)), JSON.stringify([...sanitized, ...variations], null, 2));
+  write(join(directories.sanitized, basename(file)), [...sanitized, ...variations]);
 }
