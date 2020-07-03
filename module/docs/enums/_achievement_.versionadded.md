@@ -8,6 +8,7 @@
 
 * [The100](_achievement_.versionadded.md#the100)
 * [The120](_achievement_.versionadded.md#the120)
+* [The130](_achievement_.versionadded.md#the130)
 
 ## Enumeration members
 
@@ -15,7 +16,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Achievement.ts:30](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Achievement.ts#L30)*
+*Defined in [Achievement.ts:30](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Achievement.ts#L30)*
 
 ___
 
@@ -23,4 +24,12 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Achievement.ts:31](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Achievement.ts#L31)*
+*Defined in [Achievement.ts:31](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Achievement.ts#L31)*
+
+___
+
+###  The130
+
+• **The130**: = "1.3.0"
+
+*Defined in [Achievement.ts:32](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Achievement.ts#L32)*

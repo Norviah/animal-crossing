@@ -10,18 +10,18 @@
 
 ### Properties
 
-* [modifiers](_achievement_.tier.md#modifiers)
+* [modifier](_achievement_.tier.md#modifier)
 * [nouns](_achievement_.tier.md#nouns)
 * [required](_achievement_.tier.md#required)
 * [reward](_achievement_.tier.md#reward)
 
 ## Properties
 
-###  modifiers
+###  modifier
 
-• **modifiers**: *string*
+• **modifier**: *string*
 
-*Defined in [Achievement.ts:26](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Achievement.ts#L26)*
+*Defined in [Achievement.ts:26](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Achievement.ts#L26)*
 
 ___
 
@@ -29,20 +29,20 @@ ___
 
 • **nouns**: *string[]*
 
-*Defined in [Achievement.ts:25](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Achievement.ts#L25)*
+*Defined in [Achievement.ts:25](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Achievement.ts#L25)*
 
 ___
 
 ###  required
 
-• **required**: *number*
+• **required**: *number | string*
 
-*Defined in [Achievement.ts:23](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Achievement.ts#L23)*
+*Defined in [Achievement.ts:23](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Achievement.ts#L23)*
 
 ___
 
 ###  reward
 
-• **reward**: *number*
+• **reward**: *number | string*
 
-*Defined in [Achievement.ts:24](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Achievement.ts#L24)*
+*Defined in [Achievement.ts:24](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Achievement.ts#L24)*
