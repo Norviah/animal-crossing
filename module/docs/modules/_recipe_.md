@@ -11,7 +11,6 @@
 * [RecipeSourceSheet](../enums/_recipe_.recipesourcesheet.md)
 * [TranslationsSourceSheet](../enums/_recipe_.translationssourcesheet.md)
 * [Version](../enums/_recipe_.version.md)
-* [VersionUnlocked](../enums/_recipe_.versionunlocked.md)
 
 ### Interfaces
 

@@ -16,7 +16,7 @@
 
 • **Room1**: = "Room 1"
 
-*Defined in [Item.ts:186](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Item.ts#L186)*
+*Defined in [Item.ts:187](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Item.ts#L187)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **Room2**: = "Room 2"
 
-*Defined in [Item.ts:187](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Item.ts#L187)*
+*Defined in [Item.ts:188](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Item.ts#L188)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **Room3**: = "Room 3"
 
-*Defined in [Item.ts:188](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Item.ts#L188)*
+*Defined in [Item.ts:189](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Item.ts#L189)*

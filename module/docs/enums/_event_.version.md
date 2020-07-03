@@ -16,7 +16,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Event.ts:44](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Event.ts#L44)*
+*Defined in [Event.ts:44](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Event.ts#L44)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **The110**: = "1.1.0"
 
-*Defined in [Event.ts:45](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Event.ts#L45)*
+*Defined in [Event.ts:45](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Event.ts#L45)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Event.ts:46](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Event.ts#L46)*
+*Defined in [Event.ts:46](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Event.ts#L46)*

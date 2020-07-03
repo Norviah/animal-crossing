@@ -26,7 +26,7 @@
 
 • **buy**: *number*
 
-*Defined in [Construction.ts:5](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Construction.ts#L5)*
+*Defined in [Construction.ts:5](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Construction.ts#L5)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **category**: *[Category](../enums/_construction_.category.md)*
 
-*Defined in [Construction.ts:6](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Construction.ts#L6)*
+*Defined in [Construction.ts:6](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Construction.ts#L6)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **filename**: *string*
 
-*Defined in [Construction.ts:8](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Construction.ts#L8)*
+*Defined in [Construction.ts:8](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Construction.ts#L8)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **image**: *string*
 
-*Defined in [Construction.ts:4](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Construction.ts#L4)*
+*Defined in [Construction.ts:4](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Construction.ts#L4)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [Construction.ts:3](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Construction.ts#L3)*
+*Defined in [Construction.ts:3](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Construction.ts#L3)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **source**: *[Source](../enums/_construction_.source.md)[]*
 
-*Defined in [Construction.ts:7](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Construction.ts#L7)*
+*Defined in [Construction.ts:7](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Construction.ts#L7)*
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 • **sourceSheet**: *[ConstructionSourceSheet](../enums/_construction_.constructionsourcesheet.md)*
 
-*Defined in [Construction.ts:2](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Construction.ts#L2)*
+*Defined in [Construction.ts:2](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Construction.ts#L2)*
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 • **translations**: *[Translations](_construction_.translations.md) | null*
 
-*Defined in [Construction.ts:10](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Construction.ts#L10)*
+*Defined in [Construction.ts:10](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Construction.ts#L10)*
 
 ___
 
@@ -90,4 +90,4 @@ ___
 
 • **uniqueEntryId**: *string*
 
-*Defined in [Construction.ts:9](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Construction.ts#L9)*
+*Defined in [Construction.ts:9](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Construction.ts#L9)*

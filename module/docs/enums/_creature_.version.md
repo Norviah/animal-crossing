@@ -7,6 +7,7 @@
 ### Enumeration members
 
 * [The100](_creature_.version.md#the100)
+* [The130](_creature_.version.md#the130)
 
 ## Enumeration members
 
@@ -14,4 +15,12 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Creature.ts:100](https://github.com/Norviah/animal-crossing/blob/44de0e0/module/types/Creature.ts#L100)*
+*Defined in [Creature.ts:102](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Creature.ts#L102)*
+
+___
+
+###  The130
+
+• **The130**: = "1.3.0"
+
+*Defined in [Creature.ts:103](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Creature.ts#L103)*

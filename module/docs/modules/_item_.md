@@ -7,7 +7,7 @@
 ### Enumerations
 
 * [CardColor](../enums/_item_.cardcolor.md)
-* [Catalog](../enums/_item_.catalog.md)
+* [CatalogEnum](../enums/_item_.catalogenum.md)
 * [Category](../enums/_item_.category.md)
 * [CeilingType](../enums/_item_.ceilingtype.md)
 * [Color](../enums/_item_.color.md)
@@ -27,7 +27,6 @@
 * [Series](../enums/_item_.series.md)
 * [Size](../enums/_item_.size.md)
 * [SizeCategory](../enums/_item_.sizecategory.md)
-* [Source](../enums/_item_.source.md)
 * [SpeakerType](../enums/_item_.speakertype.md)
 * [Style](../enums/_item_.style.md)
 * [Theme](../enums/_item_.theme.md)
