@@ -45,6 +45,7 @@
     "eslint": "^7.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.3",
+    "json-beautify": "^1.1.1",
     "lodash": "^4.17.15",
     "prettier": "^2.0.5",
     "quicktype": "^15.0.245",
