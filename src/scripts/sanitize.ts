@@ -63,6 +63,9 @@ const duplicateValues: string[] = [
   'sell',
   'customize',
   'translations',
+  'labelThemes',
+  'source',
+  'style',
 ];
 
 // Some items in the various spreadsheets have multiple values for them, for

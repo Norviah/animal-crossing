@@ -52,7 +52,7 @@ function sanitize(object: obj): void {
   }
 
   for (const key of keys) {
-    delete object[key];
+    if (object.hasOwnProperty(key)) delete object[key];
   }
 }
 
@@ -60,14 +60,16 @@ for (const file of files('Items')) {
   const items: obj[] = get(file);
 
   for (const item of items) {
-    // We check if the item has variations as if the item has variations, the
-    // information we want to edit are the objects in the variations array.
+    // We check if the item has variations as some of the information we want to
+    // edit are on the objects within the variations array.
     if (item.variations) {
       for (const variation of item.variations) sanitize(variation);
     }
 
-    // If the object has no variations, simply edit the object itself.
-    else sanitize(item);
+    // We call the function on the item itself as well as some information we
+    // want to edit aren't dynamic for each variation, so it's available on the
+    // item itself.
+    sanitize(item);
   }
 
   writeFileSync(file, JSON.stringify(items, null, 2));
