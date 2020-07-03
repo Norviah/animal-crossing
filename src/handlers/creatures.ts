@@ -4,7 +4,6 @@ import { directories } from '../util/directories';
 import { files } from '../util/category';
 import { get } from '../util/get';
 import { separate } from '../util/separate';
-import { validate } from '../util/validate';
 import { write } from '../util/write';
 
 // In Animal Crossing, creatures such as fish and bugs are available for certain
@@ -14,17 +13,17 @@ import { write } from '../util/write';
 // up to 24 entries.
 
 // This script combines these entries into an object with the key representing
-// that set's hemisphere, in addition to an array of the consecutive months that
-// the creature is available on.
+// that set's hemisphere, in addition to an array of the time and consecutive
+// months that the creature is available.
 
-const months: string[] = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+const monthsArray: string[] = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 // For the months of the north hemisphere, each month has 'nh' in front, so we
 // initialize an array containing these keys for access later on.
-const northHemisphere: string[] = months.map((month: string) => `nh${month}`);
+const northHemisphere: string[] = monthsArray.map((month: string) => `nh${month}`);
 
 // We do the same for the south hemisphere, which has 'sh' in front.
-const southHemisphere: string[] = months.map((month: string) => `sh${month}`);
+const southHemisphere: string[] = monthsArray.map((month: string) => `sh${month}`);
 
 /**
  * As every creature is available for certain months of a year, on the
@@ -64,6 +63,26 @@ function activeMonths(months: obj): string[] {
 }
 
 /**
+ * Returns an object copied from the given object with every non-truthy value
+ * removed.
+ * @param  object The object to validate.
+ * @return        The given object copied with no falsy values.
+ */
+function validate(object: obj): obj {
+  // Initialize a new array referencing the keys from the given object filtered
+  // to remove any key that results to a non falsy value.
+  const keys: string[] = Object.keys(object).filter((key: string) => object[key]);
+
+  const result: obj = {};
+
+  for (const key of keys) {
+    result[key] = object[key];
+  }
+
+  return result;
+}
+
+/**
  * Returns an object referencing when the creature is available, one entry for
  * both hemispheres. Each entry contains an object referencing the consecutive
  * months that the creature is available in and the time for said months.
@@ -76,21 +95,24 @@ function hemisphere(creature: obj): obj {
   for (const hemisphere in hemispheres) {
     // Each month has a 'nh' or 'sh' in front to represent the hemisphere that
     // that month represents, we remove that as it's not needed and redundant.
-    const object = mapKeys(hemispheres[hemisphere], (value: any, key: string) => key.replace(/sh|nh/g, ''));
+    const months = mapKeys(hemispheres[hemisphere], (value: any, key: string) => key.replace(/sh|nh/g, ''));
 
-    // Get the active months for this creature in the hemisphere.
-    const months: obj = activeMonths(object);
-
-    // Once we have the active months for the creature, we don't need the months
-    // that the creature isn't available in, so those entries are deleted.
-    validate(object);
+    // In order to get the months/time that the creature is available in, we'll
+    // have to remove any value with a falsy value, which represents that the
+    // creature can't be caught during that month.
+    const valid: obj = validate(months);
 
     // A creature can be caught during the same time for each month that it's
     // available in, atleast I'm assuming, so we simply get the first month's
     // time, splitting it as creatures may have more than one time span.
-    const time: string[] = separate(Object.values(object)[0], ';');
+    const time: string[] = separate(Object.values(valid)[0], ';');
 
-    hemispheres[hemisphere] = { months, time };
+    // In order to get the number of each month that the creature is available
+    // in, we'll get the index of each month from the global months container
+    // and add one as arrays are indexed off of zero.
+    const monthArray: number[] = Object.keys(valid).map((month: string) => monthsArray.indexOf(month) + 1);
+
+    hemispheres[hemisphere] = { time, months: activeMonths(months), monthsArray: monthArray };
   }
 
   return hemispheres;
