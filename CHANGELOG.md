@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/Norviah/animal-crossing/compare/v2.0.0...v3.0.0) (2020-07-03)
+
+
+### Features
+
+* updated categories for the summer update of ac ([4ea4a91](https://github.com/Norviah/animal-crossing/commit/4ea4a91bece586b76a2bc9a715af3772306768f8))
+* **achievements:** changed the key 'modifier' to 'modifier' ([068a77c](https://github.com/Norviah/animal-crossing/commit/068a77c2f558575df3340f048f4b7beae9e6bb50))
+* **items:** moved static entries to the base of items ([556d6ec](https://github.com/Norviah/animal-crossing/commit/556d6ec47e6b9bdaac8cc2a7e94591055fcb0073))
+
 ## [2.0.0](https://github.com/Norviah/animal-crossing/compare/v1.2.1...v2.0.0) (2020-06-22)
 
 
