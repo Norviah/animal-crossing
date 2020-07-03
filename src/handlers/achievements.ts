@@ -55,7 +55,7 @@ for (const achievement of achievements) {
   // for the rest of the arrays and indexes. We initialize an object with these
   // values and add it into the achievement, with the key as the tier's number.
   for (const i in tiers) {
-    container[Number(i) + 1] = { required: tiers[i], reward: rewards[i], nouns: nouns[i], modifiers: modifiers[i] };
+    container[Number(i) + 1] = { required: tiers[i], reward: rewards[i], nouns: nouns[i], modifier: modifiers[i] };
   }
 
   for (const key of [...tierKeys, ...rewardKeys, ...nounKeys, ...modifierKeys]) {
