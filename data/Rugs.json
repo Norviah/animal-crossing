@@ -12,7 +12,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
     "filename": "RugRectAluminumM00",
@@ -37,22 +37,12 @@
       "korean": "알루미늄 매트",
       "russian": "алюминиевый коврик",
       "plural": false,
-      "internalIds": [
-        7356
-      ]
+      "internalIds": [ 7356 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "concepts": [
-      "garden",
-      "outdoors"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "garden", "outdoors" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -68,7 +58,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Fruit Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherAppleM00",
@@ -93,22 +83,12 @@
       "korean": "사과 러그",
       "russian": "ковер-яблоко",
       "plural": false,
-      "internalIds": [
-        7327
-      ]
+      "internalIds": [ 7327 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": "fruits",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "apple rug",
@@ -144,16 +124,10 @@
         "korean": "사과 러그",
         "russian": "ковер-яблоко",
         "plural": false,
-        "internalIds": [
-          7327
-        ]
+        "internalIds": [ 7327 ]
       },
-      "materials": {
-        "apple": 6
-      },
-      "sources": [
-        "Big Sister villagers"
-      ]
+      "materials": { "apple": 6 },
+      "sources": [ "Big Sister villagers" ]
     }
   },
   {
@@ -169,7 +143,7 @@
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Park Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherBellM00",
@@ -194,18 +168,12 @@
       "korean": "벨 주머니 러그",
       "russian": "ковер «Мешок диней»",
       "plural": false,
-      "internalIds": [
-        12214
-      ]
+      "internalIds": [ 12214 ]
     },
     "colors": [],
-    "concepts": [
-      "expensive"
-    ],
+    "concepts": [ "expensive" ],
     "series": null,
-    "sources": [
-      "Nook Miles Shop"
-    ],
+    "sources": [ "Nintendo", "Nook Miles Shop" ],
     "recipe": null
   },
   {
@@ -221,7 +189,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareBlockM03",
@@ -246,21 +214,12 @@
       "korean": "흑백 블록 러그",
       "russian": "черный ковер с прямоуг.",
       "plural": false,
-      "internalIds": [
-        11104
-      ]
+      "internalIds": [ 11104 ]
     },
-    "colors": [
-      "Black",
-      "Gray"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Black", "Gray" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -276,7 +235,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Wood Rugs",
     "catalog": "For sale",
     "filename": "RugRectDeckM03",
@@ -301,21 +260,12 @@
       "korean": "검정 우드 덱 러그",
       "russian": "черный ковер под доски",
       "plural": false,
-      "internalIds": [
-        7382
-      ]
+      "internalIds": [ 7382 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "concepts": [
-      "outdoors"
-    ],
+    "colors": [ "Black", "Black" ],
+    "concepts": [ "outdoors" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -331,7 +281,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
     "filename": "RugRectNativeKitchenS03",
@@ -356,21 +306,12 @@
       "korean": "검정 패턴 키친 매트",
       "russian": "коврик с черным узором",
       "plural": false,
-      "internalIds": [
-        7594
-      ]
+      "internalIds": [ 7594 ]
     },
-    "colors": [
-      "Black",
-      "Orange"
-    ],
-    "concepts": [
-      "kitchen"
-    ],
+    "colors": [ "Black", "Orange" ],
+    "concepts": [ "kitchen" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -386,7 +327,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectArgyleL02",
@@ -411,22 +352,12 @@
       "korean": "파란 아가일 러그",
       "russian": "синий ковер аргайл",
       "plural": false,
-      "internalIds": [
-        8467
-      ]
+      "internalIds": [ 8467 ]
     },
-    "colors": [
-      "Blue",
-      "Green"
-    ],
-    "concepts": [
-      "living room",
-      "expensive"
-    ],
+    "colors": [ "Blue", "Green" ],
+    "concepts": [ "living room", "expensive" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -442,7 +373,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareBlockM01",
@@ -467,21 +398,12 @@
       "korean": "파란 블록 러그",
       "russian": "синий ковер с прямоуг.",
       "plural": false,
-      "internalIds": [
-        11102
-      ]
+      "internalIds": [ 11102 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -497,7 +419,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectDotL03",
@@ -522,22 +444,12 @@
       "korean": "블루 도트 러그",
       "russian": "синий ковер в горох",
       "plural": false,
-      "internalIds": [
-        7467
-      ]
+      "internalIds": [ 7467 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -553,7 +465,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareKirimL01",
@@ -578,21 +490,12 @@
       "korean": "파란 킬림 카펫",
       "russian": "синий килим",
       "plural": false,
-      "internalIds": [
-        9316
-      ]
+      "internalIds": [ 9316 ]
     },
-    "colors": [
-      "Blue",
-      "Black"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Blue", "Black" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -608,7 +511,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
     "filename": "RugRectKitchenS02",
@@ -633,21 +536,12 @@
       "korean": "파란 키친 매트",
       "russian": "синий коврик на кухню",
       "plural": false,
-      "internalIds": [
-        8394
-      ]
+      "internalIds": [ 8394 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "kitchen"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "kitchen" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -663,7 +557,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundSimpleM02",
@@ -688,22 +582,12 @@
       "korean": "파란 라운드 매트 M",
       "russian": "кругл. синий коврик M",
       "plural": false,
-      "internalIds": [
-        9546
-      ]
+      "internalIds": [ 9546 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -719,7 +603,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Message Mats",
     "catalog": "For sale",
     "filename": "RugOtherMessageS01",
@@ -744,21 +628,12 @@
       "korean": "파란 메시지 매트",
       "russian": "синий коврик с текстом",
       "plural": false,
-      "internalIds": [
-        9310
-      ]
+      "internalIds": [ 9310 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "child's room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -774,7 +649,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquarePersianL01",
@@ -799,22 +674,12 @@
       "korean": "파란 페르시아 융단",
       "russian": "синий персидский ковер",
       "plural": false,
-      "internalIds": [
-        8035
-      ]
+      "internalIds": [ 8035 ]
     },
-    "colors": [
-      "Blue",
-      "Beige"
-    ],
-    "concepts": [
-      "expensive",
-      "living room"
-    ],
+    "colors": [ "Blue", "Beige" ],
+    "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -830,7 +695,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareShaggyL02",
@@ -855,21 +720,12 @@
       "korean": "파란 복슬복슬 러그",
       "russian": "синий ковер с ворсом",
       "plural": false,
-      "internalIds": [
-        9564
-      ]
+      "internalIds": [ 9564 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -885,7 +741,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundSimpleS02",
@@ -910,22 +766,12 @@
       "korean": "파란 라운드 매트 S",
       "russian": "кругл. синий коврик S",
       "plural": false,
-      "internalIds": [
-        9549
-      ]
+      "internalIds": [ 9549 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -941,7 +787,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectBorderL02",
@@ -966,22 +812,12 @@
       "korean": "파란 줄무늬 러그",
       "russian": "ковер в синюю полоску",
       "plural": false,
-      "internalIds": [
-        7533
-      ]
+      "internalIds": [ 7533 ]
     },
-    "colors": [
-      "Blue",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Blue", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -997,7 +833,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectVinylM01",
@@ -1022,21 +858,12 @@
       "korean": "파란 비닐 시트",
       "russian": "синий винил. коврик",
       "plural": false,
-      "internalIds": [
-        7404
-      ]
+      "internalIds": [ 7404 ]
     },
-    "colors": [
-      "Blue",
-      "Colorful"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Blue", "Colorful" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1052,7 +879,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectWaveL02",
@@ -1077,22 +904,12 @@
       "korean": "파란 웨이브 러그",
       "russian": "синий ковер «Волны»",
       "plural": false,
-      "internalIds": [
-        7458
-      ]
+      "internalIds": [ 7458 ]
     },
-    "colors": [
-      "Blue",
-      "Light blue"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Blue", "Light blue" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1108,7 +925,7 @@
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
-    "hhaBaseScore": 437,
+    "hhaBasePoints": 437,
     "tag": "Slender Pattern Rugs",
     "catalog": "Not for sale",
     "filename": "RugRectJuneBrideM00",
@@ -1133,19 +950,12 @@
       "korean": "하늘색 웨딩 러그",
       "russian": "синий свадебный ковер",
       "plural": false,
-      "internalIds": [
-        12462
-      ]
+      "internalIds": [ 12462 ]
     },
     "colors": [],
-    "concepts": [
-      "party",
-      "expensive"
-    ],
+    "concepts": [ "party", "expensive" ],
     "series": "wedding",
-    "sources": [
-      "Cyrus"
-    ],
+    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -1161,7 +971,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
     "filename": "RugRectNativeKitchenS01",
@@ -1186,21 +996,12 @@
       "korean": "파란 패턴 키친 매트",
       "russian": "коврик с синим узором",
       "plural": false,
-      "internalIds": [
-        7595
-      ]
+      "internalIds": [ 7595 ]
     },
-    "colors": [
-      "Blue",
-      "Black"
-    ],
-    "concepts": [
-      "kitchen"
-    ],
+    "colors": [ "Blue", "Black" ],
+    "concepts": [ "kitchen" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1216,7 +1017,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectBotanicalL00",
@@ -1241,21 +1042,12 @@
       "korean": "보태니컬 러그",
       "russian": "ботанический ковер",
       "plural": false,
-      "internalIds": [
-        7353
-      ]
+      "internalIds": [ 7353 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1271,7 +1063,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectArgyleL03",
@@ -1296,22 +1088,12 @@
       "korean": "갈색 아가일 러그",
       "russian": "коричневый ковер аргайл",
       "plural": false,
-      "internalIds": [
-        8468
-      ]
+      "internalIds": [ 8468 ]
     },
-    "colors": [
-      "Brown",
-      "Yellow"
-    ],
-    "concepts": [
-      "living room",
-      "expensive"
-    ],
+    "colors": [ "Brown", "Yellow" ],
+    "concepts": [ "living room", "expensive" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1327,7 +1109,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
     "filename": "RugRectKitchenS00",
@@ -1352,21 +1134,12 @@
       "korean": "갈색 키친 매트",
       "russian": "коричн. коврик на кухню",
       "plural": false,
-      "internalIds": [
-        7341
-      ]
+      "internalIds": [ 7341 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "kitchen"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "kitchen" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1382,7 +1155,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareShaggyL01",
@@ -1407,21 +1180,12 @@
       "korean": "갈색 복슬복슬 러그",
       "russian": "коричн. ковер с ворсом",
       "plural": false,
-      "internalIds": [
-        9563
-      ]
+      "internalIds": [ 9563 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1437,7 +1201,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Wood Rugs",
     "catalog": "For sale",
     "filename": "RugRectDeckM00",
@@ -1462,21 +1226,12 @@
       "korean": "갈색 우드 덱 러그",
       "russian": "коричн. ковер под дерево",
       "plural": false,
-      "internalIds": [
-        7323
-      ]
+      "internalIds": [ 7323 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "outdoors"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "outdoors" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1492,7 +1247,7 @@
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
-    "hhaBaseScore": 351,
+    "hhaBasePoints": 351,
     "tag": "Icon Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherEasterM00",
@@ -1517,19 +1272,12 @@
       "korean": "이스터 러그",
       "russian": "ковер «День зайцев»",
       "plural": false,
-      "internalIds": [
-        7546
-      ]
+      "internalIds": [ 7546 ]
     },
     "colors": [],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "concepts": [ "fancy", "child's room" ],
     "series": "Bunny Day",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day rug",
@@ -1565,9 +1313,7 @@
         "korean": "이스터 러그",
         "russian": "ковер «День зайцев»",
         "plural": false,
-        "internalIds": [
-          7546
-        ]
+        "internalIds": [ 7546 ]
       },
       "materials": {
         "earth egg": 1,
@@ -1577,10 +1323,7 @@
         "sky egg": 1,
         "water egg": 1
       },
-      "sources": [
-        "Egg bottle",
-        "Egg balloon"
-      ]
+      "sources": [ "Egg bottle", "Egg balloon" ]
     }
   },
   {
@@ -1596,7 +1339,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Fruit Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherCherryM00",
@@ -1621,22 +1364,12 @@
       "korean": "체리 러그",
       "russian": "ковер-вишни",
       "plural": false,
-      "internalIds": [
-        7328
-      ]
+      "internalIds": [ 7328 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": "fruits",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry rug",
@@ -1672,16 +1405,10 @@
         "korean": "체리 러그",
         "russian": "ковер-вишни",
         "plural": false,
-        "internalIds": [
-          7328
-        ]
+        "internalIds": [ 7328 ]
       },
-      "materials": {
-        "cherry": 6
-      },
-      "sources": [
-        "Peppy villagers"
-      ]
+      "materials": { "cherry": 6 },
+      "sources": [ "Peppy villagers" ]
     }
   },
   {
@@ -1697,7 +1424,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectVinylM00",
@@ -1722,21 +1449,12 @@
       "korean": "컬러풀 비닐 시트",
       "russian": "пестрый винил. коврик",
       "plural": false,
-      "internalIds": [
-        7359
-      ]
+      "internalIds": [ 7359 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1752,7 +1470,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Wood Rugs",
     "catalog": "Not for sale",
     "filename": "RugRectBambooM01",
@@ -1777,21 +1495,12 @@
       "korean": "어두운 대나무 러그",
       "russian": "темный бамбук. коврик",
       "plural": false,
-      "internalIds": [
-        11114
-      ]
+      "internalIds": [ 11114 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "zen-style"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "zen-style" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark bamboo rug",
@@ -1827,16 +1536,10 @@
         "korean": "어두운 대나무 러그",
         "russian": "темный бамбук. коврик",
         "plural": false,
-        "internalIds": [
-          11114
-        ]
+        "internalIds": [ 11114 ]
       },
-      "materials": {
-        "bamboo piece": 6
-      },
-      "sources": [
-        "Cranky villagers"
-      ]
+      "materials": { "bamboo piece": 6 },
+      "sources": [ "Cranky villagers" ]
     }
   },
   {
@@ -1852,7 +1555,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Icon Rugs",
     "catalog": "For sale",
     "filename": "RugRoundEarthM00",
@@ -1877,22 +1580,12 @@
       "korean": "지구 러그",
       "russian": "ковер «Земля»",
       "plural": false,
-      "internalIds": [
-        7357
-      ]
+      "internalIds": [ 7357 ]
     },
-    "colors": [
-      "Blue",
-      "White"
-    ],
-    "concepts": [
-      "space",
-      "child's room"
-    ],
+    "colors": [ "Blue", "White" ],
+    "concepts": [ "space", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1908,7 +1601,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 501,
+    "hhaBasePoints": 501,
     "tag": "Icon Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherFishM00",
@@ -1933,22 +1626,12 @@
       "korean": "물고기 러그",
       "russian": "ковер-рыба",
       "plural": false,
-      "internalIds": [
-        7361
-      ]
+      "internalIds": [ 7361 ]
     },
-    "colors": [
-      "Light blue",
-      "Light blue"
-    ],
-    "concepts": [
-      "ocean",
-      "child's room"
-    ],
+    "colors": [ "Light blue", "Light blue" ],
+    "concepts": [ "ocean", "child's room" ],
     "series": null,
-    "sources": [
-      "Fishing Tourney"
-    ],
+    "sources": [ "Fishing Tourney" ],
     "recipe": null
   },
   {
@@ -1964,7 +1647,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Icon Rugs",
     "catalog": "For sale",
     "filename": "RugOtherCloudM00",
@@ -1989,22 +1672,12 @@
       "korean": "몽실몽실 러그",
       "russian": "плюшевый ковер",
       "plural": false,
-      "internalIds": [
-        7329
-      ]
+      "internalIds": [ 7329 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2020,7 +1693,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Park Rugs",
     "catalog": "For sale",
     "filename": "RugOtherFossilM00",
@@ -2045,22 +1718,12 @@
       "korean": "화석 러그",
       "russian": "ковер с окаменелостями",
       "plural": false,
-      "internalIds": [
-        7366
-      ]
+      "internalIds": [ 7366 ]
     },
-    "colors": [
-      "Purple",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Purple", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2076,7 +1739,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareCheckQuiltL03",
@@ -2101,22 +1764,12 @@
       "korean": "초록 체크 퀼트 러그",
       "russian": "зеленый ковер в клетку",
       "plural": false,
-      "internalIds": [
-        7464
-      ]
+      "internalIds": [ 7464 ]
     },
-    "colors": [
-      "Green",
-      "Purple"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Green", "Purple" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2132,7 +1785,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareKirimL02",
@@ -2157,21 +1810,12 @@
       "korean": "초록 킬림 카펫",
       "russian": "зеленый килим",
       "plural": false,
-      "internalIds": [
-        9314
-      ]
+      "internalIds": [ 9314 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2187,7 +1831,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
     "filename": "RugRectKitchenS03",
@@ -2212,21 +1856,12 @@
       "korean": "초록 키친 매트",
       "russian": "зелен. коврик на кухню",
       "plural": false,
-      "internalIds": [
-        8393
-      ]
+      "internalIds": [ 8393 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "kitchen"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "kitchen" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2242,7 +1877,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareShaggyL00",
@@ -2267,21 +1902,12 @@
       "korean": "초록 복슬복슬 러그",
       "russian": "зеленый ковер с ворсом",
       "plural": false,
-      "internalIds": [
-        7354
-      ]
+      "internalIds": [ 7354 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2297,7 +1923,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectBorderL03",
@@ -2322,22 +1948,12 @@
       "korean": "초록 줄무늬 러그",
       "russian": "ковер в зеленую полоску",
       "plural": false,
-      "internalIds": [
-        7534
-      ]
+      "internalIds": [ 7534 ]
     },
-    "colors": [
-      "Green",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Green", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2353,7 +1969,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
     "filename": "RugRectIronmatS00",
@@ -2378,22 +1994,12 @@
       "korean": "아이언 현관 매트",
       "russian": "коврик с решеткой",
       "plural": false,
-      "internalIds": [
-        7337
-      ]
+      "internalIds": [ 7337 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "concepts": [
-      "shop",
-      "expensive"
-    ],
+    "colors": [ "Black", "Black" ],
+    "concepts": [ "shop", "expensive" ],
     "series": "iron",
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2409,7 +2015,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundSimpleM00",
@@ -2434,22 +2040,12 @@
       "korean": "아이보리 라운드 매트 M",
       "russian": "круглый беж. коврик M",
       "plural": false,
-      "internalIds": [
-        7325
-      ]
+      "internalIds": [ 7325 ]
     },
-    "colors": [
-      "Beige",
-      "White"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Beige", "White" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2465,7 +2061,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
     "filename": "RugRectBathmatS00",
@@ -2490,21 +2086,12 @@
       "korean": "아이보리 심플 욕실 매트",
       "russian": "бежевый коврик (душ)",
       "plural": false,
-      "internalIds": [
-        7333
-      ]
+      "internalIds": [ 7333 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "bathroom"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "bathroom" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2520,7 +2107,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundSimpleS00",
@@ -2545,22 +2132,12 @@
       "korean": "아이보리 라운드 매트 S",
       "russian": "круглый беж. коврик S",
       "plural": false,
-      "internalIds": [
-        7334
-      ]
+      "internalIds": [ 7334 ]
     },
-    "colors": [
-      "Beige",
-      "White"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Beige", "White" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2576,7 +2153,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundLaceM00",
@@ -2601,22 +2178,12 @@
       "korean": "레이스 러그",
       "russian": "кружевной ковер",
       "plural": false,
-      "internalIds": [
-        7368
-      ]
+      "internalIds": [ 7368 ]
     },
-    "colors": [
-      "Beige",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "expensive"
-    ],
+    "colors": [ "Beige", "White" ],
+    "concepts": [ "fancy", "expensive" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2632,7 +2199,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 501,
+    "hhaBasePoints": 501,
     "tag": "Icon Rugs",
     "catalog": "Not for sale",
     "filename": "RugRoundLadybirdM00",
@@ -2657,22 +2224,12 @@
       "korean": "무당벌레 러그",
       "russian": "ковер «Божья коровка»",
       "plural": false,
-      "internalIds": [
-        7360
-      ]
+      "internalIds": [ 7360 ]
     },
-    "colors": [
-      "Red",
-      "Black"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Red", "Black" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Bug-Off"
-    ],
+    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -2688,7 +2245,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "tag": "Wood Rugs",
     "catalog": "Not for sale",
     "filename": "RugRectBambooM00",
@@ -2713,21 +2270,12 @@
       "korean": "밝은 대나무 러그",
       "russian": "светлый бамбук. коврик",
       "plural": false,
-      "internalIds": [
-        11113
-      ]
+      "internalIds": [ 11113 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "concepts": [
-      "zen-style"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "concepts": [ "zen-style" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "light bamboo rug",
@@ -2763,16 +2311,10 @@
         "korean": "밝은 대나무 러그",
         "russian": "светлый бамбук. коврик",
         "plural": false,
-        "internalIds": [
-          11113
-        ]
+        "internalIds": [ 11113 ]
       },
-      "materials": {
-        "young spring bamboo": 6
-      },
-      "sources": [
-        "Balloons"
-      ]
+      "materials": { "young spring bamboo": 6 },
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -2788,7 +2330,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundMagicM00",
@@ -2813,23 +2355,98 @@
       "korean": "마법진 러그",
       "russian": "ковер «Магический круг»",
       "plural": false,
-      "internalIds": [
-        7367
-      ]
+      "internalIds": [ 7367 ]
     },
-    "colors": [
-      "Purple",
-      "Purple"
-    ],
-    "concepts": [
-      "horror",
-      "child's room"
-    ],
+    "colors": [ "Purple", "Purple" ],
+    "concepts": [ "horror", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
+  },
+  {
+    "sourceSheet": "Rugs",
+    "name": "mermaid rug",
+    "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherMermaidM00.png",
+    "diy": true,
+    "buy": -1,
+    "sell": 10360,
+    "size": "3x3",
+    "sizeCategory": "Medium",
+    "milesPrice": null,
+    "sourceNotes": null,
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "hhaBasePoints": null,
+    "tag": "Icon Rugs",
+    "catalog": "Not for sale",
+    "filename": "RugOtherMermaidM00",
+    "internalId": 12563,
+    "uniqueEntryId": "WfJHsYQ4KETP2yDEs",
+    "translations": {
+      "sourceSheet": "Rugs",
+      "id": "Rug_12563",
+      "version": "1.3.0",
+      "english": "mermaid rug",
+      "englishEurope": "mermaid rug",
+      "german": "Nixenteppich",
+      "spanish": "alfombra sirena",
+      "spanishUs": "alfombra sirena",
+      "french": "tapis sirène",
+      "frenchUs": "tapis sirène",
+      "italian": "tappeto sirena",
+      "dutch": "meerminnentapijt",
+      "chinese": "人鱼地毯",
+      "chineseTraditional": "人魚地毯",
+      "japanese": "マーメイドなラグ",
+      "korean": "머메이드 러그",
+      "russian": "ковер русалки",
+      "plural": false,
+      "internalIds": [ 12563 ]
+    },
+    "colors": [ "Light blue", "Pink" ],
+    "concepts": [ "ocean", "fancy" ],
+    "series": "mermaid",
+    "sources": [ "Crafting" ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "mermaid rug",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.3.0",
+      "versionUnlocked": "1.3.0",
+      "recipesToUnlock": 0,
+      "category": "Rugs",
+      "craftedItemInternalId": 12563,
+      "cardColor": "white",
+      "serialId": 2771,
+      "internalId": 728,
+      "uniqueEntryId": "RzoH6PAen4tofG5r4",
+      "translations": {
+        "sourceSheet": "Rugs",
+        "id": "Rug_12563",
+        "version": "1.3.0",
+        "english": "mermaid rug",
+        "englishEurope": "mermaid rug",
+        "german": "Nixenteppich",
+        "spanish": "alfombra sirena",
+        "spanishUs": "alfombra sirena",
+        "french": "tapis sirène",
+        "frenchUs": "tapis sirène",
+        "italian": "tappeto sirena",
+        "dutch": "meerminnentapijt",
+        "chinese": "人鱼地毯",
+        "chineseTraditional": "人魚地毯",
+        "japanese": "マーメイドなラグ",
+        "korean": "머메이드 러그",
+        "russian": "ковер русалки",
+        "plural": false,
+        "internalIds": [ 12563 ]
+      },
+      "materials": { "pearl": 1, "sand dollar": 3 },
+      "sources": [ "Pascal" ]
+    }
   },
   {
     "sourceSheet": "Rugs",
@@ -2844,7 +2461,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectWaveL00",
@@ -2869,22 +2486,12 @@
       "korean": "모던 웨이브 러그",
       "russian": "современ. ковер «Волны»",
       "plural": false,
-      "internalIds": [
-        7350
-      ]
+      "internalIds": [ 7350 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2900,7 +2507,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 365,
+    "hhaBasePoints": 365,
     "tag": "Kitchen Rugs",
     "catalog": "Not for sale",
     "filename": "RugRectMomS00",
@@ -2925,22 +2532,12 @@
       "korean": "쿨한 엄마의 키친 매트",
       "russian": "мамин броский ковер",
       "plural": false,
-      "internalIds": [
-        7402
-      ]
+      "internalIds": [ 7402 ]
     },
-    "colors": [
-      "Light blue",
-      "Light blue"
-    ],
-    "concepts": [
-      "fancy",
-      "kitchen"
-    ],
+    "colors": [ "Light blue", "Light blue" ],
+    "concepts": [ "fancy", "kitchen" ],
     "series": "motherly",
-    "sources": [
-      "Mom"
-    ],
+    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -2956,7 +2553,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 365,
+    "hhaBasePoints": 365,
     "tag": "Kitchen Rugs",
     "catalog": "Not for sale",
     "filename": "RugRectMomS02",
@@ -2981,22 +2578,12 @@
       "korean": "발랄한 엄마의 키친 매트",
       "russian": "мамин яркий ковер",
       "plural": false,
-      "internalIds": [
-        9543
-      ]
+      "internalIds": [ 9543 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "fancy",
-      "kitchen"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "fancy", "kitchen" ],
     "series": "motherly",
-    "sources": [
-      "Mom"
-    ],
+    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -3012,7 +2599,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 365,
+    "hhaBasePoints": 365,
     "tag": "Kitchen Rugs",
     "catalog": "Not for sale",
     "filename": "RugRectMomS01",
@@ -3037,22 +2624,12 @@
       "korean": "짓궂은 엄마의 키친 매트",
       "russian": "мамин забавный ковер",
       "plural": false,
-      "internalIds": [
-        9542
-      ]
+      "internalIds": [ 9542 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "concepts": [
-      "fancy",
-      "kitchen"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "concepts": [ "fancy", "kitchen" ],
     "series": "motherly",
-    "sources": [
-      "Mom"
-    ],
+    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -3068,7 +2645,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 365,
+    "hhaBasePoints": 365,
     "tag": "Kitchen Rugs",
     "catalog": "Not for sale",
     "filename": "RugRectMomS03",
@@ -3093,22 +2670,12 @@
       "korean": "든든한 엄마의 키친 매트",
       "russian": "мамин любимый ковер",
       "plural": false,
-      "internalIds": [
-        9541
-      ]
+      "internalIds": [ 9541 ]
     },
-    "colors": [
-      "Purple",
-      "Purple"
-    ],
-    "concepts": [
-      "fancy",
-      "kitchen"
-    ],
+    "colors": [ "Purple", "Purple" ],
+    "concepts": [ "fancy", "kitchen" ],
     "series": "motherly",
-    "sources": [
-      "Mom"
-    ],
+    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -3124,7 +2691,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectDotL00",
@@ -3149,22 +2716,12 @@
       "korean": "흑백 도트 러그",
       "russian": "монохромн. ковер в горох",
       "plural": false,
-      "internalIds": [
-        7349
-      ]
+      "internalIds": [ 7349 ]
     },
-    "colors": [
-      "Black",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Black", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3180,7 +2737,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectWaveL01",
@@ -3205,22 +2762,12 @@
       "korean": "흑백 웨이브 러그",
       "russian": "монохромн. ковер «Волны»",
       "plural": false,
-      "internalIds": [
-        7456
-      ]
+      "internalIds": [ 7456 ]
     },
-    "colors": [
-      "Black",
-      "White"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Black", "White" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3236,7 +2783,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Icon Rugs",
     "catalog": "For sale",
     "filename": "RugOtherMushM00",
@@ -3261,22 +2808,12 @@
       "korean": "버섯 러그",
       "russian": "грибной ковер",
       "plural": false,
-      "internalIds": [
-        7363
-      ]
+      "internalIds": [ 7363 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": "mush",
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3292,7 +2829,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Wood Rugs",
     "catalog": "For sale",
     "filename": "RugRectDeckM01",
@@ -3317,21 +2854,12 @@
       "korean": "내추럴 우드 덱 러그",
       "russian": "ковер под доски",
       "plural": false,
-      "internalIds": [
-        7380
-      ]
+      "internalIds": [ 7380 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "outdoors"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "outdoors" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3347,7 +2875,7 @@
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Park Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherTanukiM00",
@@ -3372,19 +2900,12 @@
       "korean": "Nook Inc. 보태니컬 러그",
       "russian": "ботан. ковер Nook Inc.",
       "plural": false,
-      "internalIds": [
-        12325
-      ]
+      "internalIds": [ 12325 ]
     },
     "colors": [],
-    "concepts": [
-      "fancy",
-      "living room"
-    ],
+    "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [
-      "Nook Miles Shop"
-    ],
+    "sources": [ "Nook Miles Shop" ],
     "recipe": null
   },
   {
@@ -3400,7 +2921,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Park Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherLeafM00",
@@ -3425,22 +2946,12 @@
       "korean": "Nook Inc. 러그",
       "russian": "ковер Nook Inc.",
       "plural": false,
-      "internalIds": [
-        7364
-      ]
+      "internalIds": [ 7364 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook Miles Shop"
-    ],
+    "sources": [ "Nook Miles Shop" ],
     "recipe": null
   },
   {
@@ -3456,7 +2967,7 @@
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0",
-    "hhaBaseScore": 0,
+    "hhaBasePoints": 0,
     "tag": "Park Rugs",
     "catalog": "Not for sale",
     "filename": "RugRectTanukiL00",
@@ -3481,19 +2992,12 @@
       "korean": "Nook Inc. 사각 러그",
       "russian": "шелк. коврик Nook Inc.",
       "plural": false,
-      "internalIds": [
-        12396
-      ]
+      "internalIds": [ 12396 ]
     },
     "colors": [],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook Miles Shop"
-    ],
+    "sources": [ "Nook Miles Shop" ],
     "recipe": null
   },
   {
@@ -3509,7 +3013,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Fruit Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherOrangeM00",
@@ -3534,22 +3038,12 @@
       "korean": "오렌지 러그",
       "russian": "ковер-апельсин",
       "plural": false,
-      "internalIds": [
-        7330
-      ]
+      "internalIds": [ 7330 ]
     },
-    "colors": [
-      "Orange",
-      "Orange"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Orange", "Orange" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": "fruits",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "orange rug",
@@ -3585,16 +3079,10 @@
         "korean": "오렌지 러그",
         "russian": "ковер-апельсин",
         "plural": false,
-        "internalIds": [
-          7330
-        ]
+        "internalIds": [ 7330 ]
       },
-      "materials": {
-        "orange": 6
-      },
-      "sources": [
-        "Lazy villagers"
-      ]
+      "materials": { "orange": 6 },
+      "sources": [ "Lazy villagers" ]
     }
   },
   {
@@ -3610,7 +3098,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
     "filename": "RugOtherCountryS00",
@@ -3635,21 +3123,12 @@
       "korean": "타원형 현관 매트",
       "russian": "овальн. коврик под дверь",
       "plural": false,
-      "internalIds": [
-        7370
-      ]
+      "internalIds": [ 7370 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3665,7 +3144,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareCheckQuiltL02",
@@ -3690,22 +3169,12 @@
       "korean": "분홍 체크 퀼트 러그",
       "russian": "розоватый ковер в клетку",
       "plural": false,
-      "internalIds": [
-        7463
-      ]
+      "internalIds": [ 7463 ]
     },
-    "colors": [
-      "Pink",
-      "Light blue"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Pink", "Light blue" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3721,7 +3190,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Fruit Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherPeachM00",
@@ -3746,22 +3215,12 @@
       "korean": "복숭아 러그",
       "russian": "ковер-персик",
       "plural": false,
-      "internalIds": [
-        7331
-      ]
+      "internalIds": [ 7331 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": "fruits",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "peach rug",
@@ -3797,16 +3256,10 @@
         "korean": "복숭아 러그",
         "russian": "ковер-персик",
         "plural": false,
-        "internalIds": [
-          7331
-        ]
+        "internalIds": [ 7331 ]
       },
-      "materials": {
-        "peach": 6
-      },
-      "sources": [
-        "Normal villagers"
-      ]
+      "materials": { "peach": 6 },
+      "sources": [ "Normal villagers" ]
     }
   },
   {
@@ -3822,7 +3275,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectBorderL01",
@@ -3847,22 +3300,12 @@
       "korean": "분홍 줄무늬 러그",
       "russian": "ковер в розоватую полоску",
       "plural": false,
-      "internalIds": [
-        7532
-      ]
+      "internalIds": [ 7532 ]
     },
-    "colors": [
-      "Pink",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Pink", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3878,7 +3321,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Fruit Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherPearM00",
@@ -3903,22 +3346,12 @@
       "korean": "배 러그",
       "russian": "ковер-груша",
       "plural": false,
-      "internalIds": [
-        7332
-      ]
+      "internalIds": [ 7332 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": "fruits",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pear rug",
@@ -3954,16 +3387,10 @@
         "korean": "배 러그",
         "russian": "ковер-груша",
         "plural": false,
-        "internalIds": [
-          7332
-        ]
+        "internalIds": [ 7332 ]
       },
-      "materials": {
-        "pear": 6
-      },
-      "sources": [
-        "Jock villagers"
-      ]
+      "materials": { "pear": 6 },
+      "sources": [ "Jock villagers" ]
     }
   },
   {
@@ -3979,7 +3406,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Heart Rugs",
     "catalog": "For sale",
     "filename": "RugOtherHeartM00",
@@ -4004,22 +3431,12 @@
       "korean": "핑크 하트 러그",
       "russian": "розовый ковер-сердце",
       "plural": false,
-      "internalIds": [
-        7322
-      ]
+      "internalIds": [ 7322 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4035,7 +3452,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Rose Rug",
     "catalog": "For sale",
     "filename": "RugOtherRoseM00",
@@ -4060,22 +3477,58 @@
       "korean": "핑크 로즈 러그",
       "russian": "розовый ковер-роза",
       "plural": false,
-      "internalIds": [
-        7365
-      ]
+      "internalIds": [ 7365 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "concepts": [
-      "fancy",
-      "expensive"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "concepts": [ "fancy", "expensive" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Rugs",
+    "name": "pirate rug",
+    "image": "https://acnhcdn.com/latest/FtrIcon/RugRectPiratesM00.png",
+    "diy": false,
+    "buy": -1,
+    "sell": 375,
+    "size": "3x2",
+    "sizeCategory": "Medium",
+    "milesPrice": null,
+    "sourceNotes": null,
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "hhaBasePoints": null,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "Not for sale",
+    "filename": "RugRectPiratesM00",
+    "internalId": 12564,
+    "uniqueEntryId": "RPasRWt9A7bb4h4yv",
+    "translations": {
+      "sourceSheet": "Rugs",
+      "id": "Rug_12564",
+      "version": "1.3.0",
+      "english": "pirate rug",
+      "englishEurope": "pirate rug",
+      "german": "Piratenteppich",
+      "spanish": "alfombra pirata",
+      "spanishUs": "alfombra pirata",
+      "french": "tapis pirate",
+      "frenchUs": "tapis pirate",
+      "italian": "tappeto pirata",
+      "dutch": "piratentapijt",
+      "chinese": "海盗地毯",
+      "chineseTraditional": "海盜地毯",
+      "japanese": "かいぞくのラグ",
+      "korean": "해적 러그",
+      "russian": "пиратский ковер",
+      "plural": false,
+      "internalIds": [ 12564 ]
+    },
+    "colors": [ "Blue", "Brown" ],
+    "concepts": [ "ocean", "none" ],
+    "series": "pirate",
+    "sources": [ "Gullivarrr" ],
     "recipe": null
   },
   {
@@ -4091,7 +3544,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Heart Rugs",
     "catalog": "For sale",
     "filename": "RugOtherHeartM02",
@@ -4116,22 +3569,12 @@
       "korean": "퍼플 하트 러그",
       "russian": "сиреневый ковер-сердце",
       "plural": false,
-      "internalIds": [
-        7580
-      ]
+      "internalIds": [ 7580 ]
     },
-    "colors": [
-      "Purple",
-      "Pink"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Purple", "Pink" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4147,7 +3590,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquarePersianL03",
@@ -4172,22 +3615,12 @@
       "korean": "보라 페르시아 융단",
       "russian": "сирен. персидский ковер",
       "plural": false,
-      "internalIds": [
-        8037
-      ]
+      "internalIds": [ 8037 ]
     },
-    "colors": [
-      "Purple",
-      "Beige"
-    ],
-    "concepts": [
-      "expensive",
-      "living room"
-    ],
+    "colors": [ "Purple", "Beige" ],
+    "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4203,7 +3636,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareShaggyL03",
@@ -4228,21 +3661,12 @@
       "korean": "보라 복슬복슬 러그",
       "russian": "фиолет. ковер с ворсом",
       "plural": false,
-      "internalIds": [
-        9562
-      ]
+      "internalIds": [ 9562 ]
     },
-    "colors": [
-      "Purple",
-      "Purple"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Purple", "Purple" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4258,7 +3682,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectArgyleL01",
@@ -4283,22 +3707,12 @@
       "korean": "빨간 아가일 러그",
       "russian": "красный ковер аргайл",
       "plural": false,
-      "internalIds": [
-        8466
-      ]
+      "internalIds": [ 8466 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "living room",
-      "expensive"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "living room", "expensive" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4314,7 +3728,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareBlockM00",
@@ -4339,21 +3753,12 @@
       "korean": "빨간 블록 러그",
       "russian": "красный ковер с прямоуг.",
       "plural": false,
-      "internalIds": [
-        11101
-      ]
+      "internalIds": [ 11101 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4369,7 +3774,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
     "filename": "RugRectElegantM00",
@@ -4394,21 +3799,12 @@
       "korean": "레드 카펫",
       "russian": "красный ковер",
       "plural": false,
-      "internalIds": [
-        7348
-      ]
+      "internalIds": [ 7348 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "expensive"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "expensive" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4424,7 +3820,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectDotL02",
@@ -4449,22 +3845,12 @@
       "korean": "레드 도트 러그",
       "russian": "красный ковер в горох",
       "plural": false,
-      "internalIds": [
-        7465
-      ]
+      "internalIds": [ 7465 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4480,7 +3866,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareKirimL00",
@@ -4505,21 +3891,12 @@
       "korean": "빨간 킬림 카펫",
       "russian": "красный килим",
       "plural": false,
-      "internalIds": [
-        9313
-      ]
+      "internalIds": [ 9313 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4535,7 +3912,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundSimpleM01",
@@ -4560,22 +3937,12 @@
       "korean": "빨간 라운드 매트 M",
       "russian": "кругл. красный коврик M",
       "plural": false,
-      "internalIds": [
-        9545
-      ]
+      "internalIds": [ 9545 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4591,7 +3958,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Message Mats",
     "catalog": "For sale",
     "filename": "RugOtherMessageS03",
@@ -4616,21 +3983,12 @@
       "korean": "빨간 메시지 매트",
       "russian": "красн. коврик с текстом",
       "plural": false,
-      "internalIds": [
-        9312
-      ]
+      "internalIds": [ 9312 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "child's room"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4646,7 +4004,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquarePersianL00",
@@ -4671,22 +4029,12 @@
       "korean": "빨간 페르시아 융단",
       "russian": "красный персидск. ковер",
       "plural": false,
-      "internalIds": [
-        7347
-      ]
+      "internalIds": [ 7347 ]
     },
-    "colors": [
-      "Red",
-      "Beige"
-    ],
-    "concepts": [
-      "expensive",
-      "living room"
-    ],
+    "colors": [ "Red", "Beige" ],
+    "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4702,7 +4050,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Rose Rug",
     "catalog": "For sale",
     "filename": "RugOtherRoseM01",
@@ -4727,22 +4075,12 @@
       "korean": "레드 로즈 러그",
       "russian": "красный ковер-роза",
       "plural": false,
-      "internalIds": [
-        8758
-      ]
+      "internalIds": [ 8758 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "fancy",
-      "expensive"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "fancy", "expensive" ],
     "series": "flowers",
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4758,7 +4096,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundSimpleS01",
@@ -4783,22 +4121,12 @@
       "korean": "빨간 라운드 매트 S",
       "russian": "кругл. красный коврик S",
       "plural": false,
-      "internalIds": [
-        9548
-      ]
+      "internalIds": [ 9548 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4814,7 +4142,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectVinylM02",
@@ -4839,21 +4167,12 @@
       "korean": "빨간 비닐 시트",
       "russian": "красный винил. коврик",
       "plural": false,
-      "internalIds": [
-        7405
-      ]
+      "internalIds": [ 7405 ]
     },
-    "colors": [
-      "Red",
-      "Colorful"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Red", "Colorful" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4869,7 +4188,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectWaveL03",
@@ -4894,22 +4213,12 @@
       "korean": "빨간 웨이브 러그",
       "russian": "красный ковер «Волны»",
       "plural": false,
-      "internalIds": [
-        7457
-      ]
+      "internalIds": [ 7457 ]
     },
-    "colors": [
-      "Red",
-      "Yellow"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Red", "Yellow" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4925,7 +4234,7 @@
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
-    "hhaBaseScore": 437,
+    "hhaBasePoints": 437,
     "tag": "Slender Pattern Rugs",
     "catalog": "Not for sale",
     "filename": "RugRectJuneBrideM02",
@@ -4950,19 +4259,12 @@
       "korean": "빨간 웨딩 러그",
       "russian": "красн. свадебный ковер",
       "plural": false,
-      "internalIds": [
-        12465
-      ]
+      "internalIds": [ 12465 ]
     },
     "colors": [],
-    "concepts": [
-      "party",
-      "expensive"
-    ],
+    "concepts": [ "party", "expensive" ],
     "series": "wedding",
-    "sources": [
-      "Cyrus"
-    ],
+    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -4978,7 +4280,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareCheckQuiltL00",
@@ -5003,22 +4305,12 @@
       "korean": "빨강 파랑 체크 퀼트 러그",
       "russian": "красно-син. ковер в клетку",
       "plural": false,
-      "internalIds": [
-        7343
-      ]
+      "internalIds": [ 7343 ]
     },
-    "colors": [
-      "Red",
-      "Blue"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Red", "Blue" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5034,7 +4326,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
     "filename": "RugRectNativeKitchenS00",
@@ -5059,21 +4351,12 @@
       "korean": "빨간 패턴 키친 매트",
       "russian": "коврик с красным узором",
       "plural": false,
-      "internalIds": [
-        7340
-      ]
+      "internalIds": [ 7340 ]
     },
-    "colors": [
-      "Red",
-      "Black"
-    ],
-    "concepts": [
-      "kitchen"
-    ],
+    "colors": [ "Red", "Black" ],
+    "concepts": [ "kitchen" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5089,7 +4372,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectDotL01",
@@ -5114,22 +4397,12 @@
       "korean": "복고풍 도트 러그",
       "russian": "ретро-ковер в горох",
       "plural": false,
-      "internalIds": [
-        7466
-      ]
+      "internalIds": [ 7466 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5145,7 +4418,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
     "filename": "RugRectDoormatS00",
@@ -5170,22 +4443,12 @@
       "korean": "하드 매트",
       "russian": "ковер из груб. материала",
       "plural": false,
-      "internalIds": [
-        7324
-      ]
+      "internalIds": [ 7324 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "school",
-      "facility"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "school", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5201,7 +4464,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
     "filename": "RugRectRubberScraperS00",
@@ -5226,21 +4489,12 @@
       "korean": "고무 신발 닦이 매트",
       "russian": "резиновый коврик",
       "plural": false,
-      "internalIds": [
-        7339
-      ]
+      "internalIds": [ 7339 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "school"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "school" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5256,7 +4510,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareOldStrawL00",
@@ -5281,21 +4535,12 @@
       "korean": "낡은 멍석 러그",
       "russian": "камышовая циновка",
       "plural": false,
-      "internalIds": [
-        7345
-      ]
+      "internalIds": [ 7345 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
-    "concepts": [
-      "zen-style"
-    ],
+    "colors": [ "Brown", "Beige" ],
+    "concepts": [ "zen-style" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5311,7 +4556,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Park Rugs",
     "catalog": "Not for sale",
     "filename": "RugOtherShellM00",
@@ -5336,22 +4581,12 @@
       "korean": "조개껍데기 러그",
       "russian": "ковер-ракушка",
       "plural": false,
-      "internalIds": [
-        7362
-      ]
+      "internalIds": [ 7362 ]
     },
-    "colors": [
-      "Beige",
-      "Pink"
-    ],
-    "concepts": [
-      "ocean",
-      "fancy"
-    ],
+    "colors": [ "Beige", "Pink" ],
+    "concepts": [ "ocean", "fancy" ],
     "series": "shell",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shell rug",
@@ -5387,16 +4622,10 @@
         "korean": "조개껍데기 러그",
         "russian": "ковер-ракушка",
         "plural": false,
-        "internalIds": [
-          7362
-        ]
+        "internalIds": [ 7362 ]
       },
-      "materials": {
-        "giant clam": 3
-      },
-      "sources": [
-        "Peppy villagers"
-      ]
+      "materials": { "giant clam": 3 },
+      "sources": [ "Peppy villagers" ]
     }
   },
   {
@@ -5412,7 +4641,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
     "filename": "RugRectBathmatS03",
@@ -5437,21 +4666,12 @@
       "korean": "그린 심플 욕실 매트",
       "russian": "зеленый коврик (душ)",
       "plural": false,
-      "internalIds": [
-        7516
-      ]
+      "internalIds": [ 7516 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "bathroom"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "bathroom" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5467,7 +4687,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleM03",
@@ -5492,22 +4712,12 @@
       "korean": "카키 심플 매트 M",
       "russian": "коврик цвета хаки M",
       "plural": false,
-      "internalIds": [
-        7524
-      ]
+      "internalIds": [ 7524 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5523,7 +4733,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleM07",
@@ -5548,22 +4758,12 @@
       "korean": "검정 심플 매트 M",
       "russian": "черный коврик M",
       "plural": false,
-      "internalIds": [
-        7539
-      ]
+      "internalIds": [ 7539 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Black", "Black" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5579,7 +4779,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleM02",
@@ -5604,22 +4804,12 @@
       "korean": "파란 심플 매트 M",
       "russian": "синий коврик M",
       "plural": false,
-      "internalIds": [
-        7523
-      ]
+      "internalIds": [ 7523 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5635,7 +4825,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleM01",
@@ -5660,22 +4850,12 @@
       "korean": "갈색 심플 매트 M",
       "russian": "коричневый коврик M",
       "plural": false,
-      "internalIds": [
-        7519
-      ]
+      "internalIds": [ 7519 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5691,7 +4871,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleM05",
@@ -5716,22 +4896,12 @@
       "korean": "오렌지 심플 매트 M",
       "russian": "оранжевый коврик M",
       "plural": false,
-      "internalIds": [
-        7536
-      ]
+      "internalIds": [ 7536 ]
     },
-    "colors": [
-      "Orange",
-      "Orange"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Orange", "Orange" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5747,7 +4917,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleM06",
@@ -5772,22 +4942,12 @@
       "korean": "보라 심플 매트 M",
       "russian": "сиреневый коврик M",
       "plural": false,
-      "internalIds": [
-        7538
-      ]
+      "internalIds": [ 7538 ]
     },
-    "colors": [
-      "Purple",
-      "Purple"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Purple", "Purple" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5803,7 +4963,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleM04",
@@ -5828,22 +4988,12 @@
       "korean": "빨간 심플 매트 M",
       "russian": "красный коврик M",
       "plural": false,
-      "internalIds": [
-        7540
-      ]
+      "internalIds": [ 7540 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5859,7 +5009,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
     "filename": "RugRectBathmatS01",
@@ -5884,21 +5034,12 @@
       "korean": "네이비 심플 욕실 매트",
       "russian": "черно-син. коврик (душ)",
       "plural": false,
-      "internalIds": [
-        7518
-      ]
+      "internalIds": [ 7518 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "concepts": [
-      "bathroom"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "bathroom" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5914,7 +5055,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
     "filename": "RugRectBathmatS02",
@@ -5939,21 +5080,12 @@
       "korean": "핑크 심플 욕실 매트",
       "russian": "розовый коврик (душ)",
       "plural": false,
-      "internalIds": [
-        7517
-      ]
+      "internalIds": [ 7517 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "concepts": [
-      "bathroom"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "concepts": [ "bathroom" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5969,7 +5101,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleS03",
@@ -5994,22 +5126,12 @@
       "korean": "카키 심플 매트 S",
       "russian": "коврик цвета хаки S",
       "plural": false,
-      "internalIds": [
-        7520
-      ]
+      "internalIds": [ 7520 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6025,7 +5147,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleS07",
@@ -6050,22 +5172,12 @@
       "korean": "검정 심플 매트 S",
       "russian": "черный коврик S",
       "plural": false,
-      "internalIds": [
-        7543
-      ]
+      "internalIds": [ 7543 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Black", "Black" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6081,7 +5193,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleS02",
@@ -6106,22 +5218,12 @@
       "korean": "파란 심플 매트 S",
       "russian": "синий коврик S",
       "plural": false,
-      "internalIds": [
-        7521
-      ]
+      "internalIds": [ 7521 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6137,7 +5239,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleS01",
@@ -6162,22 +5264,12 @@
       "korean": "갈색 심플 매트 S",
       "russian": "коричневый коврик S",
       "plural": false,
-      "internalIds": [
-        7522
-      ]
+      "internalIds": [ 7522 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6193,7 +5285,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleS05",
@@ -6218,22 +5310,12 @@
       "korean": "오렌지 심플 매트 S",
       "russian": "оранжевый коврик S",
       "plural": false,
-      "internalIds": [
-        7541
-      ]
+      "internalIds": [ 7541 ]
     },
-    "colors": [
-      "Orange",
-      "Orange"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Orange", "Orange" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6249,7 +5331,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleS06",
@@ -6274,22 +5356,12 @@
       "korean": "보라 심플 매트 S",
       "russian": "сиреневый коврик S",
       "plural": false,
-      "internalIds": [
-        7542
-      ]
+      "internalIds": [ 7542 ]
     },
-    "colors": [
-      "Purple",
-      "Purple"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Purple", "Purple" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6305,7 +5377,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleS04",
@@ -6330,22 +5402,12 @@
       "korean": "빨간 심플 매트 S",
       "russian": "красный коврик S",
       "plural": false,
-      "internalIds": [
-        7537
-      ]
+      "internalIds": [ 7537 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6361,7 +5423,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugOtherSloppyL00",
@@ -6386,22 +5448,12 @@
       "korean": "칠칠치 못한 러그",
       "russian": "неопрятный ковер",
       "plural": false,
-      "internalIds": [
-        7371
-      ]
+      "internalIds": [ 7371 ]
     },
-    "colors": [
-      "Light blue",
-      "Light blue"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Light blue", "Light blue" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6417,7 +5469,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundSnowM00",
@@ -6442,22 +5494,12 @@
       "korean": "눈꽃 러그",
       "russian": "ковер со снежинкой",
       "plural": false,
-      "internalIds": [
-        7346
-      ]
+      "internalIds": [ 7346 ]
     },
-    "colors": [
-      "Light blue",
-      "White"
-    ],
-    "concepts": [
-      "freezing cold",
-      "fancy"
-    ],
+    "colors": [ "Light blue", "White" ],
+    "concepts": [ "freezing cold", "fancy" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6473,7 +5515,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Wood Rugs",
     "catalog": "For sale",
     "filename": "RugRectTatamiM00",
@@ -6498,21 +5540,12 @@
       "korean": "일본식 짚 깔개",
       "russian": "коврик-татами",
       "plural": false,
-      "internalIds": [
-        7369
-      ]
+      "internalIds": [ 7369 ]
     },
-    "colors": [
-      "Green",
-      "Yellow"
-    ],
-    "concepts": [
-      "zen-style"
-    ],
+    "colors": [ "Green", "Yellow" ],
+    "concepts": [ "zen-style" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6528,7 +5561,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Park Rugs",
     "catalog": "For sale",
     "filename": "RugRoundIslandM00",
@@ -6553,21 +5586,12 @@
       "korean": "남쪽 섬 러그",
       "russian": "тропический ковер",
       "plural": false,
-      "internalIds": [
-        7358
-      ]
+      "internalIds": [ 7358 ]
     },
-    "colors": [
-      "Green",
-      "Beige"
-    ],
-    "concepts": [
-      "ocean"
-    ],
+    "colors": [ "Green", "Beige" ],
+    "concepts": [ "ocean" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6583,7 +5607,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Heart Rugs",
     "catalog": "For sale",
     "filename": "RugOtherHeartM01",
@@ -6608,22 +5632,12 @@
       "korean": "블루 하트 러그",
       "russian": "бирюзовый ковер-сердце",
       "plural": false,
-      "internalIds": [
-        7579
-      ]
+      "internalIds": [ 7579 ]
     },
-    "colors": [
-      "Light blue",
-      "Light blue"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Light blue", "Light blue" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6639,7 +5653,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Heart Rugs",
     "catalog": "For sale",
     "filename": "RugOtherHeartM03",
@@ -6664,22 +5678,12 @@
       "korean": "화이트 하트 러그",
       "russian": "белый ковер-сердце",
       "plural": false,
-      "internalIds": [
-        7578
-      ]
+      "internalIds": [ 7578 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6695,7 +5699,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Message Mats",
     "catalog": "For sale",
     "filename": "RugOtherMessageS00",
@@ -6720,21 +5724,12 @@
       "korean": "하얀 메시지 매트",
       "russian": "белый коврик с текстом",
       "plural": false,
-      "internalIds": [
-        7338
-      ]
+      "internalIds": [ 7338 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "child's room"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6750,7 +5745,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Rose Rug",
     "catalog": "For sale",
     "filename": "RugOtherRoseM03",
@@ -6775,22 +5770,12 @@
       "korean": "화이트 로즈 러그",
       "russian": "белый ковер-роза",
       "plural": false,
-      "internalIds": [
-        8757
-      ]
+      "internalIds": [ 8757 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "expensive"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "fancy", "expensive" ],
     "series": "flowers",
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6806,7 +5791,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleM00",
@@ -6831,22 +5816,12 @@
       "korean": "하얀 심플 매트 M",
       "russian": "обычный бел. коврик M",
       "plural": false,
-      "internalIds": [
-        7335
-      ]
+      "internalIds": [ 7335 ]
     },
-    "colors": [
-      "Beige",
-      "White"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Beige", "White" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6862,7 +5837,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
     "filename": "RugSquareSimpleS00",
@@ -6887,22 +5862,12 @@
       "korean": "하얀 심플 매트 S",
       "russian": "белый коврик S",
       "plural": false,
-      "internalIds": [
-        7336
-      ]
+      "internalIds": [ 7336 ]
     },
-    "colors": [
-      "Beige",
-      "White"
-    ],
-    "concepts": [
-      "living room",
-      "facility"
-    ],
+    "colors": [ "Beige", "White" ],
+    "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6918,7 +5883,7 @@
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
-    "hhaBaseScore": 437,
+    "hhaBasePoints": 437,
     "tag": "Slender Pattern Rugs",
     "catalog": "Not for sale",
     "filename": "RugRectJuneBrideM03",
@@ -6943,19 +5908,12 @@
       "korean": "하얀 웨딩 러그",
       "russian": "белый свадебный ковер",
       "plural": false,
-      "internalIds": [
-        12464
-      ]
+      "internalIds": [ 12464 ]
     },
     "colors": [],
-    "concepts": [
-      "party",
-      "expensive"
-    ],
+    "concepts": [ "party", "expensive" ],
     "series": "wedding",
-    "sources": [
-      "Cyrus"
-    ],
+    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -6971,7 +5929,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Wood Rugs",
     "catalog": "For sale",
     "filename": "RugRectDeckM02",
@@ -6996,21 +5954,12 @@
       "korean": "하얀 우드 덱 러그",
       "russian": "белый ковер под доски",
       "plural": false,
-      "internalIds": [
-        7381
-      ]
+      "internalIds": [ 7381 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "outdoors"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "outdoors" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7026,7 +5975,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectArgyleL00",
@@ -7051,22 +6000,12 @@
       "korean": "노란 아가일 러그",
       "russian": "желтый ковер аргайл",
       "plural": false,
-      "internalIds": [
-        7352
-      ]
+      "internalIds": [ 7352 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "living room",
-      "fancy"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "living room", "fancy" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7082,7 +6021,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareBlockM02",
@@ -7107,21 +6046,12 @@
       "korean": "노란 블록 러그",
       "russian": "желтый ковер с прямоуг.",
       "plural": false,
-      "internalIds": [
-        11103
-      ]
+      "internalIds": [ 11103 ]
     },
-    "colors": [
-      "Yellow",
-      "Brown"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Yellow", "Brown" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7137,7 +6067,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareCheckQuiltL01",
@@ -7162,22 +6092,12 @@
       "korean": "노란 체크 퀼트 러그",
       "russian": "желтый ковер в клетку",
       "plural": false,
-      "internalIds": [
-        7462
-      ]
+      "internalIds": [ 7462 ]
     },
-    "colors": [
-      "Yellow",
-      "Green"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Yellow", "Green" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7193,7 +6113,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquareKirimL03",
@@ -7218,21 +6138,12 @@
       "korean": "노란 킬림 카펫",
       "russian": "желтый килим",
       "plural": false,
-      "internalIds": [
-        9315
-      ]
+      "internalIds": [ 9315 ]
     },
-    "colors": [
-      "Yellow",
-      "Beige"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Yellow", "Beige" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7248,7 +6159,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
     "filename": "RugRectKitchenS01",
@@ -7273,21 +6184,12 @@
       "korean": "노란 키친 매트",
       "russian": "желтый коврик на кухню",
       "plural": false,
-      "internalIds": [
-        8395
-      ]
+      "internalIds": [ 8395 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "kitchen"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "kitchen" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7303,7 +6205,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundSimpleM03",
@@ -7328,22 +6230,12 @@
       "korean": "노란 라운드 매트 M",
       "russian": "кругл. желтый коврик M",
       "plural": false,
-      "internalIds": [
-        9544
-      ]
+      "internalIds": [ 9544 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7359,7 +6251,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Message Mats",
     "catalog": "For sale",
     "filename": "RugOtherMessageS02",
@@ -7384,21 +6276,12 @@
       "korean": "노란 메시지 매트",
       "russian": "желт. коврик с текстом",
       "plural": false,
-      "internalIds": [
-        9311
-      ]
+      "internalIds": [ 9311 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "child's room"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7414,7 +6297,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugSquarePersianL02",
@@ -7439,22 +6322,12 @@
       "korean": "노란 페르시아 융단",
       "russian": "желт. персидский ковер",
       "plural": false,
-      "internalIds": [
-        8036
-      ]
+      "internalIds": [ 8036 ]
     },
-    "colors": [
-      "Yellow",
-      "Beige"
-    ],
-    "concepts": [
-      "expensive",
-      "living room"
-    ],
+    "colors": [ "Yellow", "Beige" ],
+    "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7470,7 +6343,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Rose Rug",
     "catalog": "For sale",
     "filename": "RugOtherRoseM02",
@@ -7495,22 +6368,12 @@
       "korean": "옐로 로즈 러그",
       "russian": "желтый ковер-роза",
       "plural": false,
-      "internalIds": [
-        8759
-      ]
+      "internalIds": [ 8759 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "fancy",
-      "expensive"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "fancy", "expensive" ],
     "series": "flowers",
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7526,7 +6389,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
     "filename": "RugRoundSimpleS03",
@@ -7551,22 +6414,12 @@
       "korean": "노란 라운드 매트 S",
       "russian": "кругл. желтый коврик S",
       "plural": false,
-      "internalIds": [
-        9547
-      ]
+      "internalIds": [ 9547 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7582,7 +6435,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectBorderL00",
@@ -7607,22 +6460,12 @@
       "korean": "노란 줄무늬 러그",
       "russian": "желтый ковер в полоску",
       "plural": false,
-      "internalIds": [
-        7351
-      ]
+      "internalIds": [ 7351 ]
     },
-    "colors": [
-      "Yellow",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Yellow", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7638,7 +6481,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
     "filename": "RugRectVinylM03",
@@ -7663,21 +6506,12 @@
       "korean": "노란 비닐 시트",
       "russian": "желтый винил. коврик",
       "plural": false,
-      "internalIds": [
-        7403
-      ]
+      "internalIds": [ 7403 ]
     },
-    "colors": [
-      "Yellow",
-      "Colorful"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Yellow", "Colorful" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7693,7 +6527,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 253,
+    "hhaBasePoints": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
     "filename": "RugRectNativeKitchenS02",
@@ -7718,21 +6552,12 @@
       "korean": "노란 패턴 키친 매트",
       "russian": "коврик с желтым узором",
       "plural": false,
-      "internalIds": [
-        7596
-      ]
+      "internalIds": [ 7596 ]
     },
-    "colors": [
-      "Yellow",
-      "Black"
-    ],
-    "concepts": [
-      "kitchen"
-    ],
+    "colors": [ "Yellow", "Black" ],
+    "concepts": [ "kitchen" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   }
 ]

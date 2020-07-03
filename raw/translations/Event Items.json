@@ -604,7 +604,8 @@
     "Chinese": "",
     "Chinese (Traditional)": "",
     "Japanese": "",
-    "Korean": ""
+    "Korean": "",
+    "Russian": null
   },
   {
     "SourceSheet": "Event Items",
@@ -776,5 +777,43 @@
     "Japanese": "ゆうたろうのたましい",
     "Korean": "깨빈의 영혼",
     "Russian": "частицы духа Уиспа"
+  },
+  {
+    "SourceSheet": "Event Items",
+    "id": "PirateQuest_13105",
+    "Version": "1.3.0",
+    "English": "communicator",
+    "English (Europe)": "communicator",
+    "German": "Fernsprecher",
+    "Spanish": "comunicador",
+    "Spanish (US)": "comunicador",
+    "French": "émetteur",
+    "French (US)": "émetteur",
+    "Italian": "comunicatore",
+    "Dutch": "marifoon",
+    "Chinese": "通信装置",
+    "Chinese (Traditional)": "通訊裝置",
+    "Japanese": "つうしんそうち",
+    "Korean": "통신 장치",
+    "Russian": "коммуникатор"
+  },
+  {
+    "SourceSheet": "Event Items",
+    "id": "PirateQuest_13105_pl",
+    "Version": "1.3.0",
+    "English": "communicators",
+    "English (Europe)": "communicators",
+    "German": "Fernsprecher",
+    "Spanish": "comunicadores",
+    "Spanish (US)": "comunicadores",
+    "French": "émetteurs",
+    "French (US)": "émetteurs",
+    "Italian": "comunicatori",
+    "Dutch": "marifoons",
+    "Chinese": "通信装置",
+    "Chinese (Traditional)": "通訊裝置",
+    "Japanese": "つうしんそうち",
+    "Korean": "통신 장치",
+    "Russian": "коммуникаторы"
   }
 ]

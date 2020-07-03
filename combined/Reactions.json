@@ -3,9 +3,7 @@
     "sourceSheet": "Reactions",
     "name": "Aggravation",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Outraged.png",
-    "source": [
-      "Peppy"
-    ],
+    "source": [ "Peppy" ],
     "sourceNotes": null,
     "internalId": "Outraged",
     "uniqueEntryId": "6suhKYAAhh5QMKt64",
@@ -28,18 +26,14 @@
       "korean": "버럭",
       "russian": "Ярость",
       "plural": false,
-      "internalIds": [
-        "Outraged"
-      ]
+      "internalIds": [ "Outraged" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Agreement",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Nodding.png",
-    "source": [
-      "Cranky"
-    ],
+    "source": [ "Cranky" ],
     "sourceNotes": null,
     "internalId": "Nodding",
     "uniqueEntryId": "7smqwK9J7eFBxta28",
@@ -62,18 +56,14 @@
       "korean": "끄덕끄덕",
       "russian": "Согласие",
       "plural": false,
-      "internalIds": [
-        "Nodding"
-      ]
+      "internalIds": [ "Nodding" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Amazed",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Shocked.png",
-    "source": [
-      "Snooty"
-    ],
+    "source": [ "Snooty" ],
     "sourceNotes": null,
     "internalId": "Shocked",
     "uniqueEntryId": "vosig4bbr4kPq57AT",
@@ -96,18 +86,14 @@
       "korean": "깜짝!",
       "russian": "Изумление",
       "plural": false,
-      "internalIds": [
-        "Shocked"
-      ]
+      "internalIds": [ "Shocked" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Apologetic",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Apologize.png",
-    "source": [
-      "Big Sister"
-    ],
+    "source": [ "Big Sister" ],
     "sourceNotes": null,
     "internalId": "Apologize",
     "uniqueEntryId": "jBKsQYCAd7PtymQeB",
@@ -130,18 +116,14 @@
       "korean": "꾸벅",
       "russian": "Извинение",
       "plural": false,
-      "internalIds": [
-        "Apologize"
-      ]
+      "internalIds": [ "Apologize" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Bashfulness",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Blushing.png",
-    "source": [
-      "Lazy"
-    ],
+    "source": [ "Lazy" ],
     "sourceNotes": null,
     "internalId": "Blushing",
     "uniqueEntryId": "wzvKbFrEJCseTohoz",
@@ -164,18 +146,14 @@
       "korean": "부끄럼",
       "russian": "Робость",
       "plural": false,
-      "internalIds": [
-        "Blushing"
-      ]
+      "internalIds": [ "Blushing" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Bewilderment",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Pardon.png",
-    "source": [
-      "Cranky"
-    ],
+    "source": [ "Cranky" ],
     "sourceNotes": null,
     "internalId": "Pardon",
     "uniqueEntryId": "WRSSRZMtM6rXfXBrR",
@@ -198,18 +176,14 @@
       "korean": "뭐?",
       "russian": "Недоумение",
       "plural": false,
-      "internalIds": [
-        "Pardon"
-      ]
+      "internalIds": [ "Pardon" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Cold Chill",
     "image": "https://acnhcdn.com/latest/ManpuIcon/ColdChill.png",
-    "source": [
-      "Big Sister"
-    ],
+    "source": [ "Big Sister" ],
     "sourceNotes": null,
     "internalId": "ColdChill",
     "uniqueEntryId": "K62u2owKFDLmPCB3Q",
@@ -232,18 +206,14 @@
       "korean": "씁쓸",
       "russian": "Озноб",
       "plural": false,
-      "internalIds": [
-        "ColdChill"
-      ]
+      "internalIds": [ "ColdChill" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Confident",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Assent.png",
-    "source": [
-      "Big Sister"
-    ],
+    "source": [ "Big Sister" ],
     "sourceNotes": "Requires a high level of friendship",
     "internalId": "Assent",
     "uniqueEntryId": "TGifHTbyLBh4f3gDQ",
@@ -266,18 +236,14 @@
       "korean": "맡겨줘!",
       "russian": "Решимость",
       "plural": false,
-      "internalIds": [
-        "Assent"
-      ]
+      "internalIds": [ "Assent" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Curiosity",
     "image": "https://acnhcdn.com/latest/ManpuIcon/QuestionMark.png",
-    "source": [
-      "Peppy"
-    ],
+    "source": [ "Peppy" ],
     "sourceNotes": null,
     "internalId": "QuestionMark",
     "uniqueEntryId": "SskgipgnKzm5TsK7d",
@@ -300,18 +266,14 @@
       "korean": "응?",
       "russian": "Любопытство",
       "plural": false,
-      "internalIds": [
-        "QuestionMark"
-      ]
+      "internalIds": [ "QuestionMark" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Daydreaming",
     "image": "https://acnhcdn.com/latest/ManpuIcon/AbsentMindedness.png",
-    "source": [
-      "Normal"
-    ],
+    "source": [ "Normal" ],
     "sourceNotes": "Requires a high level of friendship",
     "internalId": "AbsentMindedness",
     "uniqueEntryId": "JFrTBJCEaX5R4kABT",
@@ -334,18 +296,14 @@
       "korean": "상상",
       "russian": "Мечтательность",
       "plural": false,
-      "internalIds": [
-        "AbsentMindedness"
-      ]
+      "internalIds": [ "AbsentMindedness" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Delight",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Clapping.png",
-    "source": [
-      "All"
-    ],
+    "source": [ "All" ],
     "sourceNotes": null,
     "internalId": "Clapping",
     "uniqueEntryId": "F9DpGeqZzDeSTh2bq",
@@ -368,18 +326,14 @@
       "korean": "박수",
       "russian": "Восхищение",
       "plural": false,
-      "internalIds": [
-        "Clapping"
-      ]
+      "internalIds": [ "Clapping" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Disagreement",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Negative.png",
-    "source": [
-      "Big Sister"
-    ],
+    "source": [ "Big Sister" ],
     "sourceNotes": null,
     "internalId": "Negative",
     "uniqueEntryId": "Bw5YBM6iuWgMzutWq",
@@ -402,18 +356,14 @@
       "korean": "절레절레",
       "russian": "Несогласие",
       "plural": false,
-      "internalIds": [
-        "Negative"
-      ]
+      "internalIds": [ "Negative" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Distress",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Frantic.png",
-    "source": [
-      "Jock"
-    ],
+    "source": [ "Jock" ],
     "sourceNotes": null,
     "internalId": "Frantic",
     "uniqueEntryId": "vsSjQBZXPeSK6uDTK",
@@ -436,18 +386,14 @@
       "korean": "당황",
       "russian": "Беспокойство",
       "plural": false,
-      "internalIds": [
-        "Frantic"
-      ]
+      "internalIds": [ "Frantic" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Dozing",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sleep.png",
-    "source": [
-      "Smug"
-    ],
+    "source": [ "Smug" ],
     "sourceNotes": null,
     "internalId": "Sleep",
     "uniqueEntryId": "2vvgAacGjthcFW5Qa",
@@ -470,18 +416,14 @@
       "korean": "쿨쿨",
       "russian": "Дремота",
       "plural": false,
-      "internalIds": [
-        "Sleep"
-      ]
+      "internalIds": [ "Sleep" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Encouraging",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Cheering.png",
-    "source": [
-      "Jock"
-    ],
+    "source": [ "Jock" ],
     "sourceNotes": null,
     "internalId": "Cheering",
     "uniqueEntryId": "fomfML4NWdY8x6adv",
@@ -504,18 +446,14 @@
       "korean": "힘내!",
       "russian": "Ободрение",
       "plural": false,
-      "internalIds": [
-        "Cheering"
-      ]
+      "internalIds": [ "Cheering" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Fearful",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Shaking.png",
-    "source": [
-      "Normal"
-    ],
+    "source": [ "Normal" ],
     "sourceNotes": null,
     "internalId": "Shaking",
     "uniqueEntryId": "noKrWYCMSWcH4jwvi",
@@ -538,18 +476,14 @@
       "korean": "덜덜덜",
       "russian": "Дрожь",
       "plural": false,
-      "internalIds": [
-        "Shaking"
-      ]
+      "internalIds": [ "Shaking" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Flourish",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Dance.png",
-    "source": [
-      "Jock"
-    ],
+    "source": [ "Jock" ],
     "sourceNotes": "Requires a high level of friendship",
     "internalId": "Dance",
     "uniqueEntryId": "5QDD3DcwdPhbGoJAf",
@@ -572,18 +506,14 @@
       "korean": "댄스",
       "russian": "Хвастовство",
       "plural": false,
-      "internalIds": [
-        "Dance"
-      ]
+      "internalIds": [ "Dance" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Glee",
     "image": "https://acnhcdn.com/latest/ManpuIcon/HappyDance.png",
-    "source": [
-      "Normal"
-    ],
+    "source": [ "Normal" ],
     "sourceNotes": null,
     "internalId": "HappyDance",
     "uniqueEntryId": "8nAwdhzZfotqpLC9R",
@@ -606,18 +536,14 @@
       "korean": "신바람",
       "russian": "Ликование",
       "plural": false,
-      "internalIds": [
-        "HappyDance"
-      ]
+      "internalIds": [ "HappyDance" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Greetings",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Greeting.png",
-    "source": [
-      "All"
-    ],
+    "source": [ "All" ],
     "sourceNotes": null,
     "internalId": "Greeting",
     "uniqueEntryId": "oE6uqhZYjYfuqb55n",
@@ -640,18 +566,14 @@
       "korean": "안녕!",
       "russian": "Приветствие",
       "plural": false,
-      "internalIds": [
-        "Greeting"
-      ]
+      "internalIds": [ "Greeting" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Happiness",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Smiling.png",
-    "source": [
-      "Peppy"
-    ],
+    "source": [ "Peppy" ],
     "sourceNotes": null,
     "internalId": "Smiling",
     "uniqueEntryId": "TWENXBbBENgnFiGq3",
@@ -674,18 +596,14 @@
       "korean": "싱글벙글",
       "russian": "Счастье",
       "plural": false,
-      "internalIds": [
-        "Smiling"
-      ]
+      "internalIds": [ "Smiling" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Heartbreak",
     "image": "https://acnhcdn.com/latest/ManpuIcon/BrokenHeart.png",
-    "source": [
-      "Smug"
-    ],
+    "source": [ "Smug" ],
     "sourceNotes": null,
     "internalId": "BrokenHeart",
     "uniqueEntryId": "ex6gKZu6zsyd6MgDr",
@@ -708,18 +626,14 @@
       "korean": "실연",
       "russian": "Разбитое сердце",
       "plural": false,
-      "internalIds": [
-        "BrokenHeart"
-      ]
+      "internalIds": [ "BrokenHeart" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Inspiration",
     "image": "https://acnhcdn.com/latest/ManpuIcon/IdeaBulb.png",
-    "source": [
-      "Cranky"
-    ],
+    "source": [ "Cranky" ],
     "sourceNotes": "Requires a high level of friendship",
     "internalId": "IdeaBulb",
     "uniqueEntryId": "8ux4ddfibJQR2EuWW",
@@ -742,18 +656,14 @@
       "korean": "번뜩",
       "russian": "Вдохновение",
       "plural": false,
-      "internalIds": [
-        "IdeaBulb"
-      ]
+      "internalIds": [ "IdeaBulb" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Intense",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Silent.png",
-    "source": [
-      "Snooty"
-    ],
+    "source": [ "Snooty" ],
     "sourceNotes": null,
     "internalId": "Silent",
     "uniqueEntryId": "X2kzqTaPwtG6SGNT8",
@@ -776,18 +686,14 @@
       "korean": "조용",
       "russian": "Напряжение",
       "plural": false,
-      "internalIds": [
-        "Silent"
-      ]
+      "internalIds": [ "Silent" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Joy",
     "image": "https://acnhcdn.com/latest/ManpuIcon/HappyFlower.png",
-    "source": [
-      "All"
-    ],
+    "source": [ "All" ],
     "sourceNotes": null,
     "internalId": "HappyFlower",
     "uniqueEntryId": "fSNyHJHgLKac5mSLT",
@@ -810,18 +716,14 @@
       "korean": "해피",
       "russian": "Радость",
       "plural": false,
-      "internalIds": [
-        "HappyFlower"
-      ]
+      "internalIds": [ "HappyFlower" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Laughter",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Laughing.png",
-    "source": [
-      "Big Sister"
-    ],
+    "source": [ "Big Sister" ],
     "sourceNotes": null,
     "internalId": "Laughing",
     "uniqueEntryId": "EBenMHMpwnkMgS6eg",
@@ -844,18 +746,14 @@
       "korean": "웃기",
       "russian": "Смех",
       "plural": false,
-      "internalIds": [
-        "Laughing"
-      ]
+      "internalIds": [ "Laughing" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Love",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Love.png",
-    "source": [
-      "Snooty"
-    ],
+    "source": [ "Snooty" ],
     "sourceNotes": "Requires a high level of friendship",
     "internalId": "Love",
     "uniqueEntryId": "GvAsErCFuGAcMAeXM",
@@ -878,18 +776,14 @@
       "korean": "러브",
       "russian": "Обожание",
       "plural": false,
-      "internalIds": [
-        "Love"
-      ]
+      "internalIds": [ "Love" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Mischief",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Scheming.png",
-    "source": [
-      "Peppy"
-    ],
+    "source": [ "Peppy" ],
     "sourceNotes": "Requires a high level of friendship",
     "internalId": "Scheming",
     "uniqueEntryId": "E7it7yLfFaddFvEhQ",
@@ -912,18 +806,14 @@
       "korean": "꿍꿍이",
       "russian": "Озорство",
       "plural": false,
-      "internalIds": [
-        "Scheming"
-      ]
+      "internalIds": [ "Scheming" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Mistaken",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Oops.png",
-    "source": [
-      "Lazy"
-    ],
+    "source": [ "Lazy" ],
     "sourceNotes": null,
     "internalId": "Oops",
     "uniqueEntryId": "DPR7WWkmR36Bsf2LG",
@@ -946,18 +836,14 @@
       "korean": "아차!",
       "russian": "Оплошность",
       "plural": false,
-      "internalIds": [
-        "Oops"
-      ]
+      "internalIds": [ "Oops" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Pleased",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Hello.png",
-    "source": [
-      "Normal"
-    ],
+    "source": [ "Normal" ],
     "sourceNotes": null,
     "internalId": "Hello",
     "uniqueEntryId": "Z3MuKfQMaH3D8vkPA",
@@ -980,18 +866,14 @@
       "korean": "까딱",
       "russian": "Удовольствие",
       "plural": false,
-      "internalIds": [
-        "Hello"
-      ]
+      "internalIds": [ "Hello" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Pride",
     "image": "https://acnhcdn.com/latest/ManpuIcon/SmugFace.png",
-    "source": [
-      "Lazy"
-    ],
+    "source": [ "Lazy" ],
     "sourceNotes": "Requires a high level of friendship",
     "internalId": "SmugFace",
     "uniqueEntryId": "xKoQpdJMtocNFRckm",
@@ -1014,18 +896,14 @@
       "korean": "잘난체",
       "russian": "Гордость",
       "plural": false,
-      "internalIds": [
-        "SmugFace"
-      ]
+      "internalIds": [ "SmugFace" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Resignation",
     "image": "https://acnhcdn.com/latest/ManpuIcon/OhGeez.png",
-    "source": [
-      "Smug"
-    ],
+    "source": [ "Smug" ],
     "sourceNotes": null,
     "internalId": "OhGeez",
     "uniqueEntryId": "7YdF3ZMr95XP3FaoW",
@@ -1048,18 +926,14 @@
       "korean": "나참…",
       "russian": "Смирение",
       "plural": false,
-      "internalIds": [
-        "OhGeez"
-      ]
+      "internalIds": [ "OhGeez" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Sadness",
     "image": "https://acnhcdn.com/latest/ManpuIcon/SadSpiral.png",
-    "source": [
-      "Normal"
-    ],
+    "source": [ "Normal" ],
     "sourceNotes": null,
     "internalId": "SadSpiral",
     "uniqueEntryId": "Wo8q6KhPtL2CYwat4",
@@ -1082,18 +956,14 @@
       "korean": "실망",
       "russian": "Грусть",
       "plural": false,
-      "internalIds": [
-        "SadSpiral"
-      ]
+      "internalIds": [ "SadSpiral" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Sheepishness",
     "image": "https://acnhcdn.com/latest/ManpuIcon/WrySmile.png",
-    "source": [
-      "Cranky"
-    ],
+    "source": [ "Cranky" ],
     "sourceNotes": null,
     "internalId": "WrySmile",
     "uniqueEntryId": "5cRnCPDJRdRpPJF8D",
@@ -1116,18 +986,14 @@
       "korean": "쓴웃음",
       "russian": "Насмешка",
       "plural": false,
-      "internalIds": [
-        "WrySmile"
-      ]
+      "internalIds": [ "WrySmile" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Shocked",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Surprised.png",
-    "source": [
-      "Jock"
-    ],
+    "source": [ "Jock" ],
     "sourceNotes": null,
     "internalId": "Surprised",
     "uniqueEntryId": "bn29da8SNdMYYyWAa",
@@ -1150,18 +1016,14 @@
       "korean": "뜨악!",
       "russian": "Шок",
       "plural": false,
-      "internalIds": [
-        "Surprised"
-      ]
+      "internalIds": [ "Surprised" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Showmanship",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Shaki.png",
-    "source": [
-      "Smug"
-    ],
+    "source": [ "Smug" ],
     "sourceNotes": "Requires a high level of friendship",
     "internalId": "Shaki",
     "uniqueEntryId": "Bj5iG7kc6tLND9bjn",
@@ -1184,18 +1046,14 @@
       "korean": "짜잔!",
       "russian": "Бахвальство",
       "plural": false,
-      "internalIds": [
-        "Shaki"
-      ]
+      "internalIds": [ "Shaki" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Shyness",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Hesitate.png",
-    "source": [
-      "Lazy"
-    ],
+    "source": [ "Lazy" ],
     "sourceNotes": null,
     "internalId": "Hesitate",
     "uniqueEntryId": "9H7jt7AGKbh6mW4y8",
@@ -1218,18 +1076,14 @@
       "korean": "머뭇",
       "russian": "Застенчивость",
       "plural": false,
-      "internalIds": [
-        "Hesitate"
-      ]
+      "internalIds": [ "Hesitate" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Sighing",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sighing.png",
-    "source": [
-      "Snooty"
-    ],
+    "source": [ "Snooty" ],
     "sourceNotes": null,
     "internalId": "Sighing",
     "uniqueEntryId": "ntjLqg82EQNsgnzYA",
@@ -1252,18 +1106,14 @@
       "korean": "한숨",
       "russian": "Вздох",
       "plural": false,
-      "internalIds": [
-        "Sighing"
-      ]
+      "internalIds": [ "Sighing" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Sleepy",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sleepy.png",
-    "source": [
-      "Peppy"
-    ],
+    "source": [ "Peppy" ],
     "sourceNotes": null,
     "internalId": "Sleepy",
     "uniqueEntryId": "9e5BhxmqtMurNWqW4",
@@ -1286,18 +1136,14 @@
       "korean": "하품",
       "russian": "Сонливость",
       "plural": false,
-      "internalIds": [
-        "Sleepy"
-      ]
+      "internalIds": [ "Sleepy" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Smirking",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Grin.png",
-    "source": [
-      "Smug"
-    ],
+    "source": [ "Smug" ],
     "sourceNotes": null,
     "internalId": "Grin",
     "uniqueEntryId": "KDAWT9zDKpufEWgaW",
@@ -1320,18 +1166,14 @@
       "korean": "씨익",
       "russian": "Ухмылка",
       "plural": false,
-      "internalIds": [
-        "Grin"
-      ]
+      "internalIds": [ "Grin" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Sneezing",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sneezing.png",
-    "source": [
-      "Jock"
-    ],
+    "source": [ "Jock" ],
     "sourceNotes": null,
     "internalId": "Sneezing",
     "uniqueEntryId": "F6Dkk4PGtjDMCgry3",
@@ -1354,18 +1196,14 @@
       "korean": "재채기",
       "russian": "Чихание",
       "plural": false,
-      "internalIds": [
-        "Sneezing"
-      ]
+      "internalIds": [ "Sneezing" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Sorrow",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Crying.png",
-    "source": [
-      "Lazy"
-    ],
+    "source": [ "Lazy" ],
     "sourceNotes": null,
     "internalId": "Crying",
     "uniqueEntryId": "W8nngMS98uwpHHW4m",
@@ -1388,18 +1226,14 @@
       "korean": "울기",
       "russian": "Плач",
       "plural": false,
-      "internalIds": [
-        "Crying"
-      ]
+      "internalIds": [ "Crying" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Surprise",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Aha.png",
-    "source": [
-      "All"
-    ],
+    "source": [ "All" ],
     "sourceNotes": null,
     "internalId": "Aha",
     "uniqueEntryId": "7jmkZiSxrYT7MMm4P",
@@ -1422,18 +1256,14 @@
       "korean": "아하!",
       "russian": "Удивление",
       "plural": false,
-      "internalIds": [
-        "Aha"
-      ]
+      "internalIds": [ "Aha" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Thought",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Thinking.png",
-    "source": [
-      "Snooty"
-    ],
+    "source": [ "Snooty" ],
     "sourceNotes": null,
     "internalId": "Thinking",
     "uniqueEntryId": "HEFCeCGtJ7Bkb5PXG",
@@ -1456,18 +1286,14 @@
       "korean": "고민",
       "russian": "Размышление",
       "plural": false,
-      "internalIds": [
-        "Thinking"
-      ]
+      "internalIds": [ "Thinking" ]
     }
   },
   {
     "sourceSheet": "Reactions",
     "name": "Worry",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Worried.png",
-    "source": [
-      "Cranky"
-    ],
+    "source": [ "Cranky" ],
     "sourceNotes": null,
     "internalId": "Worried",
     "uniqueEntryId": "TygKeKxvotLEzWqvY",
@@ -1490,9 +1316,7 @@
       "korean": "곤란",
       "russian": "Расстройство",
       "plural": false,
-      "internalIds": [
-        "Worried"
-      ]
+      "internalIds": [ "Worried" ]
     }
   }
 ]

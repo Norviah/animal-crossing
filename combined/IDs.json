@@ -950,6 +950,13 @@
     "sourceSheet": "Accessories"
   },
   {
+    "name": "Nook Inc. snorkel",
+    "uniqueID": "cg2tZnttCZ9Wj3k9S",
+    "id": 13215,
+    "filename": "AccessoryGlassmouthNook0",
+    "sourceSheet": "Accessories"
+  },
+  {
     "name": "nose drip",
     "uniqueID": "9YbFJqBD3hmQkW4Gq",
     "id": 5833,
@@ -1138,6 +1145,20 @@
     "filename": "AccessoryGlassPilot1",
     "sourceSheet": "Accessories",
     "variation": "Gold"
+  },
+  {
+    "name": "pirate beard",
+    "uniqueID": "isFLrwBtByekpKuLB",
+    "id": 12663,
+    "filename": "AccessoryMouthPirates0",
+    "sourceSheet": "Accessories"
+  },
+  {
+    "name": "pirate eye patch",
+    "uniqueID": "pm3izhYzmdHRwnoWR",
+    "id": 12662,
+    "filename": "AccessoryGlassPiratespatch0",
+    "sourceSheet": "Accessories"
   },
   {
     "name": "pixel shades",
@@ -1470,6 +1491,54 @@
     "variation": "Pink"
   },
   {
+    "name": "snorkel mask",
+    "uniqueID": "jFwR59w58PSPL53K4",
+    "id": 11497,
+    "filename": "AccessoryGlassmouthDiver5",
+    "sourceSheet": "Accessories",
+    "variation": "Black"
+  },
+  {
+    "name": "snorkel mask",
+    "uniqueID": "ekXFtoFg8mmsbyZYp",
+    "id": 11494,
+    "filename": "AccessoryGlassmouthDiver2",
+    "sourceSheet": "Accessories",
+    "variation": "Red"
+  },
+  {
+    "name": "snorkel mask",
+    "uniqueID": "3oBKZL4APPZGp7KpN",
+    "id": 11495,
+    "filename": "AccessoryGlassmouthDiver3",
+    "sourceSheet": "Accessories",
+    "variation": "Pink"
+  },
+  {
+    "name": "snorkel mask",
+    "uniqueID": "xHJu2dJts5RYTFw7p",
+    "id": 11493,
+    "filename": "AccessoryGlassmouthDiver1",
+    "sourceSheet": "Accessories",
+    "variation": "Orange"
+  },
+  {
+    "name": "snorkel mask",
+    "uniqueID": "v9xCArJntbpz9FhSG",
+    "id": 11496,
+    "filename": "AccessoryGlassmouthDiver4",
+    "sourceSheet": "Accessories",
+    "variation": "Green"
+  },
+  {
+    "name": "snorkel mask",
+    "uniqueID": "rSw6wK34RyoG5cMe3",
+    "id": 4551,
+    "filename": "AccessoryGlassmouthDiver0",
+    "sourceSheet": "Accessories",
+    "variation": "Blue"
+  },
+  {
     "name": "sporty shades",
     "uniqueID": "CA5YASgCBpgL2PSpX",
     "id": 11489,
@@ -1793,6 +1862,20 @@
     "name": "Have a Nice DIY!",
     "uniqueID": "fsanquagmfwNCY8wW",
     "id": 55,
+    "filename": null,
+    "sourceSheet": "Achievements"
+  },
+  {
+    "name": "Deep Dive",
+    "uniqueID": "WC4tRgHxSDxLLLFCd",
+    "id": 98,
+    "filename": null,
+    "sourceSheet": "Achievements"
+  },
+  {
+    "name": "Underwater Understudy",
+    "uniqueID": "J62JDagagj5k98Cqp",
+    "id": 95,
     "filename": null,
     "sourceSheet": "Achievements"
   },
@@ -2227,6 +2310,13 @@
     "name": "True Patron of the Arts",
     "uniqueID": "YTpzbNPue2fAe3FdS",
     "id": 91,
+    "filename": null,
+    "sourceSheet": "Achievements"
+  },
+  {
+    "name": "You Otter Know",
+    "uniqueID": "3MuQkFrRQLkSioSDh",
+    "id": 96,
     "filename": null,
     "sourceSheet": "Achievements"
   },
@@ -7491,6 +7581,13 @@
     "variation": "Purple"
   },
   {
+    "name": "pirate pants",
+    "uniqueID": "pyK94Nu2W7AH5FDs7",
+    "id": 12664,
+    "filename": "BottomsTexPantsNormalPirates0",
+    "sourceSheet": "Bottoms"
+  },
+  {
     "name": "plaid shorts",
     "uniqueID": "Bp9aGAfzBLEvcvwpS",
     "id": 8844,
@@ -9376,6 +9473,77 @@
     "filename": "BottomsTexPantsHotYacht3",
     "sourceSheet": "Bottoms",
     "variation": "Purple"
+  },
+  {
+    "name": "horizontal-striped wet suit",
+    "uniqueID": "6L2xDvYdeFstLHY86",
+    "id": 13103,
+    "filename": "TopsTexMarinesuitNormalNGreco3",
+    "sourceSheet": "Clothing Other",
+    "variation": "Black"
+  },
+  {
+    "name": "horizontal-striped wet suit",
+    "uniqueID": "3TDPbxuAzdDjSSHyA",
+    "id": 12986,
+    "filename": "TopsTexMarinesuitNormalNGreco0",
+    "sourceSheet": "Clothing Other",
+    "variation": "Red"
+  },
+  {
+    "name": "horizontal-striped wet suit",
+    "uniqueID": "ngqeKA7GqE55ezKww",
+    "id": 13102,
+    "filename": "TopsTexMarinesuitNormalNGreco2",
+    "sourceSheet": "Clothing Other",
+    "variation": "Yellow"
+  },
+  {
+    "name": "horizontal-striped wet suit",
+    "uniqueID": "hSJxcwRHv7qnKp93f",
+    "id": 13101,
+    "filename": "TopsTexMarinesuitNormalNGreco1",
+    "sourceSheet": "Clothing Other",
+    "variation": "Blue"
+  },
+  {
+    "name": "leaf-print wet suit",
+    "uniqueID": "dzprxbw5CzvxNWHt7",
+    "id": 13099,
+    "filename": "TopsTexMarinesuitNormalLRashguard2",
+    "sourceSheet": "Clothing Other",
+    "variation": "Yellow"
+  },
+  {
+    "name": "leaf-print wet suit",
+    "uniqueID": "3qhdPQngftbrtWgHM",
+    "id": 13100,
+    "filename": "TopsTexMarinesuitNormalLRashguard3",
+    "sourceSheet": "Clothing Other",
+    "variation": "Green"
+  },
+  {
+    "name": "leaf-print wet suit",
+    "uniqueID": "mCuc5u3XpnyQqcR8G",
+    "id": 12981,
+    "filename": "TopsTexMarinesuitNormalLRashguard0",
+    "sourceSheet": "Clothing Other",
+    "variation": "Light blue"
+  },
+  {
+    "name": "leaf-print wet suit",
+    "uniqueID": "GZwvXzEMwCfhuNTHe",
+    "id": 13098,
+    "filename": "TopsTexMarinesuitNormalLRashguard1",
+    "sourceSheet": "Clothing Other",
+    "variation": "Purple"
+  },
+  {
+    "name": "Nook Inc. wet suit",
+    "uniqueID": "jjwdLhmb3X42fvtHa",
+    "id": 12970,
+    "filename": "TopsTexMarinesuitNormalLNook0",
+    "sourceSheet": "Clothing Other"
   },
   {
     "name": "brick bridge",
@@ -12018,7 +12186,7 @@
     "variation": "Fuchsia"
   },
   {
-    "name": "cake dress",
+    "name": "wedding dress",
     "uniqueID": "ud4NgGEzc7boLMh6x",
     "id": 3336,
     "filename": "TopsTexOnepieceDressNWedding",
@@ -15117,6 +15285,38 @@
     "variation": "White"
   },
   {
+    "name": "mermaid fishy dress",
+    "uniqueID": "MXFcnLQLbDWuadgtG",
+    "id": 12958,
+    "filename": "TopsTexOnepieceAlongNMermaiddress0",
+    "sourceSheet": "Dress-Up",
+    "variation": "Pink"
+  },
+  {
+    "name": "mermaid fishy dress",
+    "uniqueID": "rtvGKdvz7erpPEm3x",
+    "id": 13093,
+    "filename": "TopsTexOnepieceAlongNMermaiddress1",
+    "sourceSheet": "Dress-Up",
+    "variation": "Light blue"
+  },
+  {
+    "name": "mermaid princess dress",
+    "uniqueID": "df4XinBssjGx6seYv",
+    "id": 12957,
+    "filename": "TopsTexOnepieceDressNMermaid0",
+    "sourceSheet": "Dress-Up",
+    "variation": "Pink"
+  },
+  {
+    "name": "mermaid princess dress",
+    "uniqueID": "X7amvnXY3cJ8aBkcK",
+    "id": 13092,
+    "filename": "TopsTexOnepieceDressNMermaid1",
+    "sourceSheet": "Dress-Up",
+    "variation": "Light blue"
+  },
+  {
     "name": "miko attire",
     "uniqueID": "NjHTjzaiHdqoXogAH",
     "id": 4292,
@@ -15947,6 +16147,61 @@
     "filename": "TopsTexOnepieceBalloonHDolly5",
     "sourceSheet": "Dress-Up",
     "variation": "Brown"
+  },
+  {
+    "name": "pirate dress",
+    "uniqueID": "PdoxDAyZQgibYGGRz",
+    "id": 13091,
+    "filename": "TopsTexOnepieceBalloonHPirate2",
+    "sourceSheet": "Dress-Up",
+    "variation": "Black"
+  },
+  {
+    "name": "pirate dress",
+    "uniqueID": "r9wAhRjWJi58tjeMa",
+    "id": 12668,
+    "filename": "TopsTexOnepieceBalloonHPirate0",
+    "sourceSheet": "Dress-Up",
+    "variation": "Red"
+  },
+  {
+    "name": "pirate dress",
+    "uniqueID": "wD8XNiMvdNrodc5TC",
+    "id": 13090,
+    "filename": "TopsTexOnepieceBalloonHPirate1",
+    "sourceSheet": "Dress-Up",
+    "variation": "Blue"
+  },
+  {
+    "name": "pirate outfit",
+    "uniqueID": "FtgaZ6yCdzLtsjidx",
+    "id": 7442,
+    "filename": "TopsTexOnepieceOverallHPirates2",
+    "sourceSheet": "Dress-Up",
+    "variation": "Black"
+  },
+  {
+    "name": "pirate outfit",
+    "uniqueID": "XzmQ4psXtWN3fweDm",
+    "id": 4295,
+    "filename": "TopsTexOnepieceOverallHPirates0",
+    "sourceSheet": "Dress-Up",
+    "variation": "Red"
+  },
+  {
+    "name": "pirate outfit",
+    "uniqueID": "M68MEfXKMobxwXetd",
+    "id": 7441,
+    "filename": "TopsTexOnepieceOverallHPirates1",
+    "sourceSheet": "Dress-Up",
+    "variation": "Blue"
+  },
+  {
+    "name": "pirate-treasure robe",
+    "uniqueID": "NyYGF4eiZZX3n6XEH",
+    "id": 12667,
+    "filename": "TopsTexOnepieceAlongLPirates0",
+    "sourceSheet": "Dress-Up"
   },
   {
     "name": "PJ outfit",
@@ -19667,6 +19922,13 @@
     "sourceSheet": "Floors"
   },
   {
+    "name": "mermaid flooring",
+    "uniqueID": "XLgLk68xXpgf344N2",
+    "id": 12568,
+    "filename": "RoomSpFloorMermaid00",
+    "sourceSheet": "Floors"
+  },
+  {
     "name": "mint dot flooring",
     "uniqueID": "CCEfvKqoZ7TQXWFqM",
     "id": 5026,
@@ -19804,6 +20066,13 @@
     "uniqueID": "wXCN3tKY2rDen6D6s",
     "id": 5059,
     "filename": "RoomTexFloorPaintWood02",
+    "sourceSheet": "Floors"
+  },
+  {
+    "name": "pirate flooring",
+    "uniqueID": "RaD6jMvqDehvYkgSg",
+    "id": 12569,
+    "filename": "RoomTexFloorPirates00",
     "sourceSheet": "Floors"
   },
   {
@@ -20556,13 +20825,6 @@
     "sourceSheet": "Fossils"
   },
   {
-    "name": "plesio body",
-    "uniqueID": "jbfiPhmAcserk23rm",
-    "id": 235,
-    "filename": "FtrFossilElasmosaurusB",
-    "sourceSheet": "Fossils"
-  },
-  {
     "name": "plesio skull",
     "uniqueID": "ioAEHvPecRoCBLJsK",
     "id": 234,
@@ -20574,6 +20836,13 @@
     "uniqueID": "7dLqS33KYzWRFvkde",
     "id": 236,
     "filename": "FtrFossilElasmosaurusC",
+    "sourceSheet": "Fossils"
+  },
+  {
+    "name": "plesio torso",
+    "uniqueID": "jbfiPhmAcserk23rm",
+    "id": 235,
+    "filename": "FtrFossilElasmosaurusB",
     "sourceSheet": "Fossils"
   },
   {
@@ -23412,6 +23681,13 @@
     "sourceSheet": "Headwear"
   },
   {
+    "name": "mermaid tiara",
+    "uniqueID": "sGCqgfbJSc9ndpEv8",
+    "id": 12661,
+    "filename": "CapOrnamentCMermaid0",
+    "sourceSheet": "Headwear"
+  },
+  {
     "name": "mesh cap",
     "uniqueID": "B75gGQnqmbvwFnY3r",
     "id": 11511,
@@ -24098,6 +24374,44 @@
     "uniqueID": "dPCd6Ab8DeCJFYskS",
     "id": 5279,
     "filename": "CapHatPineapple",
+    "sourceSheet": "Headwear"
+  },
+  {
+    "name": "pirate bandanna",
+    "uniqueID": "WFxrhr6BfYyCAJsGS",
+    "id": 13089,
+    "filename": "CapHatPiratesbandana2",
+    "sourceSheet": "Headwear",
+    "variation": "Black"
+  },
+  {
+    "name": "pirate bandanna",
+    "uniqueID": "Fqrra2HiK6h6JApNQ",
+    "id": 12666,
+    "filename": "CapHatPiratesbandana0",
+    "sourceSheet": "Headwear",
+    "variation": "Red"
+  },
+  {
+    "name": "pirate bandanna",
+    "uniqueID": "FCqyFhq6XzcnSXqpm",
+    "id": 13088,
+    "filename": "CapHatPiratesbandana1",
+    "sourceSheet": "Headwear",
+    "variation": "Blue"
+  },
+  {
+    "name": "pirate-treasure crown",
+    "uniqueID": "6NNSm3ERsLbEy5BTC",
+    "id": 12980,
+    "filename": "CapOrnamentCPirate0",
+    "sourceSheet": "Headwear"
+  },
+  {
+    "name": "pirate's hat",
+    "uniqueID": "cKNoCD7vwdECyuDeP",
+    "id": 5142,
+    "filename": "CapHatPirate0",
     "sourceSheet": "Headwear"
   },
   {
@@ -27158,6 +27472,13 @@
     "filename": "FtrBambooLamp_Remake_2_0",
     "sourceSheet": "Housewares",
     "variation": "Smoke-cured bamboo"
+  },
+  {
+    "name": "bamboo grass",
+    "uniqueID": "LBgZgjLgTm4RJGGdp",
+    "id": 1182,
+    "filename": "FtrTanabata",
+    "sourceSheet": "Housewares"
   },
   {
     "name": "bamboo noodle slide",
@@ -40066,6 +40387,76 @@
     "variation": "Red"
   },
   {
+    "name": "mermaid bed",
+    "uniqueID": "3hnRiZ5yWwscD74ed",
+    "id": 12558,
+    "filename": "FtrMermaidBedS",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "mermaid chair",
+    "uniqueID": "cZADf6Hajte5TCSHr",
+    "id": 12562,
+    "filename": "FtrMermaidChairS",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "mermaid closet",
+    "uniqueID": "fN6GXeRov2kBEQ3pA",
+    "id": 12559,
+    "filename": "FtrMermaidClosetLR",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "mermaid dresser",
+    "uniqueID": "uCssN3Gh7MRpeZYyp",
+    "id": 12561,
+    "filename": "FtrMermaidChest",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "mermaid lamp",
+    "uniqueID": "DaJNYDG7bhfCwPSur",
+    "id": 12556,
+    "filename": "FtrMermaidLamp",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "mermaid screen",
+    "uniqueID": "Nco2wbKRh3BsTupL5",
+    "id": 12555,
+    "filename": "FtrMermaidScreen",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "mermaid shelf",
+    "uniqueID": "iCpYS9QY4qPtWRQ4R",
+    "id": 12553,
+    "filename": "FtrMermaidShelf",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "mermaid sofa",
+    "uniqueID": "XarEpcvgaboJfSXvT",
+    "id": 12560,
+    "filename": "FtrMermaidChairL",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "mermaid table",
+    "uniqueID": "qvqaf9JxP6WHBehHa",
+    "id": 12552,
+    "filename": "FtrMermaidTableM",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "mermaid vanity",
+    "uniqueID": "KwQbByEDHzaZbJyxs",
+    "id": 12554,
+    "filename": "FtrMermaidDresser",
+    "sourceSheet": "Housewares"
+  },
+  {
     "name": "mic stand",
     "uniqueID": "7TwBRkuerxTkoHQAf",
     "id": 9503,
@@ -42617,6 +43008,34 @@
     "filename": "FtrPinball_Remake_4_0",
     "sourceSheet": "Housewares",
     "variation": "Brown"
+  },
+  {
+    "name": "pirate barrel",
+    "uniqueID": "xqwfGthBE237ZqaKe",
+    "id": 12574,
+    "filename": "FtrPirateBarrelSkull",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "pirate-ship cannon",
+    "uniqueID": "K7eBaxmC8nBFvwfZi",
+    "id": 1268,
+    "filename": "FtrPirateCannon",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "pirate-ship helm",
+    "uniqueID": "Zb5T6DnzFE6jhrFKB",
+    "id": 1273,
+    "filename": "FtrPirateWheel",
+    "sourceSheet": "Housewares"
+  },
+  {
+    "name": "pirate-treasure chest",
+    "uniqueID": "tQAbHMeAXK7JgKP84",
+    "id": 12573,
+    "filename": "FtrPirateTreasurechest",
+    "sourceSheet": "Housewares"
   },
   {
     "name": "Pisces lamp",
@@ -45647,6 +46066,13 @@
     "variation": "Black"
   },
   {
+    "name": "sideways pirate barrel",
+    "uniqueID": "eEdANSjXXd5JQR2Ep",
+    "id": 12572,
+    "filename": "FtrPirateBarrelSkullSide",
+    "sourceSheet": "Housewares"
+  },
+  {
     "name": "signpost",
     "uniqueID": "RAqjSXzbRx6hnMQj2",
     "id": 3588,
@@ -47357,6 +47783,134 @@
     "filename": "FtrLampSpot_Remake_7_0",
     "sourceSheet": "Housewares",
     "variation": "Green"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "xSDav8xoLttoKknLf",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_0_0",
+    "sourceSheet": "Housewares",
+    "variation": "Natural"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "qGBH4DWTjBzHHJL5q",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_0_1",
+    "sourceSheet": "Housewares",
+    "variation": "Natural"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "TZhSZZ2KfFMDu9Kvx",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_0_2",
+    "sourceSheet": "Housewares",
+    "variation": "Natural"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "RHYcctdowY3uC5nJF",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_1_0",
+    "sourceSheet": "Housewares",
+    "variation": "Light brown"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "8DrWbqnSEktXk9SPY",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_1_1",
+    "sourceSheet": "Housewares",
+    "variation": "Light brown"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "XQrSBGuocz9pvFKKx",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_1_2",
+    "sourceSheet": "Housewares",
+    "variation": "Light brown"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "8PnmhmrrdNXJ6H4wC",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_2_0",
+    "sourceSheet": "Housewares",
+    "variation": "Dark brown"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "YuQY3mJTb82icrXJy",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_2_1",
+    "sourceSheet": "Housewares",
+    "variation": "Dark brown"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "r2qv8AGS7FWT55MPf",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_2_2",
+    "sourceSheet": "Housewares",
+    "variation": "Dark brown"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "ED7g52NstMGnhSYe5",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_3_0",
+    "sourceSheet": "Housewares",
+    "variation": "White"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "MwH3ShvMsd5cK4WYN",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_3_1",
+    "sourceSheet": "Housewares",
+    "variation": "White"
+  },
+  {
+    "name": "study chair",
+    "uniqueID": "bnK5tm5p8Ksqg393b",
+    "id": 3702,
+    "filename": "FtrStudyChair_Remake_3_2",
+    "sourceSheet": "Housewares",
+    "variation": "White"
+  },
+  {
+    "name": "study desk",
+    "uniqueID": "FxaQnCYS8aKJpPduB",
+    "id": 3701,
+    "filename": "FtrStudyDesk_Remake_0_0",
+    "sourceSheet": "Housewares",
+    "variation": "Natural"
+  },
+  {
+    "name": "study desk",
+    "uniqueID": "zj8ug6pwLT5bbjt3a",
+    "id": 3701,
+    "filename": "FtrStudyDesk_Remake_1_0",
+    "sourceSheet": "Housewares",
+    "variation": "Light brown"
+  },
+  {
+    "name": "study desk",
+    "uniqueID": "qaYJ8hXb2JabYcAxJ",
+    "id": 3701,
+    "filename": "FtrStudyDesk_Remake_2_0",
+    "sourceSheet": "Housewares",
+    "variation": "Dark brown"
+  },
+  {
+    "name": "study desk",
+    "uniqueID": "5njHyM5GZ22v6Levz",
+    "id": 3701,
+    "filename": "FtrStudyDesk_Remake_3_0",
+    "sourceSheet": "Housewares",
+    "variation": "White"
   },
   {
     "name": "surfboard",
@@ -51952,134 +52506,6 @@
     "filename": "FtrBlockTableL_Remake_4_0",
     "sourceSheet": "Housewares",
     "variation": "Vivid"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "xSDav8xoLttoKknLf",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_0_0",
-    "sourceSheet": "Housewares",
-    "variation": "Natural"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "qGBH4DWTjBzHHJL5q",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_0_1",
-    "sourceSheet": "Housewares",
-    "variation": "Natural"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "TZhSZZ2KfFMDu9Kvx",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_0_2",
-    "sourceSheet": "Housewares",
-    "variation": "Natural"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "RHYcctdowY3uC5nJF",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_1_0",
-    "sourceSheet": "Housewares",
-    "variation": "Light brown"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "8DrWbqnSEktXk9SPY",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_1_1",
-    "sourceSheet": "Housewares",
-    "variation": "Light brown"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "XQrSBGuocz9pvFKKx",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_1_2",
-    "sourceSheet": "Housewares",
-    "variation": "Light brown"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "8PnmhmrrdNXJ6H4wC",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_2_0",
-    "sourceSheet": "Housewares",
-    "variation": "Dark brown"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "YuQY3mJTb82icrXJy",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_2_1",
-    "sourceSheet": "Housewares",
-    "variation": "Dark brown"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "r2qv8AGS7FWT55MPf",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_2_2",
-    "sourceSheet": "Housewares",
-    "variation": "Dark brown"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "ED7g52NstMGnhSYe5",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_3_0",
-    "sourceSheet": "Housewares",
-    "variation": "White"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "MwH3ShvMsd5cK4WYN",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_3_1",
-    "sourceSheet": "Housewares",
-    "variation": "White"
-  },
-  {
-    "name": "writing chair",
-    "uniqueID": "bnK5tm5p8Ksqg393b",
-    "id": 3702,
-    "filename": "FtrStudyChair_Remake_3_2",
-    "sourceSheet": "Housewares",
-    "variation": "White"
-  },
-  {
-    "name": "writing desk",
-    "uniqueID": "FxaQnCYS8aKJpPduB",
-    "id": 3701,
-    "filename": "FtrStudyDesk_Remake_0_0",
-    "sourceSheet": "Housewares",
-    "variation": "Natural"
-  },
-  {
-    "name": "writing desk",
-    "uniqueID": "zj8ug6pwLT5bbjt3a",
-    "id": 3701,
-    "filename": "FtrStudyDesk_Remake_1_0",
-    "sourceSheet": "Housewares",
-    "variation": "Light brown"
-  },
-  {
-    "name": "writing desk",
-    "uniqueID": "qaYJ8hXb2JabYcAxJ",
-    "id": 3701,
-    "filename": "FtrStudyDesk_Remake_2_0",
-    "sourceSheet": "Housewares",
-    "variation": "Dark brown"
-  },
-  {
-    "name": "writing desk",
-    "uniqueID": "5njHyM5GZ22v6Levz",
-    "id": 3701,
-    "filename": "FtrStudyDesk_Remake_3_0",
-    "sourceSheet": "Housewares",
-    "variation": "White"
   },
   {
     "name": "yellow-leaf pile",
@@ -64053,6 +64479,13 @@
     "sourceSheet": "Other"
   },
   {
+    "name": "communicator",
+    "uniqueID": "4MLwWcvfFjET6hgMc",
+    "id": 13105,
+    "filename": "PirateQuest",
+    "sourceSheet": "Other"
+  },
+  {
     "name": "communicator part",
     "uniqueID": "XiM7GBuMGY9HReqm2",
     "id": 2381,
@@ -64645,6 +65078,13 @@
     "uniqueID": "7kQWGcj7EmNqj8KiL",
     "id": 3370,
     "filename": "PltPear4",
+    "sourceSheet": "Other"
+  },
+  {
+    "name": "pearl",
+    "uniqueID": "EtiYMntRoS8RN53Rn",
+    "id": 12968,
+    "filename": "Pearl",
     "sourceSheet": "Other"
   },
   {
@@ -96959,6 +97399,104 @@
     "sourceSheet": "Recipes"
   },
   {
+    "name": "mermaid bed",
+    "uniqueID": "ALFTq4KukvjmL4fb5",
+    "id": 723,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid chair",
+    "uniqueID": "pxAiAq33Mhuwn4Hkt",
+    "id": 727,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid closet",
+    "uniqueID": "MEWXBzYjapeoEe2gB",
+    "id": 724,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid dresser",
+    "uniqueID": "Cw5hY5Rw3H3Dbj8Qm",
+    "id": 726,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid flooring",
+    "uniqueID": "x4MaMfyCjjfCbzaeX",
+    "id": 730,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid lamp",
+    "uniqueID": "uSZ9gNznb8Muv7m5N",
+    "id": 721,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid rug",
+    "uniqueID": "RzoH6PAen4tofG5r4",
+    "id": 728,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid screen",
+    "uniqueID": "SpWcH5ZkBLmmPPhkh",
+    "id": 720,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid shelf",
+    "uniqueID": "BefPY5x6qmfpw6LYR",
+    "id": 718,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid sofa",
+    "uniqueID": "ZAkqmq4rpvqx8Yjsh",
+    "id": 725,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid table",
+    "uniqueID": "28F4e6Qn9Ljk9bujY",
+    "id": 717,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid vanity",
+    "uniqueID": "Ratk45mkyzj3MamAL",
+    "id": 719,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid wall",
+    "uniqueID": "iWw2Le7AvBey6icHL",
+    "id": 729,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
+    "name": "mermaid wall clock",
+    "uniqueID": "5ofhYTXth4c5AKdau",
+    "id": 722,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
     "name": "mini DIY workbench",
     "uniqueID": "sLGJoXrKyqJ4bdhxb",
     "id": 82,
@@ -99122,6 +99660,13 @@
     "sourceSheet": "Rugs"
   },
   {
+    "name": "mermaid rug",
+    "uniqueID": "WfJHsYQ4KETP2yDEs",
+    "id": 12563,
+    "filename": "RugOtherMermaidM00",
+    "sourceSheet": "Rugs"
+  },
+  {
     "name": "modern wavy rug",
     "uniqueID": "tfdJqWZ2ETosBdHem",
     "id": 7350,
@@ -99259,6 +99804,13 @@
     "uniqueID": "adYBsXgG3etWwtsds",
     "id": 7365,
     "filename": "RugOtherRoseM00",
+    "sourceSheet": "Rugs"
+  },
+  {
+    "name": "pirate rug",
+    "uniqueID": "RPasRWt9A7bb4h4yv",
+    "id": 12564,
+    "filename": "RugRectPiratesM00",
     "sourceSheet": "Rugs"
   },
   {
@@ -99715,6 +100267,286 @@
     "id": 7596,
     "filename": "RugRectNativeKitchenS02",
     "sourceSheet": "Rugs"
+  },
+  {
+    "name": "abalone",
+    "uniqueID": "LnurTYKDSPtsiQr62",
+    "id": 2835,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "acorn barnacle",
+    "uniqueID": "QjvNJrjo5pNqZzuGq",
+    "id": 2832,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "chambered nautilus",
+    "uniqueID": "cmNawSTGaZZjRi5sp",
+    "id": 2856,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "Dungeness crab",
+    "uniqueID": "jTP553H6DNuKBSAKa",
+    "id": 7308,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "firefly squid",
+    "uniqueID": "ETuWxdyZNpqeFCYby",
+    "id": 6920,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "flatworm",
+    "uniqueID": "4LAq9YXXj4ZdfkSuK",
+    "id": 2844,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "gazami crab",
+    "uniqueID": "ruLaEghgv3y3obBA2",
+    "id": 7191,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "giant isopod",
+    "uniqueID": "eGLoSDD4EWD2c6SGs",
+    "id": 2858,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "gigas giant clam",
+    "uniqueID": "EQmRaHjokMEGTDC7G",
+    "id": 7214,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "horseshoe crab",
+    "uniqueID": "bbhHaiT2qwcTy46X5",
+    "id": 2857,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "lobster",
+    "uniqueID": "5DadWMEddJREFyXKo",
+    "id": 2849,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "mantis shrimp",
+    "uniqueID": "WvZWyzkotj6WQ3tLy",
+    "id": 2845,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "moon jellyfish",
+    "uniqueID": "iugx8EqNWqiwv73C7",
+    "id": 7245,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "mussel",
+    "uniqueID": "M784h47XqSbBSthgT",
+    "id": 7411,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "octopus",
+    "uniqueID": "f7amqwd7b3fHnvPFA",
+    "id": 2854,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "oyster",
+    "uniqueID": "aacYapCp5wKdQDCmB",
+    "id": 2833,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "pearl oyster",
+    "uniqueID": "Hr2jZ9XybS3jYFw8H",
+    "id": 2838,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "red king crab",
+    "uniqueID": "F3XTwHJQcfdrJk4vk",
+    "id": 2852,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "scallop",
+    "uniqueID": "fMwWEu3Zwy6tZdX2X",
+    "id": 2839,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "sea anemone",
+    "uniqueID": "fre7kn6ALvnpnH8yC",
+    "id": 2840,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "sea cucumber",
+    "uniqueID": "2jxxcGooLMwyyiNQc",
+    "id": 2842,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "sea grapes",
+    "uniqueID": "eBdtw3eCrMuP9LWyn",
+    "id": 2830,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "sea pig",
+    "uniqueID": "kxxguvYvS4G3o7E5x",
+    "id": 7303,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "sea pineapple",
+    "uniqueID": "e29uLe7tkErhipLfS",
+    "id": 7228,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "sea slug",
+    "uniqueID": "3YjdEG93fagcXpiuf",
+    "id": 2843,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "sea star",
+    "uniqueID": "vAF9BcZt5q8gBQJmj",
+    "id": 2841,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "sea urchin",
+    "uniqueID": "3emjFCipv2bgQ6HaM",
+    "id": 2831,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "seaweed",
+    "uniqueID": "KM4dfXCZ6CvZjEyw9",
+    "id": 2620,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "slate pencil urchin",
+    "uniqueID": "TMftNBRmEGkvhpfnC",
+    "id": 7267,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "snow crab",
+    "uniqueID": "bQNma5vbcs7wWRqY7",
+    "id": 2850,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "spider crab",
+    "uniqueID": "gp2XNvGKNGmR6buT3",
+    "id": 2853,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "spiny lobster",
+    "uniqueID": "9n5iphC8vQe6Rar72",
+    "id": 2848,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "spotted garden eel",
+    "uniqueID": "zYEHNF5Svak8ZARMW",
+    "id": 2855,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "sweet shrimp",
+    "uniqueID": "5v5X2ipAYLaALxMsw",
+    "id": 2846,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "tiger prawn",
+    "uniqueID": "EaMd8ansu3qtzAGbv",
+    "id": 2847,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "turban shell",
+    "uniqueID": "efXQqEuT2yZApwmGB",
+    "id": 2834,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "umbrella octopus",
+    "uniqueID": "kXFeaEJCCEkQ58T2e",
+    "id": 7252,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "vampire squid",
+    "uniqueID": "deJZZk2rxAnePwfzq",
+    "id": 7203,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "Venus' flower basket",
+    "uniqueID": "mSvTRhay8tmGXseMt",
+    "id": 7318,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
+  },
+  {
+    "name": "whelk",
+    "uniqueID": "jSidvLMAXdiDAQNs6",
+    "id": 7278,
+    "filename": null,
+    "sourceSheet": "Sea Creatures"
   },
   {
     "name": "antique boots",
@@ -101319,6 +102151,22 @@
     "variation": "Blue"
   },
   {
+    "name": "mermaid shoes",
+    "uniqueID": "8iHuRzCYLdvJauWuf",
+    "id": 12660,
+    "filename": "ShoesLowcutMermaid0",
+    "sourceSheet": "Shoes",
+    "variation": "Pink"
+  },
+  {
+    "name": "mermaid shoes",
+    "uniqueID": "gYHhF8dKtAEM8aQwe",
+    "id": 13087,
+    "filename": "ShoesLowcutMermaid1",
+    "sourceSheet": "Shoes",
+    "variation": "Light blue"
+  },
+  {
     "name": "moccasin boots",
     "uniqueID": "8oSWwD9gw84jXsvEm",
     "id": 11459,
@@ -101540,6 +102388,13 @@
     "filename": "ShoesLowcutAnimal1",
     "sourceSheet": "Shoes",
     "variation": "Brown"
+  },
+  {
+    "name": "pirate boots",
+    "uniqueID": "zAZBCXyxcZiXQJeGt",
+    "id": 12665,
+    "filename": "ShoesKneePirates0",
+    "sourceSheet": "Shoes"
   },
   {
     "name": "pleather ankle booties",
@@ -114230,6 +115085,30 @@
     "variation": "Purple"
   },
   {
+    "name": "sea captain's coat",
+    "uniqueID": "KXh7eF8LrsjLZsE23",
+    "id": 7434,
+    "filename": "TopsTexTopCoatLPirate2",
+    "sourceSheet": "Tops",
+    "variation": "Black"
+  },
+  {
+    "name": "sea captain's coat",
+    "uniqueID": "ATC8EeA7hcFfoZvN8",
+    "id": 3147,
+    "filename": "TopsTexTopCoatLPirate0",
+    "sourceSheet": "Tops",
+    "variation": "Red"
+  },
+  {
+    "name": "sea captain's coat",
+    "uniqueID": "D5PMeXyxhpwPdcNbm",
+    "id": 7433,
+    "filename": "TopsTexTopCoatLPirate1",
+    "sourceSheet": "Tops",
+    "variation": "Blue"
+  },
+  {
     "name": "sea hanten shirt",
     "uniqueID": "C3B7hvkmPJ89ywYGe",
     "id": 9218,
@@ -121820,6 +122699,13 @@
     "sourceSheet": "Wall-mounted"
   },
   {
+    "name": "mermaid wall clock",
+    "uniqueID": "iPu6xLx3S2Tqniv8M",
+    "id": 12557,
+    "filename": "FtrMermaidclockWall",
+    "sourceSheet": "Wall-mounted"
+  },
+  {
     "name": "mobile",
     "uniqueID": "bMEzNi4ZSo3ZPyBnF",
     "id": 9565,
@@ -122666,6 +123552,38 @@
     "variation": "Green"
   },
   {
+    "name": "study poster",
+    "uniqueID": "eqDMnWHyBDS7S9uAg",
+    "id": 3584,
+    "filename": "FtrStudyposter_Remake_0_0",
+    "sourceSheet": "Wall-mounted",
+    "variation": "Alphabet"
+  },
+  {
+    "name": "study poster",
+    "uniqueID": "mnXbHGP24sw8qumWP",
+    "id": 3584,
+    "filename": "FtrStudyposter_Remake_1_0",
+    "sourceSheet": "Wall-mounted",
+    "variation": "Multiplication tables"
+  },
+  {
+    "name": "study poster",
+    "uniqueID": "rPp3dMLX9ieBg3cz4",
+    "id": 3584,
+    "filename": "FtrStudyposter_Remake_2_0",
+    "sourceSheet": "Wall-mounted",
+    "variation": "Periodic table"
+  },
+  {
+    "name": "study poster",
+    "uniqueID": "Z5Hq3QpNzSEydKq42",
+    "id": 3584,
+    "filename": "FtrStudyposter_Remake_3_0",
+    "sourceSheet": "Wall-mounted",
+    "variation": "Constellations"
+  },
+  {
     "name": "surveillance camera",
     "uniqueID": "urRi7eEm3v22KrCWK",
     "id": 1165,
@@ -123379,38 +124297,6 @@
     "filename": "FtrWorldMap_Remake_1_0",
     "sourceSheet": "Wall-mounted",
     "variation": "Atlantic Ocean"
-  },
-  {
-    "name": "writing poster",
-    "uniqueID": "eqDMnWHyBDS7S9uAg",
-    "id": 3584,
-    "filename": "FtrStudyposter_Remake_0_0",
-    "sourceSheet": "Wall-mounted",
-    "variation": "Alphabet"
-  },
-  {
-    "name": "writing poster",
-    "uniqueID": "mnXbHGP24sw8qumWP",
-    "id": 3584,
-    "filename": "FtrStudyposter_Remake_1_0",
-    "sourceSheet": "Wall-mounted",
-    "variation": "Multiplication tables"
-  },
-  {
-    "name": "writing poster",
-    "uniqueID": "rPp3dMLX9ieBg3cz4",
-    "id": 3584,
-    "filename": "FtrStudyposter_Remake_2_0",
-    "sourceSheet": "Wall-mounted",
-    "variation": "Periodic table"
-  },
-  {
-    "name": "writing poster",
-    "uniqueID": "Z5Hq3QpNzSEydKq42",
-    "id": 3584,
-    "filename": "FtrStudyposter_Remake_3_0",
-    "sourceSheet": "Wall-mounted",
-    "variation": "Constellations"
   },
   {
     "name": "abstract wall",
@@ -124295,6 +125181,13 @@
     "sourceSheet": "Wallpaper"
   },
   {
+    "name": "mermaid wall",
+    "uniqueID": "MP44TSDm3ADQzbMq2",
+    "id": 12566,
+    "filename": "RoomSpWallMermaid00",
+    "sourceSheet": "Wallpaper"
+  },
+  {
     "name": "misty-garden wall",
     "uniqueID": "hgiWgFTr76YtZH8sH",
     "id": 11915,
@@ -124572,6 +125465,13 @@
     "uniqueID": "Pwd2z87xxFm52tA28",
     "id": 4943,
     "filename": "RoomTexWallStripe01",
+    "sourceSheet": "Wallpaper"
+  },
+  {
+    "name": "pirate wall",
+    "uniqueID": "DydGczJz6fqyAZJuA",
+    "id": 12567,
+    "filename": "RoomSpWallPirates00",
     "sourceSheet": "Wallpaper"
   },
   {

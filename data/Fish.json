@@ -6,15 +6,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish81.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAntyobiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAntyobi.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 200,
     "whereHow": "Sea",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2–5",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish81",
     "critterpediaFilename": "FishAntyobi",
@@ -40,32 +40,19 @@
       "korean": "멸치",
       "russian": "хамса",
       "plural": false,
-      "internalIds": [
-        4201
-      ]
+      "internalIds": [ 4201 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "4 AM – 9 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "4 AM – 9 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "4 AM – 9 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "4 AM – 9 PM" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Red"
-    ]
+    "colors": [ "Blue", "Red" ]
   },
   {
     "sourceSheet": "Fish",
@@ -74,15 +61,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish30.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAngelfishCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAngelfish.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 3000,
     "whereHow": "River",
     "shadow": "Small",
     "totalCatchesToUnlock": 20,
     "spawnRates": "2–5",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish30",
     "critterpediaFilename": "FishAngelfish",
@@ -108,33 +95,19 @@
       "korean": "천사어",
       "russian": "скалярия",
       "plural": false,
-      "internalIds": [
-        2247
-      ]
+      "internalIds": [ 2247 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Oct"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "May - Oct" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Nov - Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Apr", "Nov - Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Black"
-    ]
+    "colors": [ "Yellow", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -143,15 +116,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish36.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishPirarukuCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishPiraruku.png",
-    "size": "3x2",
-    "surface": false,
     "sell": 10000,
     "whereHow": "River",
     "shadow": "XX-Large",
     "totalCatchesToUnlock": 50,
     "spawnRates": "1",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "3x2",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish36",
     "critterpediaFilename": "FishPiraruku",
@@ -177,33 +150,19 @@
       "korean": "피라루쿠",
       "russian": "арапаима",
       "plural": false,
-      "internalIds": [
-        2253
-      ]
+      "internalIds": [ 2253 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Blue"
-    ]
+    "colors": [ "Black", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -212,15 +171,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish33.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishArowanaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishArowana.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 10000,
     "whereHow": "River",
     "shadow": "Large",
     "totalCatchesToUnlock": 50,
     "spawnRates": "1–2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish33",
     "critterpediaFilename": "FishArowana",
@@ -246,33 +205,19 @@
       "korean": "아로와나",
       "russian": "аравана",
       "plural": false,
-      "internalIds": [
-        2250
-      ]
+      "internalIds": [ 2250 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Black"
-    ]
+    "colors": [ "Yellow", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -281,15 +226,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish47.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishIshidaiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishIshidai.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 5000,
     "whereHow": "Sea",
     "shadow": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "3–5",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish47",
     "critterpediaFilename": "FishIshidai",
@@ -315,33 +260,19 @@
       "korean": "돌돔",
       "russian": "полосатый оплегнат",
       "plural": false,
-      "internalIds": [
-        2265
-      ]
+      "internalIds": [ 2265 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Nov"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar - Nov" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - May",
-          "Sep - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - May", "Sep - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "White",
-      "Black"
-    ]
+    "colors": [ "White", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -350,15 +281,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish84.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDemenigisuCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDemenigisu.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 15000,
     "whereHow": "Sea",
     "shadow": "Small",
     "totalCatchesToUnlock": 100,
     "spawnRates": "1",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish84",
     "critterpediaFilename": "FishDemenigisu",
@@ -384,32 +315,19 @@
       "korean": "데메니기스",
       "russian": "опистопрокт",
       "plural": false,
-      "internalIds": [
-        4204
-      ]
+      "internalIds": [ 4204 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "9 PM – 4 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "9 PM – 4 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "9 PM – 4 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "9 PM – 4 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -418,15 +336,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish77.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishBetaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishBeta.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 2500,
     "whereHow": "River",
     "shadow": "Small",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1–4",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish77",
     "critterpediaFilename": "FishBeta",
@@ -452,33 +370,19 @@
       "korean": "베타",
       "russian": "сиамский петушок",
       "plural": false,
-      "internalIds": [
-        4191
-      ]
+      "internalIds": [ 4191 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Oct"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "May - Oct" ],
+        "time": [ "9 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Nov - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Apr", "Nov - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Light blue",
-      "Black"
-    ]
+    "colors": [ "Light blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -487,15 +391,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish0.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTanagoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTanago.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 900,
     "whereHow": "River",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "12–17",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish0",
     "critterpediaFilename": "FishTanago",
@@ -521,33 +425,19 @@
       "korean": "납줄개",
       "russian": "горчак",
       "plural": false,
-      "internalIds": [
-        2215
-      ]
+      "internalIds": [ 2215 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Mar",
-          "Nov - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Nov - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "May - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "May - Sep" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Light blue",
-      "Blue"
-    ]
+    "colors": [ "Light blue", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -556,15 +446,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish19.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishBlackbassCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishBlackbass.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 400,
     "whereHow": "River",
     "shadow": "Large",
     "totalCatchesToUnlock": 0,
     "spawnRates": "4–12",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish19",
     "critterpediaFilename": "FishBlackbass",
@@ -590,32 +480,19 @@
       "korean": "큰입배스",
       "russian": "большеротый окунь",
       "plural": false,
-      "internalIds": [
-        2234
-      ]
+      "internalIds": [ 2234 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Black"
-    ]
+    "colors": [ "Green", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -624,15 +501,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish73.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishFuguCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishFugu.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 5000,
     "whereHow": "Sea",
     "shadow": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "5",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish73",
     "critterpediaFilename": "FishFugu",
@@ -658,33 +535,19 @@
       "korean": "복어",
       "russian": "бурый скалозуб",
       "plural": false,
-      "internalIds": [
-        2262
-      ]
+      "internalIds": [ 2262 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Feb",
-          "Nov - Dec"
-        ],
-        "time": [
-          "9 PM – 4 AM"
-        ]
+        "months": [ "Jan - Feb", "Nov - Dec" ],
+        "time": [ "9 PM – 4 AM" ]
       },
       "south": {
-        "months": [
-          "May - Aug"
-        ],
-        "time": [
-          "9 PM – 4 AM"
-        ]
+        "months": [ "May - Aug" ],
+        "time": [ "9 PM – 4 AM" ]
       }
     },
-    "colors": [
-      "Beige",
-      "Black"
-    ]
+    "colors": [ "Beige", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -693,15 +556,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish58.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKajikiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKajiki.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 10000,
     "whereHow": "Pier",
     "shadow": "XX-Large",
     "totalCatchesToUnlock": 50,
     "spawnRates": "1–2",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish58",
     "critterpediaFilename": "FishKajiki",
@@ -727,9 +590,7 @@
       "korean": "청새치",
       "russian": "голубой марлин",
       "plural": false,
-      "internalIds": [
-        2275
-      ]
+      "internalIds": [ 2275 ]
     },
     "hemipsheres": {
       "north": {
@@ -738,24 +599,14 @@
           "Jul - Sep",
           "Nov - Dec"
         ],
-        "time": [
-          "All day"
-        ]
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "May - Oct"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "May - Oct" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Black"
-    ]
+    "colors": [ "Blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -764,15 +615,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish17.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishBlueguillCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishBlueguill.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 180,
     "whereHow": "River",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "6–10",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish17",
     "critterpediaFilename": "FishBlueguill",
@@ -798,32 +649,19 @@
       "korean": "블루길",
       "russian": "солнечник",
       "plural": false,
-      "internalIds": [
-        2232
-      ]
+      "internalIds": [ 2232 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Black"
-    ]
+    "colors": [ "Blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -832,15 +670,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish42.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishChouchouuoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishChouchouuo.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 1000,
     "whereHow": "Sea",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "4–5",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish42",
     "critterpediaFilename": "FishChouchouuo",
@@ -866,33 +704,19 @@
       "korean": "나비고기",
       "russian": "рыба-бабочка",
       "plural": false,
-      "internalIds": [
-        2259
-      ]
+      "internalIds": [ 2259 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Oct - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Black"
-    ]
+    "colors": [ "Yellow", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -901,15 +725,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish5.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKoiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKoi.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 300,
     "whereHow": "Pond",
     "shadow": "Large",
     "totalCatchesToUnlock": 0,
     "spawnRates": "3–9",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish5",
     "critterpediaFilename": "FishKoi",
@@ -935,32 +759,19 @@
       "korean": "잉어",
       "russian": "сазан",
       "plural": false,
-      "internalIds": [
-        2219
-      ]
+      "internalIds": [ 2219 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Gray",
-      "Black"
-    ]
+    "colors": [ "Gray", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -969,15 +780,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish14.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNamazuCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNamazu.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 800,
     "whereHow": "Pond",
     "shadow": "Large",
     "totalCatchesToUnlock": 0,
     "spawnRates": "6–8",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish14",
     "critterpediaFilename": "FishNamazu",
@@ -1003,33 +814,19 @@
       "korean": "메기",
       "russian": "сом",
       "plural": false,
-      "internalIds": [
-        2229
-      ]
+      "internalIds": [ 2229 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Oct"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "May - Oct" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Nov - Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Apr", "Nov - Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1038,15 +835,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish24.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishOoiwanaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishOoiwana.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 3800,
     "whereHow": "River (clifftop)",
     "shadow": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1–4",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish24",
     "critterpediaFilename": "FishOoiwana",
@@ -1072,34 +869,19 @@
       "korean": "열목어",
       "russian": "голец",
       "plural": false,
-      "internalIds": [
-        2239
-      ]
+      "internalIds": [ 2239 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Jun",
-          "Sep - Nov"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Mar - Jun", "Sep - Nov" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Mar - May",
-          "Sep - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar - May", "Sep - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1108,15 +890,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish23.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishYamameCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishYamame.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 1000,
     "whereHow": "River (clifftop)",
     "shadow": "Medium",
     "totalCatchesToUnlock": 0,
     "spawnRates": "3–9",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish23",
     "critterpediaFilename": "FishYamame",
@@ -1142,34 +924,19 @@
       "korean": "산천어",
       "russian": "сима",
       "plural": false,
-      "internalIds": [
-        2238
-      ]
+      "internalIds": [ 2238 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Jun",
-          "Sep - Nov"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Mar - Jun", "Sep - Nov" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Mar - May",
-          "Sep - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar - May", "Sep - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1178,15 +945,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish40.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKumanomiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKumanomi.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 650,
     "whereHow": "Sea",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "5–6",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish40",
     "critterpediaFilename": "FishKumanomi",
@@ -1212,33 +979,19 @@
       "korean": "흰동가리",
       "russian": "рыба-клоун",
       "plural": false,
-      "internalIds": [
-        2257
-      ]
+      "internalIds": [ 2257 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Oct - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Orange",
-      "Black"
-    ]
+    "colors": [ "Orange", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1247,15 +1000,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish63.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSirakansuCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSirakansu.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 15000,
     "whereHow": "Sea (rainy days)",
     "shadow": "XX-Large",
     "totalCatchesToUnlock": 100,
     "spawnRates": "1–2",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish63",
     "critterpediaFilename": "FishSirakansu",
@@ -1281,32 +1034,19 @@
       "korean": "실러캔스",
       "russian": "латимерия",
       "plural": false,
-      "internalIds": [
-        2284
-      ]
+      "internalIds": [ 2284 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1315,15 +1055,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish10.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishZariganiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishZarigani.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 200,
     "whereHow": "Pond",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "4–12",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish10",
     "critterpediaFilename": "FishZarigani",
@@ -1349,33 +1089,19 @@
       "korean": "가재",
       "russian": "рак",
       "plural": false,
-      "internalIds": [
-        2223
-      ]
+      "internalIds": [ 2223 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Oct - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Red",
-      "Black"
-    ]
+    "colors": [ "Red", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1384,15 +1110,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish2.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishFunaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishFuna.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 160,
     "whereHow": "River",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "4–12",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish2",
     "critterpediaFilename": "FishFuna",
@@ -1418,32 +1144,19 @@
       "korean": "붕어",
       "russian": "карась",
       "plural": false,
-      "internalIds": [
-        328
-      ]
+      "internalIds": [ 328 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1452,15 +1165,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish50.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKareiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKarei.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 300,
     "whereHow": "Sea",
     "shadow": "Medium",
     "totalCatchesToUnlock": 0,
     "spawnRates": "11–14",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish50",
     "critterpediaFilename": "FishKarei",
@@ -1486,33 +1199,19 @@
       "korean": "가자미",
       "russian": "камбала",
       "plural": false,
-      "internalIds": [
-        2268
-      ]
+      "internalIds": [ 2268 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Apr",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Apr", "Oct - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Apr - Oct"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Oct" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1521,15 +1220,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish3.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishUguiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishUgui.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 240,
     "whereHow": "River",
     "shadow": "Medium",
     "totalCatchesToUnlock": 0,
     "spawnRates": "3–10",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish3",
     "critterpediaFilename": "FishUgui",
@@ -1555,32 +1254,19 @@
       "korean": "황어",
       "russian": "елец",
       "plural": false,
-      "internalIds": [
-        2217
-      ]
+      "internalIds": [ 2217 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1589,15 +1275,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish34.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDoladoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDolado.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 15000,
     "whereHow": "River",
     "shadow": "X-Large",
     "totalCatchesToUnlock": 100,
     "spawnRates": "1–2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish34",
     "critterpediaFilename": "FishDolado",
@@ -1623,33 +1309,19 @@
       "korean": "황금연어",
       "russian": "дорадо",
       "plural": false,
-      "internalIds": [
-        2251
-      ]
+      "internalIds": [ 2251 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "4 AM – 9 PM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "4 AM – 9 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "4 AM – 9 PM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "4 AM – 9 PM" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Black"
-    ]
+    "colors": [ "Yellow", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1658,15 +1330,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish56.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishChouchinankouCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishChouchinankou.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 2500,
     "whereHow": "Sea",
     "shadow": "Large",
     "totalCatchesToUnlock": 20,
     "spawnRates": "6",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Emission",
     "iconFilename": "Fish56",
     "critterpediaFilename": "FishChouchinankou",
@@ -1692,33 +1364,19 @@
       "korean": "초롱아귀",
       "russian": "гимантолоф",
       "plural": false,
-      "internalIds": [
-        2273
-      ]
+      "internalIds": [ 2273 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Mar",
-          "Nov - Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Mar", "Nov - Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "May - Sep"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "May - Sep" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1727,15 +1385,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish12.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDonkoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDonko.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 400,
     "whereHow": "River",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2–5",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish12",
     "critterpediaFilename": "FishDonko",
@@ -1761,32 +1419,19 @@
       "korean": "동사리",
       "russian": "одонтобутис",
       "plural": false,
-      "internalIds": [
-        2227
-      ]
+      "internalIds": [ 2227 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1795,15 +1440,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish11.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKaeruCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKaeru.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 120,
     "whereHow": "Pond",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "7–9",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish11",
     "critterpediaFilename": "FishKaeru",
@@ -1829,33 +1474,19 @@
       "korean": "개구리",
       "russian": "лягушка",
       "plural": false,
-      "internalIds": [
-        2226
-      ]
+      "internalIds": [ 2226 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "May - Aug" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb",
-          "Nov - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb", "Nov - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Black"
-    ]
+    "colors": [ "Green", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1864,15 +1495,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish35.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishGaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGa.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 6000,
     "whereHow": "Pond",
     "shadow": "X-Large",
     "totalCatchesToUnlock": 50,
     "spawnRates": "1–2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish35",
     "critterpediaFilename": "FishGa",
@@ -1898,33 +1529,19 @@
       "korean": "가아",
       "russian": "панцирная щука",
       "plural": false,
-      "internalIds": [
-        2252
-      ]
+      "internalIds": [ 2252 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -1933,15 +1550,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish16.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRaigyoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRaigyo.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 5500,
     "whereHow": "Pond",
     "shadow": "Large",
     "totalCatchesToUnlock": 50,
     "spawnRates": "2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish16",
     "critterpediaFilename": "FishRaigyo",
@@ -1967,33 +1584,19 @@
       "korean": "가물치",
       "russian": "змееголов",
       "plural": false,
-      "internalIds": [
-        2231
-      ]
+      "internalIds": [ 2231 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Aug"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jun - Aug" ],
+        "time": [ "9 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb",
-          "Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Feb", "Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2002,15 +1605,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish70.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRouninajiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGT.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 4500,
     "whereHow": "Pier",
     "shadow": "X-Large",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish70",
     "critterpediaFilename": "FishRouninaji",
@@ -2036,33 +1639,19 @@
       "korean": "무명갈전갱이",
       "russian": "гигантский каранкс",
       "plural": false,
-      "internalIds": [
-        2276
-      ]
+      "internalIds": [ 2276 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Oct"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "May - Oct" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Nov - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Apr", "Nov - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2071,15 +1660,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish79.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishGoldenTorautoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGoldenTorauto.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 15000,
     "whereHow": "River (clifftop)",
     "shadow": "Medium",
     "totalCatchesToUnlock": 100,
     "spawnRates": "1",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish79",
     "critterpediaFilename": "FishGoldenTorauto",
@@ -2105,34 +1694,19 @@
       "korean": "금송어",
       "russian": "золотая форель",
       "plural": false,
-      "internalIds": [
-        4193
-      ]
+      "internalIds": [ 4193 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - May",
-          "Sep - Nov"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Mar - May", "Sep - Nov" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Mar - May",
-          "Sep - Nov"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Mar - May", "Sep - Nov" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2141,15 +1715,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish7.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKingyoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKingyo.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 1300,
     "whereHow": "Pond",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "1–4",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish7",
     "critterpediaFilename": "FishKingyo",
@@ -2175,32 +1749,19 @@
       "korean": "금붕어",
       "russian": "золотая рыбка",
       "plural": false,
-      "internalIds": [
-        329
-      ]
+      "internalIds": [ 329 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Red",
-      "Light blue"
-    ]
+    "colors": [ "Red", "Light blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2209,15 +1770,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish62.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSameCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSame.png",
-    "size": "3x2",
-    "surface": false,
     "sell": 15000,
     "whereHow": "Sea",
     "shadow": "Large w/Fin",
     "totalCatchesToUnlock": 50,
     "spawnRates": "2",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "3x2",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish62",
     "critterpediaFilename": "FishSame",
@@ -2243,33 +1804,19 @@
       "korean": "상어",
       "russian": "большая белая акула",
       "plural": false,
-      "internalIds": [
-        2280
-      ]
+      "internalIds": [ 2280 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ]
+    "colors": [ "Blue", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2278,15 +1825,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish29.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishGuppiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGuppi.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 1300,
     "whereHow": "River",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2–3",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish29",
     "critterpediaFilename": "FishGuppi",
@@ -2312,33 +1859,19 @@
       "korean": "구피",
       "russian": "гуппи",
       "plural": false,
-      "internalIds": [
-        2245
-      ]
+      "internalIds": [ 2245 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Nov"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Apr - Nov" ],
+        "time": [ "9 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - May",
-          "Oct - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - May", "Oct - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Black"
-    ]
+    "colors": [ "Blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2347,15 +1880,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish61.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishShumokuzameCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishShumokuzame.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 8000,
     "whereHow": "Sea",
     "shadow": "Large w/Fin",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish61",
     "critterpediaFilename": "FishShumokuzame",
@@ -2381,33 +1914,19 @@
       "korean": "귀상어",
       "russian": "рыба-молот",
       "plural": false,
-      "internalIds": [
-        2279
-      ]
+      "internalIds": [ 2279 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2416,15 +1935,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish46.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAjiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAji.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 150,
     "whereHow": "Sea",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "14–21",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish46",
     "critterpediaFilename": "FishAji",
@@ -2450,32 +1969,19 @@
       "korean": "전갱이",
       "russian": "ставрида",
       "plural": false,
-      "internalIds": [
-        2264
-      ]
+      "internalIds": [ 2264 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Black"
-    ]
+    "colors": [ "Blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2484,15 +1990,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish9.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishMedakaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishMedaka.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 300,
     "whereHow": "Pond",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "3–4",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish9",
     "critterpediaFilename": "FishMedaka",
@@ -2518,33 +2024,19 @@
       "korean": "송사리",
       "russian": "оризия",
       "plural": false,
-      "internalIds": [
-        2222
-      ]
+      "internalIds": [ 2222 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Aug" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb", "Oct - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Black"
-    ]
+    "colors": [ "Yellow", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2553,15 +2045,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish28.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKingsalmonCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKingsalmon.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 1800,
     "whereHow": "River (mouth)",
     "shadow": "X-Large",
     "totalCatchesToUnlock": 20,
     "spawnRates": "5",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish28",
     "critterpediaFilename": "FishKingsalmon",
@@ -2587,32 +2079,19 @@
       "korean": "왕연어",
       "russian": "чавыча",
       "plural": false,
-      "internalIds": [
-        2243
-      ]
+      "internalIds": [ 2243 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Mar"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Gray",
-      "Black"
-    ]
+    "colors": [ "Gray", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2621,15 +2100,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish6.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNishikigoiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNishikigoi.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 4000,
     "whereHow": "Pond",
     "shadow": "Large",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1–4",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish6",
     "critterpediaFilename": "FishNishikigoi",
@@ -2655,32 +2134,19 @@
       "korean": "비단잉어",
       "russian": "карп кои",
       "plural": false,
-      "internalIds": [
-        2220
-      ]
+      "internalIds": [ 2220 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Red",
-      "White"
-    ]
+    "colors": [ "Red", "White" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2689,15 +2155,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish13.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDojouCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDojou.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 400,
     "whereHow": "River",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "12–16",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish13",
     "critterpediaFilename": "FishDojou",
@@ -2723,32 +2189,19 @@
       "korean": "미꾸라지",
       "russian": "вьюн",
       "plural": false,
-      "internalIds": [
-        2228
-      ]
+      "internalIds": [ 2228 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - May"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar - May" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Sep - Nov"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Sep - Nov" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Blue"
-    ]
+    "colors": [ "Brown", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2757,15 +2210,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish82.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishShiiraCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishShiira.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 6000,
     "whereHow": "Pier",
     "shadow": "X-Large",
     "totalCatchesToUnlock": 50,
     "spawnRates": "1",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish82",
     "critterpediaFilename": "FishShiira",
@@ -2791,33 +2244,19 @@
       "korean": "만새기",
       "russian": "корифена",
       "plural": false,
-      "internalIds": [
-        4202
-      ]
+      "internalIds": [ 4202 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Oct"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "May - Oct" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Nov - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Apr", "Nov - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Black"
-    ]
+    "colors": [ "Yellow", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2826,15 +2265,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish66.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSyanhaiganiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishShanghai.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 2000,
     "whereHow": "River",
     "shadow": "Small",
     "totalCatchesToUnlock": 20,
     "spawnRates": "3–5",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish66",
     "critterpediaFilename": "FishSyanhaigani",
@@ -2860,32 +2299,19 @@
       "korean": "참게",
       "russian": "мохнорукий краб",
       "plural": false,
-      "internalIds": [
-        2244
-      ]
+      "internalIds": [ 2244 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Sep - Nov"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Sep - Nov" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Mar - May"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Mar - May" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Blue"
-    ]
+    "colors": [ "Black", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2894,15 +2320,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish55.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishUtsuboCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishUtsubo.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 2000,
     "whereHow": "Sea",
     "shadow": "Long",
     "totalCatchesToUnlock": 20,
     "spawnRates": "2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish55",
     "critterpediaFilename": "FishUtsubo",
@@ -2928,32 +2354,19 @@
       "korean": "곰치",
       "russian": "мурена",
       "plural": false,
-      "internalIds": [
-        2271
-      ]
+      "internalIds": [ 2271 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Aug - Oct"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Aug - Oct" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Feb - Apr"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Feb - Apr" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -2962,15 +2375,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish43.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNaporeonfishCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNaporeonfish.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 10000,
     "whereHow": "Sea",
     "shadow": "XX-Large",
     "totalCatchesToUnlock": 50,
     "spawnRates": "1",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish43",
     "critterpediaFilename": "FishNaporeonfish",
@@ -2996,32 +2409,19 @@
       "korean": "나폴레옹피시",
       "russian": "рыба-наполеон",
       "plural": false,
-      "internalIds": [
-        2260
-      ]
+      "internalIds": [ 2260 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "4 AM – 9 PM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "4 AM – 9 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "4 AM – 9 PM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "4 AM – 9 PM" ]
       }
     },
-    "colors": [
-      "Light blue",
-      "Black"
-    ]
+    "colors": [ "Light blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3030,15 +2430,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish31.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNeontetoraCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNeontetora.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 500,
     "whereHow": "River",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2–3",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish31",
     "critterpediaFilename": "FishNeontetora",
@@ -3064,33 +2464,19 @@
       "korean": "네온테트라",
       "russian": "голубой неон",
       "plural": false,
-      "internalIds": [
-        2248
-      ]
+      "internalIds": [ 2248 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Nov"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Apr - Nov" ],
+        "time": [ "9 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - May",
-          "Oct - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - May", "Oct - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Light blue",
-      "Black"
-    ]
+    "colors": [ "Light blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3099,15 +2485,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish67.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDokutaafishCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDoctor.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 1500,
     "whereHow": "River",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 20,
     "spawnRates": "2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish67",
     "critterpediaFilename": "FishDokutaafish",
@@ -3133,33 +2519,19 @@
       "korean": "닥터피시",
       "russian": "рыба-доктор",
       "plural": false,
-      "internalIds": [
-        2246
-      ]
+      "internalIds": [ 2246 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Sep"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "May - Sep" ],
+        "time": [ "9 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Nov - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Mar", "Nov - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Blue"
-    ]
+    "colors": [ "Brown", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3168,15 +2540,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish69.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRyuuguunotukaiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRyugu.png",
-    "size": "3x2",
-    "surface": false,
     "sell": 9000,
     "whereHow": "Sea",
     "shadow": "XX-Large",
     "totalCatchesToUnlock": 50,
     "spawnRates": "1",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "3x2",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish69",
     "critterpediaFilename": "FishRyuuguunotukai",
@@ -3202,33 +2574,19 @@
       "korean": "산갈치",
       "russian": "сельдяной король",
       "plural": false,
-      "internalIds": [
-        2283
-      ]
+      "internalIds": [ 2283 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - May",
-          "Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - May", "Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jun - Nov"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jun - Nov" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Red",
-      "Blue"
-    ]
+    "colors": [ "Red", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3237,15 +2595,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish60.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishManbouCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishManbou.png",
-    "size": "2x2",
-    "surface": false,
     "sell": 4000,
     "whereHow": "Sea",
     "shadow": "Large w/Fin",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "2x2",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish60",
     "critterpediaFilename": "FishManbou",
@@ -3271,32 +2629,19 @@
       "korean": "개복치",
       "russian": "луна-рыба",
       "plural": false,
-      "internalIds": [
-        2278
-      ]
+      "internalIds": [ 2278 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Sep"
-        ],
-        "time": [
-          "4 AM – 9 PM"
-        ]
+        "months": [ "Jul - Sep" ],
+        "time": [ "4 AM – 9 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar"
-        ],
-        "time": [
-          "4 AM – 9 PM"
-        ]
+        "months": [ "Jan - Mar" ],
+        "time": [ "4 AM – 9 PM" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Orange"
-    ]
+    "colors": [ "Blue", "Orange" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3305,15 +2650,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish51.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishHirameCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishHirame.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 800,
     "whereHow": "Sea",
     "shadow": "X-Large",
     "totalCatchesToUnlock": 0,
     "spawnRates": "4–6",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish51",
     "critterpediaFilename": "FishHirame",
@@ -3339,32 +2684,19 @@
       "korean": "넙치",
       "russian": "ложный палтус",
       "plural": false,
-      "internalIds": [
-        2269
-      ]
+      "internalIds": [ 2269 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Beige",
-      "Black"
-    ]
+    "colors": [ "Beige", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3373,15 +2705,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish1.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishOikawaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishOikawa.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 200,
     "whereHow": "River",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "6–9",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish1",
     "critterpediaFilename": "FishOikawa",
@@ -3407,32 +2739,19 @@
       "korean": "피라미",
       "russian": "светлый закко",
       "plural": false,
-      "internalIds": [
-        2216
-      ]
+      "internalIds": [ 2216 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ]
+    "colors": [ "Blue", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3441,15 +2760,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish20.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishPaikuCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishPaiku.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 1800,
     "whereHow": "River",
     "shadow": "X-Large",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1–2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish20",
     "critterpediaFilename": "FishPaiku",
@@ -3475,32 +2794,19 @@
       "korean": "강꼬치고기",
       "russian": "щука",
       "plural": false,
-      "internalIds": [
-        2235
-      ]
+      "internalIds": [ 2235 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Sep - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Sep - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Mar - Jun"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar - Jun" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Black"
-    ]
+    "colors": [ "Green", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3509,15 +2815,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish32.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishPiraniaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishPirania.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 2500,
     "whereHow": "River",
     "shadow": "Small",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1–3",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish32",
     "critterpediaFilename": "FishPirania",
@@ -3543,35 +2849,25 @@
       "korean": "피라니아",
       "russian": "пиранья",
       "plural": false,
-      "internalIds": [
-        2249
-      ]
+      "internalIds": [ 2249 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
+        "months": [ "Jun - Sep" ],
         "time": [
           "9 AM – 4 PM",
           "9 PM – 4 AM"
         ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
+        "months": [ "Jan - Mar", "Dec" ],
         "time": [
           "9 AM – 4 PM",
           "9 PM – 4 AM"
         ]
       }
     },
-    "colors": [
-      "Green",
-      "Black"
-    ]
+    "colors": [ "Green", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3580,15 +2876,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish21.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishWakasagiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishWakasagi.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 400,
     "whereHow": "River",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "18–20",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish21",
     "critterpediaFilename": "FishWakasagi",
@@ -3614,33 +2910,19 @@
       "korean": "빙어",
       "russian": "малая корюшка",
       "plural": false,
-      "internalIds": [
-        2236
-      ]
+      "internalIds": [ 2236 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Feb",
-          "Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb", "Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jun - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jun - Aug" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Orange",
-      "Blue"
-    ]
+    "colors": [ "Orange", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3649,15 +2931,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish8.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDemekinCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDemekin.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 1300,
     "whereHow": "Pond",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "1–2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish8",
     "critterpediaFilename": "FishDemekin",
@@ -3683,32 +2965,19 @@
       "korean": "툭눈금붕어",
       "russian": "телескоп",
       "plural": false,
-      "internalIds": [
-        2221
-      ]
+      "internalIds": [ 2221 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Light blue"
-    ]
+    "colors": [ "Black", "Light blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3717,15 +2986,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish45.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishHarisenbonCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishHarisenbon.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 250,
     "whereHow": "Sea",
     "shadow": "Medium",
     "totalCatchesToUnlock": 0,
     "spawnRates": "7–8",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish45",
     "critterpediaFilename": "FishHarisenbon",
@@ -3751,32 +3020,19 @@
       "korean": "가시복",
       "russian": "еж-рыба",
       "plural": false,
-      "internalIds": [
-        2263
-      ]
+      "internalIds": [ 2263 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jul - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Beige",
-      "Black"
-    ]
+    "colors": [ "Beige", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3785,15 +3041,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish80.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRainbowfishCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRainbowfish.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 800,
     "whereHow": "River",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2–3",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish80",
     "critterpediaFilename": "FishRainbowfish",
@@ -3819,33 +3075,19 @@
       "korean": "레인보우피시",
       "russian": "радужница",
       "plural": false,
-      "internalIds": [
-        4194
-      ]
+      "internalIds": [ 4194 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Oct"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "May - Oct" ],
+        "time": [ "9 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Nov - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Apr", "Nov - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Orange",
-      "Black"
-    ]
+    "colors": [ "Orange", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3854,15 +3096,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish85.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRanchuCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRanchu.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 4500,
     "whereHow": "Pond",
     "shadow": "Small",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1–2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish85",
     "critterpediaFilename": "FishRanchu",
@@ -3888,32 +3130,19 @@
       "korean": "난주",
       "russian": "ранчу",
       "plural": false,
-      "internalIds": [
-        5254
-      ]
+      "internalIds": [ 5254 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "9 AM – 4 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "9 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Red",
-      "Black"
-    ]
+    "colors": [ "Red", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3922,15 +3151,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish59.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishEiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishEi.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 3000,
     "whereHow": "Sea",
     "shadow": "X-Large",
     "totalCatchesToUnlock": 20,
     "spawnRates": "2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish59",
     "critterpediaFilename": "FishEi",
@@ -3956,32 +3185,19 @@
       "korean": "가오리",
       "russian": "красный хвостокол",
       "plural": false,
-      "internalIds": [
-        2277
-      ]
+      "internalIds": [ 2277 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Aug - Nov"
-        ],
-        "time": [
-          "4 AM – 9 PM"
-        ]
+        "months": [ "Aug - Nov" ],
+        "time": [ "4 AM – 9 PM" ]
       },
       "south": {
-        "months": [
-          "Feb - May"
-        ],
-        "time": [
-          "4 AM – 9 PM"
-        ]
+        "months": [ "Feb - May" ],
+        "time": [ "4 AM – 9 PM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -3990,15 +3206,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish49.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTaiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTai.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 3000,
     "whereHow": "Sea",
     "shadow": "Large",
     "totalCatchesToUnlock": 0,
     "spawnRates": "5–7",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish49",
     "critterpediaFilename": "FishTai",
@@ -4024,32 +3240,19 @@
       "korean": "도미",
       "russian": "красный луциан",
       "plural": false,
-      "internalIds": [
-        2267
-      ]
+      "internalIds": [ 2267 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Red",
-      "Black"
-    ]
+    "colors": [ "Red", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4058,15 +3261,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish71.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishHanahigeutuboCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishHanahige.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 600,
     "whereHow": "Sea",
     "shadow": "Long",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish71",
     "critterpediaFilename": "FishHanahigeutubo",
@@ -4092,33 +3295,19 @@
       "korean": "리본장어",
       "russian": "носатая мурена",
       "plural": false,
-      "internalIds": [
-        2272
-      ]
+      "internalIds": [ 2272 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Oct"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jun - Oct" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Apr", "Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Black"
-    ]
+    "colors": [ "Blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4127,15 +3316,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish68.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishEndorikeriiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishEndlicheri.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 4000,
     "whereHow": "River",
     "shadow": "Large",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish68",
     "critterpediaFilename": "FishEndorikerii",
@@ -4161,33 +3350,19 @@
       "korean": "엔드리케리",
       "russian": "многопер Эндлихера",
       "plural": false,
-      "internalIds": [
-        2254
-      ]
+      "internalIds": [ 2254 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "9 PM – 4 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "9 PM – 4 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "9 PM – 4 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "9 PM – 4 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4196,15 +3371,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish27.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSakeCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSake.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 700,
     "whereHow": "River (mouth)",
     "shadow": "Large",
     "totalCatchesToUnlock": 0,
     "spawnRates": "20",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish27",
     "critterpediaFilename": "FishSake",
@@ -4230,32 +3405,19 @@
       "korean": "연어",
       "russian": "лосось",
       "plural": false,
-      "internalIds": [
-        2242
-      ]
+      "internalIds": [ 2242 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Mar"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4264,15 +3426,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish74.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNokogirizameCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNokogiri.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 12000,
     "whereHow": "Sea",
     "shadow": "Large w/Fin",
     "totalCatchesToUnlock": 50,
     "spawnRates": "1",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish74",
     "critterpediaFilename": "FishNokogirizame",
@@ -4298,33 +3460,19 @@
       "korean": "톱상어",
       "russian": "акула-пилонос",
       "plural": false,
-      "internalIds": [
-        2281
-      ]
+      "internalIds": [ 2281 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4333,15 +3481,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish48.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSuzukiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSuzuki.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 400,
     "whereHow": "Sea",
     "shadow": "X-Large",
     "totalCatchesToUnlock": 0,
     "spawnRates": "11–18",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish48",
     "critterpediaFilename": "FishSuzuki",
@@ -4367,32 +3515,19 @@
       "korean": "농어",
       "russian": "морской судак",
       "plural": false,
-      "internalIds": [
-        2266
-      ]
+      "internalIds": [ 2266 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Gray",
-      "Black"
-    ]
+    "colors": [ "Gray", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4401,15 +3536,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish37.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKurioneCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKurione.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 1000,
     "whereHow": "Sea",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "10–11",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish37",
     "critterpediaFilename": "FishKurione",
@@ -4435,33 +3570,19 @@
       "korean": "클리오네",
       "russian": "морской ангел",
       "plural": false,
-      "internalIds": [
-        2255
-      ]
+      "internalIds": [ 2255 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "White",
-      "Black"
-    ]
+    "colors": [ "White", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4470,15 +3591,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish39.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTatsunootoshigoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTatsunootoshigo.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 1100,
     "whereHow": "Sea",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "5–7",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish39",
     "critterpediaFilename": "FishTatsunootoshigo",
@@ -4504,33 +3625,19 @@
       "korean": "해마",
       "russian": "морской конек",
       "plural": false,
-      "internalIds": [
-        2256
-      ]
+      "internalIds": [ 2256 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Nov"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Nov" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - May",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - May", "Oct - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Orange",
-      "Black"
-    ]
+    "colors": [ "Orange", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4539,15 +3646,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish78.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKamitsukigameCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKamitukigame.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 5000,
     "whereHow": "River",
     "shadow": "Large",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2–3",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish78",
     "critterpediaFilename": "FishKamitsukigame",
@@ -4573,33 +3680,19 @@
       "korean": "늑대거북",
       "russian": "каймановая черепаха",
       "plural": false,
-      "internalIds": [
-        4192
-      ]
+      "internalIds": [ 4192 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Oct"
-        ],
-        "time": [
-          "9 PM – 4 AM"
-        ]
+        "months": [ "Apr - Oct" ],
+        "time": [ "9 PM – 4 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Oct - Dec"
-        ],
-        "time": [
-          "9 PM – 4 AM"
-        ]
+        "months": [ "Jan - Apr", "Oct - Dec" ],
+        "time": [ "9 PM – 4 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4608,15 +3701,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish65.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSupponCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSuppon.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 3750,
     "whereHow": "River",
     "shadow": "Large",
     "totalCatchesToUnlock": 20,
     "spawnRates": "4",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish65",
     "critterpediaFilename": "FishSuppon",
@@ -4642,32 +3735,19 @@
       "korean": "자라",
       "russian": "трионикс",
       "plural": false,
-      "internalIds": [
-        2224
-      ]
+      "internalIds": [ 2224 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Aug - Sep"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Aug - Sep" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Feb - Mar"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Feb - Mar" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Black"
-    ]
+    "colors": [ "Green", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4676,15 +3756,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish52.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishIkaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishIka.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 500,
     "whereHow": "Sea",
     "shadow": "Medium",
     "totalCatchesToUnlock": 0,
     "spawnRates": "7–10",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish52",
     "critterpediaFilename": "FishIka",
@@ -4710,34 +3790,19 @@
       "korean": "오징어",
       "russian": "кальмар",
       "plural": false,
-      "internalIds": [
-        2270
-      ]
+      "internalIds": [ 2270 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Aug",
-          "Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Aug", "Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb",
-          "Jun - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb", "Jun - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Beige",
-      "Black"
-    ]
+    "colors": [ "Beige", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4746,15 +3811,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish26.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishItouCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishItou.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 15000,
     "whereHow": "River (clifftop)",
     "shadow": "X-Large",
     "totalCatchesToUnlock": 100,
     "spawnRates": "1",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish26",
     "critterpediaFilename": "FishItou",
@@ -4780,33 +3845,19 @@
       "korean": "일본연어",
       "russian": "таймень",
       "plural": false,
-      "internalIds": [
-        2241
-      ]
+      "internalIds": [ 2241 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "4 PM – 9 AM" ]
       },
       "south": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "4 PM – 9 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "4 PM – 9 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4815,15 +3866,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish75.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTyouzameCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTyouzame.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 10000,
     "whereHow": "River (mouth)",
     "shadow": "XX-Large",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1–4",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish75",
     "critterpediaFilename": "FishTyouzame",
@@ -4849,33 +3900,19 @@
       "korean": "철갑상어",
       "russian": "осетр",
       "plural": false,
-      "internalIds": [
-        4189
-      ]
+      "internalIds": [ 4189 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Mar",
-          "Sep - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Sep - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Mar - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar - Sep" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4884,15 +3921,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish83.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKobanzameCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKobanzame.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 1500,
     "whereHow": "Sea",
     "shadow": "Medium w/Fin",
     "totalCatchesToUnlock": 20,
     "spawnRates": "2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish83",
     "critterpediaFilename": "FishKobanzame",
@@ -4918,33 +3955,19 @@
       "korean": "빨판상어",
       "russian": "прилипала",
       "plural": false,
-      "internalIds": [
-        4203
-      ]
+      "internalIds": [ 4203 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -4953,15 +3976,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish41.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNanyouhagiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNanyouhagi.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 1000,
     "whereHow": "Sea",
     "shadow": "Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish41",
     "critterpediaFilename": "FishNanyouhagi",
@@ -4987,33 +4010,19 @@
       "korean": "블루탱",
       "russian": "флаговый хирург",
       "plural": false,
-      "internalIds": [
-        2258
-      ]
+      "internalIds": [ 2258 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Oct - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Black"
-    ]
+    "colors": [ "Blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -5022,15 +4031,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish22.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAyuCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAyu.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 900,
     "whereHow": "River",
     "shadow": "Medium",
     "totalCatchesToUnlock": 0,
     "spawnRates": "5–10",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish22",
     "critterpediaFilename": "FishAyu",
@@ -5056,32 +4065,19 @@
       "korean": "은어",
       "russian": "айю",
       "plural": false,
-      "internalIds": [
-        2237
-      ]
+      "internalIds": [ 2237 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jul - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Black"
-    ]
+    "colors": [ "Green", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -5090,15 +4086,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish64.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishOtamajakusiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishOtama.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 100,
     "whereHow": "Pond",
     "shadow": "X-Small",
     "totalCatchesToUnlock": 0,
     "spawnRates": "5–6",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish64",
     "critterpediaFilename": "FishOtamajakusi",
@@ -5124,33 +4120,19 @@
       "korean": "올챙이",
       "russian": "головастик",
       "plural": false,
-      "internalIds": [
-        2225
-      ]
+      "internalIds": [ 2225 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Jul"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar - Jul" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan",
-          "Sep - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan", "Sep - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "Blue"
-    ]
+    "colors": [ "Black", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -5159,15 +4141,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish76.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishThirapiaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishThirapia.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 800,
     "whereHow": "River",
     "shadow": "Medium",
     "totalCatchesToUnlock": 0,
     "spawnRates": "7–9",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish76",
     "critterpediaFilename": "FishThirapia",
@@ -5193,33 +4175,19 @@
       "korean": "틸라피아",
       "russian": "тилапия",
       "plural": false,
-      "internalIds": [
-        4190
-      ]
+      "internalIds": [ 4190 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Oct"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jun - Oct" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Apr", "Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -5228,15 +4196,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish57.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishMaguroCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishMaguro.png",
-    "size": "2x1",
-    "surface": true,
     "sell": 7000,
     "whereHow": "Pier",
     "shadow": "XX-Large",
     "totalCatchesToUnlock": 50,
     "spawnRates": "2",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish57",
     "critterpediaFilename": "FishMaguro",
@@ -5262,33 +4230,19 @@
       "korean": "다랑어",
       "russian": "тунец",
       "plural": false,
-      "internalIds": [
-        2274
-      ]
+      "internalIds": [ 2274 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Apr",
-          "Nov - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Apr", "Nov - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "May - Oct"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "May - Oct" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Black"
-    ]
+    "colors": [ "Blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -5297,15 +4251,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish72.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishJinbeezameCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishJinbee.png",
-    "size": "3x2",
-    "surface": false,
     "sell": 13000,
     "whereHow": "Sea",
     "shadow": "Large w/Fin",
     "totalCatchesToUnlock": 50,
     "spawnRates": "1",
     "rainSnowCatchUp": true,
-    "hhaBaseScore": 71,
+    "size": "3x2",
+    "surface": false,
+    "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish72",
     "critterpediaFilename": "FishJinbeezame",
@@ -5331,33 +4285,19 @@
       "korean": "고래상어",
       "russian": "китовая акула",
       "plural": false,
-      "internalIds": [
-        2282
-      ]
+      "internalIds": [ 2282 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "Blue"
-    ]
+    "colors": [ "Black", "Blue" ]
   },
   {
     "sourceSheet": "Fish",
@@ -5366,15 +4306,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish18.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishYellowparchCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishYellowparch.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 300,
     "whereHow": "River",
     "shadow": "Medium",
     "totalCatchesToUnlock": 0,
     "spawnRates": "7–10",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish18",
     "critterpediaFilename": "FishYellowparch",
@@ -5400,33 +4340,19 @@
       "korean": "옐로우퍼치",
       "russian": "желтый окунь",
       "plural": false,
-      "internalIds": [
-        2233
-      ]
+      "internalIds": [ 2233 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Mar",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Oct - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Apr - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Sep" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Black"
-    ]
+    "colors": [ "Yellow", "Black" ]
   },
   {
     "sourceSheet": "Fish",
@@ -5435,15 +4361,15 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish44.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishMinokasagoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishMinokasago.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 500,
     "whereHow": "Sea",
     "shadow": "Medium",
     "totalCatchesToUnlock": 0,
     "spawnRates": "6–8",
     "rainSnowCatchUp": false,
-    "hhaBaseScore": 71,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish44",
     "critterpediaFilename": "FishMinokasago",
@@ -5469,32 +4395,18 @@
       "korean": "쏨뱅이",
       "russian": "крылатка",
       "plural": false,
-      "internalIds": [
-        2261
-      ]
+      "internalIds": [ 2261 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Nov"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Nov" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - May",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - May", "Oct - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Red",
-      "Black"
-    ]
+    "colors": [ "Red", "Black" ]
   }
 ]

@@ -43,25 +43,12 @@
       "korean": "반창고",
       "russian": "кусочки пластыря",
       "plural": false,
-      "internalIds": [
-        4677
-      ]
+      "internalIds": [ 4677 ]
     },
-    "colors": [
-      "Beige",
-      "White"
-    ],
-    "styles": [
-      "Active"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "outdoorsy",
-      "comfy",
-      "sporty"
-    ],
+    "colors": [ "Beige", "White" ],
+    "styles": [ "Active" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "outdoorsy", "comfy", "sporty" ],
     "recipe": null
   },
   {
@@ -108,20 +95,11 @@
       "korean": "부리",
       "russian": "клюв",
       "plural": false,
-      "internalIds": [
-        3549
-      ]
+      "internalIds": [ 3549 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "styles": [
-      "Cute"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
     "themes": [
       "fairy tale",
       "party",
@@ -173,23 +151,12 @@
       "korean": "오이 팩",
       "russian": "огуречная маска",
       "plural": false,
-      "internalIds": [
-        4491
-      ]
+      "internalIds": [ 4491 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "comfy"
-    ],
+    "colors": [ "Green", "Green" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy" ],
     "recipe": null
   },
   {
@@ -236,20 +203,11 @@
       "korean": "꼬부랑 수염",
       "russian": "закрученные усы",
       "plural": false,
-      "internalIds": [
-        4672
-      ]
+      "internalIds": [ 4672 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
     "themes": [
       "fairy tale",
       "formal",
@@ -301,24 +259,12 @@
       "korean": "DAL 안대",
       "russian": "маска для сна DAL",
       "plural": false,
-      "internalIds": [
-        12128
-      ]
+      "internalIds": [ 12128 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Dodo Airlines"
-    ],
-    "themes": [
-      "comfy",
-      "vacation"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Dodo Airlines" ],
+    "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -365,24 +311,12 @@
       "korean": "DAL 선글라스",
       "russian": "солнечные очки DAL",
       "plural": false,
-      "internalIds": [
-        12129
-      ]
+      "internalIds": [ 12129 ]
     },
-    "colors": [
-      "Yellow",
-      "Blue"
-    ],
-    "styles": [
-      "Gorgeous"
-    ],
-    "sources": [
-      "Dodo Airlines"
-    ],
-    "themes": [
-      "comfy",
-      "vacation"
-    ],
+    "colors": [ "Yellow", "Blue" ],
+    "styles": [ "Gorgeous" ],
+    "sources": [ "Dodo Airlines" ],
+    "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -429,25 +363,12 @@
       "korean": "마스크",
       "russian": "маска врача",
       "plural": false,
-      "internalIds": [
-        4451
-      ]
+      "internalIds": [ 4451 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "everyday",
-      "goth",
-      "comfy"
-    ],
+    "colors": [ "White", "White" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "everyday", "goth", "comfy" ],
     "recipe": null
   },
   {
@@ -494,24 +415,12 @@
       "korean": "검정 안대",
       "russian": "глазная повязка",
       "plural": false,
-      "internalIds": [
-        4457
-      ]
+      "internalIds": [ 4457 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "styles": [
-      "Cool"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "fairy tale",
-      "goth"
-    ],
+    "colors": [ "Black", "Black" ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "fairy tale", "goth" ],
     "recipe": null
   },
   {
@@ -558,24 +467,12 @@
       "korean": "팩",
       "russian": "косметическая маска",
       "plural": false,
-      "internalIds": [
-        4512
-      ]
+      "internalIds": [ 4512 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "goth",
-      "comfy"
-    ],
+    "colors": [ "White", "White" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "goth", "comfy" ],
     "recipe": null
   },
   {
@@ -622,20 +519,11 @@
       "korean": "가짜 코",
       "russian": "нос клоуна",
       "plural": false,
-      "internalIds": [
-        4496
-      ]
+      "internalIds": [ 4496 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "styles": [
-      "Cute"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
+    "colors": [ "Red", "Red" ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
     "themes": [
       "fairy tale",
       "party",
@@ -687,23 +575,12 @@
       "korean": "음식 부스러기",
       "russian": "остатки еды",
       "plural": false,
-      "internalIds": [
-        5857
-      ]
+      "internalIds": [ 5857 ]
     },
-    "colors": [
-      "Orange",
-      "Beige"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "comfy"
-    ],
+    "colors": [ "Orange", "Beige" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy" ],
     "recipe": null
   },
   {
@@ -750,24 +627,12 @@
       "korean": "두꺼운 안경",
       "russian": "очки с толстыми линзами",
       "plural": false,
-      "internalIds": [
-        4282
-      ]
+      "internalIds": [ 4282 ]
     },
-    "colors": [
-      "Black",
-      "Gray"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "comfy",
-      "work"
-    ],
+    "colors": [ "Black", "Gray" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy", "work" ],
     "recipe": null
   },
   {
@@ -814,20 +679,11 @@
       "korean": "턱수염",
       "russian": "козлиная бородка",
       "plural": false,
-      "internalIds": [
-        4676
-      ]
+      "internalIds": [ 4676 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "styles": [
-      "Cool"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
     "themes": [
       "everyday",
       "comfy",
@@ -879,20 +735,11 @@
       "korean": "콧수염",
       "russian": "большие усы",
       "plural": false,
-      "internalIds": [
-        3550
-      ]
+      "internalIds": [ 3550 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "styles": [
-      "Elegant"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "styles": [ "Elegant" ],
+    "sources": [ "Able Sisters" ],
     "themes": [
       "fairy tale",
       "formal",
@@ -944,23 +791,12 @@
       "korean": "HMD",
       "russian": "цифровой шлем",
       "plural": false,
-      "internalIds": [
-        5182
-      ]
+      "internalIds": [ 5182 ]
     },
-    "colors": [
-      "White",
-      "Black"
-    ],
-    "styles": [
-      "Cool"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "comfy"
-    ],
+    "colors": [ "White", "Black" ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy" ],
     "recipe": null
   },
   {
@@ -1007,20 +843,11 @@
       "korean": "나뭇잎",
       "russian": "листик",
       "plural": false,
-      "internalIds": [
-        4682
-      ]
+      "internalIds": [ 4682 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Crafting"
-    ],
+    "colors": [ "Green", "Green" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Crafting" ],
     "themes": [
       "outdoorsy",
       "comfy",
@@ -1036,7 +863,7 @@
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
-      "category": "Accessories",
+      "category": "Equipment",
       "craftedItemInternalId": 4682,
       "cardColor": "green",
       "serialId": 1280,
@@ -1061,16 +888,10 @@
         "korean": "나뭇잎",
         "russian": "листик",
         "plural": false,
-        "internalIds": [
-          4682
-        ]
+        "internalIds": [ 4682 ]
       },
-      "materials": {
-        "clump of weeds": 5
-      },
-      "sources": [
-        "Jock villagers"
-      ]
+      "materials": { "clump of weeds": 5 },
+      "sources": [ "Jock villagers" ]
     }
   },
   {
@@ -1117,23 +938,12 @@
       "korean": "나이트 비전 고글",
       "russian": "очки ночного видения",
       "plural": false,
-      "internalIds": [
-        5261
-      ]
+      "internalIds": [ 5261 ]
     },
-    "colors": [
-      "Black",
-      "Green"
-    ],
-    "styles": [
-      "Active"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "outdoorsy"
-    ],
+    "colors": [ "Black", "Green" ],
+    "styles": [ "Active" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "outdoorsy" ],
     "recipe": null
   },
   {
@@ -1180,22 +990,68 @@
       "korean": "Nook Inc. 안대",
       "russian": "маска для сна Nook Inc.",
       "plural": false,
-      "internalIds": [
-        9654
-      ]
+      "internalIds": [ 9654 ]
     },
-    "colors": [
-      "Green",
-      "White"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Nook Miles Shop"
-    ],
+    "colors": [ "Green", "White" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Nook Miles Shop" ],
+    "themes": [ "comfy" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Accessories",
+    "name": "Nook Inc. snorkel",
+    "closetImage": null,
+    "storageImage": null,
+    "variation": null,
+    "diy": false,
+    "buy": -1,
+    "sell": 2500,
+    "hhaBasePoints": null,
+    "size": "1x1",
+    "milesPrice": 800,
+    "sourceNotes": null,
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "seasonalAvailability": "All Year",
+    "mannequinPiece": false,
+    "sortOrder": 1,
+    "type": "AccessoryEyeMouth",
+    "villagerEquippable": false,
+    "catalog": "Not for sale",
+    "filename": "AccessoryGlassmouthNook0",
+    "internalId": 13215,
+    "uniqueEntryId": "cg2tZnttCZ9Wj3k9S",
+    "variantTranslations": null,
+    "translations": {
+      "sourceSheet": "Accessories",
+      "id": 1300,
+      "version": "1.3.0",
+      "english": "Nook Inc. snorkel",
+      "englishEurope": "Nook Inc. snorkel",
+      "german": "Nook-Inc.-Schnorchel",
+      "spanish": "gafa de buceo Nook Inc.",
+      "spanishUs": "gafa de buceo Nook Inc.",
+      "french": "masque avec tuba Nook Inc.",
+      "frenchUs": "masque avec tuba Nook Inc.",
+      "italian": "maschera mare Nook Inc.",
+      "dutch": "Nook Inc.-duikbril",
+      "chinese": "Nook Inc.潜水镜附呼吸管",
+      "chineseTraditional": "Nook Inc.潛水鏡附呼吸管",
+      "japanese": "たぬきかいはつシュノーケル",
+      "korean": "Nook Inc. 스노클",
+      "russian": "подводная маска Nook Inc.",
+      "plural": false,
+      "internalIds": [ 13215 ]
+    },
+    "colors": [ "Green", "Black" ],
+    "styles": [ "Active" ],
+    "sources": [ "Nook Miles Shop" ],
     "themes": [
-      "comfy"
+      "outdoorsy",
+      "sporty",
+      "vacation",
+      "work"
     ],
     "recipe": null
   },
@@ -1243,23 +1099,12 @@
       "korean": "콧물",
       "russian": "сопля",
       "plural": false,
-      "internalIds": [
-        5833
-      ]
+      "internalIds": [ 5833 ]
     },
-    "colors": [
-      "Light blue",
-      "Light blue"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "comfy"
-    ],
+    "colors": [ "Light blue", "Light blue" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy" ],
     "recipe": null
   },
   {
@@ -1306,23 +1151,126 @@
       "korean": "돼지 코",
       "russian": "свиной пятачок",
       "plural": false,
-      "internalIds": [
-        4647
-      ]
+      "internalIds": [ 4647 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "styles": [
-      "Cute"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
     "themes": [
       "fairy tale",
       "party",
+      "theatrical"
+    ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Accessories",
+    "name": "pirate beard",
+    "closetImage": null,
+    "storageImage": null,
+    "variation": null,
+    "diy": false,
+    "buy": -1,
+    "sell": 245,
+    "hhaBasePoints": null,
+    "size": "1x1",
+    "milesPrice": null,
+    "sourceNotes": null,
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "seasonalAvailability": "All Year",
+    "mannequinPiece": false,
+    "sortOrder": 1,
+    "type": "AccessoryMouthEarJaw",
+    "villagerEquippable": false,
+    "catalog": "Not for sale",
+    "filename": "AccessoryMouthPirates0",
+    "internalId": 12663,
+    "uniqueEntryId": "isFLrwBtByekpKuLB",
+    "variantTranslations": null,
+    "translations": {
+      "sourceSheet": "Accessories",
+      "id": 1226,
+      "version": "1.3.0",
+      "english": "pirate beard",
+      "englishEurope": "pirate beard",
+      "german": "Piratenbart",
+      "spanish": "barba de pirata",
+      "spanishUs": "barba de pirata",
+      "french": "barbe de pirate",
+      "frenchUs": "barbe de pirate",
+      "italian": "barba da pirata",
+      "dutch": "piratenbaard",
+      "chinese": "海盗胡子",
+      "chineseTraditional": "海盜鬍子",
+      "japanese": "かいぞくのひげ",
+      "korean": "해적 수염",
+      "russian": "пиратская борода",
+      "plural": false,
+      "internalIds": [ 12663 ]
+    },
+    "colors": [ "Colorful", "Colorful" ],
+    "styles": [ "Cool" ],
+    "sources": [ "Gullivarrr" ],
+    "themes": [
+      "fairy tale",
+      "goth",
+      "theatrical"
+    ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Accessories",
+    "name": "pirate eye patch",
+    "closetImage": null,
+    "storageImage": null,
+    "variation": null,
+    "diy": false,
+    "buy": -1,
+    "sell": 70,
+    "hhaBasePoints": null,
+    "size": "1x1",
+    "milesPrice": null,
+    "sourceNotes": null,
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "seasonalAvailability": "All Year",
+    "mannequinPiece": false,
+    "sortOrder": 1,
+    "type": "AccessoryOneEye",
+    "villagerEquippable": true,
+    "catalog": "Not for sale",
+    "filename": "AccessoryGlassPiratespatch0",
+    "internalId": 12662,
+    "uniqueEntryId": "pm3izhYzmdHRwnoWR",
+    "variantTranslations": null,
+    "translations": {
+      "sourceSheet": "Accessories",
+      "id": 1225,
+      "version": "1.3.0",
+      "english": "pirate eye patch",
+      "englishEurope": "pirate eye patch",
+      "german": "Piratenaugenklappe",
+      "spanish": "parche pirata",
+      "spanishUs": "parche pirata",
+      "french": "cache-œil de pirate",
+      "frenchUs": "cache-œil de pirate",
+      "italian": "benda piratesca",
+      "dutch": "piratenooglapje",
+      "chinese": "海盗眼罩",
+      "chineseTraditional": "海盜眼罩",
+      "japanese": "かいぞくのアイパッチ",
+      "korean": "해적 안대",
+      "russian": "пиратская повязка",
+      "plural": false,
+      "internalIds": [ 12662 ]
+    },
+    "colors": [ "Black", "Gray" ],
+    "styles": [ "Cool" ],
+    "sources": [ "Gullivarrr" ],
+    "themes": [
+      "fairy tale",
+      "goth",
       "theatrical"
     ],
     "recipe": null
@@ -1371,23 +1319,12 @@
       "korean": "가죽 마스크",
       "russian": "маска из кожзама",
       "plural": false,
-      "internalIds": [
-        6040
-      ]
+      "internalIds": [ 6040 ]
     },
-    "colors": [
-      "Black",
-      "Gray"
-    ],
-    "styles": [
-      "Cool"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "goth"
-    ],
+    "colors": [ "Black", "Gray" ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "goth" ],
     "recipe": null
   },
   {
@@ -1434,23 +1371,12 @@
       "korean": "안대",
       "russian": "глазной пластырь",
       "plural": false,
-      "internalIds": [
-        4452
-      ]
+      "internalIds": [ 4452 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "goth"
-    ],
+    "colors": [ "White", "White" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "goth" ],
     "recipe": null
   },
   {
@@ -1497,25 +1423,12 @@
       "korean": "블랙 마스크",
       "russian": "маска анонимности",
       "plural": false,
-      "internalIds": [
-        4671
-      ]
+      "internalIds": [ 4671 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "styles": [
-      "Cool"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "everyday",
-      "goth",
-      "comfy"
-    ],
+    "colors": [ "Black", "Black" ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "everyday", "goth", "comfy" ],
     "recipe": null
   },
   {
@@ -1562,23 +1475,12 @@
       "korean": "반사경",
       "russian": "лобный рефлектор",
       "plural": false,
-      "internalIds": [
-        6039
-      ]
+      "internalIds": [ 6039 ]
     },
-    "colors": [
-      "Gray",
-      "Black"
-    ],
-    "styles": [
-      "Cool"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "work"
-    ],
+    "colors": [ "Gray", "Black" ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "work" ],
     "recipe": null
   },
   {
@@ -1625,20 +1527,11 @@
       "korean": "둥근 수염",
       "russian": "борода «Короб»",
       "plural": false,
-      "internalIds": [
-        4679
-      ]
+      "internalIds": [ 4679 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "styles": [
-      "Cool"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
     "themes": [
       "everyday",
       "comfy",
@@ -1690,23 +1583,12 @@
       "korean": "금이 간 안경",
       "russian": "очки с трещинами",
       "plural": false,
-      "internalIds": [
-        4337
-      ]
+      "internalIds": [ 4337 ]
     },
-    "colors": [
-      "Black",
-      "Light blue"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Recycle bin"
-    ],
-    "themes": [
-      "goth"
-    ],
+    "colors": [ "Black", "Light blue" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Recycle bin" ],
+    "themes": [ "goth" ],
     "recipe": null
   },
   {
@@ -1753,23 +1635,12 @@
       "korean": "밥풀",
       "russian": "зернышки риса",
       "plural": false,
-      "internalIds": [
-        4652
-      ]
+      "internalIds": [ 4652 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "styles": [
-      "Simple"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
-    "themes": [
-      "comfy"
-    ],
+    "colors": [ "White", "White" ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy" ],
     "recipe": null
   },
   {
@@ -1816,20 +1687,11 @@
       "korean": "히어로 마스크",
       "russian": "маска супергероя",
       "plural": false,
-      "internalIds": [
-        4684
-      ]
+      "internalIds": [ 4684 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "styles": [
-      "Cool"
-    ],
-    "sources": [
-      "Able Sisters"
-    ],
+    "colors": [ "Black", "Black" ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
     "themes": [
       "fairy tale",
       "theatrical",
@@ -1868,10 +1730,7 @@
       "korean": "3D안경",
       "russian": "3D-очки",
       "plural": false,
-      "internalIds": [
-        4463,
-        11020
-      ]
+      "internalIds": [ 4463, 11020 ]
     },
     "variations": [
       {
@@ -1888,19 +1747,7 @@
         "internalId": 4463,
         "uniqueEntryId": "FNxEraBTeWRiCvtFu",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Colorful"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party"
-        ]
+        "colors": [ "White", "Colorful" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThreed1.png",
@@ -1916,21 +1763,12 @@
         "internalId": 11020,
         "uniqueEntryId": "mM9SXPCcGPfPJAmtm",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Colorful"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party"
-        ]
+        "colors": [ "Black", "Colorful" ]
       }
     ],
+    "styles": [ "Active" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "party" ],
     "recipe": null
   },
   {
@@ -1964,12 +1802,7 @@
       "korean": "생일 선글라스",
       "russian": "именинные очки",
       "plural": false,
-      "internalIds": [
-        11218,
-        11217,
-        4510,
-        11219
-      ]
+      "internalIds": [ 11218, 11217, 4510, 11219 ]
     },
     "variations": [
       {
@@ -1986,19 +1819,7 @@
         "internalId": 11218,
         "uniqueEntryId": "ojXoAAj8Bs2XgRiWB",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Pink"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Birthday"
-        ],
-        "themes": [
-          "party"
-        ]
+        "colors": [ "Red", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBirthday1.png",
@@ -2014,19 +1835,7 @@
         "internalId": 11217,
         "uniqueEntryId": "g3MPcmAKM4z5h8KYX",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Pink"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Birthday"
-        ],
-        "themes": [
-          "party"
-        ]
+        "colors": [ "Pink", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBirthday0.png",
@@ -2042,19 +1851,7 @@
         "internalId": 4510,
         "uniqueEntryId": "S6CiB9ZvzBTMhEnDz",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Red"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Birthday"
-        ],
-        "themes": [
-          "party"
-        ]
+        "colors": [ "Yellow", "Red" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBirthday3.png",
@@ -2070,21 +1867,12 @@
         "internalId": 11219,
         "uniqueEntryId": "Yr9mRJaZM44554oTS",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Green"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Birthday"
-        ],
-        "themes": [
-          "party"
-        ]
+        "colors": [ "Light blue", "Green" ]
       }
     ],
+    "styles": [ "Gorgeous" ],
+    "sources": [ "Birthday" ],
+    "themes": [ "party" ],
     "recipe": null
   },
   {
@@ -2143,21 +1931,7 @@
         "internalId": 11086,
         "uniqueEntryId": "eT6KLntq43nCGFvB9",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "comfy",
-          "work"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose0.png",
@@ -2173,21 +1947,7 @@
         "internalId": 4597,
         "uniqueEntryId": "ZHqtvcoqqDpJLf9Pc",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Red"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "comfy",
-          "work"
-        ]
+        "colors": [ "Red", "Red" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose5.png",
@@ -2203,21 +1963,7 @@
         "internalId": 11085,
         "uniqueEntryId": "zpzD4NjApEyazKyKt",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Pink"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "comfy",
-          "work"
-        ]
+        "colors": [ "Pink", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose4.png",
@@ -2233,21 +1979,7 @@
         "internalId": 11084,
         "uniqueEntryId": "w7bEbAGSQTvur6D6f",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Yellow"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "comfy",
-          "work"
-        ]
+        "colors": [ "Yellow", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose2.png",
@@ -2263,21 +1995,7 @@
         "internalId": 11082,
         "uniqueEntryId": "EtxJZDCgnqjWkETqK",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Green"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "comfy",
-          "work"
-        ]
+        "colors": [ "Green", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose3.png",
@@ -2293,21 +2011,7 @@
         "internalId": 11083,
         "uniqueEntryId": "LEbiXtkHoiEMEtjWK",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Blue"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "comfy",
-          "work"
-        ]
+        "colors": [ "Blue", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose1.png",
@@ -2323,23 +2027,12 @@
         "internalId": 11081,
         "uniqueEntryId": "akRhFD3qeJEPM7WiD",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Purple"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "comfy",
-          "work"
-        ]
+        "colors": [ "Purple", "Purple" ]
       }
     ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "everyday", "comfy", "work" ],
     "recipe": null
   },
   {
@@ -2373,12 +2066,7 @@
       "korean": "하금테 안경",
       "russian": "броулайнеры",
       "plural": false,
-      "internalIds": [
-        11071,
-        4238,
-        11070,
-        11069
-      ]
+      "internalIds": [ 11071, 4238, 11070, 11069 ]
     },
     "variations": [
       {
@@ -2395,20 +2083,7 @@
         "internalId": 11071,
         "uniqueEntryId": "R9rDoMEzPcBw75hLE",
         "variantTranslations": null,
-        "colors": [
-          "Gray",
-          "Yellow"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Gray", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmont0.png",
@@ -2424,20 +2099,7 @@
         "internalId": 4238,
         "uniqueEntryId": "gHxascFKEJNrLCtD9",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Yellow"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Black", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmont2.png",
@@ -2453,20 +2115,7 @@
         "internalId": 11070,
         "uniqueEntryId": "f6h8aqEufzizYBWiH",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Gray"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Green", "Gray" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmont1.png",
@@ -2482,22 +2131,12 @@
         "internalId": 11069,
         "uniqueEntryId": "9iqmzMJiAeQMBN3pk",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Yellow"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Brown", "Yellow" ]
       }
     ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "everyday", "formal" ],
     "recipe": null
   },
   {
@@ -2554,19 +2193,7 @@
         "internalId": 11030,
         "uniqueEntryId": "r9N2a2TYhvXBKiihn",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "White"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "White", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBubblegum0.png",
@@ -2582,19 +2209,7 @@
         "internalId": 5738,
         "uniqueEntryId": "4SLmXuCkS4eBjPbLn",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Pink"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Pink", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBubblegum2.png",
@@ -2610,19 +2225,7 @@
         "internalId": 11028,
         "uniqueEntryId": "79zoWzHvMBJYcwuAy",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Yellow"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Yellow", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBubblegum3.png",
@@ -2638,19 +2241,7 @@
         "internalId": 11029,
         "uniqueEntryId": "F3PoMop5MGyaxtKjZ",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Green"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Green", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBubblegum1.png",
@@ -2666,21 +2257,12 @@
         "internalId": 11027,
         "uniqueEntryId": "9wWYKTtMdo9pWqfsM",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Light blue"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Light blue", "Light blue" ]
       }
     ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy" ],
     "recipe": null
   },
   {
@@ -2714,11 +2296,7 @@
       "korean": "토끼 코",
       "russian": "мордочка зайки",
       "plural": false,
-      "internalIds": [
-        11024,
-        4600,
-        11023
-      ]
+      "internalIds": [ 11024, 4600, 11023 ]
     },
     "variations": [
       {
@@ -2735,21 +2313,7 @@
         "internalId": 11024,
         "uniqueEntryId": "ci8RKqDmqS5wD3W5k",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Red"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "White", "Red" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthRabbit0.png",
@@ -2765,21 +2329,7 @@
         "internalId": 4600,
         "uniqueEntryId": "bxWYgcp2YKCdKe8Cr",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Pink"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Pink", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthRabbit1.png",
@@ -2795,22 +2345,15 @@
         "internalId": 11023,
         "uniqueEntryId": "y6Dp62aNQn5ixvkwf",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Orange"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Yellow", "Orange" ]
       }
+    ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [
+      "fairy tale",
+      "party",
+      "theatrical"
     ],
     "recipe": null
   },
@@ -2845,11 +2388,7 @@
       "korean": "나비 선글라스",
       "russian": "очки-бабочки",
       "plural": false,
-      "internalIds": [
-        4608,
-        11503,
-        11504
-      ]
+      "internalIds": [ 4608, 11503, 11504 ]
     },
     "variations": [
       {
@@ -2866,19 +2405,7 @@
         "internalId": 4608,
         "uniqueEntryId": "WjbaLp9JbBGYRrb6K",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Blue"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy"
-        ]
+        "colors": [ "Black", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassButterfly1.png",
@@ -2894,19 +2421,7 @@
         "internalId": 11503,
         "uniqueEntryId": "AZrrNvHghPTHobKL4",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Brown"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy"
-        ]
+        "colors": [ "Red", "Brown" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassButterfly2.png",
@@ -2922,21 +2437,12 @@
         "internalId": 11504,
         "uniqueEntryId": "rz3Pgs5XGNiQFa3t4",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Brown"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy"
-        ]
+        "colors": [ "Brown", "Brown" ]
       }
     ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "outdoorsy" ],
     "recipe": null
   },
   {
@@ -2970,11 +2476,7 @@
       "korean": "슈가스컬 가면",
       "russian": "маска «Сахарный череп»",
       "plural": false,
-      "internalIds": [
-        11169,
-        11170,
-        5666
-      ]
+      "internalIds": [ 11169, 11170, 5666 ]
     },
     "variations": [
       {
@@ -2991,21 +2493,7 @@
         "internalId": 11169,
         "uniqueEntryId": "xyQdqFuAkXkNs9qQ5",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Orange"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Gulliver"
-        ],
-        "themes": [
-          "formal",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "White", "Orange" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthCatrina2.png",
@@ -3021,21 +2509,7 @@
         "internalId": 11170,
         "uniqueEntryId": "fev4af8sNdggceyW9",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Light blue"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Gulliver"
-        ],
-        "themes": [
-          "formal",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "White", "Light blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthCatrina0.png",
@@ -3051,22 +2525,15 @@
         "internalId": 5666,
         "uniqueEntryId": "GT3LzQZKg29riohcP",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Purple"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Gulliver"
-        ],
-        "themes": [
-          "formal",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "White", "Purple" ]
       }
+    ],
+    "styles": [ "Gorgeous" ],
+    "sources": [ "Gulliver" ],
+    "themes": [
+      "formal",
+      "party",
+      "theatrical"
     ],
     "recipe": null
   },
@@ -3101,11 +2568,7 @@
       "korean": "고양이 코",
       "russian": "кошачья мордочка",
       "plural": false,
-      "internalIds": [
-        4483,
-        11022,
-        11021
-      ]
+      "internalIds": [ 4483, 11022, 11021 ]
     },
     "variations": [
       {
@@ -3122,21 +2585,7 @@
         "internalId": 4483,
         "uniqueEntryId": "45Muns9ig4dqrsFF7",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Pink"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "White", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthCat2.png",
@@ -3152,21 +2601,7 @@
         "internalId": 11022,
         "uniqueEntryId": "ywdWXRcwKJNMMxDyj",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Blue", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthCat1.png",
@@ -3182,22 +2617,15 @@
         "internalId": 11021,
         "uniqueEntryId": "CXDCEFzBdv8DwkCyM",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Beige"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Brown", "Beige" ]
       }
+    ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [
+      "fairy tale",
+      "party",
+      "theatrical"
     ],
     "recipe": null
   },
@@ -3256,20 +2684,7 @@
         "internalId": 11499,
         "uniqueEntryId": "AKakpCweRnd5hAsRB",
         "variantTranslations": null,
-        "colors": [
-          "Gray",
-          "Black"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Gray", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber1.png",
@@ -3285,20 +2700,7 @@
         "internalId": 11498,
         "uniqueEntryId": "67BAc4y8aADafp9Xk",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber0.png",
@@ -3314,20 +2716,7 @@
         "internalId": 4552,
         "uniqueEntryId": "3YPuxxPLkzwwNQMQd",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Black"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Red", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber5.png",
@@ -3343,20 +2732,7 @@
         "internalId": 11502,
         "uniqueEntryId": "5pk9ZMDGsEzLqp24L",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Black"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Yellow", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber4.png",
@@ -3372,20 +2748,7 @@
         "internalId": 11501,
         "uniqueEntryId": "9izTCDGHSpqWrQp6T",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Black"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Green", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber3.png",
@@ -3401,22 +2764,12 @@
         "internalId": 11500,
         "uniqueEntryId": "y2svNHScnr8cNZe86",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Black"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Purple", "Black" ]
       }
     ],
+    "styles": [ "Active" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -3450,11 +2803,7 @@
       "korean": "강아지 코",
       "russian": "собачья мордочка",
       "plural": false,
-      "internalIds": [
-        5244,
-        11026,
-        11025
-      ]
+      "internalIds": [ 5244, 11026, 11025 ]
     },
     "variations": [
       {
@@ -3471,21 +2820,7 @@
         "internalId": 5244,
         "uniqueEntryId": "moGRcnkQihHbN89Kc",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "White", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthDog2.png",
@@ -3501,21 +2836,7 @@
         "internalId": 11026,
         "uniqueEntryId": "9JGbmWtDA3rmjf8Kc",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthDog1.png",
@@ -3531,22 +2852,15 @@
         "internalId": 11025,
         "uniqueEntryId": "zCQqXy8HLE7rDfrQf",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Orange", "Black" ]
       }
+    ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [
+      "fairy tale",
+      "party",
+      "theatrical"
     ],
     "recipe": null
   },
@@ -3581,12 +2895,7 @@
       "korean": "더블 브리지 안경",
       "russian": "очки с двойным мостом",
       "plural": false,
-      "internalIds": [
-        11077,
-        4263,
-        11078,
-        11076
-      ]
+      "internalIds": [ 11077, 4263, 11078, 11076 ]
     },
     "variations": [
       {
@@ -3603,21 +2912,7 @@
         "internalId": 11077,
         "uniqueEntryId": "CLPEzZqr3vut85Ja4",
         "variantTranslations": null,
-        "colors": [
-          "Gray",
-          "Gray"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Gray", "Gray" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDoublebridge0.png",
@@ -3633,21 +2928,7 @@
         "internalId": 4263,
         "uniqueEntryId": "8QCnzjXY8KEyqf7Wa",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Yellow"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Yellow", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDoublebridge3.png",
@@ -3663,21 +2944,7 @@
         "internalId": 11078,
         "uniqueEntryId": "fD5pteAQtC8CMhq2v",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Blue"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Blue", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDoublebridge1.png",
@@ -3693,23 +2960,12 @@
         "internalId": 11076,
         "uniqueEntryId": "guPGRuhMyqdWYKh8d",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Purple"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Purple", "Purple" ]
       }
     ],
+    "styles": [ "Elegant" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy", "vacation", "work" ],
     "recipe": null
   },
   {
@@ -3743,12 +2999,7 @@
       "korean": "빨대 안경",
       "russian": "очки из трубочки",
       "plural": false,
-      "internalIds": [
-        11012,
-        11011,
-        5773,
-        11010
-      ]
+      "internalIds": [ 11012, 11011, 5773, 11010 ]
     },
     "variations": [
       {
@@ -3765,21 +3016,7 @@
         "internalId": 11012,
         "uniqueEntryId": "bQ67Xe7cQZ4PcXnNe",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "White"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "White", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthStraw2.png",
@@ -3795,21 +3032,7 @@
         "internalId": 11011,
         "uniqueEntryId": "b4G7SFYMTs5YWJ4i5",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Pink"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Pink", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthStraw0.png",
@@ -3825,21 +3048,7 @@
         "internalId": 5773,
         "uniqueEntryId": "hMiEGoaE2jYb6kY4e",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Green"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Green", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthStraw1.png",
@@ -3855,23 +3064,12 @@
         "internalId": 11010,
         "uniqueEntryId": "DNij9RhiMW39MtKWF",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Light blue"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Light blue", "Light blue" ]
       }
     ],
+    "styles": [ "Active" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy", "vacation", "work" ],
     "recipe": null
   },
   {
@@ -3929,19 +3127,7 @@
         "internalId": 11155,
         "uniqueEntryId": "FFAmL82w7xmtQyj49",
         "variantTranslations": null,
-        "colors": [
-          "Gray",
-          "Black"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Gray", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask5.png",
@@ -3957,19 +3143,7 @@
         "internalId": 11158,
         "uniqueEntryId": "DN9e9e3kPAvftJL7X",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Black"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Red", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask1.png",
@@ -3985,19 +3159,7 @@
         "internalId": 11154,
         "uniqueEntryId": "Ck7jeovxpJEQa9BXB",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Black"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Pink", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask4.png",
@@ -4013,19 +3175,7 @@
         "internalId": 11157,
         "uniqueEntryId": "Gy2FEnpkD9KrRshtd",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "Black"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Orange", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask3.png",
@@ -4041,19 +3191,7 @@
         "internalId": 11156,
         "uniqueEntryId": "csWKsYtw2k9ADBQpT",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Black"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Green", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask0.png",
@@ -4069,21 +3207,12 @@
         "internalId": 4425,
         "uniqueEntryId": "68oXMszxbRtGoe9tH",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Black"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Blue", "Black" ]
       }
     ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy" ],
     "recipe": null
   },
   {
@@ -4140,20 +3269,7 @@
         "internalId": 5739,
         "uniqueEntryId": "iJsQqLTdb4gcPwekJ",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Red", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassFlower1.png",
@@ -4169,20 +3285,7 @@
         "internalId": 11228,
         "uniqueEntryId": "6TygyrRpgFEJRtYAD",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Orange", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassFlower4.png",
@@ -4198,20 +3301,7 @@
         "internalId": 11231,
         "uniqueEntryId": "vnNLfafLRpv9vrESq",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Green", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassFlower2.png",
@@ -4227,20 +3317,7 @@
         "internalId": 11229,
         "uniqueEntryId": "g4jdQJuTAwEgGWsyH",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Blue", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassFlower3.png",
@@ -4256,22 +3333,12 @@
         "internalId": 11230,
         "uniqueEntryId": "hN8mRmSqAqfBBXqsK",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Purple", "Black" ]
       }
     ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "party", "vacation" ],
     "recipe": null
   },
   {
@@ -4305,11 +3372,7 @@
       "korean": "코믹한 안경",
       "russian": "забавные очки",
       "plural": false,
-      "internalIds": [
-        11008,
-        11009,
-        4513
-      ]
+      "internalIds": [ 11008, 11009, 4513 ]
     },
     "variations": [
       {
@@ -4326,21 +3389,7 @@
         "internalId": 11008,
         "uniqueEntryId": "4ASpkj55QiocnNkZ2",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Pink", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassEyes2.png",
@@ -4356,21 +3405,7 @@
         "internalId": 11009,
         "uniqueEntryId": "dio9gmQCebNSjSX89",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Light blue", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassEyes0.png",
@@ -4386,22 +3421,15 @@
         "internalId": 4513,
         "uniqueEntryId": "nvgwq4bKZzDoiTQzw",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Brown", "Black" ]
       }
+    ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [
+      "fairy tale",
+      "party",
+      "theatrical"
     ],
     "recipe": null
   },
@@ -4436,10 +3464,7 @@
       "korean": "가스 마스크",
       "russian": "противогаз",
       "plural": false,
-      "internalIds": [
-        4649,
-        11160
-      ]
+      "internalIds": [ 4649, 11160 ]
     },
     "variations": [
       {
@@ -4456,20 +3481,7 @@
         "internalId": 4649,
         "uniqueEntryId": "cuqWQPfsbkmXz5DuB",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "goth",
-          "work"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthGasmask1.png",
@@ -4485,22 +3497,12 @@
         "internalId": 11160,
         "uniqueEntryId": "9K9ea2sRHMsPmcX6d",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Green"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "goth",
-          "work"
-        ]
+        "colors": [ "Green", "Green" ]
       }
     ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "goth", "work" ],
     "recipe": null
   },
   {
@@ -4558,21 +3560,7 @@
         "internalId": 4454,
         "uniqueEntryId": "3YkDq5TZm3jE8nBL9",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty",
-          "vacation"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles5.png",
@@ -4588,21 +3576,7 @@
         "internalId": 11488,
         "uniqueEntryId": "P8X4Rnuc6WjHTrbkz",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Red"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty",
-          "vacation"
-        ]
+        "colors": [ "Red", "Red" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles2.png",
@@ -4618,21 +3592,7 @@
         "internalId": 11485,
         "uniqueEntryId": "49s9b7jcrE8uaFEdR",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Pink"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty",
-          "vacation"
-        ]
+        "colors": [ "Pink", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles3.png",
@@ -4648,21 +3608,7 @@
         "internalId": 11486,
         "uniqueEntryId": "sDjZobRoupcETEKeH",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Green"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty",
-          "vacation"
-        ]
+        "colors": [ "Green", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles1.png",
@@ -4678,21 +3624,7 @@
         "internalId": 11484,
         "uniqueEntryId": "gozwdhewwK4PmPGFQ",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Blue"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty",
-          "vacation"
-        ]
+        "colors": [ "Blue", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles4.png",
@@ -4708,22 +3640,15 @@
         "internalId": 11487,
         "uniqueEntryId": "kwS6ErrZHdDNXpmbR",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Purple"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty",
-          "vacation"
-        ]
+        "colors": [ "Purple", "Purple" ]
       }
+    ],
+    "styles": [ "Active" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [
+      "outdoorsy",
+      "sporty",
+      "vacation"
     ],
     "recipe": null
   },
@@ -4781,20 +3706,7 @@
         "internalId": 4237,
         "uniqueEntryId": "ZkwfoAxXwqiJav677",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Blue"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Pink", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart1.png",
@@ -4810,20 +3722,7 @@
         "internalId": 11188,
         "uniqueEntryId": "jvPC7gmEHvxxgmwfA",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Blue"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Yellow", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart4.png",
@@ -4839,20 +3738,7 @@
         "internalId": 11191,
         "uniqueEntryId": "CbiyKw9gGsMfYzA4g",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Blue"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Green", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart2.png",
@@ -4868,20 +3754,7 @@
         "internalId": 11189,
         "uniqueEntryId": "k2fF9yEC5S3XGsXhX",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Blue"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Light blue", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart3.png",
@@ -4897,22 +3770,12 @@
         "internalId": 11190,
         "uniqueEntryId": "3fs7r8mBn9EiGmMT7",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Blue"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Purple", "Blue" ]
       }
     ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "party", "vacation" ],
     "recipe": null
   },
   {
@@ -4946,12 +3809,7 @@
       "korean": "피에로 가면",
       "russian": "маска шута",
       "plural": false,
-      "internalIds": [
-        4678,
-        11166,
-        11167,
-        11168
-      ]
+      "internalIds": [ 4678, 11166, 11167, 11168 ]
     },
     "variations": [
       {
@@ -4968,23 +3826,7 @@
         "internalId": 4678,
         "uniqueEntryId": "5iGdajwpPAQ98B9eE",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "White"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "goth",
-          "party",
-          "theatrical",
-          "work"
-        ]
+        "colors": [ "Black", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthPierrot1.png",
@@ -5000,23 +3842,7 @@
         "internalId": 11166,
         "uniqueEntryId": "7HBtvdHttSMJiuA7W",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "White"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "goth",
-          "party",
-          "theatrical",
-          "work"
-        ]
+        "colors": [ "Red", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthPierrot2.png",
@@ -5032,23 +3858,7 @@
         "internalId": 11167,
         "uniqueEntryId": "LTCnc3SoDzsffayDr",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "White"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "goth",
-          "party",
-          "theatrical",
-          "work"
-        ]
+        "colors": [ "Green", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthPierrot3.png",
@@ -5064,24 +3874,17 @@
         "internalId": 11168,
         "uniqueEntryId": "Kpyk7xszcwxgdawqA",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "White"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "goth",
-          "party",
-          "theatrical",
-          "work"
-        ]
+        "colors": [ "Blue", "White" ]
       }
+    ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [
+      "fairy tale",
+      "goth",
+      "party",
+      "theatrical",
+      "work"
     ],
     "recipe": null
   },
@@ -5140,23 +3943,7 @@
         "internalId": 11776,
         "uniqueEntryId": "Pk4syNKBscFTBD2mP",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Labelle"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "party",
-          "theatrical",
-          "vacation"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate2.png",
@@ -5172,23 +3959,7 @@
         "internalId": 11777,
         "uniqueEntryId": "TJqYcpQKFaPX6naSj",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Red"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Labelle"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "party",
-          "theatrical",
-          "vacation"
-        ]
+        "colors": [ "Red", "Red" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate5.png",
@@ -5204,23 +3975,7 @@
         "internalId": 11780,
         "uniqueEntryId": "WHaB5ZbzSPteM5KxG",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Pink"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Labelle"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "party",
-          "theatrical",
-          "vacation"
-        ]
+        "colors": [ "Pink", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate4.png",
@@ -5236,23 +3991,7 @@
         "internalId": 11779,
         "uniqueEntryId": "Km6htuKWbDhQx5v2o",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Yellow"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Labelle"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "party",
-          "theatrical",
-          "vacation"
-        ]
+        "colors": [ "Yellow", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate3.png",
@@ -5268,23 +4007,7 @@
         "internalId": 11778,
         "uniqueEntryId": "yWuQ9CtGKLaG7ntW9",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Blue"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Labelle"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "party",
-          "theatrical",
-          "vacation"
-        ]
+        "colors": [ "Blue", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate0.png",
@@ -5300,24 +4023,17 @@
         "internalId": 9887,
         "uniqueEntryId": "2B4ttG2NJS7ZKRimP",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Purple"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Labelle"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "party",
-          "theatrical",
-          "vacation"
-        ]
+        "colors": [ "Purple", "Purple" ]
       }
+    ],
+    "styles": [ "Gorgeous" ],
+    "sources": [ "Labelle" ],
+    "themes": [
+      "everyday",
+      "formal",
+      "party",
+      "theatrical",
+      "vacation"
     ],
     "recipe": null
   },
@@ -5376,20 +4092,7 @@
         "internalId": 4464,
         "uniqueEntryId": "DErjYKaqmFEkp7RQ3",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Red"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Red", "Red" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind3.png",
@@ -5405,20 +4108,7 @@
         "internalId": 11004,
         "uniqueEntryId": "8wvE7HfG9HvK33nTW",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Pink"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Pink", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind4.png",
@@ -5434,20 +4124,7 @@
         "internalId": 11005,
         "uniqueEntryId": "mcex6oPn8f8KotnrZ",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Yellow"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Yellow", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind2.png",
@@ -5463,20 +4140,7 @@
         "internalId": 11003,
         "uniqueEntryId": "wnvu2B7z7M975uCMf",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Green"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Green", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind1.png",
@@ -5492,20 +4156,7 @@
         "internalId": 11002,
         "uniqueEntryId": "kbZR8T9YaP2Pb7q6P",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Blue"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Blue", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind5.png",
@@ -5521,22 +4172,12 @@
         "internalId": 11006,
         "uniqueEntryId": "SF89YKrjwGsa5Dp7t",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Brown"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Brown", "Brown" ]
       }
     ],
+    "styles": [ "Active" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -5594,21 +4235,7 @@
         "internalId": 11161,
         "uniqueEntryId": "GL9igRSB2nTebNAin",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Yellow"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Black", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian3.png",
@@ -5624,21 +4251,7 @@
         "internalId": 11163,
         "uniqueEntryId": "DknNtTo9sb2jZHDht",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Yellow"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Red", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian0.png",
@@ -5654,21 +4267,7 @@
         "internalId": 4667,
         "uniqueEntryId": "vwytnsJLdnFYZdeHR",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Yellow"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Pink", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian5.png",
@@ -5684,21 +4283,7 @@
         "internalId": 11165,
         "uniqueEntryId": "nzAimcCqJg46jjNiN",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "Yellow"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Orange", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian4.png",
@@ -5714,21 +4299,7 @@
         "internalId": 11164,
         "uniqueEntryId": "PEA7Y7djsLQryh4c2",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Yellow"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Green", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian2.png",
@@ -5744,22 +4315,15 @@
         "internalId": 11162,
         "uniqueEntryId": "6yKLSWNnpyXAPKJ4h",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Yellow"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Blue", "Yellow" ]
       }
+    ],
+    "styles": [ "Gorgeous" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [
+      "fairy tale",
+      "party",
+      "theatrical"
     ],
     "recipe": null
   },
@@ -5794,11 +4358,7 @@
       "korean": "모노클",
       "russian": "монокль",
       "plural": false,
-      "internalIds": [
-        11001,
-        4462,
-        11000
-      ]
+      "internalIds": [ 11001, 4462, 11000 ]
     },
     "variations": [
       {
@@ -5815,21 +4375,7 @@
         "internalId": 11001,
         "uniqueEntryId": "tXaLxYbQPqcTZWxej",
         "variantTranslations": null,
-        "colors": [
-          "Gray",
-          "Gray"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Gray", "Gray" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMonocle0.png",
@@ -5845,21 +4391,7 @@
         "internalId": 4462,
         "uniqueEntryId": "vtCepd9DjYS2H5vcb",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMonocle1.png",
@@ -5875,23 +4407,12 @@
         "internalId": 11000,
         "uniqueEntryId": "ghxLRorCD3NWR5h5x",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Yellow"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Yellow", "Yellow" ]
       }
     ],
+    "styles": [ "Elegant" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "fairy tale", "formal", "work" ],
     "recipe": null
   },
   {
@@ -5948,21 +4469,7 @@
         "internalId": 4239,
         "uniqueEntryId": "dzKG7sMGwFn7EaKjm",
         "variantTranslations": null,
-        "colors": [
-          "Gray",
-          "Gray"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Gray", "Gray" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOctagon4.png",
@@ -5978,21 +4485,7 @@
         "internalId": 11075,
         "uniqueEntryId": "4FT4YuTQcq3RGo3Ss",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOctagon1.png",
@@ -6008,21 +4501,7 @@
         "internalId": 11072,
         "uniqueEntryId": "NME2CQfz2tMbnwLzb",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Green"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Green", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOctagon2.png",
@@ -6038,21 +4517,7 @@
         "internalId": 11073,
         "uniqueEntryId": "Je9RNoLocnJ5kinNQ",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Purple"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Purple", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOctagon3.png",
@@ -6068,23 +4533,12 @@
         "internalId": 11074,
         "uniqueEntryId": "t5MJmR6fbqXwevjus",
         "variantTranslations": null,
-        "colors": [
-          "Beige",
-          "Beige"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy",
-          "vacation",
-          "work"
-        ]
+        "colors": [ "Beige", "Beige" ]
       }
     ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy", "vacation", "work" ],
     "recipe": null
   },
   {
@@ -6143,20 +4597,7 @@
         "internalId": 11092,
         "uniqueEntryId": "uuttmaKAruqm7tiKL",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "work"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval4.png",
@@ -6172,20 +4613,7 @@
         "internalId": 11090,
         "uniqueEntryId": "QBNkZLi9jpeDYMxnQ",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Red"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "work"
-        ]
+        "colors": [ "Red", "Red" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval1.png",
@@ -6201,20 +4629,7 @@
         "internalId": 11087,
         "uniqueEntryId": "9AXkAraeTz6TgR6sJ",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "Orange"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "work"
-        ]
+        "colors": [ "Orange", "Orange" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval5.png",
@@ -6230,20 +4645,7 @@
         "internalId": 11091,
         "uniqueEntryId": "uocqzyhP5WHmnH8dj",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Yellow"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "work"
-        ]
+        "colors": [ "Yellow", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval0.png",
@@ -6259,20 +4661,7 @@
         "internalId": 4609,
         "uniqueEntryId": "jw7KgW9epPat5Pw8W",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Green"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "work"
-        ]
+        "colors": [ "Green", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval2.png",
@@ -6288,20 +4677,7 @@
         "internalId": 11088,
         "uniqueEntryId": "ydCsvEetGaAQ4mNs2",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Light blue"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "work"
-        ]
+        "colors": [ "Light blue", "Light blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval3.png",
@@ -6317,22 +4693,12 @@
         "internalId": 11089,
         "uniqueEntryId": "9ZhHgTmKeqZ7fgcNr",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Purple"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "work"
-        ]
+        "colors": [ "Purple", "Purple" ]
       }
     ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "everyday", "work" ],
     "recipe": null
   },
   {
@@ -6392,19 +4758,7 @@
         "internalId": 11017,
         "uniqueEntryId": "aWcYia7rWZ8nhXg37",
         "variantTranslations": null,
-        "colors": [
-          "Gray",
-          "Gray"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Gray", "Gray" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier4.png",
@@ -6420,19 +4774,7 @@
         "internalId": 11016,
         "uniqueEntryId": "iAyukzDt8Kutfpmab",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Red"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Red", "Red" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier0.png",
@@ -6448,19 +4790,7 @@
         "internalId": 2298,
         "uniqueEntryId": "bK8fXPaAy9f3Nqx9Q",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Pink"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Pink", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier7.png",
@@ -6476,19 +4806,7 @@
         "internalId": 11019,
         "uniqueEntryId": "WZgrieHNMrjuw9Tah",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "Orange"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Orange", "Orange" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier2.png",
@@ -6504,19 +4822,7 @@
         "internalId": 11014,
         "uniqueEntryId": "iH9JsLkZTan5CQgTt",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Yellow"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Yellow", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier3.png",
@@ -6532,19 +4838,7 @@
         "internalId": 11015,
         "uniqueEntryId": "XRyQwLEtt9RwgvtST",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Green"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Green", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier1.png",
@@ -6560,19 +4854,7 @@
         "internalId": 11013,
         "uniqueEntryId": "KMB2YJMHNzESo6Hws",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Light blue"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Light blue", "Light blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier6.png",
@@ -6588,21 +4870,12 @@
         "internalId": 11018,
         "uniqueEntryId": "ScuP52AjZHPkhCuGP",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Purple"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "comfy"
-        ]
+        "colors": [ "Purple", "Purple" ]
       }
     ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "comfy" ],
     "recipe": null
   },
   {
@@ -6636,10 +4909,7 @@
       "korean": "파일럿 선글라스",
       "russian": "авиаторы",
       "plural": false,
-      "internalIds": [
-        4459,
-        11214
-      ]
+      "internalIds": [ 4459, 11214 ]
     },
     "variations": [
       {
@@ -6656,20 +4926,7 @@
         "internalId": 4459,
         "uniqueEntryId": "wuyb75e6fkA5976yx",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Brown"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "sporty",
-          "work"
-        ]
+        "colors": [ "Black", "Brown" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassPilot1.png",
@@ -6685,22 +4942,12 @@
         "internalId": 11214,
         "uniqueEntryId": "nBHTPo8pt7eRL47PT",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "sporty",
-          "work"
-        ]
+        "colors": [ "Yellow", "Black" ]
       }
     ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "sporty", "work" ],
     "recipe": null
   },
   {
@@ -6734,12 +4981,7 @@
       "korean": "도트 선글라스",
       "russian": "пиксельные очки",
       "plural": false,
-      "internalIds": [
-        11225,
-        4646,
-        11223,
-        11224
-      ]
+      "internalIds": [ 11225, 4646, 11223, 11224 ]
     },
     "variations": [
       {
@@ -6756,20 +4998,7 @@
         "internalId": 11225,
         "uniqueEntryId": "GY4PDqrCZdcPWb4Ep",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDot0.png",
@@ -6785,20 +5014,7 @@
         "internalId": 4646,
         "uniqueEntryId": "Tp2dC3Dk4chwa4ebr",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Red", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDot1.png",
@@ -6814,20 +5030,7 @@
         "internalId": 11223,
         "uniqueEntryId": "6tFnu3DhC5HQvqmZ5",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Green", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDot2.png",
@@ -6843,22 +5046,12 @@
         "internalId": 11224,
         "uniqueEntryId": "SbAGGe9yg4EXAw35b",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Blue", "Black" ]
       }
     ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "party", "vacation" ],
     "recipe": null
   },
   {
@@ -6916,21 +5109,7 @@
         "internalId": 4456,
         "uniqueEntryId": "SFFhXhR5sYQzJwXWj",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Orange"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "White", "Orange" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro5.png",
@@ -6946,21 +5125,7 @@
         "internalId": 11213,
         "uniqueEntryId": "6oqHAyihAjKRfH72Z",
         "variantTranslations": null,
-        "colors": [
-          "Gray",
-          "Black"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Gray", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro2.png",
@@ -6976,21 +5141,7 @@
         "internalId": 11210,
         "uniqueEntryId": "zg6uY6WZNQcopNq67",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Red"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Pink", "Red" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro3.png",
@@ -7006,21 +5157,7 @@
         "internalId": 11211,
         "uniqueEntryId": "QqEG7ktLKMaXweFzg",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Purple"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Pink", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro1.png",
@@ -7036,21 +5173,7 @@
         "internalId": 11209,
         "uniqueEntryId": "zYw3PhLHsw2KZ7TBK",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Green"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Green", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro4.png",
@@ -7066,22 +5189,15 @@
         "internalId": 11212,
         "uniqueEntryId": "cJCaAmMdqrHG8uDLH",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Green"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Light blue", "Green" ]
       }
+    ],
+    "styles": [ "Elegant" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [
+      "everyday",
+      "party",
+      "vacation"
     ],
     "recipe": null
   },
@@ -7116,11 +5232,7 @@
       "korean": "라인스톤 안경",
       "russian": "очки со стразами",
       "plural": false,
-      "internalIds": [
-        4683,
-        11227,
-        11226
-      ]
+      "internalIds": [ 4683, 11227, 11226 ]
     },
     "variations": [
       {
@@ -7137,21 +5249,7 @@
         "internalId": 4683,
         "uniqueEntryId": "BJFhJqt9KuaWGaWuM",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Red"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical",
-          "vacation"
-        ]
+        "colors": [ "Red", "Red" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRhinestone2.png",
@@ -7167,21 +5265,7 @@
         "internalId": 11227,
         "uniqueEntryId": "qy2BWYZvJedPJ69yX",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Black"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical",
-          "vacation"
-        ]
+        "colors": [ "Purple", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRhinestone1.png",
@@ -7197,22 +5281,15 @@
         "internalId": 11226,
         "uniqueEntryId": "iwtSmya59DpyGFB97",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Black"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical",
-          "vacation"
-        ]
+        "colors": [ "Brown", "Black" ]
       }
+    ],
+    "styles": [ "Gorgeous" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [
+      "party",
+      "theatrical",
+      "vacation"
     ],
     "recipe": null
   },
@@ -7270,21 +5347,7 @@
         "internalId": 11185,
         "uniqueEntryId": "jA7gAHyzXHk8qBRuq",
         "variantTranslations": null,
-        "colors": [
-          "Gray",
-          "Gray"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Gray", "Gray" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCircle0.png",
@@ -7300,21 +5363,7 @@
         "internalId": 4235,
         "uniqueEntryId": "DyPvwyWQK47TL4tjW",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCircle1.png",
@@ -7330,21 +5379,7 @@
         "internalId": 11184,
         "uniqueEntryId": "xqu5YAX6AmrXR4Qmd",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Yellow"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Yellow", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCircle4.png",
@@ -7360,21 +5395,7 @@
         "internalId": 11187,
         "uniqueEntryId": "fjKzCMBMhcJNEjsTv",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Purple"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Purple", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCircle3.png",
@@ -7390,23 +5411,12 @@
         "internalId": 11186,
         "uniqueEntryId": "RpfNwdBEPoqgF5pkh",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Brown"
-        ],
-        "styles": [
-          "Elegant"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Brown", "Brown" ]
       }
     ],
+    "styles": [ "Elegant" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
   {
@@ -7466,21 +5476,7 @@
         "internalId": 11201,
         "uniqueEntryId": "z8KywWDutyXSsgXoy",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "White", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston0.png",
@@ -7496,21 +5492,7 @@
         "internalId": 4241,
         "uniqueEntryId": "SdqiPF4Fzw8HrPY4k",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston5.png",
@@ -7526,21 +5508,7 @@
         "internalId": 11200,
         "uniqueEntryId": "Z9bJ6cYkY6hC4mL4o",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Red", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston4.png",
@@ -7556,21 +5524,7 @@
         "internalId": 11199,
         "uniqueEntryId": "KFNjnL6rqYckLECFB",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Pink", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston3.png",
@@ -7586,21 +5540,7 @@
         "internalId": 11198,
         "uniqueEntryId": "BE37D4h9xHkhRwgmH",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Yellow", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston1.png",
@@ -7616,21 +5556,7 @@
         "internalId": 11196,
         "uniqueEntryId": "Mf9c5DHdko9uWo2Hu",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Green", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston2.png",
@@ -7646,21 +5572,7 @@
         "internalId": 11197,
         "uniqueEntryId": "hyhWF8rW2Y2AkXGTj",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Blue", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston7.png",
@@ -7676,22 +5588,15 @@
         "internalId": 11202,
         "uniqueEntryId": "fy6sue9jdYtpwh4Aq",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Purple", "Black" ]
       }
+    ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [
+      "everyday",
+      "party",
+      "vacation"
     ],
     "recipe": null
   },
@@ -7726,12 +5631,7 @@
       "korean": "얇은 테 둥근 선글라스",
       "russian": "тонированные очки",
       "plural": false,
-      "internalIds": [
-        4607,
-        11220,
-        11222,
-        11221
-      ]
+      "internalIds": [ 4607, 11220, 11222, 11221 ]
     },
     "variations": [
       {
@@ -7748,20 +5648,7 @@
         "internalId": 4607,
         "uniqueEntryId": "GdrT6sBLFECRG8LyN",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "Brown"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Orange", "Brown" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRound1.png",
@@ -7777,20 +5664,7 @@
         "internalId": 11220,
         "uniqueEntryId": "KqtiBXYfKejymQ4Wg",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "Brown"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Orange", "Brown" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRound3.png",
@@ -7806,20 +5680,7 @@
         "internalId": 11222,
         "uniqueEntryId": "CeX6fKZRL2XFK7jnW",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Brown"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Green", "Brown" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRound2.png",
@@ -7835,22 +5696,12 @@
         "internalId": 11221,
         "uniqueEntryId": "tfuBgNyNNSXc3o4Q2",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Brown"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Brown", "Brown" ]
       }
     ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "everyday", "formal" ],
     "recipe": null
   },
   {
@@ -7908,20 +5759,7 @@
         "internalId": 11479,
         "uniqueEntryId": "NwNqq5g2iw4DeMsBY",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Yellow"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "Pink", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski0.png",
@@ -7937,20 +5775,7 @@
         "internalId": 4453,
         "uniqueEntryId": "GWhWLPt3sExfeAG2c",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "White"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "Orange", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski2.png",
@@ -7966,20 +5791,7 @@
         "internalId": 11480,
         "uniqueEntryId": "4umKSoR2BWtW6JyFK",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Blue"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "Green", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski5.png",
@@ -7995,20 +5807,7 @@
         "internalId": 11483,
         "uniqueEntryId": "vSksuA8nCN72Tq3ji",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Orange"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "Light blue", "Orange" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski4.png",
@@ -8024,20 +5823,7 @@
         "internalId": 11482,
         "uniqueEntryId": "SydPBHGEnpRAKuCfq",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Green"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "Blue", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski3.png",
@@ -8053,21 +5839,159 @@
         "internalId": 11481,
         "uniqueEntryId": "RBByDZoTeK5b6jvXn",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Pink"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "Purple", "Pink" ]
       }
+    ],
+    "styles": [ "Active" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "outdoorsy", "sporty" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Accessories",
+    "name": "snorkel mask",
+    "diy": false,
+    "size": "1x1",
+    "milesPrice": null,
+    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "catalog": "For sale",
+    "buy": 700,
+    "sell": 175,
+    "translations": {
+      "sourceSheet": "Accessories",
+      "id": 432,
+      "version": "1.3.0",
+      "english": "snorkel mask",
+      "englishEurope": "snorkel mask",
+      "german": "Taucherbrille",
+      "spanish": "gafa de buceo",
+      "spanishUs": "gafa de buceo",
+      "french": "masque plongée",
+      "frenchUs": "masque plongée",
+      "italian": "maschera con boccaglio",
+      "dutch": "duikbril",
+      "chinese": "潜水镜附呼吸管",
+      "chineseTraditional": "潛水鏡附呼吸管",
+      "japanese": "シュノーケル",
+      "korean": "스노클",
+      "russian": "маска для ныряния",
+      "plural": false,
+      "internalIds": [
+        11497,
+        11494,
+        11495,
+        11493,
+        11496,
+        4551
+      ]
+    },
+    "variations": [
+      {
+        "closetImage": null,
+        "storageImage": null,
+        "variation": "Black",
+        "hhaBasePoints": null,
+        "seasonalAvailability": "Summer",
+        "mannequinPiece": null,
+        "sortOrder": 1,
+        "type": "AccessoryEye",
+        "villagerEquippable": false,
+        "filename": "AccessoryGlassmouthDiver5",
+        "internalId": 11497,
+        "uniqueEntryId": "jFwR59w58PSPL53K4",
+        "variantTranslations": null,
+        "colors": [ "Gray", "Black" ]
+      },
+      {
+        "closetImage": null,
+        "storageImage": null,
+        "variation": "Red",
+        "hhaBasePoints": null,
+        "seasonalAvailability": "Summer",
+        "mannequinPiece": null,
+        "sortOrder": 2,
+        "type": "AccessoryEye",
+        "villagerEquippable": false,
+        "filename": "AccessoryGlassmouthDiver2",
+        "internalId": 11494,
+        "uniqueEntryId": "ekXFtoFg8mmsbyZYp",
+        "variantTranslations": null,
+        "colors": [ "Red", "Red" ]
+      },
+      {
+        "closetImage": null,
+        "storageImage": null,
+        "variation": "Pink",
+        "hhaBasePoints": null,
+        "seasonalAvailability": "Summer",
+        "mannequinPiece": null,
+        "sortOrder": 3,
+        "type": "AccessoryEye",
+        "villagerEquippable": false,
+        "filename": "AccessoryGlassmouthDiver3",
+        "internalId": 11495,
+        "uniqueEntryId": "3oBKZL4APPZGp7KpN",
+        "variantTranslations": null,
+        "colors": [ "Pink", "Pink" ]
+      },
+      {
+        "closetImage": null,
+        "storageImage": null,
+        "variation": "Orange",
+        "hhaBasePoints": null,
+        "seasonalAvailability": "Summer",
+        "mannequinPiece": null,
+        "sortOrder": 4,
+        "type": "AccessoryEye",
+        "villagerEquippable": false,
+        "filename": "AccessoryGlassmouthDiver1",
+        "internalId": 11493,
+        "uniqueEntryId": "xHJu2dJts5RYTFw7p",
+        "variantTranslations": null,
+        "colors": [ "Yellow", "Orange" ]
+      },
+      {
+        "closetImage": null,
+        "storageImage": null,
+        "variation": "Green",
+        "hhaBasePoints": null,
+        "seasonalAvailability": "Summer",
+        "mannequinPiece": null,
+        "sortOrder": 5,
+        "type": "AccessoryEye",
+        "villagerEquippable": false,
+        "filename": "AccessoryGlassmouthDiver4",
+        "internalId": 11496,
+        "uniqueEntryId": "v9xCArJntbpz9FhSG",
+        "variantTranslations": null,
+        "colors": [ "Green", "Green" ]
+      },
+      {
+        "closetImage": null,
+        "storageImage": null,
+        "variation": "Blue",
+        "hhaBasePoints": null,
+        "seasonalAvailability": "Summer",
+        "mannequinPiece": null,
+        "sortOrder": 6,
+        "type": "AccessoryEye",
+        "villagerEquippable": false,
+        "filename": "AccessoryGlassmouthDiver0",
+        "internalId": 4551,
+        "uniqueEntryId": "rSw6wK34RyoG5cMe3",
+        "variantTranslations": null,
+        "colors": [ "Light blue", "Blue" ]
+      }
+    ],
+    "styles": [ "Active" ],
+    "sources": [ "Nintendo", "Able Sisters" ],
+    "themes": [
+      "outdoorsy",
+      "sporty",
+      "vacation",
+      "work"
     ],
     "recipe": null
   },
@@ -8125,20 +6049,7 @@
         "internalId": 11489,
         "uniqueEntryId": "CA5YASgCBpgL2PSpX",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Orange"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "White", "Orange" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports0.png",
@@ -8154,20 +6065,7 @@
         "internalId": 4458,
         "uniqueEntryId": "QkHqffg8X4eTL6PXX",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Orange"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "Black", "Orange" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports2.png",
@@ -8183,20 +6081,7 @@
         "internalId": 11490,
         "uniqueEntryId": "GgdcckY8p5Rg5NyTY",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Pink"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "Pink", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports3.png",
@@ -8212,20 +6097,7 @@
         "internalId": 11491,
         "uniqueEntryId": "uwEjreWEdYSbuxXE9",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Light blue"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "Green", "Light blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports4.png",
@@ -8241,22 +6113,12 @@
         "internalId": 11492,
         "uniqueEntryId": "THB8TWPykhsELXErr",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Blue"
-        ],
-        "styles": [
-          "Active"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "outdoorsy",
-          "sporty"
-        ]
+        "colors": [ "Light blue", "Blue" ]
       }
     ],
+    "styles": [ "Active" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -8290,12 +6152,7 @@
       "korean": "사각 안경",
       "russian": "прямоугольные очки",
       "plural": false,
-      "internalIds": [
-        11067,
-        11066,
-        11068,
-        4236
-      ]
+      "internalIds": [ 11067, 11066, 11068, 4236 ]
     },
     "variations": [
       {
@@ -8312,21 +6169,7 @@
         "internalId": 11067,
         "uniqueEntryId": "QxFwFytYcWo5acGtW",
         "variantTranslations": null,
-        "colors": [
-          "Gray",
-          "Gray"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Gray", "Gray" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSquare1.png",
@@ -8342,21 +6185,7 @@
         "internalId": 11066,
         "uniqueEntryId": "LhvFWS5ADiDiPJwai",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSquare3.png",
@@ -8372,21 +6201,7 @@
         "internalId": 11068,
         "uniqueEntryId": "CvziuqadDpoQgGK4C",
         "variantTranslations": null,
-        "colors": [
-          "Blue",
-          "Blue"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Blue", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSquare0.png",
@@ -8402,23 +6217,12 @@
         "internalId": 4236,
         "uniqueEntryId": "rAzkKijSEqXzoAZKY",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Brown"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Brown", "Brown" ]
       }
     ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
   {
@@ -8452,10 +6256,7 @@
       "korean": "수염 안경",
       "russian": "очки с усами",
       "plural": false,
-      "internalIds": [
-        4501,
-        11007
-      ]
+      "internalIds": [ 4501, 11007 ]
     },
     "variations": [
       {
@@ -8472,20 +6273,7 @@
         "internalId": 4501,
         "uniqueEntryId": "s7hDzZ3ajPpK9fnEW",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Orange"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Black", "Orange" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthBeard1.png",
@@ -8501,22 +6289,12 @@
         "internalId": 11007,
         "uniqueEntryId": "M8owND8DnAEKA9nuX",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "theatrical"
-        ]
+        "colors": [ "Red", "Black" ]
       }
     ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -8573,20 +6351,7 @@
         "internalId": 11192,
         "uniqueEntryId": "PCZAYraP9kdaqnZy7",
         "variantTranslations": null,
-        "colors": [
-          "Pink",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Pink", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar0.png",
@@ -8602,20 +6367,7 @@
         "internalId": 4240,
         "uniqueEntryId": "y4n8SisxyS7dGRWL7",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Yellow", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar4.png",
@@ -8631,20 +6383,7 @@
         "internalId": 11195,
         "uniqueEntryId": "PaF6nho2LRBu5x7Pi",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Green", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar2.png",
@@ -8660,20 +6399,7 @@
         "internalId": 11193,
         "uniqueEntryId": "h4zk6rrWiX94jefGH",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Light blue", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar3.png",
@@ -8689,22 +6415,12 @@
         "internalId": 11194,
         "uniqueEntryId": "GiBvxa93RwTN46zhE",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Black"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Purple", "Black" ]
       }
     ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "party", "vacation" ],
     "recipe": null
   },
   {
@@ -8738,10 +6454,7 @@
       "korean": "스팀펑크 안경",
       "russian": "очки «Стимпанк»",
       "plural": false,
-      "internalIds": [
-        4685,
-        11505
-      ]
+      "internalIds": [ 4685, 11505 ]
     },
     "variations": [
       {
@@ -8758,20 +6471,7 @@
         "internalId": 4685,
         "uniqueEntryId": "uANDLz5EDWphoM3Lc",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Green"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "theatrical"
-        ]
+        "colors": [ "Brown", "Green" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSteampunk1.png",
@@ -8787,22 +6487,12 @@
         "internalId": 11505,
         "uniqueEntryId": "Rhhrv89PGEMbdbdPt",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Purple"
-        ],
-        "styles": [
-          "Gorgeous"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "theatrical"
-        ]
+        "colors": [ "Brown", "Purple" ]
       }
     ],
+    "styles": [ "Gorgeous" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "fairy tale", "theatrical" ],
     "recipe": null
   },
   {
@@ -8836,11 +6526,7 @@
       "korean": "작은 선글라스",
       "russian": "мини-очки",
       "plural": false,
-      "internalIds": [
-        11215,
-        11216,
-        4461
-      ]
+      "internalIds": [ 11215, 11216, 4461 ]
     },
     "variations": [
       {
@@ -8857,20 +6543,7 @@
         "internalId": 11215,
         "uniqueEntryId": "tCxZoqcR8egLcu4oh",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "formal"
-        ]
+        "colors": [ "Black", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMini2.png",
@@ -8886,20 +6559,7 @@
         "internalId": 11216,
         "uniqueEntryId": "8YkgkHp2z5tycST3j",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "formal"
-        ]
+        "colors": [ "Red", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMini0.png",
@@ -8915,22 +6575,12 @@
         "internalId": 4461,
         "uniqueEntryId": "DnZtrKfwj3MAy6PZc",
         "variantTranslations": null,
-        "colors": [
-          "Yellow",
-          "Black"
-        ],
-        "styles": [
-          "Cool"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "fairy tale",
-          "formal"
-        ]
+        "colors": [ "Yellow", "Black" ]
       }
     ],
+    "styles": [ "Cool" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "fairy tale", "formal" ],
     "recipe": null
   },
   {
@@ -8964,11 +6614,7 @@
       "korean": "거북이 등껍질 안경",
       "russian": "черепаховые очки",
       "plural": false,
-      "internalIds": [
-        11080,
-        11079,
-        4460
-      ]
+      "internalIds": [ 11080, 11079, 4460 ]
     },
     "variations": [
       {
@@ -8985,20 +6631,7 @@
         "internalId": 11080,
         "uniqueEntryId": "fEshNAFDwcyo9v2fX",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Beige"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Black", "Beige" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTortoiseshell1.png",
@@ -9014,20 +6647,7 @@
         "internalId": 11079,
         "uniqueEntryId": "jewJFqgFQTHKyAKTz",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "Beige"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Orange", "Beige" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTortoiseshell0.png",
@@ -9043,22 +6663,12 @@
         "internalId": 4460,
         "uniqueEntryId": "kqomsYL33TB7zaNtY",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Orange"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal"
-        ]
+        "colors": [ "Brown", "Orange" ]
       }
     ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "everyday", "formal" ],
     "recipe": null
   },
   {
@@ -9117,20 +6727,7 @@
         "internalId": 11207,
         "uniqueEntryId": "QpAQQTRoBmcjNBeEK",
         "variantTranslations": null,
-        "colors": [
-          "White",
-          "Purple"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "White", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle6.png",
@@ -9146,20 +6743,7 @@
         "internalId": 11208,
         "uniqueEntryId": "vGHab8KFNDFRgW5h6",
         "variantTranslations": null,
-        "colors": [
-          "Black",
-          "Purple"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Black", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle0.png",
@@ -9175,20 +6759,7 @@
         "internalId": 4242,
         "uniqueEntryId": "cw8m5tS85qMGGnpy9",
         "variantTranslations": null,
-        "colors": [
-          "Red",
-          "Purple"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Red", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle1.png",
@@ -9204,20 +6775,7 @@
         "internalId": 11203,
         "uniqueEntryId": "cR58LxuFK4Kcxh7fc",
         "variantTranslations": null,
-        "colors": [
-          "Orange",
-          "Purple"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Orange", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle4.png",
@@ -9233,20 +6791,7 @@
         "internalId": 11206,
         "uniqueEntryId": "4edkdodmNhmpkSCBo",
         "variantTranslations": null,
-        "colors": [
-          "Green",
-          "Purple"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Green", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle2.png",
@@ -9262,20 +6807,7 @@
         "internalId": 11204,
         "uniqueEntryId": "xSM4vD2KSok5cjo6p",
         "variantTranslations": null,
-        "colors": [
-          "Light blue",
-          "Purple"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Light blue", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle3.png",
@@ -9291,22 +6823,12 @@
         "internalId": 11205,
         "uniqueEntryId": "vAuSuBJcAfyMR6wk7",
         "variantTranslations": null,
-        "colors": [
-          "Purple",
-          "Purple"
-        ],
-        "styles": [
-          "Cute"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "party",
-          "vacation"
-        ]
+        "colors": [ "Purple", "Purple" ]
       }
     ],
+    "styles": [ "Cute" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "party", "vacation" ],
     "recipe": null
   },
   {
@@ -9340,10 +6862,7 @@
       "korean": "나무 프레임 안경",
       "russian": "очки в дерев. оправе",
       "plural": false,
-      "internalIds": [
-        4669,
-        11093
-      ]
+      "internalIds": [ 4669, 11093 ]
     },
     "variations": [
       {
@@ -9360,21 +6879,7 @@
         "internalId": 4669,
         "uniqueEntryId": "dbnqry4vZBvK6LrS2",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Gray"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Brown", "Gray" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassWood1.png",
@@ -9390,23 +6895,12 @@
         "internalId": 11093,
         "uniqueEntryId": "2MufTC9TPErbryyKS",
         "variantTranslations": null,
-        "colors": [
-          "Brown",
-          "Yellow"
-        ],
-        "styles": [
-          "Simple"
-        ],
-        "sources": [
-          "Able Sisters"
-        ],
-        "themes": [
-          "everyday",
-          "formal",
-          "work"
-        ]
+        "colors": [ "Brown", "Yellow" ]
       }
     ],
+    "styles": [ "Simple" ],
+    "sources": [ "Able Sisters" ],
+    "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   }
 ]

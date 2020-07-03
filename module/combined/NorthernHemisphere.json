@@ -11,15 +11,11 @@
     "skyEffect": "aurora",
     "blossoms": "camellia",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "billow clouds"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "billow clouds" ],
     "seasonalCrafting1": "❄️ snowflakes",
     "seasonalCrafting2": "🎄 ornaments",
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -34,14 +30,11 @@
     "skyEffect": "aurora",
     "blossoms": "camellia",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "billow clouds"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "billow clouds" ],
     "seasonalCrafting1": "❄️ snowflakes",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -56,14 +49,11 @@
     "skyEffect": "aurora",
     "blossoms": "camellia",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "billow clouds"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "billow clouds" ],
     "seasonalCrafting1": "❄️ snowflakes",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -78,13 +68,11 @@
     "skyEffect": "rainbow",
     "blossoms": "camellia",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog"
-    ],
-    "specialClouds": [
-      "billow clouds"
-    ],
+    "fog": [ "river/sea fog" ],
+    "specialClouds": [ "billow clouds" ],
     "seasonalCrafting1": "🎋 young spring bamboo",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -99,13 +87,11 @@
     "skyEffect": "rainbow",
     "blossoms": "camellia",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog"
-    ],
-    "specialClouds": [
-      "thin clouds"
-    ],
+    "fog": [ "river/sea fog" ],
+    "specialClouds": [ "thin clouds" ],
     "seasonalCrafting1": "🎋 young spring bamboo",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -120,13 +106,11 @@
     "skyEffect": "rainbow",
     "blossoms": "camellia",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog"
-    ],
-    "specialClouds": [
-      "thin clouds"
-    ],
+    "fog": [ "river/sea fog" ],
+    "specialClouds": [ "thin clouds" ],
     "seasonalCrafting1": "🎋 young spring bamboo",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -142,11 +126,10 @@
     "blossoms": "cherry blossoms",
     "petalLeafFall": "petals (catchable only)",
     "fog": null,
-    "specialClouds": [
-      "thin clouds"
-    ],
+    "specialClouds": [ "thin clouds" ],
     "seasonalCrafting1": "🎋 young spring bamboo",
     "seasonalCrafting2": "🌸 cherry-blossom petals",
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -162,11 +145,10 @@
     "blossoms": "cherry blossoms",
     "petalLeafFall": "petals (light effect)",
     "fog": null,
-    "specialClouds": [
-      "thin clouds"
-    ],
+    "specialClouds": [ "thin clouds" ],
     "seasonalCrafting1": "🎋 young spring bamboo",
     "seasonalCrafting2": "🌸 cherry-blossom petals",
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -182,11 +164,10 @@
     "blossoms": "cherry blossoms",
     "petalLeafFall": "petals (heavy effect)",
     "fog": null,
-    "specialClouds": [
-      "thin clouds"
-    ],
+    "specialClouds": [ "thin clouds" ],
     "seasonalCrafting1": "🎋 young spring bamboo",
     "seasonalCrafting2": "🌸 cherry-blossom petals",
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -202,10 +183,10 @@
     "blossoms": "azalea",
     "petalLeafFall": null,
     "fog": null,
-    "specialClouds": [
-      "thin clouds"
-    ],
+    "specialClouds": [ "thin clouds" ],
     "seasonalCrafting1": "🎋 young spring bamboo",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -223,6 +204,8 @@
     "fog": null,
     "specialClouds": null,
     "seasonalCrafting1": "🐚 summer shells",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -238,10 +221,10 @@
     "blossoms": "hibiscus",
     "petalLeafFall": null,
     "fog": null,
-    "specialClouds": [
-      "cumulonimbus"
-    ],
+    "specialClouds": [ "cumulonimbus" ],
     "seasonalCrafting1": "🐚 summer shells",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -257,10 +240,10 @@
     "blossoms": "hibiscus",
     "petalLeafFall": null,
     "fog": null,
-    "specialClouds": [
-      "cumulonimbus"
-    ],
+    "specialClouds": [ "cumulonimbus" ],
     "seasonalCrafting1": "🌲 acorns and pine cones",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -276,11 +259,10 @@
     "blossoms": "hibiscus",
     "petalLeafFall": null,
     "fog": null,
-    "specialClouds": [
-      "cirrus",
-      "cirrocumulus"
-    ],
+    "specialClouds": [ "cirrus", "cirrocumulus" ],
     "seasonalCrafting1": "🌲 acorns and pine cones",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -295,15 +277,11 @@
     "skyEffect": "rainbow",
     "blossoms": "tea olive",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "cirrus",
-      "cirrocumulus"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "cirrus", "cirrocumulus" ],
     "seasonalCrafting1": "🌲 acorns and pine cones",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -318,15 +296,11 @@
     "skyEffect": "rainbow",
     "blossoms": "tea olive",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "cirrus",
-      "cirrocumulus"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "cirrus", "cirrocumulus" ],
     "seasonalCrafting1": "🌲 acorns and pine cones",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -341,16 +315,11 @@
     "skyEffect": "rainbow",
     "blossoms": "holly",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "cirrus",
-      "cirrocumulus"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "cirrus", "cirrocumulus" ],
     "seasonalCrafting1": "🌲 acorns and pine cones",
     "seasonalCrafting2": "🍄 mushrooms",
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -365,14 +334,8 @@
     "skyEffect": "rainbow",
     "blossoms": "holly",
     "petalLeafFall": "leaves (light effect)",
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "cirrus",
-      "cirrocumulus"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "cirrus", "cirrocumulus" ],
     "seasonalCrafting1": "🌲 acorns and pine cones",
     "seasonalCrafting2": "🍄 mushrooms",
     "seasonalCrafting3": "🍁 maple leaves",
@@ -390,14 +353,8 @@
     "skyEffect": "rainbow",
     "blossoms": "holly",
     "petalLeafFall": "leaves (heavy effect)",
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "cirrus",
-      "cirrocumulus"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "cirrus", "cirrocumulus" ],
     "seasonalCrafting1": "🌲 acorns and pine cones",
     "seasonalCrafting2": "🍄 mushrooms",
     "seasonalCrafting3": "🍁 maple leaves",
@@ -415,16 +372,11 @@
     "skyEffect": null,
     "blossoms": "holly",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "cirrus",
-      "cirrocumulus"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "cirrus", "cirrocumulus" ],
     "seasonalCrafting1": "🌲 acorns and pine cones",
     "seasonalCrafting2": "🍄 mushrooms",
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -439,14 +391,11 @@
     "skyEffect": null,
     "blossoms": "holly",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "billow clouds"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "billow clouds" ],
     "seasonalCrafting1": "🌲 acorns and pine cones",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -461,14 +410,11 @@
     "skyEffect": "aurora",
     "blossoms": "holly",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "billow clouds"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "billow clouds" ],
     "seasonalCrafting1": "❄️ snowflakes",
+    "seasonalCrafting2": null,
+    "seasonalCrafting3": null,
     "translations": null
   },
   {
@@ -483,15 +429,11 @@
     "skyEffect": "aurora",
     "blossoms": "holly",
     "petalLeafFall": null,
-    "fog": [
-      "river/sea fog",
-      "heavy fog"
-    ],
-    "specialClouds": [
-      "billow clouds"
-    ],
+    "fog": [ "river/sea fog", "heavy fog" ],
+    "specialClouds": [ "billow clouds" ],
     "seasonalCrafting1": "❄️ snowflakes",
     "seasonalCrafting2": "🎄 ornaments",
+    "seasonalCrafting3": null,
     "translations": null
   }
 ]

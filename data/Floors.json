@@ -11,7 +11,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorTile01",
@@ -36,22 +36,12 @@
       "korean": "하늘색 모자이크 타일 바닥",
       "russian": "аквамар. мозаичный пол",
       "plural": false,
-      "internalIds": [
-        5036
-      ]
+      "internalIds": [ 5036 ]
     },
-    "colors": [
-      "Light blue",
-      "Light blue"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "Light blue", "Light blue" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -66,7 +56,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Cloth Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorArabesque00",
@@ -91,22 +81,12 @@
       "korean": "아라베스크 바닥",
       "russian": "пол с арабесками",
       "plural": false,
-      "internalIds": [
-        4953
-      ]
+      "internalIds": [ 4953 ]
     },
-    "colors": [
-      "Black",
-      "Gray"
-    ],
-    "concepts": [
-      "expensive",
-      "living room"
-    ],
+    "colors": [ "Black", "Gray" ],
+    "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -121,7 +101,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Arched Brick",
     "catalog": "For sale",
     "filename": "RoomTexFloorArchBrick00",
@@ -146,22 +126,12 @@
       "korean": "아치 벽돌 바닥",
       "russian": "пол с арочным узором",
       "plural": false,
-      "internalIds": [
-        4998
-      ]
+      "internalIds": [ 4998 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -176,7 +146,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorTileWood00",
@@ -201,22 +171,12 @@
       "korean": "아가일 타일 바닥",
       "russian": "пол из плитки в ромбик",
       "plural": false,
-      "internalIds": [
-        4994
-      ]
+      "internalIds": [ 4994 ]
     },
-    "colors": [
-      "White",
-      "Beige"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "White", "Beige" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -231,7 +191,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Simple Parquet",
     "catalog": "For sale",
     "filename": "RoomTexFloorParquetArt00",
@@ -256,22 +216,12 @@
       "korean": "화려한 나무 바닥",
       "russian": "пол c ковровым узором",
       "plural": false,
-      "internalIds": [
-        5232
-      ]
+      "internalIds": [ 5232 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -286,7 +236,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Grassland",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorLawn00",
@@ -311,21 +261,12 @@
       "korean": "잔디밭 바닥",
       "russian": "пол-лужайка",
       "plural": false,
-      "internalIds": [
-        4979
-      ]
+      "internalIds": [ 4979 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "backyard lawn",
@@ -361,16 +302,10 @@
         "korean": "잔디밭 바닥",
         "russian": "пол-лужайка",
         "plural": false,
-        "internalIds": [
-          4979
-        ]
+        "internalIds": [ 4979 ]
       },
-      "materials": {
-        "clump of weeds": 30
-      },
-      "sources": [
-        "Peppy villagers"
-      ]
+      "materials": { "clump of weeds": 30 },
+      "sources": [ "Peppy villagers" ]
     }
   },
   {
@@ -385,7 +320,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Nature - Green",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorBamboo00",
@@ -410,21 +345,12 @@
       "korean": "대나무 바닥",
       "russian": "бамбуковый пол",
       "plural": false,
-      "internalIds": [
-        4964
-      ]
+      "internalIds": [ 4964 ]
     },
-    "colors": [
-      "Green",
-      "Beige"
-    ],
-    "concepts": [
-      "zen-style"
-    ],
+    "colors": [ "Green", "Beige" ],
+    "concepts": [ "zen-style" ],
     "series": "bamboo",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo flooring",
@@ -460,16 +386,10 @@
         "korean": "대나무 바닥",
         "russian": "бамбуковый пол",
         "plural": false,
-        "internalIds": [
-          4964
-        ]
+        "internalIds": [ 4964 ]
       },
-      "materials": {
-        "bamboo piece": 15
-      },
-      "sources": [
-        "Cranky villagers"
-      ]
+      "materials": { "bamboo piece": 15 },
+      "sources": [ "Cranky villagers" ]
     }
   },
   {
@@ -484,7 +404,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Stone Floors",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorBasement00",
@@ -509,22 +429,12 @@
       "korean": "지하실 바닥",
       "russian": "пол из булыжников",
       "plural": false,
-      "internalIds": [
-        4797
-      ]
+      "internalIds": [ 4797 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "concepts": [
-      "horror",
-      "facility"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "horror", "facility" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "basement flooring",
@@ -560,16 +470,10 @@
         "korean": "지하실 바닥",
         "russian": "пол из булыжников",
         "plural": false,
-        "internalIds": [
-          4797
-        ]
+        "internalIds": [ 4797 ]
       },
-      "materials": {
-        "stone": 10
-      },
-      "sources": [
-        "Smug villagers"
-      ]
+      "materials": { "stone": 10 },
+      "sources": [ "Smug villagers" ]
     }
   },
   {
@@ -584,7 +488,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Morocco",
     "catalog": "For sale",
     "filename": "RoomTexFloorMorocco00",
@@ -609,22 +513,12 @@
       "korean": "베이지 모로칸 타일 바닥",
       "russian": "бежевый пол «Восток»",
       "plural": false,
-      "internalIds": [
-        4965
-      ]
+      "internalIds": [ 4965 ]
     },
-    "colors": [
-      "Beige",
-      "White"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "Beige", "White" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -639,7 +533,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Chocolate",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorChocolate02",
@@ -664,21 +558,12 @@
       "korean": "딸기 초콜릿 바닥",
       "russian": "розово-шоколадный пол",
       "plural": false,
-      "internalIds": [
-        5053
-      ]
+      "internalIds": [ 5053 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "concepts": [
-      "fancy"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "concepts": [ "fancy" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -693,7 +578,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Wood Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorBirch00",
@@ -718,22 +603,12 @@
       "korean": "가공한 나무 바닥",
       "russian": "березовый пол",
       "plural": false,
-      "internalIds": [
-        5032
-      ]
+      "internalIds": [ 5032 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -748,7 +623,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Iron Parquet",
     "catalog": "For sale",
     "filename": "RoomTexFloorParquetIron02",
@@ -773,22 +648,12 @@
       "korean": "검정 패턴 바닥",
       "russian": "темный пол из стали",
       "plural": false,
-      "internalIds": [
-        5066
-      ]
+      "internalIds": [ 5066 ]
     },
-    "colors": [
-      "Black",
-      "White"
-    ],
-    "concepts": [
-      "expensive",
-      "living room"
-    ],
+    "colors": [ "Black", "White" ],
+    "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -803,7 +668,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Brick",
     "catalog": "For sale",
     "filename": "RoomTexFloorBrick02",
@@ -828,22 +693,12 @@
       "korean": "검정 벽돌 바닥",
       "russian": "пол из черного кирпича",
       "plural": false,
-      "internalIds": [
-        4976
-      ]
+      "internalIds": [ 4976 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "Black", "Black" ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -858,7 +713,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Camouflage",
     "catalog": "For sale",
     "filename": "RoomTexFloorCamouflage01",
@@ -883,22 +738,12 @@
       "korean": "블루 밀리터리 바닥",
       "russian": "синий пол «Камуфляж»",
       "plural": false,
-      "internalIds": [
-        5016
-      ]
+      "internalIds": [ 5016 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "party",
-      "child's room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "party", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -913,7 +758,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Morocco",
     "catalog": "For sale",
     "filename": "RoomTexFloorMorocco01",
@@ -938,22 +783,12 @@
       "korean": "블루 모로칸 타일 바닥",
       "russian": "голубой пол «Восток»",
       "plural": false,
-      "internalIds": [
-        4966
-      ]
+      "internalIds": [ 4966 ]
     },
-    "colors": [
-      "Blue",
-      "White"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "Blue", "White" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -968,7 +803,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Dot",
     "catalog": "For sale",
     "filename": "RoomTexFloorDot04",
@@ -993,22 +828,12 @@
       "korean": "블루 도트 카펫 바닥",
       "russian": "голубой пол в горошек",
       "plural": false,
-      "internalIds": [
-        5028
-      ]
+      "internalIds": [ 5028 ]
     },
-    "colors": [
-      "Blue",
-      "Light blue"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Blue", "Light blue" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1023,7 +848,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Deco Wood",
     "catalog": "For sale",
     "filename": "RoomTexFloorDecoWood01",
@@ -1048,22 +873,12 @@
       "korean": "파란 꽃무늬 마룻바닥",
       "russian": "пол с цветами на синем",
       "plural": false,
-      "internalIds": [
-        5074
-      ]
+      "internalIds": [ 5074 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "shop",
-      "living room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "shop", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1078,7 +893,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Honeycomb",
     "catalog": "For sale",
     "filename": "RoomTexFloorHoneycomb01",
@@ -1103,22 +918,12 @@
       "korean": "파란 육각 타일 바닥",
       "russian": "синий пол «Соты»",
       "plural": false,
-      "internalIds": [
-        5040
-      ]
+      "internalIds": [ 5040 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1133,7 +938,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorTile03",
@@ -1158,22 +963,12 @@
       "korean": "블루 모자이크 타일 바닥",
       "russian": "синий мозаичный пол",
       "plural": false,
-      "internalIds": [
-        6846
-      ]
+      "internalIds": [ 6846 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1188,7 +983,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Rubber",
     "catalog": "For sale",
     "filename": "RoomTexFloorRubber01",
@@ -1213,22 +1008,12 @@
       "korean": "블루 고무 바닥",
       "russian": "синий резиновый пол",
       "plural": false,
-      "internalIds": [
-        4954
-      ]
+      "internalIds": [ 4954 ]
     },
-    "colors": [
-      "Blue",
-      "Light blue"
-    ],
-    "concepts": [
-      "fitness",
-      "school"
-    ],
+    "colors": [ "Blue", "Light blue" ],
+    "concepts": [ "fitness", "school" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1243,7 +1028,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Painted Wood",
     "catalog": "For sale",
     "filename": "RoomTexFloorPaintWood00",
@@ -1268,22 +1053,12 @@
       "korean": "파란 페인트 마룻바닥",
       "russian": "светло-синий пол",
       "plural": false,
-      "internalIds": [
-        5057
-      ]
+      "internalIds": [ 5057 ]
     },
-    "colors": [
-      "Light blue",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Light blue", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1298,7 +1073,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Sports Floor",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorWrestling00",
@@ -1323,21 +1098,12 @@
       "korean": "레슬링 경기장 바닥",
       "russian": "пол для ринга",
       "plural": false,
-      "internalIds": [
-        4982
-      ]
+      "internalIds": [ 4982 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "fitness"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "fitness" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1352,7 +1118,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Argyle",
     "catalog": "For sale",
     "filename": "RoomTexFloorArgyleTile01",
@@ -1377,22 +1143,12 @@
       "korean": "브라운 아가일 타일 바닥",
       "russian": "пол в бело-бурый ромбик",
       "plural": false,
-      "internalIds": [
-        5081
-      ]
+      "internalIds": [ 5081 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "expensive",
-      "facility"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "expensive", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1407,7 +1163,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Deco Wood",
     "catalog": "For sale",
     "filename": "RoomTexFloorDecoWood02",
@@ -1432,22 +1188,12 @@
       "korean": "갈색 꽃무늬 마룻바닥",
       "russian": "пол с цветами на буром",
       "plural": false,
-      "internalIds": [
-        5075
-      ]
+      "internalIds": [ 5075 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
-    "concepts": [
-      "shop",
-      "living room"
-    ],
+    "colors": [ "Brown", "White" ],
+    "concepts": [ "shop", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1462,7 +1208,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Honeycomb",
     "catalog": "For sale",
     "filename": "RoomTexFloorHoneycomb00",
@@ -1487,22 +1233,12 @@
       "korean": "갈색 육각 타일 바닥",
       "russian": "коричневый пол «Cоты»",
       "plural": false,
-      "internalIds": [
-        5038
-      ]
+      "internalIds": [ 5038 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1517,7 +1253,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Iron Parquet",
     "catalog": "For sale",
     "filename": "RoomTexFloorParquetIron01",
@@ -1542,22 +1278,12 @@
       "korean": "은색 패턴 바닥",
       "russian": "пол из стали с серебром",
       "plural": false,
-      "internalIds": [
-        5065
-      ]
+      "internalIds": [ 5065 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "expensive",
-      "living room"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1572,7 +1298,7 @@
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
-    "hhaBaseScore": 437,
+    "hhaBasePoints": 437,
     "tag": "Tile Floors",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorMarbleTile01",
@@ -1597,19 +1323,12 @@
       "korean": "갈색 웨딩 바닥",
       "russian": "коричн. свадебный пол",
       "plural": false,
-      "internalIds": [
-        12433
-      ]
+      "internalIds": [ 12433 ]
     },
     "colors": [],
-    "concepts": [
-      "party",
-      "expensive"
-    ],
+    "concepts": [ "party", "expensive" ],
     "series": "wedding",
-    "sources": [
-      "Cyrus"
-    ],
+    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -1624,7 +1343,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Brick",
     "catalog": "For sale",
     "filename": "RoomTexFloorBrick03",
@@ -1649,22 +1368,12 @@
       "korean": "갈색 벽돌 바닥",
       "russian": "пол из бурого кирпича",
       "plural": false,
-      "internalIds": [
-        6849
-      ]
+      "internalIds": [ 6849 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1679,7 +1388,7 @@
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
-    "hhaBaseScore": 351,
+    "hhaBasePoints": 351,
     "tag": "Dot",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorEaster00",
@@ -1704,19 +1413,12 @@
       "korean": "이스터 바닥",
       "russian": "пол «День зайцев»",
       "plural": false,
-      "internalIds": [
-        12423
-      ]
+      "internalIds": [ 12423 ]
     },
     "colors": [],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "concepts": [ "fancy", "child's room" ],
     "series": "Bunny Day",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day flooring",
@@ -1752,9 +1454,7 @@
         "korean": "이스터 바닥",
         "russian": "пол «День зайцев»",
         "plural": false,
-        "internalIds": [
-          12423
-        ]
+        "internalIds": [ 12423 ]
       },
       "materials": {
         "earth egg": 2,
@@ -1764,10 +1464,7 @@
         "sky egg": 2,
         "water egg": 2
       },
-      "sources": [
-        "Egg bottle",
-        "Egg balloon"
-      ]
+      "sources": [ "Egg bottle", "Egg balloon" ]
     }
   },
   {
@@ -1782,7 +1479,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Camouflage",
     "catalog": "For sale",
     "filename": "RoomTexFloorCamouflage00",
@@ -1807,22 +1504,12 @@
       "korean": "밀리터리 바닥",
       "russian": "пол «Камуфляж»",
       "plural": false,
-      "internalIds": [
-        5015
-      ]
+      "internalIds": [ 5015 ]
     },
-    "colors": [
-      "Black",
-      "Green"
-    ],
-    "concepts": [
-      "party",
-      "child's room"
-    ],
+    "colors": [ "Black", "Green" ],
+    "concepts": [ "party", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1837,7 +1524,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "tag": "Nature - Fallen Leaves",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorSakura00",
@@ -1862,22 +1549,12 @@
       "korean": "벚꽃 카펫 바닥",
       "russian": "пол с лепестками сакуры",
       "plural": false,
-      "internalIds": [
-        7204
-      ]
+      "internalIds": [ 7204 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "concepts": [
-      "garden",
-      "fancy"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "concepts": [ "garden", "fancy" ],
     "series": "cherry blossoms",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom flooring",
@@ -1913,17 +1590,13 @@
         "korean": "벚꽃 카펫 바닥",
         "russian": "пол с лепестками сакуры",
         "plural": false,
-        "internalIds": [
-          7204
-        ]
+        "internalIds": [ 7204 ]
       },
       "materials": {
         "cherry-blossom petal": 10,
         "clump of weeds": 20
       },
-      "sources": [
-        "Balloons"
-      ]
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -1938,7 +1611,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Machine Floor",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorGeek00",
@@ -1963,21 +1636,12 @@
       "korean": "전자 회로 바닥",
       "russian": "пол-микросхема",
       "plural": false,
-      "internalIds": [
-        5082
-      ]
+      "internalIds": [ 5082 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "facility"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1992,7 +1656,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Special Nature Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorCloud00",
@@ -2017,21 +1681,12 @@
       "korean": "구름 위",
       "russian": "облачный пол",
       "plural": false,
-      "internalIds": [
-        5267
-      ]
+      "internalIds": [ 5267 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "fancy"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "fancy" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2046,7 +1701,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "tag": "Nature - Fallen Leaves",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorAutumun00",
@@ -2071,21 +1726,12 @@
       "korean": "단풍 바닥",
       "russian": "пол «Листопад»",
       "plural": false,
-      "internalIds": [
-        4990
-      ]
+      "internalIds": [ 4990 ]
     },
-    "colors": [
-      "Orange",
-      "Orange"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Orange", "Orange" ],
+    "concepts": [ "garden" ],
     "series": "tree's bounty or leaves ",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "colored-leaves flooring",
@@ -2121,17 +1767,13 @@
         "korean": "단풍 바닥",
         "russian": "пол «Листопад»",
         "plural": false,
-        "internalIds": [
-          4990
-        ]
+        "internalIds": [ 4990 ]
       },
       "materials": {
         "maple leaf": 10,
         "clump of weeds": 15
       },
-      "sources": [
-        "Balloons"
-      ]
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -2146,7 +1788,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorTile02",
@@ -2171,22 +1813,12 @@
       "korean": "컬러풀 모자이크 타일 바닥",
       "russian": "цветной мозаичный пол",
       "plural": false,
-      "internalIds": [
-        5037
-      ]
+      "internalIds": [ 5037 ]
     },
-    "colors": [
-      "Colorful",
-      "White"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "Colorful", "White" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2201,7 +1833,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Puzzle Mat",
     "catalog": "For sale",
     "filename": "RoomTexFloorPuzzleMat01",
@@ -2226,22 +1858,12 @@
       "korean": "컬러풀 퍼즐 바닥",
       "russian": "цветной пол-пазл",
       "plural": false,
-      "internalIds": [
-        4957
-      ]
+      "internalIds": [ 4957 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2256,7 +1878,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Panel",
     "catalog": "For sale",
     "filename": "RoomTexFloorPanel01",
@@ -2281,22 +1903,12 @@
       "korean": "컬러풀 패널 카펫 바닥",
       "russian": "пол из цветной плитки",
       "plural": false,
-      "internalIds": [
-        5068
-      ]
+      "internalIds": [ 5068 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2311,7 +1923,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Wood Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorCommon00",
@@ -2336,22 +1948,12 @@
       "korean": "평범한 바닥",
       "russian": "обычный пол",
       "plural": false,
-      "internalIds": [
-        5018
-      ]
+      "internalIds": [ 5018 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "living room",
-      "school"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "living room", "school" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2366,7 +1968,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Stone Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorConcrete00",
@@ -2391,22 +1993,12 @@
       "korean": "콘크리트 바닥",
       "russian": "бетонный пол",
       "plural": false,
-      "internalIds": [
-        4951
-      ]
+      "internalIds": [ 4951 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "concepts": [
-      "garage",
-      "facility"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "garage", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2421,7 +2013,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Sidewalk",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorConstruction00",
@@ -2446,22 +2038,12 @@
       "korean": "공사 현장 바닥",
       "russian": "строительный пол",
       "plural": false,
-      "internalIds": [
-        5235
-      ]
+      "internalIds": [ 5235 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
-    "concepts": [
-      "garage",
-      "facility"
-    ],
+    "colors": [ "Brown", "White" ],
+    "concepts": [ "garage", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2476,7 +2058,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Checker",
     "catalog": "For sale",
     "filename": "RoomTexFloorTileChecker03",
@@ -2501,21 +2083,12 @@
       "korean": "쿨 데코타일 바닥",
       "russian": "классный линолеум",
       "plural": false,
-      "internalIds": [
-        6844
-      ]
+      "internalIds": [ 6844 ]
     },
-    "colors": [
-      "Blue",
-      "Gray"
-    ],
-    "concepts": [
-      "expensive"
-    ],
+    "colors": [ "Blue", "Gray" ],
+    "concepts": [ "expensive" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2530,7 +2103,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Colorful Wood",
     "catalog": "For sale",
     "filename": "RoomTexFloorColorfulWood01",
@@ -2555,22 +2128,12 @@
       "korean": "쿨 페인트 마룻바닥",
       "russian": "пол озорной расцветки",
       "plural": false,
-      "internalIds": [
-        5071
-      ]
+      "internalIds": [ 5071 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2585,7 +2148,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Wood Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorCork00",
@@ -2610,22 +2173,12 @@
       "korean": "코르크 바닥",
       "russian": "пробковый пол",
       "plural": false,
-      "internalIds": [
-        4969
-      ]
+      "internalIds": [ 4969 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "school",
-      "music"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "school", "music" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2640,7 +2193,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Nature - Green",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorCropCircles00",
@@ -2665,21 +2218,12 @@
       "korean": "미스터리 서클 바닥",
       "russian": "пол «Круги на полях»",
       "plural": false,
-      "internalIds": [
-        5243
-      ]
+      "internalIds": [ 5243 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2694,7 +2238,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Sidewalk",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorSidewalk00",
@@ -2719,21 +2263,12 @@
       "korean": "횡단보도 바닥",
       "russian": "пол с зеброй",
       "plural": false,
-      "internalIds": [
-        5007
-      ]
+      "internalIds": [ 5007 ]
     },
-    "colors": [
-      "Beige",
-      "Black"
-    ],
-    "concepts": [
-      "facility"
-    ],
+    "colors": [ "Beige", "Black" ],
+    "concepts": [ "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -2748,7 +2283,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Simple Parquet",
     "catalog": "For sale",
     "filename": "RoomTexFloorHoneycombWood00",
@@ -2773,22 +2308,12 @@
       "korean": "정육면체 나무 바닥",
       "russian": "наборный паркет",
       "plural": false,
-      "internalIds": [
-        4987
-      ]
+      "internalIds": [ 4987 ]
     },
-    "colors": [
-      "Orange",
-      "Orange"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Orange", "Orange" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2803,7 +2328,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorCute02",
@@ -2828,22 +2353,12 @@
       "korean": "블루 큐트 타일 바닥",
       "russian": "синий пол шашечкой",
       "plural": false,
-      "internalIds": [
-        7221
-      ]
+      "internalIds": [ 7221 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2858,7 +2373,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorCute01",
@@ -2883,22 +2398,12 @@
       "korean": "빨간 큐트 타일 바닥",
       "russian": "красный пол шашечкой",
       "plural": false,
-      "internalIds": [
-        7220
-      ]
+      "internalIds": [ 7220 ]
     },
-    "colors": [
-      "Red",
-      "Pink"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Red", "Pink" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2913,7 +2418,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorCute00",
@@ -2938,22 +2443,12 @@
       "korean": "하얀 큐트 타일 바닥",
       "russian": "белый пол шашечкой",
       "plural": false,
-      "internalIds": [
-        7219
-      ]
+      "internalIds": [ 7219 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2968,7 +2463,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorCute03",
@@ -2993,22 +2488,12 @@
       "korean": "노란 큐트 타일 바닥",
       "russian": "желтый пол шашечкой",
       "plural": false,
-      "internalIds": [
-        7222
-      ]
+      "internalIds": [ 7222 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3023,7 +2508,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Colorful Wood",
     "catalog": "For sale",
     "filename": "RoomTexFloorColorfulWood00",
@@ -3048,22 +2533,12 @@
       "korean": "큐트 페인트 마룻바닥",
       "russian": "пол милой расцветки",
       "plural": false,
-      "internalIds": [
-        5070
-      ]
+      "internalIds": [ 5070 ]
     },
-    "colors": [
-      "Pink",
-      "Orange"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Pink", "Orange" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3078,7 +2553,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Grassland",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorGrassland00",
@@ -3103,21 +2578,12 @@
       "korean": "초원 바닥",
       "russian": "пол с ромашками",
       "plural": false,
-      "internalIds": [
-        5005
-      ]
+      "internalIds": [ 5005 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3132,7 +2598,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Herringbone",
     "catalog": "For sale",
     "filename": "RoomTexFloorHerringbone01",
@@ -3157,22 +2623,12 @@
       "korean": "다크 헤링본 바닥",
       "russian": "темный пол-елочка",
       "plural": false,
-      "internalIds": [
-        5062
-      ]
+      "internalIds": [ 5062 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "living room",
-      "shop"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3187,7 +2643,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Country",
     "catalog": "For sale",
     "filename": "RoomTexFloorCountry01",
@@ -3212,21 +2668,12 @@
       "korean": "어두운 쪽모이 바닥",
       "russian": "темный щитовой паркет",
       "plural": false,
-      "internalIds": [
-        5025
-      ]
+      "internalIds": [ 5025 ]
     },
-    "colors": [
-      "Black",
-      "Gray"
-    ],
-    "concepts": [
-      "living room"
-    ],
+    "colors": [ "Black", "Gray" ],
+    "concepts": [ "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3241,7 +2688,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Simple Parquet",
     "catalog": "For sale",
     "filename": "RoomTexFloorSimpleParquet01",
@@ -3266,22 +2713,12 @@
       "korean": "어두운 나무 바닥",
       "russian": "темный паркетный пол",
       "plural": false,
-      "internalIds": [
-        4992
-      ]
+      "internalIds": [ 4992 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "concepts": [
-      "living room",
-      "shop"
-    ],
+    "colors": [ "Black", "Black" ],
+    "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3296,7 +2733,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Parquet",
     "catalog": "For sale",
     "filename": "RoomTexFloorParquet01",
@@ -3321,21 +2758,12 @@
       "korean": "다크 나무 블록 바닥",
       "russian": "темный эко-пол",
       "plural": false,
-      "internalIds": [
-        5035
-      ]
+      "internalIds": [ 5035 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "school"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "school" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3350,7 +2778,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Chocolate",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorChocolate00",
@@ -3375,21 +2803,12 @@
       "korean": "다크 초콜릿 바닥",
       "russian": "темно-шоколадный пол",
       "plural": false,
-      "internalIds": [
-        5050
-      ]
+      "internalIds": [ 5050 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "fancy"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "fancy" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3404,7 +2823,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Nature - Brown",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorStratum00",
@@ -3429,22 +2848,12 @@
       "korean": "땅속 바닥",
       "russian": "пол «Раскоп»",
       "plural": false,
-      "internalIds": [
-        5011
-      ]
+      "internalIds": [ 5011 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
-    "concepts": [
-      "garden",
-      "horror"
-    ],
+    "colors": [ "Brown", "Beige" ],
+    "concepts": [ "garden", "horror" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3459,7 +2868,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Nature - Brown",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorCottonSoil00",
@@ -3484,22 +2893,12 @@
       "korean": "흙 바닥",
       "russian": "грунтовый пол",
       "plural": false,
-      "internalIds": [
-        4981
-      ]
+      "internalIds": [ 4981 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
-    "concepts": [
-      "garden",
-      "outdoors"
-    ],
+    "colors": [ "Brown", "Black" ],
+    "concepts": [ "garden", "outdoors" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3514,7 +2913,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Nature - Brown",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorFarm00",
@@ -3539,21 +2938,12 @@
       "korean": "들판 바닥",
       "russian": "пол-поле",
       "plural": false,
-      "internalIds": [
-        4980
-      ]
+      "internalIds": [ 4980 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3568,7 +2958,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Stone Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorFlagStone00",
@@ -3593,22 +2983,12 @@
       "korean": "플래그스톤 바닥",
       "russian": "мощенный пол",
       "plural": false,
-      "internalIds": [
-        5031
-      ]
+      "internalIds": [ 5031 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "shop",
-      "facility"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "shop", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3623,7 +3003,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorMosaicTile00",
@@ -3648,22 +3028,12 @@
       "korean": "플라워 모자이크 타일 바닥",
       "russian": "мозаичный пол «Цветы»",
       "plural": false,
-      "internalIds": [
-        4993
-      ]
+      "internalIds": [ 4993 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3678,7 +3048,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Japanese Style",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorRush00",
@@ -3703,22 +3073,12 @@
       "korean": "꽃무늬 돗자리 바닥",
       "russian": "циновка на пол с цветами",
       "plural": false,
-      "internalIds": [
-        4977
-      ]
+      "internalIds": [ 4977 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "zen-style"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "fancy", "zen-style" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3733,7 +3093,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Special Nature Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorRiver00",
@@ -3758,21 +3118,12 @@
       "korean": "흐르는 강 바닥",
       "russian": "пол с рекой",
       "plural": false,
-      "internalIds": [
-        5273
-      ]
+      "internalIds": [ 5273 ]
     },
-    "colors": [
-      "Gray",
-      "Light blue"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Gray", "Light blue" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3787,7 +3138,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "tag": "Nature - Fallen Leaves",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorMushForest00",
@@ -3812,22 +3163,12 @@
       "korean": "버섯숲 바닥",
       "russian": "лесной пол",
       "plural": false,
-      "internalIds": [
-        7186
-      ]
+      "internalIds": [ 7186 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "garden",
-      "horror"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "garden", "horror" ],
     "series": "mush",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "forest flooring",
@@ -3863,9 +3204,7 @@
         "korean": "버섯숲 바닥",
         "russian": "лесной пол",
         "plural": false,
-        "internalIds": [
-          7186
-        ]
+        "internalIds": [ 7186 ]
       },
       "materials": {
         "rare mushroom": 1,
@@ -3874,9 +3213,7 @@
         "flat mushroom": 2,
         "clump of weeds": 10
       },
-      "sources": [
-        "Balloons"
-      ]
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -3891,7 +3228,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Special Inorganic Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorTechnology00",
@@ -3916,22 +3253,12 @@
       "korean": "오버 테크놀로지 바닥",
       "russian": "футуристический пол",
       "plural": false,
-      "internalIds": [
-        5250
-      ]
+      "internalIds": [ 5250 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "concepts": [
-      "horror",
-      "folk art"
-    ],
+    "colors": [ "Black", "Black" ],
+    "concepts": [ "horror", "folk art" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3946,7 +3273,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Special Nature Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorGalaxy00",
@@ -3971,21 +3298,12 @@
       "korean": "은하계 바닥",
       "russian": "космический пол",
       "plural": false,
-      "internalIds": [
-        5269
-      ]
+      "internalIds": [ 5269 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "space"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "space" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "galaxy flooring",
@@ -4021,17 +3339,13 @@
         "korean": "은하계 바닥",
         "russian": "космический пол",
         "plural": false,
-        "internalIds": [
-          5269
-        ]
+        "internalIds": [ 5269 ]
       },
       "materials": {
         "star fragment": 5,
         "large star fragment": 1
       },
-      "sources": [
-        "Celeste"
-      ]
+      "sources": [ "Celeste" ]
     }
   },
   {
@@ -4046,7 +3360,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Decadence",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorGarbage00",
@@ -4071,22 +3385,12 @@
       "korean": "쓰레기장 바닥",
       "russian": "пол «Свалка»",
       "plural": false,
-      "internalIds": [
-        5236
-      ]
+      "internalIds": [ 5236 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "horror",
-      "garage"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "horror", "garage" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "garbage-heap flooring",
@@ -4122,18 +3426,14 @@
         "korean": "쓰레기장 바닥",
         "russian": "пол «Свалка»",
         "plural": false,
-        "internalIds": [
-          5236
-        ]
+        "internalIds": [ 5236 ]
       },
       "materials": {
         "empty can": 2,
         "boot": 2,
         "old tire": 2
       },
-      "sources": [
-        "Fishing"
-      ]
+      "sources": [ "Fishing" ]
     }
   },
   {
@@ -4148,7 +3448,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Animal Floor",
     "catalog": "For sale",
     "filename": "RoomTexFloorAnimal01",
@@ -4173,22 +3473,12 @@
       "korean": "기린 무늬 바닥",
       "russian": "пол с пятнами жирафа",
       "plural": false,
-      "internalIds": [
-        4961
-      ]
+      "internalIds": [ 4961 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "party",
-      "fancy"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "party", "fancy" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4203,7 +3493,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Iron Parquet",
     "catalog": "For sale",
     "filename": "RoomTexFloorParquetIron00",
@@ -4228,22 +3518,12 @@
       "korean": "금색 패턴 바닥",
       "russian": "пол из стали с золотом",
       "plural": false,
-      "internalIds": [
-        5064
-      ]
+      "internalIds": [ 5064 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "expensive",
-      "living room"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4258,7 +3538,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Luxury",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorGold00",
@@ -4283,22 +3563,12 @@
       "korean": "황금 바닥",
       "russian": "золотой пол",
       "plural": false,
-      "internalIds": [
-        5021
-      ]
+      "internalIds": [ 5021 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "expensive",
-      "horror"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "expensive", "horror" ],
     "series": "golden",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden flooring",
@@ -4334,16 +3604,10 @@
         "korean": "황금 바닥",
         "russian": "золотой пол",
         "plural": false,
-        "internalIds": [
-          5021
-        ]
+        "internalIds": [ 5021 ]
       },
-      "materials": {
-        "gold nugget": 4
-      },
-      "sources": [
-        "Smug villagers"
-      ]
+      "materials": { "gold nugget": 4 },
+      "sources": [ "Smug villagers" ]
     }
   },
   {
@@ -4358,7 +3622,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Stone Floors",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorGravel00",
@@ -4383,22 +3647,12 @@
       "korean": "자갈 바닥",
       "russian": "гравийный пол",
       "plural": false,
-      "internalIds": [
-        4978
-      ]
+      "internalIds": [ 4978 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "concepts": [
-      "garden",
-      "facility"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "garden", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4413,7 +3667,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Argyle",
     "catalog": "For sale",
     "filename": "RoomTexFloorArgyleTile00",
@@ -4438,22 +3692,12 @@
       "korean": "그레이 아가일 타일 바닥",
       "russian": "пол в бело-серый ромбик",
       "plural": false,
-      "internalIds": [
-        5080
-      ]
+      "internalIds": [ 5080 ]
     },
-    "colors": [
-      "Gray",
-      "White"
-    ],
-    "concepts": [
-      "expensive",
-      "facility"
-    ],
+    "colors": [ "Gray", "White" ],
+    "concepts": [ "expensive", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4468,7 +3712,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Checker",
     "catalog": "For sale",
     "filename": "RoomTexFloorTileChecker00",
@@ -4493,21 +3737,12 @@
       "korean": "흑백 데코타일 바닥",
       "russian": "серый линолеум",
       "plural": false,
-      "internalIds": [
-        5046
-      ]
+      "internalIds": [ 5046 ]
     },
-    "colors": [
-      "Gray",
-      "White"
-    ],
-    "concepts": [
-      "expensive"
-    ],
+    "colors": [ "Gray", "White" ],
+    "concepts": [ "expensive" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4522,7 +3757,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Deco Wood",
     "catalog": "For sale",
     "filename": "RoomTexFloorDecoWood03",
@@ -4547,22 +3782,12 @@
       "korean": "초록 꽃무늬 마룻바닥",
       "russian": "пол с цветами на зеленом",
       "plural": false,
-      "internalIds": [
-        6847
-      ]
+      "internalIds": [ 6847 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "shop",
-      "living room"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "shop", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4577,7 +3802,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Honeycomb",
     "catalog": "For sale",
     "filename": "RoomTexFloorHoneycomb02",
@@ -4602,22 +3827,12 @@
       "korean": "초록 육각 타일 바닥",
       "russian": "зеленый пол «Соты»",
       "plural": false,
-      "internalIds": [
-        5041
-      ]
+      "internalIds": [ 5041 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4632,7 +3847,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Kitchen Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorKitchen01",
@@ -4657,22 +3872,12 @@
       "korean": "그린 복고풍 바닥",
       "russian": "зеленый ретро-пол",
       "plural": false,
-      "internalIds": [
-        5045
-      ]
+      "internalIds": [ 5045 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "kitchen",
-      "shop"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "kitchen", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4687,7 +3892,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Rubber",
     "catalog": "For sale",
     "filename": "RoomTexFloorRubber00",
@@ -4712,22 +3917,12 @@
       "korean": "그린 고무 바닥",
       "russian": "зеленый резиновый пол",
       "plural": false,
-      "internalIds": [
-        4952
-      ]
+      "internalIds": [ 4952 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "fitness",
-      "school"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "fitness", "school" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4742,7 +3937,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Checker",
     "catalog": "For sale",
     "filename": "RoomTexFloorTileChecker02",
@@ -4767,21 +3962,12 @@
       "korean": "초록 데코타일 바닥",
       "russian": "зеленый линолеум",
       "plural": false,
-      "internalIds": [
-        5048
-      ]
+      "internalIds": [ 5048 ]
     },
-    "colors": [
-      "Green",
-      "White"
-    ],
-    "concepts": [
-      "expensive"
-    ],
+    "colors": [ "Green", "White" ],
+    "concepts": [ "expensive" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4796,7 +3982,7 @@
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
-    "hhaBaseScore": 437,
+    "hhaBasePoints": 437,
     "tag": "Tile Floors",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorMarbleTile02",
@@ -4821,19 +4007,12 @@
       "korean": "초록 웨딩 바닥",
       "russian": "зеленый свадебный пол",
       "plural": false,
-      "internalIds": [
-        12434
-      ]
+      "internalIds": [ 12434 ]
     },
     "colors": [],
-    "concepts": [
-      "party",
-      "expensive"
-    ],
+    "concepts": [ "party", "expensive" ],
     "series": "wedding",
-    "sources": [
-      "Cyrus"
-    ],
+    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -4848,7 +4027,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Painted Wood",
     "catalog": "For sale",
     "filename": "RoomTexFloorPaintWood01",
@@ -4873,22 +4052,12 @@
       "korean": "초록 페인트 마룻바닥",
       "russian": "зеленый пол",
       "plural": false,
-      "internalIds": [
-        5058
-      ]
+      "internalIds": [ 5058 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4903,7 +4072,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorHempTile00",
@@ -4928,22 +4097,12 @@
       "korean": "삼잎 타일 바닥",
       "russian": "пол с шестилистниками",
       "plural": false,
-      "internalIds": [
-        4972
-      ]
+      "internalIds": [ 4972 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "zen-style",
-      "shop"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "zen-style", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4958,7 +4117,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Sidewalk",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorHighway00",
@@ -4983,21 +4142,12 @@
       "korean": "고속도로 바닥",
       "russian": "пол-шоссе",
       "plural": false,
-      "internalIds": [
-        5237
-      ]
+      "internalIds": [ 5237 ]
     },
-    "colors": [
-      "Gray",
-      "Beige"
-    ],
-    "concepts": [
-      "facility"
-    ],
+    "colors": [ "Gray", "Beige" ],
+    "concepts": [ "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5012,7 +4162,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Neta",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorHoney00",
@@ -5037,22 +4187,12 @@
       "korean": "벌집 바닥",
       "russian": "пол «Соты»",
       "plural": false,
-      "internalIds": [
-        4999
-      ]
+      "internalIds": [ 4999 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "fancy",
-      "facility"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "fancy", "facility" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "honeycomb flooring",
@@ -5088,16 +4228,10 @@
         "korean": "벌집 바닥",
         "russian": "пол «Соты»",
         "plural": false,
-        "internalIds": [
-          4999
-        ]
+        "internalIds": [ 4999 ]
       },
-      "materials": {
-        "wasp nest": 5
-      },
-      "sources": [
-        "Jock villagers"
-      ]
+      "materials": { "wasp nest": 5 },
+      "sources": [ "Jock villagers" ]
     }
   },
   {
@@ -5112,7 +4246,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 444,
+    "hhaBasePoints": 444,
     "tag": "Special Nature Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorIce00",
@@ -5137,22 +4271,12 @@
       "korean": "아이스 바닥",
       "russian": "заледеневший пол",
       "plural": false,
-      "internalIds": [
-        5516
-      ]
+      "internalIds": [ 5516 ]
     },
-    "colors": [
-      "Light blue",
-      "Light blue"
-    ],
-    "concepts": [
-      "freezing cold",
-      "facility"
-    ],
+    "colors": [ "Light blue", "Light blue" ],
+    "concepts": [ "freezing cold", "facility" ],
     "series": "frozen",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ice flooring",
@@ -5188,17 +4312,13 @@
         "korean": "아이스 바닥",
         "russian": "заледеневший пол",
         "plural": false,
-        "internalIds": [
-          5516
-        ]
+        "internalIds": [ 5516 ]
       },
       "materials": {
         "large snowflake": 1,
         "snowflake": 8
       },
-      "sources": [
-        "Snowboy"
-      ]
+      "sources": [ "Snowboy" ]
     }
   },
   {
@@ -5213,7 +4333,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "tag": "Special Nature Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorIceFloe00",
@@ -5238,21 +4358,12 @@
       "korean": "빙하 바닥",
       "russian": "арктический пол",
       "plural": false,
-      "internalIds": [
-        5253
-      ]
+      "internalIds": [ 5253 ]
     },
-    "colors": [
-      "White",
-      "Light blue"
-    ],
-    "concepts": [
-      "freezing cold"
-    ],
+    "colors": [ "White", "Light blue" ],
+    "concepts": [ "freezing cold" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iceberg flooring",
@@ -5288,16 +4399,10 @@
         "korean": "빙하 바닥",
         "russian": "арктический пол",
         "plural": false,
-        "internalIds": [
-          5253
-        ]
+        "internalIds": [ 5253 ]
       },
-      "materials": {
-        "snowflake": 10
-      },
-      "sources": [
-        "Balloons"
-      ]
+      "materials": { "snowflake": 10 },
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -5312,7 +4417,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Luxury",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorDynasty00",
@@ -5337,21 +4442,12 @@
       "korean": "왕조 바닥",
       "russian": "пол в азиатском стиле",
       "plural": false,
-      "internalIds": [
-        5012
-      ]
+      "internalIds": [ 5012 ]
     },
-    "colors": [
-      "White",
-      "Gray"
-    ],
-    "concepts": [
-      "expensive"
-    ],
+    "colors": [ "White", "Gray" ],
+    "concepts": [ "expensive" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5366,7 +4462,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Cloth Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorJointMat00",
@@ -5391,22 +4487,12 @@
       "korean": "체크 매트 바닥",
       "russian": "пол-пазл из циновок",
       "plural": false,
-      "internalIds": [
-        4955
-      ]
+      "internalIds": [ 4955 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "school",
-      "child's room"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "school", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5421,7 +4507,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Nature - Green",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorJungle00",
@@ -5446,22 +4532,12 @@
       "korean": "정글 바닥",
       "russian": "пол «Джунгли»",
       "plural": false,
-      "internalIds": [
-        5515
-      ]
+      "internalIds": [ 5515 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "garden",
-      "facility"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "garden", "facility" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "jungle flooring",
@@ -5497,17 +4573,13 @@
         "korean": "정글 바닥",
         "russian": "пол «Джунгли»",
         "plural": false,
-        "internalIds": [
-          5515
-        ]
+        "internalIds": [ 5515 ]
       },
       "materials": {
         "clump of weeds": 10,
         "clay": 10
       },
-      "sources": [
-        "Jock villagers"
-      ]
+      "sources": [ "Jock villagers" ]
     }
   },
   {
@@ -5522,7 +4594,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorKitschTile00",
@@ -5547,21 +4619,12 @@
       "korean": "어지러운 바닥",
       "russian": "пол из ретро-кафеля",
       "plural": false,
-      "internalIds": [
-        5076
-      ]
+      "internalIds": [ 5076 ]
     },
-    "colors": [
-      "Pink",
-      "White"
-    ],
-    "concepts": [
-      "party"
-    ],
+    "colors": [ "Pink", "White" ],
+    "concepts": [ "party" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5576,7 +4639,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Special Inorganic Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorVolcano00",
@@ -5601,21 +4664,12 @@
       "korean": "용암 바닥",
       "russian": "вулканический пол",
       "plural": false,
-      "internalIds": [
-        5274
-      ]
+      "internalIds": [ 5274 ]
     },
-    "colors": [
-      "Black",
-      "Orange"
-    ],
-    "concepts": [
-      "horror"
-    ],
+    "colors": [ "Black", "Orange" ],
+    "concepts": [ "horror" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5630,7 +4684,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Animal Floor",
     "catalog": "For sale",
     "filename": "RoomTexFloorAnimal00",
@@ -5655,22 +4709,12 @@
       "korean": "표범 무늬 바닥",
       "russian": "леопардовый пол",
       "plural": false,
-      "internalIds": [
-        4959
-      ]
+      "internalIds": [ 4959 ]
     },
-    "colors": [
-      "Orange",
-      "Brown"
-    ],
-    "concepts": [
-      "party",
-      "fancy"
-    ],
+    "colors": [ "Orange", "Brown" ],
+    "concepts": [ "party", "fancy" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5685,7 +4729,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Herringbone",
     "catalog": "For sale",
     "filename": "RoomTexFloorHerringbone00",
@@ -5710,22 +4754,12 @@
       "korean": "라이트 헤링본 바닥",
       "russian": "светлый пол-елочка",
       "plural": false,
-      "internalIds": [
-        5061
-      ]
+      "internalIds": [ 5061 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "living room",
-      "shop"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5740,7 +4774,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Country",
     "catalog": "For sale",
     "filename": "RoomTexFloorCountry00",
@@ -5765,22 +4799,12 @@
       "korean": "밝은 쪽모이 바닥",
       "russian": "щитовой паркет",
       "plural": false,
-      "internalIds": [
-        5022
-      ]
+      "internalIds": [ 5022 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "concepts": [
-      "living room",
-      "shop"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5795,7 +4819,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Simple Parquet",
     "catalog": "For sale",
     "filename": "RoomTexFloorSimpleParquet00",
@@ -5820,22 +4844,12 @@
       "korean": "밝은 나무 바닥",
       "russian": "светлый паркетный пол",
       "plural": false,
-      "internalIds": [
-        4991
-      ]
+      "internalIds": [ 4991 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "living room",
-      "shop"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5850,7 +4864,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Cloth Floors",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorLobby00",
@@ -5875,22 +4889,12 @@
       "korean": "로비 바닥",
       "russian": "пол «Вестибюль»",
       "plural": false,
-      "internalIds": [
-        5034
-      ]
+      "internalIds": [ 5034 ]
     },
-    "colors": [
-      "Purple",
-      "Black"
-    ],
-    "concepts": [
-      "facility",
-      "party"
-    ],
+    "colors": [ "Purple", "Black" ],
+    "concepts": [ "facility", "party" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5905,7 +4909,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Nature - White",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorLunar00",
@@ -5930,21 +4934,12 @@
       "korean": "달표면 바닥",
       "russian": "лунный пол",
       "plural": false,
-      "internalIds": [
-        4968
-      ]
+      "internalIds": [ 4968 ]
     },
-    "colors": [
-      "White",
-      "Gray"
-    ],
-    "concepts": [
-      "space"
-    ],
+    "colors": [ "White", "Gray" ],
+    "concepts": [ "space" ],
     "series": "stars",
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lunar surface",
@@ -5980,17 +4975,13 @@
         "korean": "달표면 바닥",
         "russian": "лунный пол",
         "plural": false,
-        "internalIds": [
-          4968
-        ]
+        "internalIds": [ 4968 ]
       },
       "materials": {
         "star fragment": 5,
         "large star fragment": 1
       },
-      "sources": [
-        "Celeste"
-      ]
+      "sources": [ "Celeste" ]
     }
   },
   {
@@ -6005,7 +4996,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Cloth Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorFishPop00",
@@ -6030,23 +5021,101 @@
       "korean": "물결무늬 바닥",
       "russian": "пол с волнами",
       "plural": false,
-      "internalIds": [
-        5024
-      ]
+      "internalIds": [ 5024 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "child's room",
-      "fancy"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "child's room", "fancy" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
+  },
+  {
+    "sourceSheet": "Floors",
+    "name": "mermaid flooring",
+    "image": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorMermaid00.png",
+    "vfx": true,
+    "diy": true,
+    "buy": -1,
+    "sell": 20975,
+    "milesPrice": null,
+    "sourceNotes": null,
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "hhaBasePoints": null,
+    "tag": "Nature - White",
+    "catalog": "Not for sale",
+    "filename": "RoomSpFloorMermaid00",
+    "internalId": 12568,
+    "uniqueEntryId": "XLgLk68xXpgf344N2",
+    "translations": {
+      "sourceSheet": "Floors",
+      "id": "RoomFloor_12568",
+      "version": "1.3.0",
+      "english": "mermaid flooring",
+      "englishEurope": "mermaid flooring",
+      "german": "Nixenboden",
+      "spanish": "suelo sirena",
+      "spanishUs": "suelo sirena",
+      "french": "sol sirène",
+      "frenchUs": "sol sirène",
+      "italian": "pavimento sirena",
+      "dutch": "meerminnenvloer",
+      "chinese": "人鱼地板",
+      "chineseTraditional": "人魚地板",
+      "japanese": "マーメイドなゆか",
+      "korean": "머메이드 바닥",
+      "russian": "пол русалки",
+      "plural": false,
+      "internalIds": [ 12568 ]
+    },
+    "colors": [ "Light blue", "Pink" ],
+    "concepts": [ "ocean", "fancy" ],
+    "series": "mermaid",
+    "sources": [ "Crafting" ],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "mermaid flooring",
+      "buy": -1,
+      "sell": 200,
+      "milesPrice": null,
+      "sourceNotes": null,
+      "versionAdded": "1.3.0",
+      "versionUnlocked": "1.3.0",
+      "recipesToUnlock": 0,
+      "category": "Floors",
+      "craftedItemInternalId": 12568,
+      "cardColor": "white",
+      "serialId": 2761,
+      "internalId": 730,
+      "uniqueEntryId": "x4MaMfyCjjfCbzaeX",
+      "translations": {
+        "sourceSheet": "Floors",
+        "id": "RoomFloor_12568",
+        "version": "1.3.0",
+        "english": "mermaid flooring",
+        "englishEurope": "mermaid flooring",
+        "german": "Nixenboden",
+        "spanish": "suelo sirena",
+        "spanishUs": "suelo sirena",
+        "french": "sol sirène",
+        "frenchUs": "sol sirène",
+        "italian": "pavimento sirena",
+        "dutch": "meerminnenvloer",
+        "chinese": "人鱼地板",
+        "chineseTraditional": "人魚地板",
+        "japanese": "マーメイドなゆか",
+        "korean": "머메이드 바닥",
+        "russian": "пол русалки",
+        "plural": false,
+        "internalIds": [ 12568 ]
+      },
+      "materials": {
+        "pearl": 2,
+        "sand dollar": 5,
+        "Stone": 5
+      },
+      "sources": [ "Pascal" ]
+    }
   },
   {
     "sourceSheet": "Floors",
@@ -6060,7 +5129,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Dot",
     "catalog": "For sale",
     "filename": "RoomTexFloorDot01",
@@ -6085,22 +5154,12 @@
       "korean": "민트 도트 카펫 바닥",
       "russian": "зеленый пол в горошек",
       "plural": false,
-      "internalIds": [
-        5026
-      ]
+      "internalIds": [ 5026 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6115,7 +5174,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Wood Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorMixwood00",
@@ -6140,22 +5199,12 @@
       "korean": "믹스우드 바닥",
       "russian": "наборный пол",
       "plural": false,
-      "internalIds": [
-        5044
-      ]
+      "internalIds": [ 5044 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6170,7 +5219,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Decadence",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorBill00",
@@ -6195,21 +5244,12 @@
       "korean": "돈다발 바닥",
       "russian": "пол с купюрами",
       "plural": false,
-      "internalIds": [
-        4986
-      ]
+      "internalIds": [ 4986 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "expensive"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "expensive" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "money flooring",
@@ -6245,16 +5285,10 @@
         "korean": "돈다발 바닥",
         "russian": "пол с купюрами",
         "plural": false,
-        "internalIds": [
-          4986
-        ]
+        "internalIds": [ 4986 ]
       },
-      "materials": {
-        "bells": 50000
-      },
-      "sources": [
-        "Snooty villagers"
-      ]
+      "materials": { "bells": 50000 },
+      "sources": [ "Snooty villagers" ]
     }
   },
   {
@@ -6269,7 +5303,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Dot",
     "catalog": "For sale",
     "filename": "RoomTexFloorDot00",
@@ -6294,22 +5328,12 @@
       "korean": "흑백 도트 카펫 바닥",
       "russian": "пол в горошек",
       "plural": false,
-      "internalIds": [
-        5023
-      ]
+      "internalIds": [ 5023 ]
     },
-    "colors": [
-      "Gray",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Gray", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6324,7 +5348,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Panel",
     "catalog": "For sale",
     "filename": "RoomTexFloorPanel00",
@@ -6349,22 +5373,12 @@
       "korean": "흑백 패널 카펫 바닥",
       "russian": "пол из однотон. плитки",
       "plural": false,
-      "internalIds": [
-        5067
-      ]
+      "internalIds": [ 5067 ]
     },
-    "colors": [
-      "Black",
-      "White"
-    ],
-    "concepts": [
-      "den",
-      "living room"
-    ],
+    "colors": [ "Black", "White" ],
+    "concepts": [ "den", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6379,7 +5393,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Nature - Green",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorMoss00",
@@ -6404,22 +5418,12 @@
       "korean": "이끼 낀 바닥",
       "russian": "замшелый пол",
       "plural": false,
-      "internalIds": [
-        5234
-      ]
+      "internalIds": [ 5234 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "zen-style",
-      "garden"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "zen-style", "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6434,7 +5438,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Parquet",
     "catalog": "For sale",
     "filename": "RoomTexFloorParquet00",
@@ -6459,21 +5463,12 @@
       "korean": "내추럴 나무 블록 바닥",
       "russian": "эко-пол",
       "plural": false,
-      "internalIds": [
-        5033
-      ]
+      "internalIds": [ 5033 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
-    "concepts": [
-      "school"
-    ],
+    "colors": [ "Brown", "Beige" ],
+    "concepts": [ "school" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6488,7 +5483,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Wood Floors",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorFirst00",
@@ -6513,22 +5508,12 @@
       "korean": "Nook Inc. 마룻바닥",
       "russian": "пол Nook Inc.",
       "plural": false,
-      "internalIds": [
-        6005
-      ]
+      "internalIds": [ 6005 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "school",
-      "shop"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "school", "shop" ],
     "series": null,
-    "sources": [
-      "Nook Miles Shop"
-    ],
+    "sources": [ "Nook Miles Shop" ],
     "recipe": null
   },
   {
@@ -6543,7 +5528,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Special Inorganic Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorOasis00",
@@ -6568,22 +5553,12 @@
       "korean": "오아시스 바닥",
       "russian": "пол с оазисом",
       "plural": false,
-      "internalIds": [
-        5255
-      ]
+      "internalIds": [ 5255 ]
     },
-    "colors": [
-      "Beige",
-      "Light blue"
-    ],
-    "concepts": [
-      "garden",
-      "folk art"
-    ],
+    "colors": [ "Beige", "Light blue" ],
+    "concepts": [ "garden", "folk art" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6598,7 +5573,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Morocco",
     "catalog": "For sale",
     "filename": "RoomTexFloorMorocco03",
@@ -6623,22 +5598,12 @@
       "korean": "옐로그린 모로칸 타일 바닥",
       "russian": "оливковый пол «Восток»",
       "plural": false,
-      "internalIds": [
-        6928
-      ]
+      "internalIds": [ 6928 ]
     },
-    "colors": [
-      "Yellow",
-      "Brown"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "Yellow", "Brown" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6653,7 +5618,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Camouflage",
     "catalog": "For sale",
     "filename": "RoomTexFloorCamouflage03",
@@ -6678,22 +5643,12 @@
       "korean": "오렌지 밀리터리 바닥",
       "russian": "оранж. пол «Камуфляж»",
       "plural": false,
-      "internalIds": [
-        6845
-      ]
+      "internalIds": [ 6845 ]
     },
-    "colors": [
-      "Orange",
-      "Orange"
-    ],
-    "concepts": [
-      "party",
-      "child's room"
-    ],
+    "colors": [ "Orange", "Orange" ],
+    "concepts": [ "party", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6708,7 +5663,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Kitchen Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorKitchen00",
@@ -6733,22 +5688,12 @@
       "korean": "오렌지색 복고풍 바닥",
       "russian": "оранжевый ретро-пол",
       "plural": false,
-      "internalIds": [
-        5043
-      ]
+      "internalIds": [ 5043 ]
     },
-    "colors": [
-      "Orange",
-      "Orange"
-    ],
-    "concepts": [
-      "kitchen",
-      "shop"
-    ],
+    "colors": [ "Orange", "Orange" ],
+    "concepts": [ "kitchen", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6763,7 +5708,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Stone Floors",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorAtelier00",
@@ -6788,22 +5733,12 @@
       "korean": "아틀리에 바닥",
       "russian": "пол с кляксами",
       "plural": false,
-      "internalIds": [
-        4988
-      ]
+      "internalIds": [ 4988 ]
     },
-    "colors": [
-      "White",
-      "Colorful"
-    ],
-    "concepts": [
-      "garage",
-      "facility"
-    ],
+    "colors": [ "White", "Colorful" ],
+    "concepts": [ "garage", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6818,7 +5753,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Luxury",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorPalace00",
@@ -6843,22 +5778,12 @@
       "korean": "궁전 바닥",
       "russian": "дворцовый пол",
       "plural": false,
-      "internalIds": [
-        5051
-      ]
+      "internalIds": [ 5051 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "expensive",
-      "folk art"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "expensive", "folk art" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6873,7 +5798,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Sidewalk",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorParking00",
@@ -6898,21 +5823,12 @@
       "korean": "주차장 바닥",
       "russian": "пол-парковка",
       "plural": false,
-      "internalIds": [
-        4997
-      ]
+      "internalIds": [ 4997 ]
     },
-    "colors": [
-      "Black",
-      "Gray"
-    ],
-    "concepts": [
-      "facility"
-    ],
+    "colors": [ "Black", "Gray" ],
+    "concepts": [ "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6927,7 +5843,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 573,
+    "hhaBasePoints": 573,
     "tag": "Decadence",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorParty00",
@@ -6952,22 +5868,12 @@
       "korean": "파티 바닥",
       "russian": "пол «Вечеринка»",
       "plural": false,
-      "internalIds": [
-        5241
-      ]
+      "internalIds": [ 5241 ]
     },
-    "colors": [
-      "Colorful",
-      "Gray"
-    ],
-    "concepts": [
-      "party",
-      "fancy"
-    ],
+    "colors": [ "Colorful", "Gray" ],
+    "concepts": [ "party", "fancy" ],
     "series": null,
-    "sources": [
-      "Birthday"
-    ],
+    "sources": [ "Birthday" ],
     "recipe": null
   },
   {
@@ -6982,7 +5888,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Puzzle Mat",
     "catalog": "For sale",
     "filename": "RoomTexFloorPuzzleMat00",
@@ -7007,22 +5913,12 @@
       "korean": "파스텔 퍼즐 바닥",
       "russian": "пастельный пол-пазл",
       "plural": false,
-      "internalIds": [
-        4956
-      ]
+      "internalIds": [ 4956 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7037,7 +5933,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorPatchworkTile00",
@@ -7062,22 +5958,12 @@
       "korean": "패치워크 타일 바닥",
       "russian": "пол из разных плиток",
       "plural": false,
-      "internalIds": [
-        4995
-      ]
+      "internalIds": [ 4995 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "expensive",
-      "shop"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "expensive", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7092,7 +5978,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Wood Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorSimple00",
@@ -7117,22 +6003,12 @@
       "korean": "레드우드 마룻바닥",
       "russian": "сосновый пол",
       "plural": false,
-      "internalIds": [
-        5019
-      ]
+      "internalIds": [ 5019 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7147,7 +6023,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Painted Wood",
     "catalog": "For sale",
     "filename": "RoomTexFloorPaintWood02",
@@ -7172,22 +6048,57 @@
       "korean": "핑크 페인트 마룻바닥",
       "russian": "розовый пол",
       "plural": false,
-      "internalIds": [
-        5059
-      ]
+      "internalIds": [ 5059 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Floors",
+    "name": "pirate flooring",
+    "image": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPirates00.png",
+    "vfx": false,
+    "diy": false,
+    "buy": -1,
+    "sell": 750,
+    "milesPrice": null,
+    "sourceNotes": null,
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "hhaBasePoints": null,
+    "tag": "Luxury",
+    "catalog": "Not for sale",
+    "filename": "RoomTexFloorPirates00",
+    "internalId": 12569,
+    "uniqueEntryId": "RaD6jMvqDehvYkgSg",
+    "translations": {
+      "sourceSheet": "Floors",
+      "id": "RoomFloor_12569",
+      "version": "1.3.0",
+      "english": "pirate flooring",
+      "englishEurope": "pirate flooring",
+      "german": "Piratenboden",
+      "spanish": "suelo pirata",
+      "spanishUs": "suelo pirata",
+      "french": "sol pirate",
+      "frenchUs": "sol pirate",
+      "italian": "pavimento pirata",
+      "dutch": "piratenvloer",
+      "chinese": "海盗地板",
+      "chineseTraditional": "海盜地板",
+      "japanese": "かいぞくのゆか",
+      "korean": "해적 바닥",
+      "russian": "пиратский пол",
+      "plural": false,
+      "internalIds": [ 12569 ]
+    },
+    "colors": [ "Blue", "Brown" ],
+    "concepts": [ "ocean", "expensive" ],
+    "series": "pirate",
+    "sources": [ "Gullivarrr" ],
     "recipe": null
   },
   {
@@ -7202,7 +6113,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Camouflage",
     "catalog": "For sale",
     "filename": "RoomTexFloorCamouflage02",
@@ -7227,22 +6138,12 @@
       "korean": "퍼플 밀리터리 바닥",
       "russian": "фиолет. пол «Камуфляж»",
       "plural": false,
-      "internalIds": [
-        5017
-      ]
+      "internalIds": [ 5017 ]
     },
-    "colors": [
-      "Purple",
-      "Purple"
-    ],
-    "concepts": [
-      "party",
-      "child's room"
-    ],
+    "colors": [ "Purple", "Purple" ],
+    "concepts": [ "party", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7257,7 +6158,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Morocco",
     "catalog": "For sale",
     "filename": "RoomTexFloorMorocco02",
@@ -7282,22 +6183,12 @@
       "korean": "퍼플 모로칸 타일 바닥",
       "russian": "фиолет. пол «Восток»",
       "plural": false,
-      "internalIds": [
-        6927
-      ]
+      "internalIds": [ 6927 ]
     },
-    "colors": [
-      "Purple",
-      "White"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "Purple", "White" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7312,7 +6203,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Puzzle Mat",
     "catalog": "For sale",
     "filename": "RoomTexFloorPuzzleMat03",
@@ -7337,21 +6228,12 @@
       "korean": "퍼플 퍼즐 바닥",
       "russian": "фиолетовый пол-пазл",
       "plural": false,
-      "internalIds": [
-        7185
-      ]
+      "internalIds": [ 7185 ]
     },
-    "colors": [
-      "Purple",
-      "Colorful"
-    ],
-    "concepts": [
-      "fancy"
-    ],
+    "colors": [ "Purple", "Colorful" ],
+    "concepts": [ "fancy" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7366,7 +6248,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Luxury",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorEgypt00",
@@ -7391,21 +6273,12 @@
       "korean": "피라미드 바닥",
       "russian": "пол пирамиды",
       "plural": false,
-      "internalIds": [
-        5054
-      ]
+      "internalIds": [ 5054 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "folk art"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "folk art" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7420,7 +6293,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Sports Floor",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorAthletics00",
@@ -7445,22 +6318,12 @@
       "korean": "경주 트랙 바닥",
       "russian": "пол-ипподром",
       "plural": false,
-      "internalIds": [
-        4996
-      ]
+      "internalIds": [ 4996 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "fitness",
-      "school"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "fitness", "school" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7475,7 +6338,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Decadence",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorRuins00",
@@ -7500,21 +6363,12 @@
       "korean": "폐허 바닥",
       "russian": "обветшавший пол",
       "plural": false,
-      "internalIds": [
-        5240
-      ]
+      "internalIds": [ 5240 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "horror"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "horror" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7529,7 +6383,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorSquareTile00",
@@ -7554,22 +6408,12 @@
       "korean": "랜덤 사각 타일 바닥",
       "russian": "пол из плитки без узора",
       "plural": false,
-      "internalIds": [
-        4973
-      ]
+      "internalIds": [ 4973 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7584,7 +6428,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Wood Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorRattan00",
@@ -7609,22 +6453,12 @@
       "korean": "라탄 바닥",
       "russian": "тростниковый пол",
       "plural": false,
-      "internalIds": [
-        4967
-      ]
+      "internalIds": [ 4967 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "facility", "shop" ],
     "series": "rattan",
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7639,7 +6473,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Dot",
     "catalog": "For sale",
     "filename": "RoomTexFloorDot02",
@@ -7664,22 +6498,12 @@
       "korean": "레드 도트 카펫 바닥",
       "russian": "красный пол в горошек",
       "plural": false,
-      "internalIds": [
-        5027
-      ]
+      "internalIds": [ 5027 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7694,7 +6518,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Checker",
     "catalog": "For sale",
     "filename": "RoomTexFloorTileChecker01",
@@ -7719,21 +6543,12 @@
       "korean": "적흑 데코타일 바닥",
       "russian": "черно-красн. линолеум",
       "plural": false,
-      "internalIds": [
-        5047
-      ]
+      "internalIds": [ 5047 ]
     },
-    "colors": [
-      "Red",
-      "Gray"
-    ],
-    "concepts": [
-      "expensive"
-    ],
+    "colors": [ "Red", "Gray" ],
+    "concepts": [ "expensive" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7748,7 +6563,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Brick",
     "catalog": "For sale",
     "filename": "RoomTexFloorBrick01",
@@ -7773,22 +6588,12 @@
       "korean": "빨간 벽돌 바닥",
       "russian": "пол из красного кирпича",
       "plural": false,
-      "internalIds": [
-        4975
-      ]
+      "internalIds": [ 4975 ]
     },
-    "colors": [
-      "Red",
-      "Brown"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "Red", "Brown" ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7803,7 +6608,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Nature - Brown",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorRock00",
@@ -7828,21 +6633,12 @@
       "korean": "바위 산 바닥",
       "russian": "каменистый пол",
       "plural": false,
-      "internalIds": [
-        5239
-      ]
+      "internalIds": [ 5239 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7857,7 +6653,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Cloth Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorRoseCarpet00",
@@ -7882,22 +6678,12 @@
       "korean": "장미 카펫 바닥",
       "russian": "пол с розами",
       "plural": false,
-      "internalIds": [
-        4958
-      ]
+      "internalIds": [ 4958 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "fancy",
-      "expensive"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "fancy", "expensive" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7912,7 +6698,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Wood Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorRoseWood00",
@@ -7937,22 +6723,12 @@
       "korean": "로즈우드 바닥",
       "russian": "пол из палисандра",
       "plural": false,
-      "internalIds": [
-        5063
-      ]
+      "internalIds": [ 5063 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "concepts": [
-      "expensive",
-      "living room"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7967,7 +6743,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorRubberTile00",
@@ -7992,22 +6768,12 @@
       "korean": "고무 타일 바닥",
       "russian": "резиновый пол",
       "plural": false,
-      "internalIds": [
-        5163
-      ]
+      "internalIds": [ 5163 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8022,7 +6788,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tatami",
     "catalog": "For sale",
     "filename": "RoomTexFloorTatami01",
@@ -8047,22 +6813,12 @@
       "korean": "파란 테두리 일본식 바닥",
       "russian": "камышовое татами",
       "plural": false,
-      "internalIds": [
-        5079
-      ]
+      "internalIds": [ 5079 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "zen-style",
-      "living room"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "zen-style", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8077,7 +6833,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tatami Panel",
     "catalog": "For sale",
     "filename": "RoomTexFloorTatamiPanel01",
@@ -8102,22 +6858,12 @@
       "korean": "바둑판무늬 일본식 바닥",
       "russian": "камышовый пол-татами",
       "plural": false,
-      "internalIds": [
-        5078
-      ]
+      "internalIds": [ 5078 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "zen-style",
-      "living room"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "zen-style", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8132,7 +6878,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Nature - White",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorDesert00",
@@ -8157,21 +6903,12 @@
       "korean": "사막 바닥",
       "russian": "пол «Пустыня Сахары»",
       "plural": false,
-      "internalIds": [
-        4983
-      ]
+      "internalIds": [ 4983 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "folk art"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "folk art" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -8186,7 +6923,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "tag": "Wood Floors",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorSolidWood00",
@@ -8211,22 +6948,12 @@
       "korean": "벚꽃색 우드 바닥",
       "russian": "пол из вишневого дерева",
       "plural": false,
-      "internalIds": [
-        5056
-      ]
+      "internalIds": [ 5056 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "concepts": [
-      "child's room",
-      "fancy"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "concepts": [ "child's room", "fancy" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "sakura-wood flooring",
@@ -8262,17 +6989,13 @@
         "korean": "벚꽃색 우드 바닥",
         "russian": "пол из вишневого дерева",
         "plural": false,
-        "internalIds": [
-          5056
-        ]
+        "internalIds": [ 5056 ]
       },
       "materials": {
         "cherry-blossom petal": 5,
         "wood": 10
       },
-      "sources": [
-        "Balloons"
-      ]
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -8287,7 +7010,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Nature - Brown",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorEmptyLot00",
@@ -8312,21 +7035,12 @@
       "korean": "공터 바닥",
       "russian": "пустырный пол",
       "plural": false,
-      "internalIds": [
-        4985
-      ]
+      "internalIds": [ 4985 ]
     },
-    "colors": [
-      "Yellow",
-      "Beige"
-    ],
-    "concepts": [
-      "garden"
-    ],
+    "colors": [ "Yellow", "Beige" ],
+    "concepts": [ "garden" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -8341,7 +7055,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Nature - White",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorSand00",
@@ -8366,21 +7080,12 @@
       "korean": "모래사장 바닥",
       "russian": "пляжный пол",
       "plural": false,
-      "internalIds": [
-        4970
-      ]
+      "internalIds": [ 4970 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "ocean"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "ocean" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "sandy-beach flooring",
@@ -8416,9 +7121,7 @@
         "korean": "모래사장 바닥",
         "russian": "пляжный пол",
         "plural": false,
-        "internalIds": [
-          4970
-        ]
+        "internalIds": [ 4970 ]
       },
       "materials": {
         "sea snail": 1,
@@ -8428,9 +7131,7 @@
         "giant clam": 1,
         "cowrie": 1
       },
-      "sources": [
-        "Jock villagers"
-      ]
+      "sources": [ "Jock villagers" ]
     }
   },
   {
@@ -8445,7 +7146,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Special Inorganic Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorSF00",
@@ -8470,22 +7171,12 @@
       "korean": "우주선 바닥",
       "russian": "пол космолета",
       "plural": false,
-      "internalIds": [
-        5270
-      ]
+      "internalIds": [ 5270 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "concepts": [
-      "space",
-      "facility"
-    ],
+    "colors": [ "Black", "Black" ],
+    "concepts": [ "space", "facility" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "sci-fi flooring",
@@ -8521,17 +7212,13 @@
         "korean": "우주선 바닥",
         "russian": "пол космолета",
         "plural": false,
-        "internalIds": [
-          5270
-        ]
+        "internalIds": [ 5270 ]
       },
       "materials": {
         "star fragment": 5,
         "large star fragment": 1
       },
-      "sources": [
-        "Celeste"
-      ]
+      "sources": [ "Celeste" ]
     }
   },
   {
@@ -8546,7 +7233,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Sidewalk",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorScramble00",
@@ -8571,21 +7258,12 @@
       "korean": "대각선 횡단보도",
       "russian": "пол с перекрестком зебр",
       "plural": false,
-      "internalIds": [
-        5010
-      ]
+      "internalIds": [ 5010 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "concepts": [
-      "facility"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -8600,7 +7278,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Puzzle Mat",
     "catalog": "For sale",
     "filename": "RoomTexFloorPuzzleMat02",
@@ -8625,22 +7303,12 @@
       "korean": "세피아 퍼즐 바닥",
       "russian": "пол-пазл в сепии",
       "plural": false,
-      "internalIds": [
-        7184
-      ]
+      "internalIds": [ 7184 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "concepts": [
-      "fancy",
-      "child's room"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8655,7 +7323,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Sports Floor",
     "catalog": "For sale",
     "filename": "RoomTexFloorSeaView00",
@@ -8680,21 +7348,12 @@
       "korean": "갑판 바닥",
       "russian": "корабельный пол",
       "plural": false,
-      "internalIds": [
-        4950
-      ]
+      "internalIds": [ 4950 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "ocean"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "ocean" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8709,7 +7368,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Sidewalk",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorSidewalk01",
@@ -8734,22 +7393,12 @@
       "korean": "보도블록 바닥",
       "russian": "пол с тротуаром",
       "plural": false,
-      "internalIds": [
-        5008
-      ]
+      "internalIds": [ 5008 ]
     },
-    "colors": [
-      "Gray",
-      "Brown"
-    ],
-    "concepts": [
-      "shop",
-      "facility"
-    ],
+    "colors": [ "Gray", "Brown" ],
+    "concepts": [ "shop", "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -8764,7 +7413,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Simple Carpet",
     "catalog": "For sale",
     "filename": "RoomTexFloorSimpleCarpet01",
@@ -8789,22 +7438,12 @@
       "korean": "파란 심플 카펫 바닥",
       "russian": "простой синий пол",
       "plural": false,
-      "internalIds": [
-        5001
-      ]
+      "internalIds": [ 5001 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "concepts": [
-      "den",
-      "living room"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "concepts": [ "den", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8819,7 +7458,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Simple Carpet",
     "catalog": "For sale",
     "filename": "RoomTexFloorSimpleCarpet03",
@@ -8844,22 +7483,12 @@
       "korean": "보라 심플 카펫 바닥",
       "russian": "простой фиолет. пол",
       "plural": false,
-      "internalIds": [
-        5003
-      ]
+      "internalIds": [ 5003 ]
     },
-    "colors": [
-      "Purple",
-      "Purple"
-    ],
-    "concepts": [
-      "den",
-      "expensive"
-    ],
+    "colors": [ "Purple", "Purple" ],
+    "concepts": [ "den", "expensive" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8874,7 +7503,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Simple Carpet",
     "catalog": "For sale",
     "filename": "RoomTexFloorSimpleCarpet00",
@@ -8899,22 +7528,12 @@
       "korean": "빨간 심플 카펫 바닥",
       "russian": "простой красный пол",
       "plural": false,
-      "internalIds": [
-        5000
-      ]
+      "internalIds": [ 5000 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "concepts": [
-      "den",
-      "expensive"
-    ],
+    "colors": [ "Red", "Red" ],
+    "concepts": [ "den", "expensive" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8929,7 +7548,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Simple Carpet",
     "catalog": "For sale",
     "filename": "RoomTexFloorSimpleCarpet04",
@@ -8954,22 +7573,12 @@
       "korean": "하얀 심플 카펫 바닥",
       "russian": "простой белый пол",
       "plural": false,
-      "internalIds": [
-        5004
-      ]
+      "internalIds": [ 5004 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "living room",
-      "shop"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8984,7 +7593,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "tag": "Nature - White",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorGelande00",
@@ -9009,21 +7618,12 @@
       "korean": "스키장 바닥",
       "russian": "пол «Лыжный курорт»",
       "plural": false,
-      "internalIds": [
-        4989
-      ]
+      "internalIds": [ 4989 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "freezing cold"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "freezing cold" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ski-slope flooring",
@@ -9059,16 +7659,10 @@
         "korean": "스키장 바닥",
         "russian": "пол «Лыжный курорт»",
         "plural": false,
-        "internalIds": [
-          4989
-        ]
+        "internalIds": [ 4989 ]
       },
-      "materials": {
-        "snowflake": 8
-      },
-      "sources": [
-        "Balloons"
-      ]
+      "materials": { "snowflake": 8 },
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -9083,7 +7677,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Cloth Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorSkull00",
@@ -9108,22 +7702,12 @@
       "korean": "해골 바닥",
       "russian": "пол с черепами",
       "plural": false,
-      "internalIds": [
-        5248
-      ]
+      "internalIds": [ 5248 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "concepts": [
-      "horror",
-      "child's room"
-    ],
+    "colors": [ "Black", "Black" ],
+    "concepts": [ "horror", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9138,7 +7722,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Stone Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorSlate00",
@@ -9163,22 +7747,12 @@
       "korean": "마구 붙인 돌바닥",
       "russian": "пол из сланцевой плитки",
       "plural": false,
-      "internalIds": [
-        5233
-      ]
+      "internalIds": [ 5233 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9193,7 +7767,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "tag": "Nature - White",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorSandStar00",
@@ -9218,22 +7792,12 @@
       "korean": "별빛 모래사장 바닥",
       "russian": "блестящий пол из песка",
       "plural": false,
-      "internalIds": [
-        7239
-      ]
+      "internalIds": [ 7239 ]
     },
-    "colors": [
-      "Beige",
-      "White"
-    ],
-    "concepts": [
-      "ocean",
-      "fancy"
-    ],
+    "colors": [ "Beige", "White" ],
+    "concepts": [ "ocean", "fancy" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "starry-sands flooring",
@@ -9269,17 +7833,13 @@
         "korean": "별빛 모래사장 바닥",
         "russian": "блестящий пол из песка",
         "plural": false,
-        "internalIds": [
-          7239
-        ]
+        "internalIds": [ 7239 ]
       },
       "materials": {
         "summer shell": 3,
         "sandy-beach flooring": 1
       },
-      "sources": [
-        "Balloons"
-      ]
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -9294,7 +7854,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "tag": "Iron",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorSteel00",
@@ -9319,22 +7879,12 @@
       "korean": "철판 바닥",
       "russian": "стальной пол",
       "plural": false,
-      "internalIds": [
-        4960
-      ]
+      "internalIds": [ 4960 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "concepts": [
-      "garage",
-      "facility"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "garage", "facility" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "steel flooring",
@@ -9370,16 +7920,10 @@
         "korean": "철판 바닥",
         "russian": "стальной пол",
         "plural": false,
-        "internalIds": [
-          4960
-        ]
+        "internalIds": [ 4960 ]
       },
-      "materials": {
-        "iron nugget": 7
-      },
-      "sources": [
-        "Smug villagers"
-      ]
+      "materials": { "iron nugget": 7 },
+      "sources": [ "Smug villagers" ]
     }
   },
   {
@@ -9394,7 +7938,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Stone Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorMarble00",
@@ -9419,22 +7963,12 @@
       "korean": "대리석 바닥",
       "russian": "пол из каменной плитки",
       "plural": false,
-      "internalIds": [
-        5069
-      ]
+      "internalIds": [ 5069 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "expensive",
-      "facility"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "expensive", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9449,7 +7983,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Cloth Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorStripe00",
@@ -9474,22 +8008,12 @@
       "korean": "스트라이프 바닥",
       "russian": "полосатый пол",
       "plural": false,
-      "internalIds": [
-        4963
-      ]
+      "internalIds": [ 4963 ]
     },
-    "colors": [
-      "Colorful",
-      "Gray"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Colorful", "Gray" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9504,7 +8028,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Sports Floor",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorArena00",
@@ -9529,22 +8053,12 @@
       "korean": "씨름판",
       "russian": "пол для сумо",
       "plural": false,
-      "internalIds": [
-        5013
-      ]
+      "internalIds": [ 5013 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "fitness",
-      "zen-style"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "fitness", "zen-style" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -9559,7 +8073,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Nature - Brown",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorBog00",
@@ -9584,22 +8098,12 @@
       "korean": "진흙탕 바닥",
       "russian": "болотный пол",
       "plural": false,
-      "internalIds": [
-        5238
-      ]
+      "internalIds": [ 5238 ]
     },
-    "colors": [
-      "Black",
-      "Gray"
-    ],
-    "concepts": [
-      "garden",
-      "horror"
-    ],
+    "colors": [ "Black", "Gray" ],
+    "concepts": [ "garden", "horror" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -9614,7 +8118,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tatami",
     "catalog": "For sale",
     "filename": "RoomTexFloorTatami00",
@@ -9639,22 +8143,12 @@
       "korean": "일본식 바닥",
       "russian": "татами",
       "plural": false,
-      "internalIds": [
-        5039
-      ]
+      "internalIds": [ 5039 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "zen-style",
-      "living room"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "zen-style", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9669,7 +8163,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tatami Panel",
     "catalog": "For sale",
     "filename": "RoomTexFloorTatamiPanel00",
@@ -9694,22 +8188,12 @@
       "korean": "일본식 돗자리 바닥",
       "russian": "пол-татами",
       "plural": false,
-      "internalIds": [
-        5077
-      ]
+      "internalIds": [ 5077 ]
     },
-    "colors": [
-      "Green",
-      "White"
-    ],
-    "concepts": [
-      "zen-style",
-      "living room"
-    ],
+    "colors": [ "Green", "White" ],
+    "concepts": [ "zen-style", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9724,7 +8208,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorTileTerracotta00",
@@ -9749,22 +8233,12 @@
       "korean": "테라코타 타일 바닥",
       "russian": "керамический пол",
       "plural": false,
-      "internalIds": [
-        4971
-      ]
+      "internalIds": [ 4971 ]
     },
-    "colors": [
-      "Orange",
-      "Orange"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "Orange", "Orange" ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9779,7 +8253,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Animal Floor",
     "catalog": "For sale",
     "filename": "RoomTexFloorAnimal03",
@@ -9804,22 +8278,12 @@
       "korean": "호랑이 카펫 바닥",
       "russian": "пол с тигровым узором",
       "plural": false,
-      "internalIds": [
-        6848
-      ]
+      "internalIds": [ 6848 ]
     },
-    "colors": [
-      "Black",
-      "Orange"
-    ],
-    "concepts": [
-      "party",
-      "fancy"
-    ],
+    "colors": [ "Black", "Orange" ],
+    "concepts": [ "party", "fancy" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9834,7 +8298,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Sidewalk",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorPlatform00",
@@ -9859,21 +8323,12 @@
       "korean": "승강장 바닥",
       "russian": "перрон",
       "plural": false,
-      "internalIds": [
-        5009
-      ]
+      "internalIds": [ 5009 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "concepts": [
-      "facility"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "concepts": [ "facility" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -9888,7 +8343,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "tag": "Special Nature Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorFishTank00",
@@ -9913,21 +8368,12 @@
       "korean": "해저 바닥",
       "russian": "подводный пол",
       "plural": false,
-      "internalIds": [
-        5268
-      ]
+      "internalIds": [ 5268 ]
     },
-    "colors": [
-      "Blue",
-      "Light blue"
-    ],
-    "concepts": [
-      "ocean"
-    ],
+    "colors": [ "Blue", "Light blue" ],
+    "concepts": [ "ocean" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "underwater flooring",
@@ -9963,17 +8409,13 @@
         "korean": "해저 바닥",
         "russian": "подводный пол",
         "plural": false,
-        "internalIds": [
-          5268
-        ]
+        "internalIds": [ 5268 ]
       },
       "materials": {
         "summer shell": 3,
         "coral": 3
       },
-      "sources": [
-        "Balloons"
-      ]
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -9988,7 +8430,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "tag": "Special Nature Floors",
     "catalog": "Not for sale",
     "filename": "RoomSpFloorWater00",
@@ -10013,21 +8455,12 @@
       "korean": "수면 바닥",
       "russian": "пол с прозрачной водой",
       "plural": false,
-      "internalIds": [
-        5030
-      ]
+      "internalIds": [ 5030 ]
     },
-    "colors": [
-      "Light blue",
-      "Blue"
-    ],
-    "concepts": [
-      "ocean"
-    ],
+    "colors": [ "Light blue", "Blue" ],
+    "concepts": [ "ocean" ],
     "series": null,
-    "sources": [
-      "Crafting"
-    ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "water flooring",
@@ -10063,16 +8496,10 @@
         "korean": "수면 바닥",
         "russian": "пол с прозрачной водой",
         "plural": false,
-        "internalIds": [
-          5030
-        ]
+        "internalIds": [ 5030 ]
       },
-      "materials": {
-        "summer shell": 6
-      },
-      "sources": [
-        "Balloons"
-      ]
+      "materials": { "summer shell": 6 },
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -10087,7 +8514,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Nature - Brown",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorWilderness00",
@@ -10112,22 +8539,12 @@
       "korean": "황야 바닥",
       "russian": "пол в стиле вестерн",
       "plural": false,
-      "internalIds": [
-        4984
-      ]
+      "internalIds": [ 4984 ]
     },
-    "colors": [
-      "Beige",
-      "Beige"
-    ],
-    "concepts": [
-      "folk art",
-      "horror"
-    ],
+    "colors": [ "Beige", "Beige" ],
+    "concepts": [ "folk art", "horror" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -10142,7 +8559,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Honeycomb",
     "catalog": "For sale",
     "filename": "RoomTexFloorHoneycomb03",
@@ -10167,22 +8584,12 @@
       "korean": "하얀 육각 타일 바닥",
       "russian": "белый пол «Соты»",
       "plural": false,
-      "internalIds": [
-        5042
-      ]
+      "internalIds": [ 5042 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10197,7 +8604,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Iron Parquet",
     "catalog": "For sale",
     "filename": "RoomTexFloorParquetIron03",
@@ -10222,22 +8629,12 @@
       "korean": "하얀 패턴 바닥",
       "russian": "белый стальной пол",
       "plural": false,
-      "internalIds": [
-        6843
-      ]
+      "internalIds": [ 6843 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "expensive",
-      "living room"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10252,7 +8649,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Tile Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorTile00",
@@ -10277,22 +8674,12 @@
       "korean": "하얀 모자이크 타일 바닥",
       "russian": "белый мозаичный пол",
       "plural": false,
-      "internalIds": [
-        5020
-      ]
+      "internalIds": [ 5020 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "bathroom",
-      "facility"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10307,7 +8694,7 @@
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
-    "hhaBaseScore": 437,
+    "hhaBasePoints": 437,
     "tag": "Tile Floors",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorMarbleTile00",
@@ -10332,19 +8719,12 @@
       "korean": "하얀 웨딩 바닥",
       "russian": "белый свадебный пол",
       "plural": false,
-      "internalIds": [
-        12431
-      ]
+      "internalIds": [ 12431 ]
     },
     "colors": [],
-    "concepts": [
-      "party",
-      "expensive"
-    ],
+    "concepts": [ "party", "expensive" ],
     "series": "wedding",
-    "sources": [
-      "Cyrus"
-    ],
+    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -10359,7 +8739,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Brick",
     "catalog": "For sale",
     "filename": "RoomTexFloorBrick00",
@@ -10384,22 +8764,12 @@
       "korean": "하얀 벽돌 바닥",
       "russian": "пол из белого кирпича",
       "plural": false,
-      "internalIds": [
-        4974
-      ]
+      "internalIds": [ 4974 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "facility",
-      "shop"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10414,7 +8784,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Chocolate",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorChocolate01",
@@ -10439,21 +8809,12 @@
       "korean": "화이트 초콜릿 바닥",
       "russian": "светло-шоколадный пол",
       "plural": false,
-      "internalIds": [
-        5052
-      ]
+      "internalIds": [ 5052 ]
     },
-    "colors": [
-      "White",
-      "Beige"
-    ],
-    "concepts": [
-      "fancy"
-    ],
+    "colors": [ "White", "Beige" ],
+    "concepts": [ "fancy" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -10468,7 +8829,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Painted Wood",
     "catalog": "For sale",
     "filename": "RoomTexFloorPaintWood03",
@@ -10493,22 +8854,12 @@
       "korean": "하얀 페인트 마룻바닥",
       "russian": "белый пол",
       "plural": false,
-      "internalIds": [
-        5060
-      ]
+      "internalIds": [ 5060 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10523,7 +8874,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 451,
+    "hhaBasePoints": 451,
     "tag": "Grassland",
     "catalog": "Not for sale",
     "filename": "RoomTexFloorGrassland01",
@@ -10548,22 +8899,12 @@
       "korean": "풀꽃 카펫 바닥",
       "russian": "пол с луговыми цветами",
       "plural": false,
-      "internalIds": [
-        5006
-      ]
+      "internalIds": [ 5006 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "concepts": [
-      "garden",
-      "fancy"
-    ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "garden", "fancy" ],
     "series": null,
-    "sources": [
-      "Saharah"
-    ],
+    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -10578,7 +8919,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Wood Floors",
     "catalog": "For sale",
     "filename": "RoomTexFloorCedar00",
@@ -10603,22 +8944,12 @@
       "korean": "옹이 무늬 마룻바닥",
       "russian": "пол из дерева с сучками",
       "plural": false,
-      "internalIds": [
-        5049
-      ]
+      "internalIds": [ 5049 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "concepts": [
-      "living room",
-      "child's room"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10633,7 +8964,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Deco Wood",
     "catalog": "For sale",
     "filename": "RoomTexFloorDecoWood00",
@@ -10658,22 +8989,12 @@
       "korean": "노란 꽃무늬 마룻바닥",
       "russian": "пол с цветами на желтом",
       "plural": false,
-      "internalIds": [
-        5073
-      ]
+      "internalIds": [ 5073 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "concepts": [
-      "shop",
-      "living room"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "concepts": [ "shop", "living room" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10688,7 +9009,7 @@
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "tag": "Animal Floor",
     "catalog": "For sale",
     "filename": "RoomTexFloorAnimal02",
@@ -10713,22 +9034,12 @@
       "korean": "얼룩말 무늬 바닥",
       "russian": "пол с полосками зебры",
       "plural": false,
-      "internalIds": [
-        4962
-      ]
+      "internalIds": [ 4962 ]
     },
-    "colors": [
-      "Black",
-      "White"
-    ],
-    "concepts": [
-      "party",
-      "fancy"
-    ],
+    "colors": [ "Black", "White" ],
+    "concepts": [ "party", "fancy" ],
     "series": null,
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   }
 ]
