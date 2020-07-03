@@ -1,9 +1,9 @@
 import { join } from 'path';
-import { writeFileSync } from 'fs';
 
 import { category } from '../util/category';
 import { directories } from '../util/directories';
 import { separate } from '../util/separate';
+import { write } from '../util/write';
 
 // This script merges some values from villagers into an array, such as the
 // villager's style and colors. In addition, the translations for the villager's
@@ -31,4 +31,4 @@ for (const villager of villagers) {
   villager.defaultClothing = items.find((item) => item['Internal ID'] === clothingInternalId)?.Name ?? null;
 }
 
-writeFileSync(join(directories.sanitized, `Villagers.json`), JSON.stringify(villagers, null, 2));
+write(join(directories.sanitized, `Villagers.json`), villagers);

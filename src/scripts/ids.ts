@@ -1,8 +1,8 @@
-import { writeFileSync } from 'fs';
 import { join } from 'path';
 
 import { directories } from '../util/directories';
 import { get } from '../util/get';
+import { write } from '../util/write';
 
 // Every entry within the AC: NH spreadsheet has an internal ID and a unique ID,
 // these IDs make it easier for one to update their database in case if an
@@ -42,4 +42,4 @@ for (const item of items) {
   IDs.push({ name, uniqueID, id, filename, sourceSheet, variation });
 }
 
-writeFileSync(join(directories.sanitized, 'IDs.json'), JSON.stringify(IDs, null, 2));
+write(join(directories.sanitized, 'IDs.json'), IDs);

@@ -1,8 +1,8 @@
 import { join } from 'path';
-import { writeFileSync } from 'fs';
 
-import { directories } from '../util/directories';
 import { category } from '../util/category';
+import { directories } from '../util/directories';
+import { write } from '../util/write';
 
 // An achievement in Animal Crossing may have up to 6 tiers, with each tier
 // having an amount of Nook Miles to award the player and a modifier/noun for
@@ -63,4 +63,4 @@ for (const achievement of achievements) {
   }
 }
 
-writeFileSync(join(directories.sanitized, `Achievements.json`), JSON.stringify(achievements, null, 2));
+write(join(directories.sanitized, `Achievements.json`), achievements);

@@ -1,11 +1,11 @@
 import { mapKeys, pick } from 'lodash';
-import { writeFileSync } from 'fs';
 
 import { directories } from '../util/directories';
 import { files } from '../util/category';
 import { get } from '../util/get';
 import { separate } from '../util/separate';
 import { validate } from '../util/validate';
+import { write } from '../util/write';
 
 // In Animal Crossing, creatures such as fish and bugs are available for certain
 // months throughout the year, which is different for both of the hemispheres.
@@ -108,5 +108,5 @@ for (const file of files('Creatures', directories.sanitized)) {
     }
   }
 
-  writeFileSync(file, JSON.stringify(creatures, null, 2));
+  write(file, creatures);
 }

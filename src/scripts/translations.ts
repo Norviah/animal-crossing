@@ -1,9 +1,9 @@
-import { writeFileSync } from 'fs';
 import { camelCase, mapKeys } from 'lodash';
 import { join } from 'path';
 
 import { directories } from '../util/directories';
 import { get } from '../util/get';
+import { write } from '../util/write';
 
 // This script combines all translations into a single file and tries to link
 // translations to the items spreadsheet by applying the item's internal ID to
@@ -111,4 +111,4 @@ for (let translation of get(directories.translations)) {
   translations.push(translation);
 }
 
-writeFileSync(join(directories.sanitized, 'Translations.json'), JSON.stringify(translations, null, 2));
+write(join(directories.sanitized, 'Translations.json'), translations);

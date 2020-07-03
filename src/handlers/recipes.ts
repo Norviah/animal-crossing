@@ -1,9 +1,9 @@
 import { join } from 'path';
 import { zipObject } from 'lodash';
-import { writeFileSync } from 'fs';
 
 import { category } from '../util/category';
 import { directories } from '../util/directories';
+import { write } from '../util/write';
 
 // Obviously, there are craftiable items in Animal Crossing, with each recipe
 // having a maximum amount of six materials, I'm assuming. On the spreadsheet,
@@ -42,4 +42,4 @@ for (const recipe of recipes) {
   }
 }
 
-writeFileSync(join(directories.sanitized, 'Recipes.json'), JSON.stringify(recipes, null, 2));
+write(join(directories.sanitized, 'Recipes.json'), recipes);

@@ -1,7 +1,6 @@
-import { writeFileSync } from 'fs';
-
 import { get } from '../util/get';
 import { files } from '../util/category';
+import { write } from '../util/write';
 
 // This script combines values of items into an array and sets the translations.
 
@@ -72,5 +71,5 @@ for (const file of files('Items')) {
     sanitize(item);
   }
 
-  writeFileSync(file, JSON.stringify(items, null, 2));
+  write(file, items);
 }
