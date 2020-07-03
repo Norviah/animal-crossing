@@ -17,7 +17,7 @@ for (const category in categories) {
   // Remove the current list from the array.
   sanitized = sanitized.filter((file: string) => !paths.includes(file));
 
-  write(join(directories.combined, `${category}.json`), get(paths));
+  write(join(directories.combined, `${category}.json`), get(paths), category === 'Creatures' ? 120 : 80);
 }
 
 // If the sanitized array has any files left, it represents that some files
