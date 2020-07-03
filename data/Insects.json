@@ -6,14 +6,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins6.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMiirotatehaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMiirotatehaCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 3000,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 20,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins6",
     "critterpediaFilename": "InsectMiirotateha",
     "furnitureFilename": "FtrInsectMiirotateha",
@@ -38,33 +38,19 @@
       "korean": "아그리아스나비",
       "russian": "агриас клаудина",
       "plural": false,
-      "internalIds": [
-        620
-      ]
+      "internalIds": [ 620 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Sep"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Apr - Sep" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Oct - Dec"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jan - Mar", "Oct - Dec" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Pink",
-      "Green"
-    ]
+    "colors": [ "Pink", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -73,14 +59,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins26.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAriCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAriCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 80,
     "whereHow": "On rotten turnips",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "0",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins26",
     "critterpediaFilename": "InsectAri",
     "furnitureFilename": "FtrInsectAri",
@@ -105,32 +91,19 @@
       "korean": "개미",
       "russian": "муравей",
       "plural": false,
-      "internalIds": [
-        588
-      ]
+      "internalIds": [ 588 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "White"
-    ]
+    "colors": [ "Black", "White" ]
   },
   {
     "sourceSheet": "Insects",
@@ -139,14 +112,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins10.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectYonagunisanCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectYonagunisanCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 3000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 20,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins10",
     "critterpediaFilename": "InsectYonagunisan",
     "furnitureFilename": "FtrInsectYonagunisan",
@@ -171,33 +144,19 @@
       "korean": "아틀라스나방",
       "russian": "павлиноглазка атлас",
       "plural": false,
-      "internalIds": [
-        652
-      ]
+      "internalIds": [ 652 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Sep"
-        ],
-        "time": [
-          "7 PM – 4 AM"
-        ]
+        "months": [ "Apr - Sep" ],
+        "time": [ "7 PM – 4 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Oct - Dec"
-        ],
-        "time": [
-          "7 PM – 4 AM"
-        ]
+        "months": [ "Jan - Mar", "Oct - Dec" ],
+        "time": [ "7 PM – 4 AM" ]
       }
     },
-    "colors": [
-      "Orange",
-      "Yellow"
-    ]
+    "colors": [ "Orange", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -206,14 +165,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins36.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMinomushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMinomushiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 600,
     "whereHow": "Shaking trees (hardwood or cedar only)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "50",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins36",
     "critterpediaFilename": "InsectMinomushi",
     "furnitureFilename": "FtrInsectMinomushi",
@@ -238,32 +197,19 @@
       "korean": "도롱이벌레",
       "russian": "мешочница",
       "plural": false,
-      "internalIds": [
-        622
-      ]
+      "internalIds": [ 622 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Blue"
-    ]
+    "colors": [ "Brown", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -272,14 +218,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins24.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOniyanmaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOniyanmaCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 4500,
     "whereHow": "Flying near water",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 50,
     "spawnRates": "7",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins24",
     "critterpediaFilename": "InsectOniyanma",
     "furnitureFilename": "FtrInsectOniyanma",
@@ -304,33 +250,19 @@
       "korean": "장수잠자리",
       "russian": "кордулегастер",
       "plural": false,
-      "internalIds": [
-        635
-      ]
+      "internalIds": [ 635 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Oct"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "May - Oct" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Nov - Dec"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jan - Apr", "Nov - Dec" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Yellow"
-    ]
+    "colors": [ "Black", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -339,14 +271,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins31.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectSuzumushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSuzumushiCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 430,
     "whereHow": "On the ground",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "60",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins31",
     "critterpediaFilename": "InsectSuzumushi",
     "furnitureFilename": "FtrInsectSuzumushi",
@@ -371,32 +303,19 @@
       "korean": "방울벌레",
       "russian": "домашний сверчок",
       "plural": false,
-      "internalIds": [
-        642
-      ]
+      "internalIds": [ 642 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Sep - Oct"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Sep - Oct" ],
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Mar - Apr"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Mar - Apr" ],
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Beige"
-    ]
+    "colors": [ "Black", "Beige" ]
   },
   {
     "sourceSheet": "Insects",
@@ -405,14 +324,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins80.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHousekizoumushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHousekizoumushiCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 800,
     "whereHow": "On palm trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins80",
     "critterpediaFilename": "InsectHousekizoumushi",
     "furnitureFilename": "FtrInsectHousekizoumushi",
@@ -437,32 +356,19 @@
       "korean": "유포루스바구미",
       "russian": "синий долгоносик",
       "plural": false,
-      "internalIds": [
-        3485
-      ]
+      "internalIds": [ 3485 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Pink"
-    ]
+    "colors": [ "Green", "Pink" ]
   },
   {
     "sourceSheet": "Insects",
@@ -471,14 +377,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins17.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAburazemiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAburazemiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 250,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "70",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins17",
     "critterpediaFilename": "InsectAburazemi",
     "furnitureFilename": "FtrInsectAburazemi",
@@ -503,32 +409,19 @@
       "korean": "유지매미",
       "russian": "коричневая цикада",
       "plural": false,
-      "internalIds": [
-        582
-      ]
+      "internalIds": [ 582 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Green"
-    ]
+    "colors": [ "Brown", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -537,14 +430,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins60.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMukadeCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMukadeCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 300,
     "whereHow": "From hitting rocks",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "30",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins60",
     "critterpediaFilename": "InsectMukade",
     "furnitureFilename": "FtrInsectMukade",
@@ -569,33 +462,19 @@
       "korean": "지네",
       "russian": "многоножка",
       "plural": false,
-      "internalIds": [
-        628
-      ]
+      "internalIds": [ 628 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Jun",
-          "Sep - Dec"
-        ],
-        "time": [
-          "4 PM – 11 PM"
-        ]
+        "months": [ "Jan - Jun", "Sep - Dec" ],
+        "time": [ "4 PM – 11 PM" ]
       },
       "south": {
-        "months": [
-          "Mar - Dec"
-        ],
-        "time": [
-          "4 PM – 11 PM"
-        ]
+        "months": [ "Mar - Dec" ],
+        "time": [ "4 PM – 11 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Orange"
-    ]
+    "colors": [ "Black", "Orange" ]
   },
   {
     "sourceSheet": "Insects",
@@ -604,14 +483,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins69.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectSeminonukegaraCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSeminonukegaraCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 10,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 50,
     "spawnRates": "1",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins69",
     "critterpediaFilename": "InsectSeminonukegara",
     "furnitureFilename": "FtrInsectSeminonukegara",
@@ -636,32 +515,19 @@
       "korean": "매미 허물",
       "russian": "кокон цикады",
       "plural": false,
-      "internalIds": [
-        641
-      ]
+      "internalIds": [ 641 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Green"
-    ]
+    "colors": [ "Brown", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -670,14 +536,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins39.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGomadarakamikiriCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGomadarakamikiriCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 350,
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "10",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins39",
     "critterpediaFilename": "InsectGomadarakamikiri",
     "furnitureFilename": "FtrInsectGomadarakamikiri",
@@ -702,32 +568,19 @@
       "korean": "알락하늘소",
       "russian": "цитрусовый усач",
       "plural": false,
-      "internalIds": [
-        609
-      ]
+      "internalIds": [ 609 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "Green"
-    ]
+    "colors": [ "Black", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -736,14 +589,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins72.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAosujiagehaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAosujiagehaCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 300,
     "whereHow": "Flying",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "70",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins72",
     "critterpediaFilename": "InsectAosujiageha",
     "furnitureFilename": "FtrInsectAosujiageha",
@@ -768,33 +621,19 @@
       "korean": "청띠제비나비",
       "russian": "графиум сарпедон",
       "plural": false,
-      "internalIds": [
-        3477
-      ]
+      "internalIds": [ 3477 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Aug"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Apr - Aug" ],
+        "time": [ "4 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb",
-          "Oct - Dec"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Jan - Feb", "Oct - Dec" ],
+        "time": [ "4 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Green"
-    ]
+    "colors": [ "Black", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -803,14 +642,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins0.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMonshirochoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMonshirochoCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 160,
     "whereHow": "Flying",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "60",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins0",
     "critterpediaFilename": "InsectMonshirocho",
     "furnitureFilename": "FtrInsectMonshirocho",
@@ -835,33 +674,19 @@
       "korean": "배추흰나비",
       "russian": "белянка",
       "plural": false,
-      "internalIds": [
-        626
-      ]
+      "internalIds": [ 626 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Jun",
-          "Sep - Dec"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Jan - Jun", "Sep - Dec" ],
+        "time": [ "4 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Mar - Dec"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Mar - Dec" ],
+        "time": [ "4 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "White",
-      "Green"
-    ]
+    "colors": [ "White", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -870,14 +695,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins30.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKohrogiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKohrogiCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 130,
     "whereHow": "On the ground",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "60",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins30",
     "critterpediaFilename": "InsectKohrogi",
     "furnitureFilename": "FtrInsectKohrogi",
@@ -902,32 +727,19 @@
       "korean": "귀뚜라미",
       "russian": "сверчок",
       "plural": false,
-      "internalIds": [
-        617
-      ]
+      "internalIds": [ 617 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Sep - Nov"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Sep - Nov" ],
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Mar - May"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Mar - May" ],
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ]
+    "colors": [ "Brown", "Beige" ]
   },
   {
     "sourceSheet": "Insects",
@@ -936,14 +748,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins49.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHosoakakuwagataCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHosoakakuwagataCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 8000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 100,
     "spawnRates": "2",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins49",
     "critterpediaFilename": "InsectHosoakakuwagata",
     "furnitureFilename": "FtrInsectHosoakakuwagata",
@@ -968,32 +780,19 @@
       "korean": "엘라푸스가위사슴벌레",
       "russian": "жук-рогач",
       "plural": false,
-      "internalIds": [
-        602
-      ]
+      "internalIds": [ 602 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1002,14 +801,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins81.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectItotonboCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectItotonboCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 500,
     "whereHow": "Flying near water",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "60",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins81",
     "critterpediaFilename": "InsectItotonbo",
     "furnitureFilename": "FtrInsectItotonbo",
@@ -1034,33 +833,19 @@
       "korean": "실잠자리",
       "russian": "равнокрылая стрекоза",
       "plural": false,
-      "internalIds": [
-        5339
-      ]
+      "internalIds": [ 5339 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Feb",
-          "Nov - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb", "Nov - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "May - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "May - Aug" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Blue"
-    ]
+    "colors": [ "Green", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1069,14 +854,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins23.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGinyanmaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGinyanmaCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 230,
     "whereHow": "Flying near water",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "40",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins23",
     "critterpediaFilename": "InsectGinyanma",
     "furnitureFilename": "FtrInsectGinyanma",
@@ -1101,33 +886,19 @@
       "korean": "왕잠자리",
       "russian": "дозорщик",
       "plural": false,
-      "internalIds": [
-        595
-      ]
+      "internalIds": [ 595 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Oct"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Apr - Oct" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Oct - Dec"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jan - Apr", "Oct - Dec" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Green"
-    ]
+    "colors": [ "Green", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1136,14 +907,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins28.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGengorouCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGengorouCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 800,
     "whereHow": "On rivers/ponds",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "10",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins28",
     "critterpediaFilename": "InsectGengorou",
     "furnitureFilename": "FtrInsectGengorou",
@@ -1168,33 +939,19 @@
       "korean": "물방개",
       "russian": "плавунец",
       "plural": false,
-      "internalIds": [
-        594
-      ]
+      "internalIds": [ 594 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Sep"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "May - Sep" ],
+        "time": [ "8 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Nov - Dec"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Jan - Mar", "Nov - Dec" ],
+        "time": [ "8 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Blue"
-    ]
+    "colors": [ "Black", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1203,14 +960,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins75.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKanabunCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKanabunCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 200,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "40",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins75",
     "critterpediaFilename": "InsectKanabun",
     "furnitureFilename": "FtrInsectKanabun",
@@ -1235,33 +992,19 @@
       "korean": "풍이",
       "russian": "бронзовка",
       "plural": false,
-      "internalIds": [
-        3480
-      ]
+      "internalIds": [ 3480 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jun - Aug" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb",
-          "Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb", "Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Blue"
-    ]
+    "colors": [ "Green", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1270,14 +1013,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins40.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectFunkorogashiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectFunkorogashiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 3000,
     "whereHow": "Pushing snowballs",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "10",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins40",
     "critterpediaFilename": "InsectFunkorogashi",
     "furnitureFilename": "FtrInsectFunkorogashi",
@@ -1302,33 +1045,19 @@
       "korean": "쇠똥구리",
       "russian": "жук-навозник",
       "plural": false,
-      "internalIds": [
-        604
-      ]
+      "internalIds": [ 604 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Feb",
-          "Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb", "Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jun - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jun - Aug" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "Beige"
-    ]
+    "colors": [ "Black", "Beige" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1337,14 +1066,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins42.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhsenchikoganeCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSenchikoganeCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 300,
     "whereHow": "On the ground",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "30",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins42",
     "critterpediaFilename": "InsectOhsenchikogane",
     "furnitureFilename": "FtrInsectSenchikogane",
@@ -1369,32 +1098,19 @@
       "korean": "보라금풍뎅이",
       "russian": "навозник-землерой",
       "plural": false,
-      "internalIds": [
-        614
-      ]
+      "internalIds": [ 614 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jul - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Purple",
-      "Orange"
-    ]
+    "colors": [ "Purple", "Orange" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1403,14 +1119,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins5.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMorufuochoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMorufuochoCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 4000,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 20,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins5",
     "critterpediaFilename": "InsectMorufuocho",
     "furnitureFilename": "FtrInsectMorufuocho",
@@ -1435,9 +1151,7 @@
       "korean": "몰포나비",
       "russian": "морфо менелай",
       "plural": false,
-      "internalIds": [
-        627
-      ]
+      "internalIds": [ 627 ]
     },
     "hemipsheres": {
       "north": {
@@ -1446,9 +1160,7 @@
           "Jun - Sep",
           "Dec"
         ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
         "months": [
@@ -1456,15 +1168,10 @@
           "Jun - Sep",
           "Dec"
         ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Orange"
-    ]
+    "colors": [ "Blue", "Orange" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1473,14 +1180,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins20.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHigurashiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHigurashiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 550,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "50",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins20",
     "critterpediaFilename": "InsectHigurashi",
     "furnitureFilename": "FtrInsectHigurashi",
@@ -1505,34 +1212,25 @@
       "korean": "쓰르라미",
       "russian": "ночная цикада",
       "plural": false,
-      "internalIds": [
-        601
-      ]
+      "internalIds": [ 601 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
+        "months": [ "Jul - Aug" ],
         "time": [
           "4 AM – 8 AM",
           "4 PM – 7 PM"
         ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
+        "months": [ "Jan - Feb" ],
         "time": [
           "4 AM – 8 AM",
           "4 PM – 7 PM"
         ]
       }
     },
-    "colors": [
-      "Black",
-      "Orange"
-    ]
+    "colors": [ "Black", "Orange" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1541,14 +1239,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins41.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHotaruCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHotaruCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 300,
     "whereHow": "Flying near water",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "200",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins41",
     "critterpediaFilename": "InsectHotaru",
     "furnitureFilename": "FtrInsectHotaru",
@@ -1573,32 +1271,19 @@
       "korean": "반디",
       "russian": "светлячок",
       "plural": false,
-      "internalIds": [
-        603
-      ]
+      "internalIds": [ 603 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun"
-        ],
-        "time": [
-          "7 PM – 4 AM"
-        ]
+        "months": [ "Jun" ],
+        "time": [ "7 PM – 4 AM" ]
       },
       "south": {
-        "months": [
-          "Dec"
-        ],
-        "time": [
-          "7 PM – 4 AM"
-        ]
+        "months": [ "Dec" ],
+        "time": [ "7 PM – 4 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Blue"
-    ]
+    "colors": [ "Black", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1607,14 +1292,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins56.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNomiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNomiCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 70,
     "whereHow": "On villagers",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "5–10",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins56",
     "critterpediaFilename": "InsectNomi",
     "furnitureFilename": "FtrInsectNomi",
@@ -1639,33 +1324,19 @@
       "korean": "벼룩",
       "russian": "блоха",
       "plural": false,
-      "internalIds": [
-        633
-      ]
+      "internalIds": [ 633 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Nov"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Nov" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - May",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - May", "Oct - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "White"
-    ]
+    "colors": [ "Brown", "White" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1674,14 +1345,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins59.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHaeCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHaeCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 60,
     "whereHow": "Flying near trash (boots, tires, cans) or rotten turnips",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "0",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins59",
     "critterpediaFilename": "InsectHae",
     "furnitureFilename": "FtrInsectHae",
@@ -1706,32 +1377,19 @@
       "korean": "파리",
       "russian": "муха",
       "plural": false,
-      "internalIds": [
-        597
-      ]
+      "internalIds": [ 597 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "White"
-    ]
+    "colors": [ "Black", "White" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1740,14 +1398,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins65.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKumazemiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKumazemiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 500,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 20,
     "spawnRates": "50",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins65",
     "critterpediaFilename": "InsectKumazemi",
     "furnitureFilename": "FtrInsectKumazemi",
@@ -1772,32 +1430,19 @@
       "korean": "곰매미",
       "russian": "гигантская цикада",
       "plural": false,
-      "internalIds": [
-        618
-      ]
+      "internalIds": [ 618 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Yellow"
-    ]
+    "colors": [ "Black", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1806,14 +1451,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins47.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhkuwagataCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhkuwagataCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 10000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 50,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins47",
     "critterpediaFilename": "InsectOhkuwagata",
     "furnitureFilename": "FtrInsectOhkuwagata",
@@ -1838,32 +1483,19 @@
       "korean": "왕사슴벌레",
       "russian": "гигантский жук-олень",
       "plural": false,
-      "internalIds": [
-        637
-      ]
+      "internalIds": [ 637 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "11 PM – 8 AM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "11 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "11 PM – 8 AM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "11 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1872,14 +1504,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins76.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTagameCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTagameCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 2000,
     "whereHow": "On rivers/ponds",
     "weather": "Any weather",
     "totalCatchesToUnlock": 50,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins76",
     "critterpediaFilename": "InsectTagame",
     "furnitureFilename": "FtrInsectTagame",
@@ -1904,33 +1536,19 @@
       "korean": "물장군",
       "russian": "водяной клоп-гигант",
       "plural": false,
-      "internalIds": [
-        5157
-      ]
+      "internalIds": [ 5157 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Sep"
-        ],
-        "time": [
-          "7 PM – 8 AM"
-        ]
+        "months": [ "Apr - Sep" ],
+        "time": [ "7 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Oct - Dec"
-        ],
-        "time": [
-          "7 PM – 8 AM"
-        ]
+        "months": [ "Jan - Mar", "Oct - Dec" ],
+        "time": [ "7 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Blue"
-    ]
+    "colors": [ "Brown", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -1939,14 +1557,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins77.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGirafanokogirikuwagataCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGirafanokogirikuwagataCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 12000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 100,
     "spawnRates": "1",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins77",
     "critterpediaFilename": "InsectGirafanokogirikuwagata",
     "furnitureFilename": "FtrInsectGirafanokogirikuwagata",
@@ -1971,32 +1589,19 @@
       "korean": "기라파톱사슴벌레",
       "russian": "рогач-жираф",
       "plural": false,
-      "internalIds": [
-        3482
-      ]
+      "internalIds": [ 3482 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2005,14 +1610,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins50.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOugononikuwagataCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOugononikuwagataCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 12000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 100,
     "spawnRates": "1",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins50",
     "critterpediaFilename": "InsectOugononikuwagata",
     "furnitureFilename": "FtrInsectOugononikuwagata",
@@ -2037,32 +1642,19 @@
       "korean": "황금사슴벌레",
       "russian": "ламприма",
       "plural": false,
-      "internalIds": [
-        638
-      ]
+      "internalIds": [ 638 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Yellow"
-    ]
+    "colors": [ "Black", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2071,14 +1663,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins55.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGoraiasuohtsunohanamuguriCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGoraiasuohtsunohanamuguriCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 8000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 100,
     "spawnRates": "2",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins55",
     "critterpediaFilename": "InsectGoraiasuohtsunohanamuguri",
     "furnitureFilename": "FtrInsectGoraiasuohtsunohanamuguri",
@@ -2103,33 +1695,19 @@
       "korean": "골리앗왕꽃무지",
       "russian": "жук-голиаф",
       "plural": false,
-      "internalIds": [
-        596
-      ]
+      "internalIds": [ 596 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Red",
-      "Black"
-    ]
+    "colors": [ "Red", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2138,14 +1716,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins32.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKirigirisuCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKirigirisuCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 160,
     "whereHow": "On the ground",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "60",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins32",
     "critterpediaFilename": "InsectKirigirisu",
     "furnitureFilename": "FtrInsectKirigirisu",
@@ -2170,32 +1748,19 @@
       "korean": "여치",
       "russian": "кузнечик",
       "plural": false,
-      "internalIds": [
-        613
-      ]
+      "internalIds": [ 613 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Sep"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jul - Sep" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jan - Mar" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Beige"
-    ]
+    "colors": [ "Green", "Beige" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2204,14 +1769,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins74.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhmurasakiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhmurasakiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 3000,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 50,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins74",
     "critterpediaFilename": "InsectOhmurasaki",
     "furnitureFilename": "FtrInsectOhmurasaki",
@@ -2236,33 +1801,19 @@
       "korean": "왕오색나비",
       "russian": "сасакия харонда",
       "plural": false,
-      "internalIds": [
-        3479
-      ]
+      "internalIds": [ 3479 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Aug"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "May - Aug" ],
+        "time": [ "4 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb",
-          "Nov - Dec"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Jan - Feb", "Nov - Dec" ],
+        "time": [ "4 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Purple",
-      "Orange"
-    ]
+    "colors": [ "Purple", "Orange" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2271,14 +1822,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins66.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectYadokariCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectYadokariCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 1000,
     "whereHow": "Disguised on shoreline",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "25",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins66",
     "critterpediaFilename": "InsectYadokari",
     "furnitureFilename": "FtrInsectYadokari",
@@ -2303,32 +1854,19 @@
       "korean": "소라게",
       "russian": "рак-отшельник",
       "plural": false,
-      "internalIds": [
-        651
-      ]
+      "internalIds": [ 651 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "7 PM – 8 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "7 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "7 PM – 8 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "7 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Beige",
-      "Pink"
-    ]
+    "colors": [ "Beige", "Pink" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2337,14 +1875,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins11.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMitsubachiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMitsubachiCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 200,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "30",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins11",
     "critterpediaFilename": "InsectMitsubachi",
     "furnitureFilename": "FtrInsectMitsubachi",
@@ -2369,33 +1907,19 @@
       "korean": "꿀벌",
       "russian": "восковая пчела",
       "plural": false,
-      "internalIds": [
-        623
-      ]
+      "internalIds": [ 623 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Jul"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Mar - Jul" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Jan",
-          "Sep - Dec"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jan", "Sep - Dec" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Blue"
-    ]
+    "colors": [ "Yellow", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2404,14 +1928,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins52.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKohkasasuohkabutoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKohkasasuohkabutoCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 8000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 100,
     "spawnRates": "2",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins52",
     "critterpediaFilename": "InsectKohkasasuohkabuto",
     "furnitureFilename": "FtrInsectKohkasasuohkabuto",
@@ -2436,32 +1960,19 @@
       "korean": "코카서스장수풍뎅이",
       "russian": "жук-атлас",
       "plural": false,
-      "internalIds": [
-        615
-      ]
+      "internalIds": [ 615 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2470,14 +1981,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins51.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKabutomushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKabutomushiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 1350,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "35",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins51",
     "critterpediaFilename": "InsectKabutomushi",
     "furnitureFilename": "FtrInsectKabutomushi",
@@ -2502,32 +2013,19 @@
       "korean": "장수풍뎅이",
       "russian": "дупляк",
       "plural": false,
-      "internalIds": [
-        612
-      ]
+      "internalIds": [ 612 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2536,14 +2034,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins53.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectZoukabutoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectZoukabutoCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 8000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 100,
     "spawnRates": "2",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins53",
     "critterpediaFilename": "InsectZoukabuto",
     "furnitureFilename": "FtrInsectZoukabuto",
@@ -2568,32 +2066,19 @@
       "korean": "코끼리장수풍뎅이",
       "russian": "жук-слон",
       "plural": false,
-      "internalIds": [
-        653
-      ]
+      "internalIds": [ 653 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Beige",
-      "Black"
-    ]
+    "colors": [ "Beige", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2602,14 +2087,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins54.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHerakuresuohkabutoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHerakuresuohkabutoCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 12000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 100,
     "spawnRates": "1",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins54",
     "critterpediaFilename": "InsectHerakuresuohkabuto",
     "furnitureFilename": "FtrInsectHerakuresuohkabuto",
@@ -2634,32 +2119,19 @@
       "korean": "헤라클레스장수풍뎅이",
       "russian": "жук-геркулес",
       "plural": false,
-      "internalIds": [
-        600
-      ]
+      "internalIds": [ 600 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "5 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "5 PM – 8 AM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "5 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Black"
-    ]
+    "colors": [ "Yellow", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2668,14 +2140,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins44.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTamamushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTamamushiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 2400,
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 20,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins44",
     "critterpediaFilename": "InsectTamamushi",
     "furnitureFilename": "FtrInsectTamamushi",
@@ -2700,33 +2172,19 @@
       "korean": "비단벌레",
       "russian": "златка",
       "plural": false,
-      "internalIds": [
-        645
-      ]
+      "internalIds": [ 645 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Apr - Aug" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb",
-          "Oct - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb", "Oct - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Black"
-    ]
+    "colors": [ "Green", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2735,14 +2193,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins37.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTentoumushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTentoumushiCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 200,
     "whereHow": "On flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "40",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins37",
     "critterpediaFilename": "InsectTentoumushi",
     "furnitureFilename": "FtrInsectTentoumushi",
@@ -2767,34 +2225,19 @@
       "korean": "무당벌레",
       "russian": "божья коровка",
       "plural": false,
-      "internalIds": [
-        647
-      ]
+      "internalIds": [ 647 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Jun",
-          "Oct"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Mar - Jun", "Oct" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Apr",
-          "Sep - Dec"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Apr", "Sep - Dec" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Red",
-      "Green"
-    ]
+    "colors": [ "Red", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2803,14 +2246,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins13.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectShoryobattaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectShoryobattaCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 200,
     "whereHow": "On the ground",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "50",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins13",
     "critterpediaFilename": "InsectShoryobatta",
     "furnitureFilename": "FtrInsectShoryobatta",
@@ -2835,33 +2278,19 @@
       "korean": "방아깨비",
       "russian": "акрида",
       "plural": false,
-      "internalIds": [
-        644
-      ]
+      "internalIds": [ 644 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Nov"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Apr - Nov" ],
+        "time": [ "8 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - May",
-          "Oct - Dec"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Jan - May", "Oct - Dec" ],
+        "time": [ "8 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Blue"
-    ]
+    "colors": [ "Green", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2870,14 +2299,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins79.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNishikiohtsubamegaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNishikiohtsubamegaCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 2500,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 20,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins79",
     "critterpediaFilename": "InsectNishikiohtsubamega",
     "furnitureFilename": "FtrInsectNishikiohtsubamega",
@@ -2902,33 +2331,19 @@
       "korean": "마다가스카르비단제비나방",
       "russian": "урания мадагаскарская",
       "plural": false,
-      "internalIds": [
-        3484
-      ]
+      "internalIds": [ 3484 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Apr - Sep"
-        ],
-        "time": [
-          "8 AM – 4 PM"
-        ]
+        "months": [ "Apr - Sep" ],
+        "time": [ "8 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Oct - Dec"
-        ],
-        "time": [
-          "8 AM – 4 PM"
-        ]
+        "months": [ "Jan - Mar", "Oct - Dec" ],
+        "time": [ "8 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Pink"
-    ]
+    "colors": [ "Green", "Pink" ]
   },
   {
     "sourceSheet": "Insects",
@@ -2937,14 +2352,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins78.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectJinmenkamemushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectJinmenkamemushiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 1000,
     "whereHow": "On flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 20,
     "spawnRates": "20",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins78",
     "critterpediaFilename": "InsectJinmenkamemushi",
     "furnitureFilename": "FtrInsectJinmenkamemushi",
@@ -2969,33 +2384,19 @@
       "korean": "인면노린재",
       "russian": "щитник с лицом",
       "plural": false,
-      "internalIds": [
-        3483
-      ]
+      "internalIds": [ 3483 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Oct"
-        ],
-        "time": [
-          "7 PM – 8 AM"
-        ]
+        "months": [ "Mar - Oct" ],
+        "time": [ "7 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Sep - Dec"
-        ],
-        "time": [
-          "7 PM – 8 AM"
-        ]
+        "months": [ "Jan - Apr", "Sep - Dec" ],
+        "time": [ "7 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Orange"
-    ]
+    "colors": [ "Black", "Orange" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3004,14 +2405,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins15.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKamakiriCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKamakiriCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 430,
     "whereHow": "On flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "30",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins15",
     "critterpediaFilename": "InsectKamakiri",
     "furnitureFilename": "FtrInsectKamakiri",
@@ -3036,33 +2437,19 @@
       "korean": "사마귀",
       "russian": "богомол",
       "plural": false,
-      "internalIds": [
-        607
-      ]
+      "internalIds": [ 607 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Nov"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Mar - Nov" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - May",
-          "Sep - Dec"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jan - May", "Sep - Dec" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Green"
-    ]
+    "colors": [ "Green", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3071,14 +2458,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins14.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTonosamabattaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTonosamabattaCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 600,
     "whereHow": "On the ground",
     "weather": "Any weather",
     "totalCatchesToUnlock": 20,
     "spawnRates": "10",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins14",
     "critterpediaFilename": "InsectTonosamabatta",
     "furnitureFilename": "FtrInsectTonosamabatta",
@@ -3103,32 +2490,19 @@
       "korean": "섬풀무치",
       "russian": "перелетная саранча",
       "plural": false,
-      "internalIds": [
-        648
-      ]
+      "internalIds": [ 648 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Aug - Nov"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Aug - Nov" ],
+        "time": [ "8 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Feb - May"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Feb - May" ],
+        "time": [ "8 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Orange"
-    ]
+    "colors": [ "Green", "Orange" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3137,14 +2511,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins45.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMiyamakuwagataCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMiyamakuwagataCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 1000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "35",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins45",
     "critterpediaFilename": "InsectMiyamakuwagata",
     "furnitureFilename": "FtrInsectMiyamakuwagata",
@@ -3169,32 +2543,19 @@
       "korean": "사슴벌레",
       "russian": "горный жук-олень",
       "plural": false,
-      "internalIds": [
-        624
-      ]
+      "internalIds": [ 624 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3203,14 +2564,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins33.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOkeraCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOkeraCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 500,
     "whereHow": "Underground (dig where noise is loudest)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "30",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins33",
     "critterpediaFilename": "InsectOkera",
     "furnitureFilename": "FtrInsectOkera",
@@ -3235,33 +2596,19 @@
       "korean": "땅강아지",
       "russian": "медведка",
       "plural": false,
-      "internalIds": [
-        634
-      ]
+      "internalIds": [ 634 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - May",
-          "Nov - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - May", "Nov - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "May - Nov"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "May - Nov" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Yellow"
-    ]
+    "colors": [ "Brown", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3270,14 +2617,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins4.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhkabamadaraCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhkabamadaraCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 140,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "70",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins4",
     "critterpediaFilename": "InsectOhkabamadara",
     "furnitureFilename": "FtrInsectOhkabamadara",
@@ -3302,32 +2649,19 @@
       "korean": "왕나비",
       "russian": "монарх",
       "plural": false,
-      "internalIds": [
-        636
-      ]
+      "internalIds": [ 636 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Sep - Nov"
-        ],
-        "time": [
-          "4 AM – 5 PM"
-        ]
+        "months": [ "Sep - Nov" ],
+        "time": [ "4 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Mar - May"
-        ],
-        "time": [
-          "4 AM – 5 PM"
-        ]
+        "months": [ "Mar - May" ],
+        "time": [ "4 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Orange",
-      "Blue"
-    ]
+    "colors": [ "Orange", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3336,14 +2670,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins58.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKaCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 130,
     "whereHow": "Flying",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "50",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins58",
     "critterpediaFilename": "InsectKa",
     "furnitureFilename": "FtrInsectKa",
@@ -3368,33 +2702,19 @@
       "korean": "모기",
       "russian": "комар",
       "plural": false,
-      "internalIds": [
-        606
-      ]
+      "internalIds": [ 606 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "5 PM – 4 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "5 PM – 4 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "5 PM – 4 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "5 PM – 4 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "White"
-    ]
+    "colors": [ "Black", "White" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3403,14 +2723,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins9.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGaCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 130,
     "whereHow": "Flying near light sources",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "25",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins9",
     "critterpediaFilename": "InsectGa",
     "furnitureFilename": "FtrInsectGa",
@@ -3435,32 +2755,19 @@
       "korean": "나방",
       "russian": "павлиноглазка",
       "plural": false,
-      "internalIds": [
-        592
-      ]
+      "internalIds": [ 592 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "7 PM – 4 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "7 PM – 4 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "7 PM – 4 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "7 PM – 4 AM" ]
       }
     },
-    "colors": [
-      "Beige",
-      "Yellow"
-    ]
+    "colors": [ "Beige", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3469,14 +2776,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins16.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHanakamakiriCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHanakamakiriCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 2400,
     "whereHow": "On white flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 20,
     "spawnRates": "15",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins16",
     "critterpediaFilename": "InsectHanakamakiri",
     "furnitureFilename": "FtrInsectHanakamakiri",
@@ -3501,33 +2808,19 @@
       "korean": "연꽃사마귀",
       "russian": "орхидейный богомол",
       "plural": false,
-      "internalIds": [
-        598
-      ]
+      "internalIds": [ 598 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Nov"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Mar - Nov" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - May",
-          "Sep - Dec"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jan - May", "Sep - Dec" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "White",
-      "Pink"
-    ]
+    "colors": [ "White", "Pink" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3536,14 +2829,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins73.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhgomamadaraCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhgomamadaraCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 1000,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "20",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins73",
     "critterpediaFilename": "InsectOhgomamadara",
     "furnitureFilename": "FtrInsectOhgomamadara",
@@ -3568,32 +2861,19 @@
       "korean": "왕얼룩나비",
       "russian": "идея левконоя",
       "plural": false,
-      "internalIds": [
-        3478
-      ]
+      "internalIds": [ 3478 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "8 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "8 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "White",
-      "Yellow"
-    ]
+    "colors": [ "White", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3602,14 +2882,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins3.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKarasuagehaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKarasuagehaCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 2500,
     "whereHow": "Flying near blue/purple/black flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 20,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins3",
     "critterpediaFilename": "InsectKarasuageha",
     "furnitureFilename": "FtrInsectKarasuageha",
@@ -3634,32 +2914,19 @@
       "korean": "제비나비",
       "russian": "бианор",
       "plural": false,
-      "internalIds": [
-        610
-      ]
+      "internalIds": [ 610 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Jun"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Mar - Jun" ],
+        "time": [ "4 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Sep - Dec"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Sep - Dec" ],
+        "time": [ "4 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Blue"
-    ]
+    "colors": [ "Green", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3668,14 +2935,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins57.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectDangomushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectDangomushiCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 250,
     "whereHow": "From hitting rocks",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "50",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins57",
     "critterpediaFilename": "InsectDangomushi",
     "furnitureFilename": "FtrInsectDangomushi",
@@ -3700,33 +2967,19 @@
       "korean": "공벌레",
       "russian": "мокрица",
       "plural": false,
-      "internalIds": [
-        590
-      ]
+      "internalIds": [ 590 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Jun",
-          "Sep - Dec"
-        ],
-        "time": [
-          "11 PM – 4 PM"
-        ]
+        "months": [ "Jan - Jun", "Sep - Dec" ],
+        "time": [ "11 PM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Mar - Dec"
-        ],
-        "time": [
-          "11 PM – 4 PM"
-        ]
+        "months": [ "Mar - Dec" ],
+        "time": [ "11 PM – 4 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Blue"
-    ]
+    "colors": [ "Black", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3735,14 +2988,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins27.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAmenboCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAmenboCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 130,
     "whereHow": "On rivers/ponds",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "30",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins27",
     "critterpediaFilename": "InsectAmenbo",
     "furnitureFilename": "FtrInsectAmenbo",
@@ -3767,33 +3020,19 @@
       "korean": "소금쟁이",
       "russian": "водомерка",
       "plural": false,
-      "internalIds": [
-        587
-      ]
+      "internalIds": [ 587 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Sep"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "May - Sep" ],
+        "time": [ "8 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Nov - Dec"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Jan - Mar", "Nov - Dec" ],
+        "time": [ "8 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Blue"
-    ]
+    "colors": [ "Black", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3802,14 +3041,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins8.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectArekisandoratoribaneagehaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectArekisandoratoribaneagehaCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 4000,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 50,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins8",
     "critterpediaFilename": "InsectArekisandoratoribaneageha",
     "furnitureFilename": "FtrInsectArekisandoratoribaneageha",
@@ -3834,33 +3073,19 @@
       "korean": "알렉산드라비단제비나비",
       "russian": "птицекрылка Александры",
       "plural": false,
-      "internalIds": [
-        586
-      ]
+      "internalIds": [ 586 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Sep"
-        ],
-        "time": [
-          "8 AM – 4 PM"
-        ]
+        "months": [ "May - Sep" ],
+        "time": [ "8 AM – 4 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Nov - Dec"
-        ],
-        "time": [
-          "8 AM – 4 PM"
-        ]
+        "months": [ "Jan - Mar", "Nov - Dec" ],
+        "time": [ "8 AM – 4 PM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Pink"
-    ]
+    "colors": [ "Green", "Pink" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3869,14 +3094,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins48.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNijiirokuwagataCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNijiirokuwagataCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 6000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 50,
     "spawnRates": "7",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins48",
     "critterpediaFilename": "InsectNijiirokuwagata",
     "furnitureFilename": "FtrInsectNijiirokuwagata",
@@ -3901,33 +3126,19 @@
       "korean": "뮤엘러리사슴벌레",
       "russian": "радужный жук-олень",
       "plural": false,
-      "internalIds": [
-        631
-      ]
+      "internalIds": [ 631 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jun - Sep"
-        ],
-        "time": [
-          "7 PM – 8 AM"
-        ]
+        "months": [ "Jun - Sep" ],
+        "time": [ "7 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Dec"
-        ],
-        "time": [
-          "7 PM – 8 AM"
-        ]
+        "months": [ "Jan - Mar", "Dec" ],
+        "time": [ "7 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -3936,14 +3147,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins7.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAkaeritoribaneagehaCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAkaeritoribaneagehaCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 2500,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 20,
     "spawnRates": "5",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins7",
     "critterpediaFilename": "InsectAkaeritoribaneageha",
     "furnitureFilename": "FtrInsectAkaeritoribaneageha",
@@ -3968,9 +3179,7 @@
       "korean": "붉은목도리비단나비",
       "russian": "трогоноптера Брука",
       "plural": false,
-      "internalIds": [
-        584
-      ]
+      "internalIds": [ 584 ]
     },
     "hemipsheres": {
       "north": {
@@ -3979,9 +3188,7 @@
           "Apr - Sep",
           "Dec"
         ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
         "months": [
@@ -3989,15 +3196,10 @@
           "Jun - Aug",
           "Oct - Dec"
         ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Pink"
-    ]
+    "colors": [ "Green", "Pink" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4006,14 +3208,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins22.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAkiakaneCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAkiakaneCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 180,
     "whereHow": "Flying near water",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "80",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins22",
     "critterpediaFilename": "InsectAkiakane",
     "furnitureFilename": "FtrInsectAkiakane",
@@ -4038,32 +3240,19 @@
       "korean": "고추잠자리",
       "russian": "красная стрекоза",
       "plural": false,
-      "internalIds": [
-        585
-      ]
+      "internalIds": [ 585 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Sep - Oct"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Sep - Oct" ],
+        "time": [ "8 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Mar - Apr"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Mar - Apr" ],
+        "time": [ "8 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Red",
-      "Orange"
-    ]
+    "colors": [ "Red", "Orange" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4072,14 +3261,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins67.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectInagoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectInagoCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 400,
     "whereHow": "On the ground",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "20",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins67",
     "critterpediaFilename": "InsectInago",
     "furnitureFilename": "FtrInsectInago",
@@ -4104,32 +3293,19 @@
       "korean": "메뚜기",
       "russian": "рисовая кобылка",
       "plural": false,
-      "internalIds": [
-        605
-      ]
+      "internalIds": [ 605 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Aug - Nov"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Aug - Nov" ],
+        "time": [ "8 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Feb - May"
-        ],
-        "time": [
-          "8 AM – 7 PM"
-        ]
+        "months": [ "Feb - May" ],
+        "time": [ "8 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Green",
-      "Yellow"
-    ]
+    "colors": [ "Green", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4138,14 +3314,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins18.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMinminzemiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMinminzemiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 300,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "70",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins18",
     "critterpediaFilename": "InsectMinminzemi",
     "furnitureFilename": "FtrInsectMinminzemi",
@@ -4170,32 +3346,19 @@
       "korean": "참매미",
       "russian": "певчая цикада",
       "plural": false,
-      "internalIds": [
-        621
-      ]
+      "internalIds": [ 621 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Blue"
-    ]
+    "colors": [ "Black", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4204,14 +3367,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins82.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectRuriboshikamikiriCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectRuriboshikamikiriCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 3000,
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 20,
     "spawnRates": "2",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins82",
     "critterpediaFilename": "InsectRuriboshikamikiri",
     "furnitureFilename": "FtrInsectRuriboshikamikiri",
@@ -4236,33 +3399,19 @@
       "korean": "루리하늘소",
       "russian": "розалия",
       "plural": false,
-      "internalIds": [
-        3487
-      ]
+      "internalIds": [ 3487 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "May - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Nov - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar", "Nov - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Blue",
-      "Black"
-    ]
+    "colors": [ "Blue", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4271,14 +3420,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins46.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNokogirikuwagataCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNokogirikuwagataCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 2000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "20",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins46",
     "critterpediaFilename": "InsectNokogirikuwagata",
     "furnitureFilename": "FtrInsectNokogirikuwagata",
@@ -4303,32 +3452,19 @@
       "korean": "톱사슴벌레",
       "russian": "жук-олень",
       "plural": false,
-      "internalIds": [
-        632
-      ]
+      "internalIds": [ 632 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4337,14 +3473,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins43.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectPurachinakoganeCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectPurachinakoganeCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 10000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 50,
     "spawnRates": "3",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins43",
     "critterpediaFilename": "InsectPurachinakogane",
     "furnitureFilename": "FtrInsectPurachinakogane",
@@ -4369,32 +3505,19 @@
       "korean": "보석풍뎅이",
       "russian": "золотой скарабей",
       "plural": false,
-      "internalIds": [
-        639
-      ]
+      "internalIds": [ 639 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Aug"
-        ],
-        "time": [
-          "11 PM – 8 AM"
-        ]
+        "months": [ "Jul - Aug" ],
+        "time": [ "11 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Feb"
-        ],
-        "time": [
-          "11 PM – 8 AM"
-        ]
+        "months": [ "Jan - Feb" ],
+        "time": [ "11 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Beige"
-    ]
+    "colors": [ "Black", "Beige" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4403,14 +3526,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins63.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectSasoriCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSasoriCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 8000,
     "whereHow": "On the ground",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins63",
     "critterpediaFilename": "InsectSasori",
     "furnitureFilename": "FtrInsectSasori",
@@ -4435,33 +3558,19 @@
       "korean": "전갈",
       "russian": "скорпион",
       "plural": false,
-      "internalIds": [
-        640
-      ]
+      "internalIds": [ 640 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Oct"
-        ],
-        "time": [
-          "7 PM – 4 AM"
-        ]
+        "months": [ "May - Oct" ],
+        "time": [ "7 PM – 4 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Nov - Dec"
-        ],
-        "time": [
-          "7 PM – 4 AM"
-        ]
+        "months": [ "Jan - Apr", "Nov - Dec" ],
+        "time": [ "7 PM – 4 AM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Black"
-    ]
+    "colors": [ "Black", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4470,14 +3579,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins29.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKatatsumuriCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKatatsumuriCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 250,
     "whereHow": "On rocks/bushes",
     "weather": "Rain only",
     "totalCatchesToUnlock": 0,
     "spawnRates": "20",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins29",
     "critterpediaFilename": "InsectKatatsumuri",
     "furnitureFilename": "FtrInsectKatatsumuri",
@@ -4502,32 +3611,19 @@
       "korean": "달팽이",
       "russian": "улитка",
       "plural": false,
-      "internalIds": [
-        611
-      ]
+      "internalIds": [ 611 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Beige",
-      "Green"
-    ]
+    "colors": [ "Beige", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4536,14 +3632,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins61.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKumoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKumoCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 600,
     "whereHow": "Shaking trees (hardwood or cedar only)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "30",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins61",
     "critterpediaFilename": "InsectKumo",
     "furnitureFilename": "FtrInsectKumo",
@@ -4568,32 +3664,19 @@
       "korean": "거미",
       "russian": "паук",
       "plural": false,
-      "internalIds": [
-        619
-      ]
+      "internalIds": [ 619 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "7 PM – 8 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "7 PM – 8 AM" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "7 PM – 8 AM"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "7 PM – 8 AM" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Orange"
-    ]
+    "colors": [ "Yellow", "Orange" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4602,14 +3685,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins64.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKamemushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKamemushiCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 120,
     "whereHow": "On flowers",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "40",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins64",
     "critterpediaFilename": "InsectKamemushi",
     "furnitureFilename": "FtrInsectKamemushi",
@@ -4634,33 +3717,19 @@
       "korean": "노린재",
       "russian": "щитник",
       "plural": false,
-      "internalIds": [
-        608
-      ]
+      "internalIds": [ 608 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Oct"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar - Oct" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Sep - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Apr", "Sep - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Yellow"
-    ]
+    "colors": [ "Green", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4669,14 +3738,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins62.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTaranchuraCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTaranchuraCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 8000,
     "whereHow": "On the ground",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins62",
     "critterpediaFilename": "InsectTaranchura",
     "furnitureFilename": "FtrInsectTaranchura",
@@ -4701,33 +3770,19 @@
       "korean": "타란툴라",
       "russian": "паук-птицеед",
       "plural": false,
-      "internalIds": [
-        646
-      ]
+      "internalIds": [ 646 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Apr",
-          "Nov - Dec"
-        ],
-        "time": [
-          "7 PM – 4 AM"
-        ]
+        "months": [ "Jan - Apr", "Nov - Dec" ],
+        "time": [ "7 PM – 4 AM" ]
       },
       "south": {
-        "months": [
-          "May - Oct"
-        ],
-        "time": [
-          "7 PM – 4 AM"
-        ]
+        "months": [ "May - Oct" ],
+        "time": [ "7 PM – 4 AM" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4736,14 +3791,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins70.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHanmyouCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHanmyouCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 1500,
     "whereHow": "On the ground",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 20,
     "spawnRates": "15",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins70",
     "critterpediaFilename": "InsectHanmyou",
     "furnitureFilename": "FtrInsectHanmyou",
@@ -4768,33 +3823,19 @@
       "korean": "길앞잡이",
       "russian": "жук-скакун",
       "plural": false,
-      "internalIds": [
-        599
-      ]
+      "internalIds": [ 599 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Feb - Oct"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Feb - Oct" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Apr",
-          "Aug - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Apr", "Aug - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Yellow"
-    ]
+    "colors": [ "Green", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4803,14 +3844,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins2.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAgehachoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAgehachoCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 240,
     "whereHow": "Flying",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "40",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins2",
     "critterpediaFilename": "InsectAgehacho",
     "furnitureFilename": "FtrInsectAgehacho",
@@ -4835,33 +3876,19 @@
       "korean": "호랑나비",
       "russian": "махаон",
       "plural": false,
-      "internalIds": [
-        583
-      ]
+      "internalIds": [ 583 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Sep"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Mar - Sep" ],
+        "time": [ "4 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar",
-          "Sep - Dec"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Jan - Mar", "Sep - Dec" ],
+        "time": [ "4 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Green"
-    ]
+    "colors": [ "Yellow", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4870,14 +3897,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins38.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectBaiorinmushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectBaiorinmushiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 450,
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "10",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins38",
     "critterpediaFilename": "InsectBaiorinmushi",
     "furnitureFilename": "FtrInsectBaiorinmushi",
@@ -4902,34 +3929,19 @@
       "korean": "바이올린벌레",
       "russian": "листовидная жужелица",
       "plural": false,
-      "internalIds": [
-        650
-      ]
+      "internalIds": [ 650 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "May - Jun",
-          "Sep - Nov"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "May - Jun", "Sep - Nov" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Mar - May",
-          "Nov - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Mar - May", "Nov - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ]
+    "colors": [ "Brown", "Black" ]
   },
   {
     "sourceSheet": "Insects",
@@ -4938,14 +3950,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins19.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTsukutsukuhousiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTsukutsukuhousiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 400,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "40",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins19",
     "critterpediaFilename": "InsectTsukutsukuhousi",
     "furnitureFilename": "FtrInsectTsukutsukuhousi",
@@ -4970,32 +3982,19 @@
       "korean": "애매미",
       "russian": "горная цикада",
       "plural": false,
-      "internalIds": [
-        649
-      ]
+      "internalIds": [ 649 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Aug - Sep"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Aug - Sep" ],
+        "time": [ "8 AM – 5 PM" ]
       },
       "south": {
-        "months": [
-          "Feb - Mar"
-        ],
-        "time": [
-          "8 AM – 5 PM"
-        ]
+        "months": [ "Feb - Mar" ],
+        "time": [ "8 AM – 5 PM" ]
       }
     },
-    "colors": [
-      "Black",
-      "Pink"
-    ]
+    "colors": [ "Black", "Pink" ]
   },
   {
     "sourceSheet": "Insects",
@@ -5004,14 +4003,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins34.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKonohamushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKonohamushiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 600,
     "whereHow": "Disguised under trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 20,
     "spawnRates": "10",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins34",
     "critterpediaFilename": "InsectKonohamushi",
     "furnitureFilename": "FtrInsectKonohamushi",
@@ -5036,32 +4035,19 @@
       "korean": "잎사귀벌레",
       "russian": "листотел",
       "plural": false,
-      "internalIds": [
-        616
-      ]
+      "internalIds": [ 616 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Sep"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jul - Sep" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Mar"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Mar" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Green",
-      "Green"
-    ]
+    "colors": [ "Green", "Green" ]
   },
   {
     "sourceSheet": "Insects",
@@ -5070,14 +4056,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins35.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNanafushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNanafushiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 600,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "totalCatchesToUnlock": 20,
     "spawnRates": "10",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins35",
     "critterpediaFilename": "InsectNanafushi",
     "furnitureFilename": "FtrInsectNanafushi",
@@ -5102,34 +4088,25 @@
       "korean": "긴수염대벌레",
       "russian": "палочник",
       "plural": false,
-      "internalIds": [
-        630
-      ]
+      "internalIds": [ 630 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jul - Nov"
-        ],
+        "months": [ "Jul - Nov" ],
         "time": [
           "4 AM – 8 AM",
           "5 PM – 7 PM"
         ]
       },
       "south": {
-        "months": [
-          "Jan - May"
-        ],
+        "months": [ "Jan - May" ],
         "time": [
           "4 AM – 8 AM",
           "5 PM – 7 PM"
         ]
       }
     },
-    "colors": [
-      "Brown",
-      "Yellow"
-    ]
+    "colors": [ "Brown", "Yellow" ]
   },
   {
     "sourceSheet": "Insects",
@@ -5138,14 +4115,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins12.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHachiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHachiCropped.png",
-    "size": "1x1",
-    "surface": true,
     "sell": 2500,
     "whereHow": "Shaking trees",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "0",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins12",
     "critterpediaFilename": "InsectHachi",
     "furnitureFilename": "FtrInsectHachi",
@@ -5170,32 +4147,19 @@
       "korean": "벌",
       "russian": "оса",
       "plural": false,
-      "internalIds": [
-        643
-      ]
+      "internalIds": [ 643 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Orange"
-    ]
+    "colors": [ "Yellow", "Orange" ]
   },
   {
     "sourceSheet": "Insects",
@@ -5204,14 +4168,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins71.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectFunamushiCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectFunamushiCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 200,
     "whereHow": "On beach rocks",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "20",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins71",
     "critterpediaFilename": "InsectFunamushi",
     "furnitureFilename": "FtrInsectFunamushi",
@@ -5236,32 +4200,19 @@
       "korean": "갯강구",
       "russian": "морской таракан",
       "plural": false,
-      "internalIds": [
-        591
-      ]
+      "internalIds": [ 591 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       },
       "south": {
-        "months": [
-          "Jan - Dec"
-        ],
-        "time": [
-          "All day"
-        ]
+        "months": [ "Jan - Dec" ],
+        "time": [ "All day" ]
       }
     },
-    "colors": [
-      "Beige",
-      "Blue"
-    ]
+    "colors": [ "Beige", "Blue" ]
   },
   {
     "sourceSheet": "Insects",
@@ -5270,14 +4221,14 @@
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins1.png",
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMonkichoCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMonkichoCropped.png",
-    "size": "1x1",
-    "surface": false,
     "sell": 160,
     "whereHow": "Flying",
     "weather": "Any except rain",
     "totalCatchesToUnlock": 0,
     "spawnRates": "60",
-    "hhaBaseScore": 64,
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": 64,
     "iconFilename": "Ins1",
     "critterpediaFilename": "InsectMonkicho",
     "furnitureFilename": "FtrInsectMonkicho",
@@ -5302,33 +4253,18 @@
       "korean": "노랑나비",
       "russian": "желтушка",
       "plural": false,
-      "internalIds": [
-        625
-      ]
+      "internalIds": [ 625 ]
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Mar - Jun",
-          "Sep - Oct"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Mar - Jun", "Sep - Oct" ],
+        "time": [ "4 AM – 7 PM" ]
       },
       "south": {
-        "months": [
-          "Mar - Apr",
-          "Sep - Dec"
-        ],
-        "time": [
-          "4 AM – 7 PM"
-        ]
+        "months": [ "Mar - Apr", "Sep - Dec" ],
+        "time": [ "4 AM – 7 PM" ]
       }
     },
-    "colors": [
-      "Yellow",
-      "Blue"
-    ]
+    "colors": [ "Yellow", "Blue" ]
   }
 ]

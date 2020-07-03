@@ -5,7 +5,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFourLegs.png",
     "buy": -1,
     "sell": 2000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 1",
     "interact": false,
@@ -32,17 +32,10 @@
       "korean": "아칸토스테가",
       "russian": "акантостега",
       "plural": false,
-      "internalIds": [
-        4664
-      ]
+      "internalIds": [ 4664 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -51,7 +44,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAmber.png",
     "buy": -1,
     "sell": 1200,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 1",
     "interact": false,
@@ -78,17 +71,10 @@
       "korean": "호박",
       "russian": "янтарь",
       "plural": false,
-      "internalIds": [
-        294
-      ]
+      "internalIds": [ 294 ]
     },
-    "colors": [
-      "Yellow",
-      "Yellow"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Yellow", "Yellow" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -97,7 +83,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAmmonoidea.png",
     "buy": -1,
     "sell": 1100,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 1",
     "interact": false,
@@ -124,17 +110,10 @@
       "korean": "암모나이트",
       "russian": "аммонит",
       "plural": false,
-      "internalIds": [
-        295
-      ]
+      "internalIds": [ 295 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -143,7 +122,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusA.png",
     "buy": -1,
     "sell": 3500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -170,17 +149,10 @@
       "korean": "안킬로사우루스의 머리",
       "russian": "череп анкилозавра",
       "plural": false,
-      "internalIds": [
-        169
-      ]
+      "internalIds": [ 169 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -189,7 +161,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusC.png",
     "buy": -1,
     "sell": 2500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -216,17 +188,10 @@
       "korean": "안킬로사우루스의 꼬리",
       "russian": "хвост анкилозавра",
       "plural": false,
-      "internalIds": [
-        171
-      ]
+      "internalIds": [ 171 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -235,7 +200,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusB.png",
     "buy": -1,
     "sell": 3000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -262,17 +227,10 @@
       "korean": "안킬로사우루스의 몸통",
       "russian": "торс анкилозавра",
       "plural": false,
-      "internalIds": [
-        170
-      ]
+      "internalIds": [ 170 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -281,7 +239,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnomalocaris.png",
     "buy": -1,
     "sell": 2000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 1",
     "interact": false,
@@ -308,17 +266,10 @@
       "korean": "아노말로카리스",
       "russian": "аномалокарис",
       "plural": false,
-      "internalIds": [
-        4651
-      ]
+      "internalIds": [ 4651 ]
     },
-    "colors": [
-      "Black",
-      "Gray"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Black", "Gray" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -327,7 +278,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchaeopteryx.png",
     "buy": -1,
     "sell": 1300,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 2",
     "interact": false,
@@ -354,17 +305,10 @@
       "korean": "시조새",
       "russian": "археоптерикс",
       "plural": false,
-      "internalIds": [
-        298
-      ]
+      "internalIds": [ 298 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -373,7 +317,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonA.png",
     "buy": -1,
     "sell": 4000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -400,17 +344,10 @@
       "korean": "아르켈론의 머리",
       "russian": "череп архелона",
       "plural": false,
-      "internalIds": [
-        177
-      ]
+      "internalIds": [ 177 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -419,7 +356,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonB.png",
     "buy": -1,
     "sell": 3500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -446,17 +383,10 @@
       "korean": "아르켈론의 몸통",
       "russian": "хвост архелона",
       "plural": false,
-      "internalIds": [
-        178
-      ]
+      "internalIds": [ 178 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -465,7 +395,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAustralopithecus.png",
     "buy": -1,
     "sell": 1100,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 3",
     "interact": false,
@@ -492,17 +422,10 @@
       "korean": "오스트랄로피테쿠스",
       "russian": "австралопитек",
       "plural": false,
-      "internalIds": [
-        301
-      ]
+      "internalIds": [ 301 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -511,7 +434,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusB.png",
     "buy": -1,
     "sell": 5500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -538,17 +461,10 @@
       "korean": "브라키오사우루스의 가슴",
       "russian": "грудь брахиозавра",
       "plural": false,
-      "internalIds": [
-        4689
-      ]
+      "internalIds": [ 4689 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -557,7 +473,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusC.png",
     "buy": -1,
     "sell": 5000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -584,17 +500,10 @@
       "korean": "브라키오사우루스의 허리",
       "russian": "таз брахиозавра",
       "plural": false,
-      "internalIds": [
-        4690
-      ]
+      "internalIds": [ 4690 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -603,7 +512,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusA.png",
     "buy": -1,
     "sell": 6000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -630,17 +539,10 @@
       "korean": "브라키오사우루스의 머리",
       "russian": "череп брахиозавра",
       "plural": false,
-      "internalIds": [
-        4688
-      ]
+      "internalIds": [ 4688 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -649,7 +551,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusD.png",
     "buy": -1,
     "sell": 5500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -676,17 +578,10 @@
       "korean": "브라키오사우루스의 꼬리",
       "russian": "хвост брахиозавра",
       "plural": false,
-      "internalIds": [
-        4691
-      ]
+      "internalIds": [ 4691 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -695,7 +590,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilCoprolite.png",
     "buy": -1,
     "sell": 1100,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 2",
     "interact": false,
@@ -722,17 +617,10 @@
       "korean": "대변 화석",
       "russian": "копролит",
       "plural": false,
-      "internalIds": [
-        296
-      ]
+      "internalIds": [ 296 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -741,7 +629,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusB.png",
     "buy": -1,
     "sell": 2500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -768,17 +656,10 @@
       "korean": "데이노니쿠스의 꼬리",
       "russian": "хвост дейнониха",
       "plural": false,
-      "internalIds": [
-        211
-      ]
+      "internalIds": [ 211 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -787,7 +668,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusA.png",
     "buy": -1,
     "sell": 3000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -814,17 +695,10 @@
       "korean": "데이노니쿠스의 머리",
       "russian": "торс дейнониха",
       "plural": false,
-      "internalIds": [
-        210
-      ]
+      "internalIds": [ 210 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -833,7 +707,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonA.png",
     "buy": -1,
     "sell": 5500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -860,17 +734,10 @@
       "korean": "디메트로돈의 머리",
       "russian": "череп диметродона",
       "plural": false,
-      "internalIds": [
-        184
-      ]
+      "internalIds": [ 184 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -879,7 +746,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonB.png",
     "buy": -1,
     "sell": 5000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -906,17 +773,10 @@
       "korean": "디메트로돈의 몸통",
       "russian": "торс диметродона",
       "plural": false,
-      "internalIds": [
-        185
-      ]
+      "internalIds": [ 185 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -925,7 +785,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIchnology.png",
     "buy": -1,
     "sell": 1000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 2",
     "interact": false,
@@ -952,17 +812,10 @@
       "korean": "발자국 화석",
       "russian": "след динозавра",
       "plural": false,
-      "internalIds": [
-        300
-      ]
+      "internalIds": [ 300 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -971,7 +824,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusC.png",
     "buy": -1,
     "sell": 4000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -998,17 +851,10 @@
       "korean": "디플로도쿠스의 가슴",
       "russian": "грудь диплодока",
       "plural": false,
-      "internalIds": [
-        218
-      ]
+      "internalIds": [ 218 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1017,7 +863,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusB.png",
     "buy": -1,
     "sell": 4500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1044,17 +890,10 @@
       "korean": "디플로도쿠스의 목",
       "russian": "шея диплодока",
       "plural": false,
-      "internalIds": [
-        217
-      ]
+      "internalIds": [ 217 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1063,7 +902,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusD.png",
     "buy": -1,
     "sell": 4500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1090,17 +929,10 @@
       "korean": "디플로도쿠스의 허리",
       "russian": "таз диплодока",
       "plural": false,
-      "internalIds": [
-        219
-      ]
+      "internalIds": [ 219 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1109,7 +941,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusA.png",
     "buy": -1,
     "sell": 5000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1136,17 +968,10 @@
       "korean": "디플로도쿠스의 머리",
       "russian": "череп диплодока",
       "plural": false,
-      "internalIds": [
-        216
-      ]
+      "internalIds": [ 216 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1155,7 +980,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusE.png",
     "buy": -1,
     "sell": 5000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1182,17 +1007,10 @@
       "korean": "디플로도쿠스의 꼬리",
       "russian": "хвост диплодока",
       "plural": false,
-      "internalIds": [
-        220
-      ]
+      "internalIds": [ 220 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1201,7 +1019,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusF.png",
     "buy": -1,
     "sell": 4000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1228,17 +1046,10 @@
       "korean": "디플로도쿠스의 꼬리 끝",
       "russian": "кончик хвоста диплодока",
       "plural": false,
-      "internalIds": [
-        7251
-      ]
+      "internalIds": [ 7251 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1247,7 +1058,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDunkleosteus.png",
     "buy": -1,
     "sell": 3500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 1",
     "interact": false,
@@ -1274,17 +1085,10 @@
       "korean": "둔클레오스테우스",
       "russian": "дунклеостей",
       "plural": false,
-      "internalIds": [
-        4660
-      ]
+      "internalIds": [ 4660 ]
     },
-    "colors": [
-      "Gray",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Gray", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1293,7 +1097,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstAmphibian.png",
     "buy": -1,
     "sell": 2000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 1",
     "interact": false,
@@ -1320,17 +1124,10 @@
       "korean": "에우스테놉테론",
       "russian": "эустеноптерон",
       "plural": false,
-      "internalIds": [
-        4663
-      ]
+      "internalIds": [ 4663 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1339,7 +1136,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonA.png",
     "buy": -1,
     "sell": 4000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1366,17 +1163,10 @@
       "korean": "이구아노돈의 머리",
       "russian": "череп игуанодона",
       "plural": false,
-      "internalIds": [
-        188
-      ]
+      "internalIds": [ 188 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1385,7 +1175,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonC.png",
     "buy": -1,
     "sell": 3000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1412,17 +1202,10 @@
       "korean": "이구아노돈의 꼬리",
       "russian": "хвост игуанодона",
       "plural": false,
-      "internalIds": [
-        190
-      ]
+      "internalIds": [ 190 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1431,7 +1214,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonB.png",
     "buy": -1,
     "sell": 3500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1458,17 +1241,10 @@
       "korean": "이구아노돈의 몸통",
       "russian": "торс игуанодона",
       "plural": false,
-      "internalIds": [
-        189
-      ]
+      "internalIds": [ 189 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1477,7 +1253,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstMammal.png",
     "buy": -1,
     "sell": 1500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 2",
     "interact": false,
@@ -1504,17 +1280,10 @@
       "korean": "쥐라마이아",
       "russian": "юрамайя",
       "plural": false,
-      "internalIds": [
-        4665
-      ]
+      "internalIds": [ 4665 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1523,7 +1292,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosB.png",
     "buy": -1,
     "sell": 4000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 3",
     "interact": false,
@@ -1550,17 +1319,10 @@
       "korean": "메갈로케로스의 왼쪽 반신",
       "russian": "лев. часть гигантск. оленя",
       "plural": false,
-      "internalIds": [
-        4659
-      ]
+      "internalIds": [ 4659 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1569,7 +1331,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonC.png",
     "buy": -1,
     "sell": 4500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1596,17 +1358,10 @@
       "korean": "프테라노돈의 왼날개",
       "russian": "л. крыло птеранодона",
       "plural": false,
-      "internalIds": [
-        208
-      ]
+      "internalIds": [ 208 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1615,7 +1370,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusC.png",
     "buy": -1,
     "sell": 5000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1642,17 +1397,10 @@
       "korean": "케찰코아틀루스의 왼날개",
       "russian": "л. крыло кетцалькоатля",
       "plural": false,
-      "internalIds": [
-        4699
-      ]
+      "internalIds": [ 4699 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1661,7 +1409,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothA.png",
     "buy": -1,
     "sell": 3000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 3",
     "interact": false,
@@ -1688,17 +1436,10 @@
       "korean": "매머드의 머리",
       "russian": "череп мамонта",
       "plural": false,
-      "internalIds": [
-        195
-      ]
+      "internalIds": [ 195 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1707,7 +1448,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothB.png",
     "buy": -1,
     "sell": 2500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 3",
     "interact": false,
@@ -1734,17 +1475,10 @@
       "korean": "매머드의 몸통",
       "russian": "торс мамонта",
       "plural": false,
-      "internalIds": [
-        196
-      ]
+      "internalIds": [ 196 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1753,7 +1487,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumA.png",
     "buy": -1,
     "sell": 4500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 3",
     "interact": false,
@@ -1780,17 +1514,10 @@
       "korean": "메가케롭스의 머리",
       "russian": "череп бронтотерия",
       "plural": false,
-      "internalIds": [
-        180
-      ]
+      "internalIds": [ 180 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1799,7 +1526,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumC.png",
     "buy": -1,
     "sell": 3000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 3",
     "interact": false,
@@ -1826,17 +1553,10 @@
       "korean": "메가케롭스의 꼬리",
       "russian": "хвост бронтотерия",
       "plural": false,
-      "internalIds": [
-        182
-      ]
+      "internalIds": [ 182 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1845,7 +1565,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumB.png",
     "buy": -1,
     "sell": 3500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 3",
     "interact": false,
@@ -1872,17 +1592,10 @@
       "korean": "메가케롭스의 몸통",
       "russian": "торс бронтотерия",
       "plural": false,
-      "internalIds": [
-        181
-      ]
+      "internalIds": [ 181 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1891,7 +1604,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFish.png",
     "buy": -1,
     "sell": 1500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 1",
     "interact": false,
@@ -1918,17 +1631,10 @@
       "korean": "밀로쿤밍기아",
       "russian": "миллокунмингия",
       "plural": false,
-      "internalIds": [
-        4662
-      ]
+      "internalIds": [ 4662 ]
     },
-    "colors": [
-      "Gray",
-      "Gray"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Gray", "Gray" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1937,7 +1643,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusA.png",
     "buy": -1,
     "sell": 2500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -1964,17 +1670,10 @@
       "korean": "오프탈모사우루스의 머리",
       "russian": "череп офтальмозавра",
       "plural": false,
-      "internalIds": [
-        192
-      ]
+      "internalIds": [ 192 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1983,7 +1682,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusB.png",
     "buy": -1,
     "sell": 2000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2010,17 +1709,10 @@
       "korean": "오프탈모사우루스의 몸통",
       "russian": "торс офтальмозавра",
       "plural": false,
-      "internalIds": [
-        193
-      ]
+      "internalIds": [ 193 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2029,7 +1721,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusA.png",
     "buy": -1,
     "sell": 4000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": true,
@@ -2056,17 +1748,10 @@
       "korean": "파키케팔로사우루스의 머리",
       "russian": "череп пахицефалозавра",
       "plural": false,
-      "internalIds": [
-        198
-      ]
+      "internalIds": [ 198 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2075,7 +1760,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusB.png",
     "buy": -1,
     "sell": 3500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2102,17 +1787,10 @@
       "korean": "파키케팔로사우루스의 몸통",
       "russian": "хвост пахицефалозавра",
       "plural": false,
-      "internalIds": [
-        199
-      ]
+      "internalIds": [ 199 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2121,7 +1799,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusA.png",
     "buy": -1,
     "sell": 3500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2148,17 +1826,10 @@
       "korean": "파라사우롤로푸스의 머리",
       "russian": "череп паразауролофа",
       "plural": false,
-      "internalIds": [
-        202
-      ]
+      "internalIds": [ 202 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2167,7 +1838,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusC.png",
     "buy": -1,
     "sell": 2500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2194,17 +1865,10 @@
       "korean": "파라사우롤로푸스의 꼬리",
       "russian": "хвост паразауролофа",
       "plural": false,
-      "internalIds": [
-        204
-      ]
+      "internalIds": [ 204 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2213,7 +1877,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusB.png",
     "buy": -1,
     "sell": 3000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2240,63 +1904,10 @@
       "korean": "파라사우롤로푸스의 몸통",
       "russian": "торс паразауролофа",
       "plural": false,
-      "internalIds": [
-        203
-      ]
+      "internalIds": [ 203 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
-    "recipe": null
-  },
-  {
-    "sourceSheet": "Fossils",
-    "name": "plesio body",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusB.png",
-    "buy": -1,
-    "sell": 4500,
-    "hhaBaseScore": 87,
-    "size": "2x2",
-    "museum": "Room 2",
-    "interact": false,
-    "catalog": "Not for sale",
-    "filename": "FtrFossilElasmosaurusB",
-    "internalId": 235,
-    "uniqueEntryId": "jbfiPhmAcserk23rm",
-    "translations": {
-      "sourceSheet": "Fossils",
-      "id": "Fossil_00235",
-      "version": "1.0.0",
-      "english": "plesio body",
-      "englishEurope": "plesio body",
-      "german": "Plesiosaurus-Torso",
-      "spanish": "torso plesiosaurio",
-      "spanishUs": "torso plesiosaurio",
-      "french": "corps de plésiosaure",
-      "frenchUs": "corps de plésiosaure",
-      "italian": "corpo plesiosauro",
-      "dutch": "plesiosaurusromp",
-      "chinese": "双叶铃木龙的身体",
-      "chineseTraditional": "雙葉鈴木龍的身體",
-      "japanese": "フタバサウルスのからだ",
-      "korean": "후타바사우루스의 몸통",
-      "russian": "торс плезиозавра",
-      "plural": false,
-      "internalIds": [
-        235
-      ]
-    },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2305,7 +1916,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusA.png",
     "buy": -1,
     "sell": 4000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2332,17 +1943,10 @@
       "korean": "후타바사우루스의 머리",
       "russian": "череп плезиозавра",
       "plural": false,
-      "internalIds": [
-        234
-      ]
+      "internalIds": [ 234 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2351,7 +1955,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusC.png",
     "buy": -1,
     "sell": 4500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2378,17 +1982,49 @@
       "korean": "후타바사우루스의 꼬리",
       "russian": "хвост плезиозавра",
       "plural": false,
-      "internalIds": [
-        236
-      ]
+      "internalIds": [ 236 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Fossils",
+    "name": "plesio torso",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusB.png",
+    "buy": -1,
+    "sell": 4500,
+    "hhaBasePoints": 87,
+    "size": "2x2",
+    "museum": "Room 2",
+    "interact": false,
+    "catalog": "Not for sale",
+    "filename": "FtrFossilElasmosaurusB",
+    "internalId": 235,
+    "uniqueEntryId": "jbfiPhmAcserk23rm",
+    "translations": {
+      "sourceSheet": "Fossils",
+      "id": "Fossil_00235",
+      "version": "1.0.0",
+      "english": "plesio torso",
+      "englishEurope": "plesio torso",
+      "german": "Plesiosaurus-Torso",
+      "spanish": "torso plesiosaurio",
+      "spanishUs": "torso plesiosaurio",
+      "french": "corps de plésiosaure",
+      "frenchUs": "corps de plésiosaure",
+      "italian": "corpo plesiosauro",
+      "dutch": "plesiosaurusromp",
+      "chinese": "双叶铃木龙的身体",
+      "chineseTraditional": "雙葉鈴木龍的身體",
+      "japanese": "フタバサウルスのからだ",
+      "korean": "후타바사우루스의 몸통",
+      "russian": "торс плезиозавра",
+      "plural": false,
+      "internalIds": [ 235 ]
+    },
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2397,7 +2033,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonA.png",
     "buy": -1,
     "sell": 4000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2424,17 +2060,10 @@
       "korean": "프테라노돈의 머리",
       "russian": "торс птеранодона",
       "plural": false,
-      "internalIds": [
-        206
-      ]
+      "internalIds": [ 206 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2443,7 +2072,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusA.png",
     "buy": -1,
     "sell": 4500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2470,17 +2099,10 @@
       "korean": "케찰코아틀루스의 머리",
       "russian": "торс кетцалькоатля",
       "plural": false,
-      "internalIds": [
-        4697
-      ]
+      "internalIds": [ 4697 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2489,7 +2111,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosA.png",
     "buy": -1,
     "sell": 5500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 3",
     "interact": false,
@@ -2516,17 +2138,10 @@
       "korean": "메갈로케로스의 오른쪽 반신",
       "russian": "пр. часть гигантск. оленя",
       "plural": false,
-      "internalIds": [
-        4658
-      ]
+      "internalIds": [ 4658 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2535,7 +2150,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonB.png",
     "buy": -1,
     "sell": 4500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2562,17 +2177,10 @@
       "korean": "프테라노돈의 오른날개",
       "russian": "п. крыло птеранодона",
       "plural": false,
-      "internalIds": [
-        207
-      ]
+      "internalIds": [ 207 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2581,7 +2189,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusB.png",
     "buy": -1,
     "sell": 5000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2608,17 +2216,10 @@
       "korean": "케찰코아틀루스의 오른날개",
       "russian": "п. крыло кетцалькоатля",
       "plural": false,
-      "internalIds": [
-        4698
-      ]
+      "internalIds": [ 4698 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2627,7 +2228,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonA.png",
     "buy": -1,
     "sell": 2500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 3",
     "interact": false,
@@ -2654,17 +2255,10 @@
       "korean": "스밀로돈의 머리",
       "russian": "череп смилодона",
       "plural": false,
-      "internalIds": [
-        213
-      ]
+      "internalIds": [ 213 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2673,7 +2267,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonB.png",
     "buy": -1,
     "sell": 2000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 3",
     "interact": false,
@@ -2700,17 +2294,10 @@
       "korean": "스밀로돈의 몸통",
       "russian": "хвост смилодона",
       "plural": false,
-      "internalIds": [
-        214
-      ]
+      "internalIds": [ 214 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2719,7 +2306,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilShark.png",
     "buy": -1,
     "sell": 1000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 1",
     "interact": false,
@@ -2746,17 +2333,10 @@
       "korean": "상어 이빨 화석",
       "russian": "зубы ископаемой акулы",
       "plural": false,
-      "internalIds": [
-        302
-      ]
+      "internalIds": [ 302 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2765,7 +2345,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusA.png",
     "buy": -1,
     "sell": 4000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": true,
@@ -2792,17 +2372,10 @@
       "korean": "스피노사우루스의 머리",
       "russian": "череп спинозавра",
       "plural": false,
-      "internalIds": [
-        222
-      ]
+      "internalIds": [ 222 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2811,7 +2384,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusC.png",
     "buy": -1,
     "sell": 2500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2838,17 +2411,10 @@
       "korean": "스피노사우루스의 꼬리",
       "russian": "хвост спинозавра",
       "plural": false,
-      "internalIds": [
-        224
-      ]
+      "internalIds": [ 224 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2857,7 +2423,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusB.png",
     "buy": -1,
     "sell": 3000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2884,17 +2450,10 @@
       "korean": "스피노사우루스의 몸통",
       "russian": "торс спинозавра",
       "plural": false,
-      "internalIds": [
-        223
-      ]
+      "internalIds": [ 223 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2903,7 +2462,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusA.png",
     "buy": -1,
     "sell": 5000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2930,17 +2489,10 @@
       "korean": "스테고사우루스의 머리",
       "russian": "череп стегозавра",
       "plural": false,
-      "internalIds": [
-        226
-      ]
+      "internalIds": [ 226 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2949,7 +2501,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusC.png",
     "buy": -1,
     "sell": 4000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -2976,17 +2528,10 @@
       "korean": "스테고사우루스의 꼬리",
       "russian": "хвост стегозавра",
       "plural": false,
-      "internalIds": [
-        228
-      ]
+      "internalIds": [ 228 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2995,7 +2540,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusB.png",
     "buy": -1,
     "sell": 4500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -3022,17 +2567,10 @@
       "korean": "스테고사우루스의 몸통",
       "russian": "торс стегозавра",
       "plural": false,
-      "internalIds": [
-        227
-      ]
+      "internalIds": [ 227 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -3041,7 +2579,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexA.png",
     "buy": -1,
     "sell": 6000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": true,
@@ -3068,17 +2606,10 @@
       "korean": "티렉스의 머리",
       "russian": "череп тираннозавра",
       "plural": false,
-      "internalIds": [
-        238
-      ]
+      "internalIds": [ 238 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -3087,7 +2618,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexC.png",
     "buy": -1,
     "sell": 5000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -3114,17 +2645,10 @@
       "korean": "티렉스의 꼬리",
       "russian": "хвост тираннозавра",
       "plural": false,
-      "internalIds": [
-        240
-      ]
+      "internalIds": [ 240 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -3133,7 +2657,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexB.png",
     "buy": -1,
     "sell": 5500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -3160,17 +2684,10 @@
       "korean": "티렉스의 몸통",
       "russian": "торс тираннозавра",
       "plural": false,
-      "internalIds": [
-        239
-      ]
+      "internalIds": [ 239 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -3179,7 +2696,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsA.png",
     "buy": -1,
     "sell": 5500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": true,
@@ -3206,17 +2723,10 @@
       "korean": "트리케라톱스의 머리",
       "russian": "череп трицератопса",
       "plural": false,
-      "internalIds": [
-        242
-      ]
+      "internalIds": [ 242 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -3225,7 +2735,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsC.png",
     "buy": -1,
     "sell": 4500,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -3252,17 +2762,10 @@
       "korean": "트리케라톱스의 꼬리",
       "russian": "хвост трицератопса",
       "plural": false,
-      "internalIds": [
-        244
-      ]
+      "internalIds": [ 244 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -3271,7 +2774,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsB.png",
     "buy": -1,
     "sell": 5000,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "2x2",
     "museum": "Room 2",
     "interact": false,
@@ -3298,17 +2801,10 @@
       "korean": "트리케라톱스의 몸통",
       "russian": "торс трицератопса",
       "plural": false,
-      "internalIds": [
-        243
-      ]
+      "internalIds": [ 243 ]
     },
-    "colors": [
-      "Brown",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Brown", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -3317,7 +2813,7 @@
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTrilobite.png",
     "buy": -1,
     "sell": 1300,
-    "hhaBaseScore": 87,
+    "hhaBasePoints": 87,
     "size": "1x1",
     "museum": "Room 1",
     "interact": false,
@@ -3344,17 +2840,10 @@
       "korean": "삼엽충",
       "russian": "трилобит",
       "plural": false,
-      "internalIds": [
-        303
-      ]
+      "internalIds": [ 303 ]
     },
-    "colors": [
-      "Beige",
-      "Brown"
-    ],
-    "sources": [
-      "Assessing fossils"
-    ],
+    "colors": [ "Beige", "Brown" ],
+    "sources": [ "Assessing fossils" ],
     "recipe": null
   }
 ]

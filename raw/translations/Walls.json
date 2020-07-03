@@ -4691,5 +4691,43 @@
     "Japanese": "ウェディングなかべ・グリーン",
     "Korean": "초록 웨딩 벽",
     "Russian": "зеленая свадебная стена"
+  },
+  {
+    "SourceSheet": "Walls",
+    "id": "RoomWall_12566",
+    "Version": "1.3.0",
+    "English": "mermaid wall",
+    "English (Europe)": "mermaid wall",
+    "German": "Nixentapete",
+    "Spanish": "pared sirena",
+    "Spanish (US)": "pared sirena",
+    "French": "mur sirène",
+    "French (US)": "mur sirène",
+    "Italian": "muro sirena",
+    "Dutch": "meerminnenwand",
+    "Chinese": "人鱼壁纸",
+    "Chinese (Traditional)": "人魚壁紙",
+    "Japanese": "マーメイドなかべがみ",
+    "Korean": "머메이드 벽지",
+    "Russian": "стена русалки"
+  },
+  {
+    "SourceSheet": "Walls",
+    "id": "RoomWall_12567",
+    "Version": "1.3.0",
+    "English": "pirate wall",
+    "English (Europe)": "pirate wall",
+    "German": "Piratentapete",
+    "Spanish": "pared pirata",
+    "Spanish (US)": "pared pirata",
+    "French": "mur pirate",
+    "French (US)": "mur pirate",
+    "Italian": "muro pirata",
+    "Dutch": "piratenwand",
+    "Chinese": "海盗壁纸",
+    "Chinese (Traditional)": "海盜壁紙",
+    "Japanese": "かいぞくのかべがみ",
+    "Korean": "해적 벽지",
+    "Russian": "пиратская стена"
   }
 ]

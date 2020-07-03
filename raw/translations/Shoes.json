@@ -1651,5 +1651,43 @@
     "Japanese": "じゅんぱくのシューズ",
     "Korean": "순백 슈즈",
     "Russian": "свадебные туфли"
+  },
+  {
+    "SourceSheet": "Shoes",
+    "id": 1223,
+    "Version": "1.3.0",
+    "English": "mermaid shoes",
+    "English (Europe)": "mermaid shoes",
+    "German": "Paar Nixenschuhe",
+    "Spanish": "zapato sirena",
+    "Spanish (US)": "zapato sirena",
+    "French": "paire de chaussures sirène",
+    "French (US)": "paire de chaussures sirène",
+    "Italian": "paio scarpe sirena",
+    "Dutch": "meerminnenballerina's",
+    "Chinese": "人鱼鞋",
+    "Chinese (Traditional)": "人魚鞋",
+    "Japanese": "マーメイドなくつ",
+    "Korean": "머메이드 구두",
+    "Russian": "туфли русалки"
+  },
+  {
+    "SourceSheet": "Shoes",
+    "id": 1228,
+    "Version": "1.3.0",
+    "English": "pirate boots",
+    "English (Europe)": "pirate boots",
+    "German": "Paar Piratenstiefel",
+    "Spanish": "bota pirata",
+    "Spanish (US)": "bota pirata",
+    "French": "paire de bottes de pirate",
+    "French (US)": "paire de bottes de pirate",
+    "Italian": "paio di stivali da pirata",
+    "Dutch": "piratenlaarzen",
+    "Chinese": "海盗靴",
+    "Chinese (Traditional)": "海盜靴",
+    "Japanese": "かいぞくのブーツ",
+    "Korean": "해적 부츠",
+    "Russian": "пиратские сапоги"
   }
 ]

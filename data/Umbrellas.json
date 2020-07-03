@@ -7,7 +7,7 @@
     "diy": true,
     "buy": -1,
     "sell": 1400,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -37,17 +37,10 @@
       "korean": "사과 우산",
       "russian": "яблочный зонт",
       "plural": false,
-      "internalIds": [
-        9948
-      ]
+      "internalIds": [ 9948 ]
     },
-    "colors": [
-      "Yellow",
-      "Red"
-    ],
-    "sources": [
-      "Crafting"
-    ],
+    "colors": [ "Yellow", "Red" ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "apple umbrella",
@@ -58,7 +51,7 @@
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 100,
-      "category": "Umbrellas",
+      "category": "Equipment",
       "craftedItemInternalId": 9948,
       "cardColor": "red",
       "serialId": 1780,
@@ -83,16 +76,10 @@
         "korean": "사과 우산",
         "russian": "яблочный зонт",
         "plural": false,
-        "internalIds": [
-          9948
-        ]
+        "internalIds": [ 9948 ]
       },
-      "materials": {
-        "apple": 7
-      },
-      "sources": [
-        "Big Sister villagers"
-      ]
+      "materials": { "apple": 7 },
+      "sources": [ "Big Sister villagers" ]
     }
   },
   {
@@ -103,7 +90,7 @@
     "diy": false,
     "buy": 840,
     "sell": 210,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -133,17 +120,10 @@
       "korean": "박쥐 우산",
       "russian": "чернокрылый зонт",
       "plural": false,
-      "internalIds": [
-        6919
-      ]
+      "internalIds": [ 6919 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Black", "Black" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -154,7 +134,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -184,17 +164,10 @@
       "korean": "해변가 우산",
       "russian": "пляжный зонт",
       "plural": false,
-      "internalIds": [
-        9957
-      ]
+      "internalIds": [ 9957 ]
     },
-    "colors": [
-      "Blue",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Blue", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -205,7 +178,7 @@
     "diy": false,
     "buy": 1570,
     "sell": 392,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -235,17 +208,10 @@
       "korean": "곰 우산",
       "russian": "зонт с медвежонком",
       "plural": false,
-      "internalIds": [
-        7167
-      ]
+      "internalIds": [ 7167 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Brown", "Beige" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -256,7 +222,7 @@
     "diy": false,
     "buy": 1620,
     "sell": 405,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -286,17 +252,10 @@
       "korean": "검정 시크 우산",
       "russian": "шикарный черный зонт",
       "plural": false,
-      "internalIds": [
-        12137
-      ]
+      "internalIds": [ 12137 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Black", "Black" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -307,7 +266,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -337,17 +296,10 @@
       "korean": "검정 레이스 우산",
       "russian": "черный кружевной зонт",
       "plural": false,
-      "internalIds": [
-        6915
-      ]
+      "internalIds": [ 6915 ]
     },
-    "colors": [
-      "Black",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Black", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -358,7 +310,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -388,17 +340,10 @@
       "korean": "파란 물방울 우산",
       "russian": "синий зонт в горох",
       "plural": false,
-      "internalIds": [
-        9956
-      ]
+      "internalIds": [ 9956 ]
     },
-    "colors": [
-      "Blue",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Blue", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -409,7 +354,7 @@
     "diy": false,
     "buy": 1620,
     "sell": 405,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -439,17 +384,10 @@
       "korean": "블루 리본 레이스 우산",
       "russian": "зонт с синими бантиками",
       "plural": false,
-      "internalIds": [
-        12134
-      ]
+      "internalIds": [ 12134 ]
     },
-    "colors": [
-      "Blue",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Blue", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -460,7 +398,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -490,17 +428,10 @@
       "korean": "파란 우산",
       "russian": "синий зонт",
       "plural": false,
-      "internalIds": [
-        9959
-      ]
+      "internalIds": [ 9959 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -511,7 +442,7 @@
     "diy": false,
     "buy": 1570,
     "sell": 392,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -541,17 +472,10 @@
       "korean": "부러진 우산",
       "russian": "сломанный зонт",
       "plural": false,
-      "internalIds": [
-        7182
-      ]
+      "internalIds": [ 7182 ]
     },
-    "colors": [
-      "Black",
-      "Black"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Black", "Black" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -562,7 +486,7 @@
     "diy": false,
     "buy": 650,
     "sell": 162,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -592,17 +516,10 @@
       "korean": "밀리터리 우산",
       "russian": "камуфляжный зонт",
       "plural": false,
-      "internalIds": [
-        6923
-      ]
+      "internalIds": [ 6923 ]
     },
-    "colors": [
-      "Green",
-      "Beige"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Green", "Beige" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -613,7 +530,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -643,17 +560,10 @@
       "korean": "딸기 깅엄 우산",
       "russian": "зонт в леденцовых тонах",
       "plural": false,
-      "internalIds": [
-        6926
-      ]
+      "internalIds": [ 6926 ]
     },
-    "colors": [
-      "Pink",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Pink", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -664,7 +574,7 @@
     "diy": true,
     "buy": -1,
     "sell": 1400,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -694,17 +604,10 @@
       "korean": "체리 우산",
       "russian": "вишневый зонт",
       "plural": false,
-      "internalIds": [
-        9949
-      ]
+      "internalIds": [ 9949 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "sources": [
-      "Crafting"
-    ],
+    "colors": [ "Red", "Red" ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry umbrella",
@@ -715,7 +618,7 @@
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 100,
-      "category": "Umbrellas",
+      "category": "Equipment",
       "craftedItemInternalId": 9949,
       "cardColor": "yellow",
       "serialId": 1480,
@@ -740,16 +643,10 @@
         "korean": "체리 우산",
         "russian": "вишневый зонт",
         "plural": false,
-        "internalIds": [
-          9949
-        ]
+        "internalIds": [ 9949 ]
       },
-      "materials": {
-        "cherry": 7
-      },
-      "sources": [
-        "Peppy villagers"
-      ]
+      "materials": { "cherry": 7 },
+      "sources": [ "Peppy villagers" ]
     }
   },
   {
@@ -760,7 +657,7 @@
     "diy": true,
     "buy": -1,
     "sell": 2800,
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -790,17 +687,10 @@
       "korean": "벚꽃 우산",
       "russian": "зонт «Цветок вишни»",
       "plural": false,
-      "internalIds": [
-        9945
-      ]
+      "internalIds": [ 9945 ]
     },
-    "colors": [
-      "Pink",
-      "Green"
-    ],
-    "sources": [
-      "Crafting"
-    ],
+    "colors": [ "Pink", "Green" ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom umbrella",
@@ -811,7 +701,7 @@
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
-      "category": "Umbrellas",
+      "category": "Equipment",
       "craftedItemInternalId": 9945,
       "cardColor": "pink",
       "serialId": 2680,
@@ -836,16 +726,10 @@
         "korean": "벚꽃 우산",
         "russian": "зонт «Цветок вишни»",
         "plural": false,
-        "internalIds": [
-          9945
-        ]
+        "internalIds": [ 9945 ]
       },
-      "materials": {
-        "cherry-blossom petal": 7
-      },
-      "sources": [
-        "Balloons"
-      ]
+      "materials": { "cherry-blossom petal": 7 },
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -856,7 +740,7 @@
     "diy": false,
     "buy": -1,
     "sell": 1010,
-    "hhaBaseScore": 251,
+    "hhaBasePoints": 251,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Received in mail from DAL after 160 flights",
@@ -886,17 +770,10 @@
       "korean": "DAL 우산",
       "russian": "зонт DAL",
       "plural": false,
-      "internalIds": [
-        9560
-      ]
+      "internalIds": [ 9560 ]
     },
-    "colors": [
-      "Blue",
-      "Blue"
-    ],
-    "sources": [
-      "Dodo Airlines"
-    ],
+    "colors": [ "Blue", "Blue" ],
+    "sources": [ "Dodo Airlines" ],
     "recipe": null
   },
   {
@@ -907,7 +784,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -937,17 +814,10 @@
       "korean": "노란 물방울 우산",
       "russian": "яичный зонт",
       "plural": false,
-      "internalIds": [
-        9955
-      ]
+      "internalIds": [ 9955 ]
     },
-    "colors": [
-      "Yellow",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Yellow", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -958,7 +828,7 @@
     "diy": false,
     "buy": 1670,
     "sell": 417,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -988,17 +858,10 @@
       "korean": "오리엔탈 우산",
       "russian": "изысканный зонт",
       "plural": false,
-      "internalIds": [
-        7171
-      ]
+      "internalIds": [ 7171 ]
     },
-    "colors": [
-      "Yellow",
-      "Pink"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Yellow", "Pink" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1009,7 +872,7 @@
     "diy": false,
     "buy": 820,
     "sell": 205,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1039,17 +902,10 @@
       "korean": "메르헨 우산",
       "russian": "сказочный зонт",
       "plural": false,
-      "internalIds": [
-        7175
-      ]
+      "internalIds": [ 7175 ]
     },
-    "colors": [
-      "Green",
-      "Yellow"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Green", "Yellow" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1060,7 +916,7 @@
     "diy": false,
     "buy": -1,
     "sell": 80,
-    "hhaBaseScore": 501,
+    "hhaBasePoints": 501,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1090,17 +946,10 @@
       "korean": "물고기 우산",
       "russian": "зонт с рыбкой",
       "plural": false,
-      "internalIds": [
-        8768
-      ]
+      "internalIds": [ 8768 ]
     },
-    "colors": [
-      "Blue",
-      "Light blue"
-    ],
-    "sources": [
-      "Fishing Tourney"
-    ],
+    "colors": [ "Blue", "Light blue" ],
+    "sources": [ "Fishing Tourney" ],
     "recipe": null
   },
   {
@@ -1111,7 +960,7 @@
     "diy": false,
     "buy": 1570,
     "sell": 392,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -1141,17 +990,10 @@
       "korean": "개구리 우산",
       "russian": "лягушачий зонт",
       "plural": false,
-      "internalIds": [
-        6925
-      ]
+      "internalIds": [ 6925 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Green", "Green" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1162,7 +1004,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1192,17 +1034,10 @@
       "korean": "3색 우산",
       "russian": "трехцветный зонт",
       "plural": false,
-      "internalIds": [
-        7180
-      ]
+      "internalIds": [ 7180 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1213,7 +1048,7 @@
     "diy": false,
     "buy": 1670,
     "sell": 417,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -1243,17 +1078,10 @@
       "korean": "해나와라 우산",
       "russian": "призрачный зонт",
       "plural": false,
-      "internalIds": [
-        6924
-      ]
+      "internalIds": [ 6924 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "White", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1264,7 +1092,7 @@
     "diy": false,
     "buy": 1550,
     "sell": 387,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -1294,17 +1122,10 @@
       "korean": "포도 우산",
       "russian": "виноградный зонт",
       "plural": false,
-      "internalIds": [
-        6911
-      ]
+      "internalIds": [ 6911 ]
     },
-    "colors": [
-      "Purple",
-      "Green"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Purple", "Green" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1315,7 +1136,7 @@
     "diy": false,
     "buy": 1620,
     "sell": 405,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -1345,17 +1166,10 @@
       "korean": "초록 시크 우산",
       "russian": "шикарный зеленый зонт",
       "plural": false,
-      "internalIds": [
-        12136
-      ]
+      "internalIds": [ 12136 ]
     },
-    "colors": [
-      "Green",
-      "Black"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Green", "Black" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1366,7 +1180,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1396,17 +1210,10 @@
       "korean": "초록 우산",
       "russian": "зеленый зонт",
       "plural": false,
-      "internalIds": [
-        9960
-      ]
+      "internalIds": [ 9960 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Green", "Green" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1417,7 +1224,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1447,17 +1254,10 @@
       "korean": "수국 우산",
       "russian": "зонт-гортензия",
       "plural": false,
-      "internalIds": [
-        6906
-      ]
+      "internalIds": [ 6906 ]
     },
-    "colors": [
-      "Light blue",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Light blue", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1468,7 +1268,7 @@
     "diy": false,
     "buy": 1670,
     "sell": 417,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -1498,17 +1298,10 @@
       "korean": "가부키 우산",
       "russian": "зонт кабуки",
       "plural": false,
-      "internalIds": [
-        7177
-      ]
+      "internalIds": [ 7177 ]
     },
-    "colors": [
-      "Purple",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Purple", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1519,7 +1312,7 @@
     "diy": false,
     "buy": 1550,
     "sell": 387,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -1549,17 +1342,10 @@
       "korean": "키위 우산",
       "russian": "зонт-киви",
       "plural": false,
-      "internalIds": [
-        6908
-      ]
+      "internalIds": [ 6908 ]
     },
-    "colors": [
-      "Green",
-      "Brown"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Green", "Brown" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1570,7 +1356,7 @@
     "diy": false,
     "buy": 1550,
     "sell": 387,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -1600,17 +1386,10 @@
       "korean": "레이스 우산",
       "russian": "кружевной зонт",
       "plural": false,
-      "internalIds": [
-        9946
-      ]
+      "internalIds": [ 9946 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "White", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1621,7 +1400,7 @@
     "diy": false,
     "buy": -1,
     "sell": 80,
-    "hhaBaseScore": 501,
+    "hhaBasePoints": 501,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1651,17 +1430,10 @@
       "korean": "무당벌레 우산",
       "russian": "зонт «Божья коровка»",
       "plural": false,
-      "internalIds": [
-        8767
-      ]
+      "internalIds": [ 8767 ]
     },
-    "colors": [
-      "Red",
-      "Black"
-    ],
-    "sources": [
-      "Bug-Off"
-    ],
+    "colors": [ "Red", "Black" ],
+    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -1672,7 +1444,7 @@
     "diy": true,
     "buy": -1,
     "sell": 300,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1702,17 +1474,10 @@
       "korean": "연꽃잎 우산",
       "russian": "зонт-лист",
       "plural": false,
-      "internalIds": [
-        6840
-      ]
+      "internalIds": [ 6840 ]
     },
-    "colors": [
-      "Green",
-      "Green"
-    ],
-    "sources": [
-      "Crafting"
-    ],
+    "colors": [ "Green", "Green" ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "leaf umbrella",
@@ -1723,7 +1488,7 @@
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
-      "category": "Umbrellas",
+      "category": "Equipment",
       "craftedItemInternalId": 6840,
       "cardColor": "green",
       "serialId": 1282,
@@ -1748,16 +1513,10 @@
         "korean": "연꽃잎 우산",
         "russian": "зонт-лист",
         "plural": false,
-        "internalIds": [
-          6840
-        ]
+        "internalIds": [ 6840 ]
       },
-      "materials": {
-        "clump of weeds": 15
-      },
-      "sources": [
-        "Big Sister villagers"
-      ]
+      "materials": { "clump of weeds": 15 },
+      "sources": [ "Big Sister villagers" ]
     }
   },
   {
@@ -1768,7 +1527,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1798,17 +1557,10 @@
       "korean": "레몬 깅엄 우산",
       "russian": "лимонный зонт",
       "plural": false,
-      "internalIds": [
-        9954
-      ]
+      "internalIds": [ 9954 ]
     },
-    "colors": [
-      "Yellow",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Yellow", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1819,7 +1571,7 @@
     "diy": false,
     "buy": 650,
     "sell": 162,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1849,17 +1601,10 @@
       "korean": "로고 우산",
       "russian": "зонт с логотипом",
       "plural": false,
-      "internalIds": [
-        7172
-      ]
+      "internalIds": [ 7172 ]
     },
-    "colors": [
-      "Blue",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Blue", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1870,7 +1615,7 @@
     "diy": true,
     "buy": -1,
     "sell": 2800,
-    "hhaBaseScore": 201,
+    "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1900,17 +1645,10 @@
       "korean": "단풍잎 우산",
       "russian": "кленовый лист-зонт",
       "plural": false,
-      "internalIds": [
-        7169
-      ]
+      "internalIds": [ 7169 ]
     },
-    "colors": [
-      "Orange",
-      "Orange"
-    ],
-    "sources": [
-      "Crafting"
-    ],
+    "colors": [ "Orange", "Orange" ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "maple-leaf umbrella",
@@ -1921,7 +1659,7 @@
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
-      "category": "Umbrellas",
+      "category": "Equipment",
       "craftedItemInternalId": 7169,
       "cardColor": "brown",
       "serialId": 2980,
@@ -1946,16 +1684,10 @@
         "korean": "단풍잎 우산",
         "russian": "кленовый лист-зонт",
         "plural": false,
-        "internalIds": [
-          7169
-        ]
+        "internalIds": [ 7169 ]
       },
-      "materials": {
-        "maple leaf": 7
-      },
-      "sources": [
-        "Balloons"
-      ]
+      "materials": { "maple leaf": 7 },
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -1966,7 +1698,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -1996,17 +1728,10 @@
       "korean": "새싹 깅엄 우산",
       "russian": "дынный зонт",
       "plural": false,
-      "internalIds": [
-        9951
-      ]
+      "internalIds": [ 9951 ]
     },
-    "colors": [
-      "Green",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Green", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2017,7 +1742,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -2047,17 +1772,10 @@
       "korean": "잔꽃무늬 우산",
       "russian": "зонт в мелкий цветочек",
       "plural": false,
-      "internalIds": [
-        6914
-      ]
+      "internalIds": [ 6914 ]
     },
-    "colors": [
-      "Pink",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Pink", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2068,7 +1786,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -2098,17 +1816,10 @@
       "korean": "민트 깅엄 우산",
       "russian": "мятный зонт",
       "plural": false,
-      "internalIds": [
-        9952
-      ]
+      "internalIds": [ 9952 ]
     },
-    "colors": [
-      "Brown",
-      "Green"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Brown", "Green" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2119,7 +1830,7 @@
     "diy": true,
     "buy": -1,
     "sell": 1200,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -2149,17 +1860,10 @@
       "korean": "버섯 우산",
       "russian": "зонт-гриб",
       "plural": false,
-      "internalIds": [
-        7174
-      ]
+      "internalIds": [ 7174 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
-    "sources": [
-      "Crafting"
-    ],
+    "colors": [ "Brown", "Beige" ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mush umbrella",
@@ -2170,7 +1874,7 @@
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
-      "category": "Umbrellas",
+      "category": "Equipment",
       "craftedItemInternalId": 7174,
       "cardColor": "orange",
       "serialId": 3080,
@@ -2195,16 +1899,10 @@
         "korean": "버섯 우산",
         "russian": "зонт-гриб",
         "plural": false,
-        "internalIds": [
-          7174
-        ]
+        "internalIds": [ 7174 ]
       },
-      "materials": {
-        "flat mushroom": 3
-      },
-      "sources": [
-        "Balloons"
-      ]
+      "materials": { "flat mushroom": 3 },
+      "sources": [ "Balloons" ]
     }
   },
   {
@@ -2215,7 +1913,7 @@
     "diy": false,
     "buy": -1,
     "sell": 3500,
-    "hhaBaseScore": 151,
+    "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 700,
     "sourceNotes": null,
@@ -2245,17 +1943,10 @@
       "korean": "Nook Inc. 우산",
       "russian": "зонт Nook Inc.",
       "plural": false,
-      "internalIds": [
-        9561
-      ]
+      "internalIds": [ 9561 ]
     },
-    "colors": [
-      "Green",
-      "White"
-    ],
-    "sources": [
-      "Nook Miles Shop"
-    ],
+    "colors": [ "Green", "White" ],
+    "sources": [ "Nook Miles Shop" ],
     "recipe": null
   },
   {
@@ -2266,7 +1957,7 @@
     "diy": true,
     "buy": -1,
     "sell": 1400,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -2296,17 +1987,10 @@
       "korean": "오렌지 우산",
       "russian": "апельсиновый зонт",
       "plural": false,
-      "internalIds": [
-        6912
-      ]
+      "internalIds": [ 6912 ]
     },
-    "colors": [
-      "Orange",
-      "Yellow"
-    ],
-    "sources": [
-      "Crafting"
-    ],
+    "colors": [ "Orange", "Yellow" ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "orange umbrella",
@@ -2317,7 +2001,7 @@
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 100,
-      "category": "Umbrellas",
+      "category": "Equipment",
       "craftedItemInternalId": 6912,
       "cardColor": "orange",
       "serialId": 1380,
@@ -2342,16 +2026,10 @@
         "korean": "오렌지 우산",
         "russian": "апельсиновый зонт",
         "plural": false,
-        "internalIds": [
-          6912
-        ]
+        "internalIds": [ 6912 ]
       },
-      "materials": {
-        "orange": 7
-      },
-      "sources": [
-        "Lazy villagers"
-      ]
+      "materials": { "orange": 7 },
+      "sources": [ "Lazy villagers" ]
     }
   },
   {
@@ -2362,7 +2040,7 @@
     "diy": false,
     "buy": 1570,
     "sell": 392,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -2392,17 +2070,10 @@
       "korean": "팬더 우산",
       "russian": "зонт с пандой",
       "plural": false,
-      "internalIds": [
-        7170
-      ]
+      "internalIds": [ 7170 ]
     },
-    "colors": [
-      "White",
-      "Black"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "White", "Black" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2413,7 +2084,7 @@
     "diy": false,
     "buy": 870,
     "sell": 217,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -2443,17 +2114,10 @@
       "korean": "대나무 우산",
       "russian": "бумажный зонт",
       "plural": false,
-      "internalIds": [
-        7178
-      ]
+      "internalIds": [ 7178 ]
     },
-    "colors": [
-      "Brown",
-      "Green"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Brown", "Green" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2464,7 +2128,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -2494,17 +2158,10 @@
       "korean": "도트 무늬 비닐 우산",
       "russian": "зонт из винила с узором",
       "plural": false,
-      "internalIds": [
-        6918
-      ]
+      "internalIds": [ 6918 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "White", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2515,7 +2172,7 @@
     "diy": true,
     "buy": -1,
     "sell": 1400,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -2545,17 +2202,10 @@
       "korean": "복숭아 우산",
       "russian": "персиковый зонт",
       "plural": false,
-      "internalIds": [
-        9947
-      ]
+      "internalIds": [ 9947 ]
     },
-    "colors": [
-      "Pink",
-      "Green"
-    ],
-    "sources": [
-      "Crafting"
-    ],
+    "colors": [ "Pink", "Green" ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "peach umbrella",
@@ -2566,7 +2216,7 @@
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 100,
-      "category": "Umbrellas",
+      "category": "Equipment",
       "craftedItemInternalId": 9947,
       "cardColor": "pink",
       "serialId": 1580,
@@ -2591,16 +2241,10 @@
         "korean": "복숭아 우산",
         "russian": "персиковый зонт",
         "plural": false,
-        "internalIds": [
-          9947
-        ]
+        "internalIds": [ 9947 ]
       },
-      "materials": {
-        "peach": 7
-      },
-      "sources": [
-        "Normal villagers"
-      ]
+      "materials": { "peach": 7 },
+      "sources": [ "Normal villagers" ]
     }
   },
   {
@@ -2611,7 +2255,7 @@
     "diy": true,
     "buy": -1,
     "sell": 1400,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -2641,17 +2285,10 @@
       "korean": "배 우산",
       "russian": "грушевый зонт",
       "plural": false,
-      "internalIds": [
-        9950
-      ]
+      "internalIds": [ 9950 ]
     },
-    "colors": [
-      "Yellow",
-      "Green"
-    ],
-    "sources": [
-      "Crafting"
-    ],
+    "colors": [ "Yellow", "Green" ],
+    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pear umbrella",
@@ -2662,7 +2299,7 @@
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 100,
-      "category": "Umbrellas",
+      "category": "Equipment",
       "craftedItemInternalId": 9950,
       "cardColor": "green",
       "serialId": 1680,
@@ -2687,16 +2324,10 @@
         "korean": "배 우산",
         "russian": "грушевый зонт",
         "plural": false,
-        "internalIds": [
-          9950
-        ]
+        "internalIds": [ 9950 ]
       },
-      "materials": {
-        "pear": 7
-      },
-      "sources": [
-        "Jock villagers"
-      ]
+      "materials": { "pear": 7 },
+      "sources": [ "Jock villagers" ]
     }
   },
   {
@@ -2707,7 +2338,7 @@
     "diy": false,
     "buy": 1590,
     "sell": 397,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -2737,17 +2368,10 @@
       "korean": "국화꽃 우산",
       "russian": "зонт-ромашка",
       "plural": false,
-      "internalIds": [
-        7181
-      ]
+      "internalIds": [ 7181 ]
     },
-    "colors": [
-      "White",
-      "Yellow"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "White", "Yellow" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2758,7 +2382,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -2788,17 +2412,10 @@
       "korean": "베리 깅엄 우산",
       "russian": "зонт для пикника",
       "plural": false,
-      "internalIds": [
-        9953
-      ]
+      "internalIds": [ 9953 ]
     },
-    "colors": [
-      "Purple",
-      "Pink"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Purple", "Pink" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2809,7 +2426,7 @@
     "diy": false,
     "buy": 1550,
     "sell": 387,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -2839,17 +2456,10 @@
       "korean": "파인애플 우산",
       "russian": "ананасный зонт",
       "plural": false,
-      "internalIds": [
-        6910
-      ]
+      "internalIds": [ 6910 ]
     },
-    "colors": [
-      "Yellow",
-      "Green"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Yellow", "Green" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2860,7 +2470,7 @@
     "diy": false,
     "buy": 1620,
     "sell": 405,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -2890,17 +2500,10 @@
       "korean": "핑크 리본 레이스 우산",
       "russian": "зонт с розов. бантиками",
       "plural": false,
-      "internalIds": [
-        7176
-      ]
+      "internalIds": [ 7176 ]
     },
-    "colors": [
-      "Pink",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Pink", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2911,7 +2514,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -2941,17 +2544,10 @@
       "korean": "핑크 우산",
       "russian": "розовый зонт",
       "plural": false,
-      "internalIds": [
-        7164
-      ]
+      "internalIds": [ 7164 ]
     },
-    "colors": [
-      "Pink",
-      "Pink"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Pink", "Pink" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2962,7 +2558,7 @@
     "diy": false,
     "buy": 1620,
     "sell": 405,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -2992,17 +2588,10 @@
       "korean": "보라 시크 우산",
       "russian": "шикарный фиолет. зонт",
       "plural": false,
-      "internalIds": [
-        7183
-      ]
+      "internalIds": [ 7183 ]
     },
-    "colors": [
-      "Purple",
-      "Black"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Purple", "Black" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3013,7 +2602,7 @@
     "diy": false,
     "buy": 1620,
     "sell": 405,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -3043,17 +2632,10 @@
       "korean": "퍼플 리본 레이스 우산",
       "russian": "зонт с фиолет. бантиками",
       "plural": false,
-      "internalIds": [
-        12133
-      ]
+      "internalIds": [ 12133 ]
     },
-    "colors": [
-      "Purple",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Purple", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3064,7 +2646,7 @@
     "diy": false,
     "buy": 840,
     "sell": 210,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -3094,17 +2676,10 @@
       "korean": "무지개 우산",
       "russian": "радужный зонт",
       "plural": false,
-      "internalIds": [
-        7179
-      ]
+      "internalIds": [ 7179 ]
     },
-    "colors": [
-      "Colorful",
-      "Colorful"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Colorful", "Colorful" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3115,7 +2690,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -3145,17 +2720,10 @@
       "korean": "비 내리는 우산",
       "russian": "зонт с каплями",
       "plural": false,
-      "internalIds": [
-        6913
-      ]
+      "internalIds": [ 6913 ]
     },
-    "colors": [
-      "Yellow",
-      "Light blue"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Yellow", "Light blue" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3166,7 +2734,7 @@
     "diy": false,
     "buy": 1620,
     "sell": 405,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -3196,17 +2764,10 @@
       "korean": "빨간 시크 우산",
       "russian": "шикарный красный зонт",
       "plural": false,
-      "internalIds": [
-        12138
-      ]
+      "internalIds": [ 12138 ]
     },
-    "colors": [
-      "Red",
-      "Black"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Red", "Black" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3217,7 +2778,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -3247,17 +2808,10 @@
       "korean": "빨간 우산",
       "russian": "красный зонт",
       "plural": false,
-      "internalIds": [
-        9958
-      ]
+      "internalIds": [ 9958 ]
     },
-    "colors": [
-      "Red",
-      "Red"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Red", "Red" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3268,7 +2822,7 @@
     "diy": false,
     "buy": 1550,
     "sell": 387,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -3298,17 +2852,10 @@
       "korean": "눈꽃 우산",
       "russian": "зонт-снежинка",
       "plural": false,
-      "internalIds": [
-        6905
-      ]
+      "internalIds": [ 6905 ]
     },
-    "colors": [
-      "Light blue",
-      "Light blue"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Light blue", "Light blue" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3319,7 +2866,7 @@
     "diy": false,
     "buy": 840,
     "sell": 210,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -3349,17 +2896,10 @@
       "korean": "스파이더 우산",
       "russian": "зонт с паутиной",
       "plural": false,
-      "internalIds": [
-        7173
-      ]
+      "internalIds": [ 7173 ]
     },
-    "colors": [
-      "Black",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Black", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3370,7 +2910,7 @@
     "diy": false,
     "buy": 1550,
     "sell": 387,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -3400,17 +2940,10 @@
       "korean": "딸기 우산",
       "russian": "клубничный зонт",
       "plural": false,
-      "internalIds": [
-        6907
-      ]
+      "internalIds": [ 6907 ]
     },
-    "colors": [
-      "Pink",
-      "Green"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Pink", "Green" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3421,7 +2954,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -3451,17 +2984,10 @@
       "korean": "줄무늬 우산",
       "russian": "зонт в полоску",
       "plural": false,
-      "internalIds": [
-        6916
-      ]
+      "internalIds": [ 6916 ]
     },
-    "colors": [
-      "Gray",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Gray", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3472,7 +2998,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -3502,17 +3028,10 @@
       "korean": "해바라기 우산",
       "russian": "зонт с подсолнухами",
       "plural": false,
-      "internalIds": [
-        6904
-      ]
+      "internalIds": [ 6904 ]
     },
-    "colors": [
-      "Yellow",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Yellow", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3523,7 +3042,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -3553,17 +3072,10 @@
       "korean": "타탄 체크 우산",
       "russian": "зонт в клетку",
       "plural": false,
-      "internalIds": [
-        6917
-      ]
+      "internalIds": [ 6917 ]
     },
-    "colors": [
-      "Red",
-      "Green"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Red", "Green" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3574,7 +3086,7 @@
     "diy": false,
     "buy": 750,
     "sell": 187,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -3604,17 +3116,10 @@
       "korean": "빨간 물방울 우산",
       "russian": "зонт тоада",
       "plural": false,
-      "internalIds": [
-        5861
-      ]
+      "internalIds": [ 5861 ]
     },
-    "colors": [
-      "Red",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Red", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3625,7 +3130,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -3655,17 +3160,10 @@
       "korean": "투톤 우산",
       "russian": "двуцветный зонт",
       "plural": false,
-      "internalIds": [
-        7166
-      ]
+      "internalIds": [ 7166 ]
     },
-    "colors": [
-      "Red",
-      "Yellow"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Red", "Yellow" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3676,7 +3174,7 @@
     "diy": false,
     "buy": 770,
     "sell": 192,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": null,
@@ -3706,17 +3204,10 @@
       "korean": "비닐 우산",
       "russian": "зонт из винила",
       "plural": false,
-      "internalIds": [
-        7165
-      ]
+      "internalIds": [ 7165 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "White", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3727,7 +3218,7 @@
     "diy": false,
     "buy": 1550,
     "sell": 387,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -3757,17 +3248,10 @@
       "korean": "수박 우산",
       "russian": "арбузный зонт",
       "plural": false,
-      "internalIds": [
-        6909
-      ]
+      "internalIds": [ 6909 ]
     },
-    "colors": [
-      "Red",
-      "Green"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "Red", "Green" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3778,7 +3262,7 @@
     "diy": false,
     "buy": 1620,
     "sell": 405,
-    "hhaBaseScore": 3,
+    "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
@@ -3808,17 +3292,10 @@
       "korean": "화이트 리본 레이스 우산",
       "russian": "зонт с белыми бантиками",
       "plural": false,
-      "internalIds": [
-        12135
-      ]
+      "internalIds": [ 12135 ]
     },
-    "colors": [
-      "White",
-      "White"
-    ],
-    "sources": [
-      "Nook's Cranny"
-    ],
+    "colors": [ "White", "White" ],
+    "sources": [ "Nook's Cranny" ],
     "recipe": null
   }
 ]

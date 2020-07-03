@@ -14,7 +14,8 @@
     "Fog": "river/sea fog; heavy fog",
     "Special Clouds": "billow clouds",
     "Seasonal Crafting 1": "❄️ snowflakes",
-    "Seasonal Crafting 2": "🎄 ornaments"
+    "Seasonal Crafting 2": "🎄 ornaments",
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -30,7 +31,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "river/sea fog; heavy fog",
     "Special Clouds": "billow clouds",
-    "Seasonal Crafting 1": "❄️ snowflakes"
+    "Seasonal Crafting 1": "❄️ snowflakes",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -46,7 +49,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "river/sea fog; heavy fog",
     "Special Clouds": "billow clouds",
-    "Seasonal Crafting 1": "❄️ snowflakes"
+    "Seasonal Crafting 1": "❄️ snowflakes",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -62,7 +67,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "river/sea fog",
     "Special Clouds": "billow clouds",
-    "Seasonal Crafting 1": "🎋 young spring bamboo"
+    "Seasonal Crafting 1": "🎋 young spring bamboo",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -78,7 +85,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "river/sea fog",
     "Special Clouds": "thin clouds",
-    "Seasonal Crafting 1": "🎋 young spring bamboo"
+    "Seasonal Crafting 1": "🎋 young spring bamboo",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -94,7 +103,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "river/sea fog",
     "Special Clouds": "thin clouds",
-    "Seasonal Crafting 1": "🎋 young spring bamboo"
+    "Seasonal Crafting 1": "🎋 young spring bamboo",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -111,7 +122,8 @@
     "Fog": "—",
     "Special Clouds": "thin clouds",
     "Seasonal Crafting 1": "🎋 young spring bamboo",
-    "Seasonal Crafting 2": "🌸 cherry-blossom petals"
+    "Seasonal Crafting 2": "🌸 cherry-blossom petals",
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -128,7 +140,8 @@
     "Fog": "—",
     "Special Clouds": "thin clouds",
     "Seasonal Crafting 1": "🎋 young spring bamboo",
-    "Seasonal Crafting 2": "🌸 cherry-blossom petals"
+    "Seasonal Crafting 2": "🌸 cherry-blossom petals",
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -145,7 +158,8 @@
     "Fog": "—",
     "Special Clouds": "thin clouds",
     "Seasonal Crafting 1": "🎋 young spring bamboo",
-    "Seasonal Crafting 2": "🌸 cherry-blossom petals"
+    "Seasonal Crafting 2": "🌸 cherry-blossom petals",
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -161,7 +175,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "—",
     "Special Clouds": "thin clouds",
-    "Seasonal Crafting 1": "🎋 young spring bamboo"
+    "Seasonal Crafting 1": "🎋 young spring bamboo",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -177,7 +193,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "—",
     "Special Clouds": "—",
-    "Seasonal Crafting 1": "🐚 summer shells"
+    "Seasonal Crafting 1": "🐚 summer shells",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -193,7 +211,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "—",
     "Special Clouds": "cumulonimbus",
-    "Seasonal Crafting 1": "🐚 summer shells"
+    "Seasonal Crafting 1": "🐚 summer shells",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -209,7 +229,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "—",
     "Special Clouds": "cumulonimbus",
-    "Seasonal Crafting 1": "🌲 acorns and pine cones"
+    "Seasonal Crafting 1": "🌲 acorns and pine cones",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -225,7 +247,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "—",
     "Special Clouds": "cirrus; cirrocumulus",
-    "Seasonal Crafting 1": "🌲 acorns and pine cones"
+    "Seasonal Crafting 1": "🌲 acorns and pine cones",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -241,7 +265,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "river/sea fog; heavy fog",
     "Special Clouds": "cirrus; cirrocumulus",
-    "Seasonal Crafting 1": "🌲 acorns and pine cones"
+    "Seasonal Crafting 1": "🌲 acorns and pine cones",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -257,7 +283,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "river/sea fog; heavy fog",
     "Special Clouds": "cirrus; cirrocumulus",
-    "Seasonal Crafting 1": "🌲 acorns and pine cones"
+    "Seasonal Crafting 1": "🌲 acorns and pine cones",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -274,7 +302,8 @@
     "Fog": "river/sea fog; heavy fog",
     "Special Clouds": "cirrus; cirrocumulus",
     "Seasonal Crafting 1": "🌲 acorns and pine cones",
-    "Seasonal Crafting 2": "🍄 mushrooms"
+    "Seasonal Crafting 2": "🍄 mushrooms",
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -327,7 +356,8 @@
     "Fog": "river/sea fog; heavy fog",
     "Special Clouds": "cirrus; cirrocumulus",
     "Seasonal Crafting 1": "🌲 acorns and pine cones",
-    "Seasonal Crafting 2": "🍄 mushrooms"
+    "Seasonal Crafting 2": "🍄 mushrooms",
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -343,7 +373,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "river/sea fog; heavy fog",
     "Special Clouds": "billow clouds",
-    "Seasonal Crafting 1": "🌲 acorns and pine cones"
+    "Seasonal Crafting 1": "🌲 acorns and pine cones",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -359,7 +391,9 @@
     "Petal/Leaf Fall": "—",
     "Fog": "river/sea fog; heavy fog",
     "Special Clouds": "billow clouds",
-    "Seasonal Crafting 1": "❄️ snowflakes"
+    "Seasonal Crafting 1": "❄️ snowflakes",
+    "Seasonal Crafting 2": null,
+    "Seasonal Crafting 3": null
   },
   {
     "SourceSheet": "Northern Hemisphere",
@@ -376,6 +410,7 @@
     "Fog": "river/sea fog; heavy fog",
     "Special Clouds": "billow clouds",
     "Seasonal Crafting 1": "❄️ snowflakes",
-    "Seasonal Crafting 2": "🎄 ornaments"
+    "Seasonal Crafting 2": "🎄 ornaments",
+    "Seasonal Crafting 3": null
   }
 ]

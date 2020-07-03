@@ -24,9 +24,7 @@
       "korean": "봄 낚시대회",
       "russian": "Весенний турнир «Мастер удочки»",
       "plural": false,
-      "internalIds": [
-        "FishingConventionSpring"
-      ]
+      "internalIds": [ "FishingConventionSpring" ]
     }
   },
   {
@@ -54,9 +52,7 @@
       "korean": "여름 낚시대회",
       "russian": "Летний турнир «Мастер удочки»",
       "plural": false,
-      "internalIds": [
-        "FishingConventionSummer"
-      ]
+      "internalIds": [ "FishingConventionSummer" ]
     }
   },
   {
@@ -84,9 +80,7 @@
       "korean": "가을 낚시대회",
       "russian": "Осенний турнир «Мастер удочки»",
       "plural": false,
-      "internalIds": [
-        "FishingConventionAutumn"
-      ]
+      "internalIds": [ "FishingConventionAutumn" ]
     }
   },
   {
@@ -114,9 +108,7 @@
       "korean": "겨울 낚시대회",
       "russian": "Зимний турнир «Мастер удочки»",
       "plural": false,
-      "internalIds": [
-        "FishingConventionWinter"
-      ]
+      "internalIds": [ "FishingConventionWinter" ]
     }
   },
   {
@@ -144,9 +136,7 @@
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
       "plural": false,
-      "internalIds": [
-        "InsectConvention1"
-      ]
+      "internalIds": [ "InsectConvention1" ]
     }
   },
   {
@@ -174,9 +164,7 @@
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
       "plural": false,
-      "internalIds": [
-        "InsectConvention1"
-      ]
+      "internalIds": [ "InsectConvention1" ]
     }
   },
   {
@@ -204,9 +192,7 @@
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
       "plural": false,
-      "internalIds": [
-        "InsectConvention1"
-      ]
+      "internalIds": [ "InsectConvention1" ]
     }
   },
   {
@@ -234,9 +220,7 @@
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
       "plural": false,
-      "internalIds": [
-        "InsectConvention1"
-      ]
+      "internalIds": [ "InsectConvention1" ]
     }
   },
   {
@@ -324,9 +308,7 @@
       "korean": "어머니날",
       "russian": "День матери",
       "plural": false,
-      "internalIds": [
-        "MothersDay"
-      ]
+      "internalIds": [ "MothersDay" ]
     }
   },
   {
@@ -370,9 +352,7 @@
       "korean": "국제 어린이날",
       "russian": "Всемирный день детей",
       "plural": false,
-      "internalIds": [
-        "WorldChild"
-      ]
+      "internalIds": [ "WorldChild" ]
     }
   },
   {
@@ -400,9 +380,7 @@
       "korean": "아버지날",
       "russian": "День отца",
       "plural": false,
-      "internalIds": [
-        "FathersDay"
-      ]
+      "internalIds": [ "FathersDay" ]
     }
   },
   {
@@ -430,9 +408,7 @@
       "korean": "하지",
       "russian": "Праздник лета",
       "plural": false,
-      "internalIds": [
-        "SummerSolstice"
-      ]
+      "internalIds": [ "SummerSolstice" ]
     }
   },
   {
@@ -460,9 +436,7 @@
       "korean": "동지",
       "russian": "Праздник зимы",
       "plural": false,
-      "internalIds": [
-        "WinterSolstice"
-      ]
+      "internalIds": [ "WinterSolstice" ]
     }
   },
   {
@@ -490,9 +464,7 @@
       "korean": "카운트다운",
       "russian": "Отсчет",
       "plural": false,
-      "internalIds": [
-        "Countdown"
-      ]
+      "internalIds": [ "Countdown" ]
     }
   }
 ]

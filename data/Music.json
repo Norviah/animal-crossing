@@ -6,7 +6,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Keiji.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -34,14 +34,9 @@
       "korean": "K.K.형사",
       "russian": "Агент К. К.",
       "plural": false,
-      "internalIds": [
-        2472
-      ]
+      "internalIds": [ 2472 ]
     },
-    "colors": [
-      "Brown",
-      "Orange"
-    ],
+    "colors": [ "Brown", "Orange" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -54,7 +49,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Aloha.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -82,14 +77,9 @@
       "korean": "알로하K.K.",
       "russian": "Алоха К. К.",
       "plural": false,
-      "internalIds": [
-        2423
-      ]
+      "internalIds": [ 2423 ]
     },
-    "colors": [
-      "Brown",
-      "Light blue"
-    ],
+    "colors": [ "Brown", "Light blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -102,7 +92,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_DoubutuNoMachi.png",
     "buy": -1,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Hidden song - only by request",
     "versionAdded": "1.0.0",
@@ -130,16 +120,10 @@
       "korean": "동물의 마을",
       "russian": "Город зверушек",
       "plural": false,
-      "internalIds": [
-        4312
-      ]
+      "internalIds": [ 4312 ]
     },
-    "colors": [
-      "Brown"
-    ],
-    "sources": [
-      "K.K. concert"
-    ],
+    "colors": [ "Brown" ],
+    "sources": [ "K.K. concert" ],
     "recipe": null
   },
   {
@@ -149,7 +133,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Idol.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -177,14 +161,9 @@
       "korean": "K.K.아이돌",
       "russian": "Бабблгам-поп К. К.",
       "plural": false,
-      "internalIds": [
-        2492
-      ]
+      "internalIds": [ 2492 ]
     },
-    "colors": [
-      "Brown",
-      "Light blue"
-    ],
+    "colors": [ "Brown", "Light blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -197,7 +176,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Paris.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -225,14 +204,9 @@
       "korean": "K.K.파리",
       "russian": "Кафе К. К.",
       "plural": false,
-      "internalIds": [
-        2454
-      ]
+      "internalIds": [ 2454 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -245,7 +219,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_ShowaKayo.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -273,14 +247,9 @@
       "korean": "추억의 K.K.가요",
       "russian": "Товарищ К. К.",
       "plural": false,
-      "internalIds": [
-        2448
-      ]
+      "internalIds": [ 2448 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -293,7 +262,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_EuroBeat.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -321,14 +290,9 @@
       "korean": "유로 비트",
       "russian": "DJ KK",
       "plural": false,
-      "internalIds": [
-        2443
-      ]
+      "internalIds": [ 2443 ]
     },
-    "colors": [
-      "Brown",
-      "Pink"
-    ],
+    "colors": [ "Brown", "Pink" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -341,7 +305,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Drive.png",
     "buy": -1,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Hidden song - only by request",
     "versionAdded": "1.0.0",
@@ -369,16 +333,10 @@
       "korean": "드라이브",
       "russian": "За рулем",
       "plural": false,
-      "internalIds": [
-        4314
-      ]
+      "internalIds": [ 4314 ]
     },
-    "colors": [
-      "Brown"
-    ],
-    "sources": [
-      "K.K. concert"
-    ],
+    "colors": [ "Brown" ],
+    "sources": [ "K.K. concert" ],
     "recipe": null
   },
   {
@@ -388,7 +346,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Sayonara.png",
     "buy": -1,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Hidden song - only by request",
     "versionAdded": "1.0.0",
@@ -416,16 +374,10 @@
       "korean": "작별",
       "russian": "Прощание",
       "plural": false,
-      "internalIds": [
-        4313
-      ]
+      "internalIds": [ 4313 ]
     },
-    "colors": [
-      "Brown"
-    ],
-    "sources": [
-      "K.K. concert"
-    ],
+    "colors": [ "Brown" ],
+    "sources": [ "K.K. concert" ],
     "recipe": null
   },
   {
@@ -435,7 +387,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_MoriNoSeikatsu.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -463,14 +415,9 @@
       "korean": "숲 속 생활",
       "russian": "Лесная жизнь",
       "plural": false,
-      "internalIds": [
-        2461
-      ]
+      "internalIds": [ 2461 ]
     },
-    "colors": [
-      "Brown",
-      "Yellow"
-    ],
+    "colors": [ "Brown", "Yellow" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -483,7 +430,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_KekeRider.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -511,14 +458,9 @@
       "korean": "가자! K.K.라이더",
       "russian": "Доброго пути, К. К.!",
       "plural": false,
-      "internalIds": [
-        2450
-      ]
+      "internalIds": [ 2450 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -531,7 +473,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_UtataneNoYume.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -559,14 +501,9 @@
       "korean": "졸면서 꾸는 꿈",
       "russian": "Гипноз К. К.",
       "plural": false,
-      "internalIds": [
-        2480
-      ]
+      "internalIds": [ 2480 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -579,7 +516,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Daisuki.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -607,14 +544,9 @@
       "korean": "사랑해",
       "russian": "Я вас люблю",
       "plural": false,
-      "internalIds": [
-        2458
-      ]
+      "internalIds": [ 2458 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -627,7 +559,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_China.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -655,14 +587,9 @@
       "korean": "K.K.차이나",
       "russian": "Величие К. К.",
       "plural": false,
-      "internalIds": [
-        2427
-      ]
+      "internalIds": [ 2427 ]
     },
-    "colors": [
-      "Brown",
-      "Pink"
-    ],
+    "colors": [ "Brown", "Pink" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -675,7 +602,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Hollywood.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -703,14 +630,9 @@
       "korean": "K.K.할리우드",
       "russian": "Приключения К. К.",
       "plural": false,
-      "internalIds": [
-        2484
-      ]
+      "internalIds": [ 2484 ]
     },
-    "colors": [
-      "Brown",
-      "Orange"
-    ],
+    "colors": [ "Brown", "Orange" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -723,7 +645,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Maria.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -751,14 +673,9 @@
       "korean": "K.K.마리아",
       "russian": "Ария К. К.",
       "plural": false,
-      "internalIds": [
-        2413
-      ]
+      "internalIds": [ 2413 ]
     },
-    "colors": [
-      "Brown",
-      "Blue"
-    ],
+    "colors": [ "Brown", "Blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -771,7 +688,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Ballad.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -799,14 +716,9 @@
       "korean": "K.K.발라드",
       "russian": "Баллада К. К.",
       "plural": false,
-      "internalIds": [
-        2447
-      ]
+      "internalIds": [ 2447 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -819,7 +731,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Roma.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -847,14 +759,9 @@
       "korean": "K.K.로마",
       "russian": "Базар К. К.",
       "plural": false,
-      "internalIds": [
-        2486
-      ]
+      "internalIds": [ 2486 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -867,7 +774,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_BirthdaySong.png",
     "buy": -1,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Received on your first time seeing KK perform during your birthday",
     "versionAdded": "1.0.0",
@@ -895,17 +802,10 @@
       "korean": "그대의 생일",
       "russian": "День рождения К. К.",
       "plural": false,
-      "internalIds": [
-        2495
-      ]
+      "internalIds": [ 2495 ]
     },
-    "colors": [
-      "Brown",
-      "Light blue"
-    ],
-    "sources": [
-      "K.K. concert"
-    ],
+    "colors": [ "Brown", "Light blue" ],
+    "sources": [ "K.K. concert" ],
     "recipe": null
   },
   {
@@ -915,7 +815,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Blues.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -943,14 +843,9 @@
       "korean": "K.K.블루스",
       "russian": "Блюз К. К.",
       "plural": false,
-      "internalIds": [
-        2436
-      ]
+      "internalIds": [ 2436 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -963,7 +858,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Bossa.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -991,14 +886,9 @@
       "korean": "K.K.보사노바",
       "russian": "Босанова К. К.",
       "plural": false,
-      "internalIds": [
-        2415
-      ]
+      "internalIds": [ 2415 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1011,7 +901,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Caripso.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -1039,14 +929,9 @@
       "korean": "K.K.칼립소",
       "russian": "Калипсо К. К.",
       "plural": false,
-      "internalIds": [
-        2416
-      ]
+      "internalIds": [ 2416 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1059,7 +944,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Turkey.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -1087,14 +972,9 @@
       "korean": "터키의 노래",
       "russian": "Крепость К. К.",
       "plural": false,
-      "internalIds": [
-        2428
-      ]
+      "internalIds": [ 2428 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
+    "colors": [ "Brown", "Beige" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1107,7 +987,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Sanbika.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -1135,14 +1015,9 @@
       "korean": "K.K.찬송가",
       "russian": "Хорал К. К.",
       "plural": false,
-      "internalIds": [
-        2405
-      ]
+      "internalIds": [ 2405 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
+    "colors": [ "Brown", "Beige" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1155,7 +1030,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Peru.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -1183,14 +1058,9 @@
       "korean": "페루의 노래",
       "russian": "Кондор К. К.",
       "plural": false,
-      "internalIds": [
-        2425
-      ]
+      "internalIds": [ 2425 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
+    "colors": [ "Brown", "Beige" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1203,7 +1073,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Country.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -1231,14 +1101,9 @@
       "korean": "K.K.컨트리",
       "russian": "Кантри К. К.",
       "plural": false,
-      "internalIds": [
-        2445
-      ]
+      "internalIds": [ 2445 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1251,7 +1116,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Urban.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -1279,14 +1144,9 @@
       "korean": "팝K.K.",
       "russian": "Круиз К. К.",
       "plural": false,
-      "internalIds": [
-        2439
-      ]
+      "internalIds": [ 2439 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1299,7 +1159,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Drumnbass.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -1327,14 +1187,9 @@
       "korean": "드럼앤베이스",
       "russian": "Драм-н-бэйс К. К.",
       "plural": false,
-      "internalIds": [
-        2441
-      ]
+      "internalIds": [ 2441 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1347,7 +1202,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_KowaiUta.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -1375,14 +1230,9 @@
       "korean": "무서운 노래",
       "russian": "Реквием К. К.",
       "plural": false,
-      "internalIds": [
-        2451
-      ]
+      "internalIds": [ 2451 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1395,7 +1245,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Disco.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -1423,14 +1273,9 @@
       "korean": "K.K.디스코",
       "russian": "Диско К. К.",
       "plural": false,
-      "internalIds": [
-        2494
-      ]
+      "internalIds": [ 2494 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1443,7 +1288,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Dixie.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -1471,14 +1316,9 @@
       "korean": "K.K.딕시",
       "russian": "Дикси К. К.",
       "plural": false,
-      "internalIds": [
-        2464
-      ]
+      "internalIds": [ 2464 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1491,7 +1331,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Etude.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -1519,14 +1359,9 @@
       "korean": "K.K.에튀드",
       "russian": "Этюд К. К.",
       "plural": false,
-      "internalIds": [
-        2411
-      ]
+      "internalIds": [ 2411 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1539,7 +1374,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Haisai.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -1567,14 +1402,9 @@
       "korean": "혼저옵서예K.K.",
       "russian": "Ярмарка К. К.",
       "plural": false,
-      "internalIds": [
-        2422
-      ]
+      "internalIds": [ 2422 ]
     },
-    "colors": [
-      "Brown",
-      "Orange"
-    ],
+    "colors": [ "Brown", "Orange" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1587,7 +1417,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Flamenco.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -1615,14 +1445,9 @@
       "korean": "K.K.플라멩코",
       "russian": "Фламенко К. К.",
       "plural": false,
-      "internalIds": [
-        2490
-      ]
+      "internalIds": [ 2490 ]
     },
-    "colors": [
-      "Brown",
-      "Red"
-    ],
+    "colors": [ "Brown", "Red" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1635,7 +1460,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Minyo.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -1663,14 +1488,9 @@
       "korean": "K.K.민요",
       "russian": "Фолк К. К.",
       "plural": false,
-      "internalIds": [
-        2430
-      ]
+      "internalIds": [ 2430 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1683,7 +1503,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Fusion.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -1711,14 +1531,9 @@
       "korean": "K.K.퓨전",
       "russian": "Фьюжен К. К.",
       "plural": false,
-      "internalIds": [
-        2410
-      ]
+      "internalIds": [ 2410 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1731,7 +1546,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Raregroove.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -1759,14 +1574,9 @@
       "korean": "K.K.그루브",
       "russian": "Грув К. К.",
       "plural": false,
-      "internalIds": [
-        2488
-      ]
+      "internalIds": [ 2488 ]
     },
-    "colors": [
-      "Brown",
-      "Blue"
-    ],
+    "colors": [ "Brown", "Blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1779,7 +1589,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_NewOrleans.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -1807,14 +1617,9 @@
       "korean": "딕시랜드 재즈",
       "russian": "Гамбо К. К.",
       "plural": false,
-      "internalIds": [
-        2434
-      ]
+      "internalIds": [ 2434 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
+    "colors": [ "Brown", "Beige" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1827,7 +1632,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_House.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -1855,14 +1660,9 @@
       "korean": "K.K.하우스",
       "russian": "Хаус К. К.",
       "plural": false,
-      "internalIds": [
-        2478
-      ]
+      "internalIds": [ 2478 ]
     },
-    "colors": [
-      "Brown",
-      "Pink"
-    ],
+    "colors": [ "Brown", "Pink" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1875,7 +1675,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_DoubutsuNoShima.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -1903,14 +1703,9 @@
       "korean": "동물의 섬",
       "russian": "Остров К. К.",
       "plural": false,
-      "internalIds": [
-        2482
-      ]
+      "internalIds": [ 2482 ]
     },
-    "colors": [
-      "Brown",
-      "Light blue"
-    ],
+    "colors": [ "Brown", "Light blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1923,7 +1718,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Jazz.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -1951,14 +1746,9 @@
       "korean": "K.K.재즈",
       "russian": "Джаз К. К.",
       "plural": false,
-      "internalIds": [
-        2409
-      ]
+      "internalIds": [ 2409 ]
     },
-    "colors": [
-      "Brown",
-      "Light blue"
-    ],
+    "colors": [ "Brown", "Light blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -1971,7 +1761,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Jongara.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -1999,14 +1789,9 @@
       "korean": "K.K.샤미센 연주곡",
       "russian": "Джонгара К. К.",
       "plural": false,
-      "internalIds": [
-        2489
-      ]
+      "internalIds": [ 2489 ]
     },
-    "colors": [
-      "Brown",
-      "Light blue"
-    ],
+    "colors": [ "Brown", "Light blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2019,7 +1804,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Enka.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -2047,14 +1832,9 @@
       "korean": "K.K.트로트",
       "russian": "Жалобная песнь К. К.",
       "plural": false,
-      "internalIds": [
-        2449
-      ]
+      "internalIds": [ 2449 ]
     },
-    "colors": [
-      "Brown",
-      "Gray"
-    ],
+    "colors": [ "Brown", "Gray" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2067,7 +1847,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_LoveSong.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -2095,14 +1875,9 @@
       "korean": "K.K.러브송",
       "russian": "Романс К. К.",
       "plural": false,
-      "internalIds": [
-        2440
-      ]
+      "internalIds": [ 2440 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2115,7 +1890,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Lullaby.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -2143,14 +1918,9 @@
       "korean": "K.K.자장가",
       "russian": "Колыбельная К. К.",
       "plural": false,
-      "internalIds": [
-        2412
-      ]
+      "internalIds": [ 2412 ]
     },
-    "colors": [
-      "Brown",
-      "Green"
-    ],
+    "colors": [ "Brown", "Green" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2163,7 +1933,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Mambo.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -2191,14 +1961,9 @@
       "korean": "K.K.맘보",
       "russian": "Мамбо К. К.",
       "plural": false,
-      "internalIds": [
-        2418
-      ]
+      "internalIds": [ 2418 ]
     },
-    "colors": [
-      "Brown",
-      "Red"
-    ],
+    "colors": [ "Brown", "Red" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2211,7 +1976,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Gamelan.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -2239,14 +2004,9 @@
       "korean": "K.K.가믈란",
       "russian": "Марафон К. К.",
       "plural": false,
-      "internalIds": [
-        2465
-      ]
+      "internalIds": [ 2465 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2259,7 +2019,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_March.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -2287,14 +2047,9 @@
       "korean": "K.K.행진곡",
       "russian": "Марш К. К.",
       "plural": false,
-      "internalIds": [
-        2406
-      ]
+      "internalIds": [ 2406 ]
     },
-    "colors": [
-      "Brown",
-      "Pink"
-    ],
+    "colors": [ "Brown", "Pink" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2307,7 +2062,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Senor.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -2335,14 +2090,9 @@
       "korean": "세뇨르K.K.",
       "russian": "Марьячи К. К.",
       "plural": false,
-      "internalIds": [
-        2456
-      ]
+      "internalIds": [ 2456 ]
     },
-    "colors": [
-      "Brown",
-      "Orange"
-    ],
+    "colors": [ "Brown", "Orange" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2355,7 +2105,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Metal.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -2383,14 +2133,9 @@
       "korean": "K.K.메탈",
       "russian": "Металл К. К.",
       "plural": false,
-      "internalIds": [
-        2474
-      ]
+      "internalIds": [ 2474 ]
     },
-    "colors": [
-      "Brown",
-      "Purple"
-    ],
+    "colors": [ "Brown", "Purple" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2403,7 +2148,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Milonga.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -2431,14 +2176,9 @@
       "korean": "K.K.밀롱가",
       "russian": "Милонга К. К.",
       "plural": false,
-      "internalIds": [
-        2487
-      ]
+      "internalIds": [ 2487 ]
     },
-    "colors": [
-      "Brown",
-      "Red"
-    ],
+    "colors": [ "Brown", "Red" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2451,7 +2191,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Bolero.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -2479,14 +2219,9 @@
       "korean": "K.K.볼레로",
       "russian": "Задумчивый К. К.",
       "plural": false,
-      "internalIds": [
-        2491
-      ]
+      "internalIds": [ 2491 ]
     },
-    "colors": [
-      "Brown",
-      "Orange"
-    ],
+    "colors": [ "Brown", "Orange" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2499,7 +2234,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Maharaja.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -2527,14 +2262,9 @@
       "korean": "K.K.마하라자",
       "russian": "Оазис К. К.",
       "plural": false,
-      "internalIds": [
-        2485
-      ]
+      "internalIds": [ 2485 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2547,7 +2277,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Parade.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -2575,14 +2305,9 @@
       "korean": "K.K.퍼레이드",
       "russian": "Парад К. К.",
       "plural": false,
-      "internalIds": [
-        2455
-      ]
+      "internalIds": [ 2455 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2595,7 +2320,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_RagTime.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -2623,14 +2348,9 @@
       "korean": "래그타임",
       "russian": "Регтайм К. К.",
       "plural": false,
-      "internalIds": [
-        2433
-      ]
+      "internalIds": [ 2433 ]
     },
-    "colors": [
-      "Brown",
-      "Gray"
-    ],
+    "colors": [ "Brown", "Gray" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2643,7 +2363,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Ondo.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -2671,14 +2391,9 @@
       "korean": "K.K.축제",
       "russian": "Ралли К. К.",
       "plural": false,
-      "internalIds": [
-        2473
-      ]
+      "internalIds": [ 2473 ]
     },
-    "colors": [
-      "Brown",
-      "Red"
-    ],
+    "colors": [ "Brown", "Red" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2691,7 +2406,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Reggae.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -2719,14 +2434,9 @@
       "korean": "K.K.레게",
       "russian": "Регги К. К.",
       "plural": false,
-      "internalIds": [
-        2419
-      ]
+      "internalIds": [ 2419 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2739,7 +2449,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Rock.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -2767,14 +2477,9 @@
       "korean": "K.K.록",
       "russian": "Рок К. К.",
       "plural": false,
-      "internalIds": [
-        2431
-      ]
+      "internalIds": [ 2431 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2787,7 +2492,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_KekeBilly.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -2815,14 +2520,9 @@
       "korean": "K.K.빌리",
       "russian": "Рокабилли К. К.",
       "plural": false,
-      "internalIds": [
-        2471
-      ]
+      "internalIds": [ 2471 ]
     },
-    "colors": [
-      "Brown",
-      "Light blue"
-    ],
+    "colors": [ "Brown", "Light blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2835,7 +2535,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Afro.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -2863,14 +2563,9 @@
       "korean": "K.K.아프리카",
       "russian": "Сафари К. К.",
       "plural": false,
-      "internalIds": [
-        2429
-      ]
+      "internalIds": [ 2429 ]
     },
-    "colors": [
-      "Brown",
-      "Orange"
-    ],
+    "colors": [ "Brown", "Orange" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2883,7 +2578,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Salsa.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -2911,14 +2606,9 @@
       "korean": "K.K.살사",
       "russian": "Сальса К. К.",
       "plural": false,
-      "internalIds": [
-        2417
-      ]
+      "internalIds": [ 2417 ]
     },
-    "colors": [
-      "Brown",
-      "Red"
-    ],
+    "colors": [ "Brown", "Red" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2931,7 +2621,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Samba.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -2959,14 +2649,9 @@
       "korean": "K.K.삼바",
       "russian": "Самба К. К.",
       "plural": false,
-      "internalIds": [
-        2414
-      ]
+      "internalIds": [ 2414 ]
     },
-    "colors": [
-      "Brown",
-      "Light blue"
-    ],
+    "colors": [ "Brown", "Light blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -2979,7 +2664,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Ska.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -3007,14 +2692,9 @@
       "korean": "K.K.스카",
       "russian": "Ска К. К.",
       "plural": false,
-      "internalIds": [
-        2420
-      ]
+      "internalIds": [ 2420 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3027,7 +2707,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Sonata.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -3055,14 +2735,9 @@
       "korean": "K.K.소나타",
       "russian": "Соната К. К.",
       "plural": false,
-      "internalIds": [
-        2479
-      ]
+      "internalIds": [ 2479 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3075,7 +2750,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_KekeSong.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -3103,14 +2778,9 @@
       "korean": "K.K.의 노래",
       "russian": "Песнь К. К.",
       "plural": false,
-      "internalIds": [
-        2457
-      ]
+      "internalIds": [ 2457 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3123,7 +2793,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Soul.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -3151,14 +2821,9 @@
       "korean": "K.K.소울",
       "russian": "Соул К. К.",
       "plural": false,
-      "internalIds": [
-        2438
-      ]
+      "internalIds": [ 2438 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3171,7 +2836,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Cossack.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -3199,14 +2864,9 @@
       "korean": "까자크의 노래",
       "russian": "Степь К. К.",
       "plural": false,
-      "internalIds": [
-        2426
-      ]
+      "internalIds": [ 2426 ]
     },
-    "colors": [
-      "Brown",
-      "Colorful"
-    ],
+    "colors": [ "Brown", "Colorful" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3219,7 +2879,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Osanpo.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -3247,14 +2907,9 @@
       "korean": "산책",
       "russian": "Прогулка К. К.",
       "plural": false,
-      "internalIds": [
-        2481
-      ]
+      "internalIds": [ 2481 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3267,7 +2922,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Swing.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -3295,14 +2950,9 @@
       "korean": "K.K.스윙",
       "russian": "Свинг К. К.",
       "plural": false,
-      "internalIds": [
-        2408
-      ]
+      "internalIds": [ 2408 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
+    "colors": [ "Brown", "Beige" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3315,7 +2965,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Electronica.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -3343,14 +2993,9 @@
       "korean": "K.K.트로니카",
       "russian": "Синти-поп К. К.",
       "plural": false,
-      "internalIds": [
-        2493
-      ]
+      "internalIds": [ 2493 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3363,7 +3008,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Tango.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -3391,14 +3036,9 @@
       "korean": "K.K.탱고",
       "russian": "Танго К. К.",
       "plural": false,
-      "internalIds": [
-        2421
-      ]
+      "internalIds": [ 2421 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3411,7 +3051,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_TechnoBeat.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -3439,14 +3079,9 @@
       "korean": "테크노 비트",
       "russian": "Техно-поп К. К.",
       "plural": false,
-      "internalIds": [
-        2442
-      ]
+      "internalIds": [ 2442 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3459,7 +3094,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Waltz.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -3487,14 +3122,9 @@
       "korean": "K.K.왈츠",
       "russian": "Вальс К. К.",
       "plural": false,
-      "internalIds": [
-        2407
-      ]
+      "internalIds": [ 2407 ]
     },
-    "colors": [
-      "Brown",
-      "Red"
-    ],
+    "colors": [ "Brown", "Red" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3507,7 +3137,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Western.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -3535,14 +3165,9 @@
       "korean": "K.K.웨스턴",
       "russian": "Вестерн К. К.",
       "plural": false,
-      "internalIds": [
-        2452
-      ]
+      "internalIds": [ 2452 ]
     },
-    "colors": [
-      "Brown",
-      "Gray"
-    ],
+    "colors": [ "Brown", "Gray" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3555,7 +3180,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Daimyo.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -3583,14 +3208,9 @@
       "korean": "K.K.왕조",
       "russian": "Король К. К.",
       "plural": false,
-      "internalIds": [
-        2466
-      ]
+      "internalIds": [ 2466 ]
     },
-    "colors": [
-      "Brown",
-      "Yellow"
-    ],
+    "colors": [ "Brown", "Yellow" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3603,7 +3223,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Irish.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -3631,14 +3251,9 @@
       "korean": "아일랜드의 노래",
       "russian": "Счастливчик К. К.",
       "plural": false,
-      "internalIds": [
-        2424
-      ]
+      "internalIds": [ 2424 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3651,7 +3266,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_HunaUta2001.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -3679,14 +3294,9 @@
       "korean": "뱃노래2001",
       "russian": "Песня о море 2001",
       "plural": false,
-      "internalIds": [
-        2468
-      ]
+      "internalIds": [ 2468 ]
     },
-    "colors": [
-      "Brown",
-      "Light blue"
-    ],
+    "colors": [ "Brown", "Light blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3699,7 +3309,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Alpine.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -3727,14 +3337,9 @@
       "korean": "알프스의 노래",
       "russian": "Горная песнь",
       "plural": false,
-      "internalIds": [
-        2467
-      ]
+      "internalIds": [ 2467 ]
     },
-    "colors": [
-      "Brown",
-      "Light blue"
-    ],
+    "colors": [ "Brown", "Light blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3747,7 +3352,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Sensei.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -3775,14 +3380,9 @@
       "korean": "K.K.선생님",
       "russian": "Господин К. К.",
       "plural": false,
-      "internalIds": [
-        2453
-      ]
+      "internalIds": [ 2453 ]
     },
-    "colors": [
-      "Brown",
-      "Beige"
-    ],
+    "colors": [ "Brown", "Beige" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3795,7 +3395,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_BokuNoBasho.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -3823,14 +3423,9 @@
       "korean": "내가 있는 곳",
       "russian": "Мой дом",
       "plural": false,
-      "internalIds": [
-        2460
-      ]
+      "internalIds": [ 2460 ]
     },
-    "colors": [
-      "Brown",
-      "Green"
-    ],
+    "colors": [ "Brown", "Green" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3843,7 +3438,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Napolitan.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -3871,14 +3466,9 @@
       "korean": "토마토 스파게티",
       "russian": "Неаполитанское",
       "plural": false,
-      "internalIds": [
-        2469
-      ]
+      "internalIds": [ 2469 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3891,7 +3481,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_OnlyMe.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -3919,14 +3509,9 @@
       "korean": "온리미",
       "russian": "Только я",
       "plural": false,
-      "internalIds": [
-        2444
-      ]
+      "internalIds": [ 2444 ]
     },
-    "colors": [
-      "Brown",
-      "Gray"
-    ],
+    "colors": [ "Brown", "Gray" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3939,7 +3524,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_KangaeChu.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -3967,14 +3552,9 @@
       "korean": "생각 중",
       "russian": "Размышления",
       "plural": false,
-      "internalIds": [
-        2463
-      ]
+      "internalIds": [ 2463 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -3987,7 +3567,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_RocknRoll.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -4015,14 +3595,9 @@
       "korean": "K.K.로큰롤",
       "russian": "К. К. в ударе",
       "plural": false,
-      "internalIds": [
-        2432
-      ]
+      "internalIds": [ 2432 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4035,7 +3610,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Gospel.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -4063,14 +3638,9 @@
       "korean": "K.K.가스펠",
       "russian": "Соулфул К. К.",
       "plural": false,
-      "internalIds": [
-        2437
-      ]
+      "internalIds": [ 2437 ]
     },
-    "colors": [
-      "Brown",
-      "Orange"
-    ],
+    "colors": [ "Brown", "Orange" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4083,7 +3653,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Minimal.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -4111,14 +3681,9 @@
       "korean": "미니멀 음악",
       "russian": "Космос К. К.",
       "plural": false,
-      "internalIds": [
-        2483
-      ]
+      "internalIds": [ 2483 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4131,7 +3696,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_HaruNoKomorebi.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "versionAdded": "1.0.0",
@@ -4159,14 +3724,9 @@
       "korean": "봄날의 여유",
       "russian": "Весенний цвет",
       "plural": false,
-      "internalIds": [
-        2476
-      ]
+      "internalIds": [ 2476 ]
     },
-    "colors": [
-      "Brown",
-      "Pink"
-    ],
+    "colors": [ "Brown", "Pink" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4179,7 +3739,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_BlueOnigiri.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -4207,14 +3767,9 @@
       "korean": "블루 삼각 김밥",
       "russian": "Черствые капкейки",
       "plural": false,
-      "internalIds": [
-        2475
-      ]
+      "internalIds": [ 2475 ]
     },
-    "colors": [
-      "Brown",
-      "Blue"
-    ],
+    "colors": [ "Brown", "Blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4227,7 +3782,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_NiDanZaka.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -4255,14 +3810,9 @@
       "korean": "오르막길",
       "russian": "Крутой холм",
       "plural": false,
-      "internalIds": [
-        2470
-      ]
+      "internalIds": [ 2470 ]
     },
-    "colors": [
-      "Brown",
-      "Orange"
-    ],
+    "colors": [ "Brown", "Orange" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4275,7 +3825,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Eleki.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "versionAdded": "1.0.0",
@@ -4303,14 +3853,9 @@
       "korean": "일렉트릭 뮤직",
       "russian": "Серф К. К.",
       "plural": false,
-      "internalIds": [
-        2446
-      ]
+      "internalIds": [ 2446 ]
     },
-    "colors": [
-      "Brown",
-      "Blue"
-    ],
+    "colors": [ "Brown", "Blue" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4323,7 +3868,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Funk.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -4351,14 +3896,9 @@
       "korean": "K.K.펑키",
       "russian": "Фанк К. К.",
       "plural": false,
-      "internalIds": [
-        2435
-      ]
+      "internalIds": [ 2435 ]
     },
-    "colors": [
-      "Brown",
-      "Orange"
-    ],
+    "colors": [ "Brown", "Orange" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4371,7 +3911,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_NamiNami.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "versionAdded": "1.0.0",
@@ -4399,14 +3939,9 @@
       "korean": "파도소리",
       "russian": "На краю",
       "plural": false,
-      "internalIds": [
-        2462
-      ]
+      "internalIds": [ 2462 ]
     },
-    "colors": [
-      "Brown",
-      "White"
-    ],
+    "colors": [ "Brown", "White" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4419,7 +3954,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Ototoi.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "versionAdded": "1.0.0",
@@ -4447,14 +3982,9 @@
       "korean": "이틀 전",
       "russian": "Два дня назад",
       "plural": false,
-      "internalIds": [
-        2459
-      ]
+      "internalIds": [ 2459 ]
     },
-    "colors": [
-      "Brown",
-      "Black"
-    ],
+    "colors": [ "Brown", "Black" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4467,7 +3997,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_Horo.png",
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "versionAdded": "1.0.0",
@@ -4495,14 +4025,9 @@
       "korean": "방랑자",
       "russian": "Поход",
       "plural": false,
-      "internalIds": [
-        2477
-      ]
+      "internalIds": [ 2477 ]
     },
-    "colors": [
-      "Brown",
-      "Gray"
-    ],
+    "colors": [ "Brown", "Gray" ],
     "sources": [
       "K.K. concert, Nook Shopping Catalog"
     ],
@@ -4515,7 +4040,7 @@
     "albumImage": "https://acnhcdn.com/latest/Audio/mjk_MainTheme.png",
     "buy": -1,
     "sell": 800,
-    "hhaBaseScore": 103,
+    "hhaBasePoints": 103,
     "size": "1x1",
     "sourceNotes": "Received on your first time seeing KK perform",
     "versionAdded": "1.0.0",
@@ -4543,16 +4068,10 @@
       "korean": "모두 모여봐요",
       "russian": "Светлые горизонты",
       "plural": false,
-      "internalIds": [
-        4318
-      ]
+      "internalIds": [ 4318 ]
     },
-    "colors": [
-      "Brown"
-    ],
-    "sources": [
-      "K.K. concert"
-    ],
+    "colors": [ "Brown" ],
+    "sources": [ "K.K. concert" ],
     "recipe": null
   },
   {
@@ -4562,7 +4081,7 @@
     "albumImage": null,
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 0,
+    "hhaBasePoints": 0,
     "size": "1x1",
     "sourceNotes": "Played by K.K. if you request something he doesn't have (does not give take-home track)",
     "versionAdded": "1.0.0",
@@ -4590,14 +4109,10 @@
       "korean": "はずれ01",
       "russian": "はずれ01",
       "plural": false,
-      "internalIds": [
-        4315
-      ]
+      "internalIds": [ 4315 ]
     },
     "colors": [],
-    "sources": [
-      "K.K. concert"
-    ],
+    "sources": [ "K.K. concert" ],
     "recipe": null
   },
   {
@@ -4607,7 +4122,7 @@
     "albumImage": null,
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 0,
+    "hhaBasePoints": 0,
     "size": "1x1",
     "sourceNotes": "Played by K.K. if you request something he doesn't have (does not give take-home track)",
     "versionAdded": "1.0.0",
@@ -4635,14 +4150,10 @@
       "korean": "はずれ02",
       "russian": "はずれ02",
       "plural": false,
-      "internalIds": [
-        4316
-      ]
+      "internalIds": [ 4316 ]
     },
     "colors": [],
-    "sources": [
-      "K.K. concert"
-    ],
+    "sources": [ "K.K. concert" ],
     "recipe": null
   },
   {
@@ -4652,7 +4163,7 @@
     "albumImage": null,
     "buy": 3200,
     "sell": 800,
-    "hhaBaseScore": 0,
+    "hhaBasePoints": 0,
     "size": "1x2",
     "sourceNotes": "Played by K.K. if you request something he doesn't have (does not give take-home track)",
     "versionAdded": "1.0.0",
@@ -4680,14 +4191,10 @@
       "korean": "はずれ03",
       "russian": "はずれ03",
       "plural": false,
-      "internalIds": [
-        4317
-      ]
+      "internalIds": [ 4317 ]
     },
     "colors": [],
-    "sources": [
-      "K.K. concert"
-    ],
+    "sources": [ "K.K. concert" ],
     "recipe": null
   }
 ]

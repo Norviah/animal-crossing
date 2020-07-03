@@ -3342,5 +3342,43 @@
     "Japanese": "ウェディングなグリーンタイル",
     "Korean": "초록 웨딩 바닥",
     "Russian": "зеленый свадебный пол"
+  },
+  {
+    "SourceSheet": "Floors",
+    "id": "RoomFloor_12568",
+    "Version": "1.3.0",
+    "English": "mermaid flooring",
+    "English (Europe)": "mermaid flooring",
+    "German": "Nixenboden",
+    "Spanish": "suelo sirena",
+    "Spanish (US)": "suelo sirena",
+    "French": "sol sirène",
+    "French (US)": "sol sirène",
+    "Italian": "pavimento sirena",
+    "Dutch": "meerminnenvloer",
+    "Chinese": "人鱼地板",
+    "Chinese (Traditional)": "人魚地板",
+    "Japanese": "マーメイドなゆか",
+    "Korean": "머메이드 바닥",
+    "Russian": "пол русалки"
+  },
+  {
+    "SourceSheet": "Floors",
+    "id": "RoomFloor_12569",
+    "Version": "1.3.0",
+    "English": "pirate flooring",
+    "English (Europe)": "pirate flooring",
+    "German": "Piratenboden",
+    "Spanish": "suelo pirata",
+    "Spanish (US)": "suelo pirata",
+    "French": "sol pirate",
+    "French (US)": "sol pirate",
+    "Italian": "pavimento pirata",
+    "Dutch": "piratenvloer",
+    "Chinese": "海盗地板",
+    "Chinese (Traditional)": "海盜地板",
+    "Japanese": "かいぞくのゆか",
+    "Korean": "해적 바닥",
+    "Russian": "пиратский пол"
   }
 ]

@@ -17,10 +17,8 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": [
-          "Patron"
-        ],
-        "modifiers": "Nook Inc.'s"
+        "nouns": [ "Patron" ],
+        "modifier": "Nook Inc.'s"
       }
     }
   },
@@ -42,43 +40,32 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Lad",
-          "Lass"
-        ],
-        "modifiers": "Accomplished"
+        "nouns": [ "Lad", "Lass" ],
+        "modifier": "Accomplished"
       },
       "2": {
         "required": 100,
         "reward": 500,
-        "nouns": [
-          "Fishing Fan"
-        ],
-        "modifiers": "Competent"
+        "nouns": [ "Fishing Fan" ],
+        "modifier": "Competent"
       },
       "3": {
         "required": 500,
         "reward": 1000,
-        "nouns": [
-          "Beach Bum"
-        ],
-        "modifiers": "Moderate"
+        "nouns": [ "Beach Bum" ],
+        "modifier": "Moderate"
       },
       "4": {
         "required": 2000,
         "reward": 2000,
-        "nouns": [
-          "Fisher"
-        ],
-        "modifiers": "Fierce"
+        "nouns": [ "Fisher" ],
+        "modifier": "Fierce"
       },
       "5": {
         "required": 5000,
         "reward": 3000,
-        "nouns": [
-          "Catch of the Day"
-        ],
-        "modifiers": "Battle-Tested"
+        "nouns": [ "Catch of the Day" ],
+        "modifier": "Battle-Tested"
       }
     }
   },
@@ -100,42 +87,32 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Pesca Pro"
-        ],
-        "modifiers": "Small-Fry"
+        "nouns": [ "Pesca Pro" ],
+        "modifier": "Small-Fry"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": [
-          "Angler"
-        ],
-        "modifiers": "Energetic"
+        "nouns": [ "Angler" ],
+        "modifier": "Energetic"
       },
       "3": {
         "required": 40,
         "reward": 1000,
-        "nouns": [
-          "Tropical Fish"
-        ],
-        "modifiers": "Pond-Raised"
+        "nouns": [ "Tropical Fish" ],
+        "modifier": "Pond-Raised"
       },
       "4": {
         "required": 60,
         "reward": 2000,
-        "nouns": [
-          "Reaction"
-        ],
-        "modifiers": "Hooked"
+        "nouns": [ "Reaction" ],
+        "modifier": "Hooked"
       },
       "5": {
         "required": 80,
         "reward": 3000,
-        "nouns": [
-          "Expert"
-        ],
-        "modifiers": "Pole-Fishing"
+        "nouns": [ "Expert" ],
+        "modifier": "Pole-Fishing"
       }
     }
   },
@@ -157,26 +134,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Wallflower"
-        ],
-        "modifiers": "Unhindered"
+        "nouns": [ "Wallflower" ],
+        "modifier": "Unhindered"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Shy Kid"
-        ],
-        "modifiers": "Unabashedly"
+        "nouns": [ "Shy Kid" ],
+        "modifier": "Unabashedly"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": [
-          "One"
-        ],
-        "modifiers": "Respected"
+        "nouns": [ "One" ],
+        "modifier": "Respected"
       },
       "4": {
         "required": 30,
@@ -185,15 +156,13 @@
           "\"It\" Guy",
           "\"It\" Girl"
         ],
-        "modifiers": "Ludicrously Popular"
+        "modifier": "Ludicrously Popular"
       },
       "5": {
         "required": 50,
         "reward": 3000,
-        "nouns": [
-          "Heart Stealer"
-        ],
-        "modifiers": "Natural"
+        "nouns": [ "Heart Stealer" ],
+        "modifier": "Natural"
       }
     }
   },
@@ -215,42 +184,32 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Egg"
-        ],
-        "modifiers": "Freshly Delivered"
+        "nouns": [ "Egg" ],
+        "modifier": "Freshly Delivered"
       },
       "2": {
         "required": 100,
         "reward": 500,
-        "nouns": [
-          "Grub"
-        ],
-        "modifiers": "Weak"
+        "nouns": [ "Grub" ],
+        "modifier": "Weak"
       },
       "3": {
         "required": 500,
         "reward": 1000,
-        "nouns": [
-          "Pupa"
-        ],
-        "modifiers": "Emerging"
+        "nouns": [ "Pupa" ],
+        "modifier": "Emerging"
       },
       "4": {
         "required": 2000,
         "reward": 2000,
-        "nouns": [
-          "Butterfly"
-        ],
-        "modifiers": "Soaring"
+        "nouns": [ "Butterfly" ],
+        "modifier": "Soaring"
       },
       "5": {
         "required": 5000,
         "reward": 3000,
-        "nouns": [
-          "Metamorphosis"
-        ],
-        "modifiers": "Complete"
+        "nouns": [ "Metamorphosis" ],
+        "modifier": "Complete"
       }
     }
   },
@@ -272,42 +231,32 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Bug Fan"
-        ],
-        "modifiers": "Hobby-Level"
+        "nouns": [ "Bug Fan" ],
+        "modifier": "Hobby-Level"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": [
-          "Insect"
-        ],
-        "modifiers": "Night-Owl"
+        "nouns": [ "Insect" ],
+        "modifier": "Night-Owl"
       },
       "3": {
         "required": 40,
         "reward": 1000,
-        "nouns": [
-          "Ant"
-        ],
-        "modifiers": "Defiant"
+        "nouns": [ "Ant" ],
+        "modifier": "Defiant"
       },
       "4": {
         "required": 60,
         "reward": 2000,
-        "nouns": [
-          "Creature"
-        ],
-        "modifiers": "Polymorphing"
+        "nouns": [ "Creature" ],
+        "modifier": "Polymorphing"
       },
       "5": {
         "required": 80,
         "reward": 3000,
-        "nouns": [
-          "Critter"
-        ],
-        "modifiers": "Scarce"
+        "nouns": [ "Critter" ],
+        "modifier": "Scarce"
       }
     }
   },
@@ -329,43 +278,126 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Representative"
-        ],
-        "modifiers": "Trivia"
+        "nouns": [ "Representative" ],
+        "modifier": "Trivia"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": [
-          "Intellectual"
-        ],
-        "modifiers": "Savvy"
+        "nouns": [ "Intellectual" ],
+        "modifier": "Savvy"
       },
       "3": {
         "required": 100,
         "reward": 1000,
-        "nouns": [
-          "Authority"
-        ],
-        "modifiers": "Understated"
+        "nouns": [ "Authority" ],
+        "modifier": "Understated"
       },
       "4": {
         "required": 150,
         "reward": 2000,
-        "nouns": [
-          "Sidekick"
-        ],
-        "modifiers": "Knowledge-Thirsty"
+        "nouns": [ "Sidekick" ],
+        "modifier": "Knowledge-Thirsty"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": [
-          "Father",
-          "Mother"
-        ],
-        "modifiers": "Clever"
+        "nouns": [ "Father", "Mother" ],
+        "modifier": "Clever"
+      }
+    }
+  },
+  {
+    "sourceSheet": "Achievements",
+    "name": "Deep Dive",
+    "achievementDescription": "The glittering sea that surrounds our island is home to all kinds of captivating creatures. Put on your wet suit, dive in, and sea what you can collect to earn miles. Sea what I did there, hm?",
+    "achievementCriteria": "Collect a specified number of sea creatures",
+    "num": 8,
+    "internalId": 98,
+    "internalName": "CatchSeafood",
+    "internalCategory": null,
+    "numOfTiers": "5",
+    "sequential": true,
+    "versionAdded": "1.3.0",
+    "uniqueEntryId": "WC4tRgHxSDxLLLFCd",
+    "translations": null,
+    "tiers": {
+      "1": {
+        "required": "5",
+        "reward": "300",
+        "nouns": [ "Swimmer" ],
+        "modifier": "Midsummer"
+      },
+      "2": {
+        "required": "50",
+        "reward": "500",
+        "nouns": [ "Beachcomber" ],
+        "modifier": "Bodyboardin'"
+      },
+      "3": {
+        "required": "250",
+        "reward": "1000",
+        "nouns": [ "Jetsam" ],
+        "modifier": "Aquatic"
+      },
+      "4": {
+        "required": "1000",
+        "reward": "2000",
+        "nouns": [ "Winner" ],
+        "modifier": "Splashy"
+      },
+      "5": {
+        "required": "2500",
+        "reward": "3000",
+        "nouns": [ "Monster" ],
+        "modifier": "Deep-Sea"
+      }
+    }
+  },
+  {
+    "sourceSheet": "Achievements",
+    "name": "Underwater Understudy",
+    "achievementDescription": "There are still many creatures we have yet to discover at the bottom of the sea, hm? Earn miles by diving deep, capturing creatures, and filling out your Critterpedia. Yes, yes!",
+    "achievementCriteria": "Collect a specified number of unique sea creatures",
+    "num": 9,
+    "internalId": 95,
+    "internalName": "FillSeafoodList",
+    "internalCategory": null,
+    "numOfTiers": "5",
+    "sequential": true,
+    "versionAdded": "1.3.0",
+    "uniqueEntryId": "J62JDagagj5k98Cqp",
+    "translations": null,
+    "tiers": {
+      "1": {
+        "required": "5",
+        "reward": "300",
+        "nouns": [ "Diver" ],
+        "modifier": "Cerulean"
+      },
+      "2": {
+        "required": "10",
+        "reward": "500",
+        "nouns": [ "Ingredient" ],
+        "modifier": "Fresh"
+      },
+      "3": {
+        "required": "20",
+        "reward": "1000",
+        "nouns": [ "Pa", "Ma" ],
+        "modifier": "Surfing"
+      },
+      "4": {
+        "required": "30",
+        "reward": "2000",
+        "nouns": [ "Seaweed" ],
+        "modifier": "Waterlogged"
+      },
+      "5": {
+        "required": "40",
+        "reward": "3000",
+        "nouns": [ "Darling", "Honey" ],
+        "modifier": "Seaside"
       }
     }
   },
@@ -374,7 +406,7 @@
     "name": "DIY Tools",
     "achievementDescription": "If your tools break, just make more! And to take away the sting, you'll earn Nook Miles based on the number of tools you craft. Sweet deal!",
     "achievementCriteria": "Craft a specified number of tools",
-    "num": 8,
+    "num": 10,
     "internalId": 72,
     "internalName": "DIYTool",
     "internalCategory": "DIY",
@@ -387,42 +419,32 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": [
-          "Enthusiast"
-        ],
-        "modifiers": "Creative"
+        "nouns": [ "Enthusiast" ],
+        "modifier": "Creative"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": [
-          "Club Member"
-        ],
-        "modifiers": "Crafty"
+        "nouns": [ "Club Member" ],
+        "modifier": "Crafty"
       },
       "3": {
         "required": 200,
         "reward": 1000,
-        "nouns": [
-          "Virtuoso"
-        ],
-        "modifiers": "Hip"
+        "nouns": [ "Virtuoso" ],
+        "modifier": "Hip"
       },
       "4": {
         "required": 1000,
         "reward": 2000,
-        "nouns": [
-          "Technician"
-        ],
-        "modifiers": "Bona Fide"
+        "nouns": [ "Technician" ],
+        "modifier": "Bona Fide"
       },
       "5": {
         "required": 3000,
         "reward": 3000,
-        "nouns": [
-          "Meister"
-        ],
-        "modifiers": "Relentless"
+        "nouns": [ "Meister" ],
+        "modifier": "Relentless"
       }
     }
   },
@@ -431,7 +453,7 @@
     "name": "DIY Furniture",
     "achievementDescription": "Here's a win-win-win situation: Craft your own furniture. (Win!) Enjoy your handiwork. (Win!) Earn Nook Miles for the furniture you've crafted. (Win!) What could be better than that?",
     "achievementCriteria": "Craft a specified number of DIY furniture",
-    "num": 9,
+    "num": 11,
     "internalId": 73,
     "internalName": "DIYFurniture",
     "internalCategory": "DIY",
@@ -444,44 +466,32 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": [
-          "Resident"
-        ],
-        "modifiers": "Handmade"
+        "nouns": [ "Resident" ],
+        "modifier": "Handmade"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": [
-          "Artisan"
-        ],
-        "modifiers": "Emergent"
+        "nouns": [ "Artisan" ],
+        "modifier": "Emergent"
       },
       "3": {
         "required": 200,
         "reward": 1000,
-        "nouns": [
-          "Crafter"
-        ],
-        "modifiers": "Picky"
+        "nouns": [ "Crafter" ],
+        "modifier": "Picky"
       },
       "4": {
         "required": 1000,
         "reward": 2000,
-        "nouns": [
-          "Master",
-          "Matriarch"
-        ],
-        "modifiers": "Humbly Begun"
+        "nouns": [ "Master", "Matriarch" ],
+        "modifier": "Humbly Begun"
       },
       "5": {
         "required": 3000,
         "reward": 3000,
-        "nouns": [
-          "King",
-          "Queen"
-        ],
-        "modifiers": "Destructive-Creative"
+        "nouns": [ "King", "Queen" ],
+        "modifier": "Destructive-Creative"
       }
     }
   },
@@ -490,7 +500,7 @@
     "name": "Furniture Freshener",
     "achievementDescription": "Give your furniture that personal touch and you can unlock miles. The more items you refurbish, the more miles you can get, hm?",
     "achievementCriteria": "Customize a specified number of furniture or tools using the workbench",
-    "num": 10,
+    "num": 12,
     "internalId": 14,
     "internalName": "RemakeFurniture",
     "internalCategory": "DIY",
@@ -503,42 +513,32 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": [
-          "Eccentric"
-        ],
-        "modifiers": "Unique"
+        "nouns": [ "Eccentric" ],
+        "modifier": "Unique"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": [
-          "Challenger"
-        ],
-        "modifiers": "Change-It-Up"
+        "nouns": [ "Challenger" ],
+        "modifier": "Change-It-Up"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": [
-          "Engineer"
-        ],
-        "modifiers": "Detail-Oriented"
+        "nouns": [ "Engineer" ],
+        "modifier": "Detail-Oriented"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": [
-          "Modder"
-        ],
-        "modifiers": "Mold-Breaking"
+        "nouns": [ "Modder" ],
+        "modifier": "Mold-Breaking"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": [
-          "Inspiration"
-        ],
-        "modifiers": "Remodeling"
+        "nouns": [ "Inspiration" ],
+        "modifier": "Remodeling"
       }
     }
   },
@@ -547,7 +547,7 @@
     "name": "Rough-hewn",
     "achievementDescription": "Island development is a Nook Inc. goal. We need a lot of materials to make that happen, so we're giving away Nook Miles based on how much wood you've chopped from trees.",
     "achievementCriteria": "Chop a specified number of wood from trees",
-    "num": 11,
+    "num": 13,
     "internalId": 67,
     "internalName": "StrikeWood",
     "internalCategory": "DIY",
@@ -560,42 +560,32 @@
       "1": {
         "required": 20,
         "reward": 300,
-        "nouns": [
-          "Producer"
-        ],
-        "modifiers": "Specific"
+        "nouns": [ "Producer" ],
+        "modifier": "Specific"
       },
       "2": {
         "required": 100,
         "reward": 500,
-        "nouns": [
-          "Problem Solver"
-        ],
-        "modifiers": "Aggressive"
+        "nouns": [ "Problem Solver" ],
+        "modifier": "Aggressive"
       },
       "3": {
         "required": 500,
         "reward": 1000,
-        "nouns": [
-          "Guard"
-        ],
-        "modifiers": "Sharp"
+        "nouns": [ "Guard" ],
+        "modifier": "Sharp"
       },
       "4": {
         "required": 2000,
         "reward": 2000,
-        "nouns": [
-          "Tack"
-        ],
-        "modifiers": "Pointy"
+        "nouns": [ "Tack" ],
+        "modifier": "Pointy"
       },
       "5": {
         "required": 5000,
         "reward": 3000,
-        "nouns": [
-          "Superhero"
-        ],
-        "modifiers": "Productive"
+        "nouns": [ "Superhero" ],
+        "modifier": "Productive"
       }
     }
   },
@@ -604,7 +594,7 @@
     "name": "Trashed Tools",
     "achievementDescription": "Using a tool until it breaks if proof of your hard work! In praise of your good deeds, you're getting Nook Miles based on how many tools you've broken.",
     "achievementCriteria": "Break a specified number of tools",
-    "num": 12,
+    "num": 14,
     "internalId": 49,
     "internalName": "BreakTool",
     "internalCategory": "HHA",
@@ -617,42 +607,32 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Clown"
-        ],
-        "modifiers": "Rascally"
+        "nouns": [ "Clown" ],
+        "modifier": "Rascally"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": [
-          "Crusher"
-        ],
-        "modifiers": "Overboard"
+        "nouns": [ "Crusher" ],
+        "modifier": "Overboard"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": [
-          "Punk"
-        ],
-        "modifiers": "Rowdy"
+        "nouns": [ "Punk" ],
+        "modifier": "Rowdy"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": [
-          "Meanie"
-        ],
-        "modifiers": "Rough-And-Tumble"
+        "nouns": [ "Meanie" ],
+        "modifier": "Rough-And-Tumble"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": [
-          "Ruiner"
-        ],
-        "modifiers": "Chaotic"
+        "nouns": [ "Ruiner" ],
+        "modifier": "Chaotic"
       }
     }
   },
@@ -661,7 +641,7 @@
     "name": "Rock-Splitting Champ",
     "achievementDescription": "You hit a single rock eight times in a row and knocked some things loose. But did you know that rock whacking is the activity that keeps on giving? Yes, yes! You're getting some Nook Miles now!",
     "achievementCriteria": "Hit a rock with your shovel and obtain all 8 materials from that rock",
-    "num": 13,
+    "num": 15,
     "internalId": 57,
     "internalName": "StrikeRock8Times",
     "internalCategory": "HHA",
@@ -674,10 +654,8 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": [
-          "Muscle"
-        ],
-        "modifiers": "Sports-Minded"
+        "nouns": [ "Muscle" ],
+        "modifier": "Sports-Minded"
       }
     }
   },
@@ -686,7 +664,7 @@
     "name": "Bona Fide Bone Finder!",
     "achievementDescription": "Congratulations on finding your first fossil! Of course, you'll need some Nook Miles to commemorate the occasion. But don't celebrate too hard. There are more fossils to dig up! Yes, yes!",
     "achievementCriteria": "Dig up your first fossil",
-    "num": 14,
+    "num": 16,
     "internalId": 61,
     "internalName": "DigFossil",
     "internalCategory": "HHA",
@@ -699,10 +677,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Fossil"
-        ],
-        "modifiers": "Discovered"
+        "nouns": [ "Fossil" ],
+        "modifier": "Discovered"
       }
     }
   },
@@ -711,7 +687,7 @@
     "name": "Fossil Assessment",
     "achievementDescription": "Yes, yes! You're getting Nook Miles based on the number of fossils you've had assessed. Dig up as many as you can and find out what they are!",
     "achievementCriteria": "Have Blathers assess a specified number of fossils",
-    "num": 15,
+    "num": 17,
     "internalId": 62,
     "internalName": "JudgeFossil",
     "internalCategory": "HHA",
@@ -724,42 +700,32 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": [
-          "Something Or Other"
-        ],
-        "modifiers": "Anonymous"
+        "nouns": [ "Something Or Other" ],
+        "modifier": "Anonymous"
       },
       "2": {
         "required": 30,
         "reward": 500,
-        "nouns": [
-          "Truth"
-        ],
-        "modifiers": "Ancient"
+        "nouns": [ "Truth" ],
+        "modifier": "Ancient"
       },
       "3": {
         "required": 100,
         "reward": 1000,
-        "nouns": [
-          "Researcher"
-        ],
-        "modifiers": "History-Loving"
+        "nouns": [ "Researcher" ],
+        "modifier": "History-Loving"
       },
       "4": {
         "required": 300,
         "reward": 2000,
-        "nouns": [
-          "Scatterbrain"
-        ],
-        "modifiers": "Evolving"
+        "nouns": [ "Scatterbrain" ],
+        "modifier": "Evolving"
       },
       "5": {
         "required": 500,
         "reward": 3000,
-        "nouns": [
-          "Discovery"
-        ],
-        "modifiers": "Historic"
+        "nouns": [ "Discovery" ],
+        "modifier": "Historic"
       }
     }
   },
@@ -768,7 +734,7 @@
     "name": "Greedy Weeder",
     "achievementDescription": "Nook Inc. salutes you for your beautification efforts. Nook Inc. rewards you with Nook Miles for selling weeds. Nook Inc. is quite generous, no?",
     "achievementCriteria": "Sell a specified number of weeds",
-    "num": 16,
+    "num": 18,
     "internalId": 37,
     "internalName": "SellWeed",
     "internalCategory": "Plant",
@@ -781,42 +747,32 @@
       "1": {
         "required": 50,
         "reward": 300,
-        "nouns": [
-          "Lawn Clippings"
-        ],
-        "modifiers": "Messy"
+        "nouns": [ "Lawn Clippings" ],
+        "modifier": "Messy"
       },
       "2": {
         "required": 200,
         "reward": 500,
-        "nouns": [
-          "Custodian"
-        ],
-        "modifiers": "Omnivorous"
+        "nouns": [ "Custodian" ],
+        "modifier": "Omnivorous"
       },
       "3": {
         "required": 1000,
         "reward": 1000,
-        "nouns": [
-          "Sorter"
-        ],
-        "modifiers": "Herbivorous"
+        "nouns": [ "Sorter" ],
+        "modifier": "Herbivorous"
       },
       "4": {
         "required": 2000,
         "reward": 2000,
-        "nouns": [
-          "Sprout"
-        ],
-        "modifiers": "Vigorous"
+        "nouns": [ "Sprout" ],
+        "modifier": "Vigorous"
       },
       "5": {
         "required": 3000,
         "reward": 3000,
-        "nouns": [
-          "Beast"
-        ],
-        "modifiers": "Wild"
+        "nouns": [ "Beast" ],
+        "modifier": "Wild"
       }
     }
   },
@@ -825,7 +781,7 @@
     "name": "Flower Power",
     "achievementDescription": "Planting flowers makes your island more beautiful and can earn you miles. So...grow wild! Yes, yes!",
     "achievementCriteria": "Plant a specified number of flower seeds (digging up and replanting existing flowers does not count)",
-    "num": 17,
+    "num": 19,
     "internalId": 6,
     "internalName": "PlantFlowerSeed",
     "internalCategory": "Plant",
@@ -838,43 +794,32 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Flower"
-        ],
-        "modifiers": "Greenhouse"
+        "nouns": [ "Flower" ],
+        "modifier": "Greenhouse"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": [
-          "Rose"
-        ],
-        "modifiers": "Thorny"
+        "nouns": [ "Rose" ],
+        "modifier": "Thorny"
       },
       "3": {
         "required": 100,
         "reward": 1000,
-        "nouns": [
-          "Rejuvenator"
-        ],
-        "modifiers": "Heavenly"
+        "nouns": [ "Rejuvenator" ],
+        "modifier": "Heavenly"
       },
       "4": {
         "required": 200,
         "reward": 2000,
-        "nouns": [
-          "Blossom"
-        ],
-        "modifiers": "Sweet-Smelling"
+        "nouns": [ "Blossom" ],
+        "modifier": "Sweet-Smelling"
       },
       "5": {
         "required": 300,
         "reward": 3000,
-        "nouns": [
-          "Groom",
-          "Bride"
-        ],
-        "modifiers": "Gorgeous"
+        "nouns": [ "Groom", "Bride" ],
+        "modifier": "Gorgeous"
       }
     }
   },
@@ -883,7 +828,7 @@
     "name": "Flower Tender",
     "achievementDescription": "If you encourage floral growth by showering the island's flowers with water, I'll encourage your growth by showering you with Nook Miles!",
     "achievementCriteria": "Water a specified number of flowers",
-    "num": 18,
+    "num": 20,
     "internalId": 23,
     "internalName": "WaterPlant",
     "internalCategory": "Plant",
@@ -896,42 +841,32 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Caretaker"
-        ],
-        "modifiers": "Refined"
+        "nouns": [ "Caretaker" ],
+        "modifier": "Refined"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": [
-          "Keeper"
-        ],
-        "modifiers": "Detailed"
+        "nouns": [ "Keeper" ],
+        "modifier": "Detailed"
       },
       "3": {
         "required": 100,
         "reward": 1000,
-        "nouns": [
-          "Gardener"
-        ],
-        "modifiers": "Careful"
+        "nouns": [ "Gardener" ],
+        "modifier": "Careful"
       },
       "4": {
         "required": 500,
         "reward": 2000,
-        "nouns": [
-          "Ringleader"
-        ],
-        "modifiers": "Caretaking"
+        "nouns": [ "Ringleader" ],
+        "modifier": "Caretaking"
       },
       "5": {
         "required": 1000,
         "reward": 3000,
-        "nouns": [
-          "Boss"
-        ],
-        "modifiers": "Flower-Loving"
+        "nouns": [ "Boss" ],
+        "modifier": "Flower-Loving"
       }
     }
   },
@@ -940,7 +875,7 @@
     "name": "Tomorrow's Trees Today",
     "achievementDescription": "To build a sustainable life on this island, we're going to need to plant a lot of trees! The more you plant, the more miles you can earn.",
     "achievementCriteria": "Plant a specified number of trees (planting fruits or replanting existing trees does not count)",
-    "num": 19,
+    "num": 21,
     "internalId": 8,
     "internalName": "PlantTreeSeedling",
     "internalCategory": "Plant",
@@ -953,26 +888,20 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": [
-          "Defender"
-        ],
-        "modifiers": "Outdoorsy"
+        "nouns": [ "Defender" ],
+        "modifier": "Outdoorsy"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Dietitian"
-        ],
-        "modifiers": "Organic"
+        "nouns": [ "Dietitian" ],
+        "modifier": "Organic"
       },
       "3": {
         "required": 30,
         "reward": 1000,
-        "nouns": [
-          "Sneezer"
-        ],
-        "modifiers": "Hay-Feverish"
+        "nouns": [ "Sneezer" ],
+        "modifier": "Hay-Feverish"
       }
     }
   },
@@ -981,7 +910,7 @@
     "name": "Pick of the Bunch",
     "achievementDescription": "You'll get Nook Miles based on the amount of fruit you've sold. Remember: If you sell our island's specialty fruit on other islands, you might be able to get a better price!",
     "achievementCriteria": "Sell a specified number of fruits",
-    "num": 20,
+    "num": 22,
     "internalId": 70,
     "internalName": "SellFruit",
     "internalCategory": "Plant",
@@ -994,42 +923,32 @@
       "1": {
         "required": 20,
         "reward": 300,
-        "nouns": [
-          "Observationist"
-        ],
-        "modifiers": "Inexperienced"
+        "nouns": [ "Observationist" ],
+        "modifier": "Inexperienced"
       },
       "2": {
         "required": 100,
         "reward": 500,
-        "nouns": [
-          "Bounty"
-        ],
-        "modifiers": "Precocious"
+        "nouns": [ "Bounty" ],
+        "modifier": "Precocious"
       },
       "3": {
         "required": 500,
         "reward": 1000,
-        "nouns": [
-          "Tree"
-        ],
-        "modifiers": "Seasonal"
+        "nouns": [ "Tree" ],
+        "modifier": "Seasonal"
       },
       "4": {
         "required": 1000,
         "reward": 2000,
-        "nouns": [
-          "Kind"
-        ],
-        "modifiers": "Mature"
+        "nouns": [ "Kind" ],
+        "modifier": "Mature"
       },
       "5": {
         "required": 3000,
         "reward": 3000,
-        "nouns": [
-          "Scent"
-        ],
-        "modifiers": "Rotten"
+        "nouns": [ "Scent" ],
+        "modifier": "Rotten"
       }
     }
   },
@@ -1038,7 +957,7 @@
     "name": "Fruit Roots",
     "achievementDescription": "(island name)'s local fruit delicacy is a wonder, to be sure. But if you plant new varieties, guess what'll happen? Correct! You'll \"grow\" some Nook Miles! What you do with the fruit after that is up to you.",
     "achievementCriteria": "Plant each type of fruit (cherry, orange, pear, peach, apple, and coconut)",
-    "num": 21,
+    "num": 23,
     "internalId": 7,
     "internalName": "PlantFruit",
     "internalCategory": "Plant",
@@ -1051,34 +970,26 @@
       "1": {
         "required": 0,
         "reward": 100,
-        "nouns": [
-          "Other Half"
-        ],
-        "modifiers": "Twin's"
+        "nouns": [ "Other Half" ],
+        "modifier": "Twin's"
       },
       "2": {
         "required": 0,
         "reward": 200,
-        "nouns": [
-          "Freshman"
-        ],
-        "modifiers": "Total"
+        "nouns": [ "Freshman" ],
+        "modifier": "Total"
       },
       "3": {
         "required": 0,
         "reward": 300,
-        "nouns": [
-          "Pear"
-        ],
-        "modifiers": "Unpearable"
+        "nouns": [ "Pear" ],
+        "modifier": "Unpearable"
       },
       "4": {
         "required": 0,
         "reward": 500,
-        "nouns": [
-          "Star"
-        ],
-        "modifiers": "Plucky"
+        "nouns": [ "Star" ],
+        "modifier": "Plucky"
       },
       "5": {
         "required": 0,
@@ -1087,15 +998,13 @@
           "Mr. Popular",
           "Ms. Popular"
         ],
-        "modifiers": "Crisp"
+        "modifier": "Crisp"
       },
       "6": {
         "required": 0,
         "reward": 1000,
-        "nouns": [
-          "Coconut"
-        ],
-        "modifiers": "Tropically Grown"
+        "nouns": [ "Coconut" ],
+        "modifier": "Tropically Grown"
       }
     }
   },
@@ -1104,7 +1013,7 @@
     "name": "Shrubbery Hububbery",
     "achievementDescription": "Different kinds of shrubs usher in the different seasons with their flowers, yes, yes! Folks who plant many shrubs will receive beauty and miles as a reward.",
     "achievementCriteria": "Plant a specified number of shrubs (replanting existing shrubs does not count)",
-    "num": 22,
+    "num": 24,
     "internalId": 92,
     "internalName": "PlantBushSeedling",
     "internalCategory": "Plant",
@@ -1117,26 +1026,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Wonder"
-        ],
-        "modifiers": "Verdant"
+        "nouns": [ "Wonder" ],
+        "modifier": "Verdant"
       },
       "2": {
         "required": 2,
         "reward": 500,
-        "nouns": [
-          "Sentinel"
-        ],
-        "modifiers": "Unrestrained"
+        "nouns": [ "Sentinel" ],
+        "modifier": "Unrestrained"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": [
-          "Snake"
-        ],
-        "modifiers": "Surprising"
+        "nouns": [ "Snake" ],
+        "modifier": "Surprising"
       }
     }
   },
@@ -1145,7 +1048,7 @@
     "name": "Go Ahead. Be Shellfish!",
     "achievementDescription": "You can earn Nook Miles based on the number of seashells you sell. (That's not easy to say!) And remember: You'll get different amounts of Bells for different types of shells. So pay attention!",
     "achievementCriteria": "Sell a specified number of seashells",
-    "num": 23,
+    "num": 25,
     "internalId": 69,
     "internalName": "SellShell",
     "internalCategory": "Fish",
@@ -1158,34 +1061,26 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Shell Fan"
-        ],
-        "modifiers": "Shell-Grabbing"
+        "nouns": [ "Shell Fan" ],
+        "modifier": "Shell-Grabbing"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": [
-          "Seashell Seller"
-        ],
-        "modifiers": "Seashore"
+        "nouns": [ "Seashell Seller" ],
+        "modifier": "Seashore"
       },
       "3": {
         "required": 200,
         "reward": 1000,
-        "nouns": [
-          "Shellector"
-        ],
-        "modifiers": "Shifty"
+        "nouns": [ "Shellector" ],
+        "modifier": "Shifty"
       },
       "4": {
         "required": 500,
         "reward": 2000,
-        "nouns": [
-          "Shell Master"
-        ],
-        "modifiers": "Over-Shelled"
+        "nouns": [ "Shell Master" ],
+        "modifier": "Over-Shelled"
       },
       "5": {
         "required": 1000,
@@ -1194,7 +1089,7 @@
           "Shellaborator",
           "Shellarina"
         ],
-        "modifiers": "Shellfish"
+        "modifier": "Shellfish"
       }
     }
   },
@@ -1203,7 +1098,7 @@
     "name": "Clam and Collected",
     "achievementDescription": "Dig up clams, collect Nook Miles. It's really that simple. The real bonus here is that you get to walk along the beach for this one.",
     "achievementCriteria": "Dig up a specified number of clams",
-    "num": 24,
+    "num": 26,
     "internalId": 63,
     "internalName": "DigShell",
     "internalCategory": "Fish",
@@ -1216,42 +1111,32 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": [
-          "Season"
-        ],
-        "modifiers": "Tidal"
+        "nouns": [ "Season" ],
+        "modifier": "Tidal"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": [
-          "Coast Dweller"
-        ],
-        "modifiers": "Ready"
+        "nouns": [ "Coast Dweller" ],
+        "modifier": "Ready"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": [
-          "Genius"
-        ],
-        "modifiers": "Buried"
+        "nouns": [ "Genius" ],
+        "modifier": "Buried"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": [
-          "Prodigy"
-        ],
-        "modifiers": "Rare"
+        "nouns": [ "Prodigy" ],
+        "modifier": "Rare"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": [
-          "Mermaid"
-        ],
-        "modifiers": "Water's Edge"
+        "nouns": [ "Mermaid" ],
+        "modifier": "Water's Edge"
       }
     }
   },
@@ -1260,7 +1145,7 @@
     "name": "Trash Fishin'",
     "achievementDescription": "You work extra hard to keep out island clean, even going so far as to fish up trash out of our lovely waters. So you're getting some Nook Miles for keeping the island extra tidy, yes, yes!",
     "achievementCriteria": "Fish a specified number of trash (cans, tires, or boots)",
-    "num": 25,
+    "num": 27,
     "internalId": 32,
     "internalName": "CatchTrash",
     "internalCategory": "Fish",
@@ -1273,26 +1158,20 @@
       "1": {
         "required": 3,
         "reward": 300,
-        "nouns": [
-          "Trash"
-        ],
-        "modifiers": "Untossable"
+        "nouns": [ "Trash" ],
+        "modifier": "Untossable"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Ecologist"
-        ],
-        "modifiers": "Eco-Friendly"
+        "nouns": [ "Ecologist" ],
+        "modifier": "Eco-Friendly"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": [
-          "Cleaner"
-        ],
-        "modifiers": "Waterway"
+        "nouns": [ "Cleaner" ],
+        "modifier": "Waterway"
       }
     }
   },
@@ -1301,7 +1180,7 @@
     "name": "Cast Master",
     "achievementDescription": "Cast your line carefully if you want to reel in this reward - you'll need to nab a bunch of fish in a row without a single one getting away to earn these miles.",
     "achievementCriteria": "Fish a specified number of fish in a single streak without any getting away",
-    "num": 26,
+    "num": 28,
     "internalId": 2,
     "internalName": "CatchFishContinuously",
     "internalCategory": "Fish",
@@ -1314,26 +1193,20 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Fish"
-        ],
-        "modifiers": "Mistakenly Caught"
+        "nouns": [ "Fish" ],
+        "modifier": "Mistakenly Caught"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": [
-          "Frenzy"
-        ],
-        "modifiers": "Bait-Snatching"
+        "nouns": [ "Frenzy" ],
+        "modifier": "Bait-Snatching"
       },
       "3": {
         "required": 100,
         "reward": 1000,
-        "nouns": [
-          "Life-Form"
-        ],
-        "modifiers": "Wave-Tossed"
+        "nouns": [ "Life-Form" ],
+        "modifier": "Wave-Tossed"
       }
     }
   },
@@ -1342,7 +1215,7 @@
     "name": "Dream House",
     "achievementDescription": "A home that you build yourself gives you greater livability - it's on a whole other level! I'll give Nook Miles to those who build or expand their home to taste the good life.",
     "achievementCriteria": "Expand your home a specified number of times",
-    "num": 27,
+    "num": 29,
     "internalId": 82,
     "internalName": "ExtendMyHome",
     "internalCategory": "Event",
@@ -1355,42 +1228,32 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": [
-          "Loner"
-        ],
-        "modifiers": "One-Room"
+        "nouns": [ "Loner" ],
+        "modifier": "One-Room"
       },
       "2": {
         "required": 2,
         "reward": 1000,
-        "nouns": [
-          "Beginner"
-        ],
-        "modifiers": "Single-Occupant"
+        "nouns": [ "Beginner" ],
+        "modifier": "Single-Occupant"
       },
       "3": {
         "required": 5,
         "reward": 2000,
-        "nouns": [
-          "Sentiment"
-        ],
-        "modifiers": "Homey"
+        "nouns": [ "Sentiment" ],
+        "modifier": "Homey"
       },
       "4": {
         "required": 6,
         "reward": 3000,
-        "nouns": [
-          "Landlord"
-        ],
-        "modifiers": "Second-Floor"
+        "nouns": [ "Landlord" ],
+        "modifier": "Second-Floor"
       },
       "5": {
         "required": 7,
         "reward": 5000,
-        "nouns": [
-          "Backbone"
-        ],
-        "modifiers": "Basement"
+        "nouns": [ "Backbone" ],
+        "modifier": "Basement"
       }
     }
   },
@@ -1399,7 +1262,7 @@
     "name": "Decorated Decorator",
     "achievementDescription": "You got an S ranking from the Happy Home Academy! Your decorating skills are truly an inspiration, and you deserve some Nook Miles.",
     "achievementCriteria": "Get an S ranking from the Happy Home Academy",
-    "num": 28,
+    "num": 30,
     "internalId": 40,
     "internalName": "GetSRankonHHA",
     "internalCategory": "Event",
@@ -1412,10 +1275,8 @@
       "1": {
         "required": 1,
         "reward": 1000,
-        "nouns": [
-          "Overachiever"
-        ],
-        "modifiers": "Happy"
+        "nouns": [ "Overachiever" ],
+        "modifier": "Happy"
       }
     }
   },
@@ -1424,7 +1285,7 @@
     "name": "Hoard Reward",
     "achievementDescription": "Put more furniture in your house! Nook Inc. will give you Nook Miles based on the number of indoor furniture items you have. So you're earning rewards for making your house a home!",
     "achievementCriteria": "Place a specified number of furniture in your house",
-    "num": 29,
+    "num": 31,
     "internalId": 78,
     "internalName": "PlaceFurnitureMyHouse",
     "internalCategory": "Event",
@@ -1437,42 +1298,32 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": [
-          "Sort"
-        ],
-        "modifiers": "Interior"
+        "nouns": [ "Sort" ],
+        "modifier": "Interior"
       },
       "2": {
         "required": 15,
         "reward": 1000,
-        "nouns": [
-          "Remodeler"
-        ],
-        "modifiers": "Tentative"
+        "nouns": [ "Remodeler" ],
+        "modifier": "Tentative"
       },
       "3": {
         "required": 30,
         "reward": 2000,
-        "nouns": [
-          "Sundries Fan"
-        ],
-        "modifiers": "Comparative"
+        "nouns": [ "Sundries Fan" ],
+        "modifier": "Comparative"
       },
       "4": {
         "required": 100,
         "reward": 3000,
-        "nouns": [
-          "Appliance Fan"
-        ],
-        "modifiers": "Assumed"
+        "nouns": [ "Appliance Fan" ],
+        "modifier": "Assumed"
       },
       "5": {
         "required": 150,
         "reward": 5000,
-        "nouns": [
-          "Interior-Design Fan"
-        ],
-        "modifiers": "Abounding"
+        "nouns": [ "Interior-Design Fan" ],
+        "modifier": "Abounding"
       }
     }
   },
@@ -1481,7 +1332,7 @@
     "name": "Good Things in Store!",
     "achievementDescription": "I'll reward you with miles based on the number of items you have in storage, hm? Using the convenient storage feature will make life on the island more pleasant!",
     "achievementCriteria": "Store a specified number of items in your house storage",
-    "num": 30,
+    "num": 32,
     "internalId": 77,
     "internalName": "HouseStorageItem",
     "internalCategory": "Event",
@@ -1494,42 +1345,32 @@
       "1": {
         "required": 20,
         "reward": 300,
-        "nouns": [
-          "Stylist"
-        ],
-        "modifiers": "Overstuffed"
+        "nouns": [ "Stylist" ],
+        "modifier": "Overstuffed"
       },
       "2": {
         "required": 50,
         "reward": 1000,
-        "nouns": [
-          "Talent"
-        ],
-        "modifiers": "Partially Obscured"
+        "nouns": [ "Talent" ],
+        "modifier": "Partially Obscured"
       },
       "3": {
         "required": 100,
         "reward": 2000,
-        "nouns": [
-          "Manager"
-        ],
-        "modifiers": "At-Capacity"
+        "nouns": [ "Manager" ],
+        "modifier": "At-Capacity"
       },
       "4": {
         "required": 200,
         "reward": 3000,
-        "nouns": [
-          "Coordinator"
-        ],
-        "modifiers": "Self-Possessed"
+        "nouns": [ "Coordinator" ],
+        "modifier": "Self-Possessed"
       },
       "5": {
         "required": 300,
         "reward": 5000,
-        "nouns": [
-          "Life Hacker"
-        ],
-        "modifiers": "Invulnerable"
+        "nouns": [ "Life Hacker" ],
+        "modifier": "Invulnerable"
       }
     }
   },
@@ -1538,7 +1379,7 @@
     "name": "Remarkable Remodeler",
     "achievementDescription": "You finished remodeling your house, hm? It looks like a completely new house now! I'll give you rewards based on the number of remodels you do, so keep it up!",
     "achievementCriteria": "Remodel your home's exterior a specified number of times",
-    "num": 31,
+    "num": 33,
     "internalId": 81,
     "internalName": "ReformMyHome",
     "internalCategory": "Event",
@@ -1551,26 +1392,20 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": [
-          "Transformer"
-        ],
-        "modifiers": "Home"
+        "nouns": [ "Transformer" ],
+        "modifier": "Home"
       },
       "2": {
         "required": 3,
         "reward": 1000,
-        "nouns": [
-          "Dreamer"
-        ],
-        "modifiers": "Dreamy"
+        "nouns": [ "Dreamer" ],
+        "modifier": "Dreamy"
       },
       "3": {
         "required": 5,
         "reward": 2000,
-        "nouns": [
-          "Space"
-        ],
-        "modifiers": "Quintessential"
+        "nouns": [ "Space" ],
+        "modifier": "Quintessential"
       }
     }
   },
@@ -1579,7 +1414,7 @@
     "name": "Smile Isle",
     "achievementDescription": "Good deeds are their own rewards. But go ahead and have some Nook Miles too for fulfilling requests from other island residents. Yes, yes!",
     "achievementCriteria": "Fulfill a specified number of requests from residents (such as returning lost items)",
-    "num": 32,
+    "num": 34,
     "internalId": 59,
     "internalName": "AchieveVillagersQuest",
     "internalCategory": "Communication",
@@ -1592,43 +1427,32 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Standard"
-        ],
-        "modifiers": "Kindly"
+        "nouns": [ "Standard" ],
+        "modifier": "Kindly"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Ally"
-        ],
-        "modifiers": "Reliable"
+        "nouns": [ "Ally" ],
+        "modifier": "Reliable"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": [
-          "Supervisor"
-        ],
-        "modifiers": "Generous"
+        "nouns": [ "Supervisor" ],
+        "modifier": "Generous"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": [
-          "Savior"
-        ],
-        "modifiers": "Exalted"
+        "nouns": [ "Savior" ],
+        "modifier": "Exalted"
       },
       "5": {
         "required": 300,
         "reward": 3000,
-        "nouns": [
-          "Hero",
-          "Heroine"
-        ],
-        "modifiers": "Foolhardy"
+        "nouns": [ "Hero", "Heroine" ],
+        "modifier": "Foolhardy"
       }
     }
   },
@@ -1637,7 +1461,7 @@
     "name": "Reaction Ruler",
     "achievementDescription": "You learned a Reaction! Let's celebrate this momentous occasion with...Nook Miles, hm? Reactions help you express yourself, so it's a good idea to learn them.",
     "achievementCriteria": "Learn a specified number of reactions",
-    "num": 33,
+    "num": 35,
     "internalId": 31,
     "internalName": "FillReactionList",
     "internalCategory": "Communication",
@@ -1650,42 +1474,32 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Neophyte"
-        ],
-        "modifiers": "Overacting"
+        "nouns": [ "Neophyte" ],
+        "modifier": "Overacting"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Dancer"
-        ],
-        "modifiers": "Apprentice"
+        "nouns": [ "Dancer" ],
+        "modifier": "Apprentice"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": [
-          "Semiprofessional"
-        ],
-        "modifiers": "Dad-Joking"
+        "nouns": [ "Semiprofessional" ],
+        "modifier": "Dad-Joking"
       },
       "4": {
         "required": 30,
         "reward": 2000,
-        "nouns": [
-          "Comedian"
-        ],
-        "modifiers": "Solo"
+        "nouns": [ "Comedian" ],
+        "modifier": "Solo"
       },
       "5": {
         "required": 42,
         "reward": 3000,
-        "nouns": [
-          "Mega Star"
-        ],
-        "modifiers": "Super-Popular"
+        "nouns": [ "Mega Star" ],
+        "modifier": "Super-Popular"
       }
     }
   },
@@ -1694,7 +1508,7 @@
     "name": "Island Shutterbug",
     "achievementDescription": "Congratulations on taking your first island photo! Please do show off your wonderful photos, whether they're impulse snaps or brilliant compositions.",
     "achievementCriteria": "Awarded the first time you take a photo using the camera app on the NookPhone (screenshot button does not count, must use the app)",
-    "num": 34,
+    "num": 36,
     "internalId": 75,
     "internalName": "TakePicture",
     "internalCategory": "Smartphone",
@@ -1707,10 +1521,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Photographer"
-        ],
-        "modifiers": "Photogenic"
+        "nouns": [ "Photographer" ],
+        "modifier": "Photogenic"
       }
     }
   },
@@ -1719,7 +1531,7 @@
     "name": "Edit Credit",
     "achievementDescription": "Your passport has some information you can edit! Nook Inc. will give Nook Miles to folks who customize their profiles. Take it slow, think about it, and make it your own.",
     "achievementCriteria": "Awarded the first time you edit your passport.",
-    "num": 35,
+    "num": 37,
     "internalId": 87,
     "internalName": "UpdatePassport",
     "internalCategory": "Smartphone",
@@ -1732,10 +1544,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Traveler"
-        ],
-        "modifiers": "Future"
+        "nouns": [ "Traveler" ],
+        "modifier": "Future"
       }
     }
   },
@@ -1744,7 +1554,7 @@
     "name": "NookPhone Life",
     "achievementDescription": "Gotten used to using your NookPhone? The fact that you're reading this probably means you have! Keep using it, and enjoy some Nook Miles just for getting familiar with it.",
     "achievementCriteria": "Awarded after the 10th time you open your NookPhone",
-    "num": 36,
+    "num": 38,
     "internalId": 76,
     "internalName": "BootPhoneBeginner",
     "internalCategory": "Smartphone",
@@ -1757,10 +1567,8 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Savant"
-        ],
-        "modifiers": "Smartphone"
+        "nouns": [ "Savant" ],
+        "modifier": "Smartphone"
       }
     }
   },
@@ -1769,7 +1577,7 @@
     "name": "That's One Smart Phone",
     "achievementDescription": "Nothing makes a smartphone manufacturer happier than a user who gets the most out of the device. At least, that's how Nook Inc. feels about the NookPhone. So we're giving you miles just for using your phone!",
     "achievementCriteria": "Awarded after the 1000th time you open your NookPhone",
-    "num": 37,
+    "num": 39,
     "internalId": 56,
     "internalName": "BootPhone",
     "internalCategory": "Smartphone",
@@ -1782,10 +1590,8 @@
       "1": {
         "required": 1000,
         "reward": 1000,
-        "nouns": [
-          "Child"
-        ],
-        "modifiers": "Digital-Age"
+        "nouns": [ "Child" ],
+        "modifier": "Digital-Age"
       }
     }
   },
@@ -1794,7 +1600,7 @@
     "name": "Shop to It",
     "achievementDescription": "Living on a remote island doesn't mean you have to go without life's luxuries. Shop to your heart's content with Nook Shopping and you'll earn Nook Miles!",
     "achievementCriteria": "Number of times you've ordered from the Nook Shopping catalog",
-    "num": 38,
+    "num": 40,
     "internalId": 16,
     "internalName": "BuyItemCatalog",
     "internalCategory": "Smartphone",
@@ -1807,42 +1613,32 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Surfer"
-        ],
-        "modifiers": "Internet"
+        "nouns": [ "Surfer" ],
+        "modifier": "Internet"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": [
-          "Reviewer"
-        ],
-        "modifiers": "Connected"
+        "nouns": [ "Reviewer" ],
+        "modifier": "Connected"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": [
-          "Connector"
-        ],
-        "modifiers": "Widely Accepted"
+        "nouns": [ "Connector" ],
+        "modifier": "Widely Accepted"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": [
-          "Worrywart"
-        ],
-        "modifiers": "Disconnected"
+        "nouns": [ "Worrywart" ],
+        "modifier": "Disconnected"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": [
-          "Bigwig"
-        ],
-        "modifiers": "Always-On"
+        "nouns": [ "Bigwig" ],
+        "modifier": "Always-On"
       }
     }
   },
@@ -1851,7 +1647,7 @@
     "name": "Growing Collection",
     "achievementDescription": "You are aware that furniture and clothing you buy is added to your Nook Shopping catalog, yes? Were you also aware that you can earn miles for a large catalog? Well, you certainly are aware now!",
     "achievementCriteria": "Number of unique furniture pieces you've added to your catalog",
-    "num": 39,
+    "num": 41,
     "internalId": 15,
     "internalName": "FillCatalog",
     "internalCategory": "Smartphone",
@@ -1864,42 +1660,32 @@
       "1": {
         "required": 100,
         "reward": 300,
-        "nouns": [
-          "Materialist"
-        ],
-        "modifiers": "Casual"
+        "nouns": [ "Materialist" ],
+        "modifier": "Casual"
       },
       "2": {
         "required": 200,
         "reward": 500,
-        "nouns": [
-          "Force"
-        ],
-        "modifiers": "Curious"
+        "nouns": [ "Force" ],
+        "modifier": "Curious"
       },
       "3": {
         "required": 300,
         "reward": 1000,
-        "nouns": [
-          "Collector"
-        ],
-        "modifiers": "Greedy"
+        "nouns": [ "Collector" ],
+        "modifier": "Greedy"
       },
       "4": {
         "required": 400,
         "reward": 2000,
-        "nouns": [
-          "Avatar"
-        ],
-        "modifiers": "Materialistic"
+        "nouns": [ "Avatar" ],
+        "modifier": "Materialistic"
       },
       "5": {
         "required": 500,
         "reward": 3000,
-        "nouns": [
-          "Walking Dictionary"
-        ],
-        "modifiers": "Legendary"
+        "nouns": [ "Walking Dictionary" ],
+        "modifier": "Legendary"
       }
     }
   },
@@ -1908,7 +1694,7 @@
     "name": "Nook Miles for Miles!",
     "achievementDescription": "Earning Nook Miles for earning Nook Miles? Yes, yes! You just earned miles for finishing Nook Miles+ goals! But where will it end?",
     "achievementCriteria": "Number of Nook Miles+ goals you've completed",
-    "num": 40,
+    "num": 42,
     "internalId": 58,
     "internalName": "AchieveAppQuest",
     "internalCategory": "Smartphone",
@@ -1921,42 +1707,32 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": [
-          "Ground Traveler"
-        ],
-        "modifiers": "So-Called"
+        "nouns": [ "Ground Traveler" ],
+        "modifier": "So-Called"
       },
       "2": {
         "required": 50,
         "reward": 500,
-        "nouns": [
-          "Rookie"
-        ],
-        "modifiers": "Novice"
+        "nouns": [ "Rookie" ],
+        "modifier": "Novice"
       },
       "3": {
         "required": 200,
         "reward": 1000,
-        "nouns": [
-          "Hobbyist"
-        ],
-        "modifiers": "Wide-Ranging"
+        "nouns": [ "Hobbyist" ],
+        "modifier": "Wide-Ranging"
       },
       "4": {
         "required": 1000,
         "reward": 2000,
-        "nouns": [
-          "Go-Getter"
-        ],
-        "modifiers": "Perfectionist"
+        "nouns": [ "Go-Getter" ],
+        "modifier": "Perfectionist"
       },
       "5": {
         "required": 3000,
         "reward": 3000,
-        "nouns": [
-          "Dynamo"
-        ],
-        "modifiers": "Year-Round"
+        "nouns": [ "Dynamo" ],
+        "modifier": "Year-Round"
       }
     }
   },
@@ -1965,7 +1741,7 @@
     "name": "First-Time Buyer",
     "achievementDescription": "You won't get miles every time you buy something on the island, but your first time is special! Enjoy these miles, courtesy of Nook Inc.",
     "achievementCriteria": "Awarded the first time you purchase an item from a shop",
-    "num": 41,
+    "num": 43,
     "internalId": 12,
     "internalName": "BuyItemRcm",
     "internalCategory": "Money",
@@ -1978,10 +1754,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Consumer"
-        ],
-        "modifiers": "Full-Fledged"
+        "nouns": [ "Consumer" ],
+        "modifier": "Full-Fledged"
       }
     }
   },
@@ -1990,7 +1764,7 @@
     "name": "Seller of Unwanted Stuff",
     "achievementDescription": "Selling things you don't need is a great way to keep down the clutter and earn a few extra Bells. And, in this case, a few extra miles! Hooray for your first sale!",
     "achievementCriteria": "Awarded the first time you sell an item to a shop",
-    "num": 42,
+    "num": 44,
     "internalId": 13,
     "internalName": "SellItemRcm",
     "internalCategory": "Money",
@@ -2003,10 +1777,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Eventuality"
-        ],
-        "modifiers": "Down-And-Out"
+        "nouns": [ "Eventuality" ],
+        "modifier": "Down-And-Out"
       }
     }
   },
@@ -2015,7 +1787,7 @@
     "name": "Moving Fees Paid!",
     "achievementDescription": "Thank you for paying all your fees for moving to the island! Take a Nook Miles rebate as a gift and give yourself a nice pat on the back, hm?",
     "achievementCriteria": "Awarded when you pay off your initial loan using Nook Miles",
-    "num": 43,
+    "num": 45,
     "internalId": 33,
     "internalName": "PayImmigrationCost",
     "internalCategory": "Money",
@@ -2028,10 +1800,8 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": [
-          "Life"
-        ],
-        "modifiers": "Autonomous"
+        "nouns": [ "Life" ],
+        "modifier": "Autonomous"
       }
     }
   },
@@ -2040,7 +1810,7 @@
     "name": "Bell Ringer",
     "achievementDescription": "Spending your Bells on the island helps revitalize the local economy, yes, yes! I'll reward you with miles based on how many Bells you've spent.",
     "achievementCriteria": "Number of total bells you've spent in shops",
-    "num": 44,
+    "num": 46,
     "internalId": 11,
     "internalName": "HowmuchBuyItem",
     "internalCategory": "Money",
@@ -2053,42 +1823,32 @@
       "1": {
         "required": 5000,
         "reward": 300,
-        "nouns": [
-          "Shopaholic"
-        ],
-        "modifiers": "Invested"
+        "nouns": [ "Shopaholic" ],
+        "modifier": "Invested"
       },
       "2": {
         "required": 50000,
         "reward": 500,
-        "nouns": [
-          "Family Member"
-        ],
-        "modifiers": "Thrifty"
+        "nouns": [ "Family Member" ],
+        "modifier": "Thrifty"
       },
       "3": {
         "required": 500000,
         "reward": 1000,
-        "nouns": [
-          "Personality"
-        ],
-        "modifiers": "Covetous"
+        "nouns": [ "Personality" ],
+        "modifier": "Covetous"
       },
       "4": {
         "required": 2000000,
         "reward": 2000,
-        "nouns": [
-          "Celebrity"
-        ],
-        "modifiers": "Wasteful"
+        "nouns": [ "Celebrity" ],
+        "modifier": "Wasteful"
       },
       "5": {
         "required": 5000000,
         "reward": 3000,
-        "nouns": [
-          "VIP"
-        ],
-        "modifiers": "Name-Dropping"
+        "nouns": [ "VIP" ],
+        "modifier": "Name-Dropping"
       }
     }
   },
@@ -2097,7 +1857,7 @@
     "name": "Miles for Stalkholders",
     "achievementDescription": "I have Nook Miles to give any resident who purchases turnips. Buy them low, sell them high, and make a handsome profit! They’ll rot in a week, though, so be careful.",
     "achievementCriteria": "Awarded the first time you purchase turnips",
-    "num": 45,
+    "num": 47,
     "internalId": 9,
     "internalName": "BuyKabu",
     "internalCategory": "Money",
@@ -2110,10 +1870,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Stalkholder"
-        ],
-        "modifiers": "Weekend"
+        "nouns": [ "Stalkholder" ],
+        "modifier": "Weekend"
       }
     }
   },
@@ -2122,7 +1880,7 @@
     "name": "Cornering the Stalk Market",
     "achievementDescription": "The powers that be have been tracking your turnip transactions...and let's just say you've harvested your share of profits! Enjoy a few Nook Miles for helping contribute to the island's economy.",
     "achievementCriteria": "Number of total bells you've profited from selling turnips",
-    "num": 46,
+    "num": 48,
     "internalId": 10,
     "internalName": "HowmuchSellKabu",
     "internalCategory": "Money",
@@ -2135,42 +1893,32 @@
       "1": {
         "required": 1000,
         "reward": 300,
-        "nouns": [
-          "Speculator"
-        ],
-        "modifiers": "Status-Minded"
+        "nouns": [ "Speculator" ],
+        "modifier": "Status-Minded"
       },
       "2": {
         "required": 10000,
         "reward": 500,
-        "nouns": [
-          "Moneybags"
-        ],
-        "modifiers": "Avaricious"
+        "nouns": [ "Moneybags" ],
+        "modifier": "Avaricious"
       },
       "3": {
         "required": 100000,
         "reward": 1000,
-        "nouns": [
-          "Trader"
-        ],
-        "modifiers": "Upstart"
+        "nouns": [ "Trader" ],
+        "modifier": "Upstart"
       },
       "4": {
         "required": 1000000,
         "reward": 2000,
-        "nouns": [
-          "Bellionaire"
-        ],
-        "modifiers": "Worldwide"
+        "nouns": [ "Bellionaire" ],
+        "modifier": "Worldwide"
       },
       "5": {
         "required": 10000000,
         "reward": 3000,
-        "nouns": [
-          "Fixer"
-        ],
-        "modifiers": "Shadowy"
+        "nouns": [ "Fixer" ],
+        "modifier": "Shadowy"
       }
     }
   },
@@ -2179,7 +1927,7 @@
     "name": "No More Loan Payments!",
     "achievementDescription": "You see how this works? You pay off your loan, get some Nook Miles! Thank you for doing business with Nook Inc.!",
     "achievementCriteria": "Awarded after paying off your first house loan with bells",
-    "num": 47,
+    "num": 49,
     "internalId": 34,
     "internalName": "RepayLoan",
     "internalCategory": "Money",
@@ -2192,10 +1940,8 @@
       "1": {
         "required": 1,
         "reward": 1000,
-        "nouns": [
-          "Bill Payer"
-        ],
-        "modifiers": "Responsible"
+        "nouns": [ "Bill Payer" ],
+        "modifier": "Responsible"
       }
     }
   },
@@ -2204,7 +1950,7 @@
     "name": "Bulletin-Board Benefit",
     "achievementDescription": "Picture this: Getting Nook Miles from Nook Inc. the first time you write something on an island's bulletin board. Keep using bulletin boards to communicate with everyone on the island! Yes, yes!",
     "achievementCriteria": "Awarded the first time you post a message on your town bulletin board",
-    "num": 48,
+    "num": 50,
     "internalId": 83,
     "internalName": "PostMessageBoard",
     "internalCategory": "Communication",
@@ -2217,10 +1963,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Influencer"
-        ],
-        "modifiers": "Rumermongering"
+        "nouns": [ "Influencer" ],
+        "modifier": "Rumermongering"
       }
     }
   },
@@ -2229,7 +1973,7 @@
     "name": "Popular Pen Pal",
     "achievementDescription": "I'll reward you with miles if you send a lot of letters. Please keep sending letters to everyone and continuing to deepen friendships. Yes, yes!",
     "achievementCriteria": "Number of letters you've sent",
-    "num": 49,
+    "num": 51,
     "internalId": 50,
     "internalName": "SendLetter",
     "internalCategory": "Communication",
@@ -2242,43 +1986,32 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": [
-          "Boy",
-          "Girl"
-        ],
-        "modifiers": "Art-School"
+        "nouns": [ "Boy", "Girl" ],
+        "modifier": "Art-School"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": [
-          "Student"
-        ],
-        "modifiers": "Science-y"
+        "nouns": [ "Student" ],
+        "modifier": "Science-y"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": [
-          "Poet"
-        ],
-        "modifiers": "Liberal-Arts"
+        "nouns": [ "Poet" ],
+        "modifier": "Liberal-Arts"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": [
-          "Denizen"
-        ],
-        "modifiers": "Subculture"
+        "nouns": [ "Denizen" ],
+        "modifier": "Subculture"
       },
       "5": {
         "required": 200,
         "reward": 3000,
-        "nouns": [
-          "Writer"
-        ],
-        "modifiers": "Deadline"
+        "nouns": [ "Writer" ],
+        "modifier": "Deadline"
       }
     }
   },
@@ -2287,7 +2020,7 @@
     "name": "Flea Flicker",
     "achievementDescription": "Itchy fleas are a real hassle. If you see an island buddy struggling with fleas, by all means, help them out. Not only is it a nice thing to do, but you'll also get some miles for doing a good deed.",
     "achievementCriteria": "Number of times you've caught fleas off a villager",
-    "num": 50,
+    "num": 52,
     "internalId": 26,
     "internalName": "CatchNomi",
     "internalCategory": "Insect",
@@ -2300,26 +2033,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Wild Child"
-        ],
-        "modifiers": "Tidy"
+        "nouns": [ "Wild Child" ],
+        "modifier": "Tidy"
       },
       "2": {
         "required": 5,
         "reward": 500,
-        "nouns": [
-          "Neatnik"
-        ],
-        "modifiers": "Highly Aware"
+        "nouns": [ "Neatnik" ],
+        "modifier": "Highly Aware"
       },
       "3": {
         "required": 10,
         "reward": 1000,
-        "nouns": [
-          "Character"
-        ],
-        "modifiers": "Fastidious"
+        "nouns": [ "Character" ],
+        "modifier": "Fastidious"
       }
     }
   },
@@ -2328,7 +2055,7 @@
     "name": "Cicada Memories",
     "achievementDescription": "Ah, cicada shells in the summer. They're not really all that useful, but collecting them does help create summer memories that will last a lifetime.",
     "achievementCriteria": "Awarded the first time you catch a cicada shell",
-    "num": 51,
+    "num": 53,
     "internalId": 25,
     "internalName": "CatchSeminonukegara",
     "internalCategory": "Insect",
@@ -2341,10 +2068,8 @@
       "1": {
         "required": 1,
         "reward": 1000,
-        "nouns": [
-          "Being"
-        ],
-        "modifiers": "Shell-Less"
+        "nouns": [ "Being" ],
+        "modifier": "Shell-Less"
       }
     }
   },
@@ -2353,7 +2078,7 @@
     "name": "Netting Better!",
     "achievementDescription": "It's so impressive when someone can catch five wasps in a row - so impressive, in fact, that you'll earn some Nook Miles if you can do it!",
     "achievementCriteria": "Awarded the first time you catch five wasps in a row without running away or getting stung",
-    "num": 52,
+    "num": 54,
     "internalId": 71,
     "internalName": "CatchBeeContinuously",
     "internalCategory": "Insect",
@@ -2366,10 +2091,8 @@
       "1": {
         "required": 1,
         "reward": 1000,
-        "nouns": [
-          "Deadeye"
-        ],
-        "modifiers": "Accurate"
+        "nouns": [ "Deadeye" ],
+        "modifier": "Accurate"
       }
     }
   },
@@ -2378,7 +2101,7 @@
     "name": "Pit-y Party!",
     "achievementDescription": "Enjoy some bonus Nook Miles to commemorate the creation of your first pit. Just make sure you don't fall victim to your own handiwork!",
     "achievementCriteria": "Awarded the first time you bury a pitfall seed",
-    "num": 53,
+    "num": 55,
     "internalId": 51,
     "internalName": "MakePitfall",
     "internalCategory": "HHA",
@@ -2391,10 +2114,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Troublemaker"
-        ],
-        "modifiers": "Wild-Child"
+        "nouns": [ "Troublemaker" ],
+        "modifier": "Wild-Child"
       }
     }
   },
@@ -2403,7 +2124,7 @@
     "name": "Taking the Sting Out",
     "achievementDescription": "Getting stung by wasps hurts! Getting stung again before you can recover makes you faint! But at least you get some miles for that. I don't want you to be uncomfortable though, so take some medicine to heal up!",
     "achievementCriteria": "Awarded the first time you get stung by a wasp",
-    "num": 54,
+    "num": 56,
     "internalId": 24,
     "internalName": "BeStungbyWasp",
     "internalCategory": "Negative",
@@ -2416,10 +2137,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Crybaby"
-        ],
-        "modifiers": "Teary-Eyed"
+        "nouns": [ "Crybaby" ],
+        "modifier": "Teary-Eyed"
       }
     }
   },
@@ -2428,7 +2147,7 @@
     "name": "Faint of Heart",
     "achievementDescription": "This island is home to creepy crawlers that would make anyone light-headed. Maybe wielding a net will make you less likely to faint...",
     "achievementCriteria": "Awarded the first time you get knocked out by a Scorpion or Tarantula",
-    "num": 55,
+    "num": 57,
     "internalId": 27,
     "internalName": "BeStungbyPoisonousInsect",
     "internalCategory": "Negative",
@@ -2441,10 +2160,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Phoenix"
-        ],
-        "modifiers": "Risen"
+        "nouns": [ "Phoenix" ],
+        "modifier": "Risen"
       }
     }
   },
@@ -2453,7 +2170,7 @@
     "name": "Overcoming Pitfalls",
     "achievementDescription": "Life is full of peaks and valleys, hills and pits. When you fall into a pit, you learn a lesson, hm? Be more careful next time, yes? Don't feel too bad, though. You're getting some bonus Nook Miles for your fall.",
     "achievementCriteria": "Awarded the first time you fall into a pitfall hole",
-    "num": 56,
+    "num": 58,
     "internalId": 52,
     "internalName": "FallintoPitfall",
     "internalCategory": "Negative",
@@ -2466,10 +2183,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Reckless One"
-        ],
-        "modifiers": "Trapped"
+        "nouns": [ "Reckless One" ],
+        "modifier": "Trapped"
       }
     }
   },
@@ -2478,7 +2193,7 @@
     "name": "Faked Out!",
     "achievementDescription": "Oh my. Did you get hoodwinked? That work of art you purchased turned out to be a forgery, and it stings. Your eye for art is being tested! Yes, yes! Please take some comfort in the miles I'm giving you.",
     "achievementCriteria": "Donated a fake piece of art",
-    "num": 57,
+    "num": 59,
     "internalId": 90,
     "internalName": "DonateFake",
     "internalCategory": "Negative",
@@ -2491,10 +2206,8 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": [
-          "Fake"
-        ],
-        "modifiers": "Plausible"
+        "nouns": [ "Fake" ],
+        "modifier": "Plausible"
       }
     }
   },
@@ -2503,7 +2216,7 @@
     "name": "Lost Treasure",
     "achievementDescription": "Oh my. You popped a balloon with a skillful shot, but the attached prize fell into the water! Maybe some Nook Miles will help you recover from that sunken feeling, hm?",
     "achievementCriteria": "Awarded the first time a balloon present you shot lands in a body of water",
-    "num": 58,
+    "num": 60,
     "internalId": 80,
     "internalName": "DropPresentinWater",
     "internalCategory": "Negative",
@@ -2516,10 +2229,8 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": [
-          "Klutz"
-        ],
-        "modifiers": "Catchable"
+        "nouns": [ "Klutz" ],
+        "modifier": "Catchable"
       }
     }
   },
@@ -2528,7 +2239,7 @@
     "name": "It's Raining Treasure!",
     "achievementDescription": "No one knows who sends the gifts attached to balloons to our island, but you can earn miles by shooting them down and collecting what's inside.",
     "achievementCriteria": "Number of balloons you've shot down with a slingshot",
-    "num": 59,
+    "num": 61,
     "internalId": 5,
     "internalName": "ShootDownBalloon",
     "internalCategory": "LandMaking",
@@ -2541,42 +2252,32 @@
       "1": {
         "required": 5,
         "reward": 300,
-        "nouns": [
-          "Slingshot Ace"
-        ],
-        "modifiers": "Easy-Breezy"
+        "nouns": [ "Slingshot Ace" ],
+        "modifier": "Easy-Breezy"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": [
-          "Floaty Thing"
-        ],
-        "modifiers": "Atmospheric"
+        "nouns": [ "Floaty Thing" ],
+        "modifier": "Atmospheric"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": [
-          "Hunter"
-        ],
-        "modifiers": "Restless"
+        "nouns": [ "Hunter" ],
+        "modifier": "Restless"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": [
-          "Paradise"
-        ],
-        "modifiers": "Flying"
+        "nouns": [ "Paradise" ],
+        "modifier": "Flying"
       },
       "5": {
         "required": 300,
         "reward": 3000,
-        "nouns": [
-          "Vagabond"
-        ],
-        "modifiers": "Elusive"
+        "nouns": [ "Vagabond" ],
+        "modifier": "Elusive"
       }
     }
   },
@@ -2585,7 +2286,7 @@
     "name": "Fun with Fences",
     "achievementDescription": "You can have a wonderful yard in no time by building a fence and surrounding your home or garden. Yes, yes! Nook Inc. will award Nook Miles to skilled fence installers.",
     "achievementCriteria": "Awarded the first time you place a fence",
-    "num": 60,
+    "num": 62,
     "internalId": 89,
     "internalName": "BuildFence",
     "internalCategory": "LandMaking",
@@ -2598,10 +2299,8 @@
       "1": {
         "required": 20,
         "reward": 500,
-        "nouns": [
-          "Partitioner"
-        ],
-        "modifiers": "Efficient"
+        "nouns": [ "Partitioner" ],
+        "modifier": "Efficient"
       }
     }
   },
@@ -2610,7 +2309,7 @@
     "name": "Snowmaestro",
     "achievementDescription": "What's this? You get Nook Miles based on how many quality snowfolks you've built? That's a pretty good deal for just having a little fun in the snow.",
     "achievementCriteria": "Number of perfect snow-people you've built",
-    "num": 61,
+    "num": 63,
     "internalId": 45,
     "internalName": "MakePerfectSnowball",
     "internalCategory": "LandMaking",
@@ -2623,26 +2322,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Sprite"
-        ],
-        "modifiers": "Cold-Sensitive"
+        "nouns": [ "Sprite" ],
+        "modifier": "Cold-Sensitive"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Angel"
-        ],
-        "modifiers": "Snow"
+        "nouns": [ "Angel" ],
+        "modifier": "Snow"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": [
-          "Imp"
-        ],
-        "modifiers": "Cool"
+        "nouns": [ "Imp" ],
+        "modifier": "Cool"
       }
     }
   },
@@ -2650,8 +2343,8 @@
     "sourceSheet": "Achievements",
     "name": "Wishes Come True",
     "achievementDescription": "Were you wishing for Nook Miles the last time you saw a shooting star? Hm? Because Nook Inc. is here to grant your wish. More wishes, more miles! Yes, yes!",
-    "achievementCriteria": "Number of shooting stars you've wished on.",
-    "num": 62,
+    "achievementCriteria": "Number of shooting stars you've wished on",
+    "num": 64,
     "internalId": 85,
     "internalName": "PrayShootingStar",
     "internalCategory": "LandMaking",
@@ -2664,26 +2357,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Meteorite"
-        ],
-        "modifiers": "Late-Night"
+        "nouns": [ "Meteorite" ],
+        "modifier": "Late-Night"
       },
       "2": {
         "required": 30,
         "reward": 1000,
-        "nouns": [
-          "Legend"
-        ],
-        "modifiers": "Wishful"
+        "nouns": [ "Legend" ],
+        "modifier": "Wishful"
       },
       "3": {
         "required": 200,
         "reward": 2000,
-        "nouns": [
-          "Superstar"
-        ],
-        "modifiers": "Overnight"
+        "nouns": [ "Superstar" ],
+        "modifier": "Overnight"
       }
     }
   },
@@ -2692,7 +2379,7 @@
     "name": "Exterior Decorator",
     "achievementDescription": "You can display furniture outside, right? Well, here's a little incentive for you to show off what you've got - you'll earn Nook Miles based on the number of furniture items you set up outside.",
     "achievementCriteria": "Awarded the first time you place some furniture outside",
-    "num": 63,
+    "num": 65,
     "internalId": 64,
     "internalName": "PutFurnitureOutside",
     "internalCategory": "LandMaking",
@@ -2705,10 +2392,8 @@
       "1": {
         "required": 10,
         "reward": 300,
-        "nouns": [
-          "Decorating Fiend"
-        ],
-        "modifiers": "Outdoor-Loving"
+        "nouns": [ "Decorating Fiend" ],
+        "modifier": "Outdoor-Loving"
       }
     }
   },
@@ -2717,7 +2402,7 @@
     "name": "(island name) Icons",
     "achievementDescription": "At Resident Services, we want new ideas for the island flag and island tune. We have Nook Miles in store for those creative types who can redesign and rewrite! It's good to take pride in our island symbols.",
     "achievementCriteria": "Awarded for changing your island flag and town tune for the first time.",
-    "num": 64,
+    "num": 66,
     "internalId": 86,
     "internalName": "ChangeSymbol",
     "internalCategory": "LandMaking",
@@ -2730,18 +2415,14 @@
       "1": {
         "required": 0,
         "reward": 500,
-        "nouns": [
-          "Flag Waver"
-        ],
-        "modifiers": "Flapping"
+        "nouns": [ "Flag Waver" ],
+        "modifier": "Flapping"
       },
       "2": {
         "required": 0,
         "reward": 500,
-        "nouns": [
-          "Musician"
-        ],
-        "modifiers": "Humming"
+        "nouns": [ "Musician" ],
+        "modifier": "Humming"
       }
     }
   },
@@ -2750,7 +2431,7 @@
     "name": "Island Designer",
     "achievementDescription": "At Nook Inc. we encourage the use of the Island Designer app to liven up the island. We're giving away miles the first time you use a permit for a path, river, or cliff!",
     "achievementCriteria": "Awarded the first time you use the Island Designer app to place a path, add/remove water, and build/destroy a cliff",
-    "num": 65,
+    "num": 67,
     "internalId": 88,
     "internalName": "ModifyIsland",
     "internalCategory": "LandMaking",
@@ -2763,26 +2444,20 @@
       "1": {
         "required": 0,
         "reward": 500,
-        "nouns": [
-          "Runner"
-        ],
-        "modifiers": "Trailblazing"
+        "nouns": [ "Runner" ],
+        "modifier": "Trailblazing"
       },
       "2": {
         "required": 0,
         "reward": 1000,
-        "nouns": [
-          "Pioneer"
-        ],
-        "modifiers": "Swept-Away"
+        "nouns": [ "Pioneer" ],
+        "modifier": "Swept-Away"
       },
       "3": {
         "required": 0,
         "reward": 1000,
-        "nouns": [
-          "Creator"
-        ],
-        "modifiers": "Cliffhanging"
+        "nouns": [ "Creator" ],
+        "modifier": "Cliffhanging"
       }
     }
   },
@@ -2791,7 +2466,7 @@
     "name": "Wispy Island Secrets",
     "achievementDescription": "If you happen to encounter one of the island's secrets, maybe just keep it to yourself. We don't want to scare anyone away from here. Pretty sure that's in your island contract...",
     "achievementCriteria": "Number of times you've helped Wisp find the parts of his spirit",
-    "num": 66,
+    "num": 68,
     "internalId": 44,
     "internalName": "HelpGst",
     "internalCategory": "Communication",
@@ -2804,26 +2479,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Ghost"
-        ],
-        "modifiers": "Cowardly"
+        "nouns": [ "Ghost" ],
+        "modifier": "Cowardly"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Soul"
-        ],
-        "modifiers": "Supernatural"
+        "nouns": [ "Soul" ],
+        "modifier": "Supernatural"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": [
-          "Soul Mate"
-        ],
-        "modifiers": "Soulful"
+        "nouns": [ "Soul Mate" ],
+        "modifier": "Soulful"
       }
     }
   },
@@ -2832,7 +2501,7 @@
     "name": "Gulliver's Travails",
     "achievementDescription": "When you come across someone in trouble on the beach, you help them, setting a fine example for all the island residents. Such kindness will surely find its way back to you.",
     "achievementCriteria": "Number of times you've helped Gulliver fix his communicator",
-    "num": 67,
+    "num": 69,
     "internalId": 43,
     "internalName": "HelpGul",
     "internalCategory": "Communication",
@@ -2845,26 +2514,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Fowl"
-        ],
-        "modifiers": "Flightless"
+        "nouns": [ "Fowl" ],
+        "modifier": "Flightless"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Lost One"
-        ],
-        "modifiers": "Perennial"
+        "nouns": [ "Lost One" ],
+        "modifier": "Perennial"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": [
-          "Migratory Bird"
-        ],
-        "modifiers": "Off-Season"
+        "nouns": [ "Migratory Bird" ],
+        "modifier": "Off-Season"
       }
     }
   },
@@ -2873,7 +2536,7 @@
     "name": "K.K. Mania",
     "achievementDescription": "K.K. supports our island with his groovy brand of folk rock, so we should support him! The more K.K. shows you attend, the more Nook Miles you can earn.",
     "achievementCriteria": "Number of K.K. shows you've attended",
-    "num": 68,
+    "num": 70,
     "internalId": 17,
     "internalName": "GotoTotakekeShow",
     "internalCategory": "Communication",
@@ -2886,42 +2549,32 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Music-Lover"
-        ],
-        "modifiers": "Fickle"
+        "nouns": [ "Music-Lover" ],
+        "modifier": "Fickle"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Supporter"
-        ],
-        "modifiers": "Covert"
+        "nouns": [ "Supporter" ],
+        "modifier": "Covert"
       },
       "3": {
         "required": 30,
         "reward": 1000,
-        "nouns": [
-          "Fan"
-        ],
-        "modifiers": "Regular"
+        "nouns": [ "Fan" ],
+        "modifier": "Regular"
       },
       "4": {
         "required": 60,
         "reward": 2000,
-        "nouns": [
-          "Pop Star"
-        ],
-        "modifiers": "The Definition of"
+        "nouns": [ "Pop Star" ],
+        "modifier": "The Definition of"
       },
       "5": {
         "required": 100,
         "reward": 3000,
-        "nouns": [
-          "Follower"
-        ],
-        "modifiers": "Longtime"
+        "nouns": [ "Follower" ],
+        "modifier": "Longtime"
       }
     }
   },
@@ -2929,8 +2582,8 @@
     "sourceSheet": "Achievements",
     "name": "True Patron of the Arts",
     "achievementDescription": "Collecting artwork contributes to the cultural quality of (island name) and Nook Inc. will give miles to folks who prove themselves discerning connoisseurs.",
-    "achievementCriteria": "Number of times you purchased art that turned out to be real",
-    "num": 69,
+    "achievementCriteria": "Number of times you've purchased art that turned out to be real",
+    "num": 71,
     "internalId": 91,
     "internalName": "BuyatTsunekichiShop",
     "internalCategory": "Communication",
@@ -2943,26 +2596,55 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Seller"
-        ],
-        "modifiers": "Shady"
+        "nouns": [ "Seller" ],
+        "modifier": "Shady"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Aficionado"
-        ],
-        "modifiers": "Discerning"
+        "nouns": [ "Aficionado" ],
+        "modifier": "Discerning"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": [
-          "Artistic Statement"
-        ],
-        "modifiers": "Bold"
+        "nouns": [ "Artistic Statement" ],
+        "modifier": "Bold"
+      }
+    }
+  },
+  {
+    "sourceSheet": "Achievements",
+    "name": "You Otter Know",
+    "achievementDescription": "If you meet a laid-back fellow floating in the sea, consider sharing some of your scallops with him. You never know what you might learn in return...and a little gift never hurts either!",
+    "achievementCriteria": "Number of times you've given scallops to Pascal",
+    "num": 72,
+    "internalId": 96,
+    "internalName": "GiveScallopsToSeo",
+    "internalCategory": "Communication",
+    "numOfTiers": "3",
+    "sequential": true,
+    "versionAdded": "1.3.0",
+    "uniqueEntryId": "3MuQkFrRQLkSioSDh",
+    "translations": null,
+    "tiers": {
+      "1": {
+        "required": "1",
+        "reward": "300",
+        "nouns": [ "Cynic" ],
+        "modifier": "Kind"
+      },
+      "2": {
+        "required": "10",
+        "reward": "500",
+        "nouns": [ "Philosopher" ],
+        "modifier": "Hungry"
+      },
+      "3": {
+        "required": "20",
+        "reward": "1000",
+        "nouns": [ "Existentialist" ],
+        "modifier": "Oceanic"
       }
     }
   },
@@ -2971,7 +2653,7 @@
     "name": "True Friends",
     "achievementDescription": "It's good news for Nook Inc. when island residents get along. Good relationships are a cornerstone of island development!",
     "achievementCriteria": "Number of villagers you've become good friends with",
-    "num": 70,
+    "num": 73,
     "internalId": 54,
     "internalName": "BeFriendwithVillager",
     "internalCategory": "Communication",
@@ -2984,26 +2666,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Pal"
-        ],
-        "modifiers": "Soothing"
+        "nouns": [ "Pal" ],
+        "modifier": "Soothing"
       },
       "2": {
         "required": 2,
         "reward": 500,
-        "nouns": [
-          "Buddy"
-        ],
-        "modifiers": "Friendly"
+        "nouns": [ "Buddy" ],
+        "modifier": "Friendly"
       },
       "3": {
         "required": 3,
         "reward": 1000,
-        "nouns": [
-          "Seeker"
-        ],
-        "modifiers": "Friendship"
+        "nouns": [ "Seeker" ],
+        "modifier": "Friendship"
       }
     }
   },
@@ -3012,7 +2688,7 @@
     "name": "Birthday Celebration",
     "achievementDescription": "Celebrating the birthday of a fellow resident is a wonderful thing. Nook Inc. will commemorate your bond with some party-favor Nook Miles.",
     "achievementCriteria": "Number of villager birthdays you've attended",
-    "num": 71,
+    "num": 74,
     "internalId": 47,
     "internalName": "CelebrateVillagersBithday",
     "internalCategory": "Communication",
@@ -3025,26 +2701,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Party Animal"
-        ],
-        "modifiers": "Untamed"
+        "nouns": [ "Party Animal" ],
+        "modifier": "Untamed"
       },
       "2": {
         "required": 10,
         "reward": 500,
-        "nouns": [
-          "Youth"
-        ],
-        "modifiers": "Growing"
+        "nouns": [ "Youth" ],
+        "modifier": "Growing"
       },
       "3": {
         "required": 20,
         "reward": 1000,
-        "nouns": [
-          "Adult"
-        ],
-        "modifiers": "Grown"
+        "nouns": [ "Adult" ],
+        "modifier": "Grown"
       }
     }
   },
@@ -3053,7 +2723,7 @@
     "name": "Happy Birthday!",
     "achievementDescription": "Happy birthday to you!\nTake some Nook Miles, woo-hoo!\nHappy birthday to you-oo!\nTake some Nook Miles, woo-hoo!\n(Get yourself something nice.)",
     "achievementCriteria": "Awarded the first time you play on your character's birthday",
-    "num": 72,
+    "num": 75,
     "internalId": 46,
     "internalName": "ReachMyBirthday",
     "internalCategory": "Event",
@@ -3070,7 +2740,7 @@
           "Birthday Boy",
           "Birthday Girl"
         ],
-        "modifiers": "Celebratory"
+        "modifier": "Celebratory"
       }
     }
   },
@@ -3079,7 +2749,7 @@
     "name": "Fishing Tourney!",
     "achievementDescription": "Please participate in the Fishing Tourney, which is held every spring, summer, fall, and winter! I'll give you nook miles as a reward the first time you participate each season.",
     "achievementCriteria": "Awarded the first time you attend a fishing tourney in each season",
-    "num": 73,
+    "num": 76,
     "internalId": 41,
     "internalName": "AttendFishingConvention",
     "internalCategory": "Fish",
@@ -3092,34 +2762,26 @@
       "1": {
         "required": 0,
         "reward": 300,
-        "nouns": [
-          "Free Spirit"
-        ],
-        "modifiers": "Spring-Born"
+        "nouns": [ "Free Spirit" ],
+        "modifier": "Spring-Born"
       },
       "2": {
         "required": 0,
         "reward": 500,
-        "nouns": [
-          "Chiller"
-        ],
-        "modifiers": "Summer-Born"
+        "nouns": [ "Chiller" ],
+        "modifier": "Summer-Born"
       },
       "3": {
         "required": 0,
         "reward": 1000,
-        "nouns": [
-          "Free-Wheeler"
-        ],
-        "modifiers": "Fall-Born"
+        "nouns": [ "Free-Wheeler" ],
+        "modifier": "Fall-Born"
       },
       "4": {
         "required": 0,
         "reward": 2000,
-        "nouns": [
-          "Overheater"
-        ],
-        "modifiers": "Winter-Born"
+        "nouns": [ "Overheater" ],
+        "modifier": "Winter-Born"
       }
     }
   },
@@ -3128,7 +2790,7 @@
     "name": "Bug-Off!",
     "achievementDescription": "What's the summer event to look forward to? That's right...the Bug-Off! Nook Inc. will give you Nook Miles for participating, so by all means, join the fun!",
     "achievementCriteria": "Awarded the first time you attend a bug-off tourney in each season",
-    "num": 74,
+    "num": 77,
     "internalId": 42,
     "internalName": "AttendInsectConvention",
     "internalCategory": "Insect",
@@ -3141,34 +2803,26 @@
       "1": {
         "required": 0,
         "reward": 300,
-        "nouns": [
-          "Youngster"
-        ],
-        "modifiers": "Adolescent"
+        "nouns": [ "Youngster" ],
+        "modifier": "Adolescent"
       },
       "2": {
         "required": 0,
         "reward": 500,
-        "nouns": [
-          "Rebel"
-        ],
-        "modifiers": "Rebellious"
+        "nouns": [ "Rebel" ],
+        "modifier": "Rebellious"
       },
       "3": {
         "required": 0,
         "reward": 1000,
-        "nouns": [
-          "Lone Wolf"
-        ],
-        "modifiers": "Solitary"
+        "nouns": [ "Lone Wolf" ],
+        "modifier": "Solitary"
       },
       "4": {
         "required": 0,
         "reward": 2000,
-        "nouns": [
-          "Individual"
-        ],
-        "modifiers": "Standoffish"
+        "nouns": [ "Individual" ],
+        "modifier": "Standoffish"
       }
     }
   },
@@ -3177,7 +2831,7 @@
     "name": "Countdown Celebration",
     "achievementDescription": "The only thing better than ringing in the new year is ringing in the new year with some Nook Miles! May you live to see many more-years and miles!",
     "achievementCriteria": "Awarded for attending the new year holiday event",
-    "num": 75,
+    "num": 78,
     "internalId": 48,
     "internalName": "AttendCountdownParty",
     "internalCategory": "Event",
@@ -3190,10 +2844,8 @@
       "1": {
         "required": 1,
         "reward": 1000,
-        "nouns": [
-          "Merrymaker"
-        ],
-        "modifiers": "Countdown"
+        "nouns": [ "Merrymaker" ],
+        "modifier": "Countdown"
       }
     }
   },
@@ -3202,7 +2854,7 @@
     "name": "Making a Change",
     "achievementDescription": "A closet is a must-have item for a fashion trendsetter. I'll offer Nook Miles to anyone who has a closet and changes outfits, thereby increasing the chances of an island fashion trend catching on.",
     "achievementCriteria": "Awarded the first time you use a wardrobe to change your character's outfit",
-    "num": 76,
+    "num": 79,
     "internalId": 84,
     "internalName": "UseCloset",
     "internalCategory": "MyDesign",
@@ -3215,10 +2867,8 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": [
-          "Model"
-        ],
-        "modifiers": "Trendy"
+        "nouns": [ "Model" ],
+        "modifier": "Trendy"
       }
     }
   },
@@ -3227,7 +2877,7 @@
     "name": "First Custom Design!",
     "achievementDescription": "Learning how to use the Custom Design app lets you personalize your clothes and furniture. So much fun to be had, yes, yes!",
     "achievementCriteria": "Awarded the first time you use the Custom Design app to edit or create a design",
-    "num": 77,
+    "num": 80,
     "internalId": 35,
     "internalName": "UseMydesign",
     "internalCategory": "MyDesign",
@@ -3240,10 +2890,8 @@
       "1": {
         "required": 1,
         "reward": 500,
-        "nouns": [
-          "Artist"
-        ],
-        "modifiers": "Aspiring"
+        "nouns": [ "Artist" ],
+        "modifier": "Aspiring"
       }
     }
   },
@@ -3252,7 +2900,7 @@
     "name": "Custom Design Pro!",
     "achievementDescription": "You upgraded to the Pro version of the Custom Design app, hm? That makes you a fine Pro Custom Designer. Yes, yes! I'll reward you with Nook Miles to commemorate your Pro debut!",
     "achievementCriteria": "Awarded the first time you use the Custom Design pro app to edit or create a design",
-    "num": 78,
+    "num": 81,
     "internalId": 36,
     "internalName": "UseMydesignPRO",
     "internalCategory": "MyDesign",
@@ -3265,10 +2913,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Designer"
-        ],
-        "modifiers": "Pro"
+        "nouns": [ "Designer" ],
+        "modifier": "Pro"
       }
     }
   },
@@ -3277,7 +2923,7 @@
     "name": "Paydirt!",
     "achievementDescription": "I'll bet you didn't think you'd find buried Bells here, hm? But this is an island, after all. Buried treasure and whatnot. Enjoy some Nook Miles from Nook Inc. to celebrate your discovery.",
     "achievementCriteria": "Awarded the first time you dig up bells from a shining spot",
-    "num": 79,
+    "num": 82,
     "internalId": 60,
     "internalName": "DigBell",
     "internalCategory": "Money",
@@ -3290,10 +2936,8 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Type"
-        ],
-        "modifiers": "Lucky"
+        "nouns": [ "Type" ],
+        "modifier": "Lucky"
       }
     }
   },
@@ -3302,7 +2946,7 @@
     "name": "Shady Shakedown",
     "achievementDescription": "Rumor has it that someone on this island likes to hide furniture in trees. Yes, yes! I'll give you Nook Miles based on the number of furniture items you shake out of trees. So get out of there and shake!",
     "achievementCriteria": "Number of furniture pieces you've found from shaking trees",
-    "num": 80,
+    "num": 83,
     "internalId": 79,
     "internalName": "FallFurnitureLeaf",
     "internalCategory": "Plant",
@@ -3315,42 +2959,32 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Figure"
-        ],
-        "modifiers": "Carefree"
+        "nouns": [ "Figure" ],
+        "modifier": "Carefree"
       },
       "2": {
         "required": 10,
         "reward": 1000,
-        "nouns": [
-          "Brute"
-        ],
-        "modifiers": "Jovial"
+        "nouns": [ "Brute" ],
+        "modifier": "Jovial"
       },
       "3": {
         "required": 20,
         "reward": 2000,
-        "nouns": [
-          "Gifted One"
-        ],
-        "modifiers": "Spirited"
+        "nouns": [ "Gifted One" ],
+        "modifier": "Spirited"
       },
       "4": {
         "required": 50,
         "reward": 3000,
-        "nouns": [
-          "Outlaw"
-        ],
-        "modifiers": "Factual"
+        "nouns": [ "Outlaw" ],
+        "modifier": "Factual"
       },
       "5": {
         "required": 100,
         "reward": 5000,
-        "nouns": [
-          "Statement"
-        ],
-        "modifiers": "Inspirational"
+        "nouns": [ "Statement" ],
+        "modifier": "Inspirational"
       }
     }
   },
@@ -3359,7 +2993,7 @@
     "name": "Golden Milestone",
     "achievementDescription": "If your tools are glinting gold, your account will be bursting with Bells soon enough. The paths to these tools are varied and secret, but you will have earned some Nook Miles for collecting them all.",
     "achievementCriteria": "Awarded for each unique golden tool you've equipped (shovel, net, fishing rod, watering can, axe, and slingshot)",
-    "num": 81,
+    "num": 84,
     "internalId": 39,
     "internalName": "CollectGoldTool",
     "internalCategory": "HHA",
@@ -3372,52 +3006,38 @@
       "1": {
         "required": 0,
         "reward": 300,
-        "nouns": [
-          "Jewel"
-        ],
-        "modifiers": "Shining"
+        "nouns": [ "Jewel" ],
+        "modifier": "Shining"
       },
       "2": {
         "required": 0,
         "reward": 500,
-        "nouns": [
-          "Luminary"
-        ],
-        "modifiers": "Top-Notch"
+        "nouns": [ "Luminary" ],
+        "modifier": "Top-Notch"
       },
       "3": {
         "required": 0,
         "reward": 1000,
-        "nouns": [
-          "Miracle"
-        ],
-        "modifiers": "Ultimate"
+        "nouns": [ "Miracle" ],
+        "modifier": "Ultimate"
       },
       "4": {
         "required": 0,
         "reward": 2000,
-        "nouns": [
-          "Prince",
-          "Princess"
-        ],
-        "modifiers": "Royal"
+        "nouns": [ "Prince", "Princess" ],
+        "modifier": "Royal"
       },
       "5": {
         "required": 0,
         "reward": 3000,
-        "nouns": [
-          "Emperor",
-          "Empress"
-        ],
-        "modifiers": "Glittering"
+        "nouns": [ "Emperor", "Empress" ],
+        "modifier": "Glittering"
       },
       "6": {
         "required": 0,
         "reward": 5000,
-        "nouns": [
-          "Supreme Being"
-        ],
-        "modifiers": "Radiant"
+        "nouns": [ "Supreme Being" ],
+        "modifier": "Radiant"
       }
     }
   },
@@ -3426,7 +3046,7 @@
     "name": "Island and Yourland",
     "achievementDescription": "Support your neighboring islands with a visit now and again. The more you visit, the more Nook Miles you can earn! Here at Nook Inc. we like to reward your adventurous spirit, hm?",
     "achievementCriteria": "Number of times you've visited another player's island (does not count mystery islands using Nook Miles Tickets)",
-    "num": 82,
+    "num": 85,
     "internalId": 18,
     "internalName": "VisitAnotherIsland",
     "internalCategory": "Communication",
@@ -3439,26 +3059,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Person"
-        ],
-        "modifiers": "Traveling"
+        "nouns": [ "Person" ],
+        "modifier": "Traveling"
       },
       "2": {
         "required": 5,
         "reward": 500,
-        "nouns": [
-          "Tourist"
-        ],
-        "modifiers": "Occasional"
+        "nouns": [ "Tourist" ],
+        "modifier": "Occasional"
       },
       "3": {
         "required": 10,
         "reward": 1000,
-        "nouns": [
-          "Wanderer"
-        ],
-        "modifiers": "Global"
+        "nouns": [ "Wanderer" ],
+        "modifier": "Global"
       }
     }
   },
@@ -3467,7 +3081,7 @@
     "name": "Host the Most",
     "achievementDescription": "To encourage you to invite plenty of guests to the island, we're offering miles as an incentive. The more the merrier - and that goes for Nook Miles too!",
     "achievementCriteria": "Number of other players that have visited your island",
-    "num": 83,
+    "num": 86,
     "internalId": 19,
     "internalName": "InviteFriend",
     "internalCategory": "Communication",
@@ -3480,26 +3094,20 @@
       "1": {
         "required": 1,
         "reward": 300,
-        "nouns": [
-          "Friend"
-        ],
-        "modifiers": "Hospitable"
+        "nouns": [ "Friend" ],
+        "modifier": "Hospitable"
       },
       "2": {
         "required": 5,
         "reward": 500,
-        "nouns": [
-          "Chum"
-        ],
-        "modifiers": "Lonely"
+        "nouns": [ "Chum" ],
+        "modifier": "Lonely"
       },
       "3": {
         "required": 10,
         "reward": 1000,
-        "nouns": [
-          "Partier"
-        ],
-        "modifiers": "Well-Known"
+        "nouns": [ "Partier" ],
+        "modifier": "Well-Known"
       }
     }
   },
@@ -3508,7 +3116,7 @@
     "name": "Active Island Resident",
     "achievementDescription": "Life on the island has lots of promise, hm? To illustrate this, I'll reward you some Nook Miles based on the number of active days you've spent here. Please take them and enjoy them.",
     "achievementCriteria": "Number of total unique days you've played the game",
-    "num": 84,
+    "num": 87,
     "internalId": 21,
     "internalName": "DayPlayed",
     "internalCategory": "Event",
@@ -3521,42 +3129,32 @@
       "1": {
         "required": 3,
         "reward": 300,
-        "nouns": [
-          "Chill Soul"
-        ],
-        "modifiers": "Self-Paced"
+        "nouns": [ "Chill Soul" ],
+        "modifier": "Self-Paced"
       },
       "2": {
         "required": 20,
         "reward": 500,
-        "nouns": [
-          "Specialist"
-        ],
-        "modifiers": "Active"
+        "nouns": [ "Specialist" ],
+        "modifier": "Active"
       },
       "3": {
         "required": 50,
         "reward": 1000,
-        "nouns": [
-          "Adventurer"
-        ],
-        "modifiers": "Sleepless"
+        "nouns": [ "Adventurer" ],
+        "modifier": "Sleepless"
       },
       "4": {
         "required": 100,
         "reward": 2000,
-        "nouns": [
-          "Gamer"
-        ],
-        "modifiers": "Nicknamed"
+        "nouns": [ "Gamer" ],
+        "modifier": "Nicknamed"
       },
       "5": {
         "required": 300,
         "reward": 3000,
-        "nouns": [
-          "MVP"
-        ],
-        "modifiers": "Ready-Made"
+        "nouns": [ "MVP" ],
+        "modifier": "Ready-Made"
       }
     }
   }
