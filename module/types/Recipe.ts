@@ -6,7 +6,7 @@ export interface Recipe {
     milesPrice:            number | null;
     sourceNotes:           null | string;
     versionAdded:          Version;
-    versionUnlocked:       VersionUnlocked;
+    versionUnlocked:       Version;
     recipesToUnlock:       number;
     category:              Category;
     craftedItemInternalId: number;
@@ -37,21 +37,14 @@ export enum CardColor {
 }
 
 export enum Category {
-    Accessories = "Accessories",
-    Bags = "Bags",
-    Bottoms = "Bottoms",
     DressUp = "Dress-Up",
-    Fencing = "Fencing",
+    Equipment = "Equipment",
     Floors = "Floors",
-    Headwear = "Headwear",
     Housewares = "Housewares",
     Miscellaneous = "Miscellaneous",
     Other = "Other",
     Rugs = "Rugs",
-    Shoes = "Shoes",
     Tools = "Tools",
-    Tops = "Tops",
-    Umbrellas = "Umbrellas",
     WallMounted = "Wall-mounted",
     Wallpaper = "Wallpaper",
 }
@@ -105,12 +98,8 @@ export enum TranslationsSourceSheet {
 export enum Version {
     The100 = "1.0.0",
     The110 = "1.1.0",
-    The120 = "1.2.0",
-}
-
-export enum VersionUnlocked {
-    The100 = "1.0.0",
     The110A = "1.1.0a",
     The120 = "1.2.0",
     The121C = "1.2.1c",
+    The130 = "1.3.0",
 }

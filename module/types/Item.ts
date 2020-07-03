@@ -1,13 +1,13 @@
 export interface Item {
     sourceSheet:           Category;
     name:                  string;
-    closetImage?:          string;
+    closetImage?:          null | string;
     storageImage?:         null | string;
     variation?:            null;
     diy?:                  boolean;
     buy:                   number;
     sell:                  number | null;
-    hhaBasePoints?:        number;
+    hhaBasePoints?:        number | null;
     size?:                 Size;
     milesPrice?:           number | null;
     sourceNotes?:          null | string;
@@ -18,7 +18,7 @@ export interface Item {
     sortOrder?:            number;
     type?:                 Type;
     villagerEquippable?:   boolean;
-    catalog?:              Catalog;
+    catalog?:              boolean | CatalogEnum;
     filename?:             string;
     internalId?:           number;
     uniqueEntryId?:        string;
@@ -26,7 +26,7 @@ export interface Item {
     translations:          ItemTranslations | null;
     colors?:               Color[];
     styles?:               Style[];
-    sources?:              string[];
+    sources:               string[];
     themes?:               Theme[];
     recipe:                Recipe | null;
     variations?:           VariationElement[];
@@ -37,7 +37,6 @@ export interface Item {
     realArtworkTitle?:     string;
     artist?:               string;
     museumDescription?:    string;
-    hhaBaseScore?:         number;
     interact?:             boolean | InteractEnum;
     tag?:                  null | string;
     speakerType?:          SpeakerType | null;
@@ -45,7 +44,6 @@ export interface Item {
     concepts?:             Concept[];
     set?:                  ItemSet | null;
     series?:               Series | null;
-    baseHhaScore?:         number;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape;
     stackSize?:            number;
@@ -74,10 +72,10 @@ export interface Item {
     paneType?:             PaneType | null;
     curtainType?:          CurtainType | null;
     curtainColor?:         null | string;
-    ceilingType?:          CeilingType;
+    ceilingType?:          CeilingType | null;
 }
 
-export enum Catalog {
+export enum CatalogEnum {
     ForSale = "For sale",
     NotForSale = "Not for sale",
     NotInCatalog = "Not in catalog",
@@ -88,7 +86,9 @@ export enum Category {
     Art = "Art",
     Bags = "Bags",
     Bottoms = "Bottoms",
+    ClothingOther = "Clothing Other",
     DressUp = "Dress-Up",
+    Equipment = "Equipment",
     Fencing = "Fencing",
     Floors = "Floors",
     Fossils = "Fossils",
@@ -152,6 +152,7 @@ export enum Concept {
     Kitchen = "kitchen",
     LivingRoom = "living room",
     Music = "music",
+    None = "none",
     Ocean = "ocean",
     Office = "office",
     Outdoors = "outdoors",
@@ -229,6 +230,7 @@ export enum PrimaryShape {
     Box = "Box",
     Dress = "Dress",
     Kimono = "Kimono",
+    Marinesuit = "Marinesuit",
     Overall = "Overall",
     Rib = "Rib",
     Robe = "Robe",
@@ -317,6 +319,7 @@ export enum TranslationsSourceSheet {
     Fossils = "Fossils",
     Furniture = "Furniture",
     KKAlbums = "K.K. Albums",
+    MarineSuit = "Marine Suit",
     Masks = "Masks",
     Pictures = "Pictures",
     Plants = "Plants",
@@ -339,6 +342,7 @@ export enum Version {
     The120A = "1.2.0a",
     The120B = "1.2.0b",
     The121C = "1.2.1c",
+    The130 = "1.3.0",
 }
 
 export enum SeasonalAvailability {
@@ -371,8 +375,10 @@ export enum Series {
     Iron = "iron",
     Ironwood = "ironwood",
     Log = "log",
+    Mermaid = "mermaid",
     Motherly = "motherly",
     Mush = "mush",
+    Pirate = "pirate",
     Rattan = "rattan",
     Shell = "shell",
     Stars = "stars",
@@ -482,6 +488,7 @@ export interface ItemTranslations {
 export enum Type {
     AcceEyeMouth = "AcceEyeMouth",
     AccessoryEye = "AccessoryEye",
+    AccessoryEyeMouth = "AccessoryEyeMouth",
     AccessoryEyeMouthInvisibleNose = "AccessoryEyeMouthInvisibleNose",
     AccessoryMouth = "AccessoryMouth",
     AccessoryMouthEarJaw = "AccessoryMouthEarJaw",
@@ -569,12 +576,12 @@ export enum VariantID {
 }
 
 export interface VariationElement {
-    closetImage?:          string;
-    storageImage?:         string;
+    closetImage?:          null | string;
+    storageImage?:         null | string;
     variation:             number | null | string;
-    hhaBasePoints?:        number;
+    hhaBasePoints:         number | null;
     seasonalAvailability?: SeasonalAvailability;
-    mannequinPiece?:       boolean;
+    mannequinPiece?:       boolean | null;
     sortOrder?:            number;
     type?:                 Type;
     villagerEquippable?:   boolean;
@@ -583,11 +590,6 @@ export interface VariationElement {
     uniqueEntryId:         string;
     variantTranslations:   Translations | null;
     colors:                Color[];
-    styles?:               Style[];
-    sources:               Source[];
-    themes?:               Theme[];
-    hhaBaseScore?:         number;
-    baseHhaScore?:         number;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
     image?:                string;
@@ -664,30 +666,7 @@ export enum VariationSet {
     Pet = "pet",
     School = "school",
     Standee = "standee",
-    Writing = "writing",
-}
-
-export enum Source {
-    AbleSisters = "Able Sisters",
-    Birthday = "Birthday",
-    BugOff = "Bug-Off",
-    Crafting = "Crafting",
-    Cyrus = "Cyrus",
-    DodoAirlines = "Dodo Airlines",
-    FishingTourney = "Fishing Tourney",
-    Gulliver = "Gulliver",
-    HighFriendship = "High Friendship",
-    Kicks = "Kicks",
-    Labelle = "Labelle",
-    MOM = "Mom",
-    NewYearSEve = "New Year's Eve",
-    Nintendo = "Nintendo",
-    NookMilesShop = "Nook Miles Shop",
-    NookSCranny = "Nook's Cranny",
-    NookShopping = "Nook Shopping",
-    NookShoppingPromotion = "Nook Shopping Promotion",
-    RecycleBin = "Recycle bin",
-    StartingItems = "Starting items",
+    Study = "study",
 }
 
 export enum VfxType {

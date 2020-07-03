@@ -2,20 +2,20 @@ export interface Creature {
     sourceSheet:          CreatureSourceSheet;
     num:                  number;
     name:                 string;
-    iconImage:            string;
-    critterpediaImage:    string;
-    furnitureImage:       string;
-    size:                 Size;
-    surface:              boolean;
+    iconImage:            null | string;
+    critterpediaImage:    null | string;
+    furnitureImage:       null | string;
     sell:                 number;
-    whereHow:             string;
-    shadow?:              string;
+    whereHow?:            string;
+    shadow?:              null | string;
     totalCatchesToUnlock: number;
     spawnRates:           string;
     rainSnowCatchUp?:     boolean;
-    hhaBaseScore:         number;
+    size:                 Size;
+    surface:              boolean;
+    hhaBasePoints:        number | null;
     lightingType?:        LightingType | null;
-    iconFilename:         string;
+    iconFilename:         null | string;
     critterpediaFilename: string;
     furnitureFilename:    string;
     internalId:           number;
@@ -67,6 +67,7 @@ export enum Size {
 export enum CreatureSourceSheet {
     Fish = "Fish",
     Insects = "Insects",
+    SeaCreatures = "Sea Creatures",
 }
 
 export interface Translations {
@@ -94,10 +95,12 @@ export interface Translations {
 export enum TranslationsSourceSheet {
     Bugs = "Bugs",
     Fish = "Fish",
+    SeaCreatures = "Sea Creatures",
 }
 
 export enum Version {
     The100 = "1.0.0",
+    The130 = "1.3.0",
 }
 
 export enum Weather {

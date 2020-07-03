@@ -15,7 +15,7 @@ export interface Translation {
     chineseTraditional: string;
     japanese:           string;
     korean:             string;
-    russian?:           string;
+    russian:            null | string;
     plural:             boolean;
     internalIds:        Array<number | string>;
     variantId?:         number;
@@ -54,12 +54,14 @@ export enum SourceSheet {
     HouseRoof = "House Roof",
     HouseWall = "House Wall",
     KKAlbums = "K.K. Albums",
+    MarineSuit = "Marine Suit",
     Masks = "Masks",
     Pictures = "Pictures",
     Plants = "Plants",
     Posters = "Posters",
     Reactions = "Reactions",
     Rugs = "Rugs",
+    SeaCreatures = "Sea Creatures",
     Shells = "Shells",
     Shoes = "Shoes",
     Socks = "Socks",
@@ -76,4 +78,5 @@ export enum Version {
     The100 = "1.0.0",
     The110 = "1.1.0",
     The120 = "1.2.0",
+    The130 = "1.3.0",
 }
