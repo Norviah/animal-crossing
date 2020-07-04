@@ -4,6 +4,7 @@ import { directories } from '../util/directories';
 import { files } from '../util/category';
 import { get } from '../util/get';
 import { separate } from '../util/separate';
+import { timeArray } from '../util/timeArray';
 import { write } from '../util/write';
 
 // In Animal Crossing, creatures such as fish and bugs are available for certain
@@ -107,12 +108,20 @@ function hemisphere(creature: obj): obj {
     // time, splitting it as creatures may have more than one time span.
     const time: string[] = separate(Object.values(valid)[0], ';');
 
+    // Next, we'll get an array representing the consecutive hours of when the
+    // creature is available, for each time span.
+    let timespan: number[] | number[][] = time.map((time: string) => timeArray(time));
+
+    // The array will result into a 2 level deep array, if the creature has only
+    // one time span, then we'll set the array to the first level.
+    timespan = timespan.length === 1 ? timespan.flat() : timespan;
+
     // In order to get the number of each month that the creature is available
     // in, we'll get the index of each month from the global months container
     // and add one as arrays are indexed off of zero.
     const monthArray: number[] = Object.keys(valid).map((month: string) => monthsArray.indexOf(month) + 1);
 
-    hemispheres[hemisphere] = { time, months: activeMonths(months), monthsArray: monthArray };
+    hemispheres[hemisphere] = { time, timeArray: timespan, months: activeMonths(months), monthsArray: monthArray };
   }
 
   return hemispheres;
@@ -130,5 +139,5 @@ for (const file of files('Creatures', directories.sanitized)) {
     }
   }
 
-  write(file, creatures);
+  write(file, creatures, 120);
 }
