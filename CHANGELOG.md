@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/Norviah/animal-crossing/compare/v3.0.0...v4.0.0) (2020-07-04)
+
+
+### Features
+
+* **creatures:** added an array to represent the consecutive hours that a creature is available ([1f1553d](https://github.com/Norviah/animal-crossing/commit/1f1553ddaf56b765711f1cc0be591522f7bc6692))
+* **creatures:** added an array to represent the consecutive months that a creature is available for each hemisphere ([350931d](https://github.com/Norviah/animal-crossing/commit/350931d4caf1d523855ebd967fcf9a9c74d900d3))
+* **items:** changed the value 'Not in catalog' to null ([18dc317](https://github.com/Norviah/animal-crossing/commit/18dc317e0eb69410579d8fdbf639fcee82b2c3e9))
+
 ## [3.0.0](https://github.com/Norviah/animal-crossing/compare/v2.0.0...v3.0.0) (2020-07-03)
 
 
