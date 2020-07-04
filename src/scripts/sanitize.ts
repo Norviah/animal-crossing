@@ -26,6 +26,7 @@ const replace: obj = {
   '': null,
   '—': null,
   'No lighting': null,
+  'Not in catalog': null,
   'Does not play music': null,
 };
 
