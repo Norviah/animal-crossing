@@ -9,6 +9,8 @@
 * [Color](../enums/_creature_.color.md)
 * [CreatureSourceSheet](../enums/_creature_.creaturesourcesheet.md)
 * [LightingType](../enums/_creature_.lightingtype.md)
+* [MovementSpeed](../enums/_creature_.movementspeed.md)
+* [Shadow](../enums/_creature_.shadow.md)
 * [Size](../enums/_creature_.size.md)
 * [TranslationsSourceSheet](../enums/_creature_.translationssourcesheet.md)
 * [Version](../enums/_creature_.version.md)

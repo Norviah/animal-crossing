@@ -8,7 +8,6 @@
 
 * [ForSale](_item_.catalogenum.md#forsale)
 * [NotForSale](_item_.catalogenum.md#notforsale)
-* [NotInCatalog](_item_.catalogenum.md#notincatalog)
 
 ## Enumeration members
 
@@ -16,7 +15,7 @@
 
 • **ForSale**: = "For sale"
 
-*Defined in [Item.ts:79](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Item.ts#L79)*
+*Defined in [Item.ts:79](https://github.com/Norviah/animal-crossing/blob/18dc317/module/types/Item.ts#L79)*
 
 ___
 
@@ -24,12 +23,4 @@ ___
 
 • **NotForSale**: = "Not for sale"
 
-*Defined in [Item.ts:80](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Item.ts#L80)*
-
-___
-
-###  NotInCatalog
-
-• **NotInCatalog**: = "Not in catalog"
-
-*Defined in [Item.ts:81](https://github.com/Norviah/animal-crossing/blob/a6bd02a/module/types/Item.ts#L81)*
+*Defined in [Item.ts:80](https://github.com/Norviah/animal-crossing/blob/18dc317/module/types/Item.ts#L80)*
