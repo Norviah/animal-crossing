@@ -5831,8 +5831,8 @@
   {
     "SourceSheet": "Shoes",
     "Name": "mermaid shoes",
-    "Closet Image": "",
-    "Storage Image": "",
+    "Closet Image": "=IMAGE(\"https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutMermaid0.png\")",
+    "Storage Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ShoesLowcutMermaid0.png\")",
     "Variation": "Pink",
     "DIY": "No",
     "Buy": "NFS",
@@ -5860,8 +5860,8 @@
   {
     "SourceSheet": "Shoes",
     "Name": "mermaid shoes",
-    "Closet Image": "",
-    "Storage Image": "",
+    "Closet Image": "=IMAGE(\"https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutMermaid1.png\")",
+    "Storage Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ShoesLowcutMermaid1.png\")",
     "Variation": "Light blue",
     "DIY": "No",
     "Buy": "NFS",
@@ -6701,8 +6701,8 @@
   {
     "SourceSheet": "Shoes",
     "Name": "pirate boots",
-    "Closet Image": "",
-    "Storage Image": "",
+    "Closet Image": "=IMAGE(\"https://acnhcdn.com/latest/ClosetIcon/ShoesKneePirates0.png\")",
+    "Storage Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ShoesKneePirates0.png\")",
     "Variation": "NA",
     "DIY": "No",
     "Buy": "NFS",

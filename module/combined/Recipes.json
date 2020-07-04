@@ -76,10 +76,7 @@
       "plural": false,
       "internalIds": [ 383 ]
     },
-    "materials": {
-      "softwood": 8,
-      "iron nugget": 3
-    },
+    "materials": { "softwood": 8, "iron nugget": 3 },
     "sources": [ "Smug villagers" ]
   },
   {
@@ -160,10 +157,7 @@
       "internalIds": [ 4134 ]
     },
     "materials": { "apple": 10, "wood": 4 },
-    "sources": [
-      "Big Sister villagers",
-      "Tom Nook"
-    ]
+    "sources": [ "Big Sister villagers", "Tom Nook" ]
   },
   {
     "sourceSheet": "Recipes",
@@ -447,12 +441,7 @@
       "plural": false,
       "internalIds": [ 5954 ]
     },
-    "materials": {
-      "star fragment": 3,
-      "Aries fragment": 2,
-      "gold nugget": 1,
-      "stone": 5
-    },
+    "materials": { "star fragment": 3, "Aries fragment": 2, "gold nugget": 1, "stone": 5 },
     "sources": [ "Celeste" ]
   },
   {
@@ -572,10 +561,7 @@
       "plural": false,
       "internalIds": [ 1439 ]
     },
-    "materials": {
-      "star fragment": 5,
-      "stone": 10
-    },
+    "materials": { "star fragment": 5, "stone": 10 },
     "sources": [ "Celeste" ]
   },
   {
@@ -615,10 +601,7 @@
       "plural": false,
       "internalIds": [ 1445 ]
     },
-    "materials": {
-      "star fragment": 5,
-      "iron nugget": 5
-    },
+    "materials": { "star fragment": 5, "iron nugget": 5 },
     "sources": [ "Celeste" ]
   },
   {
@@ -658,11 +641,7 @@
       "plural": false,
       "internalIds": [ 4905 ]
     },
-    "materials": {
-      "maple leaf": 10,
-      "wood": 5,
-      "clump of weeds": 5
-    },
+    "materials": { "maple leaf": 10, "wood": 5, "clump of weeds": 5 },
     "sources": [ "Balloons" ]
   },
   {
@@ -702,11 +681,7 @@
       "plural": false,
       "internalIds": [ 2100 ]
     },
-    "materials": {
-      "flimsy axe": 1,
-      "wood": 3,
-      "iron nugget": 1
-    },
+    "materials": { "flimsy axe": 1, "wood": 3, "iron nugget": 1 },
     "sources": [ "Pretty Good Tools Recipes" ]
   },
   {
@@ -946,10 +921,7 @@
       "plural": false,
       "internalIds": [ 4093 ]
     },
-    "materials": {
-      "bamboo piece": 3,
-      "softwood": 2
-    },
+    "materials": { "bamboo piece": 3, "softwood": 2 },
     "sources": [ "Jock villagers" ]
   },
   {
@@ -1189,10 +1161,7 @@
       "plural": false,
       "internalIds": [ 5979 ]
     },
-    "materials": {
-      "young spring bamboo": 7,
-      "wood": 3
-    },
+    "materials": { "young spring bamboo": 7, "wood": 3 },
     "sources": [ "Balloons", "Isabelle" ]
   },
   {
@@ -1312,10 +1281,7 @@
       "plural": false,
       "internalIds": [ 10743 ]
     },
-    "materials": {
-      "bamboo piece": 3,
-      "iron nugget": 1
-    },
+    "materials": { "bamboo piece": 3, "iron nugget": 1 },
     "sources": [ "Snooty villagers" ]
   },
   {
@@ -1555,10 +1521,7 @@
       "plural": false,
       "internalIds": [ 7590 ]
     },
-    "materials": {
-      "young spring bamboo": 6,
-      "star fragment": 3
-    },
+    "materials": { "young spring bamboo": 6, "star fragment": 3 },
     "sources": [ "Balloons" ]
   },
   {
@@ -1598,10 +1561,7 @@
       "plural": false,
       "internalIds": [ 4853 ]
     },
-    "materials": {
-      "young spring bamboo": 7,
-      "bamboo shoot": 3
-    },
+    "materials": { "young spring bamboo": 7, "bamboo shoot": 3 },
     "sources": [ "Balloons" ]
   },
   {
@@ -1641,11 +1601,7 @@
       "plural": false,
       "internalIds": [ 5977 ]
     },
-    "materials": {
-      "young spring bamboo": 4,
-      "bamboo shoot": 5,
-      "clay": 4
-    },
+    "materials": { "young spring bamboo": 4, "bamboo shoot": 5, "clay": 4 },
     "sources": [ "Balloons" ]
   },
   {
@@ -1685,10 +1641,7 @@
       "plural": false,
       "internalIds": [ 5213 ]
     },
-    "materials": {
-      "hardwood": 3,
-      "iron nugget": 2
-    },
+    "materials": { "hardwood": 3, "iron nugget": 2 },
     "sources": [ "Nook Miles Exchange" ]
   },
   {
@@ -2094,10 +2047,7 @@
       "plural": false,
       "internalIds": [ 6831 ]
     },
-    "materials": {
-      "cherry-blossom petal": 6,
-      "hardwood": 4
-    },
+    "materials": { "cherry-blossom petal": 6, "hardwood": 4 },
     "sources": [ "Balloons" ]
   },
   {
@@ -2297,11 +2247,7 @@
       "plural": false,
       "internalIds": [ 3580 ]
     },
-    "materials": {
-      "cherry-blossom bonsai": 1,
-      "pine bonsai tree": 1,
-      "wood": 8
-    },
+    "materials": { "cherry-blossom bonsai": 1, "pine bonsai tree": 1, "wood": 8 },
     "sources": [ "Cranky villagers" ]
   },
   {
@@ -2421,11 +2367,7 @@
       "plural": false,
       "internalIds": [ 1157 ]
     },
-    "materials": {
-      "clay": 8,
-      "iron nugget": 2,
-      "wood": 6
-    },
+    "materials": { "clay": 8, "iron nugget": 2, "wood": 6 },
     "sources": [ "Wildest Dreams DIY" ]
   },
   {
@@ -2465,11 +2407,7 @@
       "plural": false,
       "internalIds": [ 3776 ]
     },
-    "materials": {
-      "clay": 8,
-      "wood": 5,
-      "flimsy shovel": 1
-    },
+    "materials": { "clay": 8, "wood": 5, "flimsy shovel": 1 },
     "sources": [ "Nook Miles Exchange" ]
   },
   {
@@ -2509,11 +2447,7 @@
       "plural": false,
       "internalIds": [ 7211 ]
     },
-    "materials": {
-      "log stakes": 4,
-      "clay": 4,
-      "stone": 4
-    },
+    "materials": { "log stakes": 4, "clay": 4, "stone": 4 },
     "sources": [ "Tom Nook" ]
   },
   {
@@ -2828,11 +2762,7 @@
       "plural": false,
       "internalIds": [ 12421 ]
     },
-    "materials": {
-      "stone egg": 1,
-      "wood egg": 1,
-      "water egg": 1
-    },
+    "materials": { "stone egg": 1, "wood egg": 1, "water egg": 1 },
     "sources": [ "Egg bottle", "Egg balloon" ]
   },
   {
@@ -3006,11 +2936,7 @@
       "plural": false,
       "internalIds": [ 12419 ]
     },
-    "materials": {
-      "earth egg": 1,
-      "leaf egg": 1,
-      "sky egg": 1
-    },
+    "materials": { "earth egg": 1, "leaf egg": 1, "sky egg": 1 },
     "sources": [ "Egg bottle", "Egg balloon" ]
   },
   {
@@ -3304,10 +3230,7 @@
       "plural": false,
       "internalIds": [ 12578 ]
     },
-    "materials": {
-      "wobbling Zipper toy": 1,
-      "star fragment": 3
-    },
+    "materials": { "wobbling Zipper toy": 1, "star fragment": 3 },
     "sources": [ "Zipper" ]
   },
   {
@@ -3554,12 +3477,7 @@
       "plural": false,
       "internalIds": [ 5166 ]
     },
-    "materials": {
-      "wood": 15,
-      "softwood": 15,
-      "hardwood": 15,
-      "iron nugget": 15
-    },
+    "materials": { "wood": 15, "softwood": 15, "hardwood": 15, "iron nugget": 15 },
     "sources": [ "Tom Nook" ]
   },
   {
@@ -3599,12 +3517,7 @@
       "plural": false,
       "internalIds": [ 5959 ]
     },
-    "materials": {
-      "star fragment": 3,
-      "Cancer fragment": 2,
-      "gold nugget": 2,
-      "stone": 3
-    },
+    "materials": { "star fragment": 3, "Cancer fragment": 2, "gold nugget": 2, "stone": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -4174,11 +4087,7 @@
       "plural": false,
       "internalIds": [ 6031 ]
     },
-    "materials": {
-      "cherry-blossom petal": 8,
-      "tree branch": 4,
-      "clay": 5
-    },
+    "materials": { "cherry-blossom petal": 8, "tree branch": 4, "clay": 5 },
     "sources": [ "Balloons" ]
   },
   {
@@ -4218,10 +4127,7 @@
       "plural": false,
       "internalIds": [ 6832 ]
     },
-    "materials": {
-      "cherry-blossom petal": 5,
-      "iron nugget": 1
-    },
+    "materials": { "cherry-blossom petal": 5, "iron nugget": 1 },
     "sources": [ "Balloons" ]
   },
   {
@@ -4261,10 +4167,7 @@
       "plural": false,
       "internalIds": [ 7204 ]
     },
-    "materials": {
-      "cherry-blossom petal": 10,
-      "clump of weeds": 20
-    },
+    "materials": { "cherry-blossom petal": 10, "clump of weeds": 20 },
     "sources": [ "Balloons" ]
   },
   {
@@ -4344,10 +4247,7 @@
       "plural": false,
       "internalIds": [ 7409 ]
     },
-    "materials": {
-      "stone": 10,
-      "cherry-blossom petal": 3
-    },
+    "materials": { "stone": 10, "cherry-blossom petal": 3 },
     "sources": [ "Balloons" ]
   },
   {
@@ -4427,10 +4327,7 @@
       "plural": false,
       "internalIds": [ 7589 ]
     },
-    "materials": {
-      "cherry-blossom petal": 3,
-      "star fragment": 3
-    },
+    "materials": { "cherry-blossom petal": 3, "star fragment": 3 },
     "sources": [ "Balloons" ]
   },
   {
@@ -4510,10 +4407,7 @@
       "plural": false,
       "internalIds": [ 7205 ]
     },
-    "materials": {
-      "cherry-blossom petal": 10,
-      "hardwood": 5
-    },
+    "materials": { "cherry-blossom petal": 10, "hardwood": 5 },
     "sources": [ "Balloons" ]
   },
   {
@@ -4593,10 +4487,7 @@
       "plural": false,
       "internalIds": [ 5118 ]
     },
-    "materials": {
-      "purple mums": 3,
-      "pink mums": 3
-    },
+    "materials": { "purple mums": 3, "pink mums": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -4636,10 +4527,7 @@
       "plural": false,
       "internalIds": [ 5113 ]
     },
-    "materials": {
-      "purple roses": 3,
-      "black roses": 3
-    },
+    "materials": { "purple roses": 3, "black roses": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -4679,11 +4567,7 @@
       "plural": false,
       "internalIds": [ 5103 ]
     },
-    "materials": {
-      "purple tulips": 2,
-      "pink tulips": 2,
-      "orange tulips": 1
-    },
+    "materials": { "purple tulips": 2, "pink tulips": 2, "orange tulips": 1 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -5003,10 +4887,7 @@
       "plural": false,
       "internalIds": [ 4130 ]
     },
-    "materials": {
-      "coconut": 1,
-      "clump of weeds": 5
-    },
+    "materials": { "coconut": 1, "clump of weeds": 5 },
     "sources": [ "Snooty villagers" ]
   },
   {
@@ -5046,10 +4927,7 @@
       "plural": false,
       "internalIds": [ 4990 ]
     },
-    "materials": {
-      "maple leaf": 10,
-      "clump of weeds": 15
-    },
+    "materials": { "maple leaf": 10, "clump of weeds": 15 },
     "sources": [ "Balloons" ]
   },
   {
@@ -5089,11 +4967,7 @@
       "plural": false,
       "internalIds": [ 5097 ]
     },
-    "materials": {
-      "blue hyacinths": 4,
-      "pink hyacinths": 2,
-      "orange hyacinths": 2
-    },
+    "materials": { "blue hyacinths": 4, "pink hyacinths": 2, "orange hyacinths": 2 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -5133,11 +5007,7 @@
       "plural": false,
       "internalIds": [ 5750 ]
     },
-    "materials": {
-      "orange hyacinths": 3,
-      "blue hyacinths": 3,
-      "pink hyacinths": 3
-    },
+    "materials": { "orange hyacinths": 3, "blue hyacinths": 3, "pink hyacinths": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -5177,10 +5047,7 @@
       "plural": false,
       "internalIds": [ 5106 ]
     },
-    "materials": {
-      "orange pansies": 3,
-      "blue pansies": 3
-    },
+    "materials": { "orange pansies": 3, "blue pansies": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -5260,10 +5127,7 @@
       "plural": false,
       "internalIds": [ 5100 ]
     },
-    "materials": {
-      "blue windflowers": 3,
-      "pink windflowers": 3
-    },
+    "materials": { "blue windflowers": 3, "pink windflowers": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -5303,11 +5167,7 @@
       "plural": false,
       "internalIds": [ 5746 ]
     },
-    "materials": {
-      "blue windflowers": 3,
-      "pink windflowers": 3,
-      "white windflowers": 3
-    },
+    "materials": { "blue windflowers": 3, "pink windflowers": 3, "white windflowers": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -5387,11 +5247,7 @@
       "plural": false,
       "internalIds": [ 5108 ]
     },
-    "materials": {
-      "red cosmos": 2,
-      "yellow cosmos": 2,
-      "white cosmos": 3
-    },
+    "materials": { "red cosmos": 2, "yellow cosmos": 2, "white cosmos": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -5431,10 +5287,7 @@
       "plural": false,
       "internalIds": [ 7230 ]
     },
-    "materials": {
-      "pink cosmos": 5,
-      "iron nugget": 3
-    },
+    "materials": { "pink cosmos": 5, "iron nugget": 3 },
     "sources": [ "Snooty villagers" ]
   },
   {
@@ -5474,10 +5327,7 @@
       "plural": false,
       "internalIds": [ 5092 ]
     },
-    "materials": {
-      "white cosmos": 1,
-      "star fragment": 3
-    },
+    "materials": { "white cosmos": 1, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -5517,11 +5367,7 @@
       "plural": false,
       "internalIds": [ 4293 ]
     },
-    "materials": {
-      "yellow cosmos": 3,
-      "white cosmos": 3,
-      "red cosmos": 3
-    },
+    "materials": { "yellow cosmos": 3, "white cosmos": 3, "red cosmos": 3 },
     "sources": [ "All Villagers", "Tom Nook" ]
   },
   {
@@ -5601,10 +5447,7 @@
       "plural": false,
       "internalIds": [ 6829 ]
     },
-    "materials": {
-      "star fragment": 7,
-      "large star fragment": 1
-    },
+    "materials": { "star fragment": 7, "large star fragment": 1 },
     "sources": [ "Celeste" ]
   },
   {
@@ -5684,10 +5527,7 @@
       "plural": false,
       "internalIds": [ 5676 ]
     },
-    "materials": {
-      "star fragment": 10,
-      "iron nugget": 20
-    },
+    "materials": { "star fragment": 10, "iron nugget": 20 },
     "sources": [ "Celeste" ]
   },
   {
@@ -5727,11 +5567,7 @@
       "plural": false,
       "internalIds": [ 5115 ]
     },
-    "materials": {
-      "pink lilies": 2,
-      "orange lilies": 2,
-      "white lilies": 2
-    },
+    "materials": { "pink lilies": 2, "orange lilies": 2, "white lilies": 2 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -5771,10 +5607,7 @@
       "plural": false,
       "internalIds": [ 5112 ]
     },
-    "materials": {
-      "pink roses": 3,
-      "orange roses": 3
-    },
+    "materials": { "pink roses": 3, "orange roses": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -5814,10 +5647,7 @@
       "plural": false,
       "internalIds": [ 3618 ]
     },
-    "materials": {
-      "hardwood": 2,
-      "iron nugget": 1
-    },
+    "materials": { "hardwood": 2, "iron nugget": 1 },
     "sources": [ "Normal villagers" ]
   },
   {
@@ -6017,10 +5847,7 @@
       "plural": false,
       "internalIds": [ 5766 ]
     },
-    "materials": {
-      "black roses": 3,
-      "purple roses": 6
-    },
+    "materials": { "black roses": 3, "purple roses": 6 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -6260,11 +6087,7 @@
       "plural": false,
       "internalIds": [ 677 ]
     },
-    "materials": {
-      "bamboo piece": 3,
-      "stone": 8,
-      "clump of weeds": 3
-    },
+    "materials": { "bamboo piece": 3, "stone": 8, "clump of weeds": 3 },
     "sources": [ "Cranky villagers" ]
   },
   {
@@ -6724,11 +6547,7 @@
       "plural": false,
       "internalIds": [ 5677 ]
     },
-    "materials": {
-      "orange lilies": 3,
-      "pink lilies": 3,
-      "yellow lilies": 3
-    },
+    "materials": { "orange lilies": 3, "pink lilies": 3, "yellow lilies": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -6768,11 +6587,7 @@
       "plural": false,
       "internalIds": [ 5749 ]
     },
-    "materials": {
-      "pink mums": 3,
-      "purple mums": 3,
-      "red mums": 3
-    },
+    "materials": { "pink mums": 3, "purple mums": 3, "red mums": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -6812,11 +6627,7 @@
       "plural": false,
       "internalIds": [ 5747 ]
     },
-    "materials": {
-      "orange roses": 3,
-      "pink roses": 3,
-      "yellow roses": 3
-    },
+    "materials": { "orange roses": 3, "pink roses": 3, "yellow roses": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -6856,10 +6667,7 @@
       "plural": false,
       "internalIds": [ 12230 ]
     },
-    "materials": {
-      "gold ornament": 2,
-      "hardwood": 1
-    },
+    "materials": { "gold ornament": 2, "hardwood": 1 },
     "sources": [ "Balloons" ]
   },
   {
@@ -6899,12 +6707,7 @@
       "plural": false,
       "internalIds": [ 3991 ]
     },
-    "materials": {
-      "red ornament": 3,
-      "blue ornament": 3,
-      "gold ornament": 3,
-      "wood": 5
-    },
+    "materials": { "red ornament": 3, "blue ornament": 3, "gold ornament": 3, "wood": 5 },
     "sources": [ "Balloons" ]
   },
   {
@@ -7024,10 +6827,7 @@
       "plural": false,
       "internalIds": [ 2377 ]
     },
-    "materials": {
-      "flimsy fishing rod": 1,
-      "iron nugget": 1
-    },
+    "materials": { "flimsy fishing rod": 1, "iron nugget": 1 },
     "sources": [ "Pretty Good Tools Recipes" ]
   },
   {
@@ -7394,10 +7194,7 @@
       "plural": false,
       "internalIds": [ 1447 ]
     },
-    "materials": {
-      "star fragment": 15,
-      "iron nugget": 10
-    },
+    "materials": { "star fragment": 15, "iron nugget": 10 },
     "sources": [ "Celeste" ]
   },
   {
@@ -7569,11 +7366,7 @@
       "plural": false,
       "internalIds": [ 8031 ]
     },
-    "materials": {
-      "drinking fountain": 1,
-      "stone": 20,
-      "iron nugget": 8
-    },
+    "materials": { "drinking fountain": 1, "stone": 20, "iron nugget": 8 },
     "sources": [ "Nook Miles Exchange" ]
   },
   {
@@ -7613,10 +7406,7 @@
       "plural": false,
       "internalIds": [ 3499 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 10
-    },
+    "materials": { "large snowflake": 1, "snowflake": 10 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -7656,10 +7446,7 @@
       "plural": false,
       "internalIds": [ 3502 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 10
-    },
+    "materials": { "large snowflake": 1, "snowflake": 10 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -7699,10 +7486,7 @@
       "plural": false,
       "internalIds": [ 3503 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 3
-    },
+    "materials": { "large snowflake": 1, "snowflake": 3 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -7742,10 +7526,7 @@
       "plural": false,
       "internalIds": [ 3505 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 5
-    },
+    "materials": { "large snowflake": 1, "snowflake": 5 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -7785,10 +7566,7 @@
       "plural": false,
       "internalIds": [ 3498 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 6
-    },
+    "materials": { "large snowflake": 1, "snowflake": 6 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -7828,10 +7606,7 @@
       "plural": false,
       "internalIds": [ 3500 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 3
-    },
+    "materials": { "large snowflake": 1, "snowflake": 3 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -7871,10 +7646,7 @@
       "plural": false,
       "internalIds": [ 3501 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 4
-    },
+    "materials": { "large snowflake": 1, "snowflake": 4 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -7914,10 +7686,7 @@
       "plural": false,
       "internalIds": [ 3497 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 8
-    },
+    "materials": { "large snowflake": 1, "snowflake": 8 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -7957,10 +7726,7 @@
       "plural": false,
       "internalIds": [ 3504 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 8
-    },
+    "materials": { "large snowflake": 1, "snowflake": 8 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -8000,10 +7766,7 @@
       "plural": false,
       "internalIds": [ 4279 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 1
-    },
+    "materials": { "large snowflake": 1, "snowflake": 1 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -8043,13 +7806,7 @@
       "plural": false,
       "internalIds": [ 975 ]
     },
-    "materials": {
-      "apple": 1,
-      "pear": 1,
-      "cherry": 1,
-      "orange": 1,
-      "peach": 1
-    },
+    "materials": { "apple": 1, "pear": 1, "cherry": 1, "orange": 1, "peach": 1 },
     "sources": [ "Cranky villagers" ]
   },
   {
@@ -8089,13 +7846,7 @@
       "plural": false,
       "internalIds": [ 4378 ]
     },
-    "materials": {
-      "apple": 2,
-      "pear": 1,
-      "cherry": 3,
-      "orange": 3,
-      "peach": 1
-    },
+    "materials": { "apple": 2, "pear": 1, "cherry": 3, "orange": 3, "peach": 1 },
     "sources": [ "Cranky villagers" ]
   },
   {
@@ -8175,10 +7926,7 @@
       "plural": false,
       "internalIds": [ 5269 ]
     },
-    "materials": {
-      "star fragment": 5,
-      "large star fragment": 1
-    },
+    "materials": { "star fragment": 5, "large star fragment": 1 },
     "sources": [ "Celeste" ]
   },
   {
@@ -8218,11 +7966,7 @@
       "plural": false,
       "internalIds": [ 5236 ]
     },
-    "materials": {
-      "empty can": 2,
-      "boot": 2,
-      "old tire": 2
-    },
+    "materials": { "empty can": 2, "boot": 2, "old tire": 2 },
     "sources": [ "Fishing" ]
   },
   {
@@ -8262,11 +8006,7 @@
       "plural": false,
       "internalIds": [ 5229 ]
     },
-    "materials": {
-      "empty can": 2,
-      "boot": 2,
-      "old tire": 2
-    },
+    "materials": { "empty can": 2, "boot": 2, "old tire": 2 },
     "sources": [ "Fishing" ]
   },
   {
@@ -8432,12 +8172,7 @@
       "plural": false,
       "internalIds": [ 5960 ]
     },
-    "materials": {
-      "star fragment": 3,
-      "Gemini fragment": 2,
-      "gold nugget": 2,
-      "stone": 6
-    },
+    "materials": { "star fragment": 3, "Gemini fragment": 2, "gold nugget": 2, "stone": 6 },
     "sources": [ "Celeste" ]
   },
   {
@@ -8477,11 +8212,7 @@
       "plural": false,
       "internalIds": [ 1504 ]
     },
-    "materials": {
-      "Papa bear": 1,
-      "Mama bear": 1,
-      "Baby bear": 1
-    },
+    "materials": { "Papa bear": 1, "Mama bear": 1, "Baby bear": 1 },
     "sources": [ "Peppy villagers" ]
   },
   {
@@ -8761,10 +8492,7 @@
       "plural": false,
       "internalIds": [ 4820 ]
     },
-    "materials": {
-      "gold nugget": 2,
-      "screen wall": 1
-    },
+    "materials": { "gold nugget": 2, "screen wall": 1 },
     "sources": [ "Smug villagers" ]
   },
   {
@@ -9084,10 +8812,7 @@
       "plural": false,
       "internalIds": [ 11261 ]
     },
-    "materials": {
-      "gold nugget": 1,
-      "iron nugget": 3
-    },
+    "materials": { "gold nugget": 1, "iron nugget": 3 },
     "sources": [ "Smug villagers" ]
   },
   {
@@ -9167,10 +8892,7 @@
       "plural": false,
       "internalIds": [ 8660 ]
     },
-    "materials": {
-      "fishing rod": 1,
-      "gold nugget": 1
-    },
+    "materials": { "fishing rod": 1, "gold nugget": 1 },
     "sources": [ "Completing fish Critterpedia" ]
   },
   {
@@ -9290,10 +9012,7 @@
       "plural": false,
       "internalIds": [ 8578 ]
     },
-    "materials": {
-      "slingshot": 1,
-      "gold nugget": 1
-    },
+    "materials": { "slingshot": 1, "gold nugget": 1 },
     "sources": [ "Shooting 300 balloons" ]
   },
   {
@@ -9413,10 +9132,7 @@
       "plural": false,
       "internalIds": [ 7591 ]
     },
-    "materials": {
-      "gold nugget": 2,
-      "star fragment": 3
-    },
+    "materials": { "gold nugget": 2, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -9456,10 +9172,7 @@
       "plural": false,
       "internalIds": [ 8533 ]
     },
-    "materials": {
-      "watering can": 1,
-      "gold nugget": 1
-    },
+    "materials": { "watering can": 1, "gold nugget": 1 },
     "sources": [ "5-star town evaluation" ]
   },
   {
@@ -9659,10 +9372,7 @@
       "plural": false,
       "internalIds": [ 4269 ]
     },
-    "materials": {
-      "young spring bamboo": 1,
-      "clump of weeds": 10
-    },
+    "materials": { "young spring bamboo": 1, "clump of weeds": 10 },
     "sources": [ "Balloons" ]
   },
   {
@@ -9702,10 +9412,7 @@
       "plural": false,
       "internalIds": [ 3775 ]
     },
-    "materials": {
-      "clump of weeds": 12,
-      "iron nugget": 4
-    },
+    "materials": { "clump of weeds": 12, "iron nugget": 4 },
     "sources": [ "Peppy villagers" ]
   },
   {
@@ -9785,12 +9492,7 @@
       "plural": false,
       "internalIds": [ 722 ]
     },
-    "materials": {
-      "bamboo piece": 2,
-      "iron nugget": 5,
-      "clay": 4,
-      "hardwood": 5
-    },
+    "materials": { "bamboo piece": 2, "iron nugget": 5, "clay": 4, "hardwood": 5 },
     "sources": [ "Wildest Dreams DIY" ]
   },
   {
@@ -9830,11 +9532,7 @@
       "plural": false,
       "internalIds": [ 12758 ]
     },
-    "materials": {
-      "clump of weeds": 10,
-      "tree branch": 5,
-      "stone": 2
-    },
+    "materials": { "clump of weeds": 10, "tree branch": 5, "stone": 2 },
     "sources": [ "Tom Nook" ]
   },
   {
@@ -9914,10 +9612,7 @@
       "plural": false,
       "internalIds": [ 891 ]
     },
-    "materials": {
-      "red ornament": 5,
-      "clump of weeds": 5
-    },
+    "materials": { "red ornament": 5, "clump of weeds": 5 },
     "sources": [ "Balloons" ]
   },
   {
@@ -10037,11 +9732,7 @@
       "plural": false,
       "internalIds": [ 5096 ]
     },
-    "materials": {
-      "red hyacinths": 4,
-      "yellow hyacinths": 2,
-      "white hyacinths": 2
-    },
+    "materials": { "red hyacinths": 4, "yellow hyacinths": 2, "white hyacinths": 2 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -10081,10 +9772,7 @@
       "plural": false,
       "internalIds": [ 7234 ]
     },
-    "materials": {
-      "purple hyacinths": 5,
-      "clay": 3
-    },
+    "materials": { "purple hyacinths": 5, "clay": 3 },
     "sources": [ "Big Sister villagers" ]
   },
   {
@@ -10124,10 +9812,7 @@
       "plural": false,
       "internalIds": [ 5083 ]
     },
-    "materials": {
-      "pink hyacinths": 1,
-      "star fragment": 3
-    },
+    "materials": { "pink hyacinths": 1, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -10167,11 +9852,7 @@
       "plural": false,
       "internalIds": [ 5468 ]
     },
-    "materials": {
-      "white hyacinths": 3,
-      "red hyacinths": 3,
-      "yellow hyacinths": 3
-    },
+    "materials": { "white hyacinths": 3, "red hyacinths": 3, "yellow hyacinths": 3 },
     "sources": [ "All Villagers", "Tom Nook" ]
   },
   {
@@ -10211,10 +9892,7 @@
       "plural": false,
       "internalIds": [ 5516 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 8
-    },
+    "materials": { "large snowflake": 1, "snowflake": 8 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -10254,10 +9932,7 @@
       "plural": false,
       "internalIds": [ 5505 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 8
-    },
+    "materials": { "large snowflake": 1, "snowflake": 8 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -10297,10 +9972,7 @@
       "plural": false,
       "internalIds": [ 7585 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "star fragment": 3
-    },
+    "materials": { "large snowflake": 1, "star fragment": 3 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -10420,11 +10092,7 @@
       "plural": false,
       "internalIds": [ 4108 ]
     },
-    "materials": {
-      "red ornament": 3,
-      "gold ornament": 4,
-      "iron nugget": 3
-    },
+    "materials": { "red ornament": 3, "gold ornament": 4, "iron nugget": 3 },
     "sources": [ "Balloons" ]
   },
   {
@@ -10464,10 +10132,7 @@
       "plural": false,
       "internalIds": [ 4074 ]
     },
-    "materials": {
-      "gold ornament": 6,
-      "iron nugget": 5
-    },
+    "materials": { "gold ornament": 6, "iron nugget": 5 },
     "sources": [ "Balloons" ]
   },
   {
@@ -10507,10 +10172,7 @@
       "plural": false,
       "internalIds": [ 4131 ]
     },
-    "materials": {
-      "blue ornament": 9,
-      "gold nugget": 3
-    },
+    "materials": { "blue ornament": 9, "gold nugget": 3 },
     "sources": [ "Balloons" ]
   },
   {
@@ -10923,10 +10585,7 @@
       "internalIds": [ 1626 ]
     },
     "materials": { "iron nugget": 3 },
-    "sources": [
-      "Tom Nook",
-      "Big Sister villagers"
-    ]
+    "sources": [ "Tom Nook", "Big Sister villagers" ]
   },
   {
     "sourceSheet": "Recipes",
@@ -10966,10 +10625,7 @@
       "internalIds": [ 1627 ]
     },
     "materials": { "iron nugget": 5 },
-    "sources": [
-      "Tom Nook",
-      "Big Sister villagers"
-    ]
+    "sources": [ "Tom Nook", "Big Sister villagers" ]
   },
   {
     "sourceSheet": "Recipes",
@@ -11168,10 +10824,7 @@
       "plural": false,
       "internalIds": [ 7592 ]
     },
-    "materials": {
-      "iron nugget": 3,
-      "star fragment": 3
-    },
+    "materials": { "iron nugget": 3, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -11451,11 +11104,7 @@
       "plural": false,
       "internalIds": [ 3271 ]
     },
-    "materials": {
-      "wood": 12,
-      "iron nugget": 6,
-      "ironwood dresser": 1
-    },
+    "materials": { "wood": 12, "iron nugget": 6, "ironwood dresser": 1 },
     "sources": [ "Snooty villagers" ]
   },
   {
@@ -11495,11 +11144,7 @@
       "plural": false,
       "internalIds": [ 3943 ]
     },
-    "materials": {
-      "wood": 12,
-      "iron nugget": 6,
-      "mini DIY workbench": 1
-    },
+    "materials": { "wood": 12, "iron nugget": 6, "mini DIY workbench": 1 },
     "sources": [ "Cranky villagers" ]
   },
   {
@@ -11579,12 +11224,7 @@
       "plural": false,
       "internalIds": [ 3270 ]
     },
-    "materials": {
-      "wood": 4,
-      "iron nugget": 3,
-      "ironwood dresser": 1,
-      "cutting board": 1
-    },
+    "materials": { "wood": 4, "iron nugget": 3, "ironwood dresser": 1, "cutting board": 1 },
     "sources": [ "Wildest Dreams DIY" ]
   },
   {
@@ -11744,12 +11384,7 @@
       "plural": false,
       "internalIds": [ 5230 ]
     },
-    "materials": {
-      "red ornament": 5,
-      "blue ornament": 5,
-      "gold ornament": 5,
-      "clay": 5
-    },
+    "materials": { "red ornament": 5, "blue ornament": 5, "gold ornament": 5, "clay": 5 },
     "sources": [ "Balloons" ]
   },
   {
@@ -11790,10 +11425,7 @@
       "internalIds": [ 2596 ]
     },
     "materials": { "apple": 10, "iron nugget": 2 },
-    "sources": [
-      "Big Sister villagers",
-      "Tom Nook"
-    ]
+    "sources": [ "Big Sister villagers", "Tom Nook" ]
   },
   {
     "sourceSheet": "Recipes",
@@ -11832,10 +11464,7 @@
       "plural": false,
       "internalIds": [ 5515 ]
     },
-    "materials": {
-      "clump of weeds": 10,
-      "clay": 10
-    },
+    "materials": { "clump of weeds": 10, "clay": 10 },
     "sources": [ "Jock villagers" ]
   },
   {
@@ -11875,12 +11504,7 @@
       "plural": false,
       "internalIds": [ 5457 ]
     },
-    "materials": {
-      "clump of weeds": 15,
-      "wood": 3,
-      "hardwood": 3,
-      "softwood": 3
-    },
+    "materials": { "clump of weeds": 15, "wood": 3, "hardwood": 3, "softwood": 3 },
     "sources": [ "Jock villagers" ]
   },
   {
@@ -11920,11 +11544,7 @@
       "plural": false,
       "internalIds": [ 4008 ]
     },
-    "materials": {
-      "iron nugget": 8,
-      "wood": 2,
-      "campfire": 1
-    },
+    "materials": { "iron nugget": 8, "wood": 2, "campfire": 1 },
     "sources": [ "Cranky villagers" ]
   },
   {
@@ -12124,11 +11744,7 @@
       "plural": false,
       "internalIds": [ 2615 ]
     },
-    "materials": {
-      "wood": 4,
-      "hardwood": 4,
-      "softwood": 4
-    },
+    "materials": { "wood": 4, "hardwood": 4, "softwood": 4 },
     "sources": [ "Tom Nook", "Nook's Cranny" ]
   },
   {
@@ -12288,11 +11904,7 @@
       "plural": false,
       "internalIds": [ 7788 ]
     },
-    "materials": {
-      "pine cone": 3,
-      "clump of weeds": 5,
-      "tree branch": 3
-    },
+    "materials": { "pine cone": 3, "clump of weeds": 5, "tree branch": 3 },
     "sources": [ "Balloons" ]
   },
   {
@@ -12572,12 +12184,7 @@
       "plural": false,
       "internalIds": [ 5964 ]
     },
-    "materials": {
-      "star fragment": 3,
-      "Leo fragment": 2,
-      "gold nugget": 2,
-      "stone": 3
-    },
+    "materials": { "star fragment": 3, "Leo fragment": 2, "gold nugget": 2, "stone": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -12617,11 +12224,7 @@
       "plural": false,
       "internalIds": [ 3774 ]
     },
-    "materials": {
-      "star fragment": 3,
-      "Libra fragment": 2,
-      "gold nugget": 2
-    },
+    "materials": { "star fragment": 3, "Libra fragment": 2, "gold nugget": 2 },
     "sources": [ "Celeste" ]
   },
   {
@@ -12701,11 +12304,7 @@
       "plural": false,
       "internalIds": [ 5114 ]
     },
-    "materials": {
-      "red lilies": 2,
-      "yellow lilies": 2,
-      "white lilies": 2
-    },
+    "materials": { "red lilies": 2, "yellow lilies": 2, "white lilies": 2 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -12745,11 +12344,7 @@
       "plural": false,
       "internalIds": [ 7236 ]
     },
-    "materials": {
-      "white lilies": 5,
-      "iron nugget": 3,
-      "wood": 3
-    },
+    "materials": { "white lilies": 5, "iron nugget": 3, "wood": 3 },
     "sources": [ "Cranky villagers" ]
   },
   {
@@ -12789,10 +12384,7 @@
       "plural": false,
       "internalIds": [ 5094 ]
     },
-    "materials": {
-      "white lilies": 1,
-      "star fragment": 3
-    },
+    "materials": { "white lilies": 1, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -12832,11 +12424,7 @@
       "plural": false,
       "internalIds": [ 5641 ]
     },
-    "materials": {
-      "white lilies": 3,
-      "red lilies": 3,
-      "yellow lilies": 3
-    },
+    "materials": { "white lilies": 3, "red lilies": 3, "yellow lilies": 3 },
     "sources": [ "All Villagers", "Tom Nook" ]
   },
   {
@@ -13316,10 +12904,7 @@
       "plural": false,
       "internalIds": [ 4037 ]
     },
-    "materials": {
-      "hardwood": 2,
-      "iron nugget": 1
-    },
+    "materials": { "hardwood": 2, "iron nugget": 1 },
     "sources": [ "Lazy villagers" ]
   },
   {
@@ -13359,10 +12944,7 @@
       "plural": false,
       "internalIds": [ 5109 ]
     },
-    "materials": {
-      "pink cosmos": 4,
-      "orange cosmos": 3
-    },
+    "materials": { "pink cosmos": 4, "orange cosmos": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -13402,10 +12984,7 @@
       "plural": false,
       "internalIds": [ 9814 ]
     },
-    "materials": {
-      "gold nugget": 2,
-      "lucky cat": 1
-    },
+    "materials": { "gold nugget": 2, "lucky cat": 1 },
     "sources": [ "Snooty villagers" ]
   },
   {
@@ -13445,10 +13024,7 @@
       "plural": false,
       "internalIds": [ 1440 ]
     },
-    "materials": {
-      "star fragment": 10,
-      "iron nugget": 15
-    },
+    "materials": { "star fragment": 10, "iron nugget": 15 },
     "sources": [ "Celeste" ]
   },
   {
@@ -13488,11 +13064,7 @@
       "plural": false,
       "internalIds": [ 1442 ]
     },
-    "materials": {
-      "star fragment": 10,
-      "iron nugget": 10,
-      "old tire": 4
-    },
+    "materials": { "star fragment": 10, "iron nugget": 10, "old tire": 4 },
     "sources": [ "Celeste" ]
   },
   {
@@ -13532,10 +13104,7 @@
       "plural": false,
       "internalIds": [ 4968 ]
     },
-    "materials": {
-      "star fragment": 5,
-      "large star fragment": 1
-    },
+    "materials": { "star fragment": 5, "large star fragment": 1 },
     "sources": [ "Celeste" ]
   },
   {
@@ -13855,10 +13424,7 @@
       "plural": false,
       "internalIds": [ 2777 ]
     },
-    "materials": {
-      "wasp nest": 1,
-      "clump of weeds": 3
-    },
+    "materials": { "wasp nest": 1, "clump of weeds": 3 },
     "sources": [ "All Villagers (while stung)" ]
   },
   {
@@ -13938,11 +13504,7 @@
       "plural": false,
       "internalIds": [ 12558 ]
     },
-    "materials": {
-      "pearl": 2,
-      "giant clam": 2,
-      "sand dollar": 5
-    },
+    "materials": { "pearl": 2, "giant clam": 2, "sand dollar": 5 },
     "sources": [ "Pascal" ]
   },
   {
@@ -13982,11 +13544,7 @@
       "plural": false,
       "internalIds": [ 12562 ]
     },
-    "materials": {
-      "pearl": 1,
-      "giant clam": 1,
-      "sand dollar": 2
-    },
+    "materials": { "pearl": 1, "giant clam": 1, "sand dollar": 2 },
     "sources": [ "Pascal" ]
   },
   {
@@ -14026,12 +13584,7 @@
       "plural": false,
       "internalIds": [ 12559 ]
     },
-    "materials": {
-      "pearl": 2,
-      "giant clam": 1,
-      "coral": 2,
-      "sand dollar": 5
-    },
+    "materials": { "pearl": 2, "giant clam": 1, "coral": 2, "sand dollar": 5 },
     "sources": [ "Pascal" ]
   },
   {
@@ -14071,11 +13624,7 @@
       "plural": false,
       "internalIds": [ 12561 ]
     },
-    "materials": {
-      "pearl": 2,
-      "giant clam": 1,
-      "coral": 3
-    },
+    "materials": { "pearl": 2, "giant clam": 1, "coral": 3 },
     "sources": [ "Pascal" ]
   },
   {
@@ -14115,11 +13664,7 @@
       "plural": false,
       "internalIds": [ 12568 ]
     },
-    "materials": {
-      "pearl": 2,
-      "sand dollar": 5,
-      "Stone": 5
-    },
+    "materials": { "pearl": 2, "sand dollar": 5, "Stone": 5 },
     "sources": [ "Pascal" ]
   },
   {
@@ -14159,12 +13704,7 @@
       "plural": false,
       "internalIds": [ 12556 ]
     },
-    "materials": {
-      "pearl": 1,
-      "conch": 3,
-      "coral": 2,
-      "iron nugget": 2
-    },
+    "materials": { "pearl": 1, "conch": 3, "coral": 2, "iron nugget": 2 },
     "sources": [ "Pascal" ]
   },
   {
@@ -14244,11 +13784,7 @@
       "plural": false,
       "internalIds": [ 12555 ]
     },
-    "materials": {
-      "pearl": 2,
-      "giant clam": 3,
-      "sand dollar": 5
-    },
+    "materials": { "pearl": 2, "giant clam": 3, "sand dollar": 5 },
     "sources": [ "Pascal" ]
   },
   {
@@ -14288,11 +13824,7 @@
       "plural": false,
       "internalIds": [ 12553 ]
     },
-    "materials": {
-      "pearl": 1,
-      "giant clam": 1,
-      "coral": 4
-    },
+    "materials": { "pearl": 1, "giant clam": 1, "coral": 4 },
     "sources": [ "Pascal" ]
   },
   {
@@ -14412,12 +13944,7 @@
       "plural": false,
       "internalIds": [ 12554 ]
     },
-    "materials": {
-      "pearl": 1,
-      "giant clam": 1,
-      "coral": 2,
-      "iron nugget": 2
-    },
+    "materials": { "pearl": 1, "giant clam": 1, "coral": 2, "iron nugget": 2 },
     "sources": [ "Pascal" ]
   },
   {
@@ -14504,12 +14031,7 @@
       "plural": false,
       "internalIds": [ 12557 ]
     },
-    "materials": {
-      "pearl": 1,
-      "sea snail": 3,
-      "coral": 2,
-      "iron nugget": 2
-    },
+    "materials": { "pearl": 1, "sea snail": 3, "coral": 2, "iron nugget": 2 },
     "sources": [ "Pascal" ]
   },
   {
@@ -14549,12 +14071,7 @@
       "plural": false,
       "internalIds": [ 3122 ]
     },
-    "materials": {
-      "wood": 3,
-      "hardwood": 3,
-      "softwood": 3,
-      "iron nugget": 2
-    },
+    "materials": { "wood": 3, "hardwood": 3, "softwood": 3, "iron nugget": 2 },
     "sources": [ "Test Your DIY Skills" ]
   },
   {
@@ -14634,11 +14151,7 @@
       "plural": false,
       "internalIds": [ 4904 ]
     },
-    "materials": {
-      "wood": 5,
-      "softwood": 5,
-      "hardwood": 5
-    },
+    "materials": { "wood": 5, "softwood": 5, "hardwood": 5 },
     "sources": [ "Snooty villagers" ]
   },
   {
@@ -14718,10 +14231,7 @@
       "plural": false,
       "internalIds": [ 1054 ]
     },
-    "materials": {
-      "star fragment": 15,
-      "large star fragment": 1
-    },
+    "materials": { "star fragment": 15, "large star fragment": 1 },
     "sources": [ "Celeste" ]
   },
   {
@@ -14761,10 +14271,7 @@
       "plural": false,
       "internalIds": [ 12208 ]
     },
-    "materials": {
-      "stone": 15,
-      "clump of weeds": 15
-    },
+    "materials": { "stone": 15, "clump of weeds": 15 },
     "sources": [ "Lazy villagers" ]
   },
   {
@@ -14844,11 +14351,7 @@
       "plural": false,
       "internalIds": [ 5117 ]
     },
-    "materials": {
-      "red mums": 2,
-      "yellow mums": 2,
-      "white mums": 2
-    },
+    "materials": { "red mums": 2, "yellow mums": 2, "white mums": 2 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -14888,10 +14391,7 @@
       "plural": false,
       "internalIds": [ 7232 ]
     },
-    "materials": {
-      "yellow mums": 3,
-      "clump of weeds": 10
-    },
+    "materials": { "yellow mums": 3, "clump of weeds": 10 },
     "sources": [ "Peppy villagers" ]
   },
   {
@@ -14931,11 +14431,7 @@
       "plural": false,
       "internalIds": [ 5467 ]
     },
-    "materials": {
-      "white mums": 3,
-      "yellow mums": 3,
-      "red mums": 3
-    },
+    "materials": { "white mums": 3, "yellow mums": 3, "red mums": 3 },
     "sources": [ "All Villagers", "Tom Nook" ]
   },
   {
@@ -14975,10 +14471,7 @@
       "plural": false,
       "internalIds": [ 5095 ]
     },
-    "materials": {
-      "yellow mums": 1,
-      "star fragment": 3
-    },
+    "materials": { "yellow mums": 1, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -15018,10 +14511,7 @@
       "plural": false,
       "internalIds": [ 805 ]
     },
-    "materials": {
-      "skinny mushroom": 1,
-      "clay": 5
-    },
+    "materials": { "skinny mushroom": 1, "clay": 5 },
     "sources": [ "Balloons" ]
   },
   {
@@ -15061,10 +14551,7 @@
       "plural": false,
       "internalIds": [ 3808 ]
     },
-    "materials": {
-      "skinny mushroom": 2,
-      "log stool": 1
-    },
+    "materials": { "skinny mushroom": 2, "log stool": 1 },
     "sources": [ "Balloons" ]
   },
   {
@@ -15349,10 +14836,7 @@
       "plural": false,
       "internalIds": [ 7588 ]
     },
-    "materials": {
-      "skinny mushroom": 3,
-      "star fragment": 3
-    },
+    "materials": { "skinny mushroom": 3, "star fragment": 3 },
     "sources": [ "Balloons" ]
   },
   {
@@ -15477,10 +14961,7 @@
       "plural": false,
       "internalIds": [ 2586 ]
     },
-    "materials": {
-      "hardwood": 6,
-      "iron nugget": 2
-    },
+    "materials": { "hardwood": 6, "iron nugget": 2 },
     "sources": [ "Tom Nook", "Peppy villagers" ]
   },
   {
@@ -15520,10 +15001,7 @@
       "plural": false,
       "internalIds": [ 3396 ]
     },
-    "materials": {
-      "hardwood": 9,
-      "iron nugget": 3
-    },
+    "materials": { "hardwood": 9, "iron nugget": 3 },
     "sources": [ "Tom Nook", "Normal villagers" ]
   },
   {
@@ -15603,10 +15081,7 @@
       "plural": false,
       "internalIds": [ 12332 ]
     },
-    "materials": {
-      "hardwood": 4,
-      "iron nugget": 2
-    },
+    "materials": { "hardwood": 4, "iron nugget": 2 },
     "sources": [ "Normal villagers" ]
   },
   {
@@ -15646,10 +15121,7 @@
       "plural": false,
       "internalIds": [ 5784 ]
     },
-    "materials": {
-      "flimsy net": 1,
-      "iron nugget": 1
-    },
+    "materials": { "flimsy net": 1, "iron nugget": 1 },
     "sources": [ "Pretty Good Tools Recipes" ]
   },
   {
@@ -15769,11 +15241,7 @@
       "plural": false,
       "internalIds": [ 3819 ]
     },
-    "materials": {
-      "oil barrel": 1,
-      "campfire": 1,
-      "stone": 2
-    },
+    "materials": { "oil barrel": 1, "campfire": 1, "stone": 2 },
     "sources": [ "Jock villagers" ]
   },
   {
@@ -16178,10 +15646,7 @@
       "plural": false,
       "internalIds": [ 4377 ]
     },
-    "materials": {
-      "blue ornament": 6,
-      "gold ornament": 2
-    },
+    "materials": { "blue ornament": 6, "gold ornament": 2 },
     "sources": [ "Balloons" ]
   },
   {
@@ -16301,11 +15766,7 @@
       "plural": false,
       "internalIds": [ 7259 ]
     },
-    "materials": {
-      "coconut": 4,
-      "wood": 4,
-      "clay": 4
-    },
+    "materials": { "coconut": 4, "wood": 4, "clay": 4 },
     "sources": [ "Snooty villagers" ]
   },
   {
@@ -16385,11 +15846,7 @@
       "plural": false,
       "internalIds": [ 5105 ]
     },
-    "materials": {
-      "red pansies": 2,
-      "yellow pansies": 2,
-      "white pansies": 2
-    },
+    "materials": { "red pansies": 2, "yellow pansies": 2, "white pansies": 2 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -16429,10 +15886,7 @@
       "plural": false,
       "internalIds": [ 7237 ]
     },
-    "materials": {
-      "yellow pansies": 5,
-      "hardwood": 3
-    },
+    "materials": { "yellow pansies": 5, "hardwood": 3 },
     "sources": [ "Normal villagers" ]
   },
   {
@@ -16472,10 +15926,7 @@
       "plural": false,
       "internalIds": [ 5091 ]
     },
-    "materials": {
-      "yellow pansies": 1,
-      "star fragment": 3
-    },
+    "materials": { "yellow pansies": 1, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -16515,11 +15966,7 @@
       "plural": false,
       "internalIds": [ 5466 ]
     },
-    "materials": {
-      "yellow pansies": 3,
-      "white pansies": 3,
-      "red pansies": 3
-    },
+    "materials": { "yellow pansies": 3, "white pansies": 3, "red pansies": 3 },
     "sources": [ "All Villagers", "Tom Nook" ]
   },
   {
@@ -17159,10 +16606,7 @@
       "plural": false,
       "internalIds": [ 1023 ]
     },
-    "materials": {
-      "pine cone": 3,
-      "clump of weeds": 5
-    },
+    "materials": { "pine cone": 3, "clump of weeds": 5 },
     "sources": [ "Balloons" ]
   },
   {
@@ -17282,12 +16726,7 @@
       "plural": false,
       "internalIds": [ 5963 ]
     },
-    "materials": {
-      "star fragment": 3,
-      "Pisces fragment": 2,
-      "gold nugget": 2,
-      "stone": 4
-    },
+    "materials": { "star fragment": 3, "Pisces fragment": 2, "gold nugget": 2, "stone": 4 },
     "sources": [ "Celeste" ]
   },
   {
@@ -17327,10 +16766,7 @@
       "plural": false,
       "internalIds": [ 2578 ]
     },
-    "materials": {
-      "clump of weeds": 4,
-      "tree branch": 6
-    },
+    "materials": { "clump of weeds": 4, "tree branch": 6 },
     "sources": [ "Jock villagers" ]
   },
   {
@@ -17370,11 +16806,7 @@
       "plural": false,
       "internalIds": [ 3683 ]
     },
-    "materials": {
-      "wood": 6,
-      "clay": 4,
-      "iron nugget": 1
-    },
+    "materials": { "wood": 6, "clay": 4, "iron nugget": 1 },
     "sources": [ "Wildest Dreams DIY" ]
   },
   {
@@ -17574,11 +17006,7 @@
       "plural": false,
       "internalIds": [ 5745 ]
     },
-    "materials": {
-      "orange cosmos": 3,
-      "pink cosmos": 3,
-      "red cosmos": 3
-    },
+    "materials": { "orange cosmos": 3, "pink cosmos": 3, "red cosmos": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -17618,11 +17046,7 @@
       "plural": false,
       "internalIds": [ 5751 ]
     },
-    "materials": {
-      "orange tulips": 3,
-      "pink tulips": 3,
-      "purple tulips": 3
-    },
+    "materials": { "orange tulips": 3, "pink tulips": 3, "purple tulips": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -17902,11 +17326,7 @@
       "plural": false,
       "internalIds": [ 7045 ]
     },
-    "materials": {
-      "empty can": 1,
-      "wood": 1,
-      "iron nugget": 1
-    },
+    "materials": { "empty can": 1, "wood": 1, "iron nugget": 1 },
     "sources": [ "Fishing" ]
   },
   {
@@ -17946,10 +17366,7 @@
       "plural": false,
       "internalIds": [ 4271 ]
     },
-    "materials": {
-      "maple leaf": 3,
-      "clump of weeds": 4
-    },
+    "materials": { "maple leaf": 3, "clump of weeds": 4 },
     "sources": [ "Balloons", "Isabelle" ]
   },
   {
@@ -18075,10 +17492,7 @@
       "plural": false,
       "internalIds": [ 1441 ]
     },
-    "materials": {
-      "star fragment": 10,
-      "iron nugget": 20
-    },
+    "materials": { "star fragment": 10, "iron nugget": 20 },
     "sources": [ "Celeste" ]
   },
   {
@@ -18278,11 +17692,7 @@
       "plural": false,
       "internalIds": [ 5111 ]
     },
-    "materials": {
-      "red roses": 2,
-      "yellow roses": 2,
-      "white roses": 2
-    },
+    "materials": { "red roses": 2, "yellow roses": 2, "white roses": 2 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -18322,10 +17732,7 @@
       "plural": false,
       "internalIds": [ 5093 ]
     },
-    "materials": {
-      "red roses": 1,
-      "star fragment": 3
-    },
+    "materials": { "red roses": 1, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -18365,11 +17772,7 @@
       "plural": false,
       "internalIds": [ 5437 ]
     },
-    "materials": {
-      "red roses": 3,
-      "white roses": 3,
-      "yellow roses": 3
-    },
+    "materials": { "red roses": 3, "white roses": 3, "yellow roses": 3 },
     "sources": [ "All Villagers", "Tom Nook" ]
   },
   {
@@ -18449,11 +17852,7 @@
       "plural": false,
       "internalIds": [ 5958 ]
     },
-    "materials": {
-      "star fragment": 3,
-      "Sagittarius fragment": 2,
-      "gold nugget": 2
-    },
+    "materials": { "star fragment": 3, "Sagittarius fragment": 2, "gold nugget": 2 },
     "sources": [ "Celeste" ]
   },
   {
@@ -18493,10 +17892,7 @@
       "plural": false,
       "internalIds": [ 5056 ]
     },
-    "materials": {
-      "cherry-blossom petal": 5,
-      "wood": 10
-    },
+    "materials": { "cherry-blossom petal": 5, "wood": 10 },
     "sources": [ "Balloons" ]
   },
   {
@@ -18536,10 +17932,7 @@
       "plural": false,
       "internalIds": [ 4947 ]
     },
-    "materials": {
-      "cherry-blossom petal": 5,
-      "wood": 10
-    },
+    "materials": { "cherry-blossom petal": 5, "wood": 10 },
     "sources": [ "Balloons" ]
   },
   {
@@ -18626,10 +18019,7 @@
       "plural": false,
       "internalIds": [ 1443 ]
     },
-    "materials": {
-      "star fragment": 10,
-      "iron nugget": 15
-    },
+    "materials": { "star fragment": 10, "iron nugget": 15 },
     "sources": [ "Celeste" ]
   },
   {
@@ -18669,11 +18059,7 @@
       "plural": false,
       "internalIds": [ 3689 ]
     },
-    "materials": {
-      "stone": 6,
-      "iron nugget": 3,
-      "wood": 3
-    },
+    "materials": { "stone": 6, "iron nugget": 3, "wood": 3 },
     "sources": [ "Lazy villagers" ]
   },
   {
@@ -18713,10 +18099,7 @@
       "plural": false,
       "internalIds": [ 1120 ]
     },
-    "materials": {
-      "tree branch": 3,
-      "clump of weeds": 5
-    },
+    "materials": { "tree branch": 3, "clump of weeds": 5 },
     "sources": [ "Cranky villagers" ]
   },
   {
@@ -18796,10 +18179,7 @@
       "plural": false,
       "internalIds": [ 5270 ]
     },
-    "materials": {
-      "star fragment": 5,
-      "large star fragment": 1
-    },
+    "materials": { "star fragment": 5, "large star fragment": 1 },
     "sources": [ "Celeste" ]
   },
   {
@@ -18839,10 +18219,7 @@
       "plural": false,
       "internalIds": [ 5510 ]
     },
-    "materials": {
-      "star fragment": 5,
-      "large star fragment": 1
-    },
+    "materials": { "star fragment": 5, "large star fragment": 1 },
     "sources": [ "Celeste" ]
   },
   {
@@ -18974,11 +18351,7 @@
       "plural": false,
       "internalIds": [ 3983 ]
     },
-    "materials": {
-      "giant clam": 5,
-      "clay": 3,
-      "stone": 4
-    },
+    "materials": { "giant clam": 5, "clay": 3, "stone": 4 },
     "sources": [ "Peppy villagers" ]
   },
   {
@@ -19298,10 +18671,7 @@
       "plural": false,
       "internalIds": [ 7586 ]
     },
-    "materials": {
-      "summer shell": 3,
-      "star fragment": 3
-    },
+    "materials": { "summer shell": 3, "star fragment": 3 },
     "sources": [ "Balloons" ]
   },
   {
@@ -19388,10 +18758,7 @@
       "plural": false,
       "internalIds": [ 7494 ]
     },
-    "materials": {
-      "giant clam": 2,
-      "summer shell": 6
-    },
+    "materials": { "giant clam": 2, "summer shell": 6 },
     "sources": [ "Balloons" ]
   },
   {
@@ -19431,10 +18798,7 @@
       "plural": false,
       "internalIds": [ 2099 ]
     },
-    "materials": {
-      "flimsy shovel": 1,
-      "iron nugget": 1
-    },
+    "materials": { "flimsy shovel": 1, "iron nugget": 1 },
     "sources": [ "Pretty Good Tools Recipes" ]
   },
   {
@@ -19514,12 +18878,7 @@
       "plural": false,
       "internalIds": [ 7247 ]
     },
-    "materials": {
-      "iron nugget": 12,
-      "hardwood": 6,
-      "clay": 12,
-      "stone": 12
-    },
+    "materials": { "iron nugget": 12, "hardwood": 6, "clay": 12, "stone": 12 },
     "sources": [ "Nook Miles Exchange" ]
   },
   {
@@ -19559,10 +18918,7 @@
       "plural": false,
       "internalIds": [ 7142 ]
     },
-    "materials": {
-      "hardwood": 5,
-      "iron nugget": 1
-    },
+    "materials": { "hardwood": 5, "iron nugget": 1 },
     "sources": [ "Jock villagers" ]
   },
   {
@@ -19642,10 +18998,7 @@
       "plural": false,
       "internalIds": [ 2754 ]
     },
-    "materials": {
-      "stone": 15,
-      "flimsy shovel": 1
-    },
+    "materials": { "stone": 15, "flimsy shovel": 1 },
     "sources": [ "Nook Miles Exchange" ]
   },
   {
@@ -20045,11 +19398,7 @@
       "plural": false,
       "internalIds": [ 5748 ]
     },
-    "materials": {
-      "orange pansies": 3,
-      "blue pansies": 3,
-      "yellow pansies": 3
-    },
+    "materials": { "orange pansies": 3, "blue pansies": 3, "yellow pansies": 3 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -20209,10 +19558,7 @@
       "plural": false,
       "internalIds": [ 8609 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 5
-    },
+    "materials": { "large snowflake": 1, "snowflake": 5 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -20252,10 +19598,7 @@
       "plural": false,
       "internalIds": [ 1444 ]
     },
-    "materials": {
-      "star fragment": 5,
-      "iron nugget": 10
-    },
+    "materials": { "star fragment": 5, "iron nugget": 10 },
     "sources": [ "Celeste" ]
   },
   {
@@ -20535,10 +19878,7 @@
       "plural": false,
       "internalIds": [ 7253 ]
     },
-    "materials": {
-      "star fragment": 3,
-      "iron nugget": 1
-    },
+    "materials": { "star fragment": 3, "iron nugget": 1 },
     "sources": [ "Celeste" ]
   },
   {
@@ -20658,10 +19998,7 @@
       "plural": false,
       "internalIds": [ 2544 ]
     },
-    "materials": {
-      "large star fragment": 1,
-      "star fragment": 3
-    },
+    "materials": { "large star fragment": 1, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -20741,10 +20078,7 @@
       "plural": false,
       "internalIds": [ 5528 ]
     },
-    "materials": {
-      "star fragment": 5,
-      "large star fragment": 1
-    },
+    "materials": { "star fragment": 5, "large star fragment": 1 },
     "sources": [ "Celeste" ]
   },
   {
@@ -20784,10 +20118,7 @@
       "plural": false,
       "internalIds": [ 7239 ]
     },
-    "materials": {
-      "summer shell": 3,
-      "sandy-beach flooring": 1
-    },
+    "materials": { "summer shell": 3, "sandy-beach flooring": 1 },
     "sources": [ "Balloons" ]
   },
   {
@@ -20827,10 +20158,7 @@
       "plural": false,
       "internalIds": [ 5500 ]
     },
-    "materials": {
-      "star fragment": 5,
-      "large star fragment": 1
-    },
+    "materials": { "star fragment": 5, "large star fragment": 1 },
     "sources": [ "Celeste" ]
   },
   {
@@ -21430,10 +20758,7 @@
       "plural": false,
       "internalIds": [ 4356 ]
     },
-    "materials": {
-      "clump of weeds": 10,
-      "wood": 3
-    },
+    "materials": { "clump of weeds": 10, "wood": 3 },
     "sources": [ "Nook Miles Exchange" ]
   },
   {
@@ -21513,10 +20838,7 @@
       "plural": false,
       "internalIds": [ 11942 ]
     },
-    "materials": {
-      "upright piano": 1,
-      "painting set": 1
-    },
+    "materials": { "upright piano": 1, "painting set": 1 },
     "sources": [ "Big Sister villagers" ]
   },
   {
@@ -21556,10 +20878,7 @@
       "plural": false,
       "internalIds": [ 132 ]
     },
-    "materials": {
-      "clump of weeds": 10,
-      "empty can": 1
-    },
+    "materials": { "clump of weeds": 10, "empty can": 1 },
     "sources": [ "Fishing" ]
   },
   {
@@ -21600,10 +20919,7 @@
       "internalIds": [ 1170 ]
     },
     "materials": { "wood": 5, "softwood": 7 },
-    "sources": [
-      "Test Your DIY Skills",
-      "Tom Nook"
-    ]
+    "sources": [ "Test Your DIY Skills", "Tom Nook" ]
   },
   {
     "sourceSheet": "Recipes",
@@ -21642,11 +20958,7 @@
       "plural": false,
       "internalIds": [ 4067 ]
     },
-    "materials": {
-      "gold ornament": 5,
-      "tree branch": 3,
-      "clay": 2
-    },
+    "materials": { "gold ornament": 5, "tree branch": 3, "clay": 2 },
     "sources": [ "Balloons" ]
   },
   {
@@ -21766,12 +21078,7 @@
       "plural": false,
       "internalIds": [ 5961 ]
     },
-    "materials": {
-      "star fragment": 3,
-      "Taurus fragment": 2,
-      "gold nugget": 1,
-      "stone": 8
-    },
+    "materials": { "star fragment": 3, "Taurus fragment": 2, "gold nugget": 1, "stone": 8 },
     "sources": [ "Celeste" ]
   },
   {
@@ -21851,10 +21158,7 @@
       "plural": false,
       "internalIds": [ 3773 ]
     },
-    "materials": {
-      "clump of weeds": 12,
-      "iron nugget": 2
-    },
+    "materials": { "clump of weeds": 12, "iron nugget": 2 },
     "sources": [ "Normal villagers" ]
   },
   {
@@ -21894,11 +21198,7 @@
       "plural": false,
       "internalIds": [ 5337 ]
     },
-    "materials": {
-      "large snowflake": 1,
-      "snowflake": 6,
-      "tree branch": 2
-    },
+    "materials": { "large snowflake": 1, "snowflake": 6, "tree branch": 2 },
     "sources": [ "Snowboy" ]
   },
   {
@@ -22218,11 +21518,7 @@
       "plural": false,
       "internalIds": [ 1823 ]
     },
-    "materials": {
-      "empty can": 1,
-      "boot": 1,
-      "old tire": 1
-    },
+    "materials": { "empty can": 1, "boot": 1, "old tire": 1 },
     "sources": [ "Fishing" ]
   },
   {
@@ -22342,10 +21638,7 @@
       "plural": false,
       "internalIds": [ 7587 ]
     },
-    "materials": {
-      "tree branch": 5,
-      "star fragment": 3
-    },
+    "materials": { "tree branch": 5, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -22385,12 +21678,7 @@
       "plural": false,
       "internalIds": [ 6081 ]
     },
-    "materials": {
-      "pine cone": 4,
-      "acorn": 5,
-      "maple leaf": 5,
-      "tree branch": 15
-    },
+    "materials": { "pine cone": 4, "acorn": 5, "maple leaf": 5, "tree branch": 15 },
     "sources": [ "Balloons" ]
   },
   {
@@ -22516,11 +21804,7 @@
       "plural": false,
       "internalIds": [ 6079 ]
     },
-    "materials": {
-      "pine cone": 6,
-      "acorn": 4,
-      "hardwood": 1
-    },
+    "materials": { "pine cone": 6, "acorn": 4, "hardwood": 1 },
     "sources": [ "Balloons", "Isabelle" ]
   },
   {
@@ -22560,11 +21844,7 @@
       "plural": false,
       "internalIds": [ 6075 ]
     },
-    "materials": {
-      "pine cone": 2,
-      "acorn": 3,
-      "tree branch": 3
-    },
+    "materials": { "pine cone": 2, "acorn": 3, "tree branch": 3 },
     "sources": [ "Balloons" ]
   },
   {
@@ -22604,11 +21884,7 @@
       "plural": false,
       "internalIds": [ 7261 ]
     },
-    "materials": {
-      "hardwood": 24,
-      "gold nugget": 3,
-      "iron nugget": 6
-    },
+    "materials": { "hardwood": 24, "gold nugget": 3, "iron nugget": 6 },
     "sources": [ "Jock villagers" ]
   },
   {
@@ -22688,11 +21964,7 @@
       "plural": false,
       "internalIds": [ 5102 ]
     },
-    "materials": {
-      "red tulips": 2,
-      "yellow tulips": 2,
-      "white tulips": 1
-    },
+    "materials": { "red tulips": 2, "yellow tulips": 2, "white tulips": 1 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -22772,10 +22044,7 @@
       "plural": false,
       "internalIds": [ 5085 ]
     },
-    "materials": {
-      "red tulips": 1,
-      "star fragment": 3
-    },
+    "materials": { "red tulips": 1, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -22815,11 +22084,7 @@
       "plural": false,
       "internalIds": [ 5670 ]
     },
-    "materials": {
-      "red tulips": 3,
-      "yellow tulips": 3,
-      "white tulips": 3
-    },
+    "materials": { "red tulips": 3, "yellow tulips": 3, "white tulips": 3 },
     "sources": [ "All Villagers", "Tom Nook" ]
   },
   {
@@ -23099,12 +22364,7 @@
       "plural": false,
       "internalIds": [ 5955 ]
     },
-    "materials": {
-      "star fragment": 3,
-      "Virgo fragment": 2,
-      "gold nugget": 2,
-      "stone": 4
-    },
+    "materials": { "star fragment": 3, "Virgo fragment": 2, "gold nugget": 2, "stone": 4 },
     "sources": [ "Celeste" ]
   },
   {
@@ -23384,10 +22644,7 @@
       "plural": false,
       "internalIds": [ 2379 ]
     },
-    "materials": {
-      "flimsy watering can": 1,
-      "iron nugget": 1
-    },
+    "materials": { "flimsy watering can": 1, "iron nugget": 1 },
     "sources": [ "Pretty Good Tools Recipes" ]
   },
   {
@@ -23467,10 +22724,7 @@
       "plural": false,
       "internalIds": [ 12894 ]
     },
-    "materials": {
-      "iron nugget": 5,
-      "softwood": 3
-    },
+    "materials": { "iron nugget": 5, "softwood": 3 },
     "sources": [ "Harvey" ]
   },
   {
@@ -23510,10 +22764,7 @@
       "plural": false,
       "internalIds": [ 12695 ]
     },
-    "materials": {
-      "wedding flower stand": 1,
-      "star fragment": 3
-    },
+    "materials": { "wedding flower stand": 1, "star fragment": 3 },
     "sources": [ "Cyrus" ]
   },
   {
@@ -23673,11 +22924,7 @@
       "plural": false,
       "internalIds": [ 5099 ]
     },
-    "materials": {
-      "red windflowers": 2,
-      "orange windflowers": 2,
-      "white windflowers": 2
-    },
+    "materials": { "red windflowers": 2, "orange windflowers": 2, "white windflowers": 2 },
     "sources": [ "All Villagers" ]
   },
   {
@@ -23717,10 +22964,7 @@
       "plural": false,
       "internalIds": [ 7233 ]
     },
-    "materials": {
-      "red windflowers": 3,
-      "iron nugget": 2
-    },
+    "materials": { "red windflowers": 3, "iron nugget": 2 },
     "sources": [ "Lazy villagers" ]
   },
   {
@@ -23760,10 +23004,7 @@
       "plural": false,
       "internalIds": [ 5084 ]
     },
-    "materials": {
-      "orange windflowers": 1,
-      "star fragment": 3
-    },
+    "materials": { "orange windflowers": 1, "star fragment": 3 },
     "sources": [ "Celeste" ]
   },
   {
@@ -23803,11 +23044,7 @@
       "plural": false,
       "internalIds": [ 5436 ]
     },
-    "materials": {
-      "red windflowers": 3,
-      "white windflowers": 3,
-      "orange windflowers": 3
-    },
+    "materials": { "red windflowers": 3, "white windflowers": 3, "orange windflowers": 3 },
     "sources": [ "All Villagers", "Tom Nook" ]
   },
   {
@@ -24574,10 +23811,7 @@
       "plural": false,
       "internalIds": [ 7454 ]
     },
-    "materials": {
-      "softwood": 4,
-      "iron nugget": 2
-    },
+    "materials": { "softwood": 4, "iron nugget": 2 },
     "sources": [ "Normal villagers" ]
   },
   {
@@ -24697,10 +23931,7 @@
       "plural": false,
       "internalIds": [ 1557 ]
     },
-    "materials": {
-      "wooden-block toy": 1,
-      "softwood": 17
-    },
+    "materials": { "wooden-block toy": 1, "softwood": 17 },
     "sources": [ "Normal villagers" ]
   },
   {
@@ -24740,10 +23971,7 @@
       "plural": false,
       "internalIds": [ 1559 ]
     },
-    "materials": {
-      "wooden-block toy": 1,
-      "softwood": 4
-    },
+    "materials": { "wooden-block toy": 1, "softwood": 4 },
     "sources": [ "Big Sister villagers" ]
   },
   {
@@ -24783,10 +24011,7 @@
       "plural": false,
       "internalIds": [ 1558 ]
     },
-    "materials": {
-      "wooden-block toy": 1,
-      "softwood": 3
-    },
+    "materials": { "wooden-block toy": 1, "softwood": 3 },
     "sources": [ "Test Your DIY Skills" ]
   },
   {
@@ -24826,10 +24051,7 @@
       "plural": false,
       "internalIds": [ 2558 ]
     },
-    "materials": {
-      "wooden-block toy": 1,
-      "softwood": 3
-    },
+    "materials": { "wooden-block toy": 1, "softwood": 3 },
     "sources": [ "Test Your DIY Skills" ]
   },
   {
@@ -24869,10 +24091,7 @@
       "plural": false,
       "internalIds": [ 1561 ]
     },
-    "materials": {
-      "wooden-block toy": 1,
-      "softwood": 12
-    },
+    "materials": { "wooden-block toy": 1, "softwood": 12 },
     "sources": [ "Normal villagers" ]
   },
   {
@@ -24912,15 +24131,8 @@
       "plural": false,
       "internalIds": [ 3205 ]
     },
-    "materials": {
-      "wooden-block toy": 1,
-      "softwood": 5,
-      "iron nugget": 2
-    },
-    "sources": [
-      "Test Your DIY Skills",
-      "Tom Nook"
-    ]
+    "materials": { "wooden-block toy": 1, "softwood": 5, "iron nugget": 2 },
+    "sources": [ "Test Your DIY Skills", "Tom Nook" ]
   },
   {
     "sourceSheet": "Recipes",
@@ -24959,10 +24171,7 @@
       "plural": false,
       "internalIds": [ 5543 ]
     },
-    "materials": {
-      "wooden-block toy": 1,
-      "softwood": 2
-    },
+    "materials": { "wooden-block toy": 1, "softwood": 2 },
     "sources": [ "Peppy villagers" ]
   },
   {
@@ -25002,14 +24211,8 @@
       "plural": false,
       "internalIds": [ 1565 ]
     },
-    "materials": {
-      "wooden-block toy": 1,
-      "softwood": 8
-    },
-    "sources": [
-      "Tom Nook",
-      "Big Sister villagers"
-    ]
+    "materials": { "wooden-block toy": 1, "softwood": 8 },
+    "sources": [ "Tom Nook", "Big Sister villagers" ]
   },
   {
     "sourceSheet": "Recipes",
@@ -25088,11 +24291,7 @@
       "plural": false,
       "internalIds": [ 3208 ]
     },
-    "materials": {
-      "wooden-block toy": 1,
-      "softwood": 2,
-      "iron nugget": 1
-    },
+    "materials": { "wooden-block toy": 1, "softwood": 2, "iron nugget": 1 },
     "sources": [ "Peppy villagers" ]
   },
   {
@@ -25252,10 +24451,7 @@
       "plural": false,
       "internalIds": [ 5223 ]
     },
-    "materials": {
-      "clump of weeds": 15,
-      "softwood": 9
-    },
+    "materials": { "clump of weeds": 15, "softwood": 9 },
     "sources": [ "Normal villagers" ]
   },
   {
@@ -25295,10 +24491,7 @@
       "plural": false,
       "internalIds": [ 4270 ]
     },
-    "materials": {
-      "acorn": 3,
-      "clump of weeds": 5
-    },
+    "materials": { "acorn": 3, "clump of weeds": 5 },
     "sources": [ "Balloons" ]
   },
   {
@@ -25338,11 +24531,7 @@
       "plural": false,
       "internalIds": [ 5207 ]
     },
-    "materials": {
-      "iron nugget": 3,
-      "clay": 3,
-      "stone": 3
-    },
+    "materials": { "iron nugget": 3, "clay": 3, "stone": 3 },
     "sources": [ "Nook Miles Exchange" ]
   },
   {

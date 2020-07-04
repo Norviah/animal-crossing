@@ -931,10 +931,7 @@
         "plural": false,
         "internalIds": [ 4130 ]
       },
-      "materials": {
-        "coconut": 1,
-        "clump of weeds": 5
-      },
+      "materials": { "coconut": 1, "clump of weeds": 5 },
       "sources": [ "Snooty villagers" ]
     }
   },
@@ -1032,11 +1029,7 @@
         "plural": false,
         "internalIds": [ 5750 ]
       },
-      "materials": {
-        "orange hyacinths": 3,
-        "blue hyacinths": 3,
-        "pink hyacinths": 3
-      },
+      "materials": { "orange hyacinths": 3, "blue hyacinths": 3, "pink hyacinths": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1232,11 +1225,7 @@
         "plural": false,
         "internalIds": [ 5746 ]
       },
-      "materials": {
-        "blue windflowers": 3,
-        "pink windflowers": 3,
-        "white windflowers": 3
-      },
+      "materials": { "blue windflowers": 3, "pink windflowers": 3, "white windflowers": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1334,11 +1323,7 @@
         "plural": false,
         "internalIds": [ 4293 ]
       },
-      "materials": {
-        "yellow cosmos": 3,
-        "white cosmos": 3,
-        "red cosmos": 3
-      },
+      "materials": { "yellow cosmos": 3, "white cosmos": 3, "red cosmos": 3 },
       "sources": [ "All Villagers", "Tom Nook" ]
     }
   },
@@ -1534,10 +1519,7 @@
         "plural": false,
         "internalIds": [ 5766 ]
       },
-      "materials": {
-        "black roses": 3,
-        "purple roses": 6
-      },
+      "materials": { "black roses": 3, "purple roses": 6 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1733,11 +1715,7 @@
         "plural": false,
         "internalIds": [ 5677 ]
       },
-      "materials": {
-        "orange lilies": 3,
-        "pink lilies": 3,
-        "yellow lilies": 3
-      },
+      "materials": { "orange lilies": 3, "pink lilies": 3, "yellow lilies": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1835,11 +1813,7 @@
         "plural": false,
         "internalIds": [ 5749 ]
       },
-      "materials": {
-        "pink mums": 3,
-        "purple mums": 3,
-        "red mums": 3
-      },
+      "materials": { "pink mums": 3, "purple mums": 3, "red mums": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1937,11 +1911,7 @@
         "plural": false,
         "internalIds": [ 5747 ]
       },
-      "materials": {
-        "orange roses": 3,
-        "pink roses": 3,
-        "yellow roses": 3
-      },
+      "materials": { "orange roses": 3, "pink roses": 3, "yellow roses": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -2157,13 +2127,7 @@
         "plural": false,
         "internalIds": [ 4378 ]
       },
-      "materials": {
-        "apple": 2,
-        "pear": 1,
-        "cherry": 3,
-        "orange": 3,
-        "peach": 1
-      },
+      "materials": { "apple": 2, "pear": 1, "cherry": 3, "orange": 3, "peach": 1 },
       "sources": [ "Cranky villagers" ]
     }
   },
@@ -2418,10 +2382,7 @@
         "plural": false,
         "internalIds": [ 11261 ]
       },
-      "materials": {
-        "gold nugget": 1,
-        "iron nugget": 3
-      },
+      "materials": { "gold nugget": 1, "iron nugget": 3 },
       "sources": [ "Smug villagers" ]
     }
   },
@@ -2637,11 +2598,7 @@
         "plural": false,
         "internalIds": [ 5468 ]
       },
-      "materials": {
-        "white hyacinths": 3,
-        "red hyacinths": 3,
-        "yellow hyacinths": 3
-      },
+      "materials": { "white hyacinths": 3, "red hyacinths": 3, "yellow hyacinths": 3 },
       "sources": [ "All Villagers", "Tom Nook" ]
     }
   },
@@ -2798,12 +2755,7 @@
         "plural": false,
         "internalIds": [ 5964 ]
       },
-      "materials": {
-        "star fragment": 3,
-        "Leo fragment": 2,
-        "gold nugget": 2,
-        "stone": 3
-      },
+      "materials": { "star fragment": 3, "Leo fragment": 2, "gold nugget": 2, "stone": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -2901,11 +2853,7 @@
         "plural": false,
         "internalIds": [ 5641 ]
       },
-      "materials": {
-        "white lilies": 3,
-        "red lilies": 3,
-        "yellow lilies": 3
-      },
+      "materials": { "white lilies": 3, "red lilies": 3, "yellow lilies": 3 },
       "sources": [ "All Villagers", "Tom Nook" ]
     }
   },
@@ -3062,12 +3010,7 @@
         "plural": false,
         "internalIds": [ 12557 ]
       },
-      "materials": {
-        "pearl": 1,
-        "sea snail": 3,
-        "coral": 2,
-        "iron nugget": 2
-      },
+      "materials": { "pearl": 1, "sea snail": 3, "coral": 2, "iron nugget": 2 },
       "sources": [ "Pascal" ]
     }
   },
@@ -3283,11 +3226,7 @@
         "plural": false,
         "internalIds": [ 5467 ]
       },
-      "materials": {
-        "white mums": 3,
-        "yellow mums": 3,
-        "red mums": 3
-      },
+      "materials": { "white mums": 3, "yellow mums": 3, "red mums": 3 },
       "sources": [ "All Villagers", "Tom Nook" ]
     }
   },
@@ -3586,11 +3525,7 @@
         "plural": false,
         "internalIds": [ 5466 ]
       },
-      "materials": {
-        "yellow pansies": 3,
-        "white pansies": 3,
-        "red pansies": 3
-      },
+      "materials": { "yellow pansies": 3, "white pansies": 3, "red pansies": 3 },
       "sources": [ "All Villagers", "Tom Nook" ]
     }
   },
@@ -3747,11 +3682,7 @@
         "plural": false,
         "internalIds": [ 5745 ]
       },
-      "materials": {
-        "orange cosmos": 3,
-        "pink cosmos": 3,
-        "red cosmos": 3
-      },
+      "materials": { "orange cosmos": 3, "pink cosmos": 3, "red cosmos": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -3849,11 +3780,7 @@
         "plural": false,
         "internalIds": [ 5751 ]
       },
-      "materials": {
-        "orange tulips": 3,
-        "pink tulips": 3,
-        "purple tulips": 3
-      },
+      "materials": { "orange tulips": 3, "pink tulips": 3, "purple tulips": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -4108,11 +4035,7 @@
         "plural": false,
         "internalIds": [ 5437 ]
       },
-      "materials": {
-        "red roses": 3,
-        "white roses": 3,
-        "yellow roses": 3
-      },
+      "materials": { "red roses": 3, "white roses": 3, "yellow roses": 3 },
       "sources": [ "All Villagers", "Tom Nook" ]
     }
   },
@@ -4210,11 +4133,7 @@
         "plural": false,
         "internalIds": [ 5958 ]
       },
-      "materials": {
-        "star fragment": 3,
-        "Sagittarius fragment": 2,
-        "gold nugget": 2
-      },
+      "materials": { "star fragment": 3, "Sagittarius fragment": 2, "gold nugget": 2 },
       "sources": [ "Celeste" ]
     }
   },
@@ -4476,11 +4395,7 @@
         "plural": false,
         "internalIds": [ 5748 ]
       },
-      "materials": {
-        "orange pansies": 3,
-        "blue pansies": 3,
-        "yellow pansies": 3
-      },
+      "materials": { "orange pansies": 3, "blue pansies": 3, "yellow pansies": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -4892,11 +4807,7 @@
         "plural": false,
         "internalIds": [ 5670 ]
       },
-      "materials": {
-        "red tulips": 3,
-        "yellow tulips": 3,
-        "white tulips": 3
-      },
+      "materials": { "red tulips": 3, "yellow tulips": 3, "white tulips": 3 },
       "sources": [ "All Villagers", "Tom Nook" ]
     }
   },
@@ -6484,10 +6395,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Brown", "Beige" ],
-        "concepts": [
-          "child's room",
-          "living room"
-        ],
+        "concepts": [ "child's room", "living room" ],
         "set": null,
         "series": null
       },
@@ -6505,10 +6413,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "White", "Red" ],
-        "concepts": [
-          "child's room",
-          "living room"
-        ],
+        "concepts": [ "child's room", "living room" ],
         "set": null,
         "series": null
       },
@@ -6526,10 +6431,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Black", "Beige" ],
-        "concepts": [
-          "child's room",
-          "living room"
-        ],
+        "concepts": [ "child's room", "living room" ],
         "set": null,
         "series": null
       },
@@ -6547,10 +6449,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Pink", "Red" ],
-        "concepts": [
-          "child's room",
-          "living room"
-        ],
+        "concepts": [ "child's room", "living room" ],
         "set": null,
         "series": null
       },
@@ -6568,10 +6467,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Red", "Beige" ],
-        "concepts": [
-          "child's room",
-          "living room"
-        ],
+        "concepts": [ "child's room", "living room" ],
         "set": null,
         "series": null
       },
@@ -6589,10 +6485,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Yellow", "Brown" ],
-        "concepts": [
-          "child's room",
-          "living room"
-        ],
+        "concepts": [ "child's room", "living room" ],
         "set": null,
         "series": null
       },
@@ -6610,10 +6503,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Blue", "White" ],
-        "concepts": [
-          "child's room",
-          "living room"
-        ],
+        "concepts": [ "child's room", "living room" ],
         "set": null,
         "series": null
       },
@@ -6631,10 +6521,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Beige", "Brown" ],
-        "concepts": [
-          "child's room",
-          "living room"
-        ],
+        "concepts": [ "child's room", "living room" ],
         "set": null,
         "series": null
       }
@@ -7320,10 +7207,7 @@
         "internalIds": [ 4012 ]
       },
       "materials": { "cherry": 10, "clay": 2 },
-      "sources": [
-        "Peppy villagers",
-        "Tom Nook"
-      ]
+      "sources": [ "Peppy villagers", "Tom Nook" ]
     }
   },
   {
@@ -7484,10 +7368,7 @@
         "plural": false,
         "internalIds": [ 6832 ]
       },
-      "materials": {
-        "cherry-blossom petal": 5,
-        "iron nugget": 1
-      },
+      "materials": { "cherry-blossom petal": 5, "iron nugget": 1 },
       "sources": [ "Balloons" ]
     }
   },
@@ -8344,10 +8225,7 @@
         },
         "patternTranslations": null,
         "colors": [ "Beige", "Beige" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -8386,10 +8264,7 @@
         },
         "patternTranslations": null,
         "colors": [ "Green", "Brown" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -8428,10 +8303,7 @@
         },
         "patternTranslations": null,
         "colors": [ "Blue", "Brown" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -8470,10 +8342,7 @@
         },
         "patternTranslations": null,
         "colors": [ "Yellow", "Beige" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -8512,10 +8381,7 @@
         },
         "patternTranslations": null,
         "colors": [ "Red", "Brown" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -8554,10 +8420,7 @@
         },
         "patternTranslations": null,
         "colors": [ "White", "White" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -8596,10 +8459,7 @@
         },
         "patternTranslations": null,
         "colors": [ "Black", "Black" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       }
@@ -14162,10 +14022,7 @@
         "plural": false,
         "internalIds": [ 3775 ]
       },
-      "materials": {
-        "clump of weeds": 12,
-        "iron nugget": 4
-      },
+      "materials": { "clump of weeds": 12, "iron nugget": 4 },
       "sources": [ "Peppy villagers" ]
     }
   },
@@ -16268,10 +16125,7 @@
         "plural": false,
         "internalIds": [ 4037 ]
       },
-      "materials": {
-        "hardwood": 2,
-        "iron nugget": 1
-      },
+      "materials": { "hardwood": 2, "iron nugget": 1 },
       "sources": [ "Lazy villagers" ]
     }
   },
@@ -18223,10 +18077,7 @@
         "plural": false,
         "internalIds": [ 4377 ]
       },
-      "materials": {
-        "blue ornament": 6,
-        "gold ornament": 2
-      },
+      "materials": { "blue ornament": 6, "gold ornament": 2 },
       "sources": [ "Balloons" ]
     }
   },
@@ -19375,10 +19226,7 @@
         "plural": false,
         "internalIds": [ 3785 ]
       },
-      "materials": {
-        "clump of weeds": 5,
-        "clay": 5
-      },
+      "materials": { "clump of weeds": 5, "clay": 5 },
       "sources": [ "Test Your DIY Skills" ]
     }
   },
@@ -21420,10 +21268,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Beige", "Pink" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -21441,10 +21286,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Brown", "Pink" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -21462,10 +21304,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Brown", "Red" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -21483,10 +21322,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Beige", "Yellow" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -21504,10 +21340,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Beige", "Red" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -21525,10 +21358,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Black", "White" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -21546,10 +21376,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Blue", "Blue" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       },
@@ -21567,10 +21394,7 @@
         "variantTranslations": null,
         "patternTranslations": null,
         "colors": [ "Red", "Pink" ],
-        "concepts": [
-          "living room",
-          "child's room"
-        ],
+        "concepts": [ "living room", "child's room" ],
         "set": null,
         "series": null
       }
@@ -21775,11 +21599,7 @@
         "plural": false,
         "internalIds": [ 6075 ]
       },
-      "materials": {
-        "pine cone": 2,
-        "acorn": 3,
-        "tree branch": 3
-      },
+      "materials": { "pine cone": 2, "acorn": 3, "tree branch": 3 },
       "sources": [ "Balloons" ]
     }
   },
@@ -24452,11 +24272,7 @@
         "plural": false,
         "internalIds": [ 3208 ]
       },
-      "materials": {
-        "wooden-block toy": 1,
-        "softwood": 2,
-        "iron nugget": 1
-      },
+      "materials": { "wooden-block toy": 1, "softwood": 2, "iron nugget": 1 },
       "sources": [ "Peppy villagers" ]
     }
   },

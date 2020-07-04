@@ -23869,8 +23869,8 @@
   {
     "SourceSheet": "Tops",
     "Name": "sea captain's coat",
-    "Closet Image": "",
-    "Storage Image": "",
+    "Closet Image": "=IMAGE(\"https://acnhcdn.com/latest/ClosetIcon/TopsTexTopCoatLPirate2.png\")",
+    "Storage Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/TopsTexTopCoatLPirate2.png\")",
     "Variation": "Black",
     "DIY": "No",
     "Buy": "NFS",
@@ -23898,8 +23898,8 @@
   {
     "SourceSheet": "Tops",
     "Name": "sea captain's coat",
-    "Closet Image": "",
-    "Storage Image": "",
+    "Closet Image": "=IMAGE(\"https://acnhcdn.com/latest/ClosetIcon/TopsTexTopCoatLPirate0.png\")",
+    "Storage Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/TopsTexTopCoatLPirate0.png\")",
     "Variation": "Red",
     "DIY": "No",
     "Buy": "NFS",
@@ -23927,8 +23927,8 @@
   {
     "SourceSheet": "Tops",
     "Name": "sea captain's coat",
-    "Closet Image": "",
-    "Storage Image": "",
+    "Closet Image": "=IMAGE(\"https://acnhcdn.com/latest/ClosetIcon/TopsTexTopCoatLPirate1.png\")",
+    "Storage Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/TopsTexTopCoatLPirate1.png\")",
     "Variation": "Blue",
     "DIY": "No",
     "Buy": "NFS",

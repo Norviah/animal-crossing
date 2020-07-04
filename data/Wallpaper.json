@@ -385,11 +385,7 @@
         "plural": false,
         "internalIds": [ 4905 ]
       },
-      "materials": {
-        "maple leaf": 10,
-        "wood": 5,
-        "clump of weeds": 5
-      },
+      "materials": { "maple leaf": 10, "wood": 5, "clump of weeds": 5 },
       "sources": [ "Balloons" ]
     }
   },
@@ -623,10 +619,7 @@
         "plural": false,
         "internalIds": [ 4853 ]
       },
-      "materials": {
-        "young spring bamboo": 7,
-        "bamboo shoot": 3
-      },
+      "materials": { "young spring bamboo": 7, "bamboo shoot": 3 },
       "sources": [ "Balloons" ]
     }
   },
@@ -3584,10 +3577,7 @@
         "plural": false,
         "internalIds": [ 7205 ]
       },
-      "materials": {
-        "cherry-blossom petal": 10,
-        "hardwood": 5
-      },
+      "materials": { "cherry-blossom petal": 10, "hardwood": 5 },
       "sources": [ "Balloons" ]
     }
   },
@@ -5244,11 +5234,7 @@
         "plural": false,
         "internalIds": [ 5229 ]
       },
-      "materials": {
-        "empty can": 2,
-        "boot": 2,
-        "old tire": 2
-      },
+      "materials": { "empty can": 2, "boot": 2, "old tire": 2 },
       "sources": [ "Fishing" ]
     }
   },
@@ -5339,10 +5325,7 @@
         "plural": false,
         "internalIds": [ 4820 ]
       },
-      "materials": {
-        "gold nugget": 2,
-        "screen wall": 1
-      },
+      "materials": { "gold nugget": 2, "screen wall": 1 },
       "sources": [ "Smug villagers" ]
     }
   },
@@ -6551,10 +6534,7 @@
         "plural": false,
         "internalIds": [ 5505 ]
       },
-      "materials": {
-        "large snowflake": 1,
-        "snowflake": 8
-      },
+      "materials": { "large snowflake": 1, "snowflake": 8 },
       "sources": [ "Snowboy" ]
     }
   },
@@ -6892,12 +6872,7 @@
         "plural": false,
         "internalIds": [ 5230 ]
       },
-      "materials": {
-        "red ornament": 5,
-        "blue ornament": 5,
-        "gold ornament": 5,
-        "clay": 5
-      },
+      "materials": { "red ornament": 5, "blue ornament": 5, "gold ornament": 5, "clay": 5 },
       "sources": [ "Balloons" ]
     }
   },
@@ -6988,12 +6963,7 @@
         "plural": false,
         "internalIds": [ 5457 ]
       },
-      "materials": {
-        "clump of weeds": 15,
-        "wood": 3,
-        "hardwood": 3,
-        "softwood": 3
-      },
+      "materials": { "clump of weeds": 15, "wood": 3, "hardwood": 3, "softwood": 3 },
       "sources": [ "Jock villagers" ]
     }
   },
@@ -7845,11 +7815,7 @@
         "plural": false,
         "internalIds": [ 4904 ]
       },
-      "materials": {
-        "wood": 5,
-        "softwood": 5,
-        "hardwood": 5
-      },
+      "materials": { "wood": 5, "softwood": 5, "hardwood": 5 },
       "sources": [ "Snooty villagers" ]
     }
   },
@@ -11208,10 +11174,7 @@
         "plural": false,
         "internalIds": [ 4947 ]
       },
-      "materials": {
-        "cherry-blossom petal": 5,
-        "wood": 10
-      },
+      "materials": { "cherry-blossom petal": 5, "wood": 10 },
       "sources": [ "Balloons" ]
     }
   },
@@ -11302,10 +11265,7 @@
         "plural": false,
         "internalIds": [ 5510 ]
       },
-      "materials": {
-        "star fragment": 5,
-        "large star fragment": 1
-      },
+      "materials": { "star fragment": 5, "large star fragment": 1 },
       "sources": [ "Celeste" ]
     }
   },
@@ -12345,10 +12305,7 @@
         "plural": false,
         "internalIds": [ 5528 ]
       },
-      "materials": {
-        "star fragment": 5,
-        "large star fragment": 1
-      },
+      "materials": { "star fragment": 5, "large star fragment": 1 },
       "sources": [ "Celeste" ]
     }
   },
@@ -12439,10 +12396,7 @@
         "plural": false,
         "internalIds": [ 5500 ]
       },
-      "materials": {
-        "star fragment": 5,
-        "large star fragment": 1
-      },
+      "materials": { "star fragment": 5, "large star fragment": 1 },
       "sources": [ "Celeste" ]
     }
   },
@@ -13170,10 +13124,7 @@
         "plural": false,
         "internalIds": [ 5508 ]
       },
-      "materials": {
-        "summer shell": 3,
-        "coral": 5
-      },
+      "materials": { "summer shell": 3, "coral": 5 },
       "sources": [ "Balloons" ]
     }
   },
@@ -14317,10 +14268,7 @@
         "plural": false,
         "internalIds": [ 5223 ]
       },
-      "materials": {
-        "clump of weeds": 15,
-        "softwood": 9
-      },
+      "materials": { "clump of weeds": 15, "softwood": 9 },
       "sources": [ "Normal villagers" ]
     }
   },

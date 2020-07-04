@@ -100,11 +100,7 @@
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -208,11 +204,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party"
-    ],
+    "themes": [ "fairy tale", "formal", "party" ],
     "recipe": null
   },
   {
@@ -524,11 +516,7 @@
     "colors": [ "Red", "Red" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -684,11 +672,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "comfy", "theatrical" ],
     "recipe": null
   },
   {
@@ -740,11 +724,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "theatrical" ],
     "recipe": null
   },
   {
@@ -848,11 +828,7 @@
     "colors": [ "Green", "Green" ],
     "styles": [ "Simple" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "outdoorsy",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "leaf",
@@ -1001,8 +977,8 @@
   {
     "sourceSheet": "Accessories",
     "name": "Nook Inc. snorkel",
-    "closetImage": null,
-    "storageImage": null,
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthNook0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthNook0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -1047,12 +1023,7 @@
     "colors": [ "Green", "Black" ],
     "styles": [ "Active" ],
     "sources": [ "Nook Miles Shop" ],
-    "themes": [
-      "outdoorsy",
-      "sporty",
-      "vacation",
-      "work"
-    ],
+    "themes": [ "outdoorsy", "sporty", "vacation", "work" ],
     "recipe": null
   },
   {
@@ -1156,18 +1127,14 @@
     "colors": [ "Pink", "Pink" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
     "sourceSheet": "Accessories",
     "name": "pirate beard",
-    "closetImage": null,
-    "storageImage": null,
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPirates0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPirates0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -1212,18 +1179,14 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cool" ],
     "sources": [ "Gullivarrr" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
     "sourceSheet": "Accessories",
     "name": "pirate eye patch",
-    "closetImage": null,
-    "storageImage": null,
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassPiratespatch0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassPiratespatch0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -1268,11 +1231,7 @@
     "colors": [ "Black", "Gray" ],
     "styles": [ "Cool" ],
     "sources": [ "Gullivarrr" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -1532,11 +1491,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "comfy", "theatrical" ],
     "recipe": null
   },
   {
@@ -1692,11 +1647,7 @@
     "colors": [ "Black", "Black" ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -1906,15 +1857,7 @@
       "korean": "역반무테 안경",
       "russian": "очки-половинки",
       "plural": false,
-      "internalIds": [
-        11086,
-        4597,
-        11085,
-        11084,
-        11082,
-        11083,
-        11081
-      ]
+      "internalIds": [ 11086, 4597, 11085, 11084, 11082, 11083, 11081 ]
     },
     "variations": [
       {
@@ -2170,13 +2113,7 @@
       "korean": "풍선껌",
       "russian": "жвачка",
       "plural": false,
-      "internalIds": [
-        11030,
-        5738,
-        11028,
-        11029,
-        11027
-      ]
+      "internalIds": [ 11030, 5738, 11028, 11029, 11027 ]
     },
     "variations": [
       {
@@ -2350,11 +2287,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2530,11 +2463,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Gulliver" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2622,11 +2551,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2660,14 +2585,7 @@
       "korean": "사이버 선글라스",
       "russian": "киберочки",
       "plural": false,
-      "internalIds": [
-        11499,
-        11498,
-        4552,
-        11502,
-        11501,
-        11500
-      ]
+      "internalIds": [ 11499, 11498, 4552, 11502, 11501, 11500 ]
     },
     "variations": [
       {
@@ -2857,11 +2775,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -3103,14 +3017,7 @@
       "korean": "아이마스크",
       "russian": "маска для сна",
       "plural": false,
-      "internalIds": [
-        11155,
-        11158,
-        11154,
-        11157,
-        11156,
-        4425
-      ]
+      "internalIds": [ 11155, 11158, 11154, 11157, 11156, 4425 ]
     },
     "variations": [
       {
@@ -3246,13 +3153,7 @@
       "korean": "플라워 선글라스",
       "russian": "очки-цветы",
       "plural": false,
-      "internalIds": [
-        5739,
-        11228,
-        11231,
-        11229,
-        11230
-      ]
+      "internalIds": [ 5739, 11228, 11231, 11229, 11230 ]
     },
     "variations": [
       {
@@ -3426,11 +3327,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -3536,14 +3433,7 @@
       "korean": "물안경",
       "russian": "очки для плавания",
       "plural": false,
-      "internalIds": [
-        4454,
-        11488,
-        11485,
-        11486,
-        11484,
-        11487
-      ]
+      "internalIds": [ 4454, 11488, 11485, 11486, 11484, 11487 ]
     },
     "variations": [
       {
@@ -3645,11 +3535,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "sporty",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
   {
@@ -3683,13 +3569,7 @@
       "korean": "하트 선글라스",
       "russian": "очки-сердечки",
       "plural": false,
-      "internalIds": [
-        4237,
-        11188,
-        11191,
-        11189,
-        11190
-      ]
+      "internalIds": [ 4237, 11188, 11191, 11189, 11190 ]
     },
     "variations": [
       {
@@ -3879,13 +3759,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "party",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "goth", "party", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -3919,14 +3793,7 @@
       "korean": "케이트의 선글라스",
       "russian": "очки «Лэйблеск»",
       "plural": false,
-      "internalIds": [
-        11776,
-        11777,
-        11780,
-        11779,
-        11778,
-        9887
-      ]
+      "internalIds": [ 11776, 11777, 11780, 11779, 11778, 9887 ]
     },
     "variations": [
       {
@@ -4028,13 +3895,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Labelle" ],
-    "themes": [
-      "everyday",
-      "formal",
-      "party",
-      "theatrical",
-      "vacation"
-    ],
+    "themes": [ "everyday", "formal", "party", "theatrical", "vacation" ],
     "recipe": null
   },
   {
@@ -4068,14 +3929,7 @@
       "korean": "블라인드 선글라스",
       "russian": "очки-решетки",
       "plural": false,
-      "internalIds": [
-        4464,
-        11004,
-        11005,
-        11003,
-        11002,
-        11006
-      ]
+      "internalIds": [ 4464, 11004, 11005, 11003, 11002, 11006 ]
     },
     "variations": [
       {
@@ -4211,14 +4065,7 @@
       "korean": "베네치안 마스크",
       "russian": "маскарадная маска",
       "plural": false,
-      "internalIds": [
-        11161,
-        11163,
-        4667,
-        11165,
-        11164,
-        11162
-      ]
+      "internalIds": [ 11161, 11163, 4667, 11165, 11164, 11162 ]
     },
     "variations": [
       {
@@ -4320,11 +4167,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -4446,13 +4289,7 @@
       "korean": "팔각 안경",
       "russian": "восьмиугольные очки",
       "plural": false,
-      "internalIds": [
-        4239,
-        11075,
-        11072,
-        11073,
-        11074
-      ]
+      "internalIds": [ 4239, 11075, 11072, 11073, 11074 ]
     },
     "variations": [
       {
@@ -4572,15 +4409,7 @@
       "korean": "타원 안경",
       "russian": "овальные очки",
       "plural": false,
-      "internalIds": [
-        11092,
-        11090,
-        11087,
-        11091,
-        4609,
-        11088,
-        11089
-      ]
+      "internalIds": [ 11092, 11090, 11087, 11091, 4609, 11088, 11089 ]
     },
     "variations": [
       {
@@ -4732,16 +4561,7 @@
       "korean": "노리개젖꼭지",
       "russian": "соска-пустышка",
       "plural": false,
-      "internalIds": [
-        11017,
-        11016,
-        2298,
-        11019,
-        11014,
-        11015,
-        11013,
-        11018
-      ]
+      "internalIds": [ 11017, 11016, 2298, 11019, 11014, 11015, 11013, 11018 ]
     },
     "variations": [
       {
@@ -5085,14 +4905,7 @@
       "korean": "레트로 선글라스",
       "russian": "солнечные ретро-очки",
       "plural": false,
-      "internalIds": [
-        4456,
-        11213,
-        11210,
-        11211,
-        11209,
-        11212
-      ]
+      "internalIds": [ 4456, 11213, 11210, 11211, 11209, 11212 ]
     },
     "variations": [
       {
@@ -5194,11 +5007,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "everyday", "party", "vacation" ],
     "recipe": null
   },
   {
@@ -5286,11 +5095,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "party",
-      "theatrical",
-      "vacation"
-    ],
+    "themes": [ "party", "theatrical", "vacation" ],
     "recipe": null
   },
   {
@@ -5324,13 +5129,7 @@
       "korean": "동글 안경",
       "russian": "очки в роговой оправе",
       "plural": false,
-      "internalIds": [
-        11185,
-        4235,
-        11184,
-        11187,
-        11186
-      ]
+      "internalIds": [ 11185, 4235, 11184, 11187, 11186 ]
     },
     "variations": [
       {
@@ -5450,16 +5249,7 @@
       "korean": "둥근 선글라스",
       "russian": "очки «Кошачий глаз»",
       "plural": false,
-      "internalIds": [
-        11201,
-        4241,
-        11200,
-        11199,
-        11198,
-        11196,
-        11197,
-        11202
-      ]
+      "internalIds": [ 11201, 4241, 11200, 11199, 11198, 11196, 11197, 11202 ]
     },
     "variations": [
       {
@@ -5593,11 +5383,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "everyday", "party", "vacation" ],
     "recipe": null
   },
   {
@@ -5735,14 +5521,7 @@
       "korean": "스키 고글",
       "russian": "лыжные очки",
       "plural": false,
-      "internalIds": [
-        11479,
-        4453,
-        11480,
-        11483,
-        11482,
-        11481
-      ]
+      "internalIds": [ 11479, 4453, 11480, 11483, 11482, 11481 ]
     },
     "variations": [
       {
@@ -5878,19 +5657,12 @@
       "korean": "스노클",
       "russian": "маска для ныряния",
       "plural": false,
-      "internalIds": [
-        11497,
-        11494,
-        11495,
-        11493,
-        11496,
-        4551
-      ]
+      "internalIds": [ 11497, 11494, 11495, 11493, 11496, 4551 ]
     },
     "variations": [
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver5.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver5.png",
         "variation": "Black",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -5905,8 +5677,8 @@
         "colors": [ "Gray", "Black" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver2.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver2.png",
         "variation": "Red",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -5921,8 +5693,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver3.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver3.png",
         "variation": "Pink",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -5937,8 +5709,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver1.png",
         "variation": "Orange",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -5953,8 +5725,8 @@
         "colors": [ "Yellow", "Orange" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver4.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver4.png",
         "variation": "Green",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -5969,8 +5741,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver0.png",
         "variation": "Blue",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -5987,12 +5759,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Nintendo", "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "sporty",
-      "vacation",
-      "work"
-    ],
+    "themes": [ "outdoorsy", "sporty", "vacation", "work" ],
     "recipe": null
   },
   {
@@ -6026,13 +5793,7 @@
       "korean": "스포츠 선글라스",
       "russian": "спортивные очки",
       "plural": false,
-      "internalIds": [
-        11489,
-        4458,
-        11490,
-        11491,
-        11492
-      ]
+      "internalIds": [ 11489, 4458, 11490, 11491, 11492 ]
     },
     "variations": [
       {
@@ -6328,13 +6089,7 @@
       "korean": "별 선글라스",
       "russian": "очки-звездочки",
       "plural": false,
-      "internalIds": [
-        11192,
-        4240,
-        11195,
-        11193,
-        11194
-      ]
+      "internalIds": [ 11192, 4240, 11195, 11193, 11194 ]
     },
     "variations": [
       {
@@ -6702,15 +6457,7 @@
       "korean": "삼각 선글라스",
       "russian": "треугольные очки",
       "plural": false,
-      "internalIds": [
-        11207,
-        11208,
-        4242,
-        11203,
-        11206,
-        11204,
-        11205
-      ]
+      "internalIds": [ 11207, 11208, 4242, 11203, 11206, 11204, 11205 ]
     },
     "variations": [
       {

@@ -100,11 +100,7 @@
     "colors": [ "Yellow", "Red" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "apple dress",
@@ -299,12 +295,7 @@
     "colors": [ "White", "White" ],
     "styles": [ "Elegant" ],
     "sources": [ "Cyrus" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -356,11 +347,7 @@
     "colors": [ "Red", "Red" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry dress",
@@ -607,11 +594,7 @@
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "earth-egg outfit",
@@ -702,11 +685,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "egg party dress",
@@ -752,9 +731,7 @@
         "sky egg": 3,
         "water egg": 3
       },
-      "sources": [
-        "Learning all egg outfit DIYs"
-      ]
+      "sources": [ "Learning all egg outfit DIYs" ]
     }
   },
   {
@@ -806,11 +783,7 @@
     "colors": [ "Yellow", "White" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -1109,11 +1082,7 @@
     "colors": [ "Purple", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -1412,11 +1381,7 @@
     "colors": [ "Red", "Green" ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -1468,11 +1433,7 @@
     "colors": [ "Green", "Brown" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -1524,11 +1485,7 @@
     "colors": [ "Green", "Green" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "leaf-egg outfit",
@@ -1775,11 +1732,7 @@
     "colors": [ "Orange", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "orange dress",
@@ -1922,11 +1875,7 @@
     "colors": [ "Pink", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "peach dress",
@@ -2017,11 +1966,7 @@
     "colors": [ "Yellow", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pear dress",
@@ -2164,18 +2109,14 @@
     "colors": [ "Yellow", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": null
   },
   {
     "sourceSheet": "Dress-Up",
     "name": "pirate-treasure robe",
-    "closetImage": null,
-    "storageImage": null,
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceAlongLPirates0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceAlongLPirates0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -2220,12 +2161,7 @@
     "colors": [ "Black", "Yellow" ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Gullivarrr" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -2381,11 +2317,7 @@
     "colors": [ "Light blue", "Red" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "sky-egg outfit",
@@ -2528,11 +2460,7 @@
     "colors": [ "Yellow", "Orange" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone-egg outfit",
@@ -2623,11 +2551,7 @@
     "colors": [ "Pink", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2679,11 +2603,7 @@
     "colors": [ "Red", "White" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2839,11 +2759,7 @@
     "colors": [ "Purple", "Beige" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "water-egg outfit",
@@ -2934,11 +2850,7 @@
     "colors": [ "Red", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": null
   },
   {
@@ -2990,11 +2902,7 @@
     "colors": [ "White", "Blue" ],
     "styles": [ "Elegant" ],
     "sources": [ "Cyrus" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "theatrical" ],
     "recipe": null
   },
   {
@@ -3046,11 +2954,7 @@
     "colors": [ "Orange", "Brown" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wood-egg outfit",
@@ -3944,16 +3848,7 @@
       "korean": "내리닫이 유아복",
       "russian": "детский комбинезон",
       "plural": false,
-      "internalIds": [
-        7831,
-        7828,
-        7834,
-        7829,
-        7830,
-        4470,
-        7833,
-        7832
-      ]
+      "internalIds": [ 7831, 7828, 7834, 7829, 7830, 4470, 7833, 7832 ]
     },
     "variations": [
       {
@@ -4185,11 +4080,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -4329,16 +4220,7 @@
       "korean": "발레 의상",
       "russian": "балетное платье",
       "plural": false,
-      "internalIds": [
-        9416,
-        9415,
-        9418,
-        3166,
-        9417,
-        9412,
-        9413,
-        9414
-      ]
+      "internalIds": [ 9416, 9415, 9418, 3166, 9417, 9412, 9413, 9414 ]
     },
     "variations": [
       {
@@ -4480,12 +4362,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "sporty",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "sporty", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -4608,13 +4485,7 @@
       "korean": "야구복",
       "russian": "бейсбольная форма",
       "plural": false,
-      "internalIds": [
-        11108,
-        11109,
-        3611,
-        11107,
-        11106
-      ]
+      "internalIds": [ 11108, 11109, 3611, 11107, 11106 ]
     },
     "variations": [
       {
@@ -4738,15 +4609,7 @@
       "korean": "목욕 수건",
       "russian": "банное полотенце",
       "plural": false,
-      "internalIds": [
-        7811,
-        7815,
-        4361,
-        7813,
-        7812,
-        7814,
-        7816
-      ]
+      "internalIds": [ 7811, 7815, 4361, 7813, 7812, 7814, 7816 ]
     },
     "variations": [
       {
@@ -4904,15 +4767,7 @@
       "korean": "목욕 가운",
       "russian": "купальный халат",
       "plural": false,
-      "internalIds": [
-        3165,
-        7821,
-        7817,
-        7819,
-        7818,
-        7820,
-        7822
-      ]
+      "internalIds": [ 3165, 7821, 7817, 7819, 7818, 7820, 7822 ]
     },
     "variations": [
       {
@@ -5144,11 +4999,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -5362,11 +5213,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": null
   },
   {
@@ -5670,11 +5517,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "comfy"
-    ],
+    "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
   {
@@ -5764,11 +5607,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -5948,11 +5787,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "comfy"
-    ],
+    "themes": [ "everyday", "fairy tale", "comfy" ],
     "recipe": null
   },
   {
@@ -5985,15 +5820,7 @@
       "korean": "원피스 교복",
       "russian": "форма с юбкой в складку",
       "plural": false,
-      "internalIds": [
-        7575,
-        7572,
-        7576,
-        7574,
-        7573,
-        3662,
-        7577
-      ]
+      "internalIds": [ 7575, 7572, 7576, 7574, 7573, 3662, 7577 ]
     },
     "variations": [
       {
@@ -6331,14 +6158,7 @@
       "korean": "앞여밈 원피스",
       "russian": "платье с запахом",
       "plural": false,
-      "internalIds": [
-        8599,
-        4596,
-        8600,
-        8598,
-        8601,
-        8602
-      ]
+      "internalIds": [ 8599, 4596, 8600, 8598, 8601, 8602 ]
     },
     "variations": [
       {
@@ -6446,11 +6266,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -6647,11 +6463,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -6971,16 +6783,7 @@
       "korean": "치어리더 옷",
       "russian": "форма чирлидера",
       "plural": false,
-      "internalIds": [
-        3058,
-        9366,
-        9365,
-        9367,
-        9369,
-        9371,
-        9368,
-        9370
-      ]
+      "internalIds": [ 3058, 9366, 9365, 9367, 9369, 9371, 9368, 9370 ]
     },
     "variations": [
       {
@@ -7229,11 +7032,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -7430,12 +7229,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "party", "vacation" ],
     "recipe": null
   },
   {
@@ -8076,16 +7870,7 @@
       "korean": "데님 멜빵 의상",
       "russian": "джинсовый комбинезон",
       "plural": false,
-      "internalIds": [
-        9472,
-        9475,
-        9474,
-        9473,
-        9471,
-        3668,
-        9469,
-        9470
-      ]
+      "internalIds": [ 9472, 9475, 9474, 9473, 9471, 3668, 9469, 9470 ]
     },
     "variations": [
       {
@@ -8227,11 +8012,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "outdoorsy", "vacation" ],
     "recipe": null
   },
   {
@@ -8478,15 +8259,7 @@
       "korean": "다이너 유니폼",
       "russian": "униформа официантки",
       "plural": false,
-      "internalIds": [
-        8881,
-        8876,
-        3142,
-        8878,
-        8879,
-        8877,
-        8880
-      ]
+      "internalIds": [ 8881, 8876, 3142, 8878, 8879, 8877, 8880 ]
     },
     "variations": [
       {
@@ -8644,15 +8417,7 @@
       "korean": "아이돌 의상",
       "russian": "кукольное платье",
       "plural": false,
-      "internalIds": [
-        9427,
-        9422,
-        9424,
-        4406,
-        9423,
-        9426,
-        9425
-      ]
+      "internalIds": [ 9427, 9422, 9424, 4406, 9423, 9426, 9425 ]
     },
     "variations": [
       {
@@ -8777,13 +8542,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical",
-      "vacation",
-      "work"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical", "vacation", "work" ],
     "recipe": null
   },
   {
@@ -8890,11 +8649,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -9018,11 +8773,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party"
-    ],
+    "themes": [ "fairy tale", "formal", "party" ],
     "recipe": null
   },
   {
@@ -9146,11 +8897,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -9183,16 +8930,7 @@
       "korean": "메르헨 드레스",
       "russian": "сказочное платьице",
       "plural": false,
-      "internalIds": [
-        3137,
-        8869,
-        8875,
-        8870,
-        8874,
-        8871,
-        8873,
-        8872
-      ]
+      "internalIds": [ 3137, 8869, 8875, 8870, 8874, 8871, 8873, 8872 ]
     },
     "variations": [
       {
@@ -9367,16 +9105,7 @@
       "korean": "화려한 기모노",
       "russian": "праздничное кимоно",
       "plural": false,
-      "internalIds": [
-        5461,
-        8986,
-        8989,
-        8984,
-        8990,
-        8988,
-        8985,
-        8987
-      ]
+      "internalIds": [ 5461, 8986, 8989, 8984, 8990, 8988, 8985, 8987 ]
     },
     "variations": [
       {
@@ -9749,11 +9478,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "work"
-    ],
+    "themes": [ "everyday", "outdoorsy", "work" ],
     "recipe": null
   },
   {
@@ -9877,12 +9602,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -9915,14 +9635,7 @@
       "korean": "크리스마스트리 원피스",
       "russian": "платье «Елка»",
       "plural": false,
-      "internalIds": [
-        3169,
-        9489,
-        9488,
-        9490,
-        9492,
-        9491
-      ]
+      "internalIds": [ 3169, 9489, 9488, 9490, 9492, 9491 ]
     },
     "variations": [
       {
@@ -10063,15 +9776,7 @@
       "korean": "피겨 의상",
       "russian": "костюм фигуриста",
       "plural": false,
-      "internalIds": [
-        9527,
-        9522,
-        9525,
-        9526,
-        9523,
-        5404,
-        9524
-      ]
+      "internalIds": [ 9527, 9522, 9525, 9526, 9523, 5404, 9524 ]
     },
     "variations": [
       {
@@ -10229,15 +9934,7 @@
       "korean": "피겨 드레스",
       "russian": "платье фигуристки",
       "plural": false,
-      "internalIds": [
-        9521,
-        9516,
-        9519,
-        9520,
-        9517,
-        5393,
-        9518
-      ]
+      "internalIds": [ 9521, 9516, 9519, 9520, 9517, 5393, 9518 ]
     },
     "variations": [
       {
@@ -10750,14 +10447,7 @@
       "korean": "투톤 꽃무늬 기모노",
       "russian": "яркое кимоно",
       "plural": false,
-      "internalIds": [
-        8994,
-        8991,
-        8992,
-        5797,
-        8993,
-        8995
-      ]
+      "internalIds": [ 8994, 8991, 8992, 5797, 8993, 8995 ]
     },
     "variations": [
       {
@@ -11095,16 +10785,7 @@
       "korean": "꽃무늬 레이스 원피스",
       "russian": "платье с кружевом",
       "plural": false,
-      "internalIds": [
-        8896,
-        8892,
-        8890,
-        8893,
-        8894,
-        4570,
-        8891,
-        8895
-      ]
+      "internalIds": [ 8896, 8892, 8890, 8893, 8894, 4570, 8891, 8895 ]
     },
     "variations": [
       {
@@ -11246,13 +10927,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "formal",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "formal", "party", "vacation" ],
     "recipe": null
   },
   {
@@ -11663,11 +11338,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -11880,16 +11551,7 @@
       "korean": "전신 타이츠",
       "russian": "облегающий комбинезон",
       "plural": false,
-      "internalIds": [
-        8640,
-        8646,
-        4324,
-        8641,
-        8644,
-        8645,
-        8643,
-        8642
-      ]
+      "internalIds": [ 8640, 8646, 4324, 8641, 8644, 8645, 8643, 8642 ]
     },
     "variations": [
       {
@@ -12138,12 +11800,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -12502,16 +12159,7 @@
       "korean": "아이스하키 유니폼",
       "russian": "форма хоккеиста",
       "plural": false,
-      "internalIds": [
-        5831,
-        9405,
-        9411,
-        9406,
-        9409,
-        9408,
-        9410,
-        9407
-      ]
+      "internalIds": [ 5831, 9405, 9411, 9406, 9409, 9408, 9410, 9407 ]
     },
     "variations": [
       {
@@ -12726,11 +12374,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -12763,16 +12407,7 @@
       "korean": "근육 슈트",
       "russian": "костюм с мышцами",
       "plural": false,
-      "internalIds": [
-        8655,
-        8653,
-        8657,
-        8654,
-        8651,
-        8652,
-        8656,
-        5387
-      ]
+      "internalIds": [ 8655, 8653, 8657, 8654, 8651, 8652, 8656, 5387 ]
     },
     "variations": [
       {
@@ -12914,11 +12549,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "party",
-      "sporty",
-      "theatrical"
-    ],
+    "themes": [ "party", "sporty", "theatrical" ],
     "recipe": null
   },
   {
@@ -13025,13 +12656,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "party",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "goth", "party", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -13154,16 +12779,7 @@
       "korean": "기수 옷",
       "russian": "форма жокея",
       "plural": false,
-      "internalIds": [
-        11136,
-        11135,
-        11134,
-        3409,
-        11130,
-        11132,
-        11131,
-        11133
-      ]
+      "internalIds": [ 11136, 11135, 11134, 3409, 11130, 11132, 11131, 11133 ]
     },
     "variations": [
       {
@@ -13411,16 +13027,7 @@
       "korean": "작업복",
       "russian": "спецодежда",
       "plural": false,
-      "internalIds": [
-        9465,
-        9459,
-        9463,
-        3448,
-        9461,
-        9462,
-        9460,
-        9464
-      ]
+      "internalIds": [ 9465, 9459, 9463, 3448, 9461, 9462, 9460, 9464 ]
     },
     "variations": [
       {
@@ -13652,11 +13259,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "comfy",
-      "theatrical",
-      "vacation"
-    ],
+    "themes": [ "comfy", "theatrical", "vacation" ],
     "recipe": null
   },
   {
@@ -13852,14 +13455,7 @@
       "korean": "케이트의 원피스",
       "russian": "платье «Лэйблеск»",
       "plural": false,
-      "internalIds": [
-        11726,
-        11727,
-        11730,
-        11729,
-        11728,
-        9877
-      ]
+      "internalIds": [ 11726, 11727, 11730, 11729, 11728, 9877 ]
     },
     "variations": [
       {
@@ -13967,11 +13563,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Labelle" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -14061,11 +13653,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -14155,11 +13743,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -14998,12 +14582,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "formal",
-      "party"
-    ],
+    "themes": [ "everyday", "fairy tale", "formal", "party" ],
     "recipe": null
   },
   {
@@ -15143,16 +14722,7 @@
       "korean": "매지컬 드레스",
       "russian": "платье из аниме",
       "plural": false,
-      "internalIds": [
-        4332,
-        8697,
-        8695,
-        8692,
-        8693,
-        8698,
-        8694,
-        8696
-      ]
+      "internalIds": [ 4332, 8697, 8695, 8692, 8693, 8698, 8694, 8696 ]
     },
     "variations": [
       {
@@ -15327,16 +14897,7 @@
       "korean": "메이드 옷",
       "russian": "платье горничной",
       "plural": false,
-      "internalIds": [
-        3138,
-        8257,
-        8260,
-        8262,
-        8256,
-        8259,
-        8261,
-        8258
-      ]
+      "internalIds": [ 3138, 8257, 8260, 8262, 8256, 8259, 8261, 8258 ]
     },
     "variations": [
       {
@@ -15478,12 +15039,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "formal", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -15556,11 +15112,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -15717,14 +15269,7 @@
       "korean": "악단 의상",
       "russian": "костюм мариачи",
       "plural": false,
-      "internalIds": [
-        8166,
-        8168,
-        8164,
-        4653,
-        8167,
-        8165
-      ]
+      "internalIds": [ 8166, 8168, 8164, 4653, 8167, 8165 ]
     },
     "variations": [
       {
@@ -15832,11 +15377,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -15869,14 +15410,7 @@
       "korean": "롱 셔츠 원피스",
       "russian": "платье-рубашка в клетку",
       "plural": false,
-      "internalIds": [
-        8957,
-        8961,
-        4520,
-        8958,
-        8959,
-        8960
-      ]
+      "internalIds": [ 8957, 8961, 4520, 8958, 8959, 8960 ]
     },
     "variations": [
       {
@@ -16021,8 +15555,8 @@
     },
     "variations": [
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceAlongNMermaiddress0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceAlongNMermaiddress0.png",
         "variation": "Pink",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -16038,8 +15572,8 @@
         "colors": [ "Pink", "Light blue" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceAlongNMermaiddress1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceAlongNMermaiddress1.png",
         "variation": "Light blue",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -16057,12 +15591,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Pascal" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -16099,8 +15628,8 @@
     },
     "variations": [
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceDressNMermaid0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceDressNMermaid0.png",
         "variation": "Pink",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -16116,8 +15645,8 @@
         "colors": [ "Pink", "Light blue" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceDressNMermaid1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceDressNMermaid1.png",
         "variation": "Light blue",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -16135,12 +15664,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Pascal" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -16410,11 +15934,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -16537,13 +16057,7 @@
       "korean": "네글리제",
       "russian": "ночная сорочка",
       "plural": false,
-      "internalIds": [
-        11937,
-        8137,
-        4248,
-        11935,
-        11936
-      ]
+      "internalIds": [ 11937, 8137, 4248, 11935, 11936 ]
     },
     "variations": [
       {
@@ -16667,16 +16181,7 @@
       "korean": "닌자 옷",
       "russian": "костюм ниндзя",
       "plural": false,
-      "internalIds": [
-        3460,
-        9207,
-        9208,
-        9213,
-        9212,
-        9211,
-        9210,
-        9209
-      ]
+      "internalIds": [ 3460, 9207, 9208, 9213, 9212, 9211, 9210, 9209 ]
     },
     "variations": [
       {
@@ -16818,11 +16323,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -16855,16 +16356,7 @@
       "korean": "귀족 드레스",
       "russian": "дворянское платье",
       "plural": false,
-      "internalIds": [
-        7427,
-        7429,
-        7432,
-        7426,
-        7431,
-        5798,
-        7428,
-        7430
-      ]
+      "internalIds": [ 7427, 7429, 7432, 7426, 7431, 5798, 7428, 7430 ]
     },
     "variations": [
       {
@@ -17006,12 +16498,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -17044,16 +16531,7 @@
       "korean": "히어로 슈트 P",
       "russian": "платье героини",
       "plural": false,
-      "internalIds": [
-        3159,
-        9487,
-        9486,
-        9485,
-        9483,
-        9484,
-        9482,
-        9481
-      ]
+      "internalIds": [ 3159, 9487, 9486, 9485, 9483, 9484, 9482, 9481 ]
     },
     "variations": [
       {
@@ -17195,11 +16673,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -17643,14 +17117,7 @@
       "korean": "큰 무늬 원피스",
       "russian": "свободн. платье с узором",
       "plural": false,
-      "internalIds": [
-        4556,
-        7920,
-        7918,
-        7917,
-        7919,
-        7921
-      ]
+      "internalIds": [ 4556, 7920, 7918, 7917, 7919, 7921 ]
     },
     "variations": [
       {
@@ -18005,13 +17472,7 @@
       "korean": "파자마 원피스",
       "russian": "платье-пижама",
       "plural": false,
-      "internalIds": [
-        11932,
-        11933,
-        11931,
-        11096,
-        11934
-      ]
+      "internalIds": [ 11932, 11933, 11931, 11096, 11934 ]
     },
     "variations": [
       {
@@ -18602,14 +18063,7 @@
       "korean": "인형 같은 원피스",
       "russian": "платье с мелким плиссе",
       "plural": false,
-      "internalIds": [
-        4506,
-        8885,
-        8886,
-        8888,
-        8887,
-        8889
-      ]
+      "internalIds": [ 4506, 8885, 8886, 8888, 8887, 8889 ]
     },
     "variations": [
       {
@@ -18754,8 +18208,8 @@
     },
     "variations": [
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceBalloonHPirate2.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceBalloonHPirate2.png",
         "variation": "Black",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -18771,8 +18225,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceBalloonHPirate0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceBalloonHPirate0.png",
         "variation": "Red",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -18788,8 +18242,8 @@
         "colors": [ "Red", "Black" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceBalloonHPirate1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceBalloonHPirate1.png",
         "variation": "Blue",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -18807,11 +18261,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Gullivarrr" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -18848,8 +18298,8 @@
     },
     "variations": [
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceOverallHPirates2.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceOverallHPirates2.png",
         "variation": "Black",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -18865,8 +18315,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceOverallHPirates0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceOverallHPirates0.png",
         "variation": "Red",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -18882,8 +18332,8 @@
         "colors": [ "Red", "Black" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexOnepieceOverallHPirates1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceOverallHPirates1.png",
         "variation": "Blue",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -18901,11 +18351,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Gullivarrr" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -19136,11 +18582,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -19337,11 +18779,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -19464,16 +18902,7 @@
       "korean": "공주풍 옷",
       "russian": "платье принцессы",
       "plural": false,
-      "internalIds": [
-        8237,
-        8233,
-        8236,
-        8232,
-        8231,
-        8235,
-        3260,
-        8234
-      ]
+      "internalIds": [ 8237, 8233, 8236, 8232, 8231, 8235, 3260, 8234 ]
     },
     "variations": [
       {
@@ -19615,11 +19044,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party"
-    ],
+    "themes": [ "fairy tale", "formal", "party" ],
     "recipe": null
   },
   {
@@ -19759,15 +19184,7 @@
       "korean": "버튼 재킷 세트 정장",
       "russian": "деловой костюм с юбкой",
       "plural": false,
-      "internalIds": [
-        3134,
-        7901,
-        7905,
-        7904,
-        7906,
-        7903,
-        7902
-      ]
+      "internalIds": [ 3134, 7901, 7905, 7904, 7906, 7903, 7902 ]
     },
     "variations": [
       {
@@ -19925,14 +19342,7 @@
       "korean": "르네상스 드레스",
       "russian": "платье эпохи Ренессанса",
       "plural": false,
-      "internalIds": [
-        5432,
-        8172,
-        8169,
-        8171,
-        8170,
-        8173
-      ]
+      "internalIds": [ 5432, 8172, 8169, 8171, 8170, 8173 ]
     },
     "variations": [
       {
@@ -20040,12 +19450,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -20202,14 +19607,7 @@
       "korean": "복고풍 박스 원피스",
       "russian": "платье-ретро",
       "plural": false,
-      "internalIds": [
-        7912,
-        7914,
-        7913,
-        7915,
-        2706,
-        7916
-      ]
+      "internalIds": [ 7912, 7914, 7913, 7915, 2706, 7916 ]
     },
     "variations": [
       {
@@ -20531,12 +19929,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "goth",
-      "party"
-    ],
+    "themes": [ "fairy tale", "formal", "goth", "party" ],
     "recipe": null
   },
   {
@@ -20569,16 +19962,7 @@
       "korean": "럭비 유니폼",
       "russian": "форма для регби",
       "plural": false,
-      "internalIds": [
-        4586,
-        7631,
-        7630,
-        7629,
-        7632,
-        7635,
-        7634,
-        7633
-      ]
+      "internalIds": [ 4586, 7631, 7630, 7629, 7632, 7635, 7634, 7633 ]
     },
     "variations": [
       {
@@ -21007,11 +20391,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -21242,11 +20622,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -21460,11 +20836,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -21497,14 +20869,7 @@
       "korean": "조개 드레스",
       "russian": "платье с ракушками",
       "plural": false,
-      "internalIds": [
-        8249,
-        4657,
-        8247,
-        8248,
-        8246,
-        8250
-      ]
+      "internalIds": [ 8249, 4657, 8247, 8248, 8246, 8250 ]
     },
     "variations": [
       {
@@ -21612,12 +20977,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical", "vacation" ],
     "recipe": null
   },
   {
@@ -21921,11 +21281,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -21958,16 +21314,7 @@
       "korean": "나들이 기모노",
       "russian": "визитное кимоно",
       "plural": false,
-      "internalIds": [
-        9010,
-        9005,
-        9007,
-        9009,
-        6026,
-        9008,
-        9006,
-        9004
-      ]
+      "internalIds": [ 9010, 9005, 9007, 9009, 6026, 9008, 9006, 9004 ]
     },
     "variations": [
       {
@@ -22142,13 +21489,7 @@
       "korean": "심플 도트 원피스",
       "russian": "платье в горох",
       "plural": false,
-      "internalIds": [
-        12109,
-        8188,
-        12106,
-        12108,
-        12107
-      ]
+      "internalIds": [ 12109, 8188, 12106, 12108, 12107 ]
     },
     "variations": [
       {
@@ -22503,15 +21844,7 @@
       "korean": "차이나 드레스",
       "russian": "шелковое платье",
       "plural": false,
-      "internalIds": [
-        9154,
-        5131,
-        9155,
-        9157,
-        9152,
-        9156,
-        9153
-      ]
+      "internalIds": [ 9154, 5131, 9155, 9157, 9152, 9156, 9153 ]
     },
     "variations": [
       {
@@ -22669,14 +22002,7 @@
       "korean": "민소매 니트 원피스",
       "russian": "вязан. платье без рукавов",
       "plural": false,
-      "internalIds": [
-        8011,
-        3261,
-        8010,
-        8014,
-        8013,
-        8012
-      ]
+      "internalIds": [ 8011, 3261, 8010, 8014, 8013, 8012 ]
     },
     "variations": [
       {
@@ -22817,15 +22143,7 @@
       "korean": "노움 옷",
       "russian": "костюм эльфа",
       "plural": false,
-      "internalIds": [
-        8131,
-        8135,
-        8134,
-        4171,
-        8136,
-        8133,
-        8132
-      ]
+      "internalIds": [ 8131, 8135, 8134, 4171, 8136, 8133, 8132 ]
     },
     "variations": [
       {
@@ -23304,16 +22622,7 @@
       "korean": "줄무늬 원피스",
       "russian": "платье в полоску",
       "plural": false,
-      "internalIds": [
-        7773,
-        4262,
-        7772,
-        7775,
-        7769,
-        7771,
-        7774,
-        7770
-      ]
+      "internalIds": [ 7773, 4262, 7772, 7775, 7769, 7771, 7774, 7770 ]
     },
     "variations": [
       {
@@ -23562,11 +22871,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -24118,11 +23423,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -24516,11 +23817,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -24677,14 +23974,7 @@
       "korean": "탱고 드레스",
       "russian": "платье для танго",
       "plural": false,
-      "internalIds": [
-        7881,
-        5815,
-        7882,
-        7885,
-        7883,
-        7884
-      ]
+      "internalIds": [ 7881, 5815, 7882, 7885, 7883, 7884 ]
     },
     "variations": [
       {
@@ -24825,14 +24115,7 @@
       "korean": "티셔츠 원피스",
       "russian": "платье-футболка",
       "plural": false,
-      "internalIds": [
-        8385,
-        4559,
-        8387,
-        8386,
-        8384,
-        8383
-      ]
+      "internalIds": [ 8385, 4559, 8387, 8386, 8384, 8383 ]
     },
     "variations": [
       {
@@ -25457,14 +24740,7 @@
       "korean": "세뇨리따 드레스",
       "russian": "викторианское платье",
       "plural": false,
-      "internalIds": [
-        12080,
-        12082,
-        12078,
-        12081,
-        9834,
-        12079
-      ]
+      "internalIds": [ 12080, 12082, 12078, 12081, 9834, 12079 ]
     },
     "variations": [
       {
@@ -25572,11 +24848,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -25682,14 +24954,7 @@
       "korean": "프로 레슬링 옷",
       "russian": "форма рестлера",
       "plural": false,
-      "internalIds": [
-        8638,
-        3610,
-        8637,
-        8639,
-        8636,
-        8635
-      ]
+      "internalIds": [ 8638, 3610, 8637, 8639, 8636, 8635 ]
     },
     "variations": [
       {
@@ -25920,16 +25185,7 @@
       "korean": "히어로 슈트",
       "russian": "костюм супергероя",
       "plural": false,
-      "internalIds": [
-        11573,
-        11577,
-        11576,
-        11575,
-        3451,
-        11574,
-        11572,
-        11571
-      ]
+      "internalIds": [ 11573, 11577, 11576, 11575, 3451, 11574, 11572, 11571 ]
     },
     "variations": [
       {
@@ -26071,11 +25327,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -26108,14 +25360,7 @@
       "korean": "에스닉 원피스",
       "russian": "платье с узором «Зигзаг»",
       "plural": false,
-      "internalIds": [
-        8817,
-        8816,
-        8818,
-        8815,
-        4616,
-        8819
-      ]
+      "internalIds": [ 8817, 8816, 8818, 8815, 4616, 8819 ]
     },
     "variations": [
       {

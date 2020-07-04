@@ -2,8 +2,8 @@
   {
     "sourceSheet": "Clothing Other",
     "name": "Nook Inc. wet suit",
-    "closetImage": null,
-    "storageImage": null,
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLNook0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLNook0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -49,12 +49,7 @@
     "colors": [ "Black", "Green" ],
     "styles": [ "Active" ],
     "sources": [ "Nook Miles Shop" ],
-    "themes": [
-      "outdoorsy",
-      "sporty",
-      "vacation",
-      "work"
-    ],
+    "themes": [ "outdoorsy", "sporty", "vacation", "work" ],
     "recipe": null
   },
   {
@@ -92,8 +87,8 @@
     },
     "variations": [
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco3.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco3.png",
         "variation": "Black",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -109,8 +104,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco0.png",
         "variation": "Red",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -126,8 +121,8 @@
         "colors": [ "Red", "White" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco2.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco2.png",
         "variation": "Yellow",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -143,8 +138,8 @@
         "colors": [ "Yellow", "White" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco1.png",
         "variation": "Blue",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -162,11 +157,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Nook's Cranny" ],
-    "themes": [
-      "outdoorsy",
-      "sporty",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
   {
@@ -204,8 +195,8 @@
     },
     "variations": [
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard2.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard2.png",
         "variation": "Yellow",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -221,8 +212,8 @@
         "colors": [ "Yellow", "Black" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard3.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard3.png",
         "variation": "Green",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -238,8 +229,8 @@
         "colors": [ "Green", "Black" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard0.png",
         "variation": "Light blue",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -255,8 +246,8 @@
         "colors": [ "Light blue", "Black" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard1.png",
         "variation": "Purple",
         "hhaBasePoints": null,
         "seasonalAvailability": "Summer",
@@ -274,11 +265,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Nook Shopping Catalog" ],
-    "themes": [
-      "outdoorsy",
-      "sporty",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   }
 ]

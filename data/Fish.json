@@ -44,12 +44,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Blue", "Red" ]
@@ -99,12 +103,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "May - Oct" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Apr", "Nov - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 11, 12 ]
       }
     },
     "colors": [ "Yellow", "Black" ]
@@ -154,12 +162,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Black", "Blue" ]
@@ -209,12 +221,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Yellow", "Black" ]
@@ -264,12 +280,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - Nov" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 6, 7, 8, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - May", "Sep - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "White", "Black" ]
@@ -319,12 +339,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Black", "Black" ]
@@ -374,12 +398,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "May - Oct" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Apr", "Nov - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 11, 12 ]
       }
     },
     "colors": [ "Light blue", "Black" ]
@@ -429,12 +457,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8, 9 ]
       }
     },
     "colors": [ "Light blue", "Blue" ]
@@ -484,12 +516,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Green", "Black" ]
@@ -539,12 +575,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Jan - Feb", "Nov - Dec" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 1, 2, 11, 12 ]
       },
       "south": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "May - Aug" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 5, 6, 7, 8 ]
       }
     },
     "colors": [ "Beige", "Black" ]
@@ -594,16 +634,16 @@
     },
     "hemipsheres": {
       "north": {
-        "months": [
-          "Jan - Apr",
-          "Jul - Sep",
-          "Nov - Dec"
-        ],
-        "time": [ "All day" ]
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
+        "months": [ "Jan - Apr", "Jul - Sep", "Nov - Dec" ],
+        "monthsArray": [ 1, 2, 3, 4, 7, 8, 9, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "May - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 5, 6, 7, 8, 9, 10 ]
       }
     },
     "colors": [ "Blue", "Black" ]
@@ -653,12 +693,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Blue", "Black" ]
@@ -708,12 +752,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 10, 11, 12 ]
       }
     },
     "colors": [ "Yellow", "Black" ]
@@ -763,12 +811,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Gray", "Black" ]
@@ -818,12 +870,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "May - Oct" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Apr", "Nov - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 11, 12 ]
       }
     },
     "colors": [ "Black", "Black" ]
@@ -873,12 +929,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Mar - Jun", "Sep - Nov" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 3, 4, 5, 6, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - May", "Sep - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -928,12 +988,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Mar - Jun", "Sep - Nov" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 3, 4, 5, 6, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - May", "Sep - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -983,12 +1047,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 10, 11, 12 ]
       }
     },
     "colors": [ "Orange", "Black" ]
@@ -1038,12 +1106,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Black", "Black" ]
@@ -1093,12 +1165,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 10, 11, 12 ]
       }
     },
     "colors": [ "Red", "Black" ]
@@ -1148,12 +1224,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -1203,12 +1283,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Apr", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9, 10 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -1258,12 +1342,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -1313,12 +1401,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Yellow", "Black" ]
@@ -1368,12 +1460,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Mar", "Nov - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 11, 12 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "May - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 5, 6, 7, 8, 9 ]
       }
     },
     "colors": [ "Black", "Black" ]
@@ -1423,12 +1519,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -1478,12 +1578,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Aug" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Feb", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 11, 12 ]
       }
     },
     "colors": [ "Green", "Black" ]
@@ -1533,12 +1637,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -1588,12 +1696,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jun - Aug" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 6, 7, 8 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Feb", "Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 12 ]
       }
     },
     "colors": [ "Black", "Black" ]
@@ -1643,12 +1755,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Apr", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 11, 12 ]
       }
     },
     "colors": [ "Black", "Black" ]
@@ -1698,12 +1814,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Mar - May", "Sep - Nov" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 3, 4, 5, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Mar - May", "Sep - Nov" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 3, 4, 5, 9, 10, 11 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -1753,12 +1873,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Red", "Light blue" ]
@@ -1808,12 +1932,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Blue", "Blue" ]
@@ -1863,12 +1991,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Apr - Nov" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - May", "Oct - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 10, 11, 12 ]
       }
     },
     "colors": [ "Blue", "Black" ]
@@ -1918,12 +2050,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Black", "Black" ]
@@ -1973,12 +2109,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Blue", "Black" ]
@@ -2028,12 +2168,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Aug" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Feb", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 10, 11, 12 ]
       }
     },
     "colors": [ "Yellow", "Black" ]
@@ -2083,12 +2227,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3 ]
       }
     },
     "colors": [ "Gray", "Black" ]
@@ -2138,12 +2286,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Red", "White" ]
@@ -2193,12 +2345,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - May" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Sep - Nov" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 9, 10, 11 ]
       }
     },
     "colors": [ "Brown", "Blue" ]
@@ -2248,12 +2404,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Apr", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 11, 12 ]
       }
     },
     "colors": [ "Yellow", "Black" ]
@@ -2303,12 +2463,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Sep - Nov" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 9, 10, 11 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Mar - May" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 3, 4, 5 ]
       }
     },
     "colors": [ "Black", "Blue" ]
@@ -2358,12 +2522,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Aug - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 8, 9, 10 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Feb - Apr" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 2, 3, 4 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -2413,12 +2581,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Jul - Aug" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 7, 8 ]
       },
       "south": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Jan - Feb" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 1, 2 ]
       }
     },
     "colors": [ "Light blue", "Black" ]
@@ -2468,12 +2640,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Apr - Nov" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - May", "Oct - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 10, 11, 12 ]
       }
     },
     "colors": [ "Light blue", "Black" ]
@@ -2523,12 +2699,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "May - Sep" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 5, 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Mar", "Nov - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 11, 12 ]
       }
     },
     "colors": [ "Brown", "Blue" ]
@@ -2578,12 +2758,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - May", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Nov" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 8, 9, 10, 11 ]
       }
     },
     "colors": [ "Red", "Blue" ]
@@ -2633,12 +2817,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Jul - Sep" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 7, 8, 9 ]
       },
       "south": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Jan - Mar" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 1, 2, 3 ]
       }
     },
     "colors": [ "Blue", "Orange" ]
@@ -2688,12 +2876,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Beige", "Black" ]
@@ -2743,12 +2935,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Blue", "Blue" ]
@@ -2798,12 +2994,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Sep - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - Jun" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 6 ]
       }
     },
     "colors": [ "Green", "Black" ]
@@ -2853,18 +3053,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM", "9 PM – 4 AM" ],
+        "timeArray": [ [ 9, 10, 11, 12, 13, 14, 15 ], [ 21, 22, 23, 0, 1, 2, 3 ] ],
         "months": [ "Jun - Sep" ],
-        "time": [
-          "9 AM – 4 PM",
-          "9 PM – 4 AM"
-        ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM", "9 PM – 4 AM" ],
+        "timeArray": [ [ 9, 10, 11, 12, 13, 14, 15 ], [ 21, 22, 23, 0, 1, 2, 3 ] ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [
-          "9 AM – 4 PM",
-          "9 PM – 4 AM"
-        ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Green", "Black" ]
@@ -2914,12 +3112,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Feb", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Aug" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 8 ]
       }
     },
     "colors": [ "Orange", "Blue" ]
@@ -2969,12 +3171,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Black", "Light blue" ]
@@ -3024,12 +3230,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jul - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3 ]
       }
     },
     "colors": [ "Beige", "Black" ]
@@ -3079,12 +3289,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "May - Oct" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Apr", "Nov - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 11, 12 ]
       }
     },
     "colors": [ "Orange", "Black" ]
@@ -3134,12 +3348,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM" ],
+        "timeArray": [ 9, 10, 11, 12, 13, 14, 15 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "9 AM – 4 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Red", "Black" ]
@@ -3189,12 +3407,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Aug - Nov" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 8, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Feb - May" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 2, 3, 4, 5 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -3244,12 +3466,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Red", "Black" ]
@@ -3299,12 +3525,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Apr", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 12 ]
       }
     },
     "colors": [ "Blue", "Black" ]
@@ -3354,12 +3584,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -3409,12 +3643,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -3464,12 +3702,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -3519,12 +3761,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Gray", "Black" ]
@@ -3574,12 +3820,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       }
     },
     "colors": [ "White", "Black" ]
@@ -3629,12 +3879,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Nov" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - May", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 10, 11, 12 ]
       }
     },
     "colors": [ "Orange", "Black" ]
@@ -3684,12 +3938,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Apr - Oct" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Jan - Apr", "Oct - Dec" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 10, 11, 12 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -3739,12 +3997,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Aug - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 8, 9 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Feb - Mar" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 2, 3 ]
       }
     },
     "colors": [ "Green", "Black" ]
@@ -3794,12 +4056,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Aug", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Feb", "Jun - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Beige", "Black" ]
@@ -3849,12 +4115,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       }
     },
     "colors": [ "Brown", "Black" ]
@@ -3904,12 +4174,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Sep - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 6, 7, 8, 9 ]
       }
     },
     "colors": [ "Black", "Black" ]
@@ -3959,12 +4233,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Black", "Black" ]
@@ -4014,12 +4292,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 10, 11, 12 ]
       }
     },
     "colors": [ "Blue", "Black" ]
@@ -4069,12 +4351,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jul - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3 ]
       }
     },
     "colors": [ "Green", "Black" ]
@@ -4124,12 +4410,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - Jul" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 6, 7 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan", "Sep - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 9, 10, 11, 12 ]
       }
     },
     "colors": [ "Black", "Blue" ]
@@ -4179,12 +4469,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Apr", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 12 ]
       }
     },
     "colors": [ "Black", "Black" ]
@@ -4234,12 +4528,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Apr", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10 ]
       }
     },
     "colors": [ "Blue", "Black" ]
@@ -4289,12 +4587,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": [ "Black", "Blue" ]
@@ -4344,12 +4646,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9 ]
       }
     },
     "colors": [ "Yellow", "Black" ]
@@ -4399,12 +4705,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Nov" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - May", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 10, 11, 12 ]
       }
     },
     "colors": [ "Red", "Black" ]

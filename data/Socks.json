@@ -47,11 +47,7 @@
     "colors": [ "Yellow", "Orange" ],
     "styles": [ "Active" ],
     "sources": [ "Nook Miles Shop" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "comfy"
-    ],
+    "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
   {
@@ -200,14 +196,7 @@
       "korean": "아란 니트 양말",
       "russian": "носки аранской вязки",
       "plural": false,
-      "internalIds": [
-        9058,
-        9062,
-        9059,
-        9060,
-        9061,
-        4742
-      ]
+      "internalIds": [ 9058, 9062, 9059, 9060, 9061, 4742 ]
     },
     "variations": [
       {
@@ -337,16 +326,7 @@
       "korean": "아가일 양말",
       "russian": "носки аргайл",
       "plural": false,
-      "internalIds": [
-        9925,
-        9924,
-        9921,
-        9927,
-        9926,
-        9922,
-        5806,
-        9923
-      ]
+      "internalIds": [ 9925, 9924, 9921, 9927, 9926, 9922, 5806, 9923 ]
     },
     "variations": [
       {
@@ -506,14 +486,7 @@
       "korean": "리본 양말",
       "russian": "носки с бантиком сзади",
       "plural": false,
-      "internalIds": [
-        9055,
-        9054,
-        4718,
-        9053,
-        9057,
-        9056
-      ]
+      "internalIds": [ 9055, 9054, 4718, 9053, 9057, 9056 ]
     },
     "variations": [
       {
@@ -609,12 +582,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "party", "vacation" ],
     "recipe": null
   },
   {
@@ -748,16 +716,7 @@
       "korean": "컬러 블록 양말",
       "russian": "носки в цветную клетку",
       "plural": false,
-      "internalIds": [
-        9899,
-        9901,
-        9900,
-        9895,
-        9897,
-        5180,
-        9896,
-        9898
-      ]
+      "internalIds": [ 9899, 9901, 9900, 9895, 9897, 5180, 9896, 9898 ]
     },
     "variations": [
       {
@@ -1298,11 +1257,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -1436,14 +1391,7 @@
       "korean": "꽃무늬 자수 타이츠",
       "russian": "расшитые цветами чулки",
       "plural": false,
-      "internalIds": [
-        9907,
-        9908,
-        9910,
-        9911,
-        5204,
-        9909
-      ]
+      "internalIds": [ 9907, 9908, 9910, 9911, 5204, 9909 ]
     },
     "variations": [
       {
@@ -1539,11 +1487,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "party"
-    ],
+    "themes": [ "everyday", "fairy tale", "party" ],
     "recipe": null
   },
   {
@@ -1577,14 +1521,7 @@
       "korean": "데일리 양말",
       "russian": "повседневные носки",
       "plural": false,
-      "internalIds": [
-        10038,
-        10036,
-        10034,
-        10035,
-        9645,
-        10037
-      ]
+      "internalIds": [ 10038, 10036, 10034, 10035, 9645, 10037 ]
     },
     "variations": [
       {
@@ -1714,14 +1651,7 @@
       "korean": "데일리 타이츠",
       "russian": "повседневные чулки",
       "plural": false,
-      "internalIds": [
-        9684,
-        9682,
-        9683,
-        9581,
-        9685,
-        9686
-      ]
+      "internalIds": [ 9684, 9682, 9683, 9581, 9685, 9686 ]
     },
     "variations": [
       {
@@ -2017,12 +1947,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2056,16 +1981,7 @@
       "korean": "프릴 니하이 삭스",
       "russian": "гольфы с оборками",
       "plural": false,
-      "internalIds": [
-        5172,
-        11590,
-        11593,
-        11591,
-        11595,
-        11589,
-        11592,
-        11594
-      ]
+      "internalIds": [ 5172, 11590, 11593, 11591, 11595, 11589, 11592, 11594 ]
     },
     "variations": [
       {
@@ -2191,12 +2107,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2230,14 +2141,7 @@
       "korean": "프릴 양말",
       "russian": "носки с оборками",
       "plural": false,
-      "internalIds": [
-        5174,
-        8935,
-        8934,
-        8936,
-        8938,
-        8937
-      ]
+      "internalIds": [ 5174, 8935, 8934, 8936, 8938, 8937 ]
     },
     "variations": [
       {
@@ -2333,12 +2237,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "formal",
-      "party"
-    ],
+    "themes": [ "everyday", "fairy tale", "formal", "party" ],
     "recipe": null
   },
   {
@@ -2553,11 +2452,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2591,14 +2486,7 @@
       "korean": "치마요무늬 양말",
       "russian": "абстрактные носки",
       "plural": false,
-      "internalIds": [
-        9915,
-        5444,
-        9916,
-        9912,
-        9913,
-        9914
-      ]
+      "internalIds": [ 9915, 5444, 9916, 9912, 9913, 9914 ]
     },
     "variations": [
       {
@@ -2898,16 +2786,7 @@
       "korean": "구멍 난 타이츠",
       "russian": "дырявые чулки",
       "plural": false,
-      "internalIds": [
-        5176,
-        9666,
-        9664,
-        9670,
-        9668,
-        9665,
-        9669,
-        9667
-      ]
+      "internalIds": [ 5176, 9666, 9664, 9670, 9668, 9665, 9669, 9667 ]
     },
     "variations": [
       {
@@ -3033,11 +2912,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -3071,16 +2946,7 @@
       "korean": "어린이용 양말",
       "russian": "детские носки",
       "plural": false,
-      "internalIds": [
-        9991,
-        5201,
-        9990,
-        9987,
-        9986,
-        9988,
-        9985,
-        9989
-      ]
+      "internalIds": [ 9991, 5201, 9990, 9987, 9986, 9988, 9985, 9989 ]
     },
     "variations": [
       {
@@ -3206,12 +3072,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "comfy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "comfy", "sporty" ],
     "recipe": null
   },
   {
@@ -3245,14 +3106,7 @@
       "korean": "케이트의 양말",
       "russian": "носки «Лэйблеск»",
       "plural": false,
-      "internalIds": [
-        11761,
-        11762,
-        11765,
-        11764,
-        11763,
-        9883
-      ]
+      "internalIds": [ 11761, 11762, 11765, 11764, 11763, 9883 ]
     },
     "variations": [
       {
@@ -3348,12 +3202,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Labelle" ],
-    "themes": [
-      "everyday",
-      "formal",
-      "sporty",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "formal", "sporty", "theatrical" ],
     "recipe": null
   },
   {
@@ -3387,14 +3236,7 @@
       "korean": "케이트의 타이츠",
       "russian": "чулки «Лэйблеск»",
       "plural": false,
-      "internalIds": [
-        11756,
-        11757,
-        11760,
-        11759,
-        11758,
-        9882
-      ]
+      "internalIds": [ 11756, 11757, 11760, 11759, 11758, 9882 ]
     },
     "variations": [
       {
@@ -3490,12 +3332,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Labelle" ],
-    "themes": [
-      "everyday",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -3529,13 +3366,7 @@
       "korean": "레이스 양말",
       "russian": "носки с кружевами",
       "plural": false,
-      "internalIds": [
-        5173,
-        8933,
-        8931,
-        8932,
-        10170
-      ]
+      "internalIds": [ 5173, 8933, 8931, 8932, 10170 ]
     },
     "variations": [
       {
@@ -3616,12 +3447,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "formal",
-      "party"
-    ],
+    "themes": [ "everyday", "fairy tale", "formal", "party" ],
     "recipe": null
   },
   {
@@ -3655,14 +3481,7 @@
       "korean": "레이어드 양말",
       "russian": "многослойные носки",
       "plural": false,
-      "internalIds": [
-        9905,
-        9906,
-        9903,
-        9904,
-        9902,
-        5195
-      ]
+      "internalIds": [ 9905, 9906, 9903, 9904, 9902, 5195 ]
     },
     "variations": [
       {
@@ -3792,14 +3611,7 @@
       "korean": "발 토시",
       "russian": "гетры",
       "plural": false,
-      "internalIds": [
-        9786,
-        9785,
-        9787,
-        9789,
-        5169,
-        9788
-      ]
+      "internalIds": [ 9786, 9785, 9787, 9789, 5169, 9788 ]
     },
     "variations": [
       {
@@ -3929,16 +3741,7 @@
       "korean": "믹스 트위드 양말",
       "russian": "мелированные носки",
       "plural": false,
-      "internalIds": [
-        5168,
-        9067,
-        9068,
-        9063,
-        9064,
-        9066,
-        9065,
-        9069
-      ]
+      "internalIds": [ 5168, 9067, 9068, 9063, 9064, 9066, 9065, 9069 ]
     },
     "variations": [
       {
@@ -4179,11 +3982,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "outdoorsy", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -4332,16 +4131,7 @@
       "korean": "발목 양말",
       "russian": "невидимые носки",
       "plural": false,
-      "internalIds": [
-        10003,
-        4741,
-        10004,
-        10006,
-        10009,
-        10007,
-        10005,
-        10008
-      ]
+      "internalIds": [ 10003, 4741, 10004, 10006, 10009, 10007, 10005, 10008 ]
     },
     "variations": [
       {
@@ -4467,12 +4257,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "comfy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "comfy", "sporty" ],
     "recipe": null
   },
   {
@@ -4506,15 +4291,7 @@
       "korean": "노르딕풍 양말",
       "russian": "северные носки",
       "plural": false,
-      "internalIds": [
-        9892,
-        9890,
-        9893,
-        9894,
-        9891,
-        4748,
-        9889
-      ]
+      "internalIds": [ 9892, 9890, 9893, 9894, 9891, 4748, 9889 ]
     },
     "variations": [
       {
@@ -4625,11 +4402,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "comfy"
-    ],
+    "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
   {
@@ -4699,12 +4472,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -4819,11 +4587,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "comfy"
-    ],
+    "themes": [ "everyday", "fairy tale", "comfy" ],
     "recipe": null
   },
   {
@@ -5072,16 +4836,7 @@
       "korean": "반투명 양말",
       "russian": "полупрозрачные носки",
       "plural": false,
-      "internalIds": [
-        10027,
-        10030,
-        10031,
-        10032,
-        9644,
-        10028,
-        10029,
-        10033
-      ]
+      "internalIds": [ 10027, 10030, 10031, 10032, 9644, 10028, 10029, 10033 ]
     },
     "variations": [
       {
@@ -5241,16 +4996,7 @@
       "korean": "반투명 타이츠",
       "russian": "полупрозрачные чулки",
       "plural": false,
-      "internalIds": [
-        9680,
-        9679,
-        9580,
-        9675,
-        9681,
-        9676,
-        9678,
-        9677
-      ]
+      "internalIds": [ 9680, 9679, 9580, 9675, 9681, 9676, 9678, 9677 ]
     },
     "variations": [
       {
@@ -5410,16 +5156,7 @@
       "korean": "스팽글 레깅스",
       "russian": "леггинсы с пайетками",
       "plural": false,
-      "internalIds": [
-        11583,
-        11581,
-        11580,
-        4743,
-        11582,
-        11586,
-        11584,
-        11585
-      ]
+      "internalIds": [ 11583, 11581, 11580, 4743, 11582, 11586, 11584, 11585 ]
     },
     "variations": [
       {
@@ -5579,14 +5316,7 @@
       "korean": "시스루 양말",
       "russian": "тонкие носки",
       "plural": false,
-      "internalIds": [
-        9932,
-        9928,
-        9930,
-        9931,
-        5812,
-        9929
-      ]
+      "internalIds": [ 9932, 9928, 9930, 9931, 5812, 9929 ]
     },
     "variations": [
       {
@@ -5816,16 +5546,7 @@
       "korean": "원포인트 양말",
       "russian": "носки с акцентом",
       "plural": false,
-      "internalIds": [
-        9083,
-        9084,
-        9082,
-        9087,
-        9088,
-        9086,
-        5200,
-        9085
-      ]
+      "internalIds": [ 9083, 9084, 9082, 9087, 9088, 9086, 5200, 9085 ]
     },
     "variations": [
       {
@@ -5985,15 +5706,7 @@
       "korean": "축구 양말",
       "russian": "футбольные носки",
       "plural": false,
-      "internalIds": [
-        9978,
-        9976,
-        9973,
-        9977,
-        9974,
-        9975,
-        5177
-      ]
+      "internalIds": [ 9978, 9976, 9973, 9977, 9974, 9975, 5177 ]
     },
     "variations": [
       {
@@ -6353,15 +6066,7 @@
       "korean": "스트레치 레깅스",
       "russian": "эластичные леггинсы",
       "plural": false,
-      "internalIds": [
-        9778,
-        9776,
-        9777,
-        9779,
-        9781,
-        4744,
-        9780
-      ]
+      "internalIds": [ 9778, 9776, 9777, 9779, 9781, 4744, 9780 ]
     },
     "variations": [
       {
@@ -6472,11 +6177,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -6510,16 +6211,7 @@
       "korean": "가로 줄무늬 양말",
       "russian": "полосатые носки",
       "plural": false,
-      "internalIds": [
-        5199,
-        9999,
-        9998,
-        9997,
-        9996,
-        6902,
-        10001,
-        10000
-      ]
+      "internalIds": [ 5199, 9999, 9998, 9997, 9996, 6902, 10001, 10000 ]
     },
     "variations": [
       {
@@ -6679,16 +6371,7 @@
       "korean": "세로 줄무늬 양말",
       "russian": "полосатые чулки",
       "plural": false,
-      "internalIds": [
-        9937,
-        6045,
-        9938,
-        9943,
-        9940,
-        9942,
-        9939,
-        9941
-      ]
+      "internalIds": [ 9937, 6045, 9938, 9943, 9940, 9942, 9939, 9941 ]
     },
     "variations": [
       {
@@ -6933,15 +6616,7 @@
       "korean": "수면 양말",
       "russian": "махровые носки",
       "plural": false,
-      "internalIds": [
-        9984,
-        9983,
-        5181,
-        9981,
-        9980,
-        9979,
-        9982
-      ]
+      "internalIds": [ 9984, 9983, 5181, 9981, 9980, 9979, 9982 ]
     },
     "variations": [
       {
@@ -7086,16 +6761,7 @@
       "korean": "라인 양말",
       "russian": "носки без пятки",
       "plural": false,
-      "internalIds": [
-        9968,
-        9966,
-        9967,
-        4746,
-        9970,
-        9971,
-        9969,
-        9972
-      ]
+      "internalIds": [ 9968, 9966, 9967, 4746, 9970, 9971, 9969, 9972 ]
     },
     "variations": [
       {
@@ -7221,11 +6887,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -7259,16 +6921,7 @@
       "korean": "덧양말",
       "russian": "следки",
       "plural": false,
-      "internalIds": [
-        10016,
-        10015,
-        10010,
-        10012,
-        10013,
-        5167,
-        10014,
-        10011
-      ]
+      "internalIds": [ 10016, 10015, 10010, 10012, 10013, 5167, 10014, 10011 ]
     },
     "variations": [
       {
@@ -7394,11 +7047,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -7432,16 +7081,7 @@
       "korean": "비비드 레깅스",
       "russian": "яркие леггинсы",
       "plural": false,
-      "internalIds": [
-        9802,
-        9803,
-        9807,
-        9805,
-        9806,
-        9585,
-        9804,
-        9801
-      ]
+      "internalIds": [ 9802, 9803, 9807, 9805, 9806, 9585, 9804, 9801 ]
     },
     "variations": [
       {
@@ -7567,11 +7207,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "outdoorsy", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -7605,16 +7241,7 @@
       "korean": "비비드 양말",
       "russian": "яркие носки",
       "plural": false,
-      "internalIds": [
-        9643,
-        10024,
-        10025,
-        10026,
-        6898,
-        10021,
-        10022,
-        10023
-      ]
+      "internalIds": [ 9643, 10024, 10025, 10026, 6898, 10021, 10022, 10023 ]
     },
     "variations": [
       {
@@ -7740,11 +7367,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -7778,16 +7401,7 @@
       "korean": "비비드 타이츠",
       "russian": "яркие чулки",
       "plural": false,
-      "internalIds": [
-        9688,
-        9689,
-        9693,
-        9691,
-        9692,
-        9582,
-        9690,
-        9687
-      ]
+      "internalIds": [ 9688, 9689, 9693, 9691, 9692, 9582, 9690, 9687 ]
     },
     "variations": [
       {

@@ -188,11 +188,7 @@
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "earth-egg shoes",
@@ -423,11 +419,7 @@
     "colors": [ "Yellow", "Orange" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "leaf-egg shoes",
@@ -523,8 +515,8 @@
   {
     "sourceSheet": "Shoes",
     "name": "pirate boots",
-    "closetImage": null,
-    "storageImage": null,
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneePirates0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/ShoesKneePirates0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -568,11 +560,7 @@
     "colors": [ "Brown", "Beige" ],
     "styles": [ "Cool" ],
     "sources": [ "Gullivarrr" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -713,11 +701,7 @@
     "colors": [ "Green", "Green" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "sky-egg shoes",
@@ -858,11 +842,7 @@
     "colors": [ "Orange", "Brown" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone-egg shoes",
@@ -1003,11 +983,7 @@
     "colors": [ "Light blue", "Red" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "water-egg shoes",
@@ -1097,11 +1073,7 @@
     "colors": [ "White", "White" ],
     "styles": [ "Elegant" ],
     "sources": [ "Cyrus" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "theatrical" ],
     "recipe": null
   },
   {
@@ -1152,11 +1124,7 @@
     "colors": [ "White", "White" ],
     "styles": [ "Elegant" ],
     "sources": [ "Cyrus" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "theatrical" ],
     "recipe": null
   },
   {
@@ -1207,11 +1175,7 @@
     "colors": [ "Purple", "Beige" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wood-egg shoes",
@@ -1301,11 +1265,7 @@
     "colors": [ "White", "Red" ],
     "styles": [ "Active" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "fairy tale",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -1424,16 +1384,7 @@
       "korean": "바부슈",
       "russian": "бабуши",
       "plural": false,
-      "internalIds": [
-        10112,
-        10115,
-        10110,
-        10109,
-        10111,
-        10114,
-        6043,
-        10113
-      ]
+      "internalIds": [ 10112, 10115, 10110, 10109, 10111, 10114, 6043, 10113 ]
     },
     "variations": [
       {
@@ -1593,16 +1544,7 @@
       "korean": "발레 슈즈",
       "russian": "пуанты",
       "plural": false,
-      "internalIds": [
-        10158,
-        5608,
-        10161,
-        10160,
-        10155,
-        10156,
-        10157,
-        10159
-      ]
+      "internalIds": [ 10158, 5608, 10161, 10160, 10155, 10156, 10157, 10159 ]
     },
     "variations": [
       {
@@ -1728,12 +1670,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "fairy tale",
-      "sporty",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "sporty", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -1767,16 +1704,7 @@
       "korean": "농구화",
       "russian": "баскетбольные кеды",
       "plural": false,
-      "internalIds": [
-        5638,
-        10066,
-        10062,
-        10060,
-        10065,
-        10063,
-        10064,
-        10061
-      ]
+      "internalIds": [ 5638, 10066, 10062, 10060, 10065, 10063, 10064, 10061 ]
     },
     "variations": [
       {
@@ -1936,14 +1864,7 @@
       "korean": "비즈 자수 샌들",
       "russian": "сандалии с декором",
       "plural": false,
-      "internalIds": [
-        10139,
-        5478,
-        10138,
-        10140,
-        10137,
-        10141
-      ]
+      "internalIds": [ 10139, 5478, 10138, 10140, 10137, 10141 ]
     },
     "variations": [
       {
@@ -2039,11 +1960,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -2077,14 +1994,7 @@
       "korean": "장화",
       "russian": "сапоги",
       "plural": false,
-      "internalIds": [
-        11685,
-        11687,
-        11688,
-        5479,
-        11686,
-        "crd02"
-      ]
+      "internalIds": [ 11685, 11687, 11688, 5479, 11686, "crd02" ]
     },
     "variations": [
       {
@@ -2269,16 +2179,7 @@
       "korean": "스파이크 슈즈",
       "russian": "бутсы",
       "plural": false,
-      "internalIds": [
-        10248,
-        10246,
-        10249,
-        10247,
-        10250,
-        10245,
-        5654,
-        10251
-      ]
+      "internalIds": [ 10248, 10246, 10249, 10247, 10250, 10245, 5654, 10251 ]
     },
     "variations": [
       {
@@ -2438,16 +2339,7 @@
       "korean": "컴포트 샌들",
       "russian": "пробковые пантолеты",
       "plural": false,
-      "internalIds": [
-        10700,
-        10703,
-        10704,
-        10705,
-        10701,
-        10702,
-        10706,
-        5619
-      ]
+      "internalIds": [ 10700, 10703, 10704, 10705, 10701, 10702, 10706, 5619 ]
     },
     "variations": [
       {
@@ -2573,11 +2465,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -2611,13 +2499,7 @@
       "korean": "웨스턴 부츠",
       "russian": "ковбойские сапоги",
       "plural": false,
-      "internalIds": [
-        11254,
-        11253,
-        11255,
-        11256,
-        5643
-      ]
+      "internalIds": [ 11254, 11253, 11255, 11256, 5643 ]
     },
     "variations": [
       {
@@ -2698,11 +2580,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "outdoorsy", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -2736,14 +2614,7 @@
       "korean": "크로스 벨트 샌들",
       "russian": "сандалии с перевязью",
       "plural": false,
-      "internalIds": [
-        10122,
-        10124,
-        10121,
-        4725,
-        10125,
-        10123
-      ]
+      "internalIds": [ 10122, 10124, 10121, 4725, 10125, 10123 ]
     },
     "variations": [
       {
@@ -2873,14 +2744,7 @@
       "korean": "큐트 스니커",
       "russian": "милые кроссовки",
       "plural": false,
-      "internalIds": [
-        10267,
-        10268,
-        10266,
-        5803,
-        10270,
-        10269
-      ]
+      "internalIds": [ 10267, 10268, 10266, 5803, 10270, 10269 ]
     },
     "variations": [
       {
@@ -3176,13 +3040,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -3216,13 +3074,7 @@
       "korean": "양털 부츠",
       "russian": "сапожки под овчину",
       "plural": false,
-      "internalIds": [
-        11550,
-        11549,
-        11547,
-        11548,
-        4721
-      ]
+      "internalIds": [ 11550, 11549, 11547, 11548, 4721 ]
     },
     "variations": [
       {
@@ -3337,16 +3189,7 @@
       "korean": "스웨이드 스니커",
       "russian": "кроссовки «под замшу»",
       "plural": false,
-      "internalIds": [
-        10080,
-        10077,
-        10076,
-        6893,
-        10078,
-        10074,
-        10079,
-        10075
-      ]
+      "internalIds": [ 10080, 10077, 10076, 6893, 10078, 10074, 10079, 10075 ]
     },
     "variations": [
       {
@@ -3472,11 +3315,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -3510,16 +3349,7 @@
       "korean": "비치 샌들",
       "russian": "шлепанцы",
       "plural": false,
-      "internalIds": [
-        10735,
-        10739,
-        10738,
-        10736,
-        10169,
-        6922,
-        10737,
-        5470
-      ]
+      "internalIds": [ 10735, 10739, 10738, 10736, 10169, 6922, 10737, 5470 ]
     },
     "variations": [
       {
@@ -3645,12 +3475,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "comfy",
-      "sporty",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "comfy", "sporty", "vacation" ],
     "recipe": null
   },
   {
@@ -3684,15 +3509,7 @@
       "korean": "플라워 샌들",
       "russian": "сандалии с цветком",
       "plural": false,
-      "internalIds": [
-        10131,
-        10130,
-        10126,
-        5475,
-        10127,
-        10129,
-        10128
-      ]
+      "internalIds": [ 10131, 10130, 10126, 5475, 10127, 10129, 10128 ]
     },
     "variations": [
       {
@@ -3803,11 +3620,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "outdoorsy",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "outdoorsy", "vacation" ],
     "recipe": null
   },
   {
@@ -3977,12 +3790,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -4016,13 +3824,7 @@
       "korean": "하이테크 슈즈",
       "russian": "супермодные кроссовки",
       "plural": false,
-      "internalIds": [
-        10252,
-        5659,
-        10253,
-        10254,
-        10255
-      ]
+      "internalIds": [ 10252, 5659, 10253, 10254, 10255 ]
     },
     "variations": [
       {
@@ -4137,16 +3939,7 @@
       "korean": "하이탑 스니커",
       "russian": "высокие кроссовки",
       "plural": false,
-      "internalIds": [
-        10045,
-        2572,
-        10043,
-        10044,
-        10040,
-        10041,
-        10042,
-        10039
-      ]
+      "internalIds": [ 10045, 2572, 10043, 10044, 10040, 10041, 10042, 10039 ]
     },
     "variations": [
       {
@@ -4272,11 +4065,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -4310,16 +4099,7 @@
       "korean": "실내용 슬리퍼",
       "russian": "домашние тапочки",
       "plural": false,
-      "internalIds": [
-        5564,
-        10096,
-        10092,
-        10093,
-        10094,
-        10095,
-        10091,
-        10097
-      ]
+      "internalIds": [ 5564, 10096, 10092, 10093, 10094, 10095, 10091, 10097 ]
     },
     "variations": [
       {
@@ -4545,13 +4325,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "party",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "goth", "party", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -4585,14 +4359,7 @@
       "korean": "키즈 스니커",
       "russian": "детские кроссовки",
       "plural": false,
-      "internalIds": [
-        10264,
-        10265,
-        5761,
-        10262,
-        10261,
-        10263
-      ]
+      "internalIds": [ 10264, 10265, 5761, 10262, 10261, 10263 ]
     },
     "variations": [
       {
@@ -4688,11 +4455,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -4726,16 +4489,7 @@
       "korean": "일본풍 샌들",
       "russian": "японские сандалии",
       "plural": false,
-      "internalIds": [
-        10965,
-        3704,
-        10962,
-        10963,
-        10967,
-        10968,
-        10964,
-        10966
-      ]
+      "internalIds": [ 10965, 3704, 10962, 10963, 10967, 10968, 10964, 10966 ]
     },
     "variations": [
       {
@@ -4861,11 +4615,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "comfy", "theatrical" ],
     "recipe": null
   },
   {
@@ -4899,14 +4649,7 @@
       "korean": "케이트의 펌프스",
       "russian": "туфли «Лэйблеск»",
       "plural": false,
-      "internalIds": [
-        11766,
-        11767,
-        11770,
-        11769,
-        11768,
-        9884
-      ]
+      "internalIds": [ 11766, 11767, 11770, 11769, 11768, 9884 ]
     },
     "variations": [
       {
@@ -5002,13 +4745,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Labelle" ],
-    "themes": [
-      "everyday",
-      "formal",
-      "party",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "everyday", "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -5042,14 +4779,7 @@
       "korean": "케이트의 스니커",
       "russian": "кеды «Лэйблеск»",
       "plural": false,
-      "internalIds": [
-        11771,
-        11772,
-        11775,
-        11774,
-        11773,
-        9885
-      ]
+      "internalIds": [ 11771, 11772, 11775, 11774, 11773, 9885 ]
     },
     "variations": [
       {
@@ -5145,11 +4875,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Labelle" ],
-    "themes": [
-      "everyday",
-      "sporty",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "sporty", "theatrical" ],
     "recipe": null
   },
   {
@@ -5283,14 +5009,7 @@
       "korean": "레오파드 펌프스",
       "russian": "леопардовые туфли",
       "plural": false,
-      "internalIds": [
-        10132,
-        10136,
-        10134,
-        10133,
-        10135,
-        5477
-      ]
+      "internalIds": [ 10132, 10136, 10134, 10133, 10135, 5477 ]
     },
     "variations": [
       {
@@ -5386,11 +5105,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -5424,15 +5139,7 @@
       "korean": "로퍼",
       "russian": "лоферы",
       "plural": false,
-      "internalIds": [
-        11450,
-        11449,
-        11454,
-        11451,
-        11453,
-        11452,
-        4724
-      ]
+      "internalIds": [ 11450, 11449, 11454, 11451, 11453, 11452, 4724 ]
     },
     "variations": [
       {
@@ -5643,11 +5350,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -5681,16 +5384,7 @@
       "korean": "메리제인 슈즈",
       "russian": "туфли с перемычкой",
       "plural": false,
-      "internalIds": [
-        10163,
-        5471,
-        10162,
-        10168,
-        10165,
-        10167,
-        10164,
-        10166
-      ]
+      "internalIds": [ 10163, 5471, 10162, 10168, 10165, 10167, 10164, 10166 ]
     },
     "variations": [
       {
@@ -5816,13 +5510,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "formal",
-      "party",
-      "work"
-    ],
+    "themes": [ "everyday", "fairy tale", "formal", "party", "work" ],
     "recipe": null
   },
   {
@@ -5860,8 +5548,8 @@
     },
     "variations": [
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutMermaid0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutMermaid0.png",
         "variation": "Pink",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -5875,8 +5563,8 @@
         "colors": [ "Pink", "White" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutMermaid1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutMermaid1.png",
         "variation": "Light blue",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -5892,12 +5580,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Pascal" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -5931,15 +5614,7 @@
       "korean": "모카신 부츠",
       "russian": "полусапожки-мокасины",
       "plural": false,
-      "internalIds": [
-        11459,
-        11458,
-        5542,
-        11456,
-        11460,
-        11461,
-        11457
-      ]
+      "internalIds": [ 11459, 11458, 5542, 11456, 11460, 11461, 11457 ]
     },
     "variations": [
       {
@@ -6050,11 +5725,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -6088,15 +5759,7 @@
       "korean": "모카신",
       "russian": "мокасины",
       "plural": false,
-      "internalIds": [
-        11467,
-        11469,
-        11470,
-        11465,
-        11468,
-        5807,
-        11466
-      ]
+      "internalIds": [ 11467, 11469, 11470, 11465, 11468, 5807, 11466 ]
     },
     "variations": [
       {
@@ -6241,16 +5904,7 @@
       "korean": "아웃도어 샌들",
       "russian": "походные сандалии",
       "plural": false,
-      "internalIds": [
-        10712,
-        10713,
-        10707,
-        10711,
-        10710,
-        5640,
-        10708,
-        10709
-      ]
+      "internalIds": [ 10712, 10713, 10707, 10711, 10710, 5640, 10708, 10709 ]
     },
     "variations": [
       {
@@ -6376,11 +6030,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -6414,13 +6064,7 @@
       "korean": "동물 슬리퍼",
       "russian": "слипперы-лапы",
       "plural": false,
-      "internalIds": [
-        10977,
-        10979,
-        5469,
-        10978,
-        10976
-      ]
+      "internalIds": [ 10977, 10979, 5469, 10978, 10976 ]
     },
     "variations": [
       {
@@ -6501,11 +6145,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -6639,16 +6279,7 @@
       "korean": "가죽 스니커",
       "russian": "кроссовки из кожзама",
       "plural": false,
-      "internalIds": [
-        4716,
-        10046,
-        10047,
-        10052,
-        10050,
-        10048,
-        10051,
-        10049
-      ]
+      "internalIds": [ 4716, 10046, 10047, 10052, 10050, 10048, 10051, 10049 ]
     },
     "variations": [
       {
@@ -6774,11 +6405,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -6812,15 +6439,7 @@
       "korean": "폼폼 부츠",
       "russian": "сапоги с помпонами",
       "plural": false,
-      "internalIds": [
-        11694,
-        6860,
-        5545,
-        6867,
-        11692,
-        11693,
-        11691
-      ]
+      "internalIds": [ 11694, 6860, 5545, 6867, 11692, 11693, 11691 ]
     },
     "variations": [
       {
@@ -7031,11 +6650,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "fairy tale",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -7069,16 +6684,7 @@
       "korean": "레인 부츠",
       "russian": "резиновые сапоги",
       "plural": false,
-      "internalIds": [
-        11557,
-        11555,
-        11554,
-        4733,
-        11551,
-        11552,
-        11553,
-        11556
-      ]
+      "internalIds": [ 11557, 11555, 11554, 4733, 11551, 11552, 11553, 11556 ]
     },
     "variations": [
       {
@@ -7238,13 +6844,7 @@
       "korean": "화장실 슬리퍼",
       "russian": "туалетные тапочки",
       "plural": false,
-      "internalIds": [
-        10105,
-        10108,
-        10106,
-        10107,
-        5800
-      ]
+      "internalIds": [ 10105, 10108, 10106, 10107, 5800 ]
     },
     "variations": [
       {
@@ -7359,16 +6959,7 @@
       "korean": "리본 샌들",
       "russian": "сандалии с бантиком",
       "plural": false,
-      "internalIds": [
-        10721,
-        10727,
-        10726,
-        10725,
-        10722,
-        10723,
-        10724,
-        5814
-      ]
+      "internalIds": [ 10721, 10727, 10726, 10725, 10722, 10723, 10724, 5814 ]
     },
     "variations": [
       {
@@ -7494,11 +7085,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -7532,16 +7119,7 @@
       "korean": "러버토 하이컷 스니커",
       "russian": "высокие кеды",
       "plural": false,
-      "internalIds": [
-        10058,
-        10059,
-        10056,
-        10055,
-        10057,
-        10053,
-        5617,
-        10054
-      ]
+      "internalIds": [ 10058, 10059, 10056, 10055, 10057, 10053, 5617, 10054 ]
     },
     "variations": [
       {
@@ -7701,16 +7279,7 @@
       "korean": "러버토 스니커",
       "russian": "прорезиненные кеды",
       "plural": false,
-      "internalIds": [
-        10073,
-        10070,
-        10071,
-        10068,
-        10067,
-        10069,
-        10072,
-        6892
-      ]
+      "internalIds": [ 10073, 10070, 10071, 10068, 10067, 10069, 10072, 6892 ]
     },
     "variations": [
       {
@@ -7870,13 +7439,7 @@
       "korean": "갑옷 다리 보호대",
       "russian": "поножи воина",
       "plural": false,
-      "internalIds": [
-        11569,
-        11567,
-        5546,
-        11570,
-        11568
-      ]
+      "internalIds": [ 11569, 11567, 5546, 11570, 11568 ]
     },
     "variations": [
       {
@@ -7991,15 +7554,7 @@
       "korean": "리본 레이스 슈즈",
       "russian": "милые туфли",
       "plural": false,
-      "internalIds": [
-        10153,
-        10149,
-        10150,
-        5606,
-        10152,
-        10151,
-        10154
-      ]
+      "internalIds": [ 10153, 10149, 10150, 5606, 10152, 10151, 10154 ]
     },
     "variations": [
       {
@@ -8110,11 +7665,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -8148,13 +7699,7 @@
       "korean": "줄무늬 슬리퍼",
       "russian": "тапочки для душа",
       "plural": false,
-      "internalIds": [
-        10696,
-        4714,
-        10698,
-        10697,
-        10699
-      ]
+      "internalIds": [ 10696, 4714, 10698, 10697, 10699 ]
     },
     "variations": [
       {
@@ -8235,12 +7780,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -8274,14 +7814,7 @@
       "korean": "스키 부츠",
       "russian": "лыжные ботинки",
       "plural": false,
-      "internalIds": [
-        5660,
-        10993,
-        10992,
-        10994,
-        10995,
-        10996
-      ]
+      "internalIds": [ 5660, 10993, 10992, 10994, 10995, 10996 ]
     },
     "variations": [
       {
@@ -8411,16 +7944,7 @@
       "korean": "슬립온",
       "russian": "лоферы без шнурков",
       "plural": false,
-      "internalIds": [
-        10082,
-        6890,
-        6884,
-        5566,
-        6889,
-        10081,
-        6885,
-        10083
-      ]
+      "internalIds": [ 10082, 6890, 6884, 5566, 6889, 10081, 6885, 10083 ]
     },
     "variations": [
       {
@@ -8580,16 +8104,7 @@
       "korean": "슬립온 샌들",
       "russian": "пляжные сабо",
       "plural": false,
-      "internalIds": [
-        10099,
-        10102,
-        10100,
-        10103,
-        10098,
-        5565,
-        10101,
-        10104
-      ]
+      "internalIds": [ 10099, 10102, 10100, 10103, 10098, 5565, 10101, 10104 ]
     },
     "variations": [
       {
@@ -8749,13 +8264,7 @@
       "korean": "학교 실내화",
       "russian": "увабаки",
       "plural": false,
-      "internalIds": [
-        5473,
-        10983,
-        10982,
-        10981,
-        10980
-      ]
+      "internalIds": [ 5473, 10983, 10982, 10981, 10980 ]
     },
     "variations": [
       {
@@ -8870,16 +8379,7 @@
       "korean": "슬리퍼",
       "russian": "слипперы",
       "plural": false,
-      "internalIds": [
-        10085,
-        5525,
-        10084,
-        10089,
-        10086,
-        10090,
-        10087,
-        10088
-      ]
+      "internalIds": [ 10085, 5525, 10084, 10089, 10086, 10090, 10087, 10088 ]
     },
     "variations": [
       {
@@ -9005,11 +8505,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -9043,16 +8539,7 @@
       "korean": "스포츠 샌들",
       "russian": "спортивные сандалии",
       "plural": false,
-      "internalIds": [
-        5824,
-        10732,
-        10728,
-        10731,
-        10734,
-        10729,
-        10730,
-        10733
-      ]
+      "internalIds": [ 5824, 10732, 10728, 10731, 10734, 10729, 10730, 10733 ]
     },
     "variations": [
       {
@@ -9178,12 +8665,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "comfy",
-      "sporty",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "comfy", "sporty", "vacation" ],
     "recipe": null
   },
   {
@@ -9217,14 +8699,7 @@
       "korean": "엔지니어 부츠",
       "russian": "обувь со стальным носком",
       "plural": false,
-      "internalIds": [
-        11236,
-        11234,
-        11235,
-        11233,
-        2593,
-        11232
-      ]
+      "internalIds": [ 11236, 11234, 11235, 11233, 2593, 11232 ]
     },
     "variations": [
       {
@@ -9354,16 +8829,7 @@
       "korean": "스트랩 펌프스",
       "russian": "туфли c застежками",
       "plural": false,
-      "internalIds": [
-        10144,
-        10145,
-        5561,
-        10146,
-        10143,
-        10147,
-        10142,
-        10148
-      ]
+      "internalIds": [ 10144, 10145, 5561, 10146, 10143, 10147, 10142, 10148 ]
     },
     "variations": [
       {
@@ -9489,11 +8955,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -9527,13 +8989,7 @@
       "korean": "꽃신",
       "russian": "обувь с цветами",
       "plural": false,
-      "internalIds": [
-        5622,
-        10988,
-        10991,
-        10990,
-        10989
-      ]
+      "internalIds": [ 5622, 10988, 10991, 10990, 10989 ]
     },
     "variations": [
       {
@@ -9648,16 +9104,7 @@
       "korean": "트래킹 슈즈",
       "russian": "походные ботинки",
       "plural": false,
-      "internalIds": [
-        11242,
-        11237,
-        11238,
-        11240,
-        11239,
-        11241,
-        5388,
-        11243
-      ]
+      "internalIds": [ 11242, 11237, 11238, 11240, 11239, 11241, 5388, 11243 ]
     },
     "variations": [
       {
@@ -9817,13 +9264,7 @@
       "korean": "벨루어 부츠",
       "russian": "велюровые сапоги",
       "plural": false,
-      "internalIds": [
-        11675,
-        4732,
-        11678,
-        11677,
-        11676
-      ]
+      "internalIds": [ 11675, 4732, 11678, 11677, 11676 ]
     },
     "variations": [
       {
@@ -9938,14 +9379,7 @@
       "korean": "에나멜 펌프스",
       "russian": "виниловые лодочки",
       "plural": false,
-      "internalIds": [
-        10119,
-        10120,
-        10118,
-        10116,
-        10117,
-        4723
-      ]
+      "internalIds": [ 10119, 10120, 10118, 10116, 10117, 4723 ]
     },
     "variations": [
       {
@@ -10041,14 +9475,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "everyday", "fairy tale", "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -10133,11 +9560,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -10171,16 +9594,7 @@
       "korean": "아쿠아 샌들",
       "russian": "пляжные сандалии",
       "plural": false,
-      "internalIds": [
-        10715,
-        5652,
-        10717,
-        10720,
-        10719,
-        10716,
-        10714,
-        10718
-      ]
+      "internalIds": [ 10715, 5652, 10717, 10720, 10719, 10716, 10714, 10718 ]
     },
     "variations": [
       {
@@ -10306,11 +9720,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -10344,16 +9754,7 @@
       "korean": "아쿠아 슈즈",
       "russian": "тапочки для купания",
       "plural": false,
-      "internalIds": [
-        10276,
-        10275,
-        5808,
-        10271,
-        10274,
-        10272,
-        10177,
-        10273
-      ]
+      "internalIds": [ 10276, 10275, 5808, 10271, 10274, 10272, 10177, 10273 ]
     },
     "variations": [
       {
@@ -10479,11 +9880,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "sporty",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
   {
@@ -10517,15 +9914,7 @@
       "korean": "윙팁 슈즈",
       "russian": "классические броги",
       "plural": false,
-      "internalIds": [
-        11472,
-        11474,
-        5809,
-        11476,
-        11475,
-        11473,
-        11471
-      ]
+      "internalIds": [ 11472, 11474, 5809, 11476, 11475, 11473, 11471 ]
     },
     "variations": [
       {
@@ -10636,13 +10025,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "formal",
-      "party",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "everyday", "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -10776,13 +10159,7 @@
       "korean": "네덜란드 나막신",
       "russian": "деревянные клоги",
       "plural": false,
-      "internalIds": [
-        10985,
-        5618,
-        10986,
-        10984,
-        10987
-      ]
+      "internalIds": [ 10985, 5618, 10986, 10984, 10987 ]
     },
     "variations": [
       {
@@ -10897,16 +10274,7 @@
       "korean": "워커",
       "russian": "рабочие сапоги",
       "plural": false,
-      "internalIds": [
-        11247,
-        11250,
-        5541,
-        11245,
-        11246,
-        11249,
-        11248,
-        11244
-      ]
+      "internalIds": [ 11247, 11250, 5541, 11245, 11246, 11249, 11248, 11244 ]
     },
     "variations": [
       {
@@ -11032,11 +10400,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "outdoorsy", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -11070,14 +10434,7 @@
       "korean": "복싱 슈즈",
       "russian": "борцовские ботинки",
       "plural": false,
-      "internalIds": [
-        10259,
-        5668,
-        10258,
-        10260,
-        10257,
-        10256
-      ]
+      "internalIds": [ 10259, 5668, 10258, 10260, 10257, 10256 ]
     },
     "variations": [
       {
@@ -11207,16 +10564,7 @@
       "korean": "가락 신",
       "russian": "дзори",
       "plural": false,
-      "internalIds": [
-        10974,
-        10973,
-        4734,
-        10970,
-        10971,
-        10975,
-        10969,
-        10972
-      ]
+      "internalIds": [ 10974, 10973, 4734, 10970, 10971, 10975, 10969, 10972 ]
     },
     "variations": [
       {

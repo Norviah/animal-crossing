@@ -100,11 +100,7 @@
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "apple hat",
@@ -286,11 +282,7 @@
     "colors": [ "Pink", "White" ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "party"
-    ],
+    "themes": [ "everyday", "fairy tale", "party" ],
     "recipe": null
   },
   {
@@ -342,11 +334,7 @@
     "colors": [ "Blue", "Blue" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "blue rose crown",
@@ -437,12 +425,7 @@
     "colors": [ "White", "Colorful" ],
     "styles": [ "Elegant" ],
     "sources": [ "Cyrus" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -494,11 +477,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Elegant" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day crown",
@@ -700,11 +679,7 @@
     "colors": [ "Red", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry hat",
@@ -795,11 +770,7 @@
     "colors": [ "Pink", "Purple" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "chic mum crown",
@@ -837,10 +808,7 @@
         "plural": false,
         "internalIds": [ 5118 ]
       },
-      "materials": {
-        "purple mums": 3,
-        "pink mums": 3
-      },
+      "materials": { "purple mums": 3, "pink mums": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -893,11 +861,7 @@
     "colors": [ "Purple", "Black" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "chic rose crown",
@@ -935,10 +899,7 @@
         "plural": false,
         "internalIds": [ 5113 ]
       },
-      "materials": {
-        "purple roses": 3,
-        "black roses": 3
-      },
+      "materials": { "purple roses": 3, "black roses": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -991,11 +952,7 @@
     "colors": [ "Purple", "Pink" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "chic tulip crown",
@@ -1033,11 +990,7 @@
         "plural": false,
         "internalIds": [ 5103 ]
       },
-      "materials": {
-        "purple tulips": 2,
-        "pink tulips": 2,
-        "orange tulips": 1
-      },
+      "materials": { "purple tulips": 2, "pink tulips": 2, "orange tulips": 1 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1142,13 +1095,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -1200,11 +1147,7 @@
     "colors": [ "Blue", "Orange" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cool hyacinth crown",
@@ -1242,11 +1185,7 @@
         "plural": false,
         "internalIds": [ 5097 ]
       },
-      "materials": {
-        "blue hyacinths": 4,
-        "pink hyacinths": 2,
-        "orange hyacinths": 2
-      },
+      "materials": { "blue hyacinths": 4, "pink hyacinths": 2, "orange hyacinths": 2 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1299,11 +1238,7 @@
     "colors": [ "Red", "Blue" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cool pansy crown",
@@ -1341,10 +1276,7 @@
         "plural": false,
         "internalIds": [ 5106 ]
       },
-      "materials": {
-        "orange pansies": 3,
-        "blue pansies": 3
-      },
+      "materials": { "orange pansies": 3, "blue pansies": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1397,11 +1329,7 @@
     "colors": [ "Pink", "Blue" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cool windflower crown",
@@ -1439,10 +1367,7 @@
         "plural": false,
         "internalIds": [ 5100 ]
       },
-      "materials": {
-        "blue windflowers": 3,
-        "pink windflowers": 3
-      },
+      "materials": { "blue windflowers": 3, "pink windflowers": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1495,11 +1420,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cosmos crown",
@@ -1537,11 +1458,7 @@
         "plural": false,
         "internalIds": [ 5108 ]
       },
-      "materials": {
-        "red cosmos": 2,
-        "yellow cosmos": 2,
-        "white cosmos": 3
-      },
+      "materials": { "red cosmos": 2, "yellow cosmos": 2, "white cosmos": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1594,12 +1511,7 @@
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -1651,11 +1563,7 @@
     "colors": [ "Pink", "Orange" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cute lily crown",
@@ -1693,11 +1601,7 @@
         "plural": false,
         "internalIds": [ 5115 ]
       },
-      "materials": {
-        "pink lilies": 2,
-        "orange lilies": 2,
-        "white lilies": 2
-      },
+      "materials": { "pink lilies": 2, "orange lilies": 2, "white lilies": 2 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1750,11 +1654,7 @@
     "colors": [ "Pink", "Orange" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cute rose crown",
@@ -1792,10 +1692,7 @@
         "plural": false,
         "internalIds": [ 5112 ]
       },
-      "materials": {
-        "pink roses": 3,
-        "orange roses": 3
-      },
+      "materials": { "pink roses": 3, "orange roses": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -1848,11 +1745,7 @@
     "colors": [ "Blue", "Yellow" ],
     "styles": [ "Simple" ],
     "sources": [ "Dodo Airlines" ],
-    "themes": [
-      "outdoorsy",
-      "sporty",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
   {
@@ -1904,11 +1797,7 @@
     "colors": [ "Red", "Red" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark cosmos crown",
@@ -1999,11 +1888,7 @@
     "colors": [ "Red", "Black" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark lily crown",
@@ -2094,11 +1979,7 @@
     "colors": [ "Red", "Black" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark tulip crown",
@@ -2189,11 +2070,7 @@
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "earth-egg shell",
@@ -2284,11 +2161,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "egg party hat",
@@ -2334,9 +2207,7 @@
         "sky egg": 2,
         "water egg": 2
       },
-      "sources": [
-        "Learning all egg outfit DIYs"
-      ]
+      "sources": [ "Learning all egg outfit DIYs" ]
     }
   },
   {
@@ -2388,11 +2259,7 @@
     "colors": [ "White", "White" ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2639,11 +2506,7 @@
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "gold rose crown",
@@ -2734,11 +2597,7 @@
     "colors": [ "Purple", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2790,11 +2649,7 @@
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -2817,7 +2672,7 @@
     "sortOrder": 1,
     "type": "HeadHairOrnament_Top",
     "villagerEquippable": true,
-    "catalog": "Not in catalog",
+    "catalog": null,
     "filename": "CapOrnamentCChildren0",
     "internalId": 12576,
     "uniqueEntryId": "qtR8v5BvaApJkokuf",
@@ -3054,11 +2909,7 @@
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hyacinth crown",
@@ -3096,11 +2947,7 @@
         "plural": false,
         "internalIds": [ 5096 ]
       },
-      "materials": {
-        "red hyacinths": 4,
-        "yellow hyacinths": 2,
-        "white hyacinths": 2
-      },
+      "materials": { "red hyacinths": 4, "yellow hyacinths": 2, "white hyacinths": 2 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -3205,11 +3052,7 @@
     "colors": [ "Brown", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -3443,11 +3286,7 @@
     "colors": [ "Green", "Green" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "leaf-egg shell",
@@ -3538,11 +3377,7 @@
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lily crown",
@@ -3580,11 +3415,7 @@
         "plural": false,
         "internalIds": [ 5114 ]
       },
-      "materials": {
-        "red lilies": 2,
-        "yellow lilies": 2,
-        "white lilies": 2
-      },
+      "materials": { "red lilies": 2, "yellow lilies": 2, "white lilies": 2 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -3637,11 +3468,7 @@
     "colors": [ "Pink", "Orange" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lovely cosmos crown",
@@ -3679,10 +3506,7 @@
         "plural": false,
         "internalIds": [ 5109 ]
       },
-      "materials": {
-        "pink cosmos": 4,
-        "orange cosmos": 3
-      },
+      "materials": { "pink cosmos": 4, "orange cosmos": 3 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -3741,8 +3565,8 @@
   {
     "sourceSheet": "Headwear",
     "name": "mermaid tiara",
-    "closetImage": null,
-    "storageImage": null,
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/CapOrnamentCMermaid0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/CapOrnamentCMermaid0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -3787,12 +3611,7 @@
     "colors": [ "White", "Pink" ],
     "styles": [ "Cute" ],
     "sources": [ "Pascal" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -3948,11 +3767,7 @@
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mum crown",
@@ -3990,11 +3805,7 @@
         "plural": false,
         "internalIds": [ 5117 ]
       },
-      "materials": {
-        "red mums": 2,
-        "yellow mums": 2,
-        "white mums": 2
-      },
+      "materials": { "red mums": 2, "yellow mums": 2, "white mums": 2 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -4047,11 +3858,7 @@
     "colors": [ "White", "White" ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -4230,7 +4037,7 @@
     "sortOrder": 1,
     "type": "HeadCap",
     "villagerEquippable": true,
-    "catalog": "Not in catalog",
+    "catalog": null,
     "filename": "CapHatOkmotors0",
     "internalId": 12424,
     "uniqueEntryId": "EfqFMvapb35xaDsnk",
@@ -4311,11 +4118,7 @@
     "colors": [ "Orange", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "orange hat",
@@ -4406,11 +4209,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pansy crown",
@@ -4448,11 +4247,7 @@
         "plural": false,
         "internalIds": [ 5105 ]
       },
-      "materials": {
-        "red pansies": 2,
-        "yellow pansies": 2,
-        "white pansies": 2
-      },
+      "materials": { "red pansies": 2, "yellow pansies": 2, "white pansies": 2 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -4557,11 +4352,7 @@
     "colors": [ "Pink", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "peach hat",
@@ -4652,11 +4443,7 @@
     "colors": [ "Green", "Brown" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pear hat",
@@ -4799,19 +4586,14 @@
     "colors": [ "Yellow", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical", "vacation" ],
     "recipe": null
   },
   {
     "sourceSheet": "Headwear",
     "name": "pirate-treasure crown",
-    "closetImage": null,
-    "storageImage": null,
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/CapOrnamentCPirate0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/CapOrnamentCPirate0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -4856,19 +4638,14 @@
     "colors": [ "Gray", "Red" ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Gullivarrr" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "goth", "theatrical" ],
     "recipe": null
   },
   {
     "sourceSheet": "Headwear",
     "name": "pirate's hat",
-    "closetImage": null,
-    "storageImage": null,
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/CapHatPirate0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/CapHatPirate0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -4913,12 +4690,7 @@
     "colors": [ "Black", "Yellow" ],
     "styles": [ "Cool" ],
     "sources": [ "Gullivarrr" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -5074,11 +4846,7 @@
     "colors": [ "Purple", "Purple" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "purple hyacinth crown",
@@ -5169,11 +4937,7 @@
     "colors": [ "Purple", "Purple" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "purple pansy crown",
@@ -5264,11 +5028,7 @@
     "colors": [ "Purple", "Purple" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "purple windflower crown",
@@ -5359,11 +5119,7 @@
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rose crown",
@@ -5401,11 +5157,7 @@
         "plural": false,
         "internalIds": [ 5111 ]
       },
-      "materials": {
-        "red roses": 2,
-        "yellow roses": 2,
-        "white roses": 2
-      },
+      "materials": { "red roses": 2, "yellow roses": 2, "white roses": 2 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -5458,11 +5210,7 @@
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -5566,11 +5314,7 @@
     "colors": [ "Green", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "simple mum crown",
@@ -5661,11 +5405,7 @@
     "colors": [ "Gray", "Gray" ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -5717,11 +5457,7 @@
     "colors": [ "Light blue", "Red" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "sky-egg shell",
@@ -5850,10 +5586,7 @@
         "plural": false,
         "internalIds": [ 8609 ]
       },
-      "materials": {
-        "large snowflake": 1,
-        "snowflake": 5
-      },
+      "materials": { "large snowflake": 1, "snowflake": 5 },
       "sources": [ "Snowboy" ]
     }
   },
@@ -6010,11 +5743,7 @@
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "star head",
@@ -6105,11 +5834,7 @@
     "colors": [ "Yellow", "Orange" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone-egg shell",
@@ -6291,11 +6016,7 @@
     "colors": [ "Pink", "Green" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -6318,7 +6039,7 @@
     "sortOrder": 1,
     "type": "HeadCap",
     "villagerEquippable": true,
-    "catalog": "Not in catalog",
+    "catalog": null,
     "filename": "CapHatSummer0",
     "internalId": 12577,
     "uniqueEntryId": "joCTjPoPgEfNraHSH",
@@ -6347,11 +6068,7 @@
     "colors": [ "Yellow", "Green" ],
     "styles": [ "Active" ],
     "sources": [ "Nook Shopping Seasonal" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": null
   },
   {
@@ -6403,11 +6120,7 @@
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tulip crown",
@@ -6445,11 +6158,7 @@
         "plural": false,
         "internalIds": [ 5102 ]
       },
-      "materials": {
-        "red tulips": 2,
-        "yellow tulips": 2,
-        "white tulips": 1
-      },
+      "materials": { "red tulips": 2, "yellow tulips": 2, "white tulips": 1 },
       "sources": [ "All Villagers" ]
     }
   },
@@ -6554,11 +6263,7 @@
     "colors": [ "Purple", "Beige" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "water-egg shell",
@@ -6649,12 +6354,7 @@
     "colors": [ "Green", "Red" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical", "vacation" ],
     "recipe": null
   },
   {
@@ -6758,11 +6458,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "windflower crown",
@@ -6857,11 +6553,7 @@
     "colors": [ "Orange", "Brown" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wood-egg shell",
@@ -6934,14 +6626,7 @@
       "korean": "도토리 털모자",
       "russian": "вязаная шапка-желудь",
       "plural": false,
-      "internalIds": [
-        10935,
-        10933,
-        10934,
-        10936,
-        5315,
-        10937
-      ]
+      "internalIds": [ 10935, 10933, 10934, 10936, 5315, 10937 ]
     },
     "variations": [
       {
@@ -7235,11 +6920,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "comfy"
-    ],
+    "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
   {
@@ -7273,16 +6954,7 @@
       "korean": "아기 모자",
       "russian": "чепчик младенца",
       "plural": false,
-      "internalIds": [
-        11856,
-        11853,
-        11859,
-        11854,
-        11855,
-        5363,
-        11858,
-        11857
-      ]
+      "internalIds": [ 11856, 11853, 11859, 11854, 11855, 5363, 11858, 11857 ]
     },
     "variations": [
       {
@@ -7554,13 +7226,7 @@
       "korean": "야구 모자",
       "russian": "бейсболка",
       "plural": false,
-      "internalIds": [
-        12094,
-        12095,
-        9763,
-        12093,
-        12092
-      ]
+      "internalIds": [ 12094, 12095, 9763, 12093, 12092 ]
     },
     "variations": [
       {
@@ -7680,13 +7346,7 @@
       "korean": "야구 헬멧",
       "russian": "шлем бейсболиста",
       "plural": false,
-      "internalIds": [
-        11598,
-        11599,
-        5366,
-        11597,
-        11596
-      ]
+      "internalIds": [ 11598, 11599, 5366, 11597, 11596 ]
     },
     "variations": [
       {
@@ -7876,11 +7536,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -7914,14 +7570,7 @@
       "korean": "베레모",
       "russian": "берет",
       "plural": false,
-      "internalIds": [
-        11527,
-        11526,
-        5260,
-        11525,
-        11524,
-        11523
-      ]
+      "internalIds": [ 11527, 11526, 5260, 11525, 11524, 11523 ]
     },
     "variations": [
       {
@@ -8057,16 +7706,7 @@
       "korean": "자전거 헬멧",
       "russian": "велосипедный шлем",
       "plural": false,
-      "internalIds": [
-        10220,
-        10225,
-        10223,
-        10221,
-        10222,
-        5282,
-        10219,
-        10224
-      ]
+      "internalIds": [ 10220, 10225, 10223, 10221, 10222, 5282, 10219, 10224 ]
     },
     "variations": [
       {
@@ -8322,13 +7962,7 @@
       "korean": "리본 페도라",
       "russian": "котелок с лентой",
       "plural": false,
-      "internalIds": [
-        10884,
-        10885,
-        10883,
-        5296,
-        10882
-      ]
+      "internalIds": [ 10884, 10885, 10883, 5296, 10882 ]
     },
     "variations": [
       {
@@ -8414,11 +8048,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party"
-    ],
+    "themes": [ "fairy tale", "formal", "party" ],
     "recipe": null
   },
   {
@@ -8452,15 +8082,7 @@
       "korean": "양갈래 머리",
       "russian": "парик с чепцами",
       "plural": false,
-      "internalIds": [
-        11890,
-        5693,
-        11893,
-        11889,
-        11892,
-        11888,
-        11891
-      ]
+      "internalIds": [ 11890, 5693, 11893, 11889, 11892, 11888, 11891 ]
     },
     "variations": [
       {
@@ -8682,11 +8304,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -8862,11 +8480,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -8900,13 +8514,7 @@
       "korean": "포수 마스크",
       "russian": "маска бейсболиста",
       "plural": false,
-      "internalIds": [
-        11602,
-        11603,
-        6050,
-        11601,
-        11600
-      ]
+      "internalIds": [ 11602, 11603, 6050, 11601, 11600 ]
     },
     "variations": [
       {
@@ -9114,14 +8722,7 @@
       "korean": "컬러풀 줄무늬 털모자",
       "russian": "пестрая шапка в полоску",
       "plural": false,
-      "internalIds": [
-        5409,
-        10959,
-        10958,
-        10961,
-        10957,
-        10960
-      ]
+      "internalIds": [ 5409, 10959, 10958, 10961, 10957, 10960 ]
     },
     "variations": [
       {
@@ -9329,16 +8930,7 @@
       "korean": "사이클 야구 모자",
       "russian": "велосипедная кепка",
       "plural": false,
-      "internalIds": [
-        5257,
-        11670,
-        11669,
-        11672,
-        11674,
-        11671,
-        11668,
-        11673
-      ]
+      "internalIds": [ 5257, 11670, 11669, 11672, 11674, 11671, 11668, 11673 ]
     },
     "variations": [
       {
@@ -9506,14 +9098,7 @@
       "korean": "카스케트",
       "russian": "стильная кепка",
       "plural": false,
-      "internalIds": [
-        11535,
-        11534,
-        11532,
-        11531,
-        11533,
-        5333
-      ]
+      "internalIds": [ 11535, 11534, 11532, 11531, 11533, 5333 ]
     },
     "variations": [
       {
@@ -9719,11 +9304,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -9949,16 +9530,7 @@
       "korean": "삼각 두건",
       "russian": "косынка",
       "plural": false,
-      "internalIds": [
-        10747,
-        10745,
-        10746,
-        5145,
-        10749,
-        10744,
-        10748,
-        10750
-      ]
+      "internalIds": [ 10747, 10745, 10746, 5145, 10749, 10744, 10748, 10750 ]
     },
     "variations": [
       {
@@ -10198,13 +9770,7 @@
       "korean": "엘레강스 모자",
       "russian": "элегантная шляпа",
       "plural": false,
-      "internalIds": [
-        10890,
-        10891,
-        10889,
-        10888,
-        5351
-      ]
+      "internalIds": [ 10890, 10891, 10889, 10888, 5351 ]
     },
     "variations": [
       {
@@ -10290,12 +9856,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -10433,16 +9994,7 @@
       "korean": "메르헨 두건",
       "russian": "сказочный капюшон",
       "plural": false,
-      "internalIds": [
-        5323,
-        11836,
-        11842,
-        11837,
-        11841,
-        11838,
-        11840,
-        11839
-      ]
+      "internalIds": [ 5323, 11836, 11842, 11837, 11841, 11838, 11840, 11839 ]
     },
     "variations": [
       {
@@ -10610,15 +10162,7 @@
       "korean": "인조털 모자",
       "russian": "шапка «под мех»",
       "plural": false,
-      "internalIds": [
-        10924,
-        10921,
-        10922,
-        10925,
-        10923,
-        10920,
-        5144
-      ]
+      "internalIds": [ 10924, 10921, 10922, 10925, 10923, 10920, 5144 ]
     },
     "variations": [
       {
@@ -10770,14 +10314,7 @@
       "korean": "페도라",
       "russian": "фетровая шляпа",
       "plural": false,
-      "internalIds": [
-        11048,
-        11047,
-        11045,
-        11049,
-        11046,
-        5301
-      ]
+      "internalIds": [ 11048, 11047, 11045, 11049, 11046, 5301 ]
     },
     "variations": [
       {
@@ -10913,13 +10450,7 @@
       "korean": "소방관 모자",
       "russian": "шлем пожарного",
       "plural": false,
-      "internalIds": [
-        5374,
-        11617,
-        11619,
-        11620,
-        11618
-      ]
+      "internalIds": [ 5374, 11617, 11619, 11620, 11618 ]
     },
     "variations": [
       {
@@ -11039,15 +10570,7 @@
       "korean": "화려한 머리핀",
       "russian": "броская заколка",
       "plural": false,
-      "internalIds": [
-        10847,
-        10843,
-        8611,
-        10845,
-        10846,
-        10842,
-        10844
-      ]
+      "internalIds": [ 10847, 10843, 8611, 10845, 10846, 10842, 10844 ]
     },
     "variations": [
       {
@@ -11165,11 +10688,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -11203,13 +10722,7 @@
       "korean": "꽃 머리핀",
       "russian": "шпилька с цветком",
       "plural": false,
-      "internalIds": [
-        9854,
-        11961,
-        11960,
-        11959,
-        11962
-      ]
+      "internalIds": [ 9854, 11961, 11960, 11959, 11962 ]
     },
     "variations": [
       {
@@ -11329,16 +10842,7 @@
       "korean": "럭비 헬멧",
       "russian": "футбольный шлем",
       "plural": false,
-      "internalIds": [
-        11604,
-        11610,
-        11606,
-        11609,
-        11605,
-        5373,
-        11608,
-        11607
-      ]
+      "internalIds": [ 11604, 11610, 11606, 11609, 11605, 5373, 11608, 11607 ]
     },
     "variations": [
       {
@@ -11648,11 +11152,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -11774,15 +11274,7 @@
       "korean": "게이샤 머리",
       "russian": "парик гейши",
       "plural": false,
-      "internalIds": [
-        9746,
-        5695,
-        9741,
-        9742,
-        9743,
-        9744,
-        9745
-      ]
+      "internalIds": [ 9746, 5695, 9741, 9742, 9743, 9744, 9745 ]
     },
     "variations": [
       {
@@ -11934,16 +11426,7 @@
       "korean": "커다란 리본",
       "russian": "огромный бант",
       "plural": false,
-      "internalIds": [
-        12057,
-        12058,
-        9861,
-        12056,
-        12055,
-        12054,
-        12052,
-        12053
-      ]
+      "internalIds": [ 12057, 12058, 9861, 12056, 12055, 12054, 12052, 12053 ]
     },
     "variations": [
       {
@@ -12077,11 +11560,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -12115,14 +11594,7 @@
       "korean": "헤드드레스",
       "russian": "парик с аксессуаром",
       "plural": false,
-      "internalIds": [
-        11897,
-        11898,
-        11899,
-        11900,
-        5683,
-        11901
-      ]
+      "internalIds": [ 11897, 11898, 11899, 11900, 5683, 11901 ]
     },
     "variations": [
       {
@@ -12224,11 +11696,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -12454,13 +11922,7 @@
       "korean": "하트 머리핀",
       "russian": "шпилька с сердечком",
       "plural": false,
-      "internalIds": [
-        12168,
-        12165,
-        9855,
-        12166,
-        12167
-      ]
+      "internalIds": [ 12168, 12165, 9855, 12166, 12167 ]
     },
     "variations": [
       {
@@ -12580,16 +12042,7 @@
       "korean": "고글 헬멧",
       "russian": "шлем с очками",
       "plural": false,
-      "internalIds": [
-        10235,
-        10233,
-        5435,
-        10236,
-        10230,
-        10234,
-        10232,
-        10231
-      ]
+      "internalIds": [ 10235, 10233, 5435, 10236, 10230, 10234, 10232, 10231 ]
     },
     "variations": [
       {
@@ -12899,11 +12352,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -13007,13 +12456,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "party",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "goth", "party", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -13047,16 +12490,7 @@
       "korean": "기수 헬멧",
       "russian": "шлем жокея",
       "plural": false,
-      "internalIds": [
-        11627,
-        11626,
-        11625,
-        5367,
-        11621,
-        11623,
-        11622,
-        11624
-      ]
+      "internalIds": [ 11627, 11626, 11625, 5367, 11621, 11623, 11622, 11624 ]
     },
     "variations": [
       {
@@ -13350,11 +12784,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -13388,15 +12818,7 @@
       "korean": "귀마개 니트 모자",
       "russian": "вязаная шапка с ушами",
       "plural": false,
-      "internalIds": [
-        10949,
-        10947,
-        10945,
-        10948,
-        10946,
-        10944,
-        5370
-      ]
+      "internalIds": [ 10949, 10947, 10945, 10948, 10946, 10944, 5370 ]
     },
     "variations": [
       {
@@ -13548,16 +12970,7 @@
       "korean": "니트캡",
       "russian": "вязаная шапочка",
       "plural": false,
-      "internalIds": [
-        6880,
-        6881,
-        5146,
-        11731,
-        11734,
-        6882,
-        11733,
-        11732
-      ]
+      "internalIds": [ 6880, 6881, 5146, 11731, 11734, 6882, 11733, 11732 ]
     },
     "variations": [
       {
@@ -13691,11 +13104,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "comfy"
-    ],
+    "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
   {
@@ -13729,14 +13138,7 @@
       "korean": "케이트의 야구 모자",
       "russian": "кепка «Лэйблеск»",
       "plural": false,
-      "internalIds": [
-        11746,
-        11747,
-        11750,
-        11749,
-        11748,
-        9880
-      ]
+      "internalIds": [ 11746, 11747, 11750, 11749, 11748, 9880 ]
     },
     "variations": [
       {
@@ -13838,11 +13240,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Labelle" ],
-    "themes": [
-      "everyday",
-      "sporty",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "sporty", "theatrical" ],
     "recipe": null
   },
   {
@@ -13876,14 +13274,7 @@
       "korean": "케이트의 모자",
       "russian": "шляпа «Лэйблеск»",
       "plural": false,
-      "internalIds": [
-        11751,
-        11752,
-        11755,
-        11754,
-        11753,
-        9881
-      ]
+      "internalIds": [ 11751, 11752, 11755, 11754, 11753, 9881 ]
     },
     "variations": [
       {
@@ -13985,12 +13376,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Labelle" ],
-    "themes": [
-      "everyday",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -14078,11 +13464,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -14308,15 +13690,7 @@
       "korean": "망사 모자",
       "russian": "кепка с сеточкой",
       "plural": false,
-      "internalIds": [
-        11511,
-        11506,
-        11507,
-        11509,
-        11510,
-        11508,
-        5128
-      ]
+      "internalIds": [ 11511, 11506, 11507, 11509, 11510, 11508, 5128 ]
     },
     "variations": [
       {
@@ -14434,12 +13808,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -14473,16 +13842,7 @@
       "korean": "새해 모자",
       "russian": "новогодняя шапочка",
       "plural": false,
-      "internalIds": [
-        4799,
-        5191,
-        5189,
-        5187,
-        5188,
-        5192,
-        5186,
-        5190
-      ]
+      "internalIds": [ 4799, 5191, 5189, 5187, 5188, 5192, 5186, 5190 ]
     },
     "variations": [
       {
@@ -14650,16 +14010,7 @@
       "korean": "새해 실크해트",
       "russian": "новогодний цилиндр",
       "plural": false,
-      "internalIds": [
-        5946,
-        5952,
-        5950,
-        5948,
-        5949,
-        5953,
-        5947,
-        5951
-      ]
+      "internalIds": [ 5946, 5952, 5950, 5948, 5949, 5953, 5947, 5951 ]
     },
     "variations": [
       {
@@ -14827,16 +14178,7 @@
       "korean": "닌자 두건",
       "russian": "капюшон ниндзя",
       "plural": false,
-      "internalIds": [
-        5364,
-        11870,
-        11871,
-        11876,
-        11875,
-        11874,
-        11873,
-        11872
-      ]
+      "internalIds": [ 5364, 11870, 11871, 11876, 11875, 11874, 11873, 11872 ]
     },
     "variations": [
       {
@@ -15092,13 +14434,7 @@
       "korean": "카우보이 모자",
       "russian": "австралийская шляпа",
       "plural": false,
-      "internalIds": [
-        11056,
-        11054,
-        11055,
-        5399,
-        11053
-      ]
+      "internalIds": [ 11056, 11054, 11055, 5399, 11053 ]
     },
     "variations": [
       {
@@ -15184,11 +14520,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "work"
-    ],
+    "themes": [ "everyday", "outdoorsy", "work" ],
     "recipe": null
   },
   {
@@ -15222,16 +14554,7 @@
       "korean": "아웃도어 모자",
       "russian": "походная шляпа",
       "plural": false,
-      "internalIds": [
-        11040,
-        5258,
-        11041,
-        11043,
-        11042,
-        11038,
-        11039,
-        11044
-      ]
+      "internalIds": [ 11040, 5258, 11041, 11043, 11042, 11038, 11039, 11044 ]
     },
     "variations": [
       {
@@ -15503,16 +14826,7 @@
       "korean": "페이즐리 반다나",
       "russian": "бандана с узором пейсли",
       "plural": false,
-      "internalIds": [
-        10762,
-        5294,
-        10765,
-        10764,
-        10761,
-        10763,
-        10760,
-        10766
-      ]
+      "internalIds": [ 10762, 5294, 10765, 10764, 10761, 10763, 10760, 10766 ]
     },
     "variations": [
       {
@@ -15680,13 +14994,7 @@
       "korean": "헌팅캡",
       "russian": "кепка газетчика",
       "plural": false,
-      "internalIds": [
-        11512,
-        11515,
-        11513,
-        11514,
-        5147
-      ]
+      "internalIds": [ 11512, 11515, 11513, 11514, 5147 ]
     },
     "variations": [
       {
@@ -15860,11 +15168,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -16078,8 +15382,8 @@
     },
     "variations": [
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/CapHatPiratesbandana2.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/CapHatPiratesbandana2.png",
         "variation": "Black",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -16094,8 +15398,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/CapHatPiratesbandana0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/CapHatPiratesbandana0.png",
         "variation": "Red",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -16110,8 +15414,8 @@
         "colors": [ "Red", "White" ]
       },
       {
-        "closetImage": null,
-        "storageImage": null,
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/CapHatPiratesbandana1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/CapHatPiratesbandana1.png",
         "variation": "Blue",
         "hhaBasePoints": null,
         "seasonalAvailability": "All Year",
@@ -16128,11 +15432,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Gullivarrr" ],
-    "themes": [
-      "fairy tale",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -16166,13 +15466,7 @@
       "korean": "워크캡",
       "russian": "простая кепка",
       "plural": false,
-      "internalIds": [
-        5148,
-        11517,
-        11519,
-        11518,
-        11516
-      ]
+      "internalIds": [ 5148, 11517, 11519, 11518, 11516 ]
     },
     "variations": [
       {
@@ -16292,14 +15586,7 @@
       "korean": "폼폼 카스케트",
       "russian": "теплая каскетка",
       "plural": false,
-      "internalIds": [
-        11539,
-        11543,
-        11540,
-        11541,
-        11542,
-        6054
-      ]
+      "internalIds": [ 11539, 11543, 11540, 11541, 11542, 6054 ]
     },
     "variations": [
       {
@@ -16505,11 +15792,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -16543,16 +15826,7 @@
       "korean": "풀페이스 헬멧",
       "russian": "шлем гонщика",
       "plural": false,
-      "internalIds": [
-        10237,
-        10238,
-        5443,
-        10240,
-        10241,
-        10243,
-        10239,
-        10242
-      ]
+      "internalIds": [ 10237, 10238, 5443, 10240, 10241, 10243, 10239, 10242 ]
     },
     "variations": [
       {
@@ -16720,16 +15994,7 @@
       "korean": "우비 모자",
       "russian": "дождевая шапка",
       "plural": false,
-      "internalIds": [
-        9573,
-        9572,
-        9570,
-        7394,
-        9569,
-        9571,
-        9574,
-        9575
-      ]
+      "internalIds": [ 9573, 9572, 9570, 7394, 9569, 9571, 9574, 9575 ]
     },
     "variations": [
       {
@@ -16897,16 +16162,7 @@
       "korean": "리본",
       "russian": "бантик",
       "plural": false,
-      "internalIds": [
-        10855,
-        10856,
-        2610,
-        10854,
-        10853,
-        10852,
-        2609,
-        10851
-      ]
+      "internalIds": [ 10855, 10856, 2610, 10854, 10853, 10852, 2609, 10851 ]
     },
     "variations": [
       {
@@ -17040,12 +16296,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -17149,11 +16400,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -17241,11 +16488,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -17279,13 +16522,7 @@
       "korean": "안전모",
       "russian": "каска строителя",
       "plural": false,
-      "internalIds": [
-        10218,
-        10216,
-        5139,
-        10217,
-        10215
-      ]
+      "internalIds": [ 10218, 10216, 5139, 10217, 10215 ]
     },
     "variations": [
       {
@@ -17493,13 +16730,7 @@
       "korean": "일본 무사 투구",
       "russian": "шлем самурая",
       "plural": false,
-      "internalIds": [
-        11879,
-        11877,
-        5386,
-        11880,
-        11878
-      ]
+      "internalIds": [ 11879, 11877, 5386, 11880, 11878 ]
     },
     "variations": [
       {
@@ -17795,15 +17026,7 @@
       "korean": "얇은 털모자",
       "russian": "вязаная мини-шапочка",
       "plural": false,
-      "internalIds": [
-        10942,
-        10940,
-        5329,
-        10939,
-        10941,
-        10943,
-        10938
-      ]
+      "internalIds": [ 10942, 10940, 5329, 10939, 10941, 10943, 10938 ]
     },
     "variations": [
       {
@@ -18025,11 +17248,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -18167,13 +17386,7 @@
       "korean": "스케이트 보드 헬멧",
       "russian": "шлем для скейтбординга",
       "plural": false,
-      "internalIds": [
-        12050,
-        12049,
-        9863,
-        12048,
-        12051
-      ]
+      "internalIds": [ 12050, 12049, 9863, 12048, 12051 ]
     },
     "variations": [
       {
@@ -18293,13 +17506,7 @@
       "korean": "복면 마스크",
       "russian": "лыжная маска",
       "plural": false,
-      "internalIds": [
-        10826,
-        10828,
-        10827,
-        5327,
-        10829
-      ]
+      "internalIds": [ 10826, 10828, 10827, 5327, 10829 ]
     },
     "variations": [
       {
@@ -18473,11 +17680,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -18511,16 +17714,7 @@
       "korean": "스노 털모자",
       "russian": "шапка со снежинками",
       "plural": false,
-      "internalIds": [
-        10956,
-        10950,
-        10955,
-        10952,
-        10954,
-        10953,
-        5408,
-        10951
-      ]
+      "internalIds": [ 10956, 10950, 10955, 10952, 10954, 10953, 5408, 10951 ]
     },
     "variations": [
       {
@@ -18688,16 +17882,7 @@
       "korean": "소프트아이스크림 모자",
       "russian": "шапочка-мороженое",
       "plural": false,
-      "internalIds": [
-        6998,
-        10841,
-        10837,
-        10836,
-        10838,
-        10839,
-        10840,
-        10835
-      ]
+      "internalIds": [ 6998, 10841, 10837, 10836, 10838, 10839, 10840, 10835 ]
     },
     "variations": [
       {
@@ -18831,11 +18016,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -18869,16 +18050,7 @@
       "korean": "솜브레로",
       "russian": "сомбреро",
       "plural": false,
-      "internalIds": [
-        10872,
-        10874,
-        10870,
-        10869,
-        10873,
-        5138,
-        10871,
-        10868
-      ]
+      "internalIds": [ 10872, 10874, 10870, 10869, 10873, 5138, 10871, 10868 ]
     },
     "variations": [
       {
@@ -19012,11 +18184,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Gulliver" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -19154,13 +18322,7 @@
       "korean": "별 머리핀",
       "russian": "шпилька со звездой",
       "plural": false,
-      "internalIds": [
-        12172,
-        12169,
-        9856,
-        12171,
-        12170
-      ]
+      "internalIds": [ 12172, 12169, 9856, 12171, 12170 ]
     },
     "variations": [
       {
@@ -19280,16 +18442,7 @@
       "korean": "캉캉 모자",
       "russian": "шляпка канотье",
       "plural": false,
-      "internalIds": [
-        10879,
-        10881,
-        10877,
-        10880,
-        10878,
-        10875,
-        10876,
-        5259
-      ]
+      "internalIds": [ 10879, 10881, 10877, 10880, 10878, 10875, 10876, 5259 ]
     },
     "variations": [
       {
@@ -19423,11 +18576,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -19515,11 +18664,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -19553,15 +18698,7 @@
       "korean": "학생모",
       "russian": "кепка студента",
       "plural": false,
-      "internalIds": [
-        8613,
-        11823,
-        11825,
-        11821,
-        11822,
-        11826,
-        11824
-      ]
+      "internalIds": [ 8613, 11823, 11825, 11821, 11822, 11826, 11824 ]
     },
     "variations": [
       {
@@ -19785,16 +18922,7 @@
       "korean": "수영 모자",
       "russian": "шапочка для плавания",
       "plural": false,
-      "internalIds": [
-        10755,
-        10756,
-        10754,
-        10758,
-        5283,
-        10759,
-        10753,
-        10757
-      ]
+      "internalIds": [ 10755, 10756, 10754, 10758, 5283, 10759, 10753, 10757 ]
     },
     "variations": [
       {
@@ -19928,11 +19056,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "sporty",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
   {
@@ -20070,14 +19194,7 @@
       "korean": "수건",
       "russian": "махровая повязка",
       "plural": false,
-      "internalIds": [
-        5311,
-        10767,
-        10771,
-        10770,
-        10768,
-        10769
-      ]
+      "internalIds": [ 5311, 10767, 10771, 10770, 10768, 10769 ]
     },
     "variations": [
       {
@@ -20179,12 +19296,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "comfy",
-      "sporty",
-      "work"
-    ],
+    "themes": [ "outdoorsy", "comfy", "sporty", "work" ],
     "recipe": null
   },
   {
@@ -20218,16 +19330,7 @@
       "korean": "복슬복슬 나이트캡",
       "russian": "махровый ночн. колпак",
       "plural": false,
-      "internalIds": [
-        10929,
-        10928,
-        10930,
-        10932,
-        10927,
-        5304,
-        10926,
-        10931
-      ]
+      "internalIds": [ 10929, 10928, 10930, 10932, 10927, 5304, 10926, 10931 ]
     },
     "variations": [
       {
@@ -20449,12 +19552,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -20542,12 +19640,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -20581,14 +19674,7 @@
       "korean": "실크해트",
       "russian": "цилиндр",
       "plural": false,
-      "internalIds": [
-        11033,
-        5129,
-        11036,
-        11037,
-        11035,
-        11034
-      ]
+      "internalIds": [ 11033, 5129, 11036, 11037, 11035, 11034 ]
     },
     "variations": [
       {
@@ -20690,11 +19776,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -20728,13 +19810,7 @@
       "korean": "파인애플 아웃도어 모자",
       "russian": "тропическая шляпа",
       "plural": false,
-      "internalIds": [
-        12041,
-        12111,
-        12110,
-        11061,
-        12042
-      ]
+      "internalIds": [ 12041, 12111, 12110, 11061, 12042 ]
     },
     "variations": [
       {
@@ -20820,11 +19896,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -21312,11 +20384,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Gulliver" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -21350,13 +20418,7 @@
       "korean": "농부 모자",
       "russian": "дачная шапка",
       "plural": false,
-      "internalIds": [
-        5669,
-        11816,
-        11817,
-        11815,
-        11818
-      ]
+      "internalIds": [ 5669, 11816, 11817, 11815, 11818 ]
     },
     "variations": [
       {
@@ -21724,14 +20786,7 @@
       "korean": "프로 레슬링 마스크",
       "russian": "маска рестлера",
       "plural": false,
-      "internalIds": [
-        11832,
-        5368,
-        11831,
-        11833,
-        11830,
-        11829
-      ]
+      "internalIds": [ 11832, 5368, 11831, 11833, 11830, 11829 ]
     },
     "variations": [
       {
@@ -21867,16 +20922,7 @@
       "korean": "히어로 헬멧",
       "russian": "шлем супергероя",
       "plural": false,
-      "internalIds": [
-        11802,
-        11806,
-        11805,
-        11804,
-        5423,
-        11803,
-        11801,
-        11800
-      ]
+      "internalIds": [ 11802, 11806, 11805, 11804, 5423, 11803, 11801, 11800 ]
     },
     "variations": [
       {
@@ -22010,11 +21056,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "theatrical",
-      "work"
-    ],
+    "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
   {
@@ -22048,16 +21090,7 @@
       "korean": "꽃 머리장식",
       "russian": "заколка-дзен",
       "plural": false,
-      "internalIds": [
-        8610,
-        9757,
-        9755,
-        9758,
-        9753,
-        9759,
-        9754,
-        9756
-      ]
+      "internalIds": [ 8610, 9757, 9755, 9758, 9753, 9759, 9754, 9756 ]
     },
     "variations": [
       {
