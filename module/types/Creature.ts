@@ -7,7 +7,7 @@ export interface Creature {
     furnitureImage:       null | string;
     sell:                 number;
     whereHow?:            string;
-    shadow?:              null | string;
+    shadow?:              Shadow;
     totalCatchesToUnlock: number;
     spawnRates:           string;
     rainSnowCatchUp?:     boolean;
@@ -24,6 +24,7 @@ export interface Creature {
     hemipsheres:          Hemipsheres;
     colors:               Color[];
     weather?:             Weather;
+    movementSpeed?:       MovementSpeed;
 }
 
 export enum Color {
@@ -48,13 +49,36 @@ export interface Hemipsheres {
 }
 
 export interface North {
-    months: string[];
-    time:   string[];
+    time:        string[];
+    timeArray:   Array<number[] | number>;
+    months:      string[];
+    monthsArray: number[];
 }
 
 export enum LightingType {
     Emission = "Emission",
     Fluorescent = "Fluorescent",
+}
+
+export enum MovementSpeed {
+    Fast = "Fast",
+    Medium = "Medium",
+    Slow = "Slow",
+    Stationary = "Stationary",
+    VeryFast = "Very fast",
+    VerySlow = "Very slow",
+}
+
+export enum Shadow {
+    Large = "Large",
+    LargeWFin = "Large w/Fin",
+    Long = "Long",
+    Medium = "Medium",
+    MediumWFin = "Medium w/Fin",
+    Small = "Small",
+    XLarge = "X-Large",
+    XSmall = "X-Small",
+    XXLarge = "XX-Large",
 }
 
 export enum Size {

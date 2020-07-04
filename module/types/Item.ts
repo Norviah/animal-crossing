@@ -1,7 +1,7 @@
 export interface Item {
     sourceSheet:           Category;
     name:                  string;
-    closetImage?:          null | string;
+    closetImage?:          string;
     storageImage?:         null | string;
     variation?:            null;
     diy?:                  boolean;
@@ -18,7 +18,7 @@ export interface Item {
     sortOrder?:            number;
     type?:                 Type;
     villagerEquippable?:   boolean;
-    catalog?:              boolean | CatalogEnum;
+    catalog?:              boolean | CatalogEnum | null;
     filename?:             string;
     internalId?:           number;
     uniqueEntryId?:        string;
@@ -78,7 +78,6 @@ export interface Item {
 export enum CatalogEnum {
     ForSale = "For sale",
     NotForSale = "Not for sale",
-    NotInCatalog = "Not in catalog",
 }
 
 export enum Category {
@@ -576,8 +575,8 @@ export enum VariantID {
 }
 
 export interface VariationElement {
-    closetImage?:          null | string;
-    storageImage?:         null | string;
+    closetImage?:          string;
+    storageImage?:         string;
     variation:             number | null | string;
     hhaBasePoints:         number | null;
     seasonalAvailability?: SeasonalAvailability;
