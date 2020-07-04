@@ -1592,10 +1592,7 @@
         "plural": false,
         "internalIds": [ 7204 ]
       },
-      "materials": {
-        "cherry-blossom petal": 10,
-        "clump of weeds": 20
-      },
+      "materials": { "cherry-blossom petal": 10, "clump of weeds": 20 },
       "sources": [ "Balloons" ]
     }
   },
@@ -1769,10 +1766,7 @@
         "plural": false,
         "internalIds": [ 4990 ]
       },
-      "materials": {
-        "maple leaf": 10,
-        "clump of weeds": 15
-      },
+      "materials": { "maple leaf": 10, "clump of weeds": 15 },
       "sources": [ "Balloons" ]
     }
   },
@@ -3341,10 +3335,7 @@
         "plural": false,
         "internalIds": [ 5269 ]
       },
-      "materials": {
-        "star fragment": 5,
-        "large star fragment": 1
-      },
+      "materials": { "star fragment": 5, "large star fragment": 1 },
       "sources": [ "Celeste" ]
     }
   },
@@ -3428,11 +3419,7 @@
         "plural": false,
         "internalIds": [ 5236 ]
       },
-      "materials": {
-        "empty can": 2,
-        "boot": 2,
-        "old tire": 2
-      },
+      "materials": { "empty can": 2, "boot": 2, "old tire": 2 },
       "sources": [ "Fishing" ]
     }
   },
@@ -4314,10 +4301,7 @@
         "plural": false,
         "internalIds": [ 5516 ]
       },
-      "materials": {
-        "large snowflake": 1,
-        "snowflake": 8
-      },
+      "materials": { "large snowflake": 1, "snowflake": 8 },
       "sources": [ "Snowboy" ]
     }
   },
@@ -4575,10 +4559,7 @@
         "plural": false,
         "internalIds": [ 5515 ]
       },
-      "materials": {
-        "clump of weeds": 10,
-        "clay": 10
-      },
+      "materials": { "clump of weeds": 10, "clay": 10 },
       "sources": [ "Jock villagers" ]
     }
   },
@@ -4977,10 +4958,7 @@
         "plural": false,
         "internalIds": [ 4968 ]
       },
-      "materials": {
-        "star fragment": 5,
-        "large star fragment": 1
-      },
+      "materials": { "star fragment": 5, "large star fragment": 1 },
       "sources": [ "Celeste" ]
     }
   },
@@ -5109,11 +5087,7 @@
         "plural": false,
         "internalIds": [ 12568 ]
       },
-      "materials": {
-        "pearl": 2,
-        "sand dollar": 5,
-        "Stone": 5
-      },
+      "materials": { "pearl": 2, "sand dollar": 5, "Stone": 5 },
       "sources": [ "Pascal" ]
     }
   },
@@ -6991,10 +6965,7 @@
         "plural": false,
         "internalIds": [ 5056 ]
       },
-      "materials": {
-        "cherry-blossom petal": 5,
-        "wood": 10
-      },
+      "materials": { "cherry-blossom petal": 5, "wood": 10 },
       "sources": [ "Balloons" ]
     }
   },
@@ -7214,10 +7185,7 @@
         "plural": false,
         "internalIds": [ 5270 ]
       },
-      "materials": {
-        "star fragment": 5,
-        "large star fragment": 1
-      },
+      "materials": { "star fragment": 5, "large star fragment": 1 },
       "sources": [ "Celeste" ]
     }
   },
@@ -7835,10 +7803,7 @@
         "plural": false,
         "internalIds": [ 7239 ]
       },
-      "materials": {
-        "summer shell": 3,
-        "sandy-beach flooring": 1
-      },
+      "materials": { "summer shell": 3, "sandy-beach flooring": 1 },
       "sources": [ "Balloons" ]
     }
   },
@@ -8411,10 +8376,7 @@
         "plural": false,
         "internalIds": [ 5268 ]
       },
-      "materials": {
-        "summer shell": 3,
-        "coral": 3
-      },
+      "materials": { "summer shell": 3, "coral": 3 },
       "sources": [ "Balloons" ]
     }
   },

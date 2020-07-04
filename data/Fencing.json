@@ -149,10 +149,7 @@
         "plural": false,
         "internalIds": [ 5213 ]
       },
-      "materials": {
-        "hardwood": 3,
-        "iron nugget": 2
-      },
+      "materials": { "hardwood": 3, "iron nugget": 2 },
       "sources": [ "Nook Miles Exchange" ]
     }
   },
@@ -544,11 +541,7 @@
         "plural": false,
         "internalIds": [ 12758 ]
       },
-      "materials": {
-        "clump of weeds": 10,
-        "tree branch": 5,
-        "stone": 2
-      },
+      "materials": { "clump of weeds": 10, "tree branch": 5, "stone": 2 },
       "sources": [ "Tom Nook" ]
     }
   },
@@ -1241,10 +1234,7 @@
         "plural": false,
         "internalIds": [ 4356 ]
       },
-      "materials": {
-        "clump of weeds": 10,
-        "wood": 3
-      },
+      "materials": { "clump of weeds": 10, "wood": 3 },
       "sources": [ "Nook Miles Exchange" ]
     }
   },
@@ -1398,10 +1388,7 @@
         "plural": false,
         "internalIds": [ 12894 ]
       },
-      "materials": {
-        "iron nugget": 5,
-        "softwood": 3
-      },
+      "materials": { "iron nugget": 5, "softwood": 3 },
       "sources": [ "Harvey" ]
     }
   },
@@ -1478,11 +1465,7 @@
         "plural": false,
         "internalIds": [ 5207 ]
       },
-      "materials": {
-        "iron nugget": 3,
-        "clay": 3,
-        "stone": 3
-      },
+      "materials": { "iron nugget": 3, "clay": 3, "stone": 3 },
       "sources": [ "Nook Miles Exchange" ]
     }
   }

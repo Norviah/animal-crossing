@@ -13722,8 +13722,8 @@
   {
     "SourceSheet": "Bottoms",
     "Name": "pirate pants",
-    "Closet Image": "",
-    "Storage Image": "",
+    "Closet Image": "=IMAGE(\"https://acnhcdn.com/latest/ClosetIcon/BottomsTexPantsNormalPirates0.png\")",
+    "Storage Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/BottomsTexPantsNormalPirates0.png\")",
     "Variation": "NA",
     "DIY": "No",
     "Buy": "NFS",

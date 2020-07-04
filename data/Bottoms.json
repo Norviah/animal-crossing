@@ -274,19 +274,14 @@
     "colors": [ "Blue", "White" ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
     "sourceSheet": "Bottoms",
     "name": "pirate pants",
-    "closetImage": null,
-    "storageImage": null,
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BottomsTexPantsNormalPirates0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BottomsTexPantsNormalPirates0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -329,12 +324,7 @@
     "colors": [ "Black", "Yellow" ],
     "styles": [ "Cool" ],
     "sources": [ "Gullivarrr" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "goth",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "goth", "theatrical" ],
     "recipe": null
   },
   {
@@ -639,14 +629,7 @@
       "korean": "트레이닝복 바지",
       "russian": "штаны для разминки",
       "plural": false,
-      "internalIds": [
-        11296,
-        11298,
-        3311,
-        11295,
-        11297,
-        11299
-      ]
+      "internalIds": [ 11296, 11298, 3311, 11295, 11297, 11299 ]
     },
     "variations": [
       {
@@ -775,14 +758,7 @@
       "korean": "트레이닝복 숏팬츠",
       "russian": "шорты бегуна",
       "plural": false,
-      "internalIds": [
-        11906,
-        11908,
-        4518,
-        11905,
-        11907,
-        11909
-      ]
+      "internalIds": [ 11906, 11908, 4518, 11905, 11907, 11909 ]
     },
     "variations": [
       {
@@ -911,16 +887,7 @@
       "korean": "농구복 하의",
       "russian": "баскетбольные шорты",
       "plural": false,
-      "internalIds": [
-        11313,
-        11307,
-        11309,
-        11311,
-        11308,
-        11312,
-        11310,
-        5720
-      ]
+      "internalIds": [ 11313, 11307, 11309, 11311, 11308, 11312, 11310, 5720 ]
     },
     "variations": [
       {
@@ -1292,16 +1259,7 @@
       "korean": "보아 반바지",
       "russian": "пушистые шорты",
       "plural": false,
-      "internalIds": [
-        9120,
-        9117,
-        9118,
-        9114,
-        9119,
-        9116,
-        5419,
-        9115
-      ]
+      "internalIds": [ 9120, 9117, 9118, 9114, 9119, 9116, 5419, 9115 ]
     },
     "variations": [
       {
@@ -1460,16 +1418,7 @@
       "korean": "보아 스커트",
       "russian": "пушистая юбка",
       "plural": false,
-      "internalIds": [
-        9109,
-        9110,
-        5418,
-        9111,
-        9107,
-        9108,
-        9113,
-        9112
-      ]
+      "internalIds": [ 9109, 9110, 5418, 9111, 9107, 9108, 9113, 9112 ]
     },
     "variations": [
       {
@@ -1976,12 +1925,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -2014,14 +1958,7 @@
       "korean": "단추 랩 스커트",
       "russian": "юбка с запахом на кнопках",
       "plural": false,
-      "internalIds": [
-        5816,
-        8733,
-        8732,
-        8734,
-        8731,
-        8735
-      ]
+      "internalIds": [ 5816, 8733, 8732, 8734, 8731, 8735 ]
     },
     "variations": [
       {
@@ -2150,15 +2087,7 @@
       "korean": "밀리터리 바지",
       "russian": "камуфляжные брюки",
       "plural": false,
-      "internalIds": [
-        3342,
-        10188,
-        10190,
-        10186,
-        10185,
-        10187,
-        10189
-      ]
+      "internalIds": [ 3342, 10188, 10190, 10186, 10185, 10187, 10189 ]
     },
     "variations": [
       {
@@ -2302,15 +2231,7 @@
       "korean": "밀리터리 치마",
       "russian": "камуфляжная юбка",
       "plural": false,
-      "internalIds": [
-        4434,
-        11325,
-        11327,
-        11323,
-        11322,
-        11324,
-        11326
-      ]
+      "internalIds": [ 4434, 11325, 11327, 11323, 11322, 11324, 11326 ]
     },
     "variations": [
       {
@@ -2454,16 +2375,7 @@
       "korean": "정장 치마",
       "russian": "офисная юбка",
       "plural": false,
-      "internalIds": [
-        4504,
-        11353,
-        11348,
-        11350,
-        11351,
-        11349,
-        11352,
-        11347
-      ]
+      "internalIds": [ 4504, 11353, 11348, 11350, 11351, 11349, 11352, 11347 ]
     },
     "variations": [
       {
@@ -2817,12 +2729,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -2855,14 +2762,7 @@
       "korean": "와이드 이지 팬츠",
       "russian": "удобные штаны",
       "plural": false,
-      "internalIds": [
-        9714,
-        9717,
-        9715,
-        4430,
-        9718,
-        9716
-      ]
+      "internalIds": [ 9714, 9717, 9715, 4430, 9718, 9716 ]
     },
     "variations": [
       {
@@ -3090,16 +2990,7 @@
       "korean": "치노 팬츠",
       "russian": "брюки из хлопка",
       "plural": false,
-      "internalIds": [
-        4178,
-        9013,
-        9015,
-        4177,
-        9014,
-        4176,
-        4175,
-        3308
-      ]
+      "internalIds": [ 4178, 9013, 9015, 4177, 9014, 4176, 4175, 3308 ]
     },
     "variations": [
       {
@@ -3372,16 +3263,7 @@
       "korean": "코미디언 바지",
       "russian": "брюки юмориста",
       "plural": false,
-      "internalIds": [
-        11378,
-        11373,
-        5736,
-        11374,
-        11375,
-        11377,
-        11372,
-        11376
-      ]
+      "internalIds": [ 11378, 11373, 5736, 11374, 11375, 11377, 11372, 11376 ]
     },
     "variations": [
       {
@@ -3540,14 +3422,7 @@
       "korean": "코듀로이 바지",
       "russian": "брюки из вельвета",
       "plural": false,
-      "internalIds": [
-        9728,
-        9729,
-        9726,
-        4602,
-        9727,
-        9725
-      ]
+      "internalIds": [ 9728, 9729, 9726, 4602, 9727, 9725 ]
     },
     "variations": [
       {
@@ -3676,14 +3551,7 @@
       "korean": "코듀로이 치마",
       "russian": "юбка из вельвета",
       "plural": false,
-      "internalIds": [
-        11148,
-        11149,
-        11146,
-        11145,
-        11147,
-        4296
-      ]
+      "internalIds": [ 11148, 11149, 11146, 11145, 11147, 4296 ]
     },
     "variations": [
       {
@@ -3896,16 +3764,7 @@
       "korean": "크롭 팬츠",
       "russian": "укороченные брюки",
       "plural": false,
-      "internalIds": [
-        9707,
-        4408,
-        9708,
-        9711,
-        9713,
-        9709,
-        9712,
-        9710
-      ]
+      "internalIds": [ 9707, 4408, 9708, 9711, 9713, 9709, 9712, 9710 ]
     },
     "variations": [
       {
@@ -4229,11 +4088,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -4365,16 +4220,7 @@
       "korean": "자전거 경주복 하의",
       "russian": "велошорты",
       "plural": false,
-      "internalIds": [
-        11301,
-        11300,
-        4514,
-        11306,
-        11304,
-        11302,
-        11303,
-        11305
-      ]
+      "internalIds": [ 11301, 11300, 4514, 11306, 11304, 11302, 11303, 11305 ]
     },
     "variations": [
       {
@@ -4632,13 +4478,7 @@
       "korean": "데님 숏팬츠",
       "russian": "джинсовые шорты",
       "plural": false,
-      "internalIds": [
-        4274,
-        11439,
-        11440,
-        11437,
-        11438
-      ]
+      "internalIds": [ 4274, 11439, 11440, 11437, 11438 ]
     },
     "variations": [
       {
@@ -4752,13 +4592,7 @@
       "korean": "데님 페인터 팬츠",
       "russian": "джинсы с отворотами",
       "plural": false,
-      "internalIds": [
-        4326,
-        11444,
-        11443,
-        11441,
-        11442
-      ]
+      "internalIds": [ 4326, 11444, 11443, 11441, 11442 ]
     },
     "variations": [
       {
@@ -4986,13 +4820,7 @@
       "korean": "데님 스커트",
       "russian": "джинсовая юбка",
       "plural": false,
-      "internalIds": [
-        4246,
-        11433,
-        11432,
-        11430,
-        11431
-      ]
+      "internalIds": [ 4246, 11433, 11432, 11430, 11431 ]
     },
     "variations": [
       {
@@ -5175,16 +5003,7 @@
       "korean": "패딩 바지",
       "russian": "штаны на пуху",
       "plural": false,
-      "internalIds": [
-        11265,
-        11263,
-        11264,
-        11268,
-        11267,
-        11269,
-        11266,
-        4256
-      ]
+      "internalIds": [ 11265, 11263, 11264, 11268, 11267, 11269, 11266, 4256 ]
     },
     "variations": [
       {
@@ -5343,16 +5162,7 @@
       "korean": "패딩 치마",
       "russian": "юбка на пуху",
       "plural": false,
-      "internalIds": [
-        11330,
-        11328,
-        11329,
-        11333,
-        11332,
-        11334,
-        11331,
-        4266
-      ]
+      "internalIds": [ 11330, 11328, 11329, 11333, 11332, 11334, 11331, 4266 ]
     },
     "variations": [
       {
@@ -5511,16 +5321,7 @@
       "korean": "드레이프 스커트",
       "russian": "юбка с драпировкой",
       "plural": false,
-      "internalIds": [
-        11658,
-        4505,
-        11660,
-        11659,
-        11656,
-        11662,
-        11657,
-        11661
-      ]
+      "internalIds": [ 11658, 4505, 11660, 11659, 11656, 11662, 11657, 11661 ]
     },
     "variations": [
       {
@@ -5646,11 +5447,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -5881,14 +5678,7 @@
       "korean": "타이 어부 바지",
       "russian": "штаны со слонами",
       "plural": false,
-      "internalIds": [
-        9188,
-        5735,
-        9185,
-        9186,
-        9184,
-        9187
-      ]
+      "internalIds": [ 9188, 5735, 9185, 9186, 9184, 9187 ]
     },
     "variations": [
       {
@@ -6152,11 +5942,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -6453,11 +6239,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "party"
-    ],
+    "themes": [ "everyday", "fairy tale", "party" ],
     "recipe": null
   },
   {
@@ -6490,13 +6272,7 @@
       "korean": "양가죽 스커트",
       "russian": "юбка «под овчину»",
       "plural": false,
-      "internalIds": [
-        11338,
-        11337,
-        11335,
-        11336,
-        5704
-      ]
+      "internalIds": [ 11338, 11337, 11335, 11336, 5704 ]
     },
     "variations": [
       {
@@ -6724,14 +6500,7 @@
       "korean": "화려한 슬랙스",
       "russian": "броские брюки",
       "plural": false,
-      "internalIds": [
-        3408,
-        11354,
-        11356,
-        11358,
-        11357,
-        11355
-      ]
+      "internalIds": [ 3408, 11354, 11356, 11358, 11357, 11355 ]
     },
     "variations": [
       {
@@ -6827,11 +6596,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -6864,16 +6629,7 @@
       "korean": "꽃무늬 레이스 치마",
       "russian": "кружевная юбка с цветами",
       "plural": false,
-      "internalIds": [
-        11655,
-        11651,
-        11649,
-        11652,
-        11653,
-        4612,
-        11650,
-        11654
-      ]
+      "internalIds": [ 11655, 11651, 11649, 11652, 11653, 4612, 11650, 11654 ]
     },
     "variations": [
       {
@@ -6999,13 +6755,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "formal",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "formal", "party", "vacation" ],
     "recipe": null
   },
   {
@@ -7089,12 +6839,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -7127,16 +6872,7 @@
       "korean": "미식축구 바지",
       "russian": "футбольные бриджи",
       "plural": false,
-      "internalIds": [
-        12059,
-        12065,
-        12061,
-        12064,
-        12060,
-        9844,
-        12063,
-        12062
-      ]
+      "internalIds": [ 12059, 12065, 12061, 12064, 12060, 9844, 12063, 12062 ]
     },
     "variations": [
       {
@@ -7295,16 +7031,7 @@
       "korean": "깔끔한 반바지",
       "russian": "классические шорты",
       "plural": false,
-      "internalIds": [
-        4372,
-        9093,
-        9095,
-        9097,
-        9094,
-        9092,
-        9096,
-        9098
-      ]
+      "internalIds": [ 4372, 9093, 9095, 9097, 9094, 9092, 9096, 9098 ]
     },
     "variations": [
       {
@@ -7430,12 +7157,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "formal",
-      "outdoorsy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "formal", "outdoorsy", "vacation" ],
     "recipe": null
   },
   {
@@ -7582,14 +7304,7 @@
       "korean": "프릴 스커트",
       "russian": "юбка с оборками",
       "plural": false,
-      "internalIds": [
-        8789,
-        4410,
-        8787,
-        8786,
-        8785,
-        8788
-      ]
+      "internalIds": [ 8789, 4410, 8787, 8786, 8785, 8788 ]
     },
     "variations": [
       {
@@ -7685,13 +7400,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "party",
-      "comfy",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "fairy tale", "party", "comfy", "theatrical" ],
     "recipe": null
   },
   {
@@ -7724,14 +7433,7 @@
       "korean": "프릴 스웨트 팬츠",
       "russian": "штаны с оборками",
       "plural": false,
-      "internalIds": [
-        8802,
-        8798,
-        8800,
-        8799,
-        5416,
-        8801
-      ]
+      "internalIds": [ 8802, 8798, 8800, 8799, 5416, 8801 ]
     },
     "variations": [
       {
@@ -7860,15 +7562,7 @@
       "korean": "프린지 스커트",
       "russian": "юбка с бахромой",
       "plural": false,
-      "internalIds": [
-        10192,
-        10191,
-        10196,
-        10194,
-        10195,
-        10193,
-        4307
-      ]
+      "internalIds": [ 10192, 10191, 10196, 10194, 10195, 10193, 4307 ]
     },
     "variations": [
       {
@@ -8207,11 +7901,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -8244,16 +7934,7 @@
       "korean": "깅엄 체크 치마",
       "russian": "клетчатая юбка",
       "plural": false,
-      "internalIds": [
-        12194,
-        3319,
-        12196,
-        12195,
-        12192,
-        12198,
-        12193,
-        12197
-      ]
+      "internalIds": [ 12194, 3319, 12196, 12195, 12192, 12198, 12193, 12197 ]
     },
     "variations": [
       {
@@ -8517,11 +8198,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -8554,16 +8231,7 @@
       "korean": "러닝 팬츠",
       "russian": "шорты для пробежек",
       "plural": false,
-      "internalIds": [
-        8858,
-        8856,
-        4195,
-        8860,
-        8855,
-        8854,
-        8857,
-        8859
-      ]
+      "internalIds": [ 8858, 8856, 4195, 8860, 8855, 8854, 8857, 8859 ]
     },
     "variations": [
       {
@@ -9019,13 +8687,7 @@
       "korean": "쿵푸 바지",
       "russian": "штаны для кун-фу",
       "plural": false,
-      "internalIds": [
-        11391,
-        11393,
-        11394,
-        11392,
-        4331
-      ]
+      "internalIds": [ 11391, 11393, 11394, 11392, 4331 ]
     },
     "variations": [
       {
@@ -9139,14 +8801,7 @@
       "korean": "케이트의 반바지",
       "russian": "шорты «Лэйблеск»",
       "plural": false,
-      "internalIds": [
-        11736,
-        11737,
-        11740,
-        11739,
-        11738,
-        9878
-      ]
+      "internalIds": [ 11736, 11737, 11740, 11739, 11738, 9878 ]
     },
     "variations": [
       {
@@ -9242,11 +8897,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Labelle" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -9279,14 +8930,7 @@
       "korean": "케이트의 치마",
       "russian": "юбка «Лэйблеск»",
       "plural": false,
-      "internalIds": [
-        11741,
-        11742,
-        11745,
-        11744,
-        11743,
-        9879
-      ]
+      "internalIds": [ 11741, 11742, 11745, 11744, 11743, 9879 ]
     },
     "variations": [
       {
@@ -9382,11 +9026,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Labelle" ],
-    "themes": [
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -9500,11 +9140,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -9603,11 +9239,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
   {
@@ -9691,11 +9323,7 @@
     ],
     "styles": [ "Elegant" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -9728,14 +9356,7 @@
       "korean": "표범무늬 미니스커트",
       "russian": "леопардовая мини-юбка",
       "plural": false,
-      "internalIds": [
-        10197,
-        10201,
-        10199,
-        10198,
-        10200,
-        4373
-      ]
+      "internalIds": [ 10197, 10201, 10199, 10198, 10200, 4373 ]
     },
     "variations": [
       {
@@ -9864,13 +9485,7 @@
       "korean": "롱 치노 스커트",
       "russian": "длинная юбка из хлопка",
       "plural": false,
-      "internalIds": [
-        11144,
-        11143,
-        11142,
-        11141,
-        4257
-      ]
+      "internalIds": [ 11144, 11143, 11142, 11141, 4257 ]
     },
     "variations": [
       {
@@ -9984,13 +9599,7 @@
       "korean": "롱 데님 스커트",
       "russian": "длинная джинсовая юбка",
       "plural": false,
-      "internalIds": [
-        5708,
-        11448,
-        11447,
-        11445,
-        11446
-      ]
+      "internalIds": [ 5708, 11448, 11447, 11445, 11446 ]
     },
     "variations": [
       {
@@ -10317,16 +9926,7 @@
       "korean": "물방울 롱스커트",
       "russian": "макси-юбка в горошек",
       "plural": false,
-      "internalIds": [
-        4252,
-        8707,
-        8712,
-        8710,
-        8711,
-        8709,
-        8713,
-        8708
-      ]
+      "internalIds": [ 4252, 8707, 8712, 8710, 8711, 8709, 8713, 8708 ]
     },
     "variations": [
       {
@@ -10485,16 +10085,7 @@
       "korean": "롱 세일러 스커트",
       "russian": "длинная юбка-плиссе",
       "plural": false,
-      "internalIds": [
-        6016,
-        11647,
-        11648,
-        11642,
-        11644,
-        11643,
-        11646,
-        11645
-      ]
+      "internalIds": [ 6016, 11647, 11648, 11642, 11644, 11643, 11646, 11645 ]
     },
     "variations": [
       {
@@ -10917,11 +10508,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "outdoorsy", "vacation" ],
     "recipe": null
   },
   {
@@ -10954,16 +10541,7 @@
       "korean": "귀족 바지",
       "russian": "брюки вельможи",
       "plural": false,
-      "internalIds": [
-        9249,
-        4398,
-        9254,
-        9248,
-        9253,
-        9251,
-        9250,
-        9252
-      ]
+      "internalIds": [ 9249, 4398, 9254, 9248, 9253, 9251, 9250, 9252 ]
     },
     "variations": [
       {
@@ -11089,12 +10667,7 @@
     ],
     "styles": [ "Gorgeous" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "formal",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
   {
@@ -11127,16 +10700,7 @@
       "korean": "아웃도어 팬츠",
       "russian": "походные шорты",
       "plural": false,
-      "internalIds": [
-        6899,
-        9122,
-        4472,
-        9126,
-        9124,
-        9123,
-        9121,
-        9125
-      ]
+      "internalIds": [ 6899, 9122, 4472, 9126, 9124, 9123, 9121, 9125 ]
     },
     "variations": [
       {
@@ -11361,12 +10925,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "sporty",
-      "vacation",
-      "work"
-    ],
+    "themes": [ "everyday", "sporty", "vacation", "work" ],
     "recipe": null
   },
   {
@@ -11465,11 +11024,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -11586,15 +11141,7 @@
       "korean": "파인애플 알로하 바지",
       "russian": "гавайские ананасн. шорты",
       "plural": false,
-      "internalIds": [
-        11314,
-        11318,
-        11319,
-        11315,
-        11316,
-        4405,
-        11317
-      ]
+      "internalIds": [ 11314, 11318, 11319, 11315, 11316, 4405, 11317 ]
     },
     "variations": [
       {
@@ -11837,16 +11384,7 @@
       "korean": "가죽 플레어스커트",
       "russian": "юбка-клеш из кожзама",
       "plural": false,
-      "internalIds": [
-        10208,
-        10202,
-        10203,
-        10206,
-        10205,
-        10207,
-        10204,
-        5420
-      ]
+      "internalIds": [ 10208, 10202, 10203, 10206, 10205, 10207, 10204, 5420 ]
     },
     "variations": [
       {
@@ -12005,14 +11543,7 @@
       "korean": "가죽 바지",
       "russian": "брюки из кожзама",
       "plural": false,
-      "internalIds": [
-        3309,
-        11292,
-        11294,
-        11293,
-        11290,
-        11291
-      ]
+      "internalIds": [ 3309, 11292, 11294, 11293, 11290, 11291 ]
     },
     "variations": [
       {
@@ -12108,11 +11639,7 @@
     ],
     "styles": [ "Cool" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "theatrical"
-    ],
+    "themes": [ "everyday", "outdoorsy", "theatrical" ],
     "recipe": null
   },
   {
@@ -12343,14 +11870,7 @@
       "korean": "가죽 치마",
       "russian": "юбка из кожзама",
       "plural": false,
-      "internalIds": [
-        4303,
-        11341,
-        11343,
-        11342,
-        11339,
-        11340
-      ]
+      "internalIds": [ 4303, 11341, 11343, 11342, 11339, 11340 ]
     },
     "variations": [
       {
@@ -12530,12 +12050,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "formal",
-      "party",
-      "work"
-    ],
+    "themes": [ "everyday", "formal", "party", "work" ],
     "recipe": null
   },
   {
@@ -12766,16 +12281,7 @@
       "korean": "레인 팬츠",
       "russian": "непромокаемые штаны",
       "plural": false,
-      "internalIds": [
-        11418,
-        11416,
-        11415,
-        5413,
-        11412,
-        11413,
-        11414,
-        11417
-      ]
+      "internalIds": [ 11418, 11416, 11415, 5413, 11412, 11413, 11414, 11417 ]
     },
     "variations": [
       {
@@ -12934,16 +12440,7 @@
       "korean": "세일러복 치마",
       "russian": "юбка-плиссе",
       "plural": false,
-      "internalIds": [
-        3341,
-        11640,
-        11641,
-        11635,
-        11637,
-        11636,
-        11639,
-        11638
-      ]
+      "internalIds": [ 3341, 11640, 11641, 11635, 11637, 11636, 11639, 11638 ]
     },
     "variations": [
       {
@@ -13102,15 +12599,7 @@
       "korean": "새틴 바지",
       "russian": "атласные брюки",
       "plural": false,
-      "internalIds": [
-        9722,
-        9723,
-        9721,
-        4593,
-        9719,
-        9720,
-        9724
-      ]
+      "internalIds": [ 9722, 9723, 9721, 4593, 9719, 9720, 9724 ]
     },
     "variations": [
       {
@@ -13254,15 +12743,7 @@
       "korean": "학생복 바지",
       "russian": "школьные брюки",
       "plural": false,
-      "internalIds": [
-        5873,
-        11400,
-        11402,
-        11398,
-        11399,
-        11403,
-        11401
-      ]
+      "internalIds": [ 5873, 11400, 11402, 11398, 11399, 11403, 11401 ]
     },
     "variations": [
       {
@@ -13406,15 +12887,7 @@
       "korean": "중국풍 크롭 팬츠",
       "russian": "шелк. штаны в цветочек",
       "plural": false,
-      "internalIds": [
-        11381,
-        4329,
-        11384,
-        11380,
-        11383,
-        11379,
-        11382
-      ]
+      "internalIds": [ 11381, 4329, 11384, 11380, 11383, 11379, 11382 ]
     },
     "variations": [
       {
@@ -13558,13 +13031,7 @@
       "korean": "중국풍 바지",
       "russian": "шелковые брюки",
       "plural": false,
-      "internalIds": [
-        11362,
-        11359,
-        11361,
-        4330,
-        11360
-      ]
+      "internalIds": [ 11362, 11359, 11361, 4330, 11360 ]
     },
     "variations": [
       {
@@ -13678,14 +13145,7 @@
       "korean": "스키복 바지",
       "russian": "лыжные штаны",
       "plural": false,
-      "internalIds": [
-        11408,
-        11407,
-        11411,
-        4450,
-        11410,
-        11409
-      ]
+      "internalIds": [ 11408, 11407, 11411, 4450, 11410, 11409 ]
     },
     "variations": [
       {
@@ -13814,15 +13274,7 @@
       "korean": "슬랙스",
       "russian": "строгие брюки",
       "plural": false,
-      "internalIds": [
-        11282,
-        11277,
-        3310,
-        11279,
-        11278,
-        11280,
-        11281
-      ]
+      "internalIds": [ 11282, 11277, 3310, 11279, 11278, 11280, 11281 ]
     },
     "variations": [
       {
@@ -13966,16 +13418,7 @@
       "korean": "축구 바지",
       "russian": "футбольные шорты",
       "plural": false,
-      "internalIds": [
-        12075,
-        12077,
-        12071,
-        12076,
-        9840,
-        12074,
-        12073,
-        12072
-      ]
+      "internalIds": [ 12075, 12077, 12071, 12076, 9840, 12074, 12073, 12072 ]
     },
     "variations": [
       {
@@ -14134,16 +13577,7 @@
       "korean": "스팽글 핫팬츠",
       "russian": "шорты с блестками",
       "plural": false,
-      "internalIds": [
-        9179,
-        9180,
-        5723,
-        9181,
-        9178,
-        9182,
-        9177,
-        9183
-      ]
+      "internalIds": [ 9179, 9180, 5723, 9181, 9178, 9182, 9177, 9183 ]
     },
     "variations": [
       {
@@ -14581,11 +14015,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -14684,11 +14114,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "party",
-      "theatrical",
-      "vacation"
-    ],
+    "themes": [ "party", "theatrical", "vacation" ],
     "recipe": null
   },
   {
@@ -14802,11 +14228,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "outdoorsy",
-      "sporty",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
   {
@@ -14839,16 +14261,7 @@
       "korean": "스웨트 팬츠",
       "russian": "трикотажные штаны",
       "plural": false,
-      "internalIds": [
-        3296,
-        11276,
-        11270,
-        11274,
-        11273,
-        11271,
-        11275,
-        11272
-      ]
+      "internalIds": [ 3296, 11276, 11270, 11274, 11273, 11271, 11275, 11272 ]
     },
     "variations": [
       {
@@ -15172,11 +14585,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "fairy tale",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -15209,16 +14618,7 @@
       "korean": "피트니스 스웨트 팬츠",
       "russian": "трикотажн. брюки капри",
       "plural": false,
-      "internalIds": [
-        11368,
-        11370,
-        11365,
-        11367,
-        11369,
-        5702,
-        11366,
-        11371
-      ]
+      "internalIds": [ 11368, 11370, 11365, 11367, 11369, 5702, 11366, 11371 ]
     },
     "variations": [
       {
@@ -15572,12 +14972,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "everyday", "fairy tale", "comfy", "vacation" ],
     "recipe": null
   },
   {
@@ -15694,15 +15089,7 @@
       "korean": "스포츠 트레이닝복 바지",
       "russian": "штаны для бега",
       "plural": false,
-      "internalIds": [
-        11285,
-        11284,
-        11286,
-        11288,
-        11287,
-        11289,
-        3335
-      ]
+      "internalIds": [ 11285, 11284, 11286, 11288, 11287, 11289, 3335 ]
     },
     "variations": [
       {
@@ -15945,14 +15332,7 @@
       "korean": "실내용 5부 바지",
       "russian": "длинные свободн. шорты",
       "plural": false,
-      "internalIds": [
-        5460,
-        9173,
-        9172,
-        9175,
-        9176,
-        9174
-      ]
+      "internalIds": [ 5460, 9173, 9172, 9175, 9176, 9174 ]
     },
     "variations": [
       {
@@ -16147,11 +15527,7 @@
     ],
     "styles": [ "Cute" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "formal"
-    ],
+    "themes": [ "everyday", "fairy tale", "formal" ],
     "recipe": null
   },
   {
@@ -16184,14 +15560,7 @@
       "korean": "트위드 바지",
       "russian": "твидовые брюки",
       "plural": false,
-      "internalIds": [
-        11388,
-        11390,
-        11389,
-        11386,
-        3708,
-        11387
-      ]
+      "internalIds": [ 11388, 11390, 11389, 11386, 3708, 11387 ]
     },
     "variations": [
       {
@@ -16554,11 +15923,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Able Sisters" ],
-    "themes": [
-      "everyday",
-      "fairy tale",
-      "party"
-    ],
+    "themes": [ "everyday", "fairy tale", "party" ],
     "recipe": null
   },
   {
@@ -16705,13 +16070,7 @@
       "korean": "와이드 치노",
       "russian": "широкие брюки из хлопка",
       "plural": false,
-      "internalIds": [
-        11153,
-        11152,
-        11151,
-        5285,
-        11150
-      ]
+      "internalIds": [ 11153, 11152, 11151, 5285, 11150 ]
     },
     "variations": [
       {

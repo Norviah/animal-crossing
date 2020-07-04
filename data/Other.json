@@ -1266,9 +1266,7 @@
       "internalIds": [ 3800 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -1483,9 +1481,7 @@
       "internalIds": [ 3902 ]
     },
     "colors": [],
-    "sources": [
-      "White/white windflowers\nOrange/white windflowers"
-    ],
+    "sources": [ "White/white windflowers\nOrange/white windflowers" ],
     "recipe": null
   },
   {
@@ -1652,11 +1648,7 @@
         "plural": false,
         "internalIds": [ 7211 ]
       },
-      "materials": {
-        "log stakes": 4,
-        "clay": 4,
-        "stone": 4
-      },
+      "materials": { "log stakes": 4, "clay": 4, "stone": 4 },
       "sources": [ "Tom Nook" ]
     }
   },
@@ -1824,12 +1816,7 @@
         "plural": false,
         "internalIds": [ 5166 ]
       },
-      "materials": {
-        "wood": 15,
-        "softwood": 15,
-        "hardwood": 15,
-        "iron nugget": 15
-      },
+      "materials": { "wood": 15, "softwood": 15, "hardwood": 15, "iron nugget": 15 },
       "sources": [ "Tom Nook" ]
     }
   },
@@ -2455,9 +2442,7 @@
     "uniqueEntryId": "jNjH659eycYXADzaq",
     "translations": null,
     "colors": [],
-    "sources": [
-      "Shaking a hardwood or cedar tree"
-    ],
+    "sources": [ "Shaking a hardwood or cedar tree" ],
     "recipe": null
   },
   {
@@ -2930,9 +2915,7 @@
       "internalIds": [ 4645 ]
     },
     "colors": [],
-    "sources": [
-      "Delivering item for a villager"
-    ],
+    "sources": [ "Delivering item for a villager" ],
     "recipe": null
   },
   {
@@ -3659,9 +3642,7 @@
       "internalIds": [ 3878 ]
     },
     "colors": [],
-    "sources": [
-      "Black/black roses\nWater with gold watering can"
-    ],
+    "sources": [ "Black/black roses\nWater with gold watering can" ],
     "recipe": null
   },
   {
@@ -4005,9 +3986,7 @@
       "internalIds": [ 3027 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -4819,13 +4798,8 @@
         "plural": false,
         "internalIds": [ 2777 ]
       },
-      "materials": {
-        "wasp nest": 1,
-        "clump of weeds": 3
-      },
-      "sources": [
-        "All Villagers (while stung)"
-      ]
+      "materials": { "wasp nest": 1, "clump of weeds": 3 },
+      "sources": [ "All Villagers (while stung)" ]
     }
   },
   {
@@ -4954,9 +4928,7 @@
       "internalIds": [ 4426 ]
     },
     "colors": [],
-    "sources": [
-      "Burying bells in a glowing spot"
-    ],
+    "sources": [ "Burying bells in a glowing spot" ],
     "recipe": null
   },
   {
@@ -5859,9 +5831,7 @@
       "internalIds": [ 12482 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -6721,9 +6691,7 @@
       "internalIds": [ 3788 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -6852,9 +6820,7 @@
       "internalIds": [ 12492 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -7069,9 +7035,7 @@
       "internalIds": [ 3796 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -7496,10 +7460,7 @@
         "plural": false,
         "internalIds": [ 2578 ]
       },
-      "materials": {
-        "clump of weeds": 4,
-        "tree branch": 6
-      },
+      "materials": { "clump of weeds": 4, "tree branch": 6 },
       "sources": [ "Jock villagers" ]
     }
   },
@@ -9005,9 +8966,7 @@
       "internalIds": [ 3908 ]
     },
     "colors": [],
-    "sources": [
-      "Blue/blue windflowers\nBlue/pink windflowers"
-    ],
+    "sources": [ "Blue/blue windflowers\nBlue/pink windflowers" ],
     "recipe": null
   },
   {
@@ -9523,9 +9482,7 @@
       "internalIds": [ 12489 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -9740,9 +9697,7 @@
       "internalIds": [ 3022 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -11872,9 +11827,7 @@
       "internalIds": [ 2500 ]
     },
     "colors": [],
-    "sources": [
-      "Shaking a hardwood or cedar tree"
-    ],
+    "sources": [ "Shaking a hardwood or cedar tree" ],
     "recipe": null
   },
   {
@@ -12069,9 +12022,7 @@
       "internalIds": [ 3263 ]
     },
     "colors": [],
-    "sources": [
-      "Shaking a hardwood or cedar tree"
-    ],
+    "sources": [ "Shaking a hardwood or cedar tree" ],
     "recipe": null
   },
   {
@@ -12716,9 +12667,7 @@
       "internalIds": [ 2861 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -14180,9 +14129,7 @@
       "internalIds": [ 3792 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -14741,9 +14688,7 @@
       "internalIds": [ 12478 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a fully grown bush"
-    ],
+    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -14958,9 +14903,7 @@
       "internalIds": [ 3799 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15003,9 +14946,7 @@
       "internalIds": [ 3026 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15048,9 +14989,7 @@
       "internalIds": [ 12481 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15093,9 +15032,7 @@
       "internalIds": [ 3787 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15138,9 +15075,7 @@
       "internalIds": [ 12491 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15183,9 +15118,7 @@
       "internalIds": [ 3795 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15228,9 +15161,7 @@
       "internalIds": [ 12488 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15273,9 +15204,7 @@
       "internalIds": [ 3021 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15361,9 +15290,7 @@
       "internalIds": [ 2860 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15406,9 +15333,7 @@
       "internalIds": [ 3791 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15451,9 +15376,7 @@
       "internalIds": [ 12477 ]
     },
     "colors": [],
-    "sources": [
-      "Digging up a partially grown bush"
-    ],
+    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   }
 ]

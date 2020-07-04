@@ -84,11 +84,7 @@
         "plural": false,
         "internalIds": [ 2100 ]
       },
-      "materials": {
-        "flimsy axe": 1,
-        "wood": 3,
-        "iron nugget": 1
-      },
+      "materials": { "flimsy axe": 1, "wood": 3, "iron nugget": 1 },
       "sources": [ "Pretty Good Tools Recipes" ]
     }
   },
@@ -177,10 +173,7 @@
         "plural": false,
         "internalIds": [ 7590 ]
       },
-      "materials": {
-        "young spring bamboo": 6,
-        "star fragment": 3
-      },
+      "materials": { "young spring bamboo": 6, "star fragment": 3 },
       "sources": [ "Balloons" ]
     }
   },
@@ -319,10 +312,7 @@
         "plural": false,
         "internalIds": [ 12578 ]
       },
-      "materials": {
-        "wobbling Zipper toy": 1,
-        "star fragment": 3
-      },
+      "materials": { "wobbling Zipper toy": 1, "star fragment": 3 },
       "sources": [ "Zipper" ]
     }
   },
@@ -411,10 +401,7 @@
         "plural": false,
         "internalIds": [ 7589 ]
       },
-      "materials": {
-        "cherry-blossom petal": 3,
-        "star fragment": 3
-      },
+      "materials": { "cherry-blossom petal": 3, "star fragment": 3 },
       "sources": [ "Balloons" ]
     }
   },
@@ -503,10 +490,7 @@
         "plural": false,
         "internalIds": [ 5092 ]
       },
-      "materials": {
-        "white cosmos": 1,
-        "star fragment": 3
-      },
+      "materials": { "white cosmos": 1, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -1180,9 +1164,7 @@
         "internalIds": [ 8179 ]
       },
       "materials": { "net": 1, "gold nugget": 1 },
-      "sources": [
-        "Completing bug Critterpedia"
-      ]
+      "sources": [ "Completing bug Critterpedia" ]
     }
   },
   {
@@ -1270,13 +1252,8 @@
         "plural": false,
         "internalIds": [ 8660 ]
       },
-      "materials": {
-        "fishing rod": 1,
-        "gold nugget": 1
-      },
-      "sources": [
-        "Completing fish Critterpedia"
-      ]
+      "materials": { "fishing rod": 1, "gold nugget": 1 },
+      "sources": [ "Completing fish Critterpedia" ]
     }
   },
   {
@@ -1364,10 +1341,7 @@
         "plural": false,
         "internalIds": [ 8574 ]
       },
-      "materials": {
-        "shovel": 1,
-        "gold nugget": 1
-      },
+      "materials": { "shovel": 1, "gold nugget": 1 },
       "sources": [ "Helping Gulliver 30 times" ]
     }
   },
@@ -1456,10 +1430,7 @@
         "plural": false,
         "internalIds": [ 8578 ]
       },
-      "materials": {
-        "slingshot": 1,
-        "gold nugget": 1
-      },
+      "materials": { "slingshot": 1, "gold nugget": 1 },
       "sources": [ "Shooting 300 balloons" ]
     }
   },
@@ -1548,10 +1519,7 @@
         "plural": false,
         "internalIds": [ 7591 ]
       },
-      "materials": {
-        "gold nugget": 2,
-        "star fragment": 3
-      },
+      "materials": { "gold nugget": 2, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -1640,10 +1608,7 @@
         "plural": false,
         "internalIds": [ 8533 ]
       },
-      "materials": {
-        "watering can": 1,
-        "gold nugget": 1
-      },
+      "materials": { "watering can": 1, "gold nugget": 1 },
       "sources": [ "5-star town evaluation" ]
     }
   },
@@ -1732,10 +1697,7 @@
         "plural": false,
         "internalIds": [ 5083 ]
       },
-      "materials": {
-        "pink hyacinths": 1,
-        "star fragment": 3
-      },
+      "materials": { "pink hyacinths": 1, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -1824,10 +1786,7 @@
         "plural": false,
         "internalIds": [ 7585 ]
       },
-      "materials": {
-        "large snowflake": 1,
-        "star fragment": 3
-      },
+      "materials": { "large snowflake": 1, "star fragment": 3 },
       "sources": [ "Snowboy" ]
     }
   },
@@ -1916,10 +1875,7 @@
         "plural": false,
         "internalIds": [ 7592 ]
       },
-      "materials": {
-        "iron nugget": 3,
-        "star fragment": 3
-      },
+      "materials": { "iron nugget": 3, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -2008,11 +1964,7 @@
         "plural": false,
         "internalIds": [ 2615 ]
       },
-      "materials": {
-        "wood": 4,
-        "hardwood": 4,
-        "softwood": 4
-      },
+      "materials": { "wood": 4, "hardwood": 4, "softwood": 4 },
       "sources": [ "Tom Nook", "Nook's Cranny" ]
     }
   },
@@ -2151,10 +2103,7 @@
         "plural": false,
         "internalIds": [ 5094 ]
       },
-      "materials": {
-        "white lilies": 1,
-        "star fragment": 3
-      },
+      "materials": { "white lilies": 1, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -2243,10 +2192,7 @@
         "plural": false,
         "internalIds": [ 5095 ]
       },
-      "materials": {
-        "yellow mums": 1,
-        "star fragment": 3
-      },
+      "materials": { "yellow mums": 1, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -2563,10 +2509,7 @@
         "plural": false,
         "internalIds": [ 5091 ]
       },
-      "materials": {
-        "yellow pansies": 1,
-        "star fragment": 3
-      },
+      "materials": { "yellow pansies": 1, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -2705,10 +2648,7 @@
         "plural": false,
         "internalIds": [ 5093 ]
       },
-      "materials": {
-        "red roses": 1,
-        "star fragment": 3
-      },
+      "materials": { "red roses": 1, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -2797,10 +2737,7 @@
         "plural": false,
         "internalIds": [ 7586 ]
       },
-      "materials": {
-        "summer shell": 3,
-        "star fragment": 3
-      },
+      "materials": { "summer shell": 3, "star fragment": 3 },
       "sources": [ "Balloons" ]
     }
   },
@@ -2889,10 +2826,7 @@
         "plural": false,
         "internalIds": [ 2544 ]
       },
-      "materials": {
-        "large star fragment": 1,
-        "star fragment": 3
-      },
+      "materials": { "large star fragment": 1, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -3170,10 +3104,7 @@
         "plural": false,
         "internalIds": [ 7587 ]
       },
-      "materials": {
-        "tree branch": 5,
-        "star fragment": 3
-      },
+      "materials": { "tree branch": 5, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -3262,10 +3193,7 @@
         "plural": false,
         "internalIds": [ 5085 ]
       },
-      "materials": {
-        "red tulips": 1,
-        "star fragment": 3
-      },
+      "materials": { "red tulips": 1, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -3532,10 +3460,7 @@
         "plural": false,
         "internalIds": [ 12695 ]
       },
-      "materials": {
-        "wedding flower stand": 1,
-        "star fragment": 3
-      },
+      "materials": { "wedding flower stand": 1, "star fragment": 3 },
       "sources": [ "Cyrus" ]
     }
   },
@@ -3624,10 +3549,7 @@
         "plural": false,
         "internalIds": [ 5084 ]
       },
-      "materials": {
-        "orange windflowers": 1,
-        "star fragment": 3
-      },
+      "materials": { "orange windflowers": 1, "star fragment": 3 },
       "sources": [ "Celeste" ]
     }
   },
@@ -4876,10 +4798,7 @@
         "plural": false,
         "internalIds": [ 2377 ]
       },
-      "materials": {
-        "flimsy fishing rod": 1,
-        "iron nugget": 1
-      },
+      "materials": { "flimsy fishing rod": 1, "iron nugget": 1 },
       "sources": [ "Pretty Good Tools Recipes" ]
     }
   },
@@ -5024,10 +4943,7 @@
         "plural": false,
         "internalIds": [ 7588 ]
       },
-      "materials": {
-        "skinny mushroom": 3,
-        "star fragment": 3
-      },
+      "materials": { "skinny mushroom": 3, "star fragment": 3 },
       "sources": [ "Balloons" ]
     }
   },
@@ -5211,10 +5127,7 @@
         "plural": false,
         "internalIds": [ 5784 ]
       },
-      "materials": {
-        "flimsy net": 1,
-        "iron nugget": 1
-      },
+      "materials": { "flimsy net": 1, "iron nugget": 1 },
       "sources": [ "Pretty Good Tools Recipes" ]
     }
   },
@@ -6268,10 +6181,7 @@
         "plural": false,
         "internalIds": [ 2099 ]
       },
-      "materials": {
-        "flimsy shovel": 1,
-        "iron nugget": 1
-      },
+      "materials": { "flimsy shovel": 1, "iron nugget": 1 },
       "sources": [ "Pretty Good Tools Recipes" ]
     }
   },
@@ -6784,10 +6694,7 @@
         "plural": false,
         "internalIds": [ 2379 ]
       },
-      "materials": {
-        "flimsy watering can": 1,
-        "iron nugget": 1
-      },
+      "materials": { "flimsy watering can": 1, "iron nugget": 1 },
       "sources": [ "Pretty Good Tools Recipes" ]
     }
   }

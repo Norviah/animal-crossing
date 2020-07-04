@@ -152,10 +152,7 @@
       "4": {
         "required": 30,
         "reward": 2000,
-        "nouns": [
-          "\"It\" Guy",
-          "\"It\" Girl"
-        ],
+        "nouns": [ "\"It\" Guy", "\"It\" Girl" ],
         "modifier": "Ludicrously Popular"
       },
       "5": {
@@ -994,10 +991,7 @@
       "5": {
         "required": 0,
         "reward": 700,
-        "nouns": [
-          "Mr. Popular",
-          "Ms. Popular"
-        ],
+        "nouns": [ "Mr. Popular", "Ms. Popular" ],
         "modifier": "Crisp"
       },
       "6": {
@@ -1085,10 +1079,7 @@
       "5": {
         "required": 1000,
         "reward": 3000,
-        "nouns": [
-          "Shellaborator",
-          "Shellarina"
-        ],
+        "nouns": [ "Shellaborator", "Shellarina" ],
         "modifier": "Shellfish"
       }
     }
@@ -2736,10 +2727,7 @@
       "1": {
         "required": 1,
         "reward": 2000,
-        "nouns": [
-          "Birthday Boy",
-          "Birthday Girl"
-        ],
+        "nouns": [ "Birthday Boy", "Birthday Girl" ],
         "modifier": "Celebratory"
       }
     }

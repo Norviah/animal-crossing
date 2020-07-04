@@ -274,11 +274,7 @@
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Active" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "theatrical"
-    ],
+    "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day bag",
@@ -663,11 +659,7 @@
     "colors": [ "Green", "Brown" ],
     "styles": [ "Elegant" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "outdoorsy",
-      "comfy",
-      "vacation"
-    ],
+    "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "knitted-grass backpack",
@@ -1022,10 +1014,7 @@
         "plural": false,
         "internalIds": [ 7494 ]
       },
-      "materials": {
-        "giant clam": 2,
-        "summer shell": 6
-      },
+      "materials": { "giant clam": 2, "summer shell": 6 },
       "sources": [ "Balloons" ]
     }
   },
@@ -1076,11 +1065,7 @@
     "colors": [ "Light blue", "White" ],
     "styles": [ "Elegant" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "snowflake pochette",
@@ -1169,11 +1154,7 @@
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute" ],
     "sources": [ "Crafting" ],
-    "themes": [
-      "fairy tale",
-      "party",
-      "vacation"
-    ],
+    "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "star pochette",
@@ -1540,11 +1521,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -1612,11 +1589,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -2312,11 +2285,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -2398,11 +2367,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -2504,16 +2469,7 @@
       "korean": "엄마의 주머니 가방",
       "russian": "мамин рюкзак",
       "plural": false,
-      "internalIds": [
-        12153,
-        12148,
-        12149,
-        12154,
-        7510,
-        12151,
-        12152,
-        12150
-      ]
+      "internalIds": [ 12153, 12148, 12149, 12154, 7510, 12151, 12152, 12150 ]
     },
     "variations": [
       {
@@ -3163,11 +3119,7 @@
     ],
     "styles": [ "Active" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "everyday",
-      "outdoorsy",
-      "sporty"
-    ],
+    "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
   {
@@ -3509,11 +3461,7 @@
     ],
     "styles": [ "Simple" ],
     "sources": [ "Kicks" ],
-    "themes": [
-      "fairy tale",
-      "outdoorsy",
-      "work"
-    ],
+    "themes": [ "fairy tale", "outdoorsy", "work" ],
     "recipe": null
   }
 ]

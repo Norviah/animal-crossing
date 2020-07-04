@@ -7,7 +7,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 2000,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1–6",
     "size": "1x1",
@@ -42,12 +43,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan", "Jun - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Jul", "Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 12 ]
       }
     },
     "colors": []
@@ -60,7 +65,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 600,
-    "shadow": null,
+    "shadow": "X-Small",
+    "movementSpeed": "Stationary",
     "totalCatchesToUnlock": 0,
     "spawnRates": "6–11",
     "size": "1x1",
@@ -95,12 +101,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -113,7 +123,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1800,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "3–5",
     "size": "1x1",
@@ -148,12 +159,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Mar - Jun", "Sep - Nov" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 3, 4, 5, 6, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Mar - May", "Sep - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 3, 4, 5, 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -166,7 +181,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1900,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "3–5",
     "size": "1x1",
@@ -201,12 +217,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - May", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Nov" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10, 11 ]
       }
     },
     "colors": []
@@ -219,7 +239,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1400,
-    "shadow": null,
+    "shadow": "X-Small",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "6",
     "size": "1x1",
@@ -254,12 +275,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Mar - Jun" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 3, 4, 5, 6 ]
       },
       "south": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Sep - Dec" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -272,7 +297,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 700,
-    "shadow": null,
+    "shadow": "X-Small",
+    "movementSpeed": "Very slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "5–8",
     "size": "1x1",
@@ -307,12 +333,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Aug - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 8, 9 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Feb - Mar" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 2, 3 ]
       }
     },
     "colors": []
@@ -325,7 +355,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 2200,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "2–5",
     "size": "1x1",
@@ -360,12 +391,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Nov" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 8, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - May", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 12 ]
       }
     },
     "colors": []
@@ -378,7 +413,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 12000,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Very fast",
     "totalCatchesToUnlock": 80,
     "spawnRates": "1",
     "size": "1x1",
@@ -413,18 +449,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 AM – 4 PM", "9 PM – 4 AM" ],
+        "timeArray": [ [ 9, 10, 11, 12, 13, 14, 15 ], [ 21, 22, 23, 0, 1, 2, 3 ] ],
         "months": [ "Jul - Oct" ],
-        "time": [
-          "9 AM – 4 PM",
-          "9 PM – 4 AM"
-        ]
+        "monthsArray": [ 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "9 AM – 4 PM", "9 PM – 4 AM" ],
+        "timeArray": [ [ 9, 10, 11, 12, 13, 14, 15 ], [ 21, 22, 23, 0, 1, 2, 3 ] ],
         "months": [ "Jan - Apr" ],
-        "time": [
-          "9 AM – 4 PM",
-          "9 PM – 4 AM"
-        ]
+        "monthsArray": [ 1, 2, 3, 4 ]
       }
     },
     "colors": []
@@ -437,7 +471,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 15000,
-    "shadow": null,
+    "shadow": "X-Large",
+    "movementSpeed": "Very fast",
     "totalCatchesToUnlock": 80,
     "spawnRates": "1",
     "size": "2x1",
@@ -472,12 +507,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 11, 12 ]
       }
     },
     "colors": []
@@ -490,7 +529,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 2500,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "3–5",
     "size": "1x1",
@@ -525,12 +565,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Jul - Sep" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 7, 8, 9 ]
       },
       "south": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Jan - Mar" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 1, 2, 3 ]
       }
     },
     "colors": []
@@ -543,7 +587,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 4500,
-    "shadow": null,
+    "shadow": "Large",
+    "movementSpeed": "Fast",
     "totalCatchesToUnlock": 40,
     "spawnRates": "1–2",
     "size": "1x1",
@@ -578,12 +623,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan", "Apr - Jun", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 4, 5, 6, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Jul", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -596,7 +645,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 2500,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "2–8",
     "size": "1x1",
@@ -631,12 +681,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -649,7 +703,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 600,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Very slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "4–12",
     "size": "1x1",
@@ -684,12 +739,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jul - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3 ]
       }
     },
     "colors": []
@@ -702,7 +761,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1500,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "3–8",
     "size": "1x1",
@@ -737,12 +797,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Jun", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 12 ]
       }
     },
     "colors": []
@@ -755,7 +819,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1200,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2–8",
     "size": "1x1",
@@ -790,12 +855,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -808,7 +877,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1100,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "5–12",
     "size": "1x1",
@@ -843,12 +913,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Feb", "Sep - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - Aug" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 6, 7, 8 ]
       }
     },
     "colors": []
@@ -861,7 +935,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 2800,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "2–4",
     "size": "1x1",
@@ -896,12 +971,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -914,7 +993,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 8000,
-    "shadow": null,
+    "shadow": "Large",
+    "movementSpeed": "Very fast",
     "totalCatchesToUnlock": 80,
     "spawnRates": "1–2",
     "size": "2x1",
@@ -949,12 +1029,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8, 9 ]
       }
     },
     "colors": []
@@ -967,7 +1051,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1200,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 5,
     "spawnRates": "6–8",
     "size": "1x1",
@@ -1002,12 +1087,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -1020,7 +1109,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 500,
-    "shadow": null,
+    "shadow": "Large",
+    "movementSpeed": "Stationary",
     "totalCatchesToUnlock": 0,
     "spawnRates": "3–14",
     "size": "1x1",
@@ -1055,12 +1145,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -1073,7 +1167,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 500,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Very slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "4–12",
     "size": "1x1",
@@ -1108,12 +1203,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Apr", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10 ]
       }
     },
     "colors": []
@@ -1126,7 +1225,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 900,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Stationary",
     "totalCatchesToUnlock": 0,
     "spawnRates": "4–12",
     "size": "1x1",
@@ -1161,12 +1261,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": []
@@ -1179,7 +1283,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 10000,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Very fast",
     "totalCatchesToUnlock": 80,
     "spawnRates": "1",
     "size": "1x1",
@@ -1214,12 +1319,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Feb", "Nov - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 11, 12 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "May - Aug" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 5, 6, 7, 8 ]
       }
     },
     "colors": []
@@ -1232,7 +1341,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1500,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2–6",
     "size": "1x1",
@@ -1267,12 +1377,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Aug" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Feb", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -1285,7 +1399,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 600,
-    "shadow": null,
+    "shadow": "X-Small",
+    "movementSpeed": "Very slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "1–12",
     "size": "1x1",
@@ -1320,12 +1435,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -1338,7 +1457,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 500,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Very slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "4–10",
     "size": "1x1",
@@ -1373,12 +1493,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -1391,7 +1515,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1700,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2–7",
     "size": "1x1",
@@ -1426,12 +1551,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Sep" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Mar", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 11, 12 ]
       }
     },
     "colors": []
@@ -1444,7 +1573,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 600,
-    "shadow": null,
+    "shadow": "Large",
+    "movementSpeed": "Stationary",
     "totalCatchesToUnlock": 0,
     "spawnRates": "3–14",
     "size": "1x1",
@@ -1479,12 +1609,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Jul", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan", "Apr - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": []
@@ -1497,7 +1631,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 2000,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "3–4",
     "size": "1x1",
@@ -1532,12 +1667,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "May - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 5, 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Mar", "Nov - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 11, 12 ]
       }
     },
     "colors": []
@@ -1550,7 +1689,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 6000,
-    "shadow": null,
+    "shadow": "Large",
+    "movementSpeed": "Fast",
     "totalCatchesToUnlock": 40,
     "spawnRates": "1–3",
     "size": "1x1",
@@ -1585,12 +1725,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Apr", "Nov - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "May - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10 ]
       }
     },
     "colors": []
@@ -1603,7 +1747,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 12000,
-    "shadow": null,
+    "shadow": "X-Large",
+    "movementSpeed": "Very fast",
     "totalCatchesToUnlock": 80,
     "spawnRates": "1–2",
     "size": "2x2",
@@ -1638,12 +1783,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - Apr" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Sep - Oct" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 9, 10 ]
       }
     },
     "colors": []
@@ -1656,7 +1805,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 5000,
-    "shadow": null,
+    "shadow": "Large",
+    "movementSpeed": "Fast",
     "totalCatchesToUnlock": 40,
     "spawnRates": "5",
     "size": "1x1",
@@ -1691,12 +1841,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Oct - Dec" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 10, 11, 12 ]
       },
       "south": {
+        "time": [ "9 PM – 4 AM" ],
+        "timeArray": [ 21, 22, 23, 0, 1, 2, 3 ],
         "months": [ "Apr - Jun" ],
-        "time": [ "9 PM – 4 AM" ]
+        "monthsArray": [ 4, 5, 6 ]
       }
     },
     "colors": []
@@ -1709,7 +1863,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1100,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "6–8",
     "size": "1x1",
@@ -1744,12 +1899,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "May - Oct" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 5, 6, 7, 8, 9, 10 ]
       },
       "south": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
         "months": [ "Jan - Apr", "Nov - Dec" ],
-        "time": [ "4 AM – 9 PM" ]
+        "monthsArray": [ 1, 2, 3, 4, 11, 12 ]
       }
     },
     "colors": []
@@ -1762,7 +1921,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1400,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "3–12",
     "size": "1x1",
@@ -1797,12 +1957,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Feb", "Sep - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Mar - Aug" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 3, 4, 5, 6, 7, 8 ]
       }
     },
     "colors": []
@@ -1815,7 +1979,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 3000,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Medium",
     "totalCatchesToUnlock": 20,
     "spawnRates": "1–4",
     "size": "1x1",
@@ -1850,12 +2015,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jun - Sep" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 6, 7, 8, 9 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Mar", "Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 3, 12 ]
       }
     },
     "colors": []
@@ -1868,7 +2037,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1000,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "2–10",
     "size": "1x1",
@@ -1903,12 +2073,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - May", "Sep - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - Jun", "Sep - Nov" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 6, 9, 10, 11 ]
       }
     },
     "colors": []
@@ -1921,7 +2095,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 6000,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Fast",
     "totalCatchesToUnlock": 40,
     "spawnRates": "1–3",
     "size": "1x1",
@@ -1956,12 +2131,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - May", "Sep - Nov" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 9, 10, 11 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Mar - May", "Sep - Nov" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 3, 4, 5, 9, 10, 11 ]
       }
     },
     "colors": []
@@ -1974,7 +2153,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 10000,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Very fast",
     "totalCatchesToUnlock": 80,
     "spawnRates": "1",
     "size": "1x1",
@@ -2009,12 +2189,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "May - Aug" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 5, 6, 7, 8 ]
       },
       "south": {
+        "time": [ "4 PM – 9 AM" ],
+        "timeArray": [ 16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8 ],
         "months": [ "Jan - Feb", "Nov - Dec" ],
-        "time": [ "4 PM – 9 AM" ]
+        "monthsArray": [ 1, 2, 11, 12 ]
       }
     },
     "colors": []
@@ -2027,7 +2211,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 5000,
-    "shadow": null,
+    "shadow": "Medium",
+    "movementSpeed": "Fast",
     "totalCatchesToUnlock": 40,
     "spawnRates": "1–3",
     "size": "1x1",
@@ -2062,12 +2247,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Feb", "Oct - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Apr - Aug" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 4, 5, 6, 7, 8 ]
       }
     },
     "colors": []
@@ -2080,7 +2269,8 @@
     "critterpediaImage": null,
     "furnitureImage": null,
     "sell": 1000,
-    "shadow": null,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
     "totalCatchesToUnlock": 0,
     "spawnRates": "1–8",
     "size": "1x1",
@@ -2115,12 +2305,16 @@
     },
     "hemipsheres": {
       "north": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       },
       "south": {
+        "time": [ "All day" ],
+        "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
         "months": [ "Jan - Dec" ],
-        "time": [ "All day" ]
+        "monthsArray": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
       }
     },
     "colors": []
