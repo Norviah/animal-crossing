@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.2.0](https://github.com/Norviah/animal-crossing/compare/v4.1.0...v4.2.0) (2020-07-05)
+
+
+### Features
+
+* **villagers:** changed the array furnitureList to numbers ([95a2959](https://github.com/Norviah/animal-crossing/commit/95a2959f02f94a76f1977efabd20ade7a166fa69))
+
 ## [4.1.0](https://github.com/Norviah/animal-crossing/compare/v4.0.0...v4.1.0) (2020-07-05)
 
 ## [4.0.0](https://github.com/Norviah/animal-crossing/compare/v3.0.0...v4.0.0) (2020-07-04)
