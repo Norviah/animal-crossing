@@ -15,7 +15,7 @@
 
 • **Glass**: = "Glass"
 
-*Defined in [Item.ts:192](https://github.com/Norviah/animal-crossing/blob/09a17bd/module/types/Item.ts#L192)*
+*Defined in [Item.ts:192](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Item.ts#L192)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Screen**: = "Screen"
 
-*Defined in [Item.ts:193](https://github.com/Norviah/animal-crossing/blob/09a17bd/module/types/Item.ts#L193)*
+*Defined in [Item.ts:193](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Item.ts#L193)*
