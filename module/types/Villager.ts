@@ -16,7 +16,7 @@ export interface Villager {
     defaultClothing:           string;
     wallpaper:                 string;
     flooring:                  string;
-    furnitureList:             string[];
+    furnitureList:             number[];
     furnitureNameList:         string[];
     filename:                  string;
     uniqueEntryId:             string;
