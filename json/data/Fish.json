@@ -1,6 +1,64 @@
 [
   {
     "sourceSheet": "Fish",
+    "num": 52,
+    "name": "Napoleonfish",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish43.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNaporeonfishCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNaporeonfish.png",
+    "sell": 10000,
+    "whereHow": "Sea",
+    "shadow": "XX-Large",
+    "totalCatchesToUnlock": 50,
+    "spawnRates": "1",
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": 71,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Fish43",
+    "critterpediaFilename": "FishNaporeonfish",
+    "furnitureFilename": "FtrFishNaporeonfish",
+    "internalId": 2260,
+    "uniqueEntryId": "dm4THC3AYR6CZ8bvJ",
+    "translations": {
+      "sourceSheet": "Fish",
+      "id": "Fish_02260",
+      "version": "1.0.0",
+      "english": "Napoleonfish",
+      "englishEurope": "Napoleonfish",
+      "german": "Napoleonfisch",
+      "spanish": "pez napoleón",
+      "spanishUs": "pez napoleón",
+      "french": "napoléon",
+      "frenchUs": "napoléon",
+      "italian": "pesce napoleone",
+      "dutch": "napoleonvis",
+      "chinese": "苏眉鱼",
+      "chineseTraditional": "蘇眉魚",
+      "japanese": "ナポレオンフィッシュ",
+      "korean": "나폴레옹피시",
+      "russian": "рыба-наполеон",
+      "plural": false,
+      "internalIds": [ 2260 ]
+    },
+    "hemipsheres": {
+      "north": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
+        "months": [ "Jul - Aug" ],
+        "monthsArray": [ 7, 8 ]
+      },
+      "south": {
+        "time": [ "4 AM – 9 PM" ],
+        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
+        "months": [ "Jan - Feb" ],
+        "monthsArray": [ 1, 2 ]
+      }
+    },
+    "colors": [ "Light blue", "Black" ]
+  },
+  {
+    "sourceSheet": "Fish",
     "num": 56,
     "name": "anchovy",
     "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish81.png",
@@ -2492,64 +2550,6 @@
       }
     },
     "colors": [ "Brown", "Black" ]
-  },
-  {
-    "sourceSheet": "Fish",
-    "num": 52,
-    "name": "Napoleonfish",
-    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish43.png",
-    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNaporeonfishCropped.png",
-    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNaporeonfish.png",
-    "sell": 10000,
-    "whereHow": "Sea",
-    "shadow": "XX-Large",
-    "totalCatchesToUnlock": 50,
-    "spawnRates": "1",
-    "size": "2x1",
-    "surface": true,
-    "hhaBasePoints": 71,
-    "lightingType": "Fluorescent",
-    "iconFilename": "Fish43",
-    "critterpediaFilename": "FishNaporeonfish",
-    "furnitureFilename": "FtrFishNaporeonfish",
-    "internalId": 2260,
-    "uniqueEntryId": "dm4THC3AYR6CZ8bvJ",
-    "translations": {
-      "sourceSheet": "Fish",
-      "id": "Fish_02260",
-      "version": "1.0.0",
-      "english": "Napoleonfish",
-      "englishEurope": "Napoleonfish",
-      "german": "Napoleonfisch",
-      "spanish": "pez napoleón",
-      "spanishUs": "pez napoleón",
-      "french": "napoléon",
-      "frenchUs": "napoléon",
-      "italian": "pesce napoleone",
-      "dutch": "napoleonvis",
-      "chinese": "苏眉鱼",
-      "chineseTraditional": "蘇眉魚",
-      "japanese": "ナポレオンフィッシュ",
-      "korean": "나폴레옹피시",
-      "russian": "рыба-наполеон",
-      "plural": false,
-      "internalIds": [ 2260 ]
-    },
-    "hemipsheres": {
-      "north": {
-        "time": [ "4 AM – 9 PM" ],
-        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
-        "months": [ "Jul - Aug" ],
-        "monthsArray": [ 7, 8 ]
-      },
-      "south": {
-        "time": [ "4 AM – 9 PM" ],
-        "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
-        "months": [ "Jan - Feb" ],
-        "monthsArray": [ 1, 2 ]
-      }
-    },
-    "colors": [ "Light blue", "Black" ]
   },
   {
     "sourceSheet": "Fish",
