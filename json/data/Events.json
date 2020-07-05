@@ -2,12 +2,12 @@
   {
     "sourceSheet": "Events",
     "event": "Bug-Off",
-    "northernHemisphereDates": "4th Saturday of June",
-    "southernHemisphereDates": "3rd Saturday of November",
+    "northernHemisphereDates": "4th Saturday of September",
+    "southernHemisphereDates": "3rd Saturday of February",
     "times": "9 AM – 6 PM",
     "translations": {
       "sourceSheet": "Events",
-      "id": "InsectConvention1",
+      "id": "InsectConvention4",
       "version": "1.0.0",
       "english": "Bug-Off",
       "englishEurope": "Bug-Off",
@@ -24,35 +24,7 @@
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
       "plural": false,
-      "internalIds": [ "InsectConvention1" ]
-    }
-  },
-  {
-    "sourceSheet": "Events",
-    "event": "Bug-Off",
-    "northernHemisphereDates": "4th Saturday of July",
-    "southernHemisphereDates": "3rd Saturday of December",
-    "times": "9 AM – 6 PM",
-    "translations": {
-      "sourceSheet": "Events",
-      "id": "InsectConvention1",
-      "version": "1.0.0",
-      "english": "Bug-Off",
-      "englishEurope": "Bug-Off",
-      "german": "Insektikus-Turnier",
-      "spanish": "Caza de Bichos",
-      "spanishUs": "Caza de Insectos",
-      "french": "Insectosafari",
-      "frenchUs": "Insectosafari",
-      "italian": "Insettomania",
-      "dutch": "Beestjesbeker",
-      "chinese": "捕虫大赛",
-      "chineseTraditional": "捕蟲大會",
-      "japanese": "ムシとりたいかい大会",
-      "korean": "곤충채집대회",
-      "russian": "Турнир «Мастер сачка»",
-      "plural": false,
-      "internalIds": [ "InsectConvention1" ]
+      "internalIds": [ "InsectConvention4" ]
     }
   },
   {
@@ -63,7 +35,7 @@
     "times": "9 AM – 6 PM",
     "translations": {
       "sourceSheet": "Events",
-      "id": "InsectConvention1",
+      "id": "InsectConvention4",
       "version": "1.0.0",
       "english": "Bug-Off",
       "englishEurope": "Bug-Off",
@@ -80,18 +52,18 @@
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
       "plural": false,
-      "internalIds": [ "InsectConvention1" ]
+      "internalIds": [ "InsectConvention4" ]
     }
   },
   {
     "sourceSheet": "Events",
     "event": "Bug-Off",
-    "northernHemisphereDates": "4th Saturday of September",
-    "southernHemisphereDates": "3rd Saturday of February",
+    "northernHemisphereDates": "4th Saturday of July",
+    "southernHemisphereDates": "3rd Saturday of December",
     "times": "9 AM – 6 PM",
     "translations": {
       "sourceSheet": "Events",
-      "id": "InsectConvention1",
+      "id": "InsectConvention4",
       "version": "1.0.0",
       "english": "Bug-Off",
       "englishEurope": "Bug-Off",
@@ -108,7 +80,35 @@
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
       "plural": false,
-      "internalIds": [ "InsectConvention1" ]
+      "internalIds": [ "InsectConvention4" ]
+    }
+  },
+  {
+    "sourceSheet": "Events",
+    "event": "Bug-Off",
+    "northernHemisphereDates": "4th Saturday of June",
+    "southernHemisphereDates": "3rd Saturday of November",
+    "times": "9 AM – 6 PM",
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "InsectConvention4",
+      "version": "1.0.0",
+      "english": "Bug-Off",
+      "englishEurope": "Bug-Off",
+      "german": "Insektikus-Turnier",
+      "spanish": "Caza de Bichos",
+      "spanishUs": "Caza de Insectos",
+      "french": "Insectosafari",
+      "frenchUs": "Insectosafari",
+      "italian": "Insettomania",
+      "dutch": "Beestjesbeker",
+      "chinese": "捕虫大赛",
+      "chineseTraditional": "捕蟲大會",
+      "japanese": "ムシとりたいかい大会",
+      "korean": "곤충채집대회",
+      "russian": "Турнир «Мастер сачка»",
+      "plural": false,
+      "internalIds": [ "InsectConvention4" ]
     }
   },
   {

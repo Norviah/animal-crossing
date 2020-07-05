@@ -10,7 +10,7 @@
     "uniqueEntryId": "Qnx2RexRkQSfFnLuB",
     "translations": {
       "sourceSheet": "House Roof",
-      "id": 129,
+      "id": 149,
       "version": "1.0.0",
       "english": "aqua tile roof",
       "englishEurope": "aqua tile roof",
@@ -41,7 +41,7 @@
     "uniqueEntryId": "HrAsZSpm2pRj2u8ad",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 28,
+      "id": 29,
       "version": "1.0.0",
       "english": "basic door",
       "englishEurope": "basic door",
@@ -56,7 +56,7 @@
       "chineseTraditional": "圓窗木門",
       "japanese": "まるまどのドア",
       "korean": "둥근 창문이 달린 문",
-      "russian": "типовая дверь",
+      "russian": "стандартная дверь",
       "plural": false,
       "internalIds": [ "HouseDoorCercleWindowAR" ]
     }
@@ -72,7 +72,7 @@
     "uniqueEntryId": "uF4YeCTGBx4Tawcp8",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 175,
+      "id": 182,
       "version": "1.0.0",
       "english": "beige basic door",
       "englishEurope": "beige basic door",
@@ -134,7 +134,7 @@
     "uniqueEntryId": "jQFLgioHYBRbRkBYK",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 132,
+      "id": 139,
       "version": "1.0.0",
       "english": "beige simple door",
       "englishEurope": "beige simple door",
@@ -227,7 +227,7 @@
     "uniqueEntryId": "oMqf22Pf8fZzeoJdY",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 226,
+      "id": 233,
       "version": "1.0.0",
       "english": "beige windowed door",
       "englishEurope": "beige windowed door",
@@ -258,7 +258,7 @@
     "uniqueEntryId": "N5LASg9qjhgexBMe7",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 254,
+      "id": 261,
       "version": "1.0.0",
       "english": "beige wooden door",
       "englishEurope": "beige wooden door",
@@ -320,7 +320,7 @@
     "uniqueEntryId": "6mmdmWbK5ZRpbCsWc",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 82,
+      "id": 89,
       "version": "1.0.0",
       "english": "black common door",
       "englishEurope": "black common door",
@@ -413,7 +413,7 @@
     "uniqueEntryId": "3ZahH8gvtHGdkEM68",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 50,
+      "id": 54,
       "version": "1.0.0",
       "english": "black fancy door",
       "englishEurope": "black fancy door",
@@ -444,7 +444,7 @@
     "uniqueEntryId": "qT9ghD7YkZpMDgBDf",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 206,
+      "id": 213,
       "version": "1.0.0",
       "english": "black imperial door",
       "englishEurope": "black imperial door",
@@ -506,7 +506,7 @@
     "uniqueEntryId": "Kzu4WsZwmSWzLdMC6",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 162,
+      "id": 169,
       "version": "1.0.0",
       "english": "black latticework door",
       "englishEurope": "black latticework door",
@@ -568,7 +568,7 @@
     "uniqueEntryId": "TKDhdqyJBdrz8yQt6",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 188,
+      "id": 195,
       "version": "1.0.0",
       "english": "black rustic door",
       "englishEurope": "black rustic door",
@@ -723,7 +723,7 @@
     "uniqueEntryId": "aEXiJy3tnSJWNTBkv",
     "translations": {
       "sourceSheet": "House Roof",
-      "id": 132,
+      "id": 152,
       "version": "1.0.0",
       "english": "black tile roof",
       "englishEurope": "black tile roof",
@@ -754,7 +754,7 @@
     "uniqueEntryId": "Z4efmoeAjzYLhTsKJ",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 68,
+      "id": 75,
       "version": "1.0.0",
       "english": "black vertical-panes door",
       "englishEurope": "black vertical-panes door",
@@ -785,7 +785,7 @@
     "uniqueEntryId": "AxrkW9SNKqmh9kX4S",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 149,
+      "id": 154,
       "version": "1.0.0",
       "english": "black zen door",
       "englishEurope": "black zen door",
@@ -816,7 +816,7 @@
     "uniqueEntryId": "BxqZmtEty82NDo8J3",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 173,
+      "id": 180,
       "version": "1.0.0",
       "english": "blue basic door",
       "englishEurope": "blue basic door",
@@ -878,7 +878,7 @@
     "uniqueEntryId": "hfWfx4mxev3qjp2zH",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 77,
+      "id": 84,
       "version": "1.0.0",
       "english": "blue common door",
       "englishEurope": "blue common door",
@@ -940,7 +940,7 @@
     "uniqueEntryId": "fm6MupiuPAK6HPNNj",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 53,
+      "id": 57,
       "version": "1.0.0",
       "english": "blue fancy door",
       "englishEurope": "blue fancy door",
@@ -971,7 +971,7 @@
     "uniqueEntryId": "5tgy5p3AE38NBeG9B",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 236,
+      "id": 243,
       "version": "1.0.0",
       "english": "blue iron door",
       "englishEurope": "blue iron door",
@@ -1033,7 +1033,7 @@
     "uniqueEntryId": "JwdJLi5HHZe24DmkF",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 160,
+      "id": 167,
       "version": "1.0.0",
       "english": "blue latticework door",
       "englishEurope": "blue latticework door",
@@ -1064,7 +1064,7 @@
     "uniqueEntryId": "YB3NZt9RRYJroWRcn",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 91,
+      "id": 98,
       "version": "1.0.0",
       "english": "blue metal-accent door",
       "englishEurope": "blue metal-accent door",
@@ -1126,7 +1126,7 @@
     "uniqueEntryId": "8k4sCwWWqugmTYuw6",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 190,
+      "id": 197,
       "version": "1.0.0",
       "english": "blue rustic door",
       "englishEurope": "blue rustic door",
@@ -1157,7 +1157,7 @@
     "uniqueEntryId": "cN2eTBiAPt2Bv8GTK",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 134,
+      "id": 141,
       "version": "1.0.0",
       "english": "blue simple door",
       "englishEurope": "blue simple door",
@@ -1312,7 +1312,7 @@
     "uniqueEntryId": "B7gS5WW3ksnrfNeXK",
     "translations": {
       "sourceSheet": "House Roof",
-      "id": 130,
+      "id": 150,
       "version": "1.0.0",
       "english": "blue tile roof",
       "englishEurope": "blue tile roof",
@@ -1343,7 +1343,7 @@
     "uniqueEntryId": "AJB8xQLjaJR2WrHBv",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 64,
+      "id": 71,
       "version": "1.0.0",
       "english": "blue vertical-panes door",
       "englishEurope": "blue vertical-panes door",
@@ -1374,7 +1374,7 @@
     "uniqueEntryId": "i5JLZk2vdr5jZ9nBC",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 224,
+      "id": 231,
       "version": "1.0.0",
       "english": "blue windowed door",
       "englishEurope": "blue windowed door",
@@ -1405,7 +1405,7 @@
     "uniqueEntryId": "okXxYSYZ8o2vceKQG",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 252,
+      "id": 259,
       "version": "1.0.0",
       "english": "blue wooden door",
       "englishEurope": "blue wooden door",
@@ -1684,7 +1684,7 @@
     "uniqueEntryId": "SN5ik2H7HfGLuG9EN",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 200,
+      "id": 207,
       "version": "1.0.0",
       "english": "brown imperial door",
       "englishEurope": "brown imperial door",
@@ -1715,7 +1715,7 @@
     "uniqueEntryId": "a4Mft9ihDSpo4jusc",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 32,
+      "id": 33,
       "version": "1.0.0",
       "english": "brown latticework door",
       "englishEurope": "brown latticework door",
@@ -1746,22 +1746,22 @@
     "uniqueEntryId": "8eztTyD69pNsq7Eee",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 94,
+      "id": 101,
       "version": "1.0.0",
       "english": "brown metal-accent door",
       "englishEurope": "brown metal-accent door",
       "german": "Braun-Beschlagtür",
-      "spanish": "puerta de caserón marrón",
+      "spanish": "puerta de caserón gris",
       "spanishUs": "puerta de caserón marrón",
       "french": "porte à pentures marron",
       "frenchUs": "porte à pentures brune",
       "italian": "porta rinforzata marrone",
-      "dutch": "bruine schuurdeur",
+      "dutch": "grijze schuurdeur",
       "chinese": "灰色金属配件门",
       "chineseTraditional": "灰色金屬配件門",
       "japanese": "グレーなかなぐのドア",
       "korean": "회색 금속 장식 문",
-      "russian": "коричнев. клепаная дверь",
+      "russian": "серая клепаная дверь",
       "plural": false,
       "internalIds": [ "HouseDoorIronpartsFR" ]
     }
@@ -1839,7 +1839,7 @@
     "uniqueEntryId": "3bWWrFPG7N5NcAKbS",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 147,
+      "id": 152,
       "version": "1.0.0",
       "english": "brown zen door",
       "englishEurope": "brown zen door",
@@ -1870,7 +1870,7 @@
     "uniqueEntryId": "vuSF9u2vtgf95NREh",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 172,
+      "id": 179,
       "version": "1.0.0",
       "english": "burgundy basic door",
       "englishEurope": "burgundy basic door",
@@ -1880,7 +1880,7 @@
       "french": "porte à hublot violette",
       "frenchUs": "porte à hublot magenta",
       "italian": "porta cerchio viola",
-      "dutch": "paarse standaarddeur",
+      "dutch": "rode standaarddeur",
       "chinese": "紫色圆窗木门",
       "chineseTraditional": "紫色圓窗木門",
       "japanese": "むらさきのまるまどのドア",
@@ -2025,7 +2025,7 @@
     "uniqueEntryId": "8Gx8LKMb7ipbF9qKa",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 9,
+      "id": 10,
       "version": "1.0.0",
       "english": "common door",
       "englishEurope": "common door",
@@ -2040,7 +2040,7 @@
       "chineseTraditional": "常見門",
       "japanese": "よくあるドア",
       "korean": "평범한 문",
-      "russian": "обычная дверь",
+      "russian": "дверь с вставками",
       "plural": false,
       "internalIds": [ "HouseDoorReliefAR" ]
     }
@@ -2118,7 +2118,7 @@
     "uniqueEntryId": "CTyPWnQDRGqMcDEyf",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 275,
+      "id": 276,
       "version": "1.0.0",
       "english": "cyan vertical-panes door",
       "englishEurope": "cyan vertical-panes door",
@@ -2149,7 +2149,7 @@
     "uniqueEntryId": "CQFAjS99WqxTu4QDJ",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 58,
+      "id": 59,
       "version": "1.0.0",
       "english": "dark-brown iron grill door",
       "englishEurope": "dark-brown iron grill door",
@@ -2180,7 +2180,7 @@
     "uniqueEntryId": "Gyibc6G9u5Zv4fMdJ",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 137,
+      "id": 144,
       "version": "1.0.0",
       "english": "deep-green simple door",
       "englishEurope": "deep-green simple door",
@@ -2335,7 +2335,7 @@
     "uniqueEntryId": "mEBW6Y6gLFpBpibwA",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 80,
+      "id": 87,
       "version": "1.0.0",
       "english": "gray common door",
       "englishEurope": "gray common door",
@@ -2366,7 +2366,7 @@
     "uniqueEntryId": "27cPAfi2DYBEzzgto",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 240,
+      "id": 247,
       "version": "1.0.0",
       "english": "gray iron door",
       "englishEurope": "gray iron door",
@@ -2397,7 +2397,7 @@
     "uniqueEntryId": "uzLEvMD46GzBZQ3mN",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 60,
+      "id": 61,
       "version": "1.0.0",
       "english": "gray iron grill door",
       "englishEurope": "gray iron grill door",
@@ -2428,7 +2428,7 @@
     "uniqueEntryId": "ZCfMjY9ED5jW87aZY",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 159,
+      "id": 166,
       "version": "1.0.0",
       "english": "gray latticework door",
       "englishEurope": "gray latticework door",
@@ -2459,7 +2459,7 @@
     "uniqueEntryId": "QjS2nzSqHCLCcLGKQ",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 133,
+      "id": 140,
       "version": "1.0.0",
       "english": "gray simple door",
       "englishEurope": "gray simple door",
@@ -2552,7 +2552,7 @@
     "uniqueEntryId": "Y7W4HKFy49BLvabBD",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 225,
+      "id": 232,
       "version": "1.0.0",
       "english": "gray windowed door",
       "englishEurope": "gray windowed door",
@@ -2583,7 +2583,7 @@
     "uniqueEntryId": "C2LhRZFynjh6x5gQB",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 253,
+      "id": 260,
       "version": "1.0.0",
       "english": "gray wooden door",
       "englishEurope": "gray wooden door",
@@ -2645,7 +2645,7 @@
     "uniqueEntryId": "jDYnxjeL9zxWFsYM3",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 170,
+      "id": 177,
       "version": "1.0.0",
       "english": "green basic door",
       "englishEurope": "green basic door",
@@ -2707,7 +2707,7 @@
     "uniqueEntryId": "3xcS4XeYXbi6A4JJc",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 78,
+      "id": 85,
       "version": "1.0.0",
       "english": "green common door",
       "englishEurope": "green common door",
@@ -2769,7 +2769,7 @@
     "uniqueEntryId": "h59gk2epKc9ALPoF9",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 203,
+      "id": 210,
       "version": "1.0.0",
       "english": "green imperial door",
       "englishEurope": "green imperial door",
@@ -2800,7 +2800,7 @@
     "uniqueEntryId": "CH2gZGRicug5TB5nF",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 238,
+      "id": 245,
       "version": "1.0.0",
       "english": "green iron door",
       "englishEurope": "green iron door",
@@ -2831,7 +2831,7 @@
     "uniqueEntryId": "fNwKPm8gu5pnoNZ2H",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 41,
+      "id": 46,
       "version": "1.0.0",
       "english": "green iron grill door",
       "englishEurope": "green iron grill door",
@@ -2893,7 +2893,7 @@
     "uniqueEntryId": "gveHmLcPh9uNLMFB8",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 92,
+      "id": 99,
       "version": "1.0.0",
       "english": "green metal-accent door",
       "englishEurope": "green metal-accent door",
@@ -2955,7 +2955,7 @@
     "uniqueEntryId": "YyyhicaCZuYCAd4hm",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 287,
+      "id": 288,
       "version": "1.0.0",
       "english": "green rustic door",
       "englishEurope": "green rustic door",
@@ -3048,7 +3048,7 @@
     "uniqueEntryId": "pEWWGqpXPdLucubvS",
     "translations": {
       "sourceSheet": "House Roof",
-      "id": 128,
+      "id": 148,
       "version": "1.0.0",
       "english": "green tile roof",
       "englishEurope": "green tile roof",
@@ -3079,7 +3079,7 @@
     "uniqueEntryId": "DAwzGNJimCfi6XuPY",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 63,
+      "id": 70,
       "version": "1.0.0",
       "english": "green vertical-panes door",
       "englishEurope": "green vertical-panes door",
@@ -3110,7 +3110,7 @@
     "uniqueEntryId": "CHTZZvpsuYP2ZvEtm",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 223,
+      "id": 230,
       "version": "1.0.0",
       "english": "green windowed door",
       "englishEurope": "green windowed door",
@@ -3141,7 +3141,7 @@
     "uniqueEntryId": "qj2PXQwBkjoDPMSDc",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 251,
+      "id": 258,
       "version": "1.0.0",
       "english": "green wooden door",
       "englishEurope": "green wooden door",
@@ -3203,7 +3203,7 @@
     "uniqueEntryId": "mH3kwkiNAW9Tgg5XH",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 271,
+      "id": 272,
       "version": "1.0.0",
       "english": "green-apple basic door",
       "englishEurope": "green-apple basic door",
@@ -3234,7 +3234,7 @@
     "uniqueEntryId": "oe58QsaRvnF9dQ9Eg",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 263,
+      "id": 264,
       "version": "1.0.0",
       "english": "green-apple common door",
       "englishEurope": "green-apple common door",
@@ -3276,7 +3276,7 @@
     "uniqueEntryId": "BbeW2wNrRMq4PkQB5",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 20,
+      "id": 21,
       "version": "1.0.0",
       "english": "imperial door",
       "englishEurope": "imperial door",
@@ -3338,7 +3338,7 @@
     "uniqueEntryId": "yE4x5zcn95mcNNf2f",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 3,
+      "id": 4,
       "version": "1.0.0",
       "english": "iron door",
       "englishEurope": "iron door",
@@ -3369,7 +3369,7 @@
     "uniqueEntryId": "Cgd6XZxLfYLbuRqoC",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 18,
+      "id": 19,
       "version": "1.0.0",
       "english": "iron grill door",
       "englishEurope": "iron grill door",
@@ -3400,7 +3400,7 @@
     "uniqueEntryId": "soxZojTeCikxb9q53",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 150,
+      "id": 155,
       "version": "1.0.0",
       "english": "lacquered zen door",
       "englishEurope": "lacquered zen door",
@@ -3462,7 +3462,7 @@
     "uniqueEntryId": "jexi2bbNCwn2j3JvC",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 158,
+      "id": 165,
       "version": "1.0.0",
       "english": "latticework door",
       "englishEurope": "latticework door",
@@ -3524,7 +3524,7 @@
     "uniqueEntryId": "n5cEgH77z99n3rT8i",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 191,
+      "id": 198,
       "version": "1.0.0",
       "english": "light-green rustic door",
       "englishEurope": "light-green rustic door",
@@ -3617,7 +3617,7 @@
     "uniqueEntryId": "FW8NZXxWLT4hY6Nj3",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 40,
+      "id": 45,
       "version": "1.0.0",
       "english": "maple iron grill door",
       "englishEurope": "maple iron grill door",
@@ -3648,7 +3648,7 @@
     "uniqueEntryId": "cuDwoeXKD2jdQEPvQ",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 187,
+      "id": 194,
       "version": "1.0.0",
       "english": "maple rustic door",
       "englishEurope": "maple rustic door",
@@ -3679,7 +3679,7 @@
     "uniqueEntryId": "uKkrQ5yBYWQMmerB7",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 62,
+      "id": 69,
       "version": "1.0.0",
       "english": "maple vertical-panes door",
       "englishEurope": "maple vertical-panes door",
@@ -3710,7 +3710,7 @@
     "uniqueEntryId": "bTb3Quno8Hhs7ASK2",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 221,
+      "id": 228,
       "version": "1.0.0",
       "english": "maple windowed door",
       "englishEurope": "maple windowed door",
@@ -3741,7 +3741,7 @@
     "uniqueEntryId": "zvWtASTxgTYBunTDz",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 249,
+      "id": 256,
       "version": "1.0.0",
       "english": "maple wooden door",
       "englishEurope": "maple wooden door",
@@ -3772,7 +3772,7 @@
     "uniqueEntryId": "EivvfJTS98tFNbuno",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 5,
+      "id": 6,
       "version": "1.0.0",
       "english": "metal-accent door",
       "englishEurope": "metal-accent door",
@@ -4020,7 +4020,7 @@
     "uniqueEntryId": "LnLiK3nvaaGqMSJbo",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 174,
+      "id": 181,
       "version": "1.0.0",
       "english": "pale-blue basic door",
       "englishEurope": "pale-blue basic door",
@@ -4029,13 +4029,13 @@
       "spanishUs": "puerta círculo celeste",
       "french": "porte à hublot bleu clair",
       "frenchUs": "porte à hublot bleu clair",
-      "italian": "porta cerchio celeste",
+      "italian": "porta cerchio turchese",
       "dutch": "lichtblauwe standaarddeur",
       "chinese": "水蓝色圆窗木门",
       "chineseTraditional": "水藍色圓窗木門",
       "japanese": "みずいろのまるまどのドア",
       "korean": "하늘색 둥근 창문이 달린 문",
-      "russian": "аквамарин. типовая дверь",
+      "russian": "аквамар. типовая дверь",
       "plural": false,
       "internalIds": [ "HouseDoorCercleWindowFR" ]
     }
@@ -4051,7 +4051,7 @@
     "uniqueEntryId": "LGernbHCg8R4Kcs8f",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 42,
+      "id": 47,
       "version": "1.0.0",
       "english": "pale-blue iron grill door",
       "englishEurope": "pale-blue iron grill door",
@@ -4060,7 +4060,7 @@
       "spanishUs": "puerta con forjado celeste",
       "french": "porte à grille bleu clair",
       "frenchUs": "porte à grille bleu clair",
-      "italian": "porta con grata celeste",
+      "italian": "porta con grata turchese",
       "dutch": "blauwe deur met traliewerk",
       "chinese": "水蓝色铸铁窗花门",
       "chineseTraditional": "水藍色鑄鐵窗花門",
@@ -4082,7 +4082,7 @@
     "uniqueEntryId": "HEczAiQ4dHwB5zh5i",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 285,
+      "id": 286,
       "version": "1.0.0",
       "english": "pale-purple rustic door",
       "englishEurope": "pale-purple rustic door",
@@ -4113,7 +4113,7 @@
     "uniqueEntryId": "Xby3xZhQd3dMb4Coe",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 269,
+      "id": 270,
       "version": "1.0.0",
       "english": "pink basic door",
       "englishEurope": "pink basic door",
@@ -4206,7 +4206,7 @@
     "uniqueEntryId": "2jbKjqmXXQddSvH26",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 52,
+      "id": 56,
       "version": "1.0.0",
       "english": "pink fancy door",
       "englishEurope": "pink fancy door",
@@ -4237,7 +4237,7 @@
     "uniqueEntryId": "BLseEGcXhw9dPreLx",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 239,
+      "id": 246,
       "version": "1.0.0",
       "english": "pink iron door",
       "englishEurope": "pink iron door",
@@ -4268,7 +4268,7 @@
     "uniqueEntryId": "sjAoF3vsRF5J8jLdq",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 43,
+      "id": 48,
       "version": "1.0.0",
       "english": "pink iron grill door",
       "englishEurope": "pink iron grill door",
@@ -4330,7 +4330,7 @@
     "uniqueEntryId": "TB89rf3ccaKip4QRz",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 93,
+      "id": 100,
       "version": "1.0.0",
       "english": "pink metal-accent door",
       "englishEurope": "pink metal-accent door",
@@ -4392,7 +4392,7 @@
     "uniqueEntryId": "GANZwLknoRyyegbLM",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 192,
+      "id": 199,
       "version": "1.0.0",
       "english": "pink rustic door",
       "englishEurope": "pink rustic door",
@@ -4423,7 +4423,7 @@
     "uniqueEntryId": "qvNBxg3CEWvEnoNpZ",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 135,
+      "id": 142,
       "version": "1.0.0",
       "english": "pink simple door",
       "englishEurope": "pink simple door",
@@ -4516,7 +4516,7 @@
     "uniqueEntryId": "ve7xChDBdMDgb6nTS",
     "translations": {
       "sourceSheet": "House Roof",
-      "id": 3,
+      "id": 133,
       "version": "1.0.0",
       "english": "pink tile roof",
       "englishEurope": "pink tile roof",
@@ -4547,7 +4547,7 @@
     "uniqueEntryId": "svRR2C9PSLt5ef3Su",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 277,
+      "id": 278,
       "version": "1.0.0",
       "english": "pink windowed door",
       "englishEurope": "pink windowed door",
@@ -4578,7 +4578,7 @@
     "uniqueEntryId": "gPykmDtFtSdxotvrk",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 281,
+      "id": 282,
       "version": "1.0.0",
       "english": "pink wooden door",
       "englishEurope": "pink wooden door",
@@ -4640,7 +4640,7 @@
     "uniqueEntryId": "XBquzTWPzAnHcKYBj",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 265,
+      "id": 266,
       "version": "1.0.0",
       "english": "purple common door",
       "englishEurope": "purple common door",
@@ -4671,7 +4671,7 @@
     "uniqueEntryId": "Q4GLiP3Kmurrk2WSB",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 291,
+      "id": 292,
       "version": "1.0.0",
       "english": "purple iron grill door",
       "englishEurope": "purple iron grill door",
@@ -4702,7 +4702,7 @@
     "uniqueEntryId": "B6NfDDoKJXSTX6nEZ",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 95,
+      "id": 102,
       "version": "1.0.0",
       "english": "purple metal-accent door",
       "englishEurope": "purple metal-accent door",
@@ -4733,7 +4733,7 @@
     "uniqueEntryId": "dmTdoj8NzL2jSKZHu",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 138,
+      "id": 145,
       "version": "1.0.0",
       "english": "purple simple door",
       "englishEurope": "purple simple door",
@@ -4764,7 +4764,7 @@
     "uniqueEntryId": "3dBXpZsj6tD2dBzwj",
     "translations": {
       "sourceSheet": "House Roof",
-      "id": 131,
+      "id": 151,
       "version": "1.0.0",
       "english": "purple tile roof",
       "englishEurope": "purple tile roof",
@@ -4795,7 +4795,7 @@
     "uniqueEntryId": "JHMuJ2pSXBFsCGThM",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 273,
+      "id": 274,
       "version": "1.0.0",
       "english": "purple vertical-panes door",
       "englishEurope": "purple vertical-panes door",
@@ -4826,7 +4826,7 @@
     "uniqueEntryId": "kiK57D48BgFz2LdAh",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 279,
+      "id": 280,
       "version": "1.0.0",
       "english": "purple windowed door",
       "englishEurope": "purple windowed door",
@@ -4857,7 +4857,7 @@
     "uniqueEntryId": "oNx9giXYQZLfuCYq5",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 283,
+      "id": 284,
       "version": "1.0.0",
       "english": "purple wooden door",
       "englishEurope": "purple wooden door",
@@ -4950,7 +4950,7 @@
     "uniqueEntryId": "WmuaHC559AALWH2Bb",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 76,
+      "id": 83,
       "version": "1.0.0",
       "english": "red common door",
       "englishEurope": "red common door",
@@ -5012,7 +5012,7 @@
     "uniqueEntryId": "us8rFY2TSFXCx72kH",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 51,
+      "id": 55,
       "version": "1.0.0",
       "english": "red fancy door",
       "englishEurope": "red fancy door",
@@ -5043,7 +5043,7 @@
     "uniqueEntryId": "NtxTaTeTrzghsGS2W",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 201,
+      "id": 208,
       "version": "1.0.0",
       "english": "red imperial door",
       "englishEurope": "red imperial door",
@@ -5074,7 +5074,7 @@
     "uniqueEntryId": "Bp9ysH2C4zeiScQXP",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 235,
+      "id": 242,
       "version": "1.0.0",
       "english": "red iron door",
       "englishEurope": "red iron door",
@@ -5105,7 +5105,7 @@
     "uniqueEntryId": "giywRE5qEmQZC6GAN",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 289,
+      "id": 290,
       "version": "1.0.0",
       "english": "red iron grill door",
       "englishEurope": "red iron grill door",
@@ -5167,7 +5167,7 @@
     "uniqueEntryId": "Nnbfndanco3rvQgWf",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 157,
+      "id": 164,
       "version": "1.0.0",
       "english": "red latticework door",
       "englishEurope": "red latticework door",
@@ -5198,7 +5198,7 @@
     "uniqueEntryId": "XvgfNPwfYGffgE24X",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 90,
+      "id": 97,
       "version": "1.0.0",
       "english": "red metal-accent door",
       "englishEurope": "red metal-accent door",
@@ -5260,7 +5260,7 @@
     "uniqueEntryId": "RddBzpZ8QEcLWD4Gv",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 189,
+      "id": 196,
       "version": "1.0.0",
       "english": "red rustic door",
       "englishEurope": "red rustic door",
@@ -5415,7 +5415,7 @@
     "uniqueEntryId": "uifwByFWdDXnTJ4vp",
     "translations": {
       "sourceSheet": "House Roof",
-      "id": 0,
+      "id": 47,
       "version": "1.0.0",
       "english": "red tile roof",
       "englishEurope": "red tile roof",
@@ -5446,7 +5446,7 @@
     "uniqueEntryId": "jtHKujXtSxTwgmgiY",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 66,
+      "id": 73,
       "version": "1.0.0",
       "english": "red vertical-panes door",
       "englishEurope": "red vertical-panes door",
@@ -5477,7 +5477,7 @@
     "uniqueEntryId": "Z4oGMDMqpFBdfYXsZ",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 222,
+      "id": 229,
       "version": "1.0.0",
       "english": "red windowed door",
       "englishEurope": "red windowed door",
@@ -5508,7 +5508,7 @@
     "uniqueEntryId": "h4LK4FrT733y64FZz",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 250,
+      "id": 257,
       "version": "1.0.0",
       "english": "red wooden door",
       "englishEurope": "red wooden door",
@@ -5601,7 +5601,7 @@
     "uniqueEntryId": "tdPuvQyRrRFiBEv7z",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 148,
+      "id": 153,
       "version": "1.0.0",
       "english": "red zen door",
       "englishEurope": "red zen door",
@@ -5632,7 +5632,7 @@
     "uniqueEntryId": "2mrsS49vJNZdWDQeD",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 204,
+      "id": 211,
       "version": "1.0.0",
       "english": "red-green imperial door",
       "englishEurope": "red-green imperial door",
@@ -5694,7 +5694,7 @@
     "uniqueEntryId": "mbsrSkG43TP7tA6e5",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 34,
+      "id": 35,
       "version": "1.0.0",
       "english": "rustic door",
       "englishEurope": "rustic door",
@@ -5880,7 +5880,7 @@
     "uniqueEntryId": "aqhHtKKvCQQpb834t",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 30,
+      "id": 31,
       "version": "1.0.0",
       "english": "vertical-panes door",
       "englishEurope": "vertical-panes door",
@@ -5911,7 +5911,7 @@
     "uniqueEntryId": "xtvqjdafPWY4DF4ww",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 156,
+      "id": 163,
       "version": "1.0.0",
       "english": "walnut latticework door",
       "englishEurope": "walnut latticework door",
@@ -5926,7 +5926,7 @@
       "chineseTraditional": "深棕色格子門",
       "japanese": "こげちゃのこうしのドア",
       "korean": "고동색 격자문",
-      "russian": "каштановая дзен-дверь",
+      "russian": "каштановая решетч. дверь",
       "plural": false,
       "internalIds": [ "HouseDoorLatticeBR" ]
     }
@@ -5942,7 +5942,7 @@
     "uniqueEntryId": "rrazQ4rMyTqvC3G3Y",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 176,
+      "id": 183,
       "version": "1.0.0",
       "english": "white basic door",
       "englishEurope": "white basic door",
@@ -5973,7 +5973,7 @@
     "uniqueEntryId": "cFZFak2hPc3jBrpv8",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 81,
+      "id": 88,
       "version": "1.0.0",
       "english": "white common door",
       "englishEurope": "white common door",
@@ -6004,7 +6004,7 @@
     "uniqueEntryId": "r6k9ATzzAKaWMNJnQ",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 26,
+      "id": 27,
       "version": "1.0.0",
       "english": "white fancy door",
       "englishEurope": "white fancy door",
@@ -6035,7 +6035,7 @@
     "uniqueEntryId": "bthYBfAjTxo7F5dNi",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 205,
+      "id": 212,
       "version": "1.0.0",
       "english": "white imperial door",
       "englishEurope": "white imperial door",
@@ -6066,7 +6066,7 @@
     "uniqueEntryId": "Zi4ndrFTFsEqhQPw9",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 241,
+      "id": 248,
       "version": "1.0.0",
       "english": "white iron door",
       "englishEurope": "white iron door",
@@ -6097,7 +6097,7 @@
     "uniqueEntryId": "bz47mYutYXduChB3P",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 44,
+      "id": 49,
       "version": "1.0.0",
       "english": "white iron grill door",
       "englishEurope": "white iron grill door",
@@ -6159,7 +6159,7 @@
     "uniqueEntryId": "ndjhLSHZXG4TrmXNS",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 161,
+      "id": 168,
       "version": "1.0.0",
       "english": "white latticework door",
       "englishEurope": "white latticework door",
@@ -6190,7 +6190,7 @@
     "uniqueEntryId": "yDBA2qT5sGQAzt7eB",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 96,
+      "id": 103,
       "version": "1.0.0",
       "english": "white metal-accent door",
       "englishEurope": "white metal-accent door",
@@ -6252,7 +6252,7 @@
     "uniqueEntryId": "Mu7FQYgoRajRuL5BD",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 186,
+      "id": 193,
       "version": "1.0.0",
       "english": "white rustic door",
       "englishEurope": "white rustic door",
@@ -6283,7 +6283,7 @@
     "uniqueEntryId": "q4CQF3zCDhorZ7fAc",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 22,
+      "id": 23,
       "version": "1.0.0",
       "english": "white simple door",
       "englishEurope": "white simple door",
@@ -6407,7 +6407,7 @@
     "uniqueEntryId": "CxFPdgKzKg2ifRx62",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 67,
+      "id": 74,
       "version": "1.0.0",
       "english": "white vertical-panes door",
       "englishEurope": "white vertical-panes door",
@@ -6438,7 +6438,7 @@
     "uniqueEntryId": "ZovDjWHe8YSZZKinn",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 227,
+      "id": 234,
       "version": "1.0.0",
       "english": "white windowed door",
       "englishEurope": "white windowed door",
@@ -6469,7 +6469,7 @@
     "uniqueEntryId": "h2ja68uKd7TxdEwQE",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 255,
+      "id": 262,
       "version": "1.0.0",
       "english": "white wooden door",
       "englishEurope": "white wooden door",
@@ -6531,7 +6531,7 @@
     "uniqueEntryId": "wY7gy8YD2Y8ojnDnm",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 184,
+      "id": 185,
       "version": "1.0.0",
       "english": "white zen door",
       "englishEurope": "white zen door",
@@ -6593,7 +6593,7 @@
     "uniqueEntryId": "28wnpfEyGZCvdDsmc",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 16,
+      "id": 17,
       "version": "1.0.0",
       "english": "windowed door",
       "englishEurope": "windowed door",
@@ -6655,7 +6655,7 @@
     "uniqueEntryId": "4ovKGY9ZoiujvqkS8",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 0,
+      "id": 2,
       "version": "1.0.0",
       "english": "wooden door",
       "englishEurope": "wooden door",
@@ -6717,7 +6717,7 @@
     "uniqueEntryId": "yoMGH8LhL7mFWZiPD",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 171,
+      "id": 178,
       "version": "1.0.0",
       "english": "yellow basic door",
       "englishEurope": "yellow basic door",
@@ -6779,7 +6779,7 @@
     "uniqueEntryId": "5ZKFC4ePpoYDqqJSu",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 79,
+      "id": 86,
       "version": "1.0.0",
       "english": "yellow common door",
       "englishEurope": "yellow common door",
@@ -6872,7 +6872,7 @@
     "uniqueEntryId": "iNTxu4FaB6TC9pjni",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 267,
+      "id": 268,
       "version": "1.0.0",
       "english": "yellow fancy door",
       "englishEurope": "yellow fancy door",
@@ -6903,7 +6903,7 @@
     "uniqueEntryId": "dBGXJ8LnHwDZciTRS",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 202,
+      "id": 209,
       "version": "1.0.0",
       "english": "yellow imperial door",
       "englishEurope": "yellow imperial door",
@@ -6934,7 +6934,7 @@
     "uniqueEntryId": "wELe85t5gE9e5fZ7H",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 237,
+      "id": 244,
       "version": "1.0.0",
       "english": "yellow iron door",
       "englishEurope": "yellow iron door",
@@ -7027,7 +7027,7 @@
     "uniqueEntryId": "t8gHx6QjK9tFMmMna",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 136,
+      "id": 143,
       "version": "1.0.0",
       "english": "yellow simple door",
       "englishEurope": "yellow simple door",
@@ -7120,7 +7120,7 @@
     "uniqueEntryId": "2aQvQYwCsSQyRGyvF",
     "translations": {
       "sourceSheet": "House Roof",
-      "id": 127,
+      "id": 147,
       "version": "1.0.0",
       "english": "yellow tile roof",
       "englishEurope": "yellow tile roof",
@@ -7151,7 +7151,7 @@
     "uniqueEntryId": "Aszgp3pAbCC75LNHd",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 65,
+      "id": 72,
       "version": "1.0.0",
       "english": "yellow vertical-panes door",
       "englishEurope": "yellow vertical-panes door",
@@ -7213,7 +7213,7 @@
     "uniqueEntryId": "yHJcPMRBWKZofvC4H",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 146,
+      "id": 151,
       "version": "1.0.0",
       "english": "yellow zen door",
       "englishEurope": "yellow zen door",
@@ -7275,7 +7275,7 @@
     "uniqueEntryId": "jGJNCRi6kcXXTD67g",
     "translations": {
       "sourceSheet": "House Door",
-      "id": 14,
+      "id": 15,
       "version": "1.0.0",
       "english": "zen door",
       "englishEurope": "zen door",
