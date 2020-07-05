@@ -6,7 +6,7 @@ export interface Achievement {
     num:                    number;
     internalId:             number;
     internalName:           string;
-    internalCategory:       null | string;
+    internalCategory:       string;
     numOfTiers:             number | string;
     sequential:             boolean;
     versionAdded:           VersionAdded;

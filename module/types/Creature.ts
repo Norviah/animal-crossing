@@ -2,20 +2,19 @@ export interface Creature {
     sourceSheet:          CreatureSourceSheet;
     num:                  number;
     name:                 string;
-    iconImage:            null | string;
-    critterpediaImage:    null | string;
-    furnitureImage:       null | string;
+    iconImage:            string;
+    critterpediaImage:    string;
+    furnitureImage:       string;
     sell:                 number;
     whereHow?:            string;
     shadow?:              Shadow;
     totalCatchesToUnlock: number;
     spawnRates:           string;
-    rainSnowCatchUp?:     boolean;
     size:                 Size;
     surface:              boolean;
-    hhaBasePoints:        number | null;
+    hhaBasePoints:        number;
     lightingType?:        LightingType | null;
-    iconFilename:         null | string;
+    iconFilename:         string;
     critterpediaFilename: string;
     furnitureFilename:    string;
     internalId:           number;
@@ -25,6 +24,8 @@ export interface Creature {
     colors:               Color[];
     weather?:             Weather;
     movementSpeed?:       MovementSpeed;
+    versionAdded?:        Version;
+    versionUnlocked?:     Version;
 }
 
 export enum Color {
