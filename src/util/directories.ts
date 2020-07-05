@@ -2,14 +2,9 @@ import { path } from 'app-root-path';
 import { join } from 'path';
 
 /**
- * The absolute path for this project's root directory.
+ * The absolute path for the root directory that will contain the JSON files.
  */
-const root: string = path;
-
-/**
- * The absolute path for the project's source code.
- */
-const src: string = join(path, 'src');
+const root: string = join(path, 'json');
 
 /**
  * The root directory that holds the raw data from the spreadsheets.
@@ -37,13 +32,13 @@ const seasons: string = join(rawRoot, 'seasons');
 const sanitized: string = join(root, 'data');
 
 /**
- * The sub-directory that holds the
+ * The sub-directory that holds the JSON files combined via categories.
  */
 const combined: string = join(root, 'combined');
 
 /**
  * Represents the directories that are used throughout this project.
  */
-const directories = { root, src, raw, translations, seasons, sanitized, combined };
+const directories = { root, raw, translations, seasons, sanitized, combined };
 
 export { directories };
