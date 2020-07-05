@@ -441,6 +441,14 @@
   },
   {
     "sourceSheet": "Events",
+    "event": "Tanabata",
+    "northernHemisphereDates": "July 1–31",
+    "southernHemisphereDates": "July 1–31",
+    "times": "All day",
+    "translations": null
+  },
+  {
+    "sourceSheet": "Events",
     "event": "Countdown",
     "northernHemisphereDates": "December 31",
     "southernHemisphereDates": "December 31",
