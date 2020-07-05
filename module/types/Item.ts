@@ -1,54 +1,35 @@
 export interface Item {
     sourceSheet:           Category;
     name:                  string;
-    closetImage?:          string;
-    storageImage?:         null | string;
-    variation?:            null;
     diy?:                  boolean;
-    buy:                   number;
-    sell:                  number | null;
-    hhaBasePoints?:        number | null;
     size?:                 Size;
     milesPrice?:           number | null;
     sourceNotes?:          null | string;
     versionAdded?:         Version;
     versionUnlocked?:      Version;
-    seasonalAvailability?: SeasonalAvailability;
-    mannequinPiece?:       boolean;
-    sortOrder?:            number;
-    type?:                 Type;
-    villagerEquippable?:   boolean;
     catalog?:              boolean | CatalogEnum | null;
-    filename?:             string;
-    internalId?:           number;
-    uniqueEntryId?:        string;
-    variantTranslations?:  null;
+    buy:                   number;
+    sell:                  number | null;
     translations:          ItemTranslations | null;
-    colors?:               Color[];
+    variations?:           VariationElement[];
     styles?:               Style[];
     sources:               string[];
     themes?:               Theme[];
     recipe:                Recipe | null;
-    variations?:           VariationElement[];
+    closetImage?:          string;
+    storageImage?:         null | string;
+    variation?:            null;
+    hhaBasePoints?:        number | null;
+    seasonalAvailability?: SeasonalAvailability;
+    mannequinPiece?:       boolean;
+    sortOrder?:            number;
+    villagerEquippable?:   boolean;
+    filename?:             string;
+    internalId?:           number;
+    uniqueEntryId?:        string;
+    variantTranslations?:  null;
+    colors?:               Color[];
     image?:                string;
-    highResTexture?:       null;
-    genuine?:              boolean;
-    category?:             Category;
-    realArtworkTitle?:     string;
-    artist?:               string;
-    museumDescription?:    string;
-    interact?:             boolean | InteractEnum;
-    tag?:                  null | string;
-    speakerType?:          SpeakerType | null;
-    lightingType?:         LightingType | null;
-    concepts?:             Concept[];
-    set?:                  ItemSet | null;
-    series?:               Series | null;
-    primaryShape?:         PrimaryShape;
-    secondaryShape?:       SecondaryShape;
-    stackSize?:            number;
-    vfx?:                  boolean;
-    museum?:               Museum;
     bodyTitle?:            null | string;
     pattern?:              null | string;
     patternTitle?:         null | string;
@@ -56,15 +37,24 @@ export interface Item {
     patternCustomize?:     boolean;
     kitCost?:              number | null;
     surface?:              boolean;
+    interact?:             boolean | InteractEnum;
+    tag?:                  null | string;
     outdoor?:              boolean;
+    speakerType?:          SpeakerType | null;
+    lightingType?:         LightingType | null;
     variantId?:            VariantID | null;
     patternTranslations?:  Translations | null;
+    concepts?:             Concept[];
+    set?:                  ItemSet | null;
+    series?:               Series | null;
+    customize?:            boolean;
     framedImage?:          null | string;
     albumImage?:           null | string;
     inventoryImage?:       null | string;
-    customize?:            boolean;
+    stackSize?:            number;
     sizeCategory?:         SizeCategory;
-    uses?:                 number;
+    type?:                 Type;
+    vfx?:                  boolean;
     doorDeco?:             boolean;
     vfxType?:              VfxType | null;
     windowType?:           WindowType | null;
@@ -73,6 +63,16 @@ export interface Item {
     curtainType?:          CurtainType | null;
     curtainColor?:         null | string;
     ceilingType?:          CeilingType;
+    uses?:                 number;
+    primaryShape?:         PrimaryShape;
+    secondaryShape?:       SecondaryShape;
+    museum?:               Museum;
+    highResTexture?:       null;
+    genuine?:              boolean;
+    category?:             Category;
+    realArtworkTitle?:     string;
+    artist?:               string;
+    museumDescription?:    string;
 }
 
 export enum CatalogEnum {
@@ -405,9 +405,9 @@ export enum Size {
     Size2X1 = "2x1 ",
     Size2X15 = "2x1.5 ",
     Size2X2 = "2x2 ",
-    Size3X2 = "3x2 ",
+    Size3X2 = "3x2",
     Size3X3 = "3x3 ",
-    Size4X3 = "4x3",
+    Size4X3 = "4x3 ",
     The05X1 = "0.5x1 ",
     The15X15 = "1.5x1.5",
     The1X05 = "1x0.5",
@@ -419,9 +419,9 @@ export enum Size {
     The2X15 = "2x1.5",
     The2X2 = "2x2",
     The3X1 = "3x1",
-    The3X2 = "3x2",
+    The3X2 = "3x2 ",
     The3X3 = "3x3",
-    The4X3 = "4x3 ",
+    The4X3 = "4x3",
     The4X4 = "4x4 ",
     The5X5 = "5x5 ",
 }
@@ -589,20 +589,20 @@ export interface VariationElement {
     uniqueEntryId:         string;
     variantTranslations:   Translations | null;
     colors:                Color[];
-    primaryShape?:         PrimaryShape;
-    secondaryShape?:       SecondaryShape | null;
     image?:                string;
     pattern?:              null | string;
     patternTitle?:         PatternTitle | null;
-    surface?:              boolean;
     variantId?:            VariantID;
     patternTranslations?:  Translations | null;
+    surface?:              boolean;
     concepts?:             Concept[];
     set?:                  VariationSet | null;
     series?:               Series | null;
+    primaryShape?:         PrimaryShape;
+    secondaryShape?:       SecondaryShape | null;
+    doorDeco?:             boolean;
     uses?:                 number;
     stackSize?:            number;
-    doorDeco?:             boolean;
 }
 
 export enum PatternTitle {
