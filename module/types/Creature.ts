@@ -7,13 +7,12 @@ export interface Creature {
     furnitureImage:       string;
     sell:                 number;
     whereHow?:            string;
-    shadow?:              Shadow;
+    weather?:             Weather;
     totalCatchesToUnlock: number;
     spawnRates:           string;
     size:                 Size;
     surface:              boolean;
     hhaBasePoints:        number;
-    lightingType?:        LightingType | null;
     iconFilename:         string;
     critterpediaFilename: string;
     furnitureFilename:    string;
@@ -22,8 +21,9 @@ export interface Creature {
     translations:         Translations;
     hemipsheres:          Hemipsheres;
     colors:               Color[];
-    weather?:             Weather;
+    shadow?:              Shadow;
     movementSpeed?:       MovementSpeed;
+    lightingType?:        LightingType | null;
     versionAdded?:        Version;
     versionUnlocked?:     Version;
 }
