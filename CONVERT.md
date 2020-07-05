@@ -3,6 +3,7 @@
   - change directories into the project
   - click [this link](https://developers.google.com/sheets/api/quickstart/nodejs#step_1_turn_on_the)
   - click `Enable the Google Sheets API`
+  - agree with the prompt and click `Next`
   - create an application for `Desktop App`
   - click `Download Client Configuration`
   - save this file, it should be named `credentials.json`, to the [config](./config) directory
@@ -22,41 +23,52 @@
     - if you have edited the source code in the [src](./src) directory, run the project with `npm run build:src && npm run start` as you must recompile the source code into JavaScript
     - if you haven't edited the source code since the last time you have compiled it, run the program with `npm run start`
 
-### Guide
+### Setup
 
-In order to run this project locally, you must enable the Google Sheets API for your Google account, which you can do [here](https://developers.google.com/sheets/api/quickstart/nodejs#step_1_turn_on_the).
+Clone the repo with `git clone https://github.com/Norviah/animal-crossing.git` and change directories into the project.
 
-**Step 1** Open [the link above](https://developers.google.com/sheets/api/quickstart/nodejs#step_1_turn_on_the) and click `Enable the Google Sheets API` button, then, create an application for a `Desktop App`. Once created, you'll be presented with your `Client ID`, `Client Secret`, and a button named `Download Client Configuration`. Click this button and save the file, it should be named `credentials.json`, to the [config](./config) directory, as you'll need this to run the project.
+### Step 1
 
-**Step 2** After you have installed `credentials.json` to the [config](./config) directory, install needed dependencies with `npm install`, once installed, run the program with `npm run build:src && npm run start`. This will call a script in the `package.json` file that compiles the Typescript code into JavaScript and then executes the compiled JavaScript code.
+In order to run this project locally, you must enable the Google Sheets API for your Google account, which you can do [here](./https://developers.google.com/sheets/api/quickstart/nodejs#step_1_turn_on_the).
 
-**Step 3** To run this program you, in addition to `credentials.json`, need a `tokens.json` file. Although you must provide `credentials.json` yourself, the program will create a `tokens.json` file for you. Click the URL prompted in the link and sign in with the Google account you used to create the application. After you've signed in, Google will most likely warn you that the application isn't verified, don't worry as, well, the application isn't verified. If you have been warned, click `Advanced`, and click `Go to [app name]`. Next, Google will ask you to allow to give the application permission to view spreadsheets, click `Allow` and then click `Allow` again. Finally, you'll be prompted with a code, copy that code and paste it into the console, then, the program should start.
+Open this and click `Enable the Google Sheets API` button, then, agree with the prompt and create an application for a `Desktop App`. Once created, you'll be presented with your `Client ID`, `Client Secret`, and a button named `Download Client Configuration`. Click this button and save the downloaded file, it should be named `credentials.json`, to the [config](./config) directory, as you'll need this to run the project.
 
-You won't be asked to give permissions for the application after the first time you have ran the program as, during the first time execution, it generates a `tokens.json` file for you and saves it to the [config](./config) directory. From then on, the program will use this file.
+### Step 2
 
-**Step 4** To run the project later on:
-  - if you have edited the source code in the [src](./src) directory, you must run `npm run build:src && npm run start` as it recompiles the Typescript code into JavaScript and will start the program
-  - if you haven't edited the source code since the last time you have compiled it, run the program with `npm run start`
+Install dependencies with `npm install`, once installed, run the program with `npm run build:src && npm run start`. `npm run build:src` calls a script in the `package.json` file that compiles the TypeScript codebase into JavaScript, and `npm run start` executes the JavaScript code.
 
-When ran with `npm run start`, every directory that contains JSON file will be deleted and the project will generate new JSON files.
+### Step 3
+
+When executing this project for the first time, you'll be presented with a link in the console. To run this project, you need two config files, `credentials.json` and `tokens.json`, you must provide `credentials.json` yourself but the project will generate `tokens.json` file for you.
+
+Open the link in the console and sign in with the Google account you used to create the application. After you've signed in, you'll most likely be warned that the application isn't verified, ignore this warning as, well, the project isn't verified. If you have been warned, click `Advanced` and click `Go to [app name]`. Next, Google will ask you to grant the application permission to view spreadsheets, click `Allow` and click `Allow` again.
+
+Finally, you'll be prompted with a code, copy that code and paste it into the console, then, the program should start.
+
+You won't be asked to give permissions after the first time you have ran the project as the project generates a `tokens.json` file for you during the first execution and saves it to the config directory. From then on, the program will use this file.
+
+### Step 4
+
+To run this project later on:
+  - if you have edited the source code in the [src](./src) directory, you must run the project with `npm run build:src && npm run start` as it recompiles the TypeScript codebase into JavaScript,
+  - if you haven't edited the source code since the last time you have compiled it, run the program with `npm run start`.
+
 
 ### Structure
 
-  - [raw](./raw) - contains the JSON files converted straight from the spreadsheets,
-  - [data](./data) - contains the JSON files after they have been sanitized,
-  - [combined](./combined) - contains the JSON files combined under categories, which is determined by the [category](./src/util/categories.ts) file,
-  - [src](./src) - contains the source code,
-  - [config](./config) - should contain your `credentials.json` file,
-  - [module](./module) - contains the source code for the [npm module](http://npmjs.com/package/animal-crossing), and
-  - [bin](./bin) - contains scripts used for generating types of the JSON files for Typescript.
+- [bin](./bin) - contains scripts used for generating types for TypeScript,
+- [config](./config) - should contain the `credentials.json` file,
+- [json](./json) - contains the JSON files,
+- [module](./module) - contains the source code for the [npm module](https://www.npmjs.com/package/animal-crossing), and
+- [src](./src) - contains the source code for the converter.
 
 ### Credit/Thanks
 
-The spreadsheets that were used are:
+The spreadsheets that were converted and is available through this module are:
   - the [Animal Crossing: New Horizons](https://docs.google.com/spreadsheets/d/1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM/edit#gid=1397507627) spreadsheet, specifically the editor's copy,
   - the [Translations](https://tinyurl.com/acnh-translation) spreadsheet, and
-  - the [Seasons/Calendar](https://tinyurl.com/acnh-calendar) spreadsheet.
+  - the [Seasons](https://tinyurl.com/acnh-calendar) spreadsheet.
 
-If you use any JSON file and/or this module for a project, please credit and link these spreadsheets somewhere in your project!
+If you use any JSON file and/or this module for a project, please credit and link these spreadsheets somewhere in your project.
 
 And thanks to the [acdb-team](https://github.com/acdb-team), as I took inspiration from their repo, [google-sheets-to-json](https://github.com/acdb-team/google-sheets-to-json).
