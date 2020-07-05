@@ -19,7 +19,7 @@
 
 • **InitialHouse**: = "Initial House"
 
-*Defined in [Construction.ts:23](https://github.com/Norviah/animal-crossing/blob/09a17bd/module/types/Construction.ts#L23)*
+*Defined in [Construction.ts:23](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Construction.ts#L23)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **ResidentServicesUpgrade**: = "Resident Services Upgrade"
 
-*Defined in [Construction.ts:24](https://github.com/Norviah/animal-crossing/blob/09a17bd/module/types/Construction.ts#L24)*
+*Defined in [Construction.ts:24](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Construction.ts#L24)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Tent**: = "Tent"
 
-*Defined in [Construction.ts:25](https://github.com/Norviah/animal-crossing/blob/09a17bd/module/types/Construction.ts#L25)*
+*Defined in [Construction.ts:25](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Construction.ts#L25)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **The3RDHouseUpgradeLeftRoom**: = "3rd House Upgrade (Left Room)"
 
-*Defined in [Construction.ts:26](https://github.com/Norviah/animal-crossing/blob/09a17bd/module/types/Construction.ts#L26)*
+*Defined in [Construction.ts:26](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Construction.ts#L26)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **The4ThHouseUpgradeRightRoom**: = "4th House Upgrade (Right Room)"
 
-*Defined in [Construction.ts:27](https://github.com/Norviah/animal-crossing/blob/09a17bd/module/types/Construction.ts#L27)*
+*Defined in [Construction.ts:27](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Construction.ts#L27)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **The5ThHouseUpgrade2NdFloor**: = "5th House Upgrade (2nd Floor)"
 
-*Defined in [Construction.ts:28](https://github.com/Norviah/animal-crossing/blob/09a17bd/module/types/Construction.ts#L28)*
+*Defined in [Construction.ts:28](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Construction.ts#L28)*
