@@ -72,7 +72,7 @@ export interface Item {
     paneType?:             PaneType | null;
     curtainType?:          CurtainType | null;
     curtainColor?:         null | string;
-    ceilingType?:          CeilingType | null;
+    ceilingType?:          CeilingType;
 }
 
 export enum CatalogEnum {
@@ -578,7 +578,7 @@ export interface VariationElement {
     closetImage?:          string;
     storageImage?:         string;
     variation:             number | null | string;
-    hhaBasePoints:         number | null;
+    hhaBasePoints:         number;
     seasonalAvailability?: SeasonalAvailability;
     mannequinPiece?:       boolean | null;
     sortOrder?:            number;
