@@ -4,6 +4,7 @@ import { category } from '../util/category';
 import { directories } from '../util/directories';
 import { separate } from '../util/separate';
 import { write } from '../util/write';
+import { width } from '../util/width';
 
 // This script merges some values from villagers into an array, such as the
 // villager's style and colors. In addition, the translations for the villager's
@@ -19,7 +20,7 @@ for (const villager of villagers) {
   villager.styles = [villager.style1, villager.style2].filter((style) => !!style);
   villager.colors = [villager.color1, villager.color2].filter((color) => !!color);
   villager.furnitureNameList = separate(villager.furnitureNameList, ';');
-  villager.furnitureList = separate(villager.furnitureList, ';');
+  villager.furnitureList = separate(villager.furnitureList, ';').map((id: string) => Number(id));
 
   for (const key of ['style1', 'style2', 'color1', 'color2']) {
     delete villager[key];
@@ -31,4 +32,4 @@ for (const villager of villagers) {
   villager.defaultClothing = items.find((item) => item['Internal ID'] === clothingInternalId)?.Name ?? null;
 }
 
-write(join(directories.sanitized, `Villagers.json`), villagers);
+write(join(directories.sanitized, `Villagers.json`), villagers, width('Villagers'));
