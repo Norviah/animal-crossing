@@ -18,7 +18,7 @@
     "publish:major": "npm run build:module && ./node_modules/standard-version/bin/cli.js --release-as major && npm run publish",
     "publish:version": "npm run build:module && ./node_modules/standard-version/bin/cli.js --release-as $1 && npm run publish",
     "publish": "git push --follow-tags origin master && npm publish",
-    "start": "/bin/rm -rf ./json; node ./build/index.js"
+    "start": "/bin/rm -rf ./json/combined ./json/data ./json/raw; node ./build/index.js"
   },
   "repository": {
     "type": "git",
