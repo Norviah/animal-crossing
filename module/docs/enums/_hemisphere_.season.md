@@ -17,7 +17,7 @@
 
 • **Fall**: = "fall"
 
-*Defined in [Hemisphere.ts:33](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Hemisphere.ts#L33)*
+*Defined in [Hemisphere.ts:33](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Hemisphere.ts#L33)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Spring**: = "spring"
 
-*Defined in [Hemisphere.ts:34](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Hemisphere.ts#L34)*
+*Defined in [Hemisphere.ts:34](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Hemisphere.ts#L34)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Summer**: = "summer"
 
-*Defined in [Hemisphere.ts:35](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Hemisphere.ts#L35)*
+*Defined in [Hemisphere.ts:35](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Hemisphere.ts#L35)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Winter**: = "winter"
 
-*Defined in [Hemisphere.ts:36](https://github.com/Norviah/animal-crossing/blob/577801d/module/types/Hemisphere.ts#L36)*
+*Defined in [Hemisphere.ts:36](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Hemisphere.ts#L36)*
