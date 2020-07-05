@@ -6,6 +6,7 @@ import { get, readdir } from '../util/get';
 import { link } from '../util/link';
 import { separate } from '../util/separate';
 import { translate } from '../util/translate';
+import { width } from '../util/width';
 import { write } from '../util/write';
 
 // After converting the spreadsheets into JSON, the keys and values won't
@@ -156,5 +157,5 @@ for (const file of files) {
   // 'sanitized' array, as those items are stored in the 'variations' set.
   sanitized = sanitized.filter((item: any) => !variationNames.has(item.name));
 
-  write(join(directories.sanitized, basename(file)), [...sanitized, ...variations]);
+  write(join(directories.sanitized, basename(file)), [...sanitized, ...variations], width(basename(file)));
 }

@@ -6,6 +6,7 @@ import { get } from '../util/get';
 import { separate } from '../util/separate';
 import { timeArray } from '../util/timeArray';
 import { write } from '../util/write';
+import { width } from '../util/width';
 
 // In Animal Crossing, creatures such as fish and bugs are available for certain
 // months throughout the year, which is different for both of the hemispheres.
@@ -139,5 +140,5 @@ for (const file of files('Creatures', directories.sanitized)) {
     }
   }
 
-  write(file, creatures, 120);
+  write(file, creatures, width('Creatures'));
 }

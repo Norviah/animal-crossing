@@ -4,6 +4,7 @@ import { zipObject } from 'lodash';
 import { category } from '../util/category';
 import { directories } from '../util/directories';
 import { write } from '../util/write';
+import { width } from '../util/width';
 
 // Obviously, there are craftiable items in Animal Crossing, with each recipe
 // having a maximum amount of six materials, I'm assuming. On the spreadsheet,
@@ -42,4 +43,4 @@ for (const recipe of recipes) {
   }
 }
 
-write(join(directories.sanitized, 'Recipes.json'), recipes);
+write(join(directories.sanitized, 'Recipes.json'), recipes, width('Recipes'));
