@@ -18,18 +18,18 @@ import { Villager as IVillager } from './types/Villager';
 // SOURCE FILES
 // ---
 
-import Achievements from './combined/Achievements.json';
-import Construction from './combined/Construction.json';
-import Creatures from './combined/Creatures.json';
-import Events from './combined/Events.json';
-import IDs from './combined/IDs.json';
-import Items from './combined/Items.json';
-import NorthenHemisphere from './combined/NorthernHemisphere.json';
-import SouthernHemisphere from './combined/SouthernHemisphere.json';
-import Reactions from './combined/Reactions.json';
-import Recipes from './combined/Recipes.json';
-import Translations from './combined/Translations.json';
-import Villagers from './combined/Villagers.json';
+import Achievements from './data/Achievements.json';
+import Construction from './data/Construction.json';
+import Creatures from './data/Creatures.json';
+import Events from './data/Events.json';
+import IDs from './data/IDs.json';
+import Items from './data/Items.json';
+import NorthenHemisphere from './data/NorthernHemisphere.json';
+import SouthernHemisphere from './data/SouthernHemisphere.json';
+import Reactions from './data/Reactions.json';
+import Recipes from './data/Recipes.json';
+import Translations from './data/Translations.json';
+import Villagers from './data/Villagers.json';
 
 // ---
 // EXPORTS
