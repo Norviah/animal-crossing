@@ -13,6 +13,10 @@
     "spawnRates": "1",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "Quite the catch you've brought! The stately and debonair Napoleonfish is truly something to behold. Those beady eyes! That bumpy head! That bold blue-green coloring! Alas, this quirky creature is quite endangered due to a variety of factors. Needless to say, we must do our very best to take care of our lumpy friend and its environment."
+    ],
+    "catchPhrase": [ "I caught a Napoleonfish! It's not as big as it thinks!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish43",
@@ -71,6 +75,10 @@
     "spawnRates": "2–5",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "There are more than 140 species of anchovy, but they do all have some things in common. They are small and feed by simply swimming with their mouths open to filter food particles from the sea. (In my sleepier moments, I sometimes wish I could do that...)"
+    ],
+    "catchPhrase": [ "I caught an anchovy! Stay away from my pizza!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish81",
@@ -129,6 +137,10 @@
     "spawnRates": "2–5",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "The angelfish is truly a beautiful creature. Just look at the elegance of those fins!Despite the name, however, these lovelies are known to be rather aggressive. They've no qualms about relentlessly pursuing fish much smaller than themselves! Why, they even attack their own kin! It seems no fish is safe around these \"angelic\" bullies. It makes one wonder who comes up with these names. Appearances— and names— can be deceiving."
+    ],
+    "catchPhrase": [ "I caught an angelfish! That other fish told me to do it!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish30",
@@ -187,6 +199,10 @@
     "spawnRates": "1",
     "size": "3x2",
     "surface": false,
+    "description": [
+      "The stately arapaima is quite large. Indeed, it is among the largest freshwater fish there are. Furthermore, these fascinating fish make quite the family unit. That is to say, male arapaimas protect their young by holding them gently in their mouths. Meanwhile, female arapaimas swim circles around these full-mouthed fathers fending off predators. It simply goes to show that cold-blooded creatures can be heartwarming too."
+    ],
+    "catchPhrase": [ "I caught an arapaima! How did it get here? Arapaiknow!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish36",
@@ -245,6 +261,10 @@
     "spawnRates": "1–2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "It would seem your angling expertise knows no bounds! This beauteous arowana fetches a pretty Bell, though I'd venture to say that its true price is beyond measure. The arowana has been on the endangered-species list for some time. It's up to us to remain educated and do all we can to help preserve such magnificent creatures. Not to worry, old bean. This lovely fishy friend is in good wings here! On behalf of the museum, I thank you warmly for your unending generosity!"
+    ],
+    "catchPhrase": [ "I caught an arowana! I'd make a joke, but I don't 'wana." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish33",
@@ -303,6 +323,10 @@
     "spawnRates": "3–5",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Wonderful! I would love nothing more! The barred knifejaw, also called the striped beakfish, is a lovely fish with a distinctive striped pattern. It is reportedly also a very curious fish in that it has been known to approach swimmers to \"greet\" them. They also tend to be good at avoiding fishing hooks, so well done on outwitting this one!"
+    ],
+    "catchPhrase": [ "I caught a barred knifejaw! They must have a hard time eating!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish47",
@@ -361,6 +385,10 @@
     "spawnRates": "1",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "The barreleye is a deep-sea fish with protuberant eyes and a clear head, so some of its organs are... visible. At first blush, a transparent head seems absurd, but there is a reason: so it can see things directly above! But I must confess - the more I learn about deep-sea fish, the happier I am to live on dry land, wot."
+    ],
+    "catchPhrase": [ "I caught a barreleye! Like eyeing fish in a barrel!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish84",
@@ -419,6 +447,10 @@
     "spawnRates": "1–4",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "The betta has long fins and beautiful coloring. It is a tropical fish popular in decorative aquariums. They're very territorial and will fight to complete exhaustion, so aquarists must keep them carefully. Rarely do such beauty and violence commingle outside the rowdiest of sunset-viewing parties."
+    ],
+    "catchPhrase": [ "I caught a betta! I betta not drop it!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish77",
@@ -477,6 +509,10 @@
     "spawnRates": "12–17",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Bitterlings hide their eggs inside large bivalves—like clams—where the young can stay safe until grown. The bitterling isn't being sneaky. No, their young help keep the bivalve healthy by eating invading parasites! It's a wonderful bit of evolutionary deal making, don't you think? Each one keeping the other safe... Though eating parasites does not sound like a happy childhood... Is that why the fish is so bitter?"
+    ],
+    "catchPhrase": [ "I caught a bitterling! It's mad at me, but only a little." ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish0",
@@ -535,6 +571,10 @@
     "spawnRates": "4–12",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "The black bass is a formidably strong fish and, as such, is a common target for sport anglers. In some areas, there are even those who professionally catch just black bass! Yet in other areas where they are NOT native, they are considered an ecological nuisance. Invasive, even. One cannot help but wonder who is to blame for their invasion, hoo."
+    ],
+    "catchPhrase": [ "I caught a black bass! The most metal of all fish!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish19",
@@ -593,6 +633,10 @@
     "spawnRates": "5",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "As you may know, blowfish carry a deadly poison and are among the most toxic creatures on earth. What you may not have known is that poison and spines are not the limit of this animal's defenses! A predator that tries to swallow a blowfish before it inflates can find itself quickly choking. To be honest, if said predator can get past poison, spines, AND choking hazards, I feel they've earned a meal."
+    ],
+    "catchPhrase": [ "I caught a blowfish! I'm blown away!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish73",
@@ -651,6 +695,10 @@
     "spawnRates": "1–2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The blue marlin has a distinctive angular shape and no scales. It is an unusual relative of the tuna. These mighty fish can exceed 13 feet from bill to tail. Some accounts even have it fighting with whales! No wonder it's a popular target for sport fishing: unlike most fish, it seems like a worthy opponent."
+    ],
+    "catchPhrase": [ "I caught a blue marlin! Listen to this fish. it's got a point." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish58",
@@ -709,6 +757,10 @@
     "spawnRates": "6–10",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "The bluegill is incredibly common. A bit too common, depending upon where you are. They eat anything that fits in their mouths and are highly adaptable. The bane of fishermen in some areas, bluegill is often the only fish to be caught! But looking in its wee beady eyes, I must say I see no ill will in it..."
+    ],
+    "catchPhrase": [ "I caught a bluegill! Do you think it calls me \"pinklung\"?" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish17",
@@ -767,6 +819,10 @@
     "spawnRates": "4–5",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Ah, the butterfly fish is just charming with its beautiful colors and elegant movements. I refer to it as a butterfly fish, but it's actually a grouping in which there are over 100 types! These beautiful aquatic friends swim in schools amid coral, fluttering back and forth with the tides. The sheer awe one must experience when witnessing such a sight. It must be a dream! So much better than actual butterflies..."
+    ],
+    "catchPhrase": [ "I caught a butterfly fish! Did it change from a caterpillar fish?" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish42",
@@ -825,6 +881,10 @@
     "spawnRates": "3–9",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Oh, the carp... have you ever seen their teeth? For your sake, I hope you have not! Carp have teeth in their throat strong enough to crunch on hard things like shells and fingers! A good rule of thumb when dealing with other species is to keep your fingers out of their mouths. Although, having neither thumbs nor fingers, I am quite safe from this little fellow!"
+    ],
+    "catchPhrase": [ "I caught a carp! If I catch another they can carpool!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish5",
@@ -883,6 +943,10 @@
     "spawnRates": "6–8",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Catfish don't have scales and are rather slimy. Believe it or not, this slime helps them breathe! Some species of catfish are nocturnal, and they'll feed on almost anything. They use a suctioning action to pull in their food. Did I mention they can grow as large as you or I?"
+    ],
+    "catchPhrase": [ "I caught a catfish! I'm more of a dogfish person..." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish14",
@@ -941,6 +1005,10 @@
     "spawnRates": "1–4",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "The char is one of the bigger first around the world, and, in the world of fish, that's quite an accomplishment! They are territorial predators, and therefore must constantly defend their 'turf' from others. So when you see a large char like this one, it is likely a skilled fighter and veteran of many battles. My feathers! I hope it never has cause to go into battle with me!"
+    ],
+    "catchPhrase": [ "I caught a char! Now I'm gonna sit on it!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish24",
@@ -999,6 +1067,10 @@
     "spawnRates": "3–9",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "The cherry salmon is related to the salmon, and is known for its distinctive pattern of \"polka dots\". There polka dots disappear as they mature, but ONLY in the first of certain geographic regions. Pity the poor researchers that must make sense of the cherry salmon's fickle fashion sense."
+    ],
+    "catchPhrase": [ "I caught a cherry salmon! It's the perfect topper for a marlin sundae!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish23",
@@ -1057,6 +1129,10 @@
     "spawnRates": "5–6",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Few can deny the delightful qualities of the clown fish. These vibrant fishes make their home among venomous anemones. It's a mutually beneficial arrangement. The clown fish finds safety in the anemone's wriggling arms, as well as leftover scraps of food. In return, clown fish ward off parasites and predators for the anemone. Thus these colorful fish remind us of the importance of maintaining good cheer among our roommates."
+    ],
+    "catchPhrase": [ "I caught a clown fish! How many can fit in a carfish?" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish40",
@@ -1115,6 +1191,10 @@
     "spawnRates": "1–2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The coelacanth is a deep-sea fish that has been around since the age of the dinosaurs. They were long thought extinct, so when living specimens were discovered, it was quite a shock! Now I'll just have to figure out where in the museum to display it— fish or fossils!"
+    ],
+    "catchPhrase": [ "Blast from the past! I caught a coelacanth! Think positive! Be a coela-CAN!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish63",
@@ -1173,6 +1253,10 @@
     "spawnRates": "4–12",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Ohoo! So you have found a crawfish. Neither crab nor lobster, crawfish evolved in an interesting manner. Beware their fearsome pinchy pinchers! Behold their many legs! I say! It is a big bug-like, eh wot...The more I look at it, the more unsettled I feel... Let's be done with this and never speak of it again, shall we?"
+    ],
+    "catchPhrase": [ "I caught a crawfish! Or else it's a lobster and I'm a giant!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish10",
@@ -1231,6 +1315,10 @@
     "spawnRates": "4–12",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "I wonder... Do you know how to tell the difference between a crucian carp and a standard-issue carp? It's quite easy to tell the two apart... One must simply locate the barbels. Or, rather, the lack of them! And just what is a barbel, you ask? Well, a barbel looks a little something like a mustache. A run-of-the-mill carp will sport this unsightly \"facial hair,\" while a crucian carp is considerably better groomed! I tried to grow a mustache when I was younger. It never did fill in quite right... All for the best in the end, as mustaches go so much better with noses than with beaks!"
+    ],
+    "catchPhrase": [ "I caught a crucian carp! My skills are sharp!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish2",
@@ -1289,6 +1377,10 @@
     "spawnRates": "11–14",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "The dab is a flatfish that bears some resemblance to the olive flounder, though their mouths are different. Personally, I am morbidly fascinated by each fish's eye placement. The dab's eyes are both on its right side, while the olive flounder's are on the left. These fish spend lots of time lying on their sides in the sand, so the odd eye placement makes some sense... But its-how can I put this? Creepy? Viscerally disturbing? Profoundly upsetting to fans of symmetry?"
+    ],
+    "catchPhrase": [ "I caught a dab! Not bad!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish50",
@@ -1347,6 +1439,10 @@
     "spawnRates": "3–10",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Dace are shiny little fish that enjoy freshwater streams with gravelly bottoms and plenty of sunlight. What a fishy paradise...until the larger fish move in and begin eating the dace! Sadly, the shiny dace are easy for other fish to spot, which makes them a popular snack. However, this particular specimen here has no need to worry. There's a strict \"No Eating Your Neighbor\" policy at this institution."
+    ],
+    "catchPhrase": [ "I caught a dace! Hope I have some space!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish3",
@@ -1405,6 +1501,10 @@
     "spawnRates": "1–2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "Woo-hoo! So shiny! This massive fish's name, dorado, means \"golden\" in Spanish— a fitting title. They are also quite valuable, I understand. I congratulate you on your top-notch angling! They are rather large, eh wot? It makes one wonder what all they might feed on... Fowl, perhaps?! One quivers at the very thought! Well, it'll be safe behind glass, no doubt. Quite safe, hoo"
+    ],
+    "catchPhrase": [ "I caught a dorado! I say \"dorado,\" you say \"doraydo.\"" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish34",
@@ -1463,6 +1563,10 @@
     "spawnRates": "6",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The football fish is a strange and grotesque deep-sea fish with a lantern-like light on its forehead. Its light is apparently powered by luminous bacteria and other glowing microorganisms. One theory says it can spray these luminescent sidekicks when prey approaches in order to dazzle them...The deep contains many mysteries...as well as some things that are just sort of odd and off-putting."
+    ],
+    "catchPhrase": [ "I caught a football fish! Some countries call it a soccer fish!" ],
     "hhaBasePoints": 71,
     "lightingType": "Emission",
     "iconFilename": "Fish56",
@@ -1521,6 +1625,10 @@
     "spawnRates": "2–5",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "The freshwater goby is an unassuming specimen. But beneath that calm, fish exterior, true gluttony resides! It will eat anything that will fit in its mouth...And its mouth is quite the gaping maw, so I recommend you refrain from drawing attention to yourself!"
+    ],
+    "catchPhrase": [ "I caught a freshwater goby! Time to go bye-bye!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish12",
@@ -1579,6 +1687,10 @@
     "spawnRates": "7–9",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "I understand that frogs converse with fellow frogs through a number of varied calls, as it were. Ribbit! My prince has arrived! Gribbit riiibbit! This pond is tragic! Ribbity rib't! I think you're splendid! Hoo hoo, of course I have no clue what they're saying, but I like to think if I practice enough, I might!"
+    ],
+    "catchPhrase": [ "I caught a frog! Or it's a new neighbor...and I have some apologizing to do." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish11",
@@ -1637,6 +1749,10 @@
     "spawnRates": "1–2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "Hoo hoo! So you have snagged a gar. Did you know this beastly fish can grow up to nine feet long? Indeed, the gar is a remnant of times long past— a living fossil, if you will. It not only has sharp teeth and armor-like scalesn, it has the ability to take breaths of air as well! Ah, to look upon this unusual fish is to get a glimpse of our prehistoric past."
+    ],
+    "catchPhrase": [ "I caught a gar! Yar! It's a gar! Har har!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish35",
@@ -1695,6 +1811,10 @@
     "spawnRates": "2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The giant snakehead is quite a sight to behold, wot! One glance conjurs up visions of its namesake. This resilient creature can even find a home in the mud, where it is able to breathe. As a matter of fact, it dislikes cold weather, so during wintertime the mud serves as its temporary home. I hear that they eat anything that swims past their head. While odd, I feel a sense of owlship with them."
+    ],
+    "catchPhrase": [ "I caught a giant snakehead! Um...but I asked for a medium?" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish16",
@@ -1753,6 +1873,10 @@
     "spawnRates": "1",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The giant trevally, as befits its name, can reach six feet in length and 180 pounds! Its size and strength have made it a favored opponent for anglers since time immemorial. They are also ingenious hunters, sometimes taking advantage of other predators to distract their prey. There have even been documented cases of them attacking —gulp— birds."
+    ],
+    "catchPhrase": [ "I caught a giant trevally! Yeah, I'm pretty well-trevalled." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish70",
@@ -1811,6 +1935,10 @@
     "spawnRates": "1",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "The golden trout is a beautifully colored fish that can only live in very clean waters. They are difficult to come across since they are found only in high mountain streams. As a side note, I find it much easier to appreciate fish that aren't such prima donnas about everything."
+    ],
+    "catchPhrase": [ "I caught a golden trout! But the real treasure? Friendship." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish79",
@@ -1869,6 +1997,10 @@
     "spawnRates": "1–4",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Goldfish are so cute and delicate... but do you know how big they can get? Why, they can grow up to... a foot in length! Well, sometimes. The size of the tank they're kept in tends to restrict their growth. And just how big will this goldfish get in our large museum tank? I look forward to finding out!"
+    ],
+    "catchPhrase": [ "I caught a goldfish! It's worth its weight in fish!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish7",
@@ -1927,6 +2059,10 @@
     "spawnRates": "2",
     "size": "3x2",
     "surface": false,
+    "description": [
+      "Great white sharks are obviously known first and foremost for their biting. They are masters of the craft! They do lose teeth regularly through biting-related activities, but, luckily, those teeth grow back quickly. In fact, their missing teeth can be regrown in a single day. Just imagine their tooth-fairy-related income!"
+    ],
+    "catchPhrase": [ "I caught a great white shark! Watch out for its jaws!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish62",
@@ -1985,6 +2121,10 @@
     "spawnRates": "2–3",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Oh my! Would you look at that! Such a beautiful, snazzy little fellow that guppy is! The shape and coloration of guppy fins are all unique. Quite eye-catching, I must say. Do you imagine they host contests for \"most snazzy\"? And...do you suppose I might receive an invite?"
+    ],
+    "catchPhrase": [ "I caught a guppy! Welcome to the team, newbie!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish29",
@@ -2043,6 +2183,10 @@
     "spawnRates": "1",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The hammerhead shark is known for its distinctive, hammer-shaped head, hence the name. Er, obviously. Anyhoot, this oddly shaped head allows the beast to see 360 degrees around itself, from top to bottom. Imagine being able to see so widely! You could check for untied shoelaces AND imminent rain simultaneously!"
+    ],
+    "catchPhrase": [ "I caught a hammerhead shark! I hit the nail on the head!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish61",
@@ -2101,6 +2245,10 @@
     "spawnRates": "14–21",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Supposedly the horse mackerel derives its name from a-false-myth about its strengh as a swimmer. The gist of it is that these fish are so powerful underwater that smaller fish can ride them as steeds! It's absurd, of course. Where would these alleged fish jockeys attach a saddle, much less horseshoes? One does wish that people would construct their legends with a BIT more scientific plausibility!"
+    ],
+    "catchPhrase": [ "I caught a horse mackerel! Of course, Mack...er...el." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish46",
@@ -2159,6 +2307,10 @@
     "spawnRates": "3–4",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Ah, the magnificent killifish! Did you know there are over 1,000 different species? My own favorite killifish species are the mangrove, which can live on land for weeks, breathing air! And the mummichog, the first fish ever brought to space. I wonder if the killifish you've brought me is related to either those intrepid explorers?"
+    ],
+    "catchPhrase": [ "I caught a killifish! The streams are safe again." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish9",
@@ -2217,6 +2369,10 @@
     "spawnRates": "5",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The king salmon didn't get its name for nothing.This stately fish can weigh in at up to 130 pounds! It's clear why it's referred to as the king of salmon. I imagine even the mightiest net can catch no more than a few at a time.I must say it's a miracle to me that you didn't get dragged out to sea by this one, wot!"
+    ],
+    "catchPhrase": [ "WOO-HOO! I caught a King salmon! Checkmate!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish28",
@@ -2275,6 +2431,10 @@
     "spawnRates": "1–4",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Koi are a variety of carp bred for their color mutations...starting more than a thousand years ago! Well, one glance at their impressive coloring tells you that the centuries of effort were worth it. And even today people still selectively breed koi in search of new color combinations! One marvels at the thought of what the koi may look like in another thousand years."
+    ],
+    "catchPhrase": [ "I caught a koi! I don't know why it's so shy... or such a bad speller..." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish6",
@@ -2333,6 +2493,11 @@
     "spawnRates": "12–16",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Loaches are a large group of bottom-feeding freshwater fish. Because there are so many species, it is difficult to generalize about them all. The one thing they all have in common is perhaps their most unappealing trait",
+      "the name 'loach.' Repellent, isn't it? They should have just called it the 'cockloach' and been done with it, eh wot! Loach...loach... It just tastes terrible in the beak."
+    ],
+    "catchPhrase": [ "I caught a loach! It's...looking at me with reproach." ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish13",
@@ -2391,6 +2556,10 @@
     "spawnRates": "1",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The mahi-mahi is an ocean fish known for its wide, somewhat-cute face. It can reach over six feet long. It is known by different names including \"dolphinfish,\" even though it has no relation to dolphins. They live in only in warm, tropical waters...which perhaps explains the relaxed, happy look on their faces."
+    ],
+    "catchPhrase": [ "I caught a mahi-mahi! It's all mahine-mahine." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish82",
@@ -2449,6 +2618,10 @@
     "spawnRates": "3–5",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "The mitten crab was named for its impossibly adorable and fuzzy little pincers. These cute crustaceans embark on quite the journey. They're first born in brackish waters. Then they mature in freshwater. Finally, they travel to the ocean to create more mitten crabs!Hoo! How I delight in the thought of thousands of tiny mittened crabs scuttling about!"
+    ],
+    "catchPhrase": [ "I caught a mitten crab! One more and I'm ready for winter!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish66",
@@ -2507,6 +2680,10 @@
     "spawnRates": "2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "Despite its rather frightening features, the moray eel is really a very cowardly fish. It lives its life hiding in caves, and will only attack if you're looking for a fight. You've heard of a \"bark that is worse than the bite\"? Well, the moray eel has a face that's worse than its fight!"
+    ],
+    "catchPhrase": [ "I caught a moray eel! When you're in love, that's a moray!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish55",
@@ -2565,6 +2742,10 @@
     "spawnRates": "2–3",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Hoo! Wonderful! The neon tetra is truly a marvel of the tropical-fish world. Just look at how tiny it is! And how very filled with...neon! I imagine its environment must be just as flashy as it is for it to have developed such colors. I wonder how flashy I might be, had I been raised somewhere even half as vibrant?"
+    ],
+    "catchPhrase": [ "I caught a neon tetra! Wasn't hard to track." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish31",
@@ -2623,6 +2804,10 @@
     "spawnRates": "2",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Nibble fish are best known for their use in a certain skin treatment. This treatment has apparently been used for thousands of years. I have never experienced said treatment because they eat your dead skin with their little toothless mouths! Can you imagine anything so repellent?! Please don't ask me any follow-up questions. Hoo."
+    ],
+    "catchPhrase": [ "I caught a nibble fish! Come to think of it, I could use a bite!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish67",
@@ -2681,6 +2866,10 @@
     "spawnRates": "1",
     "size": "3x2",
     "surface": false,
+    "description": [
+      "The oarfish is a long, eel-like fish that can supposedly reach up to 36 feet in length. They appear in various legends as things like messengers of the gods. It seems to me a creature like that could explain the myth of massive, ship-crushing sea serpents. It is, of course, well documented that people tend to exaggerate the size of \"the one that got away\"."
+    ],
+    "catchPhrase": [ "I caught an oarfish! I hope I catch morefish!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish69",
@@ -2739,6 +2928,10 @@
     "spawnRates": "1",
     "size": "2x2",
     "surface": false,
+    "description": [
+      "The ocean sunfish is a large relative of the blowfish with an unusual shape, like a fish head with a tail. They are a fairly relaxed species, often content to ride where the currents take them. This is fortunate as, otherwise, the sight of a large head coming toward you might be alarming!"
+    ],
+    "catchPhrase": [ "I caught an ocean sunfish! Good thing I'm wearing ocean sunscreen!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish60",
@@ -2797,6 +2990,10 @@
     "spawnRates": "4–6",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "Did you know that the olive flounder is the same shape as other fish when it hatches? But as it grows, it gets both wider and flatter, and can reach some three feet long. These flat fish spend much of their lives buried under the sandy ocean floor, waiting for prey to happen by. Imagine the surprise for said prey when they strike. It would be as if your kitchen floor were to bite you."
+    ],
+    "catchPhrase": [ "I caught an olive flounder! That's not the pits!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish51",
@@ -2855,6 +3052,10 @@
     "spawnRates": "6–9",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "The pale chub is a river fish with simple back-and-silver coloring. Interestingly, the males' coloring becomes most vibrant when he's trying to attract a mate! Though normally plain, these fellows really know how to look stylish when they want to. Perhaps I could learn a thing or two from the pale chub..."
+    ],
+    "catchPhrase": [ "I caught a pale chub! That name seems a bit judgy..." ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish1",
@@ -2913,6 +3114,10 @@
     "spawnRates": "1–2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The pike has always reminded me a bit of salmon, although a pike can grow rather larger. These brutes can grow to over four feet long, sometimes MUCH over! Hoo hoo! It is carnivorous and preys not only on other fish, but also mammals and some waterfowl. If I were to ever meet one in the water, I would have a most difficult time keeping my wits about me."
+    ],
+    "catchPhrase": [ "I caught a pike! Think a swordfish would be up for a duel?" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish20",
@@ -2971,6 +3176,10 @@
     "spawnRates": "1–3",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "I am not exactly a fan of the piranha, despite knowing that they're mostly harmless. But those nasty, pointy teeth, Hoo. These infamous little blighters will attack when in groups. Imagine all of those hundreds of tiny teeth! To think that they're floundering about our peaceful waters, just waiting to strike. Well, never fear— I shall keep THIS one under the strictest lock and key, with nary a bathroom break allowed!"
+    ],
+    "catchPhrase": [ "I caught a piranha! Sure hope it was the only one!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish32",
@@ -3029,6 +3238,10 @@
     "spawnRates": "18–20",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "For many, thinking of pond smelt inevitably leads to thoughts of ice fishing in frozen rivers and lakes. Ice fishing involves making a round hole in the ice, dropping in your fishing line, and...waiting. Not to rain on anyone else's idea of fun, but...well, perhaps I shouldn't say anything."
+    ],
+    "catchPhrase": [ "I caught a pond smelt! Whoever smelt it dealt it!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish21",
@@ -3087,6 +3300,10 @@
     "spawnRates": "1–2",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Pop-eyed goldfish have, as the name suggests, huge round eyes. But as babies they look like other goldfish! As they grow, their eyes begin to pop out and they gain their, hoo, distinct appearance... Imagine the poor fish fancier who unknowingly bought one! Their eyes might well pop out just as far!"
+    ],
+    "catchPhrase": [ "I got a pop-eyed goldfish! It looks so...surprised!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish8",
@@ -3145,6 +3362,10 @@
     "spawnRates": "7–8",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Like its cousin the blowfish, when the puffer fish feels threatened it inflates into a spiky balloon. The biggest difference between them is that the puffer fish is not deadly poisonous like its kin. So while it may look scary, the substantially reduced risk to life and limb makes it much better company."
+    ],
+    "catchPhrase": [ "I caught a puffer fish! I thought you would be tougher, fish!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish45",
@@ -3203,6 +3424,10 @@
     "spawnRates": "2–3",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "The rainbowfish is a tropical fish known for its metallic colors and beautiful fins. There are over 50 different species, each unique and pleasing color. I must say, it does make me wish for feathers of a more exciting hue than \"underbaked brownie.\""
+    ],
+    "catchPhrase": [ "I caught a rainbowfish! Where's my pot of goldfish?" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish80",
@@ -3261,6 +3486,10 @@
     "spawnRates": "1–2",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "The ranchu goldfish is a charming relative of the goldfish with a bumpy head and stout, round body. They have ordinary heads when born, but develop impressive rectangular heads after about three years. Supposedly their head shape changes depending on factors like the size of their tank... So ranchu goldfish enthusiasts aim to raise perfectly shaped specimens and work hard to achieve this. Of course, no one asks the ranchu goldfish themselves what shape they want their heads to be..."
+    ],
+    "catchPhrase": [ "I caught a ranchu goldfish! But I prefer balsamicu goldfish!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish85",
@@ -3319,6 +3548,10 @@
     "spawnRates": "2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The ray is an unusually shaped fish with a flat body and a long body, somewhat related to sharks. Seen from the bottom, the mouth on its stomach appears to be smiling, which is objectively adorable. But be cautious—unlike most cute animals, some rays are extremely venomous. BEWARE THE SMILE."
+    ],
+    "catchPhrase": [ "I caught a ray! A few more and I'll have a tan!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish59",
@@ -3377,6 +3610,10 @@
     "spawnRates": "5–7",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Red snapper' is the common name of dozens of fish species, and I wonder why it is so popular. Are there so many types of fish that are both a shade of red and have a tendency to snap? Were there no other names? What about 'burgundy biter'? 'Garnet grasper'? 'Puce pincher'?"
+    ],
+    "catchPhrase": [ "I caught a red snapper! It looks pretty dapper!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish49",
@@ -3435,6 +3672,10 @@
     "spawnRates": "2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The ribbon eel is related to the moray eel, though its bright coloration distinguishes it. It also has an unusual plant-like appendage at the tip of its nose that flutters as the creature moves. I like to think of it as having an extremely friendly nose that waves a greeting to those nearby!"
+    ],
+    "catchPhrase": [ "I caught a ribbon eel! Can it tie itself into a bow?" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish71",
@@ -3493,6 +3734,10 @@
     "spawnRates": "1",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "What an elegant specimen you've found. The saddled bichir has a look entirely its own. They have poor eyesight, so they use their fine-tuned sniffers to seek out prey. Can you imagine relying solely on your sense of smell to find food? And if one nostril became clogged, would you be unable to tell how far away the scent was?"
+    ],
+    "catchPhrase": [ "Wow! A saddled bichir! And me without my tiny riding crop..." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish68",
@@ -3551,6 +3796,10 @@
     "spawnRates": "20",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "Ah, salmon! Did you know their coloration is due specifically to their diet? Indeed, this is the case! The more they fill their diet with crustaceans such as krill and shrimp, the deeper shade of pink they are. If they ate a bushel of carrots, might they turn orange?"
+    ],
+    "catchPhrase": [ "I caught a salmon! It's all upstream from here!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish27",
@@ -3609,6 +3858,10 @@
     "spawnRates": "1",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "As you might expect from the name, the saw shark is a shark with a head that resembles a saw. This unusual appendage is used both to dig potential prey out of the sand and as a weapon against said prey. Given that, it seems like a more appropriate name would have been \"shovel-sword shark,\" eh wot?"
+    ],
+    "catchPhrase": [ "I caught a saw shark! You could call it a sea saw!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish74",
@@ -3667,6 +3920,10 @@
     "spawnRates": "11–18",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "Sea bass is a name given to a variety of different species of saltwater fish. They are a varied bunch with some as small as four inches and some as staggeringly ginormous as eight feet! 'Sea bass' is a bit pedestrian though. Many species have better names, such as 'redbanded perch.' Or the delightfully whimsical dusky grouper! Or the potato cod! WILL NO ONE THINK OF THE PINK MAOMAO?!"
+    ],
+    "catchPhrase": [ "I caught a sea bass! No, wait- it's at least a C+!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish48",
@@ -3725,6 +3982,10 @@
     "spawnRates": "10–11",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Such mystery! Such grace! Did you know that the sea butterfly's scientific name is Thecosomata? A very rough translation of that is 'shell body.' Indeed, this illustrious creature is related to snails! However, it reminds me much more of an elegant feathered friend, the way it flies through the water. With such grace in flying, one shouldn't wonder if it's related to the owl, hoo hoo!"
+    ],
+    "catchPhrase": [ "I caught a sea butterfly! Try not to confuse it for a sea moth!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish37",
@@ -3783,6 +4044,10 @@
     "spawnRates": "5–7",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Ah, a favorite of mine, to be sure! The sea horse is such a very unique creature and is indeed a fish! Though, as far as fish go, sea horses are not great swimmers. The sea horse, you see, has but a wee fin on its back, which propels it through water rather poorly. Thus these fish are often found using their prehensile tails to hold tight in amongst the sea grass. And here's one final fact for you... Sea horses have no stomach and so must constantly feed to stay alive! Indeed, the life of a land horse sounds far easier than that of the hardworking horse of the sea."
+    ],
+    "catchPhrase": [ "I caught a sea horse! But...where's its sea jockey?" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish39",
@@ -3841,6 +4106,10 @@
     "spawnRates": "2–3",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "The snapping turtle is a large turtle known for it's crocodile-like body and long claws. No, wait-- it is better known for it's ferocious bite, which it can deliver with shocking speed for a turtle. NO, WAIT-- it is BEST known for that time one chased me across a parking lot and I had to climb on top of a car."
+    ],
+    "catchPhrase": [ "I caught a snapping turtle! How can it snap without fingers?" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish78",
@@ -3899,6 +4168,13 @@
     "spawnRates": "4",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "These relatives of common turtles will not let go when they decide to bite down on something. Although they can be quite shy, they will become a bit aggressive when threatened. They are often found in water and are very good swimmers because of the flat shape of their shells. They swim with their snouts over the surface of the water so they can breathe. Soft-shelled turtles aren't safe to hold because they are so prone to biting at the slightest movement. However, if one bites down on you, it will usually let go when you put it safely back in the water."
+    ],
+    "catchPhrase": [
+      "I caught a soft-shelled turtle! It's more sensitive than other turtles.",
+      "I caught a soft-shelled turtle! I should take a shellfie!"
+    ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish65",
@@ -3957,6 +4233,14 @@
     "spawnRates": "7–10",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Well, first off, squids are members of the mollusk family, just like the octopus. Many mollusks like snails and clams have shells, but the squid's body is almost completely soft. The exception is a long, narrow bit of hard material going through its main body - the last remnant of its shell. Of course, having your shell INSIDE is not a best practice. Perhaps they lost the owner's manual!"
+    ],
+    "catchPhrase": [
+      "I caught a squid! It's off the hook!",
+      "I caught a squid! I had an inkling I might!",
+      "I caught a squid! Do they... not actually \"bloop\"?"
+    ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish52",
@@ -4015,6 +4299,10 @@
     "spawnRates": "1",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The stringfish grows slowly, but also lives quite a long time for a fish, with up to 15 years being typical. Consequently, while it takes a while, they can get quite large-perhaps even up to six feet long! The stringfish is perhaps the best embodiment in the fish world of 'slow and steady wins the race'"
+    ],
+    "catchPhrase": [ "OH MY GOSH! I caught a stringfish! Five more and I'll have a guitarfish!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish26",
@@ -4073,6 +4361,10 @@
     "spawnRates": "1–4",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The sturgeon is a large and long-lived fish which has changed little in the last 300 million years. One curious behavior of theirs is leaping high out of the water and falling back in on their sides. The smacking sounds of their re-entry can be heard for up to half a mile away, likely more underwater! No one knows why they do it, but I like to think it's their impression of bread popping out of a toaster!"
+    ],
+    "catchPhrase": [ "I caught a sturgeon! Wonder if it can perform sturgery..." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish75",
@@ -4131,6 +4423,10 @@
     "spawnRates": "2",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "The suckerfish is a curious fish that likes to attach itself with its sucker mouth to larger marine animals. The benefit to the suckerfish is that it gets to eat smaller parasites and dead skin off the host's body. Amusingly, some people have used suckerfish on cords to catch large turtles with the fish's own suction! I imagine this practice is the cause of some awkward conversations between fish and turtle, eh wot"
+    ],
+    "catchPhrase": [ "I caught a suckerfish! I thought it was a shark! Oh, wait - now I get it. \"Sucker\"..." ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish83",
@@ -4189,6 +4485,10 @@
     "spawnRates": "2",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Hoo! Careful, now! These fish are particularly dangerous, despite their seemingly docile appearance. With its saturated blue and yellow tones, the surgeonfish is quite breathtaking. It's got to keep up with all the other vibrant fish that live in the coral too, I wager. Quite the competition! Its spine is sharp as a blade, so care must be taken when handling these beauties..."
+    ],
+    "catchPhrase": [ "I caught a surgeonfish! Scalpel! Forceps! Fish hook!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish41",
@@ -4247,6 +4547,10 @@
     "spawnRates": "5–10",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Sweetfish are the damp heralds of summer! These slippery fellows appear in numbers when it warms up. They hatch in a river, then swim to the ocean. Once mature, they return to the river where they were born. But when they return depends on the river temperature— if it's too cold their fishing season will start later. Some even say summer can't start without sweetfish despite the KEY role played by the earth's axial tilt!"
+    ],
+    "catchPhrase": [ "I caught a sweetfish! Hope it's not artificially sweet!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish22",
@@ -4305,6 +4609,10 @@
     "spawnRates": "5–6",
     "size": "1x1",
     "surface": false,
+    "description": [
+      "Undoubtedly you know that tadpoles eventually turn into frogs. I must say, I find them impossibly adorable with their squiggly little tails. But even cuter... when they sprout legs! Why, we can witness accelerated evolution in these squirmy little ones. Hoo, it makes me so emotional!"
+    ],
+    "catchPhrase": [ "I caught a tadpole... It's just a tad small." ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish64",
@@ -4363,6 +4671,10 @@
     "spawnRates": "7–9",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "Wherever the waters are warm, the tilapia can be found. It is a highly adaptable river fish. They mainly feed on algae, but they will also eat larvae and dead fish— or whatever fits in their mouths. I will confess that, as a growing owlet, I similarly defined food as 'anything that fits in my beak.'"
+    ],
+    "catchPhrase": [ "I caught a tilapia! It makes me happy-a!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish76",
@@ -4421,6 +4733,10 @@
     "spawnRates": "2",
     "size": "2x1",
     "surface": true,
+    "description": [
+      "The tuna is a large ocean fish that can reach upwards of nine feet long. Besides its great size, it's notable for continuing to swim even when it's sleeping! Well, to be fair, if it doesn't keep swimming, it won't be able to breathe and will of course die... But sleep should be restful, eh wot! If I were the tuna I would feel very hard done by!"
+    ],
+    "catchPhrase": [ "I caught a tuna! It's a little off-key!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish57",
@@ -4479,6 +4795,10 @@
     "spawnRates": "1",
     "size": "3x2",
     "surface": false,
+    "description": [
+      "The mighty whale shark is the largest species of fish in the world with specimens up to 60 feet long! Unlike many of their kin in the shark family, whale sharks are nonviolent, eating only plankton and such. They grow slowly and live long, relaxed lives of filter feeding and leisure in warm waters. So if you ever have to choose a fish as a roommate, you could do worse than the whale shark. Unless you can't swim."
+    ],
+    "catchPhrase": [ "Thar she blows! I caught a whale shark! I'm tellin' ya, it was thiiiiiiiiiiiiiiiiiiiis big!" ],
     "hhaBasePoints": 71,
     "lightingType": null,
     "iconFilename": "Fish72",
@@ -4537,6 +4857,10 @@
     "spawnRates": "7–10",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "The yellow perch is certainly worth squawking about. I find it a sight to behold! That jagged dorsal fin! Those brilliant stripes! Those glorious colours! Hoo, truly it is quite the specimen. I would be thrilled to witness it firsthand in its natural environment... But the yellow perch's peak season is winter, I'm afraid. (So very afraid... of winter's biting chill...)"
+    ],
+    "catchPhrase": [ "I caught a yellow perch! Those yellow birds have to sit somewhere!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish18",
@@ -4595,6 +4919,10 @@
     "spawnRates": "6–8",
     "size": "1x1",
     "surface": true,
+    "description": [
+      "The sheer brilliance and diversity found in the aquatic underworld never cease to amaze me. This zebra turkeyfish is as stunning to gaze upon as it is deadly. Those spines that are part of its defining physique are chock-full of venom. Fortunately, zebra turkeyfish are not susceptible to another's venom. Though solitary, I imagine they give one another a mean fin bump when passing each other by."
+    ],
+    "catchPhrase": [ "I caught a zebra turkeyfish! Land, air, water--make up your mind!" ],
     "hhaBasePoints": 71,
     "lightingType": "Fluorescent",
     "iconFilename": "Fish44",
