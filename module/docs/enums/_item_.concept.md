@@ -38,7 +38,7 @@
 
 • **Bathroom**: = "bathroom"
 
-*Defined in [Item.ts:138](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L138)*
+*Defined in [Item.ts:138](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L138)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **ChildSRoom**: = "child's room"
 
-*Defined in [Item.ts:139](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L139)*
+*Defined in [Item.ts:139](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L139)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **Concert**: = "concert"
 
-*Defined in [Item.ts:140](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L140)*
+*Defined in [Item.ts:140](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L140)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **Den**: = "den"
 
-*Defined in [Item.ts:141](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L141)*
+*Defined in [Item.ts:141](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L141)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **Expensive**: = "expensive"
 
-*Defined in [Item.ts:142](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L142)*
+*Defined in [Item.ts:142](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L142)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **Facility**: = "facility"
 
-*Defined in [Item.ts:143](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L143)*
+*Defined in [Item.ts:143](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L143)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 • **Fancy**: = "fancy"
 
-*Defined in [Item.ts:144](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L144)*
+*Defined in [Item.ts:144](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L144)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 • **Fitness**: = "fitness"
 
-*Defined in [Item.ts:145](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L145)*
+*Defined in [Item.ts:145](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L145)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 • **FolkArt**: = "folk art"
 
-*Defined in [Item.ts:146](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L146)*
+*Defined in [Item.ts:146](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L146)*
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 • **FreezingCold**: = "freezing cold"
 
-*Defined in [Item.ts:147](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L147)*
+*Defined in [Item.ts:147](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L147)*
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 • **Garage**: = "garage"
 
-*Defined in [Item.ts:148](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L148)*
+*Defined in [Item.ts:148](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L148)*
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 • **Garden**: = "garden"
 
-*Defined in [Item.ts:149](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L149)*
+*Defined in [Item.ts:149](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L149)*
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 • **Horror**: = "horror"
 
-*Defined in [Item.ts:150](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L150)*
+*Defined in [Item.ts:150](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L150)*
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 • **Kitchen**: = "kitchen"
 
-*Defined in [Item.ts:151](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L151)*
+*Defined in [Item.ts:151](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L151)*
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 • **LivingRoom**: = "living room"
 
-*Defined in [Item.ts:152](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L152)*
+*Defined in [Item.ts:152](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L152)*
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 • **Music**: = "music"
 
-*Defined in [Item.ts:153](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L153)*
+*Defined in [Item.ts:153](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L153)*
 
 ___
 
@@ -166,7 +166,7 @@ ___
 
 • **None**: = "none"
 
-*Defined in [Item.ts:154](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L154)*
+*Defined in [Item.ts:154](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L154)*
 
 ___
 
@@ -174,7 +174,7 @@ ___
 
 • **Ocean**: = "ocean"
 
-*Defined in [Item.ts:155](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L155)*
+*Defined in [Item.ts:155](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L155)*
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 • **Office**: = "office"
 
-*Defined in [Item.ts:156](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L156)*
+*Defined in [Item.ts:156](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L156)*
 
 ___
 
@@ -190,7 +190,7 @@ ___
 
 • **Outdoors**: = "outdoors"
 
-*Defined in [Item.ts:157](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L157)*
+*Defined in [Item.ts:157](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L157)*
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 • **Party**: = "party"
 
-*Defined in [Item.ts:158](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L158)*
+*Defined in [Item.ts:158](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L158)*
 
 ___
 
@@ -206,7 +206,7 @@ ___
 
 • **School**: = "school"
 
-*Defined in [Item.ts:159](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L159)*
+*Defined in [Item.ts:159](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L159)*
 
 ___
 
@@ -214,7 +214,7 @@ ___
 
 • **Shop**: = "shop"
 
-*Defined in [Item.ts:160](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L160)*
+*Defined in [Item.ts:160](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L160)*
 
 ___
 
@@ -222,7 +222,7 @@ ___
 
 • **Space**: = "space"
 
-*Defined in [Item.ts:161](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L161)*
+*Defined in [Item.ts:161](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L161)*
 
 ___
 
@@ -230,4 +230,4 @@ ___
 
 • **ZenStyle**: = "zen-style"
 
-*Defined in [Item.ts:162](https://github.com/Norviah/animal-crossing/blob/95a2959/module/types/Item.ts#L162)*
+*Defined in [Item.ts:162](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L162)*
