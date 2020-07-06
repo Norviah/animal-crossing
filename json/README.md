@@ -1,8 +1,8 @@
 ### Structure
 
   - [raw](./raw) contains the JSON files that were downloaded straight from the various spreadsheets, I consider the files raw as they have not been touched,
-  - [data](./data) contains the JSON files after they have been sanitized and edited so working with them can be more friendly and easier, and
-  - [combined](./combined) contains the JSON files combined via categories, which is determined by [this](../src/util/categories.ts) file.
+  - [data](./data) contains the JSON files after they have been sanitized and modified so working with them can be more friendly and easier, and
+  - [combined](./combined) contains the sanitized JSON files combined via categories, which is determined by [this](../src/util/categories.ts) file.
 
 ### Credit
 
