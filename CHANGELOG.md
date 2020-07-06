@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.3.0](https://github.com/Norviah/animal-crossing/compare/v4.2.0...v4.3.0) (2020-07-06)
+
+
+### Features
+
+* **style:** split the description/catchphrases of items into an array ([1959535](https://github.com/Norviah/animal-crossing/commit/1959535da7119398c5f88d920e54d42d322895d8))
+
 ## [4.2.0](https://github.com/Norviah/animal-crossing/compare/v4.1.0...v4.2.0) (2020-07-05)
 
 
