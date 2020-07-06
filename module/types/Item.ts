@@ -66,13 +66,13 @@ export interface Item {
     uses?:                 number;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape;
+    description?:          string[];
     museum?:               Museum;
     highResTexture?:       null;
     genuine?:              boolean;
     category?:             Category;
     realArtworkTitle?:     string;
     artist?:               string;
-    museumDescription?:    string;
 }
 
 export enum CatalogEnum {

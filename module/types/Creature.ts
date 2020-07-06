@@ -12,6 +12,8 @@ export interface Creature {
     spawnRates:           string;
     size:                 Size;
     surface:              boolean;
+    description:          string[];
+    catchPhrase:          string[];
     hhaBasePoints:        number;
     iconFilename:         string;
     critterpediaFilename: string;
