@@ -117,7 +117,7 @@
       "chinese": "米色洋瓦屋顶",
       "chineseTraditional": "米色洋瓦屋頂",
       "japanese": "ベージュのようがわらのやね",
-      "korean": "베이지색 서양식 지붕",
+      "korean": "베이지색 서양식 기와지붕",
       "russian": "кругл. бежевая черепица",
       "plural": false,
       "internalIds": [ "HouseRoofPA04WesterntileF" ]
@@ -396,7 +396,7 @@
       "chinese": "黑色洋瓦屋顶",
       "chineseTraditional": "黑色洋瓦屋頂",
       "japanese": "くろいようがわらのやね",
-      "korean": "검은색 서양식 지붕",
+      "korean": "검은색 서양식 기와지붕",
       "russian": "кругл. черная черепица",
       "plural": false,
       "internalIds": [ "HouseRoofPA04WesterntileH" ]
@@ -923,7 +923,7 @@
       "chinese": "蓝色洋瓦屋顶",
       "chineseTraditional": "藍色洋瓦屋頂",
       "japanese": "あおいようがわらのやね",
-      "korean": "파란색 서양식 지붕",
+      "korean": "파란색 서양식 기와지붕",
       "russian": "кругл. синяя черепица",
       "plural": false,
       "internalIds": [ "HouseRoofPA04WesterntileE" ]
@@ -1667,7 +1667,7 @@
       "chinese": "茶色洋瓦屋顶",
       "chineseTraditional": "茶色洋瓦屋頂",
       "japanese": "ちゃいろいようがわらのやね",
-      "korean": "갈색 서양식 지붕",
+      "korean": "갈색 서양식 기와지붕",
       "russian": "кругл. коричнев. черепица",
       "plural": false,
       "internalIds": [ "HouseRoofPA04WesterntileG" ]
@@ -2481,6 +2481,37 @@
   },
   {
     "sourceSheet": "Construction",
+    "name": "gray stone roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StoneA.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": [ "4th House Upgrade (Right Room)" ],
+    "filename": "HouseRoofPA04StoneA",
+    "uniqueEntryId": "ab33Skrb5b7oeha7y",
+    "translations": {
+      "sourceSheet": "House Roof",
+      "id": 7,
+      "version": "1.0.0",
+      "english": "gray stone roof",
+      "englishEurope": "gray stone roof",
+      "german": "Grau-Steindach",
+      "spanish": "tejado piedra gris",
+      "spanishUs": "tejado piedra gris",
+      "french": "toit en pierre grise",
+      "frenchUs": "toit en pierre grise",
+      "italian": "tetto di pietra grigia",
+      "dutch": "grijze stenen dak",
+      "chinese": "灰色石屋顶",
+      "chineseTraditional": "灰色石屋頂",
+      "japanese": "グレーないしのやね",
+      "korean": "회색 돌 지붕",
+      "russian": "серая каменная крыша",
+      "plural": false,
+      "internalIds": [ "HouseRoofPA04StoneA" ]
+    }
+  },
+  {
+    "sourceSheet": "Construction",
     "name": "gray stucco exterior",
     "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StuccoC.png",
     "buy": 5000,
@@ -2752,7 +2783,7 @@
       "chinese": "绿色洋瓦屋顶",
       "chineseTraditional": "綠色洋瓦屋頂",
       "japanese": "みどりのようがわらのやね",
-      "korean": "초록색 서양식 지붕",
+      "korean": "초록색 서양식 기와지붕",
       "russian": "кругл. зеленая черепица",
       "plural": false,
       "internalIds": [ "HouseRoofPA04WesterntileD" ]
@@ -3253,17 +3284,6 @@
       "plural": false,
       "internalIds": [ "HouseDoorReliefIR" ]
     }
-  },
-  {
-    "sourceSheet": "Construction",
-    "name": "grey stone roof",
-    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StoneA.png",
-    "buy": 5000,
-    "category": "Roofing",
-    "source": [ "4th House Upgrade (Right Room)" ],
-    "filename": "HouseRoofPA04StoneA",
-    "uniqueEntryId": "ab33Skrb5b7oeha7y",
-    "translations": null
   },
   {
     "sourceSheet": "Construction",
@@ -3910,7 +3930,7 @@
       "chinese": "橘色洋瓦屋顶",
       "chineseTraditional": "橘色洋瓦屋頂",
       "japanese": "オレンジいろのようがわらのやね",
-      "korean": "오렌지색 서양식 지붕",
+      "korean": "오렌지색 서양식 기와지붕",
       "russian": "круглая оранж. черепица",
       "plural": false,
       "internalIds": [ "HouseRoofPA04WesterntileA" ]
@@ -4000,7 +4020,7 @@
       "frenchUs": "boîte aux lettres ordinaire",
       "italian": "cassetta posta normale",
       "dutch": "ronde brievenbus",
-      "chinese": "X)普通信箱",
+      "chinese": "普通信箱",
       "chineseTraditional": "普通郵筒",
       "japanese": "ふつうのポスト",
       "korean": "일반 우편함",
@@ -4189,7 +4209,7 @@
       "chinese": "粉红色洋瓦屋顶",
       "chineseTraditional": "粉紅色洋瓦屋頂",
       "japanese": "ピンクなようがわらのやね",
-      "korean": "핑크색 서양식 지붕",
+      "korean": "핑크색 서양식 기와지붕",
       "russian": "кругл. розовая черепица",
       "plural": false,
       "internalIds": [ "HouseRoofPA04WesterntileB" ]
@@ -6855,7 +6875,7 @@
       "chinese": "黄色洋瓦屋顶",
       "chineseTraditional": "黃色洋瓦屋頂",
       "japanese": "きいろいようがわらのやね",
-      "korean": "노란색 서양식 지붕",
+      "korean": "노란색 서양식 기와지붕",
       "russian": "кругл. желтая черепица",
       "plural": false,
       "internalIds": [ "HouseRoofPA04WesterntileC" ]

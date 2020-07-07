@@ -334,7 +334,7 @@
       "german": "Frühlings-Angelturnier",
       "spanish": "T. de Pesca de primavera",
       "spanishUs": "T. de Pesca de primavera",
-      "french": "Tournoi pêche (printemps)",
+      "french": "Tournoi de pêche (printemps)",
       "frenchUs": "Tournoi pêche (printemps)",
       "italian": "Torneo di pesca primaverile",
       "dutch": "Lentevistoernooi",
@@ -397,7 +397,7 @@
       "chinese": "夏至祭典",
       "chineseTraditional": "夏至祭典",
       "japanese": "げしさい夏至祭",
-      "korean": "하지",
+      "korean": "하지 축제",
       "russian": "Праздник лета",
       "plural": false,
       "internalIds": [ "SummerSolstice" ]
@@ -469,7 +469,7 @@
       "chinese": "冬至祭典",
       "chineseTraditional": "冬至祭典",
       "japanese": "とうじさい冬至祭",
-      "korean": "동지",
+      "korean": "동지 축제",
       "russian": "Праздник зимы",
       "plural": false,
       "internalIds": [ "WinterSolstice" ]

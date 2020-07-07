@@ -69387,6 +69387,13 @@
     "sourceSheet": "Construction"
   },
   {
+    "name": "gray stone roof",
+    "uniqueID": "ab33Skrb5b7oeha7y",
+    "id": null,
+    "filename": "HouseRoofPA04StoneA",
+    "sourceSheet": "Construction"
+  },
+  {
     "name": "gray stucco exterior",
     "uniqueID": "niRaBvHzn59TEuTtu",
     "id": null,
@@ -69833,13 +69840,6 @@
     "id": 4812,
     "filename": "RoomTexWallStucco04",
     "sourceSheet": "Wallpaper"
-  },
-  {
-    "name": "grey stone roof",
-    "uniqueID": "ab33Skrb5b7oeha7y",
-    "id": null,
-    "filename": "HouseRoofPA04StoneA",
-    "sourceSheet": "Construction"
   },
   {
     "name": "groovy shirt",
