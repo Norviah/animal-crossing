@@ -7,7 +7,7 @@ export interface Construction {
     source:        Source[];
     filename:      string;
     uniqueEntryId: string;
-    translations:  Translations | null;
+    translations:  Translations;
 }
 
 export enum Category {
