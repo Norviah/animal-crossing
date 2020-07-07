@@ -16,7 +16,7 @@
 
 • **Fish**: = "Fish"
 
-*Defined in [Creature.ts:95](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Creature.ts#L95)*
+*Defined in [Creature.ts:95](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L95)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **Insects**: = "Insects"
 
-*Defined in [Creature.ts:96](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Creature.ts#L96)*
+*Defined in [Creature.ts:96](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L96)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **SeaCreatures**: = "Sea Creatures"
 
-*Defined in [Creature.ts:97](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Creature.ts#L97)*
+*Defined in [Creature.ts:97](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L97)*

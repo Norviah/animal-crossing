@@ -21,7 +21,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Item.ts:337](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L337)*
+*Defined in [Item.ts:337](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Item.ts#L337)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **The110**: = "1.1.0"
 
-*Defined in [Item.ts:338](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L338)*
+*Defined in [Item.ts:338](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Item.ts#L338)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **The110A**: = "1.1.0a"
 
-*Defined in [Item.ts:339](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L339)*
+*Defined in [Item.ts:339](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Item.ts#L339)*
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Item.ts:340](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L340)*
+*Defined in [Item.ts:340](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Item.ts#L340)*
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 • **The120A**: = "1.2.0a"
 
-*Defined in [Item.ts:341](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L341)*
+*Defined in [Item.ts:341](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Item.ts#L341)*
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 • **The120B**: = "1.2.0b"
 
-*Defined in [Item.ts:342](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L342)*
+*Defined in [Item.ts:342](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Item.ts#L342)*
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 • **The121C**: = "1.2.1c"
 
-*Defined in [Item.ts:343](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L343)*
+*Defined in [Item.ts:343](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Item.ts#L343)*
 
 ___
 
@@ -77,4 +77,4 @@ ___
 
 • **The130**: = "1.3.0"
 
-*Defined in [Item.ts:344](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Item.ts#L344)*
+*Defined in [Item.ts:344](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Item.ts#L344)*

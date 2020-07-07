@@ -15,7 +15,7 @@
 
 • **Female**: = "Female"
 
-*Defined in [Villager.ts:79](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Villager.ts#L79)*
+*Defined in [Villager.ts:79](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Villager.ts#L79)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Male**: = "Male"
 
-*Defined in [Villager.ts:80](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Villager.ts#L80)*
+*Defined in [Villager.ts:80](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Villager.ts#L80)*
