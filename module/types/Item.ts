@@ -7,7 +7,7 @@ export interface Item {
     sourceNotes?:          null | string;
     versionAdded?:         Version;
     versionUnlocked?:      Version;
-    catalog?:              boolean | CatalogEnum | null;
+    catalog?:              Catalog | null;
     buy:                   number;
     sell:                  number | null;
     translations:          ItemTranslations | null;
@@ -75,7 +75,7 @@ export interface Item {
     artist?:               string;
 }
 
-export enum CatalogEnum {
+export enum Catalog {
     ForSale = "For sale",
     NotForSale = "Not for sale",
 }
@@ -677,8 +677,8 @@ export enum VfxType {
 export enum WindowColor {
     BlackMetal = "Black Metal",
     DarkWood = "Dark Wood",
-    GreyMetal = "Grey Metal",
-    GreyWood = "Grey Wood",
+    GrayMetal = "Gray Metal",
+    GrayWood = "Gray Wood",
     LightWood = "Light Wood",
     NaturalWood = "Natural Wood",
     WhiteMetal = "White Metal",
