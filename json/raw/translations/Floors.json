@@ -184,7 +184,7 @@
     "Italian": "pavimento con rose",
     "Dutch": "rozenvloer",
     "Chinese": "玫瑰地毯",
-    "Chinese (Traditional)": "玫瑰地毯",
+    "Chinese (Traditional)": "玫瑰地板",
     "Japanese": "バラのじゅうたん",
     "Korean": "장미 카펫 바닥",
     "Russian": "пол с розами"
@@ -351,7 +351,7 @@
     "Spanish": "suelo ratán",
     "Spanish (US)": "suelo ratán",
     "French": "sol jonc",
-    "French (US)": "sol jonc",
+    "French (US)": "sol rotin",
     "Italian": "pavimento di rattan",
     "Dutch": "rotanvloer",
     "Chinese": "藤编地板",
@@ -982,7 +982,7 @@
     "Italian": "pavimento semplice rosso",
     "Dutch": "simpele rode vloer",
     "Chinese": "红色简约地毯",
-    "Chinese (Traditional)": "紅色簡約地毯",
+    "Chinese (Traditional)": "紅色簡約地板",
     "Japanese": "あかいシンプルカーペット",
     "Korean": "빨간 심플 카펫 바닥",
     "Russian": "простой красный пол"
@@ -1001,7 +1001,7 @@
     "Italian": "pavimento semplice blu",
     "Dutch": "simpele blauwe vloer",
     "Chinese": "蓝色简约地毯",
-    "Chinese (Traditional)": "藍色簡約地毯",
+    "Chinese (Traditional)": "藍色簡約地板",
     "Japanese": "あおいシンプルカーペット",
     "Korean": "파란 심플 카펫 바닥",
     "Russian": "простой синий пол"
@@ -1020,7 +1020,7 @@
     "Italian": "pavimento semplice viola",
     "Dutch": "simpele paarse vloer",
     "Chinese": "紫色简约地毯",
-    "Chinese (Traditional)": "紫色簡約地毯",
+    "Chinese (Traditional)": "紫色簡約地板",
     "Japanese": "むらさきのシンプルカーペット",
     "Korean": "보라 심플 카펫 바닥",
     "Russian": "простой фиолет. пол"
@@ -1039,7 +1039,7 @@
     "Italian": "pavimento semplice bianco",
     "Dutch": "simpele witte vloer",
     "Chinese": "白色简约地毯",
-    "Chinese (Traditional)": "白色簡約地毯",
+    "Chinese (Traditional)": "白色簡約地板",
     "Japanese": "しろいシンプルカーペット",
     "Korean": "하얀 심플 카펫 바닥",
     "Russian": "простой белый пол"
@@ -1381,7 +1381,7 @@
     "Italian": "pavimento a pois semplice",
     "Dutch": "grijze stippelvloer",
     "Chinese": "单色配色点点地毯",
-    "Chinese (Traditional)": "灰階配色點點地毯",
+    "Chinese (Traditional)": "灰階配色點點地板",
     "Japanese": "モノクロドットカーペット",
     "Korean": "흑백 도트 카펫 바닥",
     "Russian": "пол в горошек"
@@ -1438,7 +1438,7 @@
     "Italian": "pavimento a pois turchese",
     "Dutch": "groene stippelvloer",
     "Chinese": "薄荷绿点点地毯",
-    "Chinese (Traditional)": "薄荷綠點點地毯",
+    "Chinese (Traditional)": "薄荷綠點點地板",
     "Japanese": "ミントドットカーペット",
     "Korean": "민트 도트 카펫 바닥",
     "Russian": "зеленый пол в горошек"
@@ -1457,7 +1457,7 @@
     "Italian": "pavimento a pois rosso",
     "Dutch": "rode stippelvloer",
     "Chinese": "红色点点全屋地毯",
-    "Chinese (Traditional)": "紅色點點地毯",
+    "Chinese (Traditional)": "紅色點點地板",
     "Japanese": "レッドドットカーペット",
     "Korean": "레드 도트 카펫 바닥",
     "Russian": "красный пол в горошек"
@@ -1476,7 +1476,7 @@
     "Italian": "pavimento a pois blu",
     "Dutch": "blauwe stippelvloer",
     "Chinese": "蓝色点点全屋地毯",
-    "Chinese (Traditional)": "藍色點點地毯",
+    "Chinese (Traditional)": "藍色點點地板",
     "Japanese": "ブルードットカーペット",
     "Korean": "블루 도트 카펫 바닥",
     "Russian": "голубой пол в горошек"
@@ -2179,7 +2179,7 @@
     "Italian": "pav. a scacchi monocromo",
     "Dutch": "effen tapijttegels",
     "Chinese": "单色配色拼接地毯",
-    "Chinese (Traditional)": "灰階配色拼接地毯",
+    "Chinese (Traditional)": "灰階配色拼接地板",
     "Japanese": "モノクロパネルカーペット",
     "Korean": "흑백 패널 카펫 바닥",
     "Russian": "пол из однотон. плитки"
@@ -2198,7 +2198,7 @@
     "Italian": "pav. a scacchi variopinto",
     "Dutch": "kleurrijke tapijttegels",
     "Chinese": "彩色拼接地毯",
-    "Chinese (Traditional)": "彩色拼接地毯",
+    "Chinese (Traditional)": "彩色拼接地板",
     "Japanese": "カラフルパネルカーペット",
     "Korean": "컬러풀 패널 카펫 바닥",
     "Russian": "пол из цветной плитки"
@@ -3034,7 +3034,7 @@
     "Italian": "moquette tigrata",
     "Dutch": "tijgerstreepvloer",
     "Chinese": "老虎纹地毯",
-    "Chinese (Traditional)": "虎紋地毯",
+    "Chinese (Traditional)": "虎紋地板",
     "Japanese": "タイガーなじゅうたん",
     "Korean": "호랑이 카펫 바닥",
     "Russian": "пол с тигровым узором"
@@ -3167,7 +3167,7 @@
     "Italian": "moquette fiori di ciliegio",
     "Dutch": "kersenbloesemvloer",
     "Chinese": "樱花地毯",
-    "Chinese (Traditional)": "櫻花地毯",
+    "Chinese (Traditional)": "櫻花地板",
     "Japanese": "さくらのじゅうたん",
     "Korean": "벚꽃 카펫 바닥",
     "Russian": "пол с лепестками сакуры"

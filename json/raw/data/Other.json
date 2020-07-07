@@ -1234,8 +1234,8 @@
   {
     "SourceSheet": "Other",
     "Name": "communicator",
-    "Inventory Image": "",
-    "Storage Image": "",
+    "Inventory Image": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/PirateQuest.png\")",
+    "Storage Image": "NA",
     "DIY": "No",
     "Stack Size": 10,
     "Buy": "NFS",

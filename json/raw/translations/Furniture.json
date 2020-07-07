@@ -179,7 +179,7 @@
     "German": "Absperrhütchen",
     "Spanish": "cono",
     "Spanish (US)": "cono",
-    "French": "cône orange",
+    "French": "cône",
     "French (US)": "cône",
     "Italian": "cono",
     "Dutch": "verkeerskegel",
@@ -938,7 +938,7 @@
     "English (Europe)": "tea table",
     "German": "Teetischchen",
     "Spanish": "mesita",
-    "Spanish (US)": "mesita",
+    "Spanish (US)": "mesa redonda",
     "French": "table à thé",
     "French (US)": "table à thé",
     "Italian": "tavolo da tè",
@@ -2086,7 +2086,7 @@
     "Chinese": "沙坑",
     "Chinese (Traditional)": "沙坑",
     "Japanese": "すなば",
-    "Korean": "모래사장",
+    "Korean": "모래 놀이 세트",
     "Russian": "песочница"
   },
   {
@@ -3634,7 +3634,7 @@
     "Version": "1.0.0",
     "English": "wooden-block chest",
     "English (Europe)": "wooden-block chest",
-    "German": "Bauklotzregal",
+    "German": "Bauklotzkommode",
     "Spanish": "cómoda construcciones",
     "Spanish (US)": "cómoda construcciones",
     "French": "commode blocs de bois",
@@ -4280,12 +4280,12 @@
     "Version": "1.0.0",
     "English": "trash bags",
     "English (Europe)": "trash bags",
-    "German": "Müll",
-    "Spanish": "basura",
-    "Spanish (US)": "basura",
+    "German": "Müllsack-Set",
+    "Spanish": "par de bolsas de basura",
+    "Spanish (US)": "par de bolsas de basura",
     "French": "duo de sacs poubelle",
     "French (US)": "duo de sacs poubelle",
-    "Italian": "spazzatura",
+    "Italian": "set sacchi per la spazzatura",
     "Dutch": "vuilniszakken",
     "Chinese": "垃圾袋",
     "Chinese (Traditional)": "垃圾袋",
@@ -4670,7 +4670,7 @@
     "Chinese": "签名板",
     "Chinese (Traditional)": "簽名板",
     "Japanese": "しきし",
-    "Korean": "두꺼운 종이",
+    "Korean": "사인지",
     "Russian": "автографы"
   },
   {
@@ -5044,7 +5044,7 @@
     "Spanish": "cómoda de madera",
     "Spanish (US)": "cómoda de madera",
     "French": "commode en bois",
-    "French (US)": "coffre en bois",
+    "French (US)": "commode en bois",
     "Italian": "comò di legno",
     "Dutch": "houten ladekast",
     "Chinese": "木制矮柜",
@@ -7008,7 +7008,7 @@
     "Chinese (Traditional)": "兒童認知海報",
     "Japanese": "がくしゅうポスター",
     "Korean": "공부 포스터",
-    "Russian": "постер «Юный писарь»"
+    "Russian": "постер «Всегда учись»"
   },
   {
     "SourceSheet": "Furniture",
@@ -7444,7 +7444,7 @@
     "Chinese": "纸箱",
     "Chinese (Traditional)": "紙箱",
     "Japanese": "ダンボール",
-    "Korean": "종이 상자",
+    "Korean": "종이 박스",
     "Russian": "картонная коробка"
   },
   {
@@ -7536,8 +7536,8 @@
     "French (US)": "poêle de sauna",
     "Italian": "stufa da sauna",
     "Dutch": "saunaoven",
-    "Chinese": "三温暖电暖炉",
-    "Chinese (Traditional)": "三溫暖電暖爐",
+    "Chinese": "三温暖暖炉",
+    "Chinese (Traditional)": "三溫暖暖爐",
     "Japanese": "サウナストーブ",
     "Korean": "사우나 히터",
     "Russian": "печь для сауны"
@@ -7616,7 +7616,7 @@
     "Chinese (Traditional)": "學習書桌",
     "Japanese": "がくしゅうデスク",
     "Korean": "공부 책상",
-    "Russian": "письменный стол"
+    "Russian": "стол для учебы"
   },
   {
     "SourceSheet": "Furniture",
@@ -7635,7 +7635,7 @@
     "Chinese (Traditional)": "學習椅",
     "Japanese": "がくしゅうチェア",
     "Korean": "공부 의자",
-    "Russian": "стул для письм. стола"
+    "Russian": "стул для учебы"
   },
   {
     "SourceSheet": "Furniture",
@@ -8101,7 +8101,7 @@
     "English (Europe)": "anthurium plant",
     "German": "Flamingoblume",
     "Spanish": "flor del flamenco",
-    "Spanish (US)": "planta de calas rojas",
+    "Spanish (US)": "planta de calas",
     "French": "anthurium",
     "French (US)": "anthurium",
     "Italian": "pianta di anturio",
@@ -11074,7 +11074,7 @@
     "Chinese (Traditional)": "美式足球",
     "Japanese": "アメフトボール",
     "Korean": "럭비공",
-    "Russian": "бейсбольный мяч"
+    "Russian": "мяч для регби"
   },
   {
     "SourceSheet": "Furniture",
@@ -11901,7 +11901,7 @@
     "English (Europe)": "firewood",
     "German": "Feuerholz",
     "Spanish": "pila de leña",
-    "Spanish (US)": "leña",
+    "Spanish (US)": "pila de leña",
     "French": "tas de bûches",
     "French (US)": "tas de bûches",
     "Italian": "legna da ardere",
@@ -12932,8 +12932,8 @@
     "French (US)": "coin neutre",
     "Italian": "angolo neutrale",
     "Dutch": "neutrale hoek",
-    "Chinese": "中性色转角",
-    "Chinese (Traditional)": "中性色轉角",
+    "Chinese": "中立转角",
+    "Chinese (Traditional)": "中立轉角",
     "Japanese": "ニュートラルコーナー",
     "Korean": "뉴트럴 링 모서리",
     "Russian": "нейтральный угол"
@@ -13764,8 +13764,8 @@
     "German": "Blumenständer",
     "Spanish": "arreglo floral con pie",
     "Spanish (US)": "arreglo floral con pie",
-    "French": "stand de fleurs",
-    "French (US)": "stand de fleurs",
+    "French": "support de fleurs",
+    "French (US)": "support de fleurs",
     "Italian": "portafiori",
     "Dutch": "bloemenstaander",
     "Chinese": "立花篮",
@@ -14105,7 +14105,7 @@
     "English (Europe)": "kitty litter box",
     "German": "Katzenklo",
     "Spanish": "inodoro para mascotas",
-    "Spanish (US)": "inodoro para mascotas",
+    "Spanish (US)": "caja de arena",
     "French": "bac à litière",
     "French (US)": "bac à litière",
     "Italian": "lettiera per gatti",
@@ -14167,8 +14167,8 @@
     "French (US)": "glacière décorée",
     "Italian": "frigo portatile",
     "Dutch": "bestickerde koelbox",
-    "Chinese": "鱿鱼型保冷箱",
-    "Chinese (Traditional)": "魷型保冷箱",
+    "Chinese": "有型保冷箱",
+    "Chinese (Traditional)": "有型保冷箱",
     "Japanese": "イカすクーラーボックス",
     "Korean": "멋진 아이스박스",
     "Russian": "термоконтейнер"
@@ -14485,7 +14485,7 @@
     "English (Europe)": "garden wagon",
     "German": "Blumen-Bollerwagen",
     "Spanish": "carro de flores",
-    "Spanish (US)": "carro de flores",
+    "Spanish (US)": "carreta de flores",
     "French": "brouette décorative",
     "French (US)": "brouette décorative",
     "Italian": "carretto con fiori",
@@ -16031,7 +16031,7 @@
     "Dutch": "fossielenplaket",
     "Chinese": "化石挂饰",
     "Chinese (Traditional)": "化石壁飾",
-    "Japanese": "カセキのかべかざり",
+    "Japanese": "かせきのかべかざり",
     "Korean": "화석 벽장식",
     "Russian": "доска «Окаменелости»"
   },
