@@ -19,7 +19,7 @@
 
 • **north**: *[North](_creature_.north.md)*
 
-*Defined in [Creature.ts:50](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Creature.ts#L50)*
+*Defined in [Creature.ts:50](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L50)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **south**: *[North](_creature_.north.md)*
 
-*Defined in [Creature.ts:51](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Creature.ts#L51)*
+*Defined in [Creature.ts:51](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L51)*

@@ -27,7 +27,7 @@
 
 • **Beige**: = "beige"
 
-*Defined in [Recipe.ts:23](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L23)*
+*Defined in [Recipe.ts:23](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L23)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Blue**: = "blue"
 
-*Defined in [Recipe.ts:24](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L24)*
+*Defined in [Recipe.ts:24](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L24)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **Brick**: = "brick"
 
-*Defined in [Recipe.ts:25](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L25)*
+*Defined in [Recipe.ts:25](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L25)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **Brown**: = "brown"
 
-*Defined in [Recipe.ts:26](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L26)*
+*Defined in [Recipe.ts:26](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L26)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **DarkGray**: = "dark gray"
 
-*Defined in [Recipe.ts:27](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L27)*
+*Defined in [Recipe.ts:27](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L27)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **Gold**: = "gold"
 
-*Defined in [Recipe.ts:28](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L28)*
+*Defined in [Recipe.ts:28](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L28)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **Green**: = "green"
 
-*Defined in [Recipe.ts:29](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L29)*
+*Defined in [Recipe.ts:29](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L29)*
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 • **LightGray**: = "light gray"
 
-*Defined in [Recipe.ts:30](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L30)*
+*Defined in [Recipe.ts:30](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L30)*
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 • **Orange**: = "orange"
 
-*Defined in [Recipe.ts:31](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L31)*
+*Defined in [Recipe.ts:31](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L31)*
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 • **Pink**: = "pink"
 
-*Defined in [Recipe.ts:32](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L32)*
+*Defined in [Recipe.ts:32](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L32)*
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 • **Red**: = "red"
 
-*Defined in [Recipe.ts:33](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L33)*
+*Defined in [Recipe.ts:33](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L33)*
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 • **Silver**: = "silver"
 
-*Defined in [Recipe.ts:34](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L34)*
+*Defined in [Recipe.ts:34](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L34)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 • **White**: = "white"
 
-*Defined in [Recipe.ts:35](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L35)*
+*Defined in [Recipe.ts:35](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L35)*
 
 ___
 
@@ -131,4 +131,4 @@ ___
 
 • **Yellow**: = "yellow"
 
-*Defined in [Recipe.ts:36](https://github.com/Norviah/animal-crossing/blob/87636f7/module/types/Recipe.ts#L36)*
+*Defined in [Recipe.ts:36](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Recipe.ts#L36)*
