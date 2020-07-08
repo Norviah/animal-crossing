@@ -15,7 +15,7 @@
 
 • **ForSale**: = "For sale"
 
-*Defined in [Item.ts:79](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Item.ts#L79)*
+*Defined in [Item.ts:81](https://github.com/Norviah/animal-crossing/blob/caec6ad/module/types/Item.ts#L81)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **NotForSale**: = "Not for sale"
 
-*Defined in [Item.ts:80](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Item.ts#L80)*
+*Defined in [Item.ts:82](https://github.com/Norviah/animal-crossing/blob/caec6ad/module/types/Item.ts#L82)*

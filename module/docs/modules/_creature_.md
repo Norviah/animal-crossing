@@ -6,6 +6,7 @@
 
 ### Enumerations
 
+* [CatchDifficulty](../enums/_creature_.catchdifficulty.md)
 * [Color](../enums/_creature_.color.md)
 * [CreatureSourceSheet](../enums/_creature_.creaturesourcesheet.md)
 * [LightingType](../enums/_creature_.lightingtype.md)
@@ -14,6 +15,7 @@
 * [Size](../enums/_creature_.size.md)
 * [TranslationsSourceSheet](../enums/_creature_.translationssourcesheet.md)
 * [Version](../enums/_creature_.version.md)
+* [Vision](../enums/_creature_.vision.md)
 * [Weather](../enums/_creature_.weather.md)
 
 ### Interfaces

@@ -7,12 +7,11 @@
 ### Enumeration members
 
 * [Large](_creature_.shadow.md#large)
-* [LargeWFin](_creature_.shadow.md#largewfin)
 * [Long](_creature_.shadow.md#long)
 * [Medium](_creature_.shadow.md#medium)
-* [MediumWFin](_creature_.shadow.md#mediumwfin)
 * [Small](_creature_.shadow.md#small)
 * [XLarge](_creature_.shadow.md#xlarge)
+* [XLargeWFin](_creature_.shadow.md#xlargewfin)
 * [XSmall](_creature_.shadow.md#xsmall)
 * [XXLarge](_creature_.shadow.md#xxlarge)
 
@@ -22,15 +21,7 @@
 
 • **Large**: = "Large"
 
-*Defined in [Creature.ts:76](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L76)*
-
-___
-
-###  LargeWFin
-
-• **LargeWFin**: = "Large w/Fin"
-
-*Defined in [Creature.ts:77](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L77)*
+*Defined in [Creature.ts:86](https://github.com/Norviah/animal-crossing/blob/caec6ad/module/types/Creature.ts#L86)*
 
 ___
 
@@ -38,7 +29,7 @@ ___
 
 • **Long**: = "Long"
 
-*Defined in [Creature.ts:78](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L78)*
+*Defined in [Creature.ts:87](https://github.com/Norviah/animal-crossing/blob/caec6ad/module/types/Creature.ts#L87)*
 
 ___
 
@@ -46,15 +37,7 @@ ___
 
 • **Medium**: = "Medium"
 
-*Defined in [Creature.ts:79](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L79)*
-
-___
-
-###  MediumWFin
-
-• **MediumWFin**: = "Medium w/Fin"
-
-*Defined in [Creature.ts:80](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L80)*
+*Defined in [Creature.ts:88](https://github.com/Norviah/animal-crossing/blob/caec6ad/module/types/Creature.ts#L88)*
 
 ___
 
@@ -62,7 +45,7 @@ ___
 
 • **Small**: = "Small"
 
-*Defined in [Creature.ts:81](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L81)*
+*Defined in [Creature.ts:89](https://github.com/Norviah/animal-crossing/blob/caec6ad/module/types/Creature.ts#L89)*
 
 ___
 
@@ -70,7 +53,15 @@ ___
 
 • **XLarge**: = "X-Large"
 
-*Defined in [Creature.ts:82](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L82)*
+*Defined in [Creature.ts:90](https://github.com/Norviah/animal-crossing/blob/caec6ad/module/types/Creature.ts#L90)*
+
+___
+
+###  XLargeWFin
+
+• **XLargeWFin**: = "X-Large w/Fin"
+
+*Defined in [Creature.ts:91](https://github.com/Norviah/animal-crossing/blob/caec6ad/module/types/Creature.ts#L91)*
 
 ___
 
@@ -78,7 +69,7 @@ ___
 
 • **XSmall**: = "X-Small"
 
-*Defined in [Creature.ts:83](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L83)*
+*Defined in [Creature.ts:92](https://github.com/Norviah/animal-crossing/blob/caec6ad/module/types/Creature.ts#L92)*
 
 ___
 
@@ -86,4 +77,4 @@ ___
 
 • **XXLarge**: = "XX-Large"
 
-*Defined in [Creature.ts:84](https://github.com/Norviah/animal-crossing/blob/68cfe98/module/types/Creature.ts#L84)*
+*Defined in [Creature.ts:93](https://github.com/Norviah/animal-crossing/blob/caec6ad/module/types/Creature.ts#L93)*
