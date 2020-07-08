@@ -68,6 +68,10 @@ const duplicateValues: string[] = [
   'labelThemes',
   'source',
   'style',
+  'hhaSeries',
+  'hhaSet',
+  'themesTranslations',
+  'seriesTranslations',
 ];
 
 // Some items in the various spreadsheets have multiple values for them, for
@@ -124,13 +128,13 @@ for (const file of files) {
     // represents the keys of the object and the second represents the values.
     const object = zipObject(keys, values);
 
-    // Set the item's translation, if one can be found.
-    translate(object);
-
     // Separate specific values from the object.
     for (const value of separateValues) {
       if (object[value]) object[value] = separate(object[value], ';');
     }
+
+    // Set the item's translation, if one can be found.
+    translate(object);
 
     sanitized.push(object);
 
