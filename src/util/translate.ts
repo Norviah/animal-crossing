@@ -1,4 +1,5 @@
 import { join } from 'path';
+import { zipObject } from 'lodash';
 
 import { directories } from './directories';
 import { get } from './get';
@@ -14,6 +15,20 @@ const translations: obj[] = get(join(directories.sanitized, 'Translations.json')
 // it has the same IDs, we'll ignore these tabs so we don't accidentally set the
 // translations from these tabs, rather than the tabs we want.
 const ignore: string[] = ['Furniture Variants', 'Furniture Patterns'];
+
+/**
+ * Finds a translation with the given name.
+ * @param  name   The name to find a translation for.
+ * @param  sheets Optional, represents sheets to only consider for translations.
+ * @return        The translation for the name, or null if one can't be found.
+ */
+function findTranslation(name: string, sheets?: string[]): obj | null {
+  const translation = translations.find(
+    (translation) => translation.english === name && (sheets ? sheets.includes(translation.sourceSheet) : true)
+  );
+
+  return translation ?? null;
+}
 
 /**
  * Sets the translations for the given item.
@@ -53,6 +68,22 @@ function translate(item: obj): void {
   // And do the same for the item's pattern.
   if (item.hasOwnProperty('pattern')) {
     item.patternTranslations = options.find((translation) => item.pattern === translation.english) ?? null;
+  }
+
+  // Set translations for each theme of the item.
+  if (item.hasOwnProperty('labelThemes')) {
+    // As labelThemes is an array of themes, we'll initialize an array of
+    // translations for each theme within the array.
+    const trans = item.labelThemes.map((theme: string) => findTranslation(theme, ['Fashion Themes']));
+
+    // Using lodash, we'll initialize an object containing the translations
+    // for each theme with each theme as the key.
+    item.themesTranslations = zipObject(item.labelThemes, trans);
+  }
+
+  // Set translations for the itme's series.
+  if (item.hasOwnProperty('hhaSeries')) {
+    item.seriesTranslations = item.hhaSeries ? findTranslation(item.hhaSeries, ['HHA Themes']) : null;
   }
 
   // Each recipe has an entry, 'craftedItemInternalId', which represents the
