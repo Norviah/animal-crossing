@@ -40,7 +40,7 @@ function sanitize(object: obj): void {
   }
 
   if (object.hasOwnProperty('style')) {
-    object.styles = object.style.split('/; /g');
+    object.styles = object.style;
   }
 
   if (object.hasOwnProperty('source')) {
