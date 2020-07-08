@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.5.0](https://github.com/Norviah/animal-crossing/compare/v4.4.0...v4.5.0) (2020-07-08)
+
+
+### Features
+
+* **items:** added translations for the series/themes of items ([f4f077d](https://github.com/Norviah/animal-crossing/commit/f4f077deabea17f32fef0b99201c4d0052373950))
+* **items:** make sure that items other than furnitures have translations for their pattern/variation ([93b25b1](https://github.com/Norviah/animal-crossing/commit/93b25b1d096739d1d5c1f1e7ebaf84dcfe7e11f2))
+
+
+### Bug Fixes
+
+* **items:** correctly set translations for patterns ([caec6ad](https://github.com/Norviah/animal-crossing/commit/caec6ada78d9ca29745e9e0e9f594312eac698ba))
+
 ## [4.4.0](https://github.com/Norviah/animal-crossing/compare/v4.3.0...v4.4.0) (2020-07-07)
 
 ## [4.3.0](https://github.com/Norviah/animal-crossing/compare/v4.2.0...v4.3.0) (2020-07-06)
