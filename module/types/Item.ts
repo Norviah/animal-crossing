@@ -11,6 +11,7 @@ export interface Item {
     buy:                   number;
     sell:                  number | null;
     translations:          ItemTranslations | null;
+    themesTranslations?:   ThemesTranslations;
     variations?:           VariationElement[];
     styles?:               Style[];
     sources:               string[];
@@ -44,9 +45,10 @@ export interface Item {
     lightingType?:         LightingType | null;
     variantId?:            VariantID | null;
     patternTranslations?:  Translations | null;
+    seriesTranslations?:   SeriesTranslations | null;
     concepts?:             Concept[];
-    set?:                  ItemSet | null;
-    series?:               Series | null;
+    set?:                  null | string;
+    series?:               null | string;
     customize?:            boolean;
     framedImage?:          null | string;
     albumImage?:           null | string;
@@ -194,10 +196,10 @@ export enum PaneType {
 }
 
 export interface Translations {
-    sourceSheet:        PatternTranslationsSourceSheet;
-    variantId:          number;
-    id:                 string;
-    furnitureName:      string;
+    sourceSheet?:       PatternTranslationsSourceSheet;
+    variantId?:         number;
+    id?:                string;
+    furnitureName?:     string;
     english:            string;
     englishEurope:      string;
     german:             string;
@@ -213,7 +215,7 @@ export interface Translations {
     korean:             string;
     russian:            string;
     plural:             boolean;
-    internalIds:        number[];
+    internalIds?:       number[];
 }
 
 export enum PatternTranslationsSourceSheet {
@@ -358,43 +360,30 @@ export enum SecondaryShape {
     N = "N",
 }
 
-export enum Series {
-    Antique = "antique",
-    Bamboo = "bamboo",
-    BunnyDay = "Bunny Day",
-    Cardboard = "cardboard",
-    CherryBlossoms = "cherry blossoms",
-    Cute = "cute",
-    Diner = "diner",
-    Festive = "festive",
-    Flowers = "flowers",
-    Frozen = "frozen",
-    Fruits = "fruits",
-    Golden = "golden",
-    Iron = "iron",
-    Ironwood = "ironwood",
-    Log = "log",
-    Mermaid = "mermaid",
-    Motherly = "motherly",
-    Mush = "mush",
-    Pirate = "pirate",
-    Rattan = "rattan",
-    Shell = "shell",
-    Stars = "stars",
-    Throwback = "throwback",
-    TreeSBountyOrLeaves = "tree's bounty or leaves ",
-    Wedding = "wedding",
-    Wooden = "wooden",
-    WoodenBlock = "wooden block",
-    Zen = "zen",
+export interface SeriesTranslations {
+    sourceSheet:        SeriesTranslationsSourceSheet;
+    id:                 number;
+    version:            Version;
+    english:            string;
+    englishEurope:      string;
+    german:             string;
+    spanish:            string;
+    spanishUs:          string;
+    french:             string;
+    frenchUs:           string;
+    italian:            string;
+    dutch:              string;
+    chinese:            string;
+    chineseTraditional: string;
+    japanese:           string;
+    korean:             string;
+    russian:            string;
+    plural:             boolean;
+    internalIds:        any[];
 }
 
-export enum ItemSet {
-    ColorfulTools = "Colorful Tools",
-    OutdoorTools = "Outdoor Tools",
-    Panda = "panda",
-    SportsRing = "sports ring",
-    Stone = "stone",
+export enum SeriesTranslationsSourceSheet {
+    HHAThemes = "HHA Themes",
 }
 
 export enum Size {
@@ -460,6 +449,202 @@ export enum Theme {
     Theatrical = "theatrical",
     Vacation = "vacation",
     Work = "work",
+}
+
+export interface ThemesTranslations {
+    party?:        Comfy;
+    everyday?:     Comfy;
+    comfy?:        Comfy;
+    outdoorsy?:    Comfy;
+    vacation?:     Comfy;
+    "fairy tale"?: Comfy;
+    theatrical?:   Comfy;
+    work?:         Comfy;
+    sporty?:       Comfy;
+    formal?:       Comfy;
+    goth?:         Comfy;
+}
+
+export interface Comfy {
+    sourceSheet:        ComfySourceSheet;
+    id:                 IDEnum;
+    version:            Version;
+    english:            Theme;
+    englishEurope:      Theme;
+    german:             German;
+    spanish:            Spanish;
+    spanishUs:          Spanish;
+    french:             French;
+    frenchUs:           French;
+    italian:            Italian;
+    dutch:              Dutch;
+    chinese:            Chinese;
+    chineseTraditional: ChineseTraditional;
+    japanese:           Japanese;
+    korean:             Korean;
+    russian:            Russian;
+    plural:             boolean;
+    internalIds:        IDEnum[];
+}
+
+export enum Chinese {
+    休闲 = "休闲",
+    工作 = "工作",
+    度假 = "度假",
+    恐怖 = "恐怖",
+    户外 = "户外",
+    日常 = "日常",
+    正式 = "正式",
+    派对 = "派对",
+    童话世界 = "童话世界",
+    舞台 = "舞台",
+    运动 = "运动",
+}
+
+export enum ChineseTraditional {
+    工作 = "工作",
+    度假 = "度假",
+    恐怖 = "恐怖",
+    悠閒 = "悠閒",
+    戶外活動 = "戶外活動",
+    日常生活 = "日常生活",
+    正式 = "正式",
+    派對 = "派對",
+    童話世界 = "童話世界",
+    舞台 = "舞台",
+    運動 = "運動",
+}
+
+export enum Dutch {
+    AlledaagsThema = "alledaags thema",
+    Feestthema = "feestthema",
+    FormeThema = "forme thema",
+    Griezelthema = "griezelthema",
+    Podiumthema = "podiumthema",
+    Sportthema = "sportthema",
+    Sprookjesthema = "sprookjesthema",
+    Vakantiethema = "vakantiethema",
+    Vrijetijdsthema = "vrijetijdsthema",
+    WeersbestendigThema = "weersbestendig thema",
+    Werkthema = "werkthema",
+}
+
+export enum French {
+    TenueDExtérieur = "tenue d'extérieur",
+    TenueDeDétente = "tenue de détente",
+    TenueDeFête = "tenue de fête",
+    TenueDeScène = "tenue de scène",
+    TenueDeTousLesJours = "tenue de tous les jours",
+    TenueDeVacances = "tenue de vacances",
+    TenueEffrayante = "tenue effrayante",
+    TenueFéerique = "tenue féerique",
+    TenueFéérique = "tenue féérique",
+    TenueOfficielle = "tenue officielle",
+    TenueProfessionnelle = "tenue professionnelle",
+    TenueSport = "tenue sport",
+}
+
+export enum German {
+    Alltagskleidung = "Alltagskleidung",
+    Arbeitskleidung = "Arbeitskleidung",
+    Bühnenkleidung = "Bühnenkleidung",
+    Formellkleidung = "Formellkleidung",
+    Freizeitkleidung = "Freizeitkleidung",
+    Horrorkleidung = "Horrorkleidung",
+    Märchenkleidung = "Märchenkleidung",
+    Outdoorkleidung = "Outdoorkleidung",
+    Partykleidung = "Partykleidung",
+    Sportkleidung = "Sportkleidung",
+    Urlaubskleidung = "Urlaubskleidung",
+}
+
+export enum IDEnum {
+    Daily = "Daily",
+    Fairyland = "Fairyland",
+    Fomal = "Fomal",
+    Horror = "Horror",
+    Outdoor = "Outdoor",
+    Party = "Party",
+    Relax = "Relax",
+    Sport = "Sport",
+    Stage = "Stage",
+    Vacation = "Vacation",
+    Work = "Work",
+}
+
+export enum Italian {
+    Confortevole = "confortevole",
+    DaAriaAperta = "da aria aperta",
+    DaFesta = "da festa",
+    DaFiaba = "da fiaba",
+    DaLavoro = "da lavoro",
+    DaSport = "da sport",
+    DaTeatro = "da teatro",
+    DaVacanza = "da vacanza",
+    Formale = "formale",
+    Horror = "horror",
+    PerTuttiIGiorni = "per tutti i giorni",
+}
+
+export enum Japanese {
+    おしごと仕事 = "おしごと仕事",
+    アウトドア = "アウトドア",
+    ステージ = "ステージ",
+    スポーツ = "スポーツ",
+    デイリー = "デイリー",
+    バカンス = "バカンス",
+    パーティー = "パーティー",
+    フォーマル = "フォーマル",
+    ホラー = "ホラー",
+    メルヘン = "メルヘン",
+    リラックス = "リラックス",
+}
+
+export enum Korean {
+    데일리 = "데일리",
+    릴랙스 = "릴랙스",
+    메르헨 = "메르헨",
+    바캉스 = "바캉스",
+    비즈니스 = "비즈니스",
+    스테이지 = "스테이지",
+    스포츠 = "스포츠",
+    아웃도어 = "아웃도어",
+    파티 = "파티",
+    포멀 = "포멀",
+    호러 = "호러",
+}
+
+export enum Russian {
+    Готический = "готический",
+    Отпускной = "отпускной",
+    Повседневный = "повседневный",
+    Походный = "походный",
+    Праздничный = "праздничный",
+    Рабочий = "рабочий",
+    Спортивный = "спортивный",
+    Удобный = "удобный",
+    Фантазийный = "фантазийный",
+    Формальный = "формальный",
+    Эффектный = "эффектный",
+}
+
+export enum ComfySourceSheet {
+    FashionThemes = "Fashion Themes",
+}
+
+export enum Spanish {
+    Casual = "casual",
+    DeActividadesAlAireLibre = "de actividades al aire libre",
+    DeFantasía = "de fantasía",
+    DeFiesta = "de fiesta",
+    Deportivo = "deportivo",
+    Desenfadado = "desenfadado",
+    Formal = "formal",
+    Gótico = "gótico",
+    Profesional = "profesional",
+    Teatral = "teatral",
+    Todoterreno = "todoterreno",
+    Vacacional = "vacacional",
 }
 
 export interface ItemTranslations {
@@ -596,8 +781,6 @@ export interface VariationElement {
     patternTranslations?:  Translations | null;
     surface?:              boolean;
     concepts?:             Concept[];
-    set?:                  VariationSet | null;
-    series?:               Series | null;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
     doorDeco?:             boolean;
@@ -647,25 +830,6 @@ export enum PatternTitle {
     Tablecloth = "Tablecloth",
     Towel = "Towel",
     Tray = "Tray",
-}
-
-export enum VariationSet {
-    Apple = "apple",
-    Bear = "bear",
-    Birthday = "birthday",
-    Cherry = "cherry",
-    Den = "den",
-    ImperialDining = "imperial dining",
-    LectureHall = "lecture hall",
-    Natural = "natural",
-    Office = "office",
-    Orange = "orange",
-    Peach = "peach",
-    Pear = "pear",
-    Pet = "pet",
-    School = "school",
-    Standee = "standee",
-    Study = "study",
 }
 
 export enum VfxType {

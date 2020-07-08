@@ -28,6 +28,16 @@ export interface Creature {
     lightingType?:        LightingType | null;
     versionAdded?:        Version;
     versionUnlocked?:     Version;
+    catchDifficulty?:     CatchDifficulty;
+    vision?:              Vision;
+}
+
+export enum CatchDifficulty {
+    Easy = "Easy",
+    Hard = "Hard",
+    Medium = "Medium",
+    VeryEasy = "Very Easy",
+    VeryHard = "Very Hard",
 }
 
 export enum Color {
@@ -74,12 +84,11 @@ export enum MovementSpeed {
 
 export enum Shadow {
     Large = "Large",
-    LargeWFin = "Large w/Fin",
     Long = "Long",
     Medium = "Medium",
-    MediumWFin = "Medium w/Fin",
     Small = "Small",
     XLarge = "X-Large",
+    XLargeWFin = "X-Large w/Fin",
     XSmall = "X-Small",
     XXLarge = "XX-Large",
 }
@@ -128,6 +137,14 @@ export enum TranslationsSourceSheet {
 export enum Version {
     The100 = "1.0.0",
     The130 = "1.3.0",
+}
+
+export enum Vision {
+    Medium = "Medium",
+    Narrow = "Narrow",
+    VeryNarrow = "Very Narrow",
+    VeryWide = "Very Wide",
+    Wide = "Wide",
 }
 
 export enum Weather {
