@@ -17,6 +17,27 @@
     "filename": "RoomTexFloorEaster00",
     "internalId": 12423,
     "uniqueEntryId": "Q9QJSyTM3AzAWLBvD",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 27,
+      "version": "1.1.0",
+      "english": "Bunny Day",
+      "englishEurope": "Bunny Day",
+      "german": "Häschentag",
+      "spanish": "Caza del Huevo",
+      "spanishUs": "Caza del Huevo",
+      "french": "Fête des œufs",
+      "frenchUs": "Fête des œufs",
+      "italian": "caccia all'uovo",
+      "dutch": "eierstijl",
+      "chinese": "复活节",
+      "chineseTraditional": "復活節",
+      "japanese": "イースター",
+      "korean": "이스터",
+      "russian": "День зайцев",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_12423",
@@ -108,6 +129,7 @@
     "filename": "RoomTexFloorFirst00",
     "internalId": 6005,
     "uniqueEntryId": "tHvrMW72TDM3ezhRx",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_06005",
@@ -153,6 +175,7 @@
     "filename": "RoomTexFloorDesert00",
     "internalId": 4983,
     "uniqueEntryId": "7cH3CsBAarxRhAkZ5",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04983",
@@ -198,6 +221,7 @@
     "filename": "RoomTexFloorTile01",
     "internalId": 5036,
     "uniqueEntryId": "JmNGqRhEow3PH7bgk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05036",
@@ -243,6 +267,7 @@
     "filename": "RoomTexFloorArabesque00",
     "internalId": 4953,
     "uniqueEntryId": "4dabyuetmZD5dDdCH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04953",
@@ -288,6 +313,7 @@
     "filename": "RoomTexFloorArchBrick00",
     "internalId": 4998,
     "uniqueEntryId": "CSPoYJzCnzWjqWrj5",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04998",
@@ -333,6 +359,7 @@
     "filename": "RoomTexFloorTileWood00",
     "internalId": 4994,
     "uniqueEntryId": "BH8PqRSou2XjQ8ppQ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04994",
@@ -378,6 +405,7 @@
     "filename": "RoomTexFloorParquetArt00",
     "internalId": 5232,
     "uniqueEntryId": "fbfCzw546bWEF95Aq",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05232",
@@ -423,6 +451,7 @@
     "filename": "RoomTexFloorLawn00",
     "internalId": 4979,
     "uniqueEntryId": "kANgKb2s4a6pMSjnd",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04979",
@@ -507,6 +536,27 @@
     "filename": "RoomTexFloorBamboo00",
     "internalId": 4964,
     "uniqueEntryId": "gMeLjZdPobbrt58sT",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 10,
+      "version": "1.0.0",
+      "english": "bamboo",
+      "englishEurope": "bamboo",
+      "german": "Bambus",
+      "spanish": "bambú",
+      "spanishUs": "bambú",
+      "french": "bambou",
+      "frenchUs": "bambou",
+      "italian": "bambù",
+      "dutch": "bamboestijl",
+      "chinese": "竹子",
+      "chineseTraditional": "竹子",
+      "japanese": "たけ",
+      "korean": "대나무",
+      "russian": "Бамбук",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04964",
@@ -591,6 +641,7 @@
     "filename": "RoomTexFloorBasement00",
     "internalId": 4797,
     "uniqueEntryId": "DgaMSqGEyko87dD3H",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04797",
@@ -675,6 +726,7 @@
     "filename": "RoomTexFloorMorocco00",
     "internalId": 4965,
     "uniqueEntryId": "yhH3pNWq8L8j48tHW",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04965",
@@ -720,6 +772,7 @@
     "filename": "RoomTexFloorChocolate02",
     "internalId": 5053,
     "uniqueEntryId": "E7Mfi6saTnBEgW6o8",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05053",
@@ -765,6 +818,7 @@
     "filename": "RoomTexFloorBirch00",
     "internalId": 5032,
     "uniqueEntryId": "2tg7thFuaxAAiDTsv",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05032",
@@ -810,6 +864,7 @@
     "filename": "RoomTexFloorParquetIron02",
     "internalId": 5066,
     "uniqueEntryId": "24iNYeWLqkR2juaqx",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05066",
@@ -855,6 +910,7 @@
     "filename": "RoomTexFloorBrick02",
     "internalId": 4976,
     "uniqueEntryId": "9KuQFNKWxmCH4Wmvh",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04976",
@@ -900,6 +956,7 @@
     "filename": "RoomTexFloorCamouflage01",
     "internalId": 5016,
     "uniqueEntryId": "bGQTqfoWhW5TNdLM9",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05016",
@@ -945,6 +1002,7 @@
     "filename": "RoomTexFloorMorocco01",
     "internalId": 4966,
     "uniqueEntryId": "zJsrCJgAeFsymNzjq",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04966",
@@ -990,6 +1048,7 @@
     "filename": "RoomTexFloorDot04",
     "internalId": 5028,
     "uniqueEntryId": "cpSuDLw7NNyxB5fCs",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05028",
@@ -1035,6 +1094,7 @@
     "filename": "RoomTexFloorDecoWood01",
     "internalId": 5074,
     "uniqueEntryId": "XMaNPpWPhwfMY6L5G",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05074",
@@ -1080,6 +1140,7 @@
     "filename": "RoomTexFloorHoneycomb01",
     "internalId": 5040,
     "uniqueEntryId": "rYSDNLpsxE2ec3g9W",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05040",
@@ -1125,6 +1186,7 @@
     "filename": "RoomTexFloorTile03",
     "internalId": 6846,
     "uniqueEntryId": "y7utgb97MDffD3CWY",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_06846",
@@ -1170,6 +1232,7 @@
     "filename": "RoomTexFloorRubber01",
     "internalId": 4954,
     "uniqueEntryId": "4q43QAcimMHbzK76v",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04954",
@@ -1215,6 +1278,7 @@
     "filename": "RoomTexFloorPaintWood00",
     "internalId": 5057,
     "uniqueEntryId": "gNCxEi69JzcmxXbxL",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05057",
@@ -1260,6 +1324,7 @@
     "filename": "RoomTexFloorWrestling00",
     "internalId": 4982,
     "uniqueEntryId": "45uLswcK6NpGkiLNj",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04982",
@@ -1305,6 +1370,7 @@
     "filename": "RoomTexFloorArgyleTile01",
     "internalId": 5081,
     "uniqueEntryId": "yBoSKBz6zX8i5upzp",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05081",
@@ -1350,6 +1416,7 @@
     "filename": "RoomTexFloorDecoWood02",
     "internalId": 5075,
     "uniqueEntryId": "xY7NHtsvYjKMbACLu",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05075",
@@ -1395,6 +1462,7 @@
     "filename": "RoomTexFloorHoneycomb00",
     "internalId": 5038,
     "uniqueEntryId": "ZpkkHEE23YB7QNvHx",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05038",
@@ -1440,6 +1508,7 @@
     "filename": "RoomTexFloorParquetIron01",
     "internalId": 5065,
     "uniqueEntryId": "n48DyFP2iimp68t9Y",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05065",
@@ -1485,6 +1554,27 @@
     "filename": "RoomTexFloorMarbleTile01",
     "internalId": 12433,
     "uniqueEntryId": "hmyWP64oXEsMwBPua",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 28,
+      "version": "1.2.0",
+      "english": "wedding",
+      "englishEurope": "wedding",
+      "german": "Hochzeit",
+      "spanish": "boda",
+      "spanishUs": "boda",
+      "french": "mariage",
+      "frenchUs": "mariage",
+      "italian": "fiori d'arancio",
+      "dutch": "trouwstijl",
+      "chinese": "婚礼",
+      "chineseTraditional": "婚禮",
+      "japanese": "ウェディング",
+      "korean": "웨딩",
+      "russian": "Свадьба",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_12433",
@@ -1530,6 +1620,7 @@
     "filename": "RoomTexFloorBrick03",
     "internalId": 6849,
     "uniqueEntryId": "pjTr8dw3cyN8eeZYv",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_06849",
@@ -1575,6 +1666,7 @@
     "filename": "RoomTexFloorCamouflage00",
     "internalId": 5015,
     "uniqueEntryId": "DuqT3X6msNdXFvLHi",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05015",
@@ -1620,6 +1712,27 @@
     "filename": "RoomTexFloorSakura00",
     "internalId": 7204,
     "uniqueEntryId": "ZhWmRmGQN5gZCao4y",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 22,
+      "version": "1.0.0",
+      "english": "cherry blossoms",
+      "englishEurope": "cherry blossoms",
+      "german": "Kirschblüten",
+      "spanish": "flor de cerezo",
+      "spanishUs": "flor de cerezo",
+      "french": "fleur de cerisier",
+      "frenchUs": "fleur de cerisier",
+      "italian": "ciliegio",
+      "dutch": "kersenbloesemstijl",
+      "chinese": "樱花",
+      "chineseTraditional": "櫻花",
+      "japanese": "さくら",
+      "korean": "벚꽃",
+      "russian": "Вишня в цвету",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_07204",
@@ -1704,6 +1817,7 @@
     "filename": "RoomTexFloorGeek00",
     "internalId": 5082,
     "uniqueEntryId": "mqiB9cY9EEtRXQoFS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05082",
@@ -1749,6 +1863,7 @@
     "filename": "RoomSpFloorCloud00",
     "internalId": 5267,
     "uniqueEntryId": "Gp6CWrou6RqPRPLH3",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05267",
@@ -1794,6 +1909,7 @@
     "filename": "RoomTexFloorAutumun00",
     "internalId": 4990,
     "uniqueEntryId": "ZNpkS7gSLvRFR3qv4",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04990",
@@ -1878,6 +1994,7 @@
     "filename": "RoomTexFloorTile02",
     "internalId": 5037,
     "uniqueEntryId": "FMtGXChPSm2y6edqK",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05037",
@@ -1923,6 +2040,7 @@
     "filename": "RoomTexFloorPuzzleMat01",
     "internalId": 4957,
     "uniqueEntryId": "snnsfZxLf3bLFCmSD",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04957",
@@ -1968,6 +2086,7 @@
     "filename": "RoomTexFloorPanel01",
     "internalId": 5068,
     "uniqueEntryId": "ANgxpCY6rprKk56wT",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05068",
@@ -2013,6 +2132,7 @@
     "filename": "RoomTexFloorCommon00",
     "internalId": 5018,
     "uniqueEntryId": "GQX6Cd7FiDHBwkfAv",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05018",
@@ -2058,6 +2178,7 @@
     "filename": "RoomTexFloorConcrete00",
     "internalId": 4951,
     "uniqueEntryId": "r6hpZDG5eaceYuE3x",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04951",
@@ -2103,6 +2224,7 @@
     "filename": "RoomTexFloorConstruction00",
     "internalId": 5235,
     "uniqueEntryId": "25pmfNgicXrDwQhZ9",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05235",
@@ -2148,6 +2270,7 @@
     "filename": "RoomTexFloorTileChecker03",
     "internalId": 6844,
     "uniqueEntryId": "RpwPS8ETt7nPHGTqR",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_06844",
@@ -2193,6 +2316,7 @@
     "filename": "RoomTexFloorColorfulWood01",
     "internalId": 5071,
     "uniqueEntryId": "P5vNHW2McCcqGk2Ru",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05071",
@@ -2238,6 +2362,7 @@
     "filename": "RoomTexFloorCork00",
     "internalId": 4969,
     "uniqueEntryId": "YSWAiTZFDQXzbH8xM",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04969",
@@ -2283,6 +2408,7 @@
     "filename": "RoomTexFloorCropCircles00",
     "internalId": 5243,
     "uniqueEntryId": "zvSD2W9Wsxs2wX82T",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05243",
@@ -2328,6 +2454,7 @@
     "filename": "RoomTexFloorSidewalk00",
     "internalId": 5007,
     "uniqueEntryId": "DpkSGAyAuXwcmKcYT",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05007",
@@ -2373,6 +2500,7 @@
     "filename": "RoomTexFloorHoneycombWood00",
     "internalId": 4987,
     "uniqueEntryId": "pTqSAheGagvxyCivv",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04987",
@@ -2418,6 +2546,7 @@
     "filename": "RoomTexFloorCute02",
     "internalId": 7221,
     "uniqueEntryId": "QsGtuf59hbErv942T",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_07221",
@@ -2463,6 +2592,7 @@
     "filename": "RoomTexFloorCute01",
     "internalId": 7220,
     "uniqueEntryId": "TmfKeSsDh7FMpA6jG",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_07220",
@@ -2508,6 +2638,7 @@
     "filename": "RoomTexFloorCute00",
     "internalId": 7219,
     "uniqueEntryId": "bXxKjx8AJp7PRKLZA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_07219",
@@ -2553,6 +2684,7 @@
     "filename": "RoomTexFloorCute03",
     "internalId": 7222,
     "uniqueEntryId": "CSeg3aQXkhPjwXSJS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_07222",
@@ -2598,6 +2730,7 @@
     "filename": "RoomTexFloorColorfulWood00",
     "internalId": 5070,
     "uniqueEntryId": "W6ohXRHoCKsN4YLB8",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05070",
@@ -2643,6 +2776,7 @@
     "filename": "RoomTexFloorGrassland00",
     "internalId": 5005,
     "uniqueEntryId": "3wxzHxXFvLCZ9CKg2",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05005",
@@ -2688,6 +2822,7 @@
     "filename": "RoomTexFloorHerringbone01",
     "internalId": 5062,
     "uniqueEntryId": "B2ZTCrRr7jnNR2ovs",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05062",
@@ -2733,6 +2868,7 @@
     "filename": "RoomTexFloorCountry01",
     "internalId": 5025,
     "uniqueEntryId": "rco8xXCvWkLSFYCRA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05025",
@@ -2778,6 +2914,7 @@
     "filename": "RoomTexFloorSimpleParquet01",
     "internalId": 4992,
     "uniqueEntryId": "XtDikpNN55jn8zrja",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04992",
@@ -2823,6 +2960,7 @@
     "filename": "RoomTexFloorParquet01",
     "internalId": 5035,
     "uniqueEntryId": "Brfw5JnsZKhxqhWYf",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05035",
@@ -2868,6 +3006,7 @@
     "filename": "RoomTexFloorChocolate00",
     "internalId": 5050,
     "uniqueEntryId": "hyLXZQ7stKXetPcQv",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05050",
@@ -2913,6 +3052,7 @@
     "filename": "RoomTexFloorStratum00",
     "internalId": 5011,
     "uniqueEntryId": "4niZnD4Hiwrg9tF2G",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05011",
@@ -2958,6 +3098,7 @@
     "filename": "RoomTexFloorCottonSoil00",
     "internalId": 4981,
     "uniqueEntryId": "LYgxhvWvyPWAzWieZ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04981",
@@ -3003,6 +3144,7 @@
     "filename": "RoomTexFloorFarm00",
     "internalId": 4980,
     "uniqueEntryId": "2zmEMZxmYHHNEGTQR",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04980",
@@ -3048,6 +3190,7 @@
     "filename": "RoomTexFloorFlagStone00",
     "internalId": 5031,
     "uniqueEntryId": "NtuoKtiMbKoiY2xoy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05031",
@@ -3093,6 +3236,7 @@
     "filename": "RoomTexFloorMosaicTile00",
     "internalId": 4993,
     "uniqueEntryId": "5wjjJXuu2A9EYJGgf",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04993",
@@ -3138,6 +3282,7 @@
     "filename": "RoomTexFloorRush00",
     "internalId": 4977,
     "uniqueEntryId": "f9aYRhv4CwtmsYPNS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04977",
@@ -3183,6 +3328,7 @@
     "filename": "RoomSpFloorRiver00",
     "internalId": 5273,
     "uniqueEntryId": "2EL3sCGxkgTQj533G",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05273",
@@ -3228,6 +3374,27 @@
     "filename": "RoomTexFloorMushForest00",
     "internalId": 7186,
     "uniqueEntryId": "ec3NaTs5Pk8z6HCC6",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 8,
+      "version": "1.0.0",
+      "english": "mush",
+      "englishEurope": "mush",
+      "german": "Pilz",
+      "spanish": "hongo",
+      "spanishUs": "hongo",
+      "french": "champi",
+      "frenchUs": "champi",
+      "italian": "fungo",
+      "dutch": "paddenstoelenstijl",
+      "chinese": "蘑菇",
+      "chineseTraditional": "蘑菇",
+      "japanese": "キノコ",
+      "korean": "버섯",
+      "russian": "Грибы",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_07186",
@@ -3318,6 +3485,7 @@
     "filename": "RoomSpFloorTechnology00",
     "internalId": 5250,
     "uniqueEntryId": "eZweMfrfieMDtihv7",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05250",
@@ -3363,6 +3531,7 @@
     "filename": "RoomSpFloorGalaxy00",
     "internalId": 5269,
     "uniqueEntryId": "XhFQDs3H9uCdikzkW",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05269",
@@ -3447,6 +3616,7 @@
     "filename": "RoomTexFloorGarbage00",
     "internalId": 5236,
     "uniqueEntryId": "iY9f7H5NjXBxxB6HQ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05236",
@@ -3531,6 +3701,7 @@
     "filename": "RoomTexFloorAnimal01",
     "internalId": 4961,
     "uniqueEntryId": "umJmHnuMQRMEeXB7Y",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04961",
@@ -3576,6 +3747,7 @@
     "filename": "RoomTexFloorParquetIron00",
     "internalId": 5064,
     "uniqueEntryId": "R7g62hAfWLaJ2muuy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05064",
@@ -3621,6 +3793,27 @@
     "filename": "RoomTexFloorGold00",
     "internalId": 5021,
     "uniqueEntryId": "YrHA4R4RmkJLeYvJy",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 5,
+      "version": "1.0.0",
+      "english": "golden",
+      "englishEurope": "golden",
+      "german": "Gold",
+      "spanish": "dorada",
+      "spanishUs": "dorada",
+      "french": "d'or",
+      "frenchUs": "d'or",
+      "italian": "dorato",
+      "dutch": "gouden stijl",
+      "chinese": "黄金",
+      "chineseTraditional": "黃金",
+      "japanese": "おうごん",
+      "korean": "황금",
+      "russian": "Золото",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05021",
@@ -3705,6 +3898,7 @@
     "filename": "RoomTexFloorGravel00",
     "internalId": 4978,
     "uniqueEntryId": "9jLaEjCCsiMHGLf9Y",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04978",
@@ -3750,6 +3944,7 @@
     "filename": "RoomTexFloorArgyleTile00",
     "internalId": 5080,
     "uniqueEntryId": "L5HHMxTjeAv2hLukh",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05080",
@@ -3795,6 +3990,7 @@
     "filename": "RoomTexFloorTileChecker00",
     "internalId": 5046,
     "uniqueEntryId": "hazZe9YtvTt7T8WJD",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05046",
@@ -3840,6 +4036,7 @@
     "filename": "RoomTexFloorDecoWood03",
     "internalId": 6847,
     "uniqueEntryId": "AaKjHGFteG5h2GBQn",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_06847",
@@ -3885,6 +4082,7 @@
     "filename": "RoomTexFloorHoneycomb02",
     "internalId": 5041,
     "uniqueEntryId": "3T2nKNCHMxxQXkucQ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05041",
@@ -3930,6 +4128,7 @@
     "filename": "RoomTexFloorKitchen01",
     "internalId": 5045,
     "uniqueEntryId": "RRFkhjtia4ayJy2cH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05045",
@@ -3975,6 +4174,7 @@
     "filename": "RoomTexFloorRubber00",
     "internalId": 4952,
     "uniqueEntryId": "raqdEHfoLLbgfxpcR",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04952",
@@ -4020,6 +4220,7 @@
     "filename": "RoomTexFloorTileChecker02",
     "internalId": 5048,
     "uniqueEntryId": "zBGakmC9vX4Epuduf",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05048",
@@ -4065,6 +4266,27 @@
     "filename": "RoomTexFloorMarbleTile02",
     "internalId": 12434,
     "uniqueEntryId": "uhmt88jsXSHpkqswZ",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 28,
+      "version": "1.2.0",
+      "english": "wedding",
+      "englishEurope": "wedding",
+      "german": "Hochzeit",
+      "spanish": "boda",
+      "spanishUs": "boda",
+      "french": "mariage",
+      "frenchUs": "mariage",
+      "italian": "fiori d'arancio",
+      "dutch": "trouwstijl",
+      "chinese": "婚礼",
+      "chineseTraditional": "婚禮",
+      "japanese": "ウェディング",
+      "korean": "웨딩",
+      "russian": "Свадьба",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_12434",
@@ -4110,6 +4332,7 @@
     "filename": "RoomTexFloorPaintWood01",
     "internalId": 5058,
     "uniqueEntryId": "ZdsDu7KBmtngBLoe4",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05058",
@@ -4155,6 +4378,7 @@
     "filename": "RoomTexFloorHempTile00",
     "internalId": 4972,
     "uniqueEntryId": "6frp588zeZqeDBSvp",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04972",
@@ -4200,6 +4424,7 @@
     "filename": "RoomTexFloorHighway00",
     "internalId": 5237,
     "uniqueEntryId": "wrqigm79Kx7xbhPcb",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05237",
@@ -4245,6 +4470,7 @@
     "filename": "RoomTexFloorHoney00",
     "internalId": 4999,
     "uniqueEntryId": "Yi7YJpRkuc2DYxypg",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04999",
@@ -4329,6 +4555,27 @@
     "filename": "RoomSpFloorIce00",
     "internalId": 5516,
     "uniqueEntryId": "J63DSTu7u4tnwgLfR",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 18,
+      "version": "1.0.0",
+      "english": "frozen",
+      "englishEurope": "frozen",
+      "german": "Eis",
+      "spanish": "iceberg",
+      "spanishUs": "iceberg",
+      "french": "arctique",
+      "frenchUs": "arctique",
+      "italian": "iceberg",
+      "dutch": "ijsstijl",
+      "chinese": "冰块",
+      "chineseTraditional": "冰塊",
+      "japanese": "こおり",
+      "korean": "얼음",
+      "russian": "Лед",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05516",
@@ -4413,6 +4660,7 @@
     "filename": "RoomSpFloorIceFloe00",
     "internalId": 5253,
     "uniqueEntryId": "7unCfS99xyM3swHCz",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05253",
@@ -4497,6 +4745,7 @@
     "filename": "RoomTexFloorDynasty00",
     "internalId": 5012,
     "uniqueEntryId": "n4zrzvMvJmXvpMTCw",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05012",
@@ -4542,6 +4791,7 @@
     "filename": "RoomTexFloorJointMat00",
     "internalId": 4955,
     "uniqueEntryId": "RfPqDKHG6QR5FhwXY",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04955",
@@ -4587,6 +4837,7 @@
     "filename": "RoomTexFloorJungle00",
     "internalId": 5515,
     "uniqueEntryId": "QrdicpjjuY4mBd37e",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05515",
@@ -4671,6 +4922,7 @@
     "filename": "RoomTexFloorKitschTile00",
     "internalId": 5076,
     "uniqueEntryId": "uWKchyhWgNxTxDikd",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05076",
@@ -4716,6 +4968,7 @@
     "filename": "RoomSpFloorVolcano00",
     "internalId": 5274,
     "uniqueEntryId": "uT9YnwivAEZ938FKB",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05274",
@@ -4761,6 +5014,7 @@
     "filename": "RoomTexFloorAnimal00",
     "internalId": 4959,
     "uniqueEntryId": "GsWLFhWAiRsNrY2XC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04959",
@@ -4806,6 +5060,7 @@
     "filename": "RoomTexFloorHerringbone00",
     "internalId": 5061,
     "uniqueEntryId": "GQXNBcZoQRYRyRYGP",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05061",
@@ -4851,6 +5106,7 @@
     "filename": "RoomTexFloorCountry00",
     "internalId": 5022,
     "uniqueEntryId": "HqokjwEnZtgcjNSgH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05022",
@@ -4896,6 +5152,7 @@
     "filename": "RoomTexFloorSimpleParquet00",
     "internalId": 4991,
     "uniqueEntryId": "osG5BdoAX86kEitnu",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04991",
@@ -4941,6 +5198,7 @@
     "filename": "RoomTexFloorLobby00",
     "internalId": 5034,
     "uniqueEntryId": "nQCnxLKNXAQ7JqtyB",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05034",
@@ -4986,6 +5244,27 @@
     "filename": "RoomTexFloorLunar00",
     "internalId": 4968,
     "uniqueEntryId": "n8j4WToan9efgnJDM",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 19,
+      "version": "1.0.0",
+      "english": "stars",
+      "englishEurope": "stars",
+      "german": "Stern",
+      "spanish": "estrella",
+      "spanishUs": "estrella",
+      "french": "étoile",
+      "frenchUs": "étoile",
+      "italian": "stella",
+      "dutch": "sterrenstijl",
+      "chinese": "星星",
+      "chineseTraditional": "星星",
+      "japanese": "ほし",
+      "korean": "별",
+      "russian": "Звезды",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04968",
@@ -5070,6 +5349,7 @@
     "filename": "RoomTexFloorFishPop00",
     "internalId": 5024,
     "uniqueEntryId": "yajaXefi94Mx32KAy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05024",
@@ -5115,6 +5395,7 @@
     "filename": "RoomSpFloorMermaid00",
     "internalId": 12568,
     "uniqueEntryId": "XLgLk68xXpgf344N2",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_12568",
@@ -5199,6 +5480,7 @@
     "filename": "RoomTexFloorDot01",
     "internalId": 5026,
     "uniqueEntryId": "CCEfvKqoZ7TQXWFqM",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05026",
@@ -5244,6 +5526,7 @@
     "filename": "RoomTexFloorMixwood00",
     "internalId": 5044,
     "uniqueEntryId": "jBLBPkiSgmkL52L5n",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05044",
@@ -5289,6 +5572,7 @@
     "filename": "RoomTexFloorBill00",
     "internalId": 4986,
     "uniqueEntryId": "M9tBbGtQcTpPWCGeQ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04986",
@@ -5373,6 +5657,7 @@
     "filename": "RoomTexFloorDot00",
     "internalId": 5023,
     "uniqueEntryId": "CJ6ukTuEqDXvFx5kM",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05023",
@@ -5418,6 +5703,7 @@
     "filename": "RoomTexFloorPanel00",
     "internalId": 5067,
     "uniqueEntryId": "wyRDyuntjJqsgxEvz",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05067",
@@ -5463,6 +5749,7 @@
     "filename": "RoomTexFloorMoss00",
     "internalId": 5234,
     "uniqueEntryId": "3KGLDP2eT6i3A7jaw",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05234",
@@ -5508,6 +5795,7 @@
     "filename": "RoomTexFloorParquet00",
     "internalId": 5033,
     "uniqueEntryId": "BaHnYrekt2ngfWeCQ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05033",
@@ -5553,6 +5841,7 @@
     "filename": "RoomSpFloorOasis00",
     "internalId": 5255,
     "uniqueEntryId": "Apr3HrqodwkiBk5ZQ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05255",
@@ -5598,6 +5887,7 @@
     "filename": "RoomTexFloorMorocco03",
     "internalId": 6928,
     "uniqueEntryId": "LwaiMzRi8kw2Xw35j",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_06928",
@@ -5643,6 +5933,7 @@
     "filename": "RoomTexFloorCamouflage03",
     "internalId": 6845,
     "uniqueEntryId": "e2cw6YYcpWZdfH38F",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_06845",
@@ -5688,6 +5979,7 @@
     "filename": "RoomTexFloorKitchen00",
     "internalId": 5043,
     "uniqueEntryId": "GpDHr3gHCZSrK5bfx",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05043",
@@ -5733,6 +6025,7 @@
     "filename": "RoomTexFloorAtelier00",
     "internalId": 4988,
     "uniqueEntryId": "vC2oYRMxbZXYazKYW",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04988",
@@ -5778,6 +6071,7 @@
     "filename": "RoomTexFloorPalace00",
     "internalId": 5051,
     "uniqueEntryId": "ZBN9trZ7YTDgN5z3Y",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05051",
@@ -5823,6 +6117,7 @@
     "filename": "RoomTexFloorParking00",
     "internalId": 4997,
     "uniqueEntryId": "Lx2JZuP8F6xS28PPG",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04997",
@@ -5868,6 +6163,7 @@
     "filename": "RoomTexFloorParty00",
     "internalId": 5241,
     "uniqueEntryId": "8vy7YrhEnTpt8GjWT",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05241",
@@ -5913,6 +6209,7 @@
     "filename": "RoomTexFloorPuzzleMat00",
     "internalId": 4956,
     "uniqueEntryId": "nGtvPzJvdJb5xmQo8",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04956",
@@ -5958,6 +6255,7 @@
     "filename": "RoomTexFloorPatchworkTile00",
     "internalId": 4995,
     "uniqueEntryId": "hCAe3badxv5faWwGE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04995",
@@ -6003,6 +6301,7 @@
     "filename": "RoomTexFloorSimple00",
     "internalId": 5019,
     "uniqueEntryId": "B3GmKqXBaKNeugExA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05019",
@@ -6048,6 +6347,7 @@
     "filename": "RoomTexFloorPaintWood02",
     "internalId": 5059,
     "uniqueEntryId": "wXCN3tKY2rDen6D6s",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05059",
@@ -6093,6 +6393,7 @@
     "filename": "RoomTexFloorPirates00",
     "internalId": 12569,
     "uniqueEntryId": "RaD6jMvqDehvYkgSg",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_12569",
@@ -6138,6 +6439,7 @@
     "filename": "RoomTexFloorCamouflage02",
     "internalId": 5017,
     "uniqueEntryId": "JZ5JuDTqYYu8PQZrJ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05017",
@@ -6183,6 +6485,7 @@
     "filename": "RoomTexFloorMorocco02",
     "internalId": 6927,
     "uniqueEntryId": "4e7h4ZuzEKJb5ua3v",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_06927",
@@ -6228,6 +6531,7 @@
     "filename": "RoomTexFloorPuzzleMat03",
     "internalId": 7185,
     "uniqueEntryId": "xi7QC9EcD34PNSdzt",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_07185",
@@ -6273,6 +6577,7 @@
     "filename": "RoomTexFloorEgypt00",
     "internalId": 5054,
     "uniqueEntryId": "kcHqZKGAjAwFcQxNg",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05054",
@@ -6318,6 +6623,7 @@
     "filename": "RoomTexFloorAthletics00",
     "internalId": 4996,
     "uniqueEntryId": "QDiAF633q7ohZqqTK",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04996",
@@ -6363,6 +6669,7 @@
     "filename": "RoomTexFloorRuins00",
     "internalId": 5240,
     "uniqueEntryId": "tx4WSnBkFsrJZHe7b",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05240",
@@ -6408,6 +6715,7 @@
     "filename": "RoomTexFloorSquareTile00",
     "internalId": 4973,
     "uniqueEntryId": "3GqKtZdottDaNdNvP",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04973",
@@ -6453,6 +6761,27 @@
     "filename": "RoomTexFloorRattan00",
     "internalId": 4967,
     "uniqueEntryId": "C5WxH5ZD5LcXeGL56",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 16,
+      "version": "1.0.0",
+      "english": "rattan",
+      "englishEurope": "rattan",
+      "german": "Flecht",
+      "spanish": "ratán",
+      "spanishUs": "mimbre",
+      "french": "jonc",
+      "frenchUs": "rotin",
+      "italian": "rattan",
+      "dutch": "rotanstijl",
+      "chinese": "藤编",
+      "chineseTraditional": "藤編",
+      "japanese": "ラタン",
+      "korean": "라탄",
+      "russian": "Ротанг",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04967",
@@ -6498,6 +6827,7 @@
     "filename": "RoomTexFloorDot02",
     "internalId": 5027,
     "uniqueEntryId": "RRjt2eaLkEJv9Hk6W",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05027",
@@ -6543,6 +6873,7 @@
     "filename": "RoomTexFloorTileChecker01",
     "internalId": 5047,
     "uniqueEntryId": "y9Bcpqd5GNvw29DbR",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05047",
@@ -6588,6 +6919,7 @@
     "filename": "RoomTexFloorBrick01",
     "internalId": 4975,
     "uniqueEntryId": "tknYxCq8ztLx7Tibi",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04975",
@@ -6633,6 +6965,7 @@
     "filename": "RoomTexFloorRock00",
     "internalId": 5239,
     "uniqueEntryId": "BKwXAcy5Q9mW2GJkH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05239",
@@ -6678,6 +7011,7 @@
     "filename": "RoomTexFloorRoseCarpet00",
     "internalId": 4958,
     "uniqueEntryId": "5vGSvnYMFe4A5LRte",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04958",
@@ -6723,6 +7057,7 @@
     "filename": "RoomTexFloorRoseWood00",
     "internalId": 5063,
     "uniqueEntryId": "jA7bCaTtZq6Z2r4gr",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05063",
@@ -6768,6 +7103,7 @@
     "filename": "RoomTexFloorRubberTile00",
     "internalId": 5163,
     "uniqueEntryId": "YiBqEKfe7i4EuseqS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05163",
@@ -6813,6 +7149,7 @@
     "filename": "RoomTexFloorTatami01",
     "internalId": 5079,
     "uniqueEntryId": "rnwpHPKqefSS5Hhz8",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05079",
@@ -6858,6 +7195,7 @@
     "filename": "RoomTexFloorTatamiPanel01",
     "internalId": 5078,
     "uniqueEntryId": "CYDJXEYacE5fPeLYJ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05078",
@@ -6903,6 +7241,7 @@
     "filename": "RoomTexFloorSolidWood00",
     "internalId": 5056,
     "uniqueEntryId": "QB6ZXiQbMQ6iWexQm",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05056",
@@ -6987,6 +7326,7 @@
     "filename": "RoomTexFloorEmptyLot00",
     "internalId": 4985,
     "uniqueEntryId": "HZM5De52k9N4E3iei",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04985",
@@ -7032,6 +7372,7 @@
     "filename": "RoomTexFloorSand00",
     "internalId": 4970,
     "uniqueEntryId": "tDrdWs28RgvnyTMNC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04970",
@@ -7123,6 +7464,7 @@
     "filename": "RoomSpFloorSF00",
     "internalId": 5270,
     "uniqueEntryId": "NAEGL6s5arLj9y2ku",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05270",
@@ -7207,6 +7549,7 @@
     "filename": "RoomTexFloorScramble00",
     "internalId": 5010,
     "uniqueEntryId": "EHdRo9mbi9QhCtdYN",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05010",
@@ -7252,6 +7595,7 @@
     "filename": "RoomTexFloorPuzzleMat02",
     "internalId": 7184,
     "uniqueEntryId": "ND2rTCs7dZjKiGXjC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_07184",
@@ -7297,6 +7641,7 @@
     "filename": "RoomTexFloorSeaView00",
     "internalId": 4950,
     "uniqueEntryId": "X9tRZEzQMKRKd5rnz",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04950",
@@ -7342,6 +7687,7 @@
     "filename": "RoomTexFloorSidewalk01",
     "internalId": 5008,
     "uniqueEntryId": "3FteXxettQm7iZF2p",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05008",
@@ -7387,6 +7733,7 @@
     "filename": "RoomTexFloorSimpleCarpet01",
     "internalId": 5001,
     "uniqueEntryId": "JKvF62fyqF6Pg9igx",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05001",
@@ -7432,6 +7779,7 @@
     "filename": "RoomTexFloorSimpleCarpet03",
     "internalId": 5003,
     "uniqueEntryId": "qn6BKtgHm5tmoDtAG",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05003",
@@ -7477,6 +7825,7 @@
     "filename": "RoomTexFloorSimpleCarpet00",
     "internalId": 5000,
     "uniqueEntryId": "5WEw368jE8FK9LcPa",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05000",
@@ -7522,6 +7871,7 @@
     "filename": "RoomTexFloorSimpleCarpet04",
     "internalId": 5004,
     "uniqueEntryId": "RwMEDYWk9YBgrtXmY",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05004",
@@ -7567,6 +7917,7 @@
     "filename": "RoomTexFloorGelande00",
     "internalId": 4989,
     "uniqueEntryId": "NpqGszuaZckXifyju",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04989",
@@ -7651,6 +8002,7 @@
     "filename": "RoomTexFloorSkull00",
     "internalId": 5248,
     "uniqueEntryId": "Ghp5z68RNmKQDDCzz",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05248",
@@ -7696,6 +8048,7 @@
     "filename": "RoomTexFloorSlate00",
     "internalId": 5233,
     "uniqueEntryId": "hchG9hWK9Ci3iXzTN",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05233",
@@ -7741,6 +8094,7 @@
     "filename": "RoomTexFloorSandStar00",
     "internalId": 7239,
     "uniqueEntryId": "54Jcui933sPTvdqXY",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_07239",
@@ -7825,6 +8179,7 @@
     "filename": "RoomTexFloorSteel00",
     "internalId": 4960,
     "uniqueEntryId": "nYi4jRsp3MXrnPPDR",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04960",
@@ -7909,6 +8264,7 @@
     "filename": "RoomTexFloorMarble00",
     "internalId": 5069,
     "uniqueEntryId": "RNMhc9jJApavmhgPC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05069",
@@ -7954,6 +8310,7 @@
     "filename": "RoomTexFloorStripe00",
     "internalId": 4963,
     "uniqueEntryId": "5CY9wQTePbYzQTDF2",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04963",
@@ -7999,6 +8356,7 @@
     "filename": "RoomTexFloorArena00",
     "internalId": 5013,
     "uniqueEntryId": "qKfY2Nnx5ApBzgGEF",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05013",
@@ -8044,6 +8402,7 @@
     "filename": "RoomTexFloorBog00",
     "internalId": 5238,
     "uniqueEntryId": "vTPvWC9bkZyeP7BxS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05238",
@@ -8089,6 +8448,7 @@
     "filename": "RoomTexFloorTatami00",
     "internalId": 5039,
     "uniqueEntryId": "jdcZQ9LCDoroeYKws",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05039",
@@ -8134,6 +8494,7 @@
     "filename": "RoomTexFloorTatamiPanel00",
     "internalId": 5077,
     "uniqueEntryId": "Qo5nLhbZ7iD5JLP4Z",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05077",
@@ -8179,6 +8540,7 @@
     "filename": "RoomTexFloorTileTerracotta00",
     "internalId": 4971,
     "uniqueEntryId": "Ec8TrwurFcmQKi4CZ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04971",
@@ -8224,6 +8586,7 @@
     "filename": "RoomTexFloorAnimal03",
     "internalId": 6848,
     "uniqueEntryId": "uz5PotSZqNAT5kgtT",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_06848",
@@ -8269,6 +8632,7 @@
     "filename": "RoomTexFloorPlatform00",
     "internalId": 5009,
     "uniqueEntryId": "khwvshrYhvaL9FPsC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05009",
@@ -8314,6 +8678,7 @@
     "filename": "RoomSpFloorFishTank00",
     "internalId": 5268,
     "uniqueEntryId": "bGowh78amRY7uJsYE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05268",
@@ -8398,6 +8763,7 @@
     "filename": "RoomSpFloorWater00",
     "internalId": 5030,
     "uniqueEntryId": "opJSK2mkCqkBRQTW3",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05030",
@@ -8482,6 +8848,7 @@
     "filename": "RoomTexFloorWilderness00",
     "internalId": 4984,
     "uniqueEntryId": "24mkYXzRGCvGibXQ9",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04984",
@@ -8527,6 +8894,7 @@
     "filename": "RoomTexFloorHoneycomb03",
     "internalId": 5042,
     "uniqueEntryId": "RKrRAgjoevjYsLwTp",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05042",
@@ -8572,6 +8940,7 @@
     "filename": "RoomTexFloorParquetIron03",
     "internalId": 6843,
     "uniqueEntryId": "ZFAq3rRLCCRRgAcF7",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_06843",
@@ -8617,6 +8986,7 @@
     "filename": "RoomTexFloorTile00",
     "internalId": 5020,
     "uniqueEntryId": "23nmmfSJ7pvKyeuFZ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05020",
@@ -8662,6 +9032,27 @@
     "filename": "RoomTexFloorMarbleTile00",
     "internalId": 12431,
     "uniqueEntryId": "GYZ8kvbfYK7i2NcvT",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 28,
+      "version": "1.2.0",
+      "english": "wedding",
+      "englishEurope": "wedding",
+      "german": "Hochzeit",
+      "spanish": "boda",
+      "spanishUs": "boda",
+      "french": "mariage",
+      "frenchUs": "mariage",
+      "italian": "fiori d'arancio",
+      "dutch": "trouwstijl",
+      "chinese": "婚礼",
+      "chineseTraditional": "婚禮",
+      "japanese": "ウェディング",
+      "korean": "웨딩",
+      "russian": "Свадьба",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_12431",
@@ -8707,6 +9098,7 @@
     "filename": "RoomTexFloorBrick00",
     "internalId": 4974,
     "uniqueEntryId": "83vQYs26vwE7aa4bZ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04974",
@@ -8752,6 +9144,7 @@
     "filename": "RoomTexFloorChocolate01",
     "internalId": 5052,
     "uniqueEntryId": "b2WBXQkcAqfJ48RH3",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05052",
@@ -8797,6 +9190,7 @@
     "filename": "RoomTexFloorPaintWood03",
     "internalId": 5060,
     "uniqueEntryId": "JdnrGbAMW7FBxrw5P",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05060",
@@ -8842,6 +9236,7 @@
     "filename": "RoomTexFloorGrassland01",
     "internalId": 5006,
     "uniqueEntryId": "dYb6DAfZQJTGN7svs",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05006",
@@ -8887,6 +9282,7 @@
     "filename": "RoomTexFloorCedar00",
     "internalId": 5049,
     "uniqueEntryId": "ttyLLQ39Dc3fK32JE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05049",
@@ -8932,6 +9328,7 @@
     "filename": "RoomTexFloorDecoWood00",
     "internalId": 5073,
     "uniqueEntryId": "R69sMEPHQGu7fBzuQ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_05073",
@@ -8977,6 +9374,7 @@
     "filename": "RoomTexFloorAnimal02",
     "internalId": 4962,
     "uniqueEntryId": "9Mdszd5EgwJ6omLPf",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Floors",
       "id": "RoomFloor_04962",

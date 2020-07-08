@@ -24,6 +24,27 @@
     "filename": "RoomTexWallEaster00",
     "internalId": 5231,
     "uniqueEntryId": "dEoSTZADDLkvmDHuY",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 27,
+      "version": "1.1.0",
+      "english": "Bunny Day",
+      "englishEurope": "Bunny Day",
+      "german": "Häschentag",
+      "spanish": "Caza del Huevo",
+      "spanishUs": "Caza del Huevo",
+      "french": "Fête des œufs",
+      "frenchUs": "Fête des œufs",
+      "italian": "caccia all'uovo",
+      "dutch": "eierstijl",
+      "chinese": "复活节",
+      "chineseTraditional": "復活節",
+      "japanese": "イースター",
+      "korean": "이스터",
+      "russian": "День зайцев",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05231",
@@ -122,6 +143,27 @@
     "filename": "RoomSpWallXmas00",
     "internalId": 5230,
     "uniqueEntryId": "ZjBHKK8ckePAaKpxe",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 26,
+      "version": "1.0.0",
+      "english": "festive",
+      "englishEurope": "festive",
+      "german": "Festtag",
+      "spanish": "festiva",
+      "spanishUs": "festiva",
+      "french": "festive",
+      "frenchUs": "festive",
+      "italian": "festivo",
+      "dutch": "feeststijl",
+      "chinese": "圣诞节",
+      "chineseTraditional": "聖誕節",
+      "japanese": "クリスマス",
+      "korean": "크리스마스",
+      "russian": "Праздник",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05230",
@@ -213,6 +255,7 @@
     "filename": "RoomTexWallFirst00",
     "internalId": 6004,
     "uniqueEntryId": "e7uEC5di7XvHpvkuk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06004",
@@ -265,6 +308,7 @@
     "filename": "RoomTexWallAbstract00",
     "internalId": 4873,
     "uniqueEntryId": "FpdbDr4PMe5WdEZkA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04873",
@@ -317,6 +361,7 @@
     "filename": "RoomTexWallEgypt00",
     "internalId": 4936,
     "uniqueEntryId": "Y2pykQMhqbEoGGa62",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04936",
@@ -369,6 +414,27 @@
     "filename": "RoomTexWallApple00",
     "internalId": 4916,
     "uniqueEntryId": "roJZFWataeLQK6vqa",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 13,
+      "version": "1.0.0",
+      "english": "fruits",
+      "englishEurope": "fruits",
+      "german": "Obst",
+      "spanish": "frutal",
+      "spanishUs": "frutal",
+      "french": "fruit",
+      "frenchUs": "fruit",
+      "italian": "frutta",
+      "dutch": "fruitstijl",
+      "chinese": "水果",
+      "chineseTraditional": "水果",
+      "japanese": "フルーツ",
+      "korean": "프루트",
+      "russian": "Фрукты",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04916",
@@ -460,6 +526,7 @@
     "filename": "RoomTexWallTile01",
     "internalId": 4930,
     "uniqueEntryId": "6NXvjsdpxJLbd96RM",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04930",
@@ -512,6 +579,7 @@
     "filename": "RoomSpWallGlass00",
     "internalId": 5482,
     "uniqueEntryId": "TzS5oe6a7KyBezmLS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05482",
@@ -564,6 +632,7 @@
     "filename": "RoomSpWallAutumun00",
     "internalId": 4905,
     "uniqueEntryId": "KfLqJKhWtys8v86ig",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04905",
@@ -655,6 +724,7 @@
     "filename": "RoomSpWallBackyard00",
     "internalId": 5481,
     "uniqueEntryId": "oPYWjEfm7BqHTYipq",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05481",
@@ -707,6 +777,27 @@
     "filename": "RoomTexWallBamboo00",
     "internalId": 4833,
     "uniqueEntryId": "MYpD6DoNCPDw6d9t3",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 10,
+      "version": "1.0.0",
+      "english": "bamboo",
+      "englishEurope": "bamboo",
+      "german": "Bambus",
+      "spanish": "bambú",
+      "spanishUs": "bambú",
+      "french": "bambou",
+      "frenchUs": "bambou",
+      "italian": "bambù",
+      "dutch": "bamboestijl",
+      "chinese": "竹子",
+      "chineseTraditional": "竹子",
+      "japanese": "たけ",
+      "korean": "대나무",
+      "russian": "Бамбук",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04833",
@@ -798,6 +889,27 @@
     "filename": "RoomTexWallChikurin00",
     "internalId": 4853,
     "uniqueEntryId": "LbsrED9Rwg6SHTCpa",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 10,
+      "version": "1.0.0",
+      "english": "bamboo",
+      "englishEurope": "bamboo",
+      "german": "Bambus",
+      "spanish": "bambú",
+      "spanishUs": "bambú",
+      "french": "bambou",
+      "frenchUs": "bambou",
+      "italian": "bambù",
+      "dutch": "bamboestijl",
+      "chinese": "竹子",
+      "chineseTraditional": "竹子",
+      "japanese": "たけ",
+      "korean": "대나무",
+      "russian": "Бамбук",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04853",
@@ -889,6 +1001,7 @@
     "filename": "RoomTexWallRattan00",
     "internalId": 4836,
     "uniqueEntryId": "MZt39wkPG6P7iWG2M",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04836",
@@ -941,6 +1054,7 @@
     "filename": "RoomTexWallSafeBox00",
     "internalId": 4839,
     "uniqueEntryId": "HrgjLfo8tPzP2zpbE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04839",
@@ -993,6 +1107,7 @@
     "filename": "RoomSpWallSimplePanel00",
     "internalId": 5559,
     "uniqueEntryId": "FJxKPu5W2sd2YWQfA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05559",
@@ -1045,6 +1160,7 @@
     "filename": "RoomTexWallBeadsCurtain00",
     "internalId": 4877,
     "uniqueEntryId": "M3mNZS2vSaHaiujcH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04877",
@@ -1097,6 +1213,7 @@
     "filename": "RoomTexWallArtDeco00",
     "internalId": 4817,
     "uniqueEntryId": "2zmJaMB2B9i8gLTKt",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04817",
@@ -1149,6 +1266,7 @@
     "filename": "RoomTexWallCountry00",
     "internalId": 4831,
     "uniqueEntryId": "CF5325jZx7pNsqb6Z",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04831",
@@ -1201,6 +1319,7 @@
     "filename": "RoomTexWallMorocco00",
     "internalId": 4834,
     "uniqueEntryId": "qZrgjoMjxz9ehXqa4",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04834",
@@ -1253,6 +1372,7 @@
     "filename": "RoomTexWallWoodTile03",
     "internalId": 6877,
     "uniqueEntryId": "PEcX9J774Ffd6Gn8S",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06877",
@@ -1305,6 +1425,7 @@
     "filename": "RoomTexWallHall03",
     "internalId": 6862,
     "uniqueEntryId": "pQrYRHsmovBApejNJ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06862",
@@ -1357,6 +1478,7 @@
     "filename": "RoomTexWallPegboard02",
     "internalId": 4922,
     "uniqueEntryId": "7fMiJATy4fWP4DpoC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04922",
@@ -1409,6 +1531,7 @@
     "filename": "RoomTexWallTwoToneTile06",
     "internalId": 6859,
     "uniqueEntryId": "aF8tqscwpShhhsASx",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06859",
@@ -1461,6 +1584,7 @@
     "filename": "RoomTexWallBrick02",
     "internalId": 4929,
     "uniqueEntryId": "tCex7y47sAsaD44Wm",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04929",
@@ -1513,6 +1637,7 @@
     "filename": "RoomTexWallCrown01",
     "internalId": 4815,
     "uniqueEntryId": "4cCAvP8bbCYcyAyBE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04815",
@@ -1565,6 +1690,7 @@
     "filename": "RoomTexWallBlackBoard00",
     "internalId": 4882,
     "uniqueEntryId": "Aseoowo4cuXJqyWaA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04882",
@@ -1617,6 +1743,7 @@
     "filename": "RoomTexWallCountry02",
     "internalId": 4896,
     "uniqueEntryId": "SZWxorHWvT7vhGXsj",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04896",
@@ -1669,6 +1796,7 @@
     "filename": "RoomTexWallCamouflage01",
     "internalId": 4884,
     "uniqueEntryId": "xQ2EDvGyh76skJyX3",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04884",
@@ -1721,6 +1849,7 @@
     "filename": "RoomTexWallManor03",
     "internalId": 6852,
     "uniqueEntryId": "7Fb4nvMvoxtCZRQv7",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06852",
@@ -1773,6 +1902,7 @@
     "filename": "RoomTexWallMorocco01",
     "internalId": 4835,
     "uniqueEntryId": "vgNuogZ2JG2eZEBni",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04835",
@@ -1825,6 +1955,7 @@
     "filename": "RoomTexWallDiner00",
     "internalId": 7241,
     "uniqueEntryId": "GjJT3k3neqwzenXku",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07241",
@@ -1877,6 +2008,7 @@
     "filename": "RoomTexWallFlower03",
     "internalId": 6873,
     "uniqueEntryId": "Hfm5a2EozWyQws3Tv",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06873",
@@ -1929,6 +2061,7 @@
     "filename": "RoomTexWallHeart00",
     "internalId": 4874,
     "uniqueEntryId": "9dXvZ4H39kton3Tcj",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04874",
@@ -1981,6 +2114,7 @@
     "filename": "RoomTexWallHoneycomb01",
     "internalId": 4912,
     "uniqueEntryId": "Fht6yazsmMqdtEYQb",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04912",
@@ -2033,6 +2167,7 @@
     "filename": "RoomTexWallFlowerPop00",
     "internalId": 4848,
     "uniqueEntryId": "p65nAJPAzQRgrjmDk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04848",
@@ -2085,6 +2220,7 @@
     "filename": "RoomTexWallPanelMold01",
     "internalId": 4871,
     "uniqueEntryId": "NpLfp6Jj3N5SDZJGK",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04871",
@@ -2137,6 +2273,7 @@
     "filename": "RoomTexWallPaintWood00",
     "internalId": 4948,
     "uniqueEntryId": "taLRgdodXzdzaAqA5",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04948",
@@ -2189,6 +2326,7 @@
     "filename": "RoomTexWallToy00",
     "internalId": 4888,
     "uniqueEntryId": "GFvGWj5w9m6i5eRwu",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04888",
@@ -2241,6 +2379,7 @@
     "filename": "RoomTexWallDollhouse01",
     "internalId": 7277,
     "uniqueEntryId": "PPTLt5GQAdAhgRkxx",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07277",
@@ -2293,6 +2432,7 @@
     "filename": "RoomTexWallTin02",
     "internalId": 4925,
     "uniqueEntryId": "izNEFpPcp7pZaokHC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04925",
@@ -2345,6 +2485,7 @@
     "filename": "RoomTexWallSimple03",
     "internalId": 4869,
     "uniqueEntryId": "KEN3oXsCwXwBcrfyD",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04869",
@@ -2397,6 +2538,7 @@
     "filename": "RoomTexWallMetro00",
     "internalId": 4940,
     "uniqueEntryId": "mJ2HZDvnKgWB4TfXD",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04940",
@@ -2449,6 +2591,7 @@
     "filename": "RoomTexWallTile03",
     "internalId": 7127,
     "uniqueEntryId": "gFc6NFYEbm8AqnpNu",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07127",
@@ -2501,6 +2644,7 @@
     "filename": "RoomTexWallTwoToneTile05",
     "internalId": 6858,
     "uniqueEntryId": "97tHxtBzbMechYNAe",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06858",
@@ -2553,6 +2697,7 @@
     "filename": "RoomTexWallCrown00",
     "internalId": 4814,
     "uniqueEntryId": "k3b6CntCn3X84TN8X",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04814",
@@ -2605,6 +2750,7 @@
     "filename": "RoomTexWallStucco03",
     "internalId": 4811,
     "uniqueEntryId": "Pdr9WyCDQ9MBgG2qf",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04811",
@@ -2657,6 +2803,7 @@
     "filename": "RoomTexWallRose03",
     "internalId": 6869,
     "uniqueEntryId": "24hAjZQPsBXg3qHgw",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06869",
@@ -2709,6 +2856,7 @@
     "filename": "RoomTexWallStripe03",
     "internalId": 4945,
     "uniqueEntryId": "ZN2NXtCWSxQyeY9TF",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04945",
@@ -2761,6 +2909,7 @@
     "filename": "RoomTexWallWoodTile02",
     "internalId": 6876,
     "uniqueEntryId": "gAvEyZiovXdKht7Db",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06876",
@@ -2813,6 +2962,7 @@
     "filename": "RoomTexWallWoodTile01",
     "internalId": 4827,
     "uniqueEntryId": "FBLdaz4BkJbYvtdhy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04827",
@@ -2865,6 +3015,7 @@
     "filename": "RoomTexWallDiner03",
     "internalId": 7244,
     "uniqueEntryId": "wtnNQikxNEJkL753p",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07244",
@@ -2917,6 +3068,7 @@
     "filename": "RoomTexWallHall00",
     "internalId": 4806,
     "uniqueEntryId": "hFcaZ4n9ktaGNSTBE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04806",
@@ -2969,6 +3121,7 @@
     "filename": "RoomTexWallHerringbone00",
     "internalId": 4804,
     "uniqueEntryId": "oYALopoXWt2ZRT7Ej",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04804",
@@ -3060,6 +3213,7 @@
     "filename": "RoomTexWallTin03",
     "internalId": 4926,
     "uniqueEntryId": "MHxmHT82gP3odiLwv",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04926",
@@ -3112,6 +3266,27 @@
     "filename": "RoomSpWallChurch01",
     "internalId": 12468,
     "uniqueEntryId": "micAswPDNsNS2A2mb",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 28,
+      "version": "1.2.0",
+      "english": "wedding",
+      "englishEurope": "wedding",
+      "german": "Hochzeit",
+      "spanish": "boda",
+      "spanishUs": "boda",
+      "french": "mariage",
+      "frenchUs": "mariage",
+      "italian": "fiori d'arancio",
+      "dutch": "trouwstijl",
+      "chinese": "婚礼",
+      "chineseTraditional": "婚禮",
+      "japanese": "ウェディング",
+      "korean": "웨딩",
+      "russian": "Свадьба",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_12468",
@@ -3164,6 +3339,7 @@
     "filename": "RoomTexWallBrick03",
     "internalId": 6850,
     "uniqueEntryId": "BE69b25WcF47xAqdG",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06850",
@@ -3216,6 +3392,7 @@
     "filename": "RoomTexWallCrown03",
     "internalId": 6851,
     "uniqueEntryId": "oL8aBjZoFCFKEEgAg",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06851",
@@ -3268,6 +3445,7 @@
     "filename": "RoomTexWallInsect00",
     "internalId": 4880,
     "uniqueEntryId": "gJEmy4shFTnDB9Pjy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04880",
@@ -3320,6 +3498,7 @@
     "filename": "RoomTexWallLog00",
     "internalId": 4840,
     "uniqueEntryId": "sAEWR5uKGAXM6utL7",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04840",
@@ -3411,6 +3590,7 @@
     "filename": "RoomSpWallCafe00",
     "internalId": 5483,
     "uniqueEntryId": "ficQ2fw73rzF5EJBB",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05483",
@@ -3463,6 +3643,7 @@
     "filename": "RoomTexWallCamouflage00",
     "internalId": 4883,
     "uniqueEntryId": "gBLHTGPLB65iZypbn",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04883",
@@ -3515,6 +3696,7 @@
     "filename": "RoomSpWallEmptyLot00",
     "internalId": 5485,
     "uniqueEntryId": "Qwbt8qxT8yN9XfXdR",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05485",
@@ -3567,6 +3749,27 @@
     "filename": "RoomTexWallCherry00",
     "internalId": 4919,
     "uniqueEntryId": "tcMuDzZqtDYs29Asm",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 13,
+      "version": "1.0.0",
+      "english": "fruits",
+      "englishEurope": "fruits",
+      "german": "Obst",
+      "spanish": "frutal",
+      "spanishUs": "frutal",
+      "french": "fruit",
+      "frenchUs": "fruit",
+      "italian": "frutta",
+      "dutch": "fruitstijl",
+      "chinese": "水果",
+      "chineseTraditional": "水果",
+      "japanese": "フルーツ",
+      "korean": "프루트",
+      "russian": "Фрукты",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04919",
@@ -3658,6 +3861,27 @@
     "filename": "RoomSpWallSakura00",
     "internalId": 7205,
     "uniqueEntryId": "LrRvk9Twg87SSqNR4",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 22,
+      "version": "1.0.0",
+      "english": "cherry blossoms",
+      "englishEurope": "cherry blossoms",
+      "german": "Kirschblüten",
+      "spanish": "flor de cerezo",
+      "spanishUs": "flor de cerezo",
+      "french": "fleur de cerisier",
+      "frenchUs": "fleur de cerisier",
+      "italian": "ciliegio",
+      "dutch": "kersenbloesemstijl",
+      "chinese": "樱花",
+      "chineseTraditional": "櫻花",
+      "japanese": "さくら",
+      "korean": "벚꽃",
+      "russian": "Вишня в цвету",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07205",
@@ -3749,6 +3973,7 @@
     "filename": "RoomTexWallMud03",
     "internalId": 11176,
     "uniqueEntryId": "juLfiYnkF3x3wSAMZ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_11176",
@@ -3801,6 +4026,7 @@
     "filename": "RoomTexWallClassic00",
     "internalId": 4828,
     "uniqueEntryId": "QMofvFznsaNcsDTqg",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04828",
@@ -3853,6 +4079,7 @@
     "filename": "RoomTexWallHall01",
     "internalId": 4807,
     "uniqueEntryId": "WZfDqbGb3cACFJWrg",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04807",
@@ -3905,6 +4132,7 @@
     "filename": "RoomTexWallHerringbone01",
     "internalId": 4805,
     "uniqueEntryId": "TpZxYjK6NorSqDMwu",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04805",
@@ -3996,6 +4224,7 @@
     "filename": "RoomTexWallGeek00",
     "internalId": 4821,
     "uniqueEntryId": "Ms4DDtXTTGMwXdvvy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04821",
@@ -4048,6 +4277,7 @@
     "filename": "RoomSpWallNightView00",
     "internalId": 5400,
     "uniqueEntryId": "9B4hFDTD7xM8goPGs",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05400",
@@ -4100,6 +4330,7 @@
     "filename": "RoomTexWallLibrary00",
     "internalId": 4837,
     "uniqueEntryId": "YbYmnjKXc49cyT6GB",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04837",
@@ -4191,6 +4422,7 @@
     "filename": "RoomTexWallPuzzle01",
     "internalId": 4887,
     "uniqueEntryId": "gpsYwFiGd3coj2eBS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04887",
@@ -4243,6 +4475,7 @@
     "filename": "RoomTexWallTile02",
     "internalId": 4931,
     "uniqueEntryId": "yu9xkApAW49Zhhf9i",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04931",
@@ -4295,6 +4528,7 @@
     "filename": "RoomTexWallCommon00",
     "internalId": 4795,
     "uniqueEntryId": "nLsLm3SoBAKtH5DmF",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04795",
@@ -4347,6 +4581,7 @@
     "filename": "RoomTexWallConcrete00",
     "internalId": 4890,
     "uniqueEntryId": "jmixjxLNuH9jRQhyr",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04890",
@@ -4399,6 +4634,7 @@
     "filename": "RoomTexWallBlueSheet00",
     "internalId": 4843,
     "uniqueEntryId": "gDubZLr2wi622j5De",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04843",
@@ -4451,6 +4687,7 @@
     "filename": "RoomTexWallCrepe00",
     "internalId": 4841,
     "uniqueEntryId": "dBSCiiYyny3ReAbgo",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04841",
@@ -4503,6 +4740,7 @@
     "filename": "RoomTexWallCute02",
     "internalId": 7217,
     "uniqueEntryId": "KFhQNtCs6tx9sj7dy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07217",
@@ -4555,6 +4793,7 @@
     "filename": "RoomTexWallCute01",
     "internalId": 7216,
     "uniqueEntryId": "qYZyrdquxzvHErF5n",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07216",
@@ -4607,6 +4846,7 @@
     "filename": "RoomTexWallCute00",
     "internalId": 7215,
     "uniqueEntryId": "McKcAab2qjAaviYvA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07215",
@@ -4659,6 +4899,7 @@
     "filename": "RoomTexWallCute03",
     "internalId": 7218,
     "uniqueEntryId": "6j8PFwiuCwkN7GP5b",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07218",
@@ -4711,6 +4952,7 @@
     "filename": "RoomTexWallMixPlankWood01",
     "internalId": 4860,
     "uniqueEntryId": "zZ6oMsuRibBQMkCA7",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04860",
@@ -4802,6 +5044,7 @@
     "filename": "RoomTexWallChocolate00",
     "internalId": 4932,
     "uniqueEntryId": "MWLvj23WuHrEJkMjk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04932",
@@ -4854,6 +5097,7 @@
     "filename": "RoomSpWallDesert00",
     "internalId": 5488,
     "uniqueEntryId": "o45mte3eFoaM3ts98",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05488",
@@ -4906,6 +5150,7 @@
     "filename": "RoomTexWallStratum00",
     "internalId": 5222,
     "uniqueEntryId": "Rj3X2dJ5WfYu3wpMP",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05222",
@@ -4958,6 +5203,7 @@
     "filename": "RoomTexWallOldSoil00",
     "internalId": 4856,
     "uniqueEntryId": "LCJDGnfwuHqkgfxJB",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04856",
@@ -5010,6 +5256,7 @@
     "filename": "RoomTexWallBaseboards00",
     "internalId": 5227,
     "uniqueEntryId": "sLYrC9TRZJDMCZjM6",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05227",
@@ -5062,6 +5309,7 @@
     "filename": "RoomSpWallJail00",
     "internalId": 5509,
     "uniqueEntryId": "zcHJb34EruL2Szn87",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05509",
@@ -5114,6 +5362,7 @@
     "filename": "RoomTexWallChina00",
     "internalId": 4866,
     "uniqueEntryId": "TPZRP5K6z87YHs6TC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04866",
@@ -5166,6 +5415,27 @@
     "filename": "RoomTexWallMushForest00",
     "internalId": 7187,
     "uniqueEntryId": "ogwkK7pveFmag6MXj",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 8,
+      "version": "1.0.0",
+      "english": "mush",
+      "englishEurope": "mush",
+      "german": "Pilz",
+      "spanish": "hongo",
+      "spanishUs": "hongo",
+      "french": "champi",
+      "frenchUs": "champi",
+      "italian": "fungo",
+      "dutch": "paddenstoelenstijl",
+      "chinese": "蘑菇",
+      "chineseTraditional": "蘑菇",
+      "japanese": "キノコ",
+      "korean": "버섯",
+      "russian": "Грибы",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07187",
@@ -5263,6 +5533,7 @@
     "filename": "RoomSpWallTechnology00",
     "internalId": 5494,
     "uniqueEntryId": "JawM9P46KeFwGXdsm",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05494",
@@ -5315,6 +5586,7 @@
     "filename": "RoomTexWallGarbage00",
     "internalId": 5229,
     "uniqueEntryId": "KfoTScCc4NZruFYd8",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05229",
@@ -5406,6 +5678,7 @@
     "filename": "RoomTexWallFusumaGorgeous00",
     "internalId": 4820,
     "uniqueEntryId": "CucFATJt8EtZmbKFX",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04820",
@@ -5497,6 +5770,27 @@
     "filename": "RoomTexWallGold00",
     "internalId": 4894,
     "uniqueEntryId": "uyLj28ErYLEjpYzEF",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 5,
+      "version": "1.0.0",
+      "english": "golden",
+      "englishEurope": "golden",
+      "german": "Gold",
+      "spanish": "dorada",
+      "spanishUs": "dorada",
+      "french": "d'or",
+      "frenchUs": "d'or",
+      "italian": "dorato",
+      "dutch": "gouden stijl",
+      "chinese": "黄金",
+      "chineseTraditional": "黃金",
+      "japanese": "おうごん",
+      "korean": "황금",
+      "russian": "Золото",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04894",
@@ -5588,6 +5882,7 @@
     "filename": "RoomTexWallDiner02",
     "internalId": 7243,
     "uniqueEntryId": "eTcpWCGHCzsdGRs7k",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07243",
@@ -5640,6 +5935,7 @@
     "filename": "RoomTexWallPanelMold02",
     "internalId": 4872,
     "uniqueEntryId": "49g9WCb7cvS8kpqDF",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04872",
@@ -5692,6 +5988,7 @@
     "filename": "RoomTexWallTin00",
     "internalId": 4923,
     "uniqueEntryId": "7uz4sbe5zSfsa8PqK",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04923",
@@ -5744,6 +6041,7 @@
     "filename": "RoomTexWallStripe02",
     "internalId": 4944,
     "uniqueEntryId": "xWHnQXK7duTWZ8GrD",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04944",
@@ -5796,6 +6094,7 @@
     "filename": "RoomTexWallCountry03",
     "internalId": 4903,
     "uniqueEntryId": "ZPCtPY4gYYKPn7ipQ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04903",
@@ -5848,6 +6147,7 @@
     "filename": "RoomTexWallManor02",
     "internalId": 4898,
     "uniqueEntryId": "rsBmsGkcmQYWzEivw",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04898",
@@ -5900,6 +6200,7 @@
     "filename": "RoomTexWallFlower01",
     "internalId": 4935,
     "uniqueEntryId": "oYN6MCEQENZymoKdm",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04935",
@@ -5952,6 +6253,7 @@
     "filename": "RoomTexWallHoneycomb02",
     "internalId": 4913,
     "uniqueEntryId": "Aws33pgNCEygKeaB4",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04913",
@@ -6004,6 +6306,7 @@
     "filename": "RoomTexWallFlowerPop02",
     "internalId": 6878,
     "uniqueEntryId": "hD6uCKiZPpJC6eqom",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06878",
@@ -6056,6 +6359,7 @@
     "filename": "RoomTexWallPanelMold03",
     "internalId": 6854,
     "uniqueEntryId": "L5cttCqv5dPEpZNwm",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06854",
@@ -6108,6 +6412,7 @@
     "filename": "RoomTexWallPaintWood01",
     "internalId": 4949,
     "uniqueEntryId": "wDrM2ExdLkKTKohtr",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04949",
@@ -6160,6 +6465,7 @@
     "filename": "RoomTexWallToy02",
     "internalId": 6866,
     "uniqueEntryId": "hrZPmBpEgQ8SZm2oe",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06866",
@@ -6212,6 +6518,27 @@
     "filename": "RoomSpWallChurch02",
     "internalId": 12469,
     "uniqueEntryId": "WvGCWHyf2NKwuiZ7Z",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 28,
+      "version": "1.2.0",
+      "english": "wedding",
+      "englishEurope": "wedding",
+      "german": "Hochzeit",
+      "spanish": "boda",
+      "spanishUs": "boda",
+      "french": "mariage",
+      "frenchUs": "mariage",
+      "italian": "fiori d'arancio",
+      "dutch": "trouwstijl",
+      "chinese": "婚礼",
+      "chineseTraditional": "婚禮",
+      "japanese": "ウェディング",
+      "korean": "웨딩",
+      "russian": "Свадьба",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_12469",
@@ -6264,6 +6591,7 @@
     "filename": "RoomTexWallStucco04",
     "internalId": 4812,
     "uniqueEntryId": "3ZHQo8e8Wqgw4cpwy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04812",
@@ -6316,6 +6644,7 @@
     "filename": "RoomTexWallPsyche00",
     "internalId": 4846,
     "uniqueEntryId": "gt5Bv4qHoaZ9QCyj4",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04846",
@@ -6368,6 +6697,7 @@
     "filename": "RoomTexWallOriental00",
     "internalId": 11180,
     "uniqueEntryId": "uCzqeq8GvfKRsWRd4",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_11180",
@@ -6420,6 +6750,7 @@
     "filename": "RoomTexWallThickCurtain00",
     "internalId": 4878,
     "uniqueEntryId": "mKPtEN398qGZ7Yryu",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04878",
@@ -6472,6 +6803,7 @@
     "filename": "RoomTexWallHoney00",
     "internalId": 4865,
     "uniqueEntryId": "hB3LqvkNidDmzrZ8z",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04865",
@@ -6563,6 +6895,7 @@
     "filename": "RoomTexWallHoneycomb00",
     "internalId": 4909,
     "uniqueEntryId": "S3bCMm6KGHKF6Ynzg",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04909",
@@ -6615,6 +6948,27 @@
     "filename": "RoomSpWallIce00",
     "internalId": 5505,
     "uniqueEntryId": "d84Y3R4CzrtjCasov",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 18,
+      "version": "1.0.0",
+      "english": "frozen",
+      "englishEurope": "frozen",
+      "german": "Eis",
+      "spanish": "iceberg",
+      "spanishUs": "iceberg",
+      "french": "arctique",
+      "frenchUs": "arctique",
+      "italian": "iceberg",
+      "dutch": "ijsstijl",
+      "chinese": "冰块",
+      "chineseTraditional": "冰塊",
+      "japanese": "こおり",
+      "korean": "얼음",
+      "russian": "Лед",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05505",
@@ -6706,6 +7060,7 @@
     "filename": "RoomTexWallIceFloe00",
     "internalId": 5662,
     "uniqueEntryId": "XqrwARWP9bzsmsjiF",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05662",
@@ -6797,6 +7152,7 @@
     "filename": "RoomTexWallDynasty00",
     "internalId": 5224,
     "uniqueEntryId": "YkuzvDjqXDB9CYHhm",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05224",
@@ -6849,6 +7205,7 @@
     "filename": "RoomTexWallFactory00",
     "internalId": 4876,
     "uniqueEntryId": "ao5GCHQqnwssDNRGN",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04876",
@@ -6901,6 +7258,7 @@
     "filename": "RoomTexWallIvy00",
     "internalId": 4850,
     "uniqueEntryId": "t6XmWqkyhZt8Axyeh",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04850",
@@ -6953,6 +7311,7 @@
     "filename": "RoomTexWallJungle00",
     "internalId": 5457,
     "uniqueEntryId": "pJFdFWHgQRiYAn67i",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05457",
@@ -7044,6 +7403,7 @@
     "filename": "RoomTexWallKiss00",
     "internalId": 4881,
     "uniqueEntryId": "ZeuGwoWptbyaQDsbu",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04881",
@@ -7096,6 +7456,7 @@
     "filename": "RoomSpWallLabo00",
     "internalId": 5495,
     "uniqueEntryId": "kNrqC5Xs7RFybYfkN",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05495",
@@ -7148,6 +7509,7 @@
     "filename": "RoomTexWallLattice00",
     "internalId": 4830,
     "uniqueEntryId": "ZQFuCuh6fdtufMYzs",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04830",
@@ -7200,6 +7562,7 @@
     "filename": "RoomSpWallVolcano00",
     "internalId": 5506,
     "uniqueEntryId": "ugvpYYqX4F9bgLbnj",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05506",
@@ -7252,6 +7615,7 @@
     "filename": "RoomTexWallLibrary01",
     "internalId": 4838,
     "uniqueEntryId": "wRBeXRoDHw6Curx44",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04838",
@@ -7343,6 +7707,7 @@
     "filename": "RoomTexWallMangrove00",
     "internalId": 5514,
     "uniqueEntryId": "j8cYo8ozHYBaAm3JH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05514",
@@ -7395,6 +7760,7 @@
     "filename": "RoomTexWallFish00",
     "internalId": 4879,
     "uniqueEntryId": "DmheJHpCg6xk8dX3R",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04879",
@@ -7447,6 +7813,7 @@
     "filename": "RoomSpWallHighLands00",
     "internalId": 5484,
     "uniqueEntryId": "QdWj45HftWrWwC3dH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05484",
@@ -7499,6 +7866,7 @@
     "filename": "RoomSpWallMermaid00",
     "internalId": 12566,
     "uniqueEntryId": "MP44TSDm3ADQzbMq2",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_12566",
@@ -7597,6 +7965,7 @@
     "filename": "RoomSpWallRain00",
     "internalId": 11915,
     "uniqueEntryId": "hgiWgFTr76YtZH8sH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_11915",
@@ -7649,6 +8018,7 @@
     "filename": "RoomTexWallMod00",
     "internalId": 4908,
     "uniqueEntryId": "Tiya4QoMRwThyKcG8",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04908",
@@ -7701,6 +8071,7 @@
     "filename": "RoomSpWallShojiModem00",
     "internalId": 4864,
     "uniqueEntryId": "WBh8T7xJBavLRKZpB",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04864",
@@ -7753,6 +8124,7 @@
     "filename": "RoomTexWallMud02",
     "internalId": 11178,
     "uniqueEntryId": "Yk5NZC7SSyjDEpnA7",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_11178",
@@ -7805,6 +8177,7 @@
     "filename": "RoomTexWallMixwood00",
     "internalId": 4904,
     "uniqueEntryId": "KZjTLMR8uhbpJGQ64",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04904",
@@ -7896,6 +8269,7 @@
     "filename": "RoomTexWallDot00",
     "internalId": 4892,
     "uniqueEntryId": "SWkrbmL8ME6NeQd9Q",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04892",
@@ -7948,6 +8322,7 @@
     "filename": "RoomTexWallTile00",
     "internalId": 4910,
     "uniqueEntryId": "6pk8nNbm4EmT3PrBr",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04910",
@@ -8000,6 +8375,7 @@
     "filename": "RoomTexWallPlaster00",
     "internalId": 5215,
     "uniqueEntryId": "mfRLEniEAEB9YAjCY",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05215",
@@ -8052,6 +8428,7 @@
     "filename": "RoomTexWallMosaicTile00",
     "internalId": 4862,
     "uniqueEntryId": "2T8d9sRKwijHhESDS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04862",
@@ -8104,6 +8481,7 @@
     "filename": "RoomTexWallMoss00",
     "internalId": 5458,
     "uniqueEntryId": "nuuPHdxH5skMPdehs",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05458",
@@ -8156,6 +8534,27 @@
     "filename": "RoomTexWallMush00",
     "internalId": 5164,
     "uniqueEntryId": "6xJHWgQgJA9e2n4jJ",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 8,
+      "version": "1.0.0",
+      "english": "mush",
+      "englishEurope": "mush",
+      "german": "Pilz",
+      "spanish": "hongo",
+      "spanishUs": "hongo",
+      "french": "champi",
+      "frenchUs": "champi",
+      "italian": "fungo",
+      "dutch": "paddenstoelenstijl",
+      "chinese": "蘑菇",
+      "chineseTraditional": "蘑菇",
+      "japanese": "キノコ",
+      "korean": "버섯",
+      "russian": "Грибы",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05164",
@@ -8252,6 +8651,7 @@
     "filename": "RoomSpWallHorizon00",
     "internalId": 5486,
     "uniqueEntryId": "BYpn3AZyJ8PWCAxHj",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05486",
@@ -8304,6 +8704,7 @@
     "filename": "RoomTexWallOffice00",
     "internalId": 5218,
     "uniqueEntryId": "gSMtrRvmA9mYgtKtD",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05218",
@@ -8356,6 +8757,7 @@
     "filename": "RoomTexWallOld00",
     "internalId": 4857,
     "uniqueEntryId": "LvLyyhmz3TH3qjBi4",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04857",
@@ -8408,6 +8810,7 @@
     "filename": "RoomTexWallMorocco03",
     "internalId": 6863,
     "uniqueEntryId": "z5bNEBbKNL56CwQKo",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06863",
@@ -8460,6 +8863,7 @@
     "filename": "RoomTexWallCamouflage03",
     "internalId": 6855,
     "uniqueEntryId": "xiaFSrf6okC624pCz",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06855",
@@ -8512,6 +8916,7 @@
     "filename": "RoomTexWallPanelMold00",
     "internalId": 4870,
     "uniqueEntryId": "zW3vwqmKDGhK68rCJ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04870",
@@ -8564,6 +8969,27 @@
     "filename": "RoomTexWallOrange00",
     "internalId": 4915,
     "uniqueEntryId": "4GirW6p4notkWfhs7",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 13,
+      "version": "1.0.0",
+      "english": "fruits",
+      "englishEurope": "fruits",
+      "german": "Obst",
+      "spanish": "frutal",
+      "spanishUs": "frutal",
+      "french": "fruit",
+      "frenchUs": "fruit",
+      "italian": "frutta",
+      "dutch": "fruitstijl",
+      "chinese": "水果",
+      "chineseTraditional": "水果",
+      "japanese": "フルーツ",
+      "korean": "프루트",
+      "russian": "Фрукты",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04915",
@@ -8655,6 +9081,7 @@
     "filename": "RoomTexWallStucco01",
     "internalId": 4809,
     "uniqueEntryId": "TFsdbmb9sti7Gz3pt",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04809",
@@ -8707,6 +9134,7 @@
     "filename": "RoomTexWallAtelier00",
     "internalId": 4854,
     "uniqueEntryId": "qnE76Sd6WdnihirBL",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04854",
@@ -8759,6 +9187,7 @@
     "filename": "RoomSpWallPalace00",
     "internalId": 5502,
     "uniqueEntryId": "fGigBL7P6sRsv25Au",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05502",
@@ -8811,6 +9240,7 @@
     "filename": "RoomTexWallParty00",
     "internalId": 5226,
     "uniqueEntryId": "9v4H4NeFMQR9tKLj7",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05226",
@@ -8863,6 +9293,7 @@
     "filename": "RoomTexWallDot01",
     "internalId": 4899,
     "uniqueEntryId": "m4ha6kr7tPuio5AcL",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04899",
@@ -8915,6 +9346,7 @@
     "filename": "RoomTexWallPuzzle00",
     "internalId": 4886,
     "uniqueEntryId": "b3EvGiavTx8QPHrfP",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04886",
@@ -8967,6 +9399,7 @@
     "filename": "RoomTexWallTwoToneTile04",
     "internalId": 6857,
     "uniqueEntryId": "m9bGMPzT4cjdMddyY",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06857",
@@ -9019,6 +9452,27 @@
     "filename": "RoomTexWallPeach00",
     "internalId": 4918,
     "uniqueEntryId": "cpGXBrDm4SXGAXraz",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 13,
+      "version": "1.0.0",
+      "english": "fruits",
+      "englishEurope": "fruits",
+      "german": "Obst",
+      "spanish": "frutal",
+      "spanishUs": "frutal",
+      "french": "fruit",
+      "frenchUs": "fruit",
+      "italian": "frutta",
+      "dutch": "fruitstijl",
+      "chinese": "水果",
+      "chineseTraditional": "水果",
+      "japanese": "フルーツ",
+      "korean": "프루트",
+      "russian": "Фрукты",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04918",
@@ -9110,6 +9564,27 @@
     "filename": "RoomTexWallPear00",
     "internalId": 4917,
     "uniqueEntryId": "vtaaw7vsoJD8meQuM",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 13,
+      "version": "1.0.0",
+      "english": "fruits",
+      "englishEurope": "fruits",
+      "german": "Obst",
+      "spanish": "frutal",
+      "spanishUs": "frutal",
+      "french": "fruit",
+      "frenchUs": "fruit",
+      "italian": "frutta",
+      "dutch": "fruitstijl",
+      "chinese": "水果",
+      "chineseTraditional": "水果",
+      "japanese": "フルーツ",
+      "korean": "프루트",
+      "russian": "Фрукты",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04917",
@@ -9201,6 +9676,7 @@
     "filename": "RoomTexWallPegboard01",
     "internalId": 4921,
     "uniqueEntryId": "BThQrmfp4EnBqyfv3",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04921",
@@ -9253,6 +9729,7 @@
     "filename": "RoomTexWallCountry01",
     "internalId": 4895,
     "uniqueEntryId": "zgZSrtarnCJG53AdD",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04895",
@@ -9305,6 +9782,7 @@
     "filename": "RoomTexWallDiner01",
     "internalId": 7242,
     "uniqueEntryId": "MXeKHor4q66HH3GJs",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07242",
@@ -9357,6 +9835,7 @@
     "filename": "RoomTexWallFlower00",
     "internalId": 4893,
     "uniqueEntryId": "eCN5rZb7sXsoWSCmW",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04893",
@@ -9409,6 +9888,7 @@
     "filename": "RoomTexWallHeart01",
     "internalId": 4875,
     "uniqueEntryId": "4f732CJdDvXxHDQsd",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04875",
@@ -9461,6 +9941,7 @@
     "filename": "RoomTexWallPaintWood02",
     "internalId": 4802,
     "uniqueEntryId": "tjx2TsuHTcr4jaMHM",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04802",
@@ -9513,6 +9994,7 @@
     "filename": "RoomTexWallToy01",
     "internalId": 4889,
     "uniqueEntryId": "xYNWemEyTsD9zG8iC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04889",
@@ -9565,6 +10047,7 @@
     "filename": "RoomTexWallDollhouse00",
     "internalId": 7274,
     "uniqueEntryId": "gToedZLPo7MbMvpah",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07274",
@@ -9617,6 +10100,7 @@
     "filename": "RoomTexWallTin01",
     "internalId": 4924,
     "uniqueEntryId": "WfmPknxrLpp25SMbS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04924",
@@ -9669,6 +10153,7 @@
     "filename": "RoomTexWallSimple02",
     "internalId": 4868,
     "uniqueEntryId": "mH2zs7NpfPgERmHwm",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04868",
@@ -9721,6 +10206,7 @@
     "filename": "RoomTexWallCrown02",
     "internalId": 4816,
     "uniqueEntryId": "cwBg3xvzjfh2qm7Lg",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04816",
@@ -9773,6 +10259,7 @@
     "filename": "RoomTexWallStripe01",
     "internalId": 4943,
     "uniqueEntryId": "Pwd2z87xxFm52tA28",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04943",
@@ -9825,6 +10312,7 @@
     "filename": "RoomSpWallPirates00",
     "internalId": 12567,
     "uniqueEntryId": "DydGczJz6fqyAZJuA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_12567",
@@ -9877,6 +10365,7 @@
     "filename": "RoomTexWallCamouflage02",
     "internalId": 4885,
     "uniqueEntryId": "AY2jSyyAd4BD74xQ7",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04885",
@@ -9929,6 +10418,7 @@
     "filename": "RoomTexWallMorocco02",
     "internalId": 6864,
     "uniqueEntryId": "2y5jPPPs3so7APToC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06864",
@@ -9981,6 +10471,7 @@
     "filename": "RoomTexWallDot04",
     "internalId": 4902,
     "uniqueEntryId": "JRu4Xs5kYG4ognk2P",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04902",
@@ -10033,6 +10524,7 @@
     "filename": "RoomTexWallPuzzle03",
     "internalId": 6875,
     "uniqueEntryId": "iG8MR3f2F2jDsLjT9",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06875",
@@ -10085,6 +10577,7 @@
     "filename": "RoomTexWallDollhouse03",
     "internalId": 7275,
     "uniqueEntryId": "tmY5uczEnYXA6fdeQ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07275",
@@ -10137,6 +10630,7 @@
     "filename": "RoomTexWallRose01",
     "internalId": 4907,
     "uniqueEntryId": "kHEHhFZSfDXTHtZAa",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04907",
@@ -10189,6 +10683,7 @@
     "filename": "RoomTexWallHanchiku00",
     "internalId": 4845,
     "uniqueEntryId": "9AafcLh3QkLp2tdWj",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04845",
@@ -10241,6 +10736,7 @@
     "filename": "RoomTexWallRuins00",
     "internalId": 5225,
     "uniqueEntryId": "bTb98gEchXobwaqdt",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05225",
@@ -10293,6 +10789,7 @@
     "filename": "RoomTexWallArtDeco01",
     "internalId": 4818,
     "uniqueEntryId": "R3zgKkrxc3ar4y9A8",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04818",
@@ -10345,6 +10842,7 @@
     "filename": "RoomTexWallManor01",
     "internalId": 4897,
     "uniqueEntryId": "F7oWFwEAh4evtkJcb",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04897",
@@ -10397,6 +10895,7 @@
     "filename": "RoomTexWallDot02",
     "internalId": 4900,
     "uniqueEntryId": "3mfqbt8sXR88eDfTk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04900",
@@ -10449,6 +10948,7 @@
     "filename": "RoomTexWallHeart03",
     "internalId": 6870,
     "uniqueEntryId": "TPrtAkkWJa7KpLady",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06870",
@@ -10501,6 +11001,7 @@
     "filename": "RoomTexWallFlowerPop03",
     "internalId": 6879,
     "uniqueEntryId": "yasngHr44QgXc9tYs",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06879",
@@ -10553,6 +11054,7 @@
     "filename": "RoomTexWallPegboard03",
     "internalId": 6853,
     "uniqueEntryId": "TCLSE3BdkCQeiM7wX",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06853",
@@ -10605,6 +11107,7 @@
     "filename": "RoomTexWallTwoToneTile03",
     "internalId": 6856,
     "uniqueEntryId": "u9dKmtft32t4cxxiW",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06856",
@@ -10657,6 +11160,7 @@
     "filename": "RoomTexWallBrick01",
     "internalId": 4928,
     "uniqueEntryId": "Hu3jyiCP23j78PCdX",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04928",
@@ -10709,6 +11213,7 @@
     "filename": "RoomTexWallKitsch00",
     "internalId": 4847,
     "uniqueEntryId": "MdWwebM7zyeBdykxp",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04847",
@@ -10761,6 +11266,7 @@
     "filename": "RoomSpWallFarm00",
     "internalId": 5487,
     "uniqueEntryId": "TnHvGeJGKioxc95mH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05487",
@@ -10813,6 +11319,7 @@
     "filename": "RoomSpWallWrestling00",
     "internalId": 5512,
     "uniqueEntryId": "bg9rQRYAbzeD8rLCw",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05512",
@@ -10865,6 +11372,7 @@
     "filename": "RoomTexWallBouldering00",
     "internalId": 4851,
     "uniqueEntryId": "CRvqDNWfXzY2ibXvG",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04851",
@@ -10917,6 +11425,7 @@
     "filename": "RoomTexWallRose00",
     "internalId": 4906,
     "uniqueEntryId": "azgSWFRcgeuopRWrH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04906",
@@ -10969,6 +11478,7 @@
     "filename": "RoomTexWallRemains00",
     "internalId": 5228,
     "uniqueEntryId": "ZHiKhqts5brebhYH9",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05228",
@@ -11021,6 +11531,7 @@
     "filename": "RoomTexWallStone00",
     "internalId": 4813,
     "uniqueEntryId": "xP7S673w2oNwNHowp",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04813",
@@ -11112,6 +11623,27 @@
     "filename": "RoomTexWallSolidWood00",
     "internalId": 4947,
     "uniqueEntryId": "jFtMrj8NBC3o4ALzG",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 22,
+      "version": "1.0.0",
+      "english": "cherry blossoms",
+      "englishEurope": "cherry blossoms",
+      "german": "Kirschblüten",
+      "spanish": "flor de cerezo",
+      "spanishUs": "flor de cerezo",
+      "french": "fleur de cerisier",
+      "frenchUs": "fleur de cerisier",
+      "italian": "ciliegio",
+      "dutch": "kersenbloesemstijl",
+      "chinese": "樱花",
+      "chineseTraditional": "櫻花",
+      "japanese": "さくら",
+      "korean": "벚꽃",
+      "russian": "Вишня в цвету",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04947",
@@ -11203,6 +11735,7 @@
     "filename": "RoomSpWallSF00",
     "internalId": 5510,
     "uniqueEntryId": "y48TLWMbXCbrWQp5a",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05510",
@@ -11294,6 +11827,7 @@
     "filename": "RoomTexWallFusuma00",
     "internalId": 4819,
     "uniqueEntryId": "wk4ST89FjabXnZPXy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04819",
@@ -11346,6 +11880,7 @@
     "filename": "RoomSpWallSeaView00",
     "internalId": 5501,
     "uniqueEntryId": "fHQn9EzoTxznm7nJ9",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05501",
@@ -11398,6 +11933,7 @@
     "filename": "RoomSpWallMonitor00",
     "internalId": 5491,
     "uniqueEntryId": "N6T3rBvQdYoJoXkrH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05491",
@@ -11450,6 +11986,7 @@
     "filename": "RoomTexWallPuzzle02",
     "internalId": 6874,
     "uniqueEntryId": "2mtYv7D25wDqMWi6P",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06874",
@@ -11502,6 +12039,7 @@
     "filename": "RoomSpWallServer00",
     "internalId": 5490,
     "uniqueEntryId": "ycnhxNaWfeXEq5x7A",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05490",
@@ -11554,6 +12092,7 @@
     "filename": "RoomSpWallShoji00",
     "internalId": 4863,
     "uniqueEntryId": "5RdqeAZAvdCR5QxqM",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04863",
@@ -11606,6 +12145,7 @@
     "filename": "RoomTexWallShutter00",
     "internalId": 4825,
     "uniqueEntryId": "4ez74JDpR9kmiroQr",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04825",
@@ -11658,6 +12198,7 @@
     "filename": "RoomSpWallGelande00",
     "internalId": 5498,
     "uniqueEntryId": "hCdDcFDBWEe6pmctp",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05498",
@@ -11749,6 +12290,7 @@
     "filename": "RoomSpWallSkull00",
     "internalId": 5520,
     "uniqueEntryId": "7GLt2YDxMDyp8EJth",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05520",
@@ -11801,6 +12343,7 @@
     "filename": "RoomSpWallCloud00",
     "internalId": 5504,
     "uniqueEntryId": "9YmTrPqSZRCvxRtLi",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05504",
@@ -11853,6 +12396,7 @@
     "filename": "RoomTexWallSkyscraper00",
     "internalId": 4852,
     "uniqueEntryId": "Ah36ZRM9QBHBt7HZF",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04852",
@@ -11905,6 +12449,7 @@
     "filename": "RoomTexWallSnowCrystal00",
     "internalId": 4855,
     "uniqueEntryId": "w5MEjbgphAwDo42mk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04855",
@@ -11996,6 +12541,7 @@
     "filename": "RoomTexWallMud01",
     "internalId": 11177,
     "uniqueEntryId": "Bke28iGoY3LhDagx4",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_11177",
@@ -12048,6 +12594,7 @@
     "filename": "RoomTexWallFireWood00",
     "internalId": 4844,
     "uniqueEntryId": "TZi9bo7GYzJxPJNNe",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04844",
@@ -12139,6 +12686,7 @@
     "filename": "RoomSpWallStadium00",
     "internalId": 5503,
     "uniqueEntryId": "oJoGTXMzLnYTpdBaf",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05503",
@@ -12191,6 +12739,7 @@
     "filename": "RoomTexWallMud00",
     "internalId": 5521,
     "uniqueEntryId": "4Zv8KLzxrsm6k53pN",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05521",
@@ -12243,6 +12792,7 @@
     "filename": "RoomSpWallStarPrint00",
     "internalId": 5528,
     "uniqueEntryId": "sjnLXANKDEPMzdGbn",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05528",
@@ -12334,6 +12884,27 @@
     "filename": "RoomSpWallStarSky00",
     "internalId": 5500,
     "uniqueEntryId": "iMQgW8pWYPWbj9Qom",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 19,
+      "version": "1.0.0",
+      "english": "stars",
+      "englishEurope": "stars",
+      "german": "Stern",
+      "spanish": "estrella",
+      "spanishUs": "estrella",
+      "french": "étoile",
+      "frenchUs": "étoile",
+      "italian": "stella",
+      "dutch": "sterrenstijl",
+      "chinese": "星星",
+      "chineseTraditional": "星星",
+      "japanese": "ほし",
+      "korean": "별",
+      "russian": "Звезды",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05500",
@@ -12425,6 +12996,7 @@
     "filename": "RoomTexWallRenaissance00",
     "internalId": 4861,
     "uniqueEntryId": "BdPATBHc8m7YvJzwP",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04861",
@@ -12477,6 +13049,7 @@
     "filename": "RoomTexWallSteel00",
     "internalId": 4801,
     "uniqueEntryId": "K2uSKanJ3r6bQt6MG",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04801",
@@ -12568,6 +13141,7 @@
     "filename": "RoomTexWallBasement00",
     "internalId": 5216,
     "uniqueEntryId": "8hnPcADHfoEpvgSAS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05216",
@@ -12659,6 +13233,7 @@
     "filename": "RoomSpWallThunder00",
     "internalId": 5499,
     "uniqueEntryId": "Y3sjyMeHtDFcdBfrM",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05499",
@@ -12711,6 +13286,7 @@
     "filename": "RoomTexWallStraw00",
     "internalId": 5217,
     "uniqueEntryId": "u3orRaGAX2iwdtCLG",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05217",
@@ -12763,6 +13339,7 @@
     "filename": "RoomTexWallChocolate02",
     "internalId": 4934,
     "uniqueEntryId": "G5QeNa2L26MwuCexA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04934",
@@ -12815,6 +13392,7 @@
     "filename": "RoomTexWallStreetArt00",
     "internalId": 5221,
     "uniqueEntryId": "88hCuytidryqimPXr",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05221",
@@ -12867,6 +13445,7 @@
     "filename": "RoomSpWallMountainTop00",
     "internalId": 5513,
     "uniqueEntryId": "hFmF2iNjDvLGfF3Rf",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05513",
@@ -12919,6 +13498,7 @@
     "filename": "RoomTexWallRoadsideTree00",
     "internalId": 5456,
     "uniqueEntryId": "aLzrLXC7Nyk6h6pDw",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05456",
@@ -12971,6 +13551,7 @@
     "filename": "RoomSpWallTropical00",
     "internalId": 5661,
     "uniqueEntryId": "sZgNFwEcxpLSAxB4X",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05661",
@@ -13062,6 +13643,7 @@
     "filename": "RoomSpWallFishTank00",
     "internalId": 5508,
     "uniqueEntryId": "QXNnruZcwJursNmjP",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05508",
@@ -13153,6 +13735,7 @@
     "filename": "RoomTexWallWaveTile00",
     "internalId": 4832,
     "uniqueEntryId": "eLQ2JDZKjrzcnP9gn",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04832",
@@ -13205,6 +13788,27 @@
     "filename": "RoomTexWallJuneBride00",
     "internalId": 12461,
     "uniqueEntryId": "xT6kyFtbGPpR8nRM3",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 28,
+      "version": "1.2.0",
+      "english": "wedding",
+      "englishEurope": "wedding",
+      "german": "Hochzeit",
+      "spanish": "boda",
+      "spanishUs": "boda",
+      "french": "mariage",
+      "frenchUs": "mariage",
+      "italian": "fiori d'arancio",
+      "dutch": "trouwstijl",
+      "chinese": "婚礼",
+      "chineseTraditional": "婚禮",
+      "japanese": "ウェディング",
+      "korean": "웨딩",
+      "russian": "Свадьба",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_12461",
@@ -13257,6 +13861,7 @@
     "filename": "RoomSpWallWilderness00",
     "internalId": 5489,
     "uniqueEntryId": "tYFKmm4XzGGGQAcfG",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05489",
@@ -13309,6 +13914,7 @@
     "filename": "RoomTexWallWoodTile00",
     "internalId": 4826,
     "uniqueEntryId": "QyrvwKiKMmNvm7KxR",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04826",
@@ -13361,6 +13967,7 @@
     "filename": "RoomTexWallManor00",
     "internalId": 4891,
     "uniqueEntryId": "ZDpt8b6TTGr2hihP5",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04891",
@@ -13413,6 +14020,7 @@
     "filename": "RoomTexWallHall02",
     "internalId": 6861,
     "uniqueEntryId": "HZoM3iHpKrQPBK2Gh",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06861",
@@ -13465,6 +14073,7 @@
     "filename": "RoomTexWallHoneycomb03",
     "internalId": 4914,
     "uniqueEntryId": "K8mdzBZZeBLxZEAzZ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04914",
@@ -13517,6 +14126,7 @@
     "filename": "RoomTexWallPaintWood03",
     "internalId": 4803,
     "uniqueEntryId": "cN4bnHaw4mruhnMZk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04803",
@@ -13569,6 +14179,7 @@
     "filename": "RoomTexWallPegboard00",
     "internalId": 4920,
     "uniqueEntryId": "krohWS7x49N2hCKrF",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04920",
@@ -13621,6 +14232,7 @@
     "filename": "RoomTexWallSimple00",
     "internalId": 4939,
     "uniqueEntryId": "z2Zh2fzFwCbvMDm8J",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04939",
@@ -13673,6 +14285,7 @@
     "filename": "RoomTexWallMetro01",
     "internalId": 4941,
     "uniqueEntryId": "ajXm5zy9pwf7XEyHF",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04941",
@@ -13725,6 +14338,27 @@
     "filename": "RoomSpWallChurch00",
     "internalId": 12466,
     "uniqueEntryId": "mKuptCLkH2MknX2PN",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 28,
+      "version": "1.2.0",
+      "english": "wedding",
+      "englishEurope": "wedding",
+      "german": "Hochzeit",
+      "spanish": "boda",
+      "spanishUs": "boda",
+      "french": "mariage",
+      "frenchUs": "mariage",
+      "italian": "fiori d'arancio",
+      "dutch": "trouwstijl",
+      "chinese": "婚礼",
+      "chineseTraditional": "婚禮",
+      "japanese": "ウェディング",
+      "korean": "웨딩",
+      "russian": "Свадьба",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_12466",
@@ -13777,6 +14411,7 @@
     "filename": "RoomTexWallBrick00",
     "internalId": 4927,
     "uniqueEntryId": "htjwxjceb2hc6GxjX",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04927",
@@ -13829,6 +14464,7 @@
     "filename": "RoomTexWallChocolate01",
     "internalId": 4933,
     "uniqueEntryId": "6qMhFdc2nDSvJSCfT",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04933",
@@ -13881,6 +14517,7 @@
     "filename": "RoomTexWallRose02",
     "internalId": 6868,
     "uniqueEntryId": "yksDvcnnKqM7tnzas",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06868",
@@ -13933,6 +14570,7 @@
     "filename": "RoomTexWallWildWood00",
     "internalId": 4858,
     "uniqueEntryId": "vhJr7B96SnG3xQQCs",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04858",
@@ -14024,6 +14662,7 @@
     "filename": "RoomTexWallCedar00",
     "internalId": 4911,
     "uniqueEntryId": "puQYs9hygxfcQWsjt",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04911",
@@ -14115,6 +14754,7 @@
     "filename": "RoomTexWallMixPlankWood00",
     "internalId": 4859,
     "uniqueEntryId": "RgzoarteJyzD4xSAm",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04859",
@@ -14206,6 +14846,7 @@
     "filename": "RoomTexWallJukai00",
     "internalId": 5223,
     "uniqueEntryId": "2B4YTYqnm64vgANY4",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_05223",
@@ -14297,6 +14938,7 @@
     "filename": "RoomTexWallFlower02",
     "internalId": 6872,
     "uniqueEntryId": "esknqzcAenk8uqzYk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06872",
@@ -14349,6 +14991,7 @@
     "filename": "RoomTexWallHeart02",
     "internalId": 6871,
     "uniqueEntryId": "BqWMEqc2tL8CnPAmd",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06871",
@@ -14401,6 +15044,7 @@
     "filename": "RoomTexWallFlowerPop01",
     "internalId": 4849,
     "uniqueEntryId": "FrZas8MjMdjDTPvkX",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04849",
@@ -14453,6 +15097,7 @@
     "filename": "RoomTexWallToy03",
     "internalId": 6865,
     "uniqueEntryId": "mraytANoYBQvA8qAk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_06865",
@@ -14505,6 +15150,7 @@
     "filename": "RoomTexWallDollhouse02",
     "internalId": 7276,
     "uniqueEntryId": "ysEdh2vpCpg5qBcNg",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_07276",
@@ -14557,6 +15203,7 @@
     "filename": "RoomTexWallSimple01",
     "internalId": 4867,
     "uniqueEntryId": "7sSXFNqcYgPMcGY8k",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04867",
@@ -14609,6 +15256,7 @@
     "filename": "RoomTexWallStucco00",
     "internalId": 4808,
     "uniqueEntryId": "TySAA4kKqyvGGeZ5C",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04808",
@@ -14661,6 +15309,7 @@
     "filename": "RoomTexWallStripe04",
     "internalId": 4946,
     "uniqueEntryId": "N6sef3YhY973LDgdR",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Walls",
       "id": "RoomWall_04946",

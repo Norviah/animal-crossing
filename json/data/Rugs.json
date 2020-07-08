@@ -18,6 +18,7 @@
     "filename": "RugOtherBellM00",
     "internalId": 12214,
     "uniqueEntryId": "KfRapmYKpizqQWzCg",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_12214",
@@ -64,6 +65,27 @@
     "filename": "RugOtherEasterM00",
     "internalId": 7546,
     "uniqueEntryId": "6tC8Zhswobdah6ftE",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 27,
+      "version": "1.1.0",
+      "english": "Bunny Day",
+      "englishEurope": "Bunny Day",
+      "german": "Häschentag",
+      "spanish": "Caza del Huevo",
+      "spanishUs": "Caza del Huevo",
+      "french": "Fête des œufs",
+      "frenchUs": "Fête des œufs",
+      "italian": "caccia all'uovo",
+      "dutch": "eierstijl",
+      "chinese": "复活节",
+      "chineseTraditional": "復活節",
+      "japanese": "イースター",
+      "korean": "이스터",
+      "russian": "День зайцев",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07546",
@@ -156,6 +178,7 @@
     "filename": "RugRoundEarthM00",
     "internalId": 7357,
     "uniqueEntryId": "RPF9JQeXN8cD4afuE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07357",
@@ -202,6 +225,27 @@
     "filename": "RugRectMomS00",
     "internalId": 7402,
     "uniqueEntryId": "QR6HWdrKgLeoFAkzR",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 25,
+      "version": "1.0.0",
+      "english": "motherly",
+      "englishEurope": "motherly",
+      "german": "Mama",
+      "spanish": "mamá",
+      "spanishUs": "mamá",
+      "french": "de maman",
+      "frenchUs": "de maman",
+      "italian": "mamma",
+      "dutch": "mama-stijl",
+      "chinese": "妈妈",
+      "chineseTraditional": "媽媽",
+      "japanese": "はは",
+      "korean": "엄마",
+      "russian": "Мама",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07402",
@@ -248,6 +292,27 @@
     "filename": "RugRectMomS02",
     "internalId": 9543,
     "uniqueEntryId": "MvLXeraTpCoKRqmWA",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 25,
+      "version": "1.0.0",
+      "english": "motherly",
+      "englishEurope": "motherly",
+      "german": "Mama",
+      "spanish": "mamá",
+      "spanishUs": "mamá",
+      "french": "de maman",
+      "frenchUs": "de maman",
+      "italian": "mamma",
+      "dutch": "mama-stijl",
+      "chinese": "妈妈",
+      "chineseTraditional": "媽媽",
+      "japanese": "はは",
+      "korean": "엄마",
+      "russian": "Мама",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09543",
@@ -294,6 +359,27 @@
     "filename": "RugRectMomS01",
     "internalId": 9542,
     "uniqueEntryId": "3F5HHssaHXMit7YMH",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 25,
+      "version": "1.0.0",
+      "english": "motherly",
+      "englishEurope": "motherly",
+      "german": "Mama",
+      "spanish": "mamá",
+      "spanishUs": "mamá",
+      "french": "de maman",
+      "frenchUs": "de maman",
+      "italian": "mamma",
+      "dutch": "mama-stijl",
+      "chinese": "妈妈",
+      "chineseTraditional": "媽媽",
+      "japanese": "はは",
+      "korean": "엄마",
+      "russian": "Мама",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09542",
@@ -340,6 +426,27 @@
     "filename": "RugRectMomS03",
     "internalId": 9541,
     "uniqueEntryId": "pe2KbbDbmkWPyd56c",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 25,
+      "version": "1.0.0",
+      "english": "motherly",
+      "englishEurope": "motherly",
+      "german": "Mama",
+      "spanish": "mamá",
+      "spanishUs": "mamá",
+      "french": "de maman",
+      "frenchUs": "de maman",
+      "italian": "mamma",
+      "dutch": "mama-stijl",
+      "chinese": "妈妈",
+      "chineseTraditional": "媽媽",
+      "japanese": "はは",
+      "korean": "엄마",
+      "russian": "Мама",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09541",
@@ -386,6 +493,7 @@
     "filename": "RugOtherTanukiM00",
     "internalId": 12325,
     "uniqueEntryId": "WiHenFMXuxj7q2rgq",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_12325",
@@ -432,6 +540,7 @@
     "filename": "RugOtherLeafM00",
     "internalId": 7364,
     "uniqueEntryId": "HFmdcXn43ApSRKdk4",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07364",
@@ -478,6 +587,7 @@
     "filename": "RugRectTanukiL00",
     "internalId": 12396,
     "uniqueEntryId": "XQ72LLzAakWbavKFr",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_12396",
@@ -524,6 +634,7 @@
     "filename": "RugRectAluminumM00",
     "internalId": 7356,
     "uniqueEntryId": "vFkuGbx8Sh2MDLEsq",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07356",
@@ -570,6 +681,27 @@
     "filename": "RugOtherAppleM00",
     "internalId": 7327,
     "uniqueEntryId": "5GsjYsaz9NDtQ6QFB",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 13,
+      "version": "1.0.0",
+      "english": "fruits",
+      "englishEurope": "fruits",
+      "german": "Obst",
+      "spanish": "frutal",
+      "spanishUs": "frutal",
+      "french": "fruit",
+      "frenchUs": "fruit",
+      "italian": "frutta",
+      "dutch": "fruitstijl",
+      "chinese": "水果",
+      "chineseTraditional": "水果",
+      "japanese": "フルーツ",
+      "korean": "프루트",
+      "russian": "Фрукты",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07327",
@@ -655,6 +787,7 @@
     "filename": "RugSquareBlockM03",
     "internalId": 11104,
     "uniqueEntryId": "4kj8FXzMTqvZvqEra",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_11104",
@@ -701,6 +834,7 @@
     "filename": "RugRectDeckM03",
     "internalId": 7382,
     "uniqueEntryId": "kQDKkEGfdAjqPxd4w",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07382",
@@ -747,6 +881,7 @@
     "filename": "RugRectNativeKitchenS03",
     "internalId": 7594,
     "uniqueEntryId": "G7CAPiAEpYv6QKbsL",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07594",
@@ -793,6 +928,7 @@
     "filename": "RugSquarePersianL01",
     "internalId": 8035,
     "uniqueEntryId": "CDY97qjWg4xG6egyS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08035",
@@ -839,6 +975,7 @@
     "filename": "RugRectArgyleL02",
     "internalId": 8467,
     "uniqueEntryId": "uw8DvCwwBia7ozA72",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08467",
@@ -885,6 +1022,7 @@
     "filename": "RugSquareBlockM01",
     "internalId": 11102,
     "uniqueEntryId": "Mjxd8kenDFZgTFXcm",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_11102",
@@ -931,6 +1069,7 @@
     "filename": "RugRectDotL03",
     "internalId": 7467,
     "uniqueEntryId": "JAAx9zSMrjXKKw2ij",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07467",
@@ -977,6 +1116,7 @@
     "filename": "RugSquareKirimL01",
     "internalId": 9316,
     "uniqueEntryId": "MhvdxvmyKtddid2G2",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09316",
@@ -1023,6 +1163,7 @@
     "filename": "RugRectKitchenS02",
     "internalId": 8394,
     "uniqueEntryId": "SLBDbK365pHRnKE5k",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08394",
@@ -1069,6 +1210,7 @@
     "filename": "RugRoundSimpleM02",
     "internalId": 9546,
     "uniqueEntryId": "JfLKCbWRz4CozZYpH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09546",
@@ -1115,6 +1257,7 @@
     "filename": "RugOtherMessageS01",
     "internalId": 9310,
     "uniqueEntryId": "5grLuDzGkNL4DYk4r",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09310",
@@ -1161,6 +1304,7 @@
     "filename": "RugSquareShaggyL02",
     "internalId": 9564,
     "uniqueEntryId": "v4ZJPY2ToZPHXp6KH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09564",
@@ -1207,6 +1351,7 @@
     "filename": "RugRoundSimpleS02",
     "internalId": 9549,
     "uniqueEntryId": "BxaqCsC7TqwGdHpib",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09549",
@@ -1253,6 +1398,7 @@
     "filename": "RugRectBorderL02",
     "internalId": 7533,
     "uniqueEntryId": "dAHzKeTqwA9wD2yfa",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07533",
@@ -1299,6 +1445,7 @@
     "filename": "RugRectVinylM01",
     "internalId": 7404,
     "uniqueEntryId": "b8xZjiyqLPWJsgt73",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07404",
@@ -1345,6 +1492,7 @@
     "filename": "RugRectWaveL02",
     "internalId": 7458,
     "uniqueEntryId": "SbRQxAyR7EZSRBb4j",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07458",
@@ -1391,6 +1539,27 @@
     "filename": "RugRectJuneBrideM00",
     "internalId": 12462,
     "uniqueEntryId": "ghEfAZG8Lt5sb8nt3",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 28,
+      "version": "1.2.0",
+      "english": "wedding",
+      "englishEurope": "wedding",
+      "german": "Hochzeit",
+      "spanish": "boda",
+      "spanishUs": "boda",
+      "french": "mariage",
+      "frenchUs": "mariage",
+      "italian": "fiori d'arancio",
+      "dutch": "trouwstijl",
+      "chinese": "婚礼",
+      "chineseTraditional": "婚禮",
+      "japanese": "ウェディング",
+      "korean": "웨딩",
+      "russian": "Свадьба",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_12462",
@@ -1437,6 +1606,7 @@
     "filename": "RugRectNativeKitchenS01",
     "internalId": 7595,
     "uniqueEntryId": "DiEHu3wPobZXzhhp8",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07595",
@@ -1483,6 +1653,7 @@
     "filename": "RugRectBotanicalL00",
     "internalId": 7353,
     "uniqueEntryId": "nEqsaya7wt6FsWwDC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07353",
@@ -1529,6 +1700,7 @@
     "filename": "RugRectArgyleL03",
     "internalId": 8468,
     "uniqueEntryId": "yrQTuyQr2m6axKkr2",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08468",
@@ -1575,6 +1747,7 @@
     "filename": "RugRectKitchenS00",
     "internalId": 7341,
     "uniqueEntryId": "2ya9gAeftrSe4YSmE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07341",
@@ -1621,6 +1794,7 @@
     "filename": "RugSquareShaggyL01",
     "internalId": 9563,
     "uniqueEntryId": "cAFej6s3C7T3DYykj",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09563",
@@ -1667,6 +1841,7 @@
     "filename": "RugRectDeckM00",
     "internalId": 7323,
     "uniqueEntryId": "MSPQjkRRMRGNRTeEt",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07323",
@@ -1713,6 +1888,27 @@
     "filename": "RugOtherCherryM00",
     "internalId": 7328,
     "uniqueEntryId": "R9Bxb8FQw7Fj2YuCa",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 13,
+      "version": "1.0.0",
+      "english": "fruits",
+      "englishEurope": "fruits",
+      "german": "Obst",
+      "spanish": "frutal",
+      "spanishUs": "frutal",
+      "french": "fruit",
+      "frenchUs": "fruit",
+      "italian": "frutta",
+      "dutch": "fruitstijl",
+      "chinese": "水果",
+      "chineseTraditional": "水果",
+      "japanese": "フルーツ",
+      "korean": "프루트",
+      "russian": "Фрукты",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07328",
@@ -1798,6 +1994,7 @@
     "filename": "RugRectVinylM00",
     "internalId": 7359,
     "uniqueEntryId": "FAAQgrJJM4svoYJb8",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07359",
@@ -1844,6 +2041,7 @@
     "filename": "RugRectBambooM01",
     "internalId": 11114,
     "uniqueEntryId": "yC3qR56GTSs3PZuJi",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_11114",
@@ -1929,6 +2127,7 @@
     "filename": "RugOtherFishM00",
     "internalId": 7361,
     "uniqueEntryId": "iWb2Ca8YMDYnpyDrx",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07361",
@@ -1975,6 +2174,7 @@
     "filename": "RugOtherCloudM00",
     "internalId": 7329,
     "uniqueEntryId": "DKPzh943uZYKHKsX7",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07329",
@@ -2021,6 +2221,7 @@
     "filename": "RugOtherFossilM00",
     "internalId": 7366,
     "uniqueEntryId": "P2tKuDsb8sxfpKXh3",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07366",
@@ -2067,6 +2268,7 @@
     "filename": "RugSquareCheckQuiltL03",
     "internalId": 7464,
     "uniqueEntryId": "hAYpTXLShJh7p5gcB",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07464",
@@ -2113,6 +2315,7 @@
     "filename": "RugSquareKirimL02",
     "internalId": 9314,
     "uniqueEntryId": "86w3TxnYsZLSzeX2q",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09314",
@@ -2159,6 +2362,7 @@
     "filename": "RugRectKitchenS03",
     "internalId": 8393,
     "uniqueEntryId": "QpRcMgKRTNvayFdy9",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08393",
@@ -2205,6 +2409,7 @@
     "filename": "RugSquareShaggyL00",
     "internalId": 7354,
     "uniqueEntryId": "hNWup2nSxzMMsGfyy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07354",
@@ -2251,6 +2456,7 @@
     "filename": "RugRectBorderL03",
     "internalId": 7534,
     "uniqueEntryId": "DEEzqeCYXaxA8i63W",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07534",
@@ -2297,6 +2503,27 @@
     "filename": "RugRectIronmatS00",
     "internalId": 7337,
     "uniqueEntryId": "KaHhjd5QbpmmmhkCg",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 1,
+      "version": "1.0.0",
+      "english": "iron",
+      "englishEurope": "iron",
+      "german": "Eisen",
+      "spanish": "hierro",
+      "spanishUs": "hierro",
+      "french": "fer",
+      "frenchUs": "fer",
+      "italian": "ferro",
+      "dutch": "ijzeren stijl",
+      "chinese": "铸铁",
+      "chineseTraditional": "鑄鐵",
+      "japanese": "アイアン",
+      "korean": "아이언",
+      "russian": "Железо",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07337",
@@ -2343,6 +2570,7 @@
     "filename": "RugRoundSimpleM00",
     "internalId": 7325,
     "uniqueEntryId": "ucw27wEffTFj9DK4v",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07325",
@@ -2389,6 +2617,7 @@
     "filename": "RugRectBathmatS00",
     "internalId": 7333,
     "uniqueEntryId": "iFx2DHj9qJsY8vzsT",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07333",
@@ -2435,6 +2664,7 @@
     "filename": "RugRoundSimpleS00",
     "internalId": 7334,
     "uniqueEntryId": "8to7AD6FkrkZkaKX5",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07334",
@@ -2481,6 +2711,7 @@
     "filename": "RugRoundLaceM00",
     "internalId": 7368,
     "uniqueEntryId": "bzWc6Hh3tAnYcgh3f",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07368",
@@ -2527,6 +2758,7 @@
     "filename": "RugRoundLadybirdM00",
     "internalId": 7360,
     "uniqueEntryId": "T7T3r6GJqfhndy5xp",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07360",
@@ -2573,6 +2805,7 @@
     "filename": "RugRectBambooM00",
     "internalId": 11113,
     "uniqueEntryId": "c34AemWJDW8WvYGrm",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_11113",
@@ -2658,6 +2891,7 @@
     "filename": "RugRoundMagicM00",
     "internalId": 7367,
     "uniqueEntryId": "77PHyfuxLmPTgriT2",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07367",
@@ -2704,6 +2938,7 @@
     "filename": "RugOtherMermaidM00",
     "internalId": 12563,
     "uniqueEntryId": "WfJHsYQ4KETP2yDEs",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_12563",
@@ -2789,6 +3024,7 @@
     "filename": "RugRectWaveL00",
     "internalId": 7350,
     "uniqueEntryId": "tfdJqWZ2ETosBdHem",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07350",
@@ -2835,6 +3071,7 @@
     "filename": "RugRectDotL00",
     "internalId": 7349,
     "uniqueEntryId": "n7kdsLeGa9sFzPfYR",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07349",
@@ -2881,6 +3118,7 @@
     "filename": "RugRectWaveL01",
     "internalId": 7456,
     "uniqueEntryId": "KEQx7PcEYYP5C8QGW",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07456",
@@ -2927,6 +3165,27 @@
     "filename": "RugOtherMushM00",
     "internalId": 7363,
     "uniqueEntryId": "deKdNh2bu4udJ5zYx",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 8,
+      "version": "1.0.0",
+      "english": "mush",
+      "englishEurope": "mush",
+      "german": "Pilz",
+      "spanish": "hongo",
+      "spanishUs": "hongo",
+      "french": "champi",
+      "frenchUs": "champi",
+      "italian": "fungo",
+      "dutch": "paddenstoelenstijl",
+      "chinese": "蘑菇",
+      "chineseTraditional": "蘑菇",
+      "japanese": "キノコ",
+      "korean": "버섯",
+      "russian": "Грибы",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07363",
@@ -2973,6 +3232,7 @@
     "filename": "RugRectDeckM01",
     "internalId": 7380,
     "uniqueEntryId": "4xyhHztk2b3GbRKu6",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07380",
@@ -3019,6 +3279,27 @@
     "filename": "RugOtherOrangeM00",
     "internalId": 7330,
     "uniqueEntryId": "cXGa9CDpwXcCMzQw2",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 13,
+      "version": "1.0.0",
+      "english": "fruits",
+      "englishEurope": "fruits",
+      "german": "Obst",
+      "spanish": "frutal",
+      "spanishUs": "frutal",
+      "french": "fruit",
+      "frenchUs": "fruit",
+      "italian": "frutta",
+      "dutch": "fruitstijl",
+      "chinese": "水果",
+      "chineseTraditional": "水果",
+      "japanese": "フルーツ",
+      "korean": "프루트",
+      "russian": "Фрукты",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07330",
@@ -3104,6 +3385,7 @@
     "filename": "RugOtherCountryS00",
     "internalId": 7370,
     "uniqueEntryId": "TJaw3inQooLN9DXGt",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07370",
@@ -3150,6 +3432,7 @@
     "filename": "RugSquareCheckQuiltL02",
     "internalId": 7463,
     "uniqueEntryId": "QLtQLYyCeg7A28tzC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07463",
@@ -3196,6 +3479,27 @@
     "filename": "RugOtherPeachM00",
     "internalId": 7331,
     "uniqueEntryId": "tqGgxHpeDfRCGRrjY",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 13,
+      "version": "1.0.0",
+      "english": "fruits",
+      "englishEurope": "fruits",
+      "german": "Obst",
+      "spanish": "frutal",
+      "spanishUs": "frutal",
+      "french": "fruit",
+      "frenchUs": "fruit",
+      "italian": "frutta",
+      "dutch": "fruitstijl",
+      "chinese": "水果",
+      "chineseTraditional": "水果",
+      "japanese": "フルーツ",
+      "korean": "프루트",
+      "russian": "Фрукты",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07331",
@@ -3281,6 +3585,7 @@
     "filename": "RugRectBorderL01",
     "internalId": 7532,
     "uniqueEntryId": "LGhZCR8PgGQJYqST9",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07532",
@@ -3327,6 +3632,27 @@
     "filename": "RugOtherPearM00",
     "internalId": 7332,
     "uniqueEntryId": "hLakk5wPNF2RHRCHR",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 13,
+      "version": "1.0.0",
+      "english": "fruits",
+      "englishEurope": "fruits",
+      "german": "Obst",
+      "spanish": "frutal",
+      "spanishUs": "frutal",
+      "french": "fruit",
+      "frenchUs": "fruit",
+      "italian": "frutta",
+      "dutch": "fruitstijl",
+      "chinese": "水果",
+      "chineseTraditional": "水果",
+      "japanese": "フルーツ",
+      "korean": "프루트",
+      "russian": "Фрукты",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07332",
@@ -3412,6 +3738,7 @@
     "filename": "RugOtherHeartM00",
     "internalId": 7322,
     "uniqueEntryId": "TY5kKqhPpxgifmRJF",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07322",
@@ -3458,6 +3785,7 @@
     "filename": "RugOtherRoseM00",
     "internalId": 7365,
     "uniqueEntryId": "adYBsXgG3etWwtsds",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07365",
@@ -3504,6 +3832,7 @@
     "filename": "RugRectPiratesM00",
     "internalId": 12564,
     "uniqueEntryId": "RPasRWt9A7bb4h4yv",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_12564",
@@ -3550,6 +3879,7 @@
     "filename": "RugSquarePersianL03",
     "internalId": 8037,
     "uniqueEntryId": "QzKyWFwcBF6DNoMQS",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08037",
@@ -3596,6 +3926,7 @@
     "filename": "RugOtherHeartM02",
     "internalId": 7580,
     "uniqueEntryId": "LzB8y9NY5cwZJETQy",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07580",
@@ -3642,6 +3973,7 @@
     "filename": "RugSquareShaggyL03",
     "internalId": 9562,
     "uniqueEntryId": "jYsKTqR44uCHSGbnE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09562",
@@ -3688,6 +4020,7 @@
     "filename": "RugSquarePersianL00",
     "internalId": 7347,
     "uniqueEntryId": "ToTG8debi3YH93yqJ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07347",
@@ -3734,6 +4067,7 @@
     "filename": "RugRectArgyleL01",
     "internalId": 8466,
     "uniqueEntryId": "JcnvagFXFrtRojuX5",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08466",
@@ -3780,6 +4114,7 @@
     "filename": "RugSquareBlockM00",
     "internalId": 11101,
     "uniqueEntryId": "PWaKA8fJZfRLdgBjP",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_11101",
@@ -3826,6 +4161,7 @@
     "filename": "RugRectElegantM00",
     "internalId": 7348,
     "uniqueEntryId": "DrZgYBvviB7CGP3nx",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07348",
@@ -3872,6 +4208,7 @@
     "filename": "RugRectDotL02",
     "internalId": 7465,
     "uniqueEntryId": "6KoyAtx4QA2BuXKea",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07465",
@@ -3918,6 +4255,7 @@
     "filename": "RugSquareKirimL00",
     "internalId": 9313,
     "uniqueEntryId": "dhvJNNbRm9qDxXrpJ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09313",
@@ -3964,6 +4302,7 @@
     "filename": "RugRoundSimpleM01",
     "internalId": 9545,
     "uniqueEntryId": "Ev2FGNQPGqW8Nn7fk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09545",
@@ -4010,6 +4349,7 @@
     "filename": "RugOtherMessageS03",
     "internalId": 9312,
     "uniqueEntryId": "uYJPL9oP3tgpZHNhL",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09312",
@@ -4056,6 +4396,27 @@
     "filename": "RugOtherRoseM01",
     "internalId": 8758,
     "uniqueEntryId": "cXt7bSZGo8G4MWZ3x",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 20,
+      "version": "1.0.0",
+      "english": "flowers",
+      "englishEurope": "flowers",
+      "german": "Blumen",
+      "spanish": "flores",
+      "spanishUs": "flores",
+      "french": "fleur",
+      "frenchUs": "fleur",
+      "italian": "fiori",
+      "dutch": "bloemenstijl",
+      "chinese": "花",
+      "chineseTraditional": "花朵",
+      "japanese": "はな",
+      "korean": "꽃",
+      "russian": "Цветы",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08758",
@@ -4102,6 +4463,7 @@
     "filename": "RugRoundSimpleS01",
     "internalId": 9548,
     "uniqueEntryId": "z6C8NBYbSkshNZG7J",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09548",
@@ -4148,6 +4510,7 @@
     "filename": "RugRectVinylM02",
     "internalId": 7405,
     "uniqueEntryId": "2tPPLjzq42Z8wjtNv",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07405",
@@ -4194,6 +4557,7 @@
     "filename": "RugRectWaveL03",
     "internalId": 7457,
     "uniqueEntryId": "pPTXqs45y6k23f62j",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07457",
@@ -4240,6 +4604,27 @@
     "filename": "RugRectJuneBrideM02",
     "internalId": 12465,
     "uniqueEntryId": "LmxrQZwL5HrEzsHqK",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 28,
+      "version": "1.2.0",
+      "english": "wedding",
+      "englishEurope": "wedding",
+      "german": "Hochzeit",
+      "spanish": "boda",
+      "spanishUs": "boda",
+      "french": "mariage",
+      "frenchUs": "mariage",
+      "italian": "fiori d'arancio",
+      "dutch": "trouwstijl",
+      "chinese": "婚礼",
+      "chineseTraditional": "婚禮",
+      "japanese": "ウェディング",
+      "korean": "웨딩",
+      "russian": "Свадьба",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_12465",
@@ -4286,6 +4671,7 @@
     "filename": "RugSquareCheckQuiltL00",
     "internalId": 7343,
     "uniqueEntryId": "zrouM9QCzYKg3kBcc",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07343",
@@ -4332,6 +4718,7 @@
     "filename": "RugRectNativeKitchenS00",
     "internalId": 7340,
     "uniqueEntryId": "7KtKd8P5tbGSfG2qZ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07340",
@@ -4378,6 +4765,7 @@
     "filename": "RugRectDotL01",
     "internalId": 7466,
     "uniqueEntryId": "29Pm3PcqEJ3nP36sh",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07466",
@@ -4424,6 +4812,7 @@
     "filename": "RugRectDoormatS00",
     "internalId": 7324,
     "uniqueEntryId": "oEg77tXhJ6GReb7gp",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07324",
@@ -4470,6 +4859,7 @@
     "filename": "RugRectRubberScraperS00",
     "internalId": 7339,
     "uniqueEntryId": "Er4wGFd53SAq3zsGX",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07339",
@@ -4516,6 +4906,7 @@
     "filename": "RugSquareOldStrawL00",
     "internalId": 7345,
     "uniqueEntryId": "jLR8r3aHpRe4yJyxA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07345",
@@ -4562,6 +4953,27 @@
     "filename": "RugOtherShellM00",
     "internalId": 7362,
     "uniqueEntryId": "kC3KJRKazh5c6m2uN",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 7,
+      "version": "1.0.0",
+      "english": "shell",
+      "englishEurope": "shell",
+      "german": "Muschel",
+      "spanish": "conchas marinas",
+      "spanishUs": "conchas marinas",
+      "french": "coquillage",
+      "frenchUs": "coquillage",
+      "italian": "conchiglia",
+      "dutch": "schelpenstijl",
+      "chinese": "贝壳",
+      "chineseTraditional": "貝殼",
+      "japanese": "かいがら",
+      "korean": "조개",
+      "russian": "Ракушки",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07362",
@@ -4647,6 +5059,7 @@
     "filename": "RugRectBathmatS03",
     "internalId": 7516,
     "uniqueEntryId": "zfRhHqsvfBg5D6CJA",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07516",
@@ -4693,6 +5106,7 @@
     "filename": "RugSquareSimpleM03",
     "internalId": 7524,
     "uniqueEntryId": "9BzJWMCmruohLvY8x",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07524",
@@ -4739,6 +5153,7 @@
     "filename": "RugSquareSimpleM07",
     "internalId": 7539,
     "uniqueEntryId": "Nmx4FN5RX5LJ2xRF8",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07539",
@@ -4785,6 +5200,7 @@
     "filename": "RugSquareSimpleM02",
     "internalId": 7523,
     "uniqueEntryId": "7nEjDqYTsZdF3n8Ky",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07523",
@@ -4831,6 +5247,7 @@
     "filename": "RugSquareSimpleM01",
     "internalId": 7519,
     "uniqueEntryId": "FAqsC7JonfkPt3jc2",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07519",
@@ -4877,6 +5294,7 @@
     "filename": "RugSquareSimpleM05",
     "internalId": 7536,
     "uniqueEntryId": "Bt6N5gWJJNtdNg8TC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07536",
@@ -4923,6 +5341,7 @@
     "filename": "RugSquareSimpleM06",
     "internalId": 7538,
     "uniqueEntryId": "9WryqBnvAMiSF7vJ6",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07538",
@@ -4969,6 +5388,7 @@
     "filename": "RugSquareSimpleM04",
     "internalId": 7540,
     "uniqueEntryId": "yB22Mz4KP2wbzjYtv",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07540",
@@ -5015,6 +5435,7 @@
     "filename": "RugRectBathmatS01",
     "internalId": 7518,
     "uniqueEntryId": "AZQdF6gMi89DXP9K3",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07518",
@@ -5061,6 +5482,7 @@
     "filename": "RugRectBathmatS02",
     "internalId": 7517,
     "uniqueEntryId": "Lqze8wPcmFatBMFDw",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07517",
@@ -5107,6 +5529,7 @@
     "filename": "RugSquareSimpleS03",
     "internalId": 7520,
     "uniqueEntryId": "PKfPEbTw8C55Qc5oH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07520",
@@ -5153,6 +5576,7 @@
     "filename": "RugSquareSimpleS07",
     "internalId": 7543,
     "uniqueEntryId": "uSGDYs7hCuxMBTZbi",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07543",
@@ -5199,6 +5623,7 @@
     "filename": "RugSquareSimpleS02",
     "internalId": 7521,
     "uniqueEntryId": "Q7FSQ4q6Hzt2YihKH",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07521",
@@ -5245,6 +5670,7 @@
     "filename": "RugSquareSimpleS01",
     "internalId": 7522,
     "uniqueEntryId": "aKCpcBCjrn6wWcyw2",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07522",
@@ -5291,6 +5717,7 @@
     "filename": "RugSquareSimpleS05",
     "internalId": 7541,
     "uniqueEntryId": "WomwFGQsQgogZNtQf",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07541",
@@ -5337,6 +5764,7 @@
     "filename": "RugSquareSimpleS06",
     "internalId": 7542,
     "uniqueEntryId": "h7wpDFdwKgJs2BvgG",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07542",
@@ -5383,6 +5811,7 @@
     "filename": "RugSquareSimpleS04",
     "internalId": 7537,
     "uniqueEntryId": "nRakPP7nXacJB3YHX",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07537",
@@ -5429,6 +5858,7 @@
     "filename": "RugOtherSloppyL00",
     "internalId": 7371,
     "uniqueEntryId": "337rrvb9iapfJC4nb",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07371",
@@ -5475,6 +5905,7 @@
     "filename": "RugRoundSnowM00",
     "internalId": 7346,
     "uniqueEntryId": "upNaAkxPwQRHP6NXi",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07346",
@@ -5521,6 +5952,7 @@
     "filename": "RugRectTatamiM00",
     "internalId": 7369,
     "uniqueEntryId": "m7efgfNG3HZR6G29s",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07369",
@@ -5567,6 +5999,7 @@
     "filename": "RugRoundIslandM00",
     "internalId": 7358,
     "uniqueEntryId": "tjgfDcBRhWQrxhjzk",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07358",
@@ -5613,6 +6046,7 @@
     "filename": "RugOtherHeartM01",
     "internalId": 7579,
     "uniqueEntryId": "MeN8d4a4YKoFc2zDW",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07579",
@@ -5659,6 +6093,7 @@
     "filename": "RugOtherHeartM03",
     "internalId": 7578,
     "uniqueEntryId": "ur5qNz9QEkkCEPRDQ",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07578",
@@ -5705,6 +6140,7 @@
     "filename": "RugOtherMessageS00",
     "internalId": 7338,
     "uniqueEntryId": "ey5h5kDoaHvTgEdkj",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07338",
@@ -5751,6 +6187,27 @@
     "filename": "RugOtherRoseM03",
     "internalId": 8757,
     "uniqueEntryId": "fWrizz9CC3Lg8apM2",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 20,
+      "version": "1.0.0",
+      "english": "flowers",
+      "englishEurope": "flowers",
+      "german": "Blumen",
+      "spanish": "flores",
+      "spanishUs": "flores",
+      "french": "fleur",
+      "frenchUs": "fleur",
+      "italian": "fiori",
+      "dutch": "bloemenstijl",
+      "chinese": "花",
+      "chineseTraditional": "花朵",
+      "japanese": "はな",
+      "korean": "꽃",
+      "russian": "Цветы",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08757",
@@ -5797,6 +6254,7 @@
     "filename": "RugSquareSimpleM00",
     "internalId": 7335,
     "uniqueEntryId": "vXD2oADv2fg4QRCp6",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07335",
@@ -5843,6 +6301,7 @@
     "filename": "RugSquareSimpleS00",
     "internalId": 7336,
     "uniqueEntryId": "vhxZi6oAZWm9gxRfK",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07336",
@@ -5889,6 +6348,27 @@
     "filename": "RugRectJuneBrideM03",
     "internalId": 12464,
     "uniqueEntryId": "At7cbGksXn6rvhkQr",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 28,
+      "version": "1.2.0",
+      "english": "wedding",
+      "englishEurope": "wedding",
+      "german": "Hochzeit",
+      "spanish": "boda",
+      "spanishUs": "boda",
+      "french": "mariage",
+      "frenchUs": "mariage",
+      "italian": "fiori d'arancio",
+      "dutch": "trouwstijl",
+      "chinese": "婚礼",
+      "chineseTraditional": "婚禮",
+      "japanese": "ウェディング",
+      "korean": "웨딩",
+      "russian": "Свадьба",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_12464",
@@ -5935,6 +6415,7 @@
     "filename": "RugRectDeckM02",
     "internalId": 7381,
     "uniqueEntryId": "nmBMJkGHnxGdzYzzP",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07381",
@@ -5981,6 +6462,7 @@
     "filename": "RugSquarePersianL02",
     "internalId": 8036,
     "uniqueEntryId": "HdsBjfD2ongYrBt5m",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08036",
@@ -6027,6 +6509,7 @@
     "filename": "RugRectArgyleL00",
     "internalId": 7352,
     "uniqueEntryId": "TEzohiZZfTSxoSNpd",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07352",
@@ -6073,6 +6556,7 @@
     "filename": "RugSquareBlockM02",
     "internalId": 11103,
     "uniqueEntryId": "Gb4rwvjZv74CDT8qE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_11103",
@@ -6119,6 +6603,7 @@
     "filename": "RugSquareCheckQuiltL01",
     "internalId": 7462,
     "uniqueEntryId": "GdqeFkwTpKJLFQpyK",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07462",
@@ -6165,6 +6650,7 @@
     "filename": "RugSquareKirimL03",
     "internalId": 9315,
     "uniqueEntryId": "274gPov62L9zR3onG",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09315",
@@ -6211,6 +6697,7 @@
     "filename": "RugRectKitchenS01",
     "internalId": 8395,
     "uniqueEntryId": "CyGFnLgFnD3jrgKio",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08395",
@@ -6257,6 +6744,7 @@
     "filename": "RugRoundSimpleM03",
     "internalId": 9544,
     "uniqueEntryId": "TfKNppy5CiswuZGSw",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09544",
@@ -6303,6 +6791,7 @@
     "filename": "RugOtherMessageS02",
     "internalId": 9311,
     "uniqueEntryId": "6NpR38JASvkZDezYq",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09311",
@@ -6349,6 +6838,27 @@
     "filename": "RugOtherRoseM02",
     "internalId": 8759,
     "uniqueEntryId": "jta8sYzY36aqcjp3T",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 20,
+      "version": "1.0.0",
+      "english": "flowers",
+      "englishEurope": "flowers",
+      "german": "Blumen",
+      "spanish": "flores",
+      "spanishUs": "flores",
+      "french": "fleur",
+      "frenchUs": "fleur",
+      "italian": "fiori",
+      "dutch": "bloemenstijl",
+      "chinese": "花",
+      "chineseTraditional": "花朵",
+      "japanese": "はな",
+      "korean": "꽃",
+      "russian": "Цветы",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_08759",
@@ -6395,6 +6905,7 @@
     "filename": "RugRoundSimpleS03",
     "internalId": 9547,
     "uniqueEntryId": "FS2ZvZLcRQDHp6hHr",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_09547",
@@ -6441,6 +6952,7 @@
     "filename": "RugRectBorderL00",
     "internalId": 7351,
     "uniqueEntryId": "mJP9gz2YZAcQsWELE",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07351",
@@ -6487,6 +6999,7 @@
     "filename": "RugRectVinylM03",
     "internalId": 7403,
     "uniqueEntryId": "8tMeC24TcYdot9ZuC",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07403",
@@ -6533,6 +7046,7 @@
     "filename": "RugRectNativeKitchenS02",
     "internalId": 7596,
     "uniqueEntryId": "B76hfTkYR2vm96Hfd",
+    "seriesTranslations": null,
     "translations": {
       "sourceSheet": "Rugs",
       "id": "Rug_07596",

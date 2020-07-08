@@ -502,7 +502,23 @@
         "variantId": "0_0",
         "internalId": 8472,
         "uniqueEntryId": "ZTf6fzMoETiRSgYyv",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -515,7 +531,23 @@
         "variantId": "1_0",
         "internalId": 8472,
         "uniqueEntryId": "9RuY2ZBRztSNDRrfy",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Orange",
+          "englishEurope": "Orange",
+          "german": "Orange",
+          "spanish": "Naranja",
+          "spanishUs": "Naranja",
+          "french": "Orange",
+          "frenchUs": "Orange",
+          "italian": "Arancio",
+          "dutch": "Oranje",
+          "chinese": "橘色",
+          "chineseTraditional": "橘色",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "Оранжевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -528,7 +560,23 @@
         "variantId": "2_0",
         "internalId": 8472,
         "uniqueEntryId": "8PASMoPi9YgSBQ2LK",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light blue",
+          "englishEurope": "Light blue",
+          "german": "Hellblau",
+          "spanish": "Celeste",
+          "spanishUs": "Celeste",
+          "french": "Bleu clair",
+          "frenchUs": "Bleu pâle",
+          "italian": "Blu chiaro",
+          "dutch": "Lichtblauw",
+          "chinese": "浅蓝色",
+          "chineseTraditional": "淺藍色",
+          "japanese": "ライトブルー",
+          "korean": "라이트 블루",
+          "russian": "Голубой",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -541,7 +589,23 @@
         "variantId": "3_0",
         "internalId": 8472,
         "uniqueEntryId": "sfSivSgSps27Jaz5M",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -554,7 +618,23 @@
         "variantId": "4_0",
         "internalId": 8472,
         "uniqueEntryId": "vnSiERDKYDcddtuv6",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -567,7 +647,23 @@
         "variantId": "5_0",
         "internalId": 8472,
         "uniqueEntryId": "avewXgm4JtCerDcd6",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -580,7 +676,23 @@
         "variantId": "6_0",
         "internalId": 8472,
         "uniqueEntryId": "wmcSp5RZAczawLnJf",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -593,7 +705,23 @@
         "variantId": "7_0",
         "internalId": 8472,
         "uniqueEntryId": "v76QddpoKv2M4XspK",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Gray",
+          "englishEurope": "Gray",
+          "german": "Grau",
+          "spanish": "Gris",
+          "spanishUs": "Gris",
+          "french": "Gris",
+          "frenchUs": "Gris",
+          "italian": "Grigio",
+          "dutch": "Grijs",
+          "chinese": "灰色",
+          "chineseTraditional": "灰色",
+          "japanese": "グレー",
+          "korean": "그레이",
+          "russian": "Серый",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -725,7 +853,23 @@
         "variantId": "6_0",
         "internalId": 8177,
         "uniqueEntryId": "wFcTeKJ9gM4yLgfTQ",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White & blue",
+          "englishEurope": "White & blue",
+          "german": "Weiß-blau",
+          "spanish": "Blanco y azul",
+          "spanishUs": "Blanco y azul",
+          "french": "Blanc et bleu",
+          "frenchUs": "Blanc et bleu",
+          "italian": "Bianco e blu",
+          "dutch": "Wit-blauw",
+          "chinese": "白色×蓝色",
+          "chineseTraditional": "白色×藍色",
+          "japanese": "ホワイト×ブルー",
+          "korean": "화이트×블루",
+          "russian": "Белый с синим",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -792,7 +936,23 @@
         "variantId": "0_0",
         "internalId": 8577,
         "uniqueEntryId": "ojvEkqxvFKKrrB6GR",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -805,7 +965,23 @@
         "variantId": "1_0",
         "internalId": 8577,
         "uniqueEntryId": "pnM6ygwcMS5KmSP6c",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -818,7 +994,23 @@
         "variantId": "2_0",
         "internalId": 8577,
         "uniqueEntryId": "MYmh4oANQabcGNjJ6",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -831,7 +1023,23 @@
         "variantId": "3_0",
         "internalId": 8577,
         "uniqueEntryId": "c3Frxwsyo8PSKZNya",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -844,7 +1052,23 @@
         "variantId": "4_0",
         "internalId": 8577,
         "uniqueEntryId": "RbQtnSAf4HNLKuao2",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -857,7 +1081,23 @@
         "variantId": "5_0",
         "internalId": 8577,
         "uniqueEntryId": "MiJwRTGjbkK5Jx3Zw",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -870,7 +1110,23 @@
         "variantId": "6_0",
         "internalId": 8577,
         "uniqueEntryId": "XCrHq3vFnD83kY2Sg",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -883,7 +1139,23 @@
         "variantId": "7_0",
         "internalId": 8577,
         "uniqueEntryId": "zo7TsB8NzfnFDA7yS",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -937,7 +1209,23 @@
         "variantId": "0_0",
         "internalId": 8580,
         "uniqueEntryId": "dSvd9K7sRTbx6k5cd",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -950,7 +1238,23 @@
         "variantId": "1_0",
         "internalId": 8580,
         "uniqueEntryId": "WAcZwYerSQtwujaPZ",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -963,7 +1267,23 @@
         "variantId": "2_0",
         "internalId": 8580,
         "uniqueEntryId": "k7afhFcA5Pqd8qu5F",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -976,7 +1296,23 @@
         "variantId": "3_0",
         "internalId": 8580,
         "uniqueEntryId": "GBqsH5XYgDHk8wGAz",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -989,7 +1325,23 @@
         "variantId": "4_0",
         "internalId": 8580,
         "uniqueEntryId": "qq67sn4aq9w7w9Ga2",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1002,7 +1354,23 @@
         "variantId": "5_0",
         "internalId": 8580,
         "uniqueEntryId": "2JHaGhkbpoa4qbhge",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1015,7 +1383,23 @@
         "variantId": "6_0",
         "internalId": 8580,
         "uniqueEntryId": "cQYdSQ4MzKcnYAyc8",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1028,7 +1412,23 @@
         "variantId": "7_0",
         "internalId": 8580,
         "uniqueEntryId": "KiTQgsCkJSTq6ssm6",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -1082,7 +1482,23 @@
         "variantId": "0_0",
         "internalId": 8534,
         "uniqueEntryId": "35yzBzko3wrMwHjST",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1095,7 +1511,23 @@
         "variantId": "1_0",
         "internalId": 8534,
         "uniqueEntryId": "ngYPKLyn5xXawzas3",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1108,7 +1540,23 @@
         "variantId": "2_0",
         "internalId": 8534,
         "uniqueEntryId": "QxhyiwvJWyAShwyhJ",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1121,7 +1569,23 @@
         "variantId": "3_0",
         "internalId": 8534,
         "uniqueEntryId": "yuB5QpzCg94HN6u4g",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1134,7 +1598,23 @@
         "variantId": "4_0",
         "internalId": 8534,
         "uniqueEntryId": "q3p2jaJBt5gD2HRkZ",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1147,7 +1627,23 @@
         "variantId": "5_0",
         "internalId": 8534,
         "uniqueEntryId": "fAm9eEkidwn5LSjSd",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1160,7 +1656,23 @@
         "variantId": "6_0",
         "internalId": 8534,
         "uniqueEntryId": "4ySFWfB9G3KCq8sKf",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1173,7 +1685,23 @@
         "variantId": "7_0",
         "internalId": 8534,
         "uniqueEntryId": "yLHsKfxS39qTMyZ67",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -1316,7 +1844,23 @@
         "variantId": "0_0",
         "internalId": 8535,
         "uniqueEntryId": "AjAhCPjQAreLmqKCB",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Gray",
+          "englishEurope": "Gray",
+          "german": "Grau",
+          "spanish": "Gris",
+          "spanishUs": "Gris",
+          "french": "Gris",
+          "frenchUs": "Gris",
+          "italian": "Grigio",
+          "dutch": "Grijs",
+          "chinese": "灰色",
+          "chineseTraditional": "灰色",
+          "japanese": "グレー",
+          "korean": "그레이",
+          "russian": "Серый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1329,7 +1873,23 @@
         "variantId": "1_0",
         "internalId": 8535,
         "uniqueEntryId": "JBApgvSrYbJcSmsd2",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1342,7 +1902,23 @@
         "variantId": "2_0",
         "internalId": 8535,
         "uniqueEntryId": "HcqA5ggg9XBLsfYNK",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1355,7 +1931,23 @@
         "variantId": "3_0",
         "internalId": 8535,
         "uniqueEntryId": "mvF2W6yf4hcXLu3eM",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1368,7 +1960,23 @@
         "variantId": "4_0",
         "internalId": 8535,
         "uniqueEntryId": "B6oWDPizvZRRBDbop",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1381,7 +1989,23 @@
         "variantId": "5_0",
         "internalId": 8535,
         "uniqueEntryId": "AoZCaqfJYb6TSNctg",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1394,7 +2018,23 @@
         "variantId": "6_0",
         "internalId": 8535,
         "uniqueEntryId": "cBG6avJmvncbTX56k",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light blue",
+          "englishEurope": "Light blue",
+          "german": "Hellblau",
+          "spanish": "Celeste",
+          "spanishUs": "Celeste",
+          "french": "Bleu clair",
+          "frenchUs": "Bleu pâle",
+          "italian": "Blu chiaro",
+          "dutch": "Lichtblauw",
+          "chinese": "浅蓝色",
+          "chineseTraditional": "淺藍色",
+          "japanese": "ライトブルー",
+          "korean": "라이트 블루",
+          "russian": "Голубой",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1407,7 +2047,23 @@
         "variantId": "7_0",
         "internalId": 8535,
         "uniqueEntryId": "XphbdnArYGwJp8kmj",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -1461,7 +2117,23 @@
         "variantId": "0_0",
         "internalId": 8471,
         "uniqueEntryId": "dBNahAnSJkF5q7Wta",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1474,7 +2146,23 @@
         "variantId": "1_0",
         "internalId": 8471,
         "uniqueEntryId": "ziRQL2REqF652sgkc",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1487,7 +2175,23 @@
         "variantId": "2_0",
         "internalId": 8471,
         "uniqueEntryId": "7id3sXPC6a2qTsM9S",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Orange",
+          "englishEurope": "Orange",
+          "german": "Orange",
+          "spanish": "Naranja",
+          "spanishUs": "Naranja",
+          "french": "Orange",
+          "frenchUs": "Orange",
+          "italian": "Arancio",
+          "dutch": "Oranje",
+          "chinese": "橘色",
+          "chineseTraditional": "橘色",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "Оранжевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1500,7 +2204,23 @@
         "variantId": "3_0",
         "internalId": 8471,
         "uniqueEntryId": "txjiE4Yoi66P59Rpi",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light blue",
+          "englishEurope": "Light blue",
+          "german": "Hellblau",
+          "spanish": "Celeste",
+          "spanishUs": "Celeste",
+          "french": "Bleu clair",
+          "frenchUs": "Bleu pâle",
+          "italian": "Blu chiaro",
+          "dutch": "Lichtblauw",
+          "chinese": "浅蓝色",
+          "chineseTraditional": "淺藍色",
+          "japanese": "ライトブルー",
+          "korean": "라이트 블루",
+          "russian": "Голубой",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1513,7 +2233,23 @@
         "variantId": "4_0",
         "internalId": 8471,
         "uniqueEntryId": "mQQKH3hfMyn2P4SAT",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1526,7 +2262,23 @@
         "variantId": "5_0",
         "internalId": 8471,
         "uniqueEntryId": "oPumzrhQMfYrdrhfC",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1539,7 +2291,23 @@
         "variantId": "6_0",
         "internalId": 8471,
         "uniqueEntryId": "A44B9ELrDxsrY6HaR",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1552,7 +2320,23 @@
         "variantId": "7_0",
         "internalId": 8471,
         "uniqueEntryId": "k6AepGHtwTJhBzxXZ",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -1656,7 +2440,23 @@
         "variantId": "0_0",
         "internalId": 2377,
         "uniqueEntryId": "Y62px4Jy5vaMtN46u",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1669,7 +2469,23 @@
         "variantId": "1_0",
         "internalId": 2377,
         "uniqueEntryId": "JLMypnErvJc6n9wS8",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1682,7 +2498,23 @@
         "variantId": "2_0",
         "internalId": 2377,
         "uniqueEntryId": "WTqWoAYMKuJsXjWWv",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1695,7 +2527,23 @@
         "variantId": "3_0",
         "internalId": 2377,
         "uniqueEntryId": "SWX3JZeySqWz8PKQi",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1708,7 +2556,23 @@
         "variantId": "4_0",
         "internalId": 2377,
         "uniqueEntryId": "PBLScat4po99B5h4k",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1721,7 +2585,23 @@
         "variantId": "5_0",
         "internalId": 2377,
         "uniqueEntryId": "9bT9ZRhRG3e3WA8Bn",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1734,7 +2614,23 @@
         "variantId": "6_0",
         "internalId": 2377,
         "uniqueEntryId": "G58mfRs22f48nF9QA",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -1747,7 +2643,23 @@
         "variantId": "7_0",
         "internalId": 2377,
         "uniqueEntryId": "bgrXEg4NvgPjudWar",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -3492,7 +4404,23 @@
         "variantId": "0_0",
         "internalId": 7588,
         "uniqueEntryId": "6PLR84qz4JifgtLmh",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Ordinary mushroom",
+          "englishEurope": "Ordinary mushroom",
+          "german": "Gewöhnlicher Pilz",
+          "spanish": "Común",
+          "spanishUs": "Común",
+          "french": "Champignon générique",
+          "frenchUs": "Champignon générique",
+          "italian": "Fungo comune",
+          "dutch": "Gewone paddenstoel",
+          "chinese": "常见蘑菇",
+          "chineseTraditional": "常見蘑菇",
+          "japanese": "よくあるキノコ",
+          "korean": "흔한 버섯",
+          "russian": "Обычный гриб",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3505,7 +4433,23 @@
         "variantId": "1_0",
         "internalId": 7588,
         "uniqueEntryId": "T898uqxxT6AXuXyBt",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White mushroom",
+          "englishEurope": "White mushroom",
+          "german": "Weißer Pilz",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Champignon blanc",
+          "frenchUs": "Champignon blanc",
+          "italian": "Fungo bianco",
+          "dutch": "Witte paddenstoel",
+          "chinese": "白色蘑菇",
+          "chineseTraditional": "白色蘑菇",
+          "japanese": "しろキノコ",
+          "korean": "하얀색 버섯",
+          "russian": "Белый гриб",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3518,7 +4462,23 @@
         "variantId": "2_0",
         "internalId": 7588,
         "uniqueEntryId": "rcjxuvmyCPyTjbbwm",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Strange mushroom",
+          "englishEurope": "Strange mushroom",
+          "german": "Mysteriöser Pilz",
+          "spanish": "Misterioso",
+          "spanishUs": "Misterioso",
+          "french": "Champignon bizarre",
+          "frenchUs": "Champignon bizarre",
+          "italian": "Fungo strano",
+          "dutch": "Vreemde paddenstoel",
+          "chinese": "奇怪蘑菇",
+          "chineseTraditional": "奇怪蘑菇",
+          "japanese": "あやしいキノコ",
+          "korean": "수상한 버섯",
+          "russian": "Странный гриб",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3531,7 +4491,23 @@
         "variantId": "3_0",
         "internalId": 7588,
         "uniqueEntryId": "nN6uiNEshKx8sYwKE",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red mushroom",
+          "englishEurope": "Red mushroom",
+          "german": "Roter Pilz",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Champignon rouge",
+          "frenchUs": "Champignon rouge",
+          "italian": "Fungo rosso",
+          "dutch": "Rode paddenstoel",
+          "chinese": "红色蘑菇",
+          "chineseTraditional": "紅色蘑菇",
+          "japanese": "あかキノコ",
+          "korean": "빨간색 버섯",
+          "russian": "Красный гриб",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3544,7 +4520,23 @@
         "variantId": "4_0",
         "internalId": 7588,
         "uniqueEntryId": "Dtm7dJLAERgpCpGXv",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow mushroom",
+          "englishEurope": "Yellow mushroom",
+          "german": "Gelber Pilz",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Champignon jaune",
+          "frenchUs": "Champignon jaune",
+          "italian": "Fungo giallo",
+          "dutch": "Gele paddenstoel",
+          "chinese": "黄色蘑菇",
+          "chineseTraditional": "黃色蘑菇",
+          "japanese": "きいろキノコ",
+          "korean": "노란색 버섯",
+          "russian": "Желтый гриб",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -3637,7 +4629,23 @@
         "variantId": "0_0",
         "internalId": 5784,
         "uniqueEntryId": "HH8tKPMbt8DQpSrMS",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3650,7 +4658,23 @@
         "variantId": "1_0",
         "internalId": 5784,
         "uniqueEntryId": "YiRCkQXgKaLKf8D6p",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3663,7 +4687,23 @@
         "variantId": "2_0",
         "internalId": 5784,
         "uniqueEntryId": "X3x4tGwZiYnM5SRZv",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3676,7 +4716,23 @@
         "variantId": "3_0",
         "internalId": 5784,
         "uniqueEntryId": "WtArd6h6MFQ8sjwEt",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3689,7 +4745,23 @@
         "variantId": "4_0",
         "internalId": 5784,
         "uniqueEntryId": "b8L8wbutCQEQjAzwD",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3702,7 +4774,23 @@
         "variantId": "5_0",
         "internalId": 5784,
         "uniqueEntryId": "8Khqvy2vpnJkpKLET",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3715,7 +4803,23 @@
         "variantId": "6_0",
         "internalId": 5784,
         "uniqueEntryId": "yNCid2KGDGFSz2W7L",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3728,7 +4832,23 @@
         "variantId": "7_0",
         "internalId": 5784,
         "uniqueEntryId": "pFaH2eF4JpK3roNtQ",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -3910,7 +5030,23 @@
         "variantId": "0_0",
         "internalId": 8473,
         "uniqueEntryId": "bvYTHd7dbDC9ZijAd",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Avocado",
+          "englishEurope": "Avocado",
+          "german": "Avocado",
+          "spanish": "Verde bosque",
+          "spanishUs": "Verde musgo",
+          "french": "Vert kaki",
+          "frenchUs": "Vert kaki",
+          "italian": "Avocado",
+          "dutch": "Avocadogroen",
+          "chinese": "卡其色",
+          "chineseTraditional": "卡其色",
+          "japanese": "カーキ",
+          "korean": "카키",
+          "russian": "Защитный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3923,7 +5059,23 @@
         "variantId": "1_0",
         "internalId": 8473,
         "uniqueEntryId": "bMdHGfZQu6846Somm",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Orange",
+          "englishEurope": "Orange",
+          "german": "Orange",
+          "spanish": "Naranja",
+          "spanishUs": "Naranja",
+          "french": "Orange",
+          "frenchUs": "Orange",
+          "italian": "Arancio",
+          "dutch": "Oranje",
+          "chinese": "橘色",
+          "chineseTraditional": "橘色",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "Оранжевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3936,7 +5088,23 @@
         "variantId": "2_0",
         "internalId": 8473,
         "uniqueEntryId": "3Ne39o36LkhGc9rGk",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light blue",
+          "englishEurope": "Light blue",
+          "german": "Hellblau",
+          "spanish": "Celeste",
+          "spanishUs": "Celeste",
+          "french": "Bleu clair",
+          "frenchUs": "Bleu pâle",
+          "italian": "Blu chiaro",
+          "dutch": "Lichtblauw",
+          "chinese": "浅蓝色",
+          "chineseTraditional": "淺藍色",
+          "japanese": "ライトブルー",
+          "korean": "라이트 블루",
+          "russian": "Голубой",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3949,7 +5117,23 @@
         "variantId": "3_0",
         "internalId": 8473,
         "uniqueEntryId": "BJAg7c5HmD6LncCCj",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3962,7 +5146,23 @@
         "variantId": "4_0",
         "internalId": 8473,
         "uniqueEntryId": "DZwxGwf6DY8ucEKwP",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Beige",
+          "englishEurope": "Beige",
+          "german": "Beige",
+          "spanish": "Beis",
+          "spanishUs": "Beige",
+          "french": "Beige",
+          "frenchUs": "Beige",
+          "italian": "Beige",
+          "dutch": "Beige",
+          "chinese": "米色",
+          "chineseTraditional": "米色",
+          "japanese": "ベージュ",
+          "korean": "베이지",
+          "russian": "Бежевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3975,7 +5175,23 @@
         "variantId": "5_0",
         "internalId": 8473,
         "uniqueEntryId": "sGPYWwozfBgoi62fk",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -3988,7 +5204,23 @@
         "variantId": "6_0",
         "internalId": 8473,
         "uniqueEntryId": "3M7FJL2qfL5iAZvxn",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4001,7 +5233,23 @@
         "variantId": "7_0",
         "internalId": 8473,
         "uniqueEntryId": "JdGkE9Mf9mXN3jXj5",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -4055,7 +5303,23 @@
         "variantId": "0_0",
         "internalId": 8178,
         "uniqueEntryId": "v8G8jriZ3R47Y5CTA",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Avocado",
+          "englishEurope": "Avocado",
+          "german": "Avocado",
+          "spanish": "Verde bosque",
+          "spanishUs": "Verde musgo",
+          "french": "Vert kaki",
+          "frenchUs": "Vert kaki",
+          "italian": "Avocado",
+          "dutch": "Avocadogroen",
+          "chinese": "卡其色",
+          "chineseTraditional": "卡其色",
+          "japanese": "カーキ",
+          "korean": "카키",
+          "russian": "Защитный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4068,7 +5332,23 @@
         "variantId": "1_0",
         "internalId": 8178,
         "uniqueEntryId": "SeeobMqj2fMCHFRR5",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Orange",
+          "englishEurope": "Orange",
+          "german": "Orange",
+          "spanish": "Naranja",
+          "spanishUs": "Naranja",
+          "french": "Orange",
+          "frenchUs": "Orange",
+          "italian": "Arancio",
+          "dutch": "Oranje",
+          "chinese": "橘色",
+          "chineseTraditional": "橘色",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "Оранжевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4081,7 +5361,23 @@
         "variantId": "2_0",
         "internalId": 8178,
         "uniqueEntryId": "dDuDFS3Q87rSEvYGA",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light blue",
+          "englishEurope": "Light blue",
+          "german": "Hellblau",
+          "spanish": "Celeste",
+          "spanishUs": "Celeste",
+          "french": "Bleu clair",
+          "frenchUs": "Bleu pâle",
+          "italian": "Blu chiaro",
+          "dutch": "Lichtblauw",
+          "chinese": "浅蓝色",
+          "chineseTraditional": "淺藍色",
+          "japanese": "ライトブルー",
+          "korean": "라이트 블루",
+          "russian": "Голубой",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4094,7 +5390,23 @@
         "variantId": "3_0",
         "internalId": 8178,
         "uniqueEntryId": "bhFAvdtCDNFuaL7tp",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4107,7 +5419,23 @@
         "variantId": "4_0",
         "internalId": 8178,
         "uniqueEntryId": "cdXFG76YRzMhcBKvE",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Beige",
+          "englishEurope": "Beige",
+          "german": "Beige",
+          "spanish": "Beis",
+          "spanishUs": "Beige",
+          "french": "Beige",
+          "frenchUs": "Beige",
+          "italian": "Beige",
+          "dutch": "Beige",
+          "chinese": "米色",
+          "chineseTraditional": "米色",
+          "japanese": "ベージュ",
+          "korean": "베이지",
+          "russian": "Бежевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4120,7 +5448,23 @@
         "variantId": "5_0",
         "internalId": 8178,
         "uniqueEntryId": "mRjtY48TEQkJaiYqv",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4133,7 +5477,23 @@
         "variantId": "6_0",
         "internalId": 8178,
         "uniqueEntryId": "qJWCYusFziCAZowwo",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4146,7 +5506,23 @@
         "variantId": "7_0",
         "internalId": 8178,
         "uniqueEntryId": "v4vzaPQkSf4PHpjnC",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -4200,7 +5576,23 @@
         "variantId": "0_0",
         "internalId": 8575,
         "uniqueEntryId": "Je4oQvJHrridANtwW",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Avocado",
+          "englishEurope": "Avocado",
+          "german": "Avocado",
+          "spanish": "Verde bosque",
+          "spanishUs": "Verde musgo",
+          "french": "Vert kaki",
+          "frenchUs": "Vert kaki",
+          "italian": "Avocado",
+          "dutch": "Avocadogroen",
+          "chinese": "卡其色",
+          "chineseTraditional": "卡其色",
+          "japanese": "カーキ",
+          "korean": "카키",
+          "russian": "Защитный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4213,7 +5605,23 @@
         "variantId": "1_0",
         "internalId": 8575,
         "uniqueEntryId": "Qkuxh7aBzEEcgXX3g",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Orange",
+          "englishEurope": "Orange",
+          "german": "Orange",
+          "spanish": "Naranja",
+          "spanishUs": "Naranja",
+          "french": "Orange",
+          "frenchUs": "Orange",
+          "italian": "Arancio",
+          "dutch": "Oranje",
+          "chinese": "橘色",
+          "chineseTraditional": "橘色",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "Оранжевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4226,7 +5634,23 @@
         "variantId": "2_0",
         "internalId": 8575,
         "uniqueEntryId": "PhHgvEkW3oiFvhWuk",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light blue",
+          "englishEurope": "Light blue",
+          "german": "Hellblau",
+          "spanish": "Celeste",
+          "spanishUs": "Celeste",
+          "french": "Bleu clair",
+          "frenchUs": "Bleu pâle",
+          "italian": "Blu chiaro",
+          "dutch": "Lichtblauw",
+          "chinese": "浅蓝色",
+          "chineseTraditional": "淺藍色",
+          "japanese": "ライトブルー",
+          "korean": "라이트 블루",
+          "russian": "Голубой",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4239,7 +5663,23 @@
         "variantId": "3_0",
         "internalId": 8575,
         "uniqueEntryId": "6cvhBz44Z4BAxt8AX",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4252,7 +5692,23 @@
         "variantId": "4_0",
         "internalId": 8575,
         "uniqueEntryId": "R2WDYoFbBG2hWfFtf",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Beige",
+          "englishEurope": "Beige",
+          "german": "Beige",
+          "spanish": "Beis",
+          "spanishUs": "Beige",
+          "french": "Beige",
+          "frenchUs": "Beige",
+          "italian": "Beige",
+          "dutch": "Beige",
+          "chinese": "米色",
+          "chineseTraditional": "米色",
+          "japanese": "ベージュ",
+          "korean": "베이지",
+          "russian": "Бежевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4265,7 +5721,23 @@
         "variantId": "5_0",
         "internalId": 8575,
         "uniqueEntryId": "RKjgnpJYtFKZgKDRk",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4278,7 +5750,23 @@
         "variantId": "6_0",
         "internalId": 8575,
         "uniqueEntryId": "ccQGhqapinP7FiXPJ",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4291,7 +5779,23 @@
         "variantId": "7_0",
         "internalId": 8575,
         "uniqueEntryId": "e8xYribiE3L9zbeNz",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -4345,7 +5849,23 @@
         "variantId": "0_0",
         "internalId": 8579,
         "uniqueEntryId": "qJkGDgJtD9cQye8oD",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Avocado",
+          "englishEurope": "Avocado",
+          "german": "Avocado",
+          "spanish": "Verde bosque",
+          "spanishUs": "Verde musgo",
+          "french": "Vert kaki",
+          "frenchUs": "Vert kaki",
+          "italian": "Avocado",
+          "dutch": "Avocadogroen",
+          "chinese": "卡其色",
+          "chineseTraditional": "卡其色",
+          "japanese": "カーキ",
+          "korean": "카키",
+          "russian": "Защитный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4358,7 +5878,23 @@
         "variantId": "1_0",
         "internalId": 8579,
         "uniqueEntryId": "AGkd53Dzoh7p5R5ef",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Orange",
+          "englishEurope": "Orange",
+          "german": "Orange",
+          "spanish": "Naranja",
+          "spanishUs": "Naranja",
+          "french": "Orange",
+          "frenchUs": "Orange",
+          "italian": "Arancio",
+          "dutch": "Oranje",
+          "chinese": "橘色",
+          "chineseTraditional": "橘色",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "Оранжевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4371,7 +5907,23 @@
         "variantId": "2_0",
         "internalId": 8579,
         "uniqueEntryId": "coBFkGLRCML7SdfZb",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light blue",
+          "englishEurope": "Light blue",
+          "german": "Hellblau",
+          "spanish": "Celeste",
+          "spanishUs": "Celeste",
+          "french": "Bleu clair",
+          "frenchUs": "Bleu pâle",
+          "italian": "Blu chiaro",
+          "dutch": "Lichtblauw",
+          "chinese": "浅蓝色",
+          "chineseTraditional": "淺藍色",
+          "japanese": "ライトブルー",
+          "korean": "라이트 블루",
+          "russian": "Голубой",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4384,7 +5936,23 @@
         "variantId": "3_0",
         "internalId": 8579,
         "uniqueEntryId": "ekLvFR39DuH4SdSgB",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4397,7 +5965,23 @@
         "variantId": "4_0",
         "internalId": 8579,
         "uniqueEntryId": "mLqZThcPR7oSdGETt",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Beige",
+          "englishEurope": "Beige",
+          "german": "Beige",
+          "spanish": "Beis",
+          "spanishUs": "Beige",
+          "french": "Beige",
+          "frenchUs": "Beige",
+          "italian": "Beige",
+          "dutch": "Beige",
+          "chinese": "米色",
+          "chineseTraditional": "米色",
+          "japanese": "ベージュ",
+          "korean": "베이지",
+          "russian": "Бежевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4410,7 +5994,23 @@
         "variantId": "5_0",
         "internalId": 8579,
         "uniqueEntryId": "4QBCHA5pzb8Hapo7g",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4423,7 +6023,23 @@
         "variantId": "6_0",
         "internalId": 8579,
         "uniqueEntryId": "FDEpHpn9wAoHmzq6S",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4436,7 +6052,23 @@
         "variantId": "7_0",
         "internalId": 8579,
         "uniqueEntryId": "d2BxLmN5fFdSTsXvP",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -4490,7 +6122,23 @@
         "variantId": "0_0",
         "internalId": 8536,
         "uniqueEntryId": "QSmseNnk3WqSmSFH8",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Avocado",
+          "englishEurope": "Avocado",
+          "german": "Avocado",
+          "spanish": "Verde bosque",
+          "spanishUs": "Verde musgo",
+          "french": "Vert kaki",
+          "frenchUs": "Vert kaki",
+          "italian": "Avocado",
+          "dutch": "Avocadogroen",
+          "chinese": "卡其色",
+          "chineseTraditional": "卡其色",
+          "japanese": "カーキ",
+          "korean": "카키",
+          "russian": "Защитный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4503,7 +6151,23 @@
         "variantId": "1_0",
         "internalId": 8536,
         "uniqueEntryId": "SrmzprzDgkRoPoGcN",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Orange",
+          "englishEurope": "Orange",
+          "german": "Orange",
+          "spanish": "Naranja",
+          "spanishUs": "Naranja",
+          "french": "Orange",
+          "frenchUs": "Orange",
+          "italian": "Arancio",
+          "dutch": "Oranje",
+          "chinese": "橘色",
+          "chineseTraditional": "橘色",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "Оранжевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4516,7 +6180,23 @@
         "variantId": "2_0",
         "internalId": 8536,
         "uniqueEntryId": "PRfaCyGvx3hieqpKh",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light blue",
+          "englishEurope": "Light blue",
+          "german": "Hellblau",
+          "spanish": "Celeste",
+          "spanishUs": "Celeste",
+          "french": "Bleu clair",
+          "frenchUs": "Bleu pâle",
+          "italian": "Blu chiaro",
+          "dutch": "Lichtblauw",
+          "chinese": "浅蓝色",
+          "chineseTraditional": "淺藍色",
+          "japanese": "ライトブルー",
+          "korean": "라이트 블루",
+          "russian": "Голубой",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4529,7 +6209,23 @@
         "variantId": "3_0",
         "internalId": 8536,
         "uniqueEntryId": "AvLJNwY9w5fSpT47f",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4542,7 +6238,23 @@
         "variantId": "4_0",
         "internalId": 8536,
         "uniqueEntryId": "o2Zd58pLWuNfHSRoz",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Beige",
+          "englishEurope": "Beige",
+          "german": "Beige",
+          "spanish": "Beis",
+          "spanishUs": "Beige",
+          "french": "Beige",
+          "frenchUs": "Beige",
+          "italian": "Beige",
+          "dutch": "Beige",
+          "chinese": "米色",
+          "chineseTraditional": "米色",
+          "japanese": "ベージュ",
+          "korean": "베이지",
+          "russian": "Бежевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4555,7 +6267,23 @@
         "variantId": "5_0",
         "internalId": 8536,
         "uniqueEntryId": "6GRguzWiwsicHTun6",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4568,7 +6296,23 @@
         "variantId": "6_0",
         "internalId": 8536,
         "uniqueEntryId": "iyppHKcwic4M3Mb9N",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4581,7 +6325,23 @@
         "variantId": "7_0",
         "internalId": 8536,
         "uniqueEntryId": "vWuJ6J7YaPtB7vE88",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -4863,7 +6623,23 @@
         "variantId": "0_0",
         "internalId": 8576,
         "uniqueEntryId": "nQuRoWnfXx8BPFTmA",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light blue",
+          "englishEurope": "Light blue",
+          "german": "Hellblau",
+          "spanish": "Celeste",
+          "spanishUs": "Celeste",
+          "french": "Bleu clair",
+          "frenchUs": "Bleu pâle",
+          "italian": "Blu chiaro",
+          "dutch": "Lichtblauw",
+          "chinese": "浅蓝色",
+          "chineseTraditional": "淺藍色",
+          "japanese": "ライトブルー",
+          "korean": "라이트 블루",
+          "russian": "Голубой",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4876,7 +6652,23 @@
         "variantId": "1_0",
         "internalId": 8576,
         "uniqueEntryId": "uayKLmvAsj6EHGnJW",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4889,7 +6681,23 @@
         "variantId": "2_0",
         "internalId": 8576,
         "uniqueEntryId": "Aa39b233u5kL2BZ5M",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4902,7 +6710,23 @@
         "variantId": "3_0",
         "internalId": 8576,
         "uniqueEntryId": "jBDbWkxf2bC4Q7FXw",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4915,7 +6739,23 @@
         "variantId": "4_0",
         "internalId": 8576,
         "uniqueEntryId": "8p4An2z69STF7vEXo",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4928,7 +6768,23 @@
         "variantId": "5_0",
         "internalId": 8576,
         "uniqueEntryId": "6T8xrvDKPvnmAgoAm",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4941,7 +6797,23 @@
         "variantId": "6_0",
         "internalId": 8576,
         "uniqueEntryId": "uYrRaXdBb23RrpGNc",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -4954,7 +6826,23 @@
         "variantId": "7_0",
         "internalId": 8576,
         "uniqueEntryId": "mwWibomJ7C9h9diZ3",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -5186,7 +7074,23 @@
         "variantId": "0_0",
         "internalId": 2099,
         "uniqueEntryId": "B6ejTnMqrR65wXv5z",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5199,7 +7103,23 @@
         "variantId": "1_0",
         "internalId": 2099,
         "uniqueEntryId": "6sKHnKeEuPcLpjEF3",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5212,7 +7132,23 @@
         "variantId": "2_0",
         "internalId": 2099,
         "uniqueEntryId": "SSzNaAfdGfnFoL8Qq",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5225,7 +7161,23 @@
         "variantId": "3_0",
         "internalId": 2099,
         "uniqueEntryId": "qiAf2KCaX5Xr57bXb",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5238,7 +7190,23 @@
         "variantId": "4_0",
         "internalId": 2099,
         "uniqueEntryId": "bbbeRassLbyY8HCP3",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5251,7 +7219,23 @@
         "variantId": "5_0",
         "internalId": 2099,
         "uniqueEntryId": "CZoPP24ecNvDxdNfY",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5264,7 +7248,23 @@
         "variantId": "6_0",
         "internalId": 2099,
         "uniqueEntryId": "JLemP4xchhzB2BmLk",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5277,7 +7277,23 @@
         "variantId": "7_0",
         "internalId": 2099,
         "uniqueEntryId": "egJGqooiodvdWtv6Y",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -5370,7 +7386,23 @@
         "variantId": "0_0",
         "internalId": 2822,
         "uniqueEntryId": "kgAEBkWjeZrdvZLwC",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5383,7 +7415,23 @@
         "variantId": "1_0",
         "internalId": 2822,
         "uniqueEntryId": "aoeJ6gnZq7Cz9MH58",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5396,7 +7444,23 @@
         "variantId": "2_0",
         "internalId": 2822,
         "uniqueEntryId": "prpgd3XrcJHJZybaD",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5409,7 +7473,23 @@
         "variantId": "3_0",
         "internalId": 2822,
         "uniqueEntryId": "bHrn2thixWf3tPgQB",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5422,7 +7502,23 @@
         "variantId": "4_0",
         "internalId": 2822,
         "uniqueEntryId": "o2z73jZqDyg3Bwjtq",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5435,7 +7531,23 @@
         "variantId": "5_0",
         "internalId": 2822,
         "uniqueEntryId": "J47FSys2XtpZr8dT9",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5448,7 +7560,23 @@
         "variantId": "6_0",
         "internalId": 2822,
         "uniqueEntryId": "qKjLAtchN5GvjyknF",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5461,7 +7589,23 @@
         "variantId": "7_0",
         "internalId": 2822,
         "uniqueEntryId": "dq9S8zrmf4efRddki",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Gray",
+          "englishEurope": "Gray",
+          "german": "Grau",
+          "spanish": "Gris",
+          "spanishUs": "Gris",
+          "french": "Gris",
+          "frenchUs": "Gris",
+          "italian": "Grigio",
+          "dutch": "Grijs",
+          "chinese": "灰色",
+          "chineseTraditional": "灰色",
+          "japanese": "グレー",
+          "korean": "그레이",
+          "russian": "Серый",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -5554,7 +7698,23 @@
         "variantId": "0_0",
         "internalId": 8176,
         "uniqueEntryId": "wmcDHN8JZMbnvLiNs",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5567,7 +7727,23 @@
         "variantId": "1_0",
         "internalId": 8176,
         "uniqueEntryId": "KxYpvPeESLFNeLjGm",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5580,7 +7756,23 @@
         "variantId": "2_0",
         "internalId": 8176,
         "uniqueEntryId": "7GJJruF4u4y62nvQy",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5593,7 +7785,23 @@
         "variantId": "3_0",
         "internalId": 8176,
         "uniqueEntryId": "y7BXcMSNByN5Q4Ycs",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light green",
+          "englishEurope": "Light green",
+          "german": "Hellgrün",
+          "spanish": "Verde claro",
+          "spanishUs": "Verde claro",
+          "french": "Vert clair",
+          "frenchUs": "Vert clair",
+          "italian": "Verde chiaro",
+          "dutch": "Lichtgroen",
+          "chinese": "浅绿色",
+          "chineseTraditional": "淺綠色",
+          "japanese": "ライトグリーン",
+          "korean": "라이트 그린",
+          "russian": "Светло-зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5606,7 +7814,23 @@
         "variantId": "4_0",
         "internalId": 8176,
         "uniqueEntryId": "ajfxbnCnpzWsxsk9q",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5619,7 +7843,23 @@
         "variantId": "5_0",
         "internalId": 8176,
         "uniqueEntryId": "4mcfWQJQeebqu4az6",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5632,7 +7872,23 @@
         "variantId": "6_0",
         "internalId": 8176,
         "uniqueEntryId": "ngWXLftz3J8uf7WZq",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Light blue",
+          "englishEurope": "Light blue",
+          "german": "Hellblau",
+          "spanish": "Celeste",
+          "spanishUs": "Celeste",
+          "french": "Bleu clair",
+          "frenchUs": "Bleu pâle",
+          "italian": "Blu chiaro",
+          "dutch": "Lichtblauw",
+          "chinese": "浅蓝色",
+          "chineseTraditional": "淺藍色",
+          "japanese": "ライトブルー",
+          "korean": "라이트 블루",
+          "russian": "Голубой",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -5645,7 +7901,23 @@
         "variantId": "7_0",
         "internalId": 8176,
         "uniqueEntryId": "YZeGaCuXAbFSpEg3h",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       }
     ],
@@ -6333,7 +8605,23 @@
         "variantId": "0_0",
         "internalId": 2379,
         "uniqueEntryId": "wLChevsx2T9Sm6yf4",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -6346,7 +8634,23 @@
         "variantId": "1_0",
         "internalId": 2379,
         "uniqueEntryId": "29SBgiL9wQWpYmfa4",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Orange",
+          "englishEurope": "Orange",
+          "german": "Orange",
+          "spanish": "Naranja",
+          "spanishUs": "Naranja",
+          "french": "Orange",
+          "frenchUs": "Orange",
+          "italian": "Arancio",
+          "dutch": "Oranje",
+          "chinese": "橘色",
+          "chineseTraditional": "橘色",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "Оранжевый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -6359,7 +8663,23 @@
         "variantId": "2_0",
         "internalId": 2379,
         "uniqueEntryId": "m8fFeTsh7z7JgjB6H",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -6372,7 +8692,23 @@
         "variantId": "3_0",
         "internalId": 2379,
         "uniqueEntryId": "95zusTkvS5ou2wPEC",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -6385,7 +8721,23 @@
         "variantId": "4_0",
         "internalId": 2379,
         "uniqueEntryId": "wiAp8rGXiDM3kyxpo",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -6398,7 +8750,23 @@
         "variantId": "5_0",
         "internalId": 2379,
         "uniqueEntryId": "JSe4Du3wPtE2TT98X",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Pink",
+          "englishEurope": "Pink",
+          "german": "Rosa",
+          "spanish": "Rosa",
+          "spanishUs": "Rosa",
+          "french": "Rose",
+          "frenchUs": "Rose",
+          "italian": "Rosa",
+          "dutch": "Roze",
+          "chinese": "粉红",
+          "chineseTraditional": "粉紅色",
+          "japanese": "ピンク",
+          "korean": "핑크",
+          "russian": "Розовый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -6411,7 +8779,23 @@
         "variantId": "6_0",
         "internalId": 2379,
         "uniqueEntryId": "Z7ggDgjzNii2RWjNQ",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый",
+          "plural": false
+        },
         "colors": []
       },
       {
@@ -6424,7 +8808,23 @@
         "variantId": "7_0",
         "internalId": 2379,
         "uniqueEntryId": "77zFHmNrGhuJAvvjA",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negra",
+          "spanishUs": "Negra",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "くろ黒",
+          "korean": "검은색",
+          "russian": "Черный",
+          "plural": false
+        },
         "colors": []
       }
     ],
