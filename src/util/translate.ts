@@ -1,5 +1,5 @@
 import { join } from 'path';
-import { zipObject } from 'lodash';
+import { omit, zipObject } from 'lodash';
 
 import { directories } from './directories';
 import { get } from './get';
@@ -17,6 +17,11 @@ const translations: obj[] = get(join(directories.sanitized, 'Translations.json')
 const ignore: string[] = ['Furniture Variants', 'Furniture Patterns'];
 
 /**
+ * Represents the unique values of a translation that represents the item.
+ */
+const uniqueValues: string[] = ['variantId', 'id', 'furnitureName', 'internalIds', 'sourceSheet', 'version'];
+
+/**
  * Finds a translation with the given name.
  * @param  name   The name to find a translation for.
  * @param  sheets Optional, represents sheets to only consider for translations.
@@ -28,6 +33,19 @@ function findTranslation(name: string, sheets?: string[]): obj | null {
   );
 
   return translation ?? null;
+}
+
+/**
+ * Finds a translation with the given name and removes unique values from it.
+ * @param  name   The name to find a translation for.
+ * @param  sheets Optional, represents sheets to only consider for translations.
+ * @return        The translations for the name, with values that represent the
+ * item, essentially, it only returns the object containing the translations.
+ */
+function findUniqueTranslation(name: string, sheets?: string[]): obj | null {
+  const translation = findTranslation(name, sheets);
+
+  return translation ? omit(translation, uniqueValues) : null;
 }
 
 /**
@@ -63,11 +81,32 @@ function translate(item: obj): void {
   // If the item has a variation, set the translation for the variation.
   if (item.hasOwnProperty('variation')) {
     item.variantTranslations = options.find((translation: any) => item.variation === translation.english) ?? null;
+
+    // There are translations for variations/patterns, but, the translations are
+    // only for furnitures, meaning that other items with variations/patterns
+    // won't have their variations set. So if translations couldn't be found, in
+    // this case for the variant, we'll have to manually find the translation.
+
+    // Since we're getting a translation for a completely different item, we'll
+    // have to find a translation and then remove the unique values from the
+    // translation that represent that completely different item.
+    if (!item.variantTranslations) {
+      item.variantTranslations = findUniqueTranslation(item.variation, ['Furniture Variants']);
+    }
   }
 
   // And do the same for the item's pattern.
   if (item.hasOwnProperty('pattern')) {
     item.patternTranslations = options.find((translation) => item.pattern === translation.english) ?? null;
+
+    // Similar to variations, if we can't find a translation for the item's
+    // pattern, it's most likely that the item isn't a furniture, as only
+    // furnitures have translations for their pattern/variation. So we'll try to
+    // find a translation for this pattern from furnitures and then remove the
+    // values that represent the furniture.
+    if (!item.patternTranslations) {
+      item.variantTranslations = findUniqueTranslation(item.variation, ['Furniture Patterns']);
+    }
   }
 
   // Set translations for each theme of the item.
