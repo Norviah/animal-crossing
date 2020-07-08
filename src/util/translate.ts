@@ -105,7 +105,7 @@ function translate(item: obj): void {
     // find a translation for this pattern from furnitures and then remove the
     // values that represent the furniture.
     if (!item.patternTranslations) {
-      item.variantTranslations = findUniqueTranslation(item.variation, ['Furniture Patterns']);
+      item.patternTranslations = findUniqueTranslation(item.variation, ['Furniture Patterns']);
     }
   }
 
