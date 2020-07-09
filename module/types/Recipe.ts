@@ -4,6 +4,7 @@ export interface Recipe {
     buy:                   number;
     sell:                  number;
     milesPrice:            number | null;
+    source:                string[];
     sourceNotes:           null | string;
     versionAdded:          Version;
     versionUnlocked:       Version;
@@ -16,7 +17,6 @@ export interface Recipe {
     uniqueEntryId:         string;
     translations:          Translations;
     materials:             { [key: string]: number };
-    sources:               string[];
 }
 
 export enum CardColor {
