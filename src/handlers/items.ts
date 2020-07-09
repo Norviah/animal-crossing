@@ -15,7 +15,6 @@ const keys: string[] = [
   'hhaSet',
   'hhaSeries',
   'labelThemes',
-  'source',
 ];
 
 /**
@@ -41,10 +40,6 @@ function sanitize(object: obj): void {
 
   if (object.hasOwnProperty('style')) {
     object.styles = object.style;
-  }
-
-  if (object.hasOwnProperty('source')) {
-    object.sources = object.source;
   }
 
   if (object.hasOwnProperty('labelThemes')) {
