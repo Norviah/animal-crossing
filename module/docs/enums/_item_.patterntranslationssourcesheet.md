@@ -15,7 +15,7 @@
 
 • **FurniturePatterns**: = "Furniture Patterns"
 
-*Defined in [Item.ts:222](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L222)*
+*Defined in [Item.ts:222](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L222)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **FurnitureVariants**: = "Furniture Variants"
 
-*Defined in [Item.ts:223](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L223)*
+*Defined in [Item.ts:223](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L223)*

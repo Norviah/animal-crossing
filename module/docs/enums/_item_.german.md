@@ -24,7 +24,7 @@
 
 • **Alltagskleidung**: = "Alltagskleidung"
 
-*Defined in [Item.ts:548](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L548)*
+*Defined in [Item.ts:548](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L548)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • **Arbeitskleidung**: = "Arbeitskleidung"
 
-*Defined in [Item.ts:549](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L549)*
+*Defined in [Item.ts:549](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L549)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **Bühnenkleidung**: = "Bühnenkleidung"
 
-*Defined in [Item.ts:550](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L550)*
+*Defined in [Item.ts:550](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L550)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **Formellkleidung**: = "Formellkleidung"
 
-*Defined in [Item.ts:551](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L551)*
+*Defined in [Item.ts:551](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L551)*
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 • **Freizeitkleidung**: = "Freizeitkleidung"
 
-*Defined in [Item.ts:552](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L552)*
+*Defined in [Item.ts:552](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L552)*
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 • **Horrorkleidung**: = "Horrorkleidung"
 
-*Defined in [Item.ts:553](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L553)*
+*Defined in [Item.ts:553](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L553)*
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 • **Märchenkleidung**: = "Märchenkleidung"
 
-*Defined in [Item.ts:554](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L554)*
+*Defined in [Item.ts:554](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L554)*
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 • **Outdoorkleidung**: = "Outdoorkleidung"
 
-*Defined in [Item.ts:555](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L555)*
+*Defined in [Item.ts:555](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L555)*
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 • **Partykleidung**: = "Partykleidung"
 
-*Defined in [Item.ts:556](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L556)*
+*Defined in [Item.ts:556](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L556)*
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 • **Sportkleidung**: = "Sportkleidung"
 
-*Defined in [Item.ts:557](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L557)*
+*Defined in [Item.ts:557](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L557)*
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 • **Urlaubskleidung**: = "Urlaubskleidung"
 
-*Defined in [Item.ts:558](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L558)*
+*Defined in [Item.ts:558](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L558)*
