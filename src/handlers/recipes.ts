@@ -36,9 +36,7 @@ for (const recipe of recipes) {
   // an object with the names as the key and the amount as the value.
   recipe.materials = zipObject(names, amount);
 
-  recipe.sources = recipe.source;
-
-  for (const key of [...count, ...materials, 'source']) {
+  for (const key of [...count, ...materials]) {
     delete recipe[key];
   }
 }
