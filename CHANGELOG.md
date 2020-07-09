@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/Norviah/animal-crossing/compare/v4.5.1...v5.0.0) (2020-07-09)
+
+
+### Features
+
+* **items/recipes:** renamed the key 'sources' to 'source' ([1708eda](https://github.com/Norviah/animal-crossing/commit/1708eda6631c1bebf072c3cf63666ae6763c0464))
+
 ### [4.5.1](https://github.com/Norviah/animal-crossing/compare/v4.5.0...v4.5.1) (2020-07-09)
 
 
