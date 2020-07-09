@@ -16,7 +16,7 @@
 
 • **Trash**: = "Trash"
 
-*Defined in [Item.ts:174](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L174)*
+*Defined in [Item.ts:174](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L174)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **Wardrobe**: = "Wardrobe"
 
-*Defined in [Item.ts:175](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L175)*
+*Defined in [Item.ts:175](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L175)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **Workbench**: = "Workbench"
 
-*Defined in [Item.ts:176](https://github.com/Norviah/animal-crossing/blob/415ee2a/module/types/Item.ts#L176)*
+*Defined in [Item.ts:176](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L176)*
