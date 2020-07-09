@@ -11,10 +11,10 @@ export interface Item {
     buy:                   number;
     sell:                  number | null;
     translations:          ItemTranslations | null;
+    source:                string[];
     themesTranslations?:   ThemesTranslations;
     variations?:           VariationElement[];
     styles?:               Style[];
-    sources:               string[];
     themes?:               Theme[];
     recipe:                Recipe | null;
     closetImage?:          string;
@@ -244,6 +244,7 @@ export interface Recipe {
     buy:                   number;
     sell:                  number;
     milesPrice:            number | null;
+    source:                string[];
     sourceNotes:           null | string;
     versionAdded:          Version;
     versionUnlocked:       Version;
@@ -256,7 +257,6 @@ export interface Recipe {
     uniqueEntryId:         string;
     translations:          RecipeTranslations;
     materials:             { [key: string]: number };
-    sources:               string[];
 }
 
 export enum CardColor {
