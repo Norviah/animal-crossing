@@ -1008,23 +1008,7 @@
           "plural": false,
           "internalIds": [ 7145 ]
         },
-        "patternTranslations": {
-          "english": "Flowers",
-          "englishEurope": "Flowers",
-          "german": "Blumen",
-          "spanish": "Flores",
-          "spanishUs": "Flores",
-          "french": "Fleuri",
-          "frenchUs": "Fleuri",
-          "italian": "Fiori",
-          "dutch": "Bloemen",
-          "chinese": "花",
-          "chineseTraditional": "花",
-          "japanese": "はな花",
-          "korean": "꽃",
-          "russian": "Цветы",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Colorful", "Yellow" ],
         "concepts": [ "living room", "fancy" ]
       },
@@ -1061,23 +1045,7 @@
           "plural": false,
           "internalIds": [ 7145 ]
         },
-        "patternTranslations": {
-          "english": "Bird",
-          "englishEurope": "Bird",
-          "german": "Vogel",
-          "spanish": "Gallo",
-          "spanishUs": "Gallo",
-          "french": "Coq",
-          "frenchUs": "Coq",
-          "italian": "Uccello",
-          "dutch": "Vogel",
-          "chinese": "鸡",
-          "chineseTraditional": "雞",
-          "japanese": "とり鶏",
-          "korean": "닭",
-          "russian": "Птица",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Colorful", "Orange" ],
         "concepts": [ "living room", "fancy" ]
       },
@@ -1429,23 +1397,7 @@
           "plural": false,
           "internalIds": [ 929 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "office", "facility" ]
       },
@@ -1519,23 +1471,7 @@
           "plural": false,
           "internalIds": [ 929 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "office", "facility" ]
       },
@@ -1572,23 +1508,7 @@
           "plural": false,
           "internalIds": [ 929 ]
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Pink" ],
         "concepts": [ "office", "facility" ]
       },
@@ -1625,23 +1545,7 @@
           "plural": false,
           "internalIds": [ 929 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Light blue", "Light blue" ],
         "concepts": [ "office", "facility" ]
       },
@@ -1678,23 +1582,7 @@
           "plural": false,
           "internalIds": [ 929 ]
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Brown" ],
         "concepts": [ "office", "facility" ]
       }
@@ -1799,23 +1687,7 @@
           "plural": false,
           "internalIds": [ 3953 ]
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Yellow" ],
         "concepts": [ "living room", "expensive" ]
       },
@@ -1889,23 +1761,7 @@
           "plural": false,
           "internalIds": [ 3953 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Yellow" ],
         "concepts": [ "living room", "expensive" ]
       }
@@ -2757,23 +2613,7 @@
           "plural": false,
           "internalIds": [ 4030 ]
         },
-        "patternTranslations": {
-          "english": "Gold",
-          "englishEurope": "Gold",
-          "german": "Gold",
-          "spanish": "Dorado",
-          "spanishUs": "Dorado",
-          "french": "Doré",
-          "frenchUs": "Doré",
-          "italian": "Oro",
-          "dutch": "Goud",
-          "chinese": "金色",
-          "chineseTraditional": "金",
-          "japanese": "きん金",
-          "korean": "금색",
-          "russian": "Золотой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Brown" ],
         "concepts": [ "bathroom" ]
       },
@@ -2847,23 +2687,7 @@
           "plural": false,
           "internalIds": [ 4030 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Gray" ],
         "concepts": [ "bathroom" ]
       }
@@ -3062,23 +2886,7 @@
           "russian": "Коричневый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Beige" ],
         "concepts": [ "child's room", "living room" ]
       },
@@ -3110,23 +2918,7 @@
           "russian": "Белый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Red" ],
         "concepts": [ "child's room", "living room" ]
       },
@@ -3158,23 +2950,7 @@
           "russian": "Черный",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Beige" ],
         "concepts": [ "child's room", "living room" ]
       },
@@ -3206,23 +2982,7 @@
           "russian": "Розовый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Red" ],
         "concepts": [ "child's room", "living room" ]
       },
@@ -3254,23 +3014,7 @@
           "russian": "Красный",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Beige" ],
         "concepts": [ "child's room", "living room" ]
       },
@@ -3302,23 +3046,7 @@
           "russian": "Желтый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Brown" ],
         "concepts": [ "child's room", "living room" ]
       },
@@ -3350,23 +3078,7 @@
           "russian": "Синий",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "White" ],
         "concepts": [ "child's room", "living room" ]
       },
@@ -3951,23 +3663,7 @@
           "plural": false,
           "internalIds": [ 3967 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Gray" ],
         "concepts": [ "school" ]
       },
@@ -4041,23 +3737,7 @@
           "plural": false,
           "internalIds": [ 3967 ]
         },
-        "patternTranslations": {
-          "english": "Colorful",
-          "englishEurope": "Colorful",
-          "german": "Bunt",
-          "spanish": "Colorido",
-          "spanishUs": "Colorido",
-          "french": "Coloré",
-          "frenchUs": "Coloré",
-          "italian": "Multicolore",
-          "dutch": "Kleurrijk",
-          "chinese": "彩色",
-          "chineseTraditional": "彩色",
-          "japanese": "カラフル",
-          "korean": "컬러풀",
-          "russian": "Пестрый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Brown" ],
         "concepts": [ "school" ]
       }
@@ -4463,23 +4143,7 @@
           "plural": false,
           "internalIds": [ 6832 ]
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Pink" ],
         "concepts": [ "fancy" ]
       },
@@ -6130,23 +5794,7 @@
           "russian": "Яркий",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Colorful",
-          "englishEurope": "Colorful",
-          "german": "Bunt",
-          "spanish": "Colorido",
-          "spanishUs": "Colorido",
-          "french": "Coloré",
-          "frenchUs": "Coloré",
-          "italian": "Multicolore",
-          "dutch": "Kleurrijk",
-          "chinese": "彩色",
-          "chineseTraditional": "彩色",
-          "japanese": "カラフル",
-          "korean": "컬러풀",
-          "russian": "Пестрый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [],
         "concepts": [ "expensive" ]
       }
@@ -6307,23 +5955,7 @@
           "plural": false,
           "internalIds": [ 915 ]
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "Brown" ],
         "concepts": [ "living room", "child's room" ]
       },
@@ -6360,23 +5992,7 @@
           "plural": false,
           "internalIds": [ 915 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Brown" ],
         "concepts": [ "living room", "child's room" ]
       },
@@ -6413,23 +6029,7 @@
           "plural": false,
           "internalIds": [ 915 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Beige" ],
         "concepts": [ "living room", "child's room" ]
       },
@@ -6466,23 +6066,7 @@
           "plural": false,
           "internalIds": [ 915 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Brown" ],
         "concepts": [ "living room", "child's room" ]
       },
@@ -6519,23 +6103,7 @@
           "plural": false,
           "internalIds": [ 915 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "living room", "child's room" ]
       },
@@ -6572,23 +6140,7 @@
           "plural": false,
           "internalIds": [ 915 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "living room", "child's room" ]
       }
@@ -6693,23 +6245,7 @@
           "plural": false,
           "internalIds": [ 3996 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Pink" ],
         "concepts": [ "fancy" ]
       },
@@ -6783,23 +6319,7 @@
           "plural": false,
           "internalIds": [ 3996 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Orange" ],
         "concepts": [ "fancy" ]
       },
@@ -6836,23 +6356,7 @@
           "plural": false,
           "internalIds": [ 3996 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Red" ],
         "concepts": [ "fancy" ]
       },
@@ -6889,23 +6393,7 @@
           "plural": false,
           "internalIds": [ 3996 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Black" ],
         "concepts": [ "fancy" ]
       }
@@ -7458,23 +6946,7 @@
           "plural": false,
           "internalIds": [ 3340 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "living room" ]
       },
@@ -7511,23 +6983,7 @@
           "plural": false,
           "internalIds": [ 3340 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "living room" ]
       }
@@ -8937,23 +8393,7 @@
           "plural": false,
           "internalIds": [ 4133 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "White" ],
         "concepts": [ "facility" ]
       },
@@ -8990,23 +8430,7 @@
           "plural": false,
           "internalIds": [ 4133 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "facility" ]
       },
@@ -9080,23 +8504,7 @@
           "plural": false,
           "internalIds": [ 4133 ]
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Light blue", "White" ],
         "concepts": [ "facility" ]
       },
@@ -9133,23 +8541,7 @@
           "plural": false,
           "internalIds": [ 4133 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Black" ],
         "concepts": [ "facility" ]
       },
@@ -9186,23 +8578,7 @@
           "plural": false,
           "internalIds": [ 4133 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Red" ],
         "concepts": [ "facility" ]
       }
@@ -9835,23 +9211,7 @@
           "russian": "Голубой",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Light blue",
-          "englishEurope": "Light blue",
-          "german": "Hellblau",
-          "spanish": "Celeste",
-          "spanishUs": "Celeste",
-          "french": "Bleu clair",
-          "frenchUs": "Bleu pâle",
-          "italian": "Blu chiaro",
-          "dutch": "Lichtblauw",
-          "chinese": "浅蓝色",
-          "chineseTraditional": "淺藍色",
-          "japanese": "ライトブルー",
-          "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Light blue", "White" ],
         "concepts": [ "child's room", "fancy" ]
       },
@@ -9883,23 +9243,7 @@
           "russian": "Красный",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "White" ],
         "concepts": [ "child's room", "fancy" ]
       },
@@ -9931,23 +9275,7 @@
           "russian": "Оранжевый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Orange",
-          "englishEurope": "Orange",
-          "german": "Orange",
-          "spanish": "Naranja",
-          "spanishUs": "Naranja",
-          "french": "Orange",
-          "frenchUs": "Orange",
-          "italian": "Arancio",
-          "dutch": "Oranje",
-          "chinese": "橘色",
-          "chineseTraditional": "橘色",
-          "japanese": "オレンジ",
-          "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Orange", "White" ],
         "concepts": [ "child's room", "fancy" ]
       },
@@ -9979,23 +9307,7 @@
           "russian": "Желтый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "White" ],
         "concepts": [ "child's room", "fancy" ]
       },
@@ -10027,23 +9339,7 @@
           "russian": "Зеленый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "White" ],
         "concepts": [ "child's room", "fancy" ]
       },
@@ -10075,23 +9371,7 @@
           "russian": "Синий",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Purple", "White" ],
         "concepts": [ "child's room", "fancy" ]
       },
@@ -10123,23 +9403,7 @@
           "russian": "Черный",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "White" ],
         "concepts": [ "child's room", "fancy" ]
       },
@@ -10819,23 +10083,7 @@
           "plural": false,
           "internalIds": [ 4027 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Light blue" ],
         "concepts": [ "living room" ]
       },
@@ -10872,23 +10120,7 @@
           "plural": false,
           "internalIds": [ 4027 ]
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Green" ],
         "concepts": [ "living room" ]
       },
@@ -10925,23 +10157,7 @@
           "plural": false,
           "internalIds": [ 4027 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Purple", "Green" ],
         "concepts": [ "living room" ]
       },
@@ -10978,23 +10194,7 @@
           "plural": false,
           "internalIds": [ 4027 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Yellow" ],
         "concepts": [ "living room" ]
       },
@@ -11031,23 +10231,7 @@
           "plural": false,
           "internalIds": [ 4027 ]
         },
-        "patternTranslations": {
-          "english": "Colorful",
-          "englishEurope": "Colorful",
-          "german": "Bunt",
-          "spanish": "Colorido",
-          "spanishUs": "Colorido",
-          "french": "Coloré",
-          "frenchUs": "Coloré",
-          "italian": "Multicolore",
-          "dutch": "Kleurrijk",
-          "chinese": "彩色",
-          "chineseTraditional": "彩色",
-          "japanese": "カラフル",
-          "korean": "컬러풀",
-          "russian": "Пестрый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Colorful", "Green" ],
         "concepts": [ "living room" ]
       }
@@ -11171,23 +10355,7 @@
           "plural": false,
           "internalIds": [ 4099 ]
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Beige", "Orange" ],
         "concepts": [ "school", "den" ]
       },
@@ -11373,23 +10541,7 @@
           "russian": "Синий",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Beige" ],
         "concepts": [ "facility" ]
       }
@@ -11766,23 +10918,7 @@
           "plural": false,
           "internalIds": [ 7280 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "facility", "garage" ]
       },
@@ -11819,23 +10955,7 @@
           "plural": false,
           "internalIds": [ 7280 ]
         },
-        "patternTranslations": {
-          "english": "Colorful",
-          "englishEurope": "Colorful",
-          "german": "Bunt",
-          "spanish": "Colorido",
-          "spanishUs": "Colorido",
-          "french": "Coloré",
-          "frenchUs": "Coloré",
-          "italian": "Multicolore",
-          "dutch": "Kleurrijk",
-          "chinese": "彩色",
-          "chineseTraditional": "彩色",
-          "japanese": "カラフル",
-          "korean": "컬러풀",
-          "russian": "Пестрый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Colorful", "Colorful" ],
         "concepts": [ "facility", "garage" ]
       },
@@ -13813,23 +12933,7 @@
           "plural": false,
           "internalIds": [ 3775 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Green" ],
         "concepts": [ "living room" ]
       },
@@ -13866,23 +12970,7 @@
           "plural": false,
           "internalIds": [ 3775 ]
         },
-        "patternTranslations": {
-          "english": "Gold",
-          "englishEurope": "Gold",
-          "german": "Gold",
-          "spanish": "Dorado",
-          "spanishUs": "Dorado",
-          "french": "Doré",
-          "frenchUs": "Doré",
-          "italian": "Oro",
-          "dutch": "Goud",
-          "chinese": "金色",
-          "chineseTraditional": "金",
-          "japanese": "きん金",
-          "korean": "금색",
-          "russian": "Золотой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Green" ],
         "concepts": [ "living room" ]
       },
@@ -13919,23 +13007,7 @@
           "plural": false,
           "internalIds": [ 3775 ]
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Green" ],
         "concepts": [ "living room" ]
       }
@@ -14054,23 +13126,7 @@
           "russian": "Розовый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "White" ],
         "concepts": [ "fancy" ]
       },
@@ -14102,23 +13158,7 @@
           "russian": "Синий",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Gray", "Light blue" ],
         "concepts": [ "fancy" ]
       },
@@ -14182,23 +13222,7 @@
           "russian": "Голубой",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Light blue",
-          "englishEurope": "Light blue",
-          "german": "Hellblau",
-          "spanish": "Celeste",
-          "spanishUs": "Celeste",
-          "french": "Bleu clair",
-          "frenchUs": "Bleu pâle",
-          "italian": "Blu chiaro",
-          "dutch": "Lichtblauw",
-          "chinese": "浅蓝色",
-          "chineseTraditional": "淺藍色",
-          "japanese": "ライトブルー",
-          "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Light blue" ],
         "concepts": [ "fancy" ]
       },
@@ -14230,23 +13254,7 @@
           "russian": "Зеленый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "Green" ],
         "concepts": [ "fancy" ]
       },
@@ -14278,23 +13286,7 @@
           "russian": "Оранжевый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Orange",
-          "englishEurope": "Orange",
-          "german": "Orange",
-          "spanish": "Naranja",
-          "spanishUs": "Naranja",
-          "french": "Orange",
-          "frenchUs": "Orange",
-          "italian": "Arancio",
-          "dutch": "Oranje",
-          "chinese": "橘色",
-          "chineseTraditional": "橘色",
-          "japanese": "オレンジ",
-          "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Orange", "Orange" ],
         "concepts": [ "fancy" ]
       },
@@ -14326,23 +13318,7 @@
           "russian": "Красный",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Red" ],
         "concepts": [ "fancy" ]
       },
@@ -14598,23 +13574,7 @@
           "plural": false,
           "internalIds": [ 3970 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Red" ],
         "concepts": [ "zen-style" ]
       },
@@ -14651,23 +13611,7 @@
           "plural": false,
           "internalIds": [ 3970 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Blue" ],
         "concepts": [ "zen-style" ]
       },
@@ -14704,23 +13648,7 @@
           "plural": false,
           "internalIds": [ 3970 ]
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Brown" ],
         "concepts": [ "zen-style" ]
       },
@@ -14757,23 +13685,7 @@
           "plural": false,
           "internalIds": [ 3970 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "zen-style" ]
       }
@@ -14858,23 +13770,7 @@
           "plural": false,
           "internalIds": [ 8415 ]
         },
-        "patternTranslations": {
-          "english": "Gold",
-          "englishEurope": "Gold",
-          "german": "Gold",
-          "spanish": "Dorado",
-          "spanishUs": "Dorado",
-          "french": "Doré",
-          "frenchUs": "Doré",
-          "italian": "Oro",
-          "dutch": "Goud",
-          "chinese": "金色",
-          "chineseTraditional": "金",
-          "japanese": "きん金",
-          "korean": "금색",
-          "russian": "Золотой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Red" ],
         "concepts": [ "shop", "zen-style" ]
       },
@@ -14911,23 +13807,7 @@
           "plural": false,
           "internalIds": [ 8415 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Red" ],
         "concepts": [ "shop", "zen-style" ]
       },
@@ -14964,23 +13844,7 @@
           "plural": false,
           "internalIds": [ 8415 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Red" ],
         "concepts": [ "shop", "zen-style" ]
       },
@@ -15017,23 +13881,7 @@
           "plural": false,
           "internalIds": [ 8415 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Yellow" ],
         "concepts": [ "shop", "zen-style" ]
       }
@@ -15193,23 +14041,7 @@
           "russian": "Черный",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "living room" ]
       },
@@ -15241,23 +14073,7 @@
           "russian": "Белый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "living room" ]
       },
@@ -15289,23 +14105,7 @@
           "russian": "Синий",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Blue" ],
         "concepts": [ "living room" ]
       },
@@ -15401,23 +14201,7 @@
           "russian": "Золотой",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Gold",
-          "englishEurope": "Gold",
-          "german": "Gold",
-          "spanish": "Dorado",
-          "spanishUs": "Dorado",
-          "french": "Doré",
-          "frenchUs": "Doré",
-          "italian": "Oro",
-          "dutch": "Goud",
-          "chinese": "金色",
-          "chineseTraditional": "金",
-          "japanese": "きん金",
-          "korean": "금색",
-          "russian": "Золотой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Yellow" ],
         "concepts": [ "living room" ]
       },
@@ -15449,23 +14233,7 @@
           "russian": "Розовый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Orange", "Orange" ],
         "concepts": [ "living room" ]
       },
@@ -15497,23 +14265,7 @@
           "russian": "Коричневый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Brown" ],
         "concepts": [ "living room" ]
       }
@@ -15657,23 +14409,7 @@
           "plural": false,
           "internalIds": [ 3559 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "living room", "garage" ]
       },
@@ -15710,23 +14446,7 @@
           "plural": false,
           "internalIds": [ 3559 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "living room", "garage" ]
       }
@@ -15870,23 +14590,7 @@
           "plural": false,
           "internalIds": [ 3562 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Gray" ],
         "concepts": [ "living room", "garage" ]
       },
@@ -15923,23 +14627,7 @@
           "plural": false,
           "internalIds": [ 3562 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Gray" ],
         "concepts": [ "living room", "garage" ]
       }
@@ -16355,23 +15043,7 @@
           "plural": false,
           "internalIds": [ 3992 ]
         },
-        "patternTranslations": {
-          "english": "Dark wood",
-          "englishEurope": "Dark wood",
-          "german": "Dunkles Holz",
-          "spanish": "Madera oscura",
-          "spanishUs": "Madera oscura",
-          "french": "Bois foncé",
-          "frenchUs": "Bois foncé",
-          "italian": "Legno scuro",
-          "dutch": "Donker hout",
-          "chinese": "深木色",
-          "chineseTraditional": "黑木色",
-          "japanese": "ダークウッド",
-          "korean": "다크 우드",
-          "russian": "Темное дерево",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Brown" ],
         "concepts": [ "garage", "living room" ]
       },
@@ -16445,23 +15117,7 @@
           "plural": false,
           "internalIds": [ 3992 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "garage", "living room" ]
       },
@@ -16498,23 +15154,7 @@
           "plural": false,
           "internalIds": [ 3992 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "garage", "living room" ]
       }
@@ -16675,23 +15315,7 @@
           "plural": false,
           "internalIds": [ 3471 ]
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Gray" ],
         "concepts": [ "living room", "facility" ]
       },
@@ -16728,23 +15352,7 @@
           "plural": false,
           "internalIds": [ 3471 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "living room", "facility" ]
       },
@@ -17005,23 +15613,7 @@
           "plural": false,
           "internalIds": [ 4037 ]
         },
-        "patternTranslations": {
-          "english": "Dark wood",
-          "englishEurope": "Dark wood",
-          "german": "Dunkles Holz",
-          "spanish": "Madera oscura",
-          "spanishUs": "Madera oscura",
-          "french": "Bois foncé",
-          "frenchUs": "Bois foncé",
-          "italian": "Legno scuro",
-          "dutch": "Donker hout",
-          "chinese": "深木色",
-          "chineseTraditional": "黑木色",
-          "japanese": "ダークウッド",
-          "korean": "다크 우드",
-          "russian": "Темное дерево",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Beige" ],
         "concepts": [ "garden", "living room" ]
       },
@@ -17256,23 +15848,7 @@
           "plural": false,
           "internalIds": [ 4119 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Beige", "Beige" ],
         "concepts": [ "living room" ]
       },
@@ -17309,23 +15885,7 @@
           "plural": false,
           "internalIds": [ 4119 ]
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "Green" ],
         "concepts": [ "living room" ]
       },
@@ -17362,23 +15922,7 @@
           "plural": false,
           "internalIds": [ 4119 ]
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Beige", "Pink" ],
         "concepts": [ "living room" ]
       },
@@ -17415,23 +15959,7 @@
           "plural": false,
           "internalIds": [ 4119 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Beige", "Light blue" ],
         "concepts": [ "living room" ]
       }
@@ -17590,23 +16118,7 @@
           "plural": false,
           "internalIds": [ 4118 ]
         },
-        "patternTranslations": {
-          "english": "Pop",
-          "englishEurope": "Pop",
-          "german": "Pop",
-          "spanish": "Pop",
-          "spanishUs": "Pop",
-          "french": "Pop",
-          "frenchUs": "Pop",
-          "italian": "Pop",
-          "dutch": "Spetterend",
-          "chinese": "缤纷色",
-          "chineseTraditional": "繽紛",
-          "japanese": "ポップ",
-          "korean": "팝",
-          "russian": "Яркий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Orange", "Colorful" ],
         "concepts": [ "kitchen", "shop" ]
       }
@@ -17961,23 +16473,7 @@
           "plural": false,
           "internalIds": [ 9565 ]
         },
-        "patternTranslations": {
-          "english": "Space",
-          "englishEurope": "Space",
-          "german": "Weltraum",
-          "spanish": "Espacio",
-          "spanishUs": "Espacio",
-          "french": "Cosmos",
-          "frenchUs": "Cosmos",
-          "italian": "Spazio",
-          "dutch": "Ruimte",
-          "chinese": "宇宙",
-          "chineseTraditional": "宇宙",
-          "japanese": "コスモ",
-          "korean": "코스모",
-          "russian": "Космос",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Colorful", "Colorful" ],
         "concepts": [ "child's room", "fancy" ]
       },
@@ -18601,23 +17097,7 @@
           "plural": false,
           "internalIds": [ 3976 ]
         },
-        "patternTranslations": {
-          "english": "Orange",
-          "englishEurope": "Orange",
-          "german": "Orange",
-          "spanish": "Naranja",
-          "spanishUs": "Naranja",
-          "french": "Orange",
-          "frenchUs": "Orange",
-          "italian": "Arancio",
-          "dutch": "Oranje",
-          "chinese": "橘色",
-          "chineseTraditional": "橘色",
-          "japanese": "オレンジ",
-          "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Orange", "Orange" ],
         "concepts": [ "fancy" ]
       },
@@ -18798,23 +17278,7 @@
           "plural": false,
           "internalIds": [ 6818 ]
         },
-        "patternTranslations": {
-          "english": "Colorful",
-          "englishEurope": "Colorful",
-          "german": "Bunt",
-          "spanish": "Colorido",
-          "spanishUs": "Colorido",
-          "french": "Coloré",
-          "frenchUs": "Coloré",
-          "italian": "Multicolore",
-          "dutch": "Kleurrijk",
-          "chinese": "彩色",
-          "chineseTraditional": "彩色",
-          "japanese": "カラフル",
-          "korean": "컬러풀",
-          "russian": "Пестрый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Colorful", "Brown" ],
         "concepts": [ "party", "fancy" ]
       },
@@ -18851,23 +17315,7 @@
           "plural": false,
           "internalIds": [ 6818 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Gray" ],
         "concepts": [ "party", "fancy" ]
       },
@@ -18904,23 +17352,7 @@
           "plural": false,
           "internalIds": [ 6818 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "White" ],
         "concepts": [ "party", "fancy" ]
       },
@@ -18957,23 +17389,7 @@
           "plural": false,
           "internalIds": [ 6818 ]
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Pink" ],
         "concepts": [ "party", "fancy" ]
       },
@@ -19010,23 +17426,7 @@
           "plural": false,
           "internalIds": [ 6818 ]
         },
-        "patternTranslations": {
-          "english": "Gold",
-          "englishEurope": "Gold",
-          "german": "Gold",
-          "spanish": "Dorado",
-          "spanishUs": "Dorado",
-          "french": "Doré",
-          "frenchUs": "Doré",
-          "italian": "Oro",
-          "dutch": "Goud",
-          "chinese": "金色",
-          "chineseTraditional": "金",
-          "japanese": "きん金",
-          "korean": "금색",
-          "russian": "Золотой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Brown" ],
         "concepts": [ "party", "fancy" ]
       },
@@ -19063,23 +17463,7 @@
           "plural": false,
           "internalIds": [ 6818 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Gray" ],
         "concepts": [ "party", "fancy" ]
       }
@@ -19223,23 +17607,7 @@
           "russian": "Синий",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Light blue", "Blue" ],
         "concepts": [ "fancy" ]
       },
@@ -19271,23 +17639,7 @@
           "russian": "Золотой",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Gold",
-          "englishEurope": "Gold",
-          "german": "Gold",
-          "spanish": "Dorado",
-          "spanishUs": "Dorado",
-          "french": "Doré",
-          "frenchUs": "Doré",
-          "italian": "Oro",
-          "dutch": "Goud",
-          "chinese": "金色",
-          "chineseTraditional": "金",
-          "japanese": "きん金",
-          "korean": "금색",
-          "russian": "Золотой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Orange" ],
         "concepts": [ "fancy" ]
       },
@@ -19351,23 +17703,7 @@
           "russian": "Зеленый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "Yellow" ],
         "concepts": [ "fancy" ]
       },
@@ -19399,23 +17735,7 @@
           "russian": "Красный",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Yellow" ],
         "concepts": [ "fancy" ]
       },
@@ -19479,23 +17799,7 @@
           "russian": "Розовый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Purple" ],
         "concepts": [ "fancy" ]
       },
@@ -19770,23 +18074,7 @@
           "plural": false,
           "internalIds": [ 4077 ]
         },
-        "patternTranslations": {
-          "english": "Colorful",
-          "englishEurope": "Colorful",
-          "german": "Bunt",
-          "spanish": "Colorido",
-          "spanishUs": "Colorido",
-          "french": "Coloré",
-          "frenchUs": "Coloré",
-          "italian": "Multicolore",
-          "dutch": "Kleurrijk",
-          "chinese": "彩色",
-          "chineseTraditional": "彩色",
-          "japanese": "カラフル",
-          "korean": "컬러풀",
-          "russian": "Пестрый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Colorful", "Colorful" ],
         "concepts": [ "party", "fancy" ]
       },
@@ -19934,23 +18222,7 @@
           "plural": false,
           "internalIds": [ 4077 ]
         },
-        "patternTranslations": {
-          "english": "Pop",
-          "englishEurope": "Pop",
-          "german": "Pop",
-          "spanish": "Pop",
-          "spanishUs": "Pop",
-          "french": "Pop",
-          "frenchUs": "Pop",
-          "italian": "Pop",
-          "dutch": "Spetterend",
-          "chinese": "缤纷色",
-          "chineseTraditional": "繽紛",
-          "japanese": "ポップ",
-          "korean": "팝",
-          "russian": "Яркий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "Red" ],
         "concepts": [ "party", "fancy" ]
       },
@@ -20067,23 +18339,7 @@
           "russian": "Светлое дерево",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Light wood",
-          "englishEurope": "Light wood",
-          "german": "Helles Holz",
-          "spanish": "Madera clara",
-          "spanishUs": "Madera clara",
-          "french": "Bois clair",
-          "frenchUs": "Bois clair",
-          "italian": "Legno chiaro",
-          "dutch": "Licht hout",
-          "chinese": "浅木色",
-          "chineseTraditional": "淺木色",
-          "japanese": "ライトウッド",
-          "korean": "라이트 우드",
-          "russian": "Светлое дерево",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Beige", "Brown" ],
         "concepts": [ "living room", "fancy" ]
       },
@@ -20115,23 +18371,7 @@
           "russian": "Голубой",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Light blue",
-          "englishEurope": "Light blue",
-          "german": "Hellblau",
-          "spanish": "Celeste",
-          "spanishUs": "Celeste",
-          "french": "Bleu clair",
-          "frenchUs": "Bleu pâle",
-          "italian": "Blu chiaro",
-          "dutch": "Lichtblauw",
-          "chinese": "浅蓝色",
-          "chineseTraditional": "淺藍色",
-          "japanese": "ライトブルー",
-          "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Light blue", "Orange" ],
         "concepts": [ "living room", "fancy" ]
       },
@@ -20243,23 +18483,7 @@
           "russian": "Белый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Orange" ],
         "concepts": [ "living room", "fancy" ]
       },
@@ -20291,23 +18515,7 @@
           "russian": "Синий",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Light blue", "Blue" ],
         "concepts": [ "living room", "fancy" ]
       },
@@ -20339,23 +18547,7 @@
           "russian": "Розовый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Brown" ],
         "concepts": [ "living room", "fancy" ]
       }
@@ -20539,23 +18731,7 @@
           "plural": false,
           "internalIds": [ 3818 ]
         },
-        "patternTranslations": {
-          "english": "Sports",
-          "englishEurope": "Sports",
-          "german": "Sport",
-          "spanish": "Deportes",
-          "spanishUs": "Deportes",
-          "french": "Sport",
-          "frenchUs": "Sport",
-          "italian": "Sport",
-          "dutch": "Sport",
-          "chinese": "体育",
-          "chineseTraditional": "體育",
-          "japanese": "スポーツ",
-          "korean": "스포츠",
-          "russian": "Спорт",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Orange", "Blue" ],
         "concepts": [ "shop", "child's room" ]
       },
@@ -20862,23 +19038,7 @@
           "plural": false,
           "internalIds": [ 928 ]
         },
-        "patternTranslations": {
-          "english": "Pop",
-          "englishEurope": "Pop",
-          "german": "Pop",
-          "spanish": "Pop",
-          "spanishUs": "Pop",
-          "french": "Pop",
-          "frenchUs": "Pop",
-          "italian": "Pop",
-          "dutch": "Spetterend",
-          "chinese": "缤纷色",
-          "chineseTraditional": "繽紛",
-          "japanese": "ポップ",
-          "korean": "팝",
-          "russian": "Яркий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Orange" ],
         "concepts": [ "kitchen", "shop" ]
       }
@@ -21000,23 +19160,7 @@
           "plural": false,
           "internalIds": [ 3785 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Brown" ],
         "concepts": [ "living room" ]
       },
@@ -21053,23 +19197,7 @@
           "plural": false,
           "internalIds": [ 3785 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Black" ],
         "concepts": [ "living room" ]
       },
@@ -21106,23 +19234,7 @@
           "plural": false,
           "internalIds": [ 3785 ]
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "Blue" ],
         "concepts": [ "living room" ]
       }
@@ -21945,23 +20057,7 @@
           "plural": false,
           "internalIds": [ 4017 ]
         },
-        "patternTranslations": {
-          "english": "Gold",
-          "englishEurope": "Gold",
-          "german": "Gold",
-          "spanish": "Dorado",
-          "spanishUs": "Dorado",
-          "french": "Doré",
-          "frenchUs": "Doré",
-          "italian": "Oro",
-          "dutch": "Goud",
-          "chinese": "金色",
-          "chineseTraditional": "金",
-          "japanese": "きん金",
-          "korean": "금색",
-          "russian": "Золотой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Yellow" ],
         "concepts": [ "bathroom" ]
       },
@@ -22035,23 +20131,7 @@
           "plural": false,
           "internalIds": [ 4017 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "bathroom" ]
       }
@@ -22191,23 +20271,7 @@
           "russian": "Коричневый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Beige", "Brown" ],
         "concepts": [ "horror" ]
       },
@@ -22239,23 +20303,7 @@
           "russian": "Белый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Red" ],
         "concepts": [ "horror" ]
       }
@@ -22553,23 +20601,7 @@
           "russian": "Черный",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Green" ],
         "concepts": [ "child's room", "horror" ]
       },
@@ -22601,23 +20633,7 @@
           "russian": "Желтый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Purple" ],
         "concepts": [ "child's room", "horror" ]
       },
@@ -22649,23 +20665,7 @@
           "russian": "Зеленый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "Red" ],
         "concepts": [ "child's room", "horror" ]
       },
@@ -22697,23 +20697,7 @@
           "russian": "Розовый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Light blue" ],
         "concepts": [ "child's room", "horror" ]
       },
@@ -22777,23 +20761,7 @@
           "russian": "Красный",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Blue" ],
         "concepts": [ "child's room", "horror" ]
       },
@@ -22857,23 +20825,7 @@
           "russian": "Синий",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Red" ],
         "concepts": [ "child's room", "horror" ]
       }
@@ -23038,23 +20990,7 @@
           "plural": false,
           "internalIds": [ 6827 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Yellow" ],
         "concepts": [ "space", "fancy" ]
       },
@@ -23091,23 +21027,7 @@
           "plural": false,
           "internalIds": [ 6827 ]
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "Green" ],
         "concepts": [ "space", "fancy" ]
       },
@@ -23144,23 +21064,7 @@
           "plural": false,
           "internalIds": [ 6827 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Light blue", "Light blue" ],
         "concepts": [ "space", "fancy" ]
       },
@@ -23234,23 +21138,7 @@
           "plural": false,
           "internalIds": [ 6827 ]
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Pink" ],
         "concepts": [ "space", "fancy" ]
       },
@@ -23287,23 +21175,7 @@
           "plural": false,
           "internalIds": [ 6827 ]
         },
-        "patternTranslations": {
-          "english": "Orange",
-          "englishEurope": "Orange",
-          "german": "Orange",
-          "spanish": "Naranja",
-          "spanishUs": "Naranja",
-          "french": "Orange",
-          "frenchUs": "Orange",
-          "italian": "Arancio",
-          "dutch": "Oranje",
-          "chinese": "橘色",
-          "chineseTraditional": "橘色",
-          "japanese": "オレンジ",
-          "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Orange", "Orange" ],
         "concepts": [ "space", "fancy" ]
       },
@@ -23340,23 +21212,7 @@
           "plural": false,
           "internalIds": [ 6827 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "space", "fancy" ]
       }
@@ -23480,23 +21336,7 @@
           "plural": false,
           "internalIds": [ 7190 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "White" ],
         "concepts": [ "facility", "concert" ]
       },
@@ -23533,23 +21373,7 @@
           "plural": false,
           "internalIds": [ 7190 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Yellow" ],
         "concepts": [ "facility", "concert" ]
       },
@@ -23586,23 +21410,7 @@
           "plural": false,
           "internalIds": [ 7190 ]
         },
-        "patternTranslations": {
-          "english": "Orange",
-          "englishEurope": "Orange",
-          "german": "Orange",
-          "spanish": "Naranja",
-          "spanishUs": "Naranja",
-          "french": "Orange",
-          "frenchUs": "Orange",
-          "italian": "Arancio",
-          "dutch": "Oranje",
-          "chinese": "橘色",
-          "chineseTraditional": "橘色",
-          "japanese": "オレンジ",
-          "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Orange" ],
         "concepts": [ "facility", "concert" ]
       },
@@ -23639,23 +21447,7 @@
           "plural": false,
           "internalIds": [ 7190 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Red" ],
         "concepts": [ "facility", "concert" ]
       },
@@ -23692,23 +21484,7 @@
           "plural": false,
           "internalIds": [ 7190 ]
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Pink" ],
         "concepts": [ "facility", "concert" ]
       },
@@ -23782,23 +21558,7 @@
           "plural": false,
           "internalIds": [ 7190 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Blue" ],
         "concepts": [ "facility", "concert" ]
       },
@@ -23835,23 +21595,7 @@
           "plural": false,
           "internalIds": [ 7190 ]
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Green" ],
         "concepts": [ "facility", "concert" ]
       }
@@ -23936,23 +21680,7 @@
           "plural": false,
           "internalIds": [ 3584 ]
         },
-        "patternTranslations": {
-          "english": "Alphabet",
-          "englishEurope": "Alphabet",
-          "german": "Alphabet",
-          "spanish": "Alfabeto",
-          "spanishUs": "Alfabeto",
-          "french": "Alphabet",
-          "frenchUs": "Alphabet",
-          "italian": "Alfabeto",
-          "dutch": "Alfabet",
-          "chinese": "字母",
-          "chineseTraditional": "字母",
-          "japanese": "アルファベット",
-          "korean": "알파벳",
-          "russian": "Алфавит",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Colorful" ],
         "concepts": [ "child's room", "school" ]
       },
@@ -24282,23 +22010,7 @@
           "plural": false,
           "internalIds": [ 704 ]
         },
-        "patternTranslations": {
-          "english": "Floral",
-          "englishEurope": "Floral",
-          "german": "Blumen",
-          "spanish": "Floral",
-          "spanishUs": "Floral",
-          "french": "Floral",
-          "frenchUs": "Floral",
-          "italian": "Floreale",
-          "dutch": "Gebloemd",
-          "chinese": "小花图案",
-          "chineseTraditional": "碎花圖案",
-          "japanese": "こはながら子花柄",
-          "korean": "잔꽃무늬",
-          "russian": "Цветы",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Green" ],
         "concepts": [ "living room" ]
       },
@@ -24372,23 +22084,7 @@
           "plural": false,
           "internalIds": [ 704 ]
         },
-        "patternTranslations": {
-          "english": "Bird",
-          "englishEurope": "Bird",
-          "german": "Vogel",
-          "spanish": "Gallo",
-          "spanishUs": "Gallo",
-          "french": "Coq",
-          "frenchUs": "Coq",
-          "italian": "Uccello",
-          "dutch": "Vogel",
-          "chinese": "鸡",
-          "chineseTraditional": "雞",
-          "japanese": "とり鶏",
-          "korean": "닭",
-          "russian": "Птица",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Brown" ],
         "concepts": [ "living room" ]
       },
@@ -24425,23 +22121,7 @@
           "plural": false,
           "internalIds": [ 704 ]
         },
-        "patternTranslations": {
-          "english": "Snow",
-          "englishEurope": "Snow",
-          "german": "Schnee",
-          "spanish": "Nieve",
-          "spanishUs": "Nieve",
-          "french": "Paysage enneigé",
-          "frenchUs": "Paysage enneigé",
-          "italian": "Neve",
-          "dutch": "Sneeuw",
-          "chinese": "雪景",
-          "chineseTraditional": "雪景",
-          "japanese": "スノー",
-          "korean": "눈",
-          "russian": "Снег",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Light blue" ],
         "concepts": [ "living room" ]
       }
@@ -24546,23 +22226,7 @@
           "plural": false,
           "internalIds": [ 4756 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Red" ],
         "concepts": [ "child's room" ]
       },
@@ -24599,23 +22263,7 @@
           "plural": false,
           "internalIds": [ 4756 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Blue" ],
         "concepts": [ "child's room" ]
       },
@@ -24652,23 +22300,7 @@
           "plural": false,
           "internalIds": [ 4756 ]
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "Yellow" ],
         "concepts": [ "child's room" ]
       },
@@ -24705,23 +22337,7 @@
           "plural": false,
           "internalIds": [ 4756 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Green" ],
         "concepts": [ "child's room" ]
       },
@@ -24758,23 +22374,7 @@
           "plural": false,
           "internalIds": [ 4756 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Pink" ],
         "concepts": [ "child's room" ]
       },
@@ -24960,23 +22560,7 @@
           "russian": "Коричневый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Pink" ],
         "concepts": [ "living room", "child's room" ]
       },
@@ -25104,23 +22688,7 @@
           "russian": "Черный",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "White" ],
         "concepts": [ "living room", "child's room" ]
       },
@@ -25152,23 +22720,7 @@
           "russian": "Синий",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Blue" ],
         "concepts": [ "living room", "child's room" ]
       },
@@ -25200,23 +22752,7 @@
           "russian": "Розовый",
           "plural": false
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Pink" ],
         "concepts": [ "living room", "child's room" ]
       }
@@ -25439,23 +22975,7 @@
           "plural": false,
           "internalIds": [ 6075 ]
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Orange" ],
         "concepts": [ "fancy" ]
       },
@@ -25492,23 +23012,7 @@
           "plural": false,
           "internalIds": [ 6075 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Yellow" ],
         "concepts": [ "fancy" ]
       }
@@ -25751,23 +23255,7 @@
           "plural": false,
           "internalIds": [ 957 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "kitchen", "shop" ]
       },
@@ -25804,23 +23292,7 @@
           "plural": false,
           "internalIds": [ 957 ]
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "White" ],
         "concepts": [ "kitchen", "shop" ]
       },
@@ -25857,23 +23329,7 @@
           "plural": false,
           "internalIds": [ 957 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "White" ],
         "concepts": [ "kitchen", "shop" ]
       },
@@ -25910,23 +23366,7 @@
           "plural": false,
           "internalIds": [ 957 ]
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "White" ],
         "concepts": [ "kitchen", "shop" ]
       },
@@ -25963,23 +23403,7 @@
           "plural": false,
           "internalIds": [ 957 ]
         },
-        "patternTranslations": {
-          "english": "Orange",
-          "englishEurope": "Orange",
-          "german": "Orange",
-          "spanish": "Naranja",
-          "spanishUs": "Naranja",
-          "french": "Orange",
-          "frenchUs": "Orange",
-          "italian": "Arancio",
-          "dutch": "Oranje",
-          "chinese": "橘色",
-          "chineseTraditional": "橘色",
-          "japanese": "オレンジ",
-          "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Orange", "White" ],
         "concepts": [ "kitchen", "shop" ]
       }
@@ -26101,23 +23525,7 @@
           "plural": false,
           "internalIds": [ 1744 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "office", "school" ]
       },
@@ -26154,23 +23562,7 @@
           "plural": false,
           "internalIds": [ 1744 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "White" ],
         "concepts": [ "office", "school" ]
       },
@@ -26207,23 +23599,7 @@
           "plural": false,
           "internalIds": [ 1744 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "White" ],
         "concepts": [ "office", "school" ]
       },
@@ -26260,23 +23636,7 @@
           "plural": false,
           "internalIds": [ 1744 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "White" ],
         "concepts": [ "office", "school" ]
       }
@@ -26361,23 +23721,7 @@
           "plural": false,
           "internalIds": [ 3431 ]
         },
-        "patternTranslations": {
-          "english": "Green",
-          "englishEurope": "Green",
-          "german": "Grün",
-          "spanish": "Verde",
-          "spanishUs": "Verde",
-          "french": "Vert",
-          "frenchUs": "Vert",
-          "italian": "Verde",
-          "dutch": "Groen",
-          "chinese": "绿色",
-          "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Green", "Green" ],
         "concepts": [ "office", "school" ]
       },
@@ -26414,23 +23758,7 @@
           "plural": false,
           "internalIds": [ 3431 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Light blue", "White" ],
         "concepts": [ "office", "school" ]
       },
@@ -26467,23 +23795,7 @@
           "plural": false,
           "internalIds": [ 3431 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Red" ],
         "concepts": [ "office", "school" ]
       },
@@ -26520,23 +23832,7 @@
           "plural": false,
           "internalIds": [ 3431 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Yellow" ],
         "concepts": [ "office", "school" ]
       },
@@ -26573,23 +23869,7 @@
           "plural": false,
           "internalIds": [ 3431 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "office", "school" ]
       },
@@ -26626,23 +23906,7 @@
           "plural": false,
           "internalIds": [ 3431 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Brown" ],
         "concepts": [ "office", "school" ]
       },
@@ -26716,23 +23980,7 @@
           "plural": false,
           "internalIds": [ 3431 ]
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "Brown" ],
         "concepts": [ "office", "school" ]
       }
@@ -26817,23 +24065,7 @@
           "plural": false,
           "internalIds": [ 3986 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "living room" ]
       },
@@ -26870,23 +24102,7 @@
           "plural": false,
           "internalIds": [ 3986 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "living room" ]
       },
@@ -26960,23 +24176,7 @@
           "plural": false,
           "internalIds": [ 3986 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Red" ],
         "concepts": [ "living room" ]
       },
@@ -27013,23 +24213,7 @@
           "plural": false,
           "internalIds": [ 3986 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Yellow" ],
         "concepts": [ "living room" ]
       },
@@ -27066,23 +24250,7 @@
           "plural": false,
           "internalIds": [ 3986 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Blue" ],
         "concepts": [ "living room" ]
       },
@@ -27119,23 +24287,7 @@
           "plural": false,
           "internalIds": [ 3986 ]
         },
-        "patternTranslations": {
-          "english": "Pink",
-          "englishEurope": "Pink",
-          "german": "Rosa",
-          "spanish": "Rosa",
-          "spanishUs": "Rosa",
-          "french": "Rose",
-          "frenchUs": "Rose",
-          "italian": "Rosa",
-          "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Pink" ],
         "concepts": [ "living room" ]
       },
@@ -27172,23 +24324,7 @@
           "plural": false,
           "internalIds": [ 3986 ]
         },
-        "patternTranslations": {
-          "english": "Light blue",
-          "englishEurope": "Light blue",
-          "german": "Hellblau",
-          "spanish": "Celeste",
-          "spanishUs": "Celeste",
-          "french": "Bleu clair",
-          "frenchUs": "Bleu pâle",
-          "italian": "Blu chiaro",
-          "dutch": "Lichtblauw",
-          "chinese": "浅蓝色",
-          "chineseTraditional": "淺藍色",
-          "japanese": "ライトブルー",
-          "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Light blue", "Light blue" ],
         "concepts": [ "living room" ]
       }
@@ -27273,23 +24409,7 @@
           "plural": false,
           "internalIds": [ 3428 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "living room" ]
       },
@@ -27326,23 +24446,7 @@
           "plural": false,
           "internalIds": [ 3428 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "living room" ]
       },
@@ -27416,23 +24520,7 @@
           "plural": false,
           "internalIds": [ 3428 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Red" ],
         "concepts": [ "living room" ]
       },
@@ -27469,23 +24557,7 @@
           "plural": false,
           "internalIds": [ 3428 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Blue" ],
         "concepts": [ "living room" ]
       }
@@ -27570,23 +24642,7 @@
           "plural": false,
           "internalIds": [ 5165 ]
         },
-        "patternTranslations": {
-          "english": "Gold",
-          "englishEurope": "Gold",
-          "german": "Gold",
-          "spanish": "Dorado",
-          "spanishUs": "Dorado",
-          "french": "Doré",
-          "frenchUs": "Doré",
-          "italian": "Oro",
-          "dutch": "Goud",
-          "chinese": "金色",
-          "chineseTraditional": "金",
-          "japanese": "きん金",
-          "korean": "금색",
-          "russian": "Золотой",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "White" ],
         "concepts": [ "horror" ]
       },
@@ -27697,23 +24753,7 @@
           "plural": false,
           "internalIds": [ 5165 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "White" ],
         "concepts": [ "horror" ]
       },
@@ -27750,23 +24790,7 @@
           "plural": false,
           "internalIds": [ 5165 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "horror" ]
       }
@@ -27851,23 +24875,7 @@
           "plural": false,
           "internalIds": [ 3987 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "White" ],
         "concepts": [ "living room" ]
       },
@@ -27904,23 +24912,7 @@
           "plural": false,
           "internalIds": [ 3987 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Black" ],
         "concepts": [ "living room" ]
       },
@@ -28031,23 +25023,7 @@
           "plural": false,
           "internalIds": [ 3987 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Red" ],
         "concepts": [ "living room" ]
       },
@@ -28084,23 +25060,7 @@
           "plural": false,
           "internalIds": [ 3987 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Blue" ],
         "concepts": [ "living room" ]
       }
@@ -28185,23 +25145,7 @@
           "plural": false,
           "internalIds": [ 8417 ]
         },
-        "patternTranslations": {
-          "english": "White",
-          "englishEurope": "White",
-          "german": "Weiß",
-          "spanish": "Blanco",
-          "spanishUs": "Blanco",
-          "french": "Blanche",
-          "frenchUs": "Blanche",
-          "italian": "Bianco",
-          "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "White", "Colorful" ],
         "concepts": [ "garage" ]
       },
@@ -28275,23 +25219,7 @@
           "plural": false,
           "internalIds": [ 8417 ]
         },
-        "patternTranslations": {
-          "english": "Yellow",
-          "englishEurope": "Yellow",
-          "german": "Gelb",
-          "spanish": "Amarillo",
-          "spanishUs": "Amarillo",
-          "french": "Jaune",
-          "frenchUs": "Jaune",
-          "italian": "Giallo",
-          "dutch": "Geel",
-          "chinese": "黄色",
-          "chineseTraditional": "黃色",
-          "japanese": "イエロー",
-          "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Yellow", "Colorful" ],
         "concepts": [ "garage" ]
       },
@@ -28328,23 +25256,7 @@
           "plural": false,
           "internalIds": [ 8417 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Colorful" ],
         "concepts": [ "garage" ]
       },
@@ -28381,23 +25293,7 @@
           "plural": false,
           "internalIds": [ 8417 ]
         },
-        "patternTranslations": {
-          "english": "Blue",
-          "englishEurope": "Blue",
-          "german": "Blau",
-          "spanish": "Azul",
-          "spanishUs": "Azul",
-          "french": "Bleu",
-          "frenchUs": "Bleu",
-          "italian": "Blu",
-          "dutch": "Blauw",
-          "chinese": "蓝色",
-          "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Colorful" ],
         "concepts": [ "garage" ]
       },
@@ -28434,23 +25330,7 @@
           "plural": false,
           "internalIds": [ 8417 ]
         },
-        "patternTranslations": {
-          "english": "Black",
-          "englishEurope": "Black",
-          "german": "Schwarz",
-          "spanish": "Negro",
-          "spanishUs": "Negro",
-          "french": "Noir",
-          "frenchUs": "Noir",
-          "italian": "Nero",
-          "dutch": "Zwart",
-          "chinese": "黑色",
-          "chineseTraditional": "黑色",
-          "japanese": "ブラック",
-          "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Black", "Colorful" ],
         "concepts": [ "garage" ]
       }
@@ -28615,23 +25495,7 @@
           "plural": false,
           "internalIds": [ 12407 ]
         },
-        "patternTranslations": {
-          "english": "Cute",
-          "englishEurope": "Cute",
-          "german": "Niedlich",
-          "spanish": "Adorables",
-          "spanishUs": "Adorables",
-          "french": "Mignons",
-          "frenchUs": "Mignons",
-          "italian": "Graziosi",
-          "dutch": "Schattig",
-          "chinese": "可爱色",
-          "chineseTraditional": "可愛",
-          "japanese": "キュート",
-          "korean": "큐트",
-          "russian": "Прелесть",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Pink", "Green" ],
         "concepts": [ "party", "expensive" ]
       },
@@ -29007,23 +25871,7 @@
           "plural": false,
           "internalIds": [ 3208 ]
         },
-        "patternTranslations": {
-          "english": "Colorful",
-          "englishEurope": "Colorful",
-          "german": "Bunt",
-          "spanish": "Colorido",
-          "spanishUs": "Colorido",
-          "french": "Coloré",
-          "frenchUs": "Coloré",
-          "italian": "Multicolore",
-          "dutch": "Kleurrijk",
-          "chinese": "彩色",
-          "chineseTraditional": "彩色",
-          "japanese": "カラフル",
-          "korean": "컬러풀",
-          "russian": "Пестрый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Blue", "Colorful" ],
         "concepts": [ "child's room" ]
       },
@@ -29295,23 +26143,7 @@
           "plural": false,
           "internalIds": [ 5636 ]
         },
-        "patternTranslations": {
-          "english": "Brown",
-          "englishEurope": "Brown",
-          "german": "Braun",
-          "spanish": "Marrón",
-          "spanishUs": "Marrón",
-          "french": "Marron",
-          "frenchUs": "Brune",
-          "italian": "Marrone",
-          "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Brown", "White" ],
         "concepts": [ "zen-style" ]
       },
@@ -29348,23 +26180,7 @@
           "plural": false,
           "internalIds": [ 5636 ]
         },
-        "patternTranslations": {
-          "english": "Red",
-          "englishEurope": "Red",
-          "german": "Rot",
-          "spanish": "Rojo",
-          "spanishUs": "Rojo",
-          "french": "Rouge",
-          "frenchUs": "Rouge",
-          "italian": "Rosso",
-          "dutch": "Rood",
-          "chinese": "红色",
-          "chineseTraditional": "紅色",
-          "japanese": "レッド",
-          "korean": "레드",
-          "russian": "Красный",
-          "plural": false
-        },
+        "patternTranslations": null,
         "colors": [ "Red", "Yellow" ],
         "concepts": [ "zen-style" ]
       }
