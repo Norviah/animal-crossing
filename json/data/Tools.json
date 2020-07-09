@@ -16,6 +16,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -46,13 +47,13 @@
       "internalIds": [ 12578 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Zipper" ],
       "sourceNotes": "Reward from Zipper after crafting wobbling Zipper toy; Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -84,8 +85,7 @@
         "plural": false,
         "internalIds": [ 12578 ]
       },
-      "materials": { "wobbling Zipper toy": 1, "star fragment": 3 },
-      "sources": [ "Zipper" ]
+      "materials": { "wobbling Zipper toy": 1, "star fragment": 3 }
     }
   },
   {
@@ -105,6 +105,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": 400,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -135,7 +136,6 @@
       "internalIds": [ 9762 ]
     },
     "colors": [ "Green", "White" ],
-    "sources": [ "Nook Miles Shop" ],
     "recipe": null
   },
   {
@@ -155,6 +155,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny", "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -185,13 +186,13 @@
       "internalIds": [ 2100 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny", "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "axe",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Pretty Good Tools Recipes" ],
       "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -223,8 +224,7 @@
         "plural": false,
         "internalIds": [ 2100 ]
       },
-      "materials": { "flimsy axe": 1, "wood": 3, "iron nugget": 1 },
-      "sources": [ "Pretty Good Tools Recipes" ]
+      "materials": { "flimsy axe": 1, "wood": 3, "iron nugget": 1 }
     }
   },
   {
@@ -244,6 +244,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -274,13 +275,13 @@
       "internalIds": [ 7590 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Spring",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -312,8 +313,7 @@
         "plural": false,
         "internalIds": [ 7590 ]
       },
-      "materials": { "young spring bamboo": 6, "star fragment": 3 },
-      "sources": [ "Balloons" ]
+      "materials": { "young spring bamboo": 6, "star fragment": 3 }
     }
   },
   {
@@ -333,6 +333,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -363,7 +364,6 @@
       "internalIds": [ 8769 ]
     },
     "colors": [],
-    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -383,6 +383,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -413,13 +414,13 @@
       "internalIds": [ 7589 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Cherry-Blossom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -451,8 +452,7 @@
         "plural": false,
         "internalIds": [ 7589 ]
       },
-      "materials": { "cherry-blossom petal": 3, "star fragment": 3 },
-      "sources": [ "Balloons" ]
+      "materials": { "cherry-blossom petal": 3, "star fragment": 3 }
     }
   },
   {
@@ -491,6 +491,7 @@
       "plural": false,
       "internalIds": [ 8472 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_0_0.png",
@@ -725,7 +726,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -764,6 +764,7 @@
       "plural": false,
       "internalIds": [ 8177 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_0_0.png",
@@ -886,7 +887,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -925,6 +925,7 @@
       "plural": false,
       "internalIds": [ 8577 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_0_0.png",
@@ -1159,7 +1160,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1198,6 +1198,7 @@
       "plural": false,
       "internalIds": [ 8580 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_0_0.png",
@@ -1432,7 +1433,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1471,6 +1471,7 @@
       "plural": false,
       "internalIds": [ 8534 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_0_0.png",
@@ -1705,7 +1706,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1725,6 +1725,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1755,13 +1756,13 @@
       "internalIds": [ 5092 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cosmos wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1793,8 +1794,7 @@
         "plural": false,
         "internalIds": [ 5092 ]
       },
-      "materials": { "white cosmos": 1, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "white cosmos": 1, "star fragment": 3 }
     }
   },
   {
@@ -1833,6 +1833,7 @@
       "plural": false,
       "internalIds": [ 8535 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_0_0.png",
@@ -2067,7 +2068,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2106,6 +2106,7 @@
       "plural": false,
       "internalIds": [ 8471 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_0_0.png",
@@ -2340,7 +2341,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2360,6 +2360,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Fishing Tourney" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2390,7 +2391,6 @@
       "internalIds": [ 8770 ]
     },
     "colors": [],
-    "sources": [ "Fishing Tourney" ],
     "recipe": null
   },
   {
@@ -2429,6 +2429,7 @@
       "plural": false,
       "internalIds": [ 2377 ]
     },
+    "source": [ "Crafting" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_0_0.png",
@@ -2663,13 +2664,13 @@
         "colors": []
       }
     ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "fishing rod",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Pretty Good Tools Recipes" ],
       "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2701,8 +2702,7 @@
         "plural": false,
         "internalIds": [ 2377 ]
       },
-      "materials": { "flimsy fishing rod": 1, "iron nugget": 1 },
-      "sources": [ "Pretty Good Tools Recipes" ]
+      "materials": { "flimsy fishing rod": 1, "iron nugget": 1 }
     }
   },
   {
@@ -2722,6 +2722,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny", "Crafting" ],
     "sourceNotes": "Available after unlocking the axe in the story",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2752,13 +2753,13 @@
       "internalIds": [ 3068 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny", "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy axe",
       "buy": 280,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Tom Nook", "Nook's Cranny" ],
       "sourceNotes": "Obtained through Tom Nook's DIY Workshop at the beginning of the game and can also be purchased at Nook's Cranny",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2790,8 +2791,7 @@
         "plural": false,
         "internalIds": [ 3068 ]
       },
-      "materials": { "tree branch": 5, "stone": 1 },
-      "sources": [ "Tom Nook", "Nook's Cranny" ]
+      "materials": { "tree branch": 5, "stone": 1 }
     }
   },
   {
@@ -2811,6 +2811,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny", "Crafting" ],
     "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2841,13 +2842,13 @@
       "internalIds": [ 3084 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny", "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy fishing rod",
       "buy": 280,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Tom Nook" ],
       "sourceNotes": "Obtained through Tom Nook's DIY Workshop at the beginning of the game",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2879,8 +2880,7 @@
         "plural": false,
         "internalIds": [ 3084 ]
       },
-      "materials": { "tree branch": 5 },
-      "sources": [ "Tom Nook" ]
+      "materials": { "tree branch": 5 }
     }
   },
   {
@@ -2900,6 +2900,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny", "Crafting" ],
     "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2930,13 +2931,13 @@
       "internalIds": [ 2376 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny", "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy net",
       "buy": 280,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Tom Nook" ],
       "sourceNotes": "Obtained from Tom Nook after completing his DIY Workshop at the beginning of the game",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2968,8 +2969,7 @@
         "plural": false,
         "internalIds": [ 2376 ]
       },
-      "materials": { "tree branch": 5 },
-      "sources": [ "Tom Nook" ]
+      "materials": { "tree branch": 5 }
     }
   },
   {
@@ -2989,6 +2989,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny", "Crafting" ],
     "sourceNotes": "Available after unlocking the shovel in the story",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3019,13 +3020,13 @@
       "internalIds": [ 3082 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny", "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy shovel",
       "buy": 280,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Blathers", "Nook's Cranny" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3057,8 +3058,7 @@
         "plural": false,
         "internalIds": [ 3082 ]
       },
-      "materials": { "hardwood": 5 },
-      "sources": [ "Blathers", "Nook's Cranny" ]
+      "materials": { "hardwood": 5 }
     }
   },
   {
@@ -3078,6 +3078,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny", "Crafting" ],
     "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3108,13 +3109,13 @@
       "internalIds": [ 3083 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny", "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy watering can",
       "buy": 280,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Tom Nook", "Nook's Cranny" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3146,8 +3147,7 @@
         "plural": false,
         "internalIds": [ 3083 ]
       },
-      "materials": { "softwood": 5 },
-      "sources": [ "Tom Nook", "Nook's Cranny" ]
+      "materials": { "softwood": 5 }
     }
   },
   {
@@ -3167,6 +3167,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3197,13 +3198,13 @@
       "internalIds": [ 9617 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden axe",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Breaking 100 axes" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3235,8 +3236,7 @@
         "plural": false,
         "internalIds": [ 9617 ]
       },
-      "materials": { "axe": 1, "gold nugget": 1 },
-      "sources": [ "Breaking 100 axes" ]
+      "materials": { "axe": 1, "gold nugget": 1 }
     }
   },
   {
@@ -3256,6 +3256,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3286,13 +3287,13 @@
       "internalIds": [ 8179 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden net",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Completing bug Critterpedia" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3324,8 +3325,7 @@
         "plural": false,
         "internalIds": [ 8179 ]
       },
-      "materials": { "net": 1, "gold nugget": 1 },
-      "sources": [ "Completing bug Critterpedia" ]
+      "materials": { "net": 1, "gold nugget": 1 }
     }
   },
   {
@@ -3345,6 +3345,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3375,13 +3376,13 @@
       "internalIds": [ 8660 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden rod",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Completing fish Critterpedia" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3413,8 +3414,7 @@
         "plural": false,
         "internalIds": [ 8660 ]
       },
-      "materials": { "fishing rod": 1, "gold nugget": 1 },
-      "sources": [ "Completing fish Critterpedia" ]
+      "materials": { "fishing rod": 1, "gold nugget": 1 }
     }
   },
   {
@@ -3434,6 +3434,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3464,13 +3465,13 @@
       "internalIds": [ 8574 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden shovel",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Helping Gulliver 30 times" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3502,8 +3503,7 @@
         "plural": false,
         "internalIds": [ 8574 ]
       },
-      "materials": { "shovel": 1, "gold nugget": 1 },
-      "sources": [ "Helping Gulliver 30 times" ]
+      "materials": { "shovel": 1, "gold nugget": 1 }
     }
   },
   {
@@ -3523,6 +3523,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3553,13 +3554,13 @@
       "internalIds": [ 8578 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden slingshot",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Shooting 300 balloons" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3591,8 +3592,7 @@
         "plural": false,
         "internalIds": [ 8578 ]
       },
-      "materials": { "slingshot": 1, "gold nugget": 1 },
-      "sources": [ "Shooting 300 balloons" ]
+      "materials": { "slingshot": 1, "gold nugget": 1 }
     }
   },
   {
@@ -3612,6 +3612,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3642,13 +3643,13 @@
       "internalIds": [ 7591 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3680,8 +3681,7 @@
         "plural": false,
         "internalIds": [ 7591 ]
       },
-      "materials": { "gold nugget": 2, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "gold nugget": 2, "star fragment": 3 }
     }
   },
   {
@@ -3701,6 +3701,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3731,13 +3732,13 @@
       "internalIds": [ 8533 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden watering can",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "5-star town evaluation" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3769,8 +3770,7 @@
         "plural": false,
         "internalIds": [ 8533 ]
       },
-      "materials": { "watering can": 1, "gold nugget": 1 },
-      "sources": [ "5-star town evaluation" ]
+      "materials": { "watering can": 1, "gold nugget": 1 }
     }
   },
   {
@@ -3790,6 +3790,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3820,13 +3821,13 @@
       "internalIds": [ 5083 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hyacinth wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3858,8 +3859,7 @@
         "plural": false,
         "internalIds": [ 5083 ]
       },
-      "materials": { "pink hyacinths": 1, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "pink hyacinths": 1, "star fragment": 3 }
     }
   },
   {
@@ -3879,6 +3879,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3909,13 +3910,13 @@
       "internalIds": [ 7585 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ice wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snowboy" ],
       "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3947,8 +3948,7 @@
         "plural": false,
         "internalIds": [ 7585 ]
       },
-      "materials": { "large snowflake": 1, "star fragment": 3 },
-      "sources": [ "Snowboy" ]
+      "materials": { "large snowflake": 1, "star fragment": 3 }
     }
   },
   {
@@ -3968,6 +3968,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3998,13 +3999,13 @@
       "internalIds": [ 7592 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4036,8 +4037,7 @@
         "plural": false,
         "internalIds": [ 7592 ]
       },
-      "materials": { "iron nugget": 3, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "iron nugget": 3, "star fragment": 3 }
     }
   },
   {
@@ -4057,6 +4057,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4087,13 +4088,13 @@
       "internalIds": [ 2615 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ladder",
       "buy": 500,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Tom Nook", "Nook's Cranny" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4125,8 +4126,7 @@
         "plural": false,
         "internalIds": [ 2615 ]
       },
-      "materials": { "wood": 4, "hardwood": 4, "softwood": 4 },
-      "sources": [ "Tom Nook", "Nook's Cranny" ]
+      "materials": { "wood": 4, "hardwood": 4, "softwood": 4 }
     }
   },
   {
@@ -4146,6 +4146,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Isabelle" ],
     "sourceNotes": "Obtained by speaking to Isabelle on New Year's Eve",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4176,7 +4177,6 @@
       "internalIds": [ 5741 ]
     },
     "colors": [],
-    "sources": [ "Isabelle" ],
     "recipe": null
   },
   {
@@ -4196,6 +4196,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4226,13 +4227,13 @@
       "internalIds": [ 5094 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lily wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4264,8 +4265,7 @@
         "plural": false,
         "internalIds": [ 5094 ]
       },
-      "materials": { "white lilies": 1, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "white lilies": 1, "star fragment": 3 }
     }
   },
   {
@@ -4285,6 +4285,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4315,13 +4316,13 @@
       "internalIds": [ 5095 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mums wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4353,8 +4354,7 @@
         "plural": false,
         "internalIds": [ 5095 ]
       },
-      "materials": { "yellow mums": 1, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "yellow mums": 1, "star fragment": 3 }
     }
   },
   {
@@ -4393,6 +4393,7 @@
       "plural": false,
       "internalIds": [ 7588 ]
     },
+    "source": [ "Crafting" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_0_0.png",
@@ -4540,13 +4541,13 @@
         "colors": []
       }
     ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mushroom wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Mushroom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4578,8 +4579,7 @@
         "plural": false,
         "internalIds": [ 7588 ]
       },
-      "materials": { "skinny mushroom": 3, "star fragment": 3 },
-      "sources": [ "Balloons" ]
+      "materials": { "skinny mushroom": 3, "star fragment": 3 }
     }
   },
   {
@@ -4618,6 +4618,7 @@
       "plural": false,
       "internalIds": [ 5784 ]
     },
+    "source": [ "Nook's Cranny", "Crafting" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_0_0.png",
@@ -4852,13 +4853,13 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny", "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "net",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Pretty Good Tools Recipes" ],
       "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4890,8 +4891,7 @@
         "plural": false,
         "internalIds": [ 5784 ]
       },
-      "materials": { "flimsy net": 1, "iron nugget": 1 },
-      "sources": [ "Pretty Good Tools Recipes" ]
+      "materials": { "flimsy net": 1, "iron nugget": 1 }
     }
   },
   {
@@ -4911,6 +4911,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4941,13 +4942,13 @@
       "internalIds": [ 5320 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ocarina",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "DIY for Beginners" ],
       "sourceNotes": "Purchase DIY for Beginners at Nook's Cranny",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4979,8 +4980,7 @@
         "plural": false,
         "internalIds": [ 5320 ]
       },
-      "materials": { "clay": 5 },
-      "sources": [ "DIY for Beginners" ]
+      "materials": { "clay": 5 }
     }
   },
   {
@@ -5019,6 +5019,7 @@
       "plural": false,
       "internalIds": [ 8473 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_0_0.png",
@@ -5253,7 +5254,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5292,6 +5292,7 @@
       "plural": false,
       "internalIds": [ 8178 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_0_0.png",
@@ -5526,7 +5527,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5565,6 +5565,7 @@
       "plural": false,
       "internalIds": [ 8575 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_0_0.png",
@@ -5799,7 +5800,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5838,6 +5838,7 @@
       "plural": false,
       "internalIds": [ 8579 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_0_0.png",
@@ -6072,7 +6073,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6111,6 +6111,7 @@
       "plural": false,
       "internalIds": [ 8536 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_0_0.png",
@@ -6345,7 +6346,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6365,6 +6365,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6395,13 +6396,13 @@
       "internalIds": [ 5517 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pan flute",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Spring",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -6433,8 +6434,7 @@
         "plural": false,
         "internalIds": [ 5517 ]
       },
-      "materials": { "young spring bamboo": 7 },
-      "sources": [ "Balloons" ]
+      "materials": { "young spring bamboo": 7 }
     }
   },
   {
@@ -6454,6 +6454,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6484,13 +6485,13 @@
       "internalIds": [ 5091 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pansy wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -6522,8 +6523,7 @@
         "plural": false,
         "internalIds": [ 5091 ]
       },
-      "materials": { "yellow pansies": 1, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "yellow pansies": 1, "star fragment": 3 }
     }
   },
   {
@@ -6543,6 +6543,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Only available close to new year holiday",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6573,7 +6574,6 @@
       "internalIds": [ 2753 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6612,6 +6612,7 @@
       "plural": false,
       "internalIds": [ 8576 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_0_0.png",
@@ -6846,7 +6847,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6866,6 +6866,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6896,13 +6897,13 @@
       "internalIds": [ 5093 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rose wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -6934,8 +6935,7 @@
         "plural": false,
         "internalIds": [ 5093 ]
       },
-      "materials": { "red roses": 1, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "red roses": 1, "star fragment": 3 }
     }
   },
   {
@@ -6955,6 +6955,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6985,13 +6986,13 @@
       "internalIds": [ 7586 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shell wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Summer",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7023,8 +7024,7 @@
         "plural": false,
         "internalIds": [ 7586 ]
       },
-      "materials": { "summer shell": 3, "star fragment": 3 },
-      "sources": [ "Balloons" ]
+      "materials": { "summer shell": 3, "star fragment": 3 }
     }
   },
   {
@@ -7063,6 +7063,7 @@
       "plural": false,
       "internalIds": [ 2099 ]
     },
+    "source": [ "Crafting" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_0_0.png",
@@ -7297,13 +7298,13 @@
         "colors": []
       }
     ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shovel",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Pretty Good Tools Recipes" ],
       "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7335,8 +7336,7 @@
         "plural": false,
         "internalIds": [ 2099 ]
       },
-      "materials": { "flimsy shovel": 1, "iron nugget": 1 },
-      "sources": [ "Pretty Good Tools Recipes" ]
+      "materials": { "flimsy shovel": 1, "iron nugget": 1 }
     }
   },
   {
@@ -7375,6 +7375,7 @@
       "plural": false,
       "internalIds": [ 2822 ]
     },
+    "source": [ "Nook's Cranny", "Crafting" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_0_0.png",
@@ -7609,13 +7610,13 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny", "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "slingshot",
       "buy": 300,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Nook's Cranny" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7647,8 +7648,7 @@
         "plural": false,
         "internalIds": [ 2822 ]
       },
-      "materials": { "hardwood": 5 },
-      "sources": [ "Nook's Cranny" ]
+      "materials": { "hardwood": 5 }
     }
   },
   {
@@ -7687,6 +7687,7 @@
       "plural": false,
       "internalIds": [ 8176 ]
     },
+    "source": [ "Nook's Cranny" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_0_0.png",
@@ -7921,7 +7922,6 @@
         "colors": []
       }
     ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7941,6 +7941,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7971,13 +7972,13 @@
       "internalIds": [ 2544 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "star wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8009,8 +8010,7 @@
         "plural": false,
         "internalIds": [ 2544 ]
       },
-      "materials": { "large star fragment": 1, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "large star fragment": 1, "star fragment": 3 }
     }
   },
   {
@@ -8030,6 +8030,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8060,13 +8061,13 @@
       "internalIds": [ 5856 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone axe",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Pretty Good Tools Recipes" ],
       "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8098,8 +8099,7 @@
         "plural": false,
         "internalIds": [ 5856 ]
       },
-      "materials": { "flimsy axe": 1, "wood": 3 },
-      "sources": [ "Pretty Good Tools Recipes" ]
+      "materials": { "flimsy axe": 1, "wood": 3 }
     }
   },
   {
@@ -8119,6 +8119,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8149,7 +8150,6 @@
       "internalIds": [ 5430 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8169,6 +8169,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8199,7 +8200,6 @@
       "internalIds": [ 3331 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8219,6 +8219,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8249,13 +8250,13 @@
       "internalIds": [ 7587 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tree-branch wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8287,8 +8288,7 @@
         "plural": false,
         "internalIds": [ 7587 ]
       },
-      "materials": { "tree branch": 5, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "tree branch": 5, "star fragment": 3 }
     }
   },
   {
@@ -8308,6 +8308,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8338,13 +8339,13 @@
       "internalIds": [ 5085 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tulip wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8376,8 +8377,7 @@
         "plural": false,
         "internalIds": [ 5085 ]
       },
-      "materials": { "red tulips": 1, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "red tulips": 1, "star fragment": 3 }
     }
   },
   {
@@ -8397,6 +8397,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8427,13 +8428,13 @@
       "internalIds": [ 4703 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "vaulting pole",
       "buy": 500,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Blathers", "Nook's Cranny" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8465,8 +8466,7 @@
         "plural": false,
         "internalIds": [ 4703 ]
       },
-      "materials": { "softwood": 5 },
-      "sources": [ "Blathers", "Nook's Cranny" ]
+      "materials": { "softwood": 5 }
     }
   },
   {
@@ -8486,6 +8486,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8516,13 +8517,13 @@
       "internalIds": [ 7584 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8554,8 +8555,7 @@
         "plural": false,
         "internalIds": [ 7584 ]
       },
-      "materials": { "star fragment": 2 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 2 }
     }
   },
   {
@@ -8594,6 +8594,7 @@
       "plural": false,
       "internalIds": [ 2379 ]
     },
+    "source": [ "Crafting" ],
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_0_0.png",
@@ -8828,13 +8829,13 @@
         "colors": []
       }
     ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "watering can",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Pretty Good Tools Recipes" ],
       "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8866,8 +8867,7 @@
         "plural": false,
         "internalIds": [ 2379 ]
       },
-      "materials": { "flimsy watering can": 1, "iron nugget": 1 },
-      "sources": [ "Pretty Good Tools Recipes" ]
+      "materials": { "flimsy watering can": 1, "iron nugget": 1 }
     }
   },
   {
@@ -8887,6 +8887,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -8917,13 +8918,13 @@
       "internalIds": [ 12695 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wedding wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Cyrus" ],
       "sourceNotes": "Only available during Wedding Season",
       "versionAdded": "1.2.0",
       "versionUnlocked": "1.2.1c",
@@ -8955,8 +8956,7 @@
         "plural": false,
         "internalIds": [ 12695 ]
       },
-      "materials": { "wedding flower stand": 1, "star fragment": 3 },
-      "sources": [ "Cyrus" ]
+      "materials": { "wedding flower stand": 1, "star fragment": 3 }
     }
   },
   {
@@ -8976,6 +8976,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9006,13 +9007,13 @@
       "internalIds": [ 5084 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "windflower wand",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -9044,8 +9045,7 @@
         "plural": false,
         "internalIds": [ 5084 ]
       },
-      "materials": { "orange windflowers": 1, "star fragment": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "orange windflowers": 1, "star fragment": 3 }
     }
   },
   {
@@ -9065,6 +9065,7 @@
     "size": "1x1",
     "set": null,
     "milesPrice": null,
+    "source": [ "May Day Tour" ],
     "sourceNotes": "Only available during May Day Tour",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0a",
@@ -9095,7 +9096,6 @@
       "internalIds": [ 12615 ]
     },
     "colors": [],
-    "sources": [ "May Day Tour" ],
     "recipe": null
   }
 ]

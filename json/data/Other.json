@@ -9,6 +9,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Aquarius Zodiac, January 20 - February 18",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -39,7 +40,6 @@
       "internalIds": [ 5986 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -52,6 +52,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Aries Zodiac, March 21 - April 19",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -82,7 +83,6 @@
       "internalIds": [ 5988 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -95,6 +95,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Glowing dig spot" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -105,7 +106,6 @@
     "uniqueEntryId": "MwHcZBfqcJ5vJzRqZ",
     "translations": null,
     "colors": [],
-    "sources": [ "Glowing dig spot" ],
     "recipe": null
   },
   {
@@ -118,6 +118,7 @@
     "buy": -1,
     "sell": 3000,
     "milesPrice": 500,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -148,7 +149,6 @@
       "internalIds": [ 9964 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -161,6 +161,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -191,7 +192,6 @@
       "internalIds": [ 2755 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -204,6 +204,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Cancer Zodiac, June 21 - July 22",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -234,7 +235,6 @@
       "internalIds": [ 5991 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -247,6 +247,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Capricorn Zodiac, December 23 - January 19",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -277,7 +278,6 @@
       "internalIds": [ 5985 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -290,6 +290,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 800,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -320,7 +321,6 @@
       "internalIds": [ 12185 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -333,6 +333,7 @@
     "buy": 480,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -363,7 +364,6 @@
       "internalIds": [ 5603 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -376,6 +376,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Gemini Zodiac, May 21 - June 21",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -406,7 +407,6 @@
       "internalIds": [ 5990 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -419,6 +419,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Leo Zodiac, July 23 - August 22",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -449,7 +450,6 @@
       "internalIds": [ 5992 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -462,6 +462,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Libra Zodiac, September 23 - October 23",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -492,7 +493,6 @@
       "internalIds": [ 5994 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -505,6 +505,7 @@
     "buy": -1,
     "sell": 10000,
     "milesPrice": 2000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -535,7 +536,6 @@
       "internalIds": [ 5851 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -548,6 +548,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Pisces Zodiac, February 19 - March 20",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -578,7 +579,6 @@
       "internalIds": [ 5987 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -591,6 +591,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 5000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -621,7 +622,6 @@
       "internalIds": [ 9052 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -634,6 +634,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 3000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -664,7 +665,6 @@
       "internalIds": [ 9221 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -677,6 +677,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Sagittarius Zodiac, November 23 - December 22",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -707,7 +708,6 @@
       "internalIds": [ 5996 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -720,6 +720,7 @@
     "buy": -1,
     "sell": 100,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -750,7 +751,6 @@
       "internalIds": [ 9261 ]
     },
     "colors": [],
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -763,6 +763,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Scorpius Zodiac, October 24 - November 22",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -793,7 +794,6 @@
       "internalIds": [ 5995 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -806,6 +806,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Taurus Zodiac, April 20 - May 20",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -836,7 +837,6 @@
       "internalIds": [ 5989 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -849,6 +849,7 @@
     "buy": 2680,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -879,7 +880,6 @@
       "internalIds": [ 5604 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -892,6 +892,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 800,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -922,7 +923,6 @@
       "internalIds": [ 9616 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -935,6 +935,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 2400,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -965,7 +966,6 @@
       "internalIds": [ 9050 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -978,6 +978,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 2400,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1008,7 +1009,6 @@
       "internalIds": [ 9049 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -1021,6 +1021,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 3000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1051,7 +1052,6 @@
       "internalIds": [ 9051 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -1064,6 +1064,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 8000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1094,7 +1095,6 @@
       "internalIds": [ 11140 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -1107,6 +1107,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": "Only available during the Virgo Zodiac, August 23 - September 22",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1137,7 +1138,6 @@
       "internalIds": [ 5993 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -1150,6 +1150,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Don't return lost item" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1180,7 +1181,6 @@
       "internalIds": [ 4642 ]
     },
     "colors": [],
-    "sources": [ "Don't return lost item" ],
     "recipe": null
   },
   {
@@ -1193,6 +1193,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Don't return lost item" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1223,7 +1224,6 @@
       "internalIds": [ 4643 ]
     },
     "colors": [],
-    "sources": [ "Don't return lost item" ],
     "recipe": null
   },
   {
@@ -1236,6 +1236,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Don't return lost item" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1266,7 +1267,6 @@
       "internalIds": [ 5427 ]
     },
     "colors": [],
-    "sources": [ "Don't return lost item" ],
     "recipe": null
   },
   {
@@ -1279,6 +1279,7 @@
     "buy": 6980,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1309,7 +1310,6 @@
       "internalIds": [ 5605 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1322,6 +1322,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Catching with a net" ],
     "sourceNotes": "Only available while on a quest for Wisp",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1352,7 +1353,6 @@
       "internalIds": [ 4702 ]
     },
     "colors": [],
-    "sources": [ "Catching with a net" ],
     "recipe": null
   },
   {
@@ -1365,6 +1365,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Hardwood Tree" ],
     "sourceNotes": "Shaking; Only available during Fall",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1395,7 +1396,6 @@
       "internalIds": [ 5727 ]
     },
     "colors": [],
-    "sources": [ "Hardwood Tree" ],
     "recipe": null
   },
   {
@@ -1408,6 +1408,7 @@
     "buy": 400,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Apple Tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1438,7 +1439,6 @@
       "internalIds": [ 2213 ]
     },
     "colors": [],
-    "sources": [ "Apple Tree" ],
     "recipe": null
   },
   {
@@ -1451,6 +1451,7 @@
     "buy": -1,
     "sell": 300,
     "milesPrice": null,
+    "source": [ "Planting an apple" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1481,7 +1482,6 @@
       "internalIds": [ 3360 ]
     },
     "colors": [],
-    "sources": [ "Planting an apple" ],
     "recipe": null
   },
   {
@@ -1494,6 +1494,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 2000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1524,7 +1525,6 @@
       "internalIds": [ 8776 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -1537,6 +1537,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Chopping a bamboo tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1567,7 +1568,6 @@
       "internalIds": [ 2501 ]
     },
     "colors": [],
-    "sources": [ "Chopping a bamboo tree" ],
     "recipe": null
   },
   {
@@ -1580,6 +1580,7 @@
     "buy": -1,
     "sell": 250,
     "milesPrice": null,
+    "source": [ "Dig Spot", "Daisy Mae" ],
     "sourceNotes": "Near a bamboo tree",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1610,7 +1611,6 @@
       "internalIds": [ 2295 ]
     },
     "colors": [],
-    "sources": [ "Dig Spot", "Daisy Mae" ],
     "recipe": null
   },
   {
@@ -1623,6 +1623,7 @@
     "buy": -1,
     "sell": 1500,
     "milesPrice": null,
+    "source": [ "Planting a bamboo shoot" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1653,7 +1654,6 @@
       "internalIds": [ 2815 ]
     },
     "colors": [],
-    "sources": [ "Planting a bamboo shoot" ],
     "recipe": null
   },
   {
@@ -1666,6 +1666,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Birthday" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1696,7 +1697,6 @@
       "internalIds": [ 2779 ]
     },
     "colors": [],
-    "sources": [ "Birthday" ],
     "recipe": null
   },
   {
@@ -1709,6 +1709,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1739,7 +1740,6 @@
       "internalIds": [ 2875 ]
     },
     "colors": [ "Black", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -1752,6 +1752,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1782,7 +1783,6 @@
       "internalIds": [ 2999 ]
     },
     "colors": [ "Black", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -1795,6 +1795,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1825,7 +1826,6 @@
       "internalIds": [ 2955 ]
     },
     "colors": [ "Black", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -1838,6 +1838,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1868,7 +1869,6 @@
       "internalIds": [ 2903 ]
     },
     "colors": [ "Black", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -1881,6 +1881,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1911,7 +1912,6 @@
       "internalIds": [ 7698 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1924,6 +1924,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Red/red cosmos" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1954,7 +1955,6 @@
       "internalIds": [ 3834 ]
     },
     "colors": [],
-    "sources": [ "Red/red cosmos" ],
     "recipe": null
   },
   {
@@ -1967,6 +1967,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/red lilies" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1997,7 +1998,6 @@
       "internalIds": [ 3896 ]
     },
     "colors": [],
-    "sources": [ "Red/red lilies" ],
     "recipe": null
   },
   {
@@ -2010,6 +2010,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Red/red roses" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2040,7 +2041,6 @@
       "internalIds": [ 3874 ]
     },
     "colors": [],
-    "sources": [ "Red/red roses" ],
     "recipe": null
   },
   {
@@ -2053,6 +2053,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/red tulips" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2083,7 +2084,6 @@
       "internalIds": [ 3848 ]
     },
     "colors": [],
-    "sources": [ "Red/red tulips" ],
     "recipe": null
   },
   {
@@ -2096,6 +2096,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2126,7 +2127,6 @@
       "internalIds": [ 3748 ]
     },
     "colors": [ "Blue", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -2139,6 +2139,7 @@
     "buy": -1,
     "sell": 50,
     "milesPrice": null,
+    "source": [ "Cedar Tree" ],
     "sourceNotes": "Shaking decorated trees; Only available during the Festive Season",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2169,7 +2170,6 @@
       "internalIds": [ 5731 ]
     },
     "colors": [],
-    "sources": [ "Cedar Tree" ],
     "recipe": null
   },
   {
@@ -2182,6 +2182,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2212,7 +2213,6 @@
       "internalIds": [ 2927 ]
     },
     "colors": [ "Blue", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -2225,6 +2225,7 @@
     "buy": -1,
     "sell": 1000,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2255,7 +2256,6 @@
       "internalIds": [ 2959 ]
     },
     "colors": [ "Blue", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -2268,6 +2268,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2298,7 +2299,6 @@
       "internalIds": [ 3717 ]
     },
     "colors": [ "Blue", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -2311,6 +2311,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2341,7 +2342,6 @@
       "internalIds": [ 7692 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2354,6 +2354,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "White/white hyacinths" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2384,7 +2385,6 @@
       "internalIds": [ 3920 ]
     },
     "colors": [],
-    "sources": [ "White/white hyacinths" ],
     "recipe": null
   },
   {
@@ -2397,6 +2397,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -2427,7 +2428,6 @@
       "internalIds": [ 3800 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -2440,6 +2440,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -2470,7 +2471,6 @@
       "internalIds": [ 12749 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -2483,6 +2483,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -2513,7 +2514,6 @@
       "internalIds": [ 3798 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -2526,6 +2526,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "White/white pansies" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2556,7 +2557,6 @@
       "internalIds": [ 3860 ]
     },
     "colors": [],
-    "sources": [ "White/white pansies" ],
     "recipe": null
   },
   {
@@ -2569,6 +2569,7 @@
     "buy": -1,
     "sell": 1000,
     "milesPrice": null,
+    "source": [ "Orange/orange roses" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2599,7 +2600,6 @@
       "internalIds": [ 3876 ]
     },
     "colors": [],
-    "sources": [ "Orange/orange roses" ],
     "recipe": null
   },
   {
@@ -2612,6 +2612,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "White/white windflowers\nOrange/white windflowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2642,7 +2643,6 @@
       "internalIds": [ 3902 ]
     },
     "colors": [],
-    "sources": [ "White/white windflowers\nOrange/white windflowers" ],
     "recipe": null
   },
   {
@@ -2655,6 +2655,7 @@
     "buy": 40,
     "sell": 10,
     "milesPrice": null,
+    "source": [ "Fishing" ],
     "sourceNotes": "Medium shadow",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2685,7 +2686,6 @@
       "internalIds": [ 3469 ]
     },
     "colors": [],
-    "sources": [ "Fishing" ],
     "recipe": null
   },
   {
@@ -2698,6 +2698,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 2000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2728,7 +2729,6 @@
       "internalIds": [ 8774 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -2741,6 +2741,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2771,13 +2772,13 @@
       "internalIds": [ 7211 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bridge construction kit",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2809,8 +2810,7 @@
         "plural": false,
         "internalIds": [ 7211 ]
       },
-      "materials": { "log stakes": 4, "clay": 4, "stone": 4 },
-      "sources": [ "Tom Nook" ]
+      "materials": { "log stakes": 4, "clay": 4, "stone": 4 }
     }
   },
   {
@@ -2823,6 +2823,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2853,7 +2854,6 @@
       "internalIds": [ 4310 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -2866,6 +2866,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2896,7 +2897,6 @@
       "internalIds": [ 7696 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2909,6 +2909,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2939,13 +2940,13 @@
       "internalIds": [ 5166 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "campsite construction kit",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2977,8 +2978,7 @@
         "plural": false,
         "internalIds": [ 5166 ]
       },
-      "materials": { "wood": 15, "softwood": 15, "hardwood": 15, "iron nugget": 15 },
-      "sources": [ "Tom Nook" ]
+      "materials": { "wood": 15, "softwood": 15, "hardwood": 15, "iron nugget": 15 }
     }
   },
   {
@@ -2991,6 +2991,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3021,7 +3022,6 @@
       "internalIds": [ 6841 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -3034,6 +3034,7 @@
     "buy": 640,
     "sell": 160,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3064,7 +3065,6 @@
       "internalIds": [ 2800 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3077,6 +3077,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Planting a cedar sapling" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3107,7 +3108,6 @@
       "internalIds": [ 2805 ]
     },
     "colors": [],
-    "sources": [ "Planting a cedar sapling" ],
     "recipe": null
   },
   {
@@ -3120,6 +3120,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3150,7 +3151,6 @@
       "internalIds": [ 7686 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3163,6 +3163,7 @@
     "buy": 400,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Cherry Tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3193,7 +3194,6 @@
       "internalIds": [ 2287 ]
     },
     "colors": [],
-    "sources": [ "Cherry Tree" ],
     "recipe": null
   },
   {
@@ -3206,6 +3206,7 @@
     "buy": -1,
     "sell": 300,
     "milesPrice": null,
+    "source": [ "Planting a cherry" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3236,7 +3237,6 @@
       "internalIds": [ 3381 ]
     },
     "colors": [],
-    "sources": [ "Planting a cherry" ],
     "recipe": null
   },
   {
@@ -3249,6 +3249,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Catching with a net" ],
     "sourceNotes": "Only available during the Cherry-Blossom Season",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3279,7 +3280,6 @@
       "internalIds": [ 5859 ]
     },
     "colors": [],
-    "sources": [ "Catching with a net" ],
     "recipe": null
   },
   {
@@ -3292,6 +3292,7 @@
     "buy": -1,
     "sell": 100,
     "milesPrice": null,
+    "source": [ "Hitting a rock" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3322,7 +3323,6 @@
       "internalIds": [ 3090 ]
     },
     "colors": [],
-    "sources": [ "Hitting a rock" ],
     "recipe": null
   },
   {
@@ -3335,6 +3335,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 6000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3365,7 +3366,6 @@
       "internalIds": [ 8781 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -3378,6 +3378,7 @@
     "buy": -1,
     "sell": 10,
     "milesPrice": null,
+    "source": [ "On ground" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3408,7 +3409,6 @@
       "internalIds": [ 2624 ]
     },
     "colors": [],
-    "sources": [ "On ground" ],
     "recipe": null
   },
   {
@@ -3421,6 +3421,7 @@
     "buy": -1,
     "sell": 250,
     "milesPrice": null,
+    "source": [ "Coconut Tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3451,7 +3452,6 @@
       "internalIds": [ 2288 ]
     },
     "colors": [],
-    "sources": [ "Coconut Tree" ],
     "recipe": null
   },
   {
@@ -3464,6 +3464,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Planting a coconut" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3494,7 +3495,6 @@
       "internalIds": [ 2810 ]
     },
     "colors": [],
-    "sources": [ "Planting a coconut" ],
     "recipe": null
   },
   {
@@ -3507,6 +3507,7 @@
     "buy": -1,
     "sell": 0,
     "milesPrice": null,
+    "source": [ "Shaking a hardwood or cedar tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3517,7 +3518,6 @@
     "uniqueEntryId": "jNjH659eycYXADzaq",
     "translations": null,
     "colors": [],
-    "sources": [ "Shaking a hardwood or cedar tree" ],
     "recipe": null
   },
   {
@@ -3530,6 +3530,7 @@
     "buy": -1,
     "sell": 222,
     "milesPrice": null,
+    "source": [ "Dive spot" ],
     "sourceNotes": "Only available while on a quest for Gulliver",
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
@@ -3560,7 +3561,6 @@
       "internalIds": [ 13105 ]
     },
     "colors": [],
-    "sources": [ "Dive spot" ],
     "recipe": null
   },
   {
@@ -3573,6 +3573,7 @@
     "buy": -1,
     "sell": 20,
     "milesPrice": null,
+    "source": [ "Clam dig spot" ],
     "sourceNotes": "Only available while on a quest for Gulliver",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3603,7 +3604,6 @@
       "internalIds": [ 2381 ]
     },
     "colors": [],
-    "sources": [ "Clam dig spot" ],
     "recipe": null
   },
   {
@@ -3616,6 +3616,7 @@
     "buy": -1,
     "sell": 700,
     "milesPrice": null,
+    "source": [ "Beach" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3646,7 +3647,6 @@
       "internalIds": [ 1376 ]
     },
     "colors": [],
-    "sources": [ "Beach" ],
     "recipe": null
   },
   {
@@ -3659,6 +3659,7 @@
     "buy": -1,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Beach" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3689,7 +3690,6 @@
       "internalIds": [ 1380 ]
     },
     "colors": [],
-    "sources": [ "Beach" ],
     "recipe": null
   },
   {
@@ -3702,6 +3702,7 @@
     "buy": -1,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Beach" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3732,7 +3733,6 @@
       "internalIds": [ 1382 ]
     },
     "colors": [],
-    "sources": [ "Beach" ],
     "recipe": null
   },
   {
@@ -3745,6 +3745,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 2300,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3775,7 +3776,6 @@
       "internalIds": [ 9771 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -3788,6 +3788,7 @@
     "buy": -1,
     "sell": 9000,
     "milesPrice": 1800,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3818,7 +3819,6 @@
       "internalIds": [ 8760 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -3831,6 +3831,7 @@
     "buy": 600,
     "sell": 150,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3861,7 +3862,6 @@
       "internalIds": [ 2513 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3874,6 +3874,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 2000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3904,7 +3905,6 @@
       "internalIds": [ 8775 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -3917,6 +3917,7 @@
     "buy": -1,
     "sell": 222,
     "milesPrice": null,
+    "source": [ "Delivering item for a villager" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3947,7 +3948,6 @@
       "internalIds": [ 4645 ]
     },
     "colors": [],
-    "sources": [ "Delivering item for a villager" ],
     "recipe": null
   },
   {
@@ -3960,6 +3960,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Nook Shopping" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3990,7 +3991,6 @@
       "internalIds": [ 4245 ]
     },
     "colors": [],
-    "sources": [ "Nook Shopping" ],
     "recipe": null
   },
   {
@@ -4003,6 +4003,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Dig Spot" ],
     "sourceNotes": "Only available during Bunny Day",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -4033,7 +4034,6 @@
       "internalIds": [ 12509 ]
     },
     "colors": [],
-    "sources": [ "Dig Spot" ],
     "recipe": null
   },
   {
@@ -4046,6 +4046,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Beach" ],
     "sourceNotes": "Only available during Bunny Day",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -4076,7 +4077,6 @@
       "internalIds": [ 12544 ]
     },
     "colors": [],
-    "sources": [ "Beach" ],
     "recipe": null
   },
   {
@@ -4089,6 +4089,7 @@
     "buy": -1,
     "sell": 10000,
     "milesPrice": null,
+    "source": [ "On ground" ],
     "sourceNotes": "Only available during Mushroom Season",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4119,7 +4120,6 @@
       "internalIds": [ 3276 ]
     },
     "colors": [],
-    "sources": [ "On ground" ],
     "recipe": null
   },
   {
@@ -4132,6 +4132,7 @@
     "buy": -1,
     "sell": 10,
     "milesPrice": null,
+    "source": [ "Fishing" ],
     "sourceNotes": "Small shadow",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4162,7 +4163,6 @@
       "internalIds": [ 3466 ]
     },
     "colors": [],
-    "sources": [ "Fishing" ],
     "recipe": null
   },
   {
@@ -4175,6 +4175,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4205,13 +4206,13 @@
       "internalIds": [ 4549 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "fish bait",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Digging up clams" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4243,8 +4244,7 @@
         "plural": false,
         "internalIds": [ 4549 ]
       },
-      "materials": { "manila clam": 1 },
-      "sources": [ "Digging up clams" ]
+      "materials": { "manila clam": 1 }
     }
   },
   {
@@ -4257,6 +4257,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "On ground" ],
     "sourceNotes": "Only available during Mushroom Season",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4287,7 +4288,6 @@
       "internalIds": [ 3279 ]
     },
     "colors": [],
-    "sources": [ "On ground" ],
     "recipe": null
   },
   {
@@ -4300,6 +4300,7 @@
     "buy": -1,
     "sell": 100,
     "milesPrice": null,
+    "source": [ "Dig Spot" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4330,7 +4331,6 @@
       "internalIds": [ 2579 ]
     },
     "colors": [],
-    "sources": [ "Dig Spot" ],
     "recipe": null
   },
   {
@@ -4343,6 +4343,7 @@
     "buy": -1,
     "sell": 900,
     "milesPrice": null,
+    "source": [ "Beach" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4373,7 +4374,6 @@
       "internalIds": [ 1381 ]
     },
     "colors": [],
-    "sources": [ "Beach" ],
     "recipe": null
   },
   {
@@ -4386,6 +4386,7 @@
     "buy": -1,
     "sell": 10000,
     "milesPrice": null,
+    "source": [ "Hitting a rock" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4416,7 +4417,6 @@
       "internalIds": [ 2505 ]
     },
     "colors": [],
-    "sources": [ "Hitting a rock" ],
     "recipe": null
   },
   {
@@ -4429,6 +4429,7 @@
     "buy": -1,
     "sell": 50,
     "milesPrice": null,
+    "source": [ "Cedar Tree" ],
     "sourceNotes": "Shaking decorated trees; Only available during the Festive Season",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4459,7 +4460,6 @@
       "internalIds": [ 5732 ]
     },
     "colors": [],
-    "sources": [ "Cedar Tree" ],
     "recipe": null
   },
   {
@@ -4472,6 +4472,7 @@
     "buy": -1,
     "sell": 1000,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4502,7 +4503,6 @@
       "internalIds": [ 2963 ]
     },
     "colors": [ "Yellow", "Yellow" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -4515,6 +4515,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4545,7 +4546,6 @@
       "internalIds": [ 7695 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4558,6 +4558,7 @@
     "buy": -1,
     "sell": 1000,
     "milesPrice": null,
+    "source": [ "Black/black roses\nWater with gold watering can" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4588,7 +4589,6 @@
       "internalIds": [ 3878 ]
     },
     "colors": [],
-    "sources": [ "Black/black roses\nWater with gold watering can" ],
     "recipe": null
   },
   {
@@ -4601,6 +4601,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4631,7 +4632,6 @@
       "internalIds": [ 7697 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4644,6 +4644,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4674,7 +4675,6 @@
       "internalIds": [ 5175 ]
     },
     "colors": [ "Green", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -4687,6 +4687,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4717,7 +4718,6 @@
       "internalIds": [ 7687 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4730,6 +4730,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Purple/purple mums" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4760,7 +4761,6 @@
       "internalIds": [ 3934 ]
     },
     "colors": [],
-    "sources": [ "Purple/purple mums" ],
     "recipe": null
   },
   {
@@ -4773,6 +4773,7 @@
     "buy": -1,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Chopping a tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4803,7 +4804,6 @@
       "internalIds": [ 2769 ]
     },
     "colors": [],
-    "sources": [ "Chopping a tree" ],
     "recipe": null
   },
   {
@@ -4816,6 +4816,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Planting a sapling" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4846,7 +4847,6 @@
       "internalIds": [ 2799 ]
     },
     "colors": [],
-    "sources": [ "Planting a sapling" ],
     "recipe": null
   },
   {
@@ -4859,6 +4859,7 @@
     "buy": 400,
     "sell": 100,
     "milesPrice": null,
+    "source": [ "Reese" ],
     "sourceNotes": "Reward for helping Cyrus & Reese during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -4889,7 +4890,6 @@
       "internalIds": [ 12546 ]
     },
     "colors": [],
-    "sources": [ "Reese" ],
     "recipe": null
   },
   {
@@ -4902,6 +4902,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -4932,7 +4933,6 @@
       "internalIds": [ 3027 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -4945,6 +4945,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -4975,7 +4976,6 @@
       "internalIds": [ 12757 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -4988,6 +4988,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -5018,7 +5019,6 @@
       "internalIds": [ 3024 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -5031,6 +5031,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5061,7 +5062,6 @@
       "internalIds": [ 3349 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -5074,6 +5074,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5104,7 +5105,6 @@
       "internalIds": [ 4311 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -5117,6 +5117,7 @@
     "buy": -1,
     "sell": 375,
     "milesPrice": null,
+    "source": [ "Hitting a rock" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5147,7 +5148,6 @@
       "internalIds": [ 2511 ]
     },
     "colors": [],
-    "sources": [ "Hitting a rock" ],
     "recipe": null
   },
   {
@@ -5160,6 +5160,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Snowboy" ],
     "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5190,7 +5191,6 @@
       "internalIds": [ 3540 ]
     },
     "colors": [],
-    "sources": [ "Snowboy" ],
     "recipe": null
   },
   {
@@ -5203,6 +5203,7 @@
     "buy": -1,
     "sell": 2500,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5233,7 +5234,6 @@
       "internalIds": [ 5984 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -5246,6 +5246,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Hardwood Tree" ],
     "sourceNotes": "Shaking decorated trees; Only available during Bunny Day",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -5276,7 +5277,6 @@
       "internalIds": [ 12511 ]
     },
     "colors": [],
-    "sources": [ "Hardwood Tree" ],
     "recipe": null
   },
   {
@@ -5289,6 +5289,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5319,7 +5320,6 @@
       "internalIds": [ 7689 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5332,6 +5332,7 @@
     "buy": -1,
     "sell": 222,
     "milesPrice": null,
+    "source": [ "5-star town status" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5362,7 +5363,6 @@
       "internalIds": [ 7651 ]
     },
     "colors": [],
-    "sources": [ "5-star town status" ],
     "recipe": null
   },
   {
@@ -5375,6 +5375,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "On ground" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5405,7 +5406,6 @@
       "internalIds": [ 2374 ]
     },
     "colors": [],
-    "sources": [ "On ground" ],
     "recipe": null
   },
   {
@@ -5418,6 +5418,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "On ground" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5448,7 +5449,6 @@
       "internalIds": [ 2375 ]
     },
     "colors": [],
-    "sources": [ "On ground" ],
     "recipe": null
   },
   {
@@ -5461,6 +5461,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "On ground" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5491,7 +5492,6 @@
       "internalIds": [ 5426 ]
     },
     "colors": [],
-    "sources": [ "On ground" ],
     "recipe": null
   },
   {
@@ -5504,6 +5504,7 @@
     "buy": -1,
     "sell": 100,
     "milesPrice": null,
+    "source": [ "Clam dig spot" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5534,7 +5535,6 @@
       "internalIds": [ 2567 ]
     },
     "colors": [],
-    "sources": [ "Clam dig spot" ],
     "recipe": null
   },
   {
@@ -5547,6 +5547,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Catching with a net" ],
     "sourceNotes": "Only available during Maple Leaf Season",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5577,7 +5578,6 @@
       "internalIds": [ 7374 ]
     },
     "colors": [],
-    "sources": [ "Catching with a net" ],
     "recipe": null
   },
   {
@@ -5590,6 +5590,7 @@
     "buy": 400,
     "sell": 100,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5620,13 +5621,13 @@
       "internalIds": [ 2777 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "medicine",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers (while stung)" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5658,8 +5659,7 @@
         "plural": false,
         "internalIds": [ 2777 ]
       },
-      "materials": { "wasp nest": 1, "clump of weeds": 3 },
-      "sources": [ "All Villagers (while stung)" ]
+      "materials": { "wasp nest": 1, "clump of weeds": 3 }
     }
   },
   {
@@ -5672,6 +5672,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Beach" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5702,7 +5703,6 @@
       "internalIds": [ 5793 ]
     },
     "colors": [],
-    "sources": [ "Beach" ],
     "recipe": null
   },
   {
@@ -5715,6 +5715,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5745,7 +5746,6 @@
       "internalIds": [ 7688 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5758,6 +5758,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Burying bells in a glowing spot" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5788,7 +5789,6 @@
       "internalIds": [ 4426 ]
     },
     "colors": [],
-    "sources": [ "Burying bells in a glowing spot" ],
     "recipe": null
   },
   {
@@ -5801,6 +5801,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5831,7 +5832,6 @@
       "internalIds": [ 5358 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -5844,6 +5844,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5874,7 +5875,6 @@
       "internalIds": [ 5361 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -5887,6 +5887,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5917,7 +5918,6 @@
       "internalIds": [ 7691 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5930,6 +5930,7 @@
     "buy": -1,
     "sell": 10,
     "milesPrice": null,
+    "source": [ "Fishing" ],
     "sourceNotes": "Large shadow",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5960,7 +5961,6 @@
       "internalIds": [ 3470 ]
     },
     "colors": [],
-    "sources": [ "Fishing" ],
     "recipe": null
   },
   {
@@ -5973,6 +5973,7 @@
     "buy": 400,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Orange Tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6003,7 +6004,6 @@
       "internalIds": [ 2214 ]
     },
     "colors": [],
-    "sources": [ "Orange Tree" ],
     "recipe": null
   },
   {
@@ -6016,6 +6016,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6046,7 +6047,6 @@
       "internalIds": [ 2871 ]
     },
     "colors": [ "Orange", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -6059,6 +6059,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6089,7 +6090,6 @@
       "internalIds": [ 3741 ]
     },
     "colors": [ "Orange", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -6102,6 +6102,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6132,7 +6133,6 @@
       "internalIds": [ 2995 ]
     },
     "colors": [ "Orange", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -6145,6 +6145,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6175,7 +6176,6 @@
       "internalIds": [ 2919 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -6188,6 +6188,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6218,7 +6219,6 @@
       "internalIds": [ 2947 ]
     },
     "colors": [ "Orange", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -6231,6 +6231,7 @@
     "buy": -1,
     "sell": 300,
     "milesPrice": null,
+    "source": [ "Planting an orange" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6261,7 +6262,6 @@
       "internalIds": [ 3365 ]
     },
     "colors": [],
-    "sources": [ "Planting an orange" ],
     "recipe": null
   },
   {
@@ -6274,6 +6274,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6304,7 +6305,6 @@
       "internalIds": [ 2895 ]
     },
     "colors": [ "Orange", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -6317,6 +6317,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6347,7 +6348,6 @@
       "internalIds": [ 3713 ]
     },
     "colors": [ "Orange", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -6360,6 +6360,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6390,7 +6391,6 @@
       "internalIds": [ 7685 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6403,6 +6403,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/yellow cosmos" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6433,7 +6434,6 @@
       "internalIds": [ 3832 ]
     },
     "colors": [],
-    "sources": [ "Red/yellow cosmos" ],
     "recipe": null
   },
   {
@@ -6446,6 +6446,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/yellow hyacinths" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6476,7 +6477,6 @@
       "internalIds": [ 3916 ]
     },
     "colors": [],
-    "sources": [ "Red/yellow hyacinths" ],
     "recipe": null
   },
   {
@@ -6489,6 +6489,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/yellow lilies" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6519,7 +6520,6 @@
       "internalIds": [ 3894 ]
     },
     "colors": [],
-    "sources": [ "Red/yellow lilies" ],
     "recipe": null
   },
   {
@@ -6532,6 +6532,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/yellow pansies" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6562,7 +6563,6 @@
       "internalIds": [ 3856 ]
     },
     "colors": [],
-    "sources": [ "Red/yellow pansies" ],
     "recipe": null
   },
   {
@@ -6575,6 +6575,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/yellow roses" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6605,7 +6606,6 @@
       "internalIds": [ 3870 ]
     },
     "colors": [],
-    "sources": [ "Red/yellow roses" ],
     "recipe": null
   },
   {
@@ -6618,6 +6618,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -6648,7 +6649,6 @@
       "internalIds": [ 12482 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -6661,6 +6661,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -6691,7 +6692,6 @@
       "internalIds": [ 12754 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -6704,6 +6704,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -6734,7 +6735,6 @@
       "internalIds": [ 12480 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -6747,6 +6747,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/yellow tulips" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6777,7 +6778,6 @@
       "internalIds": [ 3844 ]
     },
     "colors": [],
-    "sources": [ "Red/yellow tulips" ],
     "recipe": null
   },
   {
@@ -6790,6 +6790,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6820,7 +6821,6 @@
       "internalIds": [ 3714 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6833,6 +6833,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6863,7 +6864,6 @@
       "internalIds": [ 3900 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -6876,6 +6876,7 @@
     "buy": 400,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Peach Tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6906,7 +6907,6 @@
       "internalIds": [ 2286 ]
     },
     "colors": [],
-    "sources": [ "Peach Tree" ],
     "recipe": null
   },
   {
@@ -6919,6 +6919,7 @@
     "buy": -1,
     "sell": 300,
     "milesPrice": null,
+    "source": [ "Planting a peach" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6949,7 +6950,6 @@
       "internalIds": [ 3375 ]
     },
     "colors": [],
-    "sources": [ "Planting a peach" ],
     "recipe": null
   },
   {
@@ -6962,6 +6962,7 @@
     "buy": 400,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Pear Tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6992,7 +6993,6 @@
       "internalIds": [ 2285 ]
     },
     "colors": [],
-    "sources": [ "Pear Tree" ],
     "recipe": null
   },
   {
@@ -7005,6 +7005,7 @@
     "buy": -1,
     "sell": 300,
     "milesPrice": null,
+    "source": [ "Planting a pear" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7035,7 +7036,6 @@
       "internalIds": [ 3370 ]
     },
     "colors": [],
-    "sources": [ "Planting a pear" ],
     "recipe": null
   },
   {
@@ -7048,6 +7048,7 @@
     "buy": -1,
     "sell": 10000,
     "milesPrice": null,
+    "source": [ "Diving" ],
     "sourceNotes": null,
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
@@ -7078,7 +7079,6 @@
       "internalIds": [ 12968 ]
     },
     "colors": [],
-    "sources": [ "Diving" ],
     "recipe": null
   },
   {
@@ -7091,6 +7091,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Cedar Tree" ],
     "sourceNotes": "Shaking; Only available during Fall",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7121,7 +7122,6 @@
       "internalIds": [ 5728 ]
     },
     "colors": [],
-    "sources": [ "Cedar Tree" ],
     "recipe": null
   },
   {
@@ -7134,6 +7134,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7164,7 +7165,6 @@
       "internalIds": [ 2867 ]
     },
     "colors": [ "Pink", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -7177,6 +7177,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7207,7 +7208,6 @@
       "internalIds": [ 3738 ]
     },
     "colors": [ "Pink", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -7220,6 +7220,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7250,7 +7251,6 @@
       "internalIds": [ 2991 ]
     },
     "colors": [ "Pink", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -7263,6 +7263,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7293,7 +7294,6 @@
       "internalIds": [ 3765 ]
     },
     "colors": [ "Pink", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -7306,6 +7306,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7336,7 +7337,6 @@
       "internalIds": [ 2943 ]
     },
     "colors": [ "Pink", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -7349,6 +7349,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7379,7 +7380,6 @@
       "internalIds": [ 2891 ]
     },
     "colors": [ "Pink", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -7392,6 +7392,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7422,7 +7423,6 @@
       "internalIds": [ 3720 ]
     },
     "colors": [ "Pink", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -7435,6 +7435,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7465,7 +7466,6 @@
       "internalIds": [ 7684 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7478,6 +7478,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -7508,7 +7509,6 @@
       "internalIds": [ 3788 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -7521,6 +7521,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -7551,7 +7552,6 @@
       "internalIds": [ 12748 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -7564,6 +7564,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -7594,7 +7595,6 @@
       "internalIds": [ 3786 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -7607,6 +7607,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -7637,7 +7638,6 @@
       "internalIds": [ 12492 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -7650,6 +7650,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -7680,7 +7681,6 @@
       "internalIds": [ 12756 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -7693,6 +7693,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -7723,7 +7724,6 @@
       "internalIds": [ 12490 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -7736,6 +7736,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/white cosmos" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7766,7 +7767,6 @@
       "internalIds": [ 3830 ]
     },
     "colors": [],
-    "sources": [ "Red/white cosmos" ],
     "recipe": null
   },
   {
@@ -7779,6 +7779,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/white hyacinths" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7809,7 +7810,6 @@
       "internalIds": [ 3914 ]
     },
     "colors": [],
-    "sources": [ "Red/white hyacinths" ],
     "recipe": null
   },
   {
@@ -7822,6 +7822,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -7852,7 +7853,6 @@
       "internalIds": [ 3796 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -7865,6 +7865,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -7895,7 +7896,6 @@
       "internalIds": [ 12750 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -7908,6 +7908,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -7938,7 +7939,6 @@
       "internalIds": [ 3794 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -7951,6 +7951,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/white lilies" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7981,7 +7982,6 @@
       "internalIds": [ 3892 ]
     },
     "colors": [],
-    "sources": [ "Red/white lilies" ],
     "recipe": null
   },
   {
@@ -7994,6 +7994,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/white mums" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8024,7 +8025,6 @@
       "internalIds": [ 3930 ]
     },
     "colors": [],
-    "sources": [ "Red/white mums" ],
     "recipe": null
   },
   {
@@ -8037,6 +8037,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/white roses" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8067,7 +8068,6 @@
       "internalIds": [ 3868 ]
     },
     "colors": [],
-    "sources": [ "Red/white roses" ],
     "recipe": null
   },
   {
@@ -8080,6 +8080,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/white tulips" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8110,7 +8111,6 @@
       "internalIds": [ 3842 ]
     },
     "colors": [],
-    "sources": [ "Red/white tulips" ],
     "recipe": null
   },
   {
@@ -8123,6 +8123,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Red/orange windflowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8153,7 +8154,6 @@
       "internalIds": [ 3904 ]
     },
     "colors": [],
-    "sources": [ "Red/orange windflowers" ],
     "recipe": null
   },
   {
@@ -8166,6 +8166,7 @@
     "buy": -1,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8196,13 +8197,13 @@
       "internalIds": [ 2578 ]
     },
     "colors": [],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pitfall seed",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": "Also obtained from digging up an existing pitfall",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8234,8 +8235,7 @@
         "plural": false,
         "internalIds": [ 2578 ]
       },
-      "materials": { "clump of weeds": 4, "tree branch": 6 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "clump of weeds": 4, "tree branch": 6 }
     }
   },
   {
@@ -8248,6 +8248,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8278,7 +8279,6 @@
       "internalIds": [ 5827 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -8291,6 +8291,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8321,7 +8322,6 @@
       "internalIds": [ 5828 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -8334,6 +8334,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8364,7 +8365,6 @@
       "internalIds": [ 5829 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -8377,6 +8377,7 @@
     "buy": -1,
     "sell": 222,
     "milesPrice": null,
+    "source": [ "Mail" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8407,7 +8408,6 @@
       "internalIds": [ 4480 ]
     },
     "colors": [],
-    "sources": [ "Mail" ],
     "recipe": null
   },
   {
@@ -8420,6 +8420,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8450,7 +8451,6 @@
       "internalIds": [ 7714 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8463,6 +8463,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8493,7 +8494,6 @@
       "internalIds": [ 7708 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8506,6 +8506,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8536,7 +8537,6 @@
       "internalIds": [ 7712 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8549,6 +8549,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8579,7 +8580,6 @@
       "internalIds": [ 7702 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8592,6 +8592,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8622,7 +8623,6 @@
       "internalIds": [ 7711 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8635,6 +8635,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8665,7 +8666,6 @@
       "internalIds": [ 7713 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8678,6 +8678,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8708,7 +8709,6 @@
       "internalIds": [ 7703 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8721,6 +8721,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8751,7 +8752,6 @@
       "internalIds": [ 7705 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8764,6 +8764,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8794,7 +8795,6 @@
       "internalIds": [ 7704 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8807,6 +8807,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8837,7 +8838,6 @@
       "internalIds": [ 7707 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8850,6 +8850,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8880,7 +8881,6 @@
       "internalIds": [ 7701 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8893,6 +8893,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8923,7 +8924,6 @@
       "internalIds": [ 7700 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8936,6 +8936,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8966,7 +8967,6 @@
       "internalIds": [ 7706 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -8979,6 +8979,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9009,7 +9010,6 @@
       "internalIds": [ 7710 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -9022,6 +9022,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9052,7 +9053,6 @@
       "internalIds": [ 7709 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -9065,6 +9065,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Wrapping a present" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9095,7 +9096,6 @@
       "internalIds": [ 7699 ]
     },
     "colors": [],
-    "sources": [ "Wrapping a present" ],
     "recipe": null
   },
   {
@@ -9108,6 +9108,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9138,7 +9139,6 @@
       "internalIds": [ 3751 ]
     },
     "colors": [ "Purple", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9151,6 +9151,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9181,7 +9182,6 @@
       "internalIds": [ 3762 ]
     },
     "colors": [ "Purple", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9194,6 +9194,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9224,7 +9225,6 @@
       "internalIds": [ 2923 ]
     },
     "colors": [ "Purple", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9237,6 +9237,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9267,7 +9268,6 @@
       "internalIds": [ 2951 ]
     },
     "colors": [ "Purple", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9280,6 +9280,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9310,7 +9311,6 @@
       "internalIds": [ 2899 ]
     },
     "colors": [ "Purple", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9323,6 +9323,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9353,7 +9354,6 @@
       "internalIds": [ 3727 ]
     },
     "colors": [ "Purple", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9366,6 +9366,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9396,7 +9397,6 @@
       "internalIds": [ 7690 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9409,6 +9409,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Blue/blue hyacinths" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9439,7 +9440,6 @@
       "internalIds": [ 3922 ]
     },
     "colors": [],
-    "sources": [ "Blue/blue hyacinths" ],
     "recipe": null
   },
   {
@@ -9452,6 +9452,7 @@
     "buy": -1,
     "sell": 80,
     "milesPrice": null,
+    "source": [ "White/white mums" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9482,7 +9483,6 @@
       "internalIds": [ 3928 ]
     },
     "colors": [],
-    "sources": [ "White/white mums" ],
     "recipe": null
   },
   {
@@ -9495,6 +9495,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Blue/blue pansies" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9525,7 +9526,6 @@
       "internalIds": [ 3858 ]
     },
     "colors": [],
-    "sources": [ "Blue/blue pansies" ],
     "recipe": null
   },
   {
@@ -9538,6 +9538,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "White/white roses" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9568,7 +9569,6 @@
       "internalIds": [ 3872 ]
     },
     "colors": [],
-    "sources": [ "White/white roses" ],
     "recipe": null
   },
   {
@@ -9581,6 +9581,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Orange/orange tulips" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9611,7 +9612,6 @@
       "internalIds": [ 3846 ]
     },
     "colors": [],
-    "sources": [ "Orange/orange tulips" ],
     "recipe": null
   },
   {
@@ -9624,6 +9624,7 @@
     "buy": -1,
     "sell": 240,
     "milesPrice": null,
+    "source": [ "Blue/blue windflowers\nBlue/pink windflowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9654,7 +9655,6 @@
       "internalIds": [ 3908 ]
     },
     "colors": [],
-    "sources": [ "Blue/blue windflowers\nBlue/pink windflowers" ],
     "recipe": null
   },
   {
@@ -9667,6 +9667,7 @@
     "buy": -1,
     "sell": 16000,
     "milesPrice": null,
+    "source": [ "Dig Spot" ],
     "sourceNotes": "Near cedar and hardwood trees; Only available during Mushroom Season",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9697,7 +9698,6 @@
       "internalIds": [ 3280 ]
     },
     "colors": [],
-    "sources": [ "Dig Spot" ],
     "recipe": null
   },
   {
@@ -9710,6 +9710,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9740,7 +9741,6 @@
       "internalIds": [ 2304 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9753,6 +9753,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9783,7 +9784,6 @@
       "internalIds": [ 3744 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9796,6 +9796,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9826,7 +9827,6 @@
       "internalIds": [ 2983 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9839,6 +9839,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9869,7 +9870,6 @@
       "internalIds": [ 3768 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9882,6 +9882,7 @@
     "buy": -1,
     "sell": 50,
     "milesPrice": null,
+    "source": [ "Cedar Tree" ],
     "sourceNotes": "Shaking decorated trees; Only available during Festive Season",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9912,7 +9913,6 @@
       "internalIds": [ 5730 ]
     },
     "colors": [],
-    "sources": [ "Cedar Tree" ],
     "recipe": null
   },
   {
@@ -9925,6 +9925,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9955,7 +9956,6 @@
       "internalIds": [ 2911 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -9968,6 +9968,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9998,7 +9999,6 @@
       "internalIds": [ 2935 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -10011,6 +10011,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10041,7 +10042,6 @@
       "internalIds": [ 2883 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -10054,6 +10054,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10084,7 +10085,6 @@
       "internalIds": [ 3723 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -10097,6 +10097,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10127,7 +10128,6 @@
       "internalIds": [ 7694 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10140,6 +10140,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -10170,7 +10171,6 @@
       "internalIds": [ 12489 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -10183,6 +10183,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -10213,7 +10214,6 @@
       "internalIds": [ 12755 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -10226,6 +10226,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -10256,7 +10257,6 @@
       "internalIds": [ 12487 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -10269,6 +10269,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10299,7 +10300,6 @@
       "internalIds": [ 2626 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10312,6 +10312,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10342,7 +10343,6 @@
       "internalIds": [ 3824 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -10355,6 +10355,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -10385,7 +10386,6 @@
       "internalIds": [ 3022 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -10398,6 +10398,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -10428,7 +10429,6 @@
       "internalIds": [ 12752 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -10441,6 +10441,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -10471,7 +10472,6 @@
       "internalIds": [ 3019 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -10484,6 +10484,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10514,7 +10515,6 @@
       "internalIds": [ 3745 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10527,6 +10527,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10557,7 +10558,6 @@
       "internalIds": [ 3918 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -10570,6 +10570,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10600,7 +10601,6 @@
       "internalIds": [ 2984 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10613,6 +10613,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10643,7 +10644,6 @@
       "internalIds": [ 3888 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -10656,6 +10656,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10686,7 +10687,6 @@
       "internalIds": [ 3769 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10699,6 +10699,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10729,7 +10730,6 @@
       "internalIds": [ 3932 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -10742,6 +10742,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10772,7 +10773,6 @@
       "internalIds": [ 2912 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10785,6 +10785,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10815,7 +10816,6 @@
       "internalIds": [ 3852 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -10828,6 +10828,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10858,7 +10859,6 @@
       "internalIds": [ 2936 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10871,6 +10871,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10901,7 +10902,6 @@
       "internalIds": [ 3864 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -10914,6 +10914,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10944,7 +10945,6 @@
       "internalIds": [ 2884 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10957,6 +10957,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10987,7 +10988,6 @@
       "internalIds": [ 3838 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -11000,6 +11000,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11030,7 +11031,6 @@
       "internalIds": [ 3724 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11043,6 +11043,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11073,7 +11074,6 @@
       "internalIds": [ 3906 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -11086,6 +11086,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "On ground" ],
     "sourceNotes": "Only available during Mushroom Season",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11116,7 +11117,6 @@
       "internalIds": [ 3277 ]
     },
     "colors": [],
-    "sources": [ "On ground" ],
     "recipe": null
   },
   {
@@ -11129,6 +11129,7 @@
     "buy": -1,
     "sell": 10,
     "milesPrice": null,
+    "source": [ "Recycle Box" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11159,7 +11160,6 @@
       "internalIds": [ 2389 ]
     },
     "colors": [],
-    "sources": [ "Recycle Box" ],
     "recipe": null
   },
   {
@@ -11172,6 +11172,7 @@
     "buy": -1,
     "sell": 120,
     "milesPrice": null,
+    "source": [ "Beach" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11202,7 +11203,6 @@
       "internalIds": [ 1379 ]
     },
     "colors": [],
-    "sources": [ "Beach" ],
     "recipe": null
   },
   {
@@ -11215,6 +11215,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 2000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11245,7 +11246,6 @@
       "internalIds": [ 8777 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -11258,6 +11258,7 @@
     "buy": 640,
     "sell": 160,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11288,7 +11289,6 @@
       "internalIds": [ 2794 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11301,6 +11301,7 @@
     "buy": -1,
     "sell": 180,
     "milesPrice": null,
+    "source": [ "Beach" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11331,7 +11332,6 @@
       "internalIds": [ 1374 ]
     },
     "colors": [],
-    "sources": [ "Beach" ],
     "recipe": null
   },
   {
@@ -11344,6 +11344,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11374,7 +11375,6 @@
       "internalIds": [ 2756 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -11387,6 +11387,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11417,7 +11418,6 @@
       "internalIds": [ 5360 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -11430,6 +11430,7 @@
     "buy": -1,
     "sell": 300,
     "milesPrice": null,
+    "source": [ "On ground" ],
     "sourceNotes": "Only available during Mushroom Season",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11460,7 +11461,6 @@
       "internalIds": [ 3278 ]
     },
     "colors": [],
-    "sources": [ "On ground" ],
     "recipe": null
   },
   {
@@ -11473,6 +11473,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Colorful balloon" ],
     "sourceNotes": "Only available during Bunny Day",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -11503,7 +11504,6 @@
       "internalIds": [ 12513 ]
     },
     "colors": [],
-    "sources": [ "Colorful balloon" ],
     "recipe": null
   },
   {
@@ -11516,6 +11516,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Catching with a net" ],
     "sourceNotes": "Only available during Winter",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11546,7 +11547,6 @@
       "internalIds": [ 3539 ]
     },
     "colors": [],
-    "sources": [ "Catching with a net" ],
     "recipe": null
   },
   {
@@ -11559,6 +11559,7 @@
     "buy": -1,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Chopping a tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11589,7 +11590,6 @@
       "internalIds": [ 2767 ]
     },
     "colors": [],
-    "sources": [ "Chopping a tree" ],
     "recipe": null
   },
   {
@@ -11602,6 +11602,7 @@
     "buy": -1,
     "sell": 100,
     "milesPrice": null,
+    "source": [ "Expired turnips" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11612,7 +11613,6 @@
     "uniqueEntryId": "xPacPLbSrKbYSjBAd",
     "translations": null,
     "colors": [],
-    "sources": [ "Expired turnips" ],
     "recipe": null
   },
   {
@@ -11625,6 +11625,7 @@
     "buy": -1,
     "sell": 250,
     "milesPrice": null,
+    "source": [ "Wishing on shooting stars" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11655,7 +11656,6 @@
       "internalIds": [ 5983 ]
     },
     "colors": [],
-    "sources": [ "Wishing on shooting stars" ],
     "recipe": null
   },
   {
@@ -11668,6 +11668,7 @@
     "buy": -1,
     "sell": 75,
     "milesPrice": null,
+    "source": [ "Hitting a rock", "Fishing" ],
     "sourceNotes": "X-Small shadow when fishing",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11698,7 +11699,6 @@
       "internalIds": [ 2502 ]
     },
     "colors": [],
-    "sources": [ "Hitting a rock", "Fishing" ],
     "recipe": null
   },
   {
@@ -11711,6 +11711,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Hitting a rock" ],
     "sourceNotes": "Only available during Bunny Day",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -11741,7 +11742,6 @@
       "internalIds": [ 12510 ]
     },
     "colors": [],
-    "sources": [ "Hitting a rock" ],
     "recipe": null
   },
   {
@@ -11754,6 +11754,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 2000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11784,7 +11785,6 @@
       "internalIds": [ 8773 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -11797,6 +11797,7 @@
     "buy": -1,
     "sell": 600,
     "milesPrice": null,
+    "source": [ "Beach" ],
     "sourceNotes": "Only available during Summer",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11827,7 +11828,6 @@
       "internalIds": [ 5982 ]
     },
     "colors": [],
-    "sources": [ "Beach" ],
     "recipe": null
   },
   {
@@ -11840,6 +11840,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11870,7 +11871,6 @@
       "internalIds": [ 4411 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -11883,6 +11883,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11913,7 +11914,6 @@
       "internalIds": [ 5359 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -11926,6 +11926,7 @@
     "buy": -1,
     "sell": 250,
     "milesPrice": null,
+    "source": [ "Label" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11956,7 +11957,6 @@
       "internalIds": [ 5932 ]
     },
     "colors": [],
-    "sources": [ "Label" ],
     "recipe": null
   },
   {
@@ -11969,6 +11969,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": null,
+    "source": [ "Tom Nook" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11999,7 +12000,6 @@
       "internalIds": [ 2750 ]
     },
     "colors": [],
-    "sources": [ "Tom Nook" ],
     "recipe": null
   },
   {
@@ -12012,6 +12012,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 2000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12042,7 +12043,6 @@
       "internalIds": [ 8778 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -12055,6 +12055,7 @@
     "buy": -1,
     "sell": 0,
     "milesPrice": null,
+    "source": [ "Dig Spot" ],
     "sourceNotes": "Placed randomly on island for a villager's treasure hunt quest",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12085,7 +12086,6 @@
       "internalIds": [ 2545 ]
     },
     "colors": [],
-    "sources": [ "Dig Spot" ],
     "recipe": null
   },
   {
@@ -12098,6 +12098,7 @@
     "buy": -1,
     "sell": 5,
     "milesPrice": null,
+    "source": [ "Shaking a hardwood or cedar tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12128,7 +12129,6 @@
       "internalIds": [ 2500 ]
     },
     "colors": [],
-    "sources": [ "Shaking a hardwood or cedar tree" ],
     "recipe": null
   },
   {
@@ -12141,6 +12141,7 @@
     "buy": -1,
     "sell": 0,
     "milesPrice": null,
+    "source": [ "Daisy Mae" ],
     "sourceNotes": "Only available on Sundays",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12151,7 +12152,6 @@
     "uniqueEntryId": "4hQrmzxXh6HRb8TDg",
     "translations": null,
     "colors": [],
-    "sources": [ "Daisy Mae" ],
     "recipe": null
   },
   {
@@ -12164,6 +12164,7 @@
     "buy": -1,
     "sell": 300,
     "milesPrice": null,
+    "source": [ "Beach" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12194,7 +12195,6 @@
       "internalIds": [ 1375 ]
     },
     "colors": [],
-    "sources": [ "Beach" ],
     "recipe": null
   },
   {
@@ -12207,6 +12207,7 @@
     "buy": -1,
     "sell": 300,
     "milesPrice": null,
+    "source": [ "Shaking a hardwood or cedar tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12237,7 +12238,6 @@
       "internalIds": [ 3263 ]
     },
     "colors": [],
-    "sources": [ "Shaking a hardwood or cedar tree" ],
     "recipe": null
   },
   {
@@ -12250,6 +12250,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Fishing" ],
     "sourceNotes": "Only available during Bunny Day",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -12280,7 +12281,6 @@
       "internalIds": [ 12514 ]
     },
     "colors": [],
-    "sources": [ "Fishing" ],
     "recipe": null
   },
   {
@@ -12293,6 +12293,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 6000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12323,7 +12324,6 @@
       "internalIds": [ 8780 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -12336,6 +12336,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12366,7 +12367,6 @@
       "internalIds": [ 2305 ]
     },
     "colors": [ "White", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -12379,6 +12379,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12409,7 +12410,6 @@
       "internalIds": [ 3730 ]
     },
     "colors": [ "White", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -12422,6 +12422,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12452,7 +12453,6 @@
       "internalIds": [ 2979 ]
     },
     "colors": [ "White", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -12465,6 +12465,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12495,7 +12496,6 @@
       "internalIds": [ 3754 ]
     },
     "colors": [ "White", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -12508,6 +12508,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12538,7 +12539,6 @@
       "internalIds": [ 2907 ]
     },
     "colors": [ "White", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -12551,6 +12551,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12581,7 +12582,6 @@
       "internalIds": [ 2931 ]
     },
     "colors": [ "White", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -12594,6 +12594,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12624,7 +12625,6 @@
       "internalIds": [ 2879 ]
     },
     "colors": [ "White", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -12637,6 +12637,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12667,7 +12668,6 @@
       "internalIds": [ 3709 ]
     },
     "colors": [ "White", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -12680,6 +12680,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12710,7 +12711,6 @@
       "internalIds": [ 7693 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12723,6 +12723,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -12753,7 +12754,6 @@
       "internalIds": [ 2861 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -12766,6 +12766,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -12796,7 +12797,6 @@
       "internalIds": [ 12747 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -12809,6 +12809,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -12839,7 +12840,6 @@
       "internalIds": [ 2820 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -12852,6 +12852,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12882,7 +12883,6 @@
       "internalIds": [ 2629 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12895,6 +12895,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12925,7 +12926,6 @@
       "internalIds": [ 3826 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -12938,6 +12938,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12968,7 +12969,6 @@
       "internalIds": [ 3731 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12981,6 +12981,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13011,7 +13012,6 @@
       "internalIds": [ 3910 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -13024,6 +13024,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13054,7 +13055,6 @@
       "internalIds": [ 2980 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13067,6 +13067,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13097,7 +13098,6 @@
       "internalIds": [ 3886 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -13110,6 +13110,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13140,7 +13141,6 @@
       "internalIds": [ 3755 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13153,6 +13153,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13183,7 +13184,6 @@
       "internalIds": [ 3924 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -13196,6 +13196,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13226,7 +13227,6 @@
       "internalIds": [ 2908 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13239,6 +13239,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13269,7 +13270,6 @@
       "internalIds": [ 3850 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -13282,6 +13282,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13312,7 +13313,6 @@
       "internalIds": [ 2932 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13325,6 +13325,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13355,7 +13356,6 @@
       "internalIds": [ 3862 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -13368,6 +13368,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13398,7 +13399,6 @@
       "internalIds": [ 2880 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13411,6 +13411,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13441,7 +13442,6 @@
       "internalIds": [ 3836 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -13454,6 +13454,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13484,7 +13485,6 @@
       "internalIds": [ 3710 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13497,6 +13497,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13527,7 +13528,6 @@
       "internalIds": [ 3898 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -13540,6 +13540,7 @@
     "buy": -1,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Chopping a tree" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13570,7 +13571,6 @@
       "internalIds": [ 2768 ]
     },
     "colors": [],
-    "sources": [ "Chopping a tree" ],
     "recipe": null
   },
   {
@@ -13583,6 +13583,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Chopping a tree" ],
     "sourceNotes": "Only available during Bunny Day",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -13613,7 +13614,6 @@
       "internalIds": [ 12512 ]
     },
     "colors": [],
-    "sources": [ "Chopping a tree" ],
     "recipe": null
   },
   {
@@ -13626,6 +13626,7 @@
     "buy": -1,
     "sell": null,
     "milesPrice": 2000,
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": "Found under the Special tab of the Nook Miles Redemption service.",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13656,7 +13657,6 @@
       "internalIds": [ 8779 ]
     },
     "colors": [],
-    "sources": [ "Nook Miles Redemption" ],
     "recipe": null
   },
   {
@@ -13669,6 +13669,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13699,7 +13700,6 @@
       "internalIds": [ 2863 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -13712,6 +13712,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13742,7 +13743,6 @@
       "internalIds": [ 3734 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -13755,6 +13755,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13785,7 +13786,6 @@
       "internalIds": [ 2987 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -13798,6 +13798,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13828,7 +13829,6 @@
       "internalIds": [ 3758 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -13841,6 +13841,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13871,7 +13872,6 @@
       "internalIds": [ 2915 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -13884,6 +13884,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13914,7 +13915,6 @@
       "internalIds": [ 2939 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -13927,6 +13927,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Picking flowers" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13957,7 +13958,6 @@
       "internalIds": [ 2887 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "sources": [ "Picking flowers" ],
     "recipe": null
   },
   {
@@ -13970,6 +13970,7 @@
     "buy": 160,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14000,7 +14001,6 @@
       "internalIds": [ 7683 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14013,6 +14013,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14043,7 +14044,6 @@
       "internalIds": [ 2864 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14056,6 +14056,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14086,7 +14087,6 @@
       "internalIds": [ 3828 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -14099,6 +14099,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -14129,7 +14130,6 @@
       "internalIds": [ 3792 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -14142,6 +14142,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -14172,7 +14173,6 @@
       "internalIds": [ 12751 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -14185,6 +14185,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -14215,7 +14216,6 @@
       "internalIds": [ 3790 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -14228,6 +14228,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14258,7 +14259,6 @@
       "internalIds": [ 3735 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14271,6 +14271,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14301,7 +14302,6 @@
       "internalIds": [ 3912 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -14314,6 +14314,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14344,7 +14345,6 @@
       "internalIds": [ 2988 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14357,6 +14357,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14387,7 +14388,6 @@
       "internalIds": [ 3890 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -14400,6 +14400,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14430,7 +14431,6 @@
       "internalIds": [ 3759 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14443,6 +14443,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14473,7 +14474,6 @@
       "internalIds": [ 3926 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -14486,6 +14486,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14516,7 +14517,6 @@
       "internalIds": [ 2916 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14529,6 +14529,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14559,7 +14560,6 @@
       "internalIds": [ 3854 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -14572,6 +14572,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14602,7 +14603,6 @@
       "internalIds": [ 2940 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14615,6 +14615,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14645,7 +14646,6 @@
       "internalIds": [ 3866 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -14658,6 +14658,7 @@
     "buy": 560,
     "sell": 140,
     "milesPrice": null,
+    "source": [ "Digging up a fully grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -14688,7 +14689,6 @@
       "internalIds": [ 12478 ]
     },
     "colors": [],
-    "sources": [ "Digging up a fully grown bush" ],
     "recipe": null
   },
   {
@@ -14701,6 +14701,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Planting a bush start" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -14731,7 +14732,6 @@
       "internalIds": [ 12753 ]
     },
     "colors": [],
-    "sources": [ "Planting a bush start" ],
     "recipe": null
   },
   {
@@ -14744,6 +14744,7 @@
     "buy": 280,
     "sell": 70,
     "milesPrice": null,
+    "source": [ "Leif" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -14774,7 +14775,6 @@
       "internalIds": [ 12476 ]
     },
     "colors": [],
-    "sources": [ "Leif" ],
     "recipe": null
   },
   {
@@ -14787,6 +14787,7 @@
     "buy": 240,
     "sell": 60,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14817,7 +14818,6 @@
       "internalIds": [ 2888 ]
     },
     "colors": [],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14830,6 +14830,7 @@
     "buy": -1,
     "sell": 40,
     "milesPrice": null,
+    "source": [ "Seed bag" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14860,7 +14861,6 @@
       "internalIds": [ 3840 ]
     },
     "colors": [],
-    "sources": [ "Seed bag" ],
     "recipe": null
   },
   {
@@ -14873,6 +14873,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -14903,7 +14904,6 @@
       "internalIds": [ 3799 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -14916,6 +14916,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -14946,7 +14947,6 @@
       "internalIds": [ 3026 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -14959,6 +14959,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -14989,7 +14990,6 @@
       "internalIds": [ 12481 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15002,6 +15002,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -15032,7 +15033,6 @@
       "internalIds": [ 3787 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15045,6 +15045,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -15075,7 +15076,6 @@
       "internalIds": [ 12491 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15088,6 +15088,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -15118,7 +15119,6 @@
       "internalIds": [ 3795 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15131,6 +15131,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -15161,7 +15162,6 @@
       "internalIds": [ 12488 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15174,6 +15174,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -15204,7 +15205,6 @@
       "internalIds": [ 3021 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15217,6 +15217,7 @@
     "buy": -1,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Chopping a bamboo tree" ],
     "sourceNotes": "Only available during Spring",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15247,7 +15248,6 @@
       "internalIds": [ 5729 ]
     },
     "colors": [],
-    "sources": [ "Chopping a bamboo tree" ],
     "recipe": null
   },
   {
@@ -15260,6 +15260,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -15290,7 +15291,6 @@
       "internalIds": [ 2860 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15303,6 +15303,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -15333,7 +15334,6 @@
       "internalIds": [ 3791 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   },
   {
@@ -15346,6 +15346,7 @@
     "buy": 420,
     "sell": 105,
     "milesPrice": null,
+    "source": [ "Digging up a partially grown bush" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -15376,7 +15377,6 @@
       "internalIds": [ 12477 ]
     },
     "colors": [],
-    "sources": [ "Digging up a partially grown bush" ],
     "recipe": null
   }
 ]

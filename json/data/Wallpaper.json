@@ -9,6 +9,7 @@
     "buy": -1,
     "sell": 4800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -69,13 +70,13 @@
     "colors": [ "Yellow", "Colorful" ],
     "concepts": [ "fancy", "child's room" ],
     "series": "Bunny Day",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Egg bottle", "Egg balloon" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -114,8 +115,7 @@
         "wood egg": 2,
         "sky egg": 2,
         "water egg": 2
-      },
-      "sources": [ "Egg bottle", "Egg balloon" ]
+      }
     }
   },
   {
@@ -128,6 +128,7 @@
     "buy": -1,
     "sell": 2500,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -188,13 +189,13 @@
     "colors": [ "Green", "Colorful" ],
     "concepts": [ "fancy", "party" ],
     "series": "festive",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Jingle wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Festive Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -226,8 +227,7 @@
         "plural": false,
         "internalIds": [ 5230 ]
       },
-      "materials": { "red ornament": 5, "blue ornament": 5, "gold ornament": 5, "clay": 5 },
-      "sources": [ "Balloons" ]
+      "materials": { "red ornament": 5, "blue ornament": 5, "gold ornament": 5, "clay": 5 }
     }
   },
   {
@@ -240,6 +240,7 @@
     "buy": -1,
     "sell": 6000,
     "milesPrice": 1200,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -280,7 +281,6 @@
     "colors": [ "White", "Light blue" ],
     "concepts": [ "fancy", "shop" ],
     "series": null,
-    "sources": [ "Nook Miles Shop" ],
     "recipe": null
   },
   {
@@ -293,6 +293,7 @@
     "buy": 1560,
     "sell": 390,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -333,7 +334,6 @@
     "colors": [ "White", "Colorful" ],
     "concepts": [ "shop", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -346,6 +346,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -386,7 +387,6 @@
     "colors": [ "Beige", "Brown" ],
     "concepts": [ "folk art", "horror" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -399,6 +399,7 @@
     "buy": -1,
     "sell": 4000,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -459,13 +460,13 @@
     "colors": [ "Red", "Red" ],
     "concepts": [ "fancy", "child's room" ],
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "apple wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -497,8 +498,7 @@
         "plural": false,
         "internalIds": [ 4916 ]
       },
-      "materials": { "apple": 20 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "apple": 20 }
     }
   },
   {
@@ -511,6 +511,7 @@
     "buy": 1420,
     "sell": 355,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -551,7 +552,6 @@
     "colors": [ "Light blue", "Light blue" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -564,6 +564,7 @@
     "buy": 2150,
     "sell": 537,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -604,7 +605,6 @@
     "colors": [ "Brown", "Light blue" ],
     "concepts": [ "shop", "expensive" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -617,6 +617,7 @@
     "buy": -1,
     "sell": 4700,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -657,13 +658,13 @@
     "colors": [ "Brown", "Orange" ],
     "concepts": [ "garden" ],
     "series": "tree's bounty or leaves ",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "autumn wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Maple Leaf Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -695,8 +696,7 @@
         "plural": false,
         "internalIds": [ 4905 ]
       },
-      "materials": { "maple leaf": 10, "wood": 5, "clump of weeds": 5 },
-      "sources": [ "Balloons" ]
+      "materials": { "maple leaf": 10, "wood": 5, "clump of weeds": 5 }
     }
   },
   {
@@ -709,6 +709,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -749,7 +750,6 @@
     "colors": [ "Light blue", "White" ],
     "concepts": [ "garden" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -762,6 +762,7 @@
     "buy": -1,
     "sell": 2400,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -822,13 +823,13 @@
     "colors": [ "Green", "Beige" ],
     "concepts": [ "zen-style" ],
     "series": "bamboo",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Cranky villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -860,8 +861,7 @@
         "plural": false,
         "internalIds": [ 4833 ]
       },
-      "materials": { "bamboo piece": 15 },
-      "sources": [ "Cranky villagers" ]
+      "materials": { "bamboo piece": 15 }
     }
   },
   {
@@ -874,6 +874,7 @@
     "buy": -1,
     "sell": 4300,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -934,13 +935,13 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "zen-style" ],
     "series": "bamboo",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo-grove wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Spring",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -972,8 +973,7 @@
         "plural": false,
         "internalIds": [ 4853 ]
       },
-      "materials": { "young spring bamboo": 7, "bamboo shoot": 3 },
-      "sources": [ "Balloons" ]
+      "materials": { "young spring bamboo": 7, "bamboo shoot": 3 }
     }
   },
   {
@@ -986,6 +986,7 @@
     "buy": 1770,
     "sell": 442,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1026,7 +1027,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "zen-style" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1039,6 +1039,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1079,7 +1080,6 @@
     "colors": [ "Gray", "Gray" ],
     "concepts": [ "facility", "expensive" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1092,6 +1092,7 @@
     "buy": 600,
     "sell": 150,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1132,7 +1133,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "office", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1145,6 +1145,7 @@
     "buy": 1720,
     "sell": 430,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1185,7 +1186,6 @@
     "colors": [ "White", "Orange" ],
     "concepts": [ "shop", "kitchen" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1198,6 +1198,7 @@
     "buy": 2780,
     "sell": 695,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1238,7 +1239,6 @@
     "colors": [ "Beige", "Beige" ],
     "concepts": [ "child's room", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1251,6 +1251,7 @@
     "buy": 1760,
     "sell": 440,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1291,7 +1292,6 @@
     "colors": [ "Beige", "Brown" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1304,6 +1304,7 @@
     "buy": 2440,
     "sell": 610,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1344,7 +1345,6 @@
     "colors": [ "Beige", "Beige" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1357,6 +1357,7 @@
     "buy": 1240,
     "sell": 310,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1397,7 +1398,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "facility", "expensive" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1410,6 +1410,7 @@
     "buy": 2000,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1450,7 +1451,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "facility", "music" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1463,6 +1463,7 @@
     "buy": 1180,
     "sell": 295,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1503,7 +1504,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "music", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1516,6 +1516,7 @@
     "buy": 1850,
     "sell": 462,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1556,7 +1557,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1569,6 +1569,7 @@
     "buy": 1000,
     "sell": 250,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1609,7 +1610,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1622,6 +1622,7 @@
     "buy": 2350,
     "sell": 587,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1662,7 +1663,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "expensive" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1675,6 +1675,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1715,7 +1716,6 @@
     "colors": [ "Black", "Colorful" ],
     "concepts": [ "shop", "school" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -1728,6 +1728,7 @@
     "buy": 1760,
     "sell": 440,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1768,7 +1769,6 @@
     "colors": [ "Light blue", "Blue" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1781,6 +1781,7 @@
     "buy": 1150,
     "sell": 287,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1821,7 +1822,6 @@
     "colors": [ "Blue", "Blue" ],
     "concepts": [ "party", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1834,6 +1834,7 @@
     "buy": 1900,
     "sell": 475,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1874,7 +1875,6 @@
     "colors": [ "Blue", "Black" ],
     "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1887,6 +1887,7 @@
     "buy": 2440,
     "sell": 610,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1927,7 +1928,6 @@
     "colors": [ "Blue", "White" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1940,6 +1940,7 @@
     "buy": 2420,
     "sell": 605,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1980,7 +1981,6 @@
     "colors": [ "Blue", "Light blue" ],
     "concepts": [ "fancy", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1993,6 +1993,7 @@
     "buy": 1780,
     "sell": 445,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2033,7 +2034,6 @@
     "colors": [ "Blue", "Light blue" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2046,6 +2046,7 @@
     "buy": 1280,
     "sell": 320,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2086,7 +2087,6 @@
     "colors": [ "Blue", "Light blue" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2099,6 +2099,7 @@
     "buy": 1680,
     "sell": 420,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2139,7 +2140,6 @@
     "colors": [ "Blue", "Blue" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2152,6 +2152,7 @@
     "buy": 1570,
     "sell": 392,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2192,7 +2193,6 @@
     "colors": [ "Blue", "White" ],
     "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2205,6 +2205,7 @@
     "buy": 1980,
     "sell": 495,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2245,7 +2246,6 @@
     "colors": [ "Blue", "Brown" ],
     "concepts": [ "expensive", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2258,6 +2258,7 @@
     "buy": 1650,
     "sell": 412,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2298,7 +2299,6 @@
     "colors": [ "Blue", "Light blue" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2311,6 +2311,7 @@
     "buy": 2540,
     "sell": 635,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2351,7 +2352,6 @@
     "colors": [ "Light blue", "Blue" ],
     "concepts": [ "child's room", "fancy" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2364,6 +2364,7 @@
     "buy": 2150,
     "sell": 537,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2404,7 +2405,6 @@
     "colors": [ "Blue", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2417,6 +2417,7 @@
     "buy": 620,
     "sell": 155,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2457,7 +2458,6 @@
     "colors": [ "Blue", "Blue" ],
     "concepts": [ "garage" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2470,6 +2470,7 @@
     "buy": 750,
     "sell": 187,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2510,7 +2511,6 @@
     "colors": [ "Blue", "Light blue" ],
     "concepts": [ "child's room", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2523,6 +2523,7 @@
     "buy": 1340,
     "sell": 335,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2563,7 +2564,6 @@
     "colors": [ "Blue", "Light blue" ],
     "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2576,6 +2576,7 @@
     "buy": 1420,
     "sell": 355,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2616,7 +2617,6 @@
     "colors": [ "Blue", "Blue" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2629,6 +2629,7 @@
     "buy": 1850,
     "sell": 462,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2669,7 +2670,6 @@
     "colors": [ "Blue", "Blue" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2682,6 +2682,7 @@
     "buy": 2350,
     "sell": 587,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2722,7 +2723,6 @@
     "colors": [ "Blue", "Black" ],
     "concepts": [ "expensive" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2735,6 +2735,7 @@
     "buy": 1600,
     "sell": 400,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2775,7 +2776,6 @@
     "colors": [ "Blue", "Blue" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2788,6 +2788,7 @@
     "buy": 1720,
     "sell": 430,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2828,7 +2829,6 @@
     "colors": [ "Blue", "Light blue" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2841,6 +2841,7 @@
     "buy": 1520,
     "sell": 380,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2881,7 +2882,6 @@
     "colors": [ "Blue", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2894,6 +2894,7 @@
     "buy": 1240,
     "sell": 310,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2934,7 +2935,6 @@
     "colors": [ "Beige", "Yellow" ],
     "concepts": [ "facility", "expensive" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2947,6 +2947,7 @@
     "buy": 1240,
     "sell": 310,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2987,7 +2988,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "facility", "expensive" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3000,6 +3000,7 @@
     "buy": 2420,
     "sell": 605,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3040,7 +3041,6 @@
     "colors": [ "Brown", "Colorful" ],
     "concepts": [ "fancy", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3053,6 +3053,7 @@
     "buy": 2000,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3093,7 +3094,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "facility", "music" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3106,6 +3106,7 @@
     "buy": -1,
     "sell": 1800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3146,13 +3147,13 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "brown herringbone wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3184,8 +3185,7 @@
         "plural": false,
         "internalIds": [ 4804 ]
       },
-      "materials": { "softwood": 15 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "softwood": 15 }
     }
   },
   {
@@ -3198,6 +3198,7 @@
     "buy": 620,
     "sell": 155,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3238,7 +3239,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "garage" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3251,6 +3251,7 @@
     "buy": -1,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Cyrus" ],
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -3311,7 +3312,6 @@
     "colors": [],
     "concepts": [ "party", "expensive" ],
     "series": "wedding",
-    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -3324,6 +3324,7 @@
     "buy": 1000,
     "sell": 250,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3364,7 +3365,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3377,6 +3377,7 @@
     "buy": 2350,
     "sell": 587,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3417,7 +3418,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "expensive" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3430,6 +3430,7 @@
     "buy": -1,
     "sell": 840,
     "milesPrice": null,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3470,7 +3471,6 @@
     "colors": [ "White", "Colorful" ],
     "concepts": [ "fancy", "facility" ],
     "series": null,
-    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -3483,6 +3483,7 @@
     "buy": -1,
     "sell": 1800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3523,13 +3524,13 @@
     "colors": [ "Beige", "Beige" ],
     "concepts": [ "living room", "facility" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cabin wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3561,8 +3562,7 @@
         "plural": false,
         "internalIds": [ 4840 ]
       },
-      "materials": { "hardwood": 15 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "hardwood": 15 }
     }
   },
   {
@@ -3575,6 +3575,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3615,7 +3616,6 @@
     "colors": [ "Black", "White" ],
     "concepts": [ "shop", "expensive" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3628,6 +3628,7 @@
     "buy": 1150,
     "sell": 287,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3668,7 +3669,6 @@
     "colors": [ "Black", "Green" ],
     "concepts": [ "party", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3681,6 +3681,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3721,7 +3722,6 @@
     "colors": [ "Gray", "Gray" ],
     "concepts": [ "garden", "garage" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -3734,6 +3734,7 @@
     "buy": -1,
     "sell": 4000,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3794,13 +3795,13 @@
     "colors": [ "Pink", "Red" ],
     "concepts": [ "child's room", "fancy" ],
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3832,8 +3833,7 @@
         "plural": false,
         "internalIds": [ 4919 ]
       },
-      "materials": { "cherry": 20 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "cherry": 20 }
     }
   },
   {
@@ -3846,6 +3846,7 @@
     "buy": -1,
     "sell": 4600,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3906,13 +3907,13 @@
     "colors": [ "Brown", "Pink" ],
     "concepts": [ "garden" ],
     "series": "cherry blossoms",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom-trees wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Cherry-Blossom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3944,8 +3945,7 @@
         "plural": false,
         "internalIds": [ 7205 ]
       },
-      "materials": { "cherry-blossom petal": 10, "hardwood": 5 },
-      "sources": [ "Balloons" ]
+      "materials": { "cherry-blossom petal": 10, "hardwood": 5 }
     }
   },
   {
@@ -3958,6 +3958,7 @@
     "buy": 1750,
     "sell": 437,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3998,7 +3999,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "zen-style", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4011,6 +4011,7 @@
     "buy": 1960,
     "sell": 490,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4051,7 +4052,6 @@
     "colors": [ "Yellow", "Beige" ],
     "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4064,6 +4064,7 @@
     "buy": 2000,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4104,7 +4105,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "facility", "music" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4117,6 +4117,7 @@
     "buy": -1,
     "sell": 1800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4157,13 +4158,13 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "chocolate herringbone wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4195,8 +4196,7 @@
         "plural": false,
         "internalIds": [ 4805 ]
       },
-      "materials": { "softwood": 15 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "softwood": 15 }
     }
   },
   {
@@ -4209,6 +4209,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4249,7 +4250,6 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "facility" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4262,6 +4262,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4302,7 +4303,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "shop", "expensive" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4315,6 +4315,7 @@
     "buy": -1,
     "sell": 1450,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4355,13 +4356,13 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "den" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "classic-library wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4393,8 +4394,7 @@
         "plural": false,
         "internalIds": [ 4837 ]
       },
-      "materials": { "book": 10 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "book": 10 }
     }
   },
   {
@@ -4407,6 +4407,7 @@
     "buy": 1540,
     "sell": 385,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4447,7 +4448,6 @@
     "colors": [ "Colorful", "Colorful" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4460,6 +4460,7 @@
     "buy": 1420,
     "sell": 355,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4500,7 +4501,6 @@
     "colors": [ "Colorful", "Colorful" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4513,6 +4513,7 @@
     "buy": 800,
     "sell": 200,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4553,7 +4554,6 @@
     "colors": [ "Beige", "Brown" ],
     "concepts": [ "living room", "school" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4566,6 +4566,7 @@
     "buy": 940,
     "sell": 235,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4606,7 +4607,6 @@
     "colors": [ "Gray", "Gray" ],
     "concepts": [ "garage", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4619,6 +4619,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4659,7 +4660,6 @@
     "colors": [ "Blue", "Blue" ],
     "concepts": [ "garage", "facility" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -4672,6 +4672,7 @@
     "buy": 1550,
     "sell": 387,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4712,7 +4713,6 @@
     "colors": [ "White", "Colorful" ],
     "concepts": [ "zen-style" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4725,6 +4725,7 @@
     "buy": 1880,
     "sell": 470,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4765,7 +4766,6 @@
     "colors": [ "Blue", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4778,6 +4778,7 @@
     "buy": 1880,
     "sell": 470,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4818,7 +4819,6 @@
     "colors": [ "Red", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4831,6 +4831,7 @@
     "buy": 1880,
     "sell": 470,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4871,7 +4872,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4884,6 +4884,7 @@
     "buy": 1880,
     "sell": 470,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4924,7 +4925,6 @@
     "colors": [ "Yellow", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -4937,6 +4937,7 @@
     "buy": -1,
     "sell": 1800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4977,13 +4978,13 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark wooden-mosaic wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5015,8 +5016,7 @@
         "plural": false,
         "internalIds": [ 4860 ]
       },
-      "materials": { "wood": 15 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "wood": 15 }
     }
   },
   {
@@ -5029,6 +5029,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5069,7 +5070,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "fancy" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5082,6 +5082,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5122,7 +5123,6 @@
     "colors": [ "Beige", "Gray" ],
     "concepts": [ "folk art" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5135,6 +5135,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5175,7 +5176,6 @@
     "colors": [ "Brown", "Beige" ],
     "concepts": [ "garden", "horror" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5188,6 +5188,7 @@
     "buy": 200,
     "sell": 50,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5228,7 +5229,6 @@
     "colors": [ "Beige", "Brown" ],
     "concepts": [ "horror" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5241,6 +5241,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5281,7 +5282,6 @@
     "colors": [ "Yellow", "Beige" ],
     "concepts": [ "fitness", "zen-style" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5294,6 +5294,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5334,7 +5335,6 @@
     "colors": [ "Black", "Gray" ],
     "concepts": [ "horror" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5347,6 +5347,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5387,7 +5388,6 @@
     "colors": [ "Brown", "White" ],
     "concepts": [ "zen-style", "shop" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5400,6 +5400,7 @@
     "buy": -1,
     "sell": 44000,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5460,13 +5461,13 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "garden" ],
     "series": "mush",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "forest wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Mushroom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5504,8 +5505,7 @@
         "skinny mushroom": 2,
         "flat mushroom": 2,
         "wood": 10
-      },
-      "sources": [ "Balloons" ]
+      }
     }
   },
   {
@@ -5518,6 +5518,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5558,7 +5559,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "horror", "folk art" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -5571,6 +5571,7 @@
     "buy": -1,
     "sell": 120,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5611,13 +5612,13 @@
     "colors": [ "Light blue", "Gray" ],
     "concepts": [ "garage", "horror" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "garbage-heap wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Fishing" ],
       "sourceNotes": "Fish up 15 trash",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5649,8 +5650,7 @@
         "plural": false,
         "internalIds": [ 5229 ]
       },
-      "materials": { "empty can": 2, "boot": 2, "old tire": 2 },
-      "sources": [ "Fishing" ]
+      "materials": { "empty can": 2, "boot": 2, "old tire": 2 }
     }
   },
   {
@@ -5663,6 +5663,7 @@
     "buy": -1,
     "sell": 20750,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5703,13 +5704,13 @@
     "colors": [ "Yellow", "Yellow" ],
     "concepts": [ "zen-style", "expensive" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "gold-screen wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5741,8 +5742,7 @@
         "plural": false,
         "internalIds": [ 4820 ]
       },
-      "materials": { "gold nugget": 2, "screen wall": 1 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "gold nugget": 2, "screen wall": 1 }
     }
   },
   {
@@ -5755,6 +5755,7 @@
     "buy": -1,
     "sell": 40000,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5815,13 +5816,13 @@
     "colors": [ "Yellow", "Brown" ],
     "concepts": [ "expensive", "horror" ],
     "series": "golden",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5853,8 +5854,7 @@
         "plural": false,
         "internalIds": [ 4894 ]
       },
-      "materials": { "gold nugget": 4 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "gold nugget": 4 }
     }
   },
   {
@@ -5867,6 +5867,7 @@
     "buy": 2420,
     "sell": 605,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5907,7 +5908,6 @@
     "colors": [ "White", "Colorful" ],
     "concepts": [ "fancy", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5920,6 +5920,7 @@
     "buy": 1980,
     "sell": 495,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5960,7 +5961,6 @@
     "colors": [ "Gray", "Gray" ],
     "concepts": [ "expensive", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5973,6 +5973,7 @@
     "buy": 620,
     "sell": 155,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6013,7 +6014,6 @@
     "colors": [ "Gray", "Gray" ],
     "concepts": [ "garage" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6026,6 +6026,7 @@
     "buy": 1520,
     "sell": 380,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6066,7 +6067,6 @@
     "colors": [ "Gray", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6079,6 +6079,7 @@
     "buy": 1760,
     "sell": 440,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6119,7 +6120,6 @@
     "colors": [ "Green", "Brown" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6132,6 +6132,7 @@
     "buy": 1900,
     "sell": 475,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6172,7 +6173,6 @@
     "colors": [ "Green", "Black" ],
     "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6185,6 +6185,7 @@
     "buy": 1780,
     "sell": 445,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6225,7 +6226,6 @@
     "colors": [ "Green", "Beige" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6238,6 +6238,7 @@
     "buy": 1680,
     "sell": 420,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6278,7 +6279,6 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6291,6 +6291,7 @@
     "buy": 1570,
     "sell": 392,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6331,7 +6332,6 @@
     "colors": [ "Green", "White" ],
     "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6344,6 +6344,7 @@
     "buy": 1980,
     "sell": 495,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6384,7 +6385,6 @@
     "colors": [ "Green", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6397,6 +6397,7 @@
     "buy": 1650,
     "sell": 412,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6437,7 +6438,6 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6450,6 +6450,7 @@
     "buy": 2540,
     "sell": 635,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6490,7 +6491,6 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "child's room", "fancy" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6503,6 +6503,7 @@
     "buy": -1,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Cyrus" ],
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -6563,7 +6564,6 @@
     "colors": [],
     "concepts": [ "party", "expensive" ],
     "series": "wedding",
-    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -6576,6 +6576,7 @@
     "buy": 1600,
     "sell": 400,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6616,7 +6617,6 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6629,6 +6629,7 @@
     "buy": 1280,
     "sell": 320,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6669,7 +6670,6 @@
     "colors": [ "Orange", "Orange" ],
     "concepts": [ "party" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6682,6 +6682,7 @@
     "buy": 1780,
     "sell": 445,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6722,7 +6723,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "zen-style", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6735,6 +6735,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6775,7 +6776,6 @@
     "colors": [ "Red", "Black" ],
     "concepts": [ "music", "party" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -6788,6 +6788,7 @@
     "buy": -1,
     "sell": 3600,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6828,13 +6829,13 @@
     "colors": [ "Yellow", "Yellow" ],
     "concepts": [ "fancy", "facility" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "honeycomb wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -6866,8 +6867,7 @@
         "plural": false,
         "internalIds": [ 4865 ]
       },
-      "materials": { "wasp nest": 6 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "wasp nest": 6 }
     }
   },
   {
@@ -6880,6 +6880,7 @@
     "buy": 1680,
     "sell": 420,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6920,7 +6921,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6933,6 +6933,7 @@
     "buy": -1,
     "sell": 8200,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6993,13 +6994,13 @@
     "colors": [ "Light blue", "Light blue" ],
     "concepts": [ "freezing cold", "facility" ],
     "series": "frozen",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ice wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snowboy" ],
       "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7031,8 +7032,7 @@
         "plural": false,
         "internalIds": [ 5505 ]
       },
-      "materials": { "large snowflake": 1, "snowflake": 8 },
-      "sources": [ "Snowboy" ]
+      "materials": { "large snowflake": 1, "snowflake": 8 }
     }
   },
   {
@@ -7045,6 +7045,7 @@
     "buy": -1,
     "sell": 4000,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7085,13 +7086,13 @@
     "colors": [ "Light blue", "White" ],
     "concepts": [ "freezing cold" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iceberg wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Winter",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7123,8 +7124,7 @@
         "plural": false,
         "internalIds": [ 5662 ]
       },
-      "materials": { "snowflake": 10 },
-      "sources": [ "Balloons" ]
+      "materials": { "snowflake": 10 }
     }
   },
   {
@@ -7137,6 +7137,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7177,7 +7178,6 @@
     "colors": [ "Red", "Red" ],
     "concepts": [ "expensive" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7190,6 +7190,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7230,7 +7231,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "facility" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7243,6 +7243,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7283,7 +7284,6 @@
     "colors": [ "Brown", "Green" ],
     "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7296,6 +7296,7 @@
     "buy": -1,
     "sell": 1380,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7336,13 +7337,13 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "garden", "facility" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "jungle wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7374,8 +7375,7 @@
         "plural": false,
         "internalIds": [ 5457 ]
       },
-      "materials": { "clump of weeds": 15, "wood": 3, "hardwood": 3, "softwood": 3 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "clump of weeds": 15, "wood": 3, "hardwood": 3, "softwood": 3 }
     }
   },
   {
@@ -7388,6 +7388,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7428,7 +7429,6 @@
     "colors": [ "Pink", "White" ],
     "concepts": [ "party", "fancy" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7441,6 +7441,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7481,7 +7482,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "facility" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7494,6 +7494,7 @@
     "buy": 1780,
     "sell": 445,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7534,7 +7535,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "zen-style", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7547,6 +7547,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7587,7 +7588,6 @@
     "colors": [ "Orange", "Orange" ],
     "concepts": [ "horror" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7600,6 +7600,7 @@
     "buy": -1,
     "sell": 1050,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7640,13 +7641,13 @@
     "colors": [ "White", "White" ],
     "concepts": [ "facility", "den" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "manga-library wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7678,8 +7679,7 @@
         "plural": false,
         "internalIds": [ 4838 ]
       },
-      "materials": { "magazine": 10 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "magazine": 10 }
     }
   },
   {
@@ -7692,6 +7692,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7732,7 +7733,6 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "garden" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7745,6 +7745,7 @@
     "buy": -1,
     "sell": 805,
     "milesPrice": null,
+    "source": [ "Fishing Tourney" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7785,7 +7786,6 @@
     "colors": [ "Light blue", "Blue" ],
     "concepts": [ "ocean", "child's room" ],
     "series": null,
-    "sources": [ "Fishing Tourney" ],
     "recipe": null
   },
   {
@@ -7798,6 +7798,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7838,7 +7839,6 @@
     "colors": [ "Green", "Light blue" ],
     "concepts": [ "garden" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -7851,6 +7851,7 @@
     "buy": -1,
     "sell": 23520,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
@@ -7891,13 +7892,13 @@
     "colors": [ "Pink", "Light blue" ],
     "concepts": [ "ocean", "fancy" ],
     "series": "mermaid",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mermaid wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Pascal" ],
       "sourceNotes": null,
       "versionAdded": "1.3.0",
       "versionUnlocked": "1.3.0",
@@ -7936,8 +7937,7 @@
         "coral": 2,
         "giant clam": 2,
         "cowrie": 2
-      },
-      "sources": [ "Pascal" ]
+      }
     }
   },
   {
@@ -7950,6 +7950,7 @@
     "buy": 3000,
     "sell": 585,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7990,7 +7991,6 @@
     "colors": [ "Gray", "Gray" ],
     "concepts": [ "garden" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -8003,6 +8003,7 @@
     "buy": 1220,
     "sell": 305,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8043,7 +8044,6 @@
     "colors": [ "Orange", "Orange" ],
     "concepts": [ "party" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8056,6 +8056,7 @@
     "buy": 1150,
     "sell": 287,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8096,7 +8097,6 @@
     "colors": [ "Brown", "White" ],
     "concepts": [ "zen-style", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8109,6 +8109,7 @@
     "buy": 1750,
     "sell": 437,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8149,7 +8150,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "zen-style", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8162,6 +8162,7 @@
     "buy": -1,
     "sell": 1800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8202,13 +8203,13 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "modern wood wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8240,8 +8241,7 @@
         "plural": false,
         "internalIds": [ 4904 ]
       },
-      "materials": { "wood": 5, "softwood": 5, "hardwood": 5 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "wood": 5, "softwood": 5, "hardwood": 5 }
     }
   },
   {
@@ -8254,6 +8254,7 @@
     "buy": 1100,
     "sell": 275,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8294,7 +8295,6 @@
     "colors": [ "Gray", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8307,6 +8307,7 @@
     "buy": 1420,
     "sell": 355,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8347,7 +8348,6 @@
     "colors": [ "Gray", "White" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8360,6 +8360,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8400,7 +8401,6 @@
     "colors": [ "Gray", "Gray" ],
     "concepts": [ "zen-style" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -8413,6 +8413,7 @@
     "buy": 1450,
     "sell": 362,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8453,7 +8454,6 @@
     "colors": [ "Black", "White" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8466,6 +8466,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8506,7 +8507,6 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "zen-style" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -8519,6 +8519,7 @@
     "buy": -1,
     "sell": 21400,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8579,13 +8580,13 @@
     "colors": [ "Orange", "Brown" ],
     "concepts": [ "fancy" ],
     "series": "mush",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mush wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Mushroom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8622,8 +8623,7 @@
         "round mushroom": 1,
         "skinny mushroom": 1,
         "flat mushroom": 1
-      },
-      "sources": [ "Balloons" ]
+      }
     }
   },
   {
@@ -8636,6 +8636,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8676,7 +8677,6 @@
     "colors": [ "Blue", "Light blue" ],
     "concepts": [ "ocean" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -8689,6 +8689,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8729,7 +8730,6 @@
     "colors": [ "White", "Light blue" ],
     "concepts": [ "office" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -8742,6 +8742,7 @@
     "buy": 200,
     "sell": 50,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8782,7 +8783,6 @@
     "colors": [ "Beige", "Beige" ],
     "concepts": [ "horror" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8795,6 +8795,7 @@
     "buy": 2440,
     "sell": 610,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8835,7 +8836,6 @@
     "colors": [ "Yellow", "Yellow" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8848,6 +8848,7 @@
     "buy": 1150,
     "sell": 287,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8888,7 +8889,6 @@
     "colors": [ "Orange", "Orange" ],
     "concepts": [ "party", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8901,6 +8901,7 @@
     "buy": 1980,
     "sell": 495,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8941,7 +8942,6 @@
     "colors": [ "Orange", "Beige" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8954,6 +8954,7 @@
     "buy": -1,
     "sell": 4000,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9014,13 +9015,13 @@
     "colors": [ "Orange", "Orange" ],
     "concepts": [ "fancy", "child's room" ],
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "orange wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -9052,8 +9053,7 @@
         "plural": false,
         "internalIds": [ 4915 ]
       },
-      "materials": { "orange": 20 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "orange": 20 }
     }
   },
   {
@@ -9066,6 +9066,7 @@
     "buy": 1600,
     "sell": 400,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9106,7 +9107,6 @@
     "colors": [ "Orange", "Orange" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9119,6 +9119,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9159,7 +9160,6 @@
     "colors": [ "White", "Colorful" ],
     "concepts": [ "garage", "facility" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -9172,6 +9172,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9212,7 +9213,6 @@
     "colors": [ "Beige", "White" ],
     "concepts": [ "expensive", "folk art" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -9225,6 +9225,7 @@
     "buy": -1,
     "sell": 370,
     "milesPrice": null,
+    "source": [ "Birthday" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9265,7 +9266,6 @@
     "colors": [ "Colorful", "White" ],
     "concepts": [ "party", "fancy" ],
     "series": null,
-    "sources": [ "Birthday" ],
     "recipe": null
   },
   {
@@ -9278,6 +9278,7 @@
     "buy": 1100,
     "sell": 275,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9318,7 +9319,6 @@
     "colors": [ "White", "Colorful" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9331,6 +9331,7 @@
     "buy": 1540,
     "sell": 385,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9371,7 +9372,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9384,6 +9384,7 @@
     "buy": 1850,
     "sell": 462,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9424,7 +9425,6 @@
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9437,6 +9437,7 @@
     "buy": -1,
     "sell": 4000,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9497,13 +9498,13 @@
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "fancy", "child's room" ],
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "peach wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -9535,8 +9536,7 @@
         "plural": false,
         "internalIds": [ 4918 ]
       },
-      "materials": { "peach": 20 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "peach": 20 }
     }
   },
   {
@@ -9549,6 +9549,7 @@
     "buy": -1,
     "sell": 4000,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9609,13 +9610,13 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "fancy", "child's room" ],
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pear wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -9647,8 +9648,7 @@
         "plural": false,
         "internalIds": [ 4917 ]
       },
-      "materials": { "pear": 20 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "pear": 20 }
     }
   },
   {
@@ -9661,6 +9661,7 @@
     "buy": 1180,
     "sell": 295,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9701,7 +9702,6 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "music", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9714,6 +9714,7 @@
     "buy": 1760,
     "sell": 440,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9754,7 +9755,6 @@
     "colors": [ "Pink", "Brown" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9767,6 +9767,7 @@
     "buy": 2420,
     "sell": 605,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9807,7 +9808,6 @@
     "colors": [ "Pink", "Colorful" ],
     "concepts": [ "fancy", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9820,6 +9820,7 @@
     "buy": 1780,
     "sell": 445,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9860,7 +9861,6 @@
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9873,6 +9873,7 @@
     "buy": 1280,
     "sell": 320,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9913,7 +9914,6 @@
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9926,6 +9926,7 @@
     "buy": 1650,
     "sell": 412,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9966,7 +9967,6 @@
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9979,6 +9979,7 @@
     "buy": 2540,
     "sell": 635,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10019,7 +10020,6 @@
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "child's room", "fancy" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10032,6 +10032,7 @@
     "buy": 2150,
     "sell": 537,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10072,7 +10073,6 @@
     "colors": [ "Pink", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10085,6 +10085,7 @@
     "buy": 620,
     "sell": 155,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10125,7 +10126,6 @@
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "garage" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10138,6 +10138,7 @@
     "buy": 750,
     "sell": 187,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10178,7 +10179,6 @@
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "child's room", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10191,6 +10191,7 @@
     "buy": 2350,
     "sell": 587,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10231,7 +10232,6 @@
     "colors": [ "Pink", "White" ],
     "concepts": [ "fancy", "expensive" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10244,6 +10244,7 @@
     "buy": 1520,
     "sell": 380,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10284,7 +10285,6 @@
     "colors": [ "Pink", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10297,6 +10297,7 @@
     "buy": -1,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Gullivarrr" ],
     "sourceNotes": null,
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
@@ -10337,7 +10338,6 @@
     "colors": [ "Brown", "Yellow" ],
     "concepts": [ "ocean", "none" ],
     "series": "pirate",
-    "sources": [ "Gullivarrr" ],
     "recipe": null
   },
   {
@@ -10350,6 +10350,7 @@
     "buy": 1150,
     "sell": 287,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10390,7 +10391,6 @@
     "colors": [ "Purple", "Purple" ],
     "concepts": [ "party", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10403,6 +10403,7 @@
     "buy": 2440,
     "sell": 610,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10443,7 +10444,6 @@
     "colors": [ "Purple", "Purple" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10456,6 +10456,7 @@
     "buy": 1100,
     "sell": 275,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10496,7 +10497,6 @@
     "colors": [ "Purple", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10509,6 +10509,7 @@
     "buy": 1540,
     "sell": 385,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10549,7 +10550,6 @@
     "colors": [ "Purple", "Colorful" ],
     "concepts": [],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10562,6 +10562,7 @@
     "buy": 2150,
     "sell": 537,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10602,7 +10603,6 @@
     "colors": [ "Purple", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10615,6 +10615,7 @@
     "buy": 1720,
     "sell": 430,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10655,7 +10656,6 @@
     "colors": [ "Purple", "Purple" ],
     "concepts": [ "fancy" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10668,6 +10668,7 @@
     "buy": 1800,
     "sell": 450,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10708,7 +10709,6 @@
     "colors": [ "Brown", "Beige" ],
     "concepts": [ "folk art" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10721,6 +10721,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10761,7 +10762,6 @@
     "colors": [ "Brown", "Beige" ],
     "concepts": [ "horror" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -10774,6 +10774,7 @@
     "buy": 2780,
     "sell": 695,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10814,7 +10815,6 @@
     "colors": [ "Red", "Black" ],
     "concepts": [ "child's room", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10827,6 +10827,7 @@
     "buy": 1900,
     "sell": 475,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10867,7 +10868,6 @@
     "colors": [ "Red", "Brown" ],
     "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10880,6 +10880,7 @@
     "buy": 1100,
     "sell": 275,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10920,7 +10921,6 @@
     "colors": [ "Red", "Red" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10933,6 +10933,7 @@
     "buy": 1280,
     "sell": 320,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10973,7 +10974,6 @@
     "colors": [ "Red", "Red" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10986,6 +10986,7 @@
     "buy": 1570,
     "sell": 392,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11026,7 +11027,6 @@
     "colors": [ "Red", "White" ],
     "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11039,6 +11039,7 @@
     "buy": 1180,
     "sell": 295,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11079,7 +11080,6 @@
     "colors": [ "Red", "Red" ],
     "concepts": [ "music", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11092,6 +11092,7 @@
     "buy": 1850,
     "sell": 462,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11132,7 +11133,6 @@
     "colors": [ "Red", "Red" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11145,6 +11145,7 @@
     "buy": 1000,
     "sell": 250,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11185,7 +11186,6 @@
     "colors": [ "Red", "Brown" ],
     "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11198,6 +11198,7 @@
     "buy": 1660,
     "sell": 415,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11238,7 +11239,6 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11251,6 +11251,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11291,7 +11292,6 @@
     "colors": [ "Light blue", "Green" ],
     "concepts": [ "garden" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -11304,6 +11304,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11344,7 +11345,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "fitness" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -11357,6 +11357,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11397,7 +11398,6 @@
     "colors": [ "White", "Colorful" ],
     "concepts": [ "fitness" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -11410,6 +11410,7 @@
     "buy": 1720,
     "sell": 430,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11450,7 +11451,6 @@
     "colors": [ "Red", "White" ],
     "concepts": [ "fancy" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11463,6 +11463,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11503,7 +11504,6 @@
     "colors": [ "Black", "Gray" ],
     "concepts": [ "horror", "folk art" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -11516,6 +11516,7 @@
     "buy": -1,
     "sell": 1750,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11556,13 +11557,13 @@
     "colors": [ "Gray", "Gray" ],
     "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rustic-stone wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -11594,8 +11595,7 @@
         "plural": false,
         "internalIds": [ 4813 ]
       },
-      "materials": { "stone": 5, "clay": 5 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "stone": 5, "clay": 5 }
     }
   },
   {
@@ -11608,6 +11608,7 @@
     "buy": -1,
     "sell": 3200,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11668,13 +11669,13 @@
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "child's room", "fancy" ],
     "series": "cherry blossoms",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "sakura-wood wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Cherry-Blossom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -11706,8 +11707,7 @@
         "plural": false,
         "internalIds": [ 4947 ]
       },
-      "materials": { "cherry-blossom petal": 5, "wood": 10 },
-      "sources": [ "Balloons" ]
+      "materials": { "cherry-blossom petal": 5, "wood": 10 }
     }
   },
   {
@@ -11720,6 +11720,7 @@
     "buy": -1,
     "sell": 7500,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11760,13 +11761,13 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "space", "facility" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "sci-fi wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -11798,8 +11799,7 @@
         "plural": false,
         "internalIds": [ 5510 ]
       },
-      "materials": { "star fragment": 5, "large star fragment": 1 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 5, "large star fragment": 1 }
     }
   },
   {
@@ -11812,6 +11812,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11852,7 +11853,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "zen-style", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11865,6 +11865,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11905,7 +11906,6 @@
     "colors": [ "Light blue", "Blue" ],
     "concepts": [ "ocean" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -11918,6 +11918,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11958,7 +11959,6 @@
     "colors": [ "Black", "Gray" ],
     "concepts": [ "facility" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -11971,6 +11971,7 @@
     "buy": 1540,
     "sell": 385,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12011,7 +12012,6 @@
     "colors": [ "Beige", "Colorful" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12024,6 +12024,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12064,7 +12065,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "facility" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -12077,6 +12077,7 @@
     "buy": 1880,
     "sell": 470,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12117,7 +12118,6 @@
     "colors": [ "Beige", "White" ],
     "concepts": [ "zen-style" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12130,6 +12130,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12170,7 +12171,6 @@
     "colors": [ "White", "Gray" ],
     "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -12183,6 +12183,7 @@
     "buy": -1,
     "sell": 3200,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12223,13 +12224,13 @@
     "colors": [ "White", "White" ],
     "concepts": [ "freezing cold" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ski-slope wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Winter",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -12261,8 +12262,7 @@
         "plural": false,
         "internalIds": [ 5498 ]
       },
-      "materials": { "snowflake": 8 },
-      "sources": [ "Balloons" ]
+      "materials": { "snowflake": 8 }
     }
   },
   {
@@ -12275,6 +12275,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12315,7 +12316,6 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "horror", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12328,6 +12328,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12368,7 +12369,6 @@
     "colors": [ "Light blue", "White" ],
     "concepts": [ "fancy" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -12381,6 +12381,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12421,7 +12422,6 @@
     "colors": [ "Black", "Gray" ],
     "concepts": [ "expensive" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -12434,6 +12434,7 @@
     "buy": -1,
     "sell": 4800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12474,13 +12475,13 @@
     "colors": [ "Light blue", "Light blue" ],
     "concepts": [ "freezing cold" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "snowflake wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Winter",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -12512,8 +12513,7 @@
         "plural": false,
         "internalIds": [ 4855 ]
       },
-      "materials": { "snowflake": 12 },
-      "sources": [ "Balloons" ]
+      "materials": { "snowflake": 12 }
     }
   },
   {
@@ -12526,6 +12526,7 @@
     "buy": 1750,
     "sell": 437,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12566,7 +12567,6 @@
     "colors": [ "White", "Beige" ],
     "concepts": [ "zen-style", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12579,6 +12579,7 @@
     "buy": -1,
     "sell": 1800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12619,13 +12620,13 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "garage", "facility" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stacked-wood wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -12657,8 +12658,7 @@
         "plural": false,
         "internalIds": [ 4844 ]
       },
-      "materials": { "hardwood": 15 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "hardwood": 15 }
     }
   },
   {
@@ -12671,6 +12671,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12711,7 +12712,6 @@
     "colors": [ "Colorful", "Colorful" ],
     "concepts": [ "fitness" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -12724,6 +12724,7 @@
     "buy": 1750,
     "sell": 437,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12764,7 +12765,6 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "zen-style" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12777,6 +12777,7 @@
     "buy": -1,
     "sell": 7500,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12817,13 +12818,13 @@
     "colors": [ "Gray", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "starry wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -12855,8 +12856,7 @@
         "plural": false,
         "internalIds": [ 5528 ]
       },
-      "materials": { "star fragment": 5, "large star fragment": 1 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 5, "large star fragment": 1 }
     }
   },
   {
@@ -12869,6 +12869,7 @@
     "buy": -1,
     "sell": 7500,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12929,13 +12930,13 @@
     "colors": [ "Blue", "Blue" ],
     "concepts": [ "space" ],
     "series": "stars",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "starry-sky wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -12967,8 +12968,7 @@
         "plural": false,
         "internalIds": [ 5500 ]
       },
-      "materials": { "star fragment": 5, "large star fragment": 1 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 5, "large star fragment": 1 }
     }
   },
   {
@@ -12981,6 +12981,7 @@
     "buy": 2450,
     "sell": 612,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13021,7 +13022,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "expensive" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13034,6 +13034,7 @@
     "buy": -1,
     "sell": 6000,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13074,13 +13075,13 @@
     "colors": [ "Red", "Gray" ],
     "concepts": [ "garage", "facility" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "steel-frame wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -13112,8 +13113,7 @@
         "plural": false,
         "internalIds": [ 4801 ]
       },
-      "materials": { "iron nugget": 8 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "iron nugget": 8 }
     }
   },
   {
@@ -13126,6 +13126,7 @@
     "buy": -1,
     "sell": 1500,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13166,13 +13167,13 @@
     "colors": [ "Black", "Gray" ],
     "concepts": [ "horror", "facility" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -13204,8 +13205,7 @@
         "plural": false,
         "internalIds": [ 5216 ]
       },
-      "materials": { "stone": 10 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "stone": 10 }
     }
   },
   {
@@ -13218,6 +13218,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13258,7 +13259,6 @@
     "colors": [ "Black", "Gray" ],
     "concepts": [ "horror" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -13271,6 +13271,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13311,7 +13312,6 @@
     "colors": [ "Beige", "Beige" ],
     "concepts": [ "folk art" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -13324,6 +13324,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13364,7 +13365,6 @@
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "fancy" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -13377,6 +13377,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13417,7 +13418,6 @@
     "colors": [ "Colorful", "Colorful" ],
     "concepts": [ "garage" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -13430,6 +13430,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13470,7 +13471,6 @@
     "colors": [ "Black", "White" ],
     "concepts": [ "garden" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -13483,6 +13483,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13523,7 +13524,6 @@
     "colors": [ "Green", "Light blue" ],
     "concepts": [ "garden" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -13536,6 +13536,7 @@
     "buy": -1,
     "sell": 6000,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13576,13 +13577,13 @@
     "colors": [ "Light blue", "Beige" ],
     "concepts": [ "ocean" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tropical vista",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Summer",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -13614,8 +13615,7 @@
         "plural": false,
         "internalIds": [ 5661 ]
       },
-      "materials": { "summer shell": 5 },
-      "sources": [ "Balloons" ]
+      "materials": { "summer shell": 5 }
     }
   },
   {
@@ -13628,6 +13628,7 @@
     "buy": -1,
     "sell": 8600,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13668,13 +13669,13 @@
     "colors": [ "Blue", "Light blue" ],
     "concepts": [ "ocean" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "underwater wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Summer",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -13706,8 +13707,7 @@
         "plural": false,
         "internalIds": [ 5508 ]
       },
-      "materials": { "summer shell": 3, "coral": 5 },
-      "sources": [ "Balloons" ]
+      "materials": { "summer shell": 3, "coral": 5 }
     }
   },
   {
@@ -13720,6 +13720,7 @@
     "buy": 1740,
     "sell": 435,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13760,7 +13761,6 @@
     "colors": [ "Gray", "White" ],
     "concepts": [ "shop", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13773,6 +13773,7 @@
     "buy": -1,
     "sell": 437,
     "milesPrice": null,
+    "source": [ "Cyrus" ],
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -13833,7 +13834,6 @@
     "colors": [],
     "concepts": [ "party", "expensive" ],
     "series": "wedding",
-    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -13846,6 +13846,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13886,7 +13887,6 @@
     "colors": [ "Brown", "Beige" ],
     "concepts": [ "folk art", "horror" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -13899,6 +13899,7 @@
     "buy": 1240,
     "sell": 310,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13939,7 +13940,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "facility", "expensive" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13952,6 +13952,7 @@
     "buy": 1900,
     "sell": 475,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13992,7 +13993,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "expensive", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14005,6 +14005,7 @@
     "buy": 2000,
     "sell": 500,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14045,7 +14046,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "facility", "music" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14058,6 +14058,7 @@
     "buy": 1680,
     "sell": 420,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14098,7 +14099,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "bathroom", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14111,6 +14111,7 @@
     "buy": 1650,
     "sell": 412,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14151,7 +14152,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14164,6 +14164,7 @@
     "buy": 1180,
     "sell": 295,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14204,7 +14205,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "music", "facility" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14217,6 +14217,7 @@
     "buy": 750,
     "sell": 187,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14257,7 +14258,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "child's room", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14270,6 +14270,7 @@
     "buy": 1340,
     "sell": 335,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14310,7 +14311,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14323,6 +14323,7 @@
     "buy": -1,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Cyrus" ],
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -14383,7 +14384,6 @@
     "colors": [],
     "concepts": [ "party", "expensive" ],
     "series": "wedding",
-    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -14396,6 +14396,7 @@
     "buy": 1000,
     "sell": 250,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14436,7 +14437,6 @@
     "colors": [ "White", "White" ],
     "concepts": [ "facility", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14449,6 +14449,7 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
+    "source": [ "Saharah" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14489,7 +14490,6 @@
     "colors": [ "White", "Beige" ],
     "concepts": [ "fancy" ],
     "series": null,
-    "sources": [ "Saharah" ],
     "recipe": null
   },
   {
@@ -14502,6 +14502,7 @@
     "buy": 1720,
     "sell": 430,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14542,7 +14543,6 @@
     "colors": [ "Pink", "White" ],
     "concepts": [ "fancy" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14555,6 +14555,7 @@
     "buy": -1,
     "sell": 1800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14595,13 +14596,13 @@
     "colors": [ "Black", "Black" ],
     "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wild-wood wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Cranky villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -14633,8 +14634,7 @@
         "plural": false,
         "internalIds": [ 4858 ]
       },
-      "materials": { "wood": 15 },
-      "sources": [ "Cranky villagers" ]
+      "materials": { "wood": 15 }
     }
   },
   {
@@ -14647,6 +14647,7 @@
     "buy": -1,
     "sell": 1800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14687,13 +14688,13 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "living room", "child's room" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden-knot wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -14725,8 +14726,7 @@
         "plural": false,
         "internalIds": [ 4911 ]
       },
-      "materials": { "hardwood": 15 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "hardwood": 15 }
     }
   },
   {
@@ -14739,6 +14739,7 @@
     "buy": -1,
     "sell": 1800,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14779,13 +14780,13 @@
     "colors": [ "Brown", "Brown" ],
     "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden-mosaic wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -14817,8 +14818,7 @@
         "plural": false,
         "internalIds": [ 4859 ]
       },
-      "materials": { "wood": 15 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "wood": 15 }
     }
   },
   {
@@ -14831,6 +14831,7 @@
     "buy": -1,
     "sell": 1380,
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14871,13 +14872,13 @@
     "colors": [ "Green", "Green" ],
     "concepts": [ "horror", "facility" ],
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "woodland wall",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -14909,8 +14910,7 @@
         "plural": false,
         "internalIds": [ 5223 ]
       },
-      "materials": { "clump of weeds": 15, "softwood": 9 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "clump of weeds": 15, "softwood": 9 }
     }
   },
   {
@@ -14923,6 +14923,7 @@
     "buy": 1780,
     "sell": 445,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14963,7 +14964,6 @@
     "colors": [ "Yellow", "Yellow" ],
     "concepts": [ "fancy", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14976,6 +14976,7 @@
     "buy": 1280,
     "sell": 320,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15016,7 +15017,6 @@
     "colors": [ "Yellow", "Yellow" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -15029,6 +15029,7 @@
     "buy": 1570,
     "sell": 392,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15069,7 +15070,6 @@
     "colors": [ "Yellow", "White" ],
     "concepts": [ "living room", "shop" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -15082,6 +15082,7 @@
     "buy": 2540,
     "sell": 635,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15122,7 +15123,6 @@
     "colors": [ "Yellow", "Yellow" ],
     "concepts": [ "child's room", "fancy" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -15135,6 +15135,7 @@
     "buy": 2150,
     "sell": 537,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15175,7 +15176,6 @@
     "colors": [ "Yellow", "White" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -15188,6 +15188,7 @@
     "buy": 750,
     "sell": 187,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15228,7 +15229,6 @@
     "colors": [ "Beige", "Yellow" ],
     "concepts": [ "child's room", "living room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -15241,6 +15241,7 @@
     "buy": 1600,
     "sell": 400,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15281,7 +15282,6 @@
     "colors": [ "Yellow", "Yellow" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -15294,6 +15294,7 @@
     "buy": 1520,
     "sell": 380,
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15334,7 +15335,6 @@
     "colors": [ "Yellow", "Beige" ],
     "concepts": [ "fancy", "child's room" ],
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   }
 ]

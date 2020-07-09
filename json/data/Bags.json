@@ -11,6 +11,7 @@
     "hhaBasePoints": 351,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -110,7 +111,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Active" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -118,6 +118,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All villagers" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -156,8 +157,7 @@
         "wood egg": 1,
         "sky egg": 1,
         "water egg": 1
-      },
-      "sources": [ "All villagers" ]
+      }
     }
   },
   {
@@ -172,6 +172,7 @@
     "hhaBasePoints": 251,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Dodo Airlines" ],
     "sourceNotes": "Received in mail from DAL after 200 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -250,7 +251,6 @@
     },
     "colors": [ "Blue", "Black" ],
     "styles": [ "Cool" ],
-    "sources": [ "Dodo Airlines" ],
     "themes": [ "outdoorsy", "vacation" ],
     "recipe": null
   },
@@ -287,6 +287,7 @@
       "plural": false,
       "internalIds": [ 12153, 12148, 12149, 12154, 7510, 12151, 12152, 12150 ]
     },
+    "source": [ "Mom" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -489,7 +490,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Mom" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -505,6 +505,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 800,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -562,7 +563,6 @@
     },
     "colors": [ "Brown", "Yellow" ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Nook Miles Shop" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -578,6 +578,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -635,7 +636,6 @@
     },
     "colors": [ "Brown", "Green" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -643,6 +643,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Fall",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -674,8 +675,7 @@
         "plural": false,
         "internalIds": [ 7492 ]
       },
-      "materials": { "acorn": 6 },
-      "sources": [ "Balloons" ]
+      "materials": { "acorn": 6 }
     }
   },
   {
@@ -690,6 +690,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -768,7 +769,6 @@
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Simple" ],
-    "sources": [ "Crafting" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -776,6 +776,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Spring",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -807,8 +808,7 @@
         "plural": false,
         "internalIds": [ 7506 ]
       },
-      "materials": { "young spring bamboo": 6 },
-      "sources": [ "Balloons" ]
+      "materials": { "young spring bamboo": 6 }
     }
   },
   {
@@ -823,6 +823,7 @@
     "hhaBasePoints": 501,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -901,7 +902,6 @@
     },
     "colors": [ "Green", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Bug-Off" ],
     "themes": [ "outdoorsy", "vacation" ],
     "recipe": null
   },
@@ -917,6 +917,7 @@
     "hhaBasePoints": 501,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1016,7 +1017,6 @@
     },
     "colors": [ "Pink", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Bug-Off" ],
     "themes": [ "everyday", "formal", "party" ],
     "recipe": null
   },
@@ -1032,6 +1032,7 @@
     "hhaBasePoints": 23,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Kicks" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1089,7 +1090,6 @@
     },
     "colors": [ "White", "Orange" ],
     "styles": [ "Simple" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -1105,6 +1105,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1162,7 +1163,6 @@
     },
     "colors": [ "Pink", "Pink" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -1170,6 +1170,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Cherry-Blossom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1201,8 +1202,7 @@
         "plural": false,
         "internalIds": [ 7490 ]
       },
-      "materials": { "cherry-blossom petal": 6 },
-      "sources": [ "Balloons" ]
+      "materials": { "cherry-blossom petal": 6 }
     }
   },
   {
@@ -1238,6 +1238,7 @@
       "plural": false,
       "internalIds": [ 12014, 12013, 7487 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -1354,7 +1355,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -1391,6 +1391,7 @@
       "plural": false,
       "internalIds": [ 11982, 7483, 11981, 11980 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -1579,7 +1580,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -1616,6 +1616,7 @@
       "plural": false,
       "internalIds": [ 7485, 12011 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -1744,7 +1745,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -1781,6 +1781,7 @@
       "plural": false,
       "internalIds": [ 7471, 11964 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -1888,7 +1889,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -1925,6 +1925,7 @@
       "plural": false,
       "internalIds": [ 11977, 7305, 11976 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -2062,7 +2063,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Kicks" ],
     "themes": [ "formal", "party" ],
     "recipe": null
   },
@@ -2099,6 +2099,7 @@
       "plural": false,
       "internalIds": [ 11972, 7505, 11971, 11973 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -2266,7 +2267,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -2303,6 +2303,7 @@
       "plural": false,
       "internalIds": [ 7480, 12003 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -2410,7 +2411,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Kicks" ],
     "themes": [ "formal", "party" ],
     "recipe": null
   },
@@ -2426,6 +2426,7 @@
     "hhaBasePoints": 501,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Fishing Tourney" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2504,7 +2505,6 @@
     },
     "colors": [ "Light blue", "Blue" ],
     "styles": [ "Cute" ],
-    "sources": [ "Fishing Tourney" ],
     "themes": [ "formal", "party" ],
     "recipe": null
   },
@@ -2541,6 +2541,7 @@
       "plural": false,
       "internalIds": [ 12017, 12018, 7507, 12016 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -2708,7 +2709,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -2745,6 +2745,7 @@
       "plural": false,
       "internalIds": [ 7486, 12012 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -2852,7 +2853,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -2889,6 +2889,7 @@
       "plural": false,
       "internalIds": [ 7482, 12004 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -2975,7 +2976,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Kicks" ],
     "themes": [ "vacation" ],
     "recipe": null
   },
@@ -3012,6 +3012,7 @@
       "plural": false,
       "internalIds": [ 11946, 10184, 7512 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -3149,7 +3150,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Kicks" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -3186,6 +3186,7 @@
       "plural": false,
       "internalIds": [ 12019, 7508 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -3314,7 +3315,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -3330,6 +3330,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3429,7 +3430,6 @@
     },
     "colors": [ "Green", "Brown" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Crafting" ],
     "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -3437,6 +3437,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3468,8 +3469,7 @@
         "plural": false,
         "internalIds": [ 7511 ]
       },
-      "materials": { "clump of weeds": 20 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "clump of weeds": 20 }
     }
   },
   {
@@ -3484,6 +3484,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3562,7 +3563,6 @@
     },
     "colors": [ "Brown", "Beige" ],
     "styles": [ "Simple" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "outdoorsy" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -3570,6 +3570,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3601,8 +3602,7 @@
         "plural": false,
         "internalIds": [ 7498 ]
       },
-      "materials": { "wood": 3, "hardwood": 5 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "wood": 3, "hardwood": 5 }
     }
   },
   {
@@ -3617,6 +3617,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3674,7 +3675,6 @@
     },
     "colors": [ "Orange", "Orange" ],
     "styles": [ "Simple" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -3682,6 +3682,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Maple Leaf Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3713,8 +3714,7 @@
         "plural": false,
         "internalIds": [ 7491 ]
       },
-      "materials": { "maple leaf": 6 },
-      "sources": [ "Balloons" ]
+      "materials": { "maple leaf": 6 }
     }
   },
   {
@@ -3750,6 +3750,7 @@
       "plural": false,
       "internalIds": [ 11979, 11978, 7470 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -3908,7 +3909,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -3945,6 +3945,7 @@
       "plural": false,
       "internalIds": [ 7504, 12015 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4073,7 +4074,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "formal", "party" ],
     "recipe": null
   },
@@ -4110,6 +4110,7 @@
       "plural": false,
       "internalIds": [ 11969, 7501, 11970 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -4247,7 +4248,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -4284,6 +4284,7 @@
       "plural": false,
       "internalIds": [ 12005, 7484 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4391,7 +4392,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "work" ],
     "recipe": null
   },
@@ -4428,6 +4428,7 @@
       "plural": false,
       "internalIds": [ 12010, 7481 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4556,7 +4557,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "formal", "party" ],
     "recipe": null
   },
@@ -4593,6 +4593,7 @@
       "plural": false,
       "internalIds": [ 12009, 7476 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4700,7 +4701,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -4737,6 +4737,7 @@
       "plural": false,
       "internalIds": [ 12007, 7302, 12008 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -4874,7 +4875,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -4911,6 +4911,7 @@
       "plural": false,
       "internalIds": [ 11975, 11974, 7304 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -5048,7 +5049,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -5064,6 +5064,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5142,7 +5143,6 @@
     },
     "colors": [ "White", "White" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -5150,6 +5150,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Summer",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5181,8 +5182,7 @@
         "plural": false,
         "internalIds": [ 7494 ]
       },
-      "materials": { "giant clam": 2, "summer shell": 6 },
-      "sources": [ "Balloons" ]
+      "materials": { "giant clam": 2, "summer shell": 6 }
     }
   },
   {
@@ -5197,6 +5197,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5296,7 +5297,6 @@
     },
     "colors": [ "Light blue", "White" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -5304,6 +5304,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Winter",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5335,8 +5336,7 @@
         "plural": false,
         "internalIds": [ 7493 ]
       },
-      "materials": { "snowflake": 6 },
-      "sources": [ "Balloons" ]
+      "materials": { "snowflake": 6 }
     }
   },
   {
@@ -5372,6 +5372,7 @@
       "plural": false,
       "internalIds": [ 11967, 7500, 11968 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -5530,7 +5531,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -5546,6 +5546,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5645,7 +5646,6 @@
     },
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -5653,6 +5653,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5684,8 +5685,7 @@
         "plural": false,
         "internalIds": [ 7489 ]
       },
-      "materials": { "star fragment": 6 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 6 }
     }
   },
   {
@@ -5700,6 +5700,7 @@
     "hhaBasePoints": 23,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Kicks" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5778,7 +5779,6 @@
     },
     "colors": [ "Brown", "Brown" ],
     "styles": [ "Simple" ],
-    "sources": [ "Kicks" ],
     "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
@@ -5815,6 +5815,7 @@
       "plural": false,
       "internalIds": [ 12006, 7503 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -5922,7 +5923,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "goth" ],
     "recipe": null
   },
@@ -5938,6 +5938,7 @@
     "hhaBasePoints": 501,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Fishing Tourney" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6037,7 +6038,6 @@
     },
     "colors": [ "Blue", "Orange" ],
     "styles": [ "Active" ],
-    "sources": [ "Fishing Tourney" ],
     "themes": [ "outdoorsy", "sporty", "work" ],
     "recipe": null
   },
@@ -6053,6 +6053,7 @@
     "hhaBasePoints": 23,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Kicks" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6131,7 +6132,6 @@
     },
     "colors": [ "Black", "Yellow" ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -6168,6 +6168,7 @@
       "plural": false,
       "internalIds": [ 11945, 6839, 6838, 11944 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -6335,7 +6336,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -6372,6 +6372,7 @@
       "plural": false,
       "internalIds": [ 2550, 12000, 12001, 12002 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -6539,7 +6540,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Kicks" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -6576,6 +6576,7 @@
       "plural": false,
       "internalIds": [ 7499, 11965, 11966 ]
     },
+    "source": [ "Kicks" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -6734,7 +6735,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Kicks" ],
     "themes": [ "fairy tale", "outdoorsy", "work" ],
     "recipe": null
   }

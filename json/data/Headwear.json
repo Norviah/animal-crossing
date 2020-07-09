@@ -32,6 +32,7 @@
       "plural": false,
       "internalIds": [ 9864, 12045, 12047, 12046 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -228,7 +229,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
@@ -244,6 +244,7 @@
     "hhaBasePoints": 351,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -345,7 +346,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -353,6 +353,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All villagers" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -391,8 +392,7 @@
         "wood egg": 1,
         "sky egg": 1,
         "water egg": 1
-      },
-      "sources": [ "All villagers" ]
+      }
     }
   },
   {
@@ -407,6 +407,7 @@
     "hhaBasePoints": 251,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Dodo Airlines" ],
     "sourceNotes": "Received in mail from DAL after 130 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -508,7 +509,6 @@
     },
     "colors": [ "Blue", "Yellow" ],
     "styles": [ "Simple" ],
-    "sources": [ "Dodo Airlines" ],
     "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
@@ -545,6 +545,7 @@
       "plural": false,
       "internalIds": [ 11538, 11536, 11537, 5682 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -741,7 +742,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "sporty" ],
     "recipe": null
   },
@@ -778,6 +778,7 @@
       "plural": false,
       "internalIds": [ 11746, 11747, 11750, 11749, 11748, 9880 ]
     },
+    "source": [ "Labelle" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -942,7 +943,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Labelle" ],
     "themes": [ "everyday", "sporty", "theatrical" ],
     "recipe": null
   },
@@ -979,6 +979,7 @@
       "plural": false,
       "internalIds": [ 11751, 11752, 11755, 11754, 11753, 9881 ]
     },
+    "source": [ "Labelle" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -1164,7 +1165,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Labelle" ],
     "themes": [ "everyday", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -1201,6 +1201,7 @@
       "plural": false,
       "internalIds": [ 4799, 5191, 5189, 5187, 5188, 5192, 5186, 5190 ]
     },
+    "source": [ "New Year's Eve" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -1504,7 +1505,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "New Year's Eve" ],
     "themes": [ "party", "theatrical" ],
     "recipe": null
   },
@@ -1541,6 +1541,7 @@
       "plural": false,
       "internalIds": [ 5946, 5952, 5950, 5948, 5949, 5953, 5947, 5951 ]
     },
+    "source": [ "New Year's Eve" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -1844,7 +1845,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "New Year's Eve" ],
     "themes": [ "party", "theatrical" ],
     "recipe": null
   },
@@ -1860,6 +1860,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1940,7 +1941,6 @@
     },
     "colors": [ "Beige", "Black" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "goth", "theatrical" ],
     "recipe": null
   },
@@ -1956,6 +1956,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 500,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2036,7 +2037,6 @@
     },
     "colors": [ "Orange", "Yellow" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Miles Shop" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -2052,6 +2052,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 500,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2132,7 +2133,6 @@
     },
     "colors": [ "Green", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Miles Shop" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -2148,6 +2148,7 @@
     "hhaBasePoints": 178,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Promotion" ],
     "sourceNotes": "Link Nintendo Account to Pocket Camp, then redeem a 16-digit code on your Nintendo Switch",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0",
@@ -2207,7 +2208,6 @@
     },
     "colors": [ "White", "Blue" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Promotion" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -2244,6 +2244,7 @@
       "plural": false,
       "internalIds": [ 10935, 10933, 10934, 10936, 5315, 10937 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -2451,7 +2452,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -2488,6 +2488,7 @@
       "plural": false,
       "internalIds": [ 11885, 5295, 11884 ]
     },
+    "source": [ "Gulliver" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -2631,7 +2632,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -2647,6 +2647,7 @@
     "hhaBasePoints": 451,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Gulliver" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2727,7 +2728,6 @@
     },
     "colors": [ "Black", "Black" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -2743,6 +2743,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2844,7 +2845,6 @@
     },
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -2852,6 +2852,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2883,8 +2884,7 @@
         "plural": false,
         "internalIds": [ 9871 ]
       },
-      "materials": { "apple": 5 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "apple": 5 }
     }
   },
   {
@@ -2920,6 +2920,7 @@
       "plural": false,
       "internalIds": [ 11856, 11853, 11859, 11854, 11855, 5363, 11858, 11857 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -3074,7 +3075,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -3111,6 +3111,7 @@
       "plural": false,
       "internalIds": [ 11050, 11052, 11051, 5340 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -3286,7 +3287,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "party", "theatrical" ],
     "recipe": null
   },
@@ -3302,6 +3302,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3382,7 +3383,6 @@
     },
     "colors": [ "Beige", "Beige" ],
     "styles": [ "Simple" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "outdoorsy" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -3390,6 +3390,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Cranky villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3421,8 +3422,7 @@
         "plural": false,
         "internalIds": [ 5143 ]
       },
-      "materials": { "clump of weeds": 10 },
-      "sources": [ "Cranky villagers" ]
+      "materials": { "clump of weeds": 10 }
     }
   },
   {
@@ -3437,6 +3437,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3538,7 +3539,6 @@
     },
     "colors": [ "Pink", "White" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "party" ],
     "recipe": null
   },
@@ -3575,6 +3575,7 @@
       "plural": false,
       "internalIds": [ 12094, 12095, 9763, 12093, 12092 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -3803,7 +3804,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty", "work" ],
     "recipe": null
   },
@@ -3840,6 +3840,7 @@
       "plural": false,
       "internalIds": [ 11598, 11599, 5366, 11597, 11596 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -4047,7 +4048,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -4084,6 +4084,7 @@
       "plural": false,
       "internalIds": [ 5330, 11704, 11705, 11706 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -4280,7 +4281,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -4317,6 +4317,7 @@
       "plural": false,
       "internalIds": [ 11527, 11526, 5260, 11525, 11524, 11523 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4561,7 +4562,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "party" ],
     "recipe": null
   },
@@ -4598,6 +4598,7 @@
       "plural": false,
       "internalIds": [ 10220, 10225, 10223, 10221, 10222, 5282, 10219, 10224 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -4880,7 +4881,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty" ],
     "recipe": null
   },
@@ -4917,6 +4917,7 @@
       "plural": false,
       "internalIds": [ 11032, 11031, 4800 ]
     },
+    "source": [ "Birthday" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -5039,7 +5040,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Birthday" ],
     "themes": [ "party" ],
     "recipe": null
   },
@@ -5055,6 +5055,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5156,7 +5157,6 @@
     },
     "colors": [ "Blue", "Blue" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -5164,6 +5164,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5195,8 +5196,7 @@
         "plural": false,
         "internalIds": [ 7377 ]
       },
-      "materials": { "blue roses": 6 },
-      "sources": [ "All Villagers" ]
+      "materials": { "blue roses": 6 }
     }
   },
   {
@@ -5232,6 +5232,7 @@
       "plural": false,
       "internalIds": [ 10884, 10885, 10883, 5296, 10882 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -5460,7 +5461,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "formal", "party" ],
     "recipe": null
   },
@@ -5476,6 +5476,7 @@
     "hhaBasePoints": 437,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Cyrus" ],
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -5598,7 +5599,6 @@
     },
     "colors": [ "White", "Colorful" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Cyrus" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -5635,6 +5635,7 @@
       "plural": false,
       "internalIds": [ 11890, 5693, 11893, 11889, 11892, 11888, 11891 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -5869,7 +5870,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -5906,6 +5906,7 @@
       "plural": false,
       "internalIds": [ 7209, 11903, 11902, 11904 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -6102,7 +6103,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -6139,6 +6139,7 @@
       "plural": false,
       "internalIds": [ 11701, 5325, 11700 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -6282,7 +6283,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party" ],
     "recipe": null
   },
@@ -6298,6 +6298,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6378,7 +6379,6 @@
     },
     "colors": [ "White", "Black" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -6415,6 +6415,7 @@
       "plural": false,
       "internalIds": [ 11703, 5326, 11702 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -6579,7 +6580,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -6616,6 +6616,7 @@
       "plural": false,
       "internalIds": [ 11602, 11603, 6050, 11601, 11600 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -6823,7 +6824,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -6860,6 +6860,7 @@
       "plural": false,
       "internalIds": [ 11807, 11808, 5663 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -7003,7 +7004,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "theatrical" ],
     "recipe": null
   },
@@ -7019,6 +7019,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7078,7 +7079,6 @@
     },
     "colors": [ "White", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -7094,6 +7094,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7195,7 +7196,6 @@
     },
     "colors": [ "Red", "Green" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -7203,6 +7203,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7234,8 +7235,7 @@
         "plural": false,
         "internalIds": [ 9873 ]
       },
-      "materials": { "cherry": 5 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "cherry": 5 }
     }
   },
   {
@@ -7250,6 +7250,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7351,7 +7352,6 @@
     },
     "colors": [ "Pink", "Purple" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -7359,6 +7359,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7390,8 +7391,7 @@
         "plural": false,
         "internalIds": [ 5118 ]
       },
-      "materials": { "purple mums": 3, "pink mums": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "purple mums": 3, "pink mums": 3 }
     }
   },
   {
@@ -7406,6 +7406,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7507,7 +7508,6 @@
     },
     "colors": [ "Purple", "Black" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -7515,6 +7515,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7546,8 +7547,7 @@
         "plural": false,
         "internalIds": [ 5113 ]
       },
-      "materials": { "purple roses": 3, "black roses": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "purple roses": 3, "black roses": 3 }
     }
   },
   {
@@ -7562,6 +7562,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7663,7 +7664,6 @@
     },
     "colors": [ "Purple", "Pink" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -7671,6 +7671,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7702,8 +7703,7 @@
         "plural": false,
         "internalIds": [ 5103 ]
       },
-      "materials": { "purple tulips": 2, "pink tulips": 2, "orange tulips": 1 },
-      "sources": [ "All Villagers" ]
+      "materials": { "purple tulips": 2, "pink tulips": 2, "orange tulips": 1 }
     }
   },
   {
@@ -7718,6 +7718,7 @@
     "hhaBasePoints": 451,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Gulliver" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7777,7 +7778,6 @@
     },
     "colors": [ "Yellow", "Colorful" ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -7814,6 +7814,7 @@
       "plural": false,
       "internalIds": [ 5409, 10959, 10958, 10961, 10957, 10960 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -8053,7 +8054,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -8090,6 +8090,7 @@
       "plural": false,
       "internalIds": [ 10226, 5316 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -8180,7 +8181,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy" ],
     "recipe": null
   },
@@ -8196,6 +8196,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8339,7 +8340,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -8355,6 +8355,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8456,7 +8457,6 @@
     },
     "colors": [ "Blue", "Orange" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -8464,6 +8464,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8495,8 +8496,7 @@
         "plural": false,
         "internalIds": [ 5097 ]
       },
-      "materials": { "blue hyacinths": 4, "pink hyacinths": 2, "orange hyacinths": 2 },
-      "sources": [ "All Villagers" ]
+      "materials": { "blue hyacinths": 4, "pink hyacinths": 2, "orange hyacinths": 2 }
     }
   },
   {
@@ -8511,6 +8511,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8612,7 +8613,6 @@
     },
     "colors": [ "Red", "Blue" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -8620,6 +8620,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8651,8 +8652,7 @@
         "plural": false,
         "internalIds": [ 5106 ]
       },
-      "materials": { "orange pansies": 3, "blue pansies": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "orange pansies": 3, "blue pansies": 3 }
     }
   },
   {
@@ -8667,6 +8667,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8768,7 +8769,6 @@
     },
     "colors": [ "Pink", "Blue" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -8776,6 +8776,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8807,8 +8808,7 @@
         "plural": false,
         "internalIds": [ 5100 ]
       },
-      "materials": { "blue windflowers": 3, "pink windflowers": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "blue windflowers": 3, "pink windflowers": 3 }
     }
   },
   {
@@ -8823,6 +8823,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8924,7 +8925,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -8932,6 +8932,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8963,8 +8964,7 @@
         "plural": false,
         "internalIds": [ 5108 ]
       },
-      "materials": { "red cosmos": 2, "yellow cosmos": 2, "white cosmos": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "red cosmos": 2, "yellow cosmos": 2, "white cosmos": 3 }
     }
   },
   {
@@ -8979,6 +8979,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9101,7 +9102,6 @@
     },
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -9117,6 +9117,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9218,7 +9219,6 @@
     },
     "colors": [ "Pink", "Orange" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -9226,6 +9226,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -9257,8 +9258,7 @@
         "plural": false,
         "internalIds": [ 5115 ]
       },
-      "materials": { "pink lilies": 2, "orange lilies": 2, "white lilies": 2 },
-      "sources": [ "All Villagers" ]
+      "materials": { "pink lilies": 2, "orange lilies": 2, "white lilies": 2 }
     }
   },
   {
@@ -9273,6 +9273,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9374,7 +9375,6 @@
     },
     "colors": [ "Pink", "Orange" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -9382,6 +9382,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -9413,8 +9414,7 @@
         "plural": false,
         "internalIds": [ 5112 ]
       },
-      "materials": { "pink roses": 3, "orange roses": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "pink roses": 3, "orange roses": 3 }
     }
   },
   {
@@ -9450,6 +9450,7 @@
       "plural": false,
       "internalIds": [ 5257, 11670, 11669, 11672, 11674, 11671, 11668, 11673 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -9673,7 +9674,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -9710,6 +9710,7 @@
       "plural": false,
       "internalIds": [ 11535, 11534, 11532, 11531, 11533, 5333 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -9928,7 +9929,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -9944,6 +9944,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10045,7 +10046,6 @@
     },
     "colors": [ "Red", "Red" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -10053,6 +10053,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -10084,8 +10085,7 @@
         "plural": false,
         "internalIds": [ 5110 ]
       },
-      "materials": { "black cosmos": 7 },
-      "sources": [ "All Villagers" ]
+      "materials": { "black cosmos": 7 }
     }
   },
   {
@@ -10100,6 +10100,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10201,7 +10202,6 @@
     },
     "colors": [ "Red", "Black" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -10209,6 +10209,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -10240,8 +10241,7 @@
         "plural": false,
         "internalIds": [ 5116 ]
       },
-      "materials": { "black lilies": 6 },
-      "sources": [ "All Villagers" ]
+      "materials": { "black lilies": 6 }
     }
   },
   {
@@ -10256,6 +10256,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10357,7 +10358,6 @@
     },
     "colors": [ "Red", "Black" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -10365,6 +10365,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -10396,8 +10397,7 @@
         "plural": false,
         "internalIds": [ 5104 ]
       },
-      "materials": { "black tulips": 5 },
-      "sources": [ "All Villagers" ]
+      "materials": { "black tulips": 5 }
     }
   },
   {
@@ -10433,6 +10433,7 @@
       "plural": false,
       "internalIds": [ 5256, 11522, 11521, 11520 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -10629,7 +10630,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -10666,6 +10666,7 @@
       "plural": false,
       "internalIds": [ 11819, 5371, 11820 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -10788,7 +10789,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -10825,6 +10825,7 @@
       "plural": false,
       "internalIds": [ 10747, 10745, 10746, 5145, 10749, 10744, 10748, 10750 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -11107,7 +11108,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -11144,6 +11144,7 @@
       "plural": false,
       "internalIds": [ 5298, 10825 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -11234,7 +11235,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -11250,6 +11250,7 @@
     "hhaBasePoints": 351,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -11351,7 +11352,6 @@
     },
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Active" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -11359,6 +11359,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Collecting earth eggs" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -11390,8 +11391,7 @@
         "plural": false,
         "internalIds": [ 12439 ]
       },
-      "materials": { "earth egg": 2 },
-      "sources": [ "Collecting earth eggs" ]
+      "materials": { "earth egg": 2 }
     }
   },
   {
@@ -11406,6 +11406,7 @@
     "hhaBasePoints": 351,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -11507,7 +11508,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -11515,6 +11515,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Learning all egg outfit DIYs" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -11553,8 +11554,7 @@
         "wood egg": 2,
         "sky egg": 2,
         "water egg": 2
-      },
-      "sources": [ "Learning all egg outfit DIYs" ]
+      }
     }
   },
   {
@@ -11569,6 +11569,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11670,7 +11671,6 @@
     },
     "colors": [ "White", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -11686,6 +11686,7 @@
     "hhaBasePoints": 451,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Gulliver" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11766,7 +11767,6 @@
     },
     "colors": [ "Beige", "Black" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "goth", "theatrical" ],
     "recipe": null
   },
@@ -11803,6 +11803,7 @@
       "plural": false,
       "internalIds": [ 10890, 10891, 10889, 10888, 5351 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -12052,7 +12053,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -12089,6 +12089,7 @@
       "plural": false,
       "internalIds": [ 11810, 11809, 11811, 5136 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -12264,7 +12265,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -12301,6 +12301,7 @@
       "plural": false,
       "internalIds": [ 5323, 11836, 11842, 11837, 11841, 11838, 11840, 11839 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -12604,7 +12605,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "theatrical" ],
     "recipe": null
   },
@@ -12641,6 +12641,7 @@
       "plural": false,
       "internalIds": [ 10924, 10921, 10922, 10925, 10923, 10920, 5144 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -12933,7 +12934,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "party" ],
     "recipe": null
   },
@@ -12970,6 +12970,7 @@
       "plural": false,
       "internalIds": [ 11048, 11047, 11045, 11049, 11046, 5301 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -13230,7 +13231,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -13267,6 +13267,7 @@
       "plural": false,
       "internalIds": [ 5374, 11617, 11619, 11620, 11618 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -13421,7 +13422,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -13458,6 +13458,7 @@
       "plural": false,
       "internalIds": [ 10847, 10843, 8611, 10845, 10846, 10842, 10844 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -13750,7 +13751,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "party", "theatrical" ],
     "recipe": null
   },
@@ -13787,6 +13787,7 @@
       "plural": false,
       "internalIds": [ 9854, 11961, 11960, 11959, 11962 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -13994,7 +13995,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale" ],
     "recipe": null
   },
@@ -14031,6 +14031,7 @@
       "plural": false,
       "internalIds": [ 11604, 11610, 11606, 11609, 11605, 5373, 11608, 11607 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -14334,7 +14335,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -14371,6 +14371,7 @@
       "plural": false,
       "internalIds": [ 6034, 11171 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -14482,7 +14483,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "goth", "theatrical" ],
     "recipe": null
   },
@@ -14519,6 +14519,7 @@
       "plural": false,
       "internalIds": [ 5335, 11698, 11699, 11697 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -14715,7 +14716,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -14752,6 +14752,7 @@
       "plural": false,
       "internalIds": [ 11846, 11847, 5299 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -14879,7 +14880,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "goth" ],
     "recipe": null
   },
@@ -14916,6 +14916,7 @@
       "plural": false,
       "internalIds": [ 9746, 5695, 9741, 9742, 9743, 9744, 9745 ]
     },
+    "source": [ "Gulliver" ],
     "themesTranslations": {
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -15187,7 +15188,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "theatrical", "work" ],
     "recipe": null
   },
@@ -15224,6 +15224,7 @@
       "plural": false,
       "internalIds": [ 12057, 12058, 9861, 12056, 12055, 12054, 12052, 12053 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -15548,7 +15549,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -15564,6 +15564,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15644,7 +15645,6 @@
     },
     "colors": [ "Black", "Red" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -15660,6 +15660,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15740,7 +15741,6 @@
     },
     "colors": [ "Yellow", "Red" ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "goth" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -15748,6 +15748,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -15779,8 +15780,7 @@
         "plural": false,
         "internalIds": [ 5346 ]
       },
-      "materials": { "gold nugget": 5 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "gold nugget": 5 }
     }
   },
   {
@@ -15795,6 +15795,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15896,7 +15897,6 @@
     },
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -15904,6 +15904,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -15935,8 +15936,7 @@
         "plural": false,
         "internalIds": [ 7378 ]
       },
-      "materials": { "gold roses": 6 },
-      "sources": [ "All Villagers" ]
+      "materials": { "gold roses": 6 }
     }
   },
   {
@@ -15972,6 +15972,7 @@
       "plural": false,
       "internalIds": [ 11897, 11898, 11899, 11900, 5683, 11901 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -16216,7 +16217,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -16232,6 +16232,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16333,7 +16334,6 @@
     },
     "colors": [ "Purple", "Green" ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -16349,6 +16349,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16450,7 +16451,6 @@
     },
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -16466,6 +16466,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Seasonal" ],
     "sourceNotes": "Only available during the month International Children's Day occurs",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -16546,7 +16547,6 @@
     },
     "colors": [ "Red", "Colorful" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Seasonal" ],
     "themes": [ "fairy tale", "theatrical" ],
     "recipe": null
   },
@@ -16583,6 +16583,7 @@
       "plural": false,
       "internalIds": [ 6093, 11896, 11894, 11895 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -16737,7 +16738,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -16774,6 +16774,7 @@
       "plural": false,
       "internalIds": [ 5687, 11612, 11611 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -16917,7 +16918,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -16933,6 +16933,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -17013,7 +17014,6 @@
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "goth", "outdoorsy" ],
     "recipe": null
   },
@@ -17050,6 +17050,7 @@
       "plural": false,
       "internalIds": [ 12168, 12165, 9855, 12166, 12167 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -17257,7 +17258,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale" ],
     "recipe": null
   },
@@ -17294,6 +17294,7 @@
       "plural": false,
       "internalIds": [ 10235, 10233, 5435, 10236, 10230, 10234, 10232, 10231 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -17597,7 +17598,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -17634,6 +17634,7 @@
       "plural": false,
       "internalIds": [ 10849, 8614, 10850, 10848 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -17809,7 +17810,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "vacation" ],
     "recipe": null
   },
@@ -17825,6 +17825,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -17926,7 +17927,6 @@
     },
     "colors": [ "White", "White" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "goth", "sporty", "work" ],
     "recipe": null
   },
@@ -17942,6 +17942,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18022,7 +18023,6 @@
     },
     "colors": [ "Red", "Red" ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "party", "theatrical" ],
     "recipe": null
   },
@@ -18038,6 +18038,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18139,7 +18140,6 @@
     },
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -18147,6 +18147,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -18178,8 +18179,7 @@
         "plural": false,
         "internalIds": [ 5096 ]
       },
-      "materials": { "red hyacinths": 4, "yellow hyacinths": 2, "white hyacinths": 2 },
-      "sources": [ "All Villagers" ]
+      "materials": { "red hyacinths": 4, "yellow hyacinths": 2, "white hyacinths": 2 }
     }
   },
   {
@@ -18194,6 +18194,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18274,7 +18275,6 @@
     },
     "colors": [ "White", "White" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "goth", "theatrical" ],
     "recipe": null
   },
@@ -18311,6 +18311,7 @@
       "plural": false,
       "internalIds": [ 5464, 11707 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -18443,7 +18444,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
@@ -18480,6 +18480,7 @@
       "plural": false,
       "internalIds": [ 11860, 11861, 11862, 5385 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -18670,7 +18671,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "goth", "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -18707,6 +18707,7 @@
       "plural": false,
       "internalIds": [ 11627, 11626, 11625, 5367, 11621, 11623, 11622, 11624 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -19010,7 +19011,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -19047,6 +19047,7 @@
       "plural": false,
       "internalIds": [ 6052, 9748, 9747 ]
     },
+    "source": [ "Gulliver" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -19190,7 +19191,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -19227,6 +19227,7 @@
       "plural": false,
       "internalIds": [ 5331, 11696 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -19359,7 +19360,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -19375,6 +19375,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -19476,7 +19477,6 @@
     },
     "colors": [ "Brown", "Green" ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -19492,6 +19492,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -19572,7 +19573,6 @@
     },
     "colors": [ "Gray", "Gray" ],
     "styles": [ "Cool" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "goth" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -19580,6 +19580,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Cranky villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -19611,8 +19612,7 @@
         "plural": false,
         "internalIds": [ 5334 ]
       },
-      "materials": { "iron nugget": 5 },
-      "sources": [ "Cranky villagers" ]
+      "materials": { "iron nugget": 5 }
     }
   },
   {
@@ -19648,6 +19648,7 @@
       "plural": false,
       "internalIds": [ 10949, 10947, 10945, 10948, 10946, 10944, 5370 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -19887,7 +19888,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -19924,6 +19924,7 @@
       "plural": false,
       "internalIds": [ 6880, 6881, 5146, 11731, 11734, 6882, 11733, 11732 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -20232,7 +20233,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
@@ -20248,6 +20248,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -20328,7 +20329,6 @@
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "goth", "outdoorsy" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -20336,6 +20336,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -20367,8 +20368,7 @@
         "plural": false,
         "internalIds": [ 7291 ]
       },
-      "materials": { "clump of weeds": 10 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "clump of weeds": 10 }
     }
   },
   {
@@ -20383,6 +20383,7 @@
     "hhaBasePoints": 351,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -20484,7 +20485,6 @@
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Active" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -20492,6 +20492,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Collecting leaf eggs" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -20523,8 +20524,7 @@
         "plural": false,
         "internalIds": [ 12441 ]
       },
-      "materials": { "leaf egg": 2 },
-      "sources": [ "Collecting leaf eggs" ]
+      "materials": { "leaf egg": 2 }
     }
   },
   {
@@ -20560,6 +20560,7 @@
       "plural": false,
       "internalIds": [ 9866, 12044, 12043 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -20708,7 +20709,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -20724,6 +20724,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -20825,7 +20826,6 @@
     },
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -20833,6 +20833,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -20864,8 +20865,7 @@
         "plural": false,
         "internalIds": [ 5114 ]
       },
-      "materials": { "red lilies": 2, "yellow lilies": 2, "white lilies": 2 },
-      "sources": [ "All Villagers" ]
+      "materials": { "red lilies": 2, "yellow lilies": 2, "white lilies": 2 }
     }
   },
   {
@@ -20880,6 +20880,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -20981,7 +20982,6 @@
     },
     "colors": [ "Pink", "Orange" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -20989,6 +20989,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -21020,8 +21021,7 @@
         "plural": false,
         "internalIds": [ 5109 ]
       },
-      "materials": { "pink cosmos": 4, "orange cosmos": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "pink cosmos": 4, "orange cosmos": 3 }
     }
   },
   {
@@ -21057,6 +21057,7 @@
       "plural": false,
       "internalIds": [ 5245, 11844, 11845, 11843 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -21232,7 +21233,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "goth" ],
     "recipe": null
   },
@@ -21269,6 +21269,7 @@
       "plural": false,
       "internalIds": [ 12034, 10914, 12033 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -21412,7 +21413,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -21428,6 +21428,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -21487,7 +21488,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -21503,6 +21503,7 @@
     "hhaBasePoints": 251,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Pascal" ],
     "sourceNotes": null,
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
@@ -21625,7 +21626,6 @@
     },
     "colors": [ "White", "Pink" ],
     "styles": [ "Cute" ],
-    "sources": [ "Pascal" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -21662,6 +21662,7 @@
       "plural": false,
       "internalIds": [ 11511, 11506, 11507, 11509, 11510, 11508, 5128 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -21975,7 +21976,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -21991,6 +21991,7 @@
     "hhaBasePoints": 451,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Gulliver" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22071,7 +22072,6 @@
     },
     "colors": [ "White", "White" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -22087,6 +22087,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22146,7 +22147,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -22162,6 +22162,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22263,7 +22264,6 @@
     },
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -22271,6 +22271,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -22302,8 +22303,7 @@
         "plural": false,
         "internalIds": [ 5117 ]
       },
-      "materials": { "red mums": 2, "yellow mums": 2, "white mums": 2 },
-      "sources": [ "All Villagers" ]
+      "materials": { "red mums": 2, "yellow mums": 2, "white mums": 2 }
     }
   },
   {
@@ -22318,6 +22318,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22419,7 +22420,6 @@
     },
     "colors": [ "White", "White" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
@@ -22456,6 +22456,7 @@
       "plural": false,
       "internalIds": [ 5364, 11870, 11871, 11876, 11875, 11874, 11873, 11872 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -22743,7 +22744,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "work" ],
     "recipe": null
   },
@@ -22780,6 +22780,7 @@
       "plural": false,
       "internalIds": [ 11812, 6947, 11813 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -22902,7 +22903,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -22918,6 +22918,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -23019,7 +23020,6 @@
     },
     "colors": [ "Orange", "Green" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -23027,6 +23027,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -23058,8 +23059,7 @@
         "plural": false,
         "internalIds": [ 5275 ]
       },
-      "materials": { "orange": 5 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "orange": 5 }
     }
   },
   {
@@ -23095,6 +23095,7 @@
       "plural": false,
       "internalIds": [ 11056, 11054, 11055, 5399, 11053 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -23323,7 +23324,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "work" ],
     "recipe": null
   },
@@ -23360,6 +23360,7 @@
       "plural": false,
       "internalIds": [ 11040, 5258, 11041, 11043, 11042, 11038, 11039, 11044 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -23663,7 +23664,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -23700,6 +23700,7 @@
       "plural": false,
       "internalIds": [ 10227, 5395, 10229, 10228 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -23859,7 +23860,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -23896,6 +23896,7 @@
       "plural": false,
       "internalIds": [ 10762, 5294, 10765, 10764, 10761, 10763, 10760, 10766 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -24178,7 +24179,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy" ],
     "recipe": null
   },
@@ -24194,6 +24194,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -24295,7 +24296,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -24303,6 +24303,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -24334,8 +24335,7 @@
         "plural": false,
         "internalIds": [ 5105 ]
       },
-      "materials": { "red pansies": 2, "yellow pansies": 2, "white pansies": 2 },
-      "sources": [ "All Villagers" ]
+      "materials": { "red pansies": 2, "yellow pansies": 2, "white pansies": 2 }
     }
   },
   {
@@ -24350,6 +24350,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -24409,7 +24410,6 @@
     },
     "colors": [ "Beige", "Beige" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "goth" ],
     "recipe": null
   },
@@ -24446,6 +24446,7 @@
       "plural": false,
       "internalIds": [ 11512, 11515, 11513, 11514, 5147 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -24674,7 +24675,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -24711,6 +24711,7 @@
       "plural": false,
       "internalIds": [ 9870, 11994, 11993 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -24875,7 +24876,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
@@ -24891,6 +24891,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -24992,7 +24993,6 @@
     },
     "colors": [ "Pink", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -25000,6 +25000,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -25031,8 +25032,7 @@
         "plural": false,
         "internalIds": [ 9874 ]
       },
-      "materials": { "peach": 5 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "peach": 5 }
     }
   },
   {
@@ -25047,6 +25047,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -25148,7 +25149,6 @@
     },
     "colors": [ "Green", "Brown" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -25156,6 +25156,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -25187,8 +25188,7 @@
         "plural": false,
         "internalIds": [ 9872 ]
       },
-      "materials": { "pear": 5 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "pear": 5 }
     }
   },
   {
@@ -25203,6 +25203,7 @@
     "hhaBasePoints": 451,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Gulliver" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -25262,7 +25263,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cool" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -25299,6 +25299,7 @@
       "plural": false,
       "internalIds": [ 11613, 11614, 5362 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -25442,7 +25443,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -25479,6 +25479,7 @@
       "plural": false,
       "internalIds": [ 11827, 11828, 8612 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -25622,7 +25623,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -25638,6 +25638,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -25760,7 +25761,6 @@
     },
     "colors": [ "Yellow", "Green" ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical", "vacation" ],
     "recipe": null
   },
@@ -25797,6 +25797,7 @@
       "plural": false,
       "internalIds": [ 13089, 12666, 13088 ]
     },
+    "source": [ "Gullivarrr" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -25961,7 +25962,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Gullivarrr" ],
     "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
@@ -25977,6 +25977,7 @@
     "hhaBasePoints": 451,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Gullivarrr" ],
     "sourceNotes": null,
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
@@ -26099,7 +26100,6 @@
     },
     "colors": [ "Black", "Yellow" ],
     "styles": [ "Cool" ],
-    "sources": [ "Gullivarrr" ],
     "themes": [ "fairy tale", "formal", "goth", "theatrical" ],
     "recipe": null
   },
@@ -26115,6 +26115,7 @@
     "hhaBasePoints": 451,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Gullivarrr" ],
     "sourceNotes": null,
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
@@ -26237,7 +26238,6 @@
     },
     "colors": [ "Gray", "Red" ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Gullivarrr" ],
     "themes": [ "fairy tale", "formal", "goth", "theatrical" ],
     "recipe": null
   },
@@ -26274,6 +26274,7 @@
       "plural": false,
       "internalIds": [ 5148, 11517, 11519, 11518, 11516 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -26481,7 +26482,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -26497,6 +26497,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -26577,7 +26578,6 @@
     },
     "colors": [ "Blue", "Black" ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -26614,6 +26614,7 @@
       "plural": false,
       "internalIds": [ 11539, 11543, 11540, 11541, 11542, 6054 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -26853,7 +26854,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -26869,6 +26869,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -26928,7 +26929,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -26965,6 +26965,7 @@
       "plural": false,
       "internalIds": [ 11796, 5697, 11795, 11794 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -27161,7 +27162,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
@@ -27177,6 +27177,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -27278,7 +27279,6 @@
     },
     "colors": [ "Purple", "Purple" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -27286,6 +27286,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -27317,8 +27318,7 @@
         "plural": false,
         "internalIds": [ 5098 ]
       },
-      "materials": { "purple hyacinths": 6 },
-      "sources": [ "All Villagers" ]
+      "materials": { "purple hyacinths": 6 }
     }
   },
   {
@@ -27333,6 +27333,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -27434,7 +27435,6 @@
     },
     "colors": [ "Purple", "Purple" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -27442,6 +27442,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -27473,8 +27474,7 @@
         "plural": false,
         "internalIds": [ 5107 ]
       },
-      "materials": { "purple pansies": 6 },
-      "sources": [ "All Villagers" ]
+      "materials": { "purple pansies": 6 }
     }
   },
   {
@@ -27489,6 +27489,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -27590,7 +27591,6 @@
     },
     "colors": [ "Purple", "Purple" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -27598,6 +27598,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -27629,8 +27630,7 @@
         "plural": false,
         "internalIds": [ 5101 ]
       },
-      "materials": { "purple windflowers": 6 },
-      "sources": [ "All Villagers" ]
+      "materials": { "purple windflowers": 6 }
     }
   },
   {
@@ -27666,6 +27666,7 @@
       "plural": false,
       "internalIds": [ 10237, 10238, 5443, 10240, 10241, 10243, 10239, 10242 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -27990,7 +27991,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty", "work" ],
     "recipe": null
   },
@@ -28027,6 +28027,7 @@
       "plural": false,
       "internalIds": [ 9573, 9572, 9570, 7394, 9569, 9571, 9574, 9575 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -28330,7 +28331,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -28367,6 +28367,7 @@
       "plural": false,
       "internalIds": [ 10855, 10856, 2610, 10854, 10853, 10852, 2609, 10851 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -28712,7 +28713,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -28749,6 +28749,7 @@
       "plural": false,
       "internalIds": [ 11990, 11992, 11991, 9868 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -28945,7 +28946,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
@@ -28982,6 +28982,7 @@
       "plural": false,
       "internalIds": [ 10895, 10894, 7273 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -29146,7 +29147,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -29162,6 +29162,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29263,7 +29264,6 @@
     },
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -29271,6 +29271,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -29302,8 +29303,7 @@
         "plural": false,
         "internalIds": [ 5111 ]
       },
-      "materials": { "red roses": 2, "yellow roses": 2, "white roses": 2 },
-      "sources": [ "All Villagers" ]
+      "materials": { "red roses": 2, "yellow roses": 2, "white roses": 2 }
     }
   },
   {
@@ -29318,6 +29318,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29419,7 +29420,6 @@
     },
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -29456,6 +29456,7 @@
       "plural": false,
       "internalIds": [ 10218, 10216, 5139, 10217, 10215 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -29642,7 +29643,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -29679,6 +29679,7 @@
       "plural": false,
       "internalIds": [ 5265, 10752, 10751 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -29822,7 +29823,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "vacation", "work" ],
     "recipe": null
   },
@@ -29859,6 +29859,7 @@
       "plural": false,
       "internalIds": [ 11879, 11877, 5386, 11880, 11878 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -30066,7 +30067,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "theatrical", "work" ],
     "recipe": null
   },
@@ -30082,6 +30082,7 @@
     "hhaBasePoints": 451,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Gulliver" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -30141,7 +30142,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -30178,6 +30178,7 @@
       "plural": false,
       "internalIds": [ 5137, 11869, 11867, 11868 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -30353,7 +30354,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -30390,6 +30390,7 @@
       "plural": false,
       "internalIds": [ 4739, 10867 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -30480,7 +30481,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -30517,6 +30517,7 @@
       "plural": false,
       "internalIds": [ 10942, 10940, 5329, 10939, 10941, 10943, 10938 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -30788,7 +30789,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -30825,6 +30825,7 @@
       "plural": false,
       "internalIds": [ 5465, 11708, 11709, 11710 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -31021,7 +31022,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -31058,6 +31058,7 @@
       "plural": false,
       "internalIds": [ 11851, 11850, 5284, 11849 ]
     },
+    "source": [ "Gulliver" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -31233,7 +31234,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -31249,6 +31249,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -31350,7 +31351,6 @@
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -31358,6 +31358,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -31389,8 +31390,7 @@
         "plural": false,
         "internalIds": [ 5119 ]
       },
-      "materials": { "green mums": 6 },
-      "sources": [ "All Villagers" ]
+      "materials": { "green mums": 6 }
     }
   },
   {
@@ -31426,6 +31426,7 @@
       "plural": false,
       "internalIds": [ 12050, 12049, 9863, 12048, 12051 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -31596,7 +31597,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty" ],
     "recipe": null
   },
@@ -31612,6 +31612,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -31713,7 +31714,6 @@
     },
     "colors": [ "Gray", "Gray" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
@@ -31750,6 +31750,7 @@
       "plural": false,
       "internalIds": [ 10826, 10828, 10827, 5327, 10829 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -31936,7 +31937,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "goth" ],
     "recipe": null
   },
@@ -31952,6 +31952,7 @@
     "hhaBasePoints": 351,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -32053,7 +32054,6 @@
     },
     "colors": [ "Light blue", "Red" ],
     "styles": [ "Active" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -32061,6 +32061,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Collecting sky eggs" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -32092,8 +32093,7 @@
         "plural": false,
         "internalIds": [ 12443 ]
       },
-      "materials": { "sky egg": 2 },
-      "sources": [ "Collecting sky eggs" ]
+      "materials": { "sky egg": 2 }
     }
   },
   {
@@ -32129,6 +32129,7 @@
       "plural": false,
       "internalIds": [ 11057, 11058, 7286 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -32293,7 +32294,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -32309,6 +32309,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -32389,7 +32390,6 @@
     },
     "colors": [ "White", "Orange" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -32397,6 +32397,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snowboy" ],
       "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -32428,8 +32429,7 @@
         "plural": false,
         "internalIds": [ 8609 ]
       },
-      "materials": { "large snowflake": 1, "snowflake": 5 },
-      "sources": [ "Snowboy" ]
+      "materials": { "large snowflake": 1, "snowflake": 5 }
     }
   },
   {
@@ -32465,6 +32465,7 @@
       "plural": false,
       "internalIds": [ 10956, 10950, 10955, 10952, 10954, 10953, 5408, 10951 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -32768,7 +32769,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -32805,6 +32805,7 @@
       "plural": false,
       "internalIds": [ 6998, 10841, 10837, 10836, 10838, 10839, 10840, 10835 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -33081,7 +33082,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -33118,6 +33118,7 @@
       "plural": false,
       "internalIds": [ 10872, 10874, 10870, 10869, 10873, 5138, 10871, 10868 ]
     },
+    "source": [ "Gulliver" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -33410,7 +33411,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -33426,6 +33426,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -33485,7 +33486,6 @@
     },
     "colors": [ "White", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -33522,6 +33522,7 @@
       "plural": false,
       "internalIds": [ 11528, 11530, 5305, 11529 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -33676,7 +33677,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty" ],
     "recipe": null
   },
@@ -33692,6 +33692,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -33772,7 +33773,6 @@
     },
     "colors": [ "Black", "Black" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "theatrical", "work" ],
     "recipe": null
   },
@@ -33809,6 +33809,7 @@
       "plural": false,
       "internalIds": [ 12172, 12169, 9856, 12171, 12170 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -34016,7 +34017,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale" ],
     "recipe": null
   },
@@ -34032,6 +34032,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -34133,7 +34134,6 @@
     },
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -34141,6 +34141,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -34172,8 +34173,7 @@
         "plural": false,
         "internalIds": [ 9862 ]
       },
-      "materials": { "star fragment": 5 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 5 }
     }
   },
   {
@@ -34188,6 +34188,7 @@
     "hhaBasePoints": 351,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -34289,7 +34290,6 @@
     },
     "colors": [ "Yellow", "Orange" ],
     "styles": [ "Active" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -34297,6 +34297,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Collecting stone eggs" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -34328,8 +34329,7 @@
         "plural": false,
         "internalIds": [ 12440 ]
       },
-      "materials": { "stone egg": 2 },
-      "sources": [ "Collecting stone eggs" ]
+      "materials": { "stone egg": 2 }
     }
   },
   {
@@ -34365,6 +34365,7 @@
       "plural": false,
       "internalIds": [ 10879, 10881, 10877, 10880, 10878, 10875, 10876, 5259 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -34689,7 +34690,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
@@ -34726,6 +34726,7 @@
       "plural": false,
       "internalIds": [ 10893, 10892, 5398 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -34890,7 +34891,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -34906,6 +34906,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -34986,7 +34987,6 @@
     },
     "colors": [ "Beige", "Beige" ],
     "styles": [ "Cool" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "outdoorsy" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -34994,6 +34994,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -35025,8 +35026,7 @@
         "plural": false,
         "internalIds": [ 7254 ]
       },
-      "materials": { "clump of weeds": 10 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "clump of weeds": 10 }
     }
   },
   {
@@ -35041,6 +35041,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -35142,7 +35143,6 @@
     },
     "colors": [ "Pink", "Green" ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -35179,6 +35179,7 @@
       "plural": false,
       "internalIds": [ 8613, 11823, 11825, 11821, 11822, 11826, 11824 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -35450,7 +35451,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -35466,6 +35466,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Seasonal" ],
     "sourceNotes": "Only available during the month Summer Solstice Festival occurs",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -35567,7 +35568,6 @@
     },
     "colors": [ "Yellow", "Green" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Seasonal" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": null
   },
@@ -35604,6 +35604,7 @@
       "plural": false,
       "internalIds": [ 5281, 11814 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -35694,7 +35695,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -35731,6 +35731,7 @@
       "plural": false,
       "internalIds": [ 10755, 10756, 10754, 10758, 5283, 10759, 10753, 10757 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -36055,7 +36056,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
@@ -36092,6 +36092,7 @@
       "plural": false,
       "internalIds": [ 11544, 6055, 11546, 11545 ]
     },
+    "source": [ "Gulliver" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -36267,7 +36268,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -36304,6 +36304,7 @@
       "plural": false,
       "internalIds": [ 5311, 10767, 10771, 10770, 10768, 10769 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -36585,7 +36586,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "comfy", "sporty", "work" ],
     "recipe": null
   },
@@ -36622,6 +36622,7 @@
       "plural": false,
       "internalIds": [ 10929, 10928, 10930, 10932, 10927, 5304, 10926, 10931 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -36925,7 +36926,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "comfy" ],
     "recipe": null
   },
@@ -36962,6 +36962,7 @@
       "plural": false,
       "internalIds": [ 7412, 9751, 9752 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -37131,7 +37132,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -37168,6 +37168,7 @@
       "plural": false,
       "internalIds": [ 6092, 9750, 9749 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -37337,7 +37338,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -37374,6 +37374,7 @@
       "plural": false,
       "internalIds": [ 11033, 5129, 11036, 11037, 11035, 11034 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -37634,7 +37635,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -37671,6 +37671,7 @@
       "plural": false,
       "internalIds": [ 12041, 12111, 12110, 11061, 12042 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -37899,7 +37900,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
@@ -37936,6 +37936,7 @@
       "plural": false,
       "internalIds": [ 10913, 12031, 12030, 12032 ]
     },
+    "source": [ "Gulliver" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -38111,7 +38112,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -38127,6 +38127,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -38228,7 +38229,6 @@
     },
     "colors": [ "Red", "Yellow" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -38236,6 +38236,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -38267,8 +38268,7 @@
         "plural": false,
         "internalIds": [ 5102 ]
       },
-      "materials": { "red tulips": 2, "yellow tulips": 2, "white tulips": 1 },
-      "sources": [ "All Villagers" ]
+      "materials": { "red tulips": 2, "yellow tulips": 2, "white tulips": 1 }
     }
   },
   {
@@ -38304,6 +38304,7 @@
       "plural": false,
       "internalIds": [ 5293, 11835, 11834 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -38447,7 +38448,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "comfy" ],
     "recipe": null
   },
@@ -38484,6 +38484,7 @@
       "plural": false,
       "internalIds": [ 11864, 11865, 11863, 5434 ]
     },
+    "source": [ "Gulliver" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -38659,7 +38660,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -38696,6 +38696,7 @@
       "plural": false,
       "internalIds": [ 11984, 11983, 9769 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -38839,7 +38840,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -38876,6 +38876,7 @@
       "plural": false,
       "internalIds": [ 11882, 11883, 5684, 11881 ]
     },
+    "source": [ "Gulliver" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -39072,7 +39073,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Gulliver" ],
     "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -39109,6 +39109,7 @@
       "plural": false,
       "internalIds": [ 5669, 11816, 11817, 11815, 11818 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -39316,7 +39317,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -39353,6 +39353,7 @@
       "plural": false,
       "internalIds": [ 5266, 9740, 9739 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -39475,7 +39476,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale" ],
     "recipe": null
   },
@@ -39491,6 +39491,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -39592,7 +39593,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -39608,6 +39608,7 @@
     "hhaBasePoints": 351,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -39709,7 +39710,6 @@
     },
     "colors": [ "Purple", "Beige" ],
     "styles": [ "Active" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -39717,6 +39717,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Collecting water eggs" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -39748,8 +39749,7 @@
         "plural": false,
         "internalIds": [ 12444 ]
       },
-      "materials": { "water egg": 2 },
-      "sources": [ "Collecting water eggs" ]
+      "materials": { "water egg": 2 }
     }
   },
   {
@@ -39764,6 +39764,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -39886,7 +39887,6 @@
     },
     "colors": [ "Green", "Red" ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical", "vacation" ],
     "recipe": null
   },
@@ -39902,6 +39902,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -39982,7 +39983,6 @@
     },
     "colors": [ "Red", "Black" ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "goth", "work" ],
     "recipe": null
   },
@@ -40019,6 +40019,7 @@
       "plural": false,
       "internalIds": [ 10887, 5297, 10886 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -40162,7 +40163,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "party", "vacation" ],
     "recipe": null
   },
@@ -40178,6 +40178,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -40279,7 +40280,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cute" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -40287,6 +40287,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -40322,8 +40323,7 @@
         "red windflowers": 2,
         "orange windflowers": 2,
         "white windflowers": 2
-      },
-      "sources": [ "All Villagers" ]
+      }
     }
   },
   {
@@ -40359,6 +40359,7 @@
       "plural": false,
       "internalIds": [ 5336, 11848 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -40470,7 +40471,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party" ],
     "recipe": null
   },
@@ -40486,6 +40486,7 @@
     "hhaBasePoints": 351,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -40587,7 +40588,6 @@
     },
     "colors": [ "Orange", "Brown" ],
     "styles": [ "Active" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -40595,6 +40595,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Collecting wood eggs" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -40626,8 +40627,7 @@
         "plural": false,
         "internalIds": [ 12442 ]
       },
-      "materials": { "wood egg": 2 },
-      "sources": [ "Collecting wood eggs" ]
+      "materials": { "wood egg": 2 }
     }
   },
   {
@@ -40663,6 +40663,7 @@
       "plural": false,
       "internalIds": [ 11832, 5368, 11831, 11833, 11830, 11829 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -40923,7 +40924,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "theatrical", "work" ],
     "recipe": null
   },
@@ -40960,6 +40960,7 @@
       "plural": false,
       "internalIds": [ 11802, 11806, 11805, 11804, 5423, 11803, 11801, 11800 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -41284,7 +41285,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
@@ -41321,6 +41321,7 @@
       "plural": false,
       "internalIds": [ 8610, 9757, 9755, 9758, 9753, 9759, 9754, 9756 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -41608,7 +41609,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "party" ],
     "recipe": null
   }

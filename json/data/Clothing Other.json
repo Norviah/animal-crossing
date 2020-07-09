@@ -11,6 +11,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 800,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
@@ -134,7 +135,6 @@
     },
     "colors": [ "Black", "Green" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Miles Shop" ],
     "themes": [ "outdoorsy", "sporty", "vacation", "work" ],
     "recipe": null
   },
@@ -171,6 +171,7 @@
       "plural": false,
       "internalIds": [ 13103, 12986, 13102, 13101 ]
     },
+    "source": [ "Nook's Cranny" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -371,7 +372,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Nook's Cranny" ],
     "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
@@ -408,6 +408,7 @@
       "plural": false,
       "internalIds": [ 13099, 13100, 12981, 13098 ]
     },
+    "source": [ "Nook Shopping Catalog" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -608,7 +609,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   }

@@ -10,6 +10,7 @@
     "hhaBasePoints": 251,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Dodo Airlines" ],
     "sourceNotes": "Received in mail from DAL after 160 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -40,7 +41,6 @@
       "internalIds": [ 9560 ]
     },
     "colors": [ "Blue", "Blue" ],
-    "sources": [ "Dodo Airlines" ],
     "recipe": null
   },
   {
@@ -54,6 +54,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 700,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -84,7 +85,6 @@
       "internalIds": [ 9561 ]
     },
     "colors": [ "Green", "White" ],
-    "sources": [ "Nook Miles Shop" ],
     "recipe": null
   },
   {
@@ -98,6 +98,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -128,7 +129,6 @@
       "internalIds": [ 5861 ]
     },
     "colors": [ "Red", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -142,6 +142,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -172,13 +173,13 @@
       "internalIds": [ 9948 ]
     },
     "colors": [ "Yellow", "Red" ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "apple umbrella",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -210,8 +211,7 @@
         "plural": false,
         "internalIds": [ 9948 ]
       },
-      "materials": { "apple": 7 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "apple": 7 }
     }
   },
   {
@@ -225,6 +225,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -255,7 +256,6 @@
       "internalIds": [ 6919 ]
     },
     "colors": [ "Black", "Black" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -269,6 +269,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -299,7 +300,6 @@
       "internalIds": [ 9957 ]
     },
     "colors": [ "Blue", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -313,6 +313,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -343,7 +344,6 @@
       "internalIds": [ 7167 ]
     },
     "colors": [ "Brown", "Beige" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -357,6 +357,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -387,7 +388,6 @@
       "internalIds": [ 12137 ]
     },
     "colors": [ "Black", "Black" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -401,6 +401,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -431,7 +432,6 @@
       "internalIds": [ 6915 ]
     },
     "colors": [ "Black", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -445,6 +445,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -475,7 +476,6 @@
       "internalIds": [ 9956 ]
     },
     "colors": [ "Blue", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -489,6 +489,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -519,7 +520,6 @@
       "internalIds": [ 12134 ]
     },
     "colors": [ "Blue", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -533,6 +533,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -563,7 +564,6 @@
       "internalIds": [ 9959 ]
     },
     "colors": [ "Blue", "Blue" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -577,6 +577,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -607,7 +608,6 @@
       "internalIds": [ 7182 ]
     },
     "colors": [ "Black", "Black" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -621,6 +621,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -651,7 +652,6 @@
       "internalIds": [ 6923 ]
     },
     "colors": [ "Green", "Beige" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -665,6 +665,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -695,7 +696,6 @@
       "internalIds": [ 6926 ]
     },
     "colors": [ "Pink", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -709,6 +709,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -739,13 +740,13 @@
       "internalIds": [ 9949 ]
     },
     "colors": [ "Red", "Red" ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry umbrella",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -777,8 +778,7 @@
         "plural": false,
         "internalIds": [ 9949 ]
       },
-      "materials": { "cherry": 7 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "cherry": 7 }
     }
   },
   {
@@ -792,6 +792,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -822,13 +823,13 @@
       "internalIds": [ 9945 ]
     },
     "colors": [ "Pink", "Green" ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom umbrella",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Cherry-Blossom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -860,8 +861,7 @@
         "plural": false,
         "internalIds": [ 9945 ]
       },
-      "materials": { "cherry-blossom petal": 7 },
-      "sources": [ "Balloons" ]
+      "materials": { "cherry-blossom petal": 7 }
     }
   },
   {
@@ -875,6 +875,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -905,7 +906,6 @@
       "internalIds": [ 9955 ]
     },
     "colors": [ "Yellow", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -919,6 +919,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -949,7 +950,6 @@
       "internalIds": [ 7171 ]
     },
     "colors": [ "Yellow", "Pink" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -963,6 +963,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -993,7 +994,6 @@
       "internalIds": [ 7175 ]
     },
     "colors": [ "Green", "Yellow" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1007,6 +1007,7 @@
     "hhaBasePoints": 501,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Fishing Tourney" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1037,7 +1038,6 @@
       "internalIds": [ 8768 ]
     },
     "colors": [ "Blue", "Light blue" ],
-    "sources": [ "Fishing Tourney" ],
     "recipe": null
   },
   {
@@ -1051,6 +1051,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1081,7 +1082,6 @@
       "internalIds": [ 6925 ]
     },
     "colors": [ "Green", "Green" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1095,6 +1095,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1125,7 +1126,6 @@
       "internalIds": [ 7180 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1139,6 +1139,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1169,7 +1170,6 @@
       "internalIds": [ 6924 ]
     },
     "colors": [ "White", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1183,6 +1183,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1213,7 +1214,6 @@
       "internalIds": [ 6911 ]
     },
     "colors": [ "Purple", "Green" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1227,6 +1227,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1257,7 +1258,6 @@
       "internalIds": [ 12136 ]
     },
     "colors": [ "Green", "Black" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1271,6 +1271,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1301,7 +1302,6 @@
       "internalIds": [ 9960 ]
     },
     "colors": [ "Green", "Green" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1315,6 +1315,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1345,7 +1346,6 @@
       "internalIds": [ 6906 ]
     },
     "colors": [ "Light blue", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1359,6 +1359,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1389,7 +1390,6 @@
       "internalIds": [ 7177 ]
     },
     "colors": [ "Purple", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1403,6 +1403,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1433,7 +1434,6 @@
       "internalIds": [ 6908 ]
     },
     "colors": [ "Green", "Brown" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1447,6 +1447,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1477,7 +1478,6 @@
       "internalIds": [ 9946 ]
     },
     "colors": [ "White", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1491,6 +1491,7 @@
     "hhaBasePoints": 501,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1521,7 +1522,6 @@
       "internalIds": [ 8767 ]
     },
     "colors": [ "Red", "Black" ],
-    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -1535,6 +1535,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1565,13 +1566,13 @@
       "internalIds": [ 6840 ]
     },
     "colors": [ "Green", "Green" ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "leaf umbrella",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1603,8 +1604,7 @@
         "plural": false,
         "internalIds": [ 6840 ]
       },
-      "materials": { "clump of weeds": 15 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "clump of weeds": 15 }
     }
   },
   {
@@ -1618,6 +1618,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1648,7 +1649,6 @@
       "internalIds": [ 9954 ]
     },
     "colors": [ "Yellow", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1662,6 +1662,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1692,7 +1693,6 @@
       "internalIds": [ 7172 ]
     },
     "colors": [ "Blue", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1706,6 +1706,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1736,13 +1737,13 @@
       "internalIds": [ 7169 ]
     },
     "colors": [ "Orange", "Orange" ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "maple-leaf umbrella",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Maple Leaf Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1774,8 +1775,7 @@
         "plural": false,
         "internalIds": [ 7169 ]
       },
-      "materials": { "maple leaf": 7 },
-      "sources": [ "Balloons" ]
+      "materials": { "maple leaf": 7 }
     }
   },
   {
@@ -1789,6 +1789,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1819,7 +1820,6 @@
       "internalIds": [ 9951 ]
     },
     "colors": [ "Green", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1833,6 +1833,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1863,7 +1864,6 @@
       "internalIds": [ 6914 ]
     },
     "colors": [ "Pink", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1877,6 +1877,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1907,7 +1908,6 @@
       "internalIds": [ 9952 ]
     },
     "colors": [ "Brown", "Green" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1921,6 +1921,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1951,13 +1952,13 @@
       "internalIds": [ 7174 ]
     },
     "colors": [ "Brown", "Beige" ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mush umbrella",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Mushroom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1989,8 +1990,7 @@
         "plural": false,
         "internalIds": [ 7174 ]
       },
-      "materials": { "flat mushroom": 3 },
-      "sources": [ "Balloons" ]
+      "materials": { "flat mushroom": 3 }
     }
   },
   {
@@ -2004,6 +2004,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2034,13 +2035,13 @@
       "internalIds": [ 6912 ]
     },
     "colors": [ "Orange", "Yellow" ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "orange umbrella",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2072,8 +2073,7 @@
         "plural": false,
         "internalIds": [ 6912 ]
       },
-      "materials": { "orange": 7 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "orange": 7 }
     }
   },
   {
@@ -2087,6 +2087,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2117,7 +2118,6 @@
       "internalIds": [ 7170 ]
     },
     "colors": [ "White", "Black" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2131,6 +2131,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2161,7 +2162,6 @@
       "internalIds": [ 7178 ]
     },
     "colors": [ "Brown", "Green" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2175,6 +2175,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2205,7 +2206,6 @@
       "internalIds": [ 6918 ]
     },
     "colors": [ "White", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2219,6 +2219,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2249,13 +2250,13 @@
       "internalIds": [ 9947 ]
     },
     "colors": [ "Pink", "Green" ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "peach umbrella",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2287,8 +2288,7 @@
         "plural": false,
         "internalIds": [ 9947 ]
       },
-      "materials": { "peach": 7 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "peach": 7 }
     }
   },
   {
@@ -2302,6 +2302,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2332,13 +2333,13 @@
       "internalIds": [ 9950 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pear umbrella",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2370,8 +2371,7 @@
         "plural": false,
         "internalIds": [ 9950 ]
       },
-      "materials": { "pear": 7 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "pear": 7 }
     }
   },
   {
@@ -2385,6 +2385,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2415,7 +2416,6 @@
       "internalIds": [ 7181 ]
     },
     "colors": [ "White", "Yellow" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2429,6 +2429,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2459,7 +2460,6 @@
       "internalIds": [ 9953 ]
     },
     "colors": [ "Purple", "Pink" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2473,6 +2473,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2503,7 +2504,6 @@
       "internalIds": [ 6910 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2517,6 +2517,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2547,7 +2548,6 @@
       "internalIds": [ 7176 ]
     },
     "colors": [ "Pink", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2561,6 +2561,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2591,7 +2592,6 @@
       "internalIds": [ 7164 ]
     },
     "colors": [ "Pink", "Pink" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2605,6 +2605,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2635,7 +2636,6 @@
       "internalIds": [ 7183 ]
     },
     "colors": [ "Purple", "Black" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2649,6 +2649,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2679,7 +2680,6 @@
       "internalIds": [ 12133 ]
     },
     "colors": [ "Purple", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2693,6 +2693,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2723,7 +2724,6 @@
       "internalIds": [ 7179 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2737,6 +2737,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2767,7 +2768,6 @@
       "internalIds": [ 6913 ]
     },
     "colors": [ "Yellow", "Light blue" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2781,6 +2781,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2811,7 +2812,6 @@
       "internalIds": [ 12138 ]
     },
     "colors": [ "Red", "Black" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2825,6 +2825,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2855,7 +2856,6 @@
       "internalIds": [ 9958 ]
     },
     "colors": [ "Red", "Red" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2869,6 +2869,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2899,7 +2900,6 @@
       "internalIds": [ 6905 ]
     },
     "colors": [ "Light blue", "Light blue" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2913,6 +2913,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2943,7 +2944,6 @@
       "internalIds": [ 7173 ]
     },
     "colors": [ "Black", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2957,6 +2957,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2987,7 +2988,6 @@
       "internalIds": [ 6907 ]
     },
     "colors": [ "Pink", "Green" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3001,6 +3001,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3031,7 +3032,6 @@
       "internalIds": [ 6916 ]
     },
     "colors": [ "Gray", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3045,6 +3045,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3075,7 +3076,6 @@
       "internalIds": [ 6904 ]
     },
     "colors": [ "Yellow", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3089,6 +3089,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3119,7 +3120,6 @@
       "internalIds": [ 6917 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3133,6 +3133,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3163,7 +3164,6 @@
       "internalIds": [ 7166 ]
     },
     "colors": [ "Red", "Yellow" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3177,6 +3177,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3207,7 +3208,6 @@
       "internalIds": [ 7165 ]
     },
     "colors": [ "White", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3221,6 +3221,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3251,7 +3252,6 @@
       "internalIds": [ 6909 ]
     },
     "colors": [ "Red", "Green" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3265,6 +3265,7 @@
     "hhaBasePoints": 3,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only)",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3295,7 +3296,6 @@
       "internalIds": [ 12135 ]
     },
     "colors": [ "White", "White" ],
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   }
 ]

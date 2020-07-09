@@ -14,6 +14,7 @@
     "buy": -1,
     "sell": 2400,
     "size": "2x1",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -76,13 +77,13 @@
     "concepts": [ "fancy", "party" ],
     "set": null,
     "series": "Bunny Day",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day glowy garland",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Egg bottle", "Egg balloon" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -121,8 +122,7 @@
         "wood egg": 1,
         "sky egg": 1,
         "water egg": 1
-      },
-      "sources": [ "Egg bottle", "Egg balloon" ]
+      }
     }
   },
   {
@@ -140,6 +140,7 @@
     "buy": -1,
     "sell": 1200,
     "size": "1x1.5",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -202,13 +203,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "Bunny Day",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day wall clock",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Egg bottle", "Egg balloon" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -240,8 +241,7 @@
         "plural": false,
         "internalIds": [ 12418 ]
       },
-      "materials": { "sky egg": 3 },
-      "sources": [ "Egg bottle", "Egg balloon" ]
+      "materials": { "sky egg": 3 }
     }
   },
   {
@@ -259,6 +259,7 @@
     "buy": -1,
     "sell": 2400,
     "size": "1x1",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -321,13 +322,13 @@
     "concepts": [ "fancy", "party" ],
     "set": null,
     "series": "Bunny Day",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Egg bottle", "Egg balloon" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -366,8 +367,7 @@
         "wood egg": 1,
         "sky egg": 1,
         "water egg": 1
-      },
-      "sources": [ "Egg bottle", "Egg balloon" ]
+      }
     }
   },
   {
@@ -385,6 +385,7 @@
     "buy": -1,
     "sell": 375,
     "size": "1x1.5 ",
+    "source": [ "HHA" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -427,7 +428,6 @@
     "concepts": [ "living room", "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "HHA" ],
     "recipe": null
   },
   {
@@ -445,6 +445,7 @@
     "buy": -1,
     "sell": 21975,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -507,13 +508,13 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": "stars",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Leo sculpture",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -545,8 +546,7 @@
         "plural": false,
         "internalIds": [ 5964 ]
       },
-      "materials": { "star fragment": 3, "Leo fragment": 2, "gold nugget": 2, "stone": 3 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 3, "Leo fragment": 2, "gold nugget": 2, "stone": 3 }
     }
   },
   {
@@ -589,6 +589,7 @@
       "plural": false,
       "internalIds": [ 7139 ]
     },
+    "source": [ "Mom" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 25,
@@ -910,7 +911,6 @@
     ],
     "set": null,
     "series": "motherly",
-    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -953,6 +953,7 @@
       "plural": false,
       "internalIds": [ 7145 ]
     },
+    "source": [ "Mom" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 25,
@@ -1200,7 +1201,6 @@
     ],
     "set": null,
     "series": "motherly",
-    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -1218,6 +1218,7 @@
     "buy": -1,
     "sell": 21750,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1280,13 +1281,13 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": "stars",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Sagittarius arrow",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1318,8 +1319,7 @@
         "plural": false,
         "internalIds": [ 5958 ]
       },
-      "materials": { "star fragment": 3, "Sagittarius fragment": 2, "gold nugget": 2 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 3, "Sagittarius fragment": 2, "gold nugget": 2 }
     }
   },
   {
@@ -1362,6 +1362,7 @@
       "plural": false,
       "internalIds": [ 929 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -1589,7 +1590,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1632,6 +1632,7 @@
       "plural": false,
       "internalIds": [ 3953 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 4,
@@ -1768,7 +1769,6 @@
     ],
     "set": null,
     "series": "antique",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1811,6 +1811,7 @@
       "plural": false,
       "internalIds": [ 1899 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -2280,7 +2281,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2323,6 +2323,7 @@
       "plural": false,
       "internalIds": [ 3558 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 10,
@@ -2459,13 +2460,13 @@
     ],
     "set": null,
     "series": "bamboo",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo wall decoration",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2497,8 +2498,7 @@
         "plural": false,
         "internalIds": [ 3558 ]
       },
-      "materials": { "bamboo piece": 1 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "bamboo piece": 1 }
     }
   },
   {
@@ -2541,6 +2541,7 @@
       "plural": false,
       "internalIds": [ 4030 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -2694,7 +2695,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2712,6 +2712,7 @@
     "buy": -1,
     "sell": 20000,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2774,13 +2775,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "blue rose wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2812,8 +2813,7 @@
         "plural": false,
         "internalIds": [ 5772 ]
       },
-      "materials": { "blue roses": 10 },
-      "sources": [ "All Villagers" ]
+      "materials": { "blue roses": 10 }
     }
   },
   {
@@ -2856,6 +2856,7 @@
       "plural": false,
       "internalIds": [ 4751 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -3117,13 +3118,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bone doorplate",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3155,8 +3156,7 @@
         "plural": false,
         "internalIds": [ 4751 ]
       },
-      "materials": { "softwood": 3 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "softwood": 3 }
     }
   },
   {
@@ -3199,6 +3199,7 @@
       "plural": false,
       "internalIds": [ 682 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -3389,13 +3390,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "boomerang",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -3427,8 +3428,7 @@
         "plural": false,
         "internalIds": [ 682 ]
       },
-      "materials": { "hardwood": 3 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "hardwood": 3 }
     }
   },
   {
@@ -3446,6 +3446,7 @@
     "buy": 820,
     "sell": 205,
     "size": "1x1 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3488,7 +3489,6 @@
     "concepts": [ "garage", "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3506,6 +3506,7 @@
     "buy": -1,
     "sell": 400,
     "size": "1x1 ",
+    "source": [ "HHA" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3548,7 +3549,6 @@
     "concepts": [ "living room", "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "HHA" ],
     "recipe": null
   },
   {
@@ -3591,6 +3591,7 @@
       "plural": false,
       "internalIds": [ 3967 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -3744,7 +3745,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3762,6 +3762,7 @@
     "buy": -1,
     "sell": 300,
     "size": "1x1",
+    "source": [ "International Museum Day" ],
     "sourceNotes": "Reward for completing the Stamp Rally in the bug exhibit",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0b",
@@ -3804,7 +3805,6 @@
     "concepts": [ "expensive", "den" ],
     "set": null,
     "series": null,
-    "sources": [ "International Museum Day" ],
     "recipe": null
   },
   {
@@ -3822,6 +3822,7 @@
     "buy": 1300,
     "sell": 325,
     "size": "1x1 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -3864,7 +3865,6 @@
     "concepts": [ "ocean", "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -3907,6 +3907,7 @@
       "plural": false,
       "internalIds": [ 4012 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 13,
@@ -4006,13 +4007,13 @@
     ],
     "set": "cherry",
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry lamp",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native fruit is cherries",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4044,8 +4045,7 @@
         "plural": false,
         "internalIds": [ 4012 ]
       },
-      "materials": { "cherry": 10, "clay": 2 },
-      "sources": [ "Peppy villagers", "Tom Nook" ]
+      "materials": { "cherry": 10, "clay": 2 }
     }
   },
   {
@@ -4088,6 +4088,7 @@
       "plural": false,
       "internalIds": [ 6832 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 22,
@@ -4187,13 +4188,13 @@
     ],
     "set": null,
     "series": "cherry blossoms",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom clock",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Cherry-Blossom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4225,8 +4226,7 @@
         "plural": false,
         "internalIds": [ 6832 ]
       },
-      "materials": { "cherry-blossom petal": 5, "iron nugget": 1 },
-      "sources": [ "Balloons" ]
+      "materials": { "cherry-blossom petal": 5, "iron nugget": 1 }
     }
   },
   {
@@ -4244,6 +4244,7 @@
     "buy": -1,
     "sell": 4800,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4306,13 +4307,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "chic cosmos wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4344,8 +4345,7 @@
         "plural": false,
         "internalIds": [ 5764 ]
       },
-      "materials": { "black cosmos": 10 },
-      "sources": [ "All Villagers" ]
+      "materials": { "black cosmos": 10 }
     }
   },
   {
@@ -4363,6 +4363,7 @@
     "buy": -1,
     "sell": 4800,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4425,13 +4426,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "chic windflower wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4463,8 +4464,7 @@
         "plural": false,
         "internalIds": [ 5765 ]
       },
-      "materials": { "purple windflowers": 10 },
-      "sources": [ "All Villagers" ]
+      "materials": { "purple windflowers": 10 }
     }
   },
   {
@@ -4482,6 +4482,7 @@
     "buy": -1,
     "sell": 600,
     "size": "1x1.5 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4524,13 +4525,13 @@
     "concepts": [ "ocean", "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "coconut wall planter",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4562,8 +4563,7 @@
         "plural": false,
         "internalIds": [ 4130 ]
       },
-      "materials": { "coconut": 1, "clump of weeds": 5 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "coconut": 1, "clump of weeds": 5 }
     }
   },
   {
@@ -4581,6 +4581,7 @@
     "buy": -1,
     "sell": 1440,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4643,13 +4644,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cool hyacinth wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4681,8 +4682,7 @@
         "plural": false,
         "internalIds": [ 5750 ]
       },
-      "materials": { "orange hyacinths": 3, "blue hyacinths": 3, "pink hyacinths": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "orange hyacinths": 3, "blue hyacinths": 3, "pink hyacinths": 3 }
     }
   },
   {
@@ -4700,6 +4700,7 @@
     "buy": -1,
     "sell": 4800,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4762,13 +4763,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cool pansy wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4800,8 +4801,7 @@
         "plural": false,
         "internalIds": [ 5767 ]
       },
-      "materials": { "purple pansies": 10 },
-      "sources": [ "All Villagers" ]
+      "materials": { "purple pansies": 10 }
     }
   },
   {
@@ -4819,6 +4819,7 @@
     "buy": -1,
     "sell": 1200,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4881,13 +4882,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cool windflower wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -4919,8 +4920,7 @@
         "plural": false,
         "internalIds": [ 5746 ]
       },
-      "materials": { "blue windflowers": 3, "pink windflowers": 3, "white windflowers": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "blue windflowers": 3, "pink windflowers": 3, "white windflowers": 3 }
     }
   },
   {
@@ -4963,6 +4963,7 @@
       "plural": false,
       "internalIds": [ 1783 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -5490,7 +5491,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5508,6 +5508,7 @@
     "buy": -1,
     "sell": 720,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5570,13 +5571,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cosmos wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is cosmos",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5608,8 +5609,7 @@
         "plural": false,
         "internalIds": [ 4293 ]
       },
-      "materials": { "yellow cosmos": 3, "white cosmos": 3, "red cosmos": 3 },
-      "sources": [ "All Villagers", "Tom Nook" ]
+      "materials": { "yellow cosmos": 3, "white cosmos": 3, "red cosmos": 3 }
     }
   },
   {
@@ -5652,6 +5652,7 @@
       "plural": false,
       "internalIds": [ 5717 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -5801,13 +5802,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "crest doorplate",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5839,8 +5840,7 @@
         "plural": false,
         "internalIds": [ 5717 ]
       },
-      "materials": { "iron nugget": 4 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "iron nugget": 4 }
     }
   },
   {
@@ -5883,6 +5883,7 @@
       "plural": false,
       "internalIds": [ 915 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -6147,7 +6148,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6190,6 +6190,7 @@
       "plural": false,
       "internalIds": [ 3996 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 9,
@@ -6400,7 +6401,6 @@
     ],
     "set": null,
     "series": "cute",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6418,6 +6418,7 @@
     "buy": -1,
     "sell": 1600,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6480,13 +6481,13 @@
     "concepts": [ "fancy", "horror" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark lily wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -6518,8 +6519,7 @@
         "plural": false,
         "internalIds": [ 5770 ]
       },
-      "materials": { "black lilies": 10 },
-      "sources": [ "All Villagers" ]
+      "materials": { "black lilies": 10 }
     }
   },
   {
@@ -6537,6 +6537,7 @@
     "buy": -1,
     "sell": 4320,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6599,13 +6600,13 @@
     "concepts": [ "fancy", "horror" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark rose wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -6637,8 +6638,7 @@
         "plural": false,
         "internalIds": [ 5766 ]
       },
-      "materials": { "black roses": 3, "purple roses": 6 },
-      "sources": [ "All Villagers" ]
+      "materials": { "black roses": 3, "purple roses": 6 }
     }
   },
   {
@@ -6656,6 +6656,7 @@
     "buy": -1,
     "sell": 1600,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6718,13 +6719,13 @@
     "concepts": [ "fancy", "horror" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark tulip wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -6756,8 +6757,7 @@
         "plural": false,
         "internalIds": [ 5771 ]
       },
-      "materials": { "black tulips": 10 },
-      "sources": [ "All Villagers" ]
+      "materials": { "black tulips": 10 }
     }
   },
   {
@@ -6800,6 +6800,7 @@
       "plural": false,
       "internalIds": [ 3340 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -6990,13 +6991,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "deer decoration",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -7028,8 +7029,7 @@
         "plural": false,
         "internalIds": [ 3340 ]
       },
-      "materials": { "softwood": 8 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "softwood": 8 }
     }
   },
   {
@@ -7072,6 +7072,7 @@
       "plural": false,
       "internalIds": [ 4144 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 3,
@@ -8315,7 +8316,6 @@
     ],
     "set": null,
     "series": "diner",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8358,6 +8358,7 @@
       "plural": false,
       "internalIds": [ 4133 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -8585,7 +8586,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8628,6 +8628,7 @@
       "plural": false,
       "internalIds": [ 955 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -8781,7 +8782,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8799,6 +8799,7 @@
     "buy": -1,
     "sell": 1200,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8861,13 +8862,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "fancy lily wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8899,8 +8900,7 @@
         "plural": false,
         "internalIds": [ 5677 ]
       },
-      "materials": { "orange lilies": 3, "pink lilies": 3, "yellow lilies": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "orange lilies": 3, "pink lilies": 3, "yellow lilies": 3 }
     }
   },
   {
@@ -8918,6 +8918,7 @@
     "buy": -1,
     "sell": 1200,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8980,13 +8981,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "fancy mum wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -9018,8 +9019,7 @@
         "plural": false,
         "internalIds": [ 5749 ]
       },
-      "materials": { "pink mums": 3, "purple mums": 3, "red mums": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "pink mums": 3, "purple mums": 3, "red mums": 3 }
     }
   },
   {
@@ -9037,6 +9037,7 @@
     "buy": -1,
     "sell": 1200,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9099,13 +9100,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "fancy rose wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -9137,8 +9138,7 @@
         "plural": false,
         "internalIds": [ 5747 ]
       },
-      "materials": { "orange roses": 3, "pink roses": 3, "yellow roses": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "orange roses": 3, "pink roses": 3, "yellow roses": 3 }
     }
   },
   {
@@ -9181,6 +9181,7 @@
       "plural": false,
       "internalIds": [ 4764 ]
     },
+    "source": [ "Fishing Tourney" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -9442,7 +9443,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Fishing Tourney" ],
     "recipe": null
   },
   {
@@ -9460,6 +9460,7 @@
     "buy": -1,
     "sell": 300,
     "size": "1x1",
+    "source": [ "International Museum Day" ],
     "sourceNotes": "Reward for completing the Stamp Rally in the fish gallery",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0b",
@@ -9502,7 +9503,6 @@
     "concepts": [ "expensive", "den" ],
     "set": null,
     "series": null,
-    "sources": [ "International Museum Day" ],
     "recipe": null
   },
   {
@@ -9545,6 +9545,7 @@
       "plural": false,
       "internalIds": [ 3699 ]
     },
+    "source": [ "Fishing Tourney" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -9809,7 +9810,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Fishing Tourney" ],
     "recipe": null
   },
   {
@@ -9852,6 +9852,7 @@
       "plural": false,
       "internalIds": [ 3583 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -10005,7 +10006,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10048,6 +10048,7 @@
       "plural": false,
       "internalIds": [ 4027 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -10238,13 +10239,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "floral swag",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -10276,8 +10277,7 @@
         "plural": false,
         "internalIds": [ 4027 ]
       },
-      "materials": { "clump of weeds": 10 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "clump of weeds": 10 }
     }
   },
   {
@@ -10320,6 +10320,7 @@
       "plural": false,
       "internalIds": [ 4099 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -10436,7 +10437,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10479,6 +10479,7 @@
       "plural": false,
       "internalIds": [ 5719 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -10548,13 +10549,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "fossil doorplate",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -10586,8 +10587,7 @@
         "plural": false,
         "internalIds": [ 5719 ]
       },
-      "materials": { "fossil": 1, "stone": 2 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "fossil": 1, "stone": 2 }
     }
   },
   {
@@ -10605,6 +10605,7 @@
     "buy": -1,
     "sell": 300,
     "size": "1x1",
+    "source": [ "International Museum Day" ],
     "sourceNotes": "Reward for completing the Stamp Rally in the fossil gallery",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0b",
@@ -10647,7 +10648,6 @@
     "concepts": [ "expensive", "den" ],
     "set": null,
     "series": null,
-    "sources": [ "International Museum Day" ],
     "recipe": null
   },
   {
@@ -10665,6 +10665,7 @@
     "buy": -1,
     "sell": 2000,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10727,13 +10728,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "fruit wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Cranky villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -10765,8 +10766,7 @@
         "plural": false,
         "internalIds": [ 4378 ]
       },
-      "materials": { "apple": 2, "pear": 1, "cherry": 3, "orange": 3, "peach": 1 },
-      "sources": [ "Cranky villagers" ]
+      "materials": { "apple": 2, "pear": 1, "cherry": 3, "orange": 3, "peach": 1 }
     }
   },
   {
@@ -10809,6 +10809,7 @@
       "plural": false,
       "internalIds": [ 7280 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -10999,7 +11000,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11017,6 +11017,7 @@
     "buy": -1,
     "sell": 450,
     "size": "1x1 ",
+    "source": [ "HHA" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11059,7 +11060,6 @@
     "concepts": [ "living room", "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "HHA" ],
     "recipe": null
   },
   {
@@ -11077,6 +11077,7 @@
     "buy": -1,
     "sell": 20000,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11139,13 +11140,13 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "gold rose wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -11177,8 +11178,7 @@
         "plural": false,
         "internalIds": [ 5820 ]
       },
-      "materials": { "gold roses": 10 },
-      "sources": [ "All Villagers" ]
+      "materials": { "gold roses": 10 }
     }
   },
   {
@@ -11196,6 +11196,7 @@
     "buy": -1,
     "sell": 11125,
     "size": "2x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11258,13 +11259,13 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": "golden",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden gears",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -11296,8 +11297,7 @@
         "plural": false,
         "internalIds": [ 11261 ]
       },
-      "materials": { "gold nugget": 1, "iron nugget": 3 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "gold nugget": 1, "iron nugget": 3 }
     }
   },
   {
@@ -11315,6 +11315,7 @@
     "buy": 1400,
     "sell": 350,
     "size": "1x1 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11357,7 +11358,6 @@
     "concepts": [ "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11400,6 +11400,7 @@
       "plural": false,
       "internalIds": [ 7282 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -12855,7 +12856,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12898,6 +12898,7 @@
       "plural": false,
       "internalIds": [ 3775 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -13014,13 +13015,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hanging terrarium",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -13052,8 +13053,7 @@
         "plural": false,
         "internalIds": [ 3775 ]
       },
-      "materials": { "clump of weeds": 12, "iron nugget": 4 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "clump of weeds": 12, "iron nugget": 4 }
     }
   },
   {
@@ -13096,6 +13096,7 @@
       "plural": false,
       "internalIds": [ 5309 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -13357,7 +13358,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13375,6 +13375,7 @@
     "buy": -1,
     "sell": 720,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13437,13 +13438,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hyacinth wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is hyacinths",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -13475,8 +13476,7 @@
         "plural": false,
         "internalIds": [ 5468 ]
       },
-      "materials": { "white hyacinths": 3, "red hyacinths": 3, "yellow hyacinths": 3 },
-      "sources": [ "All Villagers", "Tom Nook" ]
+      "materials": { "white hyacinths": 3, "red hyacinths": 3, "yellow hyacinths": 3 }
     }
   },
   {
@@ -13519,6 +13519,7 @@
       "plural": false,
       "internalIds": [ 3970 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 6,
@@ -13692,7 +13693,6 @@
     ],
     "set": null,
     "series": "zen",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13735,6 +13735,7 @@
       "plural": false,
       "internalIds": [ 8415 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -13888,7 +13889,6 @@
     ],
     "set": "imperial dining",
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13906,6 +13906,7 @@
     "buy": 860,
     "sell": 215,
     "size": "1x1 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13948,7 +13949,6 @@
     "concepts": [ "living room", "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13991,6 +13991,7 @@
       "plural": false,
       "internalIds": [ 4752 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 1,
@@ -14272,13 +14273,13 @@
     ],
     "set": null,
     "series": "iron",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron doorplate",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -14310,8 +14311,7 @@
         "plural": false,
         "internalIds": [ 4752 ]
       },
-      "materials": { "iron nugget": 2 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "iron nugget": 2 }
     }
   },
   {
@@ -14354,6 +14354,7 @@
       "plural": false,
       "internalIds": [ 3559 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 1,
@@ -14453,13 +14454,13 @@
     ],
     "set": null,
     "series": "iron",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron wall lamp",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Wildest Dreams DIY" ],
       "sourceNotes": "Purchase Wildest Dreams DIY from Nook's Cranny",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -14491,8 +14492,7 @@
         "plural": false,
         "internalIds": [ 3559 ]
       },
-      "materials": { "iron nugget": 4, "clay": 2 },
-      "sources": [ "Wildest Dreams DIY" ]
+      "materials": { "iron nugget": 4, "clay": 2 }
     }
   },
   {
@@ -14535,6 +14535,7 @@
       "plural": false,
       "internalIds": [ 3562 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 1,
@@ -14634,13 +14635,13 @@
     ],
     "set": null,
     "series": "iron",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron wall rack",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -14672,8 +14673,7 @@
         "plural": false,
         "internalIds": [ 3562 ]
       },
-      "materials": { "iron nugget": 3, "clay": 1 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "iron nugget": 3, "clay": 1 }
     }
   },
   {
@@ -14716,6 +14716,7 @@
       "plural": false,
       "internalIds": [ 3275 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 2,
@@ -14926,13 +14927,13 @@
     ],
     "set": null,
     "series": "ironwood",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ironwood clock",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -14964,8 +14965,7 @@
         "plural": false,
         "internalIds": [ 3275 ]
       },
-      "materials": { "wood": 2, "iron nugget": 2 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "wood": 2, "iron nugget": 2 }
     }
   },
   {
@@ -15008,6 +15008,7 @@
       "plural": false,
       "internalIds": [ 3992 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -15161,13 +15162,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "key holder",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -15199,8 +15200,7 @@
         "plural": false,
         "internalIds": [ 3992 ]
       },
-      "materials": { "wood": 3, "iron nugget": 1 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "wood": 3, "iron nugget": 1 }
     }
   },
   {
@@ -15243,6 +15243,7 @@
       "plural": false,
       "internalIds": [ 3471 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -15396,7 +15397,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -15414,6 +15414,7 @@
     "buy": -1,
     "sell": 720,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15476,13 +15477,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lily wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is lilies",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -15514,8 +15515,7 @@
         "plural": false,
         "internalIds": [ 5641 ]
       },
-      "materials": { "white lilies": 3, "red lilies": 3, "yellow lilies": 3 },
-      "sources": [ "All Villagers", "Tom Nook" ]
+      "materials": { "white lilies": 3, "red lilies": 3, "yellow lilies": 3 }
     }
   },
   {
@@ -15558,6 +15558,7 @@
       "plural": false,
       "internalIds": [ 4037 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 14,
@@ -15731,13 +15732,13 @@
     ],
     "set": null,
     "series": "log",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "log wall-mounted clock",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -15769,8 +15770,7 @@
         "plural": false,
         "internalIds": [ 4037 ]
       },
-      "materials": { "hardwood": 2, "iron nugget": 1 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "hardwood": 2, "iron nugget": 1 }
     }
   },
   {
@@ -15813,6 +15813,7 @@
       "plural": false,
       "internalIds": [ 4119 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -15966,7 +15967,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -16009,6 +16009,7 @@
       "plural": false,
       "internalIds": [ 4118 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -16125,7 +16126,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -16143,6 +16143,7 @@
     "buy": 1500,
     "sell": 375,
     "size": "1x1 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16185,7 +16186,6 @@
     "concepts": [ "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -16203,6 +16203,7 @@
     "buy": -1,
     "sell": 12290,
     "size": "1x2",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
@@ -16245,13 +16246,13 @@
     "concepts": [ "ocean", "fancy" ],
     "set": null,
     "series": "mermaid",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mermaid wall clock",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Pascal" ],
       "sourceNotes": null,
       "versionAdded": "1.3.0",
       "versionUnlocked": "1.3.0",
@@ -16283,8 +16284,7 @@
         "plural": false,
         "internalIds": [ 12557 ]
       },
-      "materials": { "pearl": 1, "sea snail": 3, "coral": 2, "iron nugget": 2 },
-      "sources": [ "Pascal" ]
+      "materials": { "pearl": 1, "sea snail": 3, "coral": 2, "iron nugget": 2 }
     }
   },
   {
@@ -16327,6 +16327,7 @@
       "plural": false,
       "internalIds": [ 9565 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -16517,7 +16518,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -16535,6 +16535,7 @@
     "buy": 1300,
     "sell": 325,
     "size": "1x0.5 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16577,7 +16578,6 @@
     "concepts": [ "ocean", "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -16595,6 +16595,7 @@
     "buy": 5000,
     "sell": 1250,
     "size": "2x1 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16637,7 +16638,6 @@
     "concepts": [ "ocean", "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -16655,6 +16655,7 @@
     "buy": -1,
     "sell": 720,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16717,13 +16718,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mum wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is mums",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -16755,8 +16756,7 @@
         "plural": false,
         "internalIds": [ 5467 ]
       },
-      "materials": { "white mums": 3, "yellow mums": 3, "red mums": 3 },
-      "sources": [ "All Villagers", "Tom Nook" ]
+      "materials": { "white mums": 3, "yellow mums": 3, "red mums": 3 }
     }
   },
   {
@@ -16774,6 +16774,7 @@
     "buy": -1,
     "sell": 1500,
     "size": "1x1",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16836,13 +16837,13 @@
     "concepts": [ "garden" ],
     "set": null,
     "series": "mush",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mushroom wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Mushroom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -16879,8 +16880,7 @@
         "round mushroom": 1,
         "skinny mushroom": 1,
         "flat mushroom": 1
-      },
-      "sources": [ "Balloons" ]
+      }
     }
   },
   {
@@ -16898,6 +16898,7 @@
     "buy": -1,
     "sell": 4800,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16960,13 +16961,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "natural mum wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -16998,8 +16999,7 @@
         "plural": false,
         "internalIds": [ 5768 ]
       },
-      "materials": { "green mums": 10 },
-      "sources": [ "All Villagers" ]
+      "materials": { "green mums": 10 }
     }
   },
   {
@@ -17042,6 +17042,7 @@
       "plural": false,
       "internalIds": [ 3976 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 13,
@@ -17141,13 +17142,13 @@
     ],
     "set": "orange",
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "orange wall-mounted clock",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native fruit is oranges",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -17179,8 +17180,7 @@
         "plural": false,
         "internalIds": [ 3976 ]
       },
-      "materials": { "orange": 10, "wood": 2 },
-      "sources": [ "Lazy villagers", "Tom Nook" ]
+      "materials": { "orange": 10, "wood": 2 }
     }
   },
   {
@@ -17223,6 +17223,7 @@
       "plural": false,
       "internalIds": [ 6818 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 26,
@@ -17470,13 +17471,13 @@
     ],
     "set": null,
     "series": "festive",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ornament mobile",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Festive Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -17513,8 +17514,7 @@
         "blue ornament": 1,
         "gold ornament": 1,
         "tree branch": 4
-      },
-      "sources": [ "Balloons" ]
+      }
     }
   },
   {
@@ -17557,6 +17557,7 @@
       "plural": false,
       "internalIds": [ 4377 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 26,
@@ -17838,13 +17839,13 @@
     ],
     "set": null,
     "series": "festive",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ornament wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Festive Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -17876,8 +17877,7 @@
         "plural": false,
         "internalIds": [ 4377 ]
       },
-      "materials": { "blue ornament": 6, "gold ornament": 2 },
-      "sources": [ "Balloons" ]
+      "materials": { "blue ornament": 6, "gold ornament": 2 }
     }
   },
   {
@@ -17895,6 +17895,7 @@
     "buy": -1,
     "sell": 720,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -17957,13 +17958,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pansy wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is pansies",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -17995,8 +17996,7 @@
         "plural": false,
         "internalIds": [ 5466 ]
       },
-      "materials": { "yellow pansies": 3, "white pansies": 3, "red pansies": 3 },
-      "sources": [ "All Villagers", "Tom Nook" ]
+      "materials": { "yellow pansies": 3, "white pansies": 3, "red pansies": 3 }
     }
   },
   {
@@ -18039,6 +18039,7 @@
       "plural": false,
       "internalIds": [ 4077 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -18266,7 +18267,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -18309,6 +18309,7 @@
       "plural": false,
       "internalIds": [ 5716 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -18554,13 +18555,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "paw-print doorplate",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -18592,8 +18593,7 @@
         "plural": false,
         "internalIds": [ 5716 ]
       },
-      "materials": { "wood": 3 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "wood": 3 }
     }
   },
   {
@@ -18611,6 +18611,7 @@
     "buy": 1900,
     "sell": 475,
     "size": "1x1 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18653,7 +18654,6 @@
     "concepts": [ "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -18696,6 +18696,7 @@
       "plural": false,
       "internalIds": [ 3818 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -18886,7 +18887,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -18929,6 +18929,7 @@
       "plural": false,
       "internalIds": [ 928 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -19045,7 +19046,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -19088,6 +19088,7 @@
       "plural": false,
       "internalIds": [ 3785 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -19241,13 +19242,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "potted ivy",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Test Your DIY Skills" ],
       "sourceNotes": "Purchase Test Your DIY Skills from Nook's Cranny",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -19279,8 +19280,7 @@
         "plural": false,
         "internalIds": [ 3785 ]
       },
-      "materials": { "clump of weeds": 5, "clay": 5 },
-      "sources": [ "Test Your DIY Skills" ]
+      "materials": { "clump of weeds": 5, "clay": 5 }
     }
   },
   {
@@ -19298,6 +19298,7 @@
     "buy": -1,
     "sell": 1200,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -19360,13 +19361,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pretty cosmos wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -19398,8 +19399,7 @@
         "plural": false,
         "internalIds": [ 5745 ]
       },
-      "materials": { "orange cosmos": 3, "pink cosmos": 3, "red cosmos": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "orange cosmos": 3, "pink cosmos": 3, "red cosmos": 3 }
     }
   },
   {
@@ -19417,6 +19417,7 @@
     "buy": -1,
     "sell": 2400,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -19479,13 +19480,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pretty tulip wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -19517,8 +19518,7 @@
         "plural": false,
         "internalIds": [ 5751 ]
       },
-      "materials": { "orange tulips": 3, "pink tulips": 3, "purple tulips": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "orange tulips": 3, "pink tulips": 3, "purple tulips": 3 }
     }
   },
   {
@@ -19536,6 +19536,7 @@
     "buy": -1,
     "sell": 4800,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -19598,13 +19599,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "purple hyacinth wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -19636,8 +19637,7 @@
         "plural": false,
         "internalIds": [ 5769 ]
       },
-      "materials": { "purple hyacinths": 10 },
-      "sources": [ "All Villagers" ]
+      "materials": { "purple hyacinths": 10 }
     }
   },
   {
@@ -19655,6 +19655,7 @@
     "buy": 1300,
     "sell": 325,
     "size": "1x1 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -19697,7 +19698,6 @@
     "concepts": [ "living room", "school" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -19715,6 +19715,7 @@
     "buy": -1,
     "sell": 720,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -19777,13 +19778,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rose wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is roses",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -19815,8 +19816,7 @@
         "plural": false,
         "internalIds": [ 5437 ]
       },
-      "materials": { "red roses": 3, "white roses": 3, "yellow roses": 3 },
-      "sources": [ "All Villagers", "Tom Nook" ]
+      "materials": { "red roses": 3, "white roses": 3, "yellow roses": 3 }
     }
   },
   {
@@ -19834,6 +19834,7 @@
     "buy": -1,
     "sell": 4720,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -19896,13 +19897,13 @@
     "concepts": [ "ocean" ],
     "set": null,
     "series": "shell",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shell wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons", "Isabelle" ],
       "sourceNotes": "Only available during Summer",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -19941,8 +19942,7 @@
         "coral": 1,
         "giant clam": 1,
         "cowrie": 1
-      },
-      "sources": [ "Balloons", "Isabelle" ]
+      }
     }
   },
   {
@@ -19985,6 +19985,7 @@
       "plural": false,
       "internalIds": [ 4017 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -20138,7 +20139,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -20156,6 +20156,7 @@
     "buy": -1,
     "sell": 425,
     "size": "1x1 ",
+    "source": [ "HHA" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -20198,7 +20199,6 @@
     "concepts": [ "living room", "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "HHA" ],
     "recipe": null
   },
   {
@@ -20241,6 +20241,7 @@
       "plural": false,
       "internalIds": [ 4738 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -20310,7 +20311,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -20328,6 +20328,7 @@
     "buy": -1,
     "sell": 1200,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -20390,13 +20391,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "snazzy pansy wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -20428,8 +20429,7 @@
         "plural": false,
         "internalIds": [ 5748 ]
       },
-      "materials": { "orange pansies": 3, "blue pansies": 3, "yellow pansies": 3 },
-      "sources": [ "All Villagers" ]
+      "materials": { "orange pansies": 3, "blue pansies": 3, "yellow pansies": 3 }
     }
   },
   {
@@ -20447,6 +20447,7 @@
     "buy": -1,
     "sell": 1600,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -20489,13 +20490,13 @@
     "concepts": [ "freezing cold", "fancy" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "snowflake wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons", "Isabelle" ],
       "sourceNotes": "Only available during Winter",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -20527,8 +20528,7 @@
         "plural": false,
         "internalIds": [ 4375 ]
       },
-      "materials": { "snowflake": 4 },
-      "sources": [ "Balloons", "Isabelle" ]
+      "materials": { "snowflake": 4 }
     }
   },
   {
@@ -20571,6 +20571,7 @@
       "plural": false,
       "internalIds": [ 5310 ]
     },
+    "source": [ "Bug-Off" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -20832,7 +20833,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -20850,6 +20850,7 @@
     "buy": -1,
     "sell": 25,
     "size": "2x1 ",
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -20892,7 +20893,6 @@
     "concepts": [ "facility", "horror" ],
     "set": null,
     "series": null,
-    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -20935,6 +20935,7 @@
       "plural": false,
       "internalIds": [ 6827 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 19,
@@ -21219,13 +21220,13 @@
     ],
     "set": null,
     "series": "stars",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "starry garland",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -21257,8 +21258,7 @@
         "plural": false,
         "internalIds": [ 6827 ]
       },
-      "materials": { "star fragment": 10 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 10 }
     }
   },
   {
@@ -21301,6 +21301,7 @@
       "plural": false,
       "internalIds": [ 7190 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -21602,7 +21603,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -21645,6 +21645,7 @@
       "plural": false,
       "internalIds": [ 3584 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -21798,7 +21799,6 @@
     ],
     "set": "study",
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -21816,6 +21816,7 @@
     "buy": 1000,
     "sell": 250,
     "size": "1x1 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -21858,7 +21859,6 @@
     "concepts": [ "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -21901,6 +21901,7 @@
       "plural": false,
       "internalIds": [ 704 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -22128,7 +22129,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -22171,6 +22171,7 @@
       "plural": false,
       "internalIds": [ 4756 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 17,
@@ -22455,7 +22456,6 @@
     ],
     "set": null,
     "series": "throwback",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -22498,6 +22498,7 @@
       "plural": false,
       "internalIds": [ 5718 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -22759,13 +22760,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "timber doorplate",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -22797,8 +22798,7 @@
         "plural": false,
         "internalIds": [ 5718 ]
       },
-      "materials": { "wood": 2, "pink roses": 1 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "wood": 2, "pink roses": 1 }
     }
   },
   {
@@ -22816,6 +22816,7 @@
     "buy": -1,
     "sell": 100,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22858,13 +22859,13 @@
     "concepts": [ "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tree branch wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -22896,8 +22897,7 @@
         "plural": false,
         "internalIds": [ 4727 ]
       },
-      "materials": { "tree branch": 10 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "tree branch": 10 }
     }
   },
   {
@@ -22940,6 +22940,7 @@
       "plural": false,
       "internalIds": [ 6075 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -23019,13 +23020,13 @@
     ],
     "set": null,
     "series": "tree's bounty or leaves ",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tree's bounty mobile",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Fall",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -23057,8 +23058,7 @@
         "plural": false,
         "internalIds": [ 6075 ]
       },
-      "materials": { "pine cone": 2, "acorn": 3, "tree branch": 3 },
-      "sources": [ "Balloons" ]
+      "materials": { "pine cone": 2, "acorn": 3, "tree branch": 3 }
     }
   },
   {
@@ -23076,6 +23076,7 @@
     "buy": -1,
     "sell": 720,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -23138,13 +23139,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tulip wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is tulips",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -23176,8 +23177,7 @@
         "plural": false,
         "internalIds": [ 5670 ]
       },
-      "materials": { "red tulips": 3, "yellow tulips": 3, "white tulips": 3 },
-      "sources": [ "All Villagers", "Tom Nook" ]
+      "materials": { "red tulips": 3, "yellow tulips": 3, "white tulips": 3 }
     }
   },
   {
@@ -23220,6 +23220,7 @@
       "plural": false,
       "internalIds": [ 957 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -23410,7 +23411,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -23453,6 +23453,7 @@
       "plural": false,
       "internalIds": [ 1744 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -23643,7 +23644,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -23686,6 +23686,7 @@
       "plural": false,
       "internalIds": [ 3431 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -23987,7 +23988,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -24030,6 +24030,7 @@
       "plural": false,
       "internalIds": [ 3986 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -24331,7 +24332,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -24374,6 +24374,7 @@
       "plural": false,
       "internalIds": [ 3428 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -24564,7 +24565,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -24607,6 +24607,7 @@
       "plural": false,
       "internalIds": [ 5165 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -24797,7 +24798,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -24840,6 +24840,7 @@
       "plural": false,
       "internalIds": [ 3987 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -25067,7 +25068,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -25110,6 +25110,7 @@
       "plural": false,
       "internalIds": [ 8417 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -25337,7 +25338,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -25355,6 +25355,7 @@
     "buy": 2500,
     "sell": 625,
     "size": "1x1 ",
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -25397,7 +25398,6 @@
     "concepts": [ "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -25440,6 +25440,7 @@
       "plural": false,
       "internalIds": [ 12407 ]
     },
+    "source": [ "Cyrus" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 28,
@@ -25576,7 +25577,6 @@
     ],
     "set": null,
     "series": "wedding",
-    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -25594,6 +25594,7 @@
     "buy": -1,
     "sell": 720,
     "size": "1x1 ",
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -25656,13 +25657,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "windflower wreath",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "All Villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native flower is windflowers",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -25698,8 +25699,7 @@
         "red windflowers": 3,
         "white windflowers": 3,
         "orange windflowers": 3
-      },
-      "sources": [ "All Villagers", "Tom Nook" ]
+      }
     }
   },
   {
@@ -25742,6 +25742,7 @@
       "plural": false,
       "internalIds": [ 3208 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 11,
@@ -25952,13 +25953,13 @@
     ],
     "set": null,
     "series": "wooden block",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden-block wall clock",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -25990,8 +25991,7 @@
         "plural": false,
         "internalIds": [ 3208 ]
       },
-      "materials": { "wooden-block toy": 1, "softwood": 2, "iron nugget": 1 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "wooden-block toy": 1, "softwood": 2, "iron nugget": 1 }
     }
   },
   {
@@ -26034,6 +26034,7 @@
       "plural": false,
       "internalIds": [ 5636 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -26187,13 +26188,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden-plank sign",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Cranky villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -26225,8 +26226,7 @@
         "plural": false,
         "internalIds": [ 5636 ]
       },
-      "materials": { "hardwood": 5 },
-      "sources": [ "Cranky villagers" ]
+      "materials": { "hardwood": 5 }
     }
   },
   {
@@ -26269,6 +26269,7 @@
       "plural": false,
       "internalIds": [ 12741 ]
     },
+    "source": [ "Nintendo", "Nook Shopping" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -26348,7 +26349,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nintendo", "Nook Shopping" ],
     "recipe": null
   }
 ]
