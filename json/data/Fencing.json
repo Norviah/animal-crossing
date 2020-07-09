@@ -7,6 +7,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 2400,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -34,13 +35,13 @@
       "plural": false,
       "internalIds": [ 12630 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Egg bottle", "Egg balloon" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -79,8 +80,7 @@
         "wood egg": 1,
         "sky egg": 1,
         "water egg": 1
-      },
-      "sources": [ "Egg bottle", "Egg balloon" ]
+      }
     }
   },
   {
@@ -91,6 +91,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 960,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -118,13 +119,13 @@
       "plural": false,
       "internalIds": [ 3403 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo lattice fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -156,8 +157,7 @@
         "plural": false,
         "internalIds": [ 3403 ]
       },
-      "materials": { "bamboo piece": 6 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "bamboo piece": 6 }
     }
   },
   {
@@ -168,6 +168,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 1980,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -195,13 +196,13 @@
       "plural": false,
       "internalIds": [ 5213 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "barbed-wire fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -233,8 +234,7 @@
         "plural": false,
         "internalIds": [ 5213 ]
       },
-      "materials": { "hardwood": 3, "iron nugget": 2 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "hardwood": 3, "iron nugget": 2 }
     }
   },
   {
@@ -245,6 +245,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 1200,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -272,13 +273,13 @@
       "plural": false,
       "internalIds": [ 3080 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "brick fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -310,8 +311,7 @@
         "plural": false,
         "internalIds": [ 3080 ]
       },
-      "materials": { "clay": 6 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "clay": 6 }
     }
   },
   {
@@ -322,6 +322,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 720,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -349,13 +350,13 @@
       "plural": false,
       "internalIds": [ 4349 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "corral fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -387,8 +388,7 @@
         "plural": false,
         "internalIds": [ 4349 ]
       },
-      "materials": { "wood": 6 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "wood": 6 }
     }
   },
   {
@@ -399,6 +399,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 720,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -426,13 +427,13 @@
       "plural": false,
       "internalIds": [ 4350 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "country fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -464,8 +465,7 @@
         "plural": false,
         "internalIds": [ 4350 ]
       },
-      "materials": { "hardwood": 6 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "hardwood": 6 }
     }
   },
   {
@@ -476,6 +476,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 55,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -503,13 +504,13 @@
       "plural": false,
       "internalIds": [ 12758 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hedge",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Tom Nook" ],
       "sourceNotes": "Obtained from Tom Nook after completing one Nature Day Nook Miles+ task",
       "versionAdded": "1.2.0",
       "versionUnlocked": "1.2.0",
@@ -541,8 +542,7 @@
         "plural": false,
         "internalIds": [ 12758 ]
       },
-      "materials": { "clump of weeds": 10, "tree branch": 5, "stone": 2 },
-      "sources": [ "Tom Nook" ]
+      "materials": { "clump of weeds": 10, "tree branch": 5, "stone": 2 }
     }
   },
   {
@@ -553,6 +553,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 1200,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -580,13 +581,13 @@
       "plural": false,
       "internalIds": [ 4354 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "imperial fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -618,8 +619,7 @@
         "plural": false,
         "internalIds": [ 4354 ]
       },
-      "materials": { "wood": 6, "softwood": 4 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "wood": 6, "softwood": 4 }
     }
   },
   {
@@ -630,6 +630,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 4500,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -657,13 +658,13 @@
       "plural": false,
       "internalIds": [ 4357 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -695,8 +696,7 @@
         "plural": false,
         "internalIds": [ 4357 ]
       },
-      "materials": { "iron nugget": 6 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "iron nugget": 6 }
     }
   },
   {
@@ -707,6 +707,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 3150,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -734,13 +735,13 @@
       "plural": false,
       "internalIds": [ 5206 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron-and-stone fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -772,8 +773,7 @@
         "plural": false,
         "internalIds": [ 5206 ]
       },
-      "materials": { "stone": 6, "iron nugget": 3 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "stone": 6, "iron nugget": 3 }
     }
   },
   {
@@ -784,6 +784,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 960,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -811,13 +812,13 @@
       "plural": false,
       "internalIds": [ 11712 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lattice fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -849,8 +850,7 @@
         "plural": false,
         "internalIds": [ 11712 ]
       },
-      "materials": { "softwood": 8 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "softwood": 8 }
     }
   },
   {
@@ -861,6 +861,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 3000,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -888,13 +889,13 @@
       "plural": false,
       "internalIds": [ 4352 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rope fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -926,8 +927,7 @@
         "plural": false,
         "internalIds": [ 4352 ]
       },
-      "materials": { "iron nugget": 4 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "iron nugget": 4 }
     }
   },
   {
@@ -938,6 +938,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 720,
+    "source": [ "Crafting", "Tom Nook" ],
     "sourceNotes": "50 fences are given by Tom Nook after completing the three house plots during the main storyline",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -965,13 +966,13 @@
       "plural": false,
       "internalIds": [ 11711 ]
     },
-    "sources": [ "Crafting", "Tom Nook" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "simple wooden fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1003,8 +1004,7 @@
         "plural": false,
         "internalIds": [ 11711 ]
       },
-      "materials": { "softwood": 6 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "softwood": 6 }
     }
   },
   {
@@ -1015,6 +1015,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 960,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1042,13 +1043,13 @@
       "plural": false,
       "internalIds": [ 4358 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "spiky fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1080,8 +1081,7 @@
         "plural": false,
         "internalIds": [ 4358 ]
       },
-      "materials": { "hardwood": 8 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "hardwood": 8 }
     }
   },
   {
@@ -1092,6 +1092,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 600,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1119,13 +1120,13 @@
       "plural": false,
       "internalIds": [ 5212 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1157,8 +1158,7 @@
         "plural": false,
         "internalIds": [ 5212 ]
       },
-      "materials": { "stone": 4 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "stone": 4 }
     }
   },
   {
@@ -1169,6 +1169,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 560,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1196,13 +1197,13 @@
       "plural": false,
       "internalIds": [ 4356 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "straw fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1234,8 +1235,7 @@
         "plural": false,
         "internalIds": [ 4356 ]
       },
-      "materials": { "clump of weeds": 10, "wood": 3 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "clump of weeds": 10, "wood": 3 }
     }
   },
   {
@@ -1246,6 +1246,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 960,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1273,13 +1274,13 @@
       "plural": false,
       "internalIds": [ 3402 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "vertical-board fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1311,8 +1312,7 @@
         "plural": false,
         "internalIds": [ 3402 ]
       },
-      "materials": { "wood": 8 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "wood": 8 }
     }
   },
   {
@@ -1323,6 +1323,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 411,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -1350,13 +1351,13 @@
       "plural": false,
       "internalIds": [ 12894 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wedding fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Harvey" ],
       "sourceNotes": "Only available during Wedding Season",
       "versionAdded": "1.2.0",
       "versionUnlocked": "1.2.1c",
@@ -1388,8 +1389,7 @@
         "plural": false,
         "internalIds": [ 12894 ]
       },
-      "materials": { "iron nugget": 5, "softwood": 3 },
-      "sources": [ "Harvey" ]
+      "materials": { "iron nugget": 5, "softwood": 3 }
     }
   },
   {
@@ -1400,6 +1400,7 @@
     "stackSize": 50,
     "buy": -1,
     "sell": 3300,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1427,13 +1428,13 @@
       "plural": false,
       "internalIds": [ 5207 ]
     },
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "zen fence",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
+      "source": [ "Nook Miles Exchange" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -1465,8 +1466,7 @@
         "plural": false,
         "internalIds": [ 5207 ]
       },
-      "materials": { "iron nugget": 3, "clay": 3, "stone": 3 },
-      "sources": [ "Nook Miles Exchange" ]
+      "materials": { "iron nugget": 3, "clay": 3, "stone": 3 }
     }
   }
 ]

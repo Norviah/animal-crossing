@@ -11,6 +11,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -90,7 +91,6 @@
     },
     "colors": [ "Blue", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -127,6 +127,7 @@
       "plural": false,
       "internalIds": [ 7679, 7680, 7678, 3643 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -298,7 +299,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -335,6 +335,7 @@
       "plural": false,
       "internalIds": [ 7672, 7673, 7675, 3633, 7676, 7674, 7677 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -599,7 +600,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -636,6 +636,7 @@
       "plural": false,
       "internalIds": [ 9449, 9448, 9450, 4507 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -807,7 +808,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -823,6 +823,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 600,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -902,7 +903,6 @@
     },
     "colors": [ "Pink", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Miles Shop" ],
     "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
@@ -918,6 +918,7 @@
     "hhaBasePoints": 251,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Dodo Airlines" ],
     "sourceNotes": "Received in mail from DAL after 100 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -997,7 +998,6 @@
     },
     "colors": [ "Blue", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Dodo Airlines" ],
     "themes": [ "vacation", "work" ],
     "recipe": null
   },
@@ -1013,6 +1013,7 @@
     "hhaBasePoints": 251,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Dodo Airlines" ],
     "sourceNotes": "Received in mail from DAL after 250 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1113,7 +1114,6 @@
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Cool" ],
-    "sources": [ "Dodo Airlines" ],
     "themes": [ "outdoorsy", "vacation", "work" ],
     "recipe": null
   },
@@ -1129,6 +1129,7 @@
     "hhaBasePoints": 251,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Dodo Airlines" ],
     "sourceNotes": "Received in mail from DAL after 5 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1229,7 +1230,6 @@
     },
     "colors": [ "Blue", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Dodo Airlines" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -1245,6 +1245,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 600,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0",
@@ -1324,7 +1325,6 @@
     },
     "colors": [ "Green", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Miles Shop" ],
     "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
@@ -1361,6 +1361,7 @@
       "plural": false,
       "internalIds": [ 11721, 11722, 11725, 11724, 11723, 9876 ]
     },
+    "source": [ "Labelle" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -1519,7 +1520,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Labelle" ],
     "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -1556,6 +1556,7 @@
       "plural": false,
       "internalIds": [ 11716, 11717, 11720, 11719, 11718, 9875 ]
     },
+    "source": [ "Labelle" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -1714,7 +1715,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Labelle" ],
     "themes": [ "party", "comfy", "theatrical" ],
     "recipe": null
   },
@@ -1730,6 +1730,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1809,7 +1810,6 @@
     },
     "colors": [ "White", "Blue" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -1846,6 +1846,7 @@
       "plural": false,
       "internalIds": [ 12145, 12146, 8762, 12142, 12141, 12143, 12144, 9614 ]
     },
+    "source": [ "Mom" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -2040,7 +2041,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Mom" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -2077,6 +2077,7 @@
       "plural": false,
       "internalIds": [ 9615, 12157, 8763, 12147, 12159, 12160, 12158, 12156 ]
     },
+    "source": [ "Mom" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -2287,7 +2288,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Mom" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -2303,6 +2303,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2382,7 +2383,6 @@
     },
     "colors": [ "Red", "Light blue" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -2398,6 +2398,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2477,7 +2478,6 @@
     },
     "colors": [ "Blue", "Red" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -2493,6 +2493,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2572,7 +2573,6 @@
     },
     "colors": [ "Green", "Orange" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -2588,6 +2588,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2667,7 +2668,6 @@
     },
     "colors": [ "Pink", "Red" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -2683,6 +2683,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 600,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2762,7 +2763,6 @@
     },
     "colors": [ "White", "Green" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Miles Shop" ],
     "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
@@ -2778,6 +2778,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 800,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2857,7 +2858,6 @@
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Miles Shop" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -2873,6 +2873,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 600,
+    "source": [ "Nook Miles Shop" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2952,7 +2953,6 @@
     },
     "colors": [ "Yellow", "Green" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Miles Shop" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -2968,6 +2968,7 @@
     "hhaBasePoints": 178,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Promotion" ],
     "sourceNotes": "Link Nintendo Account to Pocket Camp, then redeem a 16-digit code on your Nintendo Switch",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0",
@@ -3026,7 +3027,6 @@
     },
     "colors": [ "White", "Blue" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Promotion" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -3063,6 +3063,7 @@
       "plural": false,
       "internalIds": [ 8548, 8547, 3700 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -3203,7 +3204,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -3240,6 +3240,7 @@
       "plural": false,
       "internalIds": [ 9538, 5289 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -3349,7 +3350,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -3386,6 +3386,7 @@
       "plural": false,
       "internalIds": [ 4366, 7556, 7558, 7554, 7555, 7559, 7557 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -3650,7 +3651,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -3687,6 +3687,7 @@
       "plural": false,
       "internalIds": [ 8451, 8449, 4465, 8450 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -3837,7 +3838,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -3874,6 +3874,7 @@
       "plural": false,
       "internalIds": [ 12066, 8198 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -3983,7 +3984,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -3999,6 +3999,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4078,7 +4079,6 @@
     },
     "colors": [ "Light blue", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -4115,6 +4115,7 @@
       "plural": false,
       "internalIds": [ 9308, 9309, 4793 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4255,7 +4256,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -4292,6 +4292,7 @@
       "plural": false,
       "internalIds": [ 9600, 9597, 3228, 9595, 9598, 9596, 9599, 9601 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4587,7 +4588,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "work" ],
     "recipe": null
   },
@@ -4624,6 +4624,7 @@
       "plural": false,
       "internalIds": [ 7748, 7742, 7744, 7745, 7747, 7743, 3579, 7746 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4903,7 +4904,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -4940,6 +4940,7 @@
       "plural": false,
       "internalIds": [ 8483, 8482, 8480, 8484, 3262, 8481 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -5194,7 +5195,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -5231,6 +5231,7 @@
       "plural": false,
       "internalIds": [ 7199, 7201, 3244, 7198, 7200, 7202 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -5485,7 +5486,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "comfy", "sporty" ],
     "recipe": null
   },
@@ -5522,6 +5522,7 @@
       "plural": false,
       "internalIds": [ 4710, 8554, 8555 ]
     },
+    "source": [ "Recycle bin" ],
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -5662,7 +5663,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Recycle bin" ],
     "themes": [ "goth", "comfy" ],
     "recipe": null
   },
@@ -5699,6 +5699,7 @@
       "plural": false,
       "internalIds": [ 9396, 9394, 9395, 9393, 9397, 4419 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -5932,7 +5933,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -5969,6 +5969,7 @@
       "plural": false,
       "internalIds": [ 8044, 8038, 8040, 8042, 8039, 8043, 8041, 2727 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -6264,7 +6265,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -6280,6 +6280,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6359,7 +6360,6 @@
     },
     "colors": [ "Green", "Brown" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -6375,6 +6375,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6454,7 +6455,6 @@
     },
     "colors": [ "Blue", "Yellow" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -6491,6 +6491,7 @@
       "plural": false,
       "internalIds": [ 3198, 8561, 8563, 8562, 8559, 8560 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -6745,7 +6746,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "theatrical" ],
     "recipe": null
   },
@@ -6782,6 +6782,7 @@
       "plural": false,
       "internalIds": [ 8205, 12100, 12101, 12099, 12102 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -6984,7 +6985,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -7021,6 +7021,7 @@
       "plural": false,
       "internalIds": [ 8007, 8006, 4598, 8005 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -7213,7 +7214,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "comfy" ],
     "recipe": null
   },
@@ -7250,6 +7250,7 @@
       "plural": false,
       "internalIds": [ 3705, 8319, 8320, 8321, 8315, 8318, 8316, 8317 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -7566,7 +7567,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
@@ -7603,6 +7603,7 @@
       "plural": false,
       "internalIds": [ 12098, 8206 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -7712,7 +7713,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
@@ -7749,6 +7749,7 @@
       "plural": false,
       "internalIds": [ 8566, 4401, 8567, 8568 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -7920,7 +7921,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -7936,6 +7936,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8015,7 +8016,6 @@
     },
     "colors": [ "Yellow", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -8031,6 +8031,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8110,7 +8111,6 @@
     },
     "colors": [ "White", "Red" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -8147,6 +8147,7 @@
       "plural": false,
       "internalIds": [ 11956, 9831 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -8277,7 +8278,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -8314,6 +8314,7 @@
       "plural": false,
       "internalIds": [ 3698, 9439, 9438, 9441, 9442, 9437, 9443, 9440 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -8609,7 +8610,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy", "sporty" ],
     "recipe": null
   },
@@ -8625,6 +8625,7 @@
     "hhaBasePoints": 501,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8704,7 +8705,6 @@
     },
     "colors": [ "Black", "Red" ],
     "styles": [ "Cool" ],
-    "sources": [ "Bug-Off" ],
     "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
@@ -8741,6 +8741,7 @@
       "plural": false,
       "internalIds": [ 7998, 5980, 7999 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -8881,7 +8882,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -8918,6 +8918,7 @@
       "plural": false,
       "internalIds": [ 8279, 4363, 8281, 8280, 8282 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -9162,7 +9163,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -9199,6 +9199,7 @@
       "plural": false,
       "internalIds": [ 3178, 8264, 8263, 8265 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -9370,7 +9371,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -9407,6 +9407,7 @@
       "plural": false,
       "internalIds": [ 4402, 8569, 8570 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -9547,7 +9548,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -9584,6 +9584,7 @@
       "plural": false,
       "internalIds": [ 3257, 8422, 12353, 8421, 8420, 8423, 12352 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -9848,7 +9849,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -9864,6 +9864,7 @@
     "hhaBasePoints": 178,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Promotion" ],
     "sourceNotes": "Link Nintendo Account to Pocket Camp, then redeem a 16-digit code on your Nintendo Switch",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0",
@@ -9943,7 +9944,6 @@
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Promotion" ],
     "themes": [ "outdoorsy", "comfy" ],
     "recipe": null
   },
@@ -9980,6 +9980,7 @@
       "plural": false,
       "internalIds": [ 8018, 8019, 8016, 3578, 8015, 8017 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -10213,7 +10214,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -10250,6 +10250,7 @@
       "plural": false,
       "internalIds": [ 4503, 7389, 7384, 7386, 7387, 7385, 7388, 7383 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -10529,7 +10530,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -10566,6 +10566,7 @@
       "plural": false,
       "internalIds": [ 8229, 8230, 3233 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -10706,7 +10707,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "theatrical" ],
     "recipe": null
   },
@@ -10743,6 +10743,7 @@
       "plural": false,
       "internalIds": [ 8440, 8438, 8439, 3941 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -10893,7 +10894,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -10930,6 +10930,7 @@
       "plural": false,
       "internalIds": [ 4553, 8002, 8003, 8004 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -11101,7 +11102,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -11138,6 +11138,7 @@
       "plural": false,
       "internalIds": [ 9593, 3177, 9591, 9590, 9589, 9588, 9592 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -11381,7 +11382,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -11418,6 +11418,7 @@
       "plural": false,
       "internalIds": [ 8437, 8436, 8435, 3939 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -11568,7 +11569,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -11584,6 +11584,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11663,7 +11664,6 @@
     },
     "colors": [ "White", "Light blue" ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -11679,6 +11679,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11758,7 +11759,6 @@
     },
     "colors": [ "Red", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -11795,6 +11795,7 @@
       "plural": false,
       "internalIds": [ 8460, 8458, 8461, 8459, 4601 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -11976,7 +11977,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -12013,6 +12013,7 @@
       "plural": false,
       "internalIds": [ 3663, 8434, 8433 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -12153,7 +12154,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -12190,6 +12190,7 @@
       "plural": false,
       "internalIds": [ 8510, 3690 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -12278,7 +12279,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -12315,6 +12315,7 @@
       "plural": false,
       "internalIds": [ 7755, 7753, 7752, 7754, 4306 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -12496,7 +12497,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -12533,6 +12533,7 @@
       "plural": false,
       "internalIds": [ 8493, 8489, 8491, 8492, 8490, 3316 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -12745,7 +12746,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -12782,6 +12782,7 @@
       "plural": false,
       "internalIds": [ 7640, 7639, 7643, 7641, 4613, 7642 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -12898,7 +12899,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -12935,6 +12935,7 @@
       "plural": false,
       "internalIds": [ 8103, 8098, 3197, 8099, 8100, 8102, 8097, 8101 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -13230,7 +13231,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "party", "theatrical" ],
     "recipe": null
   },
@@ -13267,6 +13267,7 @@
       "plural": false,
       "internalIds": [ 9290, 3680, 9288, 9289 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -13438,7 +13439,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -13475,6 +13475,7 @@
       "plural": false,
       "internalIds": [ 9451, 9454, 9453, 9452, 4576 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -13677,7 +13678,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -13714,6 +13714,7 @@
       "plural": false,
       "internalIds": [ 3258, 9388, 9387, 9392, 9390, 9389, 9391, 9386 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -13897,7 +13898,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -13934,6 +13934,7 @@
       "plural": false,
       "internalIds": [ 7617, 5317, 7619, 7618 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -14105,7 +14106,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "theatrical" ],
     "recipe": null
   },
@@ -14121,6 +14121,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14221,7 +14222,6 @@
     },
     "colors": [ "Yellow", "Black" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "goth", "comfy", "vacation" ],
     "recipe": null
   },
@@ -14258,6 +14258,7 @@
       "plural": false,
       "internalIds": [ 3209, 11422, 11421, 11419, 11420 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -14460,7 +14461,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -14497,6 +14497,7 @@
       "plural": false,
       "internalIds": [ 11424, 11426, 11425, 3227, 11423 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -14704,7 +14705,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "vacation" ],
     "recipe": null
   },
@@ -14741,6 +14741,7 @@
       "plural": false,
       "internalIds": [ 9231, 4681, 9232 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -14860,7 +14861,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -14897,6 +14897,7 @@
       "plural": false,
       "internalIds": [ 12091, 12086, 9815, 12088, 12089, 12087, 12090 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -15140,7 +15141,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -15177,6 +15177,7 @@
       "plural": false,
       "internalIds": [ 7794, 3174 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -15233,7 +15234,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -15270,6 +15270,7 @@
       "plural": false,
       "internalIds": [ 9828, 11953, 11952, 11954 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -15441,7 +15442,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale" ],
     "recipe": null
   },
@@ -15478,6 +15478,7 @@
       "plural": false,
       "internalIds": [ 11926, 11922, 11923, 9775, 11925, 11924 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -15690,7 +15691,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy" ],
     "recipe": null
   },
@@ -15727,6 +15727,7 @@
       "plural": false,
       "internalIds": [ 6029, 8287, 8286, 8285 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -15919,7 +15920,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "theatrical", "work" ],
     "recipe": null
   },
@@ -15956,6 +15956,7 @@
       "plural": false,
       "internalIds": [ 8310, 8308, 8309, 8313, 8312, 8314, 8311, 2778 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -16251,7 +16252,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -16288,6 +16288,7 @@
       "plural": false,
       "internalIds": [ 4735, 8336, 8334, 8335 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -16395,7 +16396,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -16411,6 +16411,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16469,7 +16470,6 @@
     },
     "colors": [ "Black", "Yellow" ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy" ],
     "recipe": null
   },
@@ -16506,6 +16506,7 @@
       "plural": false,
       "internalIds": [ 3635, 8001 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -16615,7 +16616,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "comfy" ],
     "recipe": null
   },
@@ -16652,6 +16652,7 @@
       "plural": false,
       "internalIds": [ 2823, 8337, 8339, 8338, 8340 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -16875,7 +16876,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -16912,6 +16912,7 @@
       "plural": false,
       "internalIds": [ 8409, 8407, 8408, 4610 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -17083,7 +17084,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -17099,6 +17099,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -17178,7 +17179,6 @@
     },
     "colors": [ "Black", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -17215,6 +17215,7 @@
       "plural": false,
       "internalIds": [ 8111, 3269, 8109, 8110 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -17365,7 +17366,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal" ],
     "recipe": null
   },
@@ -17402,6 +17402,7 @@
       "plural": false,
       "internalIds": [ 5441, 8092, 8094, 8093, 8091, 8095, 8090 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -17687,7 +17688,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -17724,6 +17724,7 @@
       "plural": false,
       "internalIds": [ 7638, 5262, 7636, 7637 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -17895,7 +17896,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -17932,6 +17932,7 @@
       "plural": false,
       "internalIds": [ 9432, 9431, 9433, 3264 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -18103,7 +18104,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -18140,6 +18140,7 @@
       "plural": false,
       "internalIds": [ 7648, 4417 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -18228,7 +18229,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -18265,6 +18265,7 @@
       "plural": false,
       "internalIds": [ 9225, 9224, 9222, 9223, 3222 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -18467,7 +18468,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -18483,6 +18483,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18583,7 +18584,6 @@
     },
     "colors": [ "Blue", "Red" ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "vacation", "work" ],
     "recipe": null
   },
@@ -18599,6 +18599,7 @@
     "hhaBasePoints": 501,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Fishing Tourney" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18678,7 +18679,6 @@
     },
     "colors": [ "Beige", "Yellow" ],
     "styles": [ "Simple" ],
-    "sources": [ "Fishing Tourney" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -18715,6 +18715,7 @@
       "plural": false,
       "internalIds": [ 8620, 3219, 8621, 8618, 8623, 8622, 8617, 8619 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -19010,7 +19011,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -19047,6 +19047,7 @@
       "plural": false,
       "internalIds": [ 8048, 8050, 8045, 8047, 8049, 4205, 8046, 8051 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -19342,7 +19343,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -19358,6 +19358,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -19437,7 +19438,6 @@
     },
     "colors": [ "Orange", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -19453,6 +19453,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -19532,7 +19533,6 @@
     },
     "colors": [ "Red", "Black" ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -19569,6 +19569,7 @@
       "plural": false,
       "internalIds": [ 3225, 8945, 8946, 8948, 8947 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -19771,7 +19772,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -19808,6 +19808,7 @@
       "plural": false,
       "internalIds": [ 5685, 7857 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -19896,7 +19897,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -19933,6 +19933,7 @@
       "plural": false,
       "internalIds": [ 3265, 8104, 8106, 8108, 8107, 8105 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -20187,7 +20188,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -20224,6 +20224,7 @@
       "plural": false,
       "internalIds": [ 8564, 8565, 4207 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -20364,7 +20365,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -20401,6 +20401,7 @@
       "plural": false,
       "internalIds": [ 7843, 3597, 7844, 7842 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -20572,7 +20573,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -20609,6 +20609,7 @@
       "plural": false,
       "internalIds": [ 4446, 7849, 7848 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -20749,7 +20750,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -20786,6 +20786,7 @@
       "plural": false,
       "internalIds": [ 9398, 9404, 9400, 9403, 9399, 4447, 9402, 9401 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -21081,7 +21082,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -21097,6 +21097,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -21176,7 +21177,6 @@
     },
     "colors": [ "Purple", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -21192,6 +21192,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -21271,7 +21272,6 @@
     },
     "colors": [ "Beige", "Green" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -21308,6 +21308,7 @@
       "plural": false,
       "internalIds": [ 8508, 8506, 8507, 4567 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -21479,7 +21480,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "vacation" ],
     "recipe": null
   },
@@ -21516,6 +21516,7 @@
       "plural": false,
       "internalIds": [ 8356, 4320, 8357, 8358 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -21708,7 +21709,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -21745,6 +21745,7 @@
       "plural": false,
       "internalIds": [ 8517, 8516, 4212, 8515, 8514 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -21947,7 +21948,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -21984,6 +21984,7 @@
       "plural": false,
       "internalIds": [ 3203, 8076, 8077, 8075 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -22197,7 +22198,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "comfy", "vacation" ],
     "recipe": null
   },
@@ -22234,6 +22234,7 @@
       "plural": false,
       "internalIds": [ 8402, 3676, 8401, 8400 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -22426,7 +22427,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -22463,6 +22463,7 @@
       "plural": false,
       "internalIds": [ 8973, 6811, 8975, 8974, 8971, 8977, 8972, 8976 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -22737,7 +22738,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -22774,6 +22774,7 @@
       "plural": false,
       "internalIds": [ 8429, 4327 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -22883,7 +22884,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "party", "comfy" ],
     "recipe": null
   },
@@ -22920,6 +22920,7 @@
       "plural": false,
       "internalIds": [ 9226, 9228, 9227, 4286 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -23070,7 +23071,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -23107,6 +23107,7 @@
       "plural": false,
       "internalIds": [ 3140, 8683, 8681, 8682 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -23278,7 +23279,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -23315,6 +23315,7 @@
       "plural": false,
       "internalIds": [ 11958, 9832, 11957 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -23476,7 +23477,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -23513,6 +23513,7 @@
       "plural": false,
       "internalIds": [ 4488, 9229, 9230 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -23653,7 +23654,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "theatrical" ],
     "recipe": null
   },
@@ -23690,6 +23690,7 @@
       "plural": false,
       "internalIds": [ 9434, 3687, 9436, 9435 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -23903,7 +23904,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
@@ -23940,6 +23940,7 @@
       "plural": false,
       "internalIds": [ 8530, 8531, 5926 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -24059,7 +24060,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -24096,6 +24096,7 @@
       "plural": false,
       "internalIds": [ 10917, 3179, 10916, 10915 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -24267,7 +24268,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy", "sporty" ],
     "recipe": null
   },
@@ -24283,6 +24283,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -24362,7 +24363,6 @@
     },
     "colors": [ "Black", "Orange" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -24399,6 +24399,7 @@
       "plural": false,
       "internalIds": [ 11789, 11790, 11793, 2746, 11792, 11791 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -24653,7 +24654,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "comfy" ],
     "recipe": null
   },
@@ -24669,6 +24669,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Seasonal" ],
     "sourceNotes": "Only available during the month International Children's Day occurs",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -24748,7 +24749,6 @@
     },
     "colors": [ "Red", "Light blue" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Seasonal" ],
     "themes": [ "fairy tale", "theatrical" ],
     "recipe": null
   },
@@ -24785,6 +24785,7 @@
       "plural": false,
       "internalIds": [ 9197, 3164, 9199, 9198 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -24935,7 +24936,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -24972,6 +24972,7 @@
       "plural": false,
       "internalIds": [ 9201, 9200, 9202, 3254, 9203 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -25195,7 +25196,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -25211,6 +25211,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -25269,7 +25270,6 @@
     },
     "colors": [ "Red", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy" ],
     "recipe": null
   },
@@ -25306,6 +25306,7 @@
       "plural": false,
       "internalIds": [ 9603, 4429, 9605, 9602, 9604 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -25508,7 +25509,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "work" ],
     "recipe": null
   },
@@ -25545,6 +25545,7 @@
       "plural": false,
       "internalIds": [ 8299, 8193 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -25675,7 +25676,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "comfy" ],
     "recipe": null
   },
@@ -25712,6 +25712,7 @@
       "plural": false,
       "internalIds": [ 8513, 3694, 8511, 8512 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -25888,7 +25889,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "work" ],
     "recipe": null
   },
@@ -25904,6 +25904,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -25983,7 +25984,6 @@
     },
     "colors": [ "Black", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -26020,6 +26020,7 @@
       "plural": false,
       "internalIds": [ 8544, 3674, 8545, 8546 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -26175,7 +26176,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -26191,6 +26191,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -26270,7 +26271,6 @@
     },
     "colors": [ "Beige", "Brown" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -26307,6 +26307,7 @@
       "plural": false,
       "internalIds": [ 4558, 8405, 8406 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -26447,7 +26448,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -26463,6 +26463,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -26542,7 +26543,6 @@
     },
     "colors": [ "Blue", "Yellow" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -26558,6 +26558,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -26637,7 +26638,6 @@
     },
     "colors": [ "Yellow", "Orange" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -26674,6 +26674,7 @@
       "plural": false,
       "internalIds": [ 7846, 5382, 7847 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -26814,7 +26815,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "party", "comfy" ],
     "recipe": null
   },
@@ -26851,6 +26851,7 @@
       "plural": false,
       "internalIds": [ 4486, 9444, 9447, 9446, 9445 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -27053,7 +27054,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
@@ -27090,6 +27090,7 @@
       "plural": false,
       "internalIds": [ 9037, 9038, 4792, 9036 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -27261,7 +27262,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -27298,6 +27298,7 @@
       "plural": false,
       "internalIds": [ 3575, 8426, 8424, 8425 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -27469,7 +27470,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -27506,6 +27506,7 @@
       "plural": false,
       "internalIds": [ 3057, 10898, 10897, 10899 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -27592,7 +27593,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -27608,6 +27608,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -27687,7 +27688,6 @@
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -27724,6 +27724,7 @@
       "plural": false,
       "internalIds": [ 9131, 9133, 9134, 9132, 2781 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -27926,7 +27927,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "sporty" ],
     "recipe": null
   },
@@ -27963,6 +27963,7 @@
       "plural": false,
       "internalIds": [ 7581, 4519, 7582, 7583 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -28134,7 +28135,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -28171,6 +28171,7 @@
       "plural": false,
       "internalIds": [ 3811, 8581 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -28343,7 +28344,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "formal", "party", "vacation" ],
     "recipe": null
   },
@@ -28380,6 +28380,7 @@
       "plural": false,
       "internalIds": [ 3239, 8078, 8079, 8080, 8081 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -28624,7 +28625,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "comfy", "vacation" ],
     "recipe": null
   },
@@ -28661,6 +28661,7 @@
       "plural": false,
       "internalIds": [ 8549, 8551, 8550, 3804 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -28832,7 +28833,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -28869,6 +28869,7 @@
       "plural": false,
       "internalIds": [ 8073, 8068, 8069, 2670, 8071, 8072, 8070, 8074 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -29185,7 +29186,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "comfy", "vacation" ],
     "recipe": null
   },
@@ -29222,6 +29222,7 @@
       "plural": false,
       "internalIds": [ 8304, 8302, 8199, 8303 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -29393,7 +29394,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -29430,6 +29430,7 @@
       "plural": false,
       "internalIds": [ 8305, 8306, 2401, 8307 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -29622,7 +29623,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -29659,6 +29659,7 @@
       "plural": false,
       "internalIds": [ 8967, 8964, 8966, 4615, 8963, 8965 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -29892,7 +29893,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "vacation" ],
     "recipe": null
   },
@@ -29929,6 +29929,7 @@
       "plural": false,
       "internalIds": [ 8296, 8202 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -30038,7 +30039,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -30075,6 +30075,7 @@
       "plural": false,
       "internalIds": [ 8432, 8431, 8430, 4717 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -30225,7 +30226,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -30262,6 +30262,7 @@
       "plural": false,
       "internalIds": [ 7451, 3231, 7450, 7449 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -30454,7 +30455,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "formal", "work" ],
     "recipe": null
   },
@@ -30470,6 +30470,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -30549,7 +30550,6 @@
     },
     "colors": [ "Green", "Yellow" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -30586,6 +30586,7 @@
       "plural": false,
       "internalIds": [ 4422, 9303 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -30674,7 +30675,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -30690,6 +30690,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -30811,7 +30812,6 @@
     },
     "colors": [ "Black", "Gray" ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -30848,6 +30848,7 @@
       "plural": false,
       "internalIds": [ 4157, 3255, 4156, 4155 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -31019,7 +31020,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -31056,6 +31056,7 @@
       "plural": false,
       "internalIds": [ 8633, 8634, 4798 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -31175,7 +31176,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy" ],
     "recipe": null
   },
@@ -31212,6 +31212,7 @@
       "plural": false,
       "internalIds": [ 4267, 8055, 8056, 8054, 8052, 8057, 8058, 8053 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -31507,7 +31508,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -31544,6 +31544,7 @@
       "plural": false,
       "internalIds": [ 5290, 8410, 8412, 8411 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -31715,7 +31716,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "theatrical" ],
     "recipe": null
   },
@@ -31731,6 +31731,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -31810,7 +31811,6 @@
     },
     "colors": [ "Pink", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -31826,6 +31826,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -31905,7 +31906,6 @@
     },
     "colors": [ "Orange", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -31942,6 +31942,7 @@
       "plural": false,
       "internalIds": [ 7420, 7422, 7425, 7419, 7424, 3171, 7421, 7423 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -32263,7 +32264,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -32300,6 +32300,7 @@
       "plural": false,
       "internalIds": [ 7790, 7791, 3350 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -32419,7 +32420,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -32456,6 +32456,7 @@
       "plural": false,
       "internalIds": [ 4285, 8520, 8518, 8519 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -32627,7 +32628,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -32664,6 +32664,7 @@
       "plural": false,
       "internalIds": [ 9234, 9233, 5855 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -32804,7 +32805,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -32841,6 +32841,7 @@
       "plural": false,
       "internalIds": [ 5292, 7620, 7621 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -32960,7 +32961,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -32976,6 +32976,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -33055,7 +33056,6 @@
     },
     "colors": [ "Yellow", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -33092,6 +33092,7 @@
       "plural": false,
       "internalIds": [ 4715, 8522, 8521, 8523 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -33247,7 +33248,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -33284,6 +33284,7 @@
       "plural": false,
       "internalIds": [ 8428, 8427, 4154 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -33445,7 +33446,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
@@ -33482,6 +33482,7 @@
       "plural": false,
       "internalIds": [ 8447, 8445, 8448, 8446, 8444, 4420 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -33694,7 +33695,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -33731,6 +33731,7 @@
       "plural": false,
       "internalIds": [ 8463, 8462, 4605 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -33850,7 +33851,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -33887,6 +33887,7 @@
       "plural": false,
       "internalIds": [ 4174, 4172, 2782, 4173 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -34037,7 +34038,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -34074,6 +34074,7 @@
       "plural": false,
       "internalIds": [ 4247, 8582, 8584, 8585, 8583 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -34276,7 +34277,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "vacation" ],
     "recipe": null
   },
@@ -34313,6 +34313,7 @@
       "plural": false,
       "internalIds": [ 6819, 9773, 9774, 6820, 6821, 3237, 9772 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -34577,7 +34578,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
@@ -34614,6 +34614,7 @@
       "plural": false,
       "internalIds": [ 12083, 12085, 9827, 12084 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -34742,7 +34743,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
@@ -34779,6 +34779,7 @@
       "plural": false,
       "internalIds": [ 4565, 9304, 9305 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -34919,7 +34920,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -34956,6 +34956,7 @@
       "plural": false,
       "internalIds": [ 8020, 4289, 8021 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -35138,7 +35139,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "party", "work" ],
     "recipe": null
   },
@@ -35175,6 +35175,7 @@
       "plural": false,
       "internalIds": [ 12020, 10909, 12035 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -35294,7 +35295,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -35331,6 +35331,7 @@
       "plural": false,
       "internalIds": [ 4291, 8349, 8354, 8353, 8355, 8351, 8350, 8352 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -35626,7 +35627,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -35663,6 +35663,7 @@
       "plural": false,
       "internalIds": [ 8542, 8543, 8538, 8537, 8539, 8541, 8540, 3172 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -35979,7 +35980,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "vacation", "work" ],
     "recipe": null
   },
@@ -36016,6 +36016,7 @@
       "plural": false,
       "internalIds": [ 8008, 4766, 8009 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -36177,7 +36178,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "comfy" ],
     "recipe": null
   },
@@ -36214,6 +36214,7 @@
       "plural": false,
       "internalIds": [ 4368, 8475, 8474, 8476 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -36385,7 +36386,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale" ],
     "recipe": null
   },
@@ -36422,6 +36422,7 @@
       "plural": false,
       "internalIds": [ 7861, 7859, 7860, 7858, 4661 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -36608,7 +36609,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale" ],
     "recipe": null
   },
@@ -36645,6 +36645,7 @@
       "plural": false,
       "internalIds": [ 8244, 8243, 4433, 8245, 8242 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -36868,7 +36869,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "formal", "party" ],
     "recipe": null
   },
@@ -36905,6 +36905,7 @@
       "plural": false,
       "internalIds": [ 7853, 4680, 7850, 7852, 7851 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -37091,7 +37092,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -37128,6 +37128,7 @@
       "plural": false,
       "internalIds": [ 12162, 9821, 12161 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -37268,7 +37269,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -37305,6 +37305,7 @@
       "plural": false,
       "internalIds": [ 12163, 12164, 9823 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -37445,7 +37446,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -37461,6 +37461,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -37540,7 +37541,6 @@
     },
     "colors": [ "Green", "White" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -37577,6 +37577,7 @@
       "plural": false,
       "internalIds": [ 8325, 8324, 4277, 8323, 8322 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -37763,7 +37764,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -37800,6 +37800,7 @@
       "plural": false,
       "internalIds": [ 8527, 8526, 8528, 5349 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -37992,7 +37993,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
@@ -38029,6 +38029,7 @@
       "plural": false,
       "internalIds": [ 7610, 4521, 7607, 7608, 7609 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -38215,7 +38216,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -38252,6 +38252,7 @@
       "plural": false,
       "internalIds": [ 9297, 9300, 9298, 4220, 9299 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -38417,7 +38418,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -38454,6 +38454,7 @@
       "plural": false,
       "internalIds": [ 4728, 8331, 8333, 8332, 8330 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -38656,7 +38657,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -38672,6 +38672,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -38751,7 +38752,6 @@
     },
     "colors": [ "Light blue", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -38788,6 +38788,7 @@
       "plural": false,
       "internalIds": [ 8399, 8398, 2674, 8396, 8397 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -38990,7 +38991,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -39027,6 +39027,7 @@
       "plural": false,
       "internalIds": [ 7644, 4595, 7645, 7646, 7647 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -39229,7 +39230,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -39266,6 +39266,7 @@
       "plural": false,
       "internalIds": [ 8294, 8292, 8291, 3170, 8288, 8289, 8290, 8293 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -39561,7 +39562,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -39598,6 +39598,7 @@
       "plural": false,
       "internalIds": [ 7741, 4566, 7740 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -39738,7 +39739,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -39775,6 +39775,7 @@
       "plural": false,
       "internalIds": [ 9378, 9374, 9377, 9375, 9376, 9372, 3246, 9373 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -40070,7 +40071,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -40107,6 +40107,7 @@
       "plural": false,
       "internalIds": [ 8453, 4469, 8454, 8452 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -40283,7 +40284,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "party" ],
     "recipe": null
   },
@@ -40320,6 +40320,7 @@
       "plural": false,
       "internalIds": [ 7855, 7854, 7856, 4575 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -40533,7 +40534,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "party", "comfy", "theatrical" ],
     "recipe": null
   },
@@ -40570,6 +40570,7 @@
       "plural": false,
       "internalIds": [ 4675, 8088, 8089 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -40752,7 +40753,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "fairy tale", "comfy", "vacation" ],
     "recipe": null
   },
@@ -40768,6 +40768,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -40868,7 +40869,6 @@
     },
     "colors": [ "Red", "White" ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -40905,6 +40905,7 @@
       "plural": false,
       "internalIds": [ 9594, 3212 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -40993,7 +40994,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -41030,6 +41030,7 @@
       "plural": false,
       "internalIds": [ 4435, 9476 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -41118,7 +41119,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -41155,6 +41155,7 @@
       "plural": false,
       "internalIds": [ 3055, 7565, 7566, 7560, 7562, 7561, 7564, 7563 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -41450,7 +41451,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -41487,6 +41487,7 @@
       "plural": false,
       "internalIds": [ 7568, 7567, 5621 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -41648,7 +41649,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -41685,6 +41685,7 @@
       "plural": false,
       "internalIds": [ 8148, 8146, 5130, 8149, 8147 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -41887,7 +41888,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "theatrical", "work" ],
     "recipe": null
   },
@@ -41924,6 +41924,7 @@
       "plural": false,
       "internalIds": [ 4365, 7550, 7552, 7548, 7549, 7553, 7551 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -42188,7 +42189,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -42225,6 +42225,7 @@
       "plural": false,
       "internalIds": [ 7434, 3147, 7433 ]
     },
+    "source": [ "Gullivarrr" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -42407,7 +42408,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Gullivarrr" ],
     "themes": [ "fairy tale", "formal", "goth", "theatrical" ],
     "recipe": null
   },
@@ -42444,6 +42444,7 @@
       "plural": false,
       "internalIds": [ 9218, 4407 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -42553,7 +42554,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "vacation", "work" ],
     "recipe": null
   },
@@ -42569,6 +42569,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -42648,7 +42649,6 @@
     },
     "colors": [ "Brown", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -42685,6 +42685,7 @@
       "plural": false,
       "internalIds": [ 8529, 5440 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -42794,7 +42795,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -42831,6 +42831,7 @@
       "plural": false,
       "internalIds": [ 9295, 3688, 9296, 9293, 9294, 9291, 9292 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -43095,7 +43096,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -43132,6 +43132,7 @@
       "plural": false,
       "internalIds": [ 3144, 8341, 8343, 8342, 8344 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -43355,7 +43356,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -43392,6 +43392,7 @@
       "plural": false,
       "internalIds": [ 9137, 3248, 9140, 9136, 9139, 9135, 9138 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -43619,7 +43620,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -43656,6 +43656,7 @@
       "plural": false,
       "internalIds": [ 9130, 9127, 9129, 2672, 9128 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -43858,7 +43859,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -43895,6 +43895,7 @@
       "plural": false,
       "internalIds": [ 2725, 2730, 4151 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -44035,7 +44036,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -44072,6 +44072,7 @@
       "plural": false,
       "internalIds": [ 3056, 7975, 7969, 7973, 7972, 7970, 7974, 7971 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -44388,7 +44389,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "sporty" ],
     "recipe": null
   },
@@ -44425,6 +44425,7 @@
       "plural": false,
       "internalIds": [ 9501, 9499, 8203, 9500, 9498 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -44627,7 +44628,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -44643,6 +44643,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -44722,7 +44723,6 @@
     },
     "colors": [ "Green", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -44759,6 +44759,7 @@
       "plural": false,
       "internalIds": [ 7603, 7604, 7602, 7600, 4448, 7601 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -44976,7 +44977,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -45013,6 +45013,7 @@
       "plural": false,
       "internalIds": [ 8208, 12200, 12199 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -45174,7 +45175,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "goth", "comfy" ],
     "recipe": null
   },
@@ -45211,6 +45211,7 @@
       "plural": false,
       "internalIds": [ 5132, 9607, 9608, 9606, 9609 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -45413,7 +45414,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -45450,6 +45450,7 @@
       "plural": false,
       "internalIds": [ 3145, 8345, 8347, 8346, 8348 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -45652,7 +45653,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "vacation" ],
     "recipe": null
   },
@@ -45689,6 +45689,7 @@
       "plural": false,
       "internalIds": [ 7994, 7995, 7997, 5774, 7996 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -45933,7 +45934,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "comfy", "sporty", "vacation" ],
     "recipe": null
   },
@@ -45970,6 +45970,7 @@
       "plural": false,
       "internalIds": [ 8362, 8363, 8360, 8359, 4599, 8361 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -46203,7 +46204,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
@@ -46240,6 +46240,7 @@
       "plural": false,
       "internalIds": [ 7841, 5122 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -46349,7 +46350,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -46386,6 +46386,7 @@
       "plural": false,
       "internalIds": [ 3631, 7739, 7738 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -46526,7 +46527,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -46563,6 +46563,7 @@
       "plural": false,
       "internalIds": [ 9385, 9379, 9380, 9384, 3249, 9383, 9382, 9381 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -46858,7 +46859,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -46895,6 +46895,7 @@
       "plural": false,
       "internalIds": [ 4418, 7605 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -47046,7 +47047,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "party", "comfy", "sporty", "theatrical" ],
     "recipe": null
   },
@@ -47083,6 +47083,7 @@
       "plural": false,
       "internalIds": [ 4560, 8388, 8389 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -47223,7 +47224,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "party", "vacation" ],
     "recipe": null
   },
@@ -47239,6 +47239,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -47318,7 +47319,6 @@
     },
     "colors": [ "Black", "Gray" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "goth", "comfy" ],
     "recipe": null
   },
@@ -47355,6 +47355,7 @@
       "plural": false,
       "internalIds": [ 4673, 8061, 8062, 8063, 8064, 8065, 8066, 8067 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -47522,7 +47523,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -47559,6 +47559,7 @@
       "plural": false,
       "internalIds": [ 8414, 8413, 5841 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -47678,7 +47679,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -47694,6 +47694,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -47794,7 +47795,6 @@
     },
     "colors": [ "White", "Colorful" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -47831,6 +47831,7 @@
       "plural": false,
       "internalIds": [ 4145, 4147, 4146, 2655, 4149, 4148 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -48064,7 +48065,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -48101,6 +48101,7 @@
       "plural": false,
       "internalIds": [ 7766, 7767, 7765, 7768, 7762, 7764, 3383, 7763 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -48396,7 +48397,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy", "vacation" ],
     "recipe": null
   },
@@ -48433,6 +48433,7 @@
       "plural": false,
       "internalIds": [ 7761, 7757, 7759, 4275, 7760, 7758 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -48666,7 +48667,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -48703,6 +48703,7 @@
       "plural": false,
       "internalIds": [ 3268, 9204 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -48791,7 +48792,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -48828,6 +48828,7 @@
       "plural": false,
       "internalIds": [ 8497, 3328, 8495, 8496, 8494 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -49030,7 +49031,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy", "work" ],
     "recipe": null
   },
@@ -49067,6 +49067,7 @@
       "plural": false,
       "internalIds": [ 8118, 8117, 8116, 3489 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -49259,7 +49260,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -49296,6 +49296,7 @@
       "plural": false,
       "internalIds": [ 3671, 7979, 7977, 7976, 7980, 7978 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -49529,7 +49530,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -49566,6 +49566,7 @@
       "plural": false,
       "internalIds": [ 4578, 9034, 9032, 9033, 9035 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -49768,7 +49769,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -49805,6 +49805,7 @@
       "plural": false,
       "internalIds": [ 8284, 4440 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -49935,7 +49936,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -49972,6 +49972,7 @@
       "plural": false,
       "internalIds": [ 3474, 8272, 8275, 8273, 8274 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -50174,7 +50175,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -50211,6 +50211,7 @@
       "plural": false,
       "internalIds": [ 8373, 3192, 8375, 8376, 8374, "rhn00" ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -50476,7 +50477,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "outdoorsy", "comfy", "sporty", "vacation" ],
     "recipe": null
   },
@@ -50513,6 +50513,7 @@
       "plural": false,
       "internalIds": [ 7986, 7985, 4423, 7987, 7984 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -50736,7 +50737,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "sporty" ],
     "recipe": null
   },
@@ -50773,6 +50773,7 @@
       "plural": false,
       "internalIds": [ 3599, 7751, 7749, 7750 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -50944,7 +50945,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -50981,6 +50981,7 @@
       "plural": false,
       "internalIds": [ 11930, 11929, 12189, 12191, 11928, 11095, 11927, 12190 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -51276,7 +51277,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "comfy" ],
     "recipe": null
   },
@@ -51313,6 +51313,7 @@
       "plural": false,
       "internalIds": [ 8403, 4340, 8404 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -51453,7 +51454,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -51490,6 +51490,7 @@
       "plural": false,
       "internalIds": [ 7627, 7626, 7623, 3666, 7622, 7628, 7625, 7624 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -51636,7 +51637,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "sporty" ],
     "recipe": null
   },
@@ -51652,6 +51652,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -51731,7 +51732,6 @@
     },
     "colors": [ "Black", "Red" ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "theatrical" ],
     "recipe": null
   },
@@ -51768,6 +51768,7 @@
       "plural": false,
       "internalIds": [ 8556, 8558, 5126, 8557 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -51939,7 +51940,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -51955,6 +51955,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -52034,7 +52035,6 @@
     },
     "colors": [ "Red", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -52050,6 +52050,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -52150,7 +52151,6 @@
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -52166,6 +52166,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Able Sisters" ],
     "sourceNotes": "Available from Able Sisters shop only",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -52224,7 +52225,6 @@
     },
     "colors": [ "Green", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy" ],
     "recipe": null
   },
@@ -52261,6 +52261,7 @@
       "plural": false,
       "internalIds": [ 8553, 4302, 8552 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -52380,7 +52381,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -52417,6 +52417,7 @@
       "plural": false,
       "internalIds": [ 8457, 4574, 8456, 8455 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -52588,7 +52589,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "vacation" ],
     "recipe": null
   },
@@ -52625,6 +52625,7 @@
       "plural": false,
       "internalIds": [ 7612, 7611, 7613, 7615, 7614, 7616, 3334 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -52889,7 +52890,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -52905,6 +52905,7 @@
     "hhaBasePoints": 103,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -52984,7 +52985,6 @@
     },
     "colors": [ "Beige", "Beige" ],
     "styles": [ "Simple" ],
-    "sources": [ "Crafting" ],
     "themes": [ "fairy tale", "outdoorsy" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -52992,6 +52992,7 @@
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -53023,8 +53024,7 @@
         "plural": false,
         "internalIds": [ 5291 ]
       },
-      "materials": { "clump of weeds": 8 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "clump of weeds": 8 }
     }
   },
   {
@@ -53039,6 +53039,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -53118,7 +53119,6 @@
     },
     "colors": [ "Beige", "Green" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -53155,6 +53155,7 @@
       "plural": false,
       "internalIds": [ 9285, 9286, 9284, 9287, 2402 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -53378,7 +53379,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -53415,6 +53415,7 @@
       "plural": false,
       "internalIds": [ 8084, 8082, 8083, 4253, 8086, 8085, 8087 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -53684,7 +53685,6 @@
       }
     ],
     "styles": [ "Cute" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "comfy", "theatrical", "vacation" ],
     "recipe": null
   },
@@ -53721,6 +53721,7 @@
       "plural": false,
       "internalIds": [ 4668, 8391, 8390, 8392 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -53892,7 +53893,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -53929,6 +53929,7 @@
       "plural": false,
       "internalIds": [ 8271, 8270, 3388 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -54111,7 +54112,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -54148,6 +54148,7 @@
       "plural": false,
       "internalIds": [ 8123, 8125, 8124, 8121, 3706, 8122 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -54381,7 +54382,6 @@
       }
     ],
     "styles": [ "Elegant" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -54418,6 +54418,7 @@
       "plural": false,
       "internalIds": [ 8502, 4524, 8503 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -54537,7 +54538,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy" ],
     "recipe": null
   },
@@ -54553,6 +54553,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -54632,7 +54633,6 @@
     },
     "colors": [ "Blue", "White" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -54669,6 +54669,7 @@
       "plural": false,
       "internalIds": [ 4395, 8283 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -54799,7 +54800,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
@@ -54836,6 +54836,7 @@
       "plural": false,
       "internalIds": [ 7779, 7777, 8834, 7778, 3677, 7776, 7780 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -55121,7 +55122,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -55137,6 +55137,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -55216,7 +55217,6 @@
     },
     "colors": [ "Beige", "Blue" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -55253,6 +55253,7 @@
       "plural": false,
       "internalIds": [ 11950, 11951, 9768 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -55372,7 +55373,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale" ],
     "recipe": null
   },
@@ -55409,6 +55409,7 @@
       "plural": false,
       "internalIds": [ 8268, 3339, 8266, 8269, 8267 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -55611,7 +55612,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -55648,6 +55648,7 @@
       "plural": false,
       "internalIds": [ 8479, 8477, 8478, 3245 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -55840,7 +55841,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "theatrical", "work" ],
     "recipe": null
   },
@@ -55856,6 +55856,7 @@
     "hhaBasePoints": 201,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Seasonal" ],
     "sourceNotes": "Only available during the month Winter Solstice Festival occurs",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -55935,7 +55936,6 @@
     },
     "colors": [ "Beige", "Brown" ],
     "styles": [ "Simple" ],
-    "sources": [ "Nook Shopping Seasonal" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -55972,6 +55972,7 @@
       "plural": false,
       "internalIds": [ 11955, 9830 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -56081,7 +56082,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -56118,6 +56118,7 @@
       "plural": false,
       "internalIds": [ 8488, 3266, 8487, 8485, 8486 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -56261,7 +56262,6 @@
       }
     ],
     "styles": [ "Cool" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -56298,6 +56298,7 @@
       "plural": false,
       "internalIds": [ 4765, 8525, 8524 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -56438,7 +56439,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -56475,6 +56475,7 @@
       "plural": false,
       "internalIds": [ 8059, 8060, 4421 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -56636,7 +56637,6 @@
       }
     ],
     "styles": [ "Active" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "outdoorsy", "sporty", "work" ],
     "recipe": null
   },
@@ -56673,6 +56673,7 @@
       "plural": false,
       "internalIds": [ 7718, 7716, 3632, 7717, 7719, 7715 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -56890,7 +56891,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -56927,6 +56927,7 @@
       "plural": false,
       "internalIds": [ 7723, 3630, 7720, 7721, 7722 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -57129,7 +57130,6 @@
       }
     ],
     "styles": [ "Simple" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -57166,6 +57166,7 @@
       "plural": false,
       "internalIds": [ 4198, 8498, 8499, 8501, 8500 ]
     },
+    "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -57410,7 +57411,6 @@
       }
     ],
     "styles": [ "Gorgeous" ],
-    "sources": [ "Able Sisters" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -57426,6 +57426,7 @@
     "hhaBasePoints": 51,
     "size": "1x1",
     "milesPrice": null,
+    "source": [ "Nook Shopping Catalog" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -57505,7 +57506,6 @@
     },
     "colors": [ "Green", "Red" ],
     "styles": [ "Active" ],
-    "sources": [ "Nook Shopping Catalog" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   }

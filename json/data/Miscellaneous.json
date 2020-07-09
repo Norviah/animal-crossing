@@ -15,6 +15,7 @@
     "sell": 8990,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nintendo", "Nook Shopping" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0",
@@ -57,7 +58,6 @@
     "concepts": [ "child's room", "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nintendo", "Nook Shopping" ],
     "recipe": null
   },
   {
@@ -101,6 +101,7 @@
       "plural": false,
       "internalIds": [ 1501 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -1372,7 +1373,6 @@
     ],
     "set": "bear",
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1391,6 +1391,7 @@
     "sell": 450,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1433,7 +1434,6 @@
     "concepts": [ "fancy", "child's room" ],
     "set": "panda",
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -1452,6 +1452,7 @@
     "sell": 1200,
     "size": "1x1",
     "surface": false,
+    "source": [ "Bunny Day" ],
     "sourceNotes": "From Zipper after trading one of every egg (all 6 types) during Bunny Day.",
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -1514,7 +1515,6 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "Bunny Day",
-    "sources": [ "Bunny Day" ],
     "recipe": null
   },
   {
@@ -1533,6 +1533,7 @@
     "sell": 1600,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -1595,13 +1596,13 @@
     "concepts": [ "fancy" ],
     "set": null,
     "series": "Bunny Day",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day lamp",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Egg bottle", "Egg balloon" ],
       "sourceNotes": "Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -1633,8 +1634,7 @@
         "plural": false,
         "internalIds": [ 12413 ]
       },
-      "materials": { "wood egg": 4 },
-      "sources": [ "Egg bottle", "Egg balloon" ]
+      "materials": { "wood egg": 4 }
     }
   },
   {
@@ -1678,6 +1678,7 @@
       "plural": false,
       "internalIds": [ 12140 ]
     },
+    "source": [ "Dodo Airlines" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -1831,7 +1832,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Dodo Airlines" ],
     "recipe": null
   },
   {
@@ -1850,6 +1850,7 @@
     "sell": 1010,
     "size": "1x1",
     "surface": false,
+    "source": [ "Dodo Airlines" ],
     "sourceNotes": "Received in mail from DAL after 50 flights",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -1892,7 +1893,6 @@
     "concepts": [ "kitchen", "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Dodo Airlines" ],
     "recipe": null
   },
   {
@@ -1936,6 +1936,7 @@
       "plural": false,
       "internalIds": [ 685 ]
     },
+    "source": [ "Gulliver" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -2052,7 +2053,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Gulliver" ],
     "recipe": null
   },
   {
@@ -2096,6 +2096,7 @@
       "plural": false,
       "internalIds": [ 3333 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -2397,7 +2398,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2441,6 +2441,7 @@
       "plural": false,
       "internalIds": [ 3252 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -2631,7 +2632,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -2650,6 +2650,7 @@
     "sell": 21750,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2712,13 +2713,13 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": "stars",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Libra scale",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -2750,8 +2751,7 @@
         "plural": false,
         "internalIds": [ 3774 ]
       },
-      "materials": { "star fragment": 3, "Libra fragment": 2, "gold nugget": 2 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 3, "Libra fragment": 2, "gold nugget": 2 }
     }
   },
   {
@@ -2770,6 +2770,7 @@
     "sell": 7500,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -2812,7 +2813,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -2856,6 +2856,7 @@
       "plural": false,
       "internalIds": [ 7143 ]
     },
+    "source": [ "Mom" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 25,
@@ -3103,7 +3104,6 @@
     ],
     "set": null,
     "series": "motherly",
-    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -3147,6 +3147,7 @@
       "plural": false,
       "internalIds": [ 7144 ]
     },
+    "source": [ "Mom" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 25,
@@ -3394,7 +3395,6 @@
     ],
     "set": null,
     "series": "motherly",
-    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -3438,6 +3438,7 @@
       "plural": false,
       "internalIds": [ 7146 ]
     },
+    "source": [ "Mom" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 25,
@@ -3685,7 +3686,6 @@
     ],
     "set": null,
     "series": "motherly",
-    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -3729,6 +3729,7 @@
       "plural": false,
       "internalIds": [ 7141 ]
     },
+    "source": [ "Mom" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 25,
@@ -3976,7 +3977,6 @@
     ],
     "set": null,
     "series": "motherly",
-    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -4020,6 +4020,7 @@
       "plural": false,
       "internalIds": [ 7147 ]
     },
+    "source": [ "Mom" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 25,
@@ -4267,7 +4268,6 @@
     ],
     "set": null,
     "series": "motherly",
-    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -4311,6 +4311,7 @@
       "plural": false,
       "internalIds": [ 7138 ]
     },
+    "source": [ "Mom" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 25,
@@ -4558,7 +4559,6 @@
     ],
     "set": null,
     "series": "motherly",
-    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -4602,6 +4602,7 @@
       "plural": false,
       "internalIds": [ 7140 ]
     },
+    "source": [ "Mom" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 25,
@@ -4849,7 +4850,6 @@
     ],
     "set": null,
     "series": "motherly",
-    "sources": [ "Mom" ],
     "recipe": null
   },
   {
@@ -4868,6 +4868,7 @@
     "sell": 30000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4910,7 +4911,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -4929,6 +4929,7 @@
     "sell": 325,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -4971,7 +4972,6 @@
     "concepts": [ "school", "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -5015,6 +5015,7 @@
       "plural": false,
       "internalIds": [ 12543 ]
     },
+    "source": [ "Nintendo", "Nook Shopping" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -5094,7 +5095,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nintendo", "Nook Shopping" ],
     "recipe": null
   },
   {
@@ -5138,6 +5138,7 @@
       "plural": false,
       "internalIds": [ 12372 ]
     },
+    "source": [ "Nook Shopping Promotion" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -5365,7 +5366,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook Shopping Promotion" ],
     "recipe": null
   },
   {
@@ -5409,6 +5409,7 @@
       "plural": false,
       "internalIds": [ 12373 ]
     },
+    "source": [ "Nook Shopping Promotion" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -5636,7 +5637,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook Shopping Promotion" ],
     "recipe": null
   },
   {
@@ -5655,6 +5655,7 @@
     "sell": 7500,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5697,7 +5698,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -5716,6 +5716,7 @@
     "sell": 100,
     "size": "1x1",
     "surface": false,
+    "source": [ "Cyrus" ],
     "sourceNotes": "Only available during Wedding Season",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -5778,7 +5779,6 @@
     "concepts": [ "party", "expensive" ],
     "set": null,
     "series": "wedding",
-    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -5797,6 +5797,7 @@
     "sell": 2000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Rover" ],
     "sourceNotes": "Reward for solving May Day maze",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0a",
@@ -5839,7 +5840,6 @@
     "concepts": [ "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Rover" ],
     "recipe": null
   },
   {
@@ -5858,6 +5858,7 @@
     "sell": 22125,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -5920,13 +5921,13 @@
     "concepts": [ "expensive", "horror" ],
     "set": null,
     "series": "stars",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Scorpio lamp",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -5963,8 +5964,7 @@
         "Scorpius fragment": 2,
         "gold nugget": 2,
         "stone": 5
-      },
-      "sources": [ "Celeste" ]
+      }
     }
   },
   {
@@ -5983,6 +5983,7 @@
     "sell": 9600,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
@@ -6045,13 +6046,13 @@
     "concepts": [ "fancy", "child's room" ],
     "set": null,
     "series": "Bunny Day",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Wobbling Zipper toy",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Zipper" ],
       "sourceNotes": "Reward from Zipper after crafting all Bunny Day recipes; Only available during Bunny Day",
       "versionAdded": "1.1.0",
       "versionUnlocked": "1.1.0a",
@@ -6090,8 +6091,7 @@
         "wood egg": 4,
         "sky egg": 4,
         "water egg": 4
-      },
-      "sources": [ "Zipper" ]
+      }
     }
   },
   {
@@ -6135,6 +6135,7 @@
       "plural": false,
       "internalIds": [ 3948 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -6325,7 +6326,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6344,6 +6344,7 @@
     "sell": 9000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -6386,7 +6387,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -6430,6 +6430,7 @@
       "plural": false,
       "internalIds": [ 7453 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -6509,7 +6510,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6553,6 +6553,7 @@
       "plural": false,
       "internalIds": [ 849 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -6817,7 +6818,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -6861,6 +6861,7 @@
       "plural": false,
       "internalIds": [ 3993 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -7162,7 +7163,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7181,6 +7181,7 @@
     "sell": 600,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7223,7 +7224,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -7242,6 +7242,7 @@
     "sell": 9000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7284,7 +7285,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -7303,6 +7303,7 @@
     "sell": 350,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7345,7 +7346,6 @@
     "concepts": [ "facility", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7364,6 +7364,7 @@
     "sell": 240,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7406,7 +7407,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -7450,6 +7450,7 @@
       "plural": false,
       "internalIds": [ 3949 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -7640,7 +7641,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -7659,6 +7659,7 @@
     "sell": 30000,
     "size": "2x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -7701,7 +7702,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -7745,6 +7745,7 @@
       "plural": false,
       "internalIds": [ 1753 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -7972,13 +7973,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "aroma pot",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8010,8 +8011,7 @@
         "plural": false,
         "internalIds": [ 1753 ]
       },
-      "materials": { "clay": 3 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "clay": 3 }
     }
   },
   {
@@ -8030,6 +8030,7 @@
     "sell": 30000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8072,7 +8073,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -8091,6 +8091,7 @@
     "sell": 1800,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -8133,7 +8134,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -8177,6 +8177,7 @@
       "plural": false,
       "internalIds": [ 2010 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -8330,7 +8331,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -8374,6 +8374,7 @@
       "plural": false,
       "internalIds": [ 3554 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 10,
@@ -8510,13 +8511,13 @@
     ],
     "set": null,
     "series": "bamboo",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo candleholder",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8548,8 +8549,7 @@
         "plural": false,
         "internalIds": [ 3554 ]
       },
-      "materials": { "bamboo piece": 3, "clay": 2 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "bamboo piece": 3, "clay": 2 }
     }
   },
   {
@@ -8593,6 +8593,7 @@
       "plural": false,
       "internalIds": [ 4093 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 10,
@@ -8729,13 +8730,13 @@
     ],
     "set": null,
     "series": "bamboo",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo drum",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8767,8 +8768,7 @@
         "plural": false,
         "internalIds": [ 4093 ]
       },
-      "materials": { "bamboo piece": 3, "softwood": 2 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "bamboo piece": 3, "softwood": 2 }
     }
   },
   {
@@ -8812,6 +8812,7 @@
       "plural": false,
       "internalIds": [ 5978 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 10,
@@ -8948,13 +8949,13 @@
     ],
     "set": null,
     "series": "bamboo",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo lunch box",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -8986,8 +8987,7 @@
         "plural": false,
         "internalIds": [ 5978 ]
       },
-      "materials": { "bamboo piece": 4 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "bamboo piece": 4 }
     }
   },
   {
@@ -9031,6 +9031,7 @@
       "plural": false,
       "internalIds": [ 5976 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 10,
@@ -9167,13 +9168,13 @@
     ],
     "set": null,
     "series": "bamboo",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo sphere",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -9205,8 +9206,7 @@
         "plural": false,
         "internalIds": [ 5976 ]
       },
-      "materials": { "bamboo piece": 3 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "bamboo piece": 3 }
     }
   },
   {
@@ -9225,6 +9225,7 @@
     "sell": 4900,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9287,13 +9288,13 @@
     "concepts": [ "zen-style" ],
     "set": null,
     "series": "bamboo",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo-shoot lamp",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Spring",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -9325,8 +9326,7 @@
         "plural": false,
         "internalIds": [ 5977 ]
       },
-      "materials": { "young spring bamboo": 4, "bamboo shoot": 5, "clay": 4 },
-      "sources": [ "Balloons" ]
+      "materials": { "young spring bamboo": 4, "bamboo shoot": 5, "clay": 4 }
     }
   },
   {
@@ -9345,6 +9345,7 @@
     "sell": 15000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9387,7 +9388,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -9406,6 +9406,7 @@
     "sell": 45000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9448,7 +9449,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -9492,6 +9492,7 @@
       "plural": false,
       "internalIds": [ 9584 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -9645,7 +9646,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9664,6 +9664,7 @@
     "sell": 1290,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9706,7 +9707,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -9725,6 +9725,7 @@
     "sell": 7500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9767,7 +9768,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -9786,6 +9786,7 @@
     "sell": 250,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -9828,7 +9829,6 @@
     "concepts": [ "party" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -9872,6 +9872,7 @@
       "plural": false,
       "internalIds": [ 3592 ]
     },
+    "source": [ "Birthday" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -9988,7 +9989,6 @@
     ],
     "set": "birthday",
     "series": null,
-    "sources": [ "Birthday" ],
     "recipe": null
   },
   {
@@ -10032,6 +10032,7 @@
       "plural": false,
       "internalIds": [ 3591 ]
     },
+    "source": [ "Birthday" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -10259,7 +10260,6 @@
     ],
     "set": "birthday",
     "series": null,
-    "sources": [ "Birthday" ],
     "recipe": null
   },
   {
@@ -10278,6 +10278,7 @@
     "sell": 2700,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10320,7 +10321,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -10339,6 +10339,7 @@
     "sell": 1200,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10381,7 +10382,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -10400,6 +10400,7 @@
     "sell": 15000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10442,7 +10443,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -10461,6 +10461,7 @@
     "sell": 30000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10503,7 +10504,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -10522,6 +10522,7 @@
     "sell": 2400,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10564,7 +10565,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -10583,6 +10583,7 @@
     "sell": 540,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -10625,7 +10626,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -10669,6 +10669,7 @@
       "plural": false,
       "internalIds": [ 7599 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -10785,7 +10786,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -10829,6 +10829,7 @@
       "plural": false,
       "internalIds": [ 3582 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -10982,7 +10983,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11026,6 +11026,7 @@
       "plural": false,
       "internalIds": [ 870 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -11179,7 +11180,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11223,6 +11223,7 @@
       "plural": false,
       "internalIds": [ 683 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -11339,7 +11340,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11358,6 +11358,7 @@
     "sell": 350,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11400,7 +11401,6 @@
     "concepts": [ "facility", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -11419,6 +11419,7 @@
     "sell": 400,
     "size": "1x1",
     "surface": false,
+    "source": [ "HHA" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11461,7 +11462,6 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "HHA" ],
     "recipe": null
   },
   {
@@ -11480,6 +11480,7 @@
     "sell": 400,
     "size": "1x1",
     "surface": false,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11522,7 +11523,6 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -11541,6 +11541,7 @@
     "sell": 400,
     "size": "1x1",
     "surface": false,
+    "source": [ "Fishing Tourney" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11583,7 +11584,6 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "Fishing Tourney" ],
     "recipe": null
   },
   {
@@ -11602,6 +11602,7 @@
     "sell": 750,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11644,7 +11645,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -11663,6 +11663,7 @@
     "sell": 3000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -11705,7 +11706,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -11749,6 +11749,7 @@
       "plural": false,
       "internalIds": [ 889 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -11976,7 +11977,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12020,6 +12020,7 @@
       "plural": false,
       "internalIds": [ 2562 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -12210,7 +12211,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12254,6 +12254,7 @@
       "plural": false,
       "internalIds": [ 3672 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 24,
@@ -12538,7 +12539,6 @@
     ],
     "set": null,
     "series": "cardboard",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -12557,6 +12557,7 @@
     "sell": 900,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -12599,7 +12600,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -12643,6 +12643,7 @@
       "plural": false,
       "internalIds": [ 4122 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -13344,7 +13345,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13388,6 +13388,7 @@
       "plural": false,
       "internalIds": [ 1708 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -13689,7 +13690,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13733,6 +13733,7 @@
       "plural": false,
       "internalIds": [ 7136 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -13923,7 +13924,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -13942,6 +13942,7 @@
     "sell": 2400,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -13984,7 +13985,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -14028,6 +14028,7 @@
       "plural": false,
       "internalIds": [ 4719 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -14218,7 +14219,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14237,6 +14237,7 @@
     "sell": 900,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14279,7 +14280,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -14298,6 +14298,7 @@
     "sell": 11400,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14340,7 +14341,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -14359,6 +14359,7 @@
     "sell": 3000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14401,7 +14402,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -14445,6 +14445,7 @@
       "plural": false,
       "internalIds": [ 4011 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 13,
@@ -14544,13 +14545,13 @@
     ],
     "set": "cherry",
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry speakers",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native fruit is cherries",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -14582,8 +14583,7 @@
         "plural": false,
         "internalIds": [ 4011 ]
       },
-      "materials": { "cherry": 10, "iron nugget": 2 },
-      "sources": [ "Peppy villagers", "Tom Nook" ]
+      "materials": { "cherry": 10, "iron nugget": 2 }
     }
   },
   {
@@ -14602,6 +14602,7 @@
     "sell": 3300,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14664,13 +14665,13 @@
     "concepts": [ "zen-style", "fancy" ],
     "set": null,
     "series": "cherry blossoms",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom bonsai",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Cherry-Blossom Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -14707,8 +14708,7 @@
         "hardwood": 2,
         "clump of weeds": 3,
         "clay": 3
-      },
-      "sources": [ "Balloons" ]
+      }
     }
   },
   {
@@ -14752,6 +14752,7 @@
       "plural": false,
       "internalIds": [ 2770 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -14831,7 +14832,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -14850,6 +14850,7 @@
     "sell": 30,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14892,7 +14893,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -14911,6 +14911,7 @@
     "sell": 1050,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -14953,7 +14954,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -14997,6 +14997,7 @@
       "plural": false,
       "internalIds": [ 4073 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -15224,13 +15225,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "classic pitcher",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Tom Nook", "Snooty villagers" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -15262,8 +15263,7 @@
         "plural": false,
         "internalIds": [ 4073 ]
       },
-      "materials": { "clay": 4 },
-      "sources": [ "Tom Nook", "Snooty villagers" ]
+      "materials": { "clay": 4 }
     }
   },
   {
@@ -15282,6 +15282,7 @@
     "sell": 1950,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15324,7 +15325,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -15343,6 +15343,7 @@
     "sell": 500,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15385,13 +15386,13 @@
     "concepts": [ "shop", "ocean" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "coconut juice",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -15423,8 +15424,7 @@
         "plural": false,
         "internalIds": [ 3684 ]
       },
-      "materials": { "coconut": 1 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "coconut": 1 }
     }
   },
   {
@@ -15443,6 +15443,7 @@
     "sell": 45000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15485,7 +15486,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -15529,6 +15529,7 @@
       "plural": false,
       "internalIds": [ 918 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -15756,7 +15757,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -15775,6 +15775,7 @@
     "sell": 550,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15817,7 +15818,6 @@
     "concepts": [ "kitchen", "shop" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -15836,6 +15836,7 @@
     "sell": 900,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15878,7 +15879,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -15897,6 +15897,7 @@
     "sell": 480,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -15939,7 +15940,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -15983,6 +15983,7 @@
       "plural": false,
       "internalIds": [ 3064 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -16136,7 +16137,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -16180,6 +16180,7 @@
       "plural": false,
       "internalIds": [ 4009 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -16444,7 +16445,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -16463,6 +16463,7 @@
     "sell": 600,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16505,7 +16506,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -16549,6 +16549,7 @@
       "plural": false,
       "internalIds": [ 1161 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -16702,7 +16703,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -16721,6 +16721,7 @@
     "sell": 390,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16763,7 +16764,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -16782,6 +16782,7 @@
     "sell": 480,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16824,7 +16825,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -16843,6 +16843,7 @@
     "sell": 75,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16906,7 +16907,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -16925,6 +16925,7 @@
     "sell": 75,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -16988,7 +16989,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -17007,6 +17007,7 @@
     "sell": 75,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -17070,7 +17071,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -17089,6 +17089,7 @@
     "sell": 75,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -17152,7 +17153,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -17171,6 +17171,7 @@
     "sell": 75,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -17234,7 +17235,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -17253,6 +17253,7 @@
     "sell": 75,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -17316,7 +17317,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -17360,6 +17360,7 @@
       "plural": false,
       "internalIds": [ 4003 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 9,
@@ -17570,7 +17571,6 @@
     ],
     "set": null,
     "series": "cute",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -17614,6 +17614,7 @@
       "plural": false,
       "internalIds": [ 3618 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -18255,13 +18256,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cutting board",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -18293,8 +18294,7 @@
         "plural": false,
         "internalIds": [ 3618 ]
       },
-      "materials": { "hardwood": 2, "iron nugget": 1 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "hardwood": 2, "iron nugget": 1 }
     }
   },
   {
@@ -18313,6 +18313,7 @@
     "sell": 24000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18355,7 +18356,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -18374,6 +18374,7 @@
     "sell": 900,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18416,7 +18417,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -18435,6 +18435,7 @@
     "sell": 720,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18477,7 +18478,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -18496,6 +18496,7 @@
     "sell": 1500,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18538,7 +18539,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -18557,6 +18557,7 @@
     "sell": 690,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -18599,7 +18600,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -18643,6 +18643,7 @@
       "plural": false,
       "internalIds": [ 1797 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -18907,13 +18908,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "decoy duck",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -18945,8 +18946,7 @@
         "plural": false,
         "internalIds": [ 1797 ]
       },
-      "materials": { "softwood": 4 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "softwood": 4 }
     }
   },
   {
@@ -18990,6 +18990,7 @@
       "plural": false,
       "internalIds": [ 1868 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -19217,7 +19218,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -19261,6 +19261,7 @@
       "plural": false,
       "internalIds": [ 3590 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -20890,7 +20891,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -20934,6 +20934,7 @@
       "plural": false,
       "internalIds": [ 2731 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -21235,7 +21236,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -21254,6 +21254,7 @@
     "sell": 232,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -21296,7 +21297,6 @@
     "concepts": [ "kitchen", "shop" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -21340,6 +21340,7 @@
       "plural": false,
       "internalIds": [ 3400 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -21567,7 +21568,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -21586,6 +21586,7 @@
     "sell": 2400,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -21628,7 +21629,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -21647,6 +21647,7 @@
     "sell": 400,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -21710,13 +21711,13 @@
     "concepts": [ "office", "den" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "document stack",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -21748,8 +21749,7 @@
         "plural": false,
         "internalIds": [ 1750 ]
       },
-      "materials": { "scattered papers": 1 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "scattered papers": 1 }
     }
   },
   {
@@ -21768,6 +21768,7 @@
     "sell": 400,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -21831,13 +21832,13 @@
     "concepts": [ "office", "den" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "document stack",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -21869,8 +21870,7 @@
         "plural": false,
         "internalIds": [ 1750 ]
       },
-      "materials": { "scattered papers": 1 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "scattered papers": 1 }
     }
   },
   {
@@ -21889,6 +21889,7 @@
     "sell": 400,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -21952,13 +21953,13 @@
     "concepts": [ "office", "den" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "document stack",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -21990,8 +21991,7 @@
         "plural": false,
         "internalIds": [ 1750 ]
       },
-      "materials": { "scattered papers": 1 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "scattered papers": 1 }
     }
   },
   {
@@ -22010,6 +22010,7 @@
     "sell": 400,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22073,13 +22074,13 @@
     "concepts": [ "office", "den" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "document stack",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -22111,8 +22112,7 @@
         "plural": false,
         "internalIds": [ 1750 ]
       },
-      "materials": { "scattered papers": 1 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "scattered papers": 1 }
     }
   },
   {
@@ -22156,6 +22156,7 @@
       "plural": false,
       "internalIds": [ 1495 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -22383,7 +22384,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -22402,6 +22402,7 @@
     "sell": 45000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22444,7 +22445,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -22463,6 +22463,7 @@
     "sell": 600,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22505,7 +22506,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -22524,6 +22524,7 @@
     "sell": 9000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22566,7 +22567,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -22585,6 +22585,7 @@
     "sell": 900,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22627,7 +22628,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -22671,6 +22671,7 @@
       "plural": false,
       "internalIds": [ 4071 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -22750,7 +22751,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -22769,6 +22769,7 @@
     "sell": 12000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -22811,7 +22812,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -22855,6 +22855,7 @@
       "plural": false,
       "internalIds": [ 954 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -23119,7 +23120,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -23163,6 +23163,7 @@
       "plural": false,
       "internalIds": [ 4110 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -23316,7 +23317,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -23335,6 +23335,7 @@
     "sell": 1650,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -23377,7 +23378,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -23421,6 +23421,7 @@
       "plural": false,
       "internalIds": [ 2772 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -23537,7 +23538,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -23581,6 +23581,7 @@
       "plural": false,
       "internalIds": [ 4101 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -24514,7 +24515,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -24533,6 +24533,7 @@
     "sell": 320,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -24595,13 +24596,13 @@
     "concepts": [ "party", "fancy" ],
     "set": null,
     "series": "festive",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "festive top set",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Festive Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -24633,8 +24634,7 @@
         "plural": false,
         "internalIds": [ 12230 ]
       },
-      "materials": { "gold ornament": 2, "hardwood": 1 },
-      "sources": [ "Balloons" ]
+      "materials": { "gold ornament": 2, "hardwood": 1 }
     }
   },
   {
@@ -24653,6 +24653,7 @@
     "sell": 600,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -24695,7 +24696,6 @@
     "concepts": [ "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -24714,6 +24714,7 @@
     "sell": 900,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -24756,7 +24757,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -24775,6 +24775,7 @@
     "sell": 960,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -24817,13 +24818,13 @@
     "concepts": [ "garage", "garden" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "firewood",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -24855,8 +24856,7 @@
         "plural": false,
         "internalIds": [ 5970 ]
       },
-      "materials": { "wood": 8 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "wood": 8 }
     }
   },
   {
@@ -24875,6 +24875,7 @@
     "sell": 210,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -24917,7 +24918,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -24961,6 +24961,7 @@
       "plural": false,
       "internalIds": [ 4094 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -25114,7 +25115,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -25158,6 +25158,7 @@
       "plural": false,
       "internalIds": [ 7260 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -25348,7 +25349,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -25367,6 +25367,7 @@
     "sell": 180,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -25409,7 +25410,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -25428,6 +25428,7 @@
     "sell": 100,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -25470,7 +25471,6 @@
     "concepts": [ "fitness", "school" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -25489,6 +25489,7 @@
     "sell": 7500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -25531,7 +25532,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -25575,6 +25575,7 @@
       "plural": false,
       "internalIds": [ 3961 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -25654,7 +25655,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -25698,6 +25698,7 @@
       "plural": false,
       "internalIds": [ 8418 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -25888,7 +25889,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -25932,6 +25932,7 @@
       "plural": false,
       "internalIds": [ 10244 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -26085,7 +26086,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -26104,6 +26104,7 @@
     "sell": 1200,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -26146,7 +26147,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -26165,6 +26165,7 @@
     "sell": 360,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -26207,7 +26208,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -26251,6 +26251,7 @@
       "plural": false,
       "internalIds": [ 4279 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 18,
@@ -26498,13 +26499,13 @@
     ],
     "set": null,
     "series": "frozen",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "frozen-treat set",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snowboy" ],
       "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -26536,8 +26537,7 @@
         "plural": false,
         "internalIds": [ 4279 ]
       },
-      "materials": { "large snowflake": 1, "snowflake": 1 },
-      "sources": [ "Snowboy" ]
+      "materials": { "large snowflake": 1, "snowflake": 1 }
     }
   },
   {
@@ -26556,6 +26556,7 @@
     "sell": 1000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -26618,13 +26619,13 @@
     "concepts": [ "kitchen", "fancy" ],
     "set": null,
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "fruit basket",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Cranky villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -26656,8 +26657,7 @@
         "plural": false,
         "internalIds": [ 975 ]
       },
-      "materials": { "apple": 1, "pear": 1, "cherry": 1, "orange": 1, "peach": 1 },
-      "sources": [ "Cranky villagers" ]
+      "materials": { "apple": 1, "pear": 1, "cherry": 1, "orange": 1, "peach": 1 }
     }
   },
   {
@@ -26701,6 +26701,7 @@
       "plural": false,
       "internalIds": [ 4104 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -26928,13 +26929,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "frying pan",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "DIY for Beginners" ],
       "sourceNotes": "Purchase DIY for Beginners at Nook's Cranny",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -26966,8 +26967,7 @@
         "plural": false,
         "internalIds": [ 4104 ]
       },
-      "materials": { "iron nugget": 2 },
-      "sources": [ "DIY for Beginners" ]
+      "materials": { "iron nugget": 2 }
     }
   },
   {
@@ -26986,6 +26986,7 @@
     "sell": 18000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -27028,7 +27029,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -27072,6 +27072,7 @@
       "plural": false,
       "internalIds": [ 1624 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -27373,7 +27374,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -27392,6 +27392,7 @@
     "sell": 1500,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -27434,7 +27435,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -27453,6 +27453,7 @@
     "sell": 16500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -27495,7 +27496,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -27514,6 +27514,7 @@
     "sell": 30000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -27556,7 +27557,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -27575,6 +27575,7 @@
     "sell": 13500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -27617,7 +27618,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -27636,6 +27636,7 @@
     "sell": 6000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -27678,7 +27679,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -27722,6 +27722,7 @@
       "plural": false,
       "internalIds": [ 4230 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -27949,7 +27950,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -27993,6 +27993,7 @@
       "plural": false,
       "internalIds": [ 1411 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -28109,7 +28110,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -28128,6 +28128,7 @@
     "sell": 450,
     "size": "1x1",
     "surface": false,
+    "source": [ "HHA" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -28170,7 +28171,6 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "HHA" ],
     "recipe": null
   },
   {
@@ -28189,6 +28189,7 @@
     "sell": 30000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -28251,13 +28252,13 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": "golden",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "gold bars",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -28289,8 +28290,7 @@
         "plural": false,
         "internalIds": [ 3065 ]
       },
-      "materials": { "gold nugget": 3 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "gold nugget": 3 }
     }
   },
   {
@@ -28309,6 +28309,7 @@
     "sell": 450,
     "size": "1x1",
     "surface": false,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -28351,7 +28352,6 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -28370,6 +28370,7 @@
     "sell": 450,
     "size": "1x1",
     "surface": false,
+    "source": [ "Fishing Tourney" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -28412,7 +28413,6 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "Fishing Tourney" ],
     "recipe": null
   },
   {
@@ -28431,6 +28431,7 @@
     "sell": 30000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -28473,13 +28474,13 @@
     "concepts": [ "ocean", "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden arowana model",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -28511,8 +28512,7 @@
         "plural": false,
         "internalIds": [ 11260 ]
       },
-      "materials": { "gold nugget": 3 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "gold nugget": 3 }
     }
   },
   {
@@ -28531,6 +28531,7 @@
     "sell": 20000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -28593,13 +28594,13 @@
     "concepts": [ "expensive", "horror" ],
     "set": null,
     "series": "golden",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden candlestick",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -28631,8 +28632,7 @@
         "plural": false,
         "internalIds": [ 3772 ]
       },
-      "materials": { "gold nugget": 2 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "gold nugget": 2 }
     }
   },
   {
@@ -28651,6 +28651,7 @@
     "sell": 10000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -28713,13 +28714,13 @@
     "concepts": [ "kitchen", "expensive" ],
     "set": null,
     "series": "golden",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden dishes",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -28751,8 +28752,7 @@
         "plural": false,
         "internalIds": [ 3810 ]
       },
-      "materials": { "gold nugget": 1 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "gold nugget": 1 }
     }
   },
   {
@@ -28771,6 +28771,7 @@
     "sell": 30000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -28813,13 +28814,13 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden dung beetle",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -28851,8 +28852,7 @@
         "plural": false,
         "internalIds": [ 5941 ]
       },
-      "materials": { "gold nugget": 3 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "gold nugget": 3 }
     }
   },
   {
@@ -28871,6 +28871,7 @@
     "sell": 36000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -28913,7 +28914,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -28932,6 +28932,7 @@
     "sell": 45000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -28974,7 +28975,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -28993,6 +28993,7 @@
     "sell": 3900,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29035,7 +29036,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -29054,6 +29054,7 @@
     "sell": 36000,
     "size": "2x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29096,7 +29097,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -29115,6 +29115,7 @@
     "sell": 24000,
     "size": "2x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29157,7 +29158,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -29176,6 +29176,7 @@
     "sell": 36000,
     "size": "2x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29218,7 +29219,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -29237,6 +29237,7 @@
     "sell": 480,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29279,7 +29280,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -29298,6 +29298,7 @@
     "sell": 9000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29340,7 +29341,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -29359,6 +29359,7 @@
     "sell": 45000,
     "size": "2x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29401,7 +29402,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -29420,6 +29420,7 @@
     "sell": 3900,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29462,7 +29463,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -29481,6 +29481,7 @@
     "sell": 24000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -29523,7 +29524,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -29567,6 +29567,7 @@
       "plural": false,
       "internalIds": [ 1348 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -29757,7 +29758,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -29801,6 +29801,7 @@
       "plural": false,
       "internalIds": [ 3960 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -30028,7 +30029,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -30047,6 +30047,7 @@
     "sell": 3000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -30089,7 +30090,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -30133,6 +30133,7 @@
       "plural": false,
       "internalIds": [ 891 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 26,
@@ -30343,13 +30344,13 @@
     ],
     "set": null,
     "series": "festive",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "holiday candle",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Festive Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -30381,8 +30382,7 @@
         "plural": false,
         "internalIds": [ 891 ]
       },
-      "materials": { "red ornament": 5, "clump of weeds": 5 },
-      "sources": [ "Balloons" ]
+      "materials": { "red ornament": 5, "clump of weeds": 5 }
     }
   },
   {
@@ -30401,6 +30401,7 @@
     "sell": 82,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -30443,7 +30444,6 @@
     "concepts": [ "school", "den" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -30462,6 +30462,7 @@
     "sell": 600,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -30504,7 +30505,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -30523,6 +30523,7 @@
     "sell": 24000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -30565,7 +30566,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -30584,6 +30584,7 @@
     "sell": 4050,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -30626,7 +30627,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -30645,6 +30645,7 @@
     "sell": 24000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -30687,7 +30688,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -30706,6 +30706,7 @@
     "sell": 450,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -30748,7 +30749,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -30792,6 +30792,7 @@
       "plural": false,
       "internalIds": [ 1892 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -30945,7 +30946,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -30989,6 +30989,7 @@
       "plural": false,
       "internalIds": [ 690 ]
     },
+    "source": [ "Gulliver" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -31216,7 +31217,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Gulliver" ],
     "recipe": null
   },
   {
@@ -31260,6 +31260,7 @@
       "plural": false,
       "internalIds": [ 1836 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -31561,7 +31562,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -31605,6 +31605,7 @@
       "plural": false,
       "internalIds": [ 7234 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 20,
@@ -31741,13 +31742,13 @@
     ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hyacinth lamp",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -31779,8 +31780,7 @@
         "plural": false,
         "internalIds": [ 7234 ]
       },
-      "materials": { "purple hyacinths": 5, "clay": 3 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "purple hyacinths": 5, "clay": 3 }
     }
   },
   {
@@ -31824,6 +31824,7 @@
       "plural": false,
       "internalIds": [ 997 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -32051,7 +32052,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -32070,6 +32070,7 @@
     "sell": 3000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -32132,13 +32133,13 @@
     "concepts": [ "kitchen", "shop" ],
     "set": null,
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "infused-water dispenser",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Cranky villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -32177,8 +32178,7 @@
         "orange": 2,
         "peach": 2,
         "coconut": 2
-      },
-      "sources": [ "Cranky villagers" ]
+      }
     }
   },
   {
@@ -32197,6 +32197,7 @@
     "sell": 205,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -32255,7 +32256,6 @@
     "concepts": [ "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -32274,6 +32274,7 @@
     "sell": 205,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -32332,7 +32333,6 @@
     "concepts": [ "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -32351,6 +32351,7 @@
     "sell": 205,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -32409,7 +32410,6 @@
     "concepts": [ "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -32428,6 +32428,7 @@
     "sell": 205,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -32486,7 +32487,6 @@
     "concepts": [ "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -32505,6 +32505,7 @@
     "sell": 7200,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -32547,7 +32548,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -32566,6 +32566,7 @@
     "sell": 230,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -32608,7 +32609,6 @@
     "concepts": [ "fitness" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -32652,6 +32652,7 @@
       "plural": false,
       "internalIds": [ 3407 ]
     },
+    "source": [ "Gulliver" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -32842,7 +32843,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Gulliver" ],
     "recipe": null
   },
   {
@@ -32861,6 +32861,7 @@
     "sell": 177,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -32903,7 +32904,6 @@
     "concepts": [ "kitchen", "shop" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -32947,6 +32947,7 @@
       "plural": false,
       "internalIds": [ 7535 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -33174,13 +33175,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "kettlebell",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -33212,8 +33213,7 @@
         "plural": false,
         "internalIds": [ 7535 ]
       },
-      "materials": { "iron nugget": 5 },
-      "sources": [ "Jock villagers" ]
+      "materials": { "iron nugget": 5 }
     }
   },
   {
@@ -33232,6 +33232,7 @@
     "sell": 900,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -33274,7 +33275,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -33293,6 +33293,7 @@
     "sell": 5400,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -33335,7 +33336,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -33379,6 +33379,7 @@
       "plural": false,
       "internalIds": [ 7804 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -33495,7 +33496,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -33514,6 +33514,7 @@
     "sell": 12000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -33556,7 +33557,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -33575,6 +33575,7 @@
     "sell": 1500,
     "size": "2x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -33617,7 +33618,6 @@
     "concepts": [ "school", "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -33636,6 +33636,7 @@
     "sell": 600,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -33678,7 +33679,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -33722,6 +33722,7 @@
       "plural": false,
       "internalIds": [ 1432 ]
     },
+    "source": [ "Starting items" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -34023,7 +34024,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Starting items" ],
     "recipe": null
   },
   {
@@ -34067,6 +34067,7 @@
       "plural": false,
       "internalIds": [ 1850 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -36368,7 +36369,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -36412,6 +36412,7 @@
       "plural": false,
       "internalIds": [ 7148 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -36565,7 +36566,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -36584,6 +36584,7 @@
     "sell": 1200,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -36626,7 +36627,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -36645,6 +36645,7 @@
     "sell": 600,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -36687,7 +36688,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -36731,6 +36731,7 @@
       "plural": false,
       "internalIds": [ 131 ]
     },
+    "source": [ "Gulliver" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -36810,7 +36811,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Gulliver" ],
     "recipe": null
   },
   {
@@ -36829,6 +36829,7 @@
     "sell": 21675,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -36871,13 +36872,13 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lucky gold cat",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -36909,8 +36910,7 @@
         "plural": false,
         "internalIds": [ 9814 ]
       },
-      "materials": { "gold nugget": 2, "lucky cat": 1 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "gold nugget": 2, "lucky cat": 1 }
     }
   },
   {
@@ -36929,6 +36929,7 @@
     "sell": 52,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -36992,7 +36993,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -37011,6 +37011,7 @@
     "sell": 52,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -37074,7 +37075,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -37093,6 +37093,7 @@
     "sell": 52,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -37156,7 +37157,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -37175,6 +37175,7 @@
     "sell": 52,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -37238,7 +37239,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -37257,6 +37257,7 @@
     "sell": 52,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -37320,7 +37321,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -37339,6 +37339,7 @@
     "sell": 52,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -37402,7 +37403,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -37421,6 +37421,7 @@
     "sell": 52,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -37484,7 +37485,6 @@
     "concepts": [ "living room", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -37528,6 +37528,7 @@
       "plural": false,
       "internalIds": [ 1032 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -40781,13 +40782,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "magazine rack",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -40819,8 +40820,7 @@
         "plural": false,
         "internalIds": [ 1032 ]
       },
-      "materials": { "magazine": 2, "wood": 4 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "magazine": 2, "wood": 4 }
     }
   },
   {
@@ -40864,6 +40864,7 @@
       "plural": false,
       "internalIds": [ 4392 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -40943,7 +40944,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -40962,6 +40962,7 @@
     "sell": 18000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -41004,7 +41005,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -41023,6 +41023,7 @@
     "sell": 3000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -41065,7 +41066,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -41084,6 +41084,7 @@
     "sell": 1290,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -41126,7 +41127,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -41170,6 +41170,7 @@
       "plural": false,
       "internalIds": [ 1652 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -41360,13 +41361,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "matryoshka",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -41398,8 +41399,7 @@
         "plural": false,
         "internalIds": [ 1652 ]
       },
-      "materials": { "softwood": 5 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "softwood": 5 }
     }
   },
   {
@@ -41418,6 +41418,7 @@
     "sell": 150,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -41460,7 +41461,6 @@
     "concepts": [ "garage" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -41504,6 +41504,7 @@
       "plural": false,
       "internalIds": [ 1042 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -41694,7 +41695,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -41738,6 +41738,7 @@
       "plural": false,
       "internalIds": [ 1319 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -41854,7 +41855,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -41898,6 +41898,7 @@
       "plural": false,
       "internalIds": [ 1043 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -42051,7 +42052,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -42070,6 +42070,7 @@
     "sell": 1800,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -42112,7 +42113,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -42131,6 +42131,7 @@
     "sell": 100,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -42173,7 +42174,6 @@
     "concepts": [ "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -42192,6 +42192,7 @@
     "sell": 6000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -42234,7 +42235,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -42278,6 +42278,7 @@
       "plural": false,
       "internalIds": [ 1050 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -42579,7 +42580,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -42598,6 +42598,7 @@
     "sell": 3000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -42640,7 +42641,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -42684,6 +42684,7 @@
       "plural": false,
       "internalIds": [ 7258 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -42948,13 +42949,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "modeling clay",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Cranky villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -42986,8 +42987,7 @@
         "plural": false,
         "internalIds": [ 7258 ]
       },
-      "materials": { "clay": 2 },
-      "sources": [ "Cranky villagers" ]
+      "materials": { "clay": 2 }
     }
   },
   {
@@ -43006,6 +43006,7 @@
     "sell": 1500,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -43048,7 +43049,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -43067,6 +43067,7 @@
     "sell": 420,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -43109,7 +43110,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -43128,6 +43128,7 @@
     "sell": 6000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -43170,7 +43171,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -43189,6 +43189,7 @@
     "sell": 390,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -43231,7 +43232,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -43250,6 +43250,7 @@
     "sell": 180,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -43292,7 +43293,6 @@
     "concepts": [ "zen-style" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -43311,6 +43311,7 @@
     "sell": 390,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -43353,7 +43354,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -43397,6 +43397,7 @@
       "plural": false,
       "internalIds": [ 1870 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -46186,7 +46187,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -46230,6 +46230,7 @@
       "plural": false,
       "internalIds": [ 4076 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -46309,7 +46310,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -46328,6 +46328,7 @@
     "sell": 1500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -46370,7 +46371,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -46389,6 +46389,7 @@
     "sell": 4500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -46431,7 +46432,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -46475,6 +46475,7 @@
       "plural": false,
       "internalIds": [ 6826 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 19,
@@ -46759,13 +46760,13 @@
     ],
     "set": null,
     "series": "stars",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "nova light",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -46797,8 +46798,7 @@
         "plural": false,
         "internalIds": [ 6826 ]
       },
-      "materials": { "star fragment": 5 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 5 }
     }
   },
   {
@@ -46842,6 +46842,7 @@
       "plural": false,
       "internalIds": [ 7284 ]
     },
+    "source": [ "Gulliver" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -46921,7 +46922,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Gulliver" ],
     "recipe": null
   },
   {
@@ -46940,6 +46940,7 @@
     "sell": 27000,
     "size": "2x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -46982,7 +46983,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -47001,6 +47001,7 @@
     "sell": 100,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -47043,7 +47044,6 @@
     "concepts": [ "school", "facility" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -47087,6 +47087,7 @@
       "plural": false,
       "internalIds": [ 4111 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -47388,7 +47389,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -47407,6 +47407,7 @@
     "sell": 360,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -47449,13 +47450,13 @@
     "concepts": [ "bathroom" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "old-fashioned washtub",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "DIY for Beginners" ],
       "sourceNotes": "Purchase DIY for Beginners at Nook's Cranny",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -47487,8 +47488,7 @@
         "plural": false,
         "internalIds": [ 4393 ]
       },
-      "materials": { "softwood": 3 },
-      "sources": [ "DIY for Beginners" ]
+      "materials": { "softwood": 3 }
     }
   },
   {
@@ -47507,6 +47507,7 @@
     "sell": 2400,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -47549,7 +47550,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -47568,6 +47568,7 @@
     "sell": 7200,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -47610,7 +47611,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -47654,6 +47654,7 @@
       "plural": false,
       "internalIds": [ 3965 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -48587,7 +48588,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -48606,6 +48606,7 @@
     "sell": 600,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -48648,7 +48649,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -48667,6 +48667,7 @@
     "sell": 3000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -48709,7 +48710,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -48728,6 +48728,7 @@
     "sell": 375,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -48770,7 +48771,6 @@
     "concepts": [ "zen-style" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -48814,6 +48814,7 @@
       "plural": false,
       "internalIds": [ 4128 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 13,
@@ -48913,13 +48914,13 @@
     ],
     "set": "peach",
     "series": "fruits",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "peach surprise box",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers", "Tom Nook" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest if the native fruit is peaches",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -48951,8 +48952,7 @@
         "plural": false,
         "internalIds": [ 4128 ]
       },
-      "materials": { "peach": 10, "softwood": 4 },
-      "sources": [ "Normal villagers", "Tom Nook" ]
+      "materials": { "peach": 10, "softwood": 4 }
     }
   },
   {
@@ -48971,6 +48971,7 @@
     "sell": 7500,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -49013,7 +49014,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -49057,6 +49057,7 @@
       "plural": false,
       "internalIds": [ 7257 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -49173,7 +49174,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -49217,6 +49217,7 @@
       "plural": false,
       "internalIds": [ 7801 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -49407,7 +49408,6 @@
     ],
     "set": "pet",
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -49426,6 +49426,7 @@
     "sell": 13250,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the third unique furniture slot",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -49468,7 +49469,6 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -49512,6 +49512,7 @@
       "plural": false,
       "internalIds": [ 1082 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -49739,7 +49740,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -49758,6 +49758,7 @@
     "sell": 5400,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -49800,7 +49801,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -49819,6 +49819,7 @@
     "sell": 750,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -49861,7 +49862,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -49880,6 +49880,7 @@
     "sell": 4200,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -49922,13 +49923,13 @@
     "concepts": [ "zen-style" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pine bonsai tree",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Fall",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -49960,8 +49961,7 @@
         "plural": false,
         "internalIds": [ 3802 ]
       },
-      "materials": { "pine cone": 8, "clay": 5 },
-      "sources": [ "Balloons" ]
+      "materials": { "pine cone": 8, "clay": 5 }
     }
   },
   {
@@ -49980,6 +49980,7 @@
     "sell": 7500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -50022,7 +50023,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -50041,6 +50041,7 @@
     "sell": 650,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -50083,7 +50084,6 @@
     "concepts": [ "child's room", "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -50127,6 +50127,7 @@
       "plural": false,
       "internalIds": [ 1881 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -50317,7 +50318,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -50336,6 +50336,7 @@
     "sell": 1200,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -50378,7 +50379,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -50397,6 +50397,7 @@
     "sell": 390,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -50439,7 +50440,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -50458,6 +50458,7 @@
     "sell": 3900,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -50500,7 +50501,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -50544,6 +50544,7 @@
       "plural": false,
       "internalIds": [ 3282 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -50771,7 +50772,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -50815,6 +50815,7 @@
       "plural": false,
       "internalIds": [ 3697 ]
     },
+    "source": [ "Starting items" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -51116,7 +51117,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Starting items" ],
     "recipe": null
   },
   {
@@ -51160,6 +51160,7 @@
       "plural": false,
       "internalIds": [ 4338 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -51424,7 +51425,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -51468,6 +51468,7 @@
       "plural": false,
       "internalIds": [ 2559 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -51658,13 +51659,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pot",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Tom Nook", "Cranky villagers" ],
       "sourceNotes": "Obtained during the main storyline during the villager house development quest",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -51696,8 +51697,7 @@
         "plural": false,
         "internalIds": [ 2559 ]
       },
-      "materials": { "clay": 5 },
-      "sources": [ "Tom Nook", "Cranky villagers" ]
+      "materials": { "clay": 5 }
     }
   },
   {
@@ -51741,6 +51741,7 @@
       "plural": false,
       "internalIds": [ 3822 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -51857,7 +51858,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -51901,6 +51901,7 @@
       "plural": false,
       "internalIds": [ 7800 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -52054,7 +52055,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -52073,6 +52073,7 @@
     "sell": 750,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -52115,7 +52116,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -52134,6 +52134,7 @@
     "sell": 18000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -52176,7 +52177,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -52195,6 +52195,7 @@
     "sell": 2400,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -52237,7 +52238,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -52256,6 +52256,7 @@
     "sell": 13500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -52298,7 +52299,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -52342,6 +52342,7 @@
       "plural": false,
       "internalIds": [ 4050 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 16,
@@ -52589,7 +52590,6 @@
     ],
     "set": null,
     "series": "rattan",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -52633,6 +52633,7 @@
       "plural": false,
       "internalIds": [ 4048 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 16,
@@ -52880,7 +52881,6 @@
     ],
     "set": null,
     "series": "rattan",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -52899,6 +52899,7 @@
     "sell": 9000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -52941,7 +52942,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -52985,6 +52985,7 @@
       "plural": false,
       "internalIds": [ 8096 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -54678,7 +54679,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -54722,6 +54722,7 @@
       "plural": false,
       "internalIds": [ 7045 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -54949,13 +54950,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "recycled-can thumb piano",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Fishing" ],
       "sourceNotes": "Fish up 3 empty cans",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -54987,8 +54988,7 @@
         "plural": false,
         "internalIds": [ 7045 ]
       },
-      "materials": { "empty can": 1, "wood": 1, "iron nugget": 1 },
-      "sources": [ "Fishing" ]
+      "materials": { "empty can": 1, "wood": 1, "iron nugget": 1 }
     }
   },
   {
@@ -55007,6 +55007,7 @@
     "sell": 540,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -55049,7 +55050,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -55068,6 +55068,7 @@
     "sell": 9000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -55110,7 +55111,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -55154,6 +55154,7 @@
       "plural": false,
       "internalIds": [ 1125 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -55270,7 +55271,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -55289,6 +55289,7 @@
     "sell": 1800,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -55331,7 +55332,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -55375,6 +55375,7 @@
       "plural": false,
       "internalIds": [ 1888 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -55565,7 +55566,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -55584,6 +55584,7 @@
     "sell": 1200,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -55626,7 +55627,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -55670,6 +55670,7 @@
       "plural": false,
       "internalIds": [ 1889 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -55971,7 +55972,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -56015,6 +56015,7 @@
       "plural": false,
       "internalIds": [ 88 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -56168,13 +56169,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ringtoss",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Test Your DIY Skills" ],
       "sourceNotes": "Purchase Test Your DIY Skills from Nook's Cranny",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -56206,8 +56207,7 @@
         "plural": false,
         "internalIds": [ 88 ]
       },
-      "materials": { "wood": 2, "softwood": 2 },
-      "sources": [ "Test Your DIY Skills" ]
+      "materials": { "wood": 2, "softwood": 2 }
     }
   },
   {
@@ -56226,6 +56226,7 @@
     "sell": 900,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -56268,7 +56269,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -56287,6 +56287,7 @@
     "sell": 9000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -56329,7 +56330,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -56373,6 +56373,7 @@
       "plural": false,
       "internalIds": [ 4029 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -56674,7 +56675,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -56693,6 +56693,7 @@
     "sell": 12000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -56735,7 +56736,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -56754,6 +56754,7 @@
     "sell": 2100,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -56796,7 +56797,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -56815,6 +56815,7 @@
     "sell": 36000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -56857,7 +56858,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -56876,6 +56876,7 @@
     "sell": 6000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -56918,7 +56919,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -56937,6 +56937,7 @@
     "sell": 30000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -56979,7 +56980,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -56998,6 +56998,7 @@
     "sell": 24000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -57040,7 +57041,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -57059,6 +57059,7 @@
     "sell": 1200,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -57101,7 +57102,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -57120,6 +57120,7 @@
     "sell": 3000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -57162,7 +57163,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -57181,6 +57181,7 @@
     "sell": 300,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -57223,7 +57224,6 @@
     "concepts": [ "living room", "ocean" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -57242,6 +57242,7 @@
     "sell": 3300,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -57284,7 +57285,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -57328,6 +57328,7 @@
       "plural": false,
       "internalIds": [ 1128 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -57592,7 +57593,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -57636,6 +57636,7 @@
       "plural": false,
       "internalIds": [ 3443 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -57863,7 +57864,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -57907,6 +57907,7 @@
       "plural": false,
       "internalIds": [ 667 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -57986,7 +57987,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -58030,6 +58030,7 @@
       "plural": false,
       "internalIds": [ 3984 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 7,
@@ -58277,13 +58278,13 @@
     ],
     "set": null,
     "series": "shell",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shell lamp",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -58315,8 +58316,7 @@
         "plural": false,
         "internalIds": [ 3984 ]
       },
-      "materials": { "giant clam": 2, "clay": 3 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "giant clam": 2, "clay": 3 }
     }
   },
   {
@@ -58360,6 +58360,7 @@
       "plural": false,
       "internalIds": [ 5150 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 7,
@@ -58607,13 +58608,13 @@
     ],
     "set": null,
     "series": "shell",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shell speaker",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -58645,8 +58646,7 @@
         "plural": false,
         "internalIds": [ 5150 ]
       },
-      "materials": { "conch": 3, "iron nugget": 2 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "conch": 3, "iron nugget": 2 }
     }
   },
   {
@@ -58665,6 +58665,7 @@
     "sell": 425,
     "size": "1x1",
     "surface": false,
+    "source": [ "HHA" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -58707,7 +58708,6 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "HHA" ],
     "recipe": null
   },
   {
@@ -58726,6 +58726,7 @@
     "sell": 425,
     "size": "1x1",
     "surface": false,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -58768,7 +58769,6 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -58787,6 +58787,7 @@
     "sell": 425,
     "size": "1x1",
     "surface": false,
+    "source": [ "Fishing Tourney" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -58829,7 +58830,6 @@
     "concepts": [ "expensive" ],
     "set": null,
     "series": null,
-    "sources": [ "Fishing Tourney" ],
     "recipe": null
   },
   {
@@ -58873,6 +58873,7 @@
       "plural": false,
       "internalIds": [ 1845 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -59137,7 +59138,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -59156,6 +59156,7 @@
     "sell": 750,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -59198,7 +59199,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -59217,6 +59217,7 @@
     "sell": 15000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -59259,7 +59260,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -59278,6 +59278,7 @@
     "sell": 325,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -59320,7 +59321,6 @@
     "concepts": [ "living room", "freezing cold" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -59339,6 +59339,7 @@
     "sell": 11250,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -59381,7 +59382,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -59425,6 +59425,7 @@
       "plural": false,
       "internalIds": [ 3619 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -59726,7 +59727,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -59745,6 +59745,7 @@
     "sell": 1800,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -59787,7 +59788,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -59806,6 +59806,7 @@
     "sell": 1500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -59848,7 +59849,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -59892,6 +59892,7 @@
       "plural": false,
       "internalIds": [ 1759 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -60045,13 +60046,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stack of books",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -60083,8 +60084,7 @@
         "plural": false,
         "internalIds": [ 1759 ]
       },
-      "materials": { "book": 5 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "book": 5 }
     }
   },
   {
@@ -60103,6 +60103,7 @@
     "sell": 630,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -60166,13 +60167,13 @@
     "concepts": [ "garage", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stacked magazines",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -60204,8 +60205,7 @@
         "plural": false,
         "internalIds": [ 1861 ]
       },
-      "materials": { "magazine": 6 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "magazine": 6 }
     }
   },
   {
@@ -60224,6 +60224,7 @@
     "sell": 630,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -60282,13 +60283,13 @@
     "concepts": [ "garage", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stacked magazines",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -60320,8 +60321,7 @@
         "plural": false,
         "internalIds": [ 1861 ]
       },
-      "materials": { "magazine": 6 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "magazine": 6 }
     }
   },
   {
@@ -60340,6 +60340,7 @@
     "sell": 630,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -60398,13 +60399,13 @@
     "concepts": [ "garage", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stacked magazines",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -60436,8 +60437,7 @@
         "plural": false,
         "internalIds": [ 1861 ]
       },
-      "materials": { "magazine": 6 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "magazine": 6 }
     }
   },
   {
@@ -60456,6 +60456,7 @@
     "sell": 630,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -60514,13 +60515,13 @@
     "concepts": [ "garage", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stacked magazines",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -60552,8 +60553,7 @@
         "plural": false,
         "internalIds": [ 1861 ]
       },
-      "materials": { "magazine": 6 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "magazine": 6 }
     }
   },
   {
@@ -60572,6 +60572,7 @@
     "sell": 630,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -60630,13 +60631,13 @@
     "concepts": [ "garage", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stacked magazines",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -60668,8 +60669,7 @@
         "plural": false,
         "internalIds": [ 1861 ]
       },
-      "materials": { "magazine": 6 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "magazine": 6 }
     }
   },
   {
@@ -60688,6 +60688,7 @@
     "sell": 630,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -60746,13 +60747,13 @@
     "concepts": [ "garage", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stacked magazines",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -60784,8 +60785,7 @@
         "plural": false,
         "internalIds": [ 1861 ]
       },
-      "materials": { "magazine": 6 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "magazine": 6 }
     }
   },
   {
@@ -60804,6 +60804,7 @@
     "sell": 630,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -60862,13 +60863,13 @@
     "concepts": [ "garage", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stacked magazines",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Peppy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -60900,8 +60901,7 @@
         "plural": false,
         "internalIds": [ 1861 ]
       },
-      "materials": { "magazine": 6 },
-      "sources": [ "Peppy villagers" ]
+      "materials": { "magazine": 6 }
     }
   },
   {
@@ -60945,6 +60945,7 @@
       "plural": false,
       "internalIds": [ 4019 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -61172,7 +61173,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -61216,6 +61216,7 @@
       "plural": false,
       "internalIds": [ 7253 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 19,
@@ -61500,13 +61501,13 @@
     ],
     "set": null,
     "series": "stars",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "star clock",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Celeste" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -61538,8 +61539,7 @@
         "plural": false,
         "internalIds": [ 7253 ]
       },
-      "materials": { "star fragment": 3, "iron nugget": 1 },
-      "sources": [ "Celeste" ]
+      "materials": { "star fragment": 3, "iron nugget": 1 }
     }
   },
   {
@@ -61558,6 +61558,7 @@
     "sell": 2400,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -61600,13 +61601,13 @@
     "concepts": [ "zen-style", "shop" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "steamer-basket set",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Spring",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -61638,8 +61639,7 @@
         "plural": false,
         "internalIds": [ 3344 ]
       },
-      "materials": { "young spring bamboo": 6 },
-      "sources": [ "Balloons" ]
+      "materials": { "young spring bamboo": 6 }
     }
   },
   {
@@ -61658,6 +61658,7 @@
     "sell": 360,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -61700,7 +61701,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -61744,6 +61744,7 @@
       "plural": false,
       "internalIds": [ 8297 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -61860,7 +61861,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -61879,6 +61879,7 @@
     "sell": 45000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -61921,7 +61922,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -61965,6 +61965,7 @@
       "plural": false,
       "internalIds": [ 3442 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -62192,7 +62193,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -62211,6 +62211,7 @@
     "sell": 30000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -62253,7 +62254,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -62272,6 +62272,7 @@
     "sell": 220,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -62314,13 +62315,13 @@
     "concepts": [ "living room" ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "succulent plant",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Fishing" ],
       "sourceNotes": "Fish up 1 empty can",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -62352,8 +62353,7 @@
         "plural": false,
         "internalIds": [ 132 ]
       },
-      "materials": { "clump of weeds": 10, "empty can": 1 },
-      "sources": [ "Fishing" ]
+      "materials": { "clump of weeds": 10, "empty can": 1 }
     }
   },
   {
@@ -62372,6 +62372,7 @@
     "sell": 4500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -62414,7 +62415,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -62433,6 +62433,7 @@
     "sell": 3000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -62475,7 +62476,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -62494,6 +62494,7 @@
     "sell": 2700,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -62536,7 +62537,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -62555,6 +62555,7 @@
     "sell": 275,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -62618,7 +62619,6 @@
     "concepts": [ "den", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -62637,6 +62637,7 @@
     "sell": 275,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -62700,7 +62701,6 @@
     "concepts": [ "den", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -62719,6 +62719,7 @@
     "sell": 275,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -62782,7 +62783,6 @@
     "concepts": [ "den", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -62801,6 +62801,7 @@
     "sell": 275,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -62864,7 +62865,6 @@
     "concepts": [ "den", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -62883,6 +62883,7 @@
     "sell": 275,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -62946,7 +62947,6 @@
     "concepts": [ "den", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -62965,6 +62965,7 @@
     "sell": 275,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -63028,7 +63029,6 @@
     "concepts": [ "den", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -63047,6 +63047,7 @@
     "sell": 275,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -63110,7 +63111,6 @@
     "concepts": [ "den", "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -63154,6 +63154,7 @@
       "plural": false,
       "internalIds": [ 4068 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -64454,7 +64455,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -64498,6 +64498,7 @@
       "plural": false,
       "internalIds": [ 4067 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 26,
@@ -64745,13 +64746,13 @@
     ],
     "set": null,
     "series": "festive",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tabletop festive tree",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Festive Season",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -64783,8 +64784,7 @@
         "plural": false,
         "internalIds": [ 4067 ]
       },
-      "materials": { "gold ornament": 5, "tree branch": 3, "clay": 2 },
-      "sources": [ "Balloons" ]
+      "materials": { "gold ornament": 5, "tree branch": 3, "clay": 2 }
     }
   },
   {
@@ -64803,6 +64803,7 @@
     "sell": 300,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -64845,7 +64846,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -64889,6 +64889,7 @@
       "plural": false,
       "internalIds": [ 787 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -65042,7 +65043,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -65061,6 +65061,7 @@
     "sell": 24000,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -65103,7 +65104,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -65147,6 +65147,7 @@
       "plural": false,
       "internalIds": [ 3467 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -65976,7 +65977,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -66020,6 +66020,7 @@
       "plural": false,
       "internalIds": [ 3773 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -66136,13 +66137,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "terrarium",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -66174,8 +66175,7 @@
         "plural": false,
         "internalIds": [ 3773 ]
       },
-      "materials": { "clump of weeds": 12, "iron nugget": 2 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "clump of weeds": 12, "iron nugget": 2 }
     }
   },
   {
@@ -66194,6 +66194,7 @@
     "sell": 150,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook Shopping Seasonal" ],
     "sourceNotes": "Only available during the month Father's Day occurs, region dependant",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
@@ -66236,7 +66237,6 @@
     "concepts": [ "living room", "den" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook Shopping Seasonal" ],
     "recipe": null
   },
   {
@@ -66255,6 +66255,7 @@
     "sell": 150,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook Shopping Seasonal" ],
     "sourceNotes": "Only available during the month Mother's Day occurs, region dependant",
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.0a",
@@ -66297,7 +66298,6 @@
     "concepts": [ "living room", "fancy" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook Shopping Seasonal" ],
     "recipe": null
   },
   {
@@ -66341,6 +66341,7 @@
       "plural": false,
       "internalIds": [ 4762 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 17,
@@ -66625,7 +66626,6 @@
     ],
     "set": null,
     "series": "throwback",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -66669,6 +66669,7 @@
       "plural": false,
       "internalIds": [ 4754 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 17,
@@ -66805,7 +66806,6 @@
     ],
     "set": null,
     "series": "throwback",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -66849,6 +66849,7 @@
       "plural": false,
       "internalIds": [ 4757 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 17,
@@ -67096,7 +67097,6 @@
     ],
     "set": null,
     "series": "throwback",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -67140,6 +67140,7 @@
       "plural": false,
       "internalIds": [ 4753 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 17,
@@ -67387,7 +67388,6 @@
     ],
     "set": null,
     "series": "throwback",
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -67406,6 +67406,7 @@
     "sell": 4500,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -67448,7 +67449,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -67467,6 +67467,7 @@
     "sell": 720,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -67509,7 +67510,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -67528,6 +67528,7 @@
     "sell": 2400,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -67570,7 +67571,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -67589,6 +67589,7 @@
     "sell": 250,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -67631,7 +67632,6 @@
     "concepts": [ "garage" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -67675,6 +67675,7 @@
       "plural": false,
       "internalIds": [ 4114 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -67902,7 +67903,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -67946,6 +67946,7 @@
       "plural": false,
       "internalIds": [ 4687 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -68173,7 +68174,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -68217,6 +68217,7 @@
       "plural": false,
       "internalIds": [ 3623 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -68370,7 +68371,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -68389,6 +68389,7 @@
     "sell": 50,
     "size": "1x1",
     "surface": false,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -68431,7 +68432,6 @@
     "concepts": [ "child's room", "horror" ],
     "set": null,
     "series": null,
-    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -68450,6 +68450,7 @@
     "sell": 70,
     "size": "1x1",
     "surface": false,
+    "source": [ "Bug-Off" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -68492,7 +68493,6 @@
     "concepts": [ "child's room", "horror" ],
     "set": null,
     "series": null,
-    "sources": [ "Bug-Off" ],
     "recipe": null
   },
   {
@@ -68511,6 +68511,7 @@
     "sell": 1840,
     "size": "1x1",
     "surface": false,
+    "source": [ "Crafting" ],
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -68553,13 +68554,13 @@
     "concepts": [ "child's room", "fancy" ],
     "set": null,
     "series": "tree's bounty or leaves ",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "traditional balancing toy",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Fall",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -68591,8 +68592,7 @@
         "plural": false,
         "internalIds": [ 5975 ]
       },
-      "materials": { "acorn": 4, "hardwood": 2 },
-      "sources": [ "Balloons" ]
+      "materials": { "acorn": 4, "hardwood": 2 }
     }
   },
   {
@@ -68636,6 +68636,7 @@
       "plural": false,
       "internalIds": [ 4033 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -68752,7 +68753,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -68796,6 +68796,7 @@
       "plural": false,
       "internalIds": [ 1823 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -68949,13 +68950,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "trash bags",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Fishing" ],
       "sourceNotes": "Fish up 15 trash",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -68987,8 +68988,7 @@
         "plural": false,
         "internalIds": [ 1823 ]
       },
-      "materials": { "empty can": 1, "boot": 1, "old tire": 1 },
-      "sources": [ "Fishing" ]
+      "materials": { "empty can": 1, "boot": 1, "old tire": 1 }
     }
   },
   {
@@ -69032,6 +69032,7 @@
       "plural": false,
       "internalIds": [ 6078 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -69111,13 +69112,13 @@
     ],
     "set": null,
     "series": "tree's bounty or leaves ",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tree's bounty lamp",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons" ],
       "sourceNotes": "Only available during Fall",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -69149,8 +69150,7 @@
         "plural": false,
         "internalIds": [ 6078 ]
       },
-      "materials": { "acorn": 6, "clay": 4 },
-      "sources": [ "Balloons" ]
+      "materials": { "acorn": 6, "clay": 4 }
     }
   },
   {
@@ -69194,6 +69194,7 @@
       "plural": false,
       "internalIds": [ 6079 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -69273,13 +69274,13 @@
     ],
     "set": null,
     "series": "tree's bounty or leaves ",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tree's bounty little tree",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Balloons", "Isabelle" ],
       "sourceNotes": "Only available during Fall",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -69311,8 +69312,7 @@
         "plural": false,
         "internalIds": [ 6079 ]
       },
-      "materials": { "pine cone": 6, "acorn": 4, "hardwood": 1 },
-      "sources": [ "Balloons", "Isabelle" ]
+      "materials": { "pine cone": 6, "acorn": 4, "hardwood": 1 }
     }
   },
   {
@@ -69331,6 +69331,7 @@
     "sell": 21000,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -69373,7 +69374,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -69417,6 +69417,7 @@
       "plural": false,
       "internalIds": [ 1211 ]
     },
+    "source": [ "Nook's Cranny" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -69644,7 +69645,6 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -69688,6 +69688,7 @@
       "plural": false,
       "internalIds": [ 669 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -69841,13 +69842,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ukulele",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Smug villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -69879,8 +69880,7 @@
         "plural": false,
         "internalIds": [ 669 ]
       },
-      "materials": { "hardwood": 5 },
-      "sources": [ "Smug villagers" ]
+      "materials": { "hardwood": 5 }
     }
   },
   {
@@ -69899,6 +69899,7 @@
     "sell": 72,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -69962,7 +69963,6 @@
     "concepts": [ "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -69981,6 +69981,7 @@
     "sell": 72,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -70044,7 +70045,6 @@
     "concepts": [ "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -70063,6 +70063,7 @@
     "sell": 72,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -70126,7 +70127,6 @@
     "concepts": [ "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -70145,6 +70145,7 @@
     "sell": 72,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -70208,7 +70209,6 @@
     "concepts": [ "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -70227,6 +70227,7 @@
     "sell": 72,
     "size": "1x1",
     "surface": false,
+    "source": [ "Nook's Cranny" ],
     "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -70290,7 +70291,6 @@
     "concepts": [ "child's room" ],
     "set": null,
     "series": null,
-    "sources": [ "Nook's Cranny" ],
     "recipe": null
   },
   {
@@ -70334,6 +70334,7 @@
       "plural": false,
       "internalIds": [ 4025 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -70561,13 +70562,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "unglazed dish set",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Snooty villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -70599,8 +70600,7 @@
         "plural": false,
         "internalIds": [ 4025 ]
       },
-      "materials": { "clay": 3 },
-      "sources": [ "Snooty villagers" ]
+      "materials": { "clay": 3 }
     }
   },
   {
@@ -70619,6 +70619,7 @@
     "sell": 1350,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -70661,7 +70662,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -70680,6 +70680,7 @@
     "sell": 1200,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -70722,7 +70723,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -70741,6 +70741,7 @@
     "sell": 1800,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -70783,7 +70784,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -70802,6 +70802,7 @@
     "sell": 1800,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -70844,7 +70845,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -70863,6 +70863,7 @@
     "sell": 7500,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -70905,7 +70906,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -70949,6 +70949,7 @@
       "plural": false,
       "internalIds": [ 12403 ]
     },
+    "source": [ "Cyrus" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 28,
@@ -71085,7 +71086,6 @@
     ],
     "set": null,
     "series": "wedding",
-    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -71129,6 +71129,7 @@
       "plural": false,
       "internalIds": [ 12408 ]
     },
+    "source": [ "Cyrus" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 28,
@@ -71265,7 +71266,6 @@
     ],
     "set": null,
     "series": "wedding",
-    "sources": [ "Cyrus" ],
     "recipe": null
   },
   {
@@ -71284,6 +71284,7 @@
     "sell": 39000,
     "size": "2x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -71326,7 +71327,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -71345,6 +71345,7 @@
     "sell": 600,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -71387,7 +71388,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -71431,6 +71431,7 @@
       "plural": false,
       "internalIds": [ 7233 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 20,
@@ -71567,13 +71568,13 @@
     ],
     "set": null,
     "series": "flowers",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "windflower fan",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Lazy villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -71605,8 +71606,7 @@
         "plural": false,
         "internalIds": [ 7233 ]
       },
-      "materials": { "red windflowers": 3, "iron nugget": 2 },
-      "sources": [ "Lazy villagers" ]
+      "materials": { "red windflowers": 3, "iron nugget": 2 }
     }
   },
   {
@@ -71650,6 +71650,7 @@
       "plural": false,
       "internalIds": [ 4124 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": null,
     "variations": [
       {
@@ -71766,13 +71767,13 @@
     ],
     "set": null,
     "series": null,
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden fish",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Wildest Dreams DIY" ],
       "sourceNotes": "Purchase Wildest Dreams DIY from Nook's Cranny",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -71804,8 +71805,7 @@
         "plural": false,
         "internalIds": [ 4124 ]
       },
-      "materials": { "wood": 3 },
-      "sources": [ "Wildest Dreams DIY" ]
+      "materials": { "wood": 3 }
     }
   },
   {
@@ -71849,6 +71849,7 @@
       "plural": false,
       "internalIds": [ 8826 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 15,
@@ -72170,13 +72171,13 @@
     ],
     "set": null,
     "series": "wooden",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden table mirror",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Big Sister villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -72208,8 +72209,7 @@
         "plural": false,
         "internalIds": [ 8826 ]
       },
-      "materials": { "wood": 3, "iron nugget": 1 },
-      "sources": [ "Big Sister villagers" ]
+      "materials": { "wood": 3, "iron nugget": 1 }
     }
   },
   {
@@ -72253,6 +72253,7 @@
       "plural": false,
       "internalIds": [ 7454 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 15,
@@ -72426,13 +72427,13 @@
     ],
     "set": null,
     "series": "wooden",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden toolbox",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "Normal villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -72464,8 +72465,7 @@
         "plural": false,
         "internalIds": [ 7454 ]
       },
-      "materials": { "softwood": 4, "iron nugget": 2 },
-      "sources": [ "Normal villagers" ]
+      "materials": { "softwood": 4, "iron nugget": 2 }
     }
   },
   {
@@ -72509,6 +72509,7 @@
       "plural": false,
       "internalIds": [ 3206 ]
     },
+    "source": [ "Crafting" ],
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": 11,
@@ -72719,13 +72720,13 @@
     ],
     "set": null,
     "series": "wooden block",
-    "sources": [ "Crafting" ],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden-block toy",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
+      "source": [ "DIY for Beginners" ],
       "sourceNotes": "Purchase DIY for Beginners at Nook's Cranny",
       "versionAdded": "1.0.0",
       "versionUnlocked": "1.0.0",
@@ -72757,8 +72758,7 @@
         "plural": false,
         "internalIds": [ 3206 ]
       },
-      "materials": { "softwood": 3 },
-      "sources": [ "DIY for Beginners" ]
+      "materials": { "softwood": 3 }
     }
   },
   {
@@ -72777,6 +72777,7 @@
     "sell": 480,
     "size": "1x1",
     "surface": false,
+    "source": [ "Flick" ],
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -72819,7 +72820,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "Flick" ],
     "recipe": null
   },
   {
@@ -72838,6 +72838,7 @@
     "sell": 900,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -72880,7 +72881,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   },
   {
@@ -72899,6 +72899,7 @@
     "sell": 1500,
     "size": "1x1",
     "surface": false,
+    "source": [ "C.J." ],
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
@@ -72941,7 +72942,6 @@
     "concepts": [],
     "set": null,
     "series": null,
-    "sources": [ "C.J." ],
     "recipe": null
   }
 ]

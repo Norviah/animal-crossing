@@ -10,6 +10,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
@@ -38,7 +39,6 @@
       "internalIds": [ 238 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -52,6 +52,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -80,7 +81,6 @@
       "internalIds": [ 240 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -94,6 +94,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -122,7 +123,6 @@
       "internalIds": [ 239 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -136,6 +136,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -164,7 +165,6 @@
       "internalIds": [ 4664 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -178,6 +178,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -206,7 +207,6 @@
       "internalIds": [ 294 ]
     },
     "colors": [ "Yellow", "Yellow" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -220,6 +220,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -248,7 +249,6 @@
       "internalIds": [ 295 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -262,6 +262,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -290,7 +291,6 @@
       "internalIds": [ 169 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -304,6 +304,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -332,7 +333,6 @@
       "internalIds": [ 171 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -346,6 +346,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -374,7 +375,6 @@
       "internalIds": [ 170 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -388,6 +388,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -416,7 +417,6 @@
       "internalIds": [ 4651 ]
     },
     "colors": [ "Black", "Gray" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -430,6 +430,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -458,7 +459,6 @@
       "internalIds": [ 298 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -472,6 +472,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -500,7 +501,6 @@
       "internalIds": [ 177 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -514,6 +514,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -542,7 +543,6 @@
       "internalIds": [ 178 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -556,6 +556,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -584,7 +585,6 @@
       "internalIds": [ 301 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -598,6 +598,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -626,7 +627,6 @@
       "internalIds": [ 4689 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -640,6 +640,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -668,7 +669,6 @@
       "internalIds": [ 4690 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -682,6 +682,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -710,7 +711,6 @@
       "internalIds": [ 4688 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -724,6 +724,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -752,7 +753,6 @@
       "internalIds": [ 4691 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -766,6 +766,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -794,7 +795,6 @@
       "internalIds": [ 296 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -808,6 +808,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -836,7 +837,6 @@
       "internalIds": [ 211 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -850,6 +850,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -878,7 +879,6 @@
       "internalIds": [ 210 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -892,6 +892,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -920,7 +921,6 @@
       "internalIds": [ 184 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -934,6 +934,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -962,7 +963,6 @@
       "internalIds": [ 185 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -976,6 +976,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1004,7 +1005,6 @@
       "internalIds": [ 300 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1018,6 +1018,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1046,7 +1047,6 @@
       "internalIds": [ 218 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1060,6 +1060,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1088,7 +1089,6 @@
       "internalIds": [ 217 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1102,6 +1102,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1130,7 +1131,6 @@
       "internalIds": [ 219 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1144,6 +1144,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1172,7 +1173,6 @@
       "internalIds": [ 216 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1186,6 +1186,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1214,7 +1215,6 @@
       "internalIds": [ 220 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1228,6 +1228,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1256,7 +1257,6 @@
       "internalIds": [ 7251 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1270,6 +1270,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -1298,7 +1299,6 @@
       "internalIds": [ 4660 ]
     },
     "colors": [ "Gray", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1312,6 +1312,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -1340,7 +1341,6 @@
       "internalIds": [ 4663 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1354,6 +1354,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1382,7 +1383,6 @@
       "internalIds": [ 188 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1396,6 +1396,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1424,7 +1425,6 @@
       "internalIds": [ 190 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1438,6 +1438,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1466,7 +1467,6 @@
       "internalIds": [ 189 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1480,6 +1480,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1508,7 +1509,6 @@
       "internalIds": [ 4665 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1522,6 +1522,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1550,7 +1551,6 @@
       "internalIds": [ 4659 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1564,6 +1564,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1592,7 +1593,6 @@
       "internalIds": [ 208 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1606,6 +1606,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1634,7 +1635,6 @@
       "internalIds": [ 4699 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1648,6 +1648,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1676,7 +1677,6 @@
       "internalIds": [ 195 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1690,6 +1690,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1718,7 +1719,6 @@
       "internalIds": [ 196 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1732,6 +1732,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1760,7 +1761,6 @@
       "internalIds": [ 180 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1774,6 +1774,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1802,7 +1803,6 @@
       "internalIds": [ 182 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1816,6 +1816,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -1844,7 +1845,6 @@
       "internalIds": [ 181 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1858,6 +1858,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -1886,7 +1887,6 @@
       "internalIds": [ 4662 ]
     },
     "colors": [ "Gray", "Gray" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1900,6 +1900,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1928,7 +1929,6 @@
       "internalIds": [ 192 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1942,6 +1942,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -1970,7 +1971,6 @@
       "internalIds": [ 193 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -1984,6 +1984,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
@@ -2012,7 +2013,6 @@
       "internalIds": [ 198 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2026,6 +2026,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2054,7 +2055,6 @@
       "internalIds": [ 199 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2068,6 +2068,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2096,7 +2097,6 @@
       "internalIds": [ 202 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2110,6 +2110,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2138,7 +2139,6 @@
       "internalIds": [ 204 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2152,6 +2152,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2180,7 +2181,6 @@
       "internalIds": [ 203 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2194,6 +2194,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2222,7 +2223,6 @@
       "internalIds": [ 234 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2236,6 +2236,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2264,7 +2265,6 @@
       "internalIds": [ 236 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2278,6 +2278,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2306,7 +2307,6 @@
       "internalIds": [ 235 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2320,6 +2320,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2348,7 +2349,6 @@
       "internalIds": [ 206 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2362,6 +2362,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2390,7 +2391,6 @@
       "internalIds": [ 4697 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2404,6 +2404,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -2432,7 +2433,6 @@
       "internalIds": [ 4658 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2446,6 +2446,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2474,7 +2475,6 @@
       "internalIds": [ 207 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2488,6 +2488,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2516,7 +2517,6 @@
       "internalIds": [ 4698 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2530,6 +2530,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -2558,7 +2559,6 @@
       "internalIds": [ 213 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2572,6 +2572,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
@@ -2600,7 +2601,6 @@
       "internalIds": [ 214 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2614,6 +2614,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -2642,7 +2643,6 @@
       "internalIds": [ 302 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2656,6 +2656,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
@@ -2684,7 +2685,6 @@
       "internalIds": [ 222 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2698,6 +2698,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2726,7 +2727,6 @@
       "internalIds": [ 224 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2740,6 +2740,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2768,7 +2769,6 @@
       "internalIds": [ 223 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2782,6 +2782,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2810,7 +2811,6 @@
       "internalIds": [ 226 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2824,6 +2824,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2852,7 +2853,6 @@
       "internalIds": [ 228 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2866,6 +2866,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2894,7 +2895,6 @@
       "internalIds": [ 227 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2908,6 +2908,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
@@ -2936,7 +2937,6 @@
       "internalIds": [ 242 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2950,6 +2950,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -2978,7 +2979,6 @@
       "internalIds": [ 244 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -2992,6 +2992,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "2x2",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
@@ -3020,7 +3021,6 @@
       "internalIds": [ 243 ]
     },
     "colors": [ "Brown", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   },
   {
@@ -3034,6 +3034,7 @@
     ],
     "hhaBasePoints": 87,
     "size": "1x1",
+    "source": [ "Assessing fossils" ],
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
@@ -3062,7 +3063,6 @@
       "internalIds": [ 303 ]
     },
     "colors": [ "Beige", "Brown" ],
-    "sources": [ "Assessing fossils" ],
     "recipe": null
   }
 ]
