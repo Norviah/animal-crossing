@@ -157,6 +157,134 @@
         "wood egg": 1,
         "sky egg": 1,
         "water egg": 1
+      },
+      "materialsTranslations": {
+        "earth egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12509",
+          "version": "1.1.0",
+          "english": "earth egg",
+          "englishEurope": "earth egg",
+          "german": "Erd-Glücksei",
+          "spanish": "huevo terrestre",
+          "spanishUs": "huevo terrestre",
+          "french": "œuf terrestre",
+          "frenchUs": "œuf terrestre",
+          "italian": "uovo terrestre",
+          "dutch": "aarde-ei",
+          "chinese": "地面蛋",
+          "chineseTraditional": "地面蛋",
+          "japanese": "じめんのたまご",
+          "korean": "땅 달걀",
+          "russian": "земляное яйцо",
+          "plural": false,
+          "internalIds": [ 12509 ]
+        },
+        "stone egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12510",
+          "version": "1.1.0",
+          "english": "stone egg",
+          "englishEurope": "stone egg",
+          "german": "Fels-Glücksei",
+          "spanish": "huevo rupestre",
+          "spanishUs": "huevo rupestre",
+          "french": "œuf minéral",
+          "frenchUs": "œuf minéral",
+          "italian": "uovo roccioso",
+          "dutch": "steenei",
+          "chinese": "岩石蛋",
+          "chineseTraditional": "岩石蛋",
+          "japanese": "いわのたまご",
+          "korean": "바위 달걀",
+          "russian": "каменное яйцо",
+          "plural": false,
+          "internalIds": [ 12510 ]
+        },
+        "leaf egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12511",
+          "version": "1.1.0",
+          "english": "leaf egg",
+          "englishEurope": "leaf egg",
+          "german": "Laub-Glücksei",
+          "spanish": "huevo boscoso",
+          "spanishUs": "huevo boscoso",
+          "french": "œuf feuillu",
+          "frenchUs": "œuf feuillu",
+          "italian": "uovo frondoso",
+          "dutch": "bladei",
+          "chinese": "叶子蛋",
+          "chineseTraditional": "葉子蛋",
+          "japanese": "はっぱのたまご",
+          "korean": "나뭇잎 달걀",
+          "russian": "лиственное яйцо",
+          "plural": false,
+          "internalIds": [ 12511 ]
+        },
+        "wood egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12512",
+          "version": "1.1.0",
+          "english": "wood egg",
+          "englishEurope": "wood egg",
+          "german": "Holz-Glücksei",
+          "spanish": "huevo leñoso",
+          "spanishUs": "huevo leñoso",
+          "french": "œuf boisé",
+          "frenchUs": "œuf boisé",
+          "italian": "uovo boscoso",
+          "dutch": "houtei",
+          "chinese": "森林蛋",
+          "chineseTraditional": "森林蛋",
+          "japanese": "ウッディなたまご",
+          "korean": "나무 달걀",
+          "russian": "лесное яйцо",
+          "plural": false,
+          "internalIds": [ 12512 ]
+        },
+        "sky egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12513",
+          "version": "1.1.0",
+          "english": "sky egg",
+          "englishEurope": "sky egg",
+          "german": "Luft-Glücksei",
+          "spanish": "huevo celeste",
+          "spanishUs": "huevo celeste",
+          "french": "œuf aérien",
+          "frenchUs": "œuf aérien",
+          "italian": "uovo celeste",
+          "dutch": "luchtei",
+          "chinese": "飞天蛋",
+          "chineseTraditional": "飛天蛋",
+          "japanese": "そらとぶたまご",
+          "korean": "하늘을 나는 달걀",
+          "russian": "небесное яйцо",
+          "plural": false,
+          "internalIds": [ 12513 ]
+        },
+        "water egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12514",
+          "version": "1.1.0",
+          "english": "water egg",
+          "englishEurope": "water egg",
+          "german": "Wasser-Glücksei",
+          "spanish": "huevo acuático",
+          "spanishUs": "huevo acuático",
+          "french": "œuf aquatique",
+          "frenchUs": "œuf aquatique",
+          "italian": "uovo acquatico",
+          "dutch": "waterei",
+          "chinese": "鱼儿蛋",
+          "chineseTraditional": "魚兒蛋",
+          "japanese": "サカナのたまご",
+          "korean": "물고기 달걀",
+          "russian": "водяное яйцо",
+          "plural": false,
+          "internalIds": [ 12514 ]
+        }
       }
     }
   },
@@ -675,7 +803,30 @@
         "plural": false,
         "internalIds": [ 7492 ]
       },
-      "materials": { "acorn": 6 }
+      "materials": { "acorn": 6 },
+      "materialsTranslations": {
+        "acorn": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_05727",
+          "version": "1.0.0",
+          "english": "acorn",
+          "englishEurope": "acorn",
+          "german": "Eichel",
+          "spanish": "bellota",
+          "spanishUs": "bellota",
+          "french": "gland",
+          "frenchUs": "gland",
+          "italian": "ghianda",
+          "dutch": "eikel",
+          "chinese": "橡栗",
+          "chineseTraditional": "橡栗",
+          "japanese": "どんぐり",
+          "korean": "도토리",
+          "russian": "желудь",
+          "plural": false,
+          "internalIds": [ 5727 ]
+        }
+      }
     }
   },
   {
@@ -808,7 +959,30 @@
         "plural": false,
         "internalIds": [ 7506 ]
       },
-      "materials": { "young spring bamboo": 6 }
+      "materials": { "young spring bamboo": 6 },
+      "materialsTranslations": {
+        "young spring bamboo": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_05729",
+          "version": "1.0.0",
+          "english": "young spring bamboo",
+          "englishEurope": "young spring bamboo",
+          "german": "Frühlingsbambus",
+          "spanish": "tallo de bambú primaveral",
+          "spanishUs": "tallo de bambú primaveral",
+          "french": "jeune bambou printemps",
+          "frenchUs": "jeune bambou printemps",
+          "italian": "bambù giovane primavera",
+          "dutch": "jonge lentebamboe",
+          "chinese": "春笋",
+          "chineseTraditional": "春筍",
+          "japanese": "はるのわかたけ",
+          "korean": "봄의 대나무",
+          "russian": "весенний бамбук",
+          "plural": false,
+          "internalIds": [ 5729 ]
+        }
+      }
     }
   },
   {
@@ -1202,7 +1376,30 @@
         "plural": false,
         "internalIds": [ 7490 ]
       },
-      "materials": { "cherry-blossom petal": 6 }
+      "materials": { "cherry-blossom petal": 6 },
+      "materialsTranslations": {
+        "cherry-blossom petal": {
+          "sourceSheet": "Craft",
+          "id": "Sakurapetal_05859",
+          "version": "1.0.0",
+          "english": "cherry-blossom petal",
+          "englishEurope": "cherry-blossom petal",
+          "german": "Kirschblüte",
+          "spanish": "pétalo de cerezo",
+          "spanishUs": "pétalo de cerezo",
+          "french": "pétale de cerisier",
+          "frenchUs": "pétale de cerisier",
+          "italian": "petalo di ciliegio",
+          "dutch": "kersenbloesemblaadje",
+          "chinese": "樱花花瓣",
+          "chineseTraditional": "櫻花花瓣",
+          "japanese": "さくらのはなびら",
+          "korean": "벚꽃잎",
+          "russian": "лепесток вишни",
+          "plural": false,
+          "internalIds": [ 5859 ]
+        }
+      }
     }
   },
   {
@@ -3469,7 +3666,30 @@
         "plural": false,
         "internalIds": [ 7511 ]
       },
-      "materials": { "clump of weeds": 20 }
+      "materials": { "clump of weeds": 20 },
+      "materialsTranslations": {
+        "clump of weeds": {
+          "sourceSheet": "Plants",
+          "id": "Weed_02624",
+          "version": "1.0.0",
+          "english": "clump of weeds",
+          "englishEurope": "clump of weeds",
+          "german": "Unkraut",
+          "spanish": "hierbajo",
+          "spanishUs": "maleza",
+          "french": "mauvaise herbe",
+          "frenchUs": "mauvaise herbe",
+          "italian": "erbaccia",
+          "dutch": "onkruid",
+          "chinese": "杂草",
+          "chineseTraditional": "雜草",
+          "japanese": "ざっそう",
+          "korean": "잡초",
+          "russian": "сорняк",
+          "plural": false,
+          "internalIds": [ 2624 ]
+        }
+      }
     }
   },
   {
@@ -3602,7 +3822,51 @@
         "plural": false,
         "internalIds": [ 7498 ]
       },
-      "materials": { "wood": 3, "hardwood": 5 }
+      "materials": { "wood": 3, "hardwood": 5 },
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02768",
+          "version": "1.0.0",
+          "english": "wood",
+          "englishEurope": "wood",
+          "german": "Holz",
+          "spanish": "tabla normal",
+          "spanishUs": "tabla normal",
+          "french": "bois",
+          "frenchUs": "bois",
+          "italian": "legno normale",
+          "dutch": "hout",
+          "chinese": "木材",
+          "chineseTraditional": "木材",
+          "japanese": "もくざい",
+          "korean": "목재",
+          "russian": "древесина",
+          "plural": false,
+          "internalIds": [ 2768 ]
+        },
+        "hardwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02769",
+          "version": "1.0.0",
+          "english": "hardwood",
+          "englishEurope": "hardwood",
+          "german": "Hartholz",
+          "spanish": "tabla rígida",
+          "spanishUs": "tabla rígida",
+          "french": "bois dur",
+          "frenchUs": "bois dur",
+          "italian": "legno duro",
+          "dutch": "hardhout",
+          "chinese": "硬木材",
+          "chineseTraditional": "硬木材",
+          "japanese": "かたいもくざい",
+          "korean": "단단한 목재",
+          "russian": "твердая древесина",
+          "plural": false,
+          "internalIds": [ 2769 ]
+        }
+      }
     }
   },
   {
@@ -3714,7 +3978,30 @@
         "plural": false,
         "internalIds": [ 7491 ]
       },
-      "materials": { "maple leaf": 6 }
+      "materials": { "maple leaf": 6 },
+      "materialsTranslations": {
+        "maple leaf": {
+          "sourceSheet": "Craft",
+          "id": "AutumnLeaf_07374",
+          "version": "1.0.0",
+          "english": "maple leaf",
+          "englishEurope": "maple leaf",
+          "german": "Herbstblatt",
+          "spanish": "hoja de arce",
+          "spanishUs": "hoja de arce",
+          "french": "feuille d'érable",
+          "frenchUs": "feuille d'érable",
+          "italian": "foglia d'acero",
+          "dutch": "esdoornblad",
+          "chinese": "枫叶",
+          "chineseTraditional": "楓葉",
+          "japanese": "もみじのはっぱ",
+          "korean": "단풍잎",
+          "russian": "кленовый лист",
+          "plural": false,
+          "internalIds": [ 7374 ]
+        }
+      }
     }
   },
   {
@@ -5182,7 +5469,51 @@
         "plural": false,
         "internalIds": [ 7494 ]
       },
-      "materials": { "giant clam": 2, "summer shell": 6 }
+      "materials": { "giant clam": 2, "summer shell": 6 },
+      "materialsTranslations": {
+        "giant clam": {
+          "sourceSheet": "Shells",
+          "id": "ShellDrift_01381",
+          "version": "1.0.0",
+          "english": "giant clam",
+          "englishEurope": "giant clam",
+          "german": "Riesenmuschel",
+          "spanish": "almeja gigante",
+          "spanishUs": "almeja gigante",
+          "french": "bénitier géant",
+          "frenchUs": "bénitier géant",
+          "italian": "vongola gigante",
+          "dutch": "doopvontschelp",
+          "chinese": "扇贝壳",
+          "chineseTraditional": "扇貝殼",
+          "japanese": "シャコガイ",
+          "korean": "거거",
+          "russian": "раковина тридакны",
+          "plural": false,
+          "internalIds": [ 1381 ]
+        },
+        "summer shell": {
+          "sourceSheet": "Shells",
+          "id": "ShellDrift_05982",
+          "version": "1.0.0",
+          "english": "summer shell",
+          "englishEurope": "summer shell",
+          "german": "Sommermuschel",
+          "spanish": "caracola estival",
+          "spanishUs": "caracola estival",
+          "french": "coquillage estival",
+          "frenchUs": "coquillage estival",
+          "italian": "conchiglia estiva",
+          "dutch": "zomerschelp",
+          "chinese": "夏天贝壳",
+          "chineseTraditional": "夏天貝殼",
+          "japanese": "なつのかいがら",
+          "korean": "여름 조개껍데기",
+          "russian": "летняя ракушка",
+          "plural": false,
+          "internalIds": [ 5982 ]
+        }
+      }
     }
   },
   {
@@ -5336,7 +5667,30 @@
         "plural": false,
         "internalIds": [ 7493 ]
       },
-      "materials": { "snowflake": 6 }
+      "materials": { "snowflake": 6 },
+      "materialsTranslations": {
+        "snowflake": {
+          "sourceSheet": "Craft",
+          "id": "SnowCrystal_03539",
+          "version": "1.0.0",
+          "english": "snowflake",
+          "englishEurope": "snowflake",
+          "german": "Schneeflocke",
+          "spanish": "copo de nieve",
+          "spanishUs": "copo de nieve",
+          "french": "flocon de neige",
+          "frenchUs": "flocon de neige",
+          "italian": "fiocco di neve",
+          "dutch": "sneeuwvlok",
+          "chinese": "雪花",
+          "chineseTraditional": "雪花",
+          "japanese": "ゆきのけっしょう",
+          "korean": "눈의 결정",
+          "russian": "снежинка",
+          "plural": false,
+          "internalIds": [ 3539 ]
+        }
+      }
     }
   },
   {
@@ -5685,7 +6039,30 @@
         "plural": false,
         "internalIds": [ 7489 ]
       },
-      "materials": { "star fragment": 6 }
+      "materials": { "star fragment": 6 },
+      "materialsTranslations": {
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {

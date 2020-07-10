@@ -211,7 +211,30 @@
         "plural": false,
         "internalIds": [ 9948 ]
       },
-      "materials": { "apple": 7 }
+      "materials": { "apple": 7 },
+      "materialsTranslations": {
+        "apple": {
+          "sourceSheet": "Plants",
+          "id": "Fruit_02213",
+          "version": "1.0.0",
+          "english": "apple",
+          "englishEurope": "apple",
+          "german": "Apfel",
+          "spanish": "manzana",
+          "spanishUs": "manzana",
+          "french": "pomme",
+          "frenchUs": "pomme",
+          "italian": "mela",
+          "dutch": "appel",
+          "chinese": "苹果",
+          "chineseTraditional": "蘋果",
+          "japanese": "リンゴ",
+          "korean": "사과",
+          "russian": "яблоко",
+          "plural": false,
+          "internalIds": [ 2213 ]
+        }
+      }
     }
   },
   {
@@ -778,7 +801,30 @@
         "plural": false,
         "internalIds": [ 9949 ]
       },
-      "materials": { "cherry": 7 }
+      "materials": { "cherry": 7 },
+      "materialsTranslations": {
+        "cherry": {
+          "sourceSheet": "Plants",
+          "id": "Fruit_02287",
+          "version": "1.0.0",
+          "english": "cherry",
+          "englishEurope": "cherry",
+          "german": "Kirsche",
+          "spanish": "cereza",
+          "spanishUs": "cereza",
+          "french": "cerise",
+          "frenchUs": "cerise",
+          "italian": "ciliegia",
+          "dutch": "kers",
+          "chinese": "樱桃",
+          "chineseTraditional": "櫻桃",
+          "japanese": "さくらんぼ",
+          "korean": "체리",
+          "russian": "вишня",
+          "plural": false,
+          "internalIds": [ 2287 ]
+        }
+      }
     }
   },
   {
@@ -861,7 +907,30 @@
         "plural": false,
         "internalIds": [ 9945 ]
       },
-      "materials": { "cherry-blossom petal": 7 }
+      "materials": { "cherry-blossom petal": 7 },
+      "materialsTranslations": {
+        "cherry-blossom petal": {
+          "sourceSheet": "Craft",
+          "id": "Sakurapetal_05859",
+          "version": "1.0.0",
+          "english": "cherry-blossom petal",
+          "englishEurope": "cherry-blossom petal",
+          "german": "Kirschblüte",
+          "spanish": "pétalo de cerezo",
+          "spanishUs": "pétalo de cerezo",
+          "french": "pétale de cerisier",
+          "frenchUs": "pétale de cerisier",
+          "italian": "petalo di ciliegio",
+          "dutch": "kersenbloesemblaadje",
+          "chinese": "樱花花瓣",
+          "chineseTraditional": "櫻花花瓣",
+          "japanese": "さくらのはなびら",
+          "korean": "벚꽃잎",
+          "russian": "лепесток вишни",
+          "plural": false,
+          "internalIds": [ 5859 ]
+        }
+      }
     }
   },
   {
@@ -1604,7 +1673,30 @@
         "plural": false,
         "internalIds": [ 6840 ]
       },
-      "materials": { "clump of weeds": 15 }
+      "materials": { "clump of weeds": 15 },
+      "materialsTranslations": {
+        "clump of weeds": {
+          "sourceSheet": "Plants",
+          "id": "Weed_02624",
+          "version": "1.0.0",
+          "english": "clump of weeds",
+          "englishEurope": "clump of weeds",
+          "german": "Unkraut",
+          "spanish": "hierbajo",
+          "spanishUs": "maleza",
+          "french": "mauvaise herbe",
+          "frenchUs": "mauvaise herbe",
+          "italian": "erbaccia",
+          "dutch": "onkruid",
+          "chinese": "杂草",
+          "chineseTraditional": "雜草",
+          "japanese": "ざっそう",
+          "korean": "잡초",
+          "russian": "сорняк",
+          "plural": false,
+          "internalIds": [ 2624 ]
+        }
+      }
     }
   },
   {
@@ -1775,7 +1867,30 @@
         "plural": false,
         "internalIds": [ 7169 ]
       },
-      "materials": { "maple leaf": 7 }
+      "materials": { "maple leaf": 7 },
+      "materialsTranslations": {
+        "maple leaf": {
+          "sourceSheet": "Craft",
+          "id": "AutumnLeaf_07374",
+          "version": "1.0.0",
+          "english": "maple leaf",
+          "englishEurope": "maple leaf",
+          "german": "Herbstblatt",
+          "spanish": "hoja de arce",
+          "spanishUs": "hoja de arce",
+          "french": "feuille d'érable",
+          "frenchUs": "feuille d'érable",
+          "italian": "foglia d'acero",
+          "dutch": "esdoornblad",
+          "chinese": "枫叶",
+          "chineseTraditional": "楓葉",
+          "japanese": "もみじのはっぱ",
+          "korean": "단풍잎",
+          "russian": "кленовый лист",
+          "plural": false,
+          "internalIds": [ 7374 ]
+        }
+      }
     }
   },
   {
@@ -1990,7 +2105,30 @@
         "plural": false,
         "internalIds": [ 7174 ]
       },
-      "materials": { "flat mushroom": 3 }
+      "materials": { "flat mushroom": 3 },
+      "materialsTranslations": {
+        "flat mushroom": {
+          "sourceSheet": "Plants",
+          "id": "Mushroom_03279",
+          "version": "1.0.0",
+          "english": "flat mushroom",
+          "englishEurope": "flat mushroom",
+          "german": "Flachpilz",
+          "spanish": "champiñón plano",
+          "spanishUs": "champiñón plano",
+          "french": "champignon plat",
+          "frenchUs": "champignon plat",
+          "italian": "fungo piatto",
+          "dutch": "platte paddenstoel",
+          "chinese": "扁平蘑菇",
+          "chineseTraditional": "扁平蘑菇",
+          "japanese": "ひらたいキノコ",
+          "korean": "넓은 버섯",
+          "russian": "плоскоежка",
+          "plural": false,
+          "internalIds": [ 3279 ]
+        }
+      }
     }
   },
   {
@@ -2073,7 +2211,30 @@
         "plural": false,
         "internalIds": [ 6912 ]
       },
-      "materials": { "orange": 7 }
+      "materials": { "orange": 7 },
+      "materialsTranslations": {
+        "orange": {
+          "sourceSheet": "Plants",
+          "id": "Fruit_02214",
+          "version": "1.0.0",
+          "english": "orange",
+          "englishEurope": "orange",
+          "german": "Orange",
+          "spanish": "naranja",
+          "spanishUs": "naranja",
+          "french": "orange",
+          "frenchUs": "orange",
+          "italian": "arancia",
+          "dutch": "sinaasappel",
+          "chinese": "橘子",
+          "chineseTraditional": "橘子",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "апельсин",
+          "plural": false,
+          "internalIds": [ 2214 ]
+        }
+      }
     }
   },
   {
@@ -2288,7 +2449,30 @@
         "plural": false,
         "internalIds": [ 9947 ]
       },
-      "materials": { "peach": 7 }
+      "materials": { "peach": 7 },
+      "materialsTranslations": {
+        "peach": {
+          "sourceSheet": "Villagers Catch Phrase",
+          "id": "cbr00",
+          "version": "1.0.0",
+          "english": "peach",
+          "englishEurope": "peach",
+          "german": "früchtchen",
+          "spanish": "cielito",
+          "spanishUs": "melí-melá",
+          "french": "prune",
+          "frenchUs": "prune",
+          "italian": "pepè",
+          "dutch": "perzik",
+          "chinese": "怦怦",
+          "chineseTraditional": "怦怦",
+          "japanese": "キュン",
+          "korean": "두근",
+          "russian": "персик",
+          "plural": false,
+          "internalIds": [ "cbr00" ]
+        }
+      }
     }
   },
   {
@@ -2371,7 +2555,30 @@
         "plural": false,
         "internalIds": [ 9950 ]
       },
-      "materials": { "pear": 7 }
+      "materials": { "pear": 7 },
+      "materialsTranslations": {
+        "pear": {
+          "sourceSheet": "Plants",
+          "id": "Fruit_02285",
+          "version": "1.0.0",
+          "english": "pear",
+          "englishEurope": "pear",
+          "german": "Birne",
+          "spanish": "pera",
+          "spanishUs": "pera",
+          "french": "poire",
+          "frenchUs": "poire",
+          "italian": "pera",
+          "dutch": "peer",
+          "chinese": "梨子",
+          "chineseTraditional": "梨子",
+          "japanese": "ナシ",
+          "korean": "배",
+          "russian": "груша",
+          "plural": false,
+          "internalIds": [ 2285 ]
+        }
+      }
     }
   },
   {

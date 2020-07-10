@@ -85,7 +85,51 @@
         "plural": false,
         "internalIds": [ 12578 ]
       },
-      "materials": { "wobbling Zipper toy": 1, "star fragment": 3 }
+      "materials": { "wobbling Zipper toy": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "wobbling Zipper toy": {
+          "sourceSheet": "Furniture",
+          "id": "Ftr_12412",
+          "version": "1.1.0",
+          "english": "wobbling Zipper toy",
+          "englishEurope": "wobbling Zipper toy",
+          "german": "Stehauf-Ohs",
+          "spanish": "tentetieso Coti Conejal",
+          "spanishUs": "juguete tambaleante Coti",
+          "french": "ramponeau d'Albin",
+          "frenchUs": "œuf à bascule d'Albin",
+          "italian": "misirizzi Ovidio",
+          "dutch": "Zipper-tuimelaar",
+          "chinese": "蹦蹦不倒娃娃",
+          "chineseTraditional": "蹦蹦不倒娃娃",
+          "japanese": "ぴょんたろうのおきあがりこぼし",
+          "korean": "토빗 오뚝이",
+          "russian": "неваляшка-Зиппер",
+          "plural": false,
+          "internalIds": [ 12412 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -224,7 +268,72 @@
         "plural": false,
         "internalIds": [ 2100 ]
       },
-      "materials": { "flimsy axe": 1, "wood": 3, "iron nugget": 1 }
+      "materials": { "flimsy axe": 1, "wood": 3, "iron nugget": 1 },
+      "materialsTranslations": {
+        "flimsy axe": {
+          "sourceSheet": "Tools",
+          "id": "Axe_03068",
+          "version": "1.0.0",
+          "english": "flimsy axe",
+          "englishEurope": "flimsy axe",
+          "german": "Wackelaxt",
+          "spanish": "hacha endeble",
+          "spanishUs": "hacha frágil",
+          "french": "hache rudimentaire",
+          "frenchUs": "hache rudimentaire",
+          "italian": "ascia fragile",
+          "dutch": "breekbare bijl",
+          "chinese": "简陋斧头",
+          "chineseTraditional": "簡陋斧頭",
+          "japanese": "ショボいオノ",
+          "korean": "엉성한 도끼",
+          "russian": "непрочный топор",
+          "plural": false,
+          "internalIds": [ 3068 ]
+        },
+        "wood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02768",
+          "version": "1.0.0",
+          "english": "wood",
+          "englishEurope": "wood",
+          "german": "Holz",
+          "spanish": "tabla normal",
+          "spanishUs": "tabla normal",
+          "french": "bois",
+          "frenchUs": "bois",
+          "italian": "legno normale",
+          "dutch": "hout",
+          "chinese": "木材",
+          "chineseTraditional": "木材",
+          "japanese": "もくざい",
+          "korean": "목재",
+          "russian": "древесина",
+          "plural": false,
+          "internalIds": [ 2768 ]
+        },
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -313,7 +422,51 @@
         "plural": false,
         "internalIds": [ 7590 ]
       },
-      "materials": { "young spring bamboo": 6, "star fragment": 3 }
+      "materials": { "young spring bamboo": 6, "star fragment": 3 },
+      "materialsTranslations": {
+        "young spring bamboo": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_05729",
+          "version": "1.0.0",
+          "english": "young spring bamboo",
+          "englishEurope": "young spring bamboo",
+          "german": "Frühlingsbambus",
+          "spanish": "tallo de bambú primaveral",
+          "spanishUs": "tallo de bambú primaveral",
+          "french": "jeune bambou printemps",
+          "frenchUs": "jeune bambou printemps",
+          "italian": "bambù giovane primavera",
+          "dutch": "jonge lentebamboe",
+          "chinese": "春笋",
+          "chineseTraditional": "春筍",
+          "japanese": "はるのわかたけ",
+          "korean": "봄의 대나무",
+          "russian": "весенний бамбук",
+          "plural": false,
+          "internalIds": [ 5729 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -452,7 +605,51 @@
         "plural": false,
         "internalIds": [ 7589 ]
       },
-      "materials": { "cherry-blossom petal": 3, "star fragment": 3 }
+      "materials": { "cherry-blossom petal": 3, "star fragment": 3 },
+      "materialsTranslations": {
+        "cherry-blossom petal": {
+          "sourceSheet": "Craft",
+          "id": "Sakurapetal_05859",
+          "version": "1.0.0",
+          "english": "cherry-blossom petal",
+          "englishEurope": "cherry-blossom petal",
+          "german": "Kirschblüte",
+          "spanish": "pétalo de cerezo",
+          "spanishUs": "pétalo de cerezo",
+          "french": "pétale de cerisier",
+          "frenchUs": "pétale de cerisier",
+          "italian": "petalo di ciliegio",
+          "dutch": "kersenbloesemblaadje",
+          "chinese": "樱花花瓣",
+          "chineseTraditional": "櫻花花瓣",
+          "japanese": "さくらのはなびら",
+          "korean": "벚꽃잎",
+          "russian": "лепесток вишни",
+          "plural": false,
+          "internalIds": [ 5859 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -1794,7 +1991,51 @@
         "plural": false,
         "internalIds": [ 5092 ]
       },
-      "materials": { "white cosmos": 1, "star fragment": 3 }
+      "materials": { "white cosmos": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "white cosmos": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02305",
+          "version": "1.0.0",
+          "english": "white cosmos",
+          "englishEurope": "white cosmos",
+          "german": "Weißcosmea",
+          "spanish": "cosmos blanco",
+          "spanishUs": "cosmos blanco",
+          "french": "cosmos blanc",
+          "frenchUs": "cosmos blanc",
+          "italian": "cosmea bianca",
+          "dutch": "witte cosmea",
+          "chinese": "白色波斯菊",
+          "chineseTraditional": "白色波斯菊",
+          "japanese": "しろいコスモス",
+          "korean": "하얀 코스모스",
+          "russian": "белая космея",
+          "plural": false,
+          "internalIds": [ 2305 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -2702,7 +2943,51 @@
         "plural": false,
         "internalIds": [ 2377 ]
       },
-      "materials": { "flimsy fishing rod": 1, "iron nugget": 1 }
+      "materials": { "flimsy fishing rod": 1, "iron nugget": 1 },
+      "materialsTranslations": {
+        "flimsy fishing rod": {
+          "sourceSheet": "Tools",
+          "id": "FishingRod_03084",
+          "version": "1.0.0",
+          "english": "flimsy fishing rod",
+          "englishEurope": "flimsy fishing rod",
+          "german": "Wackelangel",
+          "spanish": "caña endeble",
+          "spanishUs": "caña frágil",
+          "french": "canne à pêche rudimentaire",
+          "frenchUs": "canne à pêche rudimentaire",
+          "italian": "canna da pesca fragile",
+          "dutch": "breekbare hengel",
+          "chinese": "简陋钓竿",
+          "chineseTraditional": "簡陋釣竿",
+          "japanese": "ショボいつりざお",
+          "korean": "엉성한 낚싯대",
+          "russian": "непрочная удочка",
+          "plural": false,
+          "internalIds": [ 3084 ]
+        },
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -2791,7 +3076,51 @@
         "plural": false,
         "internalIds": [ 3068 ]
       },
-      "materials": { "tree branch": 5, "stone": 1 }
+      "materials": { "tree branch": 5, "stone": 1 },
+      "materialsTranslations": {
+        "tree branch": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02500",
+          "version": "1.0.0",
+          "english": "tree branch",
+          "englishEurope": "tree branch",
+          "german": "Ast",
+          "spanish": "rama",
+          "spanishUs": "rama",
+          "french": "branche d'arbre",
+          "frenchUs": "branche d'arbre",
+          "italian": "ramo",
+          "dutch": "tak",
+          "chinese": "树枝",
+          "chineseTraditional": "樹枝",
+          "japanese": "きのえだ",
+          "korean": "나뭇가지",
+          "russian": "ветка",
+          "plural": false,
+          "internalIds": [ 2500 ]
+        },
+        "stone": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02502",
+          "version": "1.0.0",
+          "english": "stone",
+          "englishEurope": "stone",
+          "german": "Stein",
+          "spanish": "piedra",
+          "spanishUs": "piedra",
+          "french": "pierre",
+          "frenchUs": "pierre",
+          "italian": "pietra",
+          "dutch": "steen",
+          "chinese": "石头",
+          "chineseTraditional": "石頭",
+          "japanese": "いし",
+          "korean": "돌",
+          "russian": "камень",
+          "plural": false,
+          "internalIds": [ 2502 ]
+        }
+      }
     }
   },
   {
@@ -2880,7 +3209,30 @@
         "plural": false,
         "internalIds": [ 3084 ]
       },
-      "materials": { "tree branch": 5 }
+      "materials": { "tree branch": 5 },
+      "materialsTranslations": {
+        "tree branch": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02500",
+          "version": "1.0.0",
+          "english": "tree branch",
+          "englishEurope": "tree branch",
+          "german": "Ast",
+          "spanish": "rama",
+          "spanishUs": "rama",
+          "french": "branche d'arbre",
+          "frenchUs": "branche d'arbre",
+          "italian": "ramo",
+          "dutch": "tak",
+          "chinese": "树枝",
+          "chineseTraditional": "樹枝",
+          "japanese": "きのえだ",
+          "korean": "나뭇가지",
+          "russian": "ветка",
+          "plural": false,
+          "internalIds": [ 2500 ]
+        }
+      }
     }
   },
   {
@@ -2969,7 +3321,30 @@
         "plural": false,
         "internalIds": [ 2376 ]
       },
-      "materials": { "tree branch": 5 }
+      "materials": { "tree branch": 5 },
+      "materialsTranslations": {
+        "tree branch": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02500",
+          "version": "1.0.0",
+          "english": "tree branch",
+          "englishEurope": "tree branch",
+          "german": "Ast",
+          "spanish": "rama",
+          "spanishUs": "rama",
+          "french": "branche d'arbre",
+          "frenchUs": "branche d'arbre",
+          "italian": "ramo",
+          "dutch": "tak",
+          "chinese": "树枝",
+          "chineseTraditional": "樹枝",
+          "japanese": "きのえだ",
+          "korean": "나뭇가지",
+          "russian": "ветка",
+          "plural": false,
+          "internalIds": [ 2500 ]
+        }
+      }
     }
   },
   {
@@ -3058,7 +3433,30 @@
         "plural": false,
         "internalIds": [ 3082 ]
       },
-      "materials": { "hardwood": 5 }
+      "materials": { "hardwood": 5 },
+      "materialsTranslations": {
+        "hardwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02769",
+          "version": "1.0.0",
+          "english": "hardwood",
+          "englishEurope": "hardwood",
+          "german": "Hartholz",
+          "spanish": "tabla rígida",
+          "spanishUs": "tabla rígida",
+          "french": "bois dur",
+          "frenchUs": "bois dur",
+          "italian": "legno duro",
+          "dutch": "hardhout",
+          "chinese": "硬木材",
+          "chineseTraditional": "硬木材",
+          "japanese": "かたいもくざい",
+          "korean": "단단한 목재",
+          "russian": "твердая древесина",
+          "plural": false,
+          "internalIds": [ 2769 ]
+        }
+      }
     }
   },
   {
@@ -3147,7 +3545,30 @@
         "plural": false,
         "internalIds": [ 3083 ]
       },
-      "materials": { "softwood": 5 }
+      "materials": { "softwood": 5 },
+      "materialsTranslations": {
+        "softwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02767",
+          "version": "1.0.0",
+          "english": "softwood",
+          "englishEurope": "softwood",
+          "german": "Weichholz",
+          "spanish": "tabla flexible",
+          "spanishUs": "tabla flexible",
+          "french": "bois tendre",
+          "frenchUs": "bois tendre",
+          "italian": "legno morbido",
+          "dutch": "zachthout",
+          "chinese": "软木材",
+          "chineseTraditional": "軟木材",
+          "japanese": "やわらかいもくざい",
+          "korean": "부드러운 목재",
+          "russian": "мягкая древесина",
+          "plural": false,
+          "internalIds": [ 2767 ]
+        }
+      }
     }
   },
   {
@@ -3236,7 +3657,51 @@
         "plural": false,
         "internalIds": [ 9617 ]
       },
-      "materials": { "axe": 1, "gold nugget": 1 }
+      "materials": { "axe": 1, "gold nugget": 1 },
+      "materialsTranslations": {
+        "axe": {
+          "sourceSheet": "Tools",
+          "id": "Axe_02100",
+          "version": "1.0.0",
+          "english": "axe",
+          "englishEurope": "axe",
+          "german": "Axt",
+          "spanish": "hacha",
+          "spanishUs": "hacha",
+          "french": "hache",
+          "frenchUs": "hache",
+          "italian": "ascia",
+          "dutch": "bijl",
+          "chinese": "斧头",
+          "chineseTraditional": "斧頭",
+          "japanese": "オノ",
+          "korean": "도끼",
+          "russian": "топор",
+          "plural": false,
+          "internalIds": [ 2100 ]
+        },
+        "gold nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02505",
+          "version": "1.0.0",
+          "english": "gold nugget",
+          "englishEurope": "gold nugget",
+          "german": "Golderz",
+          "spanish": "pepita de oro",
+          "spanishUs": "pepita de oro",
+          "french": "pépite d'or",
+          "frenchUs": "pépite d'or",
+          "italian": "minerale d'oro",
+          "dutch": "goudklompje",
+          "chinese": "金矿石",
+          "chineseTraditional": "金礦石",
+          "japanese": "きんこうせき",
+          "korean": "금광석",
+          "russian": "золотой самородок",
+          "plural": false,
+          "internalIds": [ 2505 ]
+        }
+      }
     }
   },
   {
@@ -3325,7 +3790,51 @@
         "plural": false,
         "internalIds": [ 8179 ]
       },
-      "materials": { "net": 1, "gold nugget": 1 }
+      "materials": { "net": 1, "gold nugget": 1 },
+      "materialsTranslations": {
+        "net": {
+          "sourceSheet": "Tools",
+          "id": "Net_05784",
+          "version": "1.0.0",
+          "english": "net",
+          "englishEurope": "net",
+          "german": "Kescher",
+          "spanish": "red",
+          "spanishUs": "red",
+          "french": "filet",
+          "frenchUs": "filet",
+          "italian": "retino",
+          "dutch": "net",
+          "chinese": "捕虫网",
+          "chineseTraditional": "捕蟲網",
+          "japanese": "あみ",
+          "korean": "잠자리채",
+          "russian": "сачок",
+          "plural": false,
+          "internalIds": [ 5784 ]
+        },
+        "gold nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02505",
+          "version": "1.0.0",
+          "english": "gold nugget",
+          "englishEurope": "gold nugget",
+          "german": "Golderz",
+          "spanish": "pepita de oro",
+          "spanishUs": "pepita de oro",
+          "french": "pépite d'or",
+          "frenchUs": "pépite d'or",
+          "italian": "minerale d'oro",
+          "dutch": "goudklompje",
+          "chinese": "金矿石",
+          "chineseTraditional": "金礦石",
+          "japanese": "きんこうせき",
+          "korean": "금광석",
+          "russian": "золотой самородок",
+          "plural": false,
+          "internalIds": [ 2505 ]
+        }
+      }
     }
   },
   {
@@ -3414,7 +3923,51 @@
         "plural": false,
         "internalIds": [ 8660 ]
       },
-      "materials": { "fishing rod": 1, "gold nugget": 1 }
+      "materials": { "fishing rod": 1, "gold nugget": 1 },
+      "materialsTranslations": {
+        "fishing rod": {
+          "sourceSheet": "Tools",
+          "id": "FishingRod_02377",
+          "version": "1.0.0",
+          "english": "fishing rod",
+          "englishEurope": "fishing rod",
+          "german": "Angel",
+          "spanish": "caña",
+          "spanishUs": "caña",
+          "french": "canne à pêche",
+          "frenchUs": "canne à pêche",
+          "italian": "canna da pesca",
+          "dutch": "hengel",
+          "chinese": "钓竿",
+          "chineseTraditional": "釣竿",
+          "japanese": "つりざお",
+          "korean": "낚싯대",
+          "russian": "удочка",
+          "plural": false,
+          "internalIds": [ 2377 ]
+        },
+        "gold nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02505",
+          "version": "1.0.0",
+          "english": "gold nugget",
+          "englishEurope": "gold nugget",
+          "german": "Golderz",
+          "spanish": "pepita de oro",
+          "spanishUs": "pepita de oro",
+          "french": "pépite d'or",
+          "frenchUs": "pépite d'or",
+          "italian": "minerale d'oro",
+          "dutch": "goudklompje",
+          "chinese": "金矿石",
+          "chineseTraditional": "金礦石",
+          "japanese": "きんこうせき",
+          "korean": "금광석",
+          "russian": "золотой самородок",
+          "plural": false,
+          "internalIds": [ 2505 ]
+        }
+      }
     }
   },
   {
@@ -3503,7 +4056,51 @@
         "plural": false,
         "internalIds": [ 8574 ]
       },
-      "materials": { "shovel": 1, "gold nugget": 1 }
+      "materials": { "shovel": 1, "gold nugget": 1 },
+      "materialsTranslations": {
+        "shovel": {
+          "sourceSheet": "Tools",
+          "id": "Shovel_02099",
+          "version": "1.0.0",
+          "english": "shovel",
+          "englishEurope": "shovel",
+          "german": "Schaufel",
+          "spanish": "pala",
+          "spanishUs": "pala",
+          "french": "pelle",
+          "frenchUs": "pelle",
+          "italian": "pala",
+          "dutch": "schep",
+          "chinese": "铲子",
+          "chineseTraditional": "鏟子",
+          "japanese": "スコップ",
+          "korean": "삽",
+          "russian": "лопата",
+          "plural": false,
+          "internalIds": [ 2099 ]
+        },
+        "gold nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02505",
+          "version": "1.0.0",
+          "english": "gold nugget",
+          "englishEurope": "gold nugget",
+          "german": "Golderz",
+          "spanish": "pepita de oro",
+          "spanishUs": "pepita de oro",
+          "french": "pépite d'or",
+          "frenchUs": "pépite d'or",
+          "italian": "minerale d'oro",
+          "dutch": "goudklompje",
+          "chinese": "金矿石",
+          "chineseTraditional": "金礦石",
+          "japanese": "きんこうせき",
+          "korean": "금광석",
+          "russian": "золотой самородок",
+          "plural": false,
+          "internalIds": [ 2505 ]
+        }
+      }
     }
   },
   {
@@ -3592,7 +4189,51 @@
         "plural": false,
         "internalIds": [ 8578 ]
       },
-      "materials": { "slingshot": 1, "gold nugget": 1 }
+      "materials": { "slingshot": 1, "gold nugget": 1 },
+      "materialsTranslations": {
+        "slingshot": {
+          "sourceSheet": "Tools",
+          "id": "Slingshot_02822",
+          "version": "1.0.0",
+          "english": "slingshot",
+          "englishEurope": "slingshot",
+          "german": "Schleuder",
+          "spanish": "tirachinas",
+          "spanishUs": "resortera",
+          "french": "lance-pierre",
+          "frenchUs": "lance-pierre",
+          "italian": "fionda",
+          "dutch": "katapult",
+          "chinese": "弹弓",
+          "chineseTraditional": "彈弓",
+          "japanese": "パチンコ",
+          "korean": "새총",
+          "russian": "рогатка",
+          "plural": false,
+          "internalIds": [ 2822 ]
+        },
+        "gold nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02505",
+          "version": "1.0.0",
+          "english": "gold nugget",
+          "englishEurope": "gold nugget",
+          "german": "Golderz",
+          "spanish": "pepita de oro",
+          "spanishUs": "pepita de oro",
+          "french": "pépite d'or",
+          "frenchUs": "pépite d'or",
+          "italian": "minerale d'oro",
+          "dutch": "goudklompje",
+          "chinese": "金矿石",
+          "chineseTraditional": "金礦石",
+          "japanese": "きんこうせき",
+          "korean": "금광석",
+          "russian": "золотой самородок",
+          "plural": false,
+          "internalIds": [ 2505 ]
+        }
+      }
     }
   },
   {
@@ -3681,7 +4322,51 @@
         "plural": false,
         "internalIds": [ 7591 ]
       },
-      "materials": { "gold nugget": 2, "star fragment": 3 }
+      "materials": { "gold nugget": 2, "star fragment": 3 },
+      "materialsTranslations": {
+        "gold nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02505",
+          "version": "1.0.0",
+          "english": "gold nugget",
+          "englishEurope": "gold nugget",
+          "german": "Golderz",
+          "spanish": "pepita de oro",
+          "spanishUs": "pepita de oro",
+          "french": "pépite d'or",
+          "frenchUs": "pépite d'or",
+          "italian": "minerale d'oro",
+          "dutch": "goudklompje",
+          "chinese": "金矿石",
+          "chineseTraditional": "金礦石",
+          "japanese": "きんこうせき",
+          "korean": "금광석",
+          "russian": "золотой самородок",
+          "plural": false,
+          "internalIds": [ 2505 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -3770,7 +4455,51 @@
         "plural": false,
         "internalIds": [ 8533 ]
       },
-      "materials": { "watering can": 1, "gold nugget": 1 }
+      "materials": { "watering can": 1, "gold nugget": 1 },
+      "materialsTranslations": {
+        "watering can": {
+          "sourceSheet": "Tools",
+          "id": "Watering_02379",
+          "version": "1.0.0",
+          "english": "watering can",
+          "englishEurope": "watering can",
+          "german": "Gießkanne",
+          "spanish": "regadera",
+          "spanishUs": "regadera",
+          "french": "arrosoir",
+          "frenchUs": "arrosoir",
+          "italian": "annaffiatoio",
+          "dutch": "gieter",
+          "chinese": "浇花壶",
+          "chineseTraditional": "澆花壺",
+          "japanese": "ジョウロ",
+          "korean": "물뿌리개",
+          "russian": "лейка",
+          "plural": false,
+          "internalIds": [ 2379 ]
+        },
+        "gold nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02505",
+          "version": "1.0.0",
+          "english": "gold nugget",
+          "englishEurope": "gold nugget",
+          "german": "Golderz",
+          "spanish": "pepita de oro",
+          "spanishUs": "pepita de oro",
+          "french": "pépite d'or",
+          "frenchUs": "pépite d'or",
+          "italian": "minerale d'oro",
+          "dutch": "goudklompje",
+          "chinese": "金矿石",
+          "chineseTraditional": "金礦石",
+          "japanese": "きんこうせき",
+          "korean": "금광석",
+          "russian": "золотой самородок",
+          "plural": false,
+          "internalIds": [ 2505 ]
+        }
+      }
     }
   },
   {
@@ -3859,7 +4588,51 @@
         "plural": false,
         "internalIds": [ 5083 ]
       },
-      "materials": { "pink hyacinths": 1, "star fragment": 3 }
+      "materials": { "pink hyacinths": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "pink hyacinths": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03738",
+          "version": "1.0.0",
+          "english": "pink hyacinths",
+          "englishEurope": "pink hyacinths",
+          "german": "Rosahyazinthe",
+          "spanish": "jacinto rosa",
+          "spanishUs": "jacinto rosa",
+          "french": "jacinthe rose",
+          "frenchUs": "jacinthe rose",
+          "italian": "giacinto rosa",
+          "dutch": "roze hyacint",
+          "chinese": "粉红风信子",
+          "chineseTraditional": "粉紅風信子",
+          "japanese": "ピンクのヒヤシンス",
+          "korean": "핑크색 히아신스",
+          "russian": "розовый гиацинт",
+          "plural": false,
+          "internalIds": [ 3738 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -3948,7 +4721,51 @@
         "plural": false,
         "internalIds": [ 7585 ]
       },
-      "materials": { "large snowflake": 1, "star fragment": 3 }
+      "materials": { "large snowflake": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "large snowflake": {
+          "sourceSheet": "Craft",
+          "id": "SnowCrystal_03540",
+          "version": "1.0.0",
+          "english": "large snowflake",
+          "englishEurope": "large snowflake",
+          "german": "Riesenschneeflocke",
+          "spanish": "copo de nieve XL",
+          "spanishUs": "copo de nieve XL",
+          "french": "grand flocon de neige",
+          "frenchUs": "grand flocon de neige",
+          "italian": "fiocco di neve grande",
+          "dutch": "grote sneeuwvlok",
+          "chinese": "大雪花",
+          "chineseTraditional": "大雪花",
+          "japanese": "ゆきのだいけっしょう",
+          "korean": "커다란 눈의 결정",
+          "russian": "крупная снежинка",
+          "plural": false,
+          "internalIds": [ 3540 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -4037,7 +4854,51 @@
         "plural": false,
         "internalIds": [ 7592 ]
       },
-      "materials": { "iron nugget": 3, "star fragment": 3 }
+      "materials": { "iron nugget": 3, "star fragment": 3 },
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -4126,7 +4987,72 @@
         "plural": false,
         "internalIds": [ 2615 ]
       },
-      "materials": { "wood": 4, "hardwood": 4, "softwood": 4 }
+      "materials": { "wood": 4, "hardwood": 4, "softwood": 4 },
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02768",
+          "version": "1.0.0",
+          "english": "wood",
+          "englishEurope": "wood",
+          "german": "Holz",
+          "spanish": "tabla normal",
+          "spanishUs": "tabla normal",
+          "french": "bois",
+          "frenchUs": "bois",
+          "italian": "legno normale",
+          "dutch": "hout",
+          "chinese": "木材",
+          "chineseTraditional": "木材",
+          "japanese": "もくざい",
+          "korean": "목재",
+          "russian": "древесина",
+          "plural": false,
+          "internalIds": [ 2768 ]
+        },
+        "hardwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02769",
+          "version": "1.0.0",
+          "english": "hardwood",
+          "englishEurope": "hardwood",
+          "german": "Hartholz",
+          "spanish": "tabla rígida",
+          "spanishUs": "tabla rígida",
+          "french": "bois dur",
+          "frenchUs": "bois dur",
+          "italian": "legno duro",
+          "dutch": "hardhout",
+          "chinese": "硬木材",
+          "chineseTraditional": "硬木材",
+          "japanese": "かたいもくざい",
+          "korean": "단단한 목재",
+          "russian": "твердая древесина",
+          "plural": false,
+          "internalIds": [ 2769 ]
+        },
+        "softwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02767",
+          "version": "1.0.0",
+          "english": "softwood",
+          "englishEurope": "softwood",
+          "german": "Weichholz",
+          "spanish": "tabla flexible",
+          "spanishUs": "tabla flexible",
+          "french": "bois tendre",
+          "frenchUs": "bois tendre",
+          "italian": "legno morbido",
+          "dutch": "zachthout",
+          "chinese": "软木材",
+          "chineseTraditional": "軟木材",
+          "japanese": "やわらかいもくざい",
+          "korean": "부드러운 목재",
+          "russian": "мягкая древесина",
+          "plural": false,
+          "internalIds": [ 2767 ]
+        }
+      }
     }
   },
   {
@@ -4265,7 +5191,51 @@
         "plural": false,
         "internalIds": [ 5094 ]
       },
-      "materials": { "white lilies": 1, "star fragment": 3 }
+      "materials": { "white lilies": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "white lilies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02979",
+          "version": "1.0.0",
+          "english": "white lilies",
+          "englishEurope": "white lilies",
+          "german": "Osterlilie",
+          "spanish": "lirio blanco",
+          "spanishUs": "lirio blanco",
+          "french": "lys blanc",
+          "frenchUs": "lys blanc",
+          "italian": "giglio bianco",
+          "dutch": "witte lelie",
+          "chinese": "白色百合",
+          "chineseTraditional": "白色百合",
+          "japanese": "しろいユリ",
+          "korean": "하얀 백합",
+          "russian": "белая лилия",
+          "plural": false,
+          "internalIds": [ 2979 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -4354,7 +5324,51 @@
         "plural": false,
         "internalIds": [ 5095 ]
       },
-      "materials": { "yellow mums": 1, "star fragment": 3 }
+      "materials": { "yellow mums": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "yellow mums": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03758",
+          "version": "1.0.0",
+          "english": "yellow mums",
+          "englishEurope": "yellow mums",
+          "german": "Gelbchrysantheme",
+          "spanish": "crisantemo amarillo",
+          "spanishUs": "crisantemo amarillo",
+          "french": "chrysanthème jaune",
+          "frenchUs": "chrysanthème jaune",
+          "italian": "crisantemo giallo",
+          "dutch": "gele chrysant",
+          "chinese": "黄色菊花",
+          "chineseTraditional": "黃色菊花",
+          "japanese": "きいろいキク",
+          "korean": "노란 국화",
+          "russian": "желтая хризантема",
+          "plural": false,
+          "internalIds": [ 3758 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -4579,7 +5593,51 @@
         "plural": false,
         "internalIds": [ 7588 ]
       },
-      "materials": { "skinny mushroom": 3, "star fragment": 3 }
+      "materials": { "skinny mushroom": 3, "star fragment": 3 },
+      "materialsTranslations": {
+        "skinny mushroom": {
+          "sourceSheet": "Plants",
+          "id": "Mushroom_03278",
+          "version": "1.0.0",
+          "english": "skinny mushroom",
+          "englishEurope": "skinny mushroom",
+          "german": "Dürrpilz",
+          "spanish": "champiñón fino",
+          "spanishUs": "champiñón fino",
+          "french": "champignon maigre",
+          "frenchUs": "champignon maigre",
+          "italian": "fungo fino",
+          "dutch": "dunne paddenstoel",
+          "chinese": "瘦小蘑菇",
+          "chineseTraditional": "瘦小蘑菇",
+          "japanese": "ほそいキノコ",
+          "korean": "가는 버섯",
+          "russian": "тощенок",
+          "plural": false,
+          "internalIds": [ 3278 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -4891,7 +5949,51 @@
         "plural": false,
         "internalIds": [ 5784 ]
       },
-      "materials": { "flimsy net": 1, "iron nugget": 1 }
+      "materials": { "flimsy net": 1, "iron nugget": 1 },
+      "materialsTranslations": {
+        "flimsy net": {
+          "sourceSheet": "Tools",
+          "id": "Net_02376",
+          "version": "1.0.0",
+          "english": "flimsy net",
+          "englishEurope": "flimsy net",
+          "german": "Wackelkescher",
+          "spanish": "red endeble",
+          "spanishUs": "red frágil",
+          "french": "filet rudimentaire",
+          "frenchUs": "filet rudimentaire",
+          "italian": "retino fragile",
+          "dutch": "breekbare net",
+          "chinese": "简陋捕虫网",
+          "chineseTraditional": "簡陋捕蟲網",
+          "japanese": "ショボいあみ",
+          "korean": "엉성한 잠자리채",
+          "russian": "непрочный сачок",
+          "plural": false,
+          "internalIds": [ 2376 ]
+        },
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -4980,7 +6082,30 @@
         "plural": false,
         "internalIds": [ 5320 ]
       },
-      "materials": { "clay": 5 }
+      "materials": { "clay": 5 },
+      "materialsTranslations": {
+        "clay": {
+          "sourceSheet": "Craft",
+          "id": "Ore_03090",
+          "version": "1.0.0",
+          "english": "clay",
+          "englishEurope": "clay",
+          "german": "Lehm",
+          "spanish": "bola de arcilla",
+          "spanishUs": "bola de arcilla",
+          "french": "argile",
+          "frenchUs": "argile",
+          "italian": "pezzo di argilla",
+          "dutch": "kleihomp",
+          "chinese": "黏土",
+          "chineseTraditional": "黏土",
+          "japanese": "ねんど",
+          "korean": "점토",
+          "russian": "кусок глины",
+          "plural": false,
+          "internalIds": [ 3090 ]
+        }
+      }
     }
   },
   {
@@ -6434,7 +7559,30 @@
         "plural": false,
         "internalIds": [ 5517 ]
       },
-      "materials": { "young spring bamboo": 7 }
+      "materials": { "young spring bamboo": 7 },
+      "materialsTranslations": {
+        "young spring bamboo": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_05729",
+          "version": "1.0.0",
+          "english": "young spring bamboo",
+          "englishEurope": "young spring bamboo",
+          "german": "Frühlingsbambus",
+          "spanish": "tallo de bambú primaveral",
+          "spanishUs": "tallo de bambú primaveral",
+          "french": "jeune bambou printemps",
+          "frenchUs": "jeune bambou printemps",
+          "italian": "bambù giovane primavera",
+          "dutch": "jonge lentebamboe",
+          "chinese": "春笋",
+          "chineseTraditional": "春筍",
+          "japanese": "はるのわかたけ",
+          "korean": "봄의 대나무",
+          "russian": "весенний бамбук",
+          "plural": false,
+          "internalIds": [ 5729 ]
+        }
+      }
     }
   },
   {
@@ -6523,7 +7671,51 @@
         "plural": false,
         "internalIds": [ 5091 ]
       },
-      "materials": { "yellow pansies": 1, "star fragment": 3 }
+      "materials": { "yellow pansies": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "yellow pansies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02915",
+          "version": "1.0.0",
+          "english": "yellow pansies",
+          "englishEurope": "yellow pansies",
+          "german": "Hornveilchen",
+          "spanish": "viola amarilla",
+          "spanishUs": "viola amarilla",
+          "french": "pensée jaune",
+          "frenchUs": "pensée jaune",
+          "italian": "viola gialla",
+          "dutch": "",
+          "chinese": "黄色三色堇",
+          "chineseTraditional": "黃色三色堇",
+          "japanese": "きいろいパンジー",
+          "korean": "노란 팬지",
+          "russian": "желтая фиалка",
+          "plural": false,
+          "internalIds": [ 2915 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -6935,7 +8127,51 @@
         "plural": false,
         "internalIds": [ 5093 ]
       },
-      "materials": { "red roses": 1, "star fragment": 3 }
+      "materials": { "red roses": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "red roses": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02935",
+          "version": "1.0.0",
+          "english": "red roses",
+          "englishEurope": "red roses",
+          "german": "Liebesrose",
+          "spanish": "rosa roja",
+          "spanishUs": "rosa roja",
+          "french": "rose rouge",
+          "frenchUs": "rose rouge",
+          "italian": "rosa rossa",
+          "dutch": "rode roos",
+          "chinese": "红色玫瑰",
+          "chineseTraditional": "紅色玫瑰",
+          "japanese": "あかいバラ",
+          "korean": "빨간 장미",
+          "russian": "красная роза",
+          "plural": false,
+          "internalIds": [ 2935 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -7024,7 +8260,51 @@
         "plural": false,
         "internalIds": [ 7586 ]
       },
-      "materials": { "summer shell": 3, "star fragment": 3 }
+      "materials": { "summer shell": 3, "star fragment": 3 },
+      "materialsTranslations": {
+        "summer shell": {
+          "sourceSheet": "Shells",
+          "id": "ShellDrift_05982",
+          "version": "1.0.0",
+          "english": "summer shell",
+          "englishEurope": "summer shell",
+          "german": "Sommermuschel",
+          "spanish": "caracola estival",
+          "spanishUs": "caracola estival",
+          "french": "coquillage estival",
+          "frenchUs": "coquillage estival",
+          "italian": "conchiglia estiva",
+          "dutch": "zomerschelp",
+          "chinese": "夏天贝壳",
+          "chineseTraditional": "夏天貝殼",
+          "japanese": "なつのかいがら",
+          "korean": "여름 조개껍데기",
+          "russian": "летняя ракушка",
+          "plural": false,
+          "internalIds": [ 5982 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -7336,7 +8616,51 @@
         "plural": false,
         "internalIds": [ 2099 ]
       },
-      "materials": { "flimsy shovel": 1, "iron nugget": 1 }
+      "materials": { "flimsy shovel": 1, "iron nugget": 1 },
+      "materialsTranslations": {
+        "flimsy shovel": {
+          "sourceSheet": "Tools",
+          "id": "Shovel_03082",
+          "version": "1.0.0",
+          "english": "flimsy shovel",
+          "englishEurope": "flimsy shovel",
+          "german": "Wackelschaufel",
+          "spanish": "pala endeble",
+          "spanishUs": "pala frágil",
+          "french": "pelle rudimentaire",
+          "frenchUs": "pelle rudimentaire",
+          "italian": "pala fragile",
+          "dutch": "breekbare schep",
+          "chinese": "简陋铲子",
+          "chineseTraditional": "簡陋鏟子",
+          "japanese": "ショボいスコップ",
+          "korean": "엉성한 삽",
+          "russian": "непрочная лопата",
+          "plural": false,
+          "internalIds": [ 3082 ]
+        },
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -7648,7 +8972,30 @@
         "plural": false,
         "internalIds": [ 2822 ]
       },
-      "materials": { "hardwood": 5 }
+      "materials": { "hardwood": 5 },
+      "materialsTranslations": {
+        "hardwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02769",
+          "version": "1.0.0",
+          "english": "hardwood",
+          "englishEurope": "hardwood",
+          "german": "Hartholz",
+          "spanish": "tabla rígida",
+          "spanishUs": "tabla rígida",
+          "french": "bois dur",
+          "frenchUs": "bois dur",
+          "italian": "legno duro",
+          "dutch": "hardhout",
+          "chinese": "硬木材",
+          "chineseTraditional": "硬木材",
+          "japanese": "かたいもくざい",
+          "korean": "단단한 목재",
+          "russian": "твердая древесина",
+          "plural": false,
+          "internalIds": [ 2769 ]
+        }
+      }
     }
   },
   {
@@ -8010,7 +9357,51 @@
         "plural": false,
         "internalIds": [ 2544 ]
       },
-      "materials": { "large star fragment": 1, "star fragment": 3 }
+      "materials": { "large star fragment": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "large star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05984",
+          "version": "1.0.0",
+          "english": "large star fragment",
+          "englishEurope": "large star fragment",
+          "german": "Riesensternensplitter",
+          "spanish": "fragmento de estrella XL",
+          "spanishUs": "fragmento de estrella XL",
+          "french": "fragment de grande étoile",
+          "frenchUs": "fragment de grande étoile",
+          "italian": "frammento di stella grande",
+          "dutch": "grote sterrenfragment",
+          "chinese": "大星星碎片",
+          "chineseTraditional": "大星星碎片",
+          "japanese": "おおきなほしのかけら",
+          "korean": "커다란 별의 조각",
+          "russian": "крупный осколок звезды",
+          "plural": false,
+          "internalIds": [ 5984 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -8099,7 +9490,51 @@
         "plural": false,
         "internalIds": [ 5856 ]
       },
-      "materials": { "flimsy axe": 1, "wood": 3 }
+      "materials": { "flimsy axe": 1, "wood": 3 },
+      "materialsTranslations": {
+        "flimsy axe": {
+          "sourceSheet": "Tools",
+          "id": "Axe_03068",
+          "version": "1.0.0",
+          "english": "flimsy axe",
+          "englishEurope": "flimsy axe",
+          "german": "Wackelaxt",
+          "spanish": "hacha endeble",
+          "spanishUs": "hacha frágil",
+          "french": "hache rudimentaire",
+          "frenchUs": "hache rudimentaire",
+          "italian": "ascia fragile",
+          "dutch": "breekbare bijl",
+          "chinese": "简陋斧头",
+          "chineseTraditional": "簡陋斧頭",
+          "japanese": "ショボいオノ",
+          "korean": "엉성한 도끼",
+          "russian": "непрочный топор",
+          "plural": false,
+          "internalIds": [ 3068 ]
+        },
+        "wood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02768",
+          "version": "1.0.0",
+          "english": "wood",
+          "englishEurope": "wood",
+          "german": "Holz",
+          "spanish": "tabla normal",
+          "spanishUs": "tabla normal",
+          "french": "bois",
+          "frenchUs": "bois",
+          "italian": "legno normale",
+          "dutch": "hout",
+          "chinese": "木材",
+          "chineseTraditional": "木材",
+          "japanese": "もくざい",
+          "korean": "목재",
+          "russian": "древесина",
+          "plural": false,
+          "internalIds": [ 2768 ]
+        }
+      }
     }
   },
   {
@@ -8288,7 +9723,51 @@
         "plural": false,
         "internalIds": [ 7587 ]
       },
-      "materials": { "tree branch": 5, "star fragment": 3 }
+      "materials": { "tree branch": 5, "star fragment": 3 },
+      "materialsTranslations": {
+        "tree branch": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02500",
+          "version": "1.0.0",
+          "english": "tree branch",
+          "englishEurope": "tree branch",
+          "german": "Ast",
+          "spanish": "rama",
+          "spanishUs": "rama",
+          "french": "branche d'arbre",
+          "frenchUs": "branche d'arbre",
+          "italian": "ramo",
+          "dutch": "tak",
+          "chinese": "树枝",
+          "chineseTraditional": "樹枝",
+          "japanese": "きのえだ",
+          "korean": "나뭇가지",
+          "russian": "ветка",
+          "plural": false,
+          "internalIds": [ 2500 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -8377,7 +9856,51 @@
         "plural": false,
         "internalIds": [ 5085 ]
       },
-      "materials": { "red tulips": 1, "star fragment": 3 }
+      "materials": { "red tulips": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "red tulips": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02883",
+          "version": "1.0.0",
+          "english": "red tulips",
+          "englishEurope": "red tulips",
+          "german": "Papageitulpe",
+          "spanish": "tulipán rojo",
+          "spanishUs": "tulipán rojo",
+          "french": "tulipe rouge",
+          "frenchUs": "tulipe rouge",
+          "italian": "tulipano rosso",
+          "dutch": "rode tulp",
+          "chinese": "红色郁金香",
+          "chineseTraditional": "紅色鬱金香",
+          "japanese": "あかいチューリップ",
+          "korean": "빨간 튤립",
+          "russian": "красный тюльпан",
+          "plural": false,
+          "internalIds": [ 2883 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -8466,7 +9989,30 @@
         "plural": false,
         "internalIds": [ 4703 ]
       },
-      "materials": { "softwood": 5 }
+      "materials": { "softwood": 5 },
+      "materialsTranslations": {
+        "softwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02767",
+          "version": "1.0.0",
+          "english": "softwood",
+          "englishEurope": "softwood",
+          "german": "Weichholz",
+          "spanish": "tabla flexible",
+          "spanishUs": "tabla flexible",
+          "french": "bois tendre",
+          "frenchUs": "bois tendre",
+          "italian": "legno morbido",
+          "dutch": "zachthout",
+          "chinese": "软木材",
+          "chineseTraditional": "軟木材",
+          "japanese": "やわらかいもくざい",
+          "korean": "부드러운 목재",
+          "russian": "мягкая древесина",
+          "plural": false,
+          "internalIds": [ 2767 ]
+        }
+      }
     }
   },
   {
@@ -8555,7 +10101,30 @@
         "plural": false,
         "internalIds": [ 7584 ]
       },
-      "materials": { "star fragment": 2 }
+      "materials": { "star fragment": 2 },
+      "materialsTranslations": {
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -8867,7 +10436,51 @@
         "plural": false,
         "internalIds": [ 2379 ]
       },
-      "materials": { "flimsy watering can": 1, "iron nugget": 1 }
+      "materials": { "flimsy watering can": 1, "iron nugget": 1 },
+      "materialsTranslations": {
+        "flimsy watering can": {
+          "sourceSheet": "Tools",
+          "id": "Watering_03083",
+          "version": "1.0.0",
+          "english": "flimsy watering can",
+          "englishEurope": "flimsy watering can",
+          "german": "Wackelgießkanne",
+          "spanish": "regadera endeble",
+          "spanishUs": "regadera frágil",
+          "french": "arrosoir rudimentaire",
+          "frenchUs": "arrosoir rudimentaire",
+          "italian": "annaffiatoio fragile",
+          "dutch": "breekbare gieter",
+          "chinese": "简陋浇花壶",
+          "chineseTraditional": "簡陋澆花壺",
+          "japanese": "ショボいジョウロ",
+          "korean": "엉성한 물뿌리개",
+          "russian": "непрочная лейка",
+          "plural": false,
+          "internalIds": [ 3083 ]
+        },
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -8956,7 +10569,51 @@
         "plural": false,
         "internalIds": [ 12695 ]
       },
-      "materials": { "wedding flower stand": 1, "star fragment": 3 }
+      "materials": { "wedding flower stand": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "wedding flower stand": {
+          "sourceSheet": "Furniture",
+          "id": "Ftr_12411",
+          "version": "1.2.0",
+          "english": "wedding flower stand",
+          "englishEurope": "wedding flower stand",
+          "german": "Hochzeitsblumenständer",
+          "spanish": "florero de boda",
+          "spanishUs": "florero de boda",
+          "french": "arrangement floral mariage",
+          "frenchUs": "arrangement floral mariage",
+          "italian": "portafiori nuziale",
+          "dutch": "trouwbloemenstaander",
+          "chinese": "婚礼花架",
+          "chineseTraditional": "婚禮花柱",
+          "japanese": "ウェディングなフラワースタンド",
+          "korean": "웨딩 플라워 스탠드",
+          "russian": "свадебная жардиньерка",
+          "plural": false,
+          "internalIds": [ 12411 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -9045,7 +10702,51 @@
         "plural": false,
         "internalIds": [ 5084 ]
       },
-      "materials": { "orange windflowers": 1, "star fragment": 3 }
+      "materials": { "orange windflowers": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "orange windflowers": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03713",
+          "version": "1.0.0",
+          "english": "orange windflowers",
+          "englishEurope": "orange windflowers",
+          "german": "Orangeanemone",
+          "spanish": "anémona naranja",
+          "spanishUs": "anémona naranja",
+          "french": "anémone orange",
+          "frenchUs": "anémone orange",
+          "italian": "anemone arancione",
+          "dutch": "oranje anemoon",
+          "chinese": "橘色银莲花",
+          "chineseTraditional": "橘色銀蓮花",
+          "japanese": "オレンジのアネモネ",
+          "korean": "오렌지색 아네모네",
+          "russian": "оранжевая ветреница",
+          "plural": false,
+          "internalIds": [ 3713 ]
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
