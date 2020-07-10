@@ -6,12 +6,21 @@
 
 ### Enumeration members
 
+* [Dresses](_item_.seriestranslationssourcesheet.md#dresses)
 * [HHAThemes](_item_.seriestranslationssourcesheet.md#hhathemes)
 
 ## Enumeration members
+
+###  Dresses
+
+• **Dresses**: = "Dresses"
+
+*Defined in [Item.ts:513](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L513)*
+
+___
 
 ###  HHAThemes
 
 • **HHAThemes**: = "HHA Themes"
 
-*Defined in [Item.ts:386](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L386)*
+*Defined in [Item.ts:514](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L514)*

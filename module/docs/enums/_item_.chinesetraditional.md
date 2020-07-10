@@ -8,6 +8,7 @@
 
 * [工作](_item_.chinesetraditional.md#工作)
 * [度假](_item_.chinesetraditional.md#度假)
+* [怦怦](_item_.chinesetraditional.md#怦怦)
 * [恐怖](_item_.chinesetraditional.md#恐怖)
 * [悠閒](_item_.chinesetraditional.md#悠閒)
 * [戶外活動](_item_.chinesetraditional.md#戶外活動)
@@ -24,7 +25,7 @@
 
 • **工作**: = "工作"
 
-*Defined in [Item.ts:505](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L505)*
+*Defined in [Item.ts:555](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L555)*
 
 ___
 
@@ -32,7 +33,15 @@ ___
 
 • **度假**: = "度假"
 
-*Defined in [Item.ts:506](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L506)*
+*Defined in [Item.ts:556](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L556)*
+
+___
+
+###  怦怦
+
+• **怦怦**: = "怦怦"
+
+*Defined in [Item.ts:557](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L557)*
 
 ___
 
@@ -40,7 +49,7 @@ ___
 
 • **恐怖**: = "恐怖"
 
-*Defined in [Item.ts:507](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L507)*
+*Defined in [Item.ts:558](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L558)*
 
 ___
 
@@ -48,7 +57,7 @@ ___
 
 • **悠閒**: = "悠閒"
 
-*Defined in [Item.ts:508](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L508)*
+*Defined in [Item.ts:559](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L559)*
 
 ___
 
@@ -56,7 +65,7 @@ ___
 
 • **戶外活動**: = "戶外活動"
 
-*Defined in [Item.ts:509](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L509)*
+*Defined in [Item.ts:560](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L560)*
 
 ___
 
@@ -64,7 +73,7 @@ ___
 
 • **日常生活**: = "日常生活"
 
-*Defined in [Item.ts:510](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L510)*
+*Defined in [Item.ts:561](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L561)*
 
 ___
 
@@ -72,7 +81,7 @@ ___
 
 • **正式**: = "正式"
 
-*Defined in [Item.ts:511](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L511)*
+*Defined in [Item.ts:562](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L562)*
 
 ___
 
@@ -80,7 +89,7 @@ ___
 
 • **派對**: = "派對"
 
-*Defined in [Item.ts:512](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L512)*
+*Defined in [Item.ts:563](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L563)*
 
 ___
 
@@ -88,7 +97,7 @@ ___
 
 • **童話世界**: = "童話世界"
 
-*Defined in [Item.ts:513](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L513)*
+*Defined in [Item.ts:564](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L564)*
 
 ___
 
@@ -96,7 +105,7 @@ ___
 
 • **舞台**: = "舞台"
 
-*Defined in [Item.ts:514](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L514)*
+*Defined in [Item.ts:565](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L565)*
 
 ___
 
@@ -104,4 +113,4 @@ ___
 
 • **運動**: = "運動"
 
-*Defined in [Item.ts:515](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L515)*
+*Defined in [Item.ts:566](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L566)*
