@@ -18,7 +18,7 @@
 
 • **BridgeInclines**: = "Bridge & Inclines"
 
-*Defined in [Construction.ts:58](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Construction.ts#L58)*
+*Defined in [Construction.ts:58](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Construction.ts#L58)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **HouseDoor**: = "House Door"
 
-*Defined in [Construction.ts:59](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Construction.ts#L59)*
+*Defined in [Construction.ts:59](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Construction.ts#L59)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **HouseMailbox**: = "House Mailbox"
 
-*Defined in [Construction.ts:60](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Construction.ts#L60)*
+*Defined in [Construction.ts:60](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Construction.ts#L60)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **HouseRoof**: = "House Roof"
 
-*Defined in [Construction.ts:61](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Construction.ts#L61)*
+*Defined in [Construction.ts:61](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Construction.ts#L61)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **HouseWall**: = "House Wall"
 
-*Defined in [Construction.ts:62](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Construction.ts#L62)*
+*Defined in [Construction.ts:62](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Construction.ts#L62)*

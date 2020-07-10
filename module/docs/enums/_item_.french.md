@@ -6,6 +6,7 @@
 
 ### Enumeration members
 
+* [Prune](_item_.french.md#prune)
 * [TenueDExtérieur](_item_.french.md#tenuedextérieur)
 * [TenueDeDétente](_item_.french.md#tenuededétente)
 * [TenueDeFête](_item_.french.md#tenuedefête)
@@ -21,11 +22,19 @@
 
 ## Enumeration members
 
+###  Prune
+
+• **Prune**: = "prune"
+
+*Defined in [Item.ts:600](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L600)*
+
+___
+
 ###  TenueDExtérieur
 
 • **TenueDExtérieur**: = "tenue d'extérieur"
 
-*Defined in [Item.ts:533](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L533)*
+*Defined in [Item.ts:601](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L601)*
 
 ___
 
@@ -33,7 +42,7 @@ ___
 
 • **TenueDeDétente**: = "tenue de détente"
 
-*Defined in [Item.ts:534](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L534)*
+*Defined in [Item.ts:602](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L602)*
 
 ___
 
@@ -41,7 +50,7 @@ ___
 
 • **TenueDeFête**: = "tenue de fête"
 
-*Defined in [Item.ts:535](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L535)*
+*Defined in [Item.ts:603](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L603)*
 
 ___
 
@@ -49,7 +58,7 @@ ___
 
 • **TenueDeScène**: = "tenue de scène"
 
-*Defined in [Item.ts:536](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L536)*
+*Defined in [Item.ts:604](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L604)*
 
 ___
 
@@ -57,7 +66,7 @@ ___
 
 • **TenueDeTousLesJours**: = "tenue de tous les jours"
 
-*Defined in [Item.ts:537](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L537)*
+*Defined in [Item.ts:605](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L605)*
 
 ___
 
@@ -65,7 +74,7 @@ ___
 
 • **TenueDeVacances**: = "tenue de vacances"
 
-*Defined in [Item.ts:538](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L538)*
+*Defined in [Item.ts:606](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L606)*
 
 ___
 
@@ -73,7 +82,7 @@ ___
 
 • **TenueEffrayante**: = "tenue effrayante"
 
-*Defined in [Item.ts:539](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L539)*
+*Defined in [Item.ts:607](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L607)*
 
 ___
 
@@ -81,7 +90,7 @@ ___
 
 • **TenueFéerique**: = "tenue féerique"
 
-*Defined in [Item.ts:540](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L540)*
+*Defined in [Item.ts:608](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L608)*
 
 ___
 
@@ -89,7 +98,7 @@ ___
 
 • **TenueFéérique**: = "tenue féérique"
 
-*Defined in [Item.ts:541](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L541)*
+*Defined in [Item.ts:609](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L609)*
 
 ___
 
@@ -97,7 +106,7 @@ ___
 
 • **TenueOfficielle**: = "tenue officielle"
 
-*Defined in [Item.ts:542](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L542)*
+*Defined in [Item.ts:610](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L610)*
 
 ___
 
@@ -105,7 +114,7 @@ ___
 
 • **TenueProfessionnelle**: = "tenue professionnelle"
 
-*Defined in [Item.ts:543](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L543)*
+*Defined in [Item.ts:611](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L611)*
 
 ___
 
@@ -113,4 +122,4 @@ ___
 
 • **TenueSport**: = "tenue sport"
 
-*Defined in [Item.ts:544](https://github.com/Norviah/animal-crossing/blob/8493ef6/module/types/Item.ts#L544)*
+*Defined in [Item.ts:612](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L612)*
