@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.1.0](https://github.com/Norviah/animal-crossing/compare/v5.0.0...v5.1.0) (2020-07-10)
+
+
+### Features
+
+* **recipes:** added translations for materials ([a002b35](https://github.com/Norviah/animal-crossing/commit/a002b3520c7ce1dfd99b4946330c165c284c4d00))
+
 ## [5.0.0](https://github.com/Norviah/animal-crossing/compare/v4.5.1...v5.0.0) (2020-07-09)
 
 
