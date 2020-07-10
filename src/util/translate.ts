@@ -27,7 +27,7 @@ const uniqueValues: string[] = ['variantId', 'id', 'furnitureName', 'internalIds
  * @param  sheets Optional, represents sheets to only consider for translations.
  * @return        The translation for the name, or null if one can't be found.
  */
-function findTranslation(name: string, sheets?: string[]): obj | null {
+export function findTranslation(name: string, sheets?: string[]): obj | null {
   const translation = translations.find(
     (translation) => translation.english === name && (sheets ? sheets.includes(translation.sourceSheet) : true)
   );
