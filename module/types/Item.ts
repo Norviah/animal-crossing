@@ -44,7 +44,7 @@ export interface Item {
     speakerType?:          SpeakerType | null;
     lightingType?:         LightingType | null;
     variantId?:            VariantID | null;
-    patternTranslations?:  Translations | null;
+    patternTranslations?:  PatternTranslations | null;
     seriesTranslations?:   SeriesTranslations | null;
     concepts?:             Concept[];
     set?:                  null | string;
@@ -195,7 +195,7 @@ export enum PaneType {
     Screen = "Screen",
 }
 
-export interface Translations {
+export interface PatternTranslations {
     sourceSheet?:       PatternTranslationsSourceSheet;
     variantId?:         number;
     id?:                string;
@@ -216,11 +216,53 @@ export interface Translations {
     russian:            string;
     plural:             boolean;
     internalIds?:       number[];
+    version?:           Version;
 }
 
 export enum PatternTranslationsSourceSheet {
+    Accessories = "Accessories",
+    Art = "Art",
+    Bags = "Bags",
+    Bottoms = "Bottoms",
+    BugsModels = "Bugs Models",
+    Caps = "Caps",
+    Craft = "Craft",
+    Doorplates = "Doorplates",
+    Dresses = "Dresses",
+    Etc = "ETC",
+    EventItems = "Event Items",
+    Fence = "Fence",
+    FishModels = "Fish Models",
+    Floors = "Floors",
+    Fossils = "Fossils",
+    Furniture = "Furniture",
     FurniturePatterns = "Furniture Patterns",
     FurnitureVariants = "Furniture Variants",
+    KKAlbums = "K.K. Albums",
+    MarineSuit = "Marine Suit",
+    Masks = "Masks",
+    Pictures = "Pictures",
+    Plants = "Plants",
+    Posters = "Posters",
+    Rugs = "Rugs",
+    Shells = "Shells",
+    Shoes = "Shoes",
+    Socks = "Socks",
+    Tools = "Tools",
+    Tops = "Tops",
+    Umbrella = "Umbrella",
+    Walls = "Walls",
+}
+
+export enum Version {
+    The100 = "1.0.0",
+    The110 = "1.1.0",
+    The110A = "1.1.0a",
+    The120 = "1.2.0",
+    The120A = "1.2.0a",
+    The120B = "1.2.0b",
+    The121C = "1.2.1c",
+    The130 = "1.3.0",
 }
 
 export enum PrimaryShape {
@@ -257,6 +299,7 @@ export interface Recipe {
     uniqueEntryId:         string;
     translations:          RecipeTranslations;
     materials:             { [key: string]: number };
+    materialsTranslations: MaterialsTranslations;
 }
 
 export enum CardColor {
@@ -276,88 +319,172 @@ export enum CardColor {
     Yellow = "yellow",
 }
 
-export enum RecipeSourceSheet {
-    Recipes = "Recipes",
-}
-
-export interface RecipeTranslations {
-    sourceSheet:        TranslationsSourceSheet;
-    id:                 number | string;
-    version:            Version;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
-    plural:             boolean;
-    internalIds:        number[];
-}
-
-export enum TranslationsSourceSheet {
-    Accessories = "Accessories",
-    Art = "Art",
-    Bags = "Bags",
-    Bottoms = "Bottoms",
-    BugsModels = "Bugs Models",
-    Caps = "Caps",
-    Craft = "Craft",
-    Doorplates = "Doorplates",
-    Dresses = "Dresses",
-    Etc = "ETC",
-    EventItems = "Event Items",
-    Fence = "Fence",
-    FishModels = "Fish Models",
-    Floors = "Floors",
-    Fossils = "Fossils",
-    Furniture = "Furniture",
-    KKAlbums = "K.K. Albums",
-    MarineSuit = "Marine Suit",
-    Masks = "Masks",
-    Pictures = "Pictures",
-    Plants = "Plants",
-    Posters = "Posters",
-    Rugs = "Rugs",
-    Shells = "Shells",
-    Shoes = "Shoes",
-    Socks = "Socks",
-    Tools = "Tools",
-    Tops = "Tops",
-    Umbrella = "Umbrella",
-    Walls = "Walls",
-}
-
-export enum Version {
-    The100 = "1.0.0",
-    The110 = "1.1.0",
-    The110A = "1.1.0a",
-    The120 = "1.2.0",
-    The120A = "1.2.0a",
-    The120B = "1.2.0b",
-    The121C = "1.2.1c",
-    The130 = "1.3.0",
-}
-
-export enum SeasonalAvailability {
-    AllYear = "All Year",
-    Fall = "Fall",
-    Spring = "Spring",
-    Summer = "Summer",
-    Winter = "Winter",
-}
-
-export enum SecondaryShape {
-    H = "H",
-    L = "L",
-    N = "N",
+export interface MaterialsTranslations {
+    "star fragment"?:         PatternTranslations;
+    "Aquarius fragment"?:     PatternTranslations;
+    "gold nugget"?:           PatternTranslations;
+    stone?:                   PatternTranslations;
+    "Aries fragment"?:        PatternTranslations;
+    "earth egg"?:             PatternTranslations;
+    "stone egg"?:             PatternTranslations;
+    "leaf egg"?:              PatternTranslations;
+    "wood egg"?:              PatternTranslations;
+    "sky egg"?:               PatternTranslations;
+    "water egg"?:             PatternTranslations;
+    "wobbling Zipper toy"?:   PatternTranslations;
+    "Cancer fragment"?:       PatternTranslations;
+    "Capricorn fragment"?:    PatternTranslations;
+    wood?:                    PatternTranslations;
+    hardwood?:                PatternTranslations;
+    softwood?:                PatternTranslations;
+    "iron nugget"?:           PatternTranslations;
+    "mini DIY workbench"?:    PatternTranslations;
+    "Gemini fragment"?:       PatternTranslations;
+    "red ornament"?:          PatternTranslations;
+    "blue ornament"?:         PatternTranslations;
+    "gold ornament"?:         PatternTranslations;
+    clay?:                    PatternTranslations;
+    "Leo fragment"?:          PatternTranslations;
+    "Libra fragment"?:        PatternTranslations;
+    "Pisces fragment"?:       PatternTranslations;
+    "Sagittarius fragment"?:  PatternTranslations;
+    "Scorpius fragment"?:     PatternTranslations;
+    "Taurus fragment"?:       PatternTranslations;
+    "Virgo fragment"?:        PatternTranslations;
+    acorn?:                   PatternTranslations;
+    apple?:                   PatternTranslations;
+    "maple leaf"?:            PatternTranslations;
+    "clump of weeds"?:        PatternTranslations;
+    "flimsy axe"?:            PatternTranslations;
+    "bamboo piece"?:          PatternTranslations;
+    "young spring bamboo"?:   PatternTranslations;
+    "bamboo shoot"?:          PatternTranslations;
+    "wasp nest"?:             PatternTranslations;
+    "cherry-blossom petal"?:  PatternTranslations;
+    "blue roses"?:            PatternTranslations;
+    campfire?:                PatternTranslations;
+    "cherry-blossom bonsai"?: PatternTranslations;
+    "pine bonsai tree"?:      PatternTranslations;
+    "flimsy shovel"?:         PatternTranslations;
+    "log stakes"?:            PatternTranslations;
+    "tree branch"?:           PatternTranslations;
+    "cardboard box"?:         PatternTranslations;
+    cherry?:                  PatternTranslations;
+    "black cosmos"?:          PatternTranslations;
+    "purple mums"?:           PatternTranslations;
+    "pink mums"?:             PatternTranslations;
+    "purple roses"?:          PatternTranslations;
+    "black roses"?:           PatternTranslations;
+    "purple tulips"?:         PatternTranslations;
+    "pink tulips"?:           PatternTranslations;
+    "orange tulips"?:         PatternTranslations;
+    "purple windflowers"?:    PatternTranslations;
+    book?:                    PatternTranslations;
+    coconut?:                 PatternTranslations;
+    "blue hyacinths"?:        PatternTranslations;
+    "pink hyacinths"?:        PatternTranslations;
+    "orange hyacinths"?:      PatternTranslations;
+    "orange pansies"?:        PatternTranslations;
+    "blue pansies"?:          PatternTranslations;
+    "purple pansies"?:        PatternTranslations;
+    "blue windflowers"?:      PatternTranslations;
+    "pink windflowers"?:      PatternTranslations;
+    "white windflowers"?:     PatternTranslations;
+    "red cosmos"?:            PatternTranslations;
+    "yellow cosmos"?:         PatternTranslations;
+    "white cosmos"?:          PatternTranslations;
+    "pink cosmos"?:           PatternTranslations;
+    "large star fragment"?:   PatternTranslations;
+    "pink lilies"?:           PatternTranslations;
+    "orange lilies"?:         PatternTranslations;
+    "white lilies"?:          PatternTranslations;
+    "pink roses"?:            PatternTranslations;
+    "orange roses"?:          PatternTranslations;
+    "black lilies"?:          PatternTranslations;
+    "black tulips"?:          PatternTranslations;
+    "scattered papers"?:      PatternTranslations;
+    "yellow lilies"?:         PatternTranslations;
+    "red mums"?:              PatternTranslations;
+    "yellow roses"?:          PatternTranslations;
+    "manila clam"?:           PatternTranslations;
+    "flimsy fishing rod"?:    PatternTranslations;
+    "red roses"?:             PatternTranslations;
+    "rare mushroom"?:         PatternTranslations;
+    "round mushroom"?:        PatternTranslations;
+    "skinny mushroom"?:       PatternTranslations;
+    "flat mushroom"?:         PatternTranslations;
+    "elegant mushroom"?:      PatternTranslations;
+    fossil?:                  PatternTranslations;
+    "drinking fountain"?:     PatternTranslations;
+    "large snowflake"?:       PatternTranslations;
+    snowflake?:               PatternTranslations;
+    pear?:                    PatternTranslations;
+    orange?:                  PatternTranslations;
+    peach?:                   Comfy;
+    "empty can"?:             PatternTranslations;
+    boot?:                    PatternTranslations;
+    "old tire"?:              PatternTranslations;
+    "white hyacinths"?:       PatternTranslations;
+    "Papa bear"?:             PatternTranslations;
+    "Mama bear"?:             PatternTranslations;
+    "Baby bear"?:             PatternTranslations;
+    "gold roses"?:            PatternTranslations;
+    "screen wall"?:           PatternTranslations;
+    axe?:                     PatternTranslations;
+    net?:                     PatternTranslations;
+    "fishing rod"?:           PatternTranslations;
+    shovel?:                  PatternTranslations;
+    slingshot?:               PatternTranslations;
+    "watering can"?:          PatternTranslations;
+    "red hyacinths"?:         PatternTranslations;
+    "yellow hyacinths"?:      PatternTranslations;
+    "purple hyacinths"?:      PatternTranslations;
+    "ironwood dresser"?:      PatternTranslations;
+    "cutting board"?:         PatternTranslations;
+    "pine cone"?:             PatternTranslations;
+    "red lilies"?:            PatternTranslations;
+    "log bench"?:             PatternTranslations;
+    "log chair"?:             PatternTranslations;
+    "orange cosmos"?:         PatternTranslations;
+    "lucky cat"?:             PatternTranslations;
+    magazine?:                PatternTranslations;
+    pearl?:                   PatternTranslations;
+    "giant clam"?:            PatternTranslations;
+    "sand dollar"?:           PatternTranslations;
+    coral?:                   PatternTranslations;
+    Stone?:                   null;
+    conch?:                   PatternTranslations;
+    "sea snail"?:             PatternTranslations;
+    cowrie?:                  PatternTranslations;
+    bells?:                   null;
+    "yellow mums"?:           PatternTranslations;
+    "white mums"?:            PatternTranslations;
+    "log stool"?:             PatternTranslations;
+    "green mums"?:            PatternTranslations;
+    "flimsy net"?:            PatternTranslations;
+    "oil barrel"?:            PatternTranslations;
+    "red pansies"?:           PatternTranslations;
+    "yellow pansies"?:        PatternTranslations;
+    "white pansies"?:         PatternTranslations;
+    "zen cushion"?:           PatternTranslations;
+    rocket?:                  PatternTranslations;
+    "gold armor"?:            SeriesTranslations;
+    "rusted part"?:           PatternTranslations;
+    "white roses"?:           PatternTranslations;
+    "venus comb"?:            PatternTranslations;
+    "document stack"?:        PatternTranslations;
+    "summer shell"?:          PatternTranslations;
+    "sandy-beach flooring"?:  PatternTranslations;
+    "upright piano"?:         PatternTranslations;
+    "painting set"?:          PatternTranslations;
+    "red tulips"?:            PatternTranslations;
+    "yellow tulips"?:         PatternTranslations;
+    "white tulips"?:          PatternTranslations;
+    "flimsy watering can"?:   PatternTranslations;
+    "wedding flower stand"?:  PatternTranslations;
+    "red windflowers"?:       PatternTranslations;
+    "orange windflowers"?:    PatternTranslations;
+    "wooden-block toy"?:      PatternTranslations;
 }
 
 export interface SeriesTranslations {
@@ -379,11 +506,262 @@ export interface SeriesTranslations {
     korean:             string;
     russian:            string;
     plural:             boolean;
-    internalIds:        any[];
+    internalIds:        number[];
 }
 
 export enum SeriesTranslationsSourceSheet {
+    Dresses = "Dresses",
     HHAThemes = "HHA Themes",
+}
+
+export interface Comfy {
+    sourceSheet:        ComfySourceSheet;
+    id:                 IDEnum;
+    version:            Version;
+    english:            Theme;
+    englishEurope:      Theme;
+    german:             German;
+    spanish:            Spanish;
+    spanishUs:          Spanish;
+    french:             French;
+    frenchUs:           French;
+    italian:            Italian;
+    dutch:              Dutch;
+    chinese:            Chinese;
+    chineseTraditional: ChineseTraditional;
+    japanese:           Japanese;
+    korean:             Korean;
+    russian:            Russian;
+    plural:             boolean;
+    internalIds:        IDEnum[];
+}
+
+export enum Chinese {
+    休闲 = "休闲",
+    工作 = "工作",
+    度假 = "度假",
+    怦怦 = "怦怦",
+    恐怖 = "恐怖",
+    户外 = "户外",
+    日常 = "日常",
+    正式 = "正式",
+    派对 = "派对",
+    童话世界 = "童话世界",
+    舞台 = "舞台",
+    运动 = "运动",
+}
+
+export enum ChineseTraditional {
+    工作 = "工作",
+    度假 = "度假",
+    怦怦 = "怦怦",
+    恐怖 = "恐怖",
+    悠閒 = "悠閒",
+    戶外活動 = "戶外活動",
+    日常生活 = "日常生活",
+    正式 = "正式",
+    派對 = "派對",
+    童話世界 = "童話世界",
+    舞台 = "舞台",
+    運動 = "運動",
+}
+
+export enum Dutch {
+    AlledaagsThema = "alledaags thema",
+    Feestthema = "feestthema",
+    FormeThema = "forme thema",
+    Griezelthema = "griezelthema",
+    Perzik = "perzik",
+    Podiumthema = "podiumthema",
+    Sportthema = "sportthema",
+    Sprookjesthema = "sprookjesthema",
+    Vakantiethema = "vakantiethema",
+    Vrijetijdsthema = "vrijetijdsthema",
+    WeersbestendigThema = "weersbestendig thema",
+    Werkthema = "werkthema",
+}
+
+export enum Theme {
+    Comfy = "comfy",
+    Everyday = "everyday",
+    FairyTale = "fairy tale",
+    Formal = "formal",
+    Goth = "goth",
+    Outdoorsy = "outdoorsy",
+    Party = "party",
+    Peach = "peach",
+    Sporty = "sporty",
+    Theatrical = "theatrical",
+    Vacation = "vacation",
+    Work = "work",
+}
+
+export enum French {
+    Prune = "prune",
+    TenueDExtérieur = "tenue d'extérieur",
+    TenueDeDétente = "tenue de détente",
+    TenueDeFête = "tenue de fête",
+    TenueDeScène = "tenue de scène",
+    TenueDeTousLesJours = "tenue de tous les jours",
+    TenueDeVacances = "tenue de vacances",
+    TenueEffrayante = "tenue effrayante",
+    TenueFéerique = "tenue féerique",
+    TenueFéérique = "tenue féérique",
+    TenueOfficielle = "tenue officielle",
+    TenueProfessionnelle = "tenue professionnelle",
+    TenueSport = "tenue sport",
+}
+
+export enum German {
+    Alltagskleidung = "Alltagskleidung",
+    Arbeitskleidung = "Arbeitskleidung",
+    Bühnenkleidung = "Bühnenkleidung",
+    Formellkleidung = "Formellkleidung",
+    Freizeitkleidung = "Freizeitkleidung",
+    Früchtchen = "früchtchen",
+    Horrorkleidung = "Horrorkleidung",
+    Märchenkleidung = "Märchenkleidung",
+    Outdoorkleidung = "Outdoorkleidung",
+    Partykleidung = "Partykleidung",
+    Sportkleidung = "Sportkleidung",
+    Urlaubskleidung = "Urlaubskleidung",
+}
+
+export enum IDEnum {
+    Cbr00 = "cbr00",
+    Daily = "Daily",
+    Fairyland = "Fairyland",
+    Fomal = "Fomal",
+    Horror = "Horror",
+    Outdoor = "Outdoor",
+    Party = "Party",
+    Relax = "Relax",
+    Sport = "Sport",
+    Stage = "Stage",
+    Vacation = "Vacation",
+    Work = "Work",
+}
+
+export enum Italian {
+    Confortevole = "confortevole",
+    DaAriaAperta = "da aria aperta",
+    DaFesta = "da festa",
+    DaFiaba = "da fiaba",
+    DaLavoro = "da lavoro",
+    DaSport = "da sport",
+    DaTeatro = "da teatro",
+    DaVacanza = "da vacanza",
+    Formale = "formale",
+    Horror = "horror",
+    Pepè = "pepè",
+    PerTuttiIGiorni = "per tutti i giorni",
+}
+
+export enum Japanese {
+    おしごと仕事 = "おしごと仕事",
+    アウトドア = "アウトドア",
+    キュン = "キュン",
+    ステージ = "ステージ",
+    スポーツ = "スポーツ",
+    デイリー = "デイリー",
+    バカンス = "バカンス",
+    パーティー = "パーティー",
+    フォーマル = "フォーマル",
+    ホラー = "ホラー",
+    メルヘン = "メルヘン",
+    リラックス = "リラックス",
+}
+
+export enum Korean {
+    데일리 = "데일리",
+    두근 = "두근",
+    릴랙스 = "릴랙스",
+    메르헨 = "메르헨",
+    바캉스 = "바캉스",
+    비즈니스 = "비즈니스",
+    스테이지 = "스테이지",
+    스포츠 = "스포츠",
+    아웃도어 = "아웃도어",
+    파티 = "파티",
+    포멀 = "포멀",
+    호러 = "호러",
+}
+
+export enum Russian {
+    Готический = "готический",
+    Отпускной = "отпускной",
+    Персик = "персик",
+    Повседневный = "повседневный",
+    Походный = "походный",
+    Праздничный = "праздничный",
+    Рабочий = "рабочий",
+    Спортивный = "спортивный",
+    Удобный = "удобный",
+    Фантазийный = "фантазийный",
+    Формальный = "формальный",
+    Эффектный = "эффектный",
+}
+
+export enum ComfySourceSheet {
+    FashionThemes = "Fashion Themes",
+    VillagersCatchPhrase = "Villagers Catch Phrase",
+}
+
+export enum Spanish {
+    Casual = "casual",
+    Cielito = "cielito",
+    DeActividadesAlAireLibre = "de actividades al aire libre",
+    DeFantasía = "de fantasía",
+    DeFiesta = "de fiesta",
+    Deportivo = "deportivo",
+    Desenfadado = "desenfadado",
+    Formal = "formal",
+    Gótico = "gótico",
+    MelíMelá = "melí-melá",
+    Profesional = "profesional",
+    Teatral = "teatral",
+    Todoterreno = "todoterreno",
+    Vacacional = "vacacional",
+}
+
+export enum RecipeSourceSheet {
+    Recipes = "Recipes",
+}
+
+export interface RecipeTranslations {
+    sourceSheet:        PatternTranslationsSourceSheet;
+    id:                 number | string;
+    version:            Version;
+    english:            string;
+    englishEurope:      string;
+    german:             string;
+    spanish:            string;
+    spanishUs:          string;
+    french:             string;
+    frenchUs:           string;
+    italian:            string;
+    dutch:              string;
+    chinese:            string;
+    chineseTraditional: string;
+    japanese:           string;
+    korean:             string;
+    russian:            string;
+    plural:             boolean;
+    internalIds:        number[];
+}
+
+export enum SeasonalAvailability {
+    AllYear = "All Year",
+    Fall = "Fall",
+    Spring = "Spring",
+    Summer = "Summer",
+    Winter = "Winter",
+}
+
+export enum SecondaryShape {
+    H = "H",
+    L = "L",
+    N = "N",
 }
 
 export enum Size {
@@ -437,20 +815,6 @@ export enum Style {
     Simple = "Simple",
 }
 
-export enum Theme {
-    Comfy = "comfy",
-    Everyday = "everyday",
-    FairyTale = "fairy tale",
-    Formal = "formal",
-    Goth = "goth",
-    Outdoorsy = "outdoorsy",
-    Party = "party",
-    Sporty = "sporty",
-    Theatrical = "theatrical",
-    Vacation = "vacation",
-    Work = "work",
-}
-
 export interface ThemesTranslations {
     party?:        Comfy;
     everyday?:     Comfy;
@@ -465,190 +829,8 @@ export interface ThemesTranslations {
     goth?:         Comfy;
 }
 
-export interface Comfy {
-    sourceSheet:        ComfySourceSheet;
-    id:                 IDEnum;
-    version:            Version;
-    english:            Theme;
-    englishEurope:      Theme;
-    german:             German;
-    spanish:            Spanish;
-    spanishUs:          Spanish;
-    french:             French;
-    frenchUs:           French;
-    italian:            Italian;
-    dutch:              Dutch;
-    chinese:            Chinese;
-    chineseTraditional: ChineseTraditional;
-    japanese:           Japanese;
-    korean:             Korean;
-    russian:            Russian;
-    plural:             boolean;
-    internalIds:        IDEnum[];
-}
-
-export enum Chinese {
-    休闲 = "休闲",
-    工作 = "工作",
-    度假 = "度假",
-    恐怖 = "恐怖",
-    户外 = "户外",
-    日常 = "日常",
-    正式 = "正式",
-    派对 = "派对",
-    童话世界 = "童话世界",
-    舞台 = "舞台",
-    运动 = "运动",
-}
-
-export enum ChineseTraditional {
-    工作 = "工作",
-    度假 = "度假",
-    恐怖 = "恐怖",
-    悠閒 = "悠閒",
-    戶外活動 = "戶外活動",
-    日常生活 = "日常生活",
-    正式 = "正式",
-    派對 = "派對",
-    童話世界 = "童話世界",
-    舞台 = "舞台",
-    運動 = "運動",
-}
-
-export enum Dutch {
-    AlledaagsThema = "alledaags thema",
-    Feestthema = "feestthema",
-    FormeThema = "forme thema",
-    Griezelthema = "griezelthema",
-    Podiumthema = "podiumthema",
-    Sportthema = "sportthema",
-    Sprookjesthema = "sprookjesthema",
-    Vakantiethema = "vakantiethema",
-    Vrijetijdsthema = "vrijetijdsthema",
-    WeersbestendigThema = "weersbestendig thema",
-    Werkthema = "werkthema",
-}
-
-export enum French {
-    TenueDExtérieur = "tenue d'extérieur",
-    TenueDeDétente = "tenue de détente",
-    TenueDeFête = "tenue de fête",
-    TenueDeScène = "tenue de scène",
-    TenueDeTousLesJours = "tenue de tous les jours",
-    TenueDeVacances = "tenue de vacances",
-    TenueEffrayante = "tenue effrayante",
-    TenueFéerique = "tenue féerique",
-    TenueFéérique = "tenue féérique",
-    TenueOfficielle = "tenue officielle",
-    TenueProfessionnelle = "tenue professionnelle",
-    TenueSport = "tenue sport",
-}
-
-export enum German {
-    Alltagskleidung = "Alltagskleidung",
-    Arbeitskleidung = "Arbeitskleidung",
-    Bühnenkleidung = "Bühnenkleidung",
-    Formellkleidung = "Formellkleidung",
-    Freizeitkleidung = "Freizeitkleidung",
-    Horrorkleidung = "Horrorkleidung",
-    Märchenkleidung = "Märchenkleidung",
-    Outdoorkleidung = "Outdoorkleidung",
-    Partykleidung = "Partykleidung",
-    Sportkleidung = "Sportkleidung",
-    Urlaubskleidung = "Urlaubskleidung",
-}
-
-export enum IDEnum {
-    Daily = "Daily",
-    Fairyland = "Fairyland",
-    Fomal = "Fomal",
-    Horror = "Horror",
-    Outdoor = "Outdoor",
-    Party = "Party",
-    Relax = "Relax",
-    Sport = "Sport",
-    Stage = "Stage",
-    Vacation = "Vacation",
-    Work = "Work",
-}
-
-export enum Italian {
-    Confortevole = "confortevole",
-    DaAriaAperta = "da aria aperta",
-    DaFesta = "da festa",
-    DaFiaba = "da fiaba",
-    DaLavoro = "da lavoro",
-    DaSport = "da sport",
-    DaTeatro = "da teatro",
-    DaVacanza = "da vacanza",
-    Formale = "formale",
-    Horror = "horror",
-    PerTuttiIGiorni = "per tutti i giorni",
-}
-
-export enum Japanese {
-    おしごと仕事 = "おしごと仕事",
-    アウトドア = "アウトドア",
-    ステージ = "ステージ",
-    スポーツ = "スポーツ",
-    デイリー = "デイリー",
-    バカンス = "バカンス",
-    パーティー = "パーティー",
-    フォーマル = "フォーマル",
-    ホラー = "ホラー",
-    メルヘン = "メルヘン",
-    リラックス = "リラックス",
-}
-
-export enum Korean {
-    데일리 = "데일리",
-    릴랙스 = "릴랙스",
-    메르헨 = "메르헨",
-    바캉스 = "바캉스",
-    비즈니스 = "비즈니스",
-    스테이지 = "스테이지",
-    스포츠 = "스포츠",
-    아웃도어 = "아웃도어",
-    파티 = "파티",
-    포멀 = "포멀",
-    호러 = "호러",
-}
-
-export enum Russian {
-    Готический = "готический",
-    Отпускной = "отпускной",
-    Повседневный = "повседневный",
-    Походный = "походный",
-    Праздничный = "праздничный",
-    Рабочий = "рабочий",
-    Спортивный = "спортивный",
-    Удобный = "удобный",
-    Фантазийный = "фантазийный",
-    Формальный = "формальный",
-    Эффектный = "эффектный",
-}
-
-export enum ComfySourceSheet {
-    FashionThemes = "Fashion Themes",
-}
-
-export enum Spanish {
-    Casual = "casual",
-    DeActividadesAlAireLibre = "de actividades al aire libre",
-    DeFantasía = "de fantasía",
-    DeFiesta = "de fiesta",
-    Deportivo = "deportivo",
-    Desenfadado = "desenfadado",
-    Formal = "formal",
-    Gótico = "gótico",
-    Profesional = "profesional",
-    Teatral = "teatral",
-    Todoterreno = "todoterreno",
-    Vacacional = "vacacional",
-}
-
 export interface ItemTranslations {
-    sourceSheet:        TranslationsSourceSheet;
+    sourceSheet:        PatternTranslationsSourceSheet;
     id:                 number | string;
     version:            Version;
     english:            string;
@@ -772,13 +954,13 @@ export interface VariationElement {
     filename:              string;
     internalId:            number;
     uniqueEntryId:         string;
-    variantTranslations:   Translations | null;
+    variantTranslations:   PatternTranslations | null;
     colors:                Color[];
     image?:                string;
     pattern?:              null | string;
     patternTitle?:         PatternTitle | null;
     variantId?:            VariantID;
-    patternTranslations?:  Translations | null;
+    patternTranslations?:  PatternTranslations | null;
     surface?:              boolean;
     concepts?:             Concept[];
     primaryShape?:         PrimaryShape;
