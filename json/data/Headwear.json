@@ -392,6 +392,134 @@
         "wood egg": 1,
         "sky egg": 1,
         "water egg": 1
+      },
+      "materialsTranslations": {
+        "earth egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12509",
+          "version": "1.1.0",
+          "english": "earth egg",
+          "englishEurope": "earth egg",
+          "german": "Erd-Glücksei",
+          "spanish": "huevo terrestre",
+          "spanishUs": "huevo terrestre",
+          "french": "œuf terrestre",
+          "frenchUs": "œuf terrestre",
+          "italian": "uovo terrestre",
+          "dutch": "aarde-ei",
+          "chinese": "地面蛋",
+          "chineseTraditional": "地面蛋",
+          "japanese": "じめんのたまご",
+          "korean": "땅 달걀",
+          "russian": "земляное яйцо",
+          "plural": false,
+          "internalIds": [ 12509 ]
+        },
+        "stone egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12510",
+          "version": "1.1.0",
+          "english": "stone egg",
+          "englishEurope": "stone egg",
+          "german": "Fels-Glücksei",
+          "spanish": "huevo rupestre",
+          "spanishUs": "huevo rupestre",
+          "french": "œuf minéral",
+          "frenchUs": "œuf minéral",
+          "italian": "uovo roccioso",
+          "dutch": "steenei",
+          "chinese": "岩石蛋",
+          "chineseTraditional": "岩石蛋",
+          "japanese": "いわのたまご",
+          "korean": "바위 달걀",
+          "russian": "каменное яйцо",
+          "plural": false,
+          "internalIds": [ 12510 ]
+        },
+        "leaf egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12511",
+          "version": "1.1.0",
+          "english": "leaf egg",
+          "englishEurope": "leaf egg",
+          "german": "Laub-Glücksei",
+          "spanish": "huevo boscoso",
+          "spanishUs": "huevo boscoso",
+          "french": "œuf feuillu",
+          "frenchUs": "œuf feuillu",
+          "italian": "uovo frondoso",
+          "dutch": "bladei",
+          "chinese": "叶子蛋",
+          "chineseTraditional": "葉子蛋",
+          "japanese": "はっぱのたまご",
+          "korean": "나뭇잎 달걀",
+          "russian": "лиственное яйцо",
+          "plural": false,
+          "internalIds": [ 12511 ]
+        },
+        "wood egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12512",
+          "version": "1.1.0",
+          "english": "wood egg",
+          "englishEurope": "wood egg",
+          "german": "Holz-Glücksei",
+          "spanish": "huevo leñoso",
+          "spanishUs": "huevo leñoso",
+          "french": "œuf boisé",
+          "frenchUs": "œuf boisé",
+          "italian": "uovo boscoso",
+          "dutch": "houtei",
+          "chinese": "森林蛋",
+          "chineseTraditional": "森林蛋",
+          "japanese": "ウッディなたまご",
+          "korean": "나무 달걀",
+          "russian": "лесное яйцо",
+          "plural": false,
+          "internalIds": [ 12512 ]
+        },
+        "sky egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12513",
+          "version": "1.1.0",
+          "english": "sky egg",
+          "englishEurope": "sky egg",
+          "german": "Luft-Glücksei",
+          "spanish": "huevo celeste",
+          "spanishUs": "huevo celeste",
+          "french": "œuf aérien",
+          "frenchUs": "œuf aérien",
+          "italian": "uovo celeste",
+          "dutch": "luchtei",
+          "chinese": "飞天蛋",
+          "chineseTraditional": "飛天蛋",
+          "japanese": "そらとぶたまご",
+          "korean": "하늘을 나는 달걀",
+          "russian": "небесное яйцо",
+          "plural": false,
+          "internalIds": [ 12513 ]
+        },
+        "water egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12514",
+          "version": "1.1.0",
+          "english": "water egg",
+          "englishEurope": "water egg",
+          "german": "Wasser-Glücksei",
+          "spanish": "huevo acuático",
+          "spanishUs": "huevo acuático",
+          "french": "œuf aquatique",
+          "frenchUs": "œuf aquatique",
+          "italian": "uovo acquatico",
+          "dutch": "waterei",
+          "chinese": "鱼儿蛋",
+          "chineseTraditional": "魚兒蛋",
+          "japanese": "サカナのたまご",
+          "korean": "물고기 달걀",
+          "russian": "водяное яйцо",
+          "plural": false,
+          "internalIds": [ 12514 ]
+        }
       }
     }
   },
@@ -2884,7 +3012,30 @@
         "plural": false,
         "internalIds": [ 9871 ]
       },
-      "materials": { "apple": 5 }
+      "materials": { "apple": 5 },
+      "materialsTranslations": {
+        "apple": {
+          "sourceSheet": "Plants",
+          "id": "Fruit_02213",
+          "version": "1.0.0",
+          "english": "apple",
+          "englishEurope": "apple",
+          "german": "Apfel",
+          "spanish": "manzana",
+          "spanishUs": "manzana",
+          "french": "pomme",
+          "frenchUs": "pomme",
+          "italian": "mela",
+          "dutch": "appel",
+          "chinese": "苹果",
+          "chineseTraditional": "蘋果",
+          "japanese": "リンゴ",
+          "korean": "사과",
+          "russian": "яблоко",
+          "plural": false,
+          "internalIds": [ 2213 ]
+        }
+      }
     }
   },
   {
@@ -3422,7 +3573,30 @@
         "plural": false,
         "internalIds": [ 5143 ]
       },
-      "materials": { "clump of weeds": 10 }
+      "materials": { "clump of weeds": 10 },
+      "materialsTranslations": {
+        "clump of weeds": {
+          "sourceSheet": "Plants",
+          "id": "Weed_02624",
+          "version": "1.0.0",
+          "english": "clump of weeds",
+          "englishEurope": "clump of weeds",
+          "german": "Unkraut",
+          "spanish": "hierbajo",
+          "spanishUs": "maleza",
+          "french": "mauvaise herbe",
+          "frenchUs": "mauvaise herbe",
+          "italian": "erbaccia",
+          "dutch": "onkruid",
+          "chinese": "杂草",
+          "chineseTraditional": "雜草",
+          "japanese": "ざっそう",
+          "korean": "잡초",
+          "russian": "сорняк",
+          "plural": false,
+          "internalIds": [ 2624 ]
+        }
+      }
     }
   },
   {
@@ -5196,7 +5370,30 @@
         "plural": false,
         "internalIds": [ 7377 ]
       },
-      "materials": { "blue roses": 6 }
+      "materials": { "blue roses": 6 },
+      "materialsTranslations": {
+        "blue roses": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02959",
+          "version": "1.0.0",
+          "english": "blue roses",
+          "englishEurope": "blue roses",
+          "german": "Blaurose",
+          "spanish": "rosa azul",
+          "spanishUs": "rosa azul",
+          "french": "rose bleue",
+          "frenchUs": "rose bleue",
+          "italian": "rosa blu",
+          "dutch": "blauwe roos",
+          "chinese": "蓝色玫瑰",
+          "chineseTraditional": "藍色玫瑰",
+          "japanese": "あおいバラ",
+          "korean": "파란 장미",
+          "russian": "синяя роза",
+          "plural": false,
+          "internalIds": [ 2959 ]
+        }
+      }
     }
   },
   {
@@ -7235,7 +7432,30 @@
         "plural": false,
         "internalIds": [ 9873 ]
       },
-      "materials": { "cherry": 5 }
+      "materials": { "cherry": 5 },
+      "materialsTranslations": {
+        "cherry": {
+          "sourceSheet": "Plants",
+          "id": "Fruit_02287",
+          "version": "1.0.0",
+          "english": "cherry",
+          "englishEurope": "cherry",
+          "german": "Kirsche",
+          "spanish": "cereza",
+          "spanishUs": "cereza",
+          "french": "cerise",
+          "frenchUs": "cerise",
+          "italian": "ciliegia",
+          "dutch": "kers",
+          "chinese": "樱桃",
+          "chineseTraditional": "櫻桃",
+          "japanese": "さくらんぼ",
+          "korean": "체리",
+          "russian": "вишня",
+          "plural": false,
+          "internalIds": [ 2287 ]
+        }
+      }
     }
   },
   {
@@ -7391,7 +7611,51 @@
         "plural": false,
         "internalIds": [ 5118 ]
       },
-      "materials": { "purple mums": 3, "pink mums": 3 }
+      "materials": { "purple mums": 3, "pink mums": 3 },
+      "materialsTranslations": {
+        "purple mums": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03762",
+          "version": "1.0.0",
+          "english": "purple mums",
+          "englishEurope": "purple mums",
+          "german": "Lilachrysantheme",
+          "spanish": "crisantemo violeta",
+          "spanishUs": "crisantemo morado",
+          "french": "chrysanthème mauve",
+          "frenchUs": "chrysanthème mauve",
+          "italian": "crisantemo indaco",
+          "dutch": "paarse chrysant",
+          "chinese": "紫色菊花",
+          "chineseTraditional": "紫色菊花",
+          "japanese": "むらさきのキク",
+          "korean": "보라색 국화",
+          "russian": "фиолетовая хризантема",
+          "plural": false,
+          "internalIds": [ 3762 ]
+        },
+        "pink mums": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03765",
+          "version": "1.0.0",
+          "english": "pink mums",
+          "englishEurope": "pink mums",
+          "german": "Rosachrysantheme",
+          "spanish": "crisantemo rosa",
+          "spanishUs": "crisantemo rosa",
+          "french": "chrysanthème rose",
+          "frenchUs": "chrysanthème rose",
+          "italian": "crisantemo rosa",
+          "dutch": "roze chrysant",
+          "chinese": "粉红菊花",
+          "chineseTraditional": "粉紅菊花",
+          "japanese": "ピンクのキク",
+          "korean": "핑크색 국화",
+          "russian": "розовая хризантема",
+          "plural": false,
+          "internalIds": [ 3765 ]
+        }
+      }
     }
   },
   {
@@ -7547,7 +7811,51 @@
         "plural": false,
         "internalIds": [ 5113 ]
       },
-      "materials": { "purple roses": 3, "black roses": 3 }
+      "materials": { "purple roses": 3, "black roses": 3 },
+      "materialsTranslations": {
+        "purple roses": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02951",
+          "version": "1.0.0",
+          "english": "purple roses",
+          "englishEurope": "purple roses",
+          "german": "Lilarose",
+          "spanish": "rosa malva",
+          "spanishUs": "rosa morada",
+          "french": "rose mauve",
+          "frenchUs": "rose mauve",
+          "italian": "rosa indaco",
+          "dutch": "paarse roos",
+          "chinese": "紫色玫瑰",
+          "chineseTraditional": "紫色玫瑰",
+          "japanese": "むらさきのバラ",
+          "korean": "보라색 장미",
+          "russian": "фиолетовая роза",
+          "plural": false,
+          "internalIds": [ 2951 ]
+        },
+        "black roses": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02955",
+          "version": "1.0.0",
+          "english": "black roses",
+          "englishEurope": "black roses",
+          "german": "Schwarzrose",
+          "spanish": "rosa negra",
+          "spanishUs": "rosa negra",
+          "french": "rose noire",
+          "frenchUs": "rose noire",
+          "italian": "rosa nera",
+          "dutch": "zwarte roos",
+          "chinese": "黑色玫瑰",
+          "chineseTraditional": "黑色玫瑰",
+          "japanese": "くろいバラ",
+          "korean": "검정 장미",
+          "russian": "черная роза",
+          "plural": false,
+          "internalIds": [ 2955 ]
+        }
+      }
     }
   },
   {
@@ -7703,7 +8011,72 @@
         "plural": false,
         "internalIds": [ 5103 ]
       },
-      "materials": { "purple tulips": 2, "pink tulips": 2, "orange tulips": 1 }
+      "materials": { "purple tulips": 2, "pink tulips": 2, "orange tulips": 1 },
+      "materialsTranslations": {
+        "purple tulips": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02899",
+          "version": "1.0.0",
+          "english": "purple tulips",
+          "englishEurope": "purple tulips",
+          "german": "Wildtulpe",
+          "spanish": "tulipán violeta",
+          "spanishUs": "tulipán morado",
+          "french": "tulipe mauve",
+          "frenchUs": "tulipe mauve",
+          "italian": "tulipano indaco",
+          "dutch": "paarse tulp",
+          "chinese": "紫色郁金香",
+          "chineseTraditional": "紫色鬱金香",
+          "japanese": "むらさきチューリップ",
+          "korean": "보라색 튤립",
+          "russian": "фиолетовый тюльпан",
+          "plural": false,
+          "internalIds": [ 2899 ]
+        },
+        "pink tulips": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02891",
+          "version": "1.0.0",
+          "english": "pink tulips",
+          "englishEurope": "pink tulips",
+          "german": "Grengjer-Tulpe",
+          "spanish": "tulipán rosa",
+          "spanishUs": "tulipán rosa",
+          "french": "tulipe rose",
+          "frenchUs": "tulipe rose",
+          "italian": "tulipano rosa",
+          "dutch": "roze tulp",
+          "chinese": "粉红郁金香",
+          "chineseTraditional": "粉紅鬱金香",
+          "japanese": "ピンクのチューリップ",
+          "korean": "핑크색 튤립",
+          "russian": "розовый тюльпан",
+          "plural": false,
+          "internalIds": [ 2891 ]
+        },
+        "orange tulips": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02895",
+          "version": "1.0.0",
+          "english": "orange tulips",
+          "englishEurope": "orange tulips",
+          "german": "Flachlandtulpe",
+          "spanish": "tulipán naranja",
+          "spanishUs": "tulipán naranja",
+          "french": "tulipe orange",
+          "frenchUs": "tulipe orange",
+          "italian": "tulipano arancione",
+          "dutch": "oranje tulp",
+          "chinese": "橘色郁金香",
+          "chineseTraditional": "橘色鬱金香",
+          "japanese": "オレンジのチューリップ",
+          "korean": "오렌지색 튤립",
+          "russian": "оранжевый тюльпан",
+          "plural": false,
+          "internalIds": [ 2895 ]
+        }
+      }
     }
   },
   {
@@ -8496,7 +8869,72 @@
         "plural": false,
         "internalIds": [ 5097 ]
       },
-      "materials": { "blue hyacinths": 4, "pink hyacinths": 2, "orange hyacinths": 2 }
+      "materials": { "blue hyacinths": 4, "pink hyacinths": 2, "orange hyacinths": 2 },
+      "materialsTranslations": {
+        "blue hyacinths": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03748",
+          "version": "1.0.0",
+          "english": "blue hyacinths",
+          "englishEurope": "blue hyacinths",
+          "german": "Blauhyazinthe",
+          "spanish": "jacinto azul",
+          "spanishUs": "jacinto azul",
+          "french": "jacinthe bleue",
+          "frenchUs": "jacinthe bleue",
+          "italian": "giacinto blu",
+          "dutch": "blauwe hyacint",
+          "chinese": "蓝色风信子",
+          "chineseTraditional": "藍色風信子",
+          "japanese": "あおいヒヤシンス",
+          "korean": "파란 히아신스",
+          "russian": "синий гиацинт",
+          "plural": false,
+          "internalIds": [ 3748 ]
+        },
+        "pink hyacinths": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03738",
+          "version": "1.0.0",
+          "english": "pink hyacinths",
+          "englishEurope": "pink hyacinths",
+          "german": "Rosahyazinthe",
+          "spanish": "jacinto rosa",
+          "spanishUs": "jacinto rosa",
+          "french": "jacinthe rose",
+          "frenchUs": "jacinthe rose",
+          "italian": "giacinto rosa",
+          "dutch": "roze hyacint",
+          "chinese": "粉红风信子",
+          "chineseTraditional": "粉紅風信子",
+          "japanese": "ピンクのヒヤシンス",
+          "korean": "핑크색 히아신스",
+          "russian": "розовый гиацинт",
+          "plural": false,
+          "internalIds": [ 3738 ]
+        },
+        "orange hyacinths": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03741",
+          "version": "1.0.0",
+          "english": "orange hyacinths",
+          "englishEurope": "orange hyacinths",
+          "german": "Orangehyazinthe",
+          "spanish": "jacinto naranja",
+          "spanishUs": "jacinto naranja",
+          "french": "jacinthe orange",
+          "frenchUs": "jacinthe orange",
+          "italian": "giacinto arancione",
+          "dutch": "oranje hyacint",
+          "chinese": "橘色风信子",
+          "chineseTraditional": "橘色風信子",
+          "japanese": "オレンジのヒヤシンス",
+          "korean": "오렌지색 히아신스",
+          "russian": "оранжевый гиацинт",
+          "plural": false,
+          "internalIds": [ 3741 ]
+        }
+      }
     }
   },
   {
@@ -8652,7 +9090,51 @@
         "plural": false,
         "internalIds": [ 5106 ]
       },
-      "materials": { "orange pansies": 3, "blue pansies": 3 }
+      "materials": { "orange pansies": 3, "blue pansies": 3 },
+      "materialsTranslations": {
+        "orange pansies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02919",
+          "version": "1.0.0",
+          "english": "orange pansies",
+          "englishEurope": "orange pansies",
+          "german": "Stiefmütterchen",
+          "spanish": "viola roja/amarilla",
+          "spanishUs": "viola roja/amarilla",
+          "french": "pensée orange",
+          "frenchUs": "pensée orange",
+          "italian": "viola arancione",
+          "dutch": "oranje viooltje",
+          "chinese": "红黄三色堇",
+          "chineseTraditional": "紅黃三色堇",
+          "japanese": "あかきいろパンジー",
+          "korean": "2색 팬지",
+          "russian": "оранжевая фиалка",
+          "plural": false,
+          "internalIds": [ 2919 ]
+        },
+        "blue pansies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02927",
+          "version": "1.0.0",
+          "english": "blue pansies",
+          "englishEurope": "blue pansies",
+          "german": "Duftveilchen",
+          "spanish": "viola azul",
+          "spanishUs": "viola azul",
+          "french": "pensée bleue",
+          "frenchUs": "pensée bleue",
+          "italian": "viola blu",
+          "dutch": "blauw",
+          "chinese": "蓝色三色堇",
+          "chineseTraditional": "藍色三色堇",
+          "japanese": "あおいパンジー",
+          "korean": "파란 팬지",
+          "russian": "синяя фиалка",
+          "plural": false,
+          "internalIds": [ 2927 ]
+        }
+      }
     }
   },
   {
@@ -8808,7 +9290,51 @@
         "plural": false,
         "internalIds": [ 5100 ]
       },
-      "materials": { "blue windflowers": 3, "pink windflowers": 3 }
+      "materials": { "blue windflowers": 3, "pink windflowers": 3 },
+      "materialsTranslations": {
+        "blue windflowers": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03717",
+          "version": "1.0.0",
+          "english": "blue windflowers",
+          "englishEurope": "blue windflowers",
+          "german": "Blauanemone",
+          "spanish": "anémona azul",
+          "spanishUs": "anémona azul",
+          "french": "anémone bleue",
+          "frenchUs": "anémone bleue",
+          "italian": "anemone blu",
+          "dutch": "blauwe anemoon",
+          "chinese": "蓝色银莲花",
+          "chineseTraditional": "藍色銀蓮花",
+          "japanese": "あおいアネモネ",
+          "korean": "파란 아네모네",
+          "russian": "синяя ветреница",
+          "plural": false,
+          "internalIds": [ 3717 ]
+        },
+        "pink windflowers": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03720",
+          "version": "1.0.0",
+          "english": "pink windflowers",
+          "englishEurope": "pink windflowers",
+          "german": "Pinkanemone",
+          "spanish": "anémona rosa",
+          "spanishUs": "anémona rosa",
+          "french": "anémone rose",
+          "frenchUs": "anémone rose",
+          "italian": "anemone rosa",
+          "dutch": "roze anemoon",
+          "chinese": "粉红银莲花",
+          "chineseTraditional": "粉紅銀蓮花",
+          "japanese": "ピンクのアネモネ",
+          "korean": "핑크색 아네모네",
+          "russian": "розовая ветреница",
+          "plural": false,
+          "internalIds": [ 3720 ]
+        }
+      }
     }
   },
   {
@@ -8964,7 +9490,72 @@
         "plural": false,
         "internalIds": [ 5108 ]
       },
-      "materials": { "red cosmos": 2, "yellow cosmos": 2, "white cosmos": 3 }
+      "materials": { "red cosmos": 2, "yellow cosmos": 2, "white cosmos": 3 },
+      "materialsTranslations": {
+        "red cosmos": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02304",
+          "version": "1.0.0",
+          "english": "red cosmos",
+          "englishEurope": "red cosmos",
+          "german": "Rotcosmea",
+          "spanish": "cosmos rojo",
+          "spanishUs": "cosmos rojo",
+          "french": "cosmos rouge",
+          "frenchUs": "cosmos rouge",
+          "italian": "cosmea rossa",
+          "dutch": "rode cosmea",
+          "chinese": "红色波斯菊",
+          "chineseTraditional": "紅色波斯菊",
+          "japanese": "あかいコスモス",
+          "korean": "빨간 코스모스",
+          "russian": "красная космея",
+          "plural": false,
+          "internalIds": [ 2304 ]
+        },
+        "yellow cosmos": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02863",
+          "version": "1.0.0",
+          "english": "yellow cosmos",
+          "englishEurope": "yellow cosmos",
+          "german": "Gelbcosmea",
+          "spanish": "cosmos amarillo",
+          "spanishUs": "cosmos amarillo",
+          "french": "cosmos jaune",
+          "frenchUs": "cosmos jaune",
+          "italian": "cosmea gialla",
+          "dutch": "gele cosmea",
+          "chinese": "黄色波斯菊",
+          "chineseTraditional": "黃色波斯菊",
+          "japanese": "きいろいコスモス",
+          "korean": "노란 코스모스",
+          "russian": "желтая космея",
+          "plural": false,
+          "internalIds": [ 2863 ]
+        },
+        "white cosmos": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02305",
+          "version": "1.0.0",
+          "english": "white cosmos",
+          "englishEurope": "white cosmos",
+          "german": "Weißcosmea",
+          "spanish": "cosmos blanco",
+          "spanishUs": "cosmos blanco",
+          "french": "cosmos blanc",
+          "frenchUs": "cosmos blanc",
+          "italian": "cosmea bianca",
+          "dutch": "witte cosmea",
+          "chinese": "白色波斯菊",
+          "chineseTraditional": "白色波斯菊",
+          "japanese": "しろいコスモス",
+          "korean": "하얀 코스모스",
+          "russian": "белая космея",
+          "plural": false,
+          "internalIds": [ 2305 ]
+        }
+      }
     }
   },
   {
@@ -9258,7 +9849,72 @@
         "plural": false,
         "internalIds": [ 5115 ]
       },
-      "materials": { "pink lilies": 2, "orange lilies": 2, "white lilies": 2 }
+      "materials": { "pink lilies": 2, "orange lilies": 2, "white lilies": 2 },
+      "materialsTranslations": {
+        "pink lilies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02991",
+          "version": "1.0.0",
+          "english": "pink lilies",
+          "englishEurope": "pink lilies",
+          "german": "Türkenbundlilie",
+          "spanish": "lirio rosa",
+          "spanishUs": "lirio rosa",
+          "french": "lys rose",
+          "frenchUs": "lys rose",
+          "italian": "giglio rosa",
+          "dutch": "roze lelie",
+          "chinese": "粉红百合",
+          "chineseTraditional": "粉紅百合",
+          "japanese": "ピンクのユリ",
+          "korean": "핑크색 백합",
+          "russian": "розовая лилия",
+          "plural": false,
+          "internalIds": [ 2991 ]
+        },
+        "orange lilies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02995",
+          "version": "1.0.0",
+          "english": "orange lilies",
+          "englishEurope": "orange lilies",
+          "german": "Feuerlilie",
+          "spanish": "lirio naranja",
+          "spanishUs": "lirio naranja",
+          "french": "lys orange",
+          "frenchUs": "lys orange",
+          "italian": "giglio arancione",
+          "dutch": "oranje lelie",
+          "chinese": "橘色百合",
+          "chineseTraditional": "橘色百合",
+          "japanese": "オレンジのユリ",
+          "korean": "오렌지색 백합",
+          "russian": "оранжевая лилия",
+          "plural": false,
+          "internalIds": [ 2995 ]
+        },
+        "white lilies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02979",
+          "version": "1.0.0",
+          "english": "white lilies",
+          "englishEurope": "white lilies",
+          "german": "Osterlilie",
+          "spanish": "lirio blanco",
+          "spanishUs": "lirio blanco",
+          "french": "lys blanc",
+          "frenchUs": "lys blanc",
+          "italian": "giglio bianco",
+          "dutch": "witte lelie",
+          "chinese": "白色百合",
+          "chineseTraditional": "白色百合",
+          "japanese": "しろいユリ",
+          "korean": "하얀 백합",
+          "russian": "белая лилия",
+          "plural": false,
+          "internalIds": [ 2979 ]
+        }
+      }
     }
   },
   {
@@ -9414,7 +10070,51 @@
         "plural": false,
         "internalIds": [ 5112 ]
       },
-      "materials": { "pink roses": 3, "orange roses": 3 }
+      "materials": { "pink roses": 3, "orange roses": 3 },
+      "materialsTranslations": {
+        "pink roses": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02943",
+          "version": "1.0.0",
+          "english": "pink roses",
+          "englishEurope": "pink roses",
+          "german": "Pinkrose",
+          "spanish": "rosa rosada",
+          "spanishUs": "rosa rosada",
+          "french": "rose rose",
+          "frenchUs": "rose rose",
+          "italian": "rosa rosa",
+          "dutch": "roze roos",
+          "chinese": "粉红玫瑰",
+          "chineseTraditional": "粉紅玫瑰",
+          "japanese": "ピンクのバラ",
+          "korean": "핑크색 장미",
+          "russian": "розовая роза",
+          "plural": false,
+          "internalIds": [ 2943 ]
+        },
+        "orange roses": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02947",
+          "version": "1.0.0",
+          "english": "orange roses",
+          "englishEurope": "orange roses",
+          "german": "Sonnenrose",
+          "spanish": "rosa naranja",
+          "spanishUs": "rosa naranja",
+          "french": "rose orange",
+          "frenchUs": "rose orange",
+          "italian": "rosa arancione",
+          "dutch": "oranje roos",
+          "chinese": "橘色玫瑰",
+          "chineseTraditional": "橘色玫瑰",
+          "japanese": "オレンジのバラ",
+          "korean": "오렌지색 장미",
+          "russian": "оранжевая роза",
+          "plural": false,
+          "internalIds": [ 2947 ]
+        }
+      }
     }
   },
   {
@@ -10085,7 +10785,30 @@
         "plural": false,
         "internalIds": [ 5110 ]
       },
-      "materials": { "black cosmos": 7 }
+      "materials": { "black cosmos": 7 },
+      "materialsTranslations": {
+        "black cosmos": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02875",
+          "version": "1.0.0",
+          "english": "black cosmos",
+          "englishEurope": "black cosmos",
+          "german": "Schwarzcosmea",
+          "spanish": "cosmos negro",
+          "spanishUs": "cosmos negro",
+          "french": "cosmos noir",
+          "frenchUs": "cosmos noir",
+          "italian": "cosmea nera",
+          "dutch": "zwarte cosmea",
+          "chinese": "黑色波斯菊",
+          "chineseTraditional": "黑色波斯菊",
+          "japanese": "くろいコスモス",
+          "korean": "검정 코스모스",
+          "russian": "черная космея",
+          "plural": false,
+          "internalIds": [ 2875 ]
+        }
+      }
     }
   },
   {
@@ -10241,7 +10964,30 @@
         "plural": false,
         "internalIds": [ 5116 ]
       },
-      "materials": { "black lilies": 6 }
+      "materials": { "black lilies": 6 },
+      "materialsTranslations": {
+        "black lilies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02999",
+          "version": "1.0.0",
+          "english": "black lilies",
+          "englishEurope": "black lilies",
+          "german": "Dunkellilie",
+          "spanish": "lirio negro",
+          "spanishUs": "lirio negro",
+          "french": "lys noir",
+          "frenchUs": "lys noir",
+          "italian": "giglio nero",
+          "dutch": "zwarte lelie",
+          "chinese": "黑色百合",
+          "chineseTraditional": "黑色百合",
+          "japanese": "くろいユリ",
+          "korean": "검정 백합",
+          "russian": "черная лилия",
+          "plural": false,
+          "internalIds": [ 2999 ]
+        }
+      }
     }
   },
   {
@@ -10397,7 +11143,30 @@
         "plural": false,
         "internalIds": [ 5104 ]
       },
-      "materials": { "black tulips": 5 }
+      "materials": { "black tulips": 5 },
+      "materialsTranslations": {
+        "black tulips": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02903",
+          "version": "1.0.0",
+          "english": "black tulips",
+          "englishEurope": "black tulips",
+          "german": "Römertulpe",
+          "spanish": "tulipán negro",
+          "spanishUs": "tulipán negro",
+          "french": "tulipe noire",
+          "frenchUs": "tulipe noire",
+          "italian": "tulipano nero",
+          "dutch": "zwarte tulp",
+          "chinese": "黑色郁金香",
+          "chineseTraditional": "黑色鬱金香",
+          "japanese": "くろいチューリップ",
+          "korean": "검정 튤립",
+          "russian": "черный тюльпан",
+          "plural": false,
+          "internalIds": [ 2903 ]
+        }
+      }
     }
   },
   {
@@ -11391,7 +12160,30 @@
         "plural": false,
         "internalIds": [ 12439 ]
       },
-      "materials": { "earth egg": 2 }
+      "materials": { "earth egg": 2 },
+      "materialsTranslations": {
+        "earth egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12509",
+          "version": "1.1.0",
+          "english": "earth egg",
+          "englishEurope": "earth egg",
+          "german": "Erd-Glücksei",
+          "spanish": "huevo terrestre",
+          "spanishUs": "huevo terrestre",
+          "french": "œuf terrestre",
+          "frenchUs": "œuf terrestre",
+          "italian": "uovo terrestre",
+          "dutch": "aarde-ei",
+          "chinese": "地面蛋",
+          "chineseTraditional": "地面蛋",
+          "japanese": "じめんのたまご",
+          "korean": "땅 달걀",
+          "russian": "земляное яйцо",
+          "plural": false,
+          "internalIds": [ 12509 ]
+        }
+      }
     }
   },
   {
@@ -11554,6 +12346,134 @@
         "wood egg": 2,
         "sky egg": 2,
         "water egg": 2
+      },
+      "materialsTranslations": {
+        "earth egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12509",
+          "version": "1.1.0",
+          "english": "earth egg",
+          "englishEurope": "earth egg",
+          "german": "Erd-Glücksei",
+          "spanish": "huevo terrestre",
+          "spanishUs": "huevo terrestre",
+          "french": "œuf terrestre",
+          "frenchUs": "œuf terrestre",
+          "italian": "uovo terrestre",
+          "dutch": "aarde-ei",
+          "chinese": "地面蛋",
+          "chineseTraditional": "地面蛋",
+          "japanese": "じめんのたまご",
+          "korean": "땅 달걀",
+          "russian": "земляное яйцо",
+          "plural": false,
+          "internalIds": [ 12509 ]
+        },
+        "stone egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12510",
+          "version": "1.1.0",
+          "english": "stone egg",
+          "englishEurope": "stone egg",
+          "german": "Fels-Glücksei",
+          "spanish": "huevo rupestre",
+          "spanishUs": "huevo rupestre",
+          "french": "œuf minéral",
+          "frenchUs": "œuf minéral",
+          "italian": "uovo roccioso",
+          "dutch": "steenei",
+          "chinese": "岩石蛋",
+          "chineseTraditional": "岩石蛋",
+          "japanese": "いわのたまご",
+          "korean": "바위 달걀",
+          "russian": "каменное яйцо",
+          "plural": false,
+          "internalIds": [ 12510 ]
+        },
+        "leaf egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12511",
+          "version": "1.1.0",
+          "english": "leaf egg",
+          "englishEurope": "leaf egg",
+          "german": "Laub-Glücksei",
+          "spanish": "huevo boscoso",
+          "spanishUs": "huevo boscoso",
+          "french": "œuf feuillu",
+          "frenchUs": "œuf feuillu",
+          "italian": "uovo frondoso",
+          "dutch": "bladei",
+          "chinese": "叶子蛋",
+          "chineseTraditional": "葉子蛋",
+          "japanese": "はっぱのたまご",
+          "korean": "나뭇잎 달걀",
+          "russian": "лиственное яйцо",
+          "plural": false,
+          "internalIds": [ 12511 ]
+        },
+        "wood egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12512",
+          "version": "1.1.0",
+          "english": "wood egg",
+          "englishEurope": "wood egg",
+          "german": "Holz-Glücksei",
+          "spanish": "huevo leñoso",
+          "spanishUs": "huevo leñoso",
+          "french": "œuf boisé",
+          "frenchUs": "œuf boisé",
+          "italian": "uovo boscoso",
+          "dutch": "houtei",
+          "chinese": "森林蛋",
+          "chineseTraditional": "森林蛋",
+          "japanese": "ウッディなたまご",
+          "korean": "나무 달걀",
+          "russian": "лесное яйцо",
+          "plural": false,
+          "internalIds": [ 12512 ]
+        },
+        "sky egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12513",
+          "version": "1.1.0",
+          "english": "sky egg",
+          "englishEurope": "sky egg",
+          "german": "Luft-Glücksei",
+          "spanish": "huevo celeste",
+          "spanishUs": "huevo celeste",
+          "french": "œuf aérien",
+          "frenchUs": "œuf aérien",
+          "italian": "uovo celeste",
+          "dutch": "luchtei",
+          "chinese": "飞天蛋",
+          "chineseTraditional": "飛天蛋",
+          "japanese": "そらとぶたまご",
+          "korean": "하늘을 나는 달걀",
+          "russian": "небесное яйцо",
+          "plural": false,
+          "internalIds": [ 12513 ]
+        },
+        "water egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12514",
+          "version": "1.1.0",
+          "english": "water egg",
+          "englishEurope": "water egg",
+          "german": "Wasser-Glücksei",
+          "spanish": "huevo acuático",
+          "spanishUs": "huevo acuático",
+          "french": "œuf aquatique",
+          "frenchUs": "œuf aquatique",
+          "italian": "uovo acquatico",
+          "dutch": "waterei",
+          "chinese": "鱼儿蛋",
+          "chineseTraditional": "魚兒蛋",
+          "japanese": "サカナのたまご",
+          "korean": "물고기 달걀",
+          "russian": "водяное яйцо",
+          "plural": false,
+          "internalIds": [ 12514 ]
+        }
       }
     }
   },
@@ -15780,7 +16700,30 @@
         "plural": false,
         "internalIds": [ 5346 ]
       },
-      "materials": { "gold nugget": 5 }
+      "materials": { "gold nugget": 5 },
+      "materialsTranslations": {
+        "gold nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02505",
+          "version": "1.0.0",
+          "english": "gold nugget",
+          "englishEurope": "gold nugget",
+          "german": "Golderz",
+          "spanish": "pepita de oro",
+          "spanishUs": "pepita de oro",
+          "french": "pépite d'or",
+          "frenchUs": "pépite d'or",
+          "italian": "minerale d'oro",
+          "dutch": "goudklompje",
+          "chinese": "金矿石",
+          "chineseTraditional": "金礦石",
+          "japanese": "きんこうせき",
+          "korean": "금광석",
+          "russian": "золотой самородок",
+          "plural": false,
+          "internalIds": [ 2505 ]
+        }
+      }
     }
   },
   {
@@ -15936,7 +16879,30 @@
         "plural": false,
         "internalIds": [ 7378 ]
       },
-      "materials": { "gold roses": 6 }
+      "materials": { "gold roses": 6 },
+      "materialsTranslations": {
+        "gold roses": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02963",
+          "version": "1.0.0",
+          "english": "gold roses",
+          "englishEurope": "gold roses",
+          "german": "Goldrose",
+          "spanish": "rosa dorada",
+          "spanishUs": "rosa dorada",
+          "french": "rose dorée",
+          "frenchUs": "rose dorée",
+          "italian": "rosa d'oro",
+          "dutch": "gouden roos",
+          "chinese": "金色玫瑰",
+          "chineseTraditional": "金色玫瑰",
+          "japanese": "きんのバラ",
+          "korean": "금장미",
+          "russian": "золотая роза",
+          "plural": false,
+          "internalIds": [ 2963 ]
+        }
+      }
     }
   },
   {
@@ -18179,7 +19145,72 @@
         "plural": false,
         "internalIds": [ 5096 ]
       },
-      "materials": { "red hyacinths": 4, "yellow hyacinths": 2, "white hyacinths": 2 }
+      "materials": { "red hyacinths": 4, "yellow hyacinths": 2, "white hyacinths": 2 },
+      "materialsTranslations": {
+        "red hyacinths": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03744",
+          "version": "1.0.0",
+          "english": "red hyacinths",
+          "englishEurope": "red hyacinths",
+          "german": "Rothyazinthe",
+          "spanish": "jacinto rojo",
+          "spanishUs": "jacinto rojo",
+          "french": "jacinthe rouge",
+          "frenchUs": "jacinthe rouge",
+          "italian": "giacinto rosso",
+          "dutch": "rode hyacint",
+          "chinese": "红色风信子",
+          "chineseTraditional": "紅色風信子",
+          "japanese": "あかいヒヤシンス",
+          "korean": "빨간 히아신스",
+          "russian": "красный гиацинт",
+          "plural": false,
+          "internalIds": [ 3744 ]
+        },
+        "yellow hyacinths": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03734",
+          "version": "1.0.0",
+          "english": "yellow hyacinths",
+          "englishEurope": "yellow hyacinths",
+          "german": "Gelbhyazinthe",
+          "spanish": "jacinto amarillo",
+          "spanishUs": "jacinto amarillo",
+          "french": "jacinthe jaune",
+          "frenchUs": "jacinthe jaune",
+          "italian": "giacinto giallo",
+          "dutch": "gele hyacint",
+          "chinese": "黄色风信子",
+          "chineseTraditional": "黃色風信子",
+          "japanese": "きいろいヒヤシンス",
+          "korean": "노란 히아신스",
+          "russian": "желтый гиацинт",
+          "plural": false,
+          "internalIds": [ 3734 ]
+        },
+        "white hyacinths": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03730",
+          "version": "1.0.0",
+          "english": "white hyacinths",
+          "englishEurope": "white hyacinths",
+          "german": "Weißhyazinthe",
+          "spanish": "jacinto blanco",
+          "spanishUs": "jacinto blanco",
+          "french": "jacinthe blanche",
+          "frenchUs": "jacinthe blanche",
+          "italian": "giacinto bianco",
+          "dutch": "witte hyacint",
+          "chinese": "白色风信子",
+          "chineseTraditional": "白色風信子",
+          "japanese": "しろいヒヤシンス",
+          "korean": "하얀 히아신스",
+          "russian": "белый гиацинт",
+          "plural": false,
+          "internalIds": [ 3730 ]
+        }
+      }
     }
   },
   {
@@ -19612,7 +20643,30 @@
         "plural": false,
         "internalIds": [ 5334 ]
       },
-      "materials": { "iron nugget": 5 }
+      "materials": { "iron nugget": 5 },
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -20368,7 +21422,30 @@
         "plural": false,
         "internalIds": [ 7291 ]
       },
-      "materials": { "clump of weeds": 10 }
+      "materials": { "clump of weeds": 10 },
+      "materialsTranslations": {
+        "clump of weeds": {
+          "sourceSheet": "Plants",
+          "id": "Weed_02624",
+          "version": "1.0.0",
+          "english": "clump of weeds",
+          "englishEurope": "clump of weeds",
+          "german": "Unkraut",
+          "spanish": "hierbajo",
+          "spanishUs": "maleza",
+          "french": "mauvaise herbe",
+          "frenchUs": "mauvaise herbe",
+          "italian": "erbaccia",
+          "dutch": "onkruid",
+          "chinese": "杂草",
+          "chineseTraditional": "雜草",
+          "japanese": "ざっそう",
+          "korean": "잡초",
+          "russian": "сорняк",
+          "plural": false,
+          "internalIds": [ 2624 ]
+        }
+      }
     }
   },
   {
@@ -20524,7 +21601,30 @@
         "plural": false,
         "internalIds": [ 12441 ]
       },
-      "materials": { "leaf egg": 2 }
+      "materials": { "leaf egg": 2 },
+      "materialsTranslations": {
+        "leaf egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12511",
+          "version": "1.1.0",
+          "english": "leaf egg",
+          "englishEurope": "leaf egg",
+          "german": "Laub-Glücksei",
+          "spanish": "huevo boscoso",
+          "spanishUs": "huevo boscoso",
+          "french": "œuf feuillu",
+          "frenchUs": "œuf feuillu",
+          "italian": "uovo frondoso",
+          "dutch": "bladei",
+          "chinese": "叶子蛋",
+          "chineseTraditional": "葉子蛋",
+          "japanese": "はっぱのたまご",
+          "korean": "나뭇잎 달걀",
+          "russian": "лиственное яйцо",
+          "plural": false,
+          "internalIds": [ 12511 ]
+        }
+      }
     }
   },
   {
@@ -20865,7 +21965,72 @@
         "plural": false,
         "internalIds": [ 5114 ]
       },
-      "materials": { "red lilies": 2, "yellow lilies": 2, "white lilies": 2 }
+      "materials": { "red lilies": 2, "yellow lilies": 2, "white lilies": 2 },
+      "materialsTranslations": {
+        "red lilies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02983",
+          "version": "1.0.0",
+          "english": "red lilies",
+          "englishEurope": "red lilies",
+          "german": "Rotlilie",
+          "spanish": "lirio rojo",
+          "spanishUs": "lirio rojo",
+          "french": "lys rouge",
+          "frenchUs": "lys rouge",
+          "italian": "giglio rosso",
+          "dutch": "rode lelie",
+          "chinese": "红色百合",
+          "chineseTraditional": "紅色百合",
+          "japanese": "あかいユリ",
+          "korean": "빨간 백합",
+          "russian": "красная лилия",
+          "plural": false,
+          "internalIds": [ 2983 ]
+        },
+        "yellow lilies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02987",
+          "version": "1.0.0",
+          "english": "yellow lilies",
+          "englishEurope": "yellow lilies",
+          "german": "Pyrenäenlilie",
+          "spanish": "lirio amarillo",
+          "spanishUs": "lirio amarillo",
+          "french": "lys jaune",
+          "frenchUs": "lys jaune",
+          "italian": "giglio giallo",
+          "dutch": "gele lelie",
+          "chinese": "黄色百合",
+          "chineseTraditional": "黃色百合",
+          "japanese": "きいろいユリ",
+          "korean": "노란 백합",
+          "russian": "желтая лилия",
+          "plural": false,
+          "internalIds": [ 2987 ]
+        },
+        "white lilies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02979",
+          "version": "1.0.0",
+          "english": "white lilies",
+          "englishEurope": "white lilies",
+          "german": "Osterlilie",
+          "spanish": "lirio blanco",
+          "spanishUs": "lirio blanco",
+          "french": "lys blanc",
+          "frenchUs": "lys blanc",
+          "italian": "giglio bianco",
+          "dutch": "witte lelie",
+          "chinese": "白色百合",
+          "chineseTraditional": "白色百合",
+          "japanese": "しろいユリ",
+          "korean": "하얀 백합",
+          "russian": "белая лилия",
+          "plural": false,
+          "internalIds": [ 2979 ]
+        }
+      }
     }
   },
   {
@@ -21021,7 +22186,51 @@
         "plural": false,
         "internalIds": [ 5109 ]
       },
-      "materials": { "pink cosmos": 4, "orange cosmos": 3 }
+      "materials": { "pink cosmos": 4, "orange cosmos": 3 },
+      "materialsTranslations": {
+        "pink cosmos": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02867",
+          "version": "1.0.0",
+          "english": "pink cosmos",
+          "englishEurope": "pink cosmos",
+          "german": "Pinkcosmea",
+          "spanish": "cosmos rosa",
+          "spanishUs": "cosmos rosa",
+          "french": "cosmos rose",
+          "frenchUs": "cosmos rose",
+          "italian": "cosmea rosa",
+          "dutch": "roze cosmea",
+          "chinese": "粉红波斯菊",
+          "chineseTraditional": "粉紅波斯菊",
+          "japanese": "ピンクのコスモス",
+          "korean": "핑크색 코스모스",
+          "russian": "розовая космея",
+          "plural": false,
+          "internalIds": [ 2867 ]
+        },
+        "orange cosmos": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02871",
+          "version": "1.0.0",
+          "english": "orange cosmos",
+          "englishEurope": "orange cosmos",
+          "german": "Orangecosmea",
+          "spanish": "cosmos naranja",
+          "spanishUs": "cosmos naranja",
+          "french": "cosmos orange",
+          "frenchUs": "cosmos orange",
+          "italian": "cosmea arancione",
+          "dutch": "oranje cosmea",
+          "chinese": "橘色波斯菊",
+          "chineseTraditional": "橘色波斯菊",
+          "japanese": "オレンジのコスモス",
+          "korean": "오렌지색 코스모스",
+          "russian": "оранжевая космея",
+          "plural": false,
+          "internalIds": [ 2871 ]
+        }
+      }
     }
   },
   {
@@ -22303,7 +23512,72 @@
         "plural": false,
         "internalIds": [ 5117 ]
       },
-      "materials": { "red mums": 2, "yellow mums": 2, "white mums": 2 }
+      "materials": { "red mums": 2, "yellow mums": 2, "white mums": 2 },
+      "materialsTranslations": {
+        "red mums": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03768",
+          "version": "1.0.0",
+          "english": "red mums",
+          "englishEurope": "red mums",
+          "german": "Rotchrysantheme",
+          "spanish": "crisantemo rojo",
+          "spanishUs": "crisantemo rojo",
+          "french": "chrysanthème rouge",
+          "frenchUs": "chrysanthème rouge",
+          "italian": "crisantemo rosso",
+          "dutch": "rode chrysant",
+          "chinese": "红色菊花",
+          "chineseTraditional": "紅色菊花",
+          "japanese": "あかいキク",
+          "korean": "빨간 국화",
+          "russian": "красная хризантема",
+          "plural": false,
+          "internalIds": [ 3768 ]
+        },
+        "yellow mums": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03758",
+          "version": "1.0.0",
+          "english": "yellow mums",
+          "englishEurope": "yellow mums",
+          "german": "Gelbchrysantheme",
+          "spanish": "crisantemo amarillo",
+          "spanishUs": "crisantemo amarillo",
+          "french": "chrysanthème jaune",
+          "frenchUs": "chrysanthème jaune",
+          "italian": "crisantemo giallo",
+          "dutch": "gele chrysant",
+          "chinese": "黄色菊花",
+          "chineseTraditional": "黃色菊花",
+          "japanese": "きいろいキク",
+          "korean": "노란 국화",
+          "russian": "желтая хризантема",
+          "plural": false,
+          "internalIds": [ 3758 ]
+        },
+        "white mums": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03754",
+          "version": "1.0.0",
+          "english": "white mums",
+          "englishEurope": "white mums",
+          "german": "Weißchrysantheme",
+          "spanish": "crisantemo blanco",
+          "spanishUs": "crisantemo blanco",
+          "french": "chrysanthème blanc",
+          "frenchUs": "chrysanthème blanc",
+          "italian": "crisantemo bianco",
+          "dutch": "witte chrysant",
+          "chinese": "白色菊花",
+          "chineseTraditional": "白色菊花",
+          "japanese": "しろいキク",
+          "korean": "하얀 국화",
+          "russian": "белая хризантема",
+          "plural": false,
+          "internalIds": [ 3754 ]
+        }
+      }
     }
   },
   {
@@ -23059,7 +24333,30 @@
         "plural": false,
         "internalIds": [ 5275 ]
       },
-      "materials": { "orange": 5 }
+      "materials": { "orange": 5 },
+      "materialsTranslations": {
+        "orange": {
+          "sourceSheet": "Plants",
+          "id": "Fruit_02214",
+          "version": "1.0.0",
+          "english": "orange",
+          "englishEurope": "orange",
+          "german": "Orange",
+          "spanish": "naranja",
+          "spanishUs": "naranja",
+          "french": "orange",
+          "frenchUs": "orange",
+          "italian": "arancia",
+          "dutch": "sinaasappel",
+          "chinese": "橘子",
+          "chineseTraditional": "橘子",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "апельсин",
+          "plural": false,
+          "internalIds": [ 2214 ]
+        }
+      }
     }
   },
   {
@@ -24335,7 +25632,72 @@
         "plural": false,
         "internalIds": [ 5105 ]
       },
-      "materials": { "red pansies": 2, "yellow pansies": 2, "white pansies": 2 }
+      "materials": { "red pansies": 2, "yellow pansies": 2, "white pansies": 2 },
+      "materialsTranslations": {
+        "red pansies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02911",
+          "version": "1.0.0",
+          "english": "red pansies",
+          "englishEurope": "red pansies",
+          "german": "Alpenveilchen",
+          "spanish": "viola roja",
+          "spanishUs": "viola roja",
+          "french": "pensée rouge",
+          "frenchUs": "pensée rouge",
+          "italian": "viola rossa",
+          "dutch": "",
+          "chinese": "红色三色堇",
+          "chineseTraditional": "紅色三色堇",
+          "japanese": "あかいパンジー",
+          "korean": "빨간 팬지",
+          "russian": "красная фиалка",
+          "plural": false,
+          "internalIds": [ 2911 ]
+        },
+        "yellow pansies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02915",
+          "version": "1.0.0",
+          "english": "yellow pansies",
+          "englishEurope": "yellow pansies",
+          "german": "Hornveilchen",
+          "spanish": "viola amarilla",
+          "spanishUs": "viola amarilla",
+          "french": "pensée jaune",
+          "frenchUs": "pensée jaune",
+          "italian": "viola gialla",
+          "dutch": "",
+          "chinese": "黄色三色堇",
+          "chineseTraditional": "黃色三色堇",
+          "japanese": "きいろいパンジー",
+          "korean": "노란 팬지",
+          "russian": "желтая фиалка",
+          "plural": false,
+          "internalIds": [ 2915 ]
+        },
+        "white pansies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02907",
+          "version": "1.0.0",
+          "english": "white pansies",
+          "englishEurope": "white pansies",
+          "german": "Pfingstveilchen",
+          "spanish": "viola blanca",
+          "spanishUs": "viola blanca",
+          "french": "pensée blanche",
+          "frenchUs": "pensée blanche",
+          "italian": "viola bianca",
+          "dutch": "wit",
+          "chinese": "白色三色堇",
+          "chineseTraditional": "白色三色堇",
+          "japanese": "しろいパンジー",
+          "korean": "하얀 팬지",
+          "russian": "белая фиалка",
+          "plural": false,
+          "internalIds": [ 2907 ]
+        }
+      }
     }
   },
   {
@@ -25032,7 +26394,30 @@
         "plural": false,
         "internalIds": [ 9874 ]
       },
-      "materials": { "peach": 5 }
+      "materials": { "peach": 5 },
+      "materialsTranslations": {
+        "peach": {
+          "sourceSheet": "Villagers Catch Phrase",
+          "id": "cbr00",
+          "version": "1.0.0",
+          "english": "peach",
+          "englishEurope": "peach",
+          "german": "früchtchen",
+          "spanish": "cielito",
+          "spanishUs": "melí-melá",
+          "french": "prune",
+          "frenchUs": "prune",
+          "italian": "pepè",
+          "dutch": "perzik",
+          "chinese": "怦怦",
+          "chineseTraditional": "怦怦",
+          "japanese": "キュン",
+          "korean": "두근",
+          "russian": "персик",
+          "plural": false,
+          "internalIds": [ "cbr00" ]
+        }
+      }
     }
   },
   {
@@ -25188,7 +26573,30 @@
         "plural": false,
         "internalIds": [ 9872 ]
       },
-      "materials": { "pear": 5 }
+      "materials": { "pear": 5 },
+      "materialsTranslations": {
+        "pear": {
+          "sourceSheet": "Plants",
+          "id": "Fruit_02285",
+          "version": "1.0.0",
+          "english": "pear",
+          "englishEurope": "pear",
+          "german": "Birne",
+          "spanish": "pera",
+          "spanishUs": "pera",
+          "french": "poire",
+          "frenchUs": "poire",
+          "italian": "pera",
+          "dutch": "peer",
+          "chinese": "梨子",
+          "chineseTraditional": "梨子",
+          "japanese": "ナシ",
+          "korean": "배",
+          "russian": "груша",
+          "plural": false,
+          "internalIds": [ 2285 ]
+        }
+      }
     }
   },
   {
@@ -27318,7 +28726,30 @@
         "plural": false,
         "internalIds": [ 5098 ]
       },
-      "materials": { "purple hyacinths": 6 }
+      "materials": { "purple hyacinths": 6 },
+      "materialsTranslations": {
+        "purple hyacinths": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03751",
+          "version": "1.0.0",
+          "english": "purple hyacinths",
+          "englishEurope": "purple hyacinths",
+          "german": "Purpurhyazinthe",
+          "spanish": "jacinto violeta",
+          "spanishUs": "jacinto morado",
+          "french": "jacinthe mauve",
+          "frenchUs": "jacinthe mauve",
+          "italian": "giacinto indaco",
+          "dutch": "paarse hyacint",
+          "chinese": "紫色风信子",
+          "chineseTraditional": "紫色風信子",
+          "japanese": "むらさきのヒヤシンス",
+          "korean": "보라색 히아신스",
+          "russian": "фиолетовый гиацинт",
+          "plural": false,
+          "internalIds": [ 3751 ]
+        }
+      }
     }
   },
   {
@@ -27474,7 +28905,30 @@
         "plural": false,
         "internalIds": [ 5107 ]
       },
-      "materials": { "purple pansies": 6 }
+      "materials": { "purple pansies": 6 },
+      "materialsTranslations": {
+        "purple pansies": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02923",
+          "version": "1.0.0",
+          "english": "purple pansies",
+          "englishEurope": "purple pansies",
+          "german": "Hainveilchen",
+          "spanish": "viola violeta",
+          "spanishUs": "viola morada",
+          "french": "pensée mauve",
+          "frenchUs": "pensée mauve",
+          "italian": "viola indaco",
+          "dutch": "paars",
+          "chinese": "紫色三色堇",
+          "chineseTraditional": "紫色三色堇",
+          "japanese": "むらさきのパンジー",
+          "korean": "보라색 팬지",
+          "russian": "фиолетовая фиалка",
+          "plural": false,
+          "internalIds": [ 2923 ]
+        }
+      }
     }
   },
   {
@@ -27630,7 +29084,30 @@
         "plural": false,
         "internalIds": [ 5101 ]
       },
-      "materials": { "purple windflowers": 6 }
+      "materials": { "purple windflowers": 6 },
+      "materialsTranslations": {
+        "purple windflowers": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03727",
+          "version": "1.0.0",
+          "english": "purple windflowers",
+          "englishEurope": "purple windflowers",
+          "german": "Purpuranemone",
+          "spanish": "anémona violeta",
+          "spanishUs": "anémona morada",
+          "french": "anémone mauve",
+          "frenchUs": "anémone mauve",
+          "italian": "anemone indaco",
+          "dutch": "paarse anemoon",
+          "chinese": "紫色银莲花",
+          "chineseTraditional": "紫色銀蓮花",
+          "japanese": "むらさきのアネモネ",
+          "korean": "보라색 아네모네",
+          "russian": "фиолетовая ветреница",
+          "plural": false,
+          "internalIds": [ 3727 ]
+        }
+      }
     }
   },
   {
@@ -29303,7 +30780,72 @@
         "plural": false,
         "internalIds": [ 5111 ]
       },
-      "materials": { "red roses": 2, "yellow roses": 2, "white roses": 2 }
+      "materials": { "red roses": 2, "yellow roses": 2, "white roses": 2 },
+      "materialsTranslations": {
+        "red roses": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02935",
+          "version": "1.0.0",
+          "english": "red roses",
+          "englishEurope": "red roses",
+          "german": "Liebesrose",
+          "spanish": "rosa roja",
+          "spanishUs": "rosa roja",
+          "french": "rose rouge",
+          "frenchUs": "rose rouge",
+          "italian": "rosa rossa",
+          "dutch": "rode roos",
+          "chinese": "红色玫瑰",
+          "chineseTraditional": "紅色玫瑰",
+          "japanese": "あかいバラ",
+          "korean": "빨간 장미",
+          "russian": "красная роза",
+          "plural": false,
+          "internalIds": [ 2935 ]
+        },
+        "yellow roses": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02939",
+          "version": "1.0.0",
+          "english": "yellow roses",
+          "englishEurope": "yellow roses",
+          "german": "Bernsteinrose",
+          "spanish": "rosa amarilla",
+          "spanishUs": "rosa amarilla",
+          "french": "rose jaune",
+          "frenchUs": "rose jaune",
+          "italian": "rosa gialla",
+          "dutch": "gele roos",
+          "chinese": "黄色玫瑰",
+          "chineseTraditional": "黃色玫瑰",
+          "japanese": "きいろいバラ",
+          "korean": "노란 장미",
+          "russian": "желтая роза",
+          "plural": false,
+          "internalIds": [ 2939 ]
+        },
+        "white roses": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02931",
+          "version": "1.0.0",
+          "english": "white roses",
+          "englishEurope": "white roses",
+          "german": "Unschuldsrose",
+          "spanish": "rosa blanca",
+          "spanishUs": "rosa blanca",
+          "french": "rose blanche",
+          "frenchUs": "rose blanche",
+          "italian": "rosa bianca",
+          "dutch": "witte roos",
+          "chinese": "白色玫瑰",
+          "chineseTraditional": "白色玫瑰",
+          "japanese": "しろいバラ",
+          "korean": "하얀 장미",
+          "russian": "белая роза",
+          "plural": false,
+          "internalIds": [ 2931 ]
+        }
+      }
     }
   },
   {
@@ -31390,7 +32932,30 @@
         "plural": false,
         "internalIds": [ 5119 ]
       },
-      "materials": { "green mums": 6 }
+      "materials": { "green mums": 6 },
+      "materialsTranslations": {
+        "green mums": {
+          "sourceSheet": "Plants",
+          "id": "Flower_05175",
+          "version": "1.0.0",
+          "english": "green mums",
+          "englishEurope": "green mums",
+          "german": "Grünchrysantheme",
+          "spanish": "crisantemo verde",
+          "spanishUs": "crisantemo verde",
+          "french": "chrysanthème vert",
+          "frenchUs": "chrysanthème vert",
+          "italian": "crisantemo verde",
+          "dutch": "groene chrysant",
+          "chinese": "绿色菊花",
+          "chineseTraditional": "綠色菊花",
+          "japanese": "みどりのキク",
+          "korean": "초록색 국화",
+          "russian": "зеленая хризантема",
+          "plural": false,
+          "internalIds": [ 5175 ]
+        }
+      }
     }
   },
   {
@@ -32093,7 +33658,30 @@
         "plural": false,
         "internalIds": [ 12443 ]
       },
-      "materials": { "sky egg": 2 }
+      "materials": { "sky egg": 2 },
+      "materialsTranslations": {
+        "sky egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12513",
+          "version": "1.1.0",
+          "english": "sky egg",
+          "englishEurope": "sky egg",
+          "german": "Luft-Glücksei",
+          "spanish": "huevo celeste",
+          "spanishUs": "huevo celeste",
+          "french": "œuf aérien",
+          "frenchUs": "œuf aérien",
+          "italian": "uovo celeste",
+          "dutch": "luchtei",
+          "chinese": "飞天蛋",
+          "chineseTraditional": "飛天蛋",
+          "japanese": "そらとぶたまご",
+          "korean": "하늘을 나는 달걀",
+          "russian": "небесное яйцо",
+          "plural": false,
+          "internalIds": [ 12513 ]
+        }
+      }
     }
   },
   {
@@ -32429,7 +34017,51 @@
         "plural": false,
         "internalIds": [ 8609 ]
       },
-      "materials": { "large snowflake": 1, "snowflake": 5 }
+      "materials": { "large snowflake": 1, "snowflake": 5 },
+      "materialsTranslations": {
+        "large snowflake": {
+          "sourceSheet": "Craft",
+          "id": "SnowCrystal_03540",
+          "version": "1.0.0",
+          "english": "large snowflake",
+          "englishEurope": "large snowflake",
+          "german": "Riesenschneeflocke",
+          "spanish": "copo de nieve XL",
+          "spanishUs": "copo de nieve XL",
+          "french": "grand flocon de neige",
+          "frenchUs": "grand flocon de neige",
+          "italian": "fiocco di neve grande",
+          "dutch": "grote sneeuwvlok",
+          "chinese": "大雪花",
+          "chineseTraditional": "大雪花",
+          "japanese": "ゆきのだいけっしょう",
+          "korean": "커다란 눈의 결정",
+          "russian": "крупная снежинка",
+          "plural": false,
+          "internalIds": [ 3540 ]
+        },
+        "snowflake": {
+          "sourceSheet": "Craft",
+          "id": "SnowCrystal_03539",
+          "version": "1.0.0",
+          "english": "snowflake",
+          "englishEurope": "snowflake",
+          "german": "Schneeflocke",
+          "spanish": "copo de nieve",
+          "spanishUs": "copo de nieve",
+          "french": "flocon de neige",
+          "frenchUs": "flocon de neige",
+          "italian": "fiocco di neve",
+          "dutch": "sneeuwvlok",
+          "chinese": "雪花",
+          "chineseTraditional": "雪花",
+          "japanese": "ゆきのけっしょう",
+          "korean": "눈의 결정",
+          "russian": "снежинка",
+          "plural": false,
+          "internalIds": [ 3539 ]
+        }
+      }
     }
   },
   {
@@ -34173,7 +35805,30 @@
         "plural": false,
         "internalIds": [ 9862 ]
       },
-      "materials": { "star fragment": 5 }
+      "materials": { "star fragment": 5 },
+      "materialsTranslations": {
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": "StarPiece_05983",
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false,
+          "internalIds": [ 5983 ]
+        }
+      }
     }
   },
   {
@@ -34329,7 +35984,30 @@
         "plural": false,
         "internalIds": [ 12440 ]
       },
-      "materials": { "stone egg": 2 }
+      "materials": { "stone egg": 2 },
+      "materialsTranslations": {
+        "stone egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12510",
+          "version": "1.1.0",
+          "english": "stone egg",
+          "englishEurope": "stone egg",
+          "german": "Fels-Glücksei",
+          "spanish": "huevo rupestre",
+          "spanishUs": "huevo rupestre",
+          "french": "œuf minéral",
+          "frenchUs": "œuf minéral",
+          "italian": "uovo roccioso",
+          "dutch": "steenei",
+          "chinese": "岩石蛋",
+          "chineseTraditional": "岩石蛋",
+          "japanese": "いわのたまご",
+          "korean": "바위 달걀",
+          "russian": "каменное яйцо",
+          "plural": false,
+          "internalIds": [ 12510 ]
+        }
+      }
     }
   },
   {
@@ -35026,7 +36704,30 @@
         "plural": false,
         "internalIds": [ 7254 ]
       },
-      "materials": { "clump of weeds": 10 }
+      "materials": { "clump of weeds": 10 },
+      "materialsTranslations": {
+        "clump of weeds": {
+          "sourceSheet": "Plants",
+          "id": "Weed_02624",
+          "version": "1.0.0",
+          "english": "clump of weeds",
+          "englishEurope": "clump of weeds",
+          "german": "Unkraut",
+          "spanish": "hierbajo",
+          "spanishUs": "maleza",
+          "french": "mauvaise herbe",
+          "frenchUs": "mauvaise herbe",
+          "italian": "erbaccia",
+          "dutch": "onkruid",
+          "chinese": "杂草",
+          "chineseTraditional": "雜草",
+          "japanese": "ざっそう",
+          "korean": "잡초",
+          "russian": "сорняк",
+          "plural": false,
+          "internalIds": [ 2624 ]
+        }
+      }
     }
   },
   {
@@ -38268,7 +39969,72 @@
         "plural": false,
         "internalIds": [ 5102 ]
       },
-      "materials": { "red tulips": 2, "yellow tulips": 2, "white tulips": 1 }
+      "materials": { "red tulips": 2, "yellow tulips": 2, "white tulips": 1 },
+      "materialsTranslations": {
+        "red tulips": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02883",
+          "version": "1.0.0",
+          "english": "red tulips",
+          "englishEurope": "red tulips",
+          "german": "Papageitulpe",
+          "spanish": "tulipán rojo",
+          "spanishUs": "tulipán rojo",
+          "french": "tulipe rouge",
+          "frenchUs": "tulipe rouge",
+          "italian": "tulipano rosso",
+          "dutch": "rode tulp",
+          "chinese": "红色郁金香",
+          "chineseTraditional": "紅色鬱金香",
+          "japanese": "あかいチューリップ",
+          "korean": "빨간 튤립",
+          "russian": "красный тюльпан",
+          "plural": false,
+          "internalIds": [ 2883 ]
+        },
+        "yellow tulips": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02887",
+          "version": "1.0.0",
+          "english": "yellow tulips",
+          "englishEurope": "yellow tulips",
+          "german": "Viridifloratulpe",
+          "spanish": "tulipán amarillo",
+          "spanishUs": "tulipán amarillo",
+          "french": "tulipe jaune",
+          "frenchUs": "tulipe jaune",
+          "italian": "tulipano giallo",
+          "dutch": "gele tulp",
+          "chinese": "黄色郁金香",
+          "chineseTraditional": "黃色鬱金香",
+          "japanese": "きいろいチューリップ",
+          "korean": "노란 튤립",
+          "russian": "желтый тюльпан",
+          "plural": false,
+          "internalIds": [ 2887 ]
+        },
+        "white tulips": {
+          "sourceSheet": "Plants",
+          "id": "Flower_02879",
+          "version": "1.0.0",
+          "english": "white tulips",
+          "englishEurope": "white tulips",
+          "german": "Triumphtulpe",
+          "spanish": "tulipán blanco",
+          "spanishUs": "tulipán blanco",
+          "french": "tulipe blanche",
+          "frenchUs": "tulipe blanche",
+          "italian": "tulipano bianco",
+          "dutch": "witte tulp",
+          "chinese": "白色郁金香",
+          "chineseTraditional": "白色鬱金香",
+          "japanese": "しろいチューリップ",
+          "korean": "하얀 튤립",
+          "russian": "белый тюльпан",
+          "plural": false,
+          "internalIds": [ 2879 ]
+        }
+      }
     }
   },
   {
@@ -39749,7 +41515,30 @@
         "plural": false,
         "internalIds": [ 12444 ]
       },
-      "materials": { "water egg": 2 }
+      "materials": { "water egg": 2 },
+      "materialsTranslations": {
+        "water egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12514",
+          "version": "1.1.0",
+          "english": "water egg",
+          "englishEurope": "water egg",
+          "german": "Wasser-Glücksei",
+          "spanish": "huevo acuático",
+          "spanishUs": "huevo acuático",
+          "french": "œuf aquatique",
+          "frenchUs": "œuf aquatique",
+          "italian": "uovo acquatico",
+          "dutch": "waterei",
+          "chinese": "鱼儿蛋",
+          "chineseTraditional": "魚兒蛋",
+          "japanese": "サカナのたまご",
+          "korean": "물고기 달걀",
+          "russian": "водяное яйцо",
+          "plural": false,
+          "internalIds": [ 12514 ]
+        }
+      }
     }
   },
   {
@@ -40323,6 +42112,71 @@
         "red windflowers": 2,
         "orange windflowers": 2,
         "white windflowers": 2
+      },
+      "materialsTranslations": {
+        "red windflowers": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03723",
+          "version": "1.0.0",
+          "english": "red windflowers",
+          "englishEurope": "red windflowers",
+          "german": "Rotanemone",
+          "spanish": "anémona roja",
+          "spanishUs": "anémona roja",
+          "french": "anémone rouge",
+          "frenchUs": "anémone rouge",
+          "italian": "anemone rosso",
+          "dutch": "rode anemoon",
+          "chinese": "红色银莲花",
+          "chineseTraditional": "紅色銀蓮花",
+          "japanese": "あかいアネモネ",
+          "korean": "빨간 아네모네",
+          "russian": "красная ветреница",
+          "plural": false,
+          "internalIds": [ 3723 ]
+        },
+        "orange windflowers": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03713",
+          "version": "1.0.0",
+          "english": "orange windflowers",
+          "englishEurope": "orange windflowers",
+          "german": "Orangeanemone",
+          "spanish": "anémona naranja",
+          "spanishUs": "anémona naranja",
+          "french": "anémone orange",
+          "frenchUs": "anémone orange",
+          "italian": "anemone arancione",
+          "dutch": "oranje anemoon",
+          "chinese": "橘色银莲花",
+          "chineseTraditional": "橘色銀蓮花",
+          "japanese": "オレンジのアネモネ",
+          "korean": "오렌지색 아네모네",
+          "russian": "оранжевая ветреница",
+          "plural": false,
+          "internalIds": [ 3713 ]
+        },
+        "white windflowers": {
+          "sourceSheet": "Plants",
+          "id": "Flower_03709",
+          "version": "1.0.0",
+          "english": "white windflowers",
+          "englishEurope": "white windflowers",
+          "german": "Weißanemone",
+          "spanish": "anémona blanca",
+          "spanishUs": "anémona blanca",
+          "french": "anémone blanche",
+          "frenchUs": "anémone blanche",
+          "italian": "anemone bianco",
+          "dutch": "witte anemoon",
+          "chinese": "白色银莲花",
+          "chineseTraditional": "白色銀蓮花",
+          "japanese": "しろいアネモネ",
+          "korean": "하얀 아네모네",
+          "russian": "белая ветреница",
+          "plural": false,
+          "internalIds": [ 3709 ]
+        }
       }
     }
   },
@@ -40627,7 +42481,30 @@
         "plural": false,
         "internalIds": [ 12442 ]
       },
-      "materials": { "wood egg": 2 }
+      "materials": { "wood egg": 2 },
+      "materialsTranslations": {
+        "wood egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12512",
+          "version": "1.1.0",
+          "english": "wood egg",
+          "englishEurope": "wood egg",
+          "german": "Holz-Glücksei",
+          "spanish": "huevo leñoso",
+          "spanishUs": "huevo leñoso",
+          "french": "œuf boisé",
+          "frenchUs": "œuf boisé",
+          "italian": "uovo boscoso",
+          "dutch": "houtei",
+          "chinese": "森林蛋",
+          "chineseTraditional": "森林蛋",
+          "japanese": "ウッディなたまご",
+          "korean": "나무 달걀",
+          "russian": "лесное яйцо",
+          "plural": false,
+          "internalIds": [ 12512 ]
+        }
+      }
     }
   },
   {

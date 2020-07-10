@@ -80,6 +80,134 @@
         "wood egg": 1,
         "sky egg": 1,
         "water egg": 1
+      },
+      "materialsTranslations": {
+        "earth egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12509",
+          "version": "1.1.0",
+          "english": "earth egg",
+          "englishEurope": "earth egg",
+          "german": "Erd-Glücksei",
+          "spanish": "huevo terrestre",
+          "spanishUs": "huevo terrestre",
+          "french": "œuf terrestre",
+          "frenchUs": "œuf terrestre",
+          "italian": "uovo terrestre",
+          "dutch": "aarde-ei",
+          "chinese": "地面蛋",
+          "chineseTraditional": "地面蛋",
+          "japanese": "じめんのたまご",
+          "korean": "땅 달걀",
+          "russian": "земляное яйцо",
+          "plural": false,
+          "internalIds": [ 12509 ]
+        },
+        "stone egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12510",
+          "version": "1.1.0",
+          "english": "stone egg",
+          "englishEurope": "stone egg",
+          "german": "Fels-Glücksei",
+          "spanish": "huevo rupestre",
+          "spanishUs": "huevo rupestre",
+          "french": "œuf minéral",
+          "frenchUs": "œuf minéral",
+          "italian": "uovo roccioso",
+          "dutch": "steenei",
+          "chinese": "岩石蛋",
+          "chineseTraditional": "岩石蛋",
+          "japanese": "いわのたまご",
+          "korean": "바위 달걀",
+          "russian": "каменное яйцо",
+          "plural": false,
+          "internalIds": [ 12510 ]
+        },
+        "leaf egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12511",
+          "version": "1.1.0",
+          "english": "leaf egg",
+          "englishEurope": "leaf egg",
+          "german": "Laub-Glücksei",
+          "spanish": "huevo boscoso",
+          "spanishUs": "huevo boscoso",
+          "french": "œuf feuillu",
+          "frenchUs": "œuf feuillu",
+          "italian": "uovo frondoso",
+          "dutch": "bladei",
+          "chinese": "叶子蛋",
+          "chineseTraditional": "葉子蛋",
+          "japanese": "はっぱのたまご",
+          "korean": "나뭇잎 달걀",
+          "russian": "лиственное яйцо",
+          "plural": false,
+          "internalIds": [ 12511 ]
+        },
+        "wood egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12512",
+          "version": "1.1.0",
+          "english": "wood egg",
+          "englishEurope": "wood egg",
+          "german": "Holz-Glücksei",
+          "spanish": "huevo leñoso",
+          "spanishUs": "huevo leñoso",
+          "french": "œuf boisé",
+          "frenchUs": "œuf boisé",
+          "italian": "uovo boscoso",
+          "dutch": "houtei",
+          "chinese": "森林蛋",
+          "chineseTraditional": "森林蛋",
+          "japanese": "ウッディなたまご",
+          "korean": "나무 달걀",
+          "russian": "лесное яйцо",
+          "plural": false,
+          "internalIds": [ 12512 ]
+        },
+        "sky egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12513",
+          "version": "1.1.0",
+          "english": "sky egg",
+          "englishEurope": "sky egg",
+          "german": "Luft-Glücksei",
+          "spanish": "huevo celeste",
+          "spanishUs": "huevo celeste",
+          "french": "œuf aérien",
+          "frenchUs": "œuf aérien",
+          "italian": "uovo celeste",
+          "dutch": "luchtei",
+          "chinese": "飞天蛋",
+          "chineseTraditional": "飛天蛋",
+          "japanese": "そらとぶたまご",
+          "korean": "하늘을 나는 달걀",
+          "russian": "небесное яйцо",
+          "plural": false,
+          "internalIds": [ 12513 ]
+        },
+        "water egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12514",
+          "version": "1.1.0",
+          "english": "water egg",
+          "englishEurope": "water egg",
+          "german": "Wasser-Glücksei",
+          "spanish": "huevo acuático",
+          "spanishUs": "huevo acuático",
+          "french": "œuf aquatique",
+          "frenchUs": "œuf aquatique",
+          "italian": "uovo acquatico",
+          "dutch": "waterei",
+          "chinese": "鱼儿蛋",
+          "chineseTraditional": "魚兒蛋",
+          "japanese": "サカナのたまご",
+          "korean": "물고기 달걀",
+          "russian": "водяное яйцо",
+          "plural": false,
+          "internalIds": [ 12514 ]
+        }
       }
     }
   },
@@ -157,7 +285,30 @@
         "plural": false,
         "internalIds": [ 3403 ]
       },
-      "materials": { "bamboo piece": 6 }
+      "materials": { "bamboo piece": 6 },
+      "materialsTranslations": {
+        "bamboo piece": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02501",
+          "version": "1.0.0",
+          "english": "bamboo piece",
+          "englishEurope": "bamboo piece",
+          "german": "Bambus",
+          "spanish": "tallo de bambú",
+          "spanishUs": "tallo de bambú",
+          "french": "morceau de bambou",
+          "frenchUs": "morceau de bambou",
+          "italian": "pezzo di bambù",
+          "dutch": "bamboestok",
+          "chinese": "竹子材料",
+          "chineseTraditional": "竹子材料",
+          "japanese": "バンブー",
+          "korean": "대나무 토막",
+          "russian": "часть бамбука",
+          "plural": false,
+          "internalIds": [ 2501 ]
+        }
+      }
     }
   },
   {
@@ -234,7 +385,51 @@
         "plural": false,
         "internalIds": [ 5213 ]
       },
-      "materials": { "hardwood": 3, "iron nugget": 2 }
+      "materials": { "hardwood": 3, "iron nugget": 2 },
+      "materialsTranslations": {
+        "hardwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02769",
+          "version": "1.0.0",
+          "english": "hardwood",
+          "englishEurope": "hardwood",
+          "german": "Hartholz",
+          "spanish": "tabla rígida",
+          "spanishUs": "tabla rígida",
+          "french": "bois dur",
+          "frenchUs": "bois dur",
+          "italian": "legno duro",
+          "dutch": "hardhout",
+          "chinese": "硬木材",
+          "chineseTraditional": "硬木材",
+          "japanese": "かたいもくざい",
+          "korean": "단단한 목재",
+          "russian": "твердая древесина",
+          "plural": false,
+          "internalIds": [ 2769 ]
+        },
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -311,7 +506,30 @@
         "plural": false,
         "internalIds": [ 3080 ]
       },
-      "materials": { "clay": 6 }
+      "materials": { "clay": 6 },
+      "materialsTranslations": {
+        "clay": {
+          "sourceSheet": "Craft",
+          "id": "Ore_03090",
+          "version": "1.0.0",
+          "english": "clay",
+          "englishEurope": "clay",
+          "german": "Lehm",
+          "spanish": "bola de arcilla",
+          "spanishUs": "bola de arcilla",
+          "french": "argile",
+          "frenchUs": "argile",
+          "italian": "pezzo di argilla",
+          "dutch": "kleihomp",
+          "chinese": "黏土",
+          "chineseTraditional": "黏土",
+          "japanese": "ねんど",
+          "korean": "점토",
+          "russian": "кусок глины",
+          "plural": false,
+          "internalIds": [ 3090 ]
+        }
+      }
     }
   },
   {
@@ -388,7 +606,30 @@
         "plural": false,
         "internalIds": [ 4349 ]
       },
-      "materials": { "wood": 6 }
+      "materials": { "wood": 6 },
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02768",
+          "version": "1.0.0",
+          "english": "wood",
+          "englishEurope": "wood",
+          "german": "Holz",
+          "spanish": "tabla normal",
+          "spanishUs": "tabla normal",
+          "french": "bois",
+          "frenchUs": "bois",
+          "italian": "legno normale",
+          "dutch": "hout",
+          "chinese": "木材",
+          "chineseTraditional": "木材",
+          "japanese": "もくざい",
+          "korean": "목재",
+          "russian": "древесина",
+          "plural": false,
+          "internalIds": [ 2768 ]
+        }
+      }
     }
   },
   {
@@ -465,7 +706,30 @@
         "plural": false,
         "internalIds": [ 4350 ]
       },
-      "materials": { "hardwood": 6 }
+      "materials": { "hardwood": 6 },
+      "materialsTranslations": {
+        "hardwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02769",
+          "version": "1.0.0",
+          "english": "hardwood",
+          "englishEurope": "hardwood",
+          "german": "Hartholz",
+          "spanish": "tabla rígida",
+          "spanishUs": "tabla rígida",
+          "french": "bois dur",
+          "frenchUs": "bois dur",
+          "italian": "legno duro",
+          "dutch": "hardhout",
+          "chinese": "硬木材",
+          "chineseTraditional": "硬木材",
+          "japanese": "かたいもくざい",
+          "korean": "단단한 목재",
+          "russian": "твердая древесина",
+          "plural": false,
+          "internalIds": [ 2769 ]
+        }
+      }
     }
   },
   {
@@ -542,7 +806,72 @@
         "plural": false,
         "internalIds": [ 12758 ]
       },
-      "materials": { "clump of weeds": 10, "tree branch": 5, "stone": 2 }
+      "materials": { "clump of weeds": 10, "tree branch": 5, "stone": 2 },
+      "materialsTranslations": {
+        "clump of weeds": {
+          "sourceSheet": "Plants",
+          "id": "Weed_02624",
+          "version": "1.0.0",
+          "english": "clump of weeds",
+          "englishEurope": "clump of weeds",
+          "german": "Unkraut",
+          "spanish": "hierbajo",
+          "spanishUs": "maleza",
+          "french": "mauvaise herbe",
+          "frenchUs": "mauvaise herbe",
+          "italian": "erbaccia",
+          "dutch": "onkruid",
+          "chinese": "杂草",
+          "chineseTraditional": "雜草",
+          "japanese": "ざっそう",
+          "korean": "잡초",
+          "russian": "сорняк",
+          "plural": false,
+          "internalIds": [ 2624 ]
+        },
+        "tree branch": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02500",
+          "version": "1.0.0",
+          "english": "tree branch",
+          "englishEurope": "tree branch",
+          "german": "Ast",
+          "spanish": "rama",
+          "spanishUs": "rama",
+          "french": "branche d'arbre",
+          "frenchUs": "branche d'arbre",
+          "italian": "ramo",
+          "dutch": "tak",
+          "chinese": "树枝",
+          "chineseTraditional": "樹枝",
+          "japanese": "きのえだ",
+          "korean": "나뭇가지",
+          "russian": "ветка",
+          "plural": false,
+          "internalIds": [ 2500 ]
+        },
+        "stone": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02502",
+          "version": "1.0.0",
+          "english": "stone",
+          "englishEurope": "stone",
+          "german": "Stein",
+          "spanish": "piedra",
+          "spanishUs": "piedra",
+          "french": "pierre",
+          "frenchUs": "pierre",
+          "italian": "pietra",
+          "dutch": "steen",
+          "chinese": "石头",
+          "chineseTraditional": "石頭",
+          "japanese": "いし",
+          "korean": "돌",
+          "russian": "камень",
+          "plural": false,
+          "internalIds": [ 2502 ]
+        }
+      }
     }
   },
   {
@@ -619,7 +948,51 @@
         "plural": false,
         "internalIds": [ 4354 ]
       },
-      "materials": { "wood": 6, "softwood": 4 }
+      "materials": { "wood": 6, "softwood": 4 },
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02768",
+          "version": "1.0.0",
+          "english": "wood",
+          "englishEurope": "wood",
+          "german": "Holz",
+          "spanish": "tabla normal",
+          "spanishUs": "tabla normal",
+          "french": "bois",
+          "frenchUs": "bois",
+          "italian": "legno normale",
+          "dutch": "hout",
+          "chinese": "木材",
+          "chineseTraditional": "木材",
+          "japanese": "もくざい",
+          "korean": "목재",
+          "russian": "древесина",
+          "plural": false,
+          "internalIds": [ 2768 ]
+        },
+        "softwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02767",
+          "version": "1.0.0",
+          "english": "softwood",
+          "englishEurope": "softwood",
+          "german": "Weichholz",
+          "spanish": "tabla flexible",
+          "spanishUs": "tabla flexible",
+          "french": "bois tendre",
+          "frenchUs": "bois tendre",
+          "italian": "legno morbido",
+          "dutch": "zachthout",
+          "chinese": "软木材",
+          "chineseTraditional": "軟木材",
+          "japanese": "やわらかいもくざい",
+          "korean": "부드러운 목재",
+          "russian": "мягкая древесина",
+          "plural": false,
+          "internalIds": [ 2767 ]
+        }
+      }
     }
   },
   {
@@ -696,7 +1069,30 @@
         "plural": false,
         "internalIds": [ 4357 ]
       },
-      "materials": { "iron nugget": 6 }
+      "materials": { "iron nugget": 6 },
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -773,7 +1169,51 @@
         "plural": false,
         "internalIds": [ 5206 ]
       },
-      "materials": { "stone": 6, "iron nugget": 3 }
+      "materials": { "stone": 6, "iron nugget": 3 },
+      "materialsTranslations": {
+        "stone": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02502",
+          "version": "1.0.0",
+          "english": "stone",
+          "englishEurope": "stone",
+          "german": "Stein",
+          "spanish": "piedra",
+          "spanishUs": "piedra",
+          "french": "pierre",
+          "frenchUs": "pierre",
+          "italian": "pietra",
+          "dutch": "steen",
+          "chinese": "石头",
+          "chineseTraditional": "石頭",
+          "japanese": "いし",
+          "korean": "돌",
+          "russian": "камень",
+          "plural": false,
+          "internalIds": [ 2502 ]
+        },
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -850,7 +1290,30 @@
         "plural": false,
         "internalIds": [ 11712 ]
       },
-      "materials": { "softwood": 8 }
+      "materials": { "softwood": 8 },
+      "materialsTranslations": {
+        "softwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02767",
+          "version": "1.0.0",
+          "english": "softwood",
+          "englishEurope": "softwood",
+          "german": "Weichholz",
+          "spanish": "tabla flexible",
+          "spanishUs": "tabla flexible",
+          "french": "bois tendre",
+          "frenchUs": "bois tendre",
+          "italian": "legno morbido",
+          "dutch": "zachthout",
+          "chinese": "软木材",
+          "chineseTraditional": "軟木材",
+          "japanese": "やわらかいもくざい",
+          "korean": "부드러운 목재",
+          "russian": "мягкая древесина",
+          "plural": false,
+          "internalIds": [ 2767 ]
+        }
+      }
     }
   },
   {
@@ -927,7 +1390,30 @@
         "plural": false,
         "internalIds": [ 4352 ]
       },
-      "materials": { "iron nugget": 4 }
+      "materials": { "iron nugget": 4 },
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -1004,7 +1490,30 @@
         "plural": false,
         "internalIds": [ 11711 ]
       },
-      "materials": { "softwood": 6 }
+      "materials": { "softwood": 6 },
+      "materialsTranslations": {
+        "softwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02767",
+          "version": "1.0.0",
+          "english": "softwood",
+          "englishEurope": "softwood",
+          "german": "Weichholz",
+          "spanish": "tabla flexible",
+          "spanishUs": "tabla flexible",
+          "french": "bois tendre",
+          "frenchUs": "bois tendre",
+          "italian": "legno morbido",
+          "dutch": "zachthout",
+          "chinese": "软木材",
+          "chineseTraditional": "軟木材",
+          "japanese": "やわらかいもくざい",
+          "korean": "부드러운 목재",
+          "russian": "мягкая древесина",
+          "plural": false,
+          "internalIds": [ 2767 ]
+        }
+      }
     }
   },
   {
@@ -1081,7 +1590,30 @@
         "plural": false,
         "internalIds": [ 4358 ]
       },
-      "materials": { "hardwood": 8 }
+      "materials": { "hardwood": 8 },
+      "materialsTranslations": {
+        "hardwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02769",
+          "version": "1.0.0",
+          "english": "hardwood",
+          "englishEurope": "hardwood",
+          "german": "Hartholz",
+          "spanish": "tabla rígida",
+          "spanishUs": "tabla rígida",
+          "french": "bois dur",
+          "frenchUs": "bois dur",
+          "italian": "legno duro",
+          "dutch": "hardhout",
+          "chinese": "硬木材",
+          "chineseTraditional": "硬木材",
+          "japanese": "かたいもくざい",
+          "korean": "단단한 목재",
+          "russian": "твердая древесина",
+          "plural": false,
+          "internalIds": [ 2769 ]
+        }
+      }
     }
   },
   {
@@ -1158,7 +1690,30 @@
         "plural": false,
         "internalIds": [ 5212 ]
       },
-      "materials": { "stone": 4 }
+      "materials": { "stone": 4 },
+      "materialsTranslations": {
+        "stone": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02502",
+          "version": "1.0.0",
+          "english": "stone",
+          "englishEurope": "stone",
+          "german": "Stein",
+          "spanish": "piedra",
+          "spanishUs": "piedra",
+          "french": "pierre",
+          "frenchUs": "pierre",
+          "italian": "pietra",
+          "dutch": "steen",
+          "chinese": "石头",
+          "chineseTraditional": "石頭",
+          "japanese": "いし",
+          "korean": "돌",
+          "russian": "камень",
+          "plural": false,
+          "internalIds": [ 2502 ]
+        }
+      }
     }
   },
   {
@@ -1235,7 +1790,51 @@
         "plural": false,
         "internalIds": [ 4356 ]
       },
-      "materials": { "clump of weeds": 10, "wood": 3 }
+      "materials": { "clump of weeds": 10, "wood": 3 },
+      "materialsTranslations": {
+        "clump of weeds": {
+          "sourceSheet": "Plants",
+          "id": "Weed_02624",
+          "version": "1.0.0",
+          "english": "clump of weeds",
+          "englishEurope": "clump of weeds",
+          "german": "Unkraut",
+          "spanish": "hierbajo",
+          "spanishUs": "maleza",
+          "french": "mauvaise herbe",
+          "frenchUs": "mauvaise herbe",
+          "italian": "erbaccia",
+          "dutch": "onkruid",
+          "chinese": "杂草",
+          "chineseTraditional": "雜草",
+          "japanese": "ざっそう",
+          "korean": "잡초",
+          "russian": "сорняк",
+          "plural": false,
+          "internalIds": [ 2624 ]
+        },
+        "wood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02768",
+          "version": "1.0.0",
+          "english": "wood",
+          "englishEurope": "wood",
+          "german": "Holz",
+          "spanish": "tabla normal",
+          "spanishUs": "tabla normal",
+          "french": "bois",
+          "frenchUs": "bois",
+          "italian": "legno normale",
+          "dutch": "hout",
+          "chinese": "木材",
+          "chineseTraditional": "木材",
+          "japanese": "もくざい",
+          "korean": "목재",
+          "russian": "древесина",
+          "plural": false,
+          "internalIds": [ 2768 ]
+        }
+      }
     }
   },
   {
@@ -1312,7 +1911,30 @@
         "plural": false,
         "internalIds": [ 3402 ]
       },
-      "materials": { "wood": 8 }
+      "materials": { "wood": 8 },
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02768",
+          "version": "1.0.0",
+          "english": "wood",
+          "englishEurope": "wood",
+          "german": "Holz",
+          "spanish": "tabla normal",
+          "spanishUs": "tabla normal",
+          "french": "bois",
+          "frenchUs": "bois",
+          "italian": "legno normale",
+          "dutch": "hout",
+          "chinese": "木材",
+          "chineseTraditional": "木材",
+          "japanese": "もくざい",
+          "korean": "목재",
+          "russian": "древесина",
+          "plural": false,
+          "internalIds": [ 2768 ]
+        }
+      }
     }
   },
   {
@@ -1389,7 +2011,51 @@
         "plural": false,
         "internalIds": [ 12894 ]
       },
-      "materials": { "iron nugget": 5, "softwood": 3 }
+      "materials": { "iron nugget": 5, "softwood": 3 },
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        },
+        "softwood": {
+          "sourceSheet": "Craft",
+          "id": "CraftMaterial_02767",
+          "version": "1.0.0",
+          "english": "softwood",
+          "englishEurope": "softwood",
+          "german": "Weichholz",
+          "spanish": "tabla flexible",
+          "spanishUs": "tabla flexible",
+          "french": "bois tendre",
+          "frenchUs": "bois tendre",
+          "italian": "legno morbido",
+          "dutch": "zachthout",
+          "chinese": "软木材",
+          "chineseTraditional": "軟木材",
+          "japanese": "やわらかいもくざい",
+          "korean": "부드러운 목재",
+          "russian": "мягкая древесина",
+          "plural": false,
+          "internalIds": [ 2767 ]
+        }
+      }
     }
   },
   {
@@ -1466,7 +2132,72 @@
         "plural": false,
         "internalIds": [ 5207 ]
       },
-      "materials": { "iron nugget": 3, "clay": 3, "stone": 3 }
+      "materials": { "iron nugget": 3, "clay": 3, "stone": 3 },
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        },
+        "clay": {
+          "sourceSheet": "Craft",
+          "id": "Ore_03090",
+          "version": "1.0.0",
+          "english": "clay",
+          "englishEurope": "clay",
+          "german": "Lehm",
+          "spanish": "bola de arcilla",
+          "spanishUs": "bola de arcilla",
+          "french": "argile",
+          "frenchUs": "argile",
+          "italian": "pezzo di argilla",
+          "dutch": "kleihomp",
+          "chinese": "黏土",
+          "chineseTraditional": "黏土",
+          "japanese": "ねんど",
+          "korean": "점토",
+          "russian": "кусок глины",
+          "plural": false,
+          "internalIds": [ 3090 ]
+        },
+        "stone": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02502",
+          "version": "1.0.0",
+          "english": "stone",
+          "englishEurope": "stone",
+          "german": "Stein",
+          "spanish": "piedra",
+          "spanishUs": "piedra",
+          "french": "pierre",
+          "frenchUs": "pierre",
+          "italian": "pietra",
+          "dutch": "steen",
+          "chinese": "石头",
+          "chineseTraditional": "石頭",
+          "japanese": "いし",
+          "korean": "돌",
+          "russian": "камень",
+          "plural": false,
+          "internalIds": [ 2502 ]
+        }
+      }
     }
   }
 ]

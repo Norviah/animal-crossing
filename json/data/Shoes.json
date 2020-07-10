@@ -892,7 +892,30 @@
         "plural": false,
         "internalIds": [ 5472 ]
       },
-      "materials": { "iron nugget": 4 }
+      "materials": { "iron nugget": 4 },
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02511",
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false,
+          "internalIds": [ 2511 ]
+        }
+      }
     }
   },
   {
@@ -4230,7 +4253,30 @@
         "plural": false,
         "internalIds": [ 12455 ]
       },
-      "materials": { "earth egg": 2 }
+      "materials": { "earth egg": 2 },
+      "materialsTranslations": {
+        "earth egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12509",
+          "version": "1.1.0",
+          "english": "earth egg",
+          "englishEurope": "earth egg",
+          "german": "Erd-Glücksei",
+          "spanish": "huevo terrestre",
+          "spanishUs": "huevo terrestre",
+          "french": "œuf terrestre",
+          "frenchUs": "œuf terrestre",
+          "italian": "uovo terrestre",
+          "dutch": "aarde-ei",
+          "chinese": "地面蛋",
+          "chineseTraditional": "地面蛋",
+          "japanese": "じめんのたまご",
+          "korean": "땅 달걀",
+          "russian": "земляное яйцо",
+          "plural": false,
+          "internalIds": [ 12509 ]
+        }
+      }
     }
   },
   {
@@ -6495,7 +6541,30 @@
         "plural": false,
         "internalIds": [ 5524 ]
       },
-      "materials": { "gold nugget": 4 }
+      "materials": { "gold nugget": 4 },
+      "materialsTranslations": {
+        "gold nugget": {
+          "sourceSheet": "Craft",
+          "id": "Ore_02505",
+          "version": "1.0.0",
+          "english": "gold nugget",
+          "englishEurope": "gold nugget",
+          "german": "Golderz",
+          "spanish": "pepita de oro",
+          "spanishUs": "pepita de oro",
+          "french": "pépite d'or",
+          "frenchUs": "pépite d'or",
+          "italian": "minerale d'oro",
+          "dutch": "goudklompje",
+          "chinese": "金矿石",
+          "chineseTraditional": "金礦石",
+          "japanese": "きんこうせき",
+          "korean": "금광석",
+          "russian": "золотой самородок",
+          "plural": false,
+          "internalIds": [ 2505 ]
+        }
+      }
     }
   },
   {
@@ -8792,7 +8861,30 @@
         "plural": false,
         "internalIds": [ 12457 ]
       },
-      "materials": { "leaf egg": 2 }
+      "materials": { "leaf egg": 2 },
+      "materialsTranslations": {
+        "leaf egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12511",
+          "version": "1.1.0",
+          "english": "leaf egg",
+          "englishEurope": "leaf egg",
+          "german": "Laub-Glücksei",
+          "spanish": "huevo boscoso",
+          "spanishUs": "huevo boscoso",
+          "french": "œuf feuillu",
+          "frenchUs": "œuf feuillu",
+          "italian": "uovo frondoso",
+          "dutch": "bladei",
+          "chinese": "叶子蛋",
+          "chineseTraditional": "葉子蛋",
+          "japanese": "はっぱのたまご",
+          "korean": "나뭇잎 달걀",
+          "russian": "лиственное яйцо",
+          "plural": false,
+          "internalIds": [ 12511 ]
+        }
+      }
     }
   },
   {
@@ -13094,7 +13186,30 @@
         "plural": false,
         "internalIds": [ 12326 ]
       },
-      "materials": { "boot": 2 }
+      "materials": { "boot": 2 },
+      "materialsTranslations": {
+        "boot": {
+          "sourceSheet": "ETC",
+          "id": "Trash_03469",
+          "version": "1.0.0",
+          "english": "boot",
+          "englishEurope": "boot",
+          "german": "Stiefel",
+          "spanish": "bota",
+          "spanishUs": "bota",
+          "french": "godasse",
+          "frenchUs": "vieux soulier",
+          "italian": "scarpone",
+          "dutch": "laars",
+          "chinese": "长靴",
+          "chineseTraditional": "長靴",
+          "japanese": "ながぐつ",
+          "korean": "장화",
+          "russian": "башмак",
+          "plural": false,
+          "internalIds": [ 3469 ]
+        }
+      }
     }
   },
   {
@@ -15548,7 +15663,30 @@
         "plural": false,
         "internalIds": [ 12459 ]
       },
-      "materials": { "sky egg": 2 }
+      "materials": { "sky egg": 2 },
+      "materialsTranslations": {
+        "sky egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12513",
+          "version": "1.1.0",
+          "english": "sky egg",
+          "englishEurope": "sky egg",
+          "german": "Luft-Glücksei",
+          "spanish": "huevo celeste",
+          "spanishUs": "huevo celeste",
+          "french": "œuf aérien",
+          "frenchUs": "œuf aérien",
+          "italian": "uovo celeste",
+          "dutch": "luchtei",
+          "chinese": "飞天蛋",
+          "chineseTraditional": "飛天蛋",
+          "japanese": "そらとぶたまご",
+          "korean": "하늘을 나는 달걀",
+          "russian": "небесное яйцо",
+          "plural": false,
+          "internalIds": [ 12513 ]
+        }
+      }
     }
   },
   {
@@ -17661,7 +17799,30 @@
         "plural": false,
         "internalIds": [ 12456 ]
       },
-      "materials": { "stone egg": 2 }
+      "materials": { "stone egg": 2 },
+      "materialsTranslations": {
+        "stone egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12510",
+          "version": "1.1.0",
+          "english": "stone egg",
+          "englishEurope": "stone egg",
+          "german": "Fels-Glücksei",
+          "spanish": "huevo rupestre",
+          "spanishUs": "huevo rupestre",
+          "french": "œuf minéral",
+          "frenchUs": "œuf minéral",
+          "italian": "uovo roccioso",
+          "dutch": "steenei",
+          "chinese": "岩石蛋",
+          "chineseTraditional": "岩石蛋",
+          "japanese": "いわのたまご",
+          "korean": "바위 달걀",
+          "russian": "каменное яйцо",
+          "plural": false,
+          "internalIds": [ 12510 ]
+        }
+      }
     }
   },
   {
@@ -20321,7 +20482,30 @@
         "plural": false,
         "internalIds": [ 12460 ]
       },
-      "materials": { "water egg": 2 }
+      "materials": { "water egg": 2 },
+      "materialsTranslations": {
+        "water egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12514",
+          "version": "1.1.0",
+          "english": "water egg",
+          "englishEurope": "water egg",
+          "german": "Wasser-Glücksei",
+          "spanish": "huevo acuático",
+          "spanishUs": "huevo acuático",
+          "french": "œuf aquatique",
+          "frenchUs": "œuf aquatique",
+          "italian": "uovo acquatico",
+          "dutch": "waterei",
+          "chinese": "鱼儿蛋",
+          "chineseTraditional": "魚兒蛋",
+          "japanese": "サカナのたまご",
+          "korean": "물고기 달걀",
+          "russian": "водяное яйцо",
+          "plural": false,
+          "internalIds": [ 12514 ]
+        }
+      }
     }
   },
   {
@@ -21285,7 +21469,30 @@
         "plural": false,
         "internalIds": [ 12458 ]
       },
-      "materials": { "wood egg": 2 }
+      "materials": { "wood egg": 2 },
+      "materialsTranslations": {
+        "wood egg": {
+          "sourceSheet": "Event Items",
+          "id": "EasterEgg_12512",
+          "version": "1.1.0",
+          "english": "wood egg",
+          "englishEurope": "wood egg",
+          "german": "Holz-Glücksei",
+          "spanish": "huevo leñoso",
+          "spanishUs": "huevo leñoso",
+          "french": "œuf boisé",
+          "frenchUs": "œuf boisé",
+          "italian": "uovo boscoso",
+          "dutch": "houtei",
+          "chinese": "森林蛋",
+          "chineseTraditional": "森林蛋",
+          "japanese": "ウッディなたまご",
+          "korean": "나무 달걀",
+          "russian": "лесное яйцо",
+          "plural": false,
+          "internalIds": [ 12512 ]
+        }
+      }
     }
   },
   {
