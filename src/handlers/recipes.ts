@@ -2,7 +2,6 @@ import { join } from 'path';
 import { zipObject } from 'lodash';
 
 import { category } from '../util/category';
-import { categories } from '../util/categories';
 import { directories } from '../util/directories';
 import { write } from '../util/write';
 import { findTranslation } from '../util/translate';
