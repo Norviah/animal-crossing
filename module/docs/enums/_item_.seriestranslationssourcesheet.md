@@ -15,7 +15,7 @@
 
 • **Dresses**: = "Dresses"
 
-*Defined in [Item.ts:513](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L513)*
+*Defined in [Item.ts:513](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L513)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **HHAThemes**: = "HHA Themes"
 
-*Defined in [Item.ts:514](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Item.ts#L514)*
+*Defined in [Item.ts:514](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L514)*
