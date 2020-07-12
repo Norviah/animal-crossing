@@ -14,7 +14,7 @@ const spreadsheets: Spreadsheet[] = [
   },
 
   {
-    id: '1BjqVeqIrfEezvyrWLUrwMjmK_UbY2LXkZ12mttamTtk',
+    id: '1GwUuCKgJC61qWEjWyeG3nVjkHesszRL6XbPA_dHfLoI',
     exclude: ['READ ME', 'Changelog'],
     data: directories.translations,
   },
