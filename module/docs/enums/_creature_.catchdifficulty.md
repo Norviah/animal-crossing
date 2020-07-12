@@ -18,7 +18,7 @@
 
 • **Easy**: = "Easy"
 
-*Defined in [Creature.ts:36](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Creature.ts#L36)*
+*Defined in [Creature.ts:36](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Creature.ts#L36)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **Hard**: = "Hard"
 
-*Defined in [Creature.ts:37](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Creature.ts#L37)*
+*Defined in [Creature.ts:37](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Creature.ts#L37)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **Medium**: = "Medium"
 
-*Defined in [Creature.ts:38](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Creature.ts#L38)*
+*Defined in [Creature.ts:38](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Creature.ts#L38)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **VeryEasy**: = "Very Easy"
 
-*Defined in [Creature.ts:39](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Creature.ts#L39)*
+*Defined in [Creature.ts:39](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Creature.ts#L39)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **VeryHard**: = "Very Hard"
 
-*Defined in [Creature.ts:40](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Creature.ts#L40)*
+*Defined in [Creature.ts:40](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Creature.ts#L40)*

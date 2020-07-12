@@ -14,4 +14,4 @@
 
 • **MelíMelá**: = "melí-melá"
 
-*Defined in [Recipe.ts:378](https://github.com/Norviah/animal-crossing/blob/b7769d3/module/types/Recipe.ts#L378)*
+*Defined in [Recipe.ts:378](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Recipe.ts#L378)*
