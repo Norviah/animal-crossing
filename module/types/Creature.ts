@@ -15,6 +15,7 @@ export interface Creature {
     description:          string[];
     catchPhrase:          string[];
     hhaBasePoints:        number;
+    hhaCategory:          HhaCategory | null;
     iconFilename:         string;
     critterpediaFilename: string;
     furnitureFilename:    string;
@@ -66,6 +67,10 @@ export interface North {
     timeArray:   Array<number[] | number>;
     months:      string[];
     monthsArray: number[];
+}
+
+export enum HhaCategory {
+    Pet = "Pet",
 }
 
 export enum LightingType {

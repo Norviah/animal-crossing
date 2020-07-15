@@ -1,6 +1,7 @@
 export interface Recipe {
     sourceSheet:           RecipeSourceSheet;
     name:                  string;
+    image:                 string;
     buy:                   number;
     sell:                  number;
     milesPrice:            number | null;

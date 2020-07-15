@@ -13,6 +13,10 @@ export interface Item {
     translations:          ItemTranslations | null;
     source:                string[];
     themesTranslations?:   ThemesTranslations;
+    hhaBasePoints?:        number | null;
+    villagerEquippable?:   boolean;
+    seasonalAvailability?: SeasonalAvailability;
+    type?:                 string;
     variations?:           VariationElement[];
     styles?:               Style[];
     themes?:               Theme[];
@@ -20,11 +24,8 @@ export interface Item {
     closetImage?:          string;
     storageImage?:         null | string;
     variation?:            null;
-    hhaBasePoints?:        number | null;
-    seasonalAvailability?: SeasonalAvailability;
     mannequinPiece?:       boolean;
     sortOrder?:            number;
-    villagerEquippable?:   boolean;
     filename?:             string;
     internalId?:           number;
     uniqueEntryId?:        string;
@@ -38,6 +39,7 @@ export interface Item {
     patternCustomize?:     boolean;
     kitCost?:              number | null;
     surface?:              boolean;
+    hhaCategory?:          HhaCategory | null;
     interact?:             boolean | InteractEnum;
     tag?:                  null | string;
     outdoor?:              boolean;
@@ -55,7 +57,8 @@ export interface Item {
     inventoryImage?:       null | string;
     stackSize?:            number;
     sizeCategory?:         SizeCategory;
-    type?:                 Type;
+    primaryShape?:         PrimaryShape;
+    secondaryShape?:       SecondaryShape | null;
     vfx?:                  boolean;
     doorDeco?:             boolean;
     vfxType?:              VfxType | null;
@@ -66,8 +69,6 @@ export interface Item {
     curtainColor?:         null | string;
     ceilingType?:          CeilingType;
     uses?:                 number;
-    primaryShape?:         PrimaryShape;
-    secondaryShape?:       SecondaryShape;
     description?:          string[];
     museum?:               Museum;
     highResTexture?:       null;
@@ -168,6 +169,22 @@ export enum CurtainType {
     Curtains = "Curtains",
     RollerShades = "Roller Shades",
     SlattedBlinds = "Slatted Blinds",
+}
+
+export enum HhaCategory {
+    AC = "AC",
+    Appliance = "Appliance",
+    Audio = "Audio",
+    Clock = "Clock",
+    Doll = "Doll",
+    Dresser = "Dresser",
+    Lighting = "Lighting",
+    MusicalInstrument = "MusicalInstrument",
+    Pet = "Pet",
+    Plant = "Plant",
+    SmallGoods = "SmallGoods",
+    Trash = "Trash",
+    Tv = "TV",
 }
 
 export enum InteractEnum {
@@ -283,6 +300,7 @@ export enum PrimaryShape {
 export interface Recipe {
     sourceSheet:           RecipeSourceSheet;
     name:                  string;
+    image:                 string;
     buy:                   number;
     sell:                  number;
     milesPrice:            number | null;
@@ -851,29 +869,6 @@ export interface ItemTranslations {
     internalIds:        Array<number | string>;
 }
 
-export enum Type {
-    AcceEyeMouth = "AcceEyeMouth",
-    AccessoryEye = "AccessoryEye",
-    AccessoryEyeMouth = "AccessoryEyeMouth",
-    AccessoryEyeMouthInvisibleNose = "AccessoryEyeMouthInvisibleNose",
-    AccessoryMouth = "AccessoryMouth",
-    AccessoryMouthEarJaw = "AccessoryMouthEarJaw",
-    AccessoryMouthInvisibleNose = "AccessoryMouthInvisibleNose",
-    AccessoryOneEye = "AccessoryOneEye",
-    HeadCap = "HeadCap",
-    HeadFace = "HeadFace",
-    HeadFullFace = "HeadFullFace",
-    HeadHairOrnamentBack = "HeadHairOrnament_Back",
-    HeadHairOrnamentFront = "HeadHairOrnament_Front",
-    HeadHairOrnamentLeft = "HeadHairOrnament_Left",
-    HeadHairOrnamentPeak = "HeadHairOrnament_Peak",
-    HeadHairOrnamentTop = "HeadHairOrnament_Top",
-    HeadgearHasBang = "Headgear_HasBang",
-    HeadgearHasEar = "Headgear_HasEar",
-    HeadgearNoEar = "Headgear_NoEar",
-    HeadgearNoEarNoJaw = "Headgear_NoEarNoJaw",
-}
-
 export enum VariantID {
     The0_0 = "0_0",
     The0_1 = "0_1",
@@ -942,32 +937,27 @@ export enum VariantID {
 }
 
 export interface VariationElement {
-    closetImage?:          string;
-    storageImage?:         string;
-    variation:             number | null | string;
-    hhaBasePoints:         number;
-    seasonalAvailability?: SeasonalAvailability;
-    mannequinPiece?:       boolean | null;
-    sortOrder?:            number;
-    type?:                 Type;
-    villagerEquippable?:   boolean;
-    filename:              string;
-    internalId:            number;
-    uniqueEntryId:         string;
-    variantTranslations:   PatternTranslations | null;
-    colors:                Color[];
-    image?:                string;
-    pattern?:              null | string;
-    patternTitle?:         PatternTitle | null;
-    variantId?:            VariantID;
-    patternTranslations?:  PatternTranslations | null;
-    surface?:              boolean;
-    concepts?:             Concept[];
-    primaryShape?:         PrimaryShape;
-    secondaryShape?:       SecondaryShape | null;
-    doorDeco?:             boolean;
-    uses?:                 number;
-    stackSize?:            number;
+    closetImage?:         string;
+    storageImage?:        string;
+    variation:            number | null | string;
+    mannequinPiece?:      boolean | null;
+    sortOrder?:           number;
+    filename:             string;
+    internalId:           number;
+    uniqueEntryId:        string;
+    variantTranslations:  PatternTranslations | null;
+    colors:               Color[];
+    image?:               string;
+    pattern?:             null | string;
+    patternTitle?:        PatternTitle | null;
+    variantId?:           VariantID;
+    patternTranslations?: PatternTranslations | null;
+    surface?:             boolean;
+    hhaCategory?:         HhaCategory | null;
+    concepts?:            Concept[];
+    doorDeco?:            boolean;
+    uses?:                number;
+    stackSize?:           number;
 }
 
 export enum PatternTitle {
