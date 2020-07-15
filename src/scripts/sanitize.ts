@@ -72,6 +72,12 @@ const duplicateValues: string[] = [
   'hhaSet',
   'themesTranslations',
   'seriesTranslations',
+  'hhaBasePoints',
+  'primaryShape',
+  'secondaryShape',
+  'villagerEquippable',
+  'seasonalAvailability',
+  'type',
 ];
 
 // Some items in the various spreadsheets have multiple values for them, for
