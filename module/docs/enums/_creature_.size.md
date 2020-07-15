@@ -17,7 +17,7 @@
 
 • **The1X1**: = "1x1"
 
-*Defined in [Creature.ts:97](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Creature.ts#L97)*
+*Defined in [Creature.ts:102](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Creature.ts#L102)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **The2X1**: = "2x1"
 
-*Defined in [Creature.ts:98](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Creature.ts#L98)*
+*Defined in [Creature.ts:103](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Creature.ts#L103)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **The2X2**: = "2x2"
 
-*Defined in [Creature.ts:99](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Creature.ts#L99)*
+*Defined in [Creature.ts:104](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Creature.ts#L104)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **The3X2**: = "3x2"
 
-*Defined in [Creature.ts:100](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Creature.ts#L100)*
+*Defined in [Creature.ts:105](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Creature.ts#L105)*

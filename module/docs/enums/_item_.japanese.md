@@ -25,7 +25,7 @@
 
 • **おしごと仕事**: = "おしごと仕事"
 
-*Defined in [Item.ts:661](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L661)*
+*Defined in [Item.ts:679](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L679)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **アウトドア**: = "アウトドア"
 
-*Defined in [Item.ts:662](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L662)*
+*Defined in [Item.ts:680](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L680)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **キュン**: = "キュン"
 
-*Defined in [Item.ts:663](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L663)*
+*Defined in [Item.ts:681](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L681)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 • **ステージ**: = "ステージ"
 
-*Defined in [Item.ts:664](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L664)*
+*Defined in [Item.ts:682](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L682)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 • **スポーツ**: = "スポーツ"
 
-*Defined in [Item.ts:665](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L665)*
+*Defined in [Item.ts:683](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L683)*
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 • **デイリー**: = "デイリー"
 
-*Defined in [Item.ts:666](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L666)*
+*Defined in [Item.ts:684](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L684)*
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 • **バカンス**: = "バカンス"
 
-*Defined in [Item.ts:667](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L667)*
+*Defined in [Item.ts:685](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L685)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 • **パーティー**: = "パーティー"
 
-*Defined in [Item.ts:668](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L668)*
+*Defined in [Item.ts:686](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L686)*
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 • **フォーマル**: = "フォーマル"
 
-*Defined in [Item.ts:669](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L669)*
+*Defined in [Item.ts:687](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L687)*
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 • **ホラー**: = "ホラー"
 
-*Defined in [Item.ts:670](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L670)*
+*Defined in [Item.ts:688](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L688)*
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 • **メルヘン**: = "メルヘン"
 
-*Defined in [Item.ts:671](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L671)*
+*Defined in [Item.ts:689](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L689)*
 
 ___
 
@@ -113,4 +113,4 @@ ___
 
 • **リラックス**: = "リラックス"
 
-*Defined in [Item.ts:672](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L672)*
+*Defined in [Item.ts:690](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L690)*

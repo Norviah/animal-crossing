@@ -9,6 +9,7 @@
 * [CatchDifficulty](../enums/_creature_.catchdifficulty.md)
 * [Color](../enums/_creature_.color.md)
 * [CreatureSourceSheet](../enums/_creature_.creaturesourcesheet.md)
+* [HhaCategory](../enums/_creature_.hhacategory.md)
 * [LightingType](../enums/_creature_.lightingtype.md)
 * [MovementSpeed](../enums/_creature_.movementspeed.md)
 * [Shadow](../enums/_creature_.shadow.md)

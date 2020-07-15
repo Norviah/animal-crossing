@@ -16,7 +16,7 @@
 
 • **LightOff**: = "LightOff"
 
-*Defined in [Item.ts:1018](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L1018)*
+*Defined in [Item.ts:1008](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L1008)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **Random**: = "Random"
 
-*Defined in [Item.ts:1019](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L1019)*
+*Defined in [Item.ts:1009](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L1009)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **Synchro**: = "Synchro"
 
-*Defined in [Item.ts:1020](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L1020)*
+*Defined in [Item.ts:1010](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L1010)*

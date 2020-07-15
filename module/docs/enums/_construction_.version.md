@@ -14,4 +14,4 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Construction.ts:66](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Construction.ts#L66)*
+*Defined in [Construction.ts:66](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Construction.ts#L66)*

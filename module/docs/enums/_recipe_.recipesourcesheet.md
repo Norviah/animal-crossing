@@ -14,4 +14,4 @@
 
 • **Recipes**: = "Recipes"
 
-*Defined in [Recipe.ts:382](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Recipe.ts#L382)*
+*Defined in [Recipe.ts:383](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Recipe.ts#L383)*

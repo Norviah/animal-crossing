@@ -15,27 +15,22 @@
 * [concepts](_item_.variationelement.md#optional-concepts)
 * [doorDeco](_item_.variationelement.md#optional-doordeco)
 * [filename](_item_.variationelement.md#filename)
-* [hhaBasePoints](_item_.variationelement.md#hhabasepoints)
+* [hhaCategory](_item_.variationelement.md#optional-hhacategory)
 * [image](_item_.variationelement.md#optional-image)
 * [internalId](_item_.variationelement.md#internalid)
 * [mannequinPiece](_item_.variationelement.md#optional-mannequinpiece)
 * [pattern](_item_.variationelement.md#optional-pattern)
 * [patternTitle](_item_.variationelement.md#optional-patterntitle)
 * [patternTranslations](_item_.variationelement.md#optional-patterntranslations)
-* [primaryShape](_item_.variationelement.md#optional-primaryshape)
-* [seasonalAvailability](_item_.variationelement.md#optional-seasonalavailability)
-* [secondaryShape](_item_.variationelement.md#optional-secondaryshape)
 * [sortOrder](_item_.variationelement.md#optional-sortorder)
 * [stackSize](_item_.variationelement.md#optional-stacksize)
 * [storageImage](_item_.variationelement.md#optional-storageimage)
 * [surface](_item_.variationelement.md#optional-surface)
-* [type](_item_.variationelement.md#optional-type)
 * [uniqueEntryId](_item_.variationelement.md#uniqueentryid)
 * [uses](_item_.variationelement.md#optional-uses)
 * [variantId](_item_.variationelement.md#optional-variantid)
 * [variantTranslations](_item_.variationelement.md#varianttranslations)
 * [variation](_item_.variationelement.md#variation)
-* [villagerEquippable](_item_.variationelement.md#optional-villagerequippable)
 
 ## Properties
 
@@ -43,7 +38,7 @@
 
 • **closetImage**? : *undefined | string*
 
-*Defined in [Item.ts:945](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L945)*
+*Defined in [Item.ts:940](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L940)*
 
 ___
 
@@ -51,7 +46,7 @@ ___
 
 • **colors**: *[Color](../enums/_item_.color.md)[]*
 
-*Defined in [Item.ts:958](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L958)*
+*Defined in [Item.ts:949](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L949)*
 
 ___
 
@@ -59,7 +54,7 @@ ___
 
 • **concepts**? : *[Concept](../enums/_item_.concept.md)[]*
 
-*Defined in [Item.ts:965](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L965)*
+*Defined in [Item.ts:957](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L957)*
 
 ___
 
@@ -67,7 +62,7 @@ ___
 
 • **doorDeco**? : *undefined | false | true*
 
-*Defined in [Item.ts:968](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L968)*
+*Defined in [Item.ts:958](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L958)*
 
 ___
 
@@ -75,15 +70,15 @@ ___
 
 • **filename**: *string*
 
-*Defined in [Item.ts:954](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L954)*
+*Defined in [Item.ts:945](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L945)*
 
 ___
 
-###  hhaBasePoints
+### `Optional` hhaCategory
 
-• **hhaBasePoints**: *number*
+• **hhaCategory**? : *[HhaCategory](../enums/_item_.hhacategory.md) | null*
 
-*Defined in [Item.ts:948](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L948)*
+*Defined in [Item.ts:956](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L956)*
 
 ___
 
@@ -91,7 +86,7 @@ ___
 
 • **image**? : *undefined | string*
 
-*Defined in [Item.ts:959](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L959)*
+*Defined in [Item.ts:950](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L950)*
 
 ___
 
@@ -99,7 +94,7 @@ ___
 
 • **internalId**: *number*
 
-*Defined in [Item.ts:955](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L955)*
+*Defined in [Item.ts:946](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L946)*
 
 ___
 
@@ -107,7 +102,7 @@ ___
 
 • **mannequinPiece**? : *boolean | null*
 
-*Defined in [Item.ts:950](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L950)*
+*Defined in [Item.ts:943](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L943)*
 
 ___
 
@@ -115,7 +110,7 @@ ___
 
 • **pattern**? : *null | string*
 
-*Defined in [Item.ts:960](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L960)*
+*Defined in [Item.ts:951](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L951)*
 
 ___
 
@@ -123,7 +118,7 @@ ___
 
 • **patternTitle**? : *[PatternTitle](../enums/_item_.patterntitle.md) | null*
 
-*Defined in [Item.ts:961](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L961)*
+*Defined in [Item.ts:952](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L952)*
 
 ___
 
@@ -131,31 +126,7 @@ ___
 
 • **patternTranslations**? : *[PatternTranslations](_item_.patterntranslations.md) | null*
 
-*Defined in [Item.ts:963](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L963)*
-
-___
-
-### `Optional` primaryShape
-
-• **primaryShape**? : *[PrimaryShape](../enums/_item_.primaryshape.md)*
-
-*Defined in [Item.ts:966](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L966)*
-
-___
-
-### `Optional` seasonalAvailability
-
-• **seasonalAvailability**? : *[SeasonalAvailability](../enums/_item_.seasonalavailability.md)*
-
-*Defined in [Item.ts:949](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L949)*
-
-___
-
-### `Optional` secondaryShape
-
-• **secondaryShape**? : *[SecondaryShape](../enums/_item_.secondaryshape.md) | null*
-
-*Defined in [Item.ts:967](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L967)*
+*Defined in [Item.ts:954](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L954)*
 
 ___
 
@@ -163,7 +134,7 @@ ___
 
 • **sortOrder**? : *undefined | number*
 
-*Defined in [Item.ts:951](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L951)*
+*Defined in [Item.ts:944](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L944)*
 
 ___
 
@@ -171,7 +142,7 @@ ___
 
 • **stackSize**? : *undefined | number*
 
-*Defined in [Item.ts:970](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L970)*
+*Defined in [Item.ts:960](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L960)*
 
 ___
 
@@ -179,7 +150,7 @@ ___
 
 • **storageImage**? : *undefined | string*
 
-*Defined in [Item.ts:946](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L946)*
+*Defined in [Item.ts:941](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L941)*
 
 ___
 
@@ -187,15 +158,7 @@ ___
 
 • **surface**? : *undefined | false | true*
 
-*Defined in [Item.ts:964](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L964)*
-
-___
-
-### `Optional` type
-
-• **type**? : *[Type](../enums/_item_.type.md)*
-
-*Defined in [Item.ts:952](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L952)*
+*Defined in [Item.ts:955](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L955)*
 
 ___
 
@@ -203,7 +166,7 @@ ___
 
 • **uniqueEntryId**: *string*
 
-*Defined in [Item.ts:956](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L956)*
+*Defined in [Item.ts:947](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L947)*
 
 ___
 
@@ -211,7 +174,7 @@ ___
 
 • **uses**? : *undefined | number*
 
-*Defined in [Item.ts:969](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L969)*
+*Defined in [Item.ts:959](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L959)*
 
 ___
 
@@ -219,7 +182,7 @@ ___
 
 • **variantId**? : *[VariantID](../enums/_item_.variantid.md)*
 
-*Defined in [Item.ts:962](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L962)*
+*Defined in [Item.ts:953](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L953)*
 
 ___
 
@@ -227,7 +190,7 @@ ___
 
 • **variantTranslations**: *[PatternTranslations](_item_.patterntranslations.md) | null*
 
-*Defined in [Item.ts:957](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L957)*
+*Defined in [Item.ts:948](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L948)*
 
 ___
 
@@ -235,12 +198,4 @@ ___
 
 • **variation**: *number | null | string*
 
-*Defined in [Item.ts:947](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L947)*
-
-___
-
-### `Optional` villagerEquippable
-
-• **villagerEquippable**? : *undefined | false | true*
-
-*Defined in [Item.ts:953](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Item.ts#L953)*
+*Defined in [Item.ts:942](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L942)*
