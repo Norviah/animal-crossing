@@ -14,4 +14,4 @@
 
 • **キュン**: = "キュン"
 
-*Defined in [Recipe.ts:358](https://github.com/Norviah/animal-crossing/blob/37c048c/module/types/Recipe.ts#L358)*
+*Defined in [Recipe.ts:359](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Recipe.ts#L359)*
