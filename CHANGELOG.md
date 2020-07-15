@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.0.0](https://github.com/Norviah/animal-crossing/compare/v5.2.0...v6.0.0) (2020-07-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **items:** moved repetitive values from variations to the base object
+
+### Features
+
+* **items:** moved repetitive values from variations to the base object ([0f4888a](https://github.com/Norviah/animal-crossing/commit/0f4888a1f680855d3a801d685648952bb0c5220a))
+
 ## [5.2.0](https://github.com/Norviah/animal-crossing/compare/v5.1.0...v5.2.0) (2020-07-12)
 
 ## [5.1.0](https://github.com/Norviah/animal-crossing/compare/v5.0.0...v5.1.0) (2020-07-10)
