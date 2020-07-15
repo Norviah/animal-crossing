@@ -2,6 +2,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "acorn pochette",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderAcorn0.png\")",
     "#1": 6,
     "Material 1": "acorn",
     "#2": "",
@@ -32,6 +33,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "acoustic guitar",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrAcorsticguitar.png\")",
     "#1": 8,
     "Material 1": "softwood",
     "#2": 3,
@@ -62,6 +64,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "angled signpost",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSignpostTilt.png\")",
     "#1": 2,
     "Material 1": "hardwood",
     "#2": 3,
@@ -92,6 +95,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "apple chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsChairApple.png\")",
     "#1": 10,
     "Material 1": "apple",
     "#2": 4,
@@ -122,6 +126,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "apple dress",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceAlineNApple0.png\")",
     "#1": 8,
     "Material 1": "apple",
     "#2": "",
@@ -152,6 +157,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "apple hat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatApple0.png\")",
     "#1": 5,
     "Material 1": "apple",
     "#2": "",
@@ -182,6 +188,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "apple rug",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherAppleM00.png\")",
     "#1": 6,
     "Material 1": "apple",
     "#2": "",
@@ -212,6 +219,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "apple umbrella",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaApple0.png\")",
     "#1": 7,
     "Material 1": "apple",
     "#2": "",
@@ -242,6 +250,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "apple wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallApple00.png\")",
     "#1": 20,
     "Material 1": "apple",
     "#2": "",
@@ -272,6 +281,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Aquarius urn",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacAquarius.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -302,6 +312,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Aries rocking chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacAries.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -332,6 +343,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "armor shoes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ShoesKneeKnightIron.png\")",
     "#1": 4,
     "Material 1": "iron nugget",
     "#2": "",
@@ -362,6 +374,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "aroma pot",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrAlomapot.png\")",
     "#1": 3,
     "Material 1": "clay",
     "#2": "",
@@ -392,6 +405,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "asteroid",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMeteo.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": 10,
@@ -422,6 +436,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "astronaut suit",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSpacesuit.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": 5,
@@ -452,6 +467,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "autumn wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallAutumun00.png\")",
     "#1": 10,
     "Material 1": "maple leaf",
     "#2": 5,
@@ -482,6 +498,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "axe",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolAxe.png\")",
     "#1": 1,
     "Material 1": "flimsy axe",
     "#2": 3,
@@ -512,6 +529,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "backyard lawn",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorLawn00.png\")",
     "#1": 30,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -542,6 +560,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo basket",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooBasket.png\")",
     "#1": 7,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -572,6 +591,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo bench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooChairL.png\")",
     "#1": 8,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -602,6 +622,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo candleholder",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooCandle.png\")",
     "#1": 3,
     "Material 1": "bamboo piece",
     "#2": 2,
@@ -632,6 +653,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo doll",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooSurprisedbox.png\")",
     "#1": 6,
     "Material 1": "young spring bamboo",
     "#2": "",
@@ -662,6 +684,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo drum",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBamboodrum.png\")",
     "#1": 3,
     "Material 1": "bamboo piece",
     "#2": 2,
@@ -692,6 +715,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo floor lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooLamp.png\")",
     "#1": 8,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -722,6 +746,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorBamboo00.png\")",
     "#1": 15,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -752,6 +777,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo hat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatAjiroBeige.png\")",
     "#1": 10,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -782,6 +808,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo lattice fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceBamboo.png\")",
     "#1": 6,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -812,6 +839,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo lunch box",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooLunch.png\")",
     "#1": 4,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -842,6 +870,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo noodle slide",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooSomen.png\")",
     "#1": 7,
     "Material 1": "young spring bamboo",
     "#2": 3,
@@ -872,6 +901,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo partition",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooScreen.png\")",
     "#1": 7,
     "Material 1": "bamboo piece",
     "#2": 6,
@@ -902,6 +932,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo shelf",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooShelf.png\")",
     "#1": 15,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -932,6 +963,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo speaker",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooMusic.png\")",
     "#1": 3,
     "Material 1": "bamboo piece",
     "#2": 1,
@@ -962,6 +994,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo sphere",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooBall.png\")",
     "#1": 3,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -992,6 +1025,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo stool",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooStool.png\")",
     "#1": 5,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -1022,6 +1056,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo stopblock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooCarstop.png\")",
     "#1": 3,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -1052,6 +1087,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallBamboo00.png\")",
     "#1": 15,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -1082,6 +1118,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo wall decoration",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooFlowerwall.png\")",
     "#1": 1,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -1112,6 +1149,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickBamboo.png\")",
     "#1": 6,
     "Material 1": "young spring bamboo",
     "#2": 3,
@@ -1142,6 +1180,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo-grove wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallChikurin00.png\")",
     "#1": 7,
     "Material 1": "young spring bamboo",
     "#2": 3,
@@ -1172,6 +1211,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bamboo-shoot lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooshootLamp.png\")",
     "#1": 4,
     "Material 1": "young spring bamboo",
     "#2": 5,
@@ -1202,6 +1242,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "barbed-wire fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceBarbedWire.png\")",
     "#1": 3,
     "Material 1": "hardwood",
     "#2": 2,
@@ -1232,6 +1273,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "barbell",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBarbell.png\")",
     "#1": 10,
     "Material 1": "iron nugget",
     "#2": "",
@@ -1262,6 +1304,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "barrel",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrPirateBarrel.png\")",
     "#1": 5,
     "Material 1": "wood",
     "#2": 2,
@@ -1292,6 +1335,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "basement flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorBasement00.png\")",
     "#1": 10,
     "Material 1": "stone",
     "#2": "",
@@ -1322,6 +1366,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "basket pack",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BagBackpackBasket0.png\")",
     "#1": 6,
     "Material 1": "young spring bamboo",
     "#2": "",
@@ -1352,6 +1397,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "beekeeper's hive",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBeekeepingbox.png\")",
     "#1": 3,
     "Material 1": "wasp nest",
     "#2": 5,
@@ -1382,6 +1428,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "big festive tree",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTreeXmasL.png\")",
     "#1": 6,
     "Material 1": "red ornament",
     "#2": 6,
@@ -1412,6 +1459,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "birdbath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBirdbus.png\")",
     "#1": 6,
     "Material 1": "stone",
     "#2": "",
@@ -1442,6 +1490,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "birdcage",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBirdcage.png\")",
     "#1": 8,
     "Material 1": "wood",
     "#2": "",
@@ -1472,6 +1521,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "birdhouse",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBirdhouse.png\")",
     "#1": 2,
     "Material 1": "wood",
     "#2": 5,
@@ -1502,6 +1552,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "blossom-viewing lantern",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSakuraLantern.png\")",
     "#1": 6,
     "Material 1": "cherry-blossom petal",
     "#2": 4,
@@ -1532,6 +1583,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "blue rose crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentRose4.png\")",
     "#1": 6,
     "Material 1": "blue roses",
     "#2": "",
@@ -1562,6 +1614,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "blue rose wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathRoseUrtraRare.png\")",
     "#1": 10,
     "Material 1": "blue roses",
     "#2": "",
@@ -1592,6 +1645,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bone doorplate",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorPlateBone.png\")",
     "#1": 3,
     "Material 1": "softwood",
     "#2": "",
@@ -1622,6 +1676,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bonfire",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrCampfire.png\")",
     "#1": 1,
     "Material 1": "campfire",
     "#2": 10,
@@ -1652,6 +1707,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bonsai shelf",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBonsaiShelf.png\")",
     "#1": 1,
     "Material 1": "cherry-blossom bonsai",
     "#2": 1,
@@ -1682,6 +1738,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "boomerang",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBoomerang.png\")",
     "#1": 3,
     "Material 1": "hardwood",
     "#2": "",
@@ -1712,6 +1769,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "brick fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceWallRenga.png\")",
     "#1": 6,
     "Material 1": "clay",
     "#2": "",
@@ -1742,6 +1800,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "brick oven",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStoneoven.png\")",
     "#1": 8,
     "Material 1": "clay",
     "#2": 2,
@@ -1772,6 +1831,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "brick well",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWellBrick.png\")",
     "#1": 8,
     "Material 1": "clay",
     "#2": 5,
@@ -1802,6 +1862,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "bridge construction kit",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BridgeLogReserveKit.png\")",
     "#1": 4,
     "Material 1": "log stakes",
     "#2": 4,
@@ -1832,6 +1893,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "brown herringbone wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallHerringbone00.png\")",
     "#1": 15,
     "Material 1": "softwood",
     "#2": "",
@@ -1862,6 +1924,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day arch",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggArch.png\")",
     "#1": 2,
     "Material 1": "earth egg",
     "#2": 2,
@@ -1892,6 +1955,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day bag",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BagBackpackEgg0.png\")",
     "#1": 1,
     "Material 1": "earth egg",
     "#2": 1,
@@ -1922,6 +1986,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggBedW.png\")",
     "#1": 1,
     "Material 1": "earth egg",
     "#2": 1,
@@ -1952,6 +2017,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentCEgg0.png\")",
     "#1": 1,
     "Material 1": "earth egg",
     "#2": 1,
@@ -1982,6 +2048,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceEgg.png\")",
     "#1": 1,
     "Material 1": "earth egg",
     "#2": 1,
@@ -2012,6 +2079,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day festive balloons",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggBalloonB.png\")",
     "#1": 1,
     "Material 1": "stone egg",
     "#2": 1,
@@ -2042,6 +2110,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorEaster00.png\")",
     "#1": 2,
     "Material 1": "earth egg",
     "#2": 2,
@@ -2072,6 +2141,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day glowy garland",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggLampWall.png\")",
     "#1": 1,
     "Material 1": "earth egg",
     "#2": 1,
@@ -2102,6 +2172,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggLamp.png\")",
     "#1": 4,
     "Material 1": "wood egg",
     "#2": "",
@@ -2132,6 +2203,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day merry balloons",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggBalloonA.png\")",
     "#1": 1,
     "Material 1": "earth egg",
     "#2": 1,
@@ -2162,6 +2234,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day rug",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherEasterM00.png\")",
     "#1": 1,
     "Material 1": "earth egg",
     "#2": 1,
@@ -2192,6 +2265,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day stool",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggStool.png\")",
     "#1": 3,
     "Material 1": "water egg",
     "#2": "",
@@ -2222,6 +2296,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggTableS.png\")",
     "#1": 4,
     "Material 1": "earth egg",
     "#2": "",
@@ -2252,6 +2327,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day vanity",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggDresser.png\")",
     "#1": 4,
     "Material 1": "leaf egg",
     "#2": "",
@@ -2282,6 +2358,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallEaster00.png\")",
     "#1": 2,
     "Material 1": "earth egg",
     "#2": 2,
@@ -2312,6 +2389,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day wall clock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggClock.png\")",
     "#1": 3,
     "Material 1": "sky egg",
     "#2": "",
@@ -2342,6 +2420,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickEgg.png\")",
     "#1": 1,
     "Material 1": "wobbling Zipper toy",
     "#2": 3,
@@ -2372,6 +2451,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day wardrobe",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggClosetLR.png\")",
     "#1": 4,
     "Material 1": "stone egg",
     "#2": "",
@@ -2402,6 +2482,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Bunny Day wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathEaster.png\")",
     "#1": 1,
     "Material 1": "earth egg",
     "#2": 1,
@@ -2432,6 +2513,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "butter churn",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrButtermixer.png\")",
     "#1": 4,
     "Material 1": "wood",
     "#2": 2,
@@ -2462,6 +2544,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cabin wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallLog00.png\")",
     "#1": 15,
     "Material 1": "hardwood",
     "#2": "",
@@ -2492,6 +2575,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "campfire",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBonfire.png\")",
     "#1": 3,
     "Material 1": "tree branch",
     "#2": "",
@@ -2522,6 +2606,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "campsite construction kit",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CampsiteReserveKit.png\")",
     "#1": 15,
     "Material 1": "wood",
     "#2": 15,
@@ -2552,6 +2637,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Cancer table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacCancer.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -2582,6 +2668,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Capricorn ornament",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacCapricornus.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -2612,6 +2699,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cardboard bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrCardboardBedS.png\")",
     "#1": 4,
     "Material 1": "cardboard box",
     "#2": "",
@@ -2642,6 +2730,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cardboard chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrCardboardChairS.png\")",
     "#1": 1,
     "Material 1": "cardboard box",
     "#2": "",
@@ -2672,6 +2761,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cardboard sofa",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrCardboardSofaL.png\")",
     "#1": 2,
     "Material 1": "cardboard box",
     "#2": "",
@@ -2702,6 +2792,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cardboard table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrCardboardTableL.png\")",
     "#1": 4,
     "Material 1": "cardboard box",
     "#2": "",
@@ -2732,6 +2823,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry dress",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceAlineNCherry0.png\")",
     "#1": 8,
     "Material 1": "cherry",
     "#2": "",
@@ -2762,6 +2854,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry hat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatCherry0.png\")",
     "#1": 5,
     "Material 1": "cherry",
     "#2": "",
@@ -2792,6 +2885,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsLampW.png\")",
     "#1": 10,
     "Material 1": "cherry",
     "#2": 2,
@@ -2822,6 +2916,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry rug",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherCherryM00.png\")",
     "#1": 6,
     "Material 1": "cherry",
     "#2": "",
@@ -2852,6 +2947,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry speakers",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsMusic.png\")",
     "#1": 10,
     "Material 1": "cherry",
     "#2": 2,
@@ -2882,6 +2978,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry umbrella",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaCherry0.png\")",
     "#1": 7,
     "Material 1": "cherry",
     "#2": "",
@@ -2912,6 +3009,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallCherry00.png\")",
     "#1": 20,
     "Material 1": "cherry",
     "#2": "",
@@ -2942,6 +3040,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry-blossom bonsai",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBonsaiSakura.png\")",
     "#1": 6,
     "Material 1": "cherry-blossom petal",
     "#2": 2,
@@ -2972,6 +3071,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry-blossom branches",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSakuraBranch.png\")",
     "#1": 8,
     "Material 1": "cherry-blossom petal",
     "#2": 4,
@@ -3002,6 +3102,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry-blossom clock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSakuraClockW.png\")",
     "#1": 5,
     "Material 1": "cherry-blossom petal",
     "#2": 1,
@@ -3032,6 +3133,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry-blossom flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorSakura00.png\")",
     "#1": 10,
     "Material 1": "cherry-blossom petal",
     "#2": 20,
@@ -3062,6 +3164,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry-blossom pochette",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderCherryblossoms0.png\")",
     "#1": 6,
     "Material 1": "cherry-blossom petal",
     "#2": "",
@@ -3092,6 +3195,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry-blossom pond stone",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStonewaterbowlSakura.png\")",
     "#1": 10,
     "Material 1": "stone",
     "#2": 3,
@@ -3122,6 +3226,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry-blossom umbrella",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaCherryblossom0.png\")",
     "#1": 7,
     "Material 1": "cherry-blossom petal",
     "#2": "",
@@ -3152,6 +3257,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry-blossom wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickCherryblossom.png\")",
     "#1": 3,
     "Material 1": "cherry-blossom petal",
     "#2": 3,
@@ -3182,6 +3288,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry-blossom-petal pile",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSakuraPetal.png\")",
     "#1": 5,
     "Material 1": "cherry-blossom petal",
     "#2": "",
@@ -3212,6 +3319,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cherry-blossom-trees wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallSakura00.png\")",
     "#1": 10,
     "Material 1": "cherry-blossom petal",
     "#2": 5,
@@ -3242,6 +3350,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "chic cosmos wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathCosmosRare.png\")",
     "#1": 10,
     "Material 1": "black cosmos",
     "#2": "",
@@ -3272,6 +3381,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "chic mum crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentMum2.png\")",
     "#1": 3,
     "Material 1": "purple mums",
     "#2": 3,
@@ -3302,6 +3412,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "chic rose crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentRose3.png\")",
     "#1": 3,
     "Material 1": "purple roses",
     "#2": 3,
@@ -3332,6 +3443,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "chic tulip crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentTulip2.png\")",
     "#1": 2,
     "Material 1": "purple tulips",
     "#2": 2,
@@ -3362,6 +3474,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "chic windflower wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathAnemoneRare.png\")",
     "#1": 10,
     "Material 1": "purple windflowers",
     "#2": "",
@@ -3392,6 +3505,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "chocolate herringbone wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallHerringbone01.png\")",
     "#1": 15,
     "Material 1": "softwood",
     "#2": "",
@@ -3422,6 +3536,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "clackercart",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrKatakatatoy.png\")",
     "#1": 2,
     "Material 1": "hardwood",
     "#2": 6,
@@ -3452,6 +3567,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "classic pitcher",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrPotteryjug.png\")",
     "#1": 4,
     "Material 1": "clay",
     "#2": "",
@@ -3482,6 +3598,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "classic-library wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallLibrary00.png\")",
     "#1": 10,
     "Material 1": "book",
     "#2": "",
@@ -3512,6 +3629,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "clothesline",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrClothesline.png\")",
     "#1": 10,
     "Material 1": "tree branch",
     "#2": "",
@@ -3542,6 +3660,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "coconut juice",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrCoconutjuice.png\")",
     "#1": 1,
     "Material 1": "coconut",
     "#2": "",
@@ -3572,6 +3691,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "coconut wall planter",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrPlanterPalm.png\")",
     "#1": 1,
     "Material 1": "coconut",
     "#2": 5,
@@ -3602,6 +3722,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "colored-leaves flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorAutumun00.png\")",
     "#1": 10,
     "Material 1": "maple leaf",
     "#2": 15,
@@ -3632,6 +3753,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cool hyacinth crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentHyacinth2.png\")",
     "#1": 4,
     "Material 1": "blue hyacinths",
     "#2": 2,
@@ -3662,6 +3784,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cool hyacinth wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathHyacinthMix.png\")",
     "#1": 3,
     "Material 1": "orange hyacinths",
     "#2": 3,
@@ -3692,6 +3815,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cool pansy crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentPansy2.png\")",
     "#1": 3,
     "Material 1": "orange pansies",
     "#2": 3,
@@ -3722,6 +3846,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cool pansy wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathPansyRare.png\")",
     "#1": 10,
     "Material 1": "purple pansies",
     "#2": "",
@@ -3752,6 +3877,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cool windflower crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentAnemone2.png\")",
     "#1": 3,
     "Material 1": "blue windflowers",
     "#2": 3,
@@ -3782,6 +3908,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cool windflower wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathAnemoneMix.png\")",
     "#1": 3,
     "Material 1": "blue windflowers",
     "#2": 3,
@@ -3812,6 +3939,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "corral fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceHorizontalWood.png\")",
     "#1": 6,
     "Material 1": "wood",
     "#2": "",
@@ -3842,6 +3970,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cosmos crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentCosmos1.png\")",
     "#1": 2,
     "Material 1": "red cosmos",
     "#2": 2,
@@ -3872,6 +4001,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cosmos shower",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFlowerShower.png\")",
     "#1": 5,
     "Material 1": "pink cosmos",
     "#2": 3,
@@ -3902,6 +4032,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cosmos wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickCosmos.png\")",
     "#1": 1,
     "Material 1": "white cosmos",
     "#2": 3,
@@ -3932,6 +4063,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cosmos wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathCosmos.png\")",
     "#1": 3,
     "Material 1": "yellow cosmos",
     "#2": 3,
@@ -3962,6 +4094,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "country fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLog.png\")",
     "#1": 6,
     "Material 1": "hardwood",
     "#2": "",
@@ -3992,6 +4125,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "crescent-moon chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStarMoonChairL.png\")",
     "#1": 7,
     "Material 1": "star fragment",
     "#2": 1,
@@ -4022,6 +4156,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "crest doorplate",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentCrest.png\")",
     "#1": 4,
     "Material 1": "iron nugget",
     "#2": "",
@@ -4052,6 +4187,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "crewed spaceship",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSpacecraft.png\")",
     "#1": 10,
     "Material 1": "star fragment",
     "#2": 20,
@@ -4082,6 +4218,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cute lily crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentYuri2.png\")",
     "#1": 2,
     "Material 1": "pink lilies",
     "#2": 2,
@@ -4112,6 +4249,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cute rose crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentRose2.png\")",
     "#1": 3,
     "Material 1": "pink roses",
     "#2": 3,
@@ -4142,6 +4280,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "cutting board",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrCuttingboard.png\")",
     "#1": 2,
     "Material 1": "hardwood",
     "#2": 1,
@@ -4172,6 +4311,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "dark bamboo rug",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RugRectBambooM01.png\")",
     "#1": 6,
     "Material 1": "bamboo piece",
     "#2": "",
@@ -4202,6 +4342,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "dark cosmos crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentCosmos3.png\")",
     "#1": 7,
     "Material 1": "black cosmos",
     "#2": "",
@@ -4232,6 +4373,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "dark lily crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentYuri3.png\")",
     "#1": 6,
     "Material 1": "black lilies",
     "#2": "",
@@ -4262,6 +4404,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "dark lily wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathYuriRare.png\")",
     "#1": 10,
     "Material 1": "black lilies",
     "#2": "",
@@ -4292,6 +4435,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "dark rose wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathRoseRare.png\")",
     "#1": 3,
     "Material 1": "black roses",
     "#2": 6,
@@ -4322,6 +4466,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "dark tulip crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentTulip3.png\")",
     "#1": 5,
     "Material 1": "black tulips",
     "#2": "",
@@ -4352,6 +4497,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "dark tulip wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathTulipRare.png\")",
     "#1": 10,
     "Material 1": "black tulips",
     "#2": "",
@@ -4382,6 +4528,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "dark wooden-mosaic wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallMixPlankWood01.png\")",
     "#1": 15,
     "Material 1": "wood",
     "#2": "",
@@ -4412,6 +4559,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "decoy duck",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDecoy.png\")",
     "#1": 4,
     "Material 1": "softwood",
     "#2": "",
@@ -4442,6 +4590,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "deer decoration",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrHuntingtrophy.png\")",
     "#1": 8,
     "Material 1": "softwood",
     "#2": "",
@@ -4472,6 +4621,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "deer scare",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrShishiodoshi.png\")",
     "#1": 3,
     "Material 1": "bamboo piece",
     "#2": 8,
@@ -4502,6 +4652,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "destinations signpost",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSignpostWorld.png\")",
     "#1": 4,
     "Material 1": "hardwood",
     "#2": 8,
@@ -4532,6 +4683,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "DIY workbench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWorkbench.png\")",
     "#1": 5,
     "Material 1": "wood",
     "#2": 5,
@@ -4562,6 +4714,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "document stack",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrOfficePapers.png\")",
     "#1": 1,
     "Material 1": "scattered papers",
     "#2": "",
@@ -4592,6 +4745,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "doghouse",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoghouse.png\")",
     "#1": 10,
     "Material 1": "wood",
     "#2": 7,
@@ -4622,6 +4776,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "drinking fountain",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDrinkingfountain.png\")",
     "#1": 8,
     "Material 1": "stone",
     "#2": 2,
@@ -4652,6 +4807,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "earth-egg outfit",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceRibNEggground0.png\")",
     "#1": 3,
     "Material 1": "earth egg",
     "#2": "",
@@ -4682,6 +4838,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "earth-egg shell",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatEggground0.png\")",
     "#1": 2,
     "Material 1": "earth egg",
     "#2": "",
@@ -4712,6 +4869,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "earth-egg shoes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ShoesLowcutEggground0.png\")",
     "#1": 2,
     "Material 1": "earth egg",
     "#2": "",
@@ -4742,6 +4900,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "egg party dress",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceBalloonLEgg0.png\")",
     "#1": 3,
     "Material 1": "earth egg",
     "#2": 3,
@@ -4772,6 +4931,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "egg party hat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatEggparty0.png\")",
     "#1": 2,
     "Material 1": "earth egg",
     "#2": 2,
@@ -4802,6 +4962,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "fancy lily wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathYuriMix.png\")",
     "#1": 3,
     "Material 1": "orange lilies",
     "#2": 3,
@@ -4832,6 +4993,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "fancy mum wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathMumMix.png\")",
     "#1": 3,
     "Material 1": "pink mums",
     "#2": 3,
@@ -4862,6 +5024,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "fancy rose wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathRoseMix.png\")",
     "#1": 3,
     "Material 1": "orange roses",
     "#2": 3,
@@ -4892,6 +5055,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "festive top set",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFestivaltop.png\")",
     "#1": 2,
     "Material 1": "gold ornament",
     "#2": 1,
@@ -4922,6 +5086,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "festive tree",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTreeXmasS.png\")",
     "#1": 3,
     "Material 1": "red ornament",
     "#2": 3,
@@ -4952,6 +5117,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "firewood",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFirewood.png\")",
     "#1": 8,
     "Material 1": "wood",
     "#2": "",
@@ -4982,6 +5148,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "fish bait",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FishBait.png\")",
     "#1": 1,
     "Material 1": "manila clam",
     "#2": "",
@@ -5012,6 +5179,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "fishing rod",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolAngling.png\")",
     "#1": 1,
     "Material 1": "flimsy fishing rod",
     "#2": 1,
@@ -5042,6 +5210,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "flat garden rock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGardenrockLow.png\")",
     "#1": 20,
     "Material 1": "stone",
     "#2": "",
@@ -5072,6 +5241,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "flimsy axe",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolAxeStone.png\")",
     "#1": 5,
     "Material 1": "tree branch",
     "#2": 1,
@@ -5102,6 +5272,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "flimsy fishing rod",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolFishingrodWood.png\")",
     "#1": 5,
     "Material 1": "tree branch",
     "#2": "",
@@ -5132,6 +5303,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "flimsy net",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolNet.png\")",
     "#1": 5,
     "Material 1": "tree branch",
     "#2": "",
@@ -5162,6 +5334,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "flimsy shovel",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolShovelWood.png\")",
     "#1": 5,
     "Material 1": "hardwood",
     "#2": "",
@@ -5192,6 +5365,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "flimsy watering can",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolWateringWood.png\")",
     "#1": 5,
     "Material 1": "softwood",
     "#2": "",
@@ -5222,6 +5396,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "floral swag",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFlowerSwag.png\")",
     "#1": 10,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -5252,6 +5427,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "flower stand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStandflower.png\")",
     "#1": 1,
     "Material 1": "red roses",
     "#2": 2,
@@ -5282,6 +5458,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "flying saucer",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrUFO.png\")",
     "#1": 15,
     "Material 1": "star fragment",
     "#2": 10,
@@ -5312,6 +5489,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "forest flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorMushForest00.png\")",
     "#1": 1,
     "Material 1": "rare mushroom",
     "#2": 2,
@@ -5342,6 +5520,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "forest wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallMushForest00.png\")",
     "#1": 2,
     "Material 1": "elegant mushroom",
     "#2": 2,
@@ -5372,6 +5551,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "fossil doorplate",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentFossil.png\")",
     "#1": 1,
     "Material 1": "fossil",
     "#2": 2,
@@ -5402,6 +5582,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "fountain",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFountain.png\")",
     "#1": 1,
     "Material 1": "drinking fountain",
     "#2": 20,
@@ -5432,6 +5613,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frozen arch",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIceGate.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 10,
@@ -5462,6 +5644,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frozen bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIceBedW.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 10,
@@ -5492,6 +5675,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frozen chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIceChairS.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 3,
@@ -5522,6 +5706,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frozen counter",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIceCounter.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 5,
@@ -5552,6 +5737,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frozen partition",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIceScreen.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 6,
@@ -5582,6 +5768,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frozen pillar",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIcePillar.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 3,
@@ -5612,6 +5799,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frozen sculpture",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIceArt.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 4,
@@ -5642,6 +5830,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frozen table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIceTableL.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 8,
@@ -5672,6 +5861,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frozen tree",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIceTree.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 8,
@@ -5702,6 +5892,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frozen-treat set",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIceCandy.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 1,
@@ -5732,6 +5923,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "fruit basket",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitbasket.png\")",
     "#1": 1,
     "Material 1": "apple",
     "#2": 1,
@@ -5762,6 +5954,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "fruit wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathFruit.png\")",
     "#1": 2,
     "Material 1": "apple",
     "#2": 1,
@@ -5792,6 +5985,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "frying pan",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrPan.png\")",
     "#1": 2,
     "Material 1": "iron nugget",
     "#2": "",
@@ -5822,6 +6016,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "galaxy flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpFloorGalaxy00.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": 1,
@@ -5852,6 +6047,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "garbage-heap flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorGarbage00.png\")",
     "#1": 2,
     "Material 1": "empty can",
     "#2": 2,
@@ -5882,6 +6078,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "garbage-heap wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallGarbage00.png\")",
     "#1": 2,
     "Material 1": "empty can",
     "#2": 2,
@@ -5912,6 +6109,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "garden bench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrParkbenche.png\")",
     "#1": 12,
     "Material 1": "wood",
     "#2": 4,
@@ -5942,6 +6140,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "garden rock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGardenrock.png\")",
     "#1": 15,
     "Material 1": "stone",
     "#2": "",
@@ -5972,6 +6171,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "garden wagon",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGardenwagon.png\")",
     "#1": 3,
     "Material 1": "white hyacinths",
     "#2": 3,
@@ -6002,6 +6202,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Gemini closet",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacGemini.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -6032,6 +6233,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "giant teddy bear",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBearXL.png\")",
     "#1": 1,
     "Material 1": "Papa bear",
     "#2": 1,
@@ -6062,6 +6264,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "gold armor",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceOverallLPlatearmorGold.png\")",
     "#1": 8,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6092,6 +6295,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "gold bars",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGoldbar.png\")",
     "#1": 3,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6122,6 +6326,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "gold helmet",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapFullfaceKnightGold.png\")",
     "#1": 5,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6152,6 +6357,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "gold rose crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentRose5.png\")",
     "#1": 6,
     "Material 1": "gold roses",
     "#2": "",
@@ -6182,6 +6388,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "gold rose wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathRoseGold.png\")",
     "#1": 10,
     "Material 1": "gold roses",
     "#2": "",
@@ -6212,6 +6419,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "gold-armor shoes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ShoesKneeKnightGold.png\")",
     "#1": 4,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6242,6 +6450,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "gold-screen wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallFusumaGorgeous00.png\")",
     "#1": 2,
     "Material 1": "gold nugget",
     "#2": 1,
@@ -6272,6 +6481,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden arowana model",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFishArowanaGold.png\")",
     "#1": 3,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6302,6 +6512,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden axe",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolAxeGold.png\")",
     "#1": 1,
     "Material 1": "axe",
     "#2": 1,
@@ -6332,6 +6543,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden candlestick",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGoldCandlestand.png\")",
     "#1": 2,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6362,6 +6574,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden casket",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGoldCoffin.png\")",
     "#1": 8,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6392,6 +6605,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden dishes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGoldDishes.png\")",
     "#1": 1,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6422,6 +6636,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden dung beetle",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrInsectKabutomushiGold.png\")",
     "#1": 3,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6452,6 +6667,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorGold00.png\")",
     "#1": 4,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6482,6 +6698,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden gears",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGearWallGold.png\")",
     "#1": 1,
     "Material 1": "gold nugget",
     "#2": 3,
@@ -6512,6 +6729,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden net",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolNetGold.png\")",
     "#1": 1,
     "Material 1": "net",
     "#2": 1,
@@ -6542,6 +6760,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden rod",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolFishingrodGold.png\")",
     "#1": 1,
     "Material 1": "fishing rod",
     "#2": 1,
@@ -6572,6 +6791,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden seat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGoldbench.png\")",
     "#1": 5,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6602,6 +6822,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden shovel",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolScoopGold.png\")",
     "#1": 1,
     "Material 1": "shovel",
     "#2": 1,
@@ -6632,6 +6853,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden slingshot",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolSlingshotGold.png\")",
     "#1": 1,
     "Material 1": "slingshot",
     "#2": 1,
@@ -6662,6 +6884,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden toilet",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGoldWC.png\")",
     "#1": 6,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6692,6 +6915,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallGold00.png\")",
     "#1": 4,
     "Material 1": "gold nugget",
     "#2": "",
@@ -6722,6 +6946,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickGolden.png\")",
     "#1": 2,
     "Material 1": "gold nugget",
     "#2": 3,
@@ -6752,6 +6977,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "golden watering can",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolWateringGold.png\")",
     "#1": 1,
     "Material 1": "watering can",
     "#2": 1,
@@ -6782,6 +7008,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "gong",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTamtam.png\")",
     "#1": 6,
     "Material 1": "iron nugget",
     "#2": 5,
@@ -6812,6 +7039,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "grass skirt",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BottomsTexSkirtBoxGrass0.png\")",
     "#1": 7,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -6842,6 +7070,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "grass standee",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrHariboteGrass.png\")",
     "#1": 2,
     "Material 1": "wood",
     "#2": 2,
@@ -6872,6 +7101,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "green grass skirt",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BottomsTexSkirtBoxGrass1.png\")",
     "#1": 7,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -6902,6 +7132,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "green-leaf pile",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFallenleavesGreen.png\")",
     "#1": 1,
     "Material 1": "young spring bamboo",
     "#2": 10,
@@ -6932,6 +7163,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "hanging terrarium",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTerrariumWall.png\")",
     "#1": 12,
     "Material 1": "clump of weeds",
     "#2": 4,
@@ -6962,6 +7194,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "hay bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrHaybed.png\")",
     "#1": 20,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -6992,6 +7225,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "hearth",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIrori.png\")",
     "#1": 2,
     "Material 1": "bamboo piece",
     "#2": 5,
@@ -7022,6 +7256,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "hedge",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceIkegaki.png\")",
     "#1": 10,
     "Material 1": "clump of weeds",
     "#2": 5,
@@ -7052,6 +7287,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "hedge standee",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrHariboteHedge.png\")",
     "#1": 2,
     "Material 1": "wood",
     "#2": 3,
@@ -7082,6 +7318,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "holiday candle",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrCandleXmas.png\")",
     "#1": 5,
     "Material 1": "red ornament",
     "#2": 5,
@@ -7112,6 +7349,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "honeycomb flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorHoney00.png\")",
     "#1": 5,
     "Material 1": "wasp nest",
     "#2": "",
@@ -7142,6 +7380,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "honeycomb wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallHoney00.png\")",
     "#1": 6,
     "Material 1": "wasp nest",
     "#2": "",
@@ -7172,6 +7411,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "hyacinth crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentHyacinth1.png\")",
     "#1": 4,
     "Material 1": "red hyacinths",
     "#2": 2,
@@ -7202,6 +7442,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "hyacinth lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFlowerLamp.png\")",
     "#1": 5,
     "Material 1": "purple hyacinths",
     "#2": 3,
@@ -7232,6 +7473,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "hyacinth wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickHyacinth.png\")",
     "#1": 1,
     "Material 1": "pink hyacinths",
     "#2": 3,
@@ -7262,6 +7504,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "hyacinth wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathHyacinth.png\")",
     "#1": 3,
     "Material 1": "white hyacinths",
     "#2": 3,
@@ -7292,6 +7535,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ice flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpFloorIce00.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 8,
@@ -7322,6 +7566,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ice wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallIce00.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 8,
@@ -7352,6 +7597,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ice wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickSnow.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 3,
@@ -7382,6 +7628,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iceberg flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpFloorIceFloe00.png\")",
     "#1": 10,
     "Material 1": "snowflake",
     "#2": "",
@@ -7412,6 +7659,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iceberg wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallIceFloe00.png\")",
     "#1": 10,
     "Material 1": "snowflake",
     "#2": "",
@@ -7442,6 +7690,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "illuminated present",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIllumiPresent.png\")",
     "#1": 3,
     "Material 1": "red ornament",
     "#2": 4,
@@ -7472,6 +7721,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "illuminated reindeer",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIllumiReindeer.png\")",
     "#1": 6,
     "Material 1": "gold ornament",
     "#2": 5,
@@ -7502,6 +7752,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "illuminated snowflakes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIllumiSnow.png\")",
     "#1": 9,
     "Material 1": "blue ornament",
     "#2": 3,
@@ -7532,6 +7783,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "illuminated tree",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIllumiTree.png\")",
     "#1": 6,
     "Material 1": "gold ornament",
     "#2": 6,
@@ -7562,6 +7814,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "imperial fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceChinese.png\")",
     "#1": 6,
     "Material 1": "wood",
     "#2": 4,
@@ -7592,6 +7845,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "infused-water dispenser",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitswater.png\")",
     "#1": 2,
     "Material 1": "apple",
     "#2": 2,
@@ -7622,6 +7876,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron armor",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceOverallLPlatearmorIron.png\")",
     "#1": 8,
     "Material 1": "iron nugget",
     "#2": "",
@@ -7652,6 +7907,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron closet",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronClosetLR.png\")",
     "#1": 12,
     "Material 1": "iron nugget",
     "#2": "",
@@ -7682,6 +7938,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron doorplate",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentIron.png\")",
     "#1": 2,
     "Material 1": "iron nugget",
     "#2": "",
@@ -7712,6 +7969,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceSteel.png\")",
     "#1": 6,
     "Material 1": "iron nugget",
     "#2": "",
@@ -7742,6 +8000,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron frame",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronframe.png\")",
     "#1": 20,
     "Material 1": "iron nugget",
     "#2": "",
@@ -7772,6 +8031,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron garden bench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIrongardenBench.png\")",
     "#1": 8,
     "Material 1": "iron nugget",
     "#2": "",
@@ -7802,6 +8062,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron garden chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIrongardenChair.png\")",
     "#1": 3,
     "Material 1": "iron nugget",
     "#2": "",
@@ -7832,6 +8093,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron garden table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIrongardenTable.png\")",
     "#1": 5,
     "Material 1": "iron nugget",
     "#2": "",
@@ -7862,6 +8124,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron hanger stand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronHanger.png\")",
     "#1": 3,
     "Material 1": "iron nugget",
     "#2": "",
@@ -7892,6 +8155,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron shelf",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronShelf.png\")",
     "#1": 14,
     "Material 1": "iron nugget",
     "#2": "",
@@ -7922,6 +8186,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron wall lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronLampW.png\")",
     "#1": 4,
     "Material 1": "iron nugget",
     "#2": 2,
@@ -7952,6 +8217,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron wall rack",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronShelfW.png\")",
     "#1": 3,
     "Material 1": "iron nugget",
     "#2": 1,
@@ -7982,6 +8248,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickIron.png\")",
     "#1": 3,
     "Material 1": "iron nugget",
     "#2": 3,
@@ -8012,6 +8279,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron worktable",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronTableM.png\")",
     "#1": 10,
     "Material 1": "iron nugget",
     "#2": "",
@@ -8042,6 +8310,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "iron-and-stone fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceIronAndStone.png\")",
     "#1": 6,
     "Material 1": "stone",
     "#2": 3,
@@ -8072,6 +8341,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ironwood bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronwoodBedS.png\")",
     "#1": 20,
     "Material 1": "wood",
     "#2": 10,
@@ -8102,6 +8372,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ironwood cart",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronwoodServingcart.png\")",
     "#1": 6,
     "Material 1": "wood",
     "#2": 4,
@@ -8132,6 +8403,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ironwood chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronwoodChairS.png\")",
     "#1": 3,
     "Material 1": "wood",
     "#2": 2,
@@ -8162,6 +8434,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ironwood clock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronwoodClockW.png\")",
     "#1": 2,
     "Material 1": "wood",
     "#2": 2,
@@ -8192,6 +8465,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ironwood cupboard",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronwoodCupboard.png\")",
     "#1": 12,
     "Material 1": "wood",
     "#2": 6,
@@ -8222,6 +8496,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ironwood DIY workbench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWorkbenchIronwood.png\")",
     "#1": 12,
     "Material 1": "wood",
     "#2": 6,
@@ -8252,6 +8527,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ironwood dresser",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronwoodChest.png\")",
     "#1": 7,
     "Material 1": "wood",
     "#2": 4,
@@ -8282,6 +8558,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ironwood kitchenette",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronwoodKitchen.png\")",
     "#1": 4,
     "Material 1": "wood",
     "#2": 3,
@@ -8312,6 +8589,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ironwood low table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronwoodTableM.png\")",
     "#1": 6,
     "Material 1": "wood",
     "#2": 4,
@@ -8342,6 +8620,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ironwood table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronwoodTableL.png\")",
     "#1": 12,
     "Material 1": "wood",
     "#2": 6,
@@ -8372,6 +8651,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "jail bars",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrScreenCage.png\")",
     "#1": 5,
     "Material 1": "iron nugget",
     "#2": "",
@@ -8402,6 +8682,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Jingle wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallXmas00.png\")",
     "#1": 5,
     "Material 1": "red ornament",
     "#2": 5,
@@ -8432,6 +8713,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "juicy-apple TV",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsTV.png\")",
     "#1": 10,
     "Material 1": "apple",
     "#2": 2,
@@ -8462,6 +8744,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "jungle flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorJungle00.png\")",
     "#1": 10,
     "Material 1": "clump of weeds",
     "#2": 10,
@@ -8492,6 +8775,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "jungle wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallJungle00.png\")",
     "#1": 15,
     "Material 1": "clump of weeds",
     "#2": 3,
@@ -8522,6 +8806,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "kettle bathtub",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGoemonburo.png\")",
     "#1": 8,
     "Material 1": "iron nugget",
     "#2": 2,
@@ -8552,6 +8837,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "kettlebell",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrKettlebell.png\")",
     "#1": 5,
     "Material 1": "iron nugget",
     "#2": "",
@@ -8582,6 +8868,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "key holder",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrKeyhanger.png\")",
     "#1": 3,
     "Material 1": "wood",
     "#2": 1,
@@ -8612,6 +8899,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "knight's helmet",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapFullfaceKnightIron.png\")",
     "#1": 5,
     "Material 1": "iron nugget",
     "#2": "",
@@ -8642,6 +8930,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "knitted-grass backpack",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BagBackpackGrass0.png\")",
     "#1": 20,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -8672,6 +8961,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ladder",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolLadder.png\")",
     "#1": 4,
     "Material 1": "wood",
     "#2": 4,
@@ -8702,6 +8992,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "large cardboard boxes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMovingboxL.png\")",
     "#1": 5,
     "Material 1": "cardboard box",
     "#2": "",
@@ -8732,6 +9023,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "lattice fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLatiiceNatural.png\")",
     "#1": 8,
     "Material 1": "softwood",
     "#2": "",
@@ -8762,6 +9054,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "leaf",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/AccessoryMouthLeafGreen.png\")",
     "#1": 5,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -8792,6 +9085,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "leaf campfire",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFallenleavesfire.png\")",
     "#1": 3,
     "Material 1": "pine cone",
     "#2": 5,
@@ -8822,6 +9116,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "leaf mask",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapMaskLeaf0.png\")",
     "#1": 10,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -8852,6 +9147,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "leaf stool",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFallenleavesChairS.png\")",
     "#1": 3,
     "Material 1": "maple leaf",
     "#2": 3,
@@ -8882,6 +9178,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "leaf umbrella",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaLeaf0.png\")",
     "#1": 15,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -8912,6 +9209,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "leaf-egg outfit",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceRibNEggleaf0.png\")",
     "#1": 3,
     "Material 1": "leaf egg",
     "#2": "",
@@ -8942,6 +9240,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "leaf-egg shell",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatEggleaf0.png\")",
     "#1": 2,
     "Material 1": "leaf egg",
     "#2": "",
@@ -8972,6 +9271,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "leaf-egg shoes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ShoesLowcutEggleaf0.png\")",
     "#1": 2,
     "Material 1": "leaf egg",
     "#2": "",
@@ -9002,6 +9302,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Leo sculpture",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacLeo.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -9032,6 +9333,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Libra scale",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacLibra.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -9062,6 +9364,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "light bamboo rug",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RugRectBambooM00.png\")",
     "#1": 6,
     "Material 1": "young spring bamboo",
     "#2": "",
@@ -9092,6 +9395,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "lily crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentYuri1.png\")",
     "#1": 2,
     "Material 1": "red lilies",
     "#2": 2,
@@ -9122,6 +9426,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "lily record player",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFlowerRecordplayer.png\")",
     "#1": 5,
     "Material 1": "white lilies",
     "#2": 3,
@@ -9152,6 +9457,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "lily wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickYuri.png\")",
     "#1": 1,
     "Material 1": "white lilies",
     "#2": 3,
@@ -9182,6 +9488,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "lily wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathYuri.png\")",
     "#1": 3,
     "Material 1": "white lilies",
     "#2": 3,
@@ -9212,6 +9519,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogBedW.png\")",
     "#1": 30,
     "Material 1": "hardwood",
     "#2": "",
@@ -9242,6 +9550,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log bench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogStoolL.png\")",
     "#1": 5,
     "Material 1": "hardwood",
     "#2": "",
@@ -9272,6 +9581,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogSofaS.png\")",
     "#1": 8,
     "Material 1": "hardwood",
     "#2": "",
@@ -9302,6 +9612,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log decorative shelves",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogShelf.png\")",
     "#1": 2,
     "Material 1": "log bench",
     "#2": 3,
@@ -9332,6 +9643,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log dining table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogTableL.png\")",
     "#1": 15,
     "Material 1": "hardwood",
     "#2": "",
@@ -9362,6 +9674,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log extra-long sofa",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogSofaL.png\")",
     "#1": 2,
     "Material 1": "log chair",
     "#2": "",
@@ -9392,6 +9705,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log garden lounge",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogBedS.png\")",
     "#1": 12,
     "Material 1": "hardwood",
     "#2": "",
@@ -9422,6 +9736,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log pack",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BagBackpackWood0.png\")",
     "#1": 3,
     "Material 1": "wood",
     "#2": 5,
@@ -9452,6 +9767,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log round table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogTableLRound.png\")",
     "#1": 15,
     "Material 1": "hardwood",
     "#2": "",
@@ -9482,6 +9798,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log stakes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodPile.png\")",
     "#1": 3,
     "Material 1": "wood",
     "#2": "",
@@ -9512,6 +9829,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log stool",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogStoolS.png\")",
     "#1": 4,
     "Material 1": "hardwood",
     "#2": "",
@@ -9542,6 +9860,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "log wall-mounted clock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogClockWall.png\")",
     "#1": 2,
     "Material 1": "hardwood",
     "#2": 1,
@@ -9572,6 +9891,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "lovely cosmos crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentCosmos2.png\")",
     "#1": 4,
     "Material 1": "pink cosmos",
     "#2": 3,
@@ -9602,6 +9922,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "lucky gold cat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrManekinekoGold.png\")",
     "#1": 2,
     "Material 1": "gold nugget",
     "#2": 1,
@@ -9632,6 +9953,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "lunar lander",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrModule.png\")",
     "#1": 10,
     "Material 1": "star fragment",
     "#2": 15,
@@ -9662,6 +9984,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "lunar rover",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMoonrover.png\")",
     "#1": 10,
     "Material 1": "star fragment",
     "#2": 10,
@@ -9692,6 +10015,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "lunar surface",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorLunar00.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": 1,
@@ -9722,6 +10046,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "magazine rack",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMagazinerack.png\")",
     "#1": 2,
     "Material 1": "magazine",
     "#2": 4,
@@ -9752,6 +10077,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "manga-library wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallLibrary01.png\")",
     "#1": 10,
     "Material 1": "magazine",
     "#2": "",
@@ -9782,6 +10108,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "manhole cover",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrManhole.png\")",
     "#1": 3,
     "Material 1": "iron nugget",
     "#2": "",
@@ -9812,6 +10139,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "maple-leaf pochette",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderMaple0.png\")",
     "#1": 6,
     "Material 1": "maple leaf",
     "#2": "",
@@ -9842,6 +10170,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "maple-leaf pond stone",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStonewaterbowlAutumun.png\")",
     "#1": 10,
     "Material 1": "stone",
     "#2": 3,
@@ -9872,6 +10201,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "maple-leaf umbrella",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaAutumn0.png\")",
     "#1": 7,
     "Material 1": "maple leaf",
     "#2": "",
@@ -9902,6 +10232,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "matryoshka",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMatryoshka.png\")",
     "#1": 5,
     "Material 1": "softwood",
     "#2": "",
@@ -9932,6 +10263,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "medicine",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemMedicine.png\")",
     "#1": 1,
     "Material 1": "wasp nest",
     "#2": 3,
@@ -9962,6 +10294,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "medium cardboard boxes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMovingboxM.png\")",
     "#1": 4,
     "Material 1": "cardboard box",
     "#2": "",
@@ -9992,6 +10325,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidBedS.png\")",
     "#1": 2,
     "Material 1": "pearl",
     "#2": 2,
@@ -10022,6 +10356,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidChairS.png\")",
     "#1": 1,
     "Material 1": "pearl",
     "#2": 1,
@@ -10052,6 +10387,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid closet",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidClosetLR.png\")",
     "#1": 2,
     "Material 1": "pearl",
     "#2": 1,
@@ -10082,6 +10418,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid dresser",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidChest.png\")",
     "#1": 2,
     "Material 1": "pearl",
     "#2": 1,
@@ -10112,6 +10449,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpFloorMermaid00.png\")",
     "#1": 2,
     "Material 1": "pearl",
     "#2": 5,
@@ -10142,6 +10480,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidLamp.png\")",
     "#1": 1,
     "Material 1": "pearl",
     "#2": 3,
@@ -10172,6 +10511,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid rug",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherMermaidM00.png\")",
     "#1": 1,
     "Material 1": "pearl",
     "#2": 3,
@@ -10202,6 +10542,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid screen",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidScreen.png\")",
     "#1": 2,
     "Material 1": "pearl",
     "#2": 3,
@@ -10232,6 +10573,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid shelf",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidShelf.png\")",
     "#1": 1,
     "Material 1": "pearl",
     "#2": 1,
@@ -10262,6 +10604,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid sofa",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidChairL.png\")",
     "#1": 1,
     "Material 1": "pearl",
     "#2": 10,
@@ -10292,6 +10635,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidTableM.png\")",
     "#1": 1,
     "Material 1": "pearl",
     "#2": 4,
@@ -10322,6 +10666,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid vanity",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidDresser.png\")",
     "#1": 1,
     "Material 1": "pearl",
     "#2": 1,
@@ -10352,6 +10697,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallMermaid00.png\")",
     "#1": 2,
     "Material 1": "pearl",
     "#2": 2,
@@ -10382,6 +10728,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mermaid wall clock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidclockWall.png\")",
     "#1": 1,
     "Material 1": "pearl",
     "#2": 3,
@@ -10412,6 +10759,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mini DIY workbench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWorkbenchS.png\")",
     "#1": 3,
     "Material 1": "wood",
     "#2": 3,
@@ -10442,6 +10790,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "modeling clay",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrClaytoy.png\")",
     "#1": 2,
     "Material 1": "clay",
     "#2": "",
@@ -10472,6 +10821,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "modern wood wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallMixwood00.png\")",
     "#1": 5,
     "Material 1": "wood",
     "#2": 5,
@@ -10502,6 +10852,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "money flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorBill00.png\")",
     "#1": 50000,
     "Material 1": "bells",
     "#2": "",
@@ -10532,6 +10883,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "moon",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMoon.png\")",
     "#1": 15,
     "Material 1": "star fragment",
     "#2": 1,
@@ -10562,6 +10914,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mossy garden rock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGardenrockMoss.png\")",
     "#1": 15,
     "Material 1": "stone",
     "#2": 15,
@@ -10592,6 +10945,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mountain standee",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrHariboteMountain.png\")",
     "#1": 4,
     "Material 1": "wood",
     "#2": 5,
@@ -10622,6 +10976,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mum crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentMum1.png\")",
     "#1": 2,
     "Material 1": "red mums",
     "#2": 2,
@@ -10652,6 +11007,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mum cushion",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFlowerStoolS.png\")",
     "#1": 3,
     "Material 1": "yellow mums",
     "#2": 10,
@@ -10682,6 +11038,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mum wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathMum.png\")",
     "#1": 3,
     "Material 1": "white mums",
     "#2": 3,
@@ -10712,6 +11069,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mums wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickChrysanthemum.png\")",
     "#1": 1,
     "Material 1": "yellow mums",
     "#2": 3,
@@ -10742,6 +11100,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mush lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMushroomLamp.png\")",
     "#1": 1,
     "Material 1": "skinny mushroom",
     "#2": 5,
@@ -10772,6 +11131,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mush log",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMushroomPulpwood.png\")",
     "#1": 2,
     "Material 1": "skinny mushroom",
     "#2": 1,
@@ -10802,6 +11162,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mush low stool",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMushroomChairS.png\")",
     "#1": 2,
     "Material 1": "round mushroom",
     "#2": "",
@@ -10832,6 +11193,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mush parasol",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMushroomParasol.png\")",
     "#1": 3,
     "Material 1": "flat mushroom",
     "#2": "",
@@ -10862,6 +11224,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mush partition",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMushroomScreen.png\")",
     "#1": 3,
     "Material 1": "skinny mushroom",
     "#2": "",
@@ -10892,6 +11255,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mush table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMushroomTableL.png\")",
     "#1": 2,
     "Material 1": "flat mushroom",
     "#2": 6,
@@ -10922,6 +11286,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mush umbrella",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaMushroom0.png\")",
     "#1": 3,
     "Material 1": "flat mushroom",
     "#2": "",
@@ -10952,6 +11317,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mush wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallMush00.png\")",
     "#1": 1,
     "Material 1": "elegant mushroom",
     "#2": 1,
@@ -10982,6 +11348,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mushroom wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickMushroom.png\")",
     "#1": 3,
     "Material 1": "skinny mushroom",
     "#2": 3,
@@ -11012,6 +11379,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "mushroom wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathMushroom.png\")",
     "#1": 10,
     "Material 1": "tree branch",
     "#2": 1,
@@ -11042,6 +11410,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "music stand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMusicstand.png\")",
     "#1": 8,
     "Material 1": "hardwood",
     "#2": "",
@@ -11072,6 +11441,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "natural garden chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGardenChairNatural.png\")",
     "#1": 6,
     "Material 1": "hardwood",
     "#2": 2,
@@ -11102,6 +11472,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "natural garden table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGardenTableNatural.png\")",
     "#1": 9,
     "Material 1": "hardwood",
     "#2": 3,
@@ -11132,6 +11503,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "natural mum wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathMumRare.png\")",
     "#1": 10,
     "Material 1": "green mums",
     "#2": "",
@@ -11162,6 +11534,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "natural square table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGardenTableSNatural.png\")",
     "#1": 4,
     "Material 1": "hardwood",
     "#2": 2,
@@ -11192,6 +11565,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "net",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolNetNormal.png\")",
     "#1": 1,
     "Material 1": "flimsy net",
     "#2": 1,
@@ -11222,6 +11596,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "nova light",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStarLamp.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": "",
@@ -11252,6 +11627,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ocarina",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolOcarina.png\")",
     "#1": 5,
     "Material 1": "clay",
     "#2": "",
@@ -11282,6 +11658,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "oil-barrel bathtub",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDrumcanbath.png\")",
     "#1": 1,
     "Material 1": "oil barrel",
     "#2": 1,
@@ -11312,6 +11689,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "old-fashioned washtub",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWashtub.png\")",
     "#1": 3,
     "Material 1": "softwood",
     "#2": "",
@@ -11342,6 +11720,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "orange dress",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceAlineNOrange.png\")",
     "#1": 8,
     "Material 1": "orange",
     "#2": "",
@@ -11372,6 +11751,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "orange end table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsTableS.png\")",
     "#1": 10,
     "Material 1": "orange",
     "#2": 4,
@@ -11402,6 +11782,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "orange hat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatOrange.png\")",
     "#1": 5,
     "Material 1": "orange",
     "#2": "",
@@ -11432,6 +11813,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "orange rug",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherOrangeM00.png\")",
     "#1": 6,
     "Material 1": "orange",
     "#2": "",
@@ -11462,6 +11844,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "orange umbrella",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaOrange0.png\")",
     "#1": 7,
     "Material 1": "orange",
     "#2": "",
@@ -11492,6 +11875,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "orange wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallOrange00.png\")",
     "#1": 20,
     "Material 1": "orange",
     "#2": "",
@@ -11522,6 +11906,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "orange wall-mounted clock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsClockW.png\")",
     "#1": 10,
     "Material 1": "orange",
     "#2": 2,
@@ -11552,6 +11937,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ornament mobile",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrOrnamentMobile.png\")",
     "#1": 1,
     "Material 1": "red ornament",
     "#2": 1,
@@ -11582,6 +11968,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ornament wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathOrnament.png\")",
     "#1": 6,
     "Material 1": "blue ornament",
     "#2": 2,
@@ -11612,6 +11999,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "outdoor bath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrOpenairbath.png\")",
     "#1": 20,
     "Material 1": "stone",
     "#2": 1,
@@ -11642,6 +12030,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "outdoor picnic set",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSakuraPicnicset.png\")",
     "#1": 10,
     "Material 1": "cherry-blossom petal",
     "#2": "",
@@ -11672,6 +12061,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "palm-tree lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrPalmtreelamp.png\")",
     "#1": 4,
     "Material 1": "coconut",
     "#2": 4,
@@ -11702,6 +12092,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pan flute",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolPanpipe.png\")",
     "#1": 7,
     "Material 1": "young spring bamboo",
     "#2": "",
@@ -11732,6 +12123,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pansy crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentPansy1.png\")",
     "#1": 2,
     "Material 1": "red pansies",
     "#2": 2,
@@ -11762,6 +12154,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pansy table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFlowerTableS.png\")",
     "#1": 5,
     "Material 1": "yellow pansies",
     "#2": 3,
@@ -11792,6 +12185,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pansy wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickPansy.png\")",
     "#1": 1,
     "Material 1": "yellow pansies",
     "#2": 3,
@@ -11822,6 +12216,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pansy wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathPansy.png\")",
     "#1": 3,
     "Material 1": "yellow pansies",
     "#2": 3,
@@ -11852,6 +12247,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "paw-print doorplate",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentPaw.png\")",
     "#1": 3,
     "Material 1": "wood",
     "#2": "",
@@ -11882,6 +12278,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "peach chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsChairPeach.png\")",
     "#1": 10,
     "Material 1": "peach",
     "#2": 5,
@@ -11912,6 +12309,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "peach dress",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceAlineNPeach0.png\")",
     "#1": 8,
     "Material 1": "peach",
     "#2": "",
@@ -11942,6 +12340,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "peach hat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatPeach0.png\")",
     "#1": 5,
     "Material 1": "peach",
     "#2": "",
@@ -11972,6 +12371,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "peach rug",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherPeachM00.png\")",
     "#1": 6,
     "Material 1": "peach",
     "#2": "",
@@ -12002,6 +12402,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "peach surprise box",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsBox.png\")",
     "#1": 10,
     "Material 1": "peach",
     "#2": 4,
@@ -12032,6 +12433,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "peach umbrella",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaPeach0.png\")",
     "#1": 7,
     "Material 1": "peach",
     "#2": "",
@@ -12062,6 +12464,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "peach wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallPeach00.png\")",
     "#1": 20,
     "Material 1": "peach",
     "#2": "",
@@ -12092,6 +12495,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pear bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsBedS.png\")",
     "#1": 10,
     "Material 1": "pear",
     "#2": 6,
@@ -12122,6 +12526,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pear dress",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceAlineNPear0.png\")",
     "#1": 8,
     "Material 1": "pear",
     "#2": "",
@@ -12152,6 +12557,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pear hat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatPear0.png\")",
     "#1": 5,
     "Material 1": "pear",
     "#2": "",
@@ -12182,6 +12588,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pear rug",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherPearM00.png\")",
     "#1": 6,
     "Material 1": "pear",
     "#2": "",
@@ -12212,6 +12619,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pear umbrella",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaPear0.png\")",
     "#1": 7,
     "Material 1": "pear",
     "#2": "",
@@ -12242,6 +12650,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pear wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallPear00.png\")",
     "#1": 20,
     "Material 1": "pear",
     "#2": "",
@@ -12272,6 +12681,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pear wardrobe",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsClosetLR.png\")",
     "#1": 10,
     "Material 1": "pear",
     "#2": 5,
@@ -12302,6 +12712,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pile of leaves",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFallenleaves.png\")",
     "#1": 3,
     "Material 1": "pine cone",
     "#2": 5,
@@ -12332,6 +12743,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pile of zen cushions",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrCushionJapanPile.png\")",
     "#1": 3,
     "Material 1": "zen cushion",
     "#2": "",
@@ -12362,6 +12774,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pine bonsai tree",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBonsaiPine.png\")",
     "#1": 8,
     "Material 1": "pine cone",
     "#2": 5,
@@ -12392,6 +12805,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Pisces lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacPisces.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -12422,6 +12836,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pitfall seed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/PitfallSeed.png\")",
     "#1": 4,
     "Material 1": "clump of weeds",
     "#2": 6,
@@ -12452,6 +12867,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "plain sink",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWashstandBowl.png\")",
     "#1": 6,
     "Material 1": "wood",
     "#2": 4,
@@ -12482,6 +12898,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "plain wooden shop sign",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSignWood.png\")",
     "#1": 6,
     "Material 1": "wood",
     "#2": "",
@@ -12512,6 +12929,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pond stone",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStonewaterbowl.png\")",
     "#1": 10,
     "Material 1": "stone",
     "#2": "",
@@ -12542,6 +12960,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pot",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrKame.png\")",
     "#1": 5,
     "Material 1": "clay",
     "#2": "",
@@ -12572,6 +12991,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "potted ivy",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrLeafWall.png\")",
     "#1": 5,
     "Material 1": "clump of weeds",
     "#2": 5,
@@ -12602,6 +13022,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pretty cosmos wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathCosmosMix.png\")",
     "#1": 3,
     "Material 1": "orange cosmos",
     "#2": 3,
@@ -12632,6 +13053,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "pretty tulip wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathTulipMix.png\")",
     "#1": 3,
     "Material 1": "orange tulips",
     "#2": 3,
@@ -12662,6 +13084,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "purple hyacinth crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentHyacinth3.png\")",
     "#1": 6,
     "Material 1": "purple hyacinths",
     "#2": "",
@@ -12692,6 +13115,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "purple hyacinth wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathHyacinthRare.png\")",
     "#1": 10,
     "Material 1": "purple hyacinths",
     "#2": "",
@@ -12722,6 +13146,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "purple pansy crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentPansy3.png\")",
     "#1": 6,
     "Material 1": "purple pansies",
     "#2": "",
@@ -12752,6 +13177,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "purple windflower crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentAnemone3.png\")",
     "#1": 6,
     "Material 1": "purple windflowers",
     "#2": "",
@@ -12782,6 +13208,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "raccoon figurine",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrOrnamentTanuki.png\")",
     "#1": 6,
     "Material 1": "clay",
     "#2": "",
@@ -12812,6 +13239,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "recycled boots",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ShoesKneeRecyclingboots0.png\")",
     "#1": 2,
     "Material 1": "boot",
     "#2": "",
@@ -12842,6 +13270,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "recycled-can thumb piano",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrKalimbaCan.png\")",
     "#1": 1,
     "Material 1": "empty can",
     "#2": 1,
@@ -12872,6 +13301,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "red-leaf pile",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFallenleavesRed.png\")",
     "#1": 3,
     "Material 1": "maple leaf",
     "#2": 4,
@@ -12902,6 +13332,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ringtoss",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrQuoits.png\")",
     "#1": 2,
     "Material 1": "wood",
     "#2": 2,
@@ -12932,6 +13363,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "robot hero",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrHerorobot.png\")",
     "#1": 1,
     "Material 1": "rocket",
     "#2": 1,
@@ -12962,6 +13394,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "rocket",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrRocket.png\")",
     "#1": 10,
     "Material 1": "star fragment",
     "#2": 20,
@@ -12992,6 +13425,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "rocking chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrRockingchair.png\")",
     "#1": 3,
     "Material 1": "wood",
     "#2": 5,
@@ -13022,6 +13456,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "rocking horse",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrRockinghorse.png\")",
     "#1": 5,
     "Material 1": "softwood",
     "#2": "",
@@ -13052,6 +13487,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "rope fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFencePegRope.png\")",
     "#1": 4,
     "Material 1": "iron nugget",
     "#2": "",
@@ -13082,6 +13518,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "rose bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFlowerBedW.png\")",
     "#1": 10,
     "Material 1": "red roses",
     "#2": 5,
@@ -13112,6 +13549,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "rose crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentRose1.png\")",
     "#1": 2,
     "Material 1": "red roses",
     "#2": 2,
@@ -13142,6 +13580,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "rose wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickRose.png\")",
     "#1": 1,
     "Material 1": "red roses",
     "#2": 3,
@@ -13172,6 +13611,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "rose wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathRose.png\")",
     "#1": 3,
     "Material 1": "red roses",
     "#2": 3,
@@ -13202,6 +13642,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "rustic-stone wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallStone00.png\")",
     "#1": 5,
     "Material 1": "stone",
     "#2": 5,
@@ -13232,6 +13673,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Sagittarius arrow",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacSagittarius.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -13262,6 +13704,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "sakura-wood flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorSolidWood00.png\")",
     "#1": 5,
     "Material 1": "cherry-blossom petal",
     "#2": 10,
@@ -13292,6 +13735,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "sakura-wood wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallSolidWood00.png\")",
     "#1": 5,
     "Material 1": "cherry-blossom petal",
     "#2": 10,
@@ -13322,6 +13766,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "sandy-beach flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorSand00.png\")",
     "#1": 1,
     "Material 1": "sea snail",
     "#2": 1,
@@ -13352,6 +13797,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "satellite",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSatellite.png\")",
     "#1": 10,
     "Material 1": "star fragment",
     "#2": 15,
@@ -13382,6 +13828,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "sauna heater",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStoveSauna.png\")",
     "#1": 6,
     "Material 1": "stone",
     "#2": 3,
@@ -13412,6 +13859,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "scarecrow",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrScarecrow.png\")",
     "#1": 3,
     "Material 1": "tree branch",
     "#2": 5,
@@ -13442,6 +13890,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "scattered papers",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFloorpapers.png\")",
     "#1": 1,
     "Material 1": "document stack",
     "#2": "",
@@ -13472,6 +13921,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "sci-fi flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpFloorSF00.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": 1,
@@ -13502,6 +13952,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "sci-fi wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallSF00.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": 1,
@@ -13532,6 +13983,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Scorpio lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacScorpio.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -13562,6 +14014,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell arch",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrShellArch.png\")",
     "#1": 3,
     "Material 1": "sea snail",
     "#2": 3,
@@ -13592,6 +14045,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrShellBedW.png\")",
     "#1": 5,
     "Material 1": "giant clam",
     "#2": 3,
@@ -13622,6 +14076,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell fountain",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrShellFountain.png\")",
     "#1": 5,
     "Material 1": "giant clam",
     "#2": 3,
@@ -13652,6 +14107,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrShellLamp.png\")",
     "#1": 2,
     "Material 1": "giant clam",
     "#2": 3,
@@ -13682,6 +14138,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell partition",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrShellScreen.png\")",
     "#1": 4,
     "Material 1": "venus comb",
     "#2": 4,
@@ -13712,6 +14169,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell rug",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherShellM00.png\")",
     "#1": 3,
     "Material 1": "giant clam",
     "#2": "",
@@ -13742,6 +14200,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell speaker",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrShellMusic.png\")",
     "#1": 3,
     "Material 1": "conch",
     "#2": 2,
@@ -13772,6 +14231,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell stool",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrShellStoolS.png\")",
     "#1": 5,
     "Material 1": "cowrie",
     "#2": "",
@@ -13802,6 +14262,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrShellTableL.png\")",
     "#1": 7,
     "Material 1": "sand dollar",
     "#2": 3,
@@ -13832,6 +14293,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickShell.png\")",
     "#1": 3,
     "Material 1": "summer shell",
     "#2": 3,
@@ -13862,6 +14324,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shell wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathShell.png\")",
     "#1": 1,
     "Material 1": "summer shell",
     "#2": 1,
@@ -13892,6 +14355,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shellfish pochette",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderShell0.png\")",
     "#1": 2,
     "Material 1": "giant clam",
     "#2": 6,
@@ -13922,6 +14386,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "shovel",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolScoop.png\")",
     "#1": 1,
     "Material 1": "flimsy shovel",
     "#2": 1,
@@ -13952,6 +14417,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "signpost",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSignpost.png\")",
     "#1": 2,
     "Material 1": "hardwood",
     "#2": 3,
@@ -13982,6 +14448,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "silo",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSilo.png\")",
     "#1": 12,
     "Material 1": "iron nugget",
     "#2": 6,
@@ -14012,6 +14479,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "simple DIY workbench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWorkbenchStump.png\")",
     "#1": 5,
     "Material 1": "hardwood",
     "#2": 1,
@@ -14042,6 +14510,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "simple mum crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentMum3.png\")",
     "#1": 6,
     "Material 1": "green mums",
     "#2": "",
@@ -14072,6 +14541,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "simple well",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWell.png\")",
     "#1": 15,
     "Material 1": "stone",
     "#2": 1,
@@ -14102,6 +14572,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "simple wooden fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceNatural.png\")",
     "#1": 6,
     "Material 1": "softwood",
     "#2": "",
@@ -14132,6 +14603,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ski-slope flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorGelande00.png\")",
     "#1": 8,
     "Material 1": "snowflake",
     "#2": "",
@@ -14162,6 +14634,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ski-slope wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallGelande00.png\")",
     "#1": 8,
     "Material 1": "snowflake",
     "#2": "",
@@ -14192,6 +14665,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "sky-egg outfit",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceRibNEggsky0.png\")",
     "#1": 3,
     "Material 1": "sky egg",
     "#2": "",
@@ -14222,6 +14696,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "sky-egg shell",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatEggsky0.png\")",
     "#1": 2,
     "Material 1": "sky egg",
     "#2": "",
@@ -14252,6 +14727,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "sky-egg shoes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ShoesLowcutEggsky0.png\")",
     "#1": 2,
     "Material 1": "sky egg",
     "#2": "",
@@ -14282,6 +14758,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "sleigh",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSled.png\")",
     "#1": 8,
     "Material 1": "wood",
     "#2": "",
@@ -14312,6 +14789,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "slingshot",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolSlingshot.png\")",
     "#1": 5,
     "Material 1": "hardwood",
     "#2": "",
@@ -14342,6 +14820,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "small cardboard boxes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMovingboxS.png\")",
     "#1": 2,
     "Material 1": "cardboard box",
     "#2": "",
@@ -14372,6 +14851,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "snazzy pansy wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathPansyMix.png\")",
     "#1": 3,
     "Material 1": "orange pansies",
     "#2": 3,
@@ -14402,6 +14882,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "snowflake pochette",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderSnow0.png\")",
     "#1": 6,
     "Material 1": "snowflake",
     "#2": "",
@@ -14432,6 +14913,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "snowflake wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallSnowCrystal00.png\")",
     "#1": 12,
     "Material 1": "snowflake",
     "#2": "",
@@ -14462,6 +14944,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "snowflake wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathIce.png\")",
     "#1": 4,
     "Material 1": "snowflake",
     "#2": "",
@@ -14492,6 +14975,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "snowperson head",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapCostumeSnowball0.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 5,
@@ -14522,6 +15006,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "space shuttle",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrShuttle.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": 10,
@@ -14552,6 +15037,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "spiky fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceSharply.png\")",
     "#1": 8,
     "Material 1": "hardwood",
     "#2": "",
@@ -14582,6 +15068,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stack of books",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBooks.png\")",
     "#1": 5,
     "Material 1": "book",
     "#2": "",
@@ -14612,6 +15099,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stacked magazines",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMagagine.png\")",
     "#1": 6,
     "Material 1": "magazine",
     "#2": "",
@@ -14642,6 +15130,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stacked-wood wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallFireWood00.png\")",
     "#1": 15,
     "Material 1": "hardwood",
     "#2": "",
@@ -14672,6 +15161,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFloat.png\")",
     "#1": 12,
     "Material 1": "wood",
     "#2": "",
@@ -14702,6 +15192,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "standard umbrella stand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrUmbrellastand.png\")",
     "#1": 3,
     "Material 1": "iron nugget",
     "#2": "",
@@ -14732,6 +15223,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "star clock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStarClock.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 1,
@@ -14762,6 +15254,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "star head",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapCostumeStar0.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": "",
@@ -14792,6 +15285,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "star pochette",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderStar0.png\")",
     "#1": 6,
     "Material 1": "star fragment",
     "#2": "",
@@ -14822,6 +15316,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "star wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolChangeStick.png\")",
     "#1": 1,
     "Material 1": "large star fragment",
     "#2": 3,
@@ -14852,6 +15347,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "starry garland",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStarDecorationWall.png\")",
     "#1": 10,
     "Material 1": "star fragment",
     "#2": "",
@@ -14882,6 +15378,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "starry wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallStarPrint00.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": 1,
@@ -14912,6 +15409,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "starry-sands flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorSandStar00.png\")",
     "#1": 3,
     "Material 1": "summer shell",
     "#2": 1,
@@ -14942,6 +15440,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "starry-sky wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallStarSky00.png\")",
     "#1": 5,
     "Material 1": "star fragment",
     "#2": 1,
@@ -14972,6 +15471,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "steamer-basket set",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBasketsteamer.png\")",
     "#1": 6,
     "Material 1": "young spring bamboo",
     "#2": "",
@@ -15002,6 +15502,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "steel flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexFloorSteel00.png\")",
     "#1": 7,
     "Material 1": "iron nugget",
     "#2": "",
@@ -15032,6 +15533,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "steel-frame wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallSteel00.png\")",
     "#1": 8,
     "Material 1": "iron nugget",
     "#2": "",
@@ -15062,6 +15564,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone arch",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrRockArch.png\")",
     "#1": 90,
     "Material 1": "stone",
     "#2": "",
@@ -15092,6 +15595,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone axe",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolAxeStoneNormal.png\")",
     "#1": 1,
     "Material 1": "flimsy axe",
     "#2": 3,
@@ -15122,6 +15626,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceStone.png\")",
     "#1": 4,
     "Material 1": "stone",
     "#2": "",
@@ -15152,6 +15657,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone lion-dog",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSekishishi.png\")",
     "#1": 24,
     "Material 1": "stone",
     "#2": "",
@@ -15182,6 +15688,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone stool",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStoneChair.png\")",
     "#1": 3,
     "Material 1": "stone",
     "#2": "",
@@ -15212,6 +15719,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStoneTable.png\")",
     "#1": 8,
     "Material 1": "stone",
     "#2": "",
@@ -15242,6 +15750,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone tablet",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrRockMonument.png\")",
     "#1": 12,
     "Material 1": "stone",
     "#2": "",
@@ -15272,6 +15781,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallBasement00.png\")",
     "#1": 10,
     "Material 1": "stone",
     "#2": "",
@@ -15302,6 +15812,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone-egg outfit",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceRibNEggrock0.png\")",
     "#1": 3,
     "Material 1": "stone egg",
     "#2": "",
@@ -15332,6 +15843,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone-egg shell",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatEggrock0.png\")",
     "#1": 2,
     "Material 1": "stone egg",
     "#2": "",
@@ -15362,6 +15874,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "stone-egg shoes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ShoesLowcutEggrock0.png\")",
     "#1": 2,
     "Material 1": "stone egg",
     "#2": "",
@@ -15392,6 +15905,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "straw fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceDriedStraw.png\")",
     "#1": 10,
     "Material 1": "clump of weeds",
     "#2": 3,
@@ -15422,6 +15936,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "straw umbrella hat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatSandogasa0.png\")",
     "#1": 10,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -15452,6 +15967,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "street piano",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrPianoStreet.png\")",
     "#1": 1,
     "Material 1": "upright piano",
     "#2": 1,
@@ -15482,6 +15998,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "succulent plant",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrPlantSucculents.png\")",
     "#1": 10,
     "Material 1": "clump of weeds",
     "#2": 1,
@@ -15512,6 +16029,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "swinging bench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSwingWood.png\")",
     "#1": 5,
     "Material 1": "wood",
     "#2": 7,
@@ -15542,6 +16060,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tabletop festive tree",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTreeXmasMini.png\")",
     "#1": 5,
     "Material 1": "gold ornament",
     "#2": 3,
@@ -15572,6 +16091,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tall garden rock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGardenrockTall.png\")",
     "#1": 60,
     "Material 1": "stone",
     "#2": "",
@@ -15602,6 +16122,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tall lantern",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrStonelantern.png\")",
     "#1": 18,
     "Material 1": "stone",
     "#2": "",
@@ -15632,6 +16153,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Taurus bathtub",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacTaurus.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -15662,6 +16184,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tea table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDiningtableJapan.png\")",
     "#1": 12,
     "Material 1": "hardwood",
     "#2": "",
@@ -15692,6 +16215,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "terrarium",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTerrarium.png\")",
     "#1": 12,
     "Material 1": "clump of weeds",
     "#2": 2,
@@ -15722,6 +16246,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "three-tiered snowperson",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSnowman.png\")",
     "#1": 1,
     "Material 1": "large snowflake",
     "#2": 6,
@@ -15752,6 +16277,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tiki torch",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTorch.png\")",
     "#1": 5,
     "Material 1": "tree branch",
     "#2": 5,
@@ -15782,6 +16308,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "timber doorplate",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentLog.png\")",
     "#1": 2,
     "Material 1": "wood",
     "#2": 1,
@@ -15812,6 +16339,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tiny library",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMicrolibrary.png\")",
     "#1": 3,
     "Material 1": "book",
     "#2": 5,
@@ -15842,6 +16370,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tire stack",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTyres.png\")",
     "#1": 3,
     "Material 1": "old tire",
     "#2": "",
@@ -15872,6 +16401,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tire toy",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrPlayingtire.png\")",
     "#1": 1,
     "Material 1": "old tire",
     "#2": "",
@@ -15902,6 +16432,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "traditional balancing toy",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBalancingtoy.png\")",
     "#1": 4,
     "Material 1": "acorn",
     "#2": 2,
@@ -15932,6 +16463,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "traditional straw coat",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexTopCoatLStrawBeige.png\")",
     "#1": 8,
     "Material 1": "clump of weeds",
     "#2": "",
@@ -15962,6 +16494,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "trash bags",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGarbagebag.png\")",
     "#1": 1,
     "Material 1": "empty can",
     "#2": 1,
@@ -15992,6 +16525,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tree branch wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathBranch.png\")",
     "#1": 10,
     "Material 1": "tree branch",
     "#2": "",
@@ -16022,6 +16556,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tree standee",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrHariboteTree.png\")",
     "#1": 5,
     "Material 1": "wood",
     "#2": 8,
@@ -16052,6 +16587,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tree-branch wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickTree.png\")",
     "#1": 5,
     "Material 1": "tree branch",
     "#2": 3,
@@ -16082,6 +16618,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tree's bounty arch",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrNutArch.png\")",
     "#1": 4,
     "Material 1": "pine cone",
     "#2": 5,
@@ -16112,6 +16649,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tree's bounty big tree",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrNutTreeL.png\")",
     "#1": 5,
     "Material 1": "pine cone",
     "#2": 4,
@@ -16142,6 +16680,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tree's bounty lamp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrNutLamp.png\")",
     "#1": 6,
     "Material 1": "acorn",
     "#2": 4,
@@ -16172,6 +16711,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tree's bounty little tree",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrNutTreeS.png\")",
     "#1": 6,
     "Material 1": "pine cone",
     "#2": 4,
@@ -16202,6 +16742,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tree's bounty mobile",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrNutMobile.png\")",
     "#1": 2,
     "Material 1": "pine cone",
     "#2": 3,
@@ -16232,6 +16773,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "trophy case",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTrophycase.png\")",
     "#1": 24,
     "Material 1": "hardwood",
     "#2": 3,
@@ -16262,6 +16804,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tropical vista",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallTropical00.png\")",
     "#1": 5,
     "Material 1": "summer shell",
     "#2": "",
@@ -16292,6 +16835,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tulip crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentTulip1.png\")",
     "#1": 2,
     "Material 1": "red tulips",
     "#2": 2,
@@ -16322,6 +16866,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tulip surprise box",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFlowerSurprisedbox.png\")",
     "#1": 5,
     "Material 1": "red tulips",
     "#2": 3,
@@ -16352,6 +16897,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tulip wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickTulip.png\")",
     "#1": 1,
     "Material 1": "red tulips",
     "#2": 3,
@@ -16382,6 +16928,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "tulip wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathTulip.png\")",
     "#1": 3,
     "Material 1": "red tulips",
     "#2": 3,
@@ -16412,6 +16959,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "ukulele",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrUkulele.png\")",
     "#1": 5,
     "Material 1": "hardwood",
     "#2": "",
@@ -16442,6 +16990,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "underwater flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpFloorFishTank00.png\")",
     "#1": 3,
     "Material 1": "summer shell",
     "#2": 3,
@@ -16472,6 +17021,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "underwater wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallFishTank00.png\")",
     "#1": 3,
     "Material 1": "summer shell",
     "#2": 5,
@@ -16502,6 +17052,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "unglazed dish set",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDishesUnglazed.png\")",
     "#1": 3,
     "Material 1": "clay",
     "#2": "",
@@ -16532,6 +17083,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "vaulting pole",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/LongWoodenStick.png\")",
     "#1": 5,
     "Material 1": "softwood",
     "#2": "",
@@ -16562,6 +17114,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "vertical-board fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceVerticalWood.png\")",
     "#1": 8,
     "Material 1": "wood",
     "#2": "",
@@ -16592,6 +17145,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "Virgo harp",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacVirgo.png\")",
     "#1": 3,
     "Material 1": "star fragment",
     "#2": 2,
@@ -16622,6 +17176,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickWood.png\")",
     "#1": 2,
     "Material 1": "star fragment",
     "#2": "",
@@ -16652,6 +17207,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "water flooring",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpFloorWater00.png\")",
     "#1": 6,
     "Material 1": "summer shell",
     "#2": "",
@@ -16682,6 +17238,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "water pump",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrHandpump.png\")",
     "#1": 2,
     "Material 1": "iron nugget",
     "#2": 6,
@@ -16712,6 +17269,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "water-egg outfit",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceRibNEggfish0.png\")",
     "#1": 3,
     "Material 1": "water egg",
     "#2": "",
@@ -16742,6 +17300,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "water-egg shell",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatEggfish0.png\")",
     "#1": 2,
     "Material 1": "water egg",
     "#2": "",
@@ -16772,6 +17331,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "water-egg shoes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ShoesLowcutEggfish0.png\")",
     "#1": 2,
     "Material 1": "water egg",
     "#2": "",
@@ -16802,6 +17362,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "watering can",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolWatering.png\")",
     "#1": 1,
     "Material 1": "flimsy watering can",
     "#2": 1,
@@ -16832,6 +17393,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wave breaker",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTetrapod.png\")",
     "#1": 10,
     "Material 1": "stone",
     "#2": 10,
@@ -16862,6 +17424,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wedding fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceJuneBride.png\")",
     "#1": 5,
     "Material 1": "iron nugget",
     "#2": 3,
@@ -16892,6 +17455,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wedding wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickJune.png\")",
     "#1": 1,
     "Material 1": "wedding flower stand",
     "#2": 3,
@@ -16922,6 +17486,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "western-style stone",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGravestoneEuropean.png\")",
     "#1": 30,
     "Material 1": "stone",
     "#2": "",
@@ -16952,6 +17517,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wild log bench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodBench.png\")",
     "#1": 8,
     "Material 1": "hardwood",
     "#2": "",
@@ -16982,6 +17548,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wild-wood wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallWildWood00.png\")",
     "#1": 15,
     "Material 1": "wood",
     "#2": "",
@@ -17012,6 +17579,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "windflower crown",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapOrnamentAnemone1.png\")",
     "#1": 2,
     "Material 1": "red windflowers",
     "#2": 2,
@@ -17042,6 +17610,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "windflower fan",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFlowerFan.png\")",
     "#1": 3,
     "Material 1": "red windflowers",
     "#2": 2,
@@ -17072,6 +17641,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "windflower wand",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickAnemones.png\")",
     "#1": 1,
     "Material 1": "orange windflowers",
     "#2": 3,
@@ -17102,6 +17672,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "windflower wreath",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathAnemone.png\")",
     "#1": 3,
     "Material 1": "red windflowers",
     "#2": 3,
@@ -17132,6 +17703,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wobbling Zipper toy",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrDollPyn.png\")",
     "#1": 4,
     "Material 1": "earth egg",
     "#2": 4,
@@ -17162,6 +17734,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wood-egg outfit",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/TopsTexOnepieceRibNEggforest0.png\")",
     "#1": 3,
     "Material 1": "wood egg",
     "#2": "",
@@ -17192,6 +17765,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wood-egg shell",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/CapHatEggforest0.png\")",
     "#1": 2,
     "Material 1": "wood egg",
     "#2": "",
@@ -17222,6 +17796,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wood-egg shoes",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ShoesLowcutEggforest0.png\")",
     "#1": 2,
     "Material 1": "wood egg",
     "#2": "",
@@ -17252,6 +17827,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden bookshelf",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBookshelf.png\")",
     "#1": 5,
     "Material 1": "book",
     "#2": 10,
@@ -17282,6 +17858,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden bucket",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBucketWood.png\")",
     "#1": 3,
     "Material 1": "wood",
     "#2": 1,
@@ -17312,6 +17889,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenChairS.png\")",
     "#1": 6,
     "Material 1": "wood",
     "#2": "",
@@ -17342,6 +17920,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden chest",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenChest.png\")",
     "#1": 16,
     "Material 1": "wood",
     "#2": "",
@@ -17372,6 +17951,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden double bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenBedW.png\")",
     "#1": 30,
     "Material 1": "wood",
     "#2": "",
@@ -17402,6 +17982,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden end table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenTableS.png\")",
     "#1": 8,
     "Material 1": "wood",
     "#2": "",
@@ -17432,6 +18013,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden fish",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrMokugyo.png\")",
     "#1": 3,
     "Material 1": "wood",
     "#2": "",
@@ -17462,6 +18044,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden full-length mirror",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenMirror.png\")",
     "#1": 5,
     "Material 1": "wood",
     "#2": 1,
@@ -17492,6 +18075,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden low table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenTableM.png\")",
     "#1": 10,
     "Material 1": "wood",
     "#2": "",
@@ -17522,6 +18106,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden mini table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenTableMini.png\")",
     "#1": 6,
     "Material 1": "wood",
     "#2": "",
@@ -17552,6 +18137,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden simple bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenBedS.png\")",
     "#1": 18,
     "Material 1": "wood",
     "#2": "",
@@ -17582,6 +18168,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden stool",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenStoolS.png\")",
     "#1": 4,
     "Material 1": "wood",
     "#2": "",
@@ -17612,6 +18199,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenTableL.png\")",
     "#1": 15,
     "Material 1": "wood",
     "#2": "",
@@ -17642,6 +18230,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden table mirror",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenMirrorS.png\")",
     "#1": 3,
     "Material 1": "wood",
     "#2": 1,
@@ -17672,6 +18261,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden toolbox",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrToolboxWood.png\")",
     "#1": 4,
     "Material 1": "softwood",
     "#2": 2,
@@ -17702,6 +18292,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden wardrobe",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodenCloset.png\")",
     "#1": 12,
     "Material 1": "wood",
     "#2": "",
@@ -17732,6 +18323,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden waste bin",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrTrashboxWood.png\")",
     "#1": 4,
     "Material 1": "wood",
     "#2": "",
@@ -17762,6 +18354,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-block bed",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockBedS.png\")",
     "#1": 1,
     "Material 1": "wooden-block toy",
     "#2": 17,
@@ -17792,6 +18385,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-block bench",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockChairL.png\")",
     "#1": 1,
     "Material 1": "wooden-block toy",
     "#2": 4,
@@ -17822,6 +18416,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-block bookshelf",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockShelf.png\")",
     "#1": 1,
     "Material 1": "wooden-block toy",
     "#2": 3,
@@ -17852,6 +18447,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-block chair",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockChairS.png\")",
     "#1": 1,
     "Material 1": "wooden-block toy",
     "#2": 3,
@@ -17882,6 +18478,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-block chest",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockChest.png\")",
     "#1": 1,
     "Material 1": "wooden-block toy",
     "#2": 12,
@@ -17912,6 +18509,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-block stereo",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockCompo.png\")",
     "#1": 1,
     "Material 1": "wooden-block toy",
     "#2": 5,
@@ -17942,6 +18540,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-block stool",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockStoolS.png\")",
     "#1": 1,
     "Material 1": "wooden-block toy",
     "#2": 2,
@@ -17972,6 +18571,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-block table",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockTableL.png\")",
     "#1": 1,
     "Material 1": "wooden-block toy",
     "#2": 8,
@@ -18002,6 +18602,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-block toy",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockBrick.png\")",
     "#1": 3,
     "Material 1": "softwood",
     "#2": "",
@@ -18032,6 +18633,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-block wall clock",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockClock.png\")",
     "#1": 1,
     "Material 1": "wooden-block toy",
     "#2": 2,
@@ -18062,6 +18664,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-knot wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallCedar00.png\")",
     "#1": 15,
     "Material 1": "hardwood",
     "#2": "",
@@ -18092,6 +18695,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-mosaic wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallMixPlankWood00.png\")",
     "#1": 15,
     "Material 1": "wood",
     "#2": "",
@@ -18122,6 +18726,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "wooden-plank sign",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrSignboardWood.png\")",
     "#1": 5,
     "Material 1": "hardwood",
     "#2": "",
@@ -18152,6 +18757,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "woodland wall",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallJukai00.png\")",
     "#1": 15,
     "Material 1": "clump of weeds",
     "#2": 9,
@@ -18182,6 +18788,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "yellow-leaf pile",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrFallenleavesYellow.png\")",
     "#1": 3,
     "Material 1": "acorn",
     "#2": 5,
@@ -18212,6 +18819,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "zen fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceJapanese.png\")",
     "#1": 3,
     "Material 1": "iron nugget",
     "#2": 3,
@@ -18242,6 +18850,7 @@
   {
     "SourceSheet": "Recipes",
     "Name": "zen-style stone",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/DIYRecipeIcon/FtrGravestoneJapan.png\")",
     "#1": 30,
     "Material 1": "stone",
     "#2": "",

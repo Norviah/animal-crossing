@@ -38,6 +38,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceEgg.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
@@ -250,6 +251,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo lattice fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceBamboo.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -350,6 +352,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "barbed-wire fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceBarbedWire.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -471,6 +474,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "brick fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceWallRenga.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -571,6 +575,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "corral fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceHorizontalWood.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -671,6 +676,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "country fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLog.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -771,6 +777,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hedge",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceIkegaki.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
@@ -913,6 +920,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "imperial fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceChinese.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -1034,6 +1042,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceSteel.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -1134,6 +1143,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron-and-stone fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceIronAndStone.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -1255,6 +1265,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lattice fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLatiiceNatural.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -1355,6 +1366,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rope fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFencePegRope.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -1455,6 +1467,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "simple wooden fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceNatural.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -1555,6 +1568,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "spiky fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceSharply.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -1655,6 +1669,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceStone.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -1755,6 +1770,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "straw fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceDriedStraw.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -1876,6 +1892,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "vertical-board fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceVerticalWood.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
@@ -1976,6 +1993,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wedding fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceJuneBride.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": null,
@@ -2097,6 +2115,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "zen fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceJapanese.png",
       "buy": -1,
       "sell": 200,
       "milesPrice": 1000,
