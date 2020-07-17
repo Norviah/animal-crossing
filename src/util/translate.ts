@@ -53,15 +53,15 @@ function findUniqueTranslation(name: string, sheets?: string[]): obj | null {
  * @param item The item to translate.
  */
 function translate(item: obj): void {
-  // Get the ID of the item, we can't get the internal ID of the item as we
-  // can't use that property for all items. For recipes, each recipe has an
-  // entry, craftedItemInternalId, which represents the internal ID of the
-  // item the recipe represents.
+  // We'll get the internal ID of the item, we can't literally use the
+  // internalId property as the internalId for some items are completely
+  // unrelated, so we'll get the specific ID for the item and use it to
+  // find a translation for the item.
 
-  // If the item isn't a recipe, we get the item's internal ID, but if that
-  // propery doesn't exist, we get the item's filename as some items use that
-  // as their internal ID, for example, villagers.
-  const id = item.craftedItemInternalId ?? item.internalId ?? item.filename;
+  // For example, for recipes, their internalId is completely unrelated, so
+  // we'll use the 'craftedItemInternalId' property as that represents the item
+  // that the recipe represents.
+  const id = item.npcId ?? item.craftedItemInternalId ?? item.internalId ?? item.filename;
 
   // Find every translation for the given internal ID.
   const options = translations.filter((translation) => translation.internalIds.includes(id));
