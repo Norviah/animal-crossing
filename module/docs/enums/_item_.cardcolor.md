@@ -27,7 +27,7 @@
 
 • **Beige**: = "beige"
 
-*Defined in [Item.ts:324](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L324)*
+*Defined in [Item.ts:324](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L324)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Blue**: = "blue"
 
-*Defined in [Item.ts:325](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L325)*
+*Defined in [Item.ts:325](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L325)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **Brick**: = "brick"
 
-*Defined in [Item.ts:326](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L326)*
+*Defined in [Item.ts:326](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L326)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **Brown**: = "brown"
 
-*Defined in [Item.ts:327](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L327)*
+*Defined in [Item.ts:327](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L327)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **DarkGray**: = "dark gray"
 
-*Defined in [Item.ts:328](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L328)*
+*Defined in [Item.ts:328](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L328)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **Gold**: = "gold"
 
-*Defined in [Item.ts:329](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L329)*
+*Defined in [Item.ts:329](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L329)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **Green**: = "green"
 
-*Defined in [Item.ts:330](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L330)*
+*Defined in [Item.ts:330](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L330)*
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 • **LightGray**: = "light gray"
 
-*Defined in [Item.ts:331](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L331)*
+*Defined in [Item.ts:331](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L331)*
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 • **Orange**: = "orange"
 
-*Defined in [Item.ts:332](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L332)*
+*Defined in [Item.ts:332](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L332)*
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 • **Pink**: = "pink"
 
-*Defined in [Item.ts:333](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L333)*
+*Defined in [Item.ts:333](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L333)*
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 • **Red**: = "red"
 
-*Defined in [Item.ts:334](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L334)*
+*Defined in [Item.ts:334](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L334)*
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 • **Silver**: = "silver"
 
-*Defined in [Item.ts:335](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L335)*
+*Defined in [Item.ts:335](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L335)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 • **White**: = "white"
 
-*Defined in [Item.ts:336](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L336)*
+*Defined in [Item.ts:336](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L336)*
 
 ___
 
@@ -131,4 +131,4 @@ ___
 
 • **Yellow**: = "yellow"
 
-*Defined in [Item.ts:337](https://github.com/Norviah/animal-crossing/blob/2672d28/module/types/Item.ts#L337)*
+*Defined in [Item.ts:337](https://github.com/Norviah/animal-crossing/blob/3bd87eb/module/types/Item.ts#L337)*
