@@ -65,6 +65,7 @@ export enum SourceSheet {
     Shells = "Shells",
     Shoes = "Shoes",
     Socks = "Socks",
+    SpecialNPCS = "Special NPCs",
     Tools = "Tools",
     Tops = "Tops",
     Umbrella = "Umbrella",
