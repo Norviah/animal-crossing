@@ -44,6 +44,7 @@ Along with types, for those using TypeScript:
   - `IRecipe`
   - `ITranslation`
   - `IVillager`
+  - `INPC`
 
 The names of all items are changed into camelCase, so they won't be same as shown on the spreadsheets. As for values, they're all changed in favor of JavaScript values, for example, `NA` is changed to `null`, `Yes`/`No` is changed to `true`/`false`, etc. If a value represents that the key does not relate to the item, an example being the key `Lighting Type` for the item `Acoustic Guitar`, the value will be changed to `null`. In addition, if a key can have multiple values, the values will be split and changed into an array.
 
