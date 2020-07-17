@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.1.0](https://github.com/Norviah/animal-crossing/compare/v6.0.0...v6.1.0) (2020-07-17)
+
+
+### Features
+
+* **npcs:** added support for the new spreadsheet: special npcs ([ba82ab6](https://github.com/Norviah/animal-crossing/commit/ba82ab6c9469d0e9ef96de1a92c376a1b94753f5))
+
 ## [6.0.0](https://github.com/Norviah/animal-crossing/compare/v5.2.0...v6.0.0) (2020-07-15)
 
 
