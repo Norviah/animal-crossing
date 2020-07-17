@@ -36,6 +36,7 @@ const categories = {
   Events: ['Events'],
   SouthernHemisphere: ['Southern Hemisphere'],
   NorthernHemisphere: ['Northern Hemisphere'],
+  NPCs: ['Special NPCs'],
 };
 
 export { categories };

@@ -13,6 +13,7 @@ import { Reaction as IReaction } from './types/Reaction';
 import { Recipe as IRecipe } from './types/Recipe';
 import { Translation as ITranslation } from './types/Translation';
 import { Villager as IVillager } from './types/Villager';
+import { Npc as INPC } from './types/NPC';
 
 // ---
 // SOURCE FILES
@@ -30,6 +31,7 @@ import Reactions from './data/Reactions.json';
 import Recipes from './data/Recipes.json';
 import Translations from './data/Translations.json';
 import Villagers from './data/Villagers.json';
+import NPCs from './data/NPCs.json';
 
 // ---
 // EXPORTS
@@ -47,6 +49,7 @@ export const reactions: IReaction[] = Reactions as IReaction[];
 export const recipes: IRecipe[] = (<unknown>Recipes) as IRecipe[];
 export const translations: ITranslation[] = Translations as ITranslation[];
 export const villagers: IVillager[] = Villagers as IVillager[];
+export const npcs: INPC[] = NPCs as INPC[];
 
 // ---
 // TYPES
@@ -64,4 +67,5 @@ export {
   IRecipe,
   ITranslation,
   IVillager,
+  INPC,
 };
