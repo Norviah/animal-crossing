@@ -31,6 +31,7 @@ The following items are available from this module:
   - `recipes`
   - `translations`
   - `villagers`
+  - `npcs`
 
 Along with types, for those using TypeScript:
   - `IAchievement`
