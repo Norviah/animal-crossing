@@ -110,6 +110,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatAlan0",
+        "clothGroupId": 1115,
         "internalId": 9864,
         "uniqueEntryId": "6Zi8WYr34D8niHAnC",
         "variantTranslations": {
@@ -138,6 +139,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatAlan1",
+        "clothGroupId": 1115,
         "internalId": 12045,
         "uniqueEntryId": "uFfoH47SuuTmAzaXG",
         "variantTranslations": {
@@ -166,6 +168,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatAlan3",
+        "clothGroupId": 1115,
         "internalId": 12047,
         "uniqueEntryId": "fnowt95fR7QRBrux7",
         "variantTranslations": {
@@ -194,6 +197,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatAlan2",
+        "clothGroupId": 1115,
         "internalId": 12046,
         "uniqueEntryId": "jeSebE2Y5fYhTj22k",
         "variantTranslations": {
@@ -243,6 +247,7 @@
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
     "filename": "CapOrnamentCEgg0",
+    "clothGroupId": 1201,
     "internalId": 12445,
     "uniqueEntryId": "22fHRtAozAf9F7KAP",
     "variantTranslations": null,
@@ -535,6 +540,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatDal0",
+    "clothGroupId": 1186,
     "internalId": 12132,
     "uniqueEntryId": "HmDxQzzqcLnkqBTAc",
     "variantTranslations": null,
@@ -740,6 +746,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapBangsHeadphone3",
+        "clothGroupId": 832,
         "internalId": 11538,
         "uniqueEntryId": "goCGnSxhi3dXDzWrb",
         "variantTranslations": {
@@ -768,6 +775,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapBangsHeadphone1",
+        "clothGroupId": 832,
         "internalId": 11536,
         "uniqueEntryId": "nSjJxHePsoxyZkCBv",
         "variantTranslations": {
@@ -796,6 +804,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapBangsHeadphone2",
+        "clothGroupId": 832,
         "internalId": 11537,
         "uniqueEntryId": "5p3Q6mLEqr2CC7zRS",
         "variantTranslations": {
@@ -824,6 +833,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapBangsHeadphone0",
+        "clothGroupId": 832,
         "internalId": 5682,
         "uniqueEntryId": "m2A9G6oaXagTxdqBL",
         "variantTranslations": {
@@ -961,6 +971,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatKatecap1",
+        "clothGroupId": 1131,
         "internalId": 11746,
         "uniqueEntryId": "7p2osKzqpSv8TSz5D",
         "variantTranslations": null,
@@ -973,6 +984,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatKatecap2",
+        "clothGroupId": 1131,
         "internalId": 11747,
         "uniqueEntryId": "5oGF5aQ5C4hJfqRm2",
         "variantTranslations": null,
@@ -985,6 +997,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatKatecap5",
+        "clothGroupId": 1131,
         "internalId": 11750,
         "uniqueEntryId": "fp3vkAthEFWPXhx6i",
         "variantTranslations": null,
@@ -997,6 +1010,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatKatecap4",
+        "clothGroupId": 1131,
         "internalId": 11749,
         "uniqueEntryId": "7ofiXbFhJzfzaiTn6",
         "variantTranslations": null,
@@ -1009,6 +1023,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatKatecap3",
+        "clothGroupId": 1131,
         "internalId": 11748,
         "uniqueEntryId": "RqpPoEjZ9jMYHcWZP",
         "variantTranslations": null,
@@ -1021,6 +1036,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatKatecap0",
+        "clothGroupId": 1131,
         "internalId": 9880,
         "uniqueEntryId": "ztboDBEmkeSqzkZyf",
         "variantTranslations": null,
@@ -1163,6 +1179,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatKatehat1",
+        "clothGroupId": 1132,
         "internalId": 11751,
         "uniqueEntryId": "dkk6nawDAJhEtQHWv",
         "variantTranslations": null,
@@ -1175,6 +1192,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatKatehat2",
+        "clothGroupId": 1132,
         "internalId": 11752,
         "uniqueEntryId": "ZasJY8MyebqqXFqKW",
         "variantTranslations": null,
@@ -1187,6 +1205,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatKatehat5",
+        "clothGroupId": 1132,
         "internalId": 11755,
         "uniqueEntryId": "PN3nhWn3rXBGdJomB",
         "variantTranslations": null,
@@ -1199,6 +1218,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatKatehat4",
+        "clothGroupId": 1132,
         "internalId": 11754,
         "uniqueEntryId": "5fq7piPdz5rGNgBaP",
         "variantTranslations": null,
@@ -1211,6 +1231,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatKatehat3",
+        "clothGroupId": 1132,
         "internalId": 11753,
         "uniqueEntryId": "KGGqRzqpiddo5Czxw",
         "variantTranslations": null,
@@ -1223,6 +1244,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatKatehat0",
+        "clothGroupId": 1132,
         "internalId": 9881,
         "uniqueEntryId": "wGQfizPwiTjbeNxDs",
         "variantTranslations": null,
@@ -1323,6 +1345,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatNewyearRed",
+        "clothGroupId": 550,
         "internalId": 4799,
         "uniqueEntryId": "mRkejbn9CwDxWTD8v",
         "variantTranslations": {
@@ -1351,6 +1374,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatNewyearPink",
+        "clothGroupId": 550,
         "internalId": 5191,
         "uniqueEntryId": "JHAzmuxhiGZG5xJzv",
         "variantTranslations": {
@@ -1379,6 +1403,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatNewyearOrange",
+        "clothGroupId": 550,
         "internalId": 5189,
         "uniqueEntryId": "2jcPz9T4E5CHeytdR",
         "variantTranslations": {
@@ -1407,6 +1432,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatNewyearYellow",
+        "clothGroupId": 550,
         "internalId": 5187,
         "uniqueEntryId": "4P3oKZ7N4xXbHKcHD",
         "variantTranslations": {
@@ -1435,6 +1461,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatNewyearGreen",
+        "clothGroupId": 550,
         "internalId": 5188,
         "uniqueEntryId": "STBytwCasPPX5vfWn",
         "variantTranslations": {
@@ -1463,6 +1490,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatNewyearLightblue",
+        "clothGroupId": 550,
         "internalId": 5192,
         "uniqueEntryId": "zDsxniwxCt7Lyb2Aa",
         "variantTranslations": {
@@ -1491,6 +1519,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatNewyearBlue",
+        "clothGroupId": 550,
         "internalId": 5186,
         "uniqueEntryId": "Eo5LXf3XdqiQyRyv9",
         "variantTranslations": {
@@ -1519,6 +1548,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatNewyearPurple",
+        "clothGroupId": 550,
         "internalId": 5190,
         "uniqueEntryId": "B7pexDLSa7ZxqCRx2",
         "variantTranslations": {
@@ -1635,6 +1665,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatNewyearsilkRed",
+        "clothGroupId": 910,
         "internalId": 5946,
         "uniqueEntryId": "4gvYY4rPwuzRbaMXQ",
         "variantTranslations": {
@@ -1663,6 +1694,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatNewyearsilkPink",
+        "clothGroupId": 910,
         "internalId": 5952,
         "uniqueEntryId": "4KbWNw4jwLokepjDz",
         "variantTranslations": {
@@ -1691,6 +1723,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatNewyearsilkOrange",
+        "clothGroupId": 910,
         "internalId": 5950,
         "uniqueEntryId": "s2Q4sYtm9FQzx8L95",
         "variantTranslations": {
@@ -1719,6 +1752,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatNewyearsilkYellow",
+        "clothGroupId": 910,
         "internalId": 5948,
         "uniqueEntryId": "k8tKF4tYi5ZejnpTb",
         "variantTranslations": {
@@ -1747,6 +1781,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatNewyearsilkGreen",
+        "clothGroupId": 910,
         "internalId": 5949,
         "uniqueEntryId": "gF3HgnhNTRHXjaw7B",
         "variantTranslations": {
@@ -1775,6 +1810,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatNewyearsilkLightblue",
+        "clothGroupId": 910,
         "internalId": 5953,
         "uniqueEntryId": "YsNhinT3gy8CYuB4d",
         "variantTranslations": {
@@ -1803,6 +1839,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatNewyearsilkBlue",
+        "clothGroupId": 910,
         "internalId": 5947,
         "uniqueEntryId": "D3oDFZZsBaBoJ9NeJ",
         "variantTranslations": {
@@ -1831,6 +1868,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatNewyearsilkPurple",
+        "clothGroupId": 910,
         "internalId": 5951,
         "uniqueEntryId": "SY9weEDnd4egCfKts",
         "variantTranslations": {
@@ -1880,6 +1918,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapMaskNomenWhite",
+    "clothGroupId": 919,
     "internalId": 6036,
     "uniqueEntryId": "g5HMKByrRY6yupb25",
     "variantTranslations": null,
@@ -1976,6 +2015,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatBandanaRco",
+    "clothGroupId": 1143,
     "internalId": 5628,
     "uniqueEntryId": "uPbBLGqqSiTSKdsap",
     "variantTranslations": null,
@@ -2072,6 +2112,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatMeshcapRco",
+    "clothGroupId": 1142,
     "internalId": 5627,
     "uniqueEntryId": "M6ZPhdcjGPvRGtDCS",
     "variantTranslations": null,
@@ -2168,6 +2209,7 @@
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0",
     "filename": "CapHatOkmotors0",
+    "clothGroupId": 1192,
     "internalId": 12424,
     "uniqueEntryId": "EfqFMvapb35xaDsnk",
     "variantTranslations": null,
@@ -2310,6 +2352,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatAcorn3",
+        "clothGroupId": 670,
         "internalId": 10935,
         "uniqueEntryId": "EfbMmL5YGZYtZNgHe",
         "variantTranslations": {
@@ -2338,6 +2381,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapHatAcorn1",
+        "clothGroupId": 670,
         "internalId": 10933,
         "uniqueEntryId": "ezAwHKyeN45mGvvpH",
         "variantTranslations": null,
@@ -2350,6 +2394,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatAcorn2",
+        "clothGroupId": 670,
         "internalId": 10934,
         "uniqueEntryId": "we44e3C8foQySY2y7",
         "variantTranslations": {
@@ -2378,6 +2423,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatAcorn4",
+        "clothGroupId": 670,
         "internalId": 10936,
         "uniqueEntryId": "FYrdavXDtZWRQ2MqQ",
         "variantTranslations": {
@@ -2406,6 +2452,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatAcorn0",
+        "clothGroupId": 670,
         "internalId": 5315,
         "uniqueEntryId": "awiucsYWz5zP8GpRg",
         "variantTranslations": null,
@@ -2418,6 +2465,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatAcorn5",
+        "clothGroupId": 670,
         "internalId": 10937,
         "uniqueEntryId": "XTXWXam7Wjt59MTr8",
         "variantTranslations": {
@@ -2534,6 +2582,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatTyrolean2",
+        "clothGroupId": 658,
         "internalId": 11885,
         "uniqueEntryId": "mKejTXKMxXnRBkk4B",
         "variantTranslations": {
@@ -2562,6 +2611,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatTyrolean0",
+        "clothGroupId": 658,
         "internalId": 5295,
         "uniqueEntryId": "mYej2cYc7x6mGC8Dj",
         "variantTranslations": {
@@ -2590,6 +2640,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatTyrolean1",
+        "clothGroupId": 658,
         "internalId": 11884,
         "uniqueEntryId": "e45yoPx7fjTd9cSwk",
         "variantTranslations": {
@@ -2639,6 +2690,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatKanboBlack",
+    "clothGroupId": 929,
     "internalId": 6048,
     "uniqueEntryId": "BNBBbdP7uZbY2r3zw",
     "variantTranslations": null,
@@ -2735,6 +2787,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatApple0",
+    "clothGroupId": 1122,
     "internalId": 9871,
     "uniqueEntryId": "rEpxF8jscsm4fwjSf",
     "variantTranslations": null,
@@ -2961,6 +3014,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapBangsBonnet4",
+        "clothGroupId": 707,
         "internalId": 11856,
         "uniqueEntryId": "wyPrRhtyyMtn7Hy3Y",
         "variantTranslations": null,
@@ -2973,6 +3027,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapBangsBonnet1",
+        "clothGroupId": 707,
         "internalId": 11853,
         "uniqueEntryId": "5939Ws882wTSv7sJK",
         "variantTranslations": null,
@@ -2985,6 +3040,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapBangsBonnet7",
+        "clothGroupId": 707,
         "internalId": 11859,
         "uniqueEntryId": "Pf6AxNWkC8D4BBoEN",
         "variantTranslations": null,
@@ -2997,6 +3053,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapBangsBonnet2",
+        "clothGroupId": 707,
         "internalId": 11854,
         "uniqueEntryId": "qk3PJdK2SZK4vsFKo",
         "variantTranslations": null,
@@ -3009,6 +3066,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapBangsBonnet3",
+        "clothGroupId": 707,
         "internalId": 11855,
         "uniqueEntryId": "hADTfx6Y2hKri4obE",
         "variantTranslations": null,
@@ -3021,6 +3079,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapBangsBonnet0",
+        "clothGroupId": 707,
         "internalId": 5363,
         "uniqueEntryId": "rv9rW8dCfB8k73Hzr",
         "variantTranslations": null,
@@ -3033,6 +3092,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapBangsBonnet6",
+        "clothGroupId": 707,
         "internalId": 11858,
         "uniqueEntryId": "qHj5WWwZRstJtjP2d",
         "variantTranslations": null,
@@ -3045,6 +3105,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapBangsBonnet5",
+        "clothGroupId": 707,
         "internalId": 11857,
         "uniqueEntryId": "7FLgET2RH6aejsb8v",
         "variantTranslations": null,
@@ -3145,6 +3206,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatBalloon1",
+        "clothGroupId": 689,
         "internalId": 11050,
         "uniqueEntryId": "rWRnH9TkRg3o9xDJQ",
         "variantTranslations": {
@@ -3173,6 +3235,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatBalloon3",
+        "clothGroupId": 689,
         "internalId": 11052,
         "uniqueEntryId": "CwDPA4FeLvQ44QncE",
         "variantTranslations": {
@@ -3201,6 +3264,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatBalloon2",
+        "clothGroupId": 689,
         "internalId": 11051,
         "uniqueEntryId": "oKbK2uhkLaQaRnpWW",
         "variantTranslations": {
@@ -3229,6 +3293,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatBalloon0",
+        "clothGroupId": 689,
         "internalId": 5340,
         "uniqueEntryId": "Y2LX2RKY9fu4DtjFs",
         "variantTranslations": {
@@ -3278,6 +3343,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatAjiroBeige",
+    "clothGroupId": 594,
     "internalId": 5143,
     "uniqueEntryId": "ehxYwYvtXQ5wyi3pQ",
     "variantTranslations": null,
@@ -3437,6 +3503,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentTBarrette0",
+    "clothGroupId": 1111,
     "internalId": 9860,
     "uniqueEntryId": "BK2NAfuYfrr4womPM",
     "variantTranslations": null,
@@ -3642,6 +3709,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatBaseball3",
+        "clothGroupId": 1061,
         "internalId": 12094,
         "uniqueEntryId": "HE8xZkXbRspp6qgoE",
         "variantTranslations": {
@@ -3670,6 +3738,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatBaseball4",
+        "clothGroupId": 1061,
         "internalId": 12095,
         "uniqueEntryId": "rci5SRCfQ3Hre9vsT",
         "variantTranslations": {
@@ -3698,6 +3767,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatBaseball0",
+        "clothGroupId": 1061,
         "internalId": 9763,
         "uniqueEntryId": "Yt7QudxePYGMbwcWt",
         "variantTranslations": {
@@ -3726,6 +3796,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatBaseball2",
+        "clothGroupId": 1061,
         "internalId": 12093,
         "uniqueEntryId": "xYaGzJECou3ALoBz4",
         "variantTranslations": {
@@ -3754,6 +3825,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatBaseball1",
+        "clothGroupId": 1061,
         "internalId": 12092,
         "uniqueEntryId": "PomndWn5sqv7fZ86a",
         "variantTranslations": {
@@ -3870,6 +3942,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHelmetBaseball3",
+        "clothGroupId": 709,
         "internalId": 11598,
         "uniqueEntryId": "ohKfr9GPDP7QdRSnC",
         "variantTranslations": {
@@ -3898,6 +3971,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHelmetBaseball4",
+        "clothGroupId": 709,
         "internalId": 11599,
         "uniqueEntryId": "4bFJaJ5S9qqevW4sx",
         "variantTranslations": {
@@ -3926,6 +4000,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHelmetBaseball0",
+        "clothGroupId": 709,
         "internalId": 5366,
         "uniqueEntryId": "5YfnKAsTFYFEyGCJb",
         "variantTranslations": {
@@ -3954,6 +4029,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHelmetBaseball2",
+        "clothGroupId": 709,
         "internalId": 11597,
         "uniqueEntryId": "GfWeB9jgoCTfuG9Lv",
         "variantTranslations": {
@@ -3982,6 +4058,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHelmetBaseball1",
+        "clothGroupId": 709,
         "internalId": 11596,
         "uniqueEntryId": "zRQ6hi9FeiQcLXwzH",
         "variantTranslations": {
@@ -4119,6 +4196,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapBangsBear0",
+        "clothGroupId": 682,
         "internalId": 5330,
         "uniqueEntryId": "qmkSD7yKDpFvdxcPK",
         "variantTranslations": {
@@ -4147,6 +4225,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapBangsBear1",
+        "clothGroupId": 682,
         "internalId": 11704,
         "uniqueEntryId": "6Lrqy6EP9zYBc9Cvj",
         "variantTranslations": {
@@ -4175,6 +4254,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapBangsBear2",
+        "clothGroupId": 682,
         "internalId": 11705,
         "uniqueEntryId": "CK638wXoN5uPsRbYJ",
         "variantTranslations": {
@@ -4203,6 +4283,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapBangsBear3",
+        "clothGroupId": 682,
         "internalId": 11706,
         "uniqueEntryId": "MfoAxTnsMmTQBic6g",
         "variantTranslations": {
@@ -4340,6 +4421,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatBeret5",
+        "clothGroupId": 636,
         "internalId": 11527,
         "uniqueEntryId": "4cJGWuLDDa2emHT9H",
         "variantTranslations": {
@@ -4368,6 +4450,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapHatBeret4",
+        "clothGroupId": 636,
         "internalId": 11526,
         "uniqueEntryId": "RumHCxfL5TsdeSodA",
         "variantTranslations": {
@@ -4396,6 +4479,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatBeret0",
+        "clothGroupId": 636,
         "internalId": 5260,
         "uniqueEntryId": "iPsbB4mbQ899q2j57",
         "variantTranslations": {
@@ -4424,6 +4508,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatBeret3",
+        "clothGroupId": 636,
         "internalId": 11525,
         "uniqueEntryId": "gW77mBgBYahG3WcYf",
         "variantTranslations": null,
@@ -4436,6 +4521,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatBeret2",
+        "clothGroupId": 636,
         "internalId": 11524,
         "uniqueEntryId": "39uW3hcrPpBpudJrm",
         "variantTranslations": {
@@ -4464,6 +4550,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatBeret1",
+        "clothGroupId": 636,
         "internalId": 11523,
         "uniqueEntryId": "9CLccmJpKhs7z7GsP",
         "variantTranslations": {
@@ -4559,6 +4646,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatCyclemet2",
+        "clothGroupId": 645,
         "internalId": 10220,
         "uniqueEntryId": "QDn7xQHdWZ6xPh3BT",
         "variantTranslations": {
@@ -4587,6 +4675,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatCyclemet7",
+        "clothGroupId": 645,
         "internalId": 10225,
         "uniqueEntryId": "RZCHqdZeoMmDoGm4m",
         "variantTranslations": {
@@ -4615,6 +4704,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatCyclemet5",
+        "clothGroupId": 645,
         "internalId": 10223,
         "uniqueEntryId": "4GFrms76iFwwqSCkm",
         "variantTranslations": {
@@ -4643,6 +4733,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatCyclemet3",
+        "clothGroupId": 645,
         "internalId": 10221,
         "uniqueEntryId": "mM2hGRaCP5ZaDdab6",
         "variantTranslations": {
@@ -4671,6 +4762,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatCyclemet4",
+        "clothGroupId": 645,
         "internalId": 10222,
         "uniqueEntryId": "qqDW5HCEQdMJx5H5B",
         "variantTranslations": {
@@ -4699,6 +4791,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatCyclemet0",
+        "clothGroupId": 645,
         "internalId": 5282,
         "uniqueEntryId": "kWrRgRFJ8PYExJvL6",
         "variantTranslations": {
@@ -4727,6 +4820,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatCyclemet1",
+        "clothGroupId": 645,
         "internalId": 10219,
         "uniqueEntryId": "tXGWFr2hrkQg6XgKy",
         "variantTranslations": {
@@ -4755,6 +4849,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatCyclemet6",
+        "clothGroupId": 645,
         "internalId": 10224,
         "uniqueEntryId": "D2BTXoTXvvGwzyyuF",
         "variantTranslations": {
@@ -4850,6 +4945,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatBirthday2",
+        "clothGroupId": 551,
         "internalId": 11032,
         "uniqueEntryId": "SHSKySrv2c9QJHFbt",
         "variantTranslations": {
@@ -4878,6 +4974,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatBirthday1",
+        "clothGroupId": 551,
         "internalId": 11031,
         "uniqueEntryId": "KxQKjRzS2zDaXTS38",
         "variantTranslations": {
@@ -4906,6 +5003,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatBirthday0",
+        "clothGroupId": 551,
         "internalId": 4800,
         "uniqueEntryId": "zndsngwExKbWTahZf",
         "variantTranslations": {
@@ -4955,6 +5053,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentRose4",
+    "clothGroupId": 959,
     "internalId": 7377,
     "uniqueEntryId": "FMTDb2CYPMNxEfjTu",
     "variantTranslations": null,
@@ -5223,6 +5322,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatBowler3",
+        "clothGroupId": 659,
         "internalId": 10884,
         "uniqueEntryId": "DXBymHgCPFMRd9ruP",
         "variantTranslations": {
@@ -5251,6 +5351,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatBowler4",
+        "clothGroupId": 659,
         "internalId": 10885,
         "uniqueEntryId": "S6CNHQKo3qjp4rYvW",
         "variantTranslations": {
@@ -5279,6 +5380,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatBowler2",
+        "clothGroupId": 659,
         "internalId": 10883,
         "uniqueEntryId": "X7h5XGKTRyvZYhKvz",
         "variantTranslations": {
@@ -5307,6 +5409,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatBowler0",
+        "clothGroupId": 659,
         "internalId": 5296,
         "uniqueEntryId": "WERjZwsMPdiWTSW75",
         "variantTranslations": {
@@ -5335,6 +5438,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatBowler1",
+        "clothGroupId": 659,
         "internalId": 10882,
         "uniqueEntryId": "Zw2YFExjKxhPLh8m9",
         "variantTranslations": {
@@ -5384,6 +5488,7 @@
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
     "filename": "CapWigWedding",
+    "clothGroupId": 830,
     "internalId": 5692,
     "uniqueEntryId": "8bavS95pnPk55RWhq",
     "variantTranslations": null,
@@ -5568,6 +5673,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapWigDoublebun3",
+        "clothGroupId": 831,
         "internalId": 11890,
         "uniqueEntryId": "iHzbGt8cd8noNaNhK",
         "variantTranslations": {
@@ -5596,6 +5702,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapWigDoublebun0",
+        "clothGroupId": 831,
         "internalId": 5693,
         "uniqueEntryId": "3dY6G9juEFXKBWDjL",
         "variantTranslations": {
@@ -5624,6 +5731,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapWigDoublebun6",
+        "clothGroupId": 831,
         "internalId": 11893,
         "uniqueEntryId": "Xi5zbpjv8DuMCGhSg",
         "variantTranslations": {
@@ -5652,6 +5760,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "CapWigDoublebun2",
+        "clothGroupId": 831,
         "internalId": 11889,
         "uniqueEntryId": "cLo5L7JBf2GSajf58",
         "variantTranslations": null,
@@ -5664,6 +5773,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapWigDoublebun5",
+        "clothGroupId": 831,
         "internalId": 11892,
         "uniqueEntryId": "MaH5ns6crjCLnh4Xv",
         "variantTranslations": {
@@ -5692,6 +5802,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapWigDoublebun1",
+        "clothGroupId": 831,
         "internalId": 11888,
         "uniqueEntryId": "SyzZ7uDqxmmvT5oWR",
         "variantTranslations": {
@@ -5720,6 +5831,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapWigDoublebun4",
+        "clothGroupId": 831,
         "internalId": 11891,
         "uniqueEntryId": "EB9fqNu8wNpRwg8j7",
         "variantTranslations": {
@@ -5857,6 +5969,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentFBunny0",
+        "clothGroupId": 952,
         "internalId": 7209,
         "uniqueEntryId": "guAKXMvkQjACjCeko",
         "variantTranslations": {
@@ -5885,6 +5998,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentFBunny2",
+        "clothGroupId": 952,
         "internalId": 11903,
         "uniqueEntryId": "Cp6KkLFeWf2ZjrxGG",
         "variantTranslations": {
@@ -5913,6 +6027,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapOrnamentFBunny1",
+        "clothGroupId": 952,
         "internalId": 11902,
         "uniqueEntryId": "ejbHqhzuDWKeRTJHB",
         "variantTranslations": {
@@ -5941,6 +6056,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapOrnamentFBunny3",
+        "clothGroupId": 952,
         "internalId": 11904,
         "uniqueEntryId": "vEGFBZeC8cs8uSHYX",
         "variantTranslations": {
@@ -6057,6 +6173,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapBangsRabbit2",
+        "clothGroupId": 677,
         "internalId": 11701,
         "uniqueEntryId": "yspHESBTkZq8CtqQ2",
         "variantTranslations": {
@@ -6085,6 +6202,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapBangsRabbit0",
+        "clothGroupId": 677,
         "internalId": 5325,
         "uniqueEntryId": "kAc5WJ4RdbdwRZviu",
         "variantTranslations": {
@@ -6113,6 +6231,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapBangsRabbit1",
+        "clothGroupId": 677,
         "internalId": 11700,
         "uniqueEntryId": "56pSbKmverxwgoWyA",
         "variantTranslations": {
@@ -6162,6 +6281,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatCaptainWhite",
+    "clothGroupId": 684,
     "internalId": 5332,
     "uniqueEntryId": "hKr3Y4nRnRQQji93W",
     "variantTranslations": null,
@@ -6346,6 +6466,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapBangsCat2",
+        "clothGroupId": 678,
         "internalId": 11703,
         "uniqueEntryId": "vHB8gJoaSPoCJGkLz",
         "variantTranslations": {
@@ -6374,6 +6495,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapBangsCat0",
+        "clothGroupId": 678,
         "internalId": 5326,
         "uniqueEntryId": "CJzRXGT2fjMnB3Rgh",
         "variantTranslations": {
@@ -6402,6 +6524,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapBangsCat1",
+        "clothGroupId": 678,
         "internalId": 11702,
         "uniqueEntryId": "dsjqz48SY6TcQ7X7e",
         "variantTranslations": {
@@ -6518,6 +6641,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapFullfaceCatcher3",
+        "clothGroupId": 931,
         "internalId": 11602,
         "uniqueEntryId": "FiRH6PxvgXwf7RXFL",
         "variantTranslations": {
@@ -6546,6 +6670,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapFullfaceCatcher4",
+        "clothGroupId": 931,
         "internalId": 11603,
         "uniqueEntryId": "c9D7iWahWWuwwBhWm",
         "variantTranslations": {
@@ -6574,6 +6699,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapFullfaceCatcher0",
+        "clothGroupId": 931,
         "internalId": 6050,
         "uniqueEntryId": "8zmdbp2tBykZTALsA",
         "variantTranslations": {
@@ -6602,6 +6728,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapFullfaceCatcher2",
+        "clothGroupId": 931,
         "internalId": 11601,
         "uniqueEntryId": "nP3Qibz6spPJjfzuf",
         "variantTranslations": {
@@ -6630,6 +6757,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapFullfaceCatcher1",
+        "clothGroupId": 931,
         "internalId": 11600,
         "uniqueEntryId": "T5gi3Ez88i5d6CGsS",
         "variantTranslations": {
@@ -6746,6 +6874,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatCavalier1",
+        "clothGroupId": 816,
         "internalId": 11807,
         "uniqueEntryId": "jpuz4JgbGnmndBnrF",
         "variantTranslations": {
@@ -6774,6 +6903,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatCavalier2",
+        "clothGroupId": 816,
         "internalId": 11808,
         "uniqueEntryId": "7Hsa64WDuBsf9EWNk",
         "variantTranslations": {
@@ -6802,6 +6932,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatCavalier0",
+        "clothGroupId": 816,
         "internalId": 5663,
         "uniqueEntryId": "LiyDo5B8daue2r4yx",
         "variantTranslations": {
@@ -6851,6 +6982,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatCockWhite",
+    "clothGroupId": 591,
     "internalId": 5140,
     "uniqueEntryId": "nEKEfN4THZSYy2Fam",
     "variantTranslations": null,
@@ -6926,6 +7058,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatCherry0",
+    "clothGroupId": 1124,
     "internalId": 9873,
     "uniqueEntryId": "zAezFwCd6zTXDiLmH",
     "variantTranslations": null,
@@ -7106,6 +7239,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentMum2",
+    "clothGroupId": 574,
     "internalId": 5118,
     "uniqueEntryId": "k3yYLEyKr9hmD482c",
     "variantTranslations": null,
@@ -7307,6 +7441,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentRose3",
+    "clothGroupId": 569,
     "internalId": 5113,
     "uniqueEntryId": "AFGYn6gsbgZv7hR7h",
     "variantTranslations": null,
@@ -7508,6 +7643,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentTulip2",
+    "clothGroupId": 559,
     "internalId": 5103,
     "uniqueEntryId": "egj5MuWKmQwuikuhY",
     "variantTranslations": null,
@@ -7730,6 +7866,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHelmetCoinGold",
+    "clothGroupId": 1010,
     "internalId": 6091,
     "uniqueEntryId": "gZaTz678JajwxN46E",
     "variantTranslations": null,
@@ -7872,6 +8009,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatColorful0",
+        "clothGroupId": 725,
         "internalId": 5409,
         "uniqueEntryId": "9g2SAsCcRPBDN3a98",
         "variantTranslations": {
@@ -7900,6 +8038,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatColorful3",
+        "clothGroupId": 725,
         "internalId": 10959,
         "uniqueEntryId": "5umtCd4PB35mTEBfk",
         "variantTranslations": {
@@ -7928,6 +8067,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatColorful2",
+        "clothGroupId": 725,
         "internalId": 10958,
         "uniqueEntryId": "JvH9LbcQAaF3dFonA",
         "variantTranslations": {
@@ -7956,6 +8096,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatColorful5",
+        "clothGroupId": 725,
         "internalId": 10961,
         "uniqueEntryId": "Q2bPLK8wsnwGPMxN9",
         "variantTranslations": {
@@ -7984,6 +8125,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatColorful1",
+        "clothGroupId": 725,
         "internalId": 10957,
         "uniqueEntryId": "MNneFtRkQ4zH3N8TD",
         "variantTranslations": {
@@ -8012,6 +8154,7 @@
         "mannequinPiece": true,
         "sortOrder": 6,
         "filename": "CapHatColorful4",
+        "clothGroupId": 725,
         "internalId": 10960,
         "uniqueEntryId": "kjWy2e4uNkWHZ3o3p",
         "variantTranslations": {
@@ -8107,6 +8250,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatCombat1",
+        "clothGroupId": 671,
         "internalId": 10226,
         "uniqueEntryId": "4xSCqGw5N8a9AxF6i",
         "variantTranslations": {
@@ -8135,6 +8279,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatCombat0",
+        "clothGroupId": 671,
         "internalId": 5316,
         "uniqueEntryId": "bThWbsCsNjRFycArk",
         "variantTranslations": {
@@ -8184,6 +8329,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHelmetMusicBlack",
+    "clothGroupId": 837,
     "internalId": 5696,
     "uniqueEntryId": "kmehP3Am6XP3sH2KN",
     "variantTranslations": null,
@@ -8343,6 +8489,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentHyacinth2",
+    "clothGroupId": 553,
     "internalId": 5097,
     "uniqueEntryId": "95vRHFGEYo5ZGQssX",
     "variantTranslations": null,
@@ -8565,6 +8712,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentPansy2",
+    "clothGroupId": 562,
     "internalId": 5106,
     "uniqueEntryId": "GyeNhCRzLNF33hKqh",
     "variantTranslations": null,
@@ -8766,6 +8914,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentAnemone2",
+    "clothGroupId": 556,
     "internalId": 5100,
     "uniqueEntryId": "8gj25M44duF3QM6Cu",
     "variantTranslations": null,
@@ -8967,6 +9116,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentCosmos1",
+    "clothGroupId": 564,
     "internalId": 5108,
     "uniqueEntryId": "jF2NZPn7WLhoNzDic",
     "variantTranslations": null,
@@ -9189,6 +9339,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentAQueen0",
+    "clothGroupId": 1014,
     "internalId": 8000,
     "uniqueEntryId": "HsmAmzyoymYTYqKFg",
     "variantTranslations": null,
@@ -9327,6 +9478,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentYuri2",
+    "clothGroupId": 571,
     "internalId": 5115,
     "uniqueEntryId": "7asbWZybHzvF3zE7j",
     "variantTranslations": null,
@@ -9549,6 +9701,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentRose2",
+    "clothGroupId": 568,
     "internalId": 5112,
     "uniqueEntryId": "Fj9YYwxNxHsQEy9vv",
     "variantTranslations": null,
@@ -9817,6 +9970,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatCycle0",
+        "clothGroupId": 633,
         "internalId": 5257,
         "uniqueEntryId": "3E8cqPTbQkn6s782m",
         "variantTranslations": {
@@ -9845,6 +9999,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatCycle3",
+        "clothGroupId": 633,
         "internalId": 11670,
         "uniqueEntryId": "r6hDFg37Hgnjd5vTd",
         "variantTranslations": null,
@@ -9857,6 +10012,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatCycle2",
+        "clothGroupId": 633,
         "internalId": 11669,
         "uniqueEntryId": "TpW8PjjyqbTLYpSPi",
         "variantTranslations": {
@@ -9885,6 +10041,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatCycle5",
+        "clothGroupId": 633,
         "internalId": 11672,
         "uniqueEntryId": "joTipBDN2YiPMpAe4",
         "variantTranslations": {
@@ -9913,6 +10070,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatCycle7",
+        "clothGroupId": 633,
         "internalId": 11674,
         "uniqueEntryId": "Gqg3MTGrfcxQEzgDw",
         "variantTranslations": null,
@@ -9925,6 +10083,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatCycle4",
+        "clothGroupId": 633,
         "internalId": 11671,
         "uniqueEntryId": "GFa3NnPb5qaci6X8N",
         "variantTranslations": null,
@@ -9937,6 +10096,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatCycle1",
+        "clothGroupId": 633,
         "internalId": 11668,
         "uniqueEntryId": "nyyNBZsvn3jwbZ4Gd",
         "variantTranslations": null,
@@ -9949,6 +10109,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatCycle6",
+        "clothGroupId": 633,
         "internalId": 11673,
         "uniqueEntryId": "atXoAhZPftSWwfuNn",
         "variantTranslations": null,
@@ -10028,6 +10189,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatCasquette5",
+        "clothGroupId": 685,
         "internalId": 11535,
         "uniqueEntryId": "4mb7j2hfguEA5wZ5k",
         "variantTranslations": {
@@ -10056,6 +10218,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapHatCasquette4",
+        "clothGroupId": 685,
         "internalId": 11534,
         "uniqueEntryId": "wQ6Su5qGTyjJmy5g4",
         "variantTranslations": {
@@ -10084,6 +10247,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatCasquette2",
+        "clothGroupId": 685,
         "internalId": 11532,
         "uniqueEntryId": "HbA8YckX9QtLbKrTp",
         "variantTranslations": {
@@ -10112,6 +10276,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatCasquette1",
+        "clothGroupId": 685,
         "internalId": 11531,
         "uniqueEntryId": "3wDCpqJQpzaj9CxYk",
         "variantTranslations": {
@@ -10140,6 +10305,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatCasquette3",
+        "clothGroupId": 685,
         "internalId": 11533,
         "uniqueEntryId": "ETjNE3CojZXppAi7y",
         "variantTranslations": {
@@ -10168,6 +10334,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatCasquette0",
+        "clothGroupId": 685,
         "internalId": 5333,
         "uniqueEntryId": "2BeZbWe4SHpLpCYy3",
         "variantTranslations": {
@@ -10217,6 +10384,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentCosmos3",
+    "clothGroupId": 566,
     "internalId": 5110,
     "uniqueEntryId": "jx7LXntCK2GiwXTo7",
     "variantTranslations": null,
@@ -10397,6 +10565,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentYuri3",
+    "clothGroupId": 572,
     "internalId": 5116,
     "uniqueEntryId": "tQPbQCDeX6muarGM2",
     "variantTranslations": null,
@@ -10577,6 +10746,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentTulip3",
+    "clothGroupId": 560,
     "internalId": 5104,
     "uniqueEntryId": "b4SfkEZZkMpc9qPDu",
     "variantTranslations": null,
@@ -10845,6 +11015,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatDenim0",
+        "clothGroupId": 632,
         "internalId": 5256,
         "uniqueEntryId": "eZgTWRWftQMBQQ7es",
         "variantTranslations": {
@@ -10873,6 +11044,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapHatDenim3",
+        "clothGroupId": 632,
         "internalId": 11522,
         "uniqueEntryId": "hPaLtTcNfhbbDvwDj",
         "variantTranslations": {
@@ -10901,6 +11073,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatDenim2",
+        "clothGroupId": 632,
         "internalId": 11521,
         "uniqueEntryId": "ceSm5pXs7zvDcNQN9",
         "variantTranslations": {
@@ -10929,6 +11102,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatDenim1",
+        "clothGroupId": 632,
         "internalId": 11520,
         "uniqueEntryId": "mavAuYBGHCsYFM2TX",
         "variantTranslations": {
@@ -11024,6 +11198,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatDetective1",
+        "clothGroupId": 714,
         "internalId": 11819,
         "uniqueEntryId": "hG3EBHxFL38zt2KaF",
         "variantTranslations": {
@@ -11052,6 +11227,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatDetective0",
+        "clothGroupId": 714,
         "internalId": 5371,
         "uniqueEntryId": "SXLWLFCCLsThXCtvb",
         "variantTranslations": {
@@ -11080,6 +11256,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatDetective2",
+        "clothGroupId": 714,
         "internalId": 11820,
         "uniqueEntryId": "omkTsG5zKQggz5kh6",
         "variantTranslations": {
@@ -11175,6 +11352,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatTriangle4",
+        "clothGroupId": 596,
         "internalId": 10747,
         "uniqueEntryId": "kMwprrwYCa7gHoxwd",
         "variantTranslations": {
@@ -11203,6 +11381,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatTriangle2",
+        "clothGroupId": 596,
         "internalId": 10745,
         "uniqueEntryId": "59YYmLu9PCXhnG7rQ",
         "variantTranslations": {
@@ -11231,6 +11410,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatTriangle3",
+        "clothGroupId": 596,
         "internalId": 10746,
         "uniqueEntryId": "nHiB24TbQu6WZiKWt",
         "variantTranslations": {
@@ -11259,6 +11439,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatTriangle0",
+        "clothGroupId": 596,
         "internalId": 5145,
         "uniqueEntryId": "REoEqtTNsTJMRwEbK",
         "variantTranslations": {
@@ -11287,6 +11468,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatTriangle6",
+        "clothGroupId": 596,
         "internalId": 10749,
         "uniqueEntryId": "ZkS777yWnbeDvLwRs",
         "variantTranslations": {
@@ -11315,6 +11497,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatTriangle1",
+        "clothGroupId": 596,
         "internalId": 10744,
         "uniqueEntryId": "Hit7pRscB5rzESY7p",
         "variantTranslations": {
@@ -11343,6 +11526,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatTriangle5",
+        "clothGroupId": 596,
         "internalId": 10748,
         "uniqueEntryId": "2T2zrhHDbm9g7JPgL",
         "variantTranslations": {
@@ -11371,6 +11555,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatTriangle7",
+        "clothGroupId": 596,
         "internalId": 10750,
         "uniqueEntryId": "4DbxvejJF4rG9XJN8",
         "variantTranslations": {
@@ -11466,6 +11651,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatShowercap0",
+        "clothGroupId": 661,
         "internalId": 5298,
         "uniqueEntryId": "8r6Dii3ZfTYyRTTjq",
         "variantTranslations": {
@@ -11494,6 +11680,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatShowercap1",
+        "clothGroupId": 661,
         "internalId": 10825,
         "uniqueEntryId": "EdHBGXayXrAsHKEBr",
         "variantTranslations": {
@@ -11543,6 +11730,7 @@
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
     "filename": "CapHatEggground0",
+    "clothGroupId": 1195,
     "internalId": 12439,
     "uniqueEntryId": "h6ryjyiv5qwNZm9eB",
     "variantTranslations": null,
@@ -11723,6 +11911,7 @@
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
     "filename": "CapHatEggparty0",
+    "clothGroupId": 1202,
     "internalId": 12446,
     "uniqueEntryId": "Bb3qhdGwvMtNwT5GZ",
     "variantTranslations": null,
@@ -12015,6 +12204,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatEggWhite",
+    "clothGroupId": 803,
     "internalId": 5642,
     "uniqueEntryId": "TEiK2TDpJv6JHYgrp",
     "variantTranslations": null,
@@ -12132,6 +12322,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapMaskOkinaWhite",
+    "clothGroupId": 918,
     "internalId": 6035,
     "uniqueEntryId": "bh3dK6zyGkdsDwhkr",
     "variantTranslations": null,
@@ -12337,6 +12528,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatElegant3",
+        "clothGroupId": 696,
         "internalId": 10890,
         "uniqueEntryId": "u4Sb2dKkCR7iMQxWC",
         "variantTranslations": {
@@ -12365,6 +12557,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapHatElegant4",
+        "clothGroupId": 696,
         "internalId": 10891,
         "uniqueEntryId": "mjttiaNjDvBNuTRZk",
         "variantTranslations": {
@@ -12393,6 +12586,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatElegant2",
+        "clothGroupId": 696,
         "internalId": 10889,
         "uniqueEntryId": "GWEAhf57GwXo3boXZ",
         "variantTranslations": {
@@ -12421,6 +12615,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatElegant1",
+        "clothGroupId": 696,
         "internalId": 10888,
         "uniqueEntryId": "QduKLLEmHAAHLo3C3",
         "variantTranslations": {
@@ -12449,6 +12644,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatElegant0",
+        "clothGroupId": 696,
         "internalId": 5351,
         "uniqueEntryId": "f7zQnF4fRqSuATtXx",
         "variantTranslations": {
@@ -12565,6 +12761,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatExpedition2",
+        "clothGroupId": 587,
         "internalId": 11810,
         "uniqueEntryId": "u2tGd3cFjEEuDmKPy",
         "variantTranslations": {
@@ -12593,6 +12790,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatExpedition1",
+        "clothGroupId": 587,
         "internalId": 11809,
         "uniqueEntryId": "Ydh2XcTMXEErnPn5x",
         "variantTranslations": {
@@ -12621,6 +12819,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatExpedition3",
+        "clothGroupId": 587,
         "internalId": 11811,
         "uniqueEntryId": "TyiG26o9CgAF2h8LA",
         "variantTranslations": {
@@ -12649,6 +12848,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatExpedition0",
+        "clothGroupId": 587,
         "internalId": 5136,
         "uniqueEntryId": "Ja3vyxddBABXJdnyQ",
         "variantTranslations": {
@@ -12765,6 +12965,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapBangsCowl0",
+        "clothGroupId": 675,
         "internalId": 5323,
         "uniqueEntryId": "p3AtA6bS7YcZLq3Qw",
         "variantTranslations": {
@@ -12793,6 +12994,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapBangsCowl1",
+        "clothGroupId": 675,
         "internalId": 11836,
         "uniqueEntryId": "sR9v8xTFNRtNbKmG5",
         "variantTranslations": {
@@ -12821,6 +13023,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapBangsCowl7",
+        "clothGroupId": 675,
         "internalId": 11842,
         "uniqueEntryId": "yKxdQZF5kp4m8Wsss",
         "variantTranslations": {
@@ -12849,6 +13052,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapBangsCowl2",
+        "clothGroupId": 675,
         "internalId": 11837,
         "uniqueEntryId": "Wx5B35p2xXLd5mPnC",
         "variantTranslations": {
@@ -12877,6 +13081,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapBangsCowl6",
+        "clothGroupId": 675,
         "internalId": 11841,
         "uniqueEntryId": "8vyq8tmyGc6iYFr4a",
         "variantTranslations": {
@@ -12905,6 +13110,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapBangsCowl3",
+        "clothGroupId": 675,
         "internalId": 11838,
         "uniqueEntryId": "s27b2n9G7LNTDLeCh",
         "variantTranslations": {
@@ -12933,6 +13139,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapBangsCowl5",
+        "clothGroupId": 675,
         "internalId": 11840,
         "uniqueEntryId": "zDirv3XciaScThq7G",
         "variantTranslations": {
@@ -12961,6 +13168,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapBangsCowl4",
+        "clothGroupId": 675,
         "internalId": 11839,
         "uniqueEntryId": "f6NNsRJYLfGSDpmNC",
         "variantTranslations": {
@@ -13098,6 +13306,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatUshanka5",
+        "clothGroupId": 595,
         "internalId": 10924,
         "uniqueEntryId": "om6xFnwFeAiAbCEdX",
         "variantTranslations": {
@@ -13126,6 +13335,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatUshanka2",
+        "clothGroupId": 595,
         "internalId": 10921,
         "uniqueEntryId": "dhSRykyYK42XHEST5",
         "variantTranslations": {
@@ -13154,6 +13364,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatUshanka3",
+        "clothGroupId": 595,
         "internalId": 10922,
         "uniqueEntryId": "Zc3ysPxiArnwyNZPd",
         "variantTranslations": {
@@ -13182,6 +13393,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatUshanka6",
+        "clothGroupId": 595,
         "internalId": 10925,
         "uniqueEntryId": "vpdiNfhXdPmamBECw",
         "variantTranslations": {
@@ -13210,6 +13422,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatUshanka4",
+        "clothGroupId": 595,
         "internalId": 10923,
         "uniqueEntryId": "g2SpDCL9RQKeo8DXL",
         "variantTranslations": {
@@ -13238,6 +13451,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatUshanka1",
+        "clothGroupId": 595,
         "internalId": 10920,
         "uniqueEntryId": "MXLMvkhrb8dS8RExf",
         "variantTranslations": {
@@ -13266,6 +13480,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatUshanka0",
+        "clothGroupId": 595,
         "internalId": 5144,
         "uniqueEntryId": "6ZgCgtCnoJFuj6jxf",
         "variantTranslations": {
@@ -13403,6 +13618,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatFelt4",
+        "clothGroupId": 662,
         "internalId": 11048,
         "uniqueEntryId": "MMhwGN3er9uwzDxF5",
         "variantTranslations": {
@@ -13431,6 +13647,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapHatFelt3",
+        "clothGroupId": 662,
         "internalId": 11047,
         "uniqueEntryId": "EX6P3biqxQkLeapFs",
         "variantTranslations": {
@@ -13459,6 +13676,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatFelt1",
+        "clothGroupId": 662,
         "internalId": 11045,
         "uniqueEntryId": "zTSoW9sFAM4jqkCmD",
         "variantTranslations": {
@@ -13487,6 +13705,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "CapHatFelt5",
+        "clothGroupId": 662,
         "internalId": 11049,
         "uniqueEntryId": "wB4FD2KQdHdz2FZwQ",
         "variantTranslations": {
@@ -13515,6 +13734,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatFelt2",
+        "clothGroupId": 662,
         "internalId": 11046,
         "uniqueEntryId": "nwx3eQHk7YjNCAHzw",
         "variantTranslations": {
@@ -13543,6 +13763,7 @@
         "mannequinPiece": true,
         "sortOrder": 6,
         "filename": "CapHatFelt0",
+        "clothGroupId": 662,
         "internalId": 5301,
         "uniqueEntryId": "JBBdsfZAd7BjXcyko",
         "variantTranslations": {
@@ -13638,6 +13859,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapBangsFirefighter0",
+        "clothGroupId": 698,
         "internalId": 5374,
         "uniqueEntryId": "cR8NwZTuWmdYG35Jj",
         "variantTranslations": {
@@ -13666,6 +13888,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapBangsFirefighter1",
+        "clothGroupId": 698,
         "internalId": 11617,
         "uniqueEntryId": "ojPEDB7k3osmjq82R",
         "variantTranslations": null,
@@ -13678,6 +13901,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapBangsFirefighter3",
+        "clothGroupId": 698,
         "internalId": 11619,
         "uniqueEntryId": "8T8xo8DZHyEuWTPAo",
         "variantTranslations": null,
@@ -13690,6 +13914,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapBangsFirefighter4",
+        "clothGroupId": 698,
         "internalId": 11620,
         "uniqueEntryId": "fXaWtDi9ugKd7CvfL",
         "variantTranslations": {
@@ -13718,6 +13943,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapBangsFirefighter2",
+        "clothGroupId": 698,
         "internalId": 11618,
         "uniqueEntryId": "47iL65Sp7sTq2dw6Y",
         "variantTranslations": {
@@ -13855,6 +14081,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentLGaudy6",
+        "clothGroupId": 1042,
         "internalId": 10847,
         "uniqueEntryId": "yQpkhzDDYowAwfiPF",
         "variantTranslations": {
@@ -13883,6 +14110,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentLGaudy2",
+        "clothGroupId": 1042,
         "internalId": 10843,
         "uniqueEntryId": "KmZhyAbsJeBkdsPaL",
         "variantTranslations": {
@@ -13911,6 +14139,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapOrnamentLGaudy0",
+        "clothGroupId": 1042,
         "internalId": 8611,
         "uniqueEntryId": "qMr5rv9p6nKMWpn6W",
         "variantTranslations": {
@@ -13939,6 +14168,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapOrnamentLGaudy4",
+        "clothGroupId": 1042,
         "internalId": 10845,
         "uniqueEntryId": "jwxxG5ozBHRSq8wee",
         "variantTranslations": {
@@ -13967,6 +14197,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapOrnamentLGaudy5",
+        "clothGroupId": 1042,
         "internalId": 10846,
         "uniqueEntryId": "YcYK3wi8wihn3LWMm",
         "variantTranslations": {
@@ -13995,6 +14226,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapOrnamentLGaudy1",
+        "clothGroupId": 1042,
         "internalId": 10842,
         "uniqueEntryId": "JrGYYeC2rDuLtcuKX",
         "variantTranslations": {
@@ -14023,6 +14255,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapOrnamentLGaudy3",
+        "clothGroupId": 1042,
         "internalId": 10844,
         "uniqueEntryId": "JuXNKBGSRgoHmATrq",
         "variantTranslations": {
@@ -14139,6 +14372,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentLFlowerhairpin0",
+        "clothGroupId": 1105,
         "internalId": 9854,
         "uniqueEntryId": "8Jddb8tpAJ9dCFNhR",
         "variantTranslations": {
@@ -14167,6 +14401,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentLFlowerhairpin3",
+        "clothGroupId": 1105,
         "internalId": 11961,
         "uniqueEntryId": "bcbeTcynoeqp7yk9M",
         "variantTranslations": {
@@ -14195,6 +14430,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapOrnamentLFlowerhairpin2",
+        "clothGroupId": 1105,
         "internalId": 11960,
         "uniqueEntryId": "T3TwnGGaSJcMWTXTh",
         "variantTranslations": {
@@ -14223,6 +14459,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapOrnamentLFlowerhairpin1",
+        "clothGroupId": 1105,
         "internalId": 11959,
         "uniqueEntryId": "dgTtevqFfurYfYBQh",
         "variantTranslations": {
@@ -14251,6 +14488,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapOrnamentLFlowerhairpin4",
+        "clothGroupId": 1105,
         "internalId": 11962,
         "uniqueEntryId": "noggDuHahWHjjMMTa",
         "variantTranslations": {
@@ -14367,6 +14605,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapFullfaceFootball1",
+        "clothGroupId": 697,
         "internalId": 11604,
         "uniqueEntryId": "BqaKYDQcnYuGkhqiX",
         "variantTranslations": {
@@ -14395,6 +14634,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapFullfaceFootball7",
+        "clothGroupId": 697,
         "internalId": 11610,
         "uniqueEntryId": "jZBkWeTG9x88Db6qF",
         "variantTranslations": {
@@ -14423,6 +14663,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapFullfaceFootball3",
+        "clothGroupId": 697,
         "internalId": 11606,
         "uniqueEntryId": "z7NnWCTf5ZCitpECu",
         "variantTranslations": {
@@ -14451,6 +14692,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapFullfaceFootball6",
+        "clothGroupId": 697,
         "internalId": 11609,
         "uniqueEntryId": "kocqTA3FPgXfmvj35",
         "variantTranslations": {
@@ -14479,6 +14721,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapFullfaceFootball2",
+        "clothGroupId": 697,
         "internalId": 11605,
         "uniqueEntryId": "BytzMWFtdrWWBbSoo",
         "variantTranslations": {
@@ -14507,6 +14750,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapFullfaceFootball0",
+        "clothGroupId": 697,
         "internalId": 5373,
         "uniqueEntryId": "PydL8RyPvCHkw25Gu",
         "variantTranslations": {
@@ -14535,6 +14779,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapFullfaceFootball5",
+        "clothGroupId": 697,
         "internalId": 11608,
         "uniqueEntryId": "j5hCTq5yhHnh252uh",
         "variantTranslations": {
@@ -14563,6 +14808,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapFullfaceFootball4",
+        "clothGroupId": 697,
         "internalId": 11607,
         "uniqueEntryId": "jxqjGgzngsgwDEiLf",
         "variantTranslations": {
@@ -14679,6 +14925,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapMaskFox0",
+        "clothGroupId": 917,
         "internalId": 6034,
         "uniqueEntryId": "hvuy2ff7D5HmQDWhP",
         "variantTranslations": {
@@ -14707,6 +14954,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapMaskFox1",
+        "clothGroupId": 917,
         "internalId": 11171,
         "uniqueEntryId": "zERfZuwMz99moPjmM",
         "variantTranslations": {
@@ -14844,6 +15092,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapCostumeFrog0",
+        "clothGroupId": 687,
         "internalId": 5335,
         "uniqueEntryId": "2o34Cs7NhTHdiAA2J",
         "variantTranslations": {
@@ -14872,6 +15121,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapCostumeFrog2",
+        "clothGroupId": 687,
         "internalId": 11698,
         "uniqueEntryId": "o8tC4pEQPnv7ShYJs",
         "variantTranslations": {
@@ -14900,6 +15150,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapCostumeFrog3",
+        "clothGroupId": 687,
         "internalId": 11699,
         "uniqueEntryId": "roQnkD6zXyDrsjDRx",
         "variantTranslations": {
@@ -14928,6 +15179,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapCostumeFrog1",
+        "clothGroupId": 687,
         "internalId": 11697,
         "uniqueEntryId": "oppZjp8fdNEbvCeWy",
         "variantTranslations": {
@@ -15044,6 +15296,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatSimple1",
+        "clothGroupId": 663,
         "internalId": 11846,
         "uniqueEntryId": "zB2YwDPXFAkqrfWGo",
         "variantTranslations": {
@@ -15072,6 +15325,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatSimple2",
+        "clothGroupId": 663,
         "internalId": 11847,
         "uniqueEntryId": "XvM7B98w2X54g4838",
         "variantTranslations": null,
@@ -15084,6 +15338,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatSimple0",
+        "clothGroupId": 663,
         "internalId": 5299,
         "uniqueEntryId": "ryjuAa957xkyQ9Crx",
         "variantTranslations": {
@@ -15200,6 +15455,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapWigGeisya6",
+        "clothGroupId": 836,
         "internalId": 9746,
         "uniqueEntryId": "JKW7jE3fFnXoH6vyB",
         "variantTranslations": {
@@ -15228,6 +15484,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapWigGeisya0",
+        "clothGroupId": 836,
         "internalId": 5695,
         "uniqueEntryId": "fGEdJDfBN5EEhBjFj",
         "variantTranslations": {
@@ -15256,6 +15513,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapWigGeisya1",
+        "clothGroupId": 836,
         "internalId": 9741,
         "uniqueEntryId": "HZxA8fN7NH8kMfH4P",
         "variantTranslations": {
@@ -15284,6 +15542,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapWigGeisya2",
+        "clothGroupId": 836,
         "internalId": 9742,
         "uniqueEntryId": "daRdXsccgpzPLvpWz",
         "variantTranslations": {
@@ -15312,6 +15571,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapWigGeisya3",
+        "clothGroupId": 836,
         "internalId": 9743,
         "uniqueEntryId": "umAWMdQi84vc4BLvt",
         "variantTranslations": {
@@ -15340,6 +15600,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapWigGeisya4",
+        "clothGroupId": 836,
         "internalId": 9744,
         "uniqueEntryId": "8dXu7jqM6YCLK5wSj",
         "variantTranslations": {
@@ -15368,6 +15629,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapWigGeisya5",
+        "clothGroupId": 836,
         "internalId": 9745,
         "uniqueEntryId": "GLvMy7wJZEaiBREgu",
         "variantTranslations": {
@@ -15505,6 +15767,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentTRibbon6",
+        "clothGroupId": 1112,
         "internalId": 12057,
         "uniqueEntryId": "SWbrNbBpjj4FWtPyE",
         "variantTranslations": {
@@ -15533,6 +15796,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentTRibbon7",
+        "clothGroupId": 1112,
         "internalId": 12058,
         "uniqueEntryId": "zCcR8JcuDcusf8GdX",
         "variantTranslations": {
@@ -15561,6 +15825,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapOrnamentTRibbon0",
+        "clothGroupId": 1112,
         "internalId": 9861,
         "uniqueEntryId": "NWaA4reiG5GXxgXMS",
         "variantTranslations": {
@@ -15589,6 +15854,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapOrnamentTRibbon5",
+        "clothGroupId": 1112,
         "internalId": 12056,
         "uniqueEntryId": "bkdobifkzuPTK7fxe",
         "variantTranslations": {
@@ -15617,6 +15883,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapOrnamentTRibbon4",
+        "clothGroupId": 1112,
         "internalId": 12055,
         "uniqueEntryId": "tySwtmJW5XaZ66nBx",
         "variantTranslations": {
@@ -15645,6 +15912,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapOrnamentTRibbon3",
+        "clothGroupId": 1112,
         "internalId": 12054,
         "uniqueEntryId": "LbWPp7gGXze4MaLxm",
         "variantTranslations": {
@@ -15673,6 +15941,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapOrnamentTRibbon1",
+        "clothGroupId": 1112,
         "internalId": 12052,
         "uniqueEntryId": "uhM23tq3RxpJDFhsJ",
         "variantTranslations": {
@@ -15701,6 +15970,7 @@
         "mannequinPiece": true,
         "sortOrder": 8,
         "filename": "CapOrnamentTRibbon2",
+        "clothGroupId": 1112,
         "internalId": 12053,
         "uniqueEntryId": "Rh6hZNJPHiZXLvAHJ",
         "variantTranslations": {
@@ -15750,6 +16020,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatGreeneryRed",
+    "clothGroupId": 930,
     "internalId": 6049,
     "uniqueEntryId": "wJL28HCtAeYiw9Qnf",
     "variantTranslations": null,
@@ -15846,6 +16117,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapFullfaceKnightGold",
+    "clothGroupId": 692,
     "internalId": 5346,
     "uniqueEntryId": "BBTeM9iQR8tG5DCWA",
     "variantTranslations": null,
@@ -16005,6 +16277,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentRose5",
+    "clothGroupId": 960,
     "internalId": 7378,
     "uniqueEntryId": "FX33n2bWNfRJ6cuKm",
     "variantTranslations": null,
@@ -16273,6 +16546,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHelmetHeaddress1",
+        "clothGroupId": 833,
         "internalId": 11897,
         "uniqueEntryId": "xgnfJr4rfnJHpz3Cy",
         "variantTranslations": {
@@ -16301,6 +16575,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHelmetHeaddress2",
+        "clothGroupId": 833,
         "internalId": 11898,
         "uniqueEntryId": "cA4XoM6rcf2WkamCd",
         "variantTranslations": {
@@ -16329,6 +16604,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHelmetHeaddress3",
+        "clothGroupId": 833,
         "internalId": 11899,
         "uniqueEntryId": "3YJZivZRjNYpNojJE",
         "variantTranslations": {
@@ -16357,6 +16633,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHelmetHeaddress4",
+        "clothGroupId": 833,
         "internalId": 11900,
         "uniqueEntryId": "Wvsj8vtWWZjrY6E7A",
         "variantTranslations": {
@@ -16385,6 +16662,7 @@
         "mannequinPiece": true,
         "sortOrder": 5,
         "filename": "CapHelmetHeaddress0",
+        "clothGroupId": 833,
         "internalId": 5683,
         "uniqueEntryId": "6nyKqBfGMQyFYzH5b",
         "variantTranslations": {
@@ -16413,6 +16691,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHelmetHeaddress5",
+        "clothGroupId": 833,
         "internalId": 11901,
         "uniqueEntryId": "ZgopQMMTea5nJSdbY",
         "variantTranslations": null,
@@ -16446,6 +16725,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatGrape",
+    "clothGroupId": 640,
     "internalId": 5278,
     "uniqueEntryId": "T7jWyxruDuEJssnYX",
     "variantTranslations": null,
@@ -16563,6 +16843,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentAAngel0",
+    "clothGroupId": 949,
     "internalId": 6921,
     "uniqueEntryId": "h5uXo4cEWBngWp7sS",
     "variantTranslations": null,
@@ -16680,6 +16961,7 @@
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
     "filename": "CapOrnamentCChildren0",
+    "clothGroupId": 1221,
     "internalId": 12576,
     "uniqueEntryId": "qtR8v5BvaApJkokuf",
     "variantTranslations": null,
@@ -16822,6 +17104,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapWigTurban0",
+        "clothGroupId": 1009,
         "internalId": 6093,
         "uniqueEntryId": "2ZQBtmCyTt4kGY2gM",
         "variantTranslations": {
@@ -16850,6 +17133,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapWigTurban3",
+        "clothGroupId": 1009,
         "internalId": 11896,
         "uniqueEntryId": "j5Rqh4hpw7udSzMkx",
         "variantTranslations": {
@@ -16878,6 +17162,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapWigTurban1",
+        "clothGroupId": 1009,
         "internalId": 11894,
         "uniqueEntryId": "mPfXwKGa6z727jCWn",
         "variantTranslations": {
@@ -16906,6 +17191,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapWigTurban2",
+        "clothGroupId": 1009,
         "internalId": 11895,
         "uniqueEntryId": "pMiCACYSmotv2pnjM",
         "variantTranslations": {
@@ -17022,6 +17308,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapCostumeHeadgear0",
+        "clothGroupId": 825,
         "internalId": 5687,
         "uniqueEntryId": "jmnTEJgWu8kHL6CcQ",
         "variantTranslations": {
@@ -17050,6 +17337,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapCostumeHeadgear2",
+        "clothGroupId": 825,
         "internalId": 11612,
         "uniqueEntryId": "EjbvXi9Trp5gZiWBp",
         "variantTranslations": {
@@ -17078,6 +17366,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapCostumeHeadgear1",
+        "clothGroupId": 825,
         "internalId": 11611,
         "uniqueEntryId": "zP46qRtShEG5TzNzz",
         "variantTranslations": {
@@ -17127,6 +17416,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapFullfaceHokkamuriGreen",
+    "clothGroupId": 674,
     "internalId": 5322,
     "uniqueEntryId": "K59p7jjXDCpeYStyh",
     "variantTranslations": null,
@@ -17290,6 +17580,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentLHearthairpin4",
+        "clothGroupId": 1106,
         "internalId": 12168,
         "uniqueEntryId": "qoHkG5w57FHejH7sW",
         "variantTranslations": {
@@ -17318,6 +17609,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentLHearthairpin1",
+        "clothGroupId": 1106,
         "internalId": 12165,
         "uniqueEntryId": "nsf444hSHhw4cqT9H",
         "variantTranslations": {
@@ -17346,6 +17638,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapOrnamentLHearthairpin0",
+        "clothGroupId": 1106,
         "internalId": 9855,
         "uniqueEntryId": "FoQyDjHid692cLQsr",
         "variantTranslations": {
@@ -17374,6 +17667,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapOrnamentLHearthairpin2",
+        "clothGroupId": 1106,
         "internalId": 12166,
         "uniqueEntryId": "qH6kogG5qtph3XpyQ",
         "variantTranslations": {
@@ -17402,6 +17696,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapOrnamentLHearthairpin3",
+        "clothGroupId": 1106,
         "internalId": 12167,
         "uniqueEntryId": "BWs2TWo5MnAHfR9Qk",
         "variantTranslations": {
@@ -17518,6 +17813,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapCostumeGogglehelmet6",
+        "clothGroupId": 742,
         "internalId": 10235,
         "uniqueEntryId": "oNKeKYrhc57TYvMSQ",
         "variantTranslations": {
@@ -17546,6 +17842,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapCostumeGogglehelmet4",
+        "clothGroupId": 742,
         "internalId": 10233,
         "uniqueEntryId": "M7hddkFgC8kGhWmS8",
         "variantTranslations": {
@@ -17574,6 +17871,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapCostumeGogglehelmet0",
+        "clothGroupId": 742,
         "internalId": 5435,
         "uniqueEntryId": "GTB58K7ExPYkAxPYj",
         "variantTranslations": {
@@ -17602,6 +17900,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapCostumeGogglehelmet7",
+        "clothGroupId": 742,
         "internalId": 10236,
         "uniqueEntryId": "yhhDptKbgXLEAjvsm",
         "variantTranslations": {
@@ -17630,6 +17929,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapCostumeGogglehelmet1",
+        "clothGroupId": 742,
         "internalId": 10230,
         "uniqueEntryId": "KvThemab48jjKvtnD",
         "variantTranslations": {
@@ -17658,6 +17958,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapCostumeGogglehelmet5",
+        "clothGroupId": 742,
         "internalId": 10234,
         "uniqueEntryId": "DExMtuaqW7nmbKpfy",
         "variantTranslations": {
@@ -17686,6 +17987,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapCostumeGogglehelmet3",
+        "clothGroupId": 742,
         "internalId": 10232,
         "uniqueEntryId": "hZsMf2hdM5F4t9GwN",
         "variantTranslations": {
@@ -17714,6 +18016,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapCostumeGogglehelmet2",
+        "clothGroupId": 742,
         "internalId": 10231,
         "uniqueEntryId": "jms7b32h94CH8XZg7",
         "variantTranslations": {
@@ -17830,6 +18133,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapOrnamentLHibiscus2",
+        "clothGroupId": 1045,
         "internalId": 10849,
         "uniqueEntryId": "79RboM5aoWXKBrJS9",
         "variantTranslations": {
@@ -17858,6 +18162,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentLHibiscus0",
+        "clothGroupId": 1045,
         "internalId": 8614,
         "uniqueEntryId": "eCSHrbwdZvKvfuYA7",
         "variantTranslations": {
@@ -17886,6 +18191,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapOrnamentLHibiscus3",
+        "clothGroupId": 1045,
         "internalId": 10850,
         "uniqueEntryId": "WMsj6WkZyxhMKddte",
         "variantTranslations": {
@@ -17914,6 +18220,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapOrnamentLHibiscus1",
+        "clothGroupId": 1045,
         "internalId": 10848,
         "uniqueEntryId": "qqegoEzGt7MfWh4sW",
         "variantTranslations": {
@@ -17963,6 +18270,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassmouthHockeyWhite",
+    "clothGroupId": 923,
     "internalId": 6041,
     "uniqueEntryId": "NDgayuyJk7tRysSQr",
     "variantTranslations": null,
@@ -18080,6 +18388,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapBangsSausage",
+    "clothGroupId": 712,
     "internalId": 5369,
     "uniqueEntryId": "w2djDRA9FiE4WD6pX",
     "variantTranslations": null,
@@ -18176,6 +18485,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentHyacinth1",
+    "clothGroupId": 552,
     "internalId": 5096,
     "uniqueEntryId": "AupxHTZM4fc5HJBRu",
     "variantTranslations": null,
@@ -18398,6 +18708,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatCowWhite",
+    "clothGroupId": 751,
     "internalId": 5447,
     "uniqueEntryId": "vWz6PnRkqiMa2KJkv",
     "variantTranslations": null,
@@ -18582,6 +18893,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapCostumeDevil0",
+        "clothGroupId": 758,
         "internalId": 5464,
         "uniqueEntryId": "f7MYQ3k8qYWwTtrcr",
         "variantTranslations": {
@@ -18610,6 +18922,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapCostumeDevil1",
+        "clothGroupId": 758,
         "internalId": 11707,
         "uniqueEntryId": "RWdscwMxzzK7X6Sue",
         "variantTranslations": {
@@ -18789,6 +19102,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatClown1",
+        "clothGroupId": 701,
         "internalId": 11860,
         "uniqueEntryId": "ugMtz99HpaJBEppZS",
         "variantTranslations": {
@@ -18817,6 +19131,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatClown2",
+        "clothGroupId": 701,
         "internalId": 11861,
         "uniqueEntryId": "Th7opeed6gy9YnjG8",
         "variantTranslations": null,
@@ -18829,6 +19144,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatClown3",
+        "clothGroupId": 701,
         "internalId": 11862,
         "uniqueEntryId": "TpcZ2N8qWJhNcPaj3",
         "variantTranslations": null,
@@ -18841,6 +19157,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatClown0",
+        "clothGroupId": 701,
         "internalId": 5385,
         "uniqueEntryId": "uzMtDwv5WzzBbLXK2",
         "variantTranslations": null,
@@ -18941,6 +19258,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatJockey7",
+        "clothGroupId": 710,
         "internalId": 11627,
         "uniqueEntryId": "6MbsXdjSnfoQzc39M",
         "variantTranslations": {
@@ -18969,6 +19287,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatJockey6",
+        "clothGroupId": 710,
         "internalId": 11626,
         "uniqueEntryId": "AmHMPAJ2qJotdbuiA",
         "variantTranslations": {
@@ -18997,6 +19316,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatJockey5",
+        "clothGroupId": 710,
         "internalId": 11625,
         "uniqueEntryId": "6HEnKgG2N9jQoDN5H",
         "variantTranslations": {
@@ -19025,6 +19345,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatJockey0",
+        "clothGroupId": 710,
         "internalId": 5367,
         "uniqueEntryId": "kcuBkLhA6Ju8cK7hm",
         "variantTranslations": {
@@ -19053,6 +19374,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatJockey1",
+        "clothGroupId": 710,
         "internalId": 11621,
         "uniqueEntryId": "XuwsforNTPsop2YTa",
         "variantTranslations": {
@@ -19081,6 +19403,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatJockey3",
+        "clothGroupId": 710,
         "internalId": 11623,
         "uniqueEntryId": "qGcN4thDwgwHxSxGP",
         "variantTranslations": {
@@ -19109,6 +19432,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatJockey2",
+        "clothGroupId": 710,
         "internalId": 11622,
         "uniqueEntryId": "SPkZaA6vtp9GyksEx",
         "variantTranslations": {
@@ -19137,6 +19461,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatJockey4",
+        "clothGroupId": 710,
         "internalId": 11624,
         "uniqueEntryId": "4vqFYJqsEBAjCfdQQ",
         "variantTranslations": {
@@ -19253,6 +19578,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHelmetKandula0",
+        "clothGroupId": 933,
         "internalId": 6052,
         "uniqueEntryId": "BEAno4ew9FkKMfWwk",
         "variantTranslations": {
@@ -19281,6 +19607,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHelmetKandula2",
+        "clothGroupId": 933,
         "internalId": 9748,
         "uniqueEntryId": "CLcMcBfgd6QoEYYCi",
         "variantTranslations": {
@@ -19309,6 +19636,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHelmetKandula1",
+        "clothGroupId": 933,
         "internalId": 9747,
         "uniqueEntryId": "eT6PXofnHskXrh9Ld",
         "variantTranslations": {
@@ -19446,6 +19774,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapCostumeKappa0",
+        "clothGroupId": 683,
         "internalId": 5331,
         "uniqueEntryId": "zo2gb6sjpYjpkd6W8",
         "variantTranslations": {
@@ -19474,6 +19803,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapCostumeKappa1",
+        "clothGroupId": 683,
         "internalId": 11696,
         "uniqueEntryId": "FfTJH6jJ3QwpY8ZsX",
         "variantTranslations": {
@@ -19523,6 +19853,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatKiwi",
+    "clothGroupId": 638,
     "internalId": 5276,
     "uniqueEntryId": "vvPendWMdGWCSNvNw",
     "variantTranslations": null,
@@ -19640,6 +19971,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapFullfaceKnightIron",
+    "clothGroupId": 686,
     "internalId": 5334,
     "uniqueEntryId": "ChakqZJq8igZjNDcH",
     "variantTranslations": null,
@@ -19866,6 +20198,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapBangsEarknit6",
+        "clothGroupId": 713,
         "internalId": 10949,
         "uniqueEntryId": "F3qyTm7oAHPfLcvEC",
         "variantTranslations": {
@@ -19894,6 +20227,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapBangsEarknit4",
+        "clothGroupId": 713,
         "internalId": 10947,
         "uniqueEntryId": "bXKhWsH9bw8dQmZ7z",
         "variantTranslations": null,
@@ -19906,6 +20240,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapBangsEarknit2",
+        "clothGroupId": 713,
         "internalId": 10945,
         "uniqueEntryId": "wRH25f3yhqqmvTqcC",
         "variantTranslations": {
@@ -19934,6 +20269,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapBangsEarknit5",
+        "clothGroupId": 713,
         "internalId": 10948,
         "uniqueEntryId": "8QmQoKrircphQa33a",
         "variantTranslations": null,
@@ -19946,6 +20282,7 @@
         "mannequinPiece": true,
         "sortOrder": 5,
         "filename": "CapBangsEarknit3",
+        "clothGroupId": 713,
         "internalId": 10946,
         "uniqueEntryId": "qiEhhb3haazYea64f",
         "variantTranslations": {
@@ -19974,6 +20311,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapBangsEarknit1",
+        "clothGroupId": 713,
         "internalId": 10944,
         "uniqueEntryId": "AWfqpyaXXNkjTrDRu",
         "variantTranslations": {
@@ -20002,6 +20340,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapBangsEarknit0",
+        "clothGroupId": 713,
         "internalId": 5370,
         "uniqueEntryId": "RzwgjozkxRLE9GEyk",
         "variantTranslations": {
@@ -20139,6 +20478,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatKnitcap1",
+        "clothGroupId": 597,
         "internalId": 6880,
         "uniqueEntryId": "puALkP9K5hCSFy95L",
         "variantTranslations": {
@@ -20167,6 +20507,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapHatKnitcap2",
+        "clothGroupId": 597,
         "internalId": 6881,
         "uniqueEntryId": "iCgkEpcFSWEmJGemk",
         "variantTranslations": {
@@ -20195,6 +20536,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatKnitcap0",
+        "clothGroupId": 597,
         "internalId": 5146,
         "uniqueEntryId": "r4pSeABL8qCqDhJJE",
         "variantTranslations": {
@@ -20223,6 +20565,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "CapHatKnitcap4",
+        "clothGroupId": 597,
         "internalId": 11731,
         "uniqueEntryId": "wphjM65y7bFkauqKs",
         "variantTranslations": {
@@ -20251,6 +20594,7 @@
         "mannequinPiece": true,
         "sortOrder": 5,
         "filename": "CapHatKnitcap7",
+        "clothGroupId": 597,
         "internalId": 11734,
         "uniqueEntryId": "SaqCM6GsWHfhuDgHR",
         "variantTranslations": {
@@ -20279,6 +20623,7 @@
         "mannequinPiece": true,
         "sortOrder": 6,
         "filename": "CapHatKnitcap3",
+        "clothGroupId": 597,
         "internalId": 6882,
         "uniqueEntryId": "fJq4a2fGCePziMeEB",
         "variantTranslations": null,
@@ -20291,6 +20636,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatKnitcap6",
+        "clothGroupId": 597,
         "internalId": 11733,
         "uniqueEntryId": "5dgwDfqZq9SP4kpD2",
         "variantTranslations": {
@@ -20319,6 +20665,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatKnitcap5",
+        "clothGroupId": 597,
         "internalId": 11732,
         "uniqueEntryId": "8aKNtZT3ST39Fg4A5",
         "variantTranslations": {
@@ -20368,6 +20715,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapMaskLeaf0",
+    "clothGroupId": 956,
     "internalId": 7291,
     "uniqueEntryId": "SzZ9pCgSNQz4P2PRn",
     "variantTranslations": null,
@@ -20527,6 +20875,7 @@
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
     "filename": "CapHatEggleaf0",
+    "clothGroupId": 1197,
     "internalId": 12441,
     "uniqueEntryId": "nwNuAognQtrTGfTWn",
     "variantTranslations": null,
@@ -20795,6 +21144,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatLogocap0",
+        "clothGroupId": 1117,
         "internalId": 9866,
         "uniqueEntryId": "7Q3wGGajkfDjfzhJz",
         "variantTranslations": {
@@ -20823,6 +21173,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatLogocap2",
+        "clothGroupId": 1117,
         "internalId": 12044,
         "uniqueEntryId": "QSrmauRxdvykwxfZf",
         "variantTranslations": null,
@@ -20835,6 +21186,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatLogocap1",
+        "clothGroupId": 1117,
         "internalId": 12043,
         "uniqueEntryId": "txEA3gtDENsLPjSLu",
         "variantTranslations": {
@@ -20884,6 +21236,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentYuri1",
+    "clothGroupId": 570,
     "internalId": 5114,
     "uniqueEntryId": "oyd8dzDWXoCeq6d3P",
     "variantTranslations": null,
@@ -21106,6 +21459,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentCosmos2",
+    "clothGroupId": 565,
     "internalId": 5109,
     "uniqueEntryId": "JpEmegx5ChztAdbnv",
     "variantTranslations": null,
@@ -21374,6 +21728,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatWitch0",
+        "clothGroupId": 631,
         "internalId": 5245,
         "uniqueEntryId": "xC42tzk6SK3sN9RoG",
         "variantTranslations": {
@@ -21402,6 +21757,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatWitch2",
+        "clothGroupId": 631,
         "internalId": 11844,
         "uniqueEntryId": "nN9u4Q77aHtudJxza",
         "variantTranslations": {
@@ -21430,6 +21786,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatWitch3",
+        "clothGroupId": 631,
         "internalId": 11845,
         "uniqueEntryId": "v2iuwLr9rh2wfXpgC",
         "variantTranslations": {
@@ -21458,6 +21815,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatWitch1",
+        "clothGroupId": 631,
         "internalId": 11843,
         "uniqueEntryId": "TxrHS9qwEk83iea7P",
         "variantTranslations": {
@@ -21574,6 +21932,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatMatampushi2",
+        "clothGroupId": 1164,
         "internalId": 12034,
         "uniqueEntryId": "wLkeY9D82XAyLE3N9",
         "variantTranslations": {
@@ -21602,6 +21961,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatMatampushi0",
+        "clothGroupId": 1164,
         "internalId": 10914,
         "uniqueEntryId": "G4fspHfP6FzwQEqto",
         "variantTranslations": {
@@ -21630,6 +21990,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatMatampushi1",
+        "clothGroupId": 1164,
         "internalId": 12033,
         "uniqueEntryId": "ZoE3A7vJmf6fjas2d",
         "variantTranslations": {
@@ -21679,6 +22040,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapWigOnionhair",
+    "clothGroupId": 829,
     "internalId": 5691,
     "uniqueEntryId": "2HsMdh23YHSqA4AhL",
     "variantTranslations": null,
@@ -21754,6 +22116,7 @@
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
     "filename": "CapOrnamentCMermaid0",
+    "clothGroupId": 1224,
     "internalId": 12661,
     "uniqueEntryId": "sGCqgfbJSc9ndpEv8",
     "variantTranslations": null,
@@ -22001,6 +22364,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatMeshcap6",
+        "clothGroupId": 579,
         "internalId": 11511,
         "uniqueEntryId": "B75gGQnqmbvwFnY3r",
         "variantTranslations": {
@@ -22029,6 +22393,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatMeshcap1",
+        "clothGroupId": 579,
         "internalId": 11506,
         "uniqueEntryId": "S878yxu4ziFfZiAYa",
         "variantTranslations": {
@@ -22057,6 +22422,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatMeshcap2",
+        "clothGroupId": 579,
         "internalId": 11507,
         "uniqueEntryId": "ELafihA36MBWWb4HR",
         "variantTranslations": {
@@ -22085,6 +22451,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatMeshcap4",
+        "clothGroupId": 579,
         "internalId": 11509,
         "uniqueEntryId": "xtfgMAvaPXTMryc3N",
         "variantTranslations": {
@@ -22113,6 +22480,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatMeshcap5",
+        "clothGroupId": 579,
         "internalId": 11510,
         "uniqueEntryId": "X2thzp4pg5qBhJrYZ",
         "variantTranslations": {
@@ -22141,6 +22509,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatMeshcap3",
+        "clothGroupId": 579,
         "internalId": 11508,
         "uniqueEntryId": "yDdLG4bLQnnATQQrh",
         "variantTranslations": {
@@ -22169,6 +22538,7 @@
         "mannequinPiece": true,
         "sortOrder": 7,
         "filename": "CapHatMeshcap0",
+        "clothGroupId": 579,
         "internalId": 5128,
         "uniqueEntryId": "ci33Hxg6BtfZ4KKY9",
         "variantTranslations": {
@@ -22218,6 +22588,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapBangsVolendamWhite",
+    "clothGroupId": 704,
     "internalId": 5365,
     "uniqueEntryId": "xxPurMe9L9zyhgmoH",
     "variantTranslations": null,
@@ -22314,6 +22685,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapWigMohican",
+    "clothGroupId": 826,
     "internalId": 5688,
     "uniqueEntryId": "xSP2ma9tBnzzWzfv6",
     "variantTranslations": null,
@@ -22389,6 +22761,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentMum1",
+    "clothGroupId": 573,
     "internalId": 5117,
     "uniqueEntryId": "jcwfq9ffbRoL4AEde",
     "variantTranslations": null,
@@ -22611,6 +22984,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapFullfaceMummyWhite",
+    "clothGroupId": 676,
     "internalId": 5324,
     "uniqueEntryId": "RumzTwR7oeh4Ap6Ge",
     "variantTranslations": null,
@@ -22795,6 +23169,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapCostumeNinja0",
+        "clothGroupId": 708,
         "internalId": 5364,
         "uniqueEntryId": "tNfkPdEzqBqjaJpoL",
         "variantTranslations": {
@@ -22823,6 +23198,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapCostumeNinja1",
+        "clothGroupId": 708,
         "internalId": 11870,
         "uniqueEntryId": "pqeTwLRpzY2iimLhX",
         "variantTranslations": {
@@ -22851,6 +23227,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapCostumeNinja2",
+        "clothGroupId": 708,
         "internalId": 11871,
         "uniqueEntryId": "cjHgPwXzQKaAvmhuC",
         "variantTranslations": {
@@ -22879,6 +23256,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapCostumeNinja7",
+        "clothGroupId": 708,
         "internalId": 11876,
         "uniqueEntryId": "xuwDmWqQkxgPZPqRg",
         "variantTranslations": {
@@ -22907,6 +23285,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapCostumeNinja6",
+        "clothGroupId": 708,
         "internalId": 11875,
         "uniqueEntryId": "M5W4YEuvEQ787Tegk",
         "variantTranslations": {
@@ -22935,6 +23314,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapCostumeNinja5",
+        "clothGroupId": 708,
         "internalId": 11874,
         "uniqueEntryId": "XaaDcBAN2LENqYzcv",
         "variantTranslations": {
@@ -22963,6 +23343,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapCostumeNinja4",
+        "clothGroupId": 708,
         "internalId": 11873,
         "uniqueEntryId": "QLNKKCbkjKA4dbrrT",
         "variantTranslations": null,
@@ -22975,6 +23356,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapCostumeNinja3",
+        "clothGroupId": 708,
         "internalId": 11872,
         "uniqueEntryId": "tB493c7XfJfk3SNdz",
         "variantTranslations": {
@@ -23070,6 +23452,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentTNurse1",
+        "clothGroupId": 950,
         "internalId": 11812,
         "uniqueEntryId": "u6EEbkfK3e6iHMXsY",
         "variantTranslations": {
@@ -23098,6 +23481,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentTNurse0",
+        "clothGroupId": 950,
         "internalId": 6947,
         "uniqueEntryId": "2nZYXc5ee6terDyJY",
         "variantTranslations": {
@@ -23126,6 +23510,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapOrnamentTNurse2",
+        "clothGroupId": 950,
         "internalId": 11813,
         "uniqueEntryId": "NWWLjb8pmu6tC438t",
         "variantTranslations": {
@@ -23175,6 +23560,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatOrange",
+    "clothGroupId": 637,
     "internalId": 5275,
     "uniqueEntryId": "QSHPkoQAJJpdDJpXv",
     "variantTranslations": null,
@@ -23443,6 +23829,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatTengallon4",
+        "clothGroupId": 720,
         "internalId": 11056,
         "uniqueEntryId": "uBsynLkxZLapw4j4w",
         "variantTranslations": {
@@ -23471,6 +23858,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapHatTengallon2",
+        "clothGroupId": 720,
         "internalId": 11054,
         "uniqueEntryId": "BpLh5uscghzcSqNyJ",
         "variantTranslations": {
@@ -23499,6 +23887,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatTengallon3",
+        "clothGroupId": 720,
         "internalId": 11055,
         "uniqueEntryId": "e9ntmssz8a4Ydsnii",
         "variantTranslations": {
@@ -23527,6 +23916,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatTengallon0",
+        "clothGroupId": 720,
         "internalId": 5399,
         "uniqueEntryId": "aGQncv2i5uCn6BRFC",
         "variantTranslations": {
@@ -23555,6 +23945,7 @@
         "mannequinPiece": true,
         "sortOrder": 5,
         "filename": "CapHatTengallon1",
+        "clothGroupId": 720,
         "internalId": 11053,
         "uniqueEntryId": "L7gfFxKYMfYFsmc3o",
         "variantTranslations": {
@@ -23671,6 +24062,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatOutdoor3",
+        "clothGroupId": 634,
         "internalId": 11040,
         "uniqueEntryId": "jG7vw4ZYdt5wxPJZh",
         "variantTranslations": {
@@ -23699,6 +24091,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatOutdoor0",
+        "clothGroupId": 634,
         "internalId": 5258,
         "uniqueEntryId": "Taf2gy9MqCWtD8Lm9",
         "variantTranslations": {
@@ -23727,6 +24120,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatOutdoor4",
+        "clothGroupId": 634,
         "internalId": 11041,
         "uniqueEntryId": "9TQZoMLhikHRrrDDZ",
         "variantTranslations": {
@@ -23755,6 +24149,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatOutdoor6",
+        "clothGroupId": 634,
         "internalId": 11043,
         "uniqueEntryId": "mSxNGDSx7y6kZarnc",
         "variantTranslations": {
@@ -23783,6 +24178,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatOutdoor5",
+        "clothGroupId": 634,
         "internalId": 11042,
         "uniqueEntryId": "w9GeNeMPYKBxbYSH2",
         "variantTranslations": {
@@ -23811,6 +24207,7 @@
         "mannequinPiece": true,
         "sortOrder": 6,
         "filename": "CapHatOutdoor1",
+        "clothGroupId": 634,
         "internalId": 11038,
         "uniqueEntryId": "Tni7PAyBS3NrwqbTn",
         "variantTranslations": {
@@ -23839,6 +24236,7 @@
         "mannequinPiece": true,
         "sortOrder": 7,
         "filename": "CapHatOutdoor2",
+        "clothGroupId": 634,
         "internalId": 11039,
         "uniqueEntryId": "bSsN9ide5eYd2KxoS",
         "variantTranslations": {
@@ -23867,6 +24265,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatOutdoor7",
+        "clothGroupId": 634,
         "internalId": 11044,
         "uniqueEntryId": "sTS2R5YRfdAxfEy8Z",
         "variantTranslations": {
@@ -23983,6 +24382,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapMaskPaint1",
+        "clothGroupId": 718,
         "internalId": 10227,
         "uniqueEntryId": "iFPdeeqLGNuWaconR",
         "variantTranslations": {
@@ -24011,6 +24411,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapMaskPaint0",
+        "clothGroupId": 718,
         "internalId": 5395,
         "uniqueEntryId": "hXFTMo9zh7Mx7yDDa",
         "variantTranslations": {
@@ -24039,6 +24440,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapMaskPaint3",
+        "clothGroupId": 718,
         "internalId": 10229,
         "uniqueEntryId": "cQY7bMzg8NgyLQXDJ",
         "variantTranslations": {
@@ -24067,6 +24469,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapMaskPaint2",
+        "clothGroupId": 718,
         "internalId": 10228,
         "uniqueEntryId": "WaYr6qyZ6w2y7M8r2",
         "variantTranslations": null,
@@ -24146,6 +24549,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatBandana3",
+        "clothGroupId": 657,
         "internalId": 10762,
         "uniqueEntryId": "RxdhMRe7iZv3LxYtQ",
         "variantTranslations": {
@@ -24174,6 +24578,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatBandana0",
+        "clothGroupId": 657,
         "internalId": 5294,
         "uniqueEntryId": "93GubKimrHwj42NtQ",
         "variantTranslations": {
@@ -24202,6 +24607,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatBandana6",
+        "clothGroupId": 657,
         "internalId": 10765,
         "uniqueEntryId": "jDiN5BX2LQjQg7eod",
         "variantTranslations": {
@@ -24230,6 +24636,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatBandana5",
+        "clothGroupId": 657,
         "internalId": 10764,
         "uniqueEntryId": "jbJkcPtdqKgh8v9AG",
         "variantTranslations": {
@@ -24258,6 +24665,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatBandana2",
+        "clothGroupId": 657,
         "internalId": 10761,
         "uniqueEntryId": "F8Fsf43ae6RCTkuAo",
         "variantTranslations": {
@@ -24286,6 +24694,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatBandana4",
+        "clothGroupId": 657,
         "internalId": 10763,
         "uniqueEntryId": "7Z4qghfvzEp2EMfYw",
         "variantTranslations": {
@@ -24314,6 +24723,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatBandana1",
+        "clothGroupId": 657,
         "internalId": 10760,
         "uniqueEntryId": "LnqYNcbocnnRFYYbM",
         "variantTranslations": {
@@ -24342,6 +24752,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatBandana7",
+        "clothGroupId": 657,
         "internalId": 10766,
         "uniqueEntryId": "covzbSvXPRPk6gLtk",
         "variantTranslations": {
@@ -24391,6 +24802,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentPansy1",
+    "clothGroupId": 561,
     "internalId": 5105,
     "uniqueEntryId": "Kn2k9jdadPZNeT4oH",
     "variantTranslations": null,
@@ -24613,6 +25025,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapFullfacePaperbagBeige",
+    "clothGroupId": 900,
     "internalId": 5840,
     "uniqueEntryId": "Z8NpXTFEZNuwzJb7B",
     "variantTranslations": null,
@@ -24776,6 +25189,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatHunting1",
+        "clothGroupId": 598,
         "internalId": 11512,
         "uniqueEntryId": "ymFNyTkYST6eYQDWm",
         "variantTranslations": {
@@ -24804,6 +25218,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapHatHunting4",
+        "clothGroupId": 598,
         "internalId": 11515,
         "uniqueEntryId": "e3k4XpPMoahNaWv78",
         "variantTranslations": {
@@ -24832,6 +25247,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatHunting2",
+        "clothGroupId": 598,
         "internalId": 11513,
         "uniqueEntryId": "MntgoecKWvqftbcj9",
         "variantTranslations": {
@@ -24860,6 +25276,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatHunting3",
+        "clothGroupId": 598,
         "internalId": 11514,
         "uniqueEntryId": "pfBtD75A8gSxZY3TQ",
         "variantTranslations": {
@@ -24888,6 +25305,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatHunting0",
+        "clothGroupId": 598,
         "internalId": 5147,
         "uniqueEntryId": "GAyDQZez4XQdjCAnn",
         "variantTranslations": {
@@ -25025,6 +25443,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatTulippatch0",
+        "clothGroupId": 1121,
         "internalId": 9870,
         "uniqueEntryId": "SGjLHQg8TFGDWH2N8",
         "variantTranslations": {
@@ -25053,6 +25472,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatTulippatch2",
+        "clothGroupId": 1121,
         "internalId": 11994,
         "uniqueEntryId": "Zxq3wn7giQ6rBFaRT",
         "variantTranslations": {
@@ -25081,6 +25501,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatTulippatch1",
+        "clothGroupId": 1121,
         "internalId": 11993,
         "uniqueEntryId": "pTWoeyHzNCW9ZW67y",
         "variantTranslations": {
@@ -25130,6 +25551,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatPeach0",
+    "clothGroupId": 1125,
     "internalId": 9874,
     "uniqueEntryId": "ndyX7HhTu335TzW9b",
     "variantTranslations": null,
@@ -25310,6 +25732,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatPear0",
+    "clothGroupId": 1123,
     "internalId": 9872,
     "uniqueEntryId": "nQDCrcuuoxWRwhyzt",
     "variantTranslations": null,
@@ -25490,6 +25913,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapWigPigtail",
+    "clothGroupId": 1011,
     "internalId": 5819,
     "uniqueEntryId": "8GiNANCYoscQGgW8i",
     "variantTranslations": null,
@@ -25632,6 +26056,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHelmetPilot1",
+        "clothGroupId": 706,
         "internalId": 11613,
         "uniqueEntryId": "6BxAvii2rcxRCaL7g",
         "variantTranslations": {
@@ -25660,6 +26085,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHelmetPilot2",
+        "clothGroupId": 706,
         "internalId": 11614,
         "uniqueEntryId": "yG8ej28n3Gn5GBvKr",
         "variantTranslations": {
@@ -25688,6 +26114,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHelmetPilot0",
+        "clothGroupId": 706,
         "internalId": 5362,
         "uniqueEntryId": "MeD6WKsME9zhgTo5R",
         "variantTranslations": {
@@ -25804,6 +26231,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatCaptainsky1",
+        "clothGroupId": 1043,
         "internalId": 11827,
         "uniqueEntryId": "rtjQ3mqNSJsPmFmaK",
         "variantTranslations": {
@@ -25832,6 +26260,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatCaptainsky2",
+        "clothGroupId": 1043,
         "internalId": 11828,
         "uniqueEntryId": "zbMCmXJx7nPvr5wNG",
         "variantTranslations": {
@@ -25860,6 +26289,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatCaptainsky0",
+        "clothGroupId": 1043,
         "internalId": 8612,
         "uniqueEntryId": "wqL65kvbtwtrWmQvu",
         "variantTranslations": {
@@ -25909,6 +26339,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatPineapple",
+    "clothGroupId": 641,
     "internalId": 5279,
     "uniqueEntryId": "dPCd6Ab8DeCJFYskS",
     "variantTranslations": null,
@@ -26135,6 +26566,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatPiratesbandana2",
+        "clothGroupId": 1229,
         "internalId": 13089,
         "uniqueEntryId": "WFxrhr6BfYyCAJsGS",
         "variantTranslations": {
@@ -26163,6 +26595,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatPiratesbandana0",
+        "clothGroupId": 1229,
         "internalId": 12666,
         "uniqueEntryId": "Fqrra2HiK6h6JApNQ",
         "variantTranslations": {
@@ -26191,6 +26624,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatPiratesbandana1",
+        "clothGroupId": 1229,
         "internalId": 13088,
         "uniqueEntryId": "FCqyFhq6XzcnSXqpm",
         "variantTranslations": {
@@ -26240,6 +26674,7 @@
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
     "filename": "CapHatPirate0",
+    "clothGroupId": 593,
     "internalId": 5142,
     "uniqueEntryId": "cKNoCD7vwdECyuDeP",
     "variantTranslations": null,
@@ -26378,6 +26813,7 @@
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
     "filename": "CapOrnamentCPirate0",
+    "clothGroupId": 1255,
     "internalId": 12980,
     "uniqueEntryId": "6NNSm3ERsLbEy5BTC",
     "variantTranslations": null,
@@ -26583,6 +27019,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatWorkcap0",
+        "clothGroupId": 599,
         "internalId": 5148,
         "uniqueEntryId": "by6mbBP6LtRDsEnGb",
         "variantTranslations": {
@@ -26611,6 +27048,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatWorkcap2",
+        "clothGroupId": 599,
         "internalId": 11517,
         "uniqueEntryId": "D2deq4Cs3kzxZhxfT",
         "variantTranslations": {
@@ -26639,6 +27077,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatWorkcap4",
+        "clothGroupId": 599,
         "internalId": 11519,
         "uniqueEntryId": "W8MEs7KCn9gMPGzS8",
         "variantTranslations": {
@@ -26667,6 +27106,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatWorkcap3",
+        "clothGroupId": 599,
         "internalId": 11518,
         "uniqueEntryId": "A4TTtSGv4Y6S7nrHy",
         "variantTranslations": {
@@ -26695,6 +27135,7 @@
         "mannequinPiece": true,
         "sortOrder": 5,
         "filename": "CapHatWorkcap1",
+        "clothGroupId": 599,
         "internalId": 11516,
         "uniqueEntryId": "sDYHTbiZX2M9deKRW",
         "variantTranslations": {
@@ -26744,6 +27185,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatPoliceNavy",
+    "clothGroupId": 592,
     "internalId": 5141,
     "uniqueEntryId": "yfwrPpLDLYjKTwmbt",
     "variantTranslations": null,
@@ -26907,6 +27349,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatKnitcasquette1",
+        "clothGroupId": 935,
         "internalId": 11539,
         "uniqueEntryId": "FEBs8oY4JiFabEvz8",
         "variantTranslations": {
@@ -26935,6 +27378,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatKnitcasquette5",
+        "clothGroupId": 935,
         "internalId": 11543,
         "uniqueEntryId": "iiq5LwcDrvyujdj6m",
         "variantTranslations": {
@@ -26963,6 +27407,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatKnitcasquette2",
+        "clothGroupId": 935,
         "internalId": 11540,
         "uniqueEntryId": "kWEMQ8k696TFEQ7ad",
         "variantTranslations": {
@@ -26991,6 +27436,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "CapHatKnitcasquette3",
+        "clothGroupId": 935,
         "internalId": 11541,
         "uniqueEntryId": "hLQKe6bnAMSEkW3om",
         "variantTranslations": {
@@ -27019,6 +27465,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatKnitcasquette4",
+        "clothGroupId": 935,
         "internalId": 11542,
         "uniqueEntryId": "i2dMhDvcCwmJkaHRz",
         "variantTranslations": {
@@ -27047,6 +27494,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatKnitcasquette0",
+        "clothGroupId": 935,
         "internalId": 6054,
         "uniqueEntryId": "RbFmSEbYbPYhtJBR9",
         "variantTranslations": {
@@ -27096,6 +27544,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapWigRegent",
+    "clothGroupId": 827,
     "internalId": 5689,
     "uniqueEntryId": "jBfmG2MkmbCBcTeyg",
     "variantTranslations": null,
@@ -27259,6 +27708,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapFullfacePowered3",
+        "clothGroupId": 838,
         "internalId": 11796,
         "uniqueEntryId": "gY6w3hNQMAcgSgPxa",
         "variantTranslations": {
@@ -27287,6 +27737,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapFullfacePowered0",
+        "clothGroupId": 838,
         "internalId": 5697,
         "uniqueEntryId": "sBvbWywKWGzoHhvTN",
         "variantTranslations": {
@@ -27315,6 +27766,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapFullfacePowered2",
+        "clothGroupId": 838,
         "internalId": 11795,
         "uniqueEntryId": "BYKxLLgas3qvqijBS",
         "variantTranslations": {
@@ -27343,6 +27795,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapFullfacePowered1",
+        "clothGroupId": 838,
         "internalId": 11794,
         "uniqueEntryId": "2nLjatjz4neFSM28L",
         "variantTranslations": {
@@ -27392,6 +27845,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentHyacinth3",
+    "clothGroupId": 554,
     "internalId": 5098,
     "uniqueEntryId": "MPEexcEJFfRQPPHoq",
     "variantTranslations": null,
@@ -27572,6 +28026,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentPansy3",
+    "clothGroupId": 563,
     "internalId": 5107,
     "uniqueEntryId": "vmtf5bE9cGLDf99Th",
     "variantTranslations": null,
@@ -27752,6 +28207,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentAnemone3",
+    "clothGroupId": 557,
     "internalId": 5101,
     "uniqueEntryId": "BerFDtXNFXSKuaijZ",
     "variantTranslations": null,
@@ -28020,6 +28476,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapFullfaceRacing1",
+        "clothGroupId": 748,
         "internalId": 10237,
         "uniqueEntryId": "KpBh5M485u3R2Lrcc",
         "variantTranslations": {
@@ -28048,6 +28505,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapFullfaceRacing2",
+        "clothGroupId": 748,
         "internalId": 10238,
         "uniqueEntryId": "6hzfbtRroRgefZL9u",
         "variantTranslations": {
@@ -28076,6 +28534,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapFullfaceRacing0",
+        "clothGroupId": 748,
         "internalId": 5443,
         "uniqueEntryId": "v8Teg4WDsBorRnXrd",
         "variantTranslations": {
@@ -28104,6 +28563,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapFullfaceRacing4",
+        "clothGroupId": 748,
         "internalId": 10240,
         "uniqueEntryId": "xvmSpTqeF5pJyYsWF",
         "variantTranslations": {
@@ -28132,6 +28592,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapFullfaceRacing5",
+        "clothGroupId": 748,
         "internalId": 10241,
         "uniqueEntryId": "XEiqcuixofbXJFqm7",
         "variantTranslations": {
@@ -28160,6 +28621,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapFullfaceRacing7",
+        "clothGroupId": 748,
         "internalId": 10243,
         "uniqueEntryId": "yrCyty3XMGQhB6g4d",
         "variantTranslations": {
@@ -28188,6 +28650,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapFullfaceRacing3",
+        "clothGroupId": 748,
         "internalId": 10239,
         "uniqueEntryId": "eoJa8tJsMeMtJWTJF",
         "variantTranslations": {
@@ -28216,6 +28679,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapFullfaceRacing6",
+        "clothGroupId": 748,
         "internalId": 10242,
         "uniqueEntryId": "CjhqExwCjEKGvvKKu",
         "variantTranslations": {
@@ -28332,6 +28796,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatRain5",
+        "clothGroupId": 1147,
         "internalId": 9573,
         "uniqueEntryId": "WiE7mCBg8Xm3eq9MP",
         "variantTranslations": {
@@ -28360,6 +28825,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatRain4",
+        "clothGroupId": 1147,
         "internalId": 9572,
         "uniqueEntryId": "8zwaRco9qxQLzTZeT",
         "variantTranslations": {
@@ -28388,6 +28854,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatRain2",
+        "clothGroupId": 1147,
         "internalId": 9570,
         "uniqueEntryId": "dBGze9DKCaS8XzhNm",
         "variantTranslations": {
@@ -28416,6 +28883,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatRain0",
+        "clothGroupId": 1147,
         "internalId": 7394,
         "uniqueEntryId": "TJPYFnhwcvrkbXTRE",
         "variantTranslations": {
@@ -28444,6 +28912,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatRain1",
+        "clothGroupId": 1147,
         "internalId": 9569,
         "uniqueEntryId": "eoaP4vDe5vtRvpsvo",
         "variantTranslations": {
@@ -28472,6 +28941,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatRain3",
+        "clothGroupId": 1147,
         "internalId": 9571,
         "uniqueEntryId": "Rg9Ro56tvjEjnekqN",
         "variantTranslations": {
@@ -28500,6 +28970,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatRain6",
+        "clothGroupId": 1147,
         "internalId": 9574,
         "uniqueEntryId": "6qPbnNZS5PnrwWEjE",
         "variantTranslations": {
@@ -28528,6 +28999,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatRain7",
+        "clothGroupId": 1147,
         "internalId": 9575,
         "uniqueEntryId": "nYJgQys2nLuNu9n3M",
         "variantTranslations": {
@@ -28686,6 +29158,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentLRibbon6",
+        "clothGroupId": 942,
         "internalId": 10855,
         "uniqueEntryId": "Za6NEdY6H8kymJjZD",
         "variantTranslations": {
@@ -28714,6 +29187,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentLRibbon7",
+        "clothGroupId": 942,
         "internalId": 10856,
         "uniqueEntryId": "S6o27pK4x9JPsETr4",
         "variantTranslations": {
@@ -28742,6 +29216,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapOrnamentLRibbon1",
+        "clothGroupId": 942,
         "internalId": 2610,
         "uniqueEntryId": "Cm8LuNKxhXSxdPGbf",
         "variantTranslations": {
@@ -28770,6 +29245,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapOrnamentLRibbon5",
+        "clothGroupId": 942,
         "internalId": 10854,
         "uniqueEntryId": "CgYXHSbH8Bn9HYfHk",
         "variantTranslations": {
@@ -28798,6 +29274,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapOrnamentLRibbon4",
+        "clothGroupId": 942,
         "internalId": 10853,
         "uniqueEntryId": "J6P6YsgHwNoNq2LAk",
         "variantTranslations": {
@@ -28826,6 +29303,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapOrnamentLRibbon3",
+        "clothGroupId": 942,
         "internalId": 10852,
         "uniqueEntryId": "NS2NKE2exTtytCZB2",
         "variantTranslations": {
@@ -28854,6 +29332,7 @@
         "mannequinPiece": true,
         "sortOrder": 7,
         "filename": "CapOrnamentLRibbon0",
+        "clothGroupId": 942,
         "internalId": 2609,
         "uniqueEntryId": "ZvaqnH8RjnGNJ8Mz2",
         "variantTranslations": {
@@ -28882,6 +29361,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapOrnamentLRibbon2",
+        "clothGroupId": 942,
         "internalId": 10851,
         "uniqueEntryId": "bhLAKNQyDxoq2rerS",
         "variantTranslations": {
@@ -29019,6 +29499,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatGarlystrawhat1",
+        "clothGroupId": 1119,
         "internalId": 11990,
         "uniqueEntryId": "uwjz7ukHv4SHPXK5z",
         "variantTranslations": {
@@ -29047,6 +29528,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatGarlystrawhat3",
+        "clothGroupId": 1119,
         "internalId": 11992,
         "uniqueEntryId": "qAraqZxBigCooecK5",
         "variantTranslations": {
@@ -29075,6 +29557,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatGarlystrawhat2",
+        "clothGroupId": 1119,
         "internalId": 11991,
         "uniqueEntryId": "5SgJGpo9igFCaPRoN",
         "variantTranslations": {
@@ -29103,6 +29586,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "CapHatGarlystrawhat0",
+        "clothGroupId": 1119,
         "internalId": 9868,
         "uniqueEntryId": "rLYhFzqMMmBMunom8",
         "variantTranslations": {
@@ -29240,6 +29724,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentLMinistrawhat2",
+        "clothGroupId": 954,
         "internalId": 10895,
         "uniqueEntryId": "YLtzZraTojRJKEEwD",
         "variantTranslations": {
@@ -29268,6 +29753,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentLMinistrawhat1",
+        "clothGroupId": 954,
         "internalId": 10894,
         "uniqueEntryId": "x9BQmtbCtQBA9AYBt",
         "variantTranslations": {
@@ -29296,6 +29782,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapOrnamentLMinistrawhat0",
+        "clothGroupId": 954,
         "internalId": 7273,
         "uniqueEntryId": "rMzmWuC9KfJf6peAm",
         "variantTranslations": {
@@ -29345,6 +29832,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentRose1",
+    "clothGroupId": 567,
     "internalId": 5111,
     "uniqueEntryId": "jnYpwpwEuPzZBLyNE",
     "variantTranslations": null,
@@ -29567,6 +30055,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatCrownRed",
+    "clothGroupId": 667,
     "internalId": 5307,
     "uniqueEntryId": "s8RSxedxt7JkFnGCw",
     "variantTranslations": null,
@@ -29730,6 +30219,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatSafetyhat4",
+        "clothGroupId": 590,
         "internalId": 10218,
         "uniqueEntryId": "9sEsTF8fz25uiKeyu",
         "variantTranslations": {
@@ -29758,6 +30248,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatSafetyhat2",
+        "clothGroupId": 590,
         "internalId": 10216,
         "uniqueEntryId": "dhHYz2RRjWayfkQEH",
         "variantTranslations": {
@@ -29786,6 +30277,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatSafetyhat0",
+        "clothGroupId": 590,
         "internalId": 5139,
         "uniqueEntryId": "yLTcbe5oBBNaBeZ6C",
         "variantTranslations": {
@@ -29814,6 +30306,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatSafetyhat3",
+        "clothGroupId": 590,
         "internalId": 10217,
         "uniqueEntryId": "Ln5vmrGq2hJkR3PtT",
         "variantTranslations": {
@@ -29842,6 +30335,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatSafetyhat1",
+        "clothGroupId": 590,
         "internalId": 10215,
         "uniqueEntryId": "6jCASto2hkup7SnCx",
         "variantTranslations": {
@@ -29958,6 +30452,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatSailor0",
+        "clothGroupId": 617,
         "internalId": 5265,
         "uniqueEntryId": "4X4XmNgYXYAzzNtdi",
         "variantTranslations": {
@@ -29986,6 +30481,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatSailor2",
+        "clothGroupId": 617,
         "internalId": 10752,
         "uniqueEntryId": "XeLSB8Q8sGesA7we4",
         "variantTranslations": {
@@ -30014,6 +30510,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatSailor1",
+        "clothGroupId": 617,
         "internalId": 10751,
         "uniqueEntryId": "n86dWH8vAaQB7WEPw",
         "variantTranslations": {
@@ -30130,6 +30627,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapCostumeSamurai3",
+        "clothGroupId": 702,
         "internalId": 11879,
         "uniqueEntryId": "Ffq5iTxhgCu7y3DSS",
         "variantTranslations": {
@@ -30158,6 +30656,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapCostumeSamurai1",
+        "clothGroupId": 702,
         "internalId": 11877,
         "uniqueEntryId": "tYs5STREcJNLa54Bg",
         "variantTranslations": {
@@ -30186,6 +30685,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapCostumeSamurai0",
+        "clothGroupId": 702,
         "internalId": 5386,
         "uniqueEntryId": "CRaXaihromqkoANCX",
         "variantTranslations": {
@@ -30214,6 +30714,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapCostumeSamurai4",
+        "clothGroupId": 702,
         "internalId": 11880,
         "uniqueEntryId": "ns5rMmrK588zgh69K",
         "variantTranslations": {
@@ -30242,6 +30743,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapCostumeSamurai2",
+        "clothGroupId": 702,
         "internalId": 11878,
         "uniqueEntryId": "mA3xB6PbuWSJYRfGL",
         "variantTranslations": {
@@ -30291,6 +30793,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapWigSamurai",
+    "clothGroupId": 828,
     "internalId": 5690,
     "uniqueEntryId": "sPyM96NbCMMthDRAT",
     "variantTranslations": null,
@@ -30433,6 +30936,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatBachelor0",
+        "clothGroupId": 588,
         "internalId": 5137,
         "uniqueEntryId": "ngKiFRMtrgD6LBE6A",
         "variantTranslations": {
@@ -30461,6 +30965,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatBachelor3",
+        "clothGroupId": 588,
         "internalId": 11869,
         "uniqueEntryId": "hfcgP2if8TbvFFDdK",
         "variantTranslations": {
@@ -30489,6 +30994,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatBachelor1",
+        "clothGroupId": 588,
         "internalId": 11867,
         "uniqueEntryId": "v3t8KjW53rwn4gX5n",
         "variantTranslations": {
@@ -30517,6 +31023,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatBachelor2",
+        "clothGroupId": 588,
         "internalId": 11868,
         "uniqueEntryId": "FRbH2BN8yuZ4bMdKK",
         "variantTranslations": {
@@ -30612,6 +31119,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatSchool0",
+        "clothGroupId": 533,
         "internalId": 4739,
         "uniqueEntryId": "ihFYQjYM3HLa4CQNi",
         "variantTranslations": {
@@ -30640,6 +31148,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatSchool1",
+        "clothGroupId": 533,
         "internalId": 10867,
         "uniqueEntryId": "iAunhufuX73SZi4P4",
         "variantTranslations": {
@@ -30756,6 +31265,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatShallow5",
+        "clothGroupId": 681,
         "internalId": 10942,
         "uniqueEntryId": "sjPzMYvFq3nxYz9xZ",
         "variantTranslations": {
@@ -30784,6 +31294,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatShallow3",
+        "clothGroupId": 681,
         "internalId": 10940,
         "uniqueEntryId": "beHqfsQ2Ndd6cjNrm",
         "variantTranslations": {
@@ -30812,6 +31323,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatShallow0",
+        "clothGroupId": 681,
         "internalId": 5329,
         "uniqueEntryId": "QnkCaKsFnY7koZXAn",
         "variantTranslations": {
@@ -30840,6 +31352,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatShallow2",
+        "clothGroupId": 681,
         "internalId": 10939,
         "uniqueEntryId": "8dML5ksiTK3QpzaQn",
         "variantTranslations": {
@@ -30868,6 +31381,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatShallow4",
+        "clothGroupId": 681,
         "internalId": 10941,
         "uniqueEntryId": "7RbsKkMeXDZW25fX5",
         "variantTranslations": {
@@ -30896,6 +31410,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatShallow6",
+        "clothGroupId": 681,
         "internalId": 10943,
         "uniqueEntryId": "q7wFGkmqHbSbmowMz",
         "variantTranslations": {
@@ -30924,6 +31439,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatShallow1",
+        "clothGroupId": 681,
         "internalId": 10938,
         "uniqueEntryId": "ASNvzDY8sNYfWMx7D",
         "variantTranslations": {
@@ -31061,6 +31577,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapBangsSheep0",
+        "clothGroupId": 759,
         "internalId": 5465,
         "uniqueEntryId": "RpK4nNwMTTACXuzhs",
         "variantTranslations": {
@@ -31089,6 +31606,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapBangsSheep1",
+        "clothGroupId": 759,
         "internalId": 11708,
         "uniqueEntryId": "fBYmX7mH9s8KRCb7i",
         "variantTranslations": {
@@ -31117,6 +31635,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapBangsSheep2",
+        "clothGroupId": 759,
         "internalId": 11709,
         "uniqueEntryId": "qnbki7izJQJh3WKAe",
         "variantTranslations": {
@@ -31145,6 +31664,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapBangsSheep3",
+        "clothGroupId": 759,
         "internalId": 11710,
         "uniqueEntryId": "YXFhijLketa7Gohf5",
         "variantTranslations": {
@@ -31261,6 +31781,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatChina3",
+        "clothGroupId": 647,
         "internalId": 11851,
         "uniqueEntryId": "wAXG8RJJ7TpyncmcF",
         "variantTranslations": {
@@ -31289,6 +31810,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatChina2",
+        "clothGroupId": 647,
         "internalId": 11850,
         "uniqueEntryId": "aSwkTGeBh4yrwfxAR",
         "variantTranslations": {
@@ -31317,6 +31839,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatChina0",
+        "clothGroupId": 647,
         "internalId": 5284,
         "uniqueEntryId": "CCWstWanNNy9NeknS",
         "variantTranslations": {
@@ -31345,6 +31868,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatChina1",
+        "clothGroupId": 647,
         "internalId": 11849,
         "uniqueEntryId": "xPsEvMLiWZMoK6oGz",
         "variantTranslations": {
@@ -31394,6 +31918,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentMum3",
+    "clothGroupId": 575,
     "internalId": 5119,
     "uniqueEntryId": "azamBTFvDxNkLTXFL",
     "variantTranslations": null,
@@ -31620,6 +32145,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatSkate3",
+        "clothGroupId": 1114,
         "internalId": 12050,
         "uniqueEntryId": "j9Bx4gQDy2tCdzDj7",
         "variantTranslations": {
@@ -31648,6 +32174,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatSkate2",
+        "clothGroupId": 1114,
         "internalId": 12049,
         "uniqueEntryId": "K88c9EJkFnsQh6K3v",
         "variantTranslations": {
@@ -31676,6 +32203,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatSkate0",
+        "clothGroupId": 1114,
         "internalId": 9863,
         "uniqueEntryId": "3kRAKsgGyr38iCCk5",
         "variantTranslations": {
@@ -31704,6 +32232,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatSkate1",
+        "clothGroupId": 1114,
         "internalId": 12048,
         "uniqueEntryId": "ScBrRq96c3DkcRGTW",
         "variantTranslations": null,
@@ -31716,6 +32245,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatSkate4",
+        "clothGroupId": 1114,
         "internalId": 12051,
         "uniqueEntryId": "N8xLFFhnWd9dPNL4P",
         "variantTranslations": {
@@ -31765,6 +32295,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapCostumeSkullWhite",
+    "clothGroupId": 680,
     "internalId": 5328,
     "uniqueEntryId": "QypAPiQ8g9ALJ5sZ2",
     "variantTranslations": null,
@@ -31928,6 +32459,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapFullfaceFaceknit1",
+        "clothGroupId": 679,
         "internalId": 10826,
         "uniqueEntryId": "ogspBj87pEQMkarDs",
         "variantTranslations": {
@@ -31956,6 +32488,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapFullfaceFaceknit3",
+        "clothGroupId": 679,
         "internalId": 10828,
         "uniqueEntryId": "67NFw4hCiQh949CX5",
         "variantTranslations": {
@@ -31984,6 +32517,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapFullfaceFaceknit2",
+        "clothGroupId": 679,
         "internalId": 10827,
         "uniqueEntryId": "3qjyhB6NyeDpHHTk8",
         "variantTranslations": {
@@ -32012,6 +32546,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapFullfaceFaceknit0",
+        "clothGroupId": 679,
         "internalId": 5327,
         "uniqueEntryId": "XchdHLkJEuMNpTtS6",
         "variantTranslations": {
@@ -32040,6 +32575,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapFullfaceFaceknit4",
+        "clothGroupId": 679,
         "internalId": 10829,
         "uniqueEntryId": "Hfs3utBiDRksPaTjp",
         "variantTranslations": {
@@ -32089,6 +32625,7 @@
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
     "filename": "CapHatEggsky0",
+    "clothGroupId": 1199,
     "internalId": 12443,
     "uniqueEntryId": "gx5CGMFvPAuqsgYye",
     "variantTranslations": null,
@@ -32357,6 +32894,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentLMinisilkhat1",
+        "clothGroupId": 955,
         "internalId": 11057,
         "uniqueEntryId": "KqxGXsprWBskSFuFE",
         "variantTranslations": {
@@ -32385,6 +32923,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapOrnamentLMinisilkhat2",
+        "clothGroupId": 955,
         "internalId": 11058,
         "uniqueEntryId": "RteWrMv6hArJmtuQp",
         "variantTranslations": {
@@ -32413,6 +32952,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapOrnamentLMinisilkhat0",
+        "clothGroupId": 955,
         "internalId": 7286,
         "uniqueEntryId": "QTsXxAtuzdaCEe22Q",
         "variantTranslations": {
@@ -32462,6 +33002,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapCostumeSnowball0",
+    "clothGroupId": 1040,
     "internalId": 8609,
     "uniqueEntryId": "GqFZJ5PfCqn93XvrQ",
     "variantTranslations": null,
@@ -32709,6 +33250,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatSnowknit7",
+        "clothGroupId": 724,
         "internalId": 10956,
         "uniqueEntryId": "AMEAt7bNv2FKkuErK",
         "variantTranslations": {
@@ -32737,6 +33279,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatSnowknit1",
+        "clothGroupId": 724,
         "internalId": 10950,
         "uniqueEntryId": "Aci2hRSoLELPTmcfZ",
         "variantTranslations": {
@@ -32765,6 +33308,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatSnowknit6",
+        "clothGroupId": 724,
         "internalId": 10955,
         "uniqueEntryId": "a6SPpkGN522Q594Go",
         "variantTranslations": {
@@ -32793,6 +33337,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatSnowknit3",
+        "clothGroupId": 724,
         "internalId": 10952,
         "uniqueEntryId": "mF9w5Xb2ZwWYCuQeE",
         "variantTranslations": {
@@ -32821,6 +33366,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatSnowknit5",
+        "clothGroupId": 724,
         "internalId": 10954,
         "uniqueEntryId": "kKnRd3kW3MNmyPC7s",
         "variantTranslations": {
@@ -32849,6 +33395,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatSnowknit4",
+        "clothGroupId": 724,
         "internalId": 10953,
         "uniqueEntryId": "3rJbwrvpBYreKNa2g",
         "variantTranslations": {
@@ -32877,6 +33424,7 @@
         "mannequinPiece": true,
         "sortOrder": 7,
         "filename": "CapHatSnowknit0",
+        "clothGroupId": 724,
         "internalId": 5408,
         "uniqueEntryId": "AB966jKFh6pjSggnF",
         "variantTranslations": {
@@ -32905,6 +33453,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatSnowknit2",
+        "clothGroupId": 724,
         "internalId": 10951,
         "uniqueEntryId": "MAniJeYM33ThMatzJ",
         "variantTranslations": {
@@ -33042,6 +33591,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatIcecream0",
+        "clothGroupId": 951,
         "internalId": 6998,
         "uniqueEntryId": "jqpTmDvBaG4prYPDn",
         "variantTranslations": {
@@ -33070,6 +33620,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatIcecream7",
+        "clothGroupId": 951,
         "internalId": 10841,
         "uniqueEntryId": "SKNM9PN6Zf5sY3ydD",
         "variantTranslations": null,
@@ -33082,6 +33633,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatIcecream3",
+        "clothGroupId": 951,
         "internalId": 10837,
         "uniqueEntryId": "MsR4jMTnbtnrhya9C",
         "variantTranslations": null,
@@ -33094,6 +33646,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatIcecream2",
+        "clothGroupId": 951,
         "internalId": 10836,
         "uniqueEntryId": "nKHTeWb7yBHnckSXJ",
         "variantTranslations": null,
@@ -33106,6 +33659,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatIcecream4",
+        "clothGroupId": 951,
         "internalId": 10838,
         "uniqueEntryId": "PPyYhSmHXc3PJroiL",
         "variantTranslations": {
@@ -33134,6 +33688,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatIcecream5",
+        "clothGroupId": 951,
         "internalId": 10839,
         "uniqueEntryId": "gvf3HCe3WiesRHrCt",
         "variantTranslations": {
@@ -33162,6 +33717,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatIcecream6",
+        "clothGroupId": 951,
         "internalId": 10840,
         "uniqueEntryId": "q8Nm5HsAo9q7NYG3F",
         "variantTranslations": {
@@ -33190,6 +33746,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatIcecream1",
+        "clothGroupId": 951,
         "internalId": 10835,
         "uniqueEntryId": "M54jLyHnF35q35mq2",
         "variantTranslations": {
@@ -33327,6 +33884,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatSombrero5",
+        "clothGroupId": 589,
         "internalId": 10872,
         "uniqueEntryId": "Ds5rhcNjFXAhWqY37",
         "variantTranslations": {
@@ -33355,6 +33913,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatSombrero7",
+        "clothGroupId": 589,
         "internalId": 10874,
         "uniqueEntryId": "FBYkFcvhkWottMJHD",
         "variantTranslations": {
@@ -33383,6 +33942,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatSombrero3",
+        "clothGroupId": 589,
         "internalId": 10870,
         "uniqueEntryId": "ZEDjFRuMW9NjjPJxF",
         "variantTranslations": {
@@ -33411,6 +33971,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatSombrero2",
+        "clothGroupId": 589,
         "internalId": 10869,
         "uniqueEntryId": "vJLJ9MuDhz8XCubPc",
         "variantTranslations": {
@@ -33439,6 +34000,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatSombrero6",
+        "clothGroupId": 589,
         "internalId": 10873,
         "uniqueEntryId": "dXo753eoQjnH3aJYp",
         "variantTranslations": {
@@ -33467,6 +34029,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatSombrero0",
+        "clothGroupId": 589,
         "internalId": 5138,
         "uniqueEntryId": "bhiup2unfD28DQY39",
         "variantTranslations": null,
@@ -33479,6 +34042,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatSombrero4",
+        "clothGroupId": 589,
         "internalId": 10871,
         "uniqueEntryId": "Zo847tN5m4B54M33D",
         "variantTranslations": {
@@ -33507,6 +34071,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatSombrero1",
+        "clothGroupId": 589,
         "internalId": 10868,
         "uniqueEntryId": "Y8aKytTopgxHroKA5",
         "variantTranslations": null,
@@ -33540,6 +34105,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapFullfaceAstronautWhite",
+    "clothGroupId": 717,
     "internalId": 5394,
     "uniqueEntryId": "4iAdswfjHr2WDddrj",
     "variantTranslations": null,
@@ -33661,6 +34227,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatSports1",
+        "clothGroupId": 664,
         "internalId": 11528,
         "uniqueEntryId": "mLrPan5QQTWKmtHmB",
         "variantTranslations": {
@@ -33689,6 +34256,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatSports3",
+        "clothGroupId": 664,
         "internalId": 11530,
         "uniqueEntryId": "k7HjoZFMCni8ruaaa",
         "variantTranslations": {
@@ -33717,6 +34285,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatSports0",
+        "clothGroupId": 664,
         "internalId": 5305,
         "uniqueEntryId": "NcyfadoSKrXEfgHC2",
         "variantTranslations": {
@@ -33745,6 +34314,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatSports2",
+        "clothGroupId": 664,
         "internalId": 11529,
         "uniqueEntryId": "KZRoEWu5C87p5v6bw",
         "variantTranslations": {
@@ -33794,6 +34364,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapFullfaceKurokoBlack",
+    "clothGroupId": 934,
     "internalId": 6053,
     "uniqueEntryId": "3iuLkRkAKbp4KbfET",
     "variantTranslations": null,
@@ -33957,6 +34528,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentLStarhairpin4",
+        "clothGroupId": 1107,
         "internalId": 12172,
         "uniqueEntryId": "Sj22yQDh6XZ548xNs",
         "variantTranslations": {
@@ -33985,6 +34557,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentLStarhairpin1",
+        "clothGroupId": 1107,
         "internalId": 12169,
         "uniqueEntryId": "K8nfGv85ED4JYm2ik",
         "variantTranslations": {
@@ -34013,6 +34586,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapOrnamentLStarhairpin0",
+        "clothGroupId": 1107,
         "internalId": 9856,
         "uniqueEntryId": "k4qSsaYTabo563Qc6",
         "variantTranslations": {
@@ -34041,6 +34615,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapOrnamentLStarhairpin3",
+        "clothGroupId": 1107,
         "internalId": 12171,
         "uniqueEntryId": "YRFxXFqCAc2KQpACS",
         "variantTranslations": {
@@ -34069,6 +34644,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapOrnamentLStarhairpin2",
+        "clothGroupId": 1107,
         "internalId": 12170,
         "uniqueEntryId": "X5FEM3hh6FmwyaPSv",
         "variantTranslations": {
@@ -34118,6 +34694,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapCostumeStar0",
+    "clothGroupId": 1113,
     "internalId": 9862,
     "uniqueEntryId": "GeCyKvrDGPAceAQQP",
     "variantTranslations": null,
@@ -34298,6 +34875,7 @@
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
     "filename": "CapHatEggrock0",
+    "clothGroupId": 1196,
     "internalId": 12440,
     "uniqueEntryId": "6sSucNJN4o9egdsT6",
     "variantTranslations": null,
@@ -34566,6 +35144,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatKankanbo5",
+        "clothGroupId": 635,
         "internalId": 10879,
         "uniqueEntryId": "YTxDHZqDGSAH3Fmjf",
         "variantTranslations": {
@@ -34594,6 +35173,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapHatKankanbo7",
+        "clothGroupId": 635,
         "internalId": 10881,
         "uniqueEntryId": "im6Xw6Z55KgRGQWQR",
         "variantTranslations": {
@@ -34622,6 +35202,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatKankanbo3",
+        "clothGroupId": 635,
         "internalId": 10877,
         "uniqueEntryId": "rs7Ts2r6yxNjsWMta",
         "variantTranslations": {
@@ -34650,6 +35231,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "CapHatKankanbo6",
+        "clothGroupId": 635,
         "internalId": 10880,
         "uniqueEntryId": "2PYjpd6DsvQZPYdYj",
         "variantTranslations": {
@@ -34678,6 +35260,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatKankanbo4",
+        "clothGroupId": 635,
         "internalId": 10878,
         "uniqueEntryId": "EEM45eNNW2kZ8umYQ",
         "variantTranslations": {
@@ -34706,6 +35289,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatKankanbo1",
+        "clothGroupId": 635,
         "internalId": 10875,
         "uniqueEntryId": "fSWYxi2FLsE7yM3xp",
         "variantTranslations": {
@@ -34734,6 +35318,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatKankanbo2",
+        "clothGroupId": 635,
         "internalId": 10876,
         "uniqueEntryId": "8NywDitrMMG8nx5b9",
         "variantTranslations": {
@@ -34762,6 +35347,7 @@
         "mannequinPiece": true,
         "sortOrder": 8,
         "filename": "CapHatKankanbo0",
+        "clothGroupId": 635,
         "internalId": 5259,
         "uniqueEntryId": "MjLrcMkSW6xz4EWuj",
         "variantTranslations": {
@@ -34899,6 +35485,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatStrawhat2",
+        "clothGroupId": 719,
         "internalId": 10893,
         "uniqueEntryId": "7B9BjYT2FRp9yzea9",
         "variantTranslations": {
@@ -34927,6 +35514,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatStrawhat1",
+        "clothGroupId": 719,
         "internalId": 10892,
         "uniqueEntryId": "s5eSXgfpd3SWJ7686",
         "variantTranslations": {
@@ -34955,6 +35543,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatStrawhat0",
+        "clothGroupId": 719,
         "internalId": 5398,
         "uniqueEntryId": "2kw2eqi5XFSgHjngX",
         "variantTranslations": {
@@ -35004,6 +35593,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatSandogasa0",
+    "clothGroupId": 953,
     "internalId": 7254,
     "uniqueEntryId": "cz6T8vemWpFgE489x",
     "variantTranslations": null,
@@ -35163,6 +35753,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatStrawberry",
+    "clothGroupId": 639,
     "internalId": 5277,
     "uniqueEntryId": "R8fyQu6e76ZM7bMhp",
     "variantTranslations": null,
@@ -35347,6 +35938,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatStudent0",
+        "clothGroupId": 1044,
         "internalId": 8613,
         "uniqueEntryId": "LKXDnCJeGKiLRBdTW",
         "variantTranslations": {
@@ -35375,6 +35967,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatStudent3",
+        "clothGroupId": 1044,
         "internalId": 11823,
         "uniqueEntryId": "zuDE5ZkoDRkcLg7Ws",
         "variantTranslations": {
@@ -35403,6 +35996,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatStudent5",
+        "clothGroupId": 1044,
         "internalId": 11825,
         "uniqueEntryId": "FqCPfJocwnAnQ2pHr",
         "variantTranslations": {
@@ -35431,6 +36025,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatStudent1",
+        "clothGroupId": 1044,
         "internalId": 11821,
         "uniqueEntryId": "pLQ7pK4M4tLsiFaMm",
         "variantTranslations": {
@@ -35459,6 +36054,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatStudent2",
+        "clothGroupId": 1044,
         "internalId": 11822,
         "uniqueEntryId": "6oevkR2qmiTfB24rJ",
         "variantTranslations": {
@@ -35487,6 +36083,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatStudent6",
+        "clothGroupId": 1044,
         "internalId": 11826,
         "uniqueEntryId": "3uDtRSCPpTDawSyDZ",
         "variantTranslations": {
@@ -35515,6 +36112,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatStudent4",
+        "clothGroupId": 1044,
         "internalId": 11824,
         "uniqueEntryId": "7TGkAfjWKwaMSPsq6",
         "variantTranslations": {
@@ -35564,6 +36162,7 @@
     "versionAdded": "1.2.0",
     "versionUnlocked": "1.2.1c",
     "filename": "CapHatSummer0",
+    "clothGroupId": 1222,
     "internalId": 12577,
     "uniqueEntryId": "joCTjPoPgEfNraHSH",
     "variantTranslations": null,
@@ -35727,6 +36326,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatItamae0",
+        "clothGroupId": 644,
         "internalId": 5281,
         "uniqueEntryId": "DKpSqDbfvc7Ac3NWb",
         "variantTranslations": {
@@ -35755,6 +36355,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatItamae1",
+        "clothGroupId": 644,
         "internalId": 11814,
         "uniqueEntryId": "jSxawiyrbehb75eyJ",
         "variantTranslations": {
@@ -35892,6 +36493,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatSwim3",
+        "clothGroupId": 646,
         "internalId": 10755,
         "uniqueEntryId": "uAS3Zs4ySQ4pyH6RT",
         "variantTranslations": {
@@ -35920,6 +36522,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatSwim4",
+        "clothGroupId": 646,
         "internalId": 10756,
         "uniqueEntryId": "rr8CrNSDXd97hv7nG",
         "variantTranslations": {
@@ -35948,6 +36551,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatSwim2",
+        "clothGroupId": 646,
         "internalId": 10754,
         "uniqueEntryId": "KQRwKkZbrS9Hp3Pqn",
         "variantTranslations": {
@@ -35976,6 +36580,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatSwim6",
+        "clothGroupId": 646,
         "internalId": 10758,
         "uniqueEntryId": "TwmdLhEJvcAMW5uQd",
         "variantTranslations": {
@@ -36004,6 +36609,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatSwim0",
+        "clothGroupId": 646,
         "internalId": 5283,
         "uniqueEntryId": "4S6oMqjYboJTkYDYa",
         "variantTranslations": {
@@ -36032,6 +36638,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatSwim7",
+        "clothGroupId": 646,
         "internalId": 10759,
         "uniqueEntryId": "udqqHrSyThDu74dYm",
         "variantTranslations": {
@@ -36060,6 +36667,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatSwim1",
+        "clothGroupId": 646,
         "internalId": 10753,
         "uniqueEntryId": "J8ptRi3hr9cA7ygw5",
         "variantTranslations": {
@@ -36088,6 +36696,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatSwim5",
+        "clothGroupId": 646,
         "internalId": 10757,
         "uniqueEntryId": "ygBbSEHmCiJKFM2qa",
         "variantTranslations": {
@@ -36204,6 +36813,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatScotland1",
+        "clothGroupId": 936,
         "internalId": 11544,
         "uniqueEntryId": "8MbGqyymgLtiQRKoe",
         "variantTranslations": {
@@ -36232,6 +36842,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatScotland0",
+        "clothGroupId": 936,
         "internalId": 6055,
         "uniqueEntryId": "Qq6wLbwHJERy8iPM8",
         "variantTranslations": {
@@ -36260,6 +36871,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatScotland3",
+        "clothGroupId": 936,
         "internalId": 11546,
         "uniqueEntryId": "3kErrPCAe35tSu5D3",
         "variantTranslations": {
@@ -36288,6 +36900,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatScotland2",
+        "clothGroupId": 936,
         "internalId": 11545,
         "uniqueEntryId": "74wMAqC9ZuKBRWFif",
         "variantTranslations": {
@@ -36446,6 +37059,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatTowel0",
+        "clothGroupId": 669,
         "internalId": 5311,
         "uniqueEntryId": "3A87hGGENrpxFjCBM",
         "variantTranslations": {
@@ -36474,6 +37088,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatTowel1",
+        "clothGroupId": 669,
         "internalId": 10767,
         "uniqueEntryId": "QEsetWK6k6rA3KjT7",
         "variantTranslations": {
@@ -36502,6 +37117,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatTowel5",
+        "clothGroupId": 669,
         "internalId": 10771,
         "uniqueEntryId": "Cu6xAyJH8rCoWRJMb",
         "variantTranslations": {
@@ -36530,6 +37146,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatTowel4",
+        "clothGroupId": 669,
         "internalId": 10770,
         "uniqueEntryId": "uSWxzgQqkwXCTMdnz",
         "variantTranslations": {
@@ -36558,6 +37175,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatTowel2",
+        "clothGroupId": 669,
         "internalId": 10768,
         "uniqueEntryId": "kgXFxnTS4aTbADwf8",
         "variantTranslations": {
@@ -36586,6 +37204,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatTowel3",
+        "clothGroupId": 669,
         "internalId": 10769,
         "uniqueEntryId": "TuBbeoKqtgtPZZEGo",
         "variantTranslations": {
@@ -36702,6 +37321,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatNightcap4",
+        "clothGroupId": 665,
         "internalId": 10929,
         "uniqueEntryId": "HGt3DPCTNwisbCW9m",
         "variantTranslations": {
@@ -36730,6 +37350,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatNightcap3",
+        "clothGroupId": 665,
         "internalId": 10928,
         "uniqueEntryId": "Yzut5GCm5NybgcDdz",
         "variantTranslations": {
@@ -36758,6 +37379,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatNightcap5",
+        "clothGroupId": 665,
         "internalId": 10930,
         "uniqueEntryId": "My8DR9fYtQhGtpQXL",
         "variantTranslations": {
@@ -36786,6 +37408,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatNightcap7",
+        "clothGroupId": 665,
         "internalId": 10932,
         "uniqueEntryId": "6BN3G63JNZJ9jDhAL",
         "variantTranslations": {
@@ -36814,6 +37437,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatNightcap2",
+        "clothGroupId": 665,
         "internalId": 10927,
         "uniqueEntryId": "2kgwivjrJAf5ypjrF",
         "variantTranslations": {
@@ -36842,6 +37466,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatNightcap0",
+        "clothGroupId": 665,
         "internalId": 5304,
         "uniqueEntryId": "t4LGnGcdMvkBRWkTk",
         "variantTranslations": {
@@ -36870,6 +37495,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapHatNightcap1",
+        "clothGroupId": 665,
         "internalId": 10926,
         "uniqueEntryId": "vrvm6dSuy6M92diiv",
         "variantTranslations": {
@@ -36898,6 +37524,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapHatNightcap6",
+        "clothGroupId": 665,
         "internalId": 10931,
         "uniqueEntryId": "QWqrKbreY36KWShd5",
         "variantTranslations": {
@@ -37056,6 +37683,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentCTiara0",
+        "clothGroupId": 961,
         "internalId": 7412,
         "uniqueEntryId": "wPnrbYEAzgiH4MBCr",
         "variantTranslations": {
@@ -37084,6 +37712,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapOrnamentCTiara1",
+        "clothGroupId": 961,
         "internalId": 9751,
         "uniqueEntryId": "Dbzikn9yDDyrjfzhv",
         "variantTranslations": null,
@@ -37096,6 +37725,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapOrnamentCTiara2",
+        "clothGroupId": 961,
         "internalId": 9752,
         "uniqueEntryId": "KQMQb3f7wmZFduaPQ",
         "variantTranslations": {
@@ -37254,6 +37884,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapWigPrincess0",
+        "clothGroupId": 1008,
         "internalId": 6092,
         "uniqueEntryId": "dhMP2ThwJYzisAXRH",
         "variantTranslations": {
@@ -37282,6 +37913,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapWigPrincess2",
+        "clothGroupId": 1008,
         "internalId": 9750,
         "uniqueEntryId": "fsD6pcbWiDmdnF9Qr",
         "variantTranslations": null,
@@ -37294,6 +37926,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapWigPrincess1",
+        "clothGroupId": 1008,
         "internalId": 9749,
         "uniqueEntryId": "EdQfDQxeZYBGryJop",
         "variantTranslations": {
@@ -37431,6 +38064,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatSilkhat1",
+        "clothGroupId": 580,
         "internalId": 11033,
         "uniqueEntryId": "NfzKSM4CXGwoitHMy",
         "variantTranslations": {
@@ -37459,6 +38093,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatSilkhat0",
+        "clothGroupId": 580,
         "internalId": 5129,
         "uniqueEntryId": "YvQcqHBTgjgyuCG3W",
         "variantTranslations": {
@@ -37487,6 +38122,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatSilkhat4",
+        "clothGroupId": 580,
         "internalId": 11036,
         "uniqueEntryId": "uydvrPNDFed35vTaf",
         "variantTranslations": {
@@ -37515,6 +38151,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatSilkhat5",
+        "clothGroupId": 580,
         "internalId": 11037,
         "uniqueEntryId": "AFCuyyQqrQGgLTC9G",
         "variantTranslations": {
@@ -37543,6 +38180,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatSilkhat3",
+        "clothGroupId": 580,
         "internalId": 11035,
         "uniqueEntryId": "Gn2rW4vjXj6vw5Gz6",
         "variantTranslations": {
@@ -37571,6 +38209,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapHatSilkhat2",
+        "clothGroupId": 580,
         "internalId": 11034,
         "uniqueEntryId": "My46PzCxXpEDuwAjQ",
         "variantTranslations": {
@@ -37708,6 +38347,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatOutdoorpine1",
+        "clothGroupId": 1153,
         "internalId": 12041,
         "uniqueEntryId": "G4gbisnhEmJMw8cYR",
         "variantTranslations": {
@@ -37736,6 +38376,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatOutdoorpine4",
+        "clothGroupId": 1153,
         "internalId": 12111,
         "uniqueEntryId": "uumdb44ZbxgskiAbQ",
         "variantTranslations": {
@@ -37764,6 +38405,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatOutdoorpine3",
+        "clothGroupId": 1153,
         "internalId": 12110,
         "uniqueEntryId": "LMgNdZK7QocLfopTk",
         "variantTranslations": {
@@ -37792,6 +38434,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatOutdoorpine0",
+        "clothGroupId": 1153,
         "internalId": 11061,
         "uniqueEntryId": "EYbZgXS2NmCb4mqHj",
         "variantTranslations": {
@@ -37820,6 +38463,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapHatOutdoorpine2",
+        "clothGroupId": 1153,
         "internalId": 12042,
         "uniqueEntryId": "WbeLRLpQrRGG6JHbx",
         "variantTranslations": {
@@ -37936,6 +38580,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatUzbek0",
+        "clothGroupId": 1163,
         "internalId": 10913,
         "uniqueEntryId": "QFGyvXwscrvo5e89i",
         "variantTranslations": {
@@ -37964,6 +38609,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatUzbek2",
+        "clothGroupId": 1163,
         "internalId": 12031,
         "uniqueEntryId": "A9ngwk6oXJE8XaaJE",
         "variantTranslations": {
@@ -37992,6 +38638,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatUzbek1",
+        "clothGroupId": 1163,
         "internalId": 12030,
         "uniqueEntryId": "DN8N7BZPCEFKTDnr8",
         "variantTranslations": {
@@ -38020,6 +38667,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHatUzbek3",
+        "clothGroupId": 1163,
         "internalId": 12032,
         "uniqueEntryId": "Sa9vDNBf9ocfTGG3u",
         "variantTranslations": {
@@ -38069,6 +38717,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentTulip1",
+    "clothGroupId": 558,
     "internalId": 5102,
     "uniqueEntryId": "boCfvbAPGLLbHxadk",
     "variantTranslations": null,
@@ -38358,6 +39007,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatTulip0",
+        "clothGroupId": 656,
         "internalId": 5293,
         "uniqueEntryId": "2atryTheqj4uK8rjW",
         "variantTranslations": {
@@ -38386,6 +39036,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatTulip2",
+        "clothGroupId": 656,
         "internalId": 11835,
         "uniqueEntryId": "PvPMhvS3sWaWYG4DX",
         "variantTranslations": {
@@ -38414,6 +39065,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatTulip1",
+        "clothGroupId": 656,
         "internalId": 11834,
         "uniqueEntryId": "ycT7cnbbqh4N5XsrJ",
         "variantTranslations": {
@@ -38530,6 +39182,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHelmetTurban2",
+        "clothGroupId": 741,
         "internalId": 11864,
         "uniqueEntryId": "9Ge7K5fRmCEB9mfed",
         "variantTranslations": {
@@ -38558,6 +39211,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHelmetTurban3",
+        "clothGroupId": 741,
         "internalId": 11865,
         "uniqueEntryId": "NN79zprnvwsTRJHyC",
         "variantTranslations": {
@@ -38586,6 +39240,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHelmetTurban1",
+        "clothGroupId": 741,
         "internalId": 11863,
         "uniqueEntryId": "csnWeqARQSaAPZvMP",
         "variantTranslations": {
@@ -38614,6 +39269,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapHelmetTurban0",
+        "clothGroupId": 741,
         "internalId": 5434,
         "uniqueEntryId": "jLqvgtKncu6AqkAXw",
         "variantTranslations": {
@@ -38730,6 +39386,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatTweed2",
+        "clothGroupId": 1065,
         "internalId": 11984,
         "uniqueEntryId": "kYQH5dhveFPmxHfWx",
         "variantTranslations": {
@@ -38758,6 +39415,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatTweed1",
+        "clothGroupId": 1065,
         "internalId": 11983,
         "uniqueEntryId": "kbCkjCj5kJ7WLR29a",
         "variantTranslations": {
@@ -38786,6 +39444,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatTweed0",
+        "clothGroupId": 1065,
         "internalId": 9769,
         "uniqueEntryId": "sxk5X5gG96rfuDTFn",
         "variantTranslations": {
@@ -38923,6 +39582,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapFullfaceVeil2",
+        "clothGroupId": 834,
         "internalId": 11882,
         "uniqueEntryId": "peNBBPLzRX8veChtN",
         "variantTranslations": {
@@ -38951,6 +39611,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapFullfaceVeil3",
+        "clothGroupId": 834,
         "internalId": 11883,
         "uniqueEntryId": "EpofotkFGiHMcHaBK",
         "variantTranslations": {
@@ -38979,6 +39640,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapFullfaceVeil0",
+        "clothGroupId": 834,
         "internalId": 5684,
         "uniqueEntryId": "aMMRZzuDjMAw2tvJa",
         "variantTranslations": {
@@ -39007,6 +39669,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapFullfaceVeil1",
+        "clothGroupId": 834,
         "internalId": 11881,
         "uniqueEntryId": "uBW729W6LrWC2FLce",
         "variantTranslations": {
@@ -39123,6 +39786,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapCostumeFarm0",
+        "clothGroupId": 822,
         "internalId": 5669,
         "uniqueEntryId": "47rrN4MCnmx3nJEEi",
         "variantTranslations": {
@@ -39151,6 +39815,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapCostumeFarm2",
+        "clothGroupId": 822,
         "internalId": 11816,
         "uniqueEntryId": "CXXNSpGqw3on976he",
         "variantTranslations": {
@@ -39179,6 +39844,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapCostumeFarm3",
+        "clothGroupId": 822,
         "internalId": 11817,
         "uniqueEntryId": "Av5unqgGpFQcP8QCw",
         "variantTranslations": {
@@ -39207,6 +39873,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapCostumeFarm1",
+        "clothGroupId": 822,
         "internalId": 11815,
         "uniqueEntryId": "eyPdkLWRTMWEo2uR4",
         "variantTranslations": {
@@ -39235,6 +39902,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapCostumeFarm4",
+        "clothGroupId": 822,
         "internalId": 11818,
         "uniqueEntryId": "hgw8yGyxu5CSHmWrX",
         "variantTranslations": {
@@ -39330,6 +39998,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatViking0",
+        "clothGroupId": 618,
         "internalId": 5266,
         "uniqueEntryId": "537cx76ofDQmS26Ey",
         "variantTranslations": {
@@ -39358,6 +40027,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatViking2",
+        "clothGroupId": 618,
         "internalId": 9740,
         "uniqueEntryId": "ksgNzeQnhsKE53aCH",
         "variantTranslations": {
@@ -39386,6 +40056,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapHatViking1",
+        "clothGroupId": 618,
         "internalId": 9739,
         "uniqueEntryId": "Rv7n6ktcwehABWxT2",
         "variantTranslations": {
@@ -39435,6 +40106,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapWigVisual",
+    "clothGroupId": 1012,
     "internalId": 5832,
     "uniqueEntryId": "vht7uMem86b7xt6mH",
     "variantTranslations": null,
@@ -39552,6 +40224,7 @@
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
     "filename": "CapHatEggfish0",
+    "clothGroupId": 1200,
     "internalId": 12444,
     "uniqueEntryId": "mN8qCCPvcMABTSDyg",
     "variantTranslations": null,
@@ -39732,6 +40405,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapHatWatermelon",
+    "clothGroupId": 642,
     "internalId": 5280,
     "uniqueEntryId": "PSDsGq5y7TsLDnSu7",
     "variantTranslations": null,
@@ -39870,6 +40544,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapMaskWelderRed",
+    "clothGroupId": 699,
     "internalId": 5381,
     "uniqueEntryId": "jo3TyHC3dXYa2Zy4g",
     "variantTranslations": null,
@@ -40033,6 +40708,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "CapHatStraw2",
+        "clothGroupId": 660,
         "internalId": 10887,
         "uniqueEntryId": "zro4j3P3J4PyP2Ad6",
         "variantTranslations": {
@@ -40061,6 +40737,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatStraw0",
+        "clothGroupId": 660,
         "internalId": 5297,
         "uniqueEntryId": "D5JmMjreRDuvczTA7",
         "variantTranslations": {
@@ -40089,6 +40766,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "CapHatStraw1",
+        "clothGroupId": 660,
         "internalId": 10886,
         "uniqueEntryId": "Mjdf6SwHRZ8eieKFw",
         "variantTranslations": {
@@ -40138,6 +40816,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "CapOrnamentAnemone1",
+    "clothGroupId": 555,
     "internalId": 5099,
     "uniqueEntryId": "ozmWzY5uiHT5KjnJv",
     "variantTranslations": null,
@@ -40431,6 +41110,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapHatWizard0",
+        "clothGroupId": 688,
         "internalId": 5336,
         "uniqueEntryId": "Wz4cvdNMErcHzjuYG",
         "variantTranslations": {
@@ -40459,6 +41139,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapHatWizard1",
+        "clothGroupId": 688,
         "internalId": 11848,
         "uniqueEntryId": "v83KqYfJjaJ8BkEsu",
         "variantTranslations": {
@@ -40508,6 +41189,7 @@
     "versionAdded": "1.1.0",
     "versionUnlocked": "1.1.0a",
     "filename": "CapHatEggforest0",
+    "clothGroupId": 1198,
     "internalId": 12442,
     "uniqueEntryId": "dRt2qDxRs35EkEoPP",
     "variantTranslations": null,
@@ -40776,6 +41458,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapCostumeWrestling4",
+        "clothGroupId": 711,
         "internalId": 11832,
         "uniqueEntryId": "MJfPeiLwjdKRRAMuh",
         "variantTranslations": {
@@ -40804,6 +41487,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapCostumeWrestling0",
+        "clothGroupId": 711,
         "internalId": 5368,
         "uniqueEntryId": "dkzs77y5MAGaGYD6J",
         "variantTranslations": {
@@ -40832,6 +41516,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapCostumeWrestling3",
+        "clothGroupId": 711,
         "internalId": 11831,
         "uniqueEntryId": "Tdv8RPmzv4kmoZS3N",
         "variantTranslations": {
@@ -40860,6 +41545,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapCostumeWrestling5",
+        "clothGroupId": 711,
         "internalId": 11833,
         "uniqueEntryId": "qFHhMPcZHg8v3pha6",
         "variantTranslations": {
@@ -40888,6 +41574,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapCostumeWrestling2",
+        "clothGroupId": 711,
         "internalId": 11830,
         "uniqueEntryId": "i5GhcXXkWHgenBYAz",
         "variantTranslations": {
@@ -40916,6 +41603,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapCostumeWrestling1",
+        "clothGroupId": 711,
         "internalId": 11829,
         "uniqueEntryId": "GtdanqkhqvXwFfDuM",
         "variantTranslations": {
@@ -41053,6 +41741,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapFullfaceHero3",
+        "clothGroupId": 738,
         "internalId": 11802,
         "uniqueEntryId": "4yKDqw7GEjCqk3Wue",
         "variantTranslations": {
@@ -41081,6 +41770,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "CapFullfaceHero7",
+        "clothGroupId": 738,
         "internalId": 11806,
         "uniqueEntryId": "6gW3vjAKFNTdKto8t",
         "variantTranslations": {
@@ -41109,6 +41799,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapFullfaceHero6",
+        "clothGroupId": 738,
         "internalId": 11805,
         "uniqueEntryId": "7unEQcZkgiQdq7gGS",
         "variantTranslations": {
@@ -41137,6 +41828,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapFullfaceHero5",
+        "clothGroupId": 738,
         "internalId": 11804,
         "uniqueEntryId": "QSo84QtPf2Eu2DREQ",
         "variantTranslations": {
@@ -41165,6 +41857,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapFullfaceHero0",
+        "clothGroupId": 738,
         "internalId": 5423,
         "uniqueEntryId": "XFzN8mBnHyocBiPPB",
         "variantTranslations": {
@@ -41193,6 +41886,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapFullfaceHero4",
+        "clothGroupId": 738,
         "internalId": 11803,
         "uniqueEntryId": "EdPZ9zQp885JvNb5d",
         "variantTranslations": {
@@ -41221,6 +41915,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapFullfaceHero2",
+        "clothGroupId": 738,
         "internalId": 11801,
         "uniqueEntryId": "P2PLffHrzFct8w3fq",
         "variantTranslations": {
@@ -41249,6 +41944,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapFullfaceHero1",
+        "clothGroupId": 738,
         "internalId": 11800,
         "uniqueEntryId": "jXuhstWBsfhdjA6xZ",
         "variantTranslations": {
@@ -41365,6 +42061,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "CapOrnamentLTsumamizaiku0",
+        "clothGroupId": 1041,
         "internalId": 8610,
         "uniqueEntryId": "6uuujwuHdzMm9ttkc",
         "variantTranslations": {
@@ -41393,6 +42090,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "CapOrnamentLTsumamizaiku5",
+        "clothGroupId": 1041,
         "internalId": 9757,
         "uniqueEntryId": "qpgAxNh3vFtBFBBTS",
         "variantTranslations": {
@@ -41421,6 +42119,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "CapOrnamentLTsumamizaiku3",
+        "clothGroupId": 1041,
         "internalId": 9755,
         "uniqueEntryId": "xHE27uf8BE7agxqmq",
         "variantTranslations": {
@@ -41449,6 +42148,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "CapOrnamentLTsumamizaiku6",
+        "clothGroupId": 1041,
         "internalId": 9758,
         "uniqueEntryId": "ugwn64vSZgP9AhePJ",
         "variantTranslations": {
@@ -41477,6 +42177,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "CapOrnamentLTsumamizaiku1",
+        "clothGroupId": 1041,
         "internalId": 9753,
         "uniqueEntryId": "NXBG3mwrurq4MrdHh",
         "variantTranslations": null,
@@ -41489,6 +42190,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "CapOrnamentLTsumamizaiku7",
+        "clothGroupId": 1041,
         "internalId": 9759,
         "uniqueEntryId": "uaDNGEcundJnPA63c",
         "variantTranslations": {
@@ -41517,6 +42219,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "CapOrnamentLTsumamizaiku2",
+        "clothGroupId": 1041,
         "internalId": 9754,
         "uniqueEntryId": "Xq8heq47Gnf29twia",
         "variantTranslations": {
@@ -41545,6 +42248,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "CapOrnamentLTsumamizaiku4",
+        "clothGroupId": 1041,
         "internalId": 9756,
         "uniqueEntryId": "fi5XGqJDLHNR3Mphw",
         "variantTranslations": {

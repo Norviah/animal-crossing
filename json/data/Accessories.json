@@ -68,6 +68,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassThreed0",
+        "clothGroupId": 386,
         "internalId": 4463,
         "uniqueEntryId": "FNxEraBTeWRiCvtFu",
         "variantTranslations": {
@@ -96,6 +97,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassThreed1",
+        "clothGroupId": 386,
         "internalId": 11020,
         "uniqueEntryId": "mM9SXPCcGPfPJAmtm",
         "variantTranslations": {
@@ -145,6 +147,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassDalmask0",
+    "clothGroupId": 1182,
     "internalId": 12128,
     "uniqueEntryId": "sbkqQrHpJWMEEZLSR",
     "variantTranslations": null,
@@ -241,6 +244,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassDalglass0",
+    "clothGroupId": 1183,
     "internalId": 12129,
     "uniqueEntryId": "zRnkH9B3rYNMLpiTP",
     "variantTranslations": null,
@@ -337,6 +341,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassHmdWhite",
+    "clothGroupId": 614,
     "internalId": 5182,
     "uniqueEntryId": "Hkcb2b5RCvgcXrHvc",
     "variantTranslations": null,
@@ -542,6 +547,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassKate1",
+        "clothGroupId": 1137,
         "internalId": 11776,
         "uniqueEntryId": "Pk4syNKBscFTBD2mP",
         "variantTranslations": null,
@@ -554,6 +560,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassKate2",
+        "clothGroupId": 1137,
         "internalId": 11777,
         "uniqueEntryId": "TJqYcpQKFaPX6naSj",
         "variantTranslations": null,
@@ -566,6 +573,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassKate5",
+        "clothGroupId": 1137,
         "internalId": 11780,
         "uniqueEntryId": "WHaB5ZbzSPteM5KxG",
         "variantTranslations": null,
@@ -578,6 +586,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassKate4",
+        "clothGroupId": 1137,
         "internalId": 11779,
         "uniqueEntryId": "Km6htuKWbDhQx5v2o",
         "variantTranslations": null,
@@ -590,6 +599,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassKate3",
+        "clothGroupId": 1137,
         "internalId": 11778,
         "uniqueEntryId": "yWuQ9CtGKLaG7ntW9",
         "variantTranslations": null,
@@ -602,6 +612,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassKate0",
+        "clothGroupId": 1137,
         "internalId": 9887,
         "uniqueEntryId": "2B4ttG2NJS7ZKRimP",
         "variantTranslations": null,
@@ -635,6 +646,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassNook0",
+    "clothGroupId": 1148,
     "internalId": 9654,
     "uniqueEntryId": "n8j5gx4zjuK7tkYKq",
     "variantTranslations": null,
@@ -710,6 +722,7 @@
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
     "filename": "AccessoryGlassmouthNook0",
+    "clothGroupId": 1300,
     "internalId": 13215,
     "uniqueEntryId": "cg2tZnttCZ9Wj3k9S",
     "variantTranslations": null,
@@ -848,6 +861,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBandageSkin",
+    "clothGroupId": 503,
     "internalId": 4677,
     "uniqueEntryId": "2qFT5iPkk8bREvpkj",
     "variantTranslations": null,
@@ -965,6 +979,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeakYellow",
+    "clothGroupId": 184,
     "internalId": 3549,
     "uniqueEntryId": "T5CpsJi4xBSachNL5",
     "variantTranslations": null,
@@ -1128,6 +1143,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassBirthday2",
+        "clothGroupId": 415,
         "internalId": 11218,
         "uniqueEntryId": "ojXoAAj8Bs2XgRiWB",
         "variantTranslations": {
@@ -1156,6 +1172,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassBirthday1",
+        "clothGroupId": 415,
         "internalId": 11217,
         "uniqueEntryId": "g3MPcmAKM4z5h8KYX",
         "variantTranslations": {
@@ -1184,6 +1201,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassBirthday0",
+        "clothGroupId": 415,
         "internalId": 4510,
         "uniqueEntryId": "S6CiB9ZvzBTMhEnDz",
         "variantTranslations": {
@@ -1212,6 +1230,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassBirthday3",
+        "clothGroupId": 415,
         "internalId": 11219,
         "uniqueEntryId": "Yr9mRJaZM44554oTS",
         "variantTranslations": {
@@ -1349,6 +1368,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassLoose6",
+        "clothGroupId": 463,
         "internalId": 11086,
         "uniqueEntryId": "eT6KLntq43nCGFvB9",
         "variantTranslations": {
@@ -1377,6 +1397,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassLoose0",
+        "clothGroupId": 463,
         "internalId": 4597,
         "uniqueEntryId": "ZHqtvcoqqDpJLf9Pc",
         "variantTranslations": {
@@ -1405,6 +1426,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "AccessoryGlassLoose5",
+        "clothGroupId": 463,
         "internalId": 11085,
         "uniqueEntryId": "zpzD4NjApEyazKyKt",
         "variantTranslations": {
@@ -1433,6 +1455,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "AccessoryGlassLoose4",
+        "clothGroupId": 463,
         "internalId": 11084,
         "uniqueEntryId": "w7bEbAGSQTvur6D6f",
         "variantTranslations": {
@@ -1461,6 +1484,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassLoose2",
+        "clothGroupId": 463,
         "internalId": 11082,
         "uniqueEntryId": "EtxJZDCgnqjWkETqK",
         "variantTranslations": {
@@ -1489,6 +1513,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassLoose3",
+        "clothGroupId": 463,
         "internalId": 11083,
         "uniqueEntryId": "LEbiXtkHoiEMEtjWK",
         "variantTranslations": {
@@ -1517,6 +1542,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "AccessoryGlassLoose1",
+        "clothGroupId": 463,
         "internalId": 11081,
         "uniqueEntryId": "akRhFD3qeJEPM7WiD",
         "variantTranslations": {
@@ -1633,6 +1659,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassThurmont3",
+        "clothGroupId": 260,
         "internalId": 11071,
         "uniqueEntryId": "R9rDoMEzPcBw75hLE",
         "variantTranslations": {
@@ -1661,6 +1688,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassThurmont0",
+        "clothGroupId": 260,
         "internalId": 4238,
         "uniqueEntryId": "gHxascFKEJNrLCtD9",
         "variantTranslations": {
@@ -1689,6 +1717,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassThurmont2",
+        "clothGroupId": 260,
         "internalId": 11070,
         "uniqueEntryId": "f6h8aqEufzizYBWiH",
         "variantTranslations": {
@@ -1717,6 +1746,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "AccessoryGlassThurmont1",
+        "clothGroupId": 260,
         "internalId": 11069,
         "uniqueEntryId": "9iqmzMJiAeQMBN3pk",
         "variantTranslations": {
@@ -1812,6 +1842,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryMouthBubblegum4",
+        "clothGroupId": 856,
         "internalId": 11030,
         "uniqueEntryId": "r9N2a2TYhvXBKiihn",
         "variantTranslations": {
@@ -1840,6 +1871,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryMouthBubblegum0",
+        "clothGroupId": 856,
         "internalId": 5738,
         "uniqueEntryId": "4SLmXuCkS4eBjPbLn",
         "variantTranslations": {
@@ -1868,6 +1900,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "AccessoryMouthBubblegum2",
+        "clothGroupId": 856,
         "internalId": 11028,
         "uniqueEntryId": "79zoWzHvMBJYcwuAy",
         "variantTranslations": {
@@ -1896,6 +1929,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryMouthBubblegum3",
+        "clothGroupId": 856,
         "internalId": 11029,
         "uniqueEntryId": "F3PoMop5MGyaxtKjZ",
         "variantTranslations": {
@@ -1924,6 +1958,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryMouthBubblegum1",
+        "clothGroupId": 856,
         "internalId": 11027,
         "uniqueEntryId": "9wWYKTtMdo9pWqfsM",
         "variantTranslations": {
@@ -2061,6 +2096,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryMouthRabbit2",
+        "clothGroupId": 466,
         "internalId": 11024,
         "uniqueEntryId": "ci8RKqDmqS5wD3W5k",
         "variantTranslations": {
@@ -2089,6 +2125,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryMouthRabbit0",
+        "clothGroupId": 466,
         "internalId": 4600,
         "uniqueEntryId": "bxWYgcp2YKCdKe8Cr",
         "variantTranslations": {
@@ -2117,6 +2154,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryMouthRabbit1",
+        "clothGroupId": 466,
         "internalId": 11023,
         "uniqueEntryId": "y6Dp62aNQn5ixvkwf",
         "variantTranslations": {
@@ -2212,6 +2250,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "AccessoryGlassButterfly0",
+        "clothGroupId": 474,
         "internalId": 4608,
         "uniqueEntryId": "WjbaLp9JbBGYRrb6K",
         "variantTranslations": {
@@ -2240,6 +2279,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassButterfly1",
+        "clothGroupId": 474,
         "internalId": 11503,
         "uniqueEntryId": "AZrrNvHghPTHobKL4",
         "variantTranslations": {
@@ -2268,6 +2308,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassButterfly2",
+        "clothGroupId": 474,
         "internalId": 11504,
         "uniqueEntryId": "rz3Pgs5XGNiQFa3t4",
         "variantTranslations": {
@@ -2405,6 +2446,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassmouthCatrina1",
+        "clothGroupId": 819,
         "internalId": 11169,
         "uniqueEntryId": "xyQdqFuAkXkNs9qQ5",
         "variantTranslations": {
@@ -2433,6 +2475,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassmouthCatrina2",
+        "clothGroupId": 819,
         "internalId": 11170,
         "uniqueEntryId": "fev4af8sNdggceyW9",
         "variantTranslations": {
@@ -2461,6 +2504,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassmouthCatrina0",
+        "clothGroupId": 819,
         "internalId": 5666,
         "uniqueEntryId": "GT3LzQZKg29riohcP",
         "variantTranslations": {
@@ -2598,6 +2642,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryMouthCat0",
+        "clothGroupId": 397,
         "internalId": 4483,
         "uniqueEntryId": "45Muns9ig4dqrsFF7",
         "variantTranslations": {
@@ -2626,6 +2671,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryMouthCat2",
+        "clothGroupId": 397,
         "internalId": 11022,
         "uniqueEntryId": "ywdWXRcwKJNMMxDyj",
         "variantTranslations": {
@@ -2654,6 +2700,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryMouthCat1",
+        "clothGroupId": 397,
         "internalId": 11021,
         "uniqueEntryId": "CXDCEFzBdv8DwkCyM",
         "variantTranslations": {
@@ -2703,6 +2750,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthCucumber",
+    "clothGroupId": 405,
     "internalId": 4491,
     "uniqueEntryId": "MhbCBrYX5fHxZWDuA",
     "variantTranslations": null,
@@ -2778,6 +2826,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthRollingmustacheBlack",
+    "clothGroupId": 498,
     "internalId": 4672,
     "uniqueEntryId": "9tyCrNPeibcu5NLo8",
     "variantTranslations": null,
@@ -2962,6 +3011,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassCyber2",
+        "clothGroupId": 433,
         "internalId": 11499,
         "uniqueEntryId": "AKakpCweRnd5hAsRB",
         "variantTranslations": {
@@ -2990,6 +3040,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassCyber1",
+        "clothGroupId": 433,
         "internalId": 11498,
         "uniqueEntryId": "67BAc4y8aADafp9Xk",
         "variantTranslations": {
@@ -3018,6 +3069,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassCyber0",
+        "clothGroupId": 433,
         "internalId": 4552,
         "uniqueEntryId": "3YPuxxPLkzwwNQMQd",
         "variantTranslations": {
@@ -3046,6 +3098,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassCyber5",
+        "clothGroupId": 433,
         "internalId": 11502,
         "uniqueEntryId": "5pk9ZMDGsEzLqp24L",
         "variantTranslations": {
@@ -3074,6 +3127,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassCyber4",
+        "clothGroupId": 433,
         "internalId": 11501,
         "uniqueEntryId": "9izTCDGHSpqWrQp6T",
         "variantTranslations": {
@@ -3102,6 +3156,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassCyber3",
+        "clothGroupId": 433,
         "internalId": 11500,
         "uniqueEntryId": "y2svNHScnr8cNZe86",
         "variantTranslations": {
@@ -3151,6 +3206,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthMaskWhite",
+    "clothGroupId": 375,
     "internalId": 4451,
     "uniqueEntryId": "vZDsrDRdgrbbiwi8N",
     "variantTranslations": null,
@@ -3356,6 +3412,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryMouthDog0",
+        "clothGroupId": 630,
         "internalId": 5244,
         "uniqueEntryId": "moGRcnkQihHbN89Kc",
         "variantTranslations": {
@@ -3384,6 +3441,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryMouthDog2",
+        "clothGroupId": 630,
         "internalId": 11026,
         "uniqueEntryId": "9JGbmWtDA3rmjf8Kc",
         "variantTranslations": {
@@ -3412,6 +3470,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryMouthDog1",
+        "clothGroupId": 630,
         "internalId": 11025,
         "uniqueEntryId": "zCQqXy8HLE7rDfrQf",
         "variantTranslations": {
@@ -3549,6 +3608,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "AccessoryGlassDoublebridge2",
+        "clothGroupId": 277,
         "internalId": 11077,
         "uniqueEntryId": "CLPEzZqr3vut85Ja4",
         "variantTranslations": {
@@ -3577,6 +3637,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassDoublebridge0",
+        "clothGroupId": 277,
         "internalId": 4263,
         "uniqueEntryId": "8QCnzjXY8KEyqf7Wa",
         "variantTranslations": {
@@ -3605,6 +3666,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassDoublebridge3",
+        "clothGroupId": 277,
         "internalId": 11078,
         "uniqueEntryId": "fD5pteAQtC8CMhq2v",
         "variantTranslations": {
@@ -3633,6 +3695,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "AccessoryGlassDoublebridge1",
+        "clothGroupId": 277,
         "internalId": 11076,
         "uniqueEntryId": "guPGRuhMyqdWYKh8d",
         "variantTranslations": {
@@ -3770,6 +3833,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassmouthStraw3",
+        "clothGroupId": 865,
         "internalId": 11012,
         "uniqueEntryId": "bQ67Xe7cQZ4PcXnNe",
         "variantTranslations": {
@@ -3798,6 +3862,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassmouthStraw2",
+        "clothGroupId": 865,
         "internalId": 11011,
         "uniqueEntryId": "b4G7SFYMTs5YWJ4i5",
         "variantTranslations": {
@@ -3826,6 +3891,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassmouthStraw0",
+        "clothGroupId": 865,
         "internalId": 5773,
         "uniqueEntryId": "hMiEGoaE2jYb6kY4e",
         "variantTranslations": {
@@ -3854,6 +3920,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassmouthStraw1",
+        "clothGroupId": 865,
         "internalId": 11010,
         "uniqueEntryId": "DNij9RhiMW39MtKWF",
         "variantTranslations": {
@@ -3949,6 +4016,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassMask2",
+        "clothGroupId": 358,
         "internalId": 11155,
         "uniqueEntryId": "FFAmL82w7xmtQyj49",
         "variantTranslations": {
@@ -3977,6 +4045,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassMask5",
+        "clothGroupId": 358,
         "internalId": 11158,
         "uniqueEntryId": "DN9e9e3kPAvftJL7X",
         "variantTranslations": {
@@ -4005,6 +4074,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassMask1",
+        "clothGroupId": 358,
         "internalId": 11154,
         "uniqueEntryId": "Ck7jeovxpJEQa9BXB",
         "variantTranslations": {
@@ -4033,6 +4103,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassMask4",
+        "clothGroupId": 358,
         "internalId": 11157,
         "uniqueEntryId": "Gy2FEnpkD9KrRshtd",
         "variantTranslations": {
@@ -4061,6 +4132,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassMask3",
+        "clothGroupId": 358,
         "internalId": 11156,
         "uniqueEntryId": "csWKsYtw2k9ADBQpT",
         "variantTranslations": {
@@ -4089,6 +4161,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassMask0",
+        "clothGroupId": 358,
         "internalId": 4425,
         "uniqueEntryId": "68oXMszxbRtGoe9tH",
         "variantTranslations": {
@@ -4138,6 +4211,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassPatchBlack",
+    "clothGroupId": 380,
     "internalId": 4457,
     "uniqueEntryId": "iZoTNGb8htGE8JWEw",
     "variantTranslations": null,
@@ -4234,6 +4308,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassmouthPackWhite",
+    "clothGroupId": 417,
     "internalId": 4512,
     "uniqueEntryId": "KzBY9kLtwTHhHGzR3",
     "variantTranslations": null,
@@ -4330,6 +4405,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassmouthNoseRed",
+    "clothGroupId": 407,
     "internalId": 4496,
     "uniqueEntryId": "chP2wAyDtdSTS3XrF",
     "variantTranslations": null,
@@ -4514,6 +4590,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassFlower0",
+        "clothGroupId": 857,
         "internalId": 5739,
         "uniqueEntryId": "iJsQqLTdb4gcPwekJ",
         "variantTranslations": {
@@ -4542,6 +4619,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassFlower1",
+        "clothGroupId": 857,
         "internalId": 11228,
         "uniqueEntryId": "6TygyrRpgFEJRtYAD",
         "variantTranslations": {
@@ -4570,6 +4648,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "AccessoryGlassFlower4",
+        "clothGroupId": 857,
         "internalId": 11231,
         "uniqueEntryId": "vnNLfafLRpv9vrESq",
         "variantTranslations": {
@@ -4598,6 +4677,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassFlower2",
+        "clothGroupId": 857,
         "internalId": 11229,
         "uniqueEntryId": "g4jdQJuTAwEgGWsyH",
         "variantTranslations": {
@@ -4626,6 +4706,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassFlower3",
+        "clothGroupId": 857,
         "internalId": 11230,
         "uniqueEntryId": "hN8mRmSqAqfBBXqsK",
         "variantTranslations": {
@@ -4675,6 +4756,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthPasta",
+    "clothGroupId": 904,
     "internalId": 5857,
     "uniqueEntryId": "ErTpS7LHoG7hZ4bvn",
     "variantTranslations": null,
@@ -4838,6 +4920,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassEyes1",
+        "clothGroupId": 418,
         "internalId": 11008,
         "uniqueEntryId": "4ASpkj55QiocnNkZ2",
         "variantTranslations": {
@@ -4866,6 +4949,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassEyes2",
+        "clothGroupId": 418,
         "internalId": 11009,
         "uniqueEntryId": "dio9gmQCebNSjSX89",
         "variantTranslations": {
@@ -4894,6 +4978,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassEyes0",
+        "clothGroupId": 418,
         "internalId": 4513,
         "uniqueEntryId": "nvgwq4bKZzDoiTQzw",
         "variantTranslations": {
@@ -5010,6 +5095,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassmouthGasmask0",
+        "clothGroupId": 487,
         "internalId": 4649,
         "uniqueEntryId": "cuqWQPfsbkmXz5DuB",
         "variantTranslations": {
@@ -5038,6 +5124,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassmouthGasmask1",
+        "clothGroupId": 487,
         "internalId": 11160,
         "uniqueEntryId": "9K9ea2sRHMsPmcX6d",
         "variantTranslations": {
@@ -5087,6 +5174,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassBottleBlack",
+    "clothGroupId": 286,
     "internalId": 4282,
     "uniqueEntryId": "JFtffcGH7WnPnJKtc",
     "variantTranslations": null,
@@ -5183,6 +5271,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeardChinBlack",
+    "clothGroupId": 502,
     "internalId": 4676,
     "uniqueEntryId": "W5S7BC9qA4QMCQEFR",
     "variantTranslations": null,
@@ -5388,6 +5477,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassGoggles0",
+        "clothGroupId": 378,
         "internalId": 4454,
         "uniqueEntryId": "3YkDq5TZm3jE8nBL9",
         "variantTranslations": {
@@ -5416,6 +5506,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassGoggles5",
+        "clothGroupId": 378,
         "internalId": 11488,
         "uniqueEntryId": "P8X4Rnuc6WjHTrbkz",
         "variantTranslations": {
@@ -5444,6 +5535,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassGoggles2",
+        "clothGroupId": 378,
         "internalId": 11485,
         "uniqueEntryId": "49s9b7jcrE8uaFEdR",
         "variantTranslations": {
@@ -5472,6 +5564,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassGoggles3",
+        "clothGroupId": 378,
         "internalId": 11486,
         "uniqueEntryId": "sDjZobRoupcETEKeH",
         "variantTranslations": {
@@ -5500,6 +5593,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassGoggles1",
+        "clothGroupId": 378,
         "internalId": 11484,
         "uniqueEntryId": "gozwdhewwK4PmPGFQ",
         "variantTranslations": {
@@ -5528,6 +5622,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassGoggles4",
+        "clothGroupId": 378,
         "internalId": 11487,
         "uniqueEntryId": "kwS6ErrZHdDNXpmbR",
         "variantTranslations": {
@@ -5577,6 +5672,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeardBlack",
+    "clothGroupId": 185,
     "internalId": 3550,
     "uniqueEntryId": "HJfvmuhPDFMN8eRB2",
     "variantTranslations": null,
@@ -5761,6 +5857,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "AccessoryGlassHeart0",
+        "clothGroupId": 259,
         "internalId": 4237,
         "uniqueEntryId": "ZkwfoAxXwqiJav677",
         "variantTranslations": {
@@ -5789,6 +5886,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassHeart1",
+        "clothGroupId": 259,
         "internalId": 11188,
         "uniqueEntryId": "jvPC7gmEHvxxgmwfA",
         "variantTranslations": {
@@ -5817,6 +5915,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassHeart4",
+        "clothGroupId": 259,
         "internalId": 11191,
         "uniqueEntryId": "CbiyKw9gGsMfYzA4g",
         "variantTranslations": {
@@ -5845,6 +5944,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassHeart2",
+        "clothGroupId": 259,
         "internalId": 11189,
         "uniqueEntryId": "k2fF9yEC5S3XGsXhX",
         "variantTranslations": {
@@ -5873,6 +5973,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassHeart3",
+        "clothGroupId": 259,
         "internalId": 11190,
         "uniqueEntryId": "3fs7r8mBn9EiGmMT7",
         "variantTranslations": {
@@ -6052,6 +6153,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassmouthPierrot0",
+        "clothGroupId": 504,
         "internalId": 4678,
         "uniqueEntryId": "5iGdajwpPAQ98B9eE",
         "variantTranslations": {
@@ -6080,6 +6182,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassmouthPierrot1",
+        "clothGroupId": 504,
         "internalId": 11166,
         "uniqueEntryId": "7HBtvdHttSMJiuA7W",
         "variantTranslations": {
@@ -6108,6 +6211,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassmouthPierrot2",
+        "clothGroupId": 504,
         "internalId": 11167,
         "uniqueEntryId": "LTCnc3SoDzsffayDr",
         "variantTranslations": {
@@ -6136,6 +6240,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassmouthPierrot3",
+        "clothGroupId": 504,
         "internalId": 11168,
         "uniqueEntryId": "Kpyk7xszcwxgdawqA",
         "variantTranslations": {
@@ -6252,6 +6357,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassBlind0",
+        "clothGroupId": 387,
         "internalId": 4464,
         "uniqueEntryId": "DErjYKaqmFEkp7RQ3",
         "variantTranslations": {
@@ -6280,6 +6386,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassBlind3",
+        "clothGroupId": 387,
         "internalId": 11004,
         "uniqueEntryId": "8wvE7HfG9HvK33nTW",
         "variantTranslations": {
@@ -6308,6 +6415,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassBlind4",
+        "clothGroupId": 387,
         "internalId": 11005,
         "uniqueEntryId": "mcex6oPn8f8KotnrZ",
         "variantTranslations": {
@@ -6336,6 +6444,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassBlind2",
+        "clothGroupId": 387,
         "internalId": 11003,
         "uniqueEntryId": "wnvu2B7z7M975uCMf",
         "variantTranslations": {
@@ -6364,6 +6473,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassBlind1",
+        "clothGroupId": 387,
         "internalId": 11002,
         "uniqueEntryId": "kbZR8T9YaP2Pb7q6P",
         "variantTranslations": {
@@ -6392,6 +6502,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassBlind5",
+        "clothGroupId": 387,
         "internalId": 11006,
         "uniqueEntryId": "SF89YKrjwGsa5Dp7t",
         "variantTranslations": {
@@ -6441,6 +6552,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthLeafGreen",
+    "clothGroupId": 508,
     "internalId": 4682,
     "uniqueEntryId": "XrpTjwp94FwmvXjmE",
     "variantTranslations": null,
@@ -6709,6 +6821,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassVenetian1",
+        "clothGroupId": 494,
         "internalId": 11161,
         "uniqueEntryId": "GL9igRSB2nTebNAin",
         "variantTranslations": {
@@ -6737,6 +6850,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassVenetian3",
+        "clothGroupId": 494,
         "internalId": 11163,
         "uniqueEntryId": "DknNtTo9sb2jZHDht",
         "variantTranslations": {
@@ -6765,6 +6879,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassVenetian0",
+        "clothGroupId": 494,
         "internalId": 4667,
         "uniqueEntryId": "vwytnsJLdnFYZdeHR",
         "variantTranslations": {
@@ -6793,6 +6908,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassVenetian5",
+        "clothGroupId": 494,
         "internalId": 11165,
         "uniqueEntryId": "nzAimcCqJg46jjNiN",
         "variantTranslations": {
@@ -6821,6 +6937,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassVenetian4",
+        "clothGroupId": 494,
         "internalId": 11164,
         "uniqueEntryId": "PEA7Y7djsLQryh4c2",
         "variantTranslations": {
@@ -6849,6 +6966,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassVenetian2",
+        "clothGroupId": 494,
         "internalId": 11162,
         "uniqueEntryId": "6yKLSWNnpyXAPKJ4h",
         "variantTranslations": {
@@ -6986,6 +7104,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassMonocle2",
+        "clothGroupId": 385,
         "internalId": 11001,
         "uniqueEntryId": "tXaLxYbQPqcTZWxej",
         "variantTranslations": {
@@ -7014,6 +7133,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassMonocle0",
+        "clothGroupId": 385,
         "internalId": 4462,
         "uniqueEntryId": "vtCepd9DjYS2H5vcb",
         "variantTranslations": {
@@ -7042,6 +7162,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassMonocle1",
+        "clothGroupId": 385,
         "internalId": 11000,
         "uniqueEntryId": "ghxLRorCD3NWR5h5x",
         "variantTranslations": {
@@ -7091,6 +7212,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassNightvisionBlack",
+    "clothGroupId": 615,
     "internalId": 5261,
     "uniqueEntryId": "sMdtidR3zypRsgSCW",
     "variantTranslations": null,
@@ -7166,6 +7288,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthJokeDripCyan",
+    "clothGroupId": 899,
     "internalId": 5833,
     "uniqueEntryId": "9YbFJqBD3hmQkW4Gq",
     "variantTranslations": null,
@@ -7329,6 +7452,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "AccessoryGlassOctagon0",
+        "clothGroupId": 261,
         "internalId": 4239,
         "uniqueEntryId": "dzKG7sMGwFn7EaKjm",
         "variantTranslations": {
@@ -7357,6 +7481,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassOctagon4",
+        "clothGroupId": 261,
         "internalId": 11075,
         "uniqueEntryId": "4FT4YuTQcq3RGo3Ss",
         "variantTranslations": {
@@ -7385,6 +7510,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassOctagon1",
+        "clothGroupId": 261,
         "internalId": 11072,
         "uniqueEntryId": "NME2CQfz2tMbnwLzb",
         "variantTranslations": {
@@ -7413,6 +7539,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "AccessoryGlassOctagon2",
+        "clothGroupId": 261,
         "internalId": 11073,
         "uniqueEntryId": "Je9RNoLocnJ5kinNQ",
         "variantTranslations": {
@@ -7441,6 +7568,7 @@
         "mannequinPiece": true,
         "sortOrder": 5,
         "filename": "AccessoryGlassOctagon3",
+        "clothGroupId": 261,
         "internalId": 11074,
         "uniqueEntryId": "t5MJmR6fbqXwevjus",
         "variantTranslations": {
@@ -7557,6 +7685,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassOval6",
+        "clothGroupId": 475,
         "internalId": 11092,
         "uniqueEntryId": "uuttmaKAruqm7tiKL",
         "variantTranslations": {
@@ -7585,6 +7714,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassOval4",
+        "clothGroupId": 475,
         "internalId": 11090,
         "uniqueEntryId": "QBNkZLi9jpeDYMxnQ",
         "variantTranslations": {
@@ -7613,6 +7743,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "AccessoryGlassOval1",
+        "clothGroupId": 475,
         "internalId": 11087,
         "uniqueEntryId": "9AXkAraeTz6TgR6sJ",
         "variantTranslations": {
@@ -7641,6 +7772,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassOval5",
+        "clothGroupId": 475,
         "internalId": 11091,
         "uniqueEntryId": "uocqzyhP5WHmnH8dj",
         "variantTranslations": null,
@@ -7653,6 +7785,7 @@
         "mannequinPiece": true,
         "sortOrder": 5,
         "filename": "AccessoryGlassOval0",
+        "clothGroupId": 475,
         "internalId": 4609,
         "uniqueEntryId": "jw7KgW9epPat5Pw8W",
         "variantTranslations": {
@@ -7681,6 +7814,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassOval2",
+        "clothGroupId": 475,
         "internalId": 11088,
         "uniqueEntryId": "ydCsvEetGaAQ4mNs2",
         "variantTranslations": {
@@ -7709,6 +7843,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "AccessoryGlassOval3",
+        "clothGroupId": 475,
         "internalId": 11089,
         "uniqueEntryId": "9ZhHgTmKeqZ7fgcNr",
         "variantTranslations": {
@@ -7804,6 +7939,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryMouthPacifier5",
+        "clothGroupId": 1055,
         "internalId": 11017,
         "uniqueEntryId": "aWcYia7rWZ8nhXg37",
         "variantTranslations": null,
@@ -7816,6 +7952,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryMouthPacifier4",
+        "clothGroupId": 1055,
         "internalId": 11016,
         "uniqueEntryId": "iAyukzDt8Kutfpmab",
         "variantTranslations": null,
@@ -7828,6 +7965,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryMouthPacifier0",
+        "clothGroupId": 1055,
         "internalId": 2298,
         "uniqueEntryId": "bK8fXPaAy9f3Nqx9Q",
         "variantTranslations": null,
@@ -7840,6 +7978,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryMouthPacifier7",
+        "clothGroupId": 1055,
         "internalId": 11019,
         "uniqueEntryId": "WZgrieHNMrjuw9Tah",
         "variantTranslations": null,
@@ -7852,6 +7991,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryMouthPacifier2",
+        "clothGroupId": 1055,
         "internalId": 11014,
         "uniqueEntryId": "iH9JsLkZTan5CQgTt",
         "variantTranslations": null,
@@ -7864,6 +8004,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryMouthPacifier3",
+        "clothGroupId": 1055,
         "internalId": 11015,
         "uniqueEntryId": "XRyQwLEtt9RwgvtST",
         "variantTranslations": null,
@@ -7876,6 +8017,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "AccessoryMouthPacifier1",
+        "clothGroupId": 1055,
         "internalId": 11013,
         "uniqueEntryId": "KMB2YJMHNzESo6Hws",
         "variantTranslations": null,
@@ -7888,6 +8030,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "AccessoryMouthPacifier6",
+        "clothGroupId": 1055,
         "internalId": 11018,
         "uniqueEntryId": "ScuP52AjZHPkhCuGP",
         "variantTranslations": null,
@@ -7921,6 +8064,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthPigPink",
+    "clothGroupId": 485,
     "internalId": 4647,
     "uniqueEntryId": "H2JSW7YDoTdLr6GTK",
     "variantTranslations": null,
@@ -8105,6 +8249,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassPilot0",
+        "clothGroupId": 382,
         "internalId": 4459,
         "uniqueEntryId": "wuyb75e6fkA5976yx",
         "variantTranslations": {
@@ -8133,6 +8278,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassPilot1",
+        "clothGroupId": 382,
         "internalId": 11214,
         "uniqueEntryId": "nBHTPo8pt7eRL47PT",
         "variantTranslations": {
@@ -8182,6 +8328,7 @@
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
     "filename": "AccessoryMouthPirates0",
+    "clothGroupId": 1226,
     "internalId": 12663,
     "uniqueEntryId": "isFLrwBtByekpKuLB",
     "variantTranslations": null,
@@ -8299,6 +8446,7 @@
     "versionAdded": "1.3.0",
     "versionUnlocked": "1.3.0",
     "filename": "AccessoryGlassPiratespatch0",
+    "clothGroupId": 1225,
     "internalId": 12662,
     "uniqueEntryId": "pm3izhYzmdHRwnoWR",
     "variantTranslations": null,
@@ -8483,6 +8631,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassDot3",
+        "clothGroupId": 484,
         "internalId": 11225,
         "uniqueEntryId": "GY4PDqrCZdcPWb4Ep",
         "variantTranslations": {
@@ -8511,6 +8660,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassDot0",
+        "clothGroupId": 484,
         "internalId": 4646,
         "uniqueEntryId": "Tp2dC3Dk4chwa4ebr",
         "variantTranslations": {
@@ -8539,6 +8689,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassDot1",
+        "clothGroupId": 484,
         "internalId": 11223,
         "uniqueEntryId": "6tFnu3DhC5HQvqmZ5",
         "variantTranslations": {
@@ -8567,6 +8718,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "AccessoryGlassDot2",
+        "clothGroupId": 484,
         "internalId": 11224,
         "uniqueEntryId": "SbAGGe9yg4EXAw35b",
         "variantTranslations": {
@@ -8616,6 +8768,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthLeatherBlack",
+    "clothGroupId": 922,
     "internalId": 6040,
     "uniqueEntryId": "aN6Wsxguggh39oBiF",
     "variantTranslations": null,
@@ -8691,6 +8844,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassEyepatchWhite",
+    "clothGroupId": 376,
     "internalId": 4452,
     "uniqueEntryId": "8Qgoizxz547DtMNd7",
     "variantTranslations": null,
@@ -8766,6 +8920,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthCrowBlack",
+    "clothGroupId": 497,
     "internalId": 4671,
     "uniqueEntryId": "4GDJFfMNHhsaXXrAN",
     "variantTranslations": null,
@@ -8883,6 +9038,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassMirrorGray",
+    "clothGroupId": 921,
     "internalId": 6039,
     "uniqueEntryId": "J4EgETRkyeSESkRB7",
     "variantTranslations": null,
@@ -9046,6 +9202,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassRetro0",
+        "clothGroupId": 379,
         "internalId": 4456,
         "uniqueEntryId": "SFFhXhR5sYQzJwXWj",
         "variantTranslations": {
@@ -9074,6 +9231,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassRetro5",
+        "clothGroupId": 379,
         "internalId": 11213,
         "uniqueEntryId": "6oqHAyihAjKRfH72Z",
         "variantTranslations": {
@@ -9102,6 +9260,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "AccessoryGlassRetro2",
+        "clothGroupId": 379,
         "internalId": 11210,
         "uniqueEntryId": "zg6uY6WZNQcopNq67",
         "variantTranslations": {
@@ -9130,6 +9289,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassRetro3",
+        "clothGroupId": 379,
         "internalId": 11211,
         "uniqueEntryId": "QqEG7ktLKMaXweFzg",
         "variantTranslations": {
@@ -9158,6 +9318,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassRetro1",
+        "clothGroupId": 379,
         "internalId": 11209,
         "uniqueEntryId": "zYw3PhLHsw2KZ7TBK",
         "variantTranslations": {
@@ -9186,6 +9347,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassRetro4",
+        "clothGroupId": 379,
         "internalId": 11212,
         "uniqueEntryId": "cJCaAmMdqrHG8uDLH",
         "variantTranslations": {
@@ -9323,6 +9485,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassRhinestone0",
+        "clothGroupId": 509,
         "internalId": 4683,
         "uniqueEntryId": "BJFhJqt9KuaWGaWuM",
         "variantTranslations": {
@@ -9351,6 +9514,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassRhinestone2",
+        "clothGroupId": 509,
         "internalId": 11227,
         "uniqueEntryId": "qy2BWYZvJedPJ69yX",
         "variantTranslations": {
@@ -9379,6 +9543,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassRhinestone1",
+        "clothGroupId": 509,
         "internalId": 11226,
         "uniqueEntryId": "iwtSmya59DpyGFB97",
         "variantTranslations": null,
@@ -9500,6 +9665,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassCircle2",
+        "clothGroupId": 257,
         "internalId": 11185,
         "uniqueEntryId": "jA7gAHyzXHk8qBRuq",
         "variantTranslations": {
@@ -9528,6 +9694,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassCircle0",
+        "clothGroupId": 257,
         "internalId": 4235,
         "uniqueEntryId": "DyPvwyWQK47TL4tjW",
         "variantTranslations": {
@@ -9556,6 +9723,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassCircle1",
+        "clothGroupId": 257,
         "internalId": 11184,
         "uniqueEntryId": "xqu5YAX6AmrXR4Qmd",
         "variantTranslations": {
@@ -9584,6 +9752,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "AccessoryGlassCircle4",
+        "clothGroupId": 257,
         "internalId": 11187,
         "uniqueEntryId": "fjKzCMBMhcJNEjsTv",
         "variantTranslations": {
@@ -9612,6 +9781,7 @@
         "mannequinPiece": true,
         "sortOrder": 5,
         "filename": "AccessoryGlassCircle3",
+        "clothGroupId": 257,
         "internalId": 11186,
         "uniqueEntryId": "RpfNwdBEPoqgF5pkh",
         "variantTranslations": {
@@ -9749,6 +9919,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassBoston6",
+        "clothGroupId": 263,
         "internalId": 11201,
         "uniqueEntryId": "z8KywWDutyXSsgXoy",
         "variantTranslations": {
@@ -9777,6 +9948,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassBoston0",
+        "clothGroupId": 263,
         "internalId": 4241,
         "uniqueEntryId": "SdqiPF4Fzw8HrPY4k",
         "variantTranslations": {
@@ -9805,6 +9977,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "AccessoryGlassBoston5",
+        "clothGroupId": 263,
         "internalId": 11200,
         "uniqueEntryId": "Z9bJ6cYkY6hC4mL4o",
         "variantTranslations": {
@@ -9833,6 +10006,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassBoston4",
+        "clothGroupId": 263,
         "internalId": 11199,
         "uniqueEntryId": "KFNjnL6rqYckLECFB",
         "variantTranslations": {
@@ -9861,6 +10035,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassBoston3",
+        "clothGroupId": 263,
         "internalId": 11198,
         "uniqueEntryId": "BE37D4h9xHkhRwgmH",
         "variantTranslations": {
@@ -9889,6 +10064,7 @@
         "mannequinPiece": true,
         "sortOrder": 6,
         "filename": "AccessoryGlassBoston1",
+        "clothGroupId": 263,
         "internalId": 11196,
         "uniqueEntryId": "Mf9c5DHdko9uWo2Hu",
         "variantTranslations": {
@@ -9917,6 +10093,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "AccessoryGlassBoston2",
+        "clothGroupId": 263,
         "internalId": 11197,
         "uniqueEntryId": "hyhWF8rW2Y2AkXGTj",
         "variantTranslations": {
@@ -9945,6 +10122,7 @@
         "mannequinPiece": false,
         "sortOrder": 8,
         "filename": "AccessoryGlassBoston7",
+        "clothGroupId": 263,
         "internalId": 11202,
         "uniqueEntryId": "fy6sue9jdYtpwh4Aq",
         "variantTranslations": {
@@ -10061,6 +10239,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "AccessoryGlassRound0",
+        "clothGroupId": 473,
         "internalId": 4607,
         "uniqueEntryId": "GdrT6sBLFECRG8LyN",
         "variantTranslations": {
@@ -10089,6 +10268,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassRound1",
+        "clothGroupId": 473,
         "internalId": 11220,
         "uniqueEntryId": "KqtiBXYfKejymQ4Wg",
         "variantTranslations": {
@@ -10117,6 +10297,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassRound3",
+        "clothGroupId": 473,
         "internalId": 11222,
         "uniqueEntryId": "CeX6fKZRL2XFK7jnW",
         "variantTranslations": {
@@ -10145,6 +10326,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "AccessoryGlassRound2",
+        "clothGroupId": 473,
         "internalId": 11221,
         "uniqueEntryId": "tfuBgNyNNSXc3o4Q2",
         "variantTranslations": {
@@ -10194,6 +10376,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeardRoundBlack",
+    "clothGroupId": 505,
     "internalId": 4679,
     "uniqueEntryId": "As4RR5kDBbDWqHP69",
     "variantTranslations": null,
@@ -10311,6 +10494,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassCrackBlack",
+    "clothGroupId": 315,
     "internalId": 4337,
     "uniqueEntryId": "9nxh9LSDKZoYjygJg",
     "variantTranslations": null,
@@ -10453,6 +10637,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassGogglesski1",
+        "clothGroupId": 377,
         "internalId": 11479,
         "uniqueEntryId": "NwNqq5g2iw4DeMsBY",
         "variantTranslations": {
@@ -10481,6 +10666,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassGogglesski0",
+        "clothGroupId": 377,
         "internalId": 4453,
         "uniqueEntryId": "GWhWLPt3sExfeAG2c",
         "variantTranslations": {
@@ -10509,6 +10695,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassGogglesski2",
+        "clothGroupId": 377,
         "internalId": 11480,
         "uniqueEntryId": "4umKSoR2BWtW6JyFK",
         "variantTranslations": {
@@ -10537,6 +10724,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassGogglesski5",
+        "clothGroupId": 377,
         "internalId": 11483,
         "uniqueEntryId": "vSksuA8nCN72Tq3ji",
         "variantTranslations": {
@@ -10565,6 +10753,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassGogglesski4",
+        "clothGroupId": 377,
         "internalId": 11482,
         "uniqueEntryId": "SydPBHGEnpRAKuCfq",
         "variantTranslations": {
@@ -10593,6 +10782,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassGogglesski3",
+        "clothGroupId": 377,
         "internalId": 11481,
         "uniqueEntryId": "RBByDZoTeK5b6jvXn",
         "variantTranslations": {
@@ -10751,6 +10941,7 @@
         "mannequinPiece": null,
         "sortOrder": 1,
         "filename": "AccessoryGlassmouthDiver5",
+        "clothGroupId": 432,
         "internalId": 11497,
         "uniqueEntryId": "jFwR59w58PSPL53K4",
         "variantTranslations": {
@@ -10779,6 +10970,7 @@
         "mannequinPiece": null,
         "sortOrder": 2,
         "filename": "AccessoryGlassmouthDiver2",
+        "clothGroupId": 432,
         "internalId": 11494,
         "uniqueEntryId": "ekXFtoFg8mmsbyZYp",
         "variantTranslations": {
@@ -10807,6 +10999,7 @@
         "mannequinPiece": null,
         "sortOrder": 3,
         "filename": "AccessoryGlassmouthDiver3",
+        "clothGroupId": 432,
         "internalId": 11495,
         "uniqueEntryId": "3oBKZL4APPZGp7KpN",
         "variantTranslations": {
@@ -10835,6 +11028,7 @@
         "mannequinPiece": null,
         "sortOrder": 4,
         "filename": "AccessoryGlassmouthDiver1",
+        "clothGroupId": 432,
         "internalId": 11493,
         "uniqueEntryId": "xHJu2dJts5RYTFw7p",
         "variantTranslations": {
@@ -10863,6 +11057,7 @@
         "mannequinPiece": null,
         "sortOrder": 5,
         "filename": "AccessoryGlassmouthDiver4",
+        "clothGroupId": 432,
         "internalId": 11496,
         "uniqueEntryId": "v9xCArJntbpz9FhSG",
         "variantTranslations": {
@@ -10891,6 +11086,7 @@
         "mannequinPiece": null,
         "sortOrder": 6,
         "filename": "AccessoryGlassmouthDiver0",
+        "clothGroupId": 432,
         "internalId": 4551,
         "uniqueEntryId": "rSw6wK34RyoG5cMe3",
         "variantTranslations": {
@@ -11007,6 +11203,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassSports1",
+        "clothGroupId": 381,
         "internalId": 11489,
         "uniqueEntryId": "CA5YASgCBpgL2PSpX",
         "variantTranslations": {
@@ -11035,6 +11232,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassSports0",
+        "clothGroupId": 381,
         "internalId": 4458,
         "uniqueEntryId": "QkHqffg8X4eTL6PXX",
         "variantTranslations": {
@@ -11063,6 +11261,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassSports2",
+        "clothGroupId": 381,
         "internalId": 11490,
         "uniqueEntryId": "GgdcckY8p5Rg5NyTY",
         "variantTranslations": {
@@ -11091,6 +11290,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassSports3",
+        "clothGroupId": 381,
         "internalId": 11491,
         "uniqueEntryId": "uwEjreWEdYSbuxXE9",
         "variantTranslations": {
@@ -11119,6 +11319,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassSports4",
+        "clothGroupId": 381,
         "internalId": 11492,
         "uniqueEntryId": "THB8TWPykhsELXErr",
         "variantTranslations": {
@@ -11256,6 +11457,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassSquare2",
+        "clothGroupId": 258,
         "internalId": 11067,
         "uniqueEntryId": "QxFwFytYcWo5acGtW",
         "variantTranslations": {
@@ -11284,6 +11486,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassSquare1",
+        "clothGroupId": 258,
         "internalId": 11066,
         "uniqueEntryId": "LhvFWS5ADiDiPJwai",
         "variantTranslations": {
@@ -11312,6 +11515,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "AccessoryGlassSquare3",
+        "clothGroupId": 258,
         "internalId": 11068,
         "uniqueEntryId": "CvziuqadDpoQgGK4C",
         "variantTranslations": {
@@ -11340,6 +11544,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "AccessoryGlassSquare0",
+        "clothGroupId": 258,
         "internalId": 4236,
         "uniqueEntryId": "rAzkKijSEqXzoAZKY",
         "variantTranslations": {
@@ -11456,6 +11661,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassmouthBeard0",
+        "clothGroupId": 408,
         "internalId": 4501,
         "uniqueEntryId": "s7hDzZ3ajPpK9fnEW",
         "variantTranslations": {
@@ -11484,6 +11690,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassmouthBeard1",
+        "clothGroupId": 408,
         "internalId": 11007,
         "uniqueEntryId": "M8owND8DnAEKA9nuX",
         "variantTranslations": {
@@ -11600,6 +11807,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassStar1",
+        "clothGroupId": 262,
         "internalId": 11192,
         "uniqueEntryId": "PCZAYraP9kdaqnZy7",
         "variantTranslations": {
@@ -11628,6 +11836,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassStar0",
+        "clothGroupId": 262,
         "internalId": 4240,
         "uniqueEntryId": "y4n8SisxyS7dGRWL7",
         "variantTranslations": {
@@ -11656,6 +11865,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassStar4",
+        "clothGroupId": 262,
         "internalId": 11195,
         "uniqueEntryId": "PaF6nho2LRBu5x7Pi",
         "variantTranslations": {
@@ -11684,6 +11894,7 @@
         "mannequinPiece": true,
         "sortOrder": 4,
         "filename": "AccessoryGlassStar2",
+        "clothGroupId": 262,
         "internalId": 11193,
         "uniqueEntryId": "h4zk6rrWiX94jefGH",
         "variantTranslations": {
@@ -11712,6 +11923,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassStar3",
+        "clothGroupId": 262,
         "internalId": 11194,
         "uniqueEntryId": "GiBvxa93RwTN46zhE",
         "variantTranslations": {
@@ -11828,6 +12040,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassSteampunk0",
+        "clothGroupId": 511,
         "internalId": 4685,
         "uniqueEntryId": "uANDLz5EDWphoM3Lc",
         "variantTranslations": {
@@ -11856,6 +12069,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassSteampunk1",
+        "clothGroupId": 511,
         "internalId": 11505,
         "uniqueEntryId": "Rhhrv89PGEMbdbdPt",
         "variantTranslations": {
@@ -11905,6 +12119,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthRice",
+    "clothGroupId": 489,
     "internalId": 4652,
     "uniqueEntryId": "isnXDFfGkHKKB8bMP",
     "variantTranslations": null,
@@ -11980,6 +12195,7 @@
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassHeromaskBlack",
+    "clothGroupId": 510,
     "internalId": 4684,
     "uniqueEntryId": "fK2Xz8nxAebSkWNdE",
     "variantTranslations": null,
@@ -12164,6 +12380,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassMini1",
+        "clothGroupId": 384,
         "internalId": 11215,
         "uniqueEntryId": "tCxZoqcR8egLcu4oh",
         "variantTranslations": {
@@ -12192,6 +12409,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassMini2",
+        "clothGroupId": 384,
         "internalId": 11216,
         "uniqueEntryId": "8YkgkHp2z5tycST3j",
         "variantTranslations": {
@@ -12220,6 +12438,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "AccessoryGlassMini0",
+        "clothGroupId": 384,
         "internalId": 4461,
         "uniqueEntryId": "DnZtrKfwj3MAy6PZc",
         "variantTranslations": {
@@ -12336,6 +12555,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "AccessoryGlassTortoiseshell2",
+        "clothGroupId": 383,
         "internalId": 11080,
         "uniqueEntryId": "fEshNAFDwcyo9v2fX",
         "variantTranslations": {
@@ -12364,6 +12584,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassTortoiseshell1",
+        "clothGroupId": 383,
         "internalId": 11079,
         "uniqueEntryId": "jewJFqgFQTHKyAKTz",
         "variantTranslations": {
@@ -12392,6 +12613,7 @@
         "mannequinPiece": true,
         "sortOrder": 3,
         "filename": "AccessoryGlassTortoiseshell0",
+        "clothGroupId": 383,
         "internalId": 4460,
         "uniqueEntryId": "kqomsYL33TB7zaNtY",
         "variantTranslations": {
@@ -12508,6 +12730,7 @@
         "mannequinPiece": false,
         "sortOrder": 1,
         "filename": "AccessoryGlassTriangle5",
+        "clothGroupId": 264,
         "internalId": 11207,
         "uniqueEntryId": "QpAQQTRoBmcjNBeEK",
         "variantTranslations": {
@@ -12536,6 +12759,7 @@
         "mannequinPiece": false,
         "sortOrder": 2,
         "filename": "AccessoryGlassTriangle6",
+        "clothGroupId": 264,
         "internalId": 11208,
         "uniqueEntryId": "vGHab8KFNDFRgW5h6",
         "variantTranslations": {
@@ -12564,6 +12788,7 @@
         "mannequinPiece": false,
         "sortOrder": 3,
         "filename": "AccessoryGlassTriangle0",
+        "clothGroupId": 264,
         "internalId": 4242,
         "uniqueEntryId": "cw8m5tS85qMGGnpy9",
         "variantTranslations": {
@@ -12592,6 +12817,7 @@
         "mannequinPiece": false,
         "sortOrder": 4,
         "filename": "AccessoryGlassTriangle1",
+        "clothGroupId": 264,
         "internalId": 11203,
         "uniqueEntryId": "cR58LxuFK4Kcxh7fc",
         "variantTranslations": {
@@ -12620,6 +12846,7 @@
         "mannequinPiece": false,
         "sortOrder": 5,
         "filename": "AccessoryGlassTriangle4",
+        "clothGroupId": 264,
         "internalId": 11206,
         "uniqueEntryId": "4edkdodmNhmpkSCBo",
         "variantTranslations": {
@@ -12648,6 +12875,7 @@
         "mannequinPiece": false,
         "sortOrder": 6,
         "filename": "AccessoryGlassTriangle2",
+        "clothGroupId": 264,
         "internalId": 11204,
         "uniqueEntryId": "xSM4vD2KSok5cjo6p",
         "variantTranslations": {
@@ -12676,6 +12904,7 @@
         "mannequinPiece": false,
         "sortOrder": 7,
         "filename": "AccessoryGlassTriangle3",
+        "clothGroupId": 264,
         "internalId": 11205,
         "uniqueEntryId": "vAuSuBJcAfyMR6wk7",
         "variantTranslations": {
@@ -12813,6 +13042,7 @@
         "mannequinPiece": true,
         "sortOrder": 1,
         "filename": "AccessoryGlassWood0",
+        "clothGroupId": 496,
         "internalId": 4669,
         "uniqueEntryId": "dbnqry4vZBvK6LrS2",
         "variantTranslations": {
@@ -12841,6 +13071,7 @@
         "mannequinPiece": true,
         "sortOrder": 2,
         "filename": "AccessoryGlassWood1",
+        "clothGroupId": 496,
         "internalId": 11093,
         "uniqueEntryId": "2MufTC9TPErbryyKS",
         "variantTranslations": {
