@@ -27,6 +27,7 @@ export interface Item {
     mannequinPiece?:       boolean;
     sortOrder?:            number;
     filename?:             string;
+    clothGroupId?:         number;
     internalId?:           number;
     uniqueEntryId?:        string;
     variantTranslations?:  null;
@@ -943,6 +944,7 @@ export interface VariationElement {
     mannequinPiece?:      boolean | null;
     sortOrder?:           number;
     filename:             string;
+    clothGroupId?:        number;
     internalId:           number;
     uniqueEntryId:        string;
     variantTranslations:  PatternTranslations | null;
