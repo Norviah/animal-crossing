@@ -182,7 +182,7 @@
 
 • **Aquarius fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:56](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L56)*
+*Defined in [Recipe.ts:56](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L56)*
 
 ___
 
@@ -190,7 +190,7 @@ ___
 
 • **Aries fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:59](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L59)*
+*Defined in [Recipe.ts:59](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L59)*
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 • **Baby bear**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:162](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L162)*
+*Defined in [Recipe.ts:162](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L162)*
 
 ___
 
@@ -206,7 +206,7 @@ ___
 
 • **Cancer fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:67](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L67)*
+*Defined in [Recipe.ts:67](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L67)*
 
 ___
 
@@ -214,7 +214,7 @@ ___
 
 • **Capricorn fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:68](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L68)*
+*Defined in [Recipe.ts:68](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L68)*
 
 ___
 
@@ -222,7 +222,7 @@ ___
 
 • **Gemini fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:74](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L74)*
+*Defined in [Recipe.ts:74](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L74)*
 
 ___
 
@@ -230,7 +230,7 @@ ___
 
 • **Leo fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:79](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L79)*
+*Defined in [Recipe.ts:79](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L79)*
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 • **Libra fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:80](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L80)*
+*Defined in [Recipe.ts:80](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L80)*
 
 ___
 
@@ -246,7 +246,7 @@ ___
 
 • **Mama bear**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:161](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L161)*
+*Defined in [Recipe.ts:161](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L161)*
 
 ___
 
@@ -254,7 +254,7 @@ ___
 
 • **Papa bear**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:160](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L160)*
+*Defined in [Recipe.ts:160](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L160)*
 
 ___
 
@@ -262,7 +262,7 @@ ___
 
 • **Pisces fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:81](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L81)*
+*Defined in [Recipe.ts:81](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L81)*
 
 ___
 
@@ -270,7 +270,7 @@ ___
 
 • **Sagittarius fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:82](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L82)*
+*Defined in [Recipe.ts:82](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L82)*
 
 ___
 
@@ -278,7 +278,7 @@ ___
 
 • **Scorpius fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:83](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L83)*
+*Defined in [Recipe.ts:83](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L83)*
 
 ___
 
@@ -286,7 +286,7 @@ ___
 
 • **Stone**? : *undefined | null*
 
-*Defined in [Recipe.ts:187](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L187)*
+*Defined in [Recipe.ts:187](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L187)*
 
 ___
 
@@ -294,7 +294,7 @@ ___
 
 • **Taurus fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:84](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L84)*
+*Defined in [Recipe.ts:84](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L84)*
 
 ___
 
@@ -302,7 +302,7 @@ ___
 
 • **Virgo fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:85](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L85)*
+*Defined in [Recipe.ts:85](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L85)*
 
 ___
 
@@ -310,7 +310,7 @@ ___
 
 • **acorn**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:86](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L86)*
+*Defined in [Recipe.ts:86](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L86)*
 
 ___
 
@@ -318,7 +318,7 @@ ___
 
 • **apple**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:87](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L87)*
+*Defined in [Recipe.ts:87](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L87)*
 
 ___
 
@@ -326,7 +326,7 @@ ___
 
 • **axe**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:165](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L165)*
+*Defined in [Recipe.ts:165](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L165)*
 
 ___
 
@@ -334,7 +334,7 @@ ___
 
 • **bamboo piece**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:91](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L91)*
+*Defined in [Recipe.ts:91](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L91)*
 
 ___
 
@@ -342,7 +342,7 @@ ___
 
 • **bamboo shoot**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:93](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L93)*
+*Defined in [Recipe.ts:93](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L93)*
 
 ___
 
@@ -350,7 +350,7 @@ ___
 
 • **bells**? : *undefined | null*
 
-*Defined in [Recipe.ts:191](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L191)*
+*Defined in [Recipe.ts:191](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L191)*
 
 ___
 
@@ -358,7 +358,7 @@ ___
 
 • **black cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:105](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L105)*
+*Defined in [Recipe.ts:105](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L105)*
 
 ___
 
@@ -366,7 +366,7 @@ ___
 
 • **black lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:135](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L135)*
+*Defined in [Recipe.ts:135](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L135)*
 
 ___
 
@@ -374,7 +374,7 @@ ___
 
 • **black roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:109](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L109)*
+*Defined in [Recipe.ts:109](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L109)*
 
 ___
 
@@ -382,7 +382,7 @@ ___
 
 • **black tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:136](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L136)*
+*Defined in [Recipe.ts:136](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L136)*
 
 ___
 
@@ -390,7 +390,7 @@ ___
 
 • **blue hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:116](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L116)*
+*Defined in [Recipe.ts:116](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L116)*
 
 ___
 
@@ -398,7 +398,7 @@ ___
 
 • **blue ornament**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:76](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L76)*
+*Defined in [Recipe.ts:76](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L76)*
 
 ___
 
@@ -406,7 +406,7 @@ ___
 
 • **blue pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:120](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L120)*
+*Defined in [Recipe.ts:120](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L120)*
 
 ___
 
@@ -414,7 +414,7 @@ ___
 
 • **blue roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:96](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L96)*
+*Defined in [Recipe.ts:96](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L96)*
 
 ___
 
@@ -422,7 +422,7 @@ ___
 
 • **blue windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:122](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L122)*
+*Defined in [Recipe.ts:122](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L122)*
 
 ___
 
@@ -430,7 +430,7 @@ ___
 
 • **book**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:114](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L114)*
+*Defined in [Recipe.ts:114](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L114)*
 
 ___
 
@@ -438,7 +438,7 @@ ___
 
 • **boot**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:157](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L157)*
+*Defined in [Recipe.ts:157](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L157)*
 
 ___
 
@@ -446,7 +446,7 @@ ___
 
 • **campfire**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:97](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L97)*
+*Defined in [Recipe.ts:97](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L97)*
 
 ___
 
@@ -454,7 +454,7 @@ ___
 
 • **cardboard box**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:103](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L103)*
+*Defined in [Recipe.ts:103](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L103)*
 
 ___
 
@@ -462,7 +462,7 @@ ___
 
 • **cherry**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:104](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L104)*
+*Defined in [Recipe.ts:104](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L104)*
 
 ___
 
@@ -470,7 +470,7 @@ ___
 
 • **cherry-blossom bonsai**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:98](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L98)*
+*Defined in [Recipe.ts:98](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L98)*
 
 ___
 
@@ -478,7 +478,7 @@ ___
 
 • **cherry-blossom petal**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:95](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L95)*
+*Defined in [Recipe.ts:95](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L95)*
 
 ___
 
@@ -486,7 +486,7 @@ ___
 
 • **clay**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:78](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L78)*
+*Defined in [Recipe.ts:78](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L78)*
 
 ___
 
@@ -494,7 +494,7 @@ ___
 
 • **clump of weeds**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:89](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L89)*
+*Defined in [Recipe.ts:89](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L89)*
 
 ___
 
@@ -502,7 +502,7 @@ ___
 
 • **coconut**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:115](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L115)*
+*Defined in [Recipe.ts:115](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L115)*
 
 ___
 
@@ -510,7 +510,7 @@ ___
 
 • **conch**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:188](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L188)*
+*Defined in [Recipe.ts:188](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L188)*
 
 ___
 
@@ -518,7 +518,7 @@ ___
 
 • **coral**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:186](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L186)*
+*Defined in [Recipe.ts:186](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L186)*
 
 ___
 
@@ -526,7 +526,7 @@ ___
 
 • **cowrie**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:190](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L190)*
+*Defined in [Recipe.ts:190](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L190)*
 
 ___
 
@@ -534,7 +534,7 @@ ___
 
 • **cutting board**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:175](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L175)*
+*Defined in [Recipe.ts:175](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L175)*
 
 ___
 
@@ -542,7 +542,7 @@ ___
 
 • **document stack**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:207](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L207)*
+*Defined in [Recipe.ts:207](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L207)*
 
 ___
 
@@ -550,7 +550,7 @@ ___
 
 • **drinking fountain**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:150](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L150)*
+*Defined in [Recipe.ts:150](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L150)*
 
 ___
 
@@ -558,7 +558,7 @@ ___
 
 • **earth egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:60](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L60)*
+*Defined in [Recipe.ts:60](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L60)*
 
 ___
 
@@ -566,7 +566,7 @@ ___
 
 • **elegant mushroom**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:148](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L148)*
+*Defined in [Recipe.ts:148](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L148)*
 
 ___
 
@@ -574,7 +574,7 @@ ___
 
 • **empty can**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:156](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L156)*
+*Defined in [Recipe.ts:156](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L156)*
 
 ___
 
@@ -582,7 +582,7 @@ ___
 
 • **fishing rod**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:167](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L167)*
+*Defined in [Recipe.ts:167](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L167)*
 
 ___
 
@@ -590,7 +590,7 @@ ___
 
 • **flat mushroom**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:147](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L147)*
+*Defined in [Recipe.ts:147](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L147)*
 
 ___
 
@@ -598,7 +598,7 @@ ___
 
 • **flimsy axe**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:90](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L90)*
+*Defined in [Recipe.ts:90](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L90)*
 
 ___
 
@@ -606,7 +606,7 @@ ___
 
 • **flimsy fishing rod**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:142](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L142)*
+*Defined in [Recipe.ts:142](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L142)*
 
 ___
 
@@ -614,7 +614,7 @@ ___
 
 • **flimsy net**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:196](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L196)*
+*Defined in [Recipe.ts:196](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L196)*
 
 ___
 
@@ -622,7 +622,7 @@ ___
 
 • **flimsy shovel**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:100](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L100)*
+*Defined in [Recipe.ts:100](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L100)*
 
 ___
 
@@ -630,7 +630,7 @@ ___
 
 • **flimsy watering can**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:215](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L215)*
+*Defined in [Recipe.ts:215](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L215)*
 
 ___
 
@@ -638,7 +638,7 @@ ___
 
 • **fossil**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:149](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L149)*
+*Defined in [Recipe.ts:149](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L149)*
 
 ___
 
@@ -646,7 +646,7 @@ ___
 
 • **giant clam**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:184](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L184)*
+*Defined in [Recipe.ts:184](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L184)*
 
 ___
 
@@ -654,7 +654,7 @@ ___
 
 • **gold armor**? : *[GoldArmor](_recipe_.goldarmor.md)*
 
-*Defined in [Recipe.ts:203](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L203)*
+*Defined in [Recipe.ts:203](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L203)*
 
 ___
 
@@ -662,7 +662,7 @@ ___
 
 • **gold nugget**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:57](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L57)*
+*Defined in [Recipe.ts:57](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L57)*
 
 ___
 
@@ -670,7 +670,7 @@ ___
 
 • **gold ornament**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:77](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L77)*
+*Defined in [Recipe.ts:77](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L77)*
 
 ___
 
@@ -678,7 +678,7 @@ ___
 
 • **gold roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:163](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L163)*
+*Defined in [Recipe.ts:163](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L163)*
 
 ___
 
@@ -686,7 +686,7 @@ ___
 
 • **green mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:195](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L195)*
+*Defined in [Recipe.ts:195](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L195)*
 
 ___
 
@@ -694,7 +694,7 @@ ___
 
 • **hardwood**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:70](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L70)*
+*Defined in [Recipe.ts:70](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L70)*
 
 ___
 
@@ -702,7 +702,7 @@ ___
 
 • **iron nugget**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:72](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L72)*
+*Defined in [Recipe.ts:72](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L72)*
 
 ___
 
@@ -710,7 +710,7 @@ ___
 
 • **ironwood dresser**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:174](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L174)*
+*Defined in [Recipe.ts:174](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L174)*
 
 ___
 
@@ -718,7 +718,7 @@ ___
 
 • **large snowflake**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:151](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L151)*
+*Defined in [Recipe.ts:151](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L151)*
 
 ___
 
@@ -726,7 +726,7 @@ ___
 
 • **large star fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:129](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L129)*
+*Defined in [Recipe.ts:129](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L129)*
 
 ___
 
@@ -734,7 +734,7 @@ ___
 
 • **leaf egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:62](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L62)*
+*Defined in [Recipe.ts:62](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L62)*
 
 ___
 
@@ -742,7 +742,7 @@ ___
 
 • **log bench**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:178](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L178)*
+*Defined in [Recipe.ts:178](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L178)*
 
 ___
 
@@ -750,7 +750,7 @@ ___
 
 • **log chair**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:179](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L179)*
+*Defined in [Recipe.ts:179](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L179)*
 
 ___
 
@@ -758,7 +758,7 @@ ___
 
 • **log stakes**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:101](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L101)*
+*Defined in [Recipe.ts:101](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L101)*
 
 ___
 
@@ -766,7 +766,7 @@ ___
 
 • **log stool**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:194](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L194)*
+*Defined in [Recipe.ts:194](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L194)*
 
 ___
 
@@ -774,7 +774,7 @@ ___
 
 • **lucky cat**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:181](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L181)*
+*Defined in [Recipe.ts:181](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L181)*
 
 ___
 
@@ -782,7 +782,7 @@ ___
 
 • **magazine**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:182](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L182)*
+*Defined in [Recipe.ts:182](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L182)*
 
 ___
 
@@ -790,7 +790,7 @@ ___
 
 • **manila clam**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:141](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L141)*
+*Defined in [Recipe.ts:141](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L141)*
 
 ___
 
@@ -798,7 +798,7 @@ ___
 
 • **maple leaf**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:88](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L88)*
+*Defined in [Recipe.ts:88](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L88)*
 
 ___
 
@@ -806,7 +806,7 @@ ___
 
 • **mini DIY workbench**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:73](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L73)*
+*Defined in [Recipe.ts:73](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L73)*
 
 ___
 
@@ -814,7 +814,7 @@ ___
 
 • **net**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:166](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L166)*
+*Defined in [Recipe.ts:166](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L166)*
 
 ___
 
@@ -822,7 +822,7 @@ ___
 
 • **oil barrel**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:197](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L197)*
+*Defined in [Recipe.ts:197](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L197)*
 
 ___
 
@@ -830,7 +830,7 @@ ___
 
 • **old tire**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:158](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L158)*
+*Defined in [Recipe.ts:158](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L158)*
 
 ___
 
@@ -838,7 +838,7 @@ ___
 
 • **orange**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:154](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L154)*
+*Defined in [Recipe.ts:154](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L154)*
 
 ___
 
@@ -846,7 +846,7 @@ ___
 
 • **orange cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:180](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L180)*
+*Defined in [Recipe.ts:180](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L180)*
 
 ___
 
@@ -854,7 +854,7 @@ ___
 
 • **orange hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:118](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L118)*
+*Defined in [Recipe.ts:118](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L118)*
 
 ___
 
@@ -862,7 +862,7 @@ ___
 
 • **orange lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:131](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L131)*
+*Defined in [Recipe.ts:131](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L131)*
 
 ___
 
@@ -870,7 +870,7 @@ ___
 
 • **orange pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:119](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L119)*
+*Defined in [Recipe.ts:119](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L119)*
 
 ___
 
@@ -878,7 +878,7 @@ ___
 
 • **orange roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:134](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L134)*
+*Defined in [Recipe.ts:134](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L134)*
 
 ___
 
@@ -886,7 +886,7 @@ ___
 
 • **orange tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:112](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L112)*
+*Defined in [Recipe.ts:112](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L112)*
 
 ___
 
@@ -894,7 +894,7 @@ ___
 
 • **orange windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:218](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L218)*
+*Defined in [Recipe.ts:218](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L218)*
 
 ___
 
@@ -902,7 +902,7 @@ ___
 
 • **painting set**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:211](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L211)*
+*Defined in [Recipe.ts:211](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L211)*
 
 ___
 
@@ -910,7 +910,7 @@ ___
 
 • **peach**? : *[Peach](_recipe_.peach.md)*
 
-*Defined in [Recipe.ts:155](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L155)*
+*Defined in [Recipe.ts:155](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L155)*
 
 ___
 
@@ -918,7 +918,7 @@ ___
 
 • **pear**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:153](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L153)*
+*Defined in [Recipe.ts:153](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L153)*
 
 ___
 
@@ -926,7 +926,7 @@ ___
 
 • **pearl**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:183](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L183)*
+*Defined in [Recipe.ts:183](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L183)*
 
 ___
 
@@ -934,7 +934,7 @@ ___
 
 • **pine bonsai tree**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:99](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L99)*
+*Defined in [Recipe.ts:99](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L99)*
 
 ___
 
@@ -942,7 +942,7 @@ ___
 
 • **pine cone**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:176](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L176)*
+*Defined in [Recipe.ts:176](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L176)*
 
 ___
 
@@ -950,7 +950,7 @@ ___
 
 • **pink cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:128](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L128)*
+*Defined in [Recipe.ts:128](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L128)*
 
 ___
 
@@ -958,7 +958,7 @@ ___
 
 • **pink hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:117](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L117)*
+*Defined in [Recipe.ts:117](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L117)*
 
 ___
 
@@ -966,7 +966,7 @@ ___
 
 • **pink lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:130](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L130)*
+*Defined in [Recipe.ts:130](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L130)*
 
 ___
 
@@ -974,7 +974,7 @@ ___
 
 • **pink mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:107](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L107)*
+*Defined in [Recipe.ts:107](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L107)*
 
 ___
 
@@ -982,7 +982,7 @@ ___
 
 • **pink roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:133](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L133)*
+*Defined in [Recipe.ts:133](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L133)*
 
 ___
 
@@ -990,7 +990,7 @@ ___
 
 • **pink tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:111](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L111)*
+*Defined in [Recipe.ts:111](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L111)*
 
 ___
 
@@ -998,7 +998,7 @@ ___
 
 • **pink windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:123](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L123)*
+*Defined in [Recipe.ts:123](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L123)*
 
 ___
 
@@ -1006,7 +1006,7 @@ ___
 
 • **purple hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:173](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L173)*
+*Defined in [Recipe.ts:173](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L173)*
 
 ___
 
@@ -1014,7 +1014,7 @@ ___
 
 • **purple mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:106](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L106)*
+*Defined in [Recipe.ts:106](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L106)*
 
 ___
 
@@ -1022,7 +1022,7 @@ ___
 
 • **purple pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:121](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L121)*
+*Defined in [Recipe.ts:121](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L121)*
 
 ___
 
@@ -1030,7 +1030,7 @@ ___
 
 • **purple roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:108](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L108)*
+*Defined in [Recipe.ts:108](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L108)*
 
 ___
 
@@ -1038,7 +1038,7 @@ ___
 
 • **purple tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:110](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L110)*
+*Defined in [Recipe.ts:110](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L110)*
 
 ___
 
@@ -1046,7 +1046,7 @@ ___
 
 • **purple windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:113](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L113)*
+*Defined in [Recipe.ts:113](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L113)*
 
 ___
 
@@ -1054,7 +1054,7 @@ ___
 
 • **rare mushroom**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:144](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L144)*
+*Defined in [Recipe.ts:144](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L144)*
 
 ___
 
@@ -1062,7 +1062,7 @@ ___
 
 • **red cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:125](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L125)*
+*Defined in [Recipe.ts:125](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L125)*
 
 ___
 
@@ -1070,7 +1070,7 @@ ___
 
 • **red hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:171](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L171)*
+*Defined in [Recipe.ts:171](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L171)*
 
 ___
 
@@ -1078,7 +1078,7 @@ ___
 
 • **red lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:177](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L177)*
+*Defined in [Recipe.ts:177](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L177)*
 
 ___
 
@@ -1086,7 +1086,7 @@ ___
 
 • **red mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:139](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L139)*
+*Defined in [Recipe.ts:139](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L139)*
 
 ___
 
@@ -1094,7 +1094,7 @@ ___
 
 • **red ornament**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:75](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L75)*
+*Defined in [Recipe.ts:75](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L75)*
 
 ___
 
@@ -1102,7 +1102,7 @@ ___
 
 • **red pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:198](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L198)*
+*Defined in [Recipe.ts:198](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L198)*
 
 ___
 
@@ -1110,7 +1110,7 @@ ___
 
 • **red roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:143](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L143)*
+*Defined in [Recipe.ts:143](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L143)*
 
 ___
 
@@ -1118,7 +1118,7 @@ ___
 
 • **red tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:212](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L212)*
+*Defined in [Recipe.ts:212](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L212)*
 
 ___
 
@@ -1126,7 +1126,7 @@ ___
 
 • **red windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:217](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L217)*
+*Defined in [Recipe.ts:217](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L217)*
 
 ___
 
@@ -1134,7 +1134,7 @@ ___
 
 • **rocket**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:202](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L202)*
+*Defined in [Recipe.ts:202](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L202)*
 
 ___
 
@@ -1142,7 +1142,7 @@ ___
 
 • **round mushroom**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:145](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L145)*
+*Defined in [Recipe.ts:145](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L145)*
 
 ___
 
@@ -1150,7 +1150,7 @@ ___
 
 • **rusted part**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:204](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L204)*
+*Defined in [Recipe.ts:204](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L204)*
 
 ___
 
@@ -1158,7 +1158,7 @@ ___
 
 • **sand dollar**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:185](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L185)*
+*Defined in [Recipe.ts:185](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L185)*
 
 ___
 
@@ -1166,7 +1166,7 @@ ___
 
 • **sandy-beach flooring**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:209](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L209)*
+*Defined in [Recipe.ts:209](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L209)*
 
 ___
 
@@ -1174,7 +1174,7 @@ ___
 
 • **scattered papers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:137](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L137)*
+*Defined in [Recipe.ts:137](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L137)*
 
 ___
 
@@ -1182,7 +1182,7 @@ ___
 
 • **screen wall**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:164](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L164)*
+*Defined in [Recipe.ts:164](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L164)*
 
 ___
 
@@ -1190,7 +1190,7 @@ ___
 
 • **sea snail**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:189](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L189)*
+*Defined in [Recipe.ts:189](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L189)*
 
 ___
 
@@ -1198,7 +1198,7 @@ ___
 
 • **shovel**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:168](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L168)*
+*Defined in [Recipe.ts:168](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L168)*
 
 ___
 
@@ -1206,7 +1206,7 @@ ___
 
 • **skinny mushroom**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:146](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L146)*
+*Defined in [Recipe.ts:146](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L146)*
 
 ___
 
@@ -1214,7 +1214,7 @@ ___
 
 • **sky egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:64](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L64)*
+*Defined in [Recipe.ts:64](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L64)*
 
 ___
 
@@ -1222,7 +1222,7 @@ ___
 
 • **slingshot**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:169](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L169)*
+*Defined in [Recipe.ts:169](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L169)*
 
 ___
 
@@ -1230,7 +1230,7 @@ ___
 
 • **snowflake**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:152](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L152)*
+*Defined in [Recipe.ts:152](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L152)*
 
 ___
 
@@ -1238,7 +1238,7 @@ ___
 
 • **softwood**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:71](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L71)*
+*Defined in [Recipe.ts:71](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L71)*
 
 ___
 
@@ -1246,7 +1246,7 @@ ___
 
 • **star fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:55](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L55)*
+*Defined in [Recipe.ts:55](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L55)*
 
 ___
 
@@ -1254,7 +1254,7 @@ ___
 
 • **stone**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:58](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L58)*
+*Defined in [Recipe.ts:58](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L58)*
 
 ___
 
@@ -1262,7 +1262,7 @@ ___
 
 • **stone egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:61](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L61)*
+*Defined in [Recipe.ts:61](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L61)*
 
 ___
 
@@ -1270,7 +1270,7 @@ ___
 
 • **summer shell**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:208](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L208)*
+*Defined in [Recipe.ts:208](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L208)*
 
 ___
 
@@ -1278,7 +1278,7 @@ ___
 
 • **tree branch**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:102](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L102)*
+*Defined in [Recipe.ts:102](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L102)*
 
 ___
 
@@ -1286,7 +1286,7 @@ ___
 
 • **upright piano**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:210](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L210)*
+*Defined in [Recipe.ts:210](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L210)*
 
 ___
 
@@ -1294,7 +1294,7 @@ ___
 
 • **venus comb**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:206](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L206)*
+*Defined in [Recipe.ts:206](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L206)*
 
 ___
 
@@ -1302,7 +1302,7 @@ ___
 
 • **wasp nest**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:94](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L94)*
+*Defined in [Recipe.ts:94](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L94)*
 
 ___
 
@@ -1310,7 +1310,7 @@ ___
 
 • **water egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:65](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L65)*
+*Defined in [Recipe.ts:65](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L65)*
 
 ___
 
@@ -1318,7 +1318,7 @@ ___
 
 • **watering can**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:170](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L170)*
+*Defined in [Recipe.ts:170](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L170)*
 
 ___
 
@@ -1326,7 +1326,7 @@ ___
 
 • **wedding flower stand**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:216](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L216)*
+*Defined in [Recipe.ts:216](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L216)*
 
 ___
 
@@ -1334,7 +1334,7 @@ ___
 
 • **white cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:127](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L127)*
+*Defined in [Recipe.ts:127](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L127)*
 
 ___
 
@@ -1342,7 +1342,7 @@ ___
 
 • **white hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:159](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L159)*
+*Defined in [Recipe.ts:159](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L159)*
 
 ___
 
@@ -1350,7 +1350,7 @@ ___
 
 • **white lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:132](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L132)*
+*Defined in [Recipe.ts:132](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L132)*
 
 ___
 
@@ -1358,7 +1358,7 @@ ___
 
 • **white mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:193](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L193)*
+*Defined in [Recipe.ts:193](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L193)*
 
 ___
 
@@ -1366,7 +1366,7 @@ ___
 
 • **white pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:200](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L200)*
+*Defined in [Recipe.ts:200](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L200)*
 
 ___
 
@@ -1374,7 +1374,7 @@ ___
 
 • **white roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:205](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L205)*
+*Defined in [Recipe.ts:205](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L205)*
 
 ___
 
@@ -1382,7 +1382,7 @@ ___
 
 • **white tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:214](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L214)*
+*Defined in [Recipe.ts:214](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L214)*
 
 ___
 
@@ -1390,7 +1390,7 @@ ___
 
 • **white windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:124](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L124)*
+*Defined in [Recipe.ts:124](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L124)*
 
 ___
 
@@ -1398,7 +1398,7 @@ ___
 
 • **wobbling Zipper toy**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:66](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L66)*
+*Defined in [Recipe.ts:66](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L66)*
 
 ___
 
@@ -1406,7 +1406,7 @@ ___
 
 • **wood**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:69](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L69)*
+*Defined in [Recipe.ts:69](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L69)*
 
 ___
 
@@ -1414,7 +1414,7 @@ ___
 
 • **wood egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:63](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L63)*
+*Defined in [Recipe.ts:63](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L63)*
 
 ___
 
@@ -1422,7 +1422,7 @@ ___
 
 • **wooden-block toy**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:219](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L219)*
+*Defined in [Recipe.ts:219](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L219)*
 
 ___
 
@@ -1430,7 +1430,7 @@ ___
 
 • **yellow cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:126](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L126)*
+*Defined in [Recipe.ts:126](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L126)*
 
 ___
 
@@ -1438,7 +1438,7 @@ ___
 
 • **yellow hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:172](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L172)*
+*Defined in [Recipe.ts:172](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L172)*
 
 ___
 
@@ -1446,7 +1446,7 @@ ___
 
 • **yellow lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:138](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L138)*
+*Defined in [Recipe.ts:138](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L138)*
 
 ___
 
@@ -1454,7 +1454,7 @@ ___
 
 • **yellow mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:192](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L192)*
+*Defined in [Recipe.ts:192](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L192)*
 
 ___
 
@@ -1462,7 +1462,7 @@ ___
 
 • **yellow pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:199](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L199)*
+*Defined in [Recipe.ts:199](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L199)*
 
 ___
 
@@ -1470,7 +1470,7 @@ ___
 
 • **yellow roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:140](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L140)*
+*Defined in [Recipe.ts:140](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L140)*
 
 ___
 
@@ -1478,7 +1478,7 @@ ___
 
 • **yellow tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:213](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L213)*
+*Defined in [Recipe.ts:213](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L213)*
 
 ___
 
@@ -1486,7 +1486,7 @@ ___
 
 • **young spring bamboo**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:92](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L92)*
+*Defined in [Recipe.ts:92](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L92)*
 
 ___
 
@@ -1494,4 +1494,4 @@ ___
 
 • **zen cushion**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
 
-*Defined in [Recipe.ts:201](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Recipe.ts#L201)*
+*Defined in [Recipe.ts:201](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L201)*

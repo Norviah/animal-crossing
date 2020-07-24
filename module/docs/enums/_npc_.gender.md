@@ -15,7 +15,7 @@
 
 • **Female**: = "Female"
 
-Defined in NPC.ts:17
+*Defined in [NPC.ts:17](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/NPC.ts#L17)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Male**: = "Male"
 
-Defined in NPC.ts:18
+*Defined in [NPC.ts:18](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/NPC.ts#L18)*
