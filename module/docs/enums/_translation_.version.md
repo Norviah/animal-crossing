@@ -17,7 +17,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Translation.ts:78](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Translation.ts#L78)*
+*Defined in [Translation.ts:78](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Translation.ts#L78)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **The110**: = "1.1.0"
 
-*Defined in [Translation.ts:79](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Translation.ts#L79)*
+*Defined in [Translation.ts:79](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Translation.ts#L79)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Translation.ts:80](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Translation.ts#L80)*
+*Defined in [Translation.ts:80](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Translation.ts#L80)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **The130**: = "1.3.0"
 
-*Defined in [Translation.ts:81](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Translation.ts#L81)*
+*Defined in [Translation.ts:81](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Translation.ts#L81)*

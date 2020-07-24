@@ -17,7 +17,7 @@
 
 • **The100**: = "1.0.0"
 
-Defined in NPC.ts:48
+*Defined in [NPC.ts:48](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/NPC.ts#L48)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **The110**: = "1.1.0"
 
-Defined in NPC.ts:49
+*Defined in [NPC.ts:49](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/NPC.ts#L49)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-Defined in NPC.ts:50
+*Defined in [NPC.ts:50](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/NPC.ts#L50)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **The130**: = "1.3.0"
 
-Defined in NPC.ts:51
+*Defined in [NPC.ts:51](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/NPC.ts#L51)*

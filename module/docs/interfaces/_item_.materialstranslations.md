@@ -182,7 +182,7 @@
 
 • **Aquarius fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:342](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L342)*
+*Defined in [Item.ts:343](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L343)*
 
 ___
 
@@ -190,7 +190,7 @@ ___
 
 • **Aries fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:345](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L345)*
+*Defined in [Item.ts:346](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L346)*
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 • **Baby bear**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:448](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L448)*
+*Defined in [Item.ts:449](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L449)*
 
 ___
 
@@ -206,7 +206,7 @@ ___
 
 • **Cancer fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:353](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L353)*
+*Defined in [Item.ts:354](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L354)*
 
 ___
 
@@ -214,7 +214,7 @@ ___
 
 • **Capricorn fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:354](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L354)*
+*Defined in [Item.ts:355](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L355)*
 
 ___
 
@@ -222,7 +222,7 @@ ___
 
 • **Gemini fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:360](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L360)*
+*Defined in [Item.ts:361](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L361)*
 
 ___
 
@@ -230,7 +230,7 @@ ___
 
 • **Leo fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:365](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L365)*
+*Defined in [Item.ts:366](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L366)*
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 • **Libra fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:366](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L366)*
+*Defined in [Item.ts:367](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L367)*
 
 ___
 
@@ -246,7 +246,7 @@ ___
 
 • **Mama bear**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:447](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L447)*
+*Defined in [Item.ts:448](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L448)*
 
 ___
 
@@ -254,7 +254,7 @@ ___
 
 • **Papa bear**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:446](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L446)*
+*Defined in [Item.ts:447](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L447)*
 
 ___
 
@@ -262,7 +262,7 @@ ___
 
 • **Pisces fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:367](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L367)*
+*Defined in [Item.ts:368](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L368)*
 
 ___
 
@@ -270,7 +270,7 @@ ___
 
 • **Sagittarius fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:368](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L368)*
+*Defined in [Item.ts:369](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L369)*
 
 ___
 
@@ -278,7 +278,7 @@ ___
 
 • **Scorpius fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:369](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L369)*
+*Defined in [Item.ts:370](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L370)*
 
 ___
 
@@ -286,7 +286,7 @@ ___
 
 • **Stone**? : *undefined | null*
 
-*Defined in [Item.ts:473](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L473)*
+*Defined in [Item.ts:474](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L474)*
 
 ___
 
@@ -294,7 +294,7 @@ ___
 
 • **Taurus fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:370](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L370)*
+*Defined in [Item.ts:371](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L371)*
 
 ___
 
@@ -302,7 +302,7 @@ ___
 
 • **Virgo fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:371](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L371)*
+*Defined in [Item.ts:372](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L372)*
 
 ___
 
@@ -310,7 +310,7 @@ ___
 
 • **acorn**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:372](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L372)*
+*Defined in [Item.ts:373](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L373)*
 
 ___
 
@@ -318,7 +318,7 @@ ___
 
 • **apple**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:373](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L373)*
+*Defined in [Item.ts:374](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L374)*
 
 ___
 
@@ -326,7 +326,7 @@ ___
 
 • **axe**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:451](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L451)*
+*Defined in [Item.ts:452](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L452)*
 
 ___
 
@@ -334,7 +334,7 @@ ___
 
 • **bamboo piece**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:377](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L377)*
+*Defined in [Item.ts:378](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L378)*
 
 ___
 
@@ -342,7 +342,7 @@ ___
 
 • **bamboo shoot**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:379](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L379)*
+*Defined in [Item.ts:380](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L380)*
 
 ___
 
@@ -350,7 +350,7 @@ ___
 
 • **bells**? : *undefined | null*
 
-*Defined in [Item.ts:477](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L477)*
+*Defined in [Item.ts:478](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L478)*
 
 ___
 
@@ -358,7 +358,7 @@ ___
 
 • **black cosmos**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:391](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L391)*
+*Defined in [Item.ts:392](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L392)*
 
 ___
 
@@ -366,7 +366,7 @@ ___
 
 • **black lilies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:421](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L421)*
+*Defined in [Item.ts:422](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L422)*
 
 ___
 
@@ -374,7 +374,7 @@ ___
 
 • **black roses**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:395](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L395)*
+*Defined in [Item.ts:396](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L396)*
 
 ___
 
@@ -382,7 +382,7 @@ ___
 
 • **black tulips**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:422](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L422)*
+*Defined in [Item.ts:423](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L423)*
 
 ___
 
@@ -390,7 +390,7 @@ ___
 
 • **blue hyacinths**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:402](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L402)*
+*Defined in [Item.ts:403](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L403)*
 
 ___
 
@@ -398,7 +398,7 @@ ___
 
 • **blue ornament**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:362](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L362)*
+*Defined in [Item.ts:363](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L363)*
 
 ___
 
@@ -406,7 +406,7 @@ ___
 
 • **blue pansies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:406](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L406)*
+*Defined in [Item.ts:407](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L407)*
 
 ___
 
@@ -414,7 +414,7 @@ ___
 
 • **blue roses**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:382](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L382)*
+*Defined in [Item.ts:383](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L383)*
 
 ___
 
@@ -422,7 +422,7 @@ ___
 
 • **blue windflowers**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:408](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L408)*
+*Defined in [Item.ts:409](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L409)*
 
 ___
 
@@ -430,7 +430,7 @@ ___
 
 • **book**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:400](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L400)*
+*Defined in [Item.ts:401](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L401)*
 
 ___
 
@@ -438,7 +438,7 @@ ___
 
 • **boot**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:443](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L443)*
+*Defined in [Item.ts:444](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L444)*
 
 ___
 
@@ -446,7 +446,7 @@ ___
 
 • **campfire**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:383](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L383)*
+*Defined in [Item.ts:384](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L384)*
 
 ___
 
@@ -454,7 +454,7 @@ ___
 
 • **cardboard box**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:389](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L389)*
+*Defined in [Item.ts:390](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L390)*
 
 ___
 
@@ -462,7 +462,7 @@ ___
 
 • **cherry**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:390](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L390)*
+*Defined in [Item.ts:391](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L391)*
 
 ___
 
@@ -470,7 +470,7 @@ ___
 
 • **cherry-blossom bonsai**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:384](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L384)*
+*Defined in [Item.ts:385](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L385)*
 
 ___
 
@@ -478,7 +478,7 @@ ___
 
 • **cherry-blossom petal**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:381](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L381)*
+*Defined in [Item.ts:382](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L382)*
 
 ___
 
@@ -486,7 +486,7 @@ ___
 
 • **clay**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:364](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L364)*
+*Defined in [Item.ts:365](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L365)*
 
 ___
 
@@ -494,7 +494,7 @@ ___
 
 • **clump of weeds**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:375](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L375)*
+*Defined in [Item.ts:376](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L376)*
 
 ___
 
@@ -502,7 +502,7 @@ ___
 
 • **coconut**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:401](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L401)*
+*Defined in [Item.ts:402](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L402)*
 
 ___
 
@@ -510,7 +510,7 @@ ___
 
 • **conch**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:474](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L474)*
+*Defined in [Item.ts:475](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L475)*
 
 ___
 
@@ -518,7 +518,7 @@ ___
 
 • **coral**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:472](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L472)*
+*Defined in [Item.ts:473](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L473)*
 
 ___
 
@@ -526,7 +526,7 @@ ___
 
 • **cowrie**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:476](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L476)*
+*Defined in [Item.ts:477](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L477)*
 
 ___
 
@@ -534,7 +534,7 @@ ___
 
 • **cutting board**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:461](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L461)*
+*Defined in [Item.ts:462](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L462)*
 
 ___
 
@@ -542,7 +542,7 @@ ___
 
 • **document stack**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:493](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L493)*
+*Defined in [Item.ts:494](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L494)*
 
 ___
 
@@ -550,7 +550,7 @@ ___
 
 • **drinking fountain**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:436](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L436)*
+*Defined in [Item.ts:437](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L437)*
 
 ___
 
@@ -558,7 +558,7 @@ ___
 
 • **earth egg**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:346](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L346)*
+*Defined in [Item.ts:347](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L347)*
 
 ___
 
@@ -566,7 +566,7 @@ ___
 
 • **elegant mushroom**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:434](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L434)*
+*Defined in [Item.ts:435](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L435)*
 
 ___
 
@@ -574,7 +574,7 @@ ___
 
 • **empty can**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:442](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L442)*
+*Defined in [Item.ts:443](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L443)*
 
 ___
 
@@ -582,7 +582,7 @@ ___
 
 • **fishing rod**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:453](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L453)*
+*Defined in [Item.ts:454](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L454)*
 
 ___
 
@@ -590,7 +590,7 @@ ___
 
 • **flat mushroom**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:433](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L433)*
+*Defined in [Item.ts:434](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L434)*
 
 ___
 
@@ -598,7 +598,7 @@ ___
 
 • **flimsy axe**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:376](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L376)*
+*Defined in [Item.ts:377](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L377)*
 
 ___
 
@@ -606,7 +606,7 @@ ___
 
 • **flimsy fishing rod**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:428](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L428)*
+*Defined in [Item.ts:429](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L429)*
 
 ___
 
@@ -614,7 +614,7 @@ ___
 
 • **flimsy net**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:482](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L482)*
+*Defined in [Item.ts:483](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L483)*
 
 ___
 
@@ -622,7 +622,7 @@ ___
 
 • **flimsy shovel**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:386](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L386)*
+*Defined in [Item.ts:387](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L387)*
 
 ___
 
@@ -630,7 +630,7 @@ ___
 
 • **flimsy watering can**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:501](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L501)*
+*Defined in [Item.ts:502](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L502)*
 
 ___
 
@@ -638,7 +638,7 @@ ___
 
 • **fossil**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:435](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L435)*
+*Defined in [Item.ts:436](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L436)*
 
 ___
 
@@ -646,7 +646,7 @@ ___
 
 • **giant clam**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:470](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L470)*
+*Defined in [Item.ts:471](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L471)*
 
 ___
 
@@ -654,7 +654,7 @@ ___
 
 • **gold armor**? : *[SeriesTranslations](_item_.seriestranslations.md)*
 
-*Defined in [Item.ts:489](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L489)*
+*Defined in [Item.ts:490](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L490)*
 
 ___
 
@@ -662,7 +662,7 @@ ___
 
 • **gold nugget**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:343](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L343)*
+*Defined in [Item.ts:344](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L344)*
 
 ___
 
@@ -670,7 +670,7 @@ ___
 
 • **gold ornament**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:363](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L363)*
+*Defined in [Item.ts:364](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L364)*
 
 ___
 
@@ -678,7 +678,7 @@ ___
 
 • **gold roses**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:449](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L449)*
+*Defined in [Item.ts:450](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L450)*
 
 ___
 
@@ -686,7 +686,7 @@ ___
 
 • **green mums**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:481](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L481)*
+*Defined in [Item.ts:482](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L482)*
 
 ___
 
@@ -694,7 +694,7 @@ ___
 
 • **hardwood**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:356](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L356)*
+*Defined in [Item.ts:357](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L357)*
 
 ___
 
@@ -702,7 +702,7 @@ ___
 
 • **iron nugget**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:358](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L358)*
+*Defined in [Item.ts:359](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L359)*
 
 ___
 
@@ -710,7 +710,7 @@ ___
 
 • **ironwood dresser**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:460](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L460)*
+*Defined in [Item.ts:461](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L461)*
 
 ___
 
@@ -718,7 +718,7 @@ ___
 
 • **large snowflake**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:437](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L437)*
+*Defined in [Item.ts:438](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L438)*
 
 ___
 
@@ -726,7 +726,7 @@ ___
 
 • **large star fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:415](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L415)*
+*Defined in [Item.ts:416](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L416)*
 
 ___
 
@@ -734,7 +734,7 @@ ___
 
 • **leaf egg**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:348](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L348)*
+*Defined in [Item.ts:349](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L349)*
 
 ___
 
@@ -742,7 +742,7 @@ ___
 
 • **log bench**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:464](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L464)*
+*Defined in [Item.ts:465](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L465)*
 
 ___
 
@@ -750,7 +750,7 @@ ___
 
 • **log chair**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:465](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L465)*
+*Defined in [Item.ts:466](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L466)*
 
 ___
 
@@ -758,7 +758,7 @@ ___
 
 • **log stakes**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:387](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L387)*
+*Defined in [Item.ts:388](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L388)*
 
 ___
 
@@ -766,7 +766,7 @@ ___
 
 • **log stool**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:480](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L480)*
+*Defined in [Item.ts:481](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L481)*
 
 ___
 
@@ -774,7 +774,7 @@ ___
 
 • **lucky cat**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:467](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L467)*
+*Defined in [Item.ts:468](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L468)*
 
 ___
 
@@ -782,7 +782,7 @@ ___
 
 • **magazine**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:468](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L468)*
+*Defined in [Item.ts:469](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L469)*
 
 ___
 
@@ -790,7 +790,7 @@ ___
 
 • **manila clam**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:427](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L427)*
+*Defined in [Item.ts:428](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L428)*
 
 ___
 
@@ -798,7 +798,7 @@ ___
 
 • **maple leaf**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:374](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L374)*
+*Defined in [Item.ts:375](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L375)*
 
 ___
 
@@ -806,7 +806,7 @@ ___
 
 • **mini DIY workbench**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:359](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L359)*
+*Defined in [Item.ts:360](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L360)*
 
 ___
 
@@ -814,7 +814,7 @@ ___
 
 • **net**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:452](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L452)*
+*Defined in [Item.ts:453](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L453)*
 
 ___
 
@@ -822,7 +822,7 @@ ___
 
 • **oil barrel**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:483](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L483)*
+*Defined in [Item.ts:484](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L484)*
 
 ___
 
@@ -830,7 +830,7 @@ ___
 
 • **old tire**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:444](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L444)*
+*Defined in [Item.ts:445](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L445)*
 
 ___
 
@@ -838,7 +838,7 @@ ___
 
 • **orange**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:440](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L440)*
+*Defined in [Item.ts:441](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L441)*
 
 ___
 
@@ -846,7 +846,7 @@ ___
 
 • **orange cosmos**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:466](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L466)*
+*Defined in [Item.ts:467](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L467)*
 
 ___
 
@@ -854,7 +854,7 @@ ___
 
 • **orange hyacinths**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:404](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L404)*
+*Defined in [Item.ts:405](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L405)*
 
 ___
 
@@ -862,7 +862,7 @@ ___
 
 • **orange lilies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:417](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L417)*
+*Defined in [Item.ts:418](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L418)*
 
 ___
 
@@ -870,7 +870,7 @@ ___
 
 • **orange pansies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:405](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L405)*
+*Defined in [Item.ts:406](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L406)*
 
 ___
 
@@ -878,7 +878,7 @@ ___
 
 • **orange roses**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:420](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L420)*
+*Defined in [Item.ts:421](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L421)*
 
 ___
 
@@ -886,7 +886,7 @@ ___
 
 • **orange tulips**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:398](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L398)*
+*Defined in [Item.ts:399](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L399)*
 
 ___
 
@@ -894,7 +894,7 @@ ___
 
 • **orange windflowers**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:504](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L504)*
+*Defined in [Item.ts:505](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L505)*
 
 ___
 
@@ -902,7 +902,7 @@ ___
 
 • **painting set**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:497](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L497)*
+*Defined in [Item.ts:498](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L498)*
 
 ___
 
@@ -910,7 +910,7 @@ ___
 
 • **peach**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:441](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L441)*
+*Defined in [Item.ts:442](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L442)*
 
 ___
 
@@ -918,7 +918,7 @@ ___
 
 • **pear**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:439](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L439)*
+*Defined in [Item.ts:440](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L440)*
 
 ___
 
@@ -926,7 +926,7 @@ ___
 
 • **pearl**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:469](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L469)*
+*Defined in [Item.ts:470](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L470)*
 
 ___
 
@@ -934,7 +934,7 @@ ___
 
 • **pine bonsai tree**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:385](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L385)*
+*Defined in [Item.ts:386](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L386)*
 
 ___
 
@@ -942,7 +942,7 @@ ___
 
 • **pine cone**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:462](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L462)*
+*Defined in [Item.ts:463](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L463)*
 
 ___
 
@@ -950,7 +950,7 @@ ___
 
 • **pink cosmos**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:414](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L414)*
+*Defined in [Item.ts:415](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L415)*
 
 ___
 
@@ -958,7 +958,7 @@ ___
 
 • **pink hyacinths**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:403](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L403)*
+*Defined in [Item.ts:404](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L404)*
 
 ___
 
@@ -966,7 +966,7 @@ ___
 
 • **pink lilies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:416](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L416)*
+*Defined in [Item.ts:417](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L417)*
 
 ___
 
@@ -974,7 +974,7 @@ ___
 
 • **pink mums**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:393](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L393)*
+*Defined in [Item.ts:394](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L394)*
 
 ___
 
@@ -982,7 +982,7 @@ ___
 
 • **pink roses**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:419](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L419)*
+*Defined in [Item.ts:420](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L420)*
 
 ___
 
@@ -990,7 +990,7 @@ ___
 
 • **pink tulips**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:397](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L397)*
+*Defined in [Item.ts:398](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L398)*
 
 ___
 
@@ -998,7 +998,7 @@ ___
 
 • **pink windflowers**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:409](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L409)*
+*Defined in [Item.ts:410](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L410)*
 
 ___
 
@@ -1006,7 +1006,7 @@ ___
 
 • **purple hyacinths**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:459](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L459)*
+*Defined in [Item.ts:460](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L460)*
 
 ___
 
@@ -1014,7 +1014,7 @@ ___
 
 • **purple mums**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:392](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L392)*
+*Defined in [Item.ts:393](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L393)*
 
 ___
 
@@ -1022,7 +1022,7 @@ ___
 
 • **purple pansies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:407](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L407)*
+*Defined in [Item.ts:408](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L408)*
 
 ___
 
@@ -1030,7 +1030,7 @@ ___
 
 • **purple roses**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:394](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L394)*
+*Defined in [Item.ts:395](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L395)*
 
 ___
 
@@ -1038,7 +1038,7 @@ ___
 
 • **purple tulips**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:396](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L396)*
+*Defined in [Item.ts:397](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L397)*
 
 ___
 
@@ -1046,7 +1046,7 @@ ___
 
 • **purple windflowers**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:399](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L399)*
+*Defined in [Item.ts:400](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L400)*
 
 ___
 
@@ -1054,7 +1054,7 @@ ___
 
 • **rare mushroom**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:430](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L430)*
+*Defined in [Item.ts:431](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L431)*
 
 ___
 
@@ -1062,7 +1062,7 @@ ___
 
 • **red cosmos**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:411](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L411)*
+*Defined in [Item.ts:412](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L412)*
 
 ___
 
@@ -1070,7 +1070,7 @@ ___
 
 • **red hyacinths**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:457](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L457)*
+*Defined in [Item.ts:458](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L458)*
 
 ___
 
@@ -1078,7 +1078,7 @@ ___
 
 • **red lilies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:463](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L463)*
+*Defined in [Item.ts:464](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L464)*
 
 ___
 
@@ -1086,7 +1086,7 @@ ___
 
 • **red mums**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:425](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L425)*
+*Defined in [Item.ts:426](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L426)*
 
 ___
 
@@ -1094,7 +1094,7 @@ ___
 
 • **red ornament**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:361](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L361)*
+*Defined in [Item.ts:362](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L362)*
 
 ___
 
@@ -1102,7 +1102,7 @@ ___
 
 • **red pansies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:484](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L484)*
+*Defined in [Item.ts:485](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L485)*
 
 ___
 
@@ -1110,7 +1110,7 @@ ___
 
 • **red roses**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:429](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L429)*
+*Defined in [Item.ts:430](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L430)*
 
 ___
 
@@ -1118,7 +1118,7 @@ ___
 
 • **red tulips**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:498](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L498)*
+*Defined in [Item.ts:499](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L499)*
 
 ___
 
@@ -1126,7 +1126,7 @@ ___
 
 • **red windflowers**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:503](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L503)*
+*Defined in [Item.ts:504](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L504)*
 
 ___
 
@@ -1134,7 +1134,7 @@ ___
 
 • **rocket**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:488](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L488)*
+*Defined in [Item.ts:489](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L489)*
 
 ___
 
@@ -1142,7 +1142,7 @@ ___
 
 • **round mushroom**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:431](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L431)*
+*Defined in [Item.ts:432](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L432)*
 
 ___
 
@@ -1150,7 +1150,7 @@ ___
 
 • **rusted part**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:490](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L490)*
+*Defined in [Item.ts:491](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L491)*
 
 ___
 
@@ -1158,7 +1158,7 @@ ___
 
 • **sand dollar**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:471](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L471)*
+*Defined in [Item.ts:472](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L472)*
 
 ___
 
@@ -1166,7 +1166,7 @@ ___
 
 • **sandy-beach flooring**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:495](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L495)*
+*Defined in [Item.ts:496](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L496)*
 
 ___
 
@@ -1174,7 +1174,7 @@ ___
 
 • **scattered papers**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:423](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L423)*
+*Defined in [Item.ts:424](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L424)*
 
 ___
 
@@ -1182,7 +1182,7 @@ ___
 
 • **screen wall**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:450](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L450)*
+*Defined in [Item.ts:451](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L451)*
 
 ___
 
@@ -1190,7 +1190,7 @@ ___
 
 • **sea snail**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:475](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L475)*
+*Defined in [Item.ts:476](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L476)*
 
 ___
 
@@ -1198,7 +1198,7 @@ ___
 
 • **shovel**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:454](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L454)*
+*Defined in [Item.ts:455](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L455)*
 
 ___
 
@@ -1206,7 +1206,7 @@ ___
 
 • **skinny mushroom**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:432](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L432)*
+*Defined in [Item.ts:433](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L433)*
 
 ___
 
@@ -1214,7 +1214,7 @@ ___
 
 • **sky egg**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:350](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L350)*
+*Defined in [Item.ts:351](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L351)*
 
 ___
 
@@ -1222,7 +1222,7 @@ ___
 
 • **slingshot**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:455](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L455)*
+*Defined in [Item.ts:456](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L456)*
 
 ___
 
@@ -1230,7 +1230,7 @@ ___
 
 • **snowflake**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:438](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L438)*
+*Defined in [Item.ts:439](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L439)*
 
 ___
 
@@ -1238,7 +1238,7 @@ ___
 
 • **softwood**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:357](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L357)*
+*Defined in [Item.ts:358](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L358)*
 
 ___
 
@@ -1246,7 +1246,7 @@ ___
 
 • **star fragment**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:341](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L341)*
+*Defined in [Item.ts:342](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L342)*
 
 ___
 
@@ -1254,7 +1254,7 @@ ___
 
 • **stone**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:344](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L344)*
+*Defined in [Item.ts:345](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L345)*
 
 ___
 
@@ -1262,7 +1262,7 @@ ___
 
 • **stone egg**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:347](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L347)*
+*Defined in [Item.ts:348](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L348)*
 
 ___
 
@@ -1270,7 +1270,7 @@ ___
 
 • **summer shell**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:494](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L494)*
+*Defined in [Item.ts:495](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L495)*
 
 ___
 
@@ -1278,7 +1278,7 @@ ___
 
 • **tree branch**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:388](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L388)*
+*Defined in [Item.ts:389](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L389)*
 
 ___
 
@@ -1286,7 +1286,7 @@ ___
 
 • **upright piano**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:496](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L496)*
+*Defined in [Item.ts:497](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L497)*
 
 ___
 
@@ -1294,7 +1294,7 @@ ___
 
 • **venus comb**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:492](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L492)*
+*Defined in [Item.ts:493](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L493)*
 
 ___
 
@@ -1302,7 +1302,7 @@ ___
 
 • **wasp nest**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:380](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L380)*
+*Defined in [Item.ts:381](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L381)*
 
 ___
 
@@ -1310,7 +1310,7 @@ ___
 
 • **water egg**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:351](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L351)*
+*Defined in [Item.ts:352](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L352)*
 
 ___
 
@@ -1318,7 +1318,7 @@ ___
 
 • **watering can**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:456](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L456)*
+*Defined in [Item.ts:457](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L457)*
 
 ___
 
@@ -1326,7 +1326,7 @@ ___
 
 • **wedding flower stand**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:502](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L502)*
+*Defined in [Item.ts:503](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L503)*
 
 ___
 
@@ -1334,7 +1334,7 @@ ___
 
 • **white cosmos**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:413](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L413)*
+*Defined in [Item.ts:414](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L414)*
 
 ___
 
@@ -1342,7 +1342,7 @@ ___
 
 • **white hyacinths**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:445](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L445)*
+*Defined in [Item.ts:446](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L446)*
 
 ___
 
@@ -1350,7 +1350,7 @@ ___
 
 • **white lilies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:418](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L418)*
+*Defined in [Item.ts:419](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L419)*
 
 ___
 
@@ -1358,7 +1358,7 @@ ___
 
 • **white mums**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:479](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L479)*
+*Defined in [Item.ts:480](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L480)*
 
 ___
 
@@ -1366,7 +1366,7 @@ ___
 
 • **white pansies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:486](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L486)*
+*Defined in [Item.ts:487](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L487)*
 
 ___
 
@@ -1374,7 +1374,7 @@ ___
 
 • **white roses**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:491](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L491)*
+*Defined in [Item.ts:492](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L492)*
 
 ___
 
@@ -1382,7 +1382,7 @@ ___
 
 • **white tulips**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:500](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L500)*
+*Defined in [Item.ts:501](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L501)*
 
 ___
 
@@ -1390,7 +1390,7 @@ ___
 
 • **white windflowers**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:410](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L410)*
+*Defined in [Item.ts:411](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L411)*
 
 ___
 
@@ -1398,7 +1398,7 @@ ___
 
 • **wobbling Zipper toy**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:352](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L352)*
+*Defined in [Item.ts:353](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L353)*
 
 ___
 
@@ -1406,7 +1406,7 @@ ___
 
 • **wood**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:355](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L355)*
+*Defined in [Item.ts:356](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L356)*
 
 ___
 
@@ -1414,7 +1414,7 @@ ___
 
 • **wood egg**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:349](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L349)*
+*Defined in [Item.ts:350](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L350)*
 
 ___
 
@@ -1422,7 +1422,7 @@ ___
 
 • **wooden-block toy**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:505](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L505)*
+*Defined in [Item.ts:506](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L506)*
 
 ___
 
@@ -1430,7 +1430,7 @@ ___
 
 • **yellow cosmos**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:412](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L412)*
+*Defined in [Item.ts:413](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L413)*
 
 ___
 
@@ -1438,7 +1438,7 @@ ___
 
 • **yellow hyacinths**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:458](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L458)*
+*Defined in [Item.ts:459](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L459)*
 
 ___
 
@@ -1446,7 +1446,7 @@ ___
 
 • **yellow lilies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:424](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L424)*
+*Defined in [Item.ts:425](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L425)*
 
 ___
 
@@ -1454,7 +1454,7 @@ ___
 
 • **yellow mums**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:478](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L478)*
+*Defined in [Item.ts:479](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L479)*
 
 ___
 
@@ -1462,7 +1462,7 @@ ___
 
 • **yellow pansies**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:485](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L485)*
+*Defined in [Item.ts:486](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L486)*
 
 ___
 
@@ -1470,7 +1470,7 @@ ___
 
 • **yellow roses**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:426](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L426)*
+*Defined in [Item.ts:427](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L427)*
 
 ___
 
@@ -1478,7 +1478,7 @@ ___
 
 • **yellow tulips**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:499](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L499)*
+*Defined in [Item.ts:500](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L500)*
 
 ___
 
@@ -1486,7 +1486,7 @@ ___
 
 • **young spring bamboo**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:378](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L378)*
+*Defined in [Item.ts:379](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L379)*
 
 ___
 
@@ -1494,4 +1494,4 @@ ___
 
 • **zen cushion**? : *[PatternTranslations](_item_.patterntranslations.md)*
 
-*Defined in [Item.ts:487](https://github.com/Norviah/animal-crossing/blob/da8caaf/module/types/Item.ts#L487)*
+*Defined in [Item.ts:488](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L488)*
