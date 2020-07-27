@@ -10,6 +10,8 @@
     "npcId": "mka",
     "internalId": 44,
     "birthday": "2/8",
+    "nameColor": "#fe8885",
+    "bubbleColor": "#ffffff",
     "uniqueEntryId": "Ndgae4bSokoBtb97u",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -44,6 +46,8 @@
     "npcId": "owl",
     "internalId": 23,
     "birthday": "9/24",
+    "nameColor": "#f7f0c2",
+    "bubbleColor": "#7d593c",
     "uniqueEntryId": "LXqTqy94M9Yt7yaAb",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -78,6 +82,8 @@
     "npcId": "dgb",
     "internalId": 32,
     "birthday": "4/23",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#c67022",
     "uniqueEntryId": "ucw3urkmPQzYh6s9i",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -112,6 +118,8 @@
     "npcId": "pge",
     "internalId": 28,
     "birthday": "10/15",
+    "nameColor": "#333333",
+    "bubbleColor": "#689a8b",
     "uniqueEntryId": "RkbTSEruyBcEyMjDX",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -146,6 +154,8 @@
     "npcId": "bey",
     "internalId": 59,
     "birthday": "3/7",
+    "nameColor": "#f9db2f",
+    "bubbleColor": "#a99d6e",
     "uniqueEntryId": "ztkxCvQbcCJYQEgJ7",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -180,6 +190,8 @@
     "npcId": "ows",
     "internalId": 24,
     "birthday": "9/7",
+    "nameColor": "#f7f0c2",
+    "bubbleColor": "#81280a",
     "uniqueEntryId": "7t6ZNPqsvE22CsyMw",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -214,6 +226,8 @@
     "npcId": "bev",
     "internalId": 2,
     "birthday": "12/9",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#77614c",
     "uniqueEntryId": "XGGxy4Wx86EDDH57S",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -248,6 +262,8 @@
     "npcId": "dga",
     "internalId": 30,
     "birthday": "6/28",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#e69111",
     "uniqueEntryId": "jdNK4NrvZmRC82yJ5",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -282,6 +298,8 @@
     "npcId": "alp",
     "internalId": 0,
     "birthday": "1/26",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#4ddcd9",
     "uniqueEntryId": "yJQuzNGtgcSbWw47g",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -316,6 +334,8 @@
     "npcId": "tkkB",
     "internalId": 65,
     "birthday": "8/23",
+    "nameColor": "#545259",
+    "bubbleColor": "#ffffff",
     "uniqueEntryId": "eQgLgRTaBTQy6LQLS",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -350,6 +370,8 @@
     "npcId": "boc",
     "internalId": 61,
     "birthday": "5/5",
+    "nameColor": "#ab2629",
+    "bubbleColor": "#ff9b43",
     "uniqueEntryId": "cGKq9qsGALbSyfgbR",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -384,6 +406,8 @@
     "npcId": "szo",
     "internalId": 49,
     "birthday": "12/20",
+    "nameColor": "#664734",
+    "bubbleColor": "#c1a081",
     "uniqueEntryId": "8Mwo7kmFeM9iRxXmb",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -418,6 +442,8 @@
     "npcId": "mob",
     "internalId": 20,
     "birthday": "5/1",
+    "nameColor": "#612f0a",
+    "bubbleColor": "#d97012",
     "uniqueEntryId": "pE6as787paJEWhgbX",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -452,6 +478,8 @@
     "npcId": "chy",
     "internalId": 63,
     "birthday": "5/10",
+    "nameColor": "#fb646b",
+    "bubbleColor": "#25251a",
     "uniqueEntryId": "iN2YPaidM5d8aCFpa",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -486,6 +514,8 @@
     "npcId": "tuk",
     "internalId": 40,
     "birthday": "10/10",
+    "nameColor": "#4b4496",
+    "bubbleColor": "#ff97ca",
     "uniqueEntryId": "dFbRDi2FGNmHZvuRM",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -520,6 +550,8 @@
     "npcId": "grf",
     "internalId": 10,
     "birthday": "11/14",
+    "nameColor": "#d254c7",
+    "bubbleColor": "#ffffc1",
     "uniqueEntryId": "chZz2xBGZBy2g9L8e",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -554,6 +586,8 @@
     "npcId": "kpg",
     "internalId": 14,
     "birthday": "4/15",
+    "nameColor": "#fff364",
+    "bubbleColor": "#7dcc00",
     "uniqueEntryId": "6Cj4smgBhJ7moa4JN",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -588,6 +622,8 @@
     "npcId": "gulB",
     "internalId": 69,
     "birthday": "5/25",
+    "nameColor": "#fffbe8",
+    "bubbleColor": "#f52c2c",
     "uniqueEntryId": "Qy6ZZFjpN2BNWP4gB",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -622,6 +658,8 @@
     "npcId": "gul",
     "internalId": 35,
     "birthday": "5/25",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#0073ff",
     "uniqueEntryId": "uf2Phk2T4fnoaqY2A",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -656,6 +694,8 @@
     "npcId": "poo",
     "internalId": 33,
     "birthday": "1/31",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#fc81d9",
     "uniqueEntryId": "bRAwDjRF3s5EifuXo",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -690,6 +730,8 @@
     "npcId": "spn",
     "internalId": 58,
     "birthday": "8/2",
+    "nameColor": "#714f31",
+    "bubbleColor": "#ebc83c",
     "uniqueEntryId": "XHGYT3WfbiboMAQHE",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -724,6 +766,8 @@
     "npcId": "sza",
     "internalId": 38,
     "birthday": "12/20",
+    "nameColor": "#f4aa16",
+    "bubbleColor": "#fff98f",
     "uniqueEntryId": "ZgSyBa8uRm7uupcQw",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -758,6 +802,8 @@
     "npcId": "pkn",
     "internalId": 57,
     "birthday": "10/31",
+    "nameColor": "#080800",
+    "bubbleColor": "#ff6d00",
     "uniqueEntryId": "v8rBscHZN8BuL6vho",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -792,6 +838,8 @@
     "npcId": "rei",
     "internalId": 48,
     "birthday": "12/24",
+    "nameColor": "#fffe69",
+    "bubbleColor": "#d6781a",
     "uniqueEntryId": "nnnCFTFp2CxKM8Kps",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -826,6 +874,8 @@
     "npcId": "boa",
     "internalId": 4,
     "birthday": "1/8",
+    "nameColor": "#f3af18",
+    "bubbleColor": "#a04c27",
     "uniqueEntryId": "g489RXNAdbSB7Jdtf",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -860,6 +910,8 @@
     "npcId": "tkkA",
     "internalId": 8,
     "birthday": "8/23",
+    "nameColor": "#595757",
+    "bubbleColor": "#ffffff",
     "uniqueEntryId": "8kgdqqyBHHe7Cq8jm",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -894,6 +946,8 @@
     "npcId": "kpp",
     "internalId": 16,
     "birthday": "7/12",
+    "nameColor": "#fff364",
+    "bubbleColor": "#7dcc00",
     "uniqueEntryId": "AKDnsnCJwk4Yj96ZR",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -928,6 +982,8 @@
     "npcId": "lom",
     "internalId": 46,
     "birthday": "10/22",
+    "nameColor": "#9c4e00",
+    "bubbleColor": "#feff4f",
     "uniqueEntryId": "froBkd4rfuHvsgNuB",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -962,6 +1018,8 @@
     "npcId": "bpt",
     "internalId": 5,
     "birthday": "10/28",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#1c2f60",
     "uniqueEntryId": "He3BpCnsFZo9yjTZc",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -996,6 +1054,8 @@
     "npcId": "skk",
     "internalId": 37,
     "birthday": "11/30",
+    "nameColor": "#78b3c7",
+    "bubbleColor": "#2a4869",
     "uniqueEntryId": "qmGXCtGtjukpiS8Fs",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1030,6 +1090,8 @@
     "npcId": "hgc",
     "internalId": 11,
     "birthday": "10/31",
+    "nameColor": "#fffee0",
+    "bubbleColor": "#7f5174",
     "uniqueEntryId": "ueB44Z45DNkoQSZnL",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1064,6 +1126,8 @@
     "npcId": "slo",
     "internalId": 43,
     "birthday": "8/8",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#c0ab72",
     "uniqueEntryId": "sK5zwmKLL8HNKZhYt",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1098,6 +1162,8 @@
     "npcId": "kps",
     "internalId": 17,
     "birthday": "8/16",
+    "nameColor": "#fff364",
+    "bubbleColor": "#7dcc00",
     "uniqueEntryId": "MkkTcwbmJmGXnGA6P",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1132,6 +1198,8 @@
     "npcId": "kpm",
     "internalId": 15,
     "birthday": "9/26",
+    "nameColor": "#fff364",
+    "bubbleColor": "#7dcc00",
     "uniqueEntryId": "D9fj5XxQmDR7ABnws",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1166,6 +1234,8 @@
     "npcId": "otg",
     "internalId": 56,
     "birthday": "9/12",
+    "nameColor": "#5e2818",
+    "bubbleColor": "#ffa6aa",
     "uniqueEntryId": "Z2YMj6fmLnowD4XnN",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1200,6 +1270,8 @@
     "npcId": "tap",
     "internalId": 45,
     "birthday": "2/29",
+    "nameColor": "#fabe3b",
+    "bubbleColor": "#846958",
     "uniqueEntryId": "mTzz444C5LkcH4W9T",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1234,6 +1306,8 @@
     "npcId": "ott",
     "internalId": 22,
     "birthday": "6/6",
+    "nameColor": "#fffad4",
+    "bubbleColor": "#506b94",
     "uniqueEntryId": "R6sNbgmgSCgpyFYRf",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1268,6 +1342,8 @@
     "npcId": "hgh",
     "internalId": 12,
     "birthday": "5/22",
+    "nameColor": "#fffad4",
+    "bubbleColor": "#3c4c78",
     "uniqueEntryId": "swWzSCwrBNYkgTEWK",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1302,6 +1378,8 @@
     "npcId": "chm",
     "internalId": 6,
     "birthday": "7/25",
+    "nameColor": "#f3f338",
+    "bubbleColor": "#72aa1c",
     "uniqueEntryId": "KvScWdYZwL2e7kGNn",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1336,6 +1414,8 @@
     "npcId": "dod",
     "internalId": 62,
     "birthday": "10/2",
+    "nameColor": "#38889e",
+    "bubbleColor": "#ffdf50",
     "uniqueEntryId": "9ifp3YpYMgGyei58b",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1370,6 +1450,8 @@
     "npcId": "seo",
     "internalId": 36,
     "birthday": "7/19",
+    "nameColor": "#fffd87",
+    "bubbleColor": "#f44957",
     "uniqueEntryId": "MgTEFSvyfd2mQFefo",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1404,6 +1486,8 @@
     "npcId": "pck",
     "internalId": 25,
     "birthday": "3/3",
+    "nameColor": "#edebd6",
+    "bubbleColor": "#0a96ae",
     "uniqueEntryId": "ddz6FRgy2kCp2TF6A",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1438,6 +1522,8 @@
     "npcId": "plk",
     "internalId": 26,
     "birthday": "3/19",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#fe9ee0",
     "uniqueEntryId": "ydQXw58arpJoRxsao",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1472,6 +1558,8 @@
     "npcId": "plo",
     "internalId": 31,
     "birthday": "3/8",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#44c04f",
     "uniqueEntryId": "iptnwW8oAu3bE5E3L",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1506,6 +1594,8 @@
     "npcId": "fsl",
     "internalId": 3,
     "birthday": "6/20",
+    "nameColor": "#feffca",
+    "bubbleColor": "#d38856",
     "uniqueEntryId": "AQJEzmjGKShfyCyqX",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1540,6 +1630,8 @@
     "npcId": "plm",
     "internalId": 27,
     "birthday": "11/21",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#dd8dfa",
     "uniqueEntryId": "9WgCsffJgLsDTcs5Y",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1574,6 +1666,8 @@
     "npcId": "mnk",
     "internalId": 19,
     "birthday": "4/17",
+    "nameColor": "#efe956",
+    "bubbleColor": "#3e54cf",
     "uniqueEntryId": "XhqSyrq7fjmcNe5N3",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1608,6 +1702,8 @@
     "npcId": "fox",
     "internalId": 9,
     "birthday": "10/18",
+    "nameColor": "#4f1904",
+    "bubbleColor": "#ebb020",
     "uniqueEntryId": "iRkXJeZqaWApHk92x",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1642,6 +1738,8 @@
     "npcId": "alw",
     "internalId": 1,
     "birthday": "7/5",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#ffaad1",
     "uniqueEntryId": "MKLPGvYfpDwWCEWQ7",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1676,6 +1774,8 @@
     "npcId": "mol",
     "internalId": 21,
     "birthday": "4/6",
+    "nameColor": "#612f0a",
+    "bubbleColor": "#d97012",
     "uniqueEntryId": "BMtksEYHbtBLC6aww",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1710,6 +1810,8 @@
     "npcId": "xct",
     "internalId": 42,
     "birthday": "2/1",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#5a66d2",
     "uniqueEntryId": "riMH36iDWKc3gQAkT",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1744,6 +1846,8 @@
     "npcId": "hgs",
     "internalId": 13,
     "birthday": "11/22",
+    "nameColor": "#fffee0",
+    "bubbleColor": "#895452",
     "uniqueEntryId": "WQnJq8BHMee2XKQ2i",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1778,6 +1882,8 @@
     "npcId": "cml",
     "internalId": 7,
     "birthday": "11/10",
+    "nameColor": "#954f07",
+    "bubbleColor": "#fcbb3a",
     "uniqueEntryId": "x753Z7JdmLFZRCwGr",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1812,6 +1918,8 @@
     "npcId": "upa",
     "internalId": 41,
     "birthday": "1/2",
+    "nameColor": "#a90d0a",
+    "bubbleColor": "#ffb0b0",
     "uniqueEntryId": "qvhSuN7wnc75GysSb",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1846,6 +1954,8 @@
     "npcId": "rcm",
     "internalId": 52,
     "birthday": "6/7",
+    "nameColor": "#4d2a20",
+    "bubbleColor": "#de8735",
     "uniqueEntryId": "XQGqJDnh2hRg4unt3",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1880,6 +1990,8 @@
     "npcId": "rco",
     "internalId": 34,
     "birthday": "5/30",
+    "nameColor": "#4d2a20",
+    "bubbleColor": "#de8735",
     "uniqueEntryId": "QNw2aQsR5dmgXCrhY",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1914,6 +2026,8 @@
     "npcId": "rct",
     "internalId": 51,
     "birthday": "6/7",
+    "nameColor": "#4d2a20",
+    "bubbleColor": "#de8735",
     "uniqueEntryId": "uCvDxaDCp8FnAnmce",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1948,6 +2062,8 @@
     "npcId": "ttlA",
     "internalId": 39,
     "birthday": "12/31",
+    "nameColor": "#705800",
+    "bubbleColor": "#ffea6b",
     "uniqueEntryId": "BPPkKQ5BYRSZhk6Bc",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1982,6 +2098,8 @@
     "npcId": "wrl",
     "internalId": 50,
     "birthday": "2/25",
+    "nameColor": "#fffce9",
+    "bubbleColor": "#8c99fd",
     "uniqueEntryId": "LZAjSZiZWt9QQsE3n",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2016,6 +2134,8 @@
     "npcId": "doc",
     "internalId": 66,
     "birthday": "12/17",
+    "nameColor": "#38889e",
+    "bubbleColor": "#ffdf50",
     "uniqueEntryId": "ShygyMGDR4dAFDXN6",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2050,6 +2170,8 @@
     "npcId": "gstB",
     "internalId": 64,
     "birthday": "2/26",
+    "nameColor": "#7490c2",
+    "bubbleColor": "#e3ecf5",
     "uniqueEntryId": "tJZGzhrXiu2Ft7Fj7",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2084,6 +2206,8 @@
     "npcId": "gstA",
     "internalId": 55,
     "birthday": "2/26",
+    "nameColor": "#7490c2",
+    "bubbleColor": "#e3ecf5",
     "uniqueEntryId": "SnDQ7nvg5wHmjY6Fg",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2118,6 +2242,8 @@
     "npcId": "pyn",
     "internalId": 47,
     "birthday": "3/11",
+    "nameColor": "#0ea8c7",
+    "bubbleColor": "#ffe20b",
     "uniqueEntryId": "MxHc7P8664FtCcd2y",
     "translations": {
       "sourceSheet": "Special NPCs",
