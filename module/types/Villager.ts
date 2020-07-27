@@ -18,6 +18,8 @@ export interface Villager {
     flooring:                  string;
     furnitureList:             number[];
     furnitureNameList:         string[];
+    nameColor:                 string;
+    bubbleColor:               string;
     filename:                  string;
     uniqueEntryId:             string;
     catchphrases:              Catchphrases;
