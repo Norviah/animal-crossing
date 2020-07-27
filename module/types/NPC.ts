@@ -9,6 +9,8 @@ export interface Npc {
     npcId:         string;
     internalId:    number;
     birthday:      string;
+    nameColor:     string;
+    bubbleColor:   string;
     uniqueEntryId: string;
     translations:  Translations;
 }
