@@ -15,7 +15,7 @@
 
 • **FashionThemes**: = "Fashion Themes"
 
-*Defined in [Item.ts:725](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L725)*
+*Defined in [Item.ts:725](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Item.ts#L725)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **VillagersCatchPhrase**: = "Villagers Catch Phrase"
 
-*Defined in [Item.ts:726](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Item.ts#L726)*
+*Defined in [Item.ts:726](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Item.ts#L726)*

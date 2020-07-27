@@ -11,6 +11,7 @@
 ### Properties
 
 * [birthday](_villager_.villager.md#birthday)
+* [bubbleColor](_villager_.villager.md#bubblecolor)
 * [catchphrase](_villager_.villager.md#catchphrase)
 * [catchphrases](_villager_.villager.md#catchphrases)
 * [colors](_villager_.villager.md#colors)
@@ -27,6 +28,7 @@
 * [houseImage](_villager_.villager.md#houseimage)
 * [iconImage](_villager_.villager.md#iconimage)
 * [name](_villager_.villager.md#name)
+* [nameColor](_villager_.villager.md#namecolor)
 * [personality](_villager_.villager.md#personality)
 * [photoImage](_villager_.villager.md#photoimage)
 * [sourceSheet](_villager_.villager.md#sourcesheet)
@@ -43,7 +45,15 @@
 
 • **birthday**: *string*
 
-*Defined in [Villager.ts:12](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L12)*
+*Defined in [Villager.ts:12](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L12)*
+
+___
+
+###  bubbleColor
+
+• **bubbleColor**: *string*
+
+*Defined in [Villager.ts:22](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L22)*
 
 ___
 
@@ -51,7 +61,7 @@ ___
 
 • **catchphrase**: *string*
 
-*Defined in [Villager.ts:13](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L13)*
+*Defined in [Villager.ts:13](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L13)*
 
 ___
 
@@ -59,7 +69,7 @@ ___
 
 • **catchphrases**: *[Catchphrases](_villager_.catchphrases.md)*
 
-*Defined in [Villager.ts:23](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L23)*
+*Defined in [Villager.ts:25](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L25)*
 
 ___
 
@@ -67,7 +77,7 @@ ___
 
 • **colors**: *[Color](../enums/_villager_.color.md)[]*
 
-*Defined in [Villager.ts:26](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L26)*
+*Defined in [Villager.ts:28](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L28)*
 
 ___
 
@@ -75,7 +85,7 @@ ___
 
 • **defaultClothing**: *string*
 
-*Defined in [Villager.ts:16](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L16)*
+*Defined in [Villager.ts:16](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L16)*
 
 ___
 
@@ -83,7 +93,7 @@ ___
 
 • **defaultClothingInternalId**: *number*
 
-*Defined in [Villager.ts:27](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L27)*
+*Defined in [Villager.ts:29](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L29)*
 
 ___
 
@@ -91,7 +101,7 @@ ___
 
 • **favoriteSaying**: *string*
 
-*Defined in [Villager.ts:15](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L15)*
+*Defined in [Villager.ts:15](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L15)*
 
 ___
 
@@ -99,7 +109,7 @@ ___
 
 • **favoriteSong**: *string*
 
-*Defined in [Villager.ts:14](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L14)*
+*Defined in [Villager.ts:14](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L14)*
 
 ___
 
@@ -107,7 +117,7 @@ ___
 
 • **filename**: *string*
 
-*Defined in [Villager.ts:21](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L21)*
+*Defined in [Villager.ts:23](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L23)*
 
 ___
 
@@ -115,7 +125,7 @@ ___
 
 • **flooring**: *string*
 
-*Defined in [Villager.ts:18](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L18)*
+*Defined in [Villager.ts:18](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L18)*
 
 ___
 
@@ -123,7 +133,7 @@ ___
 
 • **furnitureList**: *number[]*
 
-*Defined in [Villager.ts:19](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L19)*
+*Defined in [Villager.ts:19](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L19)*
 
 ___
 
@@ -131,7 +141,7 @@ ___
 
 • **furnitureNameList**: *string[]*
 
-*Defined in [Villager.ts:20](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L20)*
+*Defined in [Villager.ts:20](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L20)*
 
 ___
 
@@ -139,7 +149,7 @@ ___
 
 • **gender**: *[Gender](../enums/_villager_.gender.md)*
 
-*Defined in [Villager.ts:8](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L8)*
+*Defined in [Villager.ts:8](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L8)*
 
 ___
 
@@ -147,7 +157,7 @@ ___
 
 • **hobby**: *[Hobby](../enums/_villager_.hobby.md)*
 
-*Defined in [Villager.ts:11](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L11)*
+*Defined in [Villager.ts:11](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L11)*
 
 ___
 
@@ -155,7 +165,7 @@ ___
 
 • **houseImage**: *string*
 
-*Defined in [Villager.ts:6](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L6)*
+*Defined in [Villager.ts:6](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L6)*
 
 ___
 
@@ -163,7 +173,7 @@ ___
 
 • **iconImage**: *string*
 
-*Defined in [Villager.ts:4](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L4)*
+*Defined in [Villager.ts:4](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L4)*
 
 ___
 
@@ -171,7 +181,15 @@ ___
 
 • **name**: *string*
 
-*Defined in [Villager.ts:3](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L3)*
+*Defined in [Villager.ts:3](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L3)*
+
+___
+
+###  nameColor
+
+• **nameColor**: *string*
+
+*Defined in [Villager.ts:21](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L21)*
 
 ___
 
@@ -179,7 +197,7 @@ ___
 
 • **personality**: *[Personality](../enums/_villager_.personality.md)*
 
-*Defined in [Villager.ts:9](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L9)*
+*Defined in [Villager.ts:9](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L9)*
 
 ___
 
@@ -187,7 +205,7 @@ ___
 
 • **photoImage**: *string*
 
-*Defined in [Villager.ts:5](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L5)*
+*Defined in [Villager.ts:5](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L5)*
 
 ___
 
@@ -195,7 +213,7 @@ ___
 
 • **sourceSheet**: *[SourceSheet](../enums/_villager_.sourcesheet.md)*
 
-*Defined in [Villager.ts:2](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L2)*
+*Defined in [Villager.ts:2](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L2)*
 
 ___
 
@@ -203,7 +221,7 @@ ___
 
 • **species**: *string*
 
-*Defined in [Villager.ts:7](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L7)*
+*Defined in [Villager.ts:7](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L7)*
 
 ___
 
@@ -211,7 +229,7 @@ ___
 
 • **styles**: *[Style](../enums/_villager_.style.md)[]*
 
-*Defined in [Villager.ts:25](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L25)*
+*Defined in [Villager.ts:27](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L27)*
 
 ___
 
@@ -219,7 +237,7 @@ ___
 
 • **subtype**: *[Subtype](../enums/_villager_.subtype.md)*
 
-*Defined in [Villager.ts:10](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L10)*
+*Defined in [Villager.ts:10](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L10)*
 
 ___
 
@@ -227,7 +245,7 @@ ___
 
 • **translations**: *[Catchphrases](_villager_.catchphrases.md)*
 
-*Defined in [Villager.ts:24](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L24)*
+*Defined in [Villager.ts:26](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L26)*
 
 ___
 
@@ -235,7 +253,7 @@ ___
 
 • **uniqueEntryId**: *string*
 
-*Defined in [Villager.ts:22](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L22)*
+*Defined in [Villager.ts:24](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L24)*
 
 ___
 
@@ -243,4 +261,4 @@ ___
 
 • **wallpaper**: *string*
 
-*Defined in [Villager.ts:17](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Villager.ts#L17)*
+*Defined in [Villager.ts:17](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L17)*
