@@ -14,4 +14,4 @@
 
 • **Cielito**: = "cielito"
 
-*Defined in [Recipe.ts:375](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L375)*
+*Defined in [Recipe.ts:375](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Recipe.ts#L375)*

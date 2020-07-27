@@ -14,4 +14,4 @@
 
 • **VillagersCatchPhrase**: = "Villagers Catch Phrase"
 
-*Defined in [Recipe.ts:371](https://github.com/Norviah/animal-crossing/blob/e332c53/module/types/Recipe.ts#L371)*
+*Defined in [Recipe.ts:371](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Recipe.ts#L371)*
