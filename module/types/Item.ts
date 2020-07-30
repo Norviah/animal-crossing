@@ -6,12 +6,12 @@ export interface Item {
     milesPrice?:           number | null;
     sourceNotes?:          null | string;
     versionAdded?:         Version;
-    versionUnlocked?:      Version;
+    versionUnlocked?:      Version | null;
     catalog?:              Catalog | null;
     buy:                   number;
     sell:                  number | null;
     translations:          ItemTranslations | null;
-    source:                string[];
+    source:                string[] | null;
     themesTranslations?:   ThemesTranslations;
     hhaBasePoints?:        number | null;
     villagerEquippable?:   boolean;
@@ -46,7 +46,7 @@ export interface Item {
     outdoor?:              boolean;
     speakerType?:          SpeakerType | null;
     lightingType?:         LightingType | null;
-    variantId?:            VariantID | null;
+    variantId?:            VariantIDEnum | number | null;
     patternTranslations?:  PatternTranslations | null;
     seriesTranslations?:   SeriesTranslations | null;
     concepts?:             Concept[];
@@ -56,7 +56,7 @@ export interface Item {
     framedImage?:          null | string;
     albumImage?:           null | string;
     inventoryImage?:       null | string;
-    stackSize?:            number;
+    stackSize?:            number | null;
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
@@ -68,7 +68,7 @@ export interface Item {
     paneType?:             PaneType | null;
     curtainType?:          CurtainType | null;
     curtainColor?:         null | string;
-    ceilingType?:          CeilingType;
+    ceilingType?:          CeilingType | null;
     uses?:                 number;
     description?:          string[];
     museum?:               Museum;
@@ -281,6 +281,7 @@ export enum Version {
     The120B = "1.2.0b",
     The121C = "1.2.1c",
     The130 = "1.3.0",
+    The140 = "1.4.0",
 }
 
 export enum PrimaryShape {
@@ -303,7 +304,7 @@ export interface Recipe {
     name:                  string;
     image:                 string;
     buy:                   number;
-    sell:                  number;
+    sell:                  number | null;
     milesPrice:            number | null;
     source:                string[];
     sourceNotes:           null | string;
@@ -865,12 +866,12 @@ export interface ItemTranslations {
     chineseTraditional: string;
     japanese:           string;
     korean:             string;
-    russian:            string;
+    russian:            null | string;
     plural:             boolean;
     internalIds:        Array<number | string>;
 }
 
-export enum VariantID {
+export enum VariantIDEnum {
     The0_0 = "0_0",
     The0_1 = "0_1",
     The0_2 = "0_2",
@@ -952,7 +953,7 @@ export interface VariationElement {
     image?:               string;
     pattern?:             null | string;
     patternTitle?:        PatternTitle | null;
-    variantId?:           VariantID;
+    variantId?:           VariantIDEnum;
     patternTranslations?: PatternTranslations | null;
     surface?:             boolean;
     hhaCategory?:         HhaCategory | null;
@@ -1008,6 +1009,7 @@ export enum PatternTitle {
 
 export enum VfxType {
     LightOff = "LightOff",
+    Parallax = "Parallax",
     Random = "Random",
     Synchro = "Synchro",
 }
