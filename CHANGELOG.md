@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.4.0](https://github.com/Norviah/animal-crossing/compare/v6.3.0...v6.4.0) (2020-07-30)
+
+
+### Features
+
+* **categories:** added support for the tab 'Nook Shopping Seasonal' ([4ac4ba9](https://github.com/Norviah/animal-crossing/commit/4ac4ba97ebd4cc1967e61d31daa816c0f0fb05bf))
+
 ## [6.3.0](https://github.com/Norviah/animal-crossing/compare/v6.2.0...v6.3.0) (2020-07-27)
 
 ## [6.2.0](https://github.com/Norviah/animal-crossing/compare/v6.1.0...v6.2.0) (2020-07-24)
