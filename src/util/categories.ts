@@ -33,7 +33,7 @@ const categories = {
   Reactions: ['Reactions'],
   IDs: ['IDs'],
   Translations: ['Translations'],
-  Events: ['Events'],
+  Events: ['Events', 'Nook Shopping Seasonal'],
   SouthernHemisphere: ['Southern Hemisphere'],
   NorthernHemisphere: ['Northern Hemisphere'],
   NPCs: ['Special NPCs'],
