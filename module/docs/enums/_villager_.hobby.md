@@ -19,7 +19,7 @@
 
 • **Education**: = "Education"
 
-*Defined in [Villager.ts:86](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L86)*
+*Defined in [Villager.ts:86](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Villager.ts#L86)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **Fashion**: = "Fashion"
 
-*Defined in [Villager.ts:87](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L87)*
+*Defined in [Villager.ts:87](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Villager.ts#L87)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Fitness**: = "Fitness"
 
-*Defined in [Villager.ts:88](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L88)*
+*Defined in [Villager.ts:88](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Villager.ts#L88)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **Music**: = "Music"
 
-*Defined in [Villager.ts:89](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L89)*
+*Defined in [Villager.ts:89](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Villager.ts#L89)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **Nature**: = "Nature"
 
-*Defined in [Villager.ts:90](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L90)*
+*Defined in [Villager.ts:90](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Villager.ts#L90)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **Play**: = "Play"
 
-*Defined in [Villager.ts:91](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Villager.ts#L91)*
+*Defined in [Villager.ts:91](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Villager.ts#L91)*

@@ -6,8 +6,9 @@
 
 ### Enumerations
 
-* [SourceSheet](../enums/_event_.sourcesheet.md)
+* [EventSourceSheet](../enums/_event_.eventsourcesheet.md)
 * [Times](../enums/_event_.times.md)
+* [TranslationsSourceSheet](../enums/_event_.translationssourcesheet.md)
 * [Version](../enums/_event_.version.md)
 
 ### Interfaces

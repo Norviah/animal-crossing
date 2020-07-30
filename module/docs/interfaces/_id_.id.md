@@ -23,7 +23,7 @@
 
 • **filename**: *null | string*
 
-*Defined in [ID.ts:5](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/ID.ts#L5)*
+*Defined in [ID.ts:5](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/ID.ts#L5)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **id**: *number | null | string*
 
-*Defined in [ID.ts:4](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/ID.ts#L4)*
+*Defined in [ID.ts:4](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/ID.ts#L4)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [ID.ts:2](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/ID.ts#L2)*
+*Defined in [ID.ts:2](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/ID.ts#L2)*
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 • **sourceSheet**: *[SourceSheet](../enums/_id_.sourcesheet.md)*
 
-*Defined in [ID.ts:6](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/ID.ts#L6)*
+*Defined in [ID.ts:6](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/ID.ts#L6)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **uniqueID**: *string*
 
-*Defined in [ID.ts:3](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/ID.ts#L3)*
+*Defined in [ID.ts:3](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/ID.ts#L3)*
 
 ___
 
@@ -63,4 +63,4 @@ ___
 
 • **variation**? : *number | string*
 
-*Defined in [ID.ts:7](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/ID.ts#L7)*
+*Defined in [ID.ts:7](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/ID.ts#L7)*

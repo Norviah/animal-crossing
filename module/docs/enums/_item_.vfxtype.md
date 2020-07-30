@@ -7,6 +7,7 @@
 ### Enumeration members
 
 * [LightOff](_item_.vfxtype.md#lightoff)
+* [Parallax](_item_.vfxtype.md#parallax)
 * [Random](_item_.vfxtype.md#random)
 * [Synchro](_item_.vfxtype.md#synchro)
 
@@ -16,7 +17,15 @@
 
 • **LightOff**: = "LightOff"
 
-*Defined in [Item.ts:1010](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Item.ts#L1010)*
+*Defined in [Item.ts:1011](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Item.ts#L1011)*
+
+___
+
+###  Parallax
+
+• **Parallax**: = "Parallax"
+
+*Defined in [Item.ts:1012](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Item.ts#L1012)*
 
 ___
 
@@ -24,7 +33,7 @@ ___
 
 • **Random**: = "Random"
 
-*Defined in [Item.ts:1011](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Item.ts#L1011)*
+*Defined in [Item.ts:1013](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Item.ts#L1013)*
 
 ___
 
@@ -32,4 +41,4 @@ ___
 
 • **Synchro**: = "Synchro"
 
-*Defined in [Item.ts:1012](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/Item.ts#L1012)*
+*Defined in [Item.ts:1014](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Item.ts#L1014)*
