@@ -678,7 +678,7 @@
     "Italian": "vestito arancia",
     "Dutch": "sinaasappeljurk",
     "Chinese": "橘子服",
-    "Chinese (Traditional)": "夏蜜柑服",
+    "Chinese (Traditional)": "橘子服",
     "Japanese": "オレンジのふく",
     "Korean": "오렌지 옷",
     "Russian": "платье «Апельсин»"
@@ -4577,5 +4577,43 @@
     "Japanese": "マーメイドなプリンセスドレス",
     "Korean": "머메이드 공주 드레스",
     "Russian": "платье русалки «Царевна»"
+  },
+  {
+    "SourceSheet": "Dresses",
+    "id": 1301,
+    "Version": "1.4.0",
+    "English": "Orihime outfit",
+    "English (Europe)": "Orihime outfit",
+    "German": "Orihime-Outfit",
+    "Spanish": "atuendo de Orihime",
+    "Spanish (US)": "atuendo de Orihime",
+    "French": "tenue d'Orihime",
+    "French (US)": "tenue d'Orihime",
+    "Italian": "vestito Orihime",
+    "Dutch": "meerminprinsessenjurk",
+    "Chinese": "织女服",
+    "Chinese (Traditional)": "織女服",
+    "Japanese": "おりひめのふく",
+    "Korean": "직녀 옷",
+    "Russian": "наряд Орихимэ"
+  },
+  {
+    "SourceSheet": "Dresses",
+    "id": 1302,
+    "Version": "1.4.0",
+    "English": "Hikoboshi outfit",
+    "English (Europe)": "Hikoboshi outfit",
+    "German": "Hikoboshi-Outfit",
+    "Spanish": "atuendo de Hikoboshi",
+    "Spanish (US)": "atuendo de Hikoboshi",
+    "French": "tenue d'Hikoboshi",
+    "French (US)": "tenue d'Hikoboshi",
+    "Italian": "vestito Hikoboshi",
+    "Dutch": "Orihime-kostuum",
+    "Chinese": "牛郎服",
+    "Chinese (Traditional)": "牛郎服",
+    "Japanese": "ひこぼしのふく",
+    "Korean": "견우 옷",
+    "Russian": "наряд Хикобоси"
   }
 ]

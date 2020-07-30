@@ -5,6 +5,7 @@
     "northernHemisphereDates": "4th Saturday of September",
     "southernHemisphereDates": "3rd Saturday of February",
     "times": "9 AM – 6 PM",
+    "versionAdded": "1.0.0",
     "translations": {
       "sourceSheet": "Events",
       "id": "InsectConvention4",
@@ -33,6 +34,7 @@
     "northernHemisphereDates": "4th Saturday of August",
     "southernHemisphereDates": "3rd Saturday of January",
     "times": "9 AM – 6 PM",
+    "versionAdded": "1.0.0",
     "translations": {
       "sourceSheet": "Events",
       "id": "InsectConvention4",
@@ -61,6 +63,7 @@
     "northernHemisphereDates": "4th Saturday of July",
     "southernHemisphereDates": "3rd Saturday of December",
     "times": "9 AM – 6 PM",
+    "versionAdded": "1.0.0",
     "translations": {
       "sourceSheet": "Events",
       "id": "InsectConvention4",
@@ -89,6 +92,7 @@
     "northernHemisphereDates": "4th Saturday of June",
     "southernHemisphereDates": "3rd Saturday of November",
     "times": "9 AM – 6 PM",
+    "versionAdded": "1.0.0",
     "translations": {
       "sourceSheet": "Events",
       "id": "InsectConvention4",
@@ -117,6 +121,7 @@
     "northernHemisphereDates": "Easter Sunday and the preceding 11 days\n\n2020: April 1–12\n2021: March 24 – April 4\n2022: April 6–17\n2023: March 29 – April 9\n2024: March 20–31\n2025: April 9–20",
     "southernHemisphereDates": "Easter Sunday and the preceding 11 days\n(same as northern hemisphere)",
     "times": "All day",
+    "versionAdded": "1.1.0",
     "translations": {
       "sourceSheet": "HHA Themes",
       "id": 27,
@@ -145,6 +150,7 @@
     "northernHemisphereDates": "December 31",
     "southernHemisphereDates": "December 31",
     "times": "11 PM – 2 AM",
+    "versionAdded": "1.0.0",
     "translations": {
       "sourceSheet": "Events",
       "id": "Countdown",
@@ -173,6 +179,7 @@
     "northernHemisphereDates": "2nd Saturday of October",
     "southernHemisphereDates": "2nd Saturday of April",
     "times": "9 AM – 6 PM",
+    "versionAdded": "1.0.0",
     "translations": {
       "sourceSheet": "Events",
       "id": "FishingConventionAutumn",
@@ -197,59 +204,12 @@
   },
   {
     "sourceSheet": "Events",
-    "event": "Father's Day",
-    "northernHemisphereDates": "June 1–30",
-    "southernHemisphereDates": "June 1–30",
-    "times": "All day",
-    "translations": {
-      "sourceSheet": "Events",
-      "id": "FathersDay",
-      "version": "1.2.0",
-      "english": "Father's Day",
-      "englishEurope": "Father's Day",
-      "german": "Vatertag",
-      "spanish": "Día del Padre",
-      "spanishUs": "Día del Padre",
-      "french": "Fête des pères",
-      "frenchUs": "Fête des pères",
-      "italian": "Festa del papà",
-      "dutch": "Vaderdag",
-      "chinese": "父亲节",
-      "chineseTraditional": "世界父親節",
-      "japanese": "ちち父のひ日",
-      "korean": "아버지날",
-      "russian": "День отца",
-      "plural": false,
-      "internalIds": [ "FathersDay" ]
-    }
-  },
-  {
-    "sourceSheet": "Events",
-    "event": "International Children's Day",
-    "northernHemisphereDates": "June 1–30",
-    "southernHemisphereDates": "June 1–30",
-    "times": "All day",
-    "translations": {
-      "sourceSheet": "Events",
-      "id": "WorldChild",
-      "version": "1.2.0",
-      "english": "International Children's Day",
-      "englishEurope": "International Children's Day",
-      "german": "Weltweiter Tag der Kinder",
-      "spanish": "Día de la Infancia",
-      "spanishUs": "Día de la Infancia",
-      "french": "Jour mondial des enfants",
-      "frenchUs": "Jour mondial des enfants",
-      "italian": "Giorno mondiale dei bambini",
-      "dutch": "Internationale Kinderdag",
-      "chinese": "国际儿童节",
-      "chineseTraditional": "國際兒童節",
-      "japanese": "こくさい国際こどものひ日",
-      "korean": "국제 어린이날",
-      "russian": "Всемирный день детей",
-      "plural": false,
-      "internalIds": [ "WorldChild" ]
-    }
+    "event": "Fireworks Shows",
+    "northernHemisphereDates": "Every Sunday in August",
+    "southernHemisphereDates": "Every Sunday in August",
+    "times": "7 PM – Midnight",
+    "versionAdded": "1.4.0",
+    "translations": null
   },
   {
     "sourceSheet": "Events",
@@ -257,6 +217,7 @@
     "northernHemisphereDates": "May 18–31",
     "southernHemisphereDates": "May 18–31",
     "times": "All day",
+    "versionAdded": "1.2.0",
     "translations": null
   },
   {
@@ -265,6 +226,7 @@
     "northernHemisphereDates": "Chinese New Year day\n\n2020: January 25\n2021: February 12\n2022: February 1\n2023: January 22\n2024: February 10\n2025: January 29",
     "southernHemisphereDates": "Chinese New Year day\n(same as northern hemisphere)",
     "times": "All day",
+    "versionAdded": "1.0.0",
     "translations": null
   },
   {
@@ -273,35 +235,8 @@
     "northernHemisphereDates": "May 1–7",
     "southernHemisphereDates": "May 1–7",
     "times": "All day",
+    "versionAdded": "1.2.0",
     "translations": null
-  },
-  {
-    "sourceSheet": "Events",
-    "event": "Mother's Day",
-    "northernHemisphereDates": "May 1–31",
-    "southernHemisphereDates": "May 1–31",
-    "times": "All day",
-    "translations": {
-      "sourceSheet": "Events",
-      "id": "MothersDay",
-      "version": "1.2.0",
-      "english": "Mother's Day",
-      "englishEurope": "Mother's Day",
-      "german": "Muttertag",
-      "spanish": "Día de la Madre",
-      "spanishUs": "Día de la Madre",
-      "french": "Fête des mères",
-      "frenchUs": "Fête des mères",
-      "italian": "Festa della mamma",
-      "dutch": "Moederdag",
-      "chinese": "母亲节",
-      "chineseTraditional": "母親節",
-      "japanese": "はは母のひ日",
-      "korean": "어머니날",
-      "russian": "День матери",
-      "plural": false,
-      "internalIds": [ "MothersDay" ]
-    }
   },
   {
     "sourceSheet": "Events",
@@ -309,6 +244,7 @@
     "northernHemisphereDates": "April 23 – May 4",
     "southernHemisphereDates": "April 23 – May 4",
     "times": "All day",
+    "versionAdded": "1.2.0",
     "translations": null
   },
   {
@@ -317,6 +253,7 @@
     "northernHemisphereDates": "January 1",
     "southernHemisphereDates": "January 1",
     "times": "All day",
+    "versionAdded": "1.0.0",
     "translations": null
   },
   {
@@ -325,6 +262,7 @@
     "northernHemisphereDates": "2nd Saturday of April",
     "southernHemisphereDates": "2nd Saturday of October",
     "times": "9 AM – 6 PM",
+    "versionAdded": "1.0.0",
     "translations": {
       "sourceSheet": "Events",
       "id": "FishingConventionSpring",
@@ -353,6 +291,7 @@
     "northernHemisphereDates": "2nd Saturday of July",
     "southernHemisphereDates": "2nd Saturday of January",
     "times": "9 AM – 6 PM",
+    "versionAdded": "1.0.0",
     "translations": {
       "sourceSheet": "Events",
       "id": "FishingConventionSummer",
@@ -377,46 +316,11 @@
   },
   {
     "sourceSheet": "Events",
-    "event": "Summer Solstice",
-    "northernHemisphereDates": "June 7 – July 6",
-    "southernHemisphereDates": "Not available",
-    "times": "All day",
-    "translations": {
-      "sourceSheet": "Events",
-      "id": "SummerSolstice",
-      "version": "1.2.0",
-      "english": "Summer Solstice",
-      "englishEurope": "Summer Solstice",
-      "german": "Sommersonnenwende",
-      "spanish": "Solsticio de verano",
-      "spanishUs": "Solsticio de verano",
-      "french": "Solstice d'été",
-      "frenchUs": "Solstice d'été",
-      "italian": "Solstizio d'estate",
-      "dutch": "Midzomer",
-      "chinese": "夏至祭典",
-      "chineseTraditional": "夏至祭典",
-      "japanese": "げしさい夏至祭",
-      "korean": "하지 축제",
-      "russian": "Праздник лета",
-      "plural": false,
-      "internalIds": [ "SummerSolstice" ]
-    }
-  },
-  {
-    "sourceSheet": "Events",
-    "event": "Tanabata",
-    "northernHemisphereDates": "July 1–31",
-    "southernHemisphereDates": "July 1–31",
-    "times": "All day",
-    "translations": null
-  },
-  {
-    "sourceSheet": "Events",
     "event": "Wedding Season",
-    "northernHemisphereDates": "June 1–30",
-    "southernHemisphereDates": "June 1–30",
+    "northernHemisphereDates": "June",
+    "southernHemisphereDates": "June",
     "times": "All day",
+    "versionAdded": "1.2.0",
     "translations": null
   },
   {
@@ -425,6 +329,7 @@
     "northernHemisphereDates": "2nd Saturday of January",
     "southernHemisphereDates": "2nd Saturday of July",
     "times": "9 AM – 6 PM",
+    "versionAdded": "1.0.0",
     "translations": {
       "sourceSheet": "Events",
       "id": "FishingConventionWinter",
@@ -445,34 +350,6 @@
       "russian": "Зимний турнир «Мастер удочки»",
       "plural": false,
       "internalIds": [ "FishingConventionWinter" ]
-    }
-  },
-  {
-    "sourceSheet": "Events",
-    "event": "Winter Solstice",
-    "northernHemisphereDates": "Not available",
-    "southernHemisphereDates": "June 7 – July 6",
-    "times": "All day",
-    "translations": {
-      "sourceSheet": "Events",
-      "id": "WinterSolstice",
-      "version": "1.2.0",
-      "english": "Winter Solstice",
-      "englishEurope": "Winter Solstice",
-      "german": "Wintersonnenwende",
-      "spanish": "Solsticio de invierno",
-      "spanishUs": "Solsticio de invierno",
-      "french": "Solstice d'hiver",
-      "frenchUs": "Solstice d'hiver",
-      "italian": "Solstizio d'inverno",
-      "dutch": "Midwinter",
-      "chinese": "冬至祭典",
-      "chineseTraditional": "冬至祭典",
-      "japanese": "とうじさい冬至祭",
-      "korean": "동지 축제",
-      "russian": "Праздник зимы",
-      "plural": false,
-      "internalIds": [ "WinterSolstice" ]
     }
   }
 ]

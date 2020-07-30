@@ -4729,5 +4729,24 @@
     "Japanese": "かいぞくのかべがみ",
     "Korean": "해적 벽지",
     "Russian": "пиратская стена"
+  },
+  {
+    "SourceSheet": "Walls",
+    "id": "RoomWall_13230",
+    "Version": "1.4.0",
+    "English": "fireworks-show wall",
+    "English (Europe)": "fireworks-show wall",
+    "German": "Feuerwerk-Tapete",
+    "Spanish": "pared fuegos artificiales",
+    "Spanish (US)": "pared fuegos artificiales",
+    "French": "mur feux d'artifice",
+    "French (US)": "mur feux d'artifice",
+    "Italian": "muro fuochi d'artificio",
+    "Dutch": "vuurwerkwand",
+    "Chinese": "烟花大会墙",
+    "Chinese (Traditional)": "煙火大會牆",
+    "Japanese": "はなびたいかいのかべ",
+    "Korean": "불꽃축제 벽",
+    "Russian": "стена с фейерверком"
   }
 ]

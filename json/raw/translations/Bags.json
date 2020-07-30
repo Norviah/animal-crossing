@@ -81,7 +81,7 @@
     "Version": "1.0.0",
     "English": "pleather shoulder bag",
     "English (Europe)": "pleather shoulder bag",
-    "German": "Kunstlederumhängetasche",
+    "German": "Kunstlederhandtasche",
     "Spanish": "bolsa de polipiel",
     "Spanish (US)": "bolsa de cuero sintético",
     "French": "sac à bandoulière similicuir",
@@ -853,5 +853,24 @@
     "Japanese": "イースターなバッグ",
     "Korean": "이스터 가방",
     "Russian": "сумка на День зайцев"
+  },
+  {
+    "SourceSheet": "Bags",
+    "id": 1233,
+    "Version": "1.4.0",
+    "English": "grape-harvest basket",
+    "English (Europe)": "grape-harvest basket",
+    "German": "Traubenlese-Korb",
+    "Spanish": "mochila vendimia",
+    "Spanish (US)": "mochila vendimia",
+    "French": "hotte à raisin",
+    "French (US)": "panier à raisin",
+    "Italian": "canestro da vendemmia",
+    "Dutch": "druivenoogstmand",
+    "Chinese": "葡萄采收桶",
+    "Chinese (Traditional)": "葡萄採收桶",
+    "Japanese": "ぶどうのしゅうかくおけ",
+    "Korean": "포도 수확 바구니",
+    "Russian": "кузовок для винограда"
   }
 ]
