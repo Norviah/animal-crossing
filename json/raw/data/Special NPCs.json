@@ -827,16 +827,16 @@
   {
     "SourceSheet": "Special NPCs",
     "Name": "Luna",
-    "Icon Image": "NA",
+    "Icon Image": "=IMAGE(\"https://acnhcdn.com/latest/NpcIcon/tap.png\")",
     "Photo Image": "=IMAGE(\"https://acnhcdn.com/latest/NpcPoster/NpcSpTap.png\")",
     "Gender": "Female",
     "Gender (Asia)": "Female",
-    "Version Added": "NA",
+    "Version Added": "1.4.0",
     "NPC ID": "tap",
     "Internal ID": 45,
     "Birthday": "2/29",
-    "Name Color": "#fabe3b",
-    "Bubble Color": "#846958",
+    "Name Color": "#ffceff",
+    "Bubble Color": "#bc40a9",
     "Unique Entry ID": "mTzz444C5LkcH4W9T"
   },
   {

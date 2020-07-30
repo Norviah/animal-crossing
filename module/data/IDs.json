@@ -11258,6 +11258,13 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Dream Bell exchange ticket",
+    "uniqueID": "oqF5TeSPnfuFD94kf",
+    "id": 13228,
+    "filename": "DreamBellExchangeTicket",
+    "sourceSheet": "Other"
+  },
+  {
     "name": "Dream House",
     "uniqueID": "FLDPYLE7KWu8S9uPg",
     "id": 82,
@@ -15571,6 +15578,13 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Hikoboshi outfit",
+    "uniqueID": "XnsLwn2JGGmhKBQCA",
+    "id": 13240,
+    "filename": "TopsTexOnepieceKimonoLWeavermen0",
+    "sourceSheet": "Dress-Up"
+  },
+  {
     "name": "Hippeux",
     "uniqueID": "WjAPWpCx6bTjKiZjw",
     "id": null,
@@ -18441,6 +18455,20 @@
     "sourceSheet": "Music"
   },
   {
+    "name": "King Tut mask",
+    "uniqueID": "GnuiKjdcyQhaGEToC",
+    "id": 5607,
+    "filename": "CapFullfaceKingtut0",
+    "sourceSheet": "Headwear"
+  },
+  {
+    "name": "King Tut mask",
+    "uniqueID": "dYrMmg7tsBvSwarEc",
+    "id": 716,
+    "filename": null,
+    "sourceSheet": "Recipes"
+  },
+  {
     "name": "Kitt",
     "uniqueID": "jjReK7y42rnNZmQe6",
     "id": null,
@@ -20670,6 +20698,13 @@
     "id": 45,
     "filename": null,
     "sourceSheet": "Special NPCs"
+  },
+  {
+    "name": "Luna's bed",
+    "uniqueID": "cv2ZMCXGG4EzA6sxQ",
+    "id": 13221,
+    "filename": "FtrTapBedS",
+    "sourceSheet": "Housewares"
   },
   {
     "name": "Luna's poster",
@@ -24718,6 +24753,13 @@
     "sourceSheet": "Floors"
   },
   {
+    "name": "Nook Inc. handheld pennant",
+    "uniqueID": "C5sMrB792zhZekeqW",
+    "id": 13128,
+    "filename": "ToolPennantRcm",
+    "sourceSheet": "Tools"
+  },
+  {
     "name": "Nook Inc. knapsack",
     "uniqueID": "zQh6chGG66h4f5JbX",
     "id": 9761,
@@ -25388,6 +25430,13 @@
     "id": 10667,
     "filename": "PosterNpcNmlElp00",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Orihime outfit",
+    "uniqueID": "t7WAhvTAgZxC8T3Xz",
+    "id": 13239,
+    "filename": "TopsTexOnepieceKimonoLWeaverwomen0",
+    "sourceSheet": "Dress-Up"
   },
   {
     "name": "Orville",
@@ -43488,6 +43537,13 @@
     "sourceSheet": "Rugs"
   },
   {
+    "name": "blue balloon",
+    "uniqueID": "wZi9GW6MbpePQpvKY",
+    "id": 7869,
+    "filename": "ToolBalloonNormal",
+    "sourceSheet": "Tools"
+  },
+  {
     "name": "blue basic door",
     "uniqueID": "BxqZmtEty82NDo8J3",
     "id": null,
@@ -43899,6 +43955,13 @@
     "id": 9549,
     "filename": "RugRoundSimpleS02",
     "sourceSheet": "Rugs"
+  },
+  {
+    "name": "blue sparkler",
+    "uniqueID": "nX6tAkPNA4xgzbhon",
+    "id": 12974,
+    "filename": "ToolFireworks1",
+    "sourceSheet": "Tools"
   },
   {
     "name": "blue square mailbox",
@@ -45822,6 +45885,13 @@
     "sourceSheet": "Wallpaper"
   },
   {
+    "name": "bubble blower",
+    "uniqueID": "CQmL5dEmhYEGkCJCF",
+    "id": 4386,
+    "filename": "ToolBubblesNormal",
+    "sourceSheet": "Tools"
+  },
+  {
     "name": "bubblegum",
     "uniqueID": "r9N2a2TYhvXBKiihn",
     "id": 11030,
@@ -45888,6 +45958,13 @@
     "id": 8769,
     "filename": "ToolStcikInsect",
     "sourceSheet": "Tools"
+  },
+  {
+    "name": "bulb bopper",
+    "uniqueID": "kgvf6QgRbhreRM9mx",
+    "id": 9857,
+    "filename": "CapOrnamentFBallband0",
+    "sourceSheet": "Headwear"
   },
   {
     "name": "bulldog jacket",
@@ -62595,6 +62672,13 @@
     "sourceSheet": "Recipes"
   },
   {
+    "name": "fireworks-show wall",
+    "uniqueID": "poLXZmMTa2bYsAYpe",
+    "id": 13230,
+    "filename": "RoomSpWallFireworks00",
+    "sourceSheet": "Wallpaper"
+  },
+  {
     "name": "fischerhemd",
     "uniqueID": "tMByLq3jkhDNDB2vu",
     "id": 5658,
@@ -64587,6 +64671,13 @@
     "variation": "Colorful"
   },
   {
+    "name": "flower bopper",
+    "uniqueID": "ut6Mpg5beqMZbHCx5",
+    "id": 9858,
+    "filename": "CapOrnamentFFlowerband0",
+    "sourceSheet": "Headwear"
+  },
+  {
     "name": "flower sandals",
     "uniqueID": "zEAdQCRGCGkGXo3zH",
     "id": 10131,
@@ -65562,6 +65653,13 @@
     "id": 599,
     "filename": null,
     "sourceSheet": "Recipes"
+  },
+  {
+    "name": "fountain firework",
+    "uniqueID": "z2n48mYextDwNiear",
+    "id": 13106,
+    "filename": "Fireworks",
+    "sourceSheet": "Other"
   },
   {
     "name": "four-ball tee",
@@ -69663,6 +69761,13 @@
     "sourceSheet": "Umbrellas"
   },
   {
+    "name": "grape-harvest basket",
+    "uniqueID": "w3sCtnjHaNJwLD3vk",
+    "id": 12797,
+    "filename": "BagBackpackHarvest0",
+    "sourceSheet": "Bags"
+  },
+  {
     "name": "grass skirt",
     "uniqueID": "F3GSr8B7zuThrFq5p",
     "id": 4333,
@@ -69910,6 +70015,13 @@
     "id": 7013,
     "filename": "FtrFishSameToy",
     "sourceSheet": "Miscellaneous"
+  },
+  {
+    "name": "green balloon",
+    "uniqueID": "6xF5xbt7WxTdqMYaH",
+    "id": 13125,
+    "filename": "ToolBalloonNormal3",
+    "sourceSheet": "Tools"
   },
   {
     "name": "green basic door",
@@ -71513,6 +71625,13 @@
     "filename": "TopsTexTopCoatLHeartapron3",
     "sourceSheet": "Tops",
     "variation": "Purple"
+  },
+  {
+    "name": "heart bopper",
+    "uniqueID": "r6NShbHdjPM6Xj4uN",
+    "id": 9859,
+    "filename": "CapOrnamentFHeartband0",
+    "sourceSheet": "Headwear"
   },
   {
     "name": "heart crystal",
@@ -84483,6 +84602,13 @@
     "sourceSheet": "Sea Creatures"
   },
   {
+    "name": "moon rug",
+    "uniqueID": "ZSc6ADmEcAnG92DWv",
+    "id": 13287,
+    "filename": "RugRoundMoonM00",
+    "sourceSheet": "Rugs"
+  },
+  {
     "name": "moray eel",
     "uniqueID": "4nLynLTMRtoqcCfh4",
     "id": 2271,
@@ -92237,6 +92363,13 @@
     "sourceSheet": "Umbrellas"
   },
   {
+    "name": "pink balloon",
+    "uniqueID": "jJkSMbhxX3ekBkWZK",
+    "id": 13126,
+    "filename": "ToolBalloonNormal4",
+    "sourceSheet": "Tools"
+  },
+  {
     "name": "pink basic door",
     "uniqueID": "Xby3xZhQd3dMb4Coe",
     "id": null,
@@ -92682,6 +92815,13 @@
     "filename": "TopsTexOnepieceBalloonHDolly5",
     "sourceSheet": "Dress-Up",
     "variation": "Brown"
+  },
+  {
+    "name": "pinwheel",
+    "uniqueID": "ixfo3W4miuTh5zvSP",
+    "id": 5744,
+    "filename": "ToolWindmill",
+    "sourceSheet": "Tools"
   },
   {
     "name": "piranha",
@@ -93958,7 +94098,7 @@
     "sourceSheet": "Headwear"
   },
   {
-    "name": "polka-dot mini skirt",
+    "name": "polka-dot miniskirt",
     "uniqueID": "33jjvbydtzk72BH8m",
     "id": 12178,
     "filename": "BottomsTexSkirtAlineDot3",
@@ -93966,7 +94106,7 @@
     "variation": "Gray"
   },
   {
-    "name": "polka-dot mini skirt",
+    "name": "polka-dot miniskirt",
     "uniqueID": "z7dHdbw4CRczuZuMu",
     "id": 12176,
     "filename": "BottomsTexSkirtAlineDot1",
@@ -93974,7 +94114,7 @@
     "variation": "Pink"
   },
   {
-    "name": "polka-dot mini skirt",
+    "name": "polka-dot miniskirt",
     "uniqueID": "xnauur6Y9BjK7sJSz",
     "id": 12177,
     "filename": "BottomsTexSkirtAlineDot2",
@@ -93982,7 +94122,7 @@
     "variation": "Blue"
   },
   {
-    "name": "polka-dot mini skirt",
+    "name": "polka-dot miniskirt",
     "uniqueID": "nWDWH2bcEL7bqwLMW",
     "id": 12173,
     "filename": "BottomsTexSkirtAlineDot0",
@@ -97670,6 +97810,13 @@
     "sourceSheet": "Wallpaper"
   },
   {
+    "name": "red balloon",
+    "uniqueID": "93qC6sGCBMeknRuJ7",
+    "id": 13123,
+    "filename": "ToolBalloonNormal1",
+    "sourceSheet": "Tools"
+  },
+  {
     "name": "red blocks rug",
     "uniqueID": "PWaKA8fJZfRLdgBjP",
     "id": 11101,
@@ -97983,6 +98130,13 @@
     "id": 7020,
     "filename": "FtrFishTaiToy",
     "sourceSheet": "Miscellaneous"
+  },
+  {
+    "name": "red sparkler",
+    "uniqueID": "5YyG34qEdmAuABqHd",
+    "id": 5743,
+    "filename": "ToolFireworks",
+    "sourceSheet": "Tools"
   },
   {
     "name": "red square mailbox",
@@ -100570,6 +100724,13 @@
     "id": 5239,
     "filename": "RoomTexFloorRock00",
     "sourceSheet": "Floors"
+  },
+  {
+    "name": "rodeo-style springy ride-on",
+    "uniqueID": "GgXFGKE498juMNPZh",
+    "id": 12921,
+    "filename": "FtrSpringriderRodeo",
+    "sourceSheet": "Housewares"
   },
   {
     "name": "rope fence",
@@ -109589,6 +109750,13 @@
     "sourceSheet": "Housewares"
   },
   {
+    "name": "star bopper",
+    "uniqueID": "zNorsCxjDBFoB3cB4",
+    "id": 2611,
+    "filename": "CapOrnamentFStarband0",
+    "sourceSheet": "Headwear"
+  },
+  {
     "name": "star clock",
     "uniqueID": "awi53fT5dS9coq24J",
     "id": 7253,
@@ -117762,6 +117930,13 @@
     "variation": "Navy blue"
   },
   {
+    "name": "tweeter",
+    "uniqueID": "QxaQCNrLi393nadSQ",
+    "id": 5742,
+    "filename": "ToolBlowouts",
+    "sourceSheet": "Tools"
+  },
+  {
     "name": "twinkling painting",
     "uniqueID": "vd2Naaf6TREFTQsdy",
     "id": 12618,
@@ -117861,6 +118036,13 @@
     "filename": "FtrTypewriter_Remake_5_0",
     "sourceSheet": "Miscellaneous",
     "variation": "Silver"
+  },
+  {
+    "name": "uchiwa fan",
+    "uniqueID": "bPKsESXK5jLNWXAof",
+    "id": 5319,
+    "filename": "ToolPaperFan",
+    "sourceSheet": "Tools"
   },
   {
     "name": "ukulele",
@@ -118481,6 +118663,13 @@
     "filename": "FtrCleanerStick_Remake_6_0",
     "sourceSheet": "Housewares",
     "variation": "Pink"
+  },
+  {
+    "name": "used fountain firework",
+    "uniqueID": "ZndPE58PZywGJxkSq",
+    "id": 13107,
+    "filename": "Cinder",
+    "sourceSheet": "Other"
   },
   {
     "name": "utility pole",
@@ -125229,6 +125418,13 @@
     "id": 7352,
     "filename": "RugRectArgyleL00",
     "sourceSheet": "Rugs"
+  },
+  {
+    "name": "yellow balloon",
+    "uniqueID": "dF8pTGMJY5465vatR",
+    "id": 13124,
+    "filename": "ToolBalloonNormal2",
+    "sourceSheet": "Tools"
   },
   {
     "name": "yellow basic door",
