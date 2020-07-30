@@ -31,7 +31,7 @@
 
 • **birthday**: *string*
 
-*Defined in [NPC.ts:11](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L11)*
+*Defined in [NPC.ts:11](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L11)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **bubbleColor**: *string*
 
-*Defined in [NPC.ts:13](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L13)*
+*Defined in [NPC.ts:13](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L13)*
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 • **gender**: *[Gender](../enums/_npc_.gender.md)*
 
-*Defined in [NPC.ts:6](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L6)*
+*Defined in [NPC.ts:6](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L6)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **genderAsia**: *[Gender](../enums/_npc_.gender.md)*
 
-*Defined in [NPC.ts:7](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L7)*
+*Defined in [NPC.ts:7](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L7)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 • **iconImage**: *null | string*
 
-*Defined in [NPC.ts:4](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L4)*
+*Defined in [NPC.ts:4](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L4)*
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 • **internalId**: *number*
 
-*Defined in [NPC.ts:10](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L10)*
+*Defined in [NPC.ts:10](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L10)*
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [NPC.ts:3](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L3)*
+*Defined in [NPC.ts:3](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L3)*
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 • **nameColor**: *string*
 
-*Defined in [NPC.ts:12](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L12)*
+*Defined in [NPC.ts:12](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L12)*
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 • **npcId**: *string*
 
-*Defined in [NPC.ts:9](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L9)*
+*Defined in [NPC.ts:9](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L9)*
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 • **photoImage**: *null | string*
 
-*Defined in [NPC.ts:5](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L5)*
+*Defined in [NPC.ts:5](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L5)*
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 • **sourceSheet**: *[SourceSheet](../enums/_npc_.sourcesheet.md)*
 
-*Defined in [NPC.ts:2](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L2)*
+*Defined in [NPC.ts:2](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L2)*
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 • **translations**: *[Translations](_npc_.translations.md)*
 
-*Defined in [NPC.ts:15](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L15)*
+*Defined in [NPC.ts:15](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L15)*
 
 ___
 
@@ -127,7 +127,7 @@ ___
 
 • **uniqueEntryId**: *string*
 
-*Defined in [NPC.ts:14](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L14)*
+*Defined in [NPC.ts:14](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L14)*
 
 ___
 
@@ -135,4 +135,4 @@ ___
 
 • **versionAdded**: *[Version](../enums/_npc_.version.md) | null*
 
-*Defined in [NPC.ts:8](https://github.com/Norviah/animal-crossing/blob/e9cea70/module/types/NPC.ts#L8)*
+*Defined in [NPC.ts:8](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/NPC.ts#L8)*

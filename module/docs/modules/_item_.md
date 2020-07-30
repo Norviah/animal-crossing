@@ -42,7 +42,7 @@
 * [SpeakerType](../enums/_item_.speakertype.md)
 * [Style](../enums/_item_.style.md)
 * [Theme](../enums/_item_.theme.md)
-* [VariantID](../enums/_item_.variantid.md)
+* [VariantIDEnum](../enums/_item_.variantidenum.md)
 * [Version](../enums/_item_.version.md)
 * [VfxType](../enums/_item_.vfxtype.md)
 * [WindowColor](../enums/_item_.windowcolor.md)
