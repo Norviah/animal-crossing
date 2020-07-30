@@ -5,7 +5,7 @@ export interface Hemisphere {
     days:              number;
     season:            Season;
     shops:             Season;
-    vegetation:        string;
+    weeds:             string;
     rainSnow:          RainSnow;
     skyEffect:         SkyEffect | null;
     blossoms:          string;

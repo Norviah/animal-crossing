@@ -1,25 +1,28 @@
 export interface Event {
-    sourceSheet:             SourceSheet;
+    sourceSheet:             EventSourceSheet;
     event:                   string;
     northernHemisphereDates: string;
     southernHemisphereDates: string;
-    times:                   Times;
+    times?:                  Times;
+    versionAdded:            Version;
     translations:            Translations | null;
+    nookShoppingItems?:      string;
 }
 
-export enum SourceSheet {
+export enum EventSourceSheet {
     Events = "Events",
-    HHAThemes = "HHA Themes",
+    NookShoppingSeasonal = "Nook Shopping Seasonal",
 }
 
 export enum Times {
     AllDay = "All day",
     The11Pm2Am = "11 PM – 2 AM",
+    The7PMMidnight = "7 PM – Midnight",
     The9Am6Pm = "9 AM – 6 PM",
 }
 
 export interface Translations {
-    sourceSheet:        SourceSheet;
+    sourceSheet:        TranslationsSourceSheet;
     id:                 number | string;
     version:            Version;
     english:            string;
@@ -40,8 +43,15 @@ export interface Translations {
     internalIds:        string[];
 }
 
+export enum TranslationsSourceSheet {
+    Events = "Events",
+    HHAThemes = "HHA Themes",
+}
+
 export enum Version {
     The100 = "1.0.0",
     The110 = "1.1.0",
     The120 = "1.2.0",
+    The130 = "1.3.0",
+    The140 = "1.4.0",
 }

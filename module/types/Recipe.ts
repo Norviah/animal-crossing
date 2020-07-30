@@ -3,7 +3,7 @@ export interface Recipe {
     name:                  string;
     image:                 string;
     buy:                   number;
-    sell:                  number;
+    sell:                  number | null;
     milesPrice:            number | null;
     source:                string[];
     sourceNotes:           null | string;
@@ -261,6 +261,7 @@ export enum Version {
     The120 = "1.2.0",
     The121C = "1.2.1c",
     The130 = "1.3.0",
+    The140 = "1.4.0",
 }
 
 export interface GoldArmor {
