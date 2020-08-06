@@ -10,13 +10,14 @@ export interface Reaction {
 }
 
 export enum SourceSheet {
+    DressesVariants = "Dresses Variants",
     Reactions = "Reactions",
 }
 
 export interface Translations {
     sourceSheet:        SourceSheet;
-    id:                 string;
-    version:            Version;
+    id:                 number | string;
+    version?:           Version;
     english:            string;
     englishEurope:      string;
     german:             string;
@@ -33,6 +34,8 @@ export interface Translations {
     russian:            string;
     plural:             boolean;
     internalIds:        string[];
+    variantId?:         number;
+    clothName?:         string;
 }
 
 export enum Version {

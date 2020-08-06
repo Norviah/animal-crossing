@@ -11,9 +11,9 @@ export interface Item {
     buy:                   number;
     sell:                  number | null;
     translations:          ItemTranslations | null;
-    source:                string[] | null;
+    source:                string[];
     themesTranslations?:   ThemesTranslations;
-    hhaBasePoints?:        number | null;
+    hhaBasePoints?:        number;
     villagerEquippable?:   boolean;
     seasonalAvailability?: SeasonalAvailability;
     type?:                 string;
@@ -30,7 +30,7 @@ export interface Item {
     clothGroupId?:         number;
     internalId?:           number;
     uniqueEntryId?:        string;
-    variantTranslations?:  null;
+    variantTranslations?:  VariantTranslations;
     colors?:               Color[];
     image?:                string;
     bodyTitle?:            null | string;
@@ -46,9 +46,9 @@ export interface Item {
     outdoor?:              boolean;
     speakerType?:          SpeakerType | null;
     lightingType?:         LightingType | null;
-    variantId?:            VariantIDEnum | number | null;
+    variantId?:            VariantID | null;
     patternTranslations?:  PatternTranslations | null;
-    seriesTranslations?:   SeriesTranslations | null;
+    seriesTranslations?:   VariantTranslations | null;
     concepts?:             Concept[];
     set?:                  null | string;
     series?:               null | string;
@@ -56,7 +56,7 @@ export interface Item {
     framedImage?:          null | string;
     albumImage?:           null | string;
     inventoryImage?:       null | string;
-    stackSize?:            number | null;
+    stackSize?:            number;
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
@@ -70,6 +70,7 @@ export interface Item {
     curtainColor?:         null | string;
     ceilingType?:          CeilingType | null;
     uses?:                 number;
+    fossilGroup?:          string;
     description?:          string[];
     museum?:               Museum;
     highResTexture?:       null;
@@ -247,6 +248,7 @@ export enum PatternTranslationsSourceSheet {
     Craft = "Craft",
     Doorplates = "Doorplates",
     Dresses = "Dresses",
+    DressesVariants = "Dresses Variants",
     Etc = "ETC",
     EventItems = "Event Items",
     Fence = "Fence",
@@ -268,6 +270,7 @@ export enum PatternTranslationsSourceSheet {
     Socks = "Socks",
     Tools = "Tools",
     Tops = "Tops",
+    TopsVariants = "Tops Variants",
     Umbrella = "Umbrella",
     Walls = "Walls",
 }
@@ -488,7 +491,7 @@ export interface MaterialsTranslations {
     "white pansies"?:         PatternTranslations;
     "zen cushion"?:           PatternTranslations;
     rocket?:                  PatternTranslations;
-    "gold armor"?:            SeriesTranslations;
+    "gold armor"?:            VariantTranslations;
     "rusted part"?:           PatternTranslations;
     "white roses"?:           PatternTranslations;
     "venus comb"?:            PatternTranslations;
@@ -507,31 +510,44 @@ export interface MaterialsTranslations {
     "wooden-block toy"?:      PatternTranslations;
 }
 
-export interface SeriesTranslations {
-    sourceSheet:        SeriesTranslationsSourceSheet;
-    id:                 number;
-    version:            Version;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
+export interface VariantTranslations {
+    sourceSheet?:       VariantTranslationsSourceSheet;
+    id?:                number;
+    version?:           Version;
+    english:            null | string;
+    englishEurope:      null | string;
+    german:             null | string;
+    spanish:            null | string;
+    spanishUs:          null | string;
+    french:             null | string;
+    frenchUs:           null | string;
+    italian:            null | string;
+    dutch:              null | string;
+    chinese:            null | string;
+    chineseTraditional: null | string;
+    japanese:           null | string;
+    korean:             null | string;
+    russian:            null | string;
     plural:             boolean;
-    internalIds:        number[];
+    internalIds?:       number[];
+    variantId?:         number;
+    clothName?:         string;
 }
 
-export enum SeriesTranslationsSourceSheet {
+export enum VariantTranslationsSourceSheet {
+    AccessoriesVariants = "Accessories Variants",
+    BagsVariants = "Bags Variants",
+    BottomsVariants = "Bottoms Variants",
+    CapsVariants = "Caps Variants",
     Dresses = "Dresses",
+    DressesVariants = "Dresses Variants",
+    FurnitureVariants = "Furniture Variants",
     HHAThemes = "HHA Themes",
+    MarineSuitVariants = "Marine Suit Variants",
+    MasksVariants = "Masks Variants",
+    ShoesVariants = "Shoes Variants",
+    SocksVariants = "Socks Variants",
+    TopsVariants = "Tops Variants",
 }
 
 export interface Comfy {
@@ -852,7 +868,7 @@ export interface ThemesTranslations {
 export interface ItemTranslations {
     sourceSheet:        PatternTranslationsSourceSheet;
     id:                 number | string;
-    version:            Version;
+    version?:           Version;
     english:            string;
     englishEurope:      string;
     german:             string;
@@ -866,12 +882,14 @@ export interface ItemTranslations {
     chineseTraditional: string;
     japanese:           string;
     korean:             string;
-    russian:            null | string;
+    russian:            string;
     plural:             boolean;
     internalIds:        Array<number | string>;
+    variantId?:         number;
+    clothName?:         string;
 }
 
-export enum VariantIDEnum {
+export enum VariantID {
     The0_0 = "0_0",
     The0_1 = "0_1",
     The0_2 = "0_2",
@@ -948,12 +966,12 @@ export interface VariationElement {
     clothGroupId?:        number;
     internalId:           number;
     uniqueEntryId:        string;
-    variantTranslations:  PatternTranslations | null;
+    variantTranslations:  VariationVariantTranslations | null;
     colors:               Color[];
     image?:               string;
     pattern?:             null | string;
     patternTitle?:        PatternTitle | null;
-    variantId?:           VariantIDEnum;
+    variantId?:           VariantID;
     patternTranslations?: PatternTranslations | null;
     surface?:             boolean;
     hhaCategory?:         HhaCategory | null;
@@ -1005,6 +1023,37 @@ export enum PatternTitle {
     Tablecloth = "Tablecloth",
     Towel = "Towel",
     Tray = "Tray",
+}
+
+export interface VariationVariantTranslations {
+    sourceSheet?:       VariantTranslationsSourceSheet;
+    variantId?:         number;
+    id?:                number | string;
+    clothName?:         string;
+    english:            number | string;
+    englishEurope:      number | string;
+    german:             number | string;
+    spanish:            number | string;
+    spanishUs:          number | string;
+    french:             number | string;
+    frenchUs:           number | string;
+    italian:            number | string;
+    dutch:              number | string;
+    chinese:            string;
+    chineseTraditional: string;
+    japanese:           null | string;
+    korean:             null | string;
+    russian:            number | null | string;
+    plural:             boolean;
+    internalIds?:       Array<InternalIDEnum | number>;
+    furnitureName?:     string;
+}
+
+export enum InternalIDEnum {
+    Cbr09 = "cbr09",
+    Der06 = "der06",
+    Love = "Love",
+    Squ09 = "squ09",
 }
 
 export enum VfxType {

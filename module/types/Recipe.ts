@@ -39,7 +39,6 @@ export enum CardColor {
 }
 
 export enum Category {
-    DressUp = "Dress-Up",
     Equipment = "Equipment",
     Floors = "Floors",
     Housewares = "Housewares",
