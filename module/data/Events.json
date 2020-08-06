@@ -176,9 +176,12 @@
   {
     "sourceSheet": "Nook Shopping Seasonal",
     "event": "Cowboy Festival",
-    "northernHemisphereDates": "August",
-    "southernHemisphereDates": "August",
+    "availability": "August",
     "nookShoppingItems": "rodeo-style springy ride-on",
+    "region": "Brazil",
+    "description": [
+      "Many countries have their own cowboy-themed celebrations, but this one is inspired by Brazilian traditions. We hope this springy ride-on toy will help you get into the spirit!"
+    ],
     "versionAdded": "1.4.0",
     "translations": {
       "sourceSheet": "Events",
@@ -205,9 +208,12 @@
   {
     "sourceSheet": "Nook Shopping Seasonal",
     "event": "Cowherd & Weaver Girl Day",
-    "northernHemisphereDates": "August",
-    "southernHemisphereDates": "August",
+    "availability": "August",
     "nookShoppingItems": "Orihime outfit, Hikoboshi outfit",
+    "region": "Asia",
+    "description": [
+      "Based on the star-crossed story of two lovers who were only allowed to meet once per year. Perhaps you'll think of reuniting with someone dear to you when you wear this special outfit."
+    ],
     "versionAdded": "1.4.0",
     "translations": {
       "sourceSheet": "Events",
@@ -263,9 +269,12 @@
   {
     "sourceSheet": "Nook Shopping Seasonal",
     "event": "Father's Day",
-    "northernHemisphereDates": "June",
-    "southernHemisphereDates": "June",
+    "availability": "June",
     "nookShoppingItems": "thank-you Dad mug",
+    "region": "Intl.",
+    "description": [
+      "Father's Day is when we say, \"Thanks for watching out for me, Dad!\" But what should go into a gift mug for fathers? How about all your love, for starters?"
+    ],
     "versionAdded": "1.2.0",
     "translations": {
       "sourceSheet": "Events",
@@ -301,9 +310,12 @@
   {
     "sourceSheet": "Nook Shopping Seasonal",
     "event": "Grape Harvest Festival",
-    "northernHemisphereDates": "September",
-    "southernHemisphereDates": "September",
+    "availability": "September",
     "nookShoppingItems": "grape-harvest basket",
+    "region": "Spain, France, Germany, Italy",
+    "description": [
+      "Inspired by festivities in Spain, Italy, France, and Germany, this fun festival sees participants don traditional garb for dancing and a large parade to celebrate the grape harvest. Please enjoy your ceremonial basket!"
+    ],
     "versionAdded": "1.4.0",
     "translations": {
       "sourceSheet": "Events",
@@ -330,9 +342,12 @@
   {
     "sourceSheet": "Nook Shopping Seasonal",
     "event": "International Children's Day",
-    "northernHemisphereDates": "June",
-    "southernHemisphereDates": "June",
+    "availability": "June",
     "nookShoppingItems": "handmade cape, handmade crown",
+    "region": "Intl.",
+    "description": [
+      "This event is for celebrating children growing up in good health, while thanking those who raised them. If you've ever been a good kid or raised one, flip your cape in a superhero way! Those who behold your new crown will be compelled to kneel before your royal…royalness."
+    ],
     "versionAdded": "1.2.0",
     "translations": {
       "sourceSheet": "Events",
@@ -386,9 +401,12 @@
   {
     "sourceSheet": "Nook Shopping Seasonal",
     "event": "Moon-Viewing Day",
-    "northernHemisphereDates": "September 7 – October 8",
-    "southernHemisphereDates": "September 7 – October 8",
+    "availability": "September 7 – October 8",
     "nookShoppingItems": "moon rug",
+    "region": "Intl.",
+    "description": [
+      "Admiring the moon is a long-held tradition, but our celestial neighbor is especially beautiful as it hangs in the sky at this time of year. Please accept this commemorative moon rug as an event souvenir."
+    ],
     "versionAdded": "1.4.0",
     "translations": {
       "sourceSheet": "Events",
@@ -415,9 +433,12 @@
   {
     "sourceSheet": "Nook Shopping Seasonal",
     "event": "Mother's Day",
-    "northernHemisphereDates": "May",
-    "southernHemisphereDates": "May",
+    "availability": "May",
     "nookShoppingItems": "thank-you Mom mug",
+    "region": "Intl.",
+    "description": [
+      "Mother's Day is a day for saying \"thank you\" to that warm, loving person who always watches over you. What should go into a gift mug? How about all your love, for starters?"
+    ],
     "versionAdded": "1.2.0",
     "translations": {
       "sourceSheet": "Events",
@@ -520,9 +541,12 @@
   {
     "sourceSheet": "Nook Shopping Seasonal",
     "event": "Summer Solstice",
-    "northernHemisphereDates": "June 7 – July 6",
-    "southernHemisphereDates": "Not available",
+    "availability": "June 7 – July 6",
     "nookShoppingItems": "summer-solstice crown",
+    "region": "North Hem.",
+    "description": [
+      "This fun festival celebrates the arrival of summer. It's said that folks wear flower crowns and dance for good health and new love in the coming year. Maybe your crush will notice you in your sunflower crown!"
+    ],
     "versionAdded": "1.2.0",
     "translations": {
       "sourceSheet": "Events",
@@ -549,9 +573,12 @@
   {
     "sourceSheet": "Nook Shopping Seasonal",
     "event": "Tanabata",
-    "northernHemisphereDates": "July",
-    "southernHemisphereDates": "July",
+    "availability": "July",
     "nookShoppingItems": "bamboo grass",
+    "region": "Japan",
+    "description": [
+      "Celebrated on July 7th, this is the one day that the deities Orihime and Hikoboshi—represented by the stars Vega and Altair—can meet. Write a wish on tanzaku paper, hang it from bamboo, and wish on the stars!"
+    ],
     "versionAdded": "1.3.0",
     "translations": null
   },
@@ -596,9 +623,12 @@
   {
     "sourceSheet": "Nook Shopping Seasonal",
     "event": "Winter Solstice",
-    "northernHemisphereDates": "Not available",
-    "southernHemisphereDates": "June 7 – July 6",
+    "availability": "June 7 – July 6",
     "nookShoppingItems": "winter-solstice sweater",
+    "region": "South Hem.",
+    "description": [
+      "The day of the winter solstice has the shortest period of daylight. In the Southern Hemisphere, folks prepare for the cold weather with sweaters like this to send Mr. Winter running!"
+    ],
     "versionAdded": "1.2.0",
     "translations": {
       "sourceSheet": "Events",

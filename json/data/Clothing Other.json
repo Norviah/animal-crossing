@@ -26,7 +26,28 @@
     "clothGroupId": 1258,
     "internalId": 12970,
     "uniqueEntryId": "jjwdLhmb3X42fvtHa",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Marine Suit Variants",
+      "variantId": 12970,
+      "id": 12970,
+      "clothName": "Nook Inc. wet suit",
+      "english": "Green",
+      "englishEurope": "Green",
+      "german": "Grün",
+      "spanish": "Verde",
+      "spanishUs": "Verde",
+      "french": "Vert",
+      "frenchUs": "Vert",
+      "italian": "Verde",
+      "dutch": "Groen",
+      "chinese": "绿色",
+      "chineseTraditional": "綠色",
+      "japanese": "グリーン",
+      "korean": "그린",
+      "russian": "Зеленый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -255,21 +276,26 @@
         "internalId": 13103,
         "uniqueEntryId": "6L2xDvYdeFstLHY86",
         "variantTranslations": {
+          "sourceSheet": "Marine Suit Variants",
+          "variantId": 13103,
+          "id": 13103,
+          "clothName": "horizontal-striped wet suit",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "White" ]
       },
@@ -284,6 +310,10 @@
         "internalId": 12986,
         "uniqueEntryId": "3TDPbxuAzdDjSSHyA",
         "variantTranslations": {
+          "sourceSheet": "Marine Suit Variants",
+          "variantId": 12986,
+          "id": 12986,
+          "clothName": "horizontal-striped wet suit",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -298,7 +328,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "White" ]
       },
@@ -313,6 +344,10 @@
         "internalId": 13102,
         "uniqueEntryId": "ngqeKA7GqE55ezKww",
         "variantTranslations": {
+          "sourceSheet": "Marine Suit Variants",
+          "variantId": 13102,
+          "id": 13102,
+          "clothName": "horizontal-striped wet suit",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -327,7 +362,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "White" ]
       },
@@ -342,6 +378,10 @@
         "internalId": 13101,
         "uniqueEntryId": "hSJxcwRHv7qnKp93f",
         "variantTranslations": {
+          "sourceSheet": "Marine Suit Variants",
+          "variantId": 13101,
+          "id": 13101,
+          "clothName": "horizontal-striped wet suit",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -356,7 +396,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "White" ]
       }
@@ -481,6 +522,10 @@
         "internalId": 13099,
         "uniqueEntryId": "dzprxbw5CzvxNWHt7",
         "variantTranslations": {
+          "sourceSheet": "Marine Suit Variants",
+          "variantId": 13099,
+          "id": 13099,
+          "clothName": "leaf-print wet suit",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -495,7 +540,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -510,6 +556,10 @@
         "internalId": 13100,
         "uniqueEntryId": "3qhdPQngftbrtWgHM",
         "variantTranslations": {
+          "sourceSheet": "Marine Suit Variants",
+          "variantId": 13100,
+          "id": 13100,
+          "clothName": "leaf-print wet suit",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -524,7 +574,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Black" ]
       },
@@ -539,6 +590,10 @@
         "internalId": 12981,
         "uniqueEntryId": "mCuc5u3XpnyQqcR8G",
         "variantTranslations": {
+          "sourceSheet": "Marine Suit Variants",
+          "variantId": 12981,
+          "id": 12981,
+          "clothName": "leaf-print wet suit",
           "english": "Light blue",
           "englishEurope": "Light blue",
           "german": "Hellblau",
@@ -553,7 +608,8 @@
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
           "russian": "Голубой",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Black" ]
       },
@@ -568,6 +624,10 @@
         "internalId": 13098,
         "uniqueEntryId": "GZwvXzEMwCfhuNTHe",
         "variantTranslations": {
+          "sourceSheet": "Marine Suit Variants",
+          "variantId": 13098,
+          "id": 13098,
+          "clothName": "leaf-print wet suit",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -582,7 +642,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Black" ]
       }

@@ -72,6 +72,10 @@
         "internalId": 4463,
         "uniqueEntryId": "FNxEraBTeWRiCvtFu",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4463,
+          "id": 4463,
+          "clothName": "3D glasses",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -86,7 +90,8 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "Colorful" ]
       },
@@ -101,21 +106,26 @@
         "internalId": 11020,
         "uniqueEntryId": "mM9SXPCcGPfPJAmtm",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11020,
+          "id": 11020,
+          "clothName": "3D glasses",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Colorful" ]
       }
@@ -150,7 +160,28 @@
     "clothGroupId": 1182,
     "internalId": 12128,
     "uniqueEntryId": "sbkqQrHpJWMEEZLSR",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 12128,
+      "id": 12128,
+      "clothName": "DAL eye mask",
+      "english": "Blue",
+      "englishEurope": "Blue",
+      "german": "Blau",
+      "spanish": "Azul",
+      "spanishUs": "Azul",
+      "french": "Bleu",
+      "frenchUs": "Bleu",
+      "italian": "Blu",
+      "dutch": "Blauw",
+      "chinese": "蓝色",
+      "chineseTraditional": "藍色",
+      "japanese": "ブルー",
+      "korean": "블루",
+      "russian": "Синий",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -247,7 +278,28 @@
     "clothGroupId": 1183,
     "internalId": 12129,
     "uniqueEntryId": "zRnkH9B3rYNMLpiTP",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 12129,
+      "id": 12129,
+      "clothName": "DAL sunglasses",
+      "english": "Yellow",
+      "englishEurope": "Yellow",
+      "german": "Gelb",
+      "spanish": "Amarillo",
+      "spanishUs": "Amarillo",
+      "french": "Jaune",
+      "frenchUs": "Jaune",
+      "italian": "Giallo",
+      "dutch": "Geel",
+      "chinese": "黄色",
+      "chineseTraditional": "黃色",
+      "japanese": "イエロー",
+      "korean": "옐로",
+      "russian": "Желтый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -344,7 +396,28 @@
     "clothGroupId": 614,
     "internalId": 5182,
     "uniqueEntryId": "Hkcb2b5RCvgcXrHvc",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 5182,
+      "id": 5182,
+      "clothName": "HMD",
+      "english": "White",
+      "englishEurope": "White",
+      "german": "Weiß",
+      "spanish": "Blanco",
+      "spanishUs": "Blanco",
+      "french": "Blanc",
+      "frenchUs": "Blanc",
+      "italian": "Bianco",
+      "dutch": "Wit",
+      "chinese": "白色",
+      "chineseTraditional": "白色",
+      "japanese": "ホワイト",
+      "korean": "화이트",
+      "russian": "Белый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -374,7 +447,7 @@
       "version": "1.0.0",
       "english": "HMD",
       "englishEurope": "HMD",
-      "german": "Cyberhelmes",
+      "german": "Cyberhelm",
       "spanish": "visor 3D",
       "spanishUs": "visor 3D",
       "french": "visiocasque",
@@ -550,7 +623,28 @@
         "clothGroupId": 1137,
         "internalId": 11776,
         "uniqueEntryId": "Pk4syNKBscFTBD2mP",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11776,
+          "id": 11776,
+          "clothName": "Labelle sunglasses",
+          "english": "Midnight",
+          "englishEurope": "Midnight",
+          "german": "Mitternacht",
+          "spanish": "Medianoche",
+          "spanishUs": "Medianoche",
+          "french": "Ténèbres",
+          "frenchUs": "Ténèbres",
+          "italian": "Tenebre",
+          "dutch": "Inkt",
+          "chinese": "午夜",
+          "chineseTraditional": "午夜",
+          "japanese": "ミッドナイト",
+          "korean": "미드나이트",
+          "russian": "Полночь",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Black", "Black" ]
       },
       {
@@ -563,7 +657,28 @@
         "clothGroupId": 1137,
         "internalId": 11777,
         "uniqueEntryId": "TJqYcpQKFaPX6naSj",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11777,
+          "id": 11777,
+          "clothName": "Labelle sunglasses",
+          "english": "Passion",
+          "englishEurope": "Passion",
+          "german": "Leidenschaft",
+          "spanish": "Pasión",
+          "spanishUs": "Pasión",
+          "french": "Passion",
+          "frenchUs": "Passion",
+          "italian": "Passione",
+          "dutch": "Vuur & Vlam",
+          "chinese": "热情",
+          "chineseTraditional": "熱情",
+          "japanese": "パッション",
+          "korean": "바이올렛",
+          "russian": "Темперамент",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Red", "Red" ]
       },
       {
@@ -576,7 +691,28 @@
         "clothGroupId": 1137,
         "internalId": 11780,
         "uniqueEntryId": "WHaB5ZbzSPteM5KxG",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11780,
+          "id": 11780,
+          "clothName": "Labelle sunglasses",
+          "english": "Love",
+          "englishEurope": "Love",
+          "german": "Romantik",
+          "spanish": "Amor",
+          "spanishUs": "Amor",
+          "french": "Romance",
+          "frenchUs": "Romance",
+          "italian": "Romanticismo",
+          "dutch": "Roze Bril",
+          "chinese": "爱",
+          "chineseTraditional": "愛",
+          "japanese": "ラブ",
+          "korean": "러브",
+          "russian": "Любовь",
+          "plural": false,
+          "internalIds": [ "Love" ]
+        },
         "colors": [ "Pink", "Pink" ]
       },
       {
@@ -589,7 +725,28 @@
         "clothGroupId": 1137,
         "internalId": 11779,
         "uniqueEntryId": "Km6htuKWbDhQx5v2o",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11779,
+          "id": 11779,
+          "clothName": "Labelle sunglasses",
+          "english": "Sunset",
+          "englishEurope": "Sunset",
+          "german": "Sonnenuntergang",
+          "spanish": "Puesta de sol",
+          "spanishUs": "Puesta de sol",
+          "french": "Soleil couchant",
+          "frenchUs": "Soleil couchant",
+          "italian": "Girasole",
+          "dutch": "Klatergoud",
+          "chinese": "日落",
+          "chineseTraditional": "日落",
+          "japanese": "サンセット",
+          "korean": "선셋",
+          "russian": "Закат",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Yellow", "Yellow" ]
       },
       {
@@ -602,7 +759,28 @@
         "clothGroupId": 1137,
         "internalId": 11778,
         "uniqueEntryId": "yWuQ9CtGKLaG7ntW9",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11778,
+          "id": 11778,
+          "clothName": "Labelle sunglasses",
+          "english": "Ocean",
+          "englishEurope": "Ocean",
+          "german": "Ozean",
+          "spanish": "Océano",
+          "spanishUs": "Océano",
+          "french": "Océan",
+          "frenchUs": "Océan",
+          "italian": "Oceano",
+          "dutch": "7e Hemel",
+          "chinese": "海洋",
+          "chineseTraditional": "海洋",
+          "japanese": "オーシャン",
+          "korean": "오션",
+          "russian": "Океан",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Blue", "Blue" ]
       },
       {
@@ -615,7 +793,28 @@
         "clothGroupId": 1137,
         "internalId": 9887,
         "uniqueEntryId": "2B4ttG2NJS7ZKRimP",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 9887,
+          "id": 9887,
+          "clothName": "Labelle sunglasses",
+          "english": "Twilight",
+          "englishEurope": "Twilight",
+          "german": "Dämmerung",
+          "spanish": "Crepúsculo",
+          "spanishUs": "Crepúsculo",
+          "french": "Crépuscule",
+          "frenchUs": "Crépuscule",
+          "italian": "Crepuscolo",
+          "dutch": "As",
+          "chinese": "黎明",
+          "chineseTraditional": "曙光",
+          "japanese": "トワイライト",
+          "korean": "트와일라잇",
+          "russian": "Сумерки",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Purple", "Purple" ]
       }
     ],
@@ -649,7 +848,28 @@
     "clothGroupId": 1148,
     "internalId": 9654,
     "uniqueEntryId": "n8j5gx4zjuK7tkYKq",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 9654,
+      "id": 9654,
+      "clothName": "Nook Inc. eye mask",
+      "english": "Green",
+      "englishEurope": "Green",
+      "german": "Grün",
+      "spanish": "Verde",
+      "spanishUs": "Verde",
+      "french": "Vert",
+      "frenchUs": "Vert",
+      "italian": "Verde",
+      "dutch": "Groen",
+      "chinese": "绿色",
+      "chineseTraditional": "綠色",
+      "japanese": "グリーン",
+      "korean": "그린",
+      "russian": "Зеленый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -725,7 +945,28 @@
     "clothGroupId": 1300,
     "internalId": 13215,
     "uniqueEntryId": "cg2tZnttCZ9Wj3k9S",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 13215,
+      "id": 13215,
+      "clothName": "Nook Inc. snorkel",
+      "english": "Green",
+      "englishEurope": "Green",
+      "german": "Grün",
+      "spanish": "Verde",
+      "spanishUs": "Verde",
+      "french": "Vert",
+      "frenchUs": "Vert",
+      "italian": "Verde",
+      "dutch": "Groen",
+      "chinese": "绿色",
+      "chineseTraditional": "綠色",
+      "japanese": "グリーン",
+      "korean": "그린",
+      "russian": "Зеленый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -864,7 +1105,28 @@
     "clothGroupId": 503,
     "internalId": 4677,
     "uniqueEntryId": "2qFT5iPkk8bREvpkj",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4677,
+      "id": 4677,
+      "clothName": "bandage",
+      "english": "Beige",
+      "englishEurope": "Beige",
+      "german": "Beige",
+      "spanish": "Beis",
+      "spanishUs": "Beige",
+      "french": "Beige",
+      "frenchUs": "Beige",
+      "italian": "Beige",
+      "dutch": "Beige",
+      "chinese": "米色",
+      "chineseTraditional": "米色",
+      "japanese": "ベージュ",
+      "korean": "베이지",
+      "russian": "Бежевый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -936,7 +1198,7 @@
       "version": "1.0.0",
       "english": "bandage",
       "englishEurope": "bandage",
-      "german": "Pflasters",
+      "german": "Pflaster",
       "spanish": "par de tiritas",
       "spanishUs": "par de curitas",
       "french": "lot de pansements",
@@ -982,7 +1244,28 @@
     "clothGroupId": 184,
     "internalId": 3549,
     "uniqueEntryId": "T5CpsJi4xBSachNL5",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 3549,
+      "id": 3549,
+      "clothName": "beak",
+      "english": "Yellow",
+      "englishEurope": "Yellow",
+      "german": "Gelb",
+      "spanish": "Amarillo",
+      "spanishUs": "Amarillo",
+      "french": "Jaune",
+      "frenchUs": "Jaune",
+      "italian": "Giallo",
+      "dutch": "Geel",
+      "chinese": "黄色",
+      "chineseTraditional": "黃色",
+      "japanese": "イエロー",
+      "korean": "옐로",
+      "russian": "Желтый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -1054,7 +1337,7 @@
       "version": "1.0.0",
       "english": "beak",
       "englishEurope": "beak",
-      "german": "Schnabels",
+      "german": "Schnabel",
       "spanish": "pico",
       "spanishUs": "pico",
       "french": "bec",
@@ -1147,6 +1430,10 @@
         "internalId": 11218,
         "uniqueEntryId": "ojXoAAj8Bs2XgRiWB",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11218,
+          "id": 11218,
+          "clothName": "birthday shades",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -1161,7 +1448,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Pink" ]
       },
@@ -1176,6 +1464,10 @@
         "internalId": 11217,
         "uniqueEntryId": "g3MPcmAKM4z5h8KYX",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11217,
+          "id": 11217,
+          "clothName": "birthday shades",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -1190,7 +1482,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -1205,6 +1498,10 @@
         "internalId": 4510,
         "uniqueEntryId": "S6CiB9ZvzBTMhEnDz",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4510,
+          "id": 4510,
+          "clothName": "birthday shades",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -1219,7 +1516,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Red" ]
       },
@@ -1234,6 +1532,10 @@
         "internalId": 11219,
         "uniqueEntryId": "Yr9mRJaZM44554oTS",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11219,
+          "id": 11219,
+          "clothName": "birthday shades",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -1248,7 +1550,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Green" ]
       }
@@ -1372,21 +1675,26 @@
         "internalId": 11086,
         "uniqueEntryId": "eT6KLntq43nCGFvB9",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11086,
+          "id": 11086,
+          "clothName": "bottom-rimmed glasses",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -1401,6 +1709,10 @@
         "internalId": 4597,
         "uniqueEntryId": "ZHqtvcoqqDpJLf9Pc",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4597,
+          "id": 4597,
+          "clothName": "bottom-rimmed glasses",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -1415,7 +1727,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Red" ]
       },
@@ -1430,6 +1743,10 @@
         "internalId": 11085,
         "uniqueEntryId": "zpzD4NjApEyazKyKt",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11085,
+          "id": 11085,
+          "clothName": "bottom-rimmed glasses",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -1444,7 +1761,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -1459,6 +1777,10 @@
         "internalId": 11084,
         "uniqueEntryId": "w7bEbAGSQTvur6D6f",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11084,
+          "id": 11084,
+          "clothName": "bottom-rimmed glasses",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -1473,7 +1795,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -1488,6 +1811,10 @@
         "internalId": 11082,
         "uniqueEntryId": "EtxJZDCgnqjWkETqK",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11082,
+          "id": 11082,
+          "clothName": "bottom-rimmed glasses",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -1502,7 +1829,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Green" ]
       },
@@ -1517,6 +1845,10 @@
         "internalId": 11083,
         "uniqueEntryId": "LEbiXtkHoiEMEtjWK",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11083,
+          "id": 11083,
+          "clothName": "bottom-rimmed glasses",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -1531,7 +1863,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -1546,6 +1879,10 @@
         "internalId": 11081,
         "uniqueEntryId": "akRhFD3qeJEPM7WiD",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11081,
+          "id": 11081,
+          "clothName": "bottom-rimmed glasses",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -1560,7 +1897,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -1663,6 +2001,10 @@
         "internalId": 11071,
         "uniqueEntryId": "R9rDoMEzPcBw75hLE",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11071,
+          "id": 11071,
+          "clothName": "browline glasses",
           "english": "Gray",
           "englishEurope": "Gray",
           "german": "Grau",
@@ -1677,7 +2019,8 @@
           "japanese": "グレー",
           "korean": "그레이",
           "russian": "Серый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Gray", "Yellow" ]
       },
@@ -1692,21 +2035,26 @@
         "internalId": 4238,
         "uniqueEntryId": "gHxascFKEJNrLCtD9",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4238,
+          "id": 4238,
+          "clothName": "browline glasses",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Yellow" ]
       },
@@ -1721,6 +2069,10 @@
         "internalId": 11070,
         "uniqueEntryId": "f6h8aqEufzizYBWiH",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11070,
+          "id": 11070,
+          "clothName": "browline glasses",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -1735,7 +2087,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Gray" ]
       },
@@ -1750,6 +2103,10 @@
         "internalId": 11069,
         "uniqueEntryId": "9iqmzMJiAeQMBN3pk",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11069,
+          "id": 11069,
+          "clothName": "browline glasses",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -1764,7 +2121,8 @@
           "japanese": "ブラウン",
           "korean": "브라운",
           "russian": "Коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Yellow" ]
       }
@@ -1846,6 +2204,10 @@
         "internalId": 11030,
         "uniqueEntryId": "r9N2a2TYhvXBKiihn",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11030,
+          "id": 11030,
+          "clothName": "bubblegum",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -1860,7 +2222,8 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "White" ]
       },
@@ -1875,6 +2238,10 @@
         "internalId": 5738,
         "uniqueEntryId": "4SLmXuCkS4eBjPbLn",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 5738,
+          "id": 5738,
+          "clothName": "bubblegum",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -1889,7 +2256,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -1904,6 +2272,10 @@
         "internalId": 11028,
         "uniqueEntryId": "79zoWzHvMBJYcwuAy",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11028,
+          "id": 11028,
+          "clothName": "bubblegum",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -1918,7 +2290,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -1933,6 +2306,10 @@
         "internalId": 11029,
         "uniqueEntryId": "F3PoMop5MGyaxtKjZ",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11029,
+          "id": 11029,
+          "clothName": "bubblegum",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -1947,7 +2324,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Green" ]
       },
@@ -1962,6 +2340,10 @@
         "internalId": 11027,
         "uniqueEntryId": "9wWYKTtMdo9pWqfsM",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11027,
+          "id": 11027,
+          "clothName": "bubblegum",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -1976,7 +2358,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Light blue" ]
       }
@@ -2100,6 +2483,10 @@
         "internalId": 11024,
         "uniqueEntryId": "ci8RKqDmqS5wD3W5k",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11024,
+          "id": 11024,
+          "clothName": "bunny nose",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -2114,7 +2501,8 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "Red" ]
       },
@@ -2129,6 +2517,10 @@
         "internalId": 4600,
         "uniqueEntryId": "bxWYgcp2YKCdKe8Cr",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4600,
+          "id": 4600,
+          "clothName": "bunny nose",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -2143,7 +2535,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -2158,6 +2551,10 @@
         "internalId": 11023,
         "uniqueEntryId": "y6Dp62aNQn5ixvkwf",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11023,
+          "id": 11023,
+          "clothName": "bunny nose",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -2172,7 +2569,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Orange" ]
       }
@@ -2254,6 +2652,10 @@
         "internalId": 4608,
         "uniqueEntryId": "WjbaLp9JbBGYRrb6K",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4608,
+          "id": 4608,
+          "clothName": "butterfly shades",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -2268,7 +2670,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Blue" ]
       },
@@ -2283,6 +2686,10 @@
         "internalId": 11503,
         "uniqueEntryId": "AZrrNvHghPTHobKL4",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11503,
+          "id": 11503,
+          "clothName": "butterfly shades",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -2297,7 +2704,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Brown" ]
       },
@@ -2312,6 +2720,10 @@
         "internalId": 11504,
         "uniqueEntryId": "rz3Pgs5XGNiQFa3t4",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11504,
+          "id": 11504,
+          "clothName": "butterfly shades",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -2326,7 +2738,8 @@
           "japanese": "ブラウン",
           "korean": "브라운",
           "russian": "Коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -2450,6 +2863,10 @@
         "internalId": 11169,
         "uniqueEntryId": "xyQdqFuAkXkNs9qQ5",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11169,
+          "id": 11169,
+          "clothName": "candy-skull mask",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -2464,7 +2881,8 @@
           "japanese": "オレンジ",
           "korean": "오렌지",
           "russian": "Оранжевый",
-          "plural": false
+          "plural": false,
+          "internalIds": [ 2214 ]
         },
         "colors": [ "White", "Orange" ]
       },
@@ -2479,6 +2897,10 @@
         "internalId": 11170,
         "uniqueEntryId": "fev4af8sNdggceyW9",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11170,
+          "id": 11170,
+          "clothName": "candy-skull mask",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -2493,7 +2915,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "Light blue" ]
       },
@@ -2508,6 +2931,10 @@
         "internalId": 5666,
         "uniqueEntryId": "GT3LzQZKg29riohcP",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 5666,
+          "id": 5666,
+          "clothName": "candy-skull mask",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -2522,7 +2949,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "Purple" ]
       }
@@ -2646,6 +3074,10 @@
         "internalId": 4483,
         "uniqueEntryId": "45Muns9ig4dqrsFF7",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4483,
+          "id": 4483,
+          "clothName": "cat nose",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -2660,7 +3092,8 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "Pink" ]
       },
@@ -2675,6 +3108,10 @@
         "internalId": 11022,
         "uniqueEntryId": "ywdWXRcwKJNMMxDyj",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11022,
+          "id": 11022,
+          "clothName": "cat nose",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
           "german": "Marineblau",
@@ -2689,7 +3126,8 @@
           "japanese": "ネイビー",
           "korean": "네이비",
           "russian": "Черно-синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Black" ]
       },
@@ -2704,6 +3142,10 @@
         "internalId": 11021,
         "uniqueEntryId": "CXDCEFzBdv8DwkCyM",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11021,
+          "id": 11021,
+          "clothName": "cat nose",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -2718,7 +3160,8 @@
           "japanese": "ブラウン",
           "korean": "브라운",
           "russian": "Коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Beige" ]
       }
@@ -2753,7 +3196,28 @@
     "clothGroupId": 405,
     "internalId": 4491,
     "uniqueEntryId": "MhbCBrYX5fHxZWDuA",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4491,
+      "id": 4491,
+      "clothName": "cucumber pack",
+      "english": "Green",
+      "englishEurope": "Green",
+      "german": "Grün",
+      "spanish": "Verde",
+      "spanishUs": "Verde",
+      "french": "Vert",
+      "frenchUs": "Vert",
+      "italian": "Verde",
+      "dutch": "Groen",
+      "chinese": "绿色",
+      "chineseTraditional": "綠色",
+      "japanese": "グリーン",
+      "korean": "그린",
+      "russian": "Зеленый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -2829,7 +3293,28 @@
     "clothGroupId": 498,
     "internalId": 4672,
     "uniqueEntryId": "9tyCrNPeibcu5NLo8",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4672,
+      "id": 4672,
+      "clothName": "curly mustache",
+      "english": "Hair Color",
+      "englishEurope": "Hair Color",
+      "german": "Haarfarbe",
+      "spanish": "Color del pelo",
+      "spanishUs": "Color del pelo",
+      "french": "Couleur de cheveux",
+      "frenchUs": "Couleur de cheveux",
+      "italian": "Colore dei capelli",
+      "dutch": "Haarkleur",
+      "chinese": "发色",
+      "chineseTraditional": "頭髮顏色",
+      "japanese": "ヘアカラー",
+      "korean": "헤어 컬러",
+      "russian": "Цвет волос",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -2901,7 +3386,7 @@
       "version": "1.0.0",
       "english": "curly mustache",
       "englishEurope": "curly mustache",
-      "german": "Schnauzbarts",
+      "german": "Schnauzbart",
       "spanish": "bigote de artista",
       "spanishUs": "bigote de artista",
       "french": "moustache élégante",
@@ -3015,6 +3500,10 @@
         "internalId": 11499,
         "uniqueEntryId": "AKakpCweRnd5hAsRB",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11499,
+          "id": 11499,
+          "clothName": "cyber shades",
           "english": "Silver",
           "englishEurope": "Silver",
           "german": "Silber",
@@ -3029,7 +3518,8 @@
           "japanese": "シルバー",
           "korean": "실버",
           "russian": "Серебряный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -3044,21 +3534,26 @@
         "internalId": 11498,
         "uniqueEntryId": "67BAc4y8aADafp9Xk",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11498,
+          "id": 11498,
+          "clothName": "cyber shades",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -3073,6 +3568,10 @@
         "internalId": 4552,
         "uniqueEntryId": "3YPuxxPLkzwwNQMQd",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4552,
+          "id": 4552,
+          "clothName": "cyber shades",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -3087,7 +3586,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Black" ]
       },
@@ -3102,6 +3602,10 @@
         "internalId": 11502,
         "uniqueEntryId": "5pk9ZMDGsEzLqp24L",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11502,
+          "id": 11502,
+          "clothName": "cyber shades",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -3116,7 +3620,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -3131,6 +3636,10 @@
         "internalId": 11501,
         "uniqueEntryId": "9izTCDGHSpqWrQp6T",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11501,
+          "id": 11501,
+          "clothName": "cyber shades",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -3145,7 +3654,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Black" ]
       },
@@ -3160,6 +3670,10 @@
         "internalId": 11500,
         "uniqueEntryId": "y2svNHScnr8cNZe86",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11500,
+          "id": 11500,
+          "clothName": "cyber shades",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -3174,7 +3688,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Black" ]
       }
@@ -3209,7 +3724,28 @@
     "clothGroupId": 375,
     "internalId": 4451,
     "uniqueEntryId": "vZDsrDRdgrbbiwi8N",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4451,
+      "id": 4451,
+      "clothName": "doctor's mask",
+      "english": "White",
+      "englishEurope": "White",
+      "german": "Weiß",
+      "spanish": "Blanco",
+      "spanishUs": "Blanco",
+      "french": "Blanc",
+      "frenchUs": "Blanc",
+      "italian": "Bianco",
+      "dutch": "Wit",
+      "chinese": "白色",
+      "chineseTraditional": "白色",
+      "japanese": "ホワイト",
+      "korean": "화이트",
+      "russian": "Белый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -3281,7 +3817,7 @@
       "version": "1.0.0",
       "english": "doctor's mask",
       "englishEurope": "doctor's mask",
-      "german": "Mundschutzes",
+      "german": "Mundschutz",
       "spanish": "mascarilla quirúrgica",
       "spanishUs": "máscara cirujano",
       "french": "masque chirurgical",
@@ -3416,6 +3952,10 @@
         "internalId": 5244,
         "uniqueEntryId": "moGRcnkQihHbN89Kc",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 5244,
+          "id": 5244,
+          "clothName": "dog nose",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -3430,7 +3970,8 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "Black" ]
       },
@@ -3445,21 +3986,26 @@
         "internalId": 11026,
         "uniqueEntryId": "9JGbmWtDA3rmjf8Kc",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11026,
+          "id": 11026,
+          "clothName": "dog nose",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -3474,6 +4020,10 @@
         "internalId": 11025,
         "uniqueEntryId": "zCQqXy8HLE7rDfrQf",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11025,
+          "id": 11025,
+          "clothName": "dog nose",
           "english": "Beige",
           "englishEurope": "Beige",
           "german": "Beige",
@@ -3488,7 +4038,8 @@
           "japanese": "ベージュ",
           "korean": "베이지",
           "russian": "Бежевый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Orange", "Black" ]
       }
@@ -3612,6 +4163,10 @@
         "internalId": 11077,
         "uniqueEntryId": "CLPEzZqr3vut85Ja4",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11077,
+          "id": 11077,
+          "clothName": "double-bridge glasses",
           "english": "Silver",
           "englishEurope": "Silver",
           "german": "Silber",
@@ -3626,7 +4181,8 @@
           "japanese": "シルバー",
           "korean": "실버",
           "russian": "Серебряный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -3641,6 +4197,10 @@
         "internalId": 4263,
         "uniqueEntryId": "8QCnzjXY8KEyqf7Wa",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4263,
+          "id": 4263,
+          "clothName": "double-bridge glasses",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -3655,7 +4215,8 @@
           "japanese": "ゴールド",
           "korean": "골드",
           "russian": "Золотой",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -3670,6 +4231,10 @@
         "internalId": 11078,
         "uniqueEntryId": "fD5pteAQtC8CMhq2v",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11078,
+          "id": 11078,
+          "clothName": "double-bridge glasses",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -3684,7 +4249,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -3699,6 +4265,10 @@
         "internalId": 11076,
         "uniqueEntryId": "guPGRuhMyqdWYKh8d",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11076,
+          "id": 11076,
+          "clothName": "double-bridge glasses",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -3713,7 +4283,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -3837,6 +4408,10 @@
         "internalId": 11012,
         "uniqueEntryId": "bQ67Xe7cQZ4PcXnNe",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11012,
+          "id": 11012,
+          "clothName": "drinking-straw glasses",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -3851,7 +4426,8 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "White" ]
       },
@@ -3866,6 +4442,10 @@
         "internalId": 11011,
         "uniqueEntryId": "b4G7SFYMTs5YWJ4i5",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11011,
+          "id": 11011,
+          "clothName": "drinking-straw glasses",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -3880,7 +4460,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -3895,6 +4476,10 @@
         "internalId": 5773,
         "uniqueEntryId": "hMiEGoaE2jYb6kY4e",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 5773,
+          "id": 5773,
+          "clothName": "drinking-straw glasses",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -3909,7 +4494,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Green" ]
       },
@@ -3924,6 +4510,10 @@
         "internalId": 11010,
         "uniqueEntryId": "DNij9RhiMW39MtKWF",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11010,
+          "id": 11010,
+          "clothName": "drinking-straw glasses",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -3938,7 +4528,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Light blue" ]
       }
@@ -4020,6 +4611,10 @@
         "internalId": 11155,
         "uniqueEntryId": "FFAmL82w7xmtQyj49",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11155,
+          "id": 11155,
+          "clothName": "eye mask",
           "english": "Gray",
           "englishEurope": "Gray",
           "german": "Grau",
@@ -4034,7 +4629,8 @@
           "japanese": "グレー",
           "korean": "그레이",
           "russian": "Серый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -4049,6 +4645,10 @@
         "internalId": 11158,
         "uniqueEntryId": "DN9e9e3kPAvftJL7X",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11158,
+          "id": 11158,
+          "clothName": "eye mask",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -4063,7 +4663,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Black" ]
       },
@@ -4078,6 +4679,10 @@
         "internalId": 11154,
         "uniqueEntryId": "Ck7jeovxpJEQa9BXB",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11154,
+          "id": 11154,
+          "clothName": "eye mask",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -4092,7 +4697,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -4107,6 +4713,10 @@
         "internalId": 11157,
         "uniqueEntryId": "Gy2FEnpkD9KrRshtd",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11157,
+          "id": 11157,
+          "clothName": "eye mask",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -4121,7 +4731,8 @@
           "japanese": "オレンジ",
           "korean": "오렌지",
           "russian": "Оранжевый",
-          "plural": false
+          "plural": false,
+          "internalIds": [ 2214 ]
         },
         "colors": [ "Orange", "Black" ]
       },
@@ -4136,6 +4747,10 @@
         "internalId": 11156,
         "uniqueEntryId": "csWKsYtw2k9ADBQpT",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11156,
+          "id": 11156,
+          "clothName": "eye mask",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -4150,7 +4765,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Black" ]
       },
@@ -4165,6 +4781,10 @@
         "internalId": 4425,
         "uniqueEntryId": "68oXMszxbRtGoe9tH",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4425,
+          "id": 4425,
+          "clothName": "eye mask",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -4179,7 +4799,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Black" ]
       }
@@ -4214,7 +4835,28 @@
     "clothGroupId": 380,
     "internalId": 4457,
     "uniqueEntryId": "iZoTNGb8htGE8JWEw",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4457,
+      "id": 4457,
+      "clothName": "eye patch",
+      "english": "Black",
+      "englishEurope": "Black",
+      "german": "Schwarz",
+      "spanish": "Negro",
+      "spanishUs": "Negro",
+      "french": "Noir",
+      "frenchUs": "Noir",
+      "italian": "Nero",
+      "dutch": "Zwart",
+      "chinese": "黑色",
+      "chineseTraditional": "黑色",
+      "japanese": "ブラック",
+      "korean": "블랙",
+      "russian": "Черный",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -4311,7 +4953,28 @@
     "clothGroupId": 417,
     "internalId": 4512,
     "uniqueEntryId": "KzBY9kLtwTHhHGzR3",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4512,
+      "id": 4512,
+      "clothName": "facial mask",
+      "english": "White",
+      "englishEurope": "White",
+      "german": "Weiß",
+      "spanish": "Blanco",
+      "spanishUs": "Blanco",
+      "french": "Blanc",
+      "frenchUs": "Blanc",
+      "italian": "Bianco",
+      "dutch": "Wit",
+      "chinese": "白色",
+      "chineseTraditional": "白色",
+      "japanese": "ホワイト",
+      "korean": "화이트",
+      "russian": "Белый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -4408,7 +5071,28 @@
     "clothGroupId": 407,
     "internalId": 4496,
     "uniqueEntryId": "chP2wAyDtdSTS3XrF",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4496,
+      "id": 4496,
+      "clothName": "fake nose",
+      "english": "Red",
+      "englishEurope": "Red",
+      "german": "Rot",
+      "spanish": "Rojo",
+      "spanishUs": "Rojo",
+      "french": "Rouge",
+      "frenchUs": "Rouge",
+      "italian": "Rosso",
+      "dutch": "Rood",
+      "chinese": "红色",
+      "chineseTraditional": "紅色",
+      "japanese": "レッド",
+      "korean": "레드",
+      "russian": "Красный",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -4594,6 +5278,10 @@
         "internalId": 5739,
         "uniqueEntryId": "iJsQqLTdb4gcPwekJ",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 5739,
+          "id": 5739,
+          "clothName": "flower sunglasses",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -4608,7 +5296,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Black" ]
       },
@@ -4623,6 +5312,10 @@
         "internalId": 11228,
         "uniqueEntryId": "6TygyrRpgFEJRtYAD",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11228,
+          "id": 11228,
+          "clothName": "flower sunglasses",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -4637,7 +5330,8 @@
           "japanese": "オレンジ",
           "korean": "오렌지",
           "russian": "Оранжевый",
-          "plural": false
+          "plural": false,
+          "internalIds": [ 2214 ]
         },
         "colors": [ "Orange", "Black" ]
       },
@@ -4652,6 +5346,10 @@
         "internalId": 11231,
         "uniqueEntryId": "vnNLfafLRpv9vrESq",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11231,
+          "id": 11231,
+          "clothName": "flower sunglasses",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -4666,7 +5364,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Black" ]
       },
@@ -4681,6 +5380,10 @@
         "internalId": 11229,
         "uniqueEntryId": "g4jdQJuTAwEgGWsyH",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11229,
+          "id": 11229,
+          "clothName": "flower sunglasses",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -4695,7 +5398,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Black" ]
       },
@@ -4710,6 +5414,10 @@
         "internalId": 11230,
         "uniqueEntryId": "hN8mRmSqAqfBBXqsK",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11230,
+          "id": 11230,
+          "clothName": "flower sunglasses",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -4724,7 +5432,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Black" ]
       }
@@ -4759,7 +5468,28 @@
     "clothGroupId": 904,
     "internalId": 5857,
     "uniqueEntryId": "ErTpS7LHoG7hZ4bvn",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 5857,
+      "id": 5857,
+      "clothName": "food mess",
+      "english": "Pasta",
+      "englishEurope": "Pasta",
+      "german": "Pasta",
+      "spanish": "Pasta",
+      "spanishUs": "Pasta",
+      "french": "Pâtes",
+      "frenchUs": "Pâtes",
+      "italian": "Pasta",
+      "dutch": "Pasta",
+      "chinese": "意大利面",
+      "chineseTraditional": "義大利麵",
+      "japanese": "パスタ",
+      "korean": "파스타",
+      "russian": "Макароны",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -4789,7 +5519,7 @@
       "version": "1.0.0",
       "english": "food mess",
       "englishEurope": "food mess",
-      "german": "Essensrests",
+      "german": "Essensrest",
       "spanish": "resto de pasta",
       "spanishUs": "resto de pasta",
       "french": "vestige de repas",
@@ -4924,6 +5654,10 @@
         "internalId": 11008,
         "uniqueEntryId": "4ASpkj55QiocnNkZ2",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11008,
+          "id": 11008,
+          "clothName": "funny glasses",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -4938,7 +5672,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -4953,6 +5688,10 @@
         "internalId": 11009,
         "uniqueEntryId": "dio9gmQCebNSjSX89",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11009,
+          "id": 11009,
+          "clothName": "funny glasses",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -4967,7 +5706,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Black" ]
       },
@@ -4982,6 +5722,10 @@
         "internalId": 4513,
         "uniqueEntryId": "nvgwq4bKZzDoiTQzw",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4513,
+          "id": 4513,
+          "clothName": "funny glasses",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -4996,7 +5740,8 @@
           "japanese": "ブラウン",
           "korean": "브라운",
           "russian": "Коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Black" ]
       }
@@ -5099,21 +5844,26 @@
         "internalId": 4649,
         "uniqueEntryId": "cuqWQPfsbkmXz5DuB",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4649,
+          "id": 4649,
+          "clothName": "gas mask",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -5128,6 +5878,10 @@
         "internalId": 11160,
         "uniqueEntryId": "9K9ea2sRHMsPmcX6d",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11160,
+          "id": 11160,
+          "clothName": "gas mask",
           "english": "Avocado",
           "englishEurope": "Avocado",
           "german": "Avocado",
@@ -5142,7 +5896,8 @@
           "japanese": "カーキ",
           "korean": "카키",
           "russian": "Защитный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Green" ]
       }
@@ -5177,7 +5932,28 @@
     "clothGroupId": 286,
     "internalId": 4282,
     "uniqueEntryId": "JFtffcGH7WnPnJKtc",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4282,
+      "id": 4282,
+      "clothName": "glass-bottle glasses",
+      "english": "Black",
+      "englishEurope": "Black",
+      "german": "Schwarz",
+      "spanish": "Negro",
+      "spanishUs": "Negro",
+      "french": "Noir",
+      "frenchUs": "Noir",
+      "italian": "Nero",
+      "dutch": "Zwart",
+      "chinese": "黑色",
+      "chineseTraditional": "黑色",
+      "japanese": "ブラック",
+      "korean": "블랙",
+      "russian": "Черный",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -5274,7 +6050,28 @@
     "clothGroupId": 502,
     "internalId": 4676,
     "uniqueEntryId": "W5S7BC9qA4QMCQEFR",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4676,
+      "id": 4676,
+      "clothName": "goatee",
+      "english": "Hair Color",
+      "englishEurope": "Hair Color",
+      "german": "Haarfarbe",
+      "spanish": "Color del pelo",
+      "spanishUs": "Color del pelo",
+      "french": "Couleur de cheveux",
+      "frenchUs": "Couleur de cheveux",
+      "italian": "Colore dei capelli",
+      "dutch": "Haarkleur",
+      "chinese": "发色",
+      "chineseTraditional": "頭髮顏色",
+      "japanese": "ヘアカラー",
+      "korean": "헤어 컬러",
+      "russian": "Цвет волос",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -5346,7 +6143,7 @@
       "version": "1.0.0",
       "english": "goatee",
       "englishEurope": "goatee",
-      "german": "Ziegenbarts",
+      "german": "Ziegenbart",
       "spanish": "perilla",
       "spanishUs": "barba de chivo",
       "french": "barbiche",
@@ -5481,21 +6278,26 @@
         "internalId": 4454,
         "uniqueEntryId": "3YkDq5TZm3jE8nBL9",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4454,
+          "id": 4454,
+          "clothName": "goggles",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -5510,6 +6312,10 @@
         "internalId": 11488,
         "uniqueEntryId": "P8X4Rnuc6WjHTrbkz",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11488,
+          "id": 11488,
+          "clothName": "goggles",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -5524,7 +6330,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Red" ]
       },
@@ -5539,6 +6346,10 @@
         "internalId": 11485,
         "uniqueEntryId": "49s9b7jcrE8uaFEdR",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11485,
+          "id": 11485,
+          "clothName": "goggles",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -5553,7 +6364,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -5568,6 +6380,10 @@
         "internalId": 11486,
         "uniqueEntryId": "sDjZobRoupcETEKeH",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11486,
+          "id": 11486,
+          "clothName": "goggles",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -5582,7 +6398,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Green" ]
       },
@@ -5597,6 +6414,10 @@
         "internalId": 11484,
         "uniqueEntryId": "gozwdhewwK4PmPGFQ",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11484,
+          "id": 11484,
+          "clothName": "goggles",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -5611,7 +6432,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -5626,6 +6448,10 @@
         "internalId": 11487,
         "uniqueEntryId": "kwS6ErrZHdDNXpmbR",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11487,
+          "id": 11487,
+          "clothName": "goggles",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -5640,7 +6466,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -5675,7 +6502,28 @@
     "clothGroupId": 185,
     "internalId": 3550,
     "uniqueEntryId": "HJfvmuhPDFMN8eRB2",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 3550,
+      "id": 3550,
+      "clothName": "handlebar mustache",
+      "english": "Hair Color",
+      "englishEurope": "Hair Color",
+      "german": "Haarfarbe",
+      "spanish": "Color del pelo",
+      "spanishUs": "Color del pelo",
+      "french": "Couleur de cheveux",
+      "frenchUs": "Couleur de cheveux",
+      "italian": "Colore dei capelli",
+      "dutch": "Haarkleur",
+      "chinese": "发色",
+      "chineseTraditional": "頭髮顏色",
+      "japanese": "ヘアカラー",
+      "korean": "헤어 컬러",
+      "russian": "Цвет волос",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -5747,7 +6595,7 @@
       "version": "1.0.0",
       "english": "handlebar mustache",
       "englishEurope": "handlebar mustache",
-      "german": "Zwirbelbarts",
+      "german": "Zwirbelbart",
       "spanish": "bigote inglés",
       "spanishUs": "bigote artista",
       "french": "moustache en guidon",
@@ -5861,6 +6709,10 @@
         "internalId": 4237,
         "uniqueEntryId": "ZkwfoAxXwqiJav677",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4237,
+          "id": 4237,
+          "clothName": "heart shades",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -5875,7 +6727,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Blue" ]
       },
@@ -5890,6 +6743,10 @@
         "internalId": 11188,
         "uniqueEntryId": "jvPC7gmEHvxxgmwfA",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11188,
+          "id": 11188,
+          "clothName": "heart shades",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -5904,7 +6761,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Blue" ]
       },
@@ -5919,6 +6777,10 @@
         "internalId": 11191,
         "uniqueEntryId": "CbiyKw9gGsMfYzA4g",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11191,
+          "id": 11191,
+          "clothName": "heart shades",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -5933,7 +6795,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Blue" ]
       },
@@ -5948,6 +6811,10 @@
         "internalId": 11189,
         "uniqueEntryId": "k2fF9yEC5S3XGsXhX",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11189,
+          "id": 11189,
+          "clothName": "heart shades",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -5962,7 +6829,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Blue" ]
       },
@@ -5977,6 +6845,10 @@
         "internalId": 11190,
         "uniqueEntryId": "3fs7r8mBn9EiGmMT7",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11190,
+          "id": 11190,
+          "clothName": "heart shades",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -5991,7 +6863,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Blue" ]
       }
@@ -6157,21 +7030,26 @@
         "internalId": 4678,
         "uniqueEntryId": "5iGdajwpPAQ98B9eE",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4678,
+          "id": 4678,
+          "clothName": "jester's mask",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "White" ]
       },
@@ -6186,6 +7064,10 @@
         "internalId": 11166,
         "uniqueEntryId": "7HBtvdHttSMJiuA7W",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11166,
+          "id": 11166,
+          "clothName": "jester's mask",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -6200,7 +7082,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "White" ]
       },
@@ -6215,6 +7098,10 @@
         "internalId": 11167,
         "uniqueEntryId": "LTCnc3SoDzsffayDr",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11167,
+          "id": 11167,
+          "clothName": "jester's mask",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -6229,7 +7116,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "White" ]
       },
@@ -6244,6 +7132,10 @@
         "internalId": 11168,
         "uniqueEntryId": "Kpyk7xszcwxgdawqA",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11168,
+          "id": 11168,
+          "clothName": "jester's mask",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -6258,7 +7150,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "White" ]
       }
@@ -6361,6 +7254,10 @@
         "internalId": 4464,
         "uniqueEntryId": "DErjYKaqmFEkp7RQ3",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4464,
+          "id": 4464,
+          "clothName": "ladder shades",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -6375,7 +7272,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Red" ]
       },
@@ -6390,6 +7288,10 @@
         "internalId": 11004,
         "uniqueEntryId": "8wvE7HfG9HvK33nTW",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11004,
+          "id": 11004,
+          "clothName": "ladder shades",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -6404,7 +7306,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -6419,6 +7322,10 @@
         "internalId": 11005,
         "uniqueEntryId": "mcex6oPn8f8KotnrZ",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11005,
+          "id": 11005,
+          "clothName": "ladder shades",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -6433,7 +7340,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -6448,6 +7356,10 @@
         "internalId": 11003,
         "uniqueEntryId": "wnvu2B7z7M975uCMf",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11003,
+          "id": 11003,
+          "clothName": "ladder shades",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -6462,7 +7374,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Green" ]
       },
@@ -6477,6 +7390,10 @@
         "internalId": 11002,
         "uniqueEntryId": "kbZR8T9YaP2Pb7q6P",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11002,
+          "id": 11002,
+          "clothName": "ladder shades",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -6491,7 +7408,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -6506,6 +7424,10 @@
         "internalId": 11006,
         "uniqueEntryId": "SF89YKrjwGsa5Dp7t",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11006,
+          "id": 11006,
+          "clothName": "ladder shades",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -6520,7 +7442,8 @@
           "japanese": "ゴールド",
           "korean": "골드",
           "russian": "Золотой",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -6555,7 +7478,28 @@
     "clothGroupId": 508,
     "internalId": 4682,
     "uniqueEntryId": "XrpTjwp94FwmvXjmE",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4682,
+      "id": 4682,
+      "clothName": "leaf",
+      "english": "Green",
+      "englishEurope": "Green",
+      "german": "Grün",
+      "spanish": "Verde",
+      "spanishUs": "Verde",
+      "french": "Vert",
+      "frenchUs": "Vert",
+      "italian": "Verde",
+      "dutch": "Groen",
+      "chinese": "绿色",
+      "chineseTraditional": "綠色",
+      "japanese": "グリーン",
+      "korean": "그린",
+      "russian": "Зеленый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -6825,21 +7769,26 @@
         "internalId": 11161,
         "uniqueEntryId": "GL9igRSB2nTebNAin",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11161,
+          "id": 11161,
+          "clothName": "masquerade mask",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Yellow" ]
       },
@@ -6854,6 +7803,10 @@
         "internalId": 11163,
         "uniqueEntryId": "DknNtTo9sb2jZHDht",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11163,
+          "id": 11163,
+          "clothName": "masquerade mask",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -6868,7 +7821,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Yellow" ]
       },
@@ -6883,6 +7837,10 @@
         "internalId": 4667,
         "uniqueEntryId": "vwytnsJLdnFYZdeHR",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4667,
+          "id": 4667,
+          "clothName": "masquerade mask",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -6897,7 +7855,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Yellow" ]
       },
@@ -6912,6 +7871,10 @@
         "internalId": 11165,
         "uniqueEntryId": "nzAimcCqJg46jjNiN",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11165,
+          "id": 11165,
+          "clothName": "masquerade mask",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -6926,7 +7889,8 @@
           "japanese": "ゴールド",
           "korean": "골드",
           "russian": "Золотой",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Orange", "Yellow" ]
       },
@@ -6941,6 +7905,10 @@
         "internalId": 11164,
         "uniqueEntryId": "PEA7Y7djsLQryh4c2",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11164,
+          "id": 11164,
+          "clothName": "masquerade mask",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -6955,7 +7923,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Yellow" ]
       },
@@ -6970,6 +7939,10 @@
         "internalId": 11162,
         "uniqueEntryId": "6yKLSWNnpyXAPKJ4h",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11162,
+          "id": 11162,
+          "clothName": "masquerade mask",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -6984,7 +7957,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Yellow" ]
       }
@@ -7011,7 +7985,7 @@
       "version": "1.0.0",
       "english": "monocle",
       "englishEurope": "monocle",
-      "german": "Monokels",
+      "german": "Monokel",
       "spanish": "monóculo",
       "spanishUs": "monóculo",
       "french": "monocle",
@@ -7108,6 +8082,10 @@
         "internalId": 11001,
         "uniqueEntryId": "tXaLxYbQPqcTZWxej",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11001,
+          "id": 11001,
+          "clothName": "monocle",
           "english": "Silver",
           "englishEurope": "Silver",
           "german": "Silber",
@@ -7122,7 +8100,8 @@
           "japanese": "シルバー",
           "korean": "실버",
           "russian": "Серебряный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -7137,21 +8116,26 @@
         "internalId": 4462,
         "uniqueEntryId": "vtCepd9DjYS2H5vcb",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4462,
+          "id": 4462,
+          "clothName": "monocle",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -7166,6 +8150,10 @@
         "internalId": 11000,
         "uniqueEntryId": "ghxLRorCD3NWR5h5x",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11000,
+          "id": 11000,
+          "clothName": "monocle",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -7180,7 +8168,8 @@
           "japanese": "ゴールド",
           "korean": "골드",
           "russian": "Золотой",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Yellow" ]
       }
@@ -7215,7 +8204,28 @@
     "clothGroupId": 615,
     "internalId": 5261,
     "uniqueEntryId": "sMdtidR3zypRsgSCW",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 5261,
+      "id": 5261,
+      "clothName": "night-vision goggles",
+      "english": "Black",
+      "englishEurope": "Black",
+      "german": "Schwarz",
+      "spanish": "Negro",
+      "spanishUs": "Negro",
+      "french": "Noir",
+      "frenchUs": "Noir",
+      "italian": "Nero",
+      "dutch": "Zwart",
+      "chinese": "黑色",
+      "chineseTraditional": "黑色",
+      "japanese": "ブラック",
+      "korean": "블랙",
+      "russian": "Черный",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -7291,7 +8301,28 @@
     "clothGroupId": 899,
     "internalId": 5833,
     "uniqueEntryId": "9YbFJqBD3hmQkW4Gq",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 5833,
+      "id": 5833,
+      "clothName": "nose drip",
+      "english": "Light blue",
+      "englishEurope": "Light blue",
+      "german": "Hellblau",
+      "spanish": "Celeste",
+      "spanishUs": "Celeste",
+      "french": "Bleu clair",
+      "frenchUs": "Bleu pâle",
+      "italian": "Blu chiaro",
+      "dutch": "Lichtblauw",
+      "chinese": "浅蓝色",
+      "chineseTraditional": "淺藍色",
+      "japanese": "ライトブルー",
+      "korean": "라이트 블루",
+      "russian": "Голубой",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -7456,6 +8487,10 @@
         "internalId": 4239,
         "uniqueEntryId": "dzKG7sMGwFn7EaKjm",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4239,
+          "id": 4239,
+          "clothName": "octagonal glasses",
           "english": "Gray",
           "englishEurope": "Gray",
           "german": "Grau",
@@ -7470,7 +8505,8 @@
           "japanese": "グレー",
           "korean": "그레이",
           "russian": "Серый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -7485,21 +8521,26 @@
         "internalId": 11075,
         "uniqueEntryId": "4FT4YuTQcq3RGo3Ss",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11075,
+          "id": 11075,
+          "clothName": "octagonal glasses",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -7514,6 +8555,10 @@
         "internalId": 11072,
         "uniqueEntryId": "NME2CQfz2tMbnwLzb",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11072,
+          "id": 11072,
+          "clothName": "octagonal glasses",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -7528,7 +8573,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Green" ]
       },
@@ -7543,6 +8589,10 @@
         "internalId": 11073,
         "uniqueEntryId": "Je9RNoLocnJ5kinNQ",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11073,
+          "id": 11073,
+          "clothName": "octagonal glasses",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -7557,7 +8607,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Purple" ]
       },
@@ -7572,6 +8623,10 @@
         "internalId": 11074,
         "uniqueEntryId": "t5MJmR6fbqXwevjus",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11074,
+          "id": 11074,
+          "clothName": "octagonal glasses",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -7586,7 +8641,8 @@
           "japanese": "ゴールド",
           "korean": "골드",
           "russian": "Золотой",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Beige", "Beige" ]
       }
@@ -7689,21 +8745,26 @@
         "internalId": 11092,
         "uniqueEntryId": "uuttmaKAruqm7tiKL",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11092,
+          "id": 11092,
+          "clothName": "oval glasses",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -7718,6 +8779,10 @@
         "internalId": 11090,
         "uniqueEntryId": "QBNkZLi9jpeDYMxnQ",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11090,
+          "id": 11090,
+          "clothName": "oval glasses",
           "english": "Magenta",
           "englishEurope": "Magenta",
           "german": "Magenta",
@@ -7732,7 +8797,8 @@
           "japanese": "マゼンタ",
           "korean": "마젠타",
           "russian": "Малиновый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Red" ]
       },
@@ -7747,6 +8813,10 @@
         "internalId": 11087,
         "uniqueEntryId": "9AXkAraeTz6TgR6sJ",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11087,
+          "id": 11087,
+          "clothName": "oval glasses",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -7761,7 +8831,8 @@
           "japanese": "オレンジ",
           "korean": "오렌지",
           "russian": "Оранжевый",
-          "plural": false
+          "plural": false,
+          "internalIds": [ 2214 ]
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -7775,7 +8846,28 @@
         "clothGroupId": 475,
         "internalId": 11091,
         "uniqueEntryId": "uocqzyhP5WHmnH8dj",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11091,
+          "id": 11091,
+          "clothName": "oval glasses",
+          "english": "Mustard",
+          "englishEurope": "Mustard",
+          "german": "Senfgelb",
+          "spanish": "Mostaza",
+          "spanishUs": "Mostaza",
+          "french": "Jaune moutarde",
+          "frenchUs": "Jaune moutarde",
+          "italian": "Senape",
+          "dutch": "Mosterdgeel",
+          "chinese": "芥末黄",
+          "chineseTraditional": "芥末黃",
+          "japanese": "マスタード",
+          "korean": "머스터드",
+          "russian": "Горчичный",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Yellow", "Yellow" ]
       },
       {
@@ -7789,6 +8881,10 @@
         "internalId": 4609,
         "uniqueEntryId": "jw7KgW9epPat5Pw8W",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4609,
+          "id": 4609,
+          "clothName": "oval glasses",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -7803,7 +8899,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Green" ]
       },
@@ -7818,6 +8915,10 @@
         "internalId": 11088,
         "uniqueEntryId": "ydCsvEetGaAQ4mNs2",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11088,
+          "id": 11088,
+          "clothName": "oval glasses",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -7832,7 +8933,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Light blue" ]
       },
@@ -7847,6 +8949,10 @@
         "internalId": 11089,
         "uniqueEntryId": "9ZhHgTmKeqZ7fgcNr",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11089,
+          "id": 11089,
+          "clothName": "oval glasses",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -7861,7 +8967,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -7888,7 +8995,7 @@
       "version": "1.0.0",
       "english": "pacifier",
       "englishEurope": "pacifier",
-      "german": "Schnullers",
+      "german": "Schnuller",
       "spanish": "chupete",
       "spanishUs": "chupete",
       "french": "tétine",
@@ -7942,7 +9049,28 @@
         "clothGroupId": 1055,
         "internalId": 11017,
         "uniqueEntryId": "aWcYia7rWZ8nhXg37",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11017,
+          "id": 11017,
+          "clothName": "pacifier",
+          "english": "Baby gray",
+          "englishEurope": "Baby gray",
+          "german": "Grau",
+          "spanish": "Gris pastel",
+          "spanishUs": "Gris pastel",
+          "french": "Gris pastel",
+          "frenchUs": "Gris pastel",
+          "italian": "Grigio pastello",
+          "dutch": "Grijs",
+          "chinese": "嫩灰色",
+          "chineseTraditional": "粉嫩灰色",
+          "japanese": "ベビーグレー",
+          "korean": "베이비 그레이",
+          "russian": "Нежно-серый",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Gray", "Gray" ]
       },
       {
@@ -7955,7 +9083,28 @@
         "clothGroupId": 1055,
         "internalId": 11016,
         "uniqueEntryId": "iAyukzDt8Kutfpmab",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11016,
+          "id": 11016,
+          "clothName": "pacifier",
+          "english": "Baby pink",
+          "englishEurope": "Baby pink",
+          "german": "Rosa",
+          "spanish": "Rosa pastel",
+          "spanishUs": "Rosa pastel",
+          "french": "Rose pastel",
+          "frenchUs": "Rose pastel",
+          "italian": "Rosa pastello",
+          "dutch": "Roze",
+          "chinese": "嫩粉红色",
+          "chineseTraditional": "粉嫩粉紅色",
+          "japanese": "ベビーピンク",
+          "korean": "베이비 핑크",
+          "russian": "Нежно-розовый",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Red", "Red" ]
       },
       {
@@ -7968,7 +9117,28 @@
         "clothGroupId": 1055,
         "internalId": 2298,
         "uniqueEntryId": "bK8fXPaAy9f3Nqx9Q",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 2298,
+          "id": 2298,
+          "clothName": "pacifier",
+          "english": "Baby purple",
+          "englishEurope": "Baby purple",
+          "german": "Lila",
+          "spanish": "Morado pastel",
+          "spanishUs": "Morado pastel",
+          "french": "Violet pastel",
+          "frenchUs": "Mauve pastel",
+          "italian": "Viola pastello",
+          "dutch": "Paars",
+          "chinese": "嫩紫色",
+          "chineseTraditional": "粉嫩紫色",
+          "japanese": "ベビーパープル",
+          "korean": "베이비 퍼플",
+          "russian": "Нежно-фиолетовый",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Pink", "Pink" ]
       },
       {
@@ -7981,7 +9151,28 @@
         "clothGroupId": 1055,
         "internalId": 11019,
         "uniqueEntryId": "WZgrieHNMrjuw9Tah",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11019,
+          "id": 11019,
+          "clothName": "pacifier",
+          "english": "Baby orange",
+          "englishEurope": "Baby orange",
+          "german": "Orange",
+          "spanish": "Naranja pastel",
+          "spanishUs": "Naranja pastel",
+          "french": "Orange pastel",
+          "frenchUs": "Orange pastel",
+          "italian": "Arancione pastello",
+          "dutch": "Oranje",
+          "chinese": "嫩橘色",
+          "chineseTraditional": "粉嫩橘色",
+          "japanese": "ベビーオレンジ",
+          "korean": "베이비 오렌지",
+          "russian": "Нежно-оранжевый",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Orange", "Orange" ]
       },
       {
@@ -7994,7 +9185,28 @@
         "clothGroupId": 1055,
         "internalId": 11014,
         "uniqueEntryId": "iH9JsLkZTan5CQgTt",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11014,
+          "id": 11014,
+          "clothName": "pacifier",
+          "english": "Baby yellow",
+          "englishEurope": "Baby yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo pastel",
+          "spanishUs": "Amarillo pastel",
+          "french": "Jaune pastel",
+          "frenchUs": "Jaune pastel",
+          "italian": "Giallo pastello",
+          "dutch": "Geel",
+          "chinese": "嫩黄色",
+          "chineseTraditional": "粉嫩黃色",
+          "japanese": "ベビーイエロー",
+          "korean": "베이비 옐로",
+          "russian": "Нежно-желтый",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Yellow", "Yellow" ]
       },
       {
@@ -8007,7 +9219,28 @@
         "clothGroupId": 1055,
         "internalId": 11015,
         "uniqueEntryId": "XRyQwLEtt9RwgvtST",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11015,
+          "id": 11015,
+          "clothName": "pacifier",
+          "english": "Baby green",
+          "englishEurope": "Baby green",
+          "german": "Grün",
+          "spanish": "Verde pastel",
+          "spanishUs": "Verde pastel",
+          "french": "Vert pastel",
+          "frenchUs": "Vert pastel",
+          "italian": "Verde pastello",
+          "dutch": "Groen",
+          "chinese": "嫩绿色",
+          "chineseTraditional": "粉嫩綠色",
+          "japanese": "ベビーグリーン",
+          "korean": "베이비 그린",
+          "russian": "Нежно-зеленый",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Green", "Green" ]
       },
       {
@@ -8020,7 +9253,28 @@
         "clothGroupId": 1055,
         "internalId": 11013,
         "uniqueEntryId": "KMB2YJMHNzESo6Hws",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11013,
+          "id": 11013,
+          "clothName": "pacifier",
+          "english": "Baby mint",
+          "englishEurope": "Baby mint",
+          "german": "Minzgrün",
+          "spanish": "Turquesa pastel",
+          "spanishUs": "Turquesa pastel",
+          "french": "Turquoise pastel",
+          "frenchUs": "Turquoise pastel",
+          "italian": "Menta pastello",
+          "dutch": "Mintgroen",
+          "chinese": "嫩薄荷色",
+          "chineseTraditional": "粉嫩薄荷綠",
+          "japanese": "ベビーミント",
+          "korean": "베이비 민트",
+          "russian": "Нежно-мятный",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Light blue", "Light blue" ]
       },
       {
@@ -8033,7 +9287,28 @@
         "clothGroupId": 1055,
         "internalId": 11018,
         "uniqueEntryId": "ScuP52AjZHPkhCuGP",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11018,
+          "id": 11018,
+          "clothName": "pacifier",
+          "english": "Baby blue",
+          "englishEurope": "Baby blue",
+          "german": "Blau",
+          "spanish": "Azul pastel",
+          "spanishUs": "Azul pastel",
+          "french": "Bleu pastel",
+          "frenchUs": "Bleu pastel",
+          "italian": "Blu pastello",
+          "dutch": "Blauw",
+          "chinese": "嫩蓝色",
+          "chineseTraditional": "粉嫩藍色",
+          "japanese": "ベビーブルー",
+          "korean": "베이비 블루",
+          "russian": "Нежно-синий",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Purple", "Purple" ]
       }
     ],
@@ -8067,7 +9342,28 @@
     "clothGroupId": 485,
     "internalId": 4647,
     "uniqueEntryId": "H2JSW7YDoTdLr6GTK",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4647,
+      "id": 4647,
+      "clothName": "pig nose",
+      "english": "Pink",
+      "englishEurope": "Pink",
+      "german": "Rosa",
+      "spanish": "Rosa",
+      "spanishUs": "Rosa",
+      "french": "Rose",
+      "frenchUs": "Rose",
+      "italian": "Rosa",
+      "dutch": "Roze",
+      "chinese": "粉红",
+      "chineseTraditional": "粉紅色",
+      "japanese": "ピンク",
+      "korean": "핑크",
+      "russian": "Розовый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -8253,21 +9549,26 @@
         "internalId": 4459,
         "uniqueEntryId": "wuyb75e6fkA5976yx",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4459,
+          "id": 4459,
+          "clothName": "pilot shades",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Brown" ]
       },
@@ -8282,6 +9583,10 @@
         "internalId": 11214,
         "uniqueEntryId": "nBHTPo8pt7eRL47PT",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11214,
+          "id": 11214,
+          "clothName": "pilot shades",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -8296,7 +9601,8 @@
           "japanese": "ゴールド",
           "korean": "골드",
           "russian": "Золотой",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Black" ]
       }
@@ -8331,7 +9637,28 @@
     "clothGroupId": 1226,
     "internalId": 12663,
     "uniqueEntryId": "isFLrwBtByekpKuLB",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 12663,
+      "id": 12663,
+      "clothName": "pirate beard",
+      "english": "Hair Color",
+      "englishEurope": "Hair Color",
+      "german": "Haarfarbe",
+      "spanish": "Color del pelo",
+      "spanishUs": "Color del pelo",
+      "french": "Couleur de cheveux",
+      "frenchUs": "Couleur de cheveux",
+      "italian": "Colore dei capelli",
+      "dutch": "Haarkleur",
+      "chinese": "发色",
+      "chineseTraditional": "頭髮顏色",
+      "japanese": "ヘアカラー",
+      "korean": "헤어 컬러",
+      "russian": "Цвет волос",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -8449,7 +9776,28 @@
     "clothGroupId": 1225,
     "internalId": 12662,
     "uniqueEntryId": "pm3izhYzmdHRwnoWR",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 12662,
+      "id": 12662,
+      "clothName": "pirate eye patch",
+      "english": "Black",
+      "englishEurope": "Black",
+      "german": "Schwarz",
+      "spanish": "Negro",
+      "spanishUs": "Negro",
+      "french": "Noir",
+      "frenchUs": "Noir",
+      "italian": "Nero",
+      "dutch": "Zwart",
+      "chinese": "黑色",
+      "chineseTraditional": "黑色",
+      "japanese": "ブラック",
+      "korean": "블랙",
+      "russian": "Черный",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -8635,21 +9983,26 @@
         "internalId": 11225,
         "uniqueEntryId": "GY4PDqrCZdcPWb4Ep",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11225,
+          "id": 11225,
+          "clothName": "pixel shades",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -8664,6 +10017,10 @@
         "internalId": 4646,
         "uniqueEntryId": "Tp2dC3Dk4chwa4ebr",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4646,
+          "id": 4646,
+          "clothName": "pixel shades",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -8678,7 +10035,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Black" ]
       },
@@ -8693,6 +10051,10 @@
         "internalId": 11223,
         "uniqueEntryId": "6tFnu3DhC5HQvqmZ5",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11223,
+          "id": 11223,
+          "clothName": "pixel shades",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -8707,7 +10069,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Black" ]
       },
@@ -8722,6 +10085,10 @@
         "internalId": 11224,
         "uniqueEntryId": "SbAGGe9yg4EXAw35b",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11224,
+          "id": 11224,
+          "clothName": "pixel shades",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -8736,7 +10103,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Black" ]
       }
@@ -8771,7 +10139,28 @@
     "clothGroupId": 922,
     "internalId": 6040,
     "uniqueEntryId": "aN6Wsxguggh39oBiF",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 6040,
+      "id": 6040,
+      "clothName": "pleather mask",
+      "english": "Black",
+      "englishEurope": "Black",
+      "german": "Schwarz",
+      "spanish": "Negro",
+      "spanishUs": "Negro",
+      "french": "Noir",
+      "frenchUs": "Noir",
+      "italian": "Nero",
+      "dutch": "Zwart",
+      "chinese": "黑色",
+      "chineseTraditional": "黑色",
+      "japanese": "ブラック",
+      "korean": "블랙",
+      "russian": "Черный",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -8847,7 +10236,28 @@
     "clothGroupId": 376,
     "internalId": 4452,
     "uniqueEntryId": "8Qgoizxz547DtMNd7",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4452,
+      "id": 4452,
+      "clothName": "post-op patch",
+      "english": "White",
+      "englishEurope": "White",
+      "german": "Weiß",
+      "spanish": "Blanco",
+      "spanishUs": "Blanco",
+      "french": "Blanc",
+      "frenchUs": "Blanc",
+      "italian": "Bianco",
+      "dutch": "Wit",
+      "chinese": "白色",
+      "chineseTraditional": "白色",
+      "japanese": "ホワイト",
+      "korean": "화이트",
+      "russian": "Белый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -8877,7 +10287,7 @@
       "version": "1.0.0",
       "english": "post-op patch",
       "englishEurope": "post-op patch",
-      "german": "Augenverbands",
+      "german": "Augenverband",
       "spanish": "parche médico",
       "spanishUs": "parche médico",
       "french": "pansement oculaire",
@@ -8923,7 +10333,28 @@
     "clothGroupId": 497,
     "internalId": 4671,
     "uniqueEntryId": "4GDJFfMNHhsaXXrAN",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4671,
+      "id": 4671,
+      "clothName": "privacy mask",
+      "english": "Black",
+      "englishEurope": "Black",
+      "german": "Schwarz",
+      "spanish": "Negro",
+      "spanishUs": "Negro",
+      "french": "Noir",
+      "frenchUs": "Noir",
+      "italian": "Nero",
+      "dutch": "Zwart",
+      "chinese": "黑色",
+      "chineseTraditional": "黑色",
+      "japanese": "ブラック",
+      "korean": "블랙",
+      "russian": "Черный",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -9041,7 +10472,28 @@
     "clothGroupId": 921,
     "internalId": 6039,
     "uniqueEntryId": "J4EgETRkyeSESkRB7",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 6039,
+      "id": 6039,
+      "clothName": "reflector",
+      "english": "Gray",
+      "englishEurope": "Gray",
+      "german": "Grau",
+      "spanish": "Gris",
+      "spanishUs": "Gris",
+      "french": "Gris",
+      "frenchUs": "Gris",
+      "italian": "Grigio",
+      "dutch": "Grijs",
+      "chinese": "灰色",
+      "chineseTraditional": "灰色",
+      "japanese": "グレー",
+      "korean": "그레이",
+      "russian": "Серый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -9071,7 +10523,7 @@
       "version": "1.0.0",
       "english": "reflector",
       "englishEurope": "reflector",
-      "german": "Arztspiegels",
+      "german": "Arztspiegel",
       "spanish": "espejo médico",
       "spanishUs": "espejo médico",
       "french": "réflecteur de dentiste",
@@ -9206,6 +10658,10 @@
         "internalId": 4456,
         "uniqueEntryId": "SFFhXhR5sYQzJwXWj",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4456,
+          "id": 4456,
+          "clothName": "retro shades",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -9220,7 +10676,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "Orange" ]
       },
@@ -9235,6 +10692,10 @@
         "internalId": 11213,
         "uniqueEntryId": "6oqHAyihAjKRfH72Z",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11213,
+          "id": 11213,
+          "clothName": "retro shades",
           "english": "Gray",
           "englishEurope": "Gray",
           "german": "Grau",
@@ -9249,7 +10710,8 @@
           "japanese": "グレー",
           "korean": "그레이",
           "russian": "Серый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -9264,6 +10726,10 @@
         "internalId": 11210,
         "uniqueEntryId": "zg6uY6WZNQcopNq67",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11210,
+          "id": 11210,
+          "clothName": "retro shades",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -9278,7 +10744,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Red" ]
       },
@@ -9293,6 +10760,10 @@
         "internalId": 11211,
         "uniqueEntryId": "QqEG7ktLKMaXweFzg",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11211,
+          "id": 11211,
+          "clothName": "retro shades",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -9307,7 +10778,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Purple" ]
       },
@@ -9322,6 +10794,10 @@
         "internalId": 11209,
         "uniqueEntryId": "zYw3PhLHsw2KZ7TBK",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11209,
+          "id": 11209,
+          "clothName": "retro shades",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -9336,7 +10812,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Green" ]
       },
@@ -9351,6 +10828,10 @@
         "internalId": 11212,
         "uniqueEntryId": "cJCaAmMdqrHG8uDLH",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11212,
+          "id": 11212,
+          "clothName": "retro shades",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -9365,7 +10846,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Green" ]
       }
@@ -9489,6 +10971,10 @@
         "internalId": 4683,
         "uniqueEntryId": "BJFhJqt9KuaWGaWuM",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4683,
+          "id": 4683,
+          "clothName": "rhinestone shades",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -9503,7 +10989,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Red" ]
       },
@@ -9518,6 +11005,10 @@
         "internalId": 11227,
         "uniqueEntryId": "qy2BWYZvJedPJ69yX",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11227,
+          "id": 11227,
+          "clothName": "rhinestone shades",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -9532,7 +11023,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Black" ]
       },
@@ -9546,7 +11038,28 @@
         "clothGroupId": 509,
         "internalId": 11226,
         "uniqueEntryId": "iwtSmya59DpyGFB97",
-        "variantTranslations": null,
+        "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11226,
+          "id": 11226,
+          "clothName": "rhinestone shades",
+          "english": "Ochre",
+          "englishEurope": "Ochre",
+          "german": "Ocker",
+          "spanish": "Ocre",
+          "spanishUs": "Ocre",
+          "french": "Ocre",
+          "frenchUs": "Ocre",
+          "italian": "Ocra",
+          "dutch": "Okergeel",
+          "chinese": "红褐色",
+          "chineseTraditional": "土黃色",
+          "japanese": "オーカー",
+          "korean": "황토색",
+          "russian": "Охряный",
+          "plural": false,
+          "internalIds": []
+        },
         "colors": [ "Brown", "Black" ]
       }
     ],
@@ -9669,6 +11182,10 @@
         "internalId": 11185,
         "uniqueEntryId": "jA7gAHyzXHk8qBRuq",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11185,
+          "id": 11185,
+          "clothName": "rimmed glasses",
           "english": "Gray",
           "englishEurope": "Gray",
           "german": "Grau",
@@ -9683,7 +11200,8 @@
           "japanese": "グレー",
           "korean": "그레이",
           "russian": "Серый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -9698,21 +11216,26 @@
         "internalId": 4235,
         "uniqueEntryId": "DyPvwyWQK47TL4tjW",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4235,
+          "id": 4235,
+          "clothName": "rimmed glasses",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -9727,6 +11250,10 @@
         "internalId": 11184,
         "uniqueEntryId": "xqu5YAX6AmrXR4Qmd",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11184,
+          "id": 11184,
+          "clothName": "rimmed glasses",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -9741,7 +11268,8 @@
           "japanese": "ゴールド",
           "korean": "골드",
           "russian": "Золотой",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -9756,6 +11284,10 @@
         "internalId": 11187,
         "uniqueEntryId": "fjKzCMBMhcJNEjsTv",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11187,
+          "id": 11187,
+          "clothName": "rimmed glasses",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -9770,7 +11302,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Purple" ]
       },
@@ -9785,6 +11318,10 @@
         "internalId": 11186,
         "uniqueEntryId": "RpfNwdBEPoqgF5pkh",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11186,
+          "id": 11186,
+          "clothName": "rimmed glasses",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -9799,7 +11336,8 @@
           "japanese": "ブラウン",
           "korean": "브라운",
           "russian": "Коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -9923,6 +11461,10 @@
         "internalId": 11201,
         "uniqueEntryId": "z8KywWDutyXSsgXoy",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11201,
+          "id": 11201,
+          "clothName": "round shades",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -9937,7 +11479,8 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "Black" ]
       },
@@ -9952,21 +11495,26 @@
         "internalId": 4241,
         "uniqueEntryId": "SdqiPF4Fzw8HrPY4k",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4241,
+          "id": 4241,
+          "clothName": "round shades",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -9981,6 +11529,10 @@
         "internalId": 11200,
         "uniqueEntryId": "Z9bJ6cYkY6hC4mL4o",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11200,
+          "id": 11200,
+          "clothName": "round shades",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -9995,7 +11547,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Black" ]
       },
@@ -10010,6 +11563,10 @@
         "internalId": 11199,
         "uniqueEntryId": "KFNjnL6rqYckLECFB",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11199,
+          "id": 11199,
+          "clothName": "round shades",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -10024,7 +11581,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -10039,6 +11597,10 @@
         "internalId": 11198,
         "uniqueEntryId": "BE37D4h9xHkhRwgmH",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11198,
+          "id": 11198,
+          "clothName": "round shades",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -10053,7 +11615,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -10068,6 +11631,10 @@
         "internalId": 11196,
         "uniqueEntryId": "Mf9c5DHdko9uWo2Hu",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11196,
+          "id": 11196,
+          "clothName": "round shades",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -10082,7 +11649,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Black" ]
       },
@@ -10097,6 +11665,10 @@
         "internalId": 11197,
         "uniqueEntryId": "hyhWF8rW2Y2AkXGTj",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11197,
+          "id": 11197,
+          "clothName": "round shades",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -10111,7 +11683,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Black" ]
       },
@@ -10126,6 +11699,10 @@
         "internalId": 11202,
         "uniqueEntryId": "fy6sue9jdYtpwh4Aq",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11202,
+          "id": 11202,
+          "clothName": "round shades",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -10140,7 +11717,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Black" ]
       }
@@ -10243,6 +11821,10 @@
         "internalId": 4607,
         "uniqueEntryId": "GdrT6sBLFECRG8LyN",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4607,
+          "id": 4607,
+          "clothName": "round tinted shades",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -10257,7 +11839,8 @@
           "japanese": "ブラウン",
           "korean": "브라운",
           "russian": "Коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Orange", "Brown" ]
       },
@@ -10272,6 +11855,10 @@
         "internalId": 11220,
         "uniqueEntryId": "KqtiBXYfKejymQ4Wg",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11220,
+          "id": 11220,
+          "clothName": "round tinted shades",
           "english": "Light brown",
           "englishEurope": "Light brown",
           "german": "Hellbraun",
@@ -10286,7 +11873,8 @@
           "japanese": "ライトブラウン",
           "korean": "라이트 브라운",
           "russian": "Светло-коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Orange", "Brown" ]
       },
@@ -10301,6 +11889,10 @@
         "internalId": 11222,
         "uniqueEntryId": "CeX6fKZRL2XFK7jnW",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11222,
+          "id": 11222,
+          "clothName": "round tinted shades",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -10315,7 +11907,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Brown" ]
       },
@@ -10330,6 +11923,10 @@
         "internalId": 11221,
         "uniqueEntryId": "tfuBgNyNNSXc3o4Q2",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11221,
+          "id": 11221,
+          "clothName": "round tinted shades",
           "english": "Dark brown",
           "englishEurope": "Dark brown",
           "german": "Dunkelbraun",
@@ -10344,7 +11941,8 @@
           "japanese": "ダークブラウン",
           "korean": "다크 브라운",
           "russian": "Темно-коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -10379,7 +11977,28 @@
     "clothGroupId": 505,
     "internalId": 4679,
     "uniqueEntryId": "As4RR5kDBbDWqHP69",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4679,
+      "id": 4679,
+      "clothName": "rounded beard",
+      "english": "Hair Color",
+      "englishEurope": "Hair Color",
+      "german": "Haarfarbe",
+      "spanish": "Color del pelo",
+      "spanishUs": "Color del pelo",
+      "french": "Couleur de cheveux",
+      "frenchUs": "Couleur de cheveux",
+      "italian": "Colore dei capelli",
+      "dutch": "Haarkleur",
+      "chinese": "发色",
+      "chineseTraditional": "頭髮顏色",
+      "japanese": "ヘアカラー",
+      "korean": "헤어 컬러",
+      "russian": "Цвет волос",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -10451,7 +12070,7 @@
       "version": "1.0.0",
       "english": "rounded beard",
       "englishEurope": "rounded beard",
-      "german": "Rundbarts",
+      "german": "Rundbart",
       "spanish": "barba perfilada",
       "spanishUs": "barba perfilada",
       "french": "collier de barbe",
@@ -10497,7 +12116,28 @@
     "clothGroupId": 315,
     "internalId": 4337,
     "uniqueEntryId": "9nxh9LSDKZoYjygJg",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4337,
+      "id": 4337,
+      "clothName": "shattered glasses",
+      "english": "Black",
+      "englishEurope": "Black",
+      "german": "Schwarz",
+      "spanish": "Negro",
+      "spanishUs": "Negro",
+      "french": "Noir",
+      "frenchUs": "Noir",
+      "italian": "Nero",
+      "dutch": "Zwart",
+      "chinese": "黑色",
+      "chineseTraditional": "黑色",
+      "japanese": "ブラック",
+      "korean": "블랙",
+      "russian": "Черный",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -10527,7 +12167,7 @@
       "version": "1.0.0",
       "english": "shattered glasses",
       "englishEurope": "shattered glasses",
-      "german": "Kaputten",
+      "german": "Kaputte Brille",
       "spanish": "gafa rota",
       "spanishUs": "par de lentes rotos",
       "french": "monture à verres brisés",
@@ -10641,6 +12281,10 @@
         "internalId": 11479,
         "uniqueEntryId": "NwNqq5g2iw4DeMsBY",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11479,
+          "id": 11479,
+          "clothName": "ski goggles",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -10655,7 +12299,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Yellow" ]
       },
@@ -10670,6 +12315,10 @@
         "internalId": 4453,
         "uniqueEntryId": "GWhWLPt3sExfeAG2c",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4453,
+          "id": 4453,
+          "clothName": "ski goggles",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -10684,7 +12333,8 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Orange", "White" ]
       },
@@ -10699,6 +12349,10 @@
         "internalId": 11480,
         "uniqueEntryId": "4umKSoR2BWtW6JyFK",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11480,
+          "id": 11480,
+          "clothName": "ski goggles",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -10713,7 +12367,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Blue" ]
       },
@@ -10728,6 +12383,10 @@
         "internalId": 11483,
         "uniqueEntryId": "vSksuA8nCN72Tq3ji",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11483,
+          "id": 11483,
+          "clothName": "ski goggles",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -10742,7 +12401,8 @@
           "japanese": "オレンジ",
           "korean": "오렌지",
           "russian": "Оранжевый",
-          "plural": false
+          "plural": false,
+          "internalIds": [ 2214 ]
         },
         "colors": [ "Light blue", "Orange" ]
       },
@@ -10757,6 +12417,10 @@
         "internalId": 11482,
         "uniqueEntryId": "SydPBHGEnpRAKuCfq",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11482,
+          "id": 11482,
+          "clothName": "ski goggles",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -10771,7 +12435,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Green" ]
       },
@@ -10786,6 +12451,10 @@
         "internalId": 11481,
         "uniqueEntryId": "RBByDZoTeK5b6jvXn",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11481,
+          "id": 11481,
+          "clothName": "ski goggles",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -10800,7 +12469,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Pink" ]
       }
@@ -10945,21 +12615,26 @@
         "internalId": 11497,
         "uniqueEntryId": "jFwR59w58PSPL53K4",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11497,
+          "id": 11497,
+          "clothName": "snorkel mask",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -10974,6 +12649,10 @@
         "internalId": 11494,
         "uniqueEntryId": "ekXFtoFg8mmsbyZYp",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11494,
+          "id": 11494,
+          "clothName": "snorkel mask",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -10988,7 +12667,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Red" ]
       },
@@ -11003,6 +12683,10 @@
         "internalId": 11495,
         "uniqueEntryId": "3oBKZL4APPZGp7KpN",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11495,
+          "id": 11495,
+          "clothName": "snorkel mask",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -11017,7 +12701,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -11032,6 +12717,10 @@
         "internalId": 11493,
         "uniqueEntryId": "xHJu2dJts5RYTFw7p",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11493,
+          "id": 11493,
+          "clothName": "snorkel mask",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -11046,7 +12735,8 @@
           "japanese": "オレンジ",
           "korean": "오렌지",
           "russian": "Оранжевый",
-          "plural": false
+          "plural": false,
+          "internalIds": [ 2214 ]
         },
         "colors": [ "Yellow", "Orange" ]
       },
@@ -11061,6 +12751,10 @@
         "internalId": 11496,
         "uniqueEntryId": "v9xCArJntbpz9FhSG",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11496,
+          "id": 11496,
+          "clothName": "snorkel mask",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -11075,7 +12769,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Green" ]
       },
@@ -11090,6 +12785,10 @@
         "internalId": 4551,
         "uniqueEntryId": "rSw6wK34RyoG5cMe3",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4551,
+          "id": 4551,
+          "clothName": "snorkel mask",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -11104,7 +12803,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Blue" ]
       }
@@ -11207,6 +12907,10 @@
         "internalId": 11489,
         "uniqueEntryId": "CA5YASgCBpgL2PSpX",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11489,
+          "id": 11489,
+          "clothName": "sporty shades",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -11221,7 +12925,8 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "Orange" ]
       },
@@ -11236,21 +12941,26 @@
         "internalId": 4458,
         "uniqueEntryId": "QkHqffg8X4eTL6PXX",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4458,
+          "id": 4458,
+          "clothName": "sporty shades",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Orange" ]
       },
@@ -11265,6 +12975,10 @@
         "internalId": 11490,
         "uniqueEntryId": "GgdcckY8p5Rg5NyTY",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11490,
+          "id": 11490,
+          "clothName": "sporty shades",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -11279,7 +12993,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -11294,6 +13009,10 @@
         "internalId": 11491,
         "uniqueEntryId": "uwEjreWEdYSbuxXE9",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11491,
+          "id": 11491,
+          "clothName": "sporty shades",
           "english": "Lime",
           "englishEurope": "Lime",
           "german": "Limettengrün",
@@ -11308,7 +13027,8 @@
           "japanese": "ライム",
           "korean": "라임",
           "russian": "Лаймовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Light blue" ]
       },
@@ -11323,6 +13043,10 @@
         "internalId": 11492,
         "uniqueEntryId": "THB8TWPykhsELXErr",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11492,
+          "id": 11492,
+          "clothName": "sporty shades",
           "english": "Light blue",
           "englishEurope": "Light blue",
           "german": "Hellblau",
@@ -11337,7 +13061,8 @@
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
           "russian": "Голубой",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Blue" ]
       }
@@ -11461,6 +13186,10 @@
         "internalId": 11067,
         "uniqueEntryId": "QxFwFytYcWo5acGtW",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11067,
+          "id": 11067,
+          "clothName": "square glasses",
           "english": "Gray",
           "englishEurope": "Gray",
           "german": "Grau",
@@ -11475,7 +13204,8 @@
           "japanese": "グレー",
           "korean": "그레이",
           "russian": "Серый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -11490,21 +13220,26 @@
         "internalId": 11066,
         "uniqueEntryId": "LhvFWS5ADiDiPJwai",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11066,
+          "id": 11066,
+          "clothName": "square glasses",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -11519,6 +13254,10 @@
         "internalId": 11068,
         "uniqueEntryId": "CvziuqadDpoQgGK4C",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11068,
+          "id": 11068,
+          "clothName": "square glasses",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -11533,7 +13272,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -11548,6 +13288,10 @@
         "internalId": 4236,
         "uniqueEntryId": "rAzkKijSEqXzoAZKY",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4236,
+          "id": 4236,
+          "clothName": "square glasses",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -11562,7 +13306,8 @@
           "japanese": "ブラウン",
           "korean": "브라운",
           "russian": "Коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -11665,21 +13410,26 @@
         "internalId": 4501,
         "uniqueEntryId": "s7hDzZ3ajPpK9fnEW",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4501,
+          "id": 4501,
+          "clothName": "stache & glasses",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Orange" ]
       },
@@ -11694,6 +13444,10 @@
         "internalId": 11007,
         "uniqueEntryId": "M8owND8DnAEKA9nuX",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11007,
+          "id": 11007,
+          "clothName": "stache & glasses",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -11708,7 +13462,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Black" ]
       }
@@ -11811,6 +13566,10 @@
         "internalId": 11192,
         "uniqueEntryId": "PCZAYraP9kdaqnZy7",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11192,
+          "id": 11192,
+          "clothName": "star shades",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -11825,7 +13584,8 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -11840,6 +13600,10 @@
         "internalId": 4240,
         "uniqueEntryId": "y4n8SisxyS7dGRWL7",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4240,
+          "id": 4240,
+          "clothName": "star shades",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -11854,7 +13618,8 @@
           "japanese": "イエロー",
           "korean": "옐로",
           "russian": "Желтый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -11869,6 +13634,10 @@
         "internalId": 11195,
         "uniqueEntryId": "PaF6nho2LRBu5x7Pi",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11195,
+          "id": 11195,
+          "clothName": "star shades",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -11883,7 +13652,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Black" ]
       },
@@ -11898,6 +13668,10 @@
         "internalId": 11193,
         "uniqueEntryId": "h4zk6rrWiX94jefGH",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11193,
+          "id": 11193,
+          "clothName": "star shades",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -11912,7 +13686,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Black" ]
       },
@@ -11927,6 +13702,10 @@
         "internalId": 11194,
         "uniqueEntryId": "GiBvxa93RwTN46zhE",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11194,
+          "id": 11194,
+          "clothName": "star shades",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -11941,7 +13720,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Black" ]
       }
@@ -12044,6 +13824,10 @@
         "internalId": 4685,
         "uniqueEntryId": "uANDLz5EDWphoM3Lc",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4685,
+          "id": 4685,
+          "clothName": "steampunk glasses",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -12058,7 +13842,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Green" ]
       },
@@ -12073,6 +13858,10 @@
         "internalId": 11505,
         "uniqueEntryId": "Rhhrv89PGEMbdbdPt",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11505,
+          "id": 11505,
+          "clothName": "steampunk glasses",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -12087,7 +13876,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Purple" ]
       }
@@ -12122,7 +13912,28 @@
     "clothGroupId": 489,
     "internalId": 4652,
     "uniqueEntryId": "isnXDFfGkHKKB8bMP",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4652,
+      "id": 4652,
+      "clothName": "sticky rice",
+      "english": "White",
+      "englishEurope": "White",
+      "german": "Weiß",
+      "spanish": "Blanco",
+      "spanishUs": "Blanco",
+      "french": "Blanc",
+      "frenchUs": "Blanc",
+      "italian": "Bianco",
+      "dutch": "Wit",
+      "chinese": "白色",
+      "chineseTraditional": "白色",
+      "japanese": "ホワイト",
+      "korean": "화이트",
+      "russian": "Белый",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -12152,7 +13963,7 @@
       "version": "1.0.0",
       "english": "sticky rice",
       "englishEurope": "sticky rice",
-      "german": "Reisrests",
+      "german": "Reisrest",
       "spanish": "resto de arroz",
       "spanishUs": "resto de arroz",
       "french": "reste de riz",
@@ -12198,7 +14009,28 @@
     "clothGroupId": 510,
     "internalId": 4684,
     "uniqueEntryId": "fK2Xz8nxAebSkWNdE",
-    "variantTranslations": null,
+    "variantTranslations": {
+      "sourceSheet": "Accessories Variants",
+      "variantId": 4684,
+      "id": 4684,
+      "clothName": "superhero mask",
+      "english": "Black",
+      "englishEurope": "Black",
+      "german": "Schwarz",
+      "spanish": "Negro",
+      "spanishUs": "Negro",
+      "french": "Noir",
+      "frenchUs": "Noir",
+      "italian": "Nero",
+      "dutch": "Zwart",
+      "chinese": "黑色",
+      "chineseTraditional": "黑色",
+      "japanese": "ブラック",
+      "korean": "블랙",
+      "russian": "Черный",
+      "plural": false,
+      "internalIds": []
+    },
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -12384,21 +14216,26 @@
         "internalId": 11215,
         "uniqueEntryId": "tCxZoqcR8egLcu4oh",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11215,
+          "id": 11215,
+          "clothName": "tiny shades",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Black" ]
       },
@@ -12413,6 +14250,10 @@
         "internalId": 11216,
         "uniqueEntryId": "8YkgkHp2z5tycST3j",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11216,
+          "id": 11216,
+          "clothName": "tiny shades",
           "english": "Berry red",
           "englishEurope": "Berry red",
           "german": "Weinrot",
@@ -12427,7 +14268,8 @@
           "japanese": "ワインレッド",
           "korean": "와인 레드",
           "russian": "Ягодно-красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Black" ]
       },
@@ -12442,6 +14284,10 @@
         "internalId": 4461,
         "uniqueEntryId": "DnZtrKfwj3MAy6PZc",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4461,
+          "id": 4461,
+          "clothName": "tiny shades",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -12456,7 +14302,8 @@
           "japanese": "ゴールド",
           "korean": "골드",
           "russian": "Золотой",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Yellow", "Black" ]
       }
@@ -12559,21 +14406,26 @@
         "internalId": 11080,
         "uniqueEntryId": "fEshNAFDwcyo9v2fX",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11080,
+          "id": 11080,
+          "clothName": "tortoise specs",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Beige" ]
       },
@@ -12588,6 +14440,10 @@
         "internalId": 11079,
         "uniqueEntryId": "jewJFqgFQTHKyAKTz",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11079,
+          "id": 11079,
+          "clothName": "tortoise specs",
           "english": "Beige",
           "englishEurope": "Beige",
           "german": "Beige",
@@ -12602,7 +14458,8 @@
           "japanese": "ベージュ",
           "korean": "베이지",
           "russian": "Бежевый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Orange", "Beige" ]
       },
@@ -12617,6 +14474,10 @@
         "internalId": 4460,
         "uniqueEntryId": "kqomsYL33TB7zaNtY",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4460,
+          "id": 4460,
+          "clothName": "tortoise specs",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -12631,7 +14492,8 @@
           "japanese": "ブラウン",
           "korean": "브라운",
           "russian": "Коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Orange" ]
       }
@@ -12734,6 +14596,10 @@
         "internalId": 11207,
         "uniqueEntryId": "QpAQQTRoBmcjNBeEK",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11207,
+          "id": 11207,
+          "clothName": "triangle shades",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -12748,7 +14614,8 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "White", "Purple" ]
       },
@@ -12763,21 +14630,26 @@
         "internalId": 11208,
         "uniqueEntryId": "vGHab8KFNDFRgW5h6",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11208,
+          "id": 11208,
+          "clothName": "triangle shades",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
-          "spanish": "Negra",
-          "spanishUs": "Negra",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
           "french": "Noir",
           "frenchUs": "Noir",
           "italian": "Nero",
           "dutch": "Zwart",
           "chinese": "黑色",
           "chineseTraditional": "黑色",
-          "japanese": "くろ黒",
-          "korean": "검은색",
+          "japanese": "ブラック",
+          "korean": "블랙",
           "russian": "Черный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Black", "Purple" ]
       },
@@ -12792,6 +14664,10 @@
         "internalId": 4242,
         "uniqueEntryId": "cw8m5tS85qMGGnpy9",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4242,
+          "id": 4242,
+          "clothName": "triangle shades",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -12806,7 +14682,8 @@
           "japanese": "レッド",
           "korean": "레드",
           "russian": "Красный",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Red", "Purple" ]
       },
@@ -12821,6 +14698,10 @@
         "internalId": 11203,
         "uniqueEntryId": "cR58LxuFK4Kcxh7fc",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11203,
+          "id": 11203,
+          "clothName": "triangle shades",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -12835,7 +14716,8 @@
           "japanese": "オレンジ",
           "korean": "오렌지",
           "russian": "Оранжевый",
-          "plural": false
+          "plural": false,
+          "internalIds": [ 2214 ]
         },
         "colors": [ "Orange", "Purple" ]
       },
@@ -12850,6 +14732,10 @@
         "internalId": 11206,
         "uniqueEntryId": "4edkdodmNhmpkSCBo",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11206,
+          "id": 11206,
+          "clothName": "triangle shades",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -12864,7 +14750,8 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Green", "Purple" ]
       },
@@ -12879,6 +14766,10 @@
         "internalId": 11204,
         "uniqueEntryId": "xSM4vD2KSok5cjo6p",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11204,
+          "id": 11204,
+          "clothName": "triangle shades",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -12893,7 +14784,8 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Light blue", "Purple" ]
       },
@@ -12908,6 +14800,10 @@
         "internalId": 11205,
         "uniqueEntryId": "vAuSuBJcAfyMR6wk7",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11205,
+          "id": 11205,
+          "clothName": "triangle shades",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -12922,7 +14818,8 @@
           "japanese": "パープル",
           "korean": "퍼플",
           "russian": "Фиолетовый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -13046,6 +14943,10 @@
         "internalId": 4669,
         "uniqueEntryId": "dbnqry4vZBvK6LrS2",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 4669,
+          "id": 4669,
+          "clothName": "wooden-frame glasses",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -13060,7 +14961,8 @@
           "japanese": "ブラウン",
           "korean": "브라운",
           "russian": "Коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Gray" ]
       },
@@ -13075,6 +14977,10 @@
         "internalId": 11093,
         "uniqueEntryId": "2MufTC9TPErbryyKS",
         "variantTranslations": {
+          "sourceSheet": "Accessories Variants",
+          "variantId": 11093,
+          "id": 11093,
+          "clothName": "wooden-frame glasses",
           "english": "Dark brown",
           "englishEurope": "Dark brown",
           "german": "Dunkelbraun",
@@ -13089,7 +14995,8 @@
           "japanese": "ダークブラウン",
           "korean": "다크 브라운",
           "russian": "Темно-коричневый",
-          "plural": false
+          "plural": false,
+          "internalIds": []
         },
         "colors": [ "Brown", "Yellow" ]
       }

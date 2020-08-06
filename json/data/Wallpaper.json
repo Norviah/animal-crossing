@@ -5964,8 +5964,8 @@
     "buy": 3000,
     "sell": 750,
     "milesPrice": null,
-    "source": [ "Nintendo" ],
-    "sourceNotes": null,
+    "source": [ "Saharah", "Nintendo" ],
+    "sourceNotes": "Mailed to players after the 1.4.0 update in a letter from Nintendo",
     "windowType": null,
     "windowColor": null,
     "paneType": null,
@@ -5973,7 +5973,7 @@
     "curtainColor": null,
     "ceilingType": null,
     "hhaBasePoints": 451,
-    "tag": null,
+    "tag": "Special Warm Nature Walls",
     "catalog": "Not for sale",
     "versionAdded": "1.4.0",
     "versionUnlocked": "1.4.0",
@@ -11754,7 +11754,7 @@
       "internalIds": [ 12567 ]
     },
     "colors": [ "Brown", "Yellow" ],
-    "concepts": [ "ocean", "none" ],
+    "concepts": [ "ocean" ],
     "series": "pirate",
     "recipe": null
   },
