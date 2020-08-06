@@ -19,7 +19,15 @@ const ignore: string[] = ['Furniture Variants', 'Furniture Patterns'];
 /**
  * Represents the unique values of a translation that represents the item.
  */
-const uniqueValues: string[] = ['variantId', 'id', 'furnitureName', 'internalIds', 'sourceSheet', 'version'];
+const uniqueValues: string[] = [
+  'variantId',
+  'id',
+  'furnitureName',
+  'internalIds',
+  'sourceSheet',
+  'version',
+  'clothName',
+];
 
 /**
  * Finds a translation with the given name.
@@ -80,33 +88,67 @@ function translate(item: obj): void {
 
   // If the item has a variation, set the translation for the variation.
   if (item.hasOwnProperty('variation')) {
-    item.variantTranslations = options.find((translation: any) => item.variation === translation.english) ?? null;
+    let translation = translations.find((translation: any) => {
+      // Make sure the translation is for variations, and that the translation
+      // has the same name as the item's variation.
+      if (!translation.sourceSheet.includes('Variants') && translation.english !== item.variation) {
+        return;
+      }
 
-    // There are translations for variations/patterns, but, the translations are
-    // only for furnitures, meaning that other items with variations/patterns
-    // won't have their variations set. So if translations couldn't be found, in
-    // this case for the variant, we'll have to manually find the translation.
+      // Apparently for clothing, the ID correctly matches the internal ID for
+      // the item, so we'll use this property to determine if it's correct.
+      if (item.hasOwnProperty('clothGroupId')) {
+        return item.name === translation.clothName && item.internalId === translation.id;
+      }
+
+      // If the item is rather a furniture, we'll check to see if the
+      // translation has the same name as the item.
+      else if (translation.hasOwnProperty('furnitureName')) {
+        return item.name === translation.furnitureName;
+      }
+    });
+
+    // There are translations for variations, but, the translations are only for
+    // furnitures or clothing, meaning that other items with variations, like
+    // tools, won't have their variations set. So we'll have to manually find
+    // translations from another variation with the same name.
 
     // Since we're getting a translation for a completely different item, we'll
     // have to find a translation and then remove the unique values from the
     // translation that represent that completely different item.
-    if (!item.variantTranslations) {
-      item.variantTranslations = findUniqueTranslation(item.variation, ['Furniture Variants']);
+
+    if (!translation) {
+      translation = translations.find(
+        (translation: any) => translation.sourceSheet.includes('Variants') && translation.english === item.variation
+      );
+
+      // Remove any values from the translation that points to an item.
+      translation = translation ? omit(translation, uniqueValues) : undefined;
     }
+
+    item.variantTranslations = translation ?? null;
   }
 
   // And do the same for the item's pattern.
   if (item.hasOwnProperty('pattern')) {
-    item.patternTranslations = options.find((translation) => item.pattern === translation.english) ?? null;
+    let translation = options.find((translation) => item.pattern === translation.english) ?? null;
+
+    // If the item isn't a furniture, we'll remove the unique values from the
+    // translations, as only furnitures have translations for patterns.
+    if (translation && !['Housewares', 'Miscellaneous', 'Wall-mounted'].includes(item.sourceSheet)) {
+      translation = translation ? omit(translation, uniqueValues) : null;
+    }
 
     // Similar to variations, if we can't find a translation for the item's
     // pattern, it's most likely that the item isn't a furniture, as only
-    // furnitures have translations for their pattern/variation. So we'll try to
+    // furnitures have translations for their pattern. So we'll try to
     // find a translation for this pattern from furnitures and then remove the
     // values that represent the furniture.
-    if (!item.patternTranslations) {
-      item.patternTranslations = findUniqueTranslation(item.pattern, ['Furniture Patterns']);
+    else if (!translation) {
+      translation = findUniqueTranslation(item.pattern, ['Furniture Patterns']);
     }
+
+    item.patternTranslations = translation;
   }
 
   // Set translations for each theme of the item.
