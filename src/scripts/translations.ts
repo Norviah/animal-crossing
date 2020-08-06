@@ -100,7 +100,8 @@ for (let translation of get(directories.translations)) {
   else {
     // Find all items that shares the same name with the translation.
     const matches: obj[] = items.filter(
-      (item: any) => !ignore.includes(item.SourceSheet) && item.Name.toLowerCase() === translation.english.toLowerCase()
+      (item: any) =>
+        !ignore.includes(item.SourceSheet) && item.Name.toLowerCase() === `${translation.english}`.toLowerCase()
     );
 
     // Set the internal ID for the translation to the IDs of the items that were
