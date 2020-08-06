@@ -11,6 +11,7 @@ export interface Npc {
     birthday:      string;
     nameColor:     string;
     bubbleColor:   string;
+    filename:      null | string;
     uniqueEntryId: string;
     translations:  Translations;
 }

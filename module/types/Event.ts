@@ -1,12 +1,15 @@
 export interface Event {
-    sourceSheet:             EventSourceSheet;
-    event:                   string;
-    northernHemisphereDates: string;
-    southernHemisphereDates: string;
-    times?:                  Times;
-    versionAdded:            Version;
-    translations:            Translations | null;
-    nookShoppingItems?:      string;
+    sourceSheet:              EventSourceSheet;
+    event:                    string;
+    northernHemisphereDates?: string;
+    southernHemisphereDates?: string;
+    times?:                   Times;
+    versionAdded:             Version;
+    translations:             Translations | null;
+    availability?:            string;
+    nookShoppingItems?:       string;
+    region?:                  string;
+    description?:             string[];
 }
 
 export enum EventSourceSheet {

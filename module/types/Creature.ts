@@ -113,8 +113,8 @@ export enum CreatureSourceSheet {
 
 export interface Translations {
     sourceSheet:        TranslationsSourceSheet;
-    id:                 string;
-    version:            Version;
+    id:                 number | string;
+    version?:           Version;
     english:            string;
     englishEurope:      string;
     german:             string;
@@ -131,12 +131,15 @@ export interface Translations {
     russian:            string;
     plural:             boolean;
     internalIds:        number[];
+    variantId?:         number;
+    clothName?:         string;
 }
 
 export enum TranslationsSourceSheet {
     Bugs = "Bugs",
     Fish = "Fish",
     SeaCreatures = "Sea Creatures",
+    TopsVariants = "Tops Variants",
 }
 
 export enum Version {
