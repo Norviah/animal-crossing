@@ -14,4 +14,4 @@
 
 • **Prune**: = "prune"
 
-*Defined in [Recipe.ts:344](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Recipe.ts#L344)*
+*Defined in [Recipe.ts:343](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Recipe.ts#L343)*

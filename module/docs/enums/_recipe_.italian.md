@@ -14,4 +14,4 @@
 
 • **Pepè**: = "pepè"
 
-*Defined in [Recipe.ts:356](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Recipe.ts#L356)*
+*Defined in [Recipe.ts:355](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Recipe.ts#L355)*

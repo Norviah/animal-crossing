@@ -14,4 +14,4 @@
 
 • **Früchtchen**: = "früchtchen"
 
-*Defined in [Recipe.ts:348](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Recipe.ts#L348)*
+*Defined in [Recipe.ts:347](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Recipe.ts#L347)*

@@ -9,6 +9,7 @@
 * [Bugs](_creature_.translationssourcesheet.md#bugs)
 * [Fish](_creature_.translationssourcesheet.md#fish)
 * [SeaCreatures](_creature_.translationssourcesheet.md#seacreatures)
+* [TopsVariants](_creature_.translationssourcesheet.md#topsvariants)
 
 ## Enumeration members
 
@@ -16,7 +17,7 @@
 
 • **Bugs**: = "Bugs"
 
-*Defined in [Creature.ts:137](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Creature.ts#L137)*
+*Defined in [Creature.ts:139](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Creature.ts#L139)*
 
 ___
 
@@ -24,7 +25,7 @@ ___
 
 • **Fish**: = "Fish"
 
-*Defined in [Creature.ts:138](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Creature.ts#L138)*
+*Defined in [Creature.ts:140](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Creature.ts#L140)*
 
 ___
 
@@ -32,4 +33,12 @@ ___
 
 • **SeaCreatures**: = "Sea Creatures"
 
-*Defined in [Creature.ts:139](https://github.com/Norviah/animal-crossing/blob/4ac4ba9/module/types/Creature.ts#L139)*
+*Defined in [Creature.ts:141](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Creature.ts#L141)*
+
+___
+
+###  TopsVariants
+
+• **TopsVariants**: = "Tops Variants"
+
+*Defined in [Creature.ts:142](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Creature.ts#L142)*
