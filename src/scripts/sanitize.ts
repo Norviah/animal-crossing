@@ -144,7 +144,7 @@ for (const file of files) {
 
     sanitized.push(object);
 
-    if (object.variation) {
+    if (object.variation || object.pattern) {
       variationNames.add(object.name);
     }
   }
