@@ -8,8 +8,8 @@
 
 * [BlackMetal](_item_.windowcolor.md#blackmetal)
 * [DarkWood](_item_.windowcolor.md#darkwood)
-* [GrayMetal](_item_.windowcolor.md#graymetal)
-* [GrayWood](_item_.windowcolor.md#graywood)
+* [GreyMetal](_item_.windowcolor.md#greymetal)
+* [GreyWood](_item_.windowcolor.md#greywood)
 * [LightWood](_item_.windowcolor.md#lightwood)
 * [NaturalWood](_item_.windowcolor.md#naturalwood)
 * [WhiteMetal](_item_.windowcolor.md#whitemetal)
@@ -22,7 +22,7 @@
 
 • **BlackMetal**: = "Black Metal"
 
-*Defined in [Item.ts:1067](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1067)*
+*Defined in [Item.ts:1034](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1034)*
 
 ___
 
@@ -30,23 +30,23 @@ ___
 
 • **DarkWood**: = "Dark Wood"
 
-*Defined in [Item.ts:1068](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1068)*
+*Defined in [Item.ts:1035](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1035)*
 
 ___
 
-###  GrayMetal
+###  GreyMetal
 
-• **GrayMetal**: = "Gray Metal"
+• **GreyMetal**: = "Grey Metal"
 
-*Defined in [Item.ts:1069](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1069)*
+*Defined in [Item.ts:1036](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1036)*
 
 ___
 
-###  GrayWood
+###  GreyWood
 
-• **GrayWood**: = "Gray Wood"
+• **GreyWood**: = "Grey Wood"
 
-*Defined in [Item.ts:1070](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1070)*
+*Defined in [Item.ts:1037](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1037)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **LightWood**: = "Light Wood"
 
-*Defined in [Item.ts:1071](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1071)*
+*Defined in [Item.ts:1038](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1038)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **NaturalWood**: = "Natural Wood"
 
-*Defined in [Item.ts:1072](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1072)*
+*Defined in [Item.ts:1039](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1039)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **WhiteMetal**: = "White Metal"
 
-*Defined in [Item.ts:1073](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1073)*
+*Defined in [Item.ts:1040](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1040)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **WhiteWood**: = "White Wood"
 
-*Defined in [Item.ts:1074](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1074)*
+*Defined in [Item.ts:1041](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1041)*
 
 ___
 
@@ -86,4 +86,4 @@ ___
 
 • **Wood**: = "Wood"
 
-*Defined in [Item.ts:1075](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1075)*
+*Defined in [Item.ts:1042](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1042)*

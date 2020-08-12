@@ -14,4 +14,4 @@
 
 • **Персик**: = "персик"
 
-*Defined in [Recipe.ts:367](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Recipe.ts#L367)*
+*Defined in [Recipe.ts:367](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Recipe.ts#L367)*

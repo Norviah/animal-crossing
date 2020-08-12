@@ -17,7 +17,7 @@
 
 • **Cbr09**: = "cbr09"
 
-*Defined in [Item.ts:1053](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1053)*
+*Defined in [Item.ts:1021](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1021)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Der06**: = "der06"
 
-*Defined in [Item.ts:1054](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1054)*
+*Defined in [Item.ts:1022](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1022)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Love**: = "Love"
 
-*Defined in [Item.ts:1055](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1055)*
+*Defined in [Item.ts:1023](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1023)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Squ09**: = "squ09"
 
-*Defined in [Item.ts:1056](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L1056)*
+*Defined in [Item.ts:1024](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L1024)*
