@@ -28,7 +28,7 @@
 
 • **availability**? : *undefined | string*
 
-*Defined in [Event.ts:9](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L9)*
+*Defined in [Event.ts:9](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L9)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **description**? : *string[]*
 
-*Defined in [Event.ts:12](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L12)*
+*Defined in [Event.ts:12](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L12)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **event**: *string*
 
-*Defined in [Event.ts:3](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L3)*
+*Defined in [Event.ts:3](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L3)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **nookShoppingItems**? : *undefined | string*
 
-*Defined in [Event.ts:10](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L10)*
+*Defined in [Event.ts:10](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L10)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **northernHemisphereDates**? : *undefined | string*
 
-*Defined in [Event.ts:4](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L4)*
+*Defined in [Event.ts:4](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L4)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **region**? : *undefined | string*
 
-*Defined in [Event.ts:11](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L11)*
+*Defined in [Event.ts:11](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L11)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 • **sourceSheet**: *[EventSourceSheet](../enums/_event_.eventsourcesheet.md)*
 
-*Defined in [Event.ts:2](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L2)*
+*Defined in [Event.ts:2](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L2)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 • **southernHemisphereDates**? : *undefined | string*
 
-*Defined in [Event.ts:5](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L5)*
+*Defined in [Event.ts:5](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L5)*
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 • **times**? : *[Times](../enums/_event_.times.md)*
 
-*Defined in [Event.ts:6](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L6)*
+*Defined in [Event.ts:6](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L6)*
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 • **translations**: *[Translations](_event_.translations.md) | null*
 
-*Defined in [Event.ts:8](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L8)*
+*Defined in [Event.ts:8](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L8)*
 
 ___
 
@@ -108,4 +108,4 @@ ___
 
 • **versionAdded**: *[Version](../enums/_event_.version.md)*
 
-*Defined in [Event.ts:7](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L7)*
+*Defined in [Event.ts:7](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L7)*

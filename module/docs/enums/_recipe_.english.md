@@ -14,4 +14,4 @@
 
 • **Peach**: = "peach"
 
-*Defined in [Recipe.ts:339](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Recipe.ts#L339)*
+*Defined in [Recipe.ts:339](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Recipe.ts#L339)*

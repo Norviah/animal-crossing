@@ -16,7 +16,7 @@
 
 • **BEEPBoop**: = "beep boop"
 
-*Defined in [Item.ts:180](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L180)*
+*Defined in [Item.ts:180](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L180)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **HeartCrystals**: = "Heart Crystals"
 
-*Defined in [Item.ts:181](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L181)*
+*Defined in [Item.ts:181](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L181)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **NookMiles**: = "Nook Miles"
 
-*Defined in [Item.ts:182](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L182)*
+*Defined in [Item.ts:182](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L182)*
