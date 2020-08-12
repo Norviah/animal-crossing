@@ -42,13 +42,13 @@ export enum CatchDifficulty {
 }
 
 export enum Color {
+    Aqua = "Aqua",
     Beige = "Beige",
     Black = "Black",
     Blue = "Blue",
     Brown = "Brown",
     Gray = "Gray",
     Green = "Green",
-    LightBlue = "Light blue",
     Orange = "Orange",
     Pink = "Pink",
     Purple = "Purple",

@@ -54,6 +54,8 @@ export enum SourceSheet {
     Furniture = "Furniture",
     FurniturePatterns = "Furniture Patterns",
     FurnitureVariants = "Furniture Variants",
+    HHASet = "HHA Set",
+    HHASituation = "HHA Situation",
     HHAThemes = "HHA Themes",
     HouseDoor = "House Door",
     HouseMailbox = "House Mailbox",
@@ -86,6 +88,7 @@ export enum SourceSheet {
 }
 
 export enum Version {
+    Empty = "",
     The100 = "1.0.0",
     The110 = "1.1.0",
     The120 = "1.2.0",

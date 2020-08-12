@@ -13,6 +13,7 @@ export interface Recipe {
     category:              Category;
     craftedItemInternalId: number;
     cardColor:             CardColor | null;
+    diyIconFilename:       string;
     serialId:              number;
     internalId:            number;
     uniqueEntryId:         string;
@@ -183,7 +184,6 @@ export interface MaterialsTranslations {
     "giant clam"?:            AquariusFragment;
     "sand dollar"?:           AquariusFragment;
     coral?:                   AquariusFragment;
-    Stone?:                   null;
     conch?:                   AquariusFragment;
     "sea snail"?:             AquariusFragment;
     cowrie?:                  AquariusFragment;

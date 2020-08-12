@@ -24,6 +24,8 @@ export interface Item {
     closetImage?:          string;
     storageImage?:         null | string;
     variation?:            null;
+    exchangePrice?:        number | null;
+    exchangeCurrency?:     ExchangeCurrency | null;
     mannequinPiece?:       boolean;
     sortOrder?:            number;
     filename?:             string;
@@ -34,8 +36,8 @@ export interface Item {
     colors?:               Color[];
     image?:                string;
     bodyTitle?:            null | string;
-    pattern?:              null | string;
-    patternTitle?:         null | string;
+    pattern?:              null;
+    patternTitle?:         null;
     bodyCustomize?:        boolean;
     patternCustomize?:     boolean;
     kitCost?:              number | null;
@@ -47,7 +49,7 @@ export interface Item {
     speakerType?:          SpeakerType | null;
     lightingType?:         LightingType | null;
     variantId?:            VariantID | null;
-    patternTranslations?:  PatternTranslations | null;
+    patternTranslations?:  null;
     seriesTranslations?:   VariantTranslations | null;
     concepts?:             Concept[];
     set?:                  null | string;
@@ -57,6 +59,7 @@ export interface Item {
     albumImage?:           null | string;
     inventoryImage?:       null | string;
     stackSize?:            number;
+    exchange?:             number | null;
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
@@ -68,7 +71,7 @@ export interface Item {
     paneType?:             PaneType | null;
     curtainType?:          CurtainType | null;
     curtainColor?:         null | string;
-    ceilingType?:          CeilingType | null;
+    ceilingType?:          CeilingType;
     uses?:                 number;
     fossilGroup?:          string;
     description?:          string[];
@@ -123,6 +126,7 @@ export enum CeilingType {
 }
 
 export enum Color {
+    Aqua = "Aqua",
     Beige = "Beige",
     Black = "Black",
     Blue = "Blue",
@@ -130,7 +134,6 @@ export enum Color {
     Colorful = "Colorful",
     Gray = "Gray",
     Green = "Green",
-    LightBlue = "Light blue",
     Orange = "Orange",
     Pink = "Pink",
     Purple = "Purple",
@@ -171,6 +174,12 @@ export enum CurtainType {
     Curtains = "Curtains",
     RollerShades = "Roller Shades",
     SlattedBlinds = "Slatted Blinds",
+}
+
+export enum ExchangeCurrency {
+    BEEPBoop = "beep boop",
+    HeartCrystals = "Heart Crystals",
+    NookMiles = "Nook Miles",
 }
 
 export enum HhaCategory {
@@ -214,11 +223,233 @@ export enum PaneType {
     Screen = "Screen",
 }
 
-export interface PatternTranslations {
-    sourceSheet?:       PatternTranslationsSourceSheet;
-    variantId?:         number;
+export enum PrimaryShape {
+    ALine = "A-line",
+    ALong = "A-long",
+    BLong = "B-long",
+    Balloon = "Balloon",
+    Box = "Box",
+    Dress = "Dress",
+    Kimono = "Kimono",
+    Marinesuit = "Marinesuit",
+    Overall = "Overall",
+    Rib = "Rib",
+    Robe = "Robe",
+    Salopette = "Salopette",
+}
+
+export interface Recipe {
+    sourceSheet:           RecipeSourceSheet;
+    name:                  string;
+    image:                 string;
+    buy:                   number;
+    sell:                  number | null;
+    milesPrice:            number | null;
+    source:                string[];
+    sourceNotes:           null | string;
+    versionAdded:          Version;
+    versionUnlocked:       Version;
+    recipesToUnlock:       number;
+    category:              Category;
+    craftedItemInternalId: number;
+    cardColor:             CardColor | null;
+    diyIconFilename:       string;
+    serialId:              number;
+    internalId:            number;
+    uniqueEntryId:         string;
+    translations:          RecipeTranslations;
+    materials:             { [key: string]: number };
+    materialsTranslations: MaterialsTranslations;
+}
+
+export enum CardColor {
+    Beige = "beige",
+    Blue = "blue",
+    Brick = "brick",
+    Brown = "brown",
+    DarkGray = "dark gray",
+    Gold = "gold",
+    Green = "green",
+    LightGray = "light gray",
+    Orange = "orange",
+    Pink = "pink",
+    Red = "red",
+    Silver = "silver",
+    White = "white",
+    Yellow = "yellow",
+}
+
+export interface MaterialsTranslations {
+    "star fragment"?:         AquariusFragment;
+    "Aquarius fragment"?:     AquariusFragment;
+    "gold nugget"?:           AquariusFragment;
+    stone?:                   AquariusFragment;
+    "Aries fragment"?:        AquariusFragment;
+    "earth egg"?:             AquariusFragment;
+    "stone egg"?:             AquariusFragment;
+    "leaf egg"?:              AquariusFragment;
+    "wood egg"?:              AquariusFragment;
+    "sky egg"?:               AquariusFragment;
+    "water egg"?:             AquariusFragment;
+    "wobbling Zipper toy"?:   AquariusFragment;
+    "Cancer fragment"?:       AquariusFragment;
+    "Capricorn fragment"?:    AquariusFragment;
+    wood?:                    AquariusFragment;
+    hardwood?:                AquariusFragment;
+    softwood?:                AquariusFragment;
+    "iron nugget"?:           AquariusFragment;
+    "mini DIY workbench"?:    AquariusFragment;
+    "Gemini fragment"?:       AquariusFragment;
+    "red ornament"?:          AquariusFragment;
+    "blue ornament"?:         AquariusFragment;
+    "gold ornament"?:         AquariusFragment;
+    clay?:                    AquariusFragment;
+    "Leo fragment"?:          AquariusFragment;
+    "Libra fragment"?:        AquariusFragment;
+    "Pisces fragment"?:       AquariusFragment;
+    "Sagittarius fragment"?:  AquariusFragment;
+    "Scorpius fragment"?:     AquariusFragment;
+    "Taurus fragment"?:       AquariusFragment;
+    "Virgo fragment"?:        AquariusFragment;
+    acorn?:                   AquariusFragment;
+    apple?:                   AquariusFragment;
+    "maple leaf"?:            AquariusFragment;
+    "clump of weeds"?:        AquariusFragment;
+    "flimsy axe"?:            AquariusFragment;
+    "bamboo piece"?:          AquariusFragment;
+    "young spring bamboo"?:   AquariusFragment;
+    "bamboo shoot"?:          AquariusFragment;
+    "wasp nest"?:             AquariusFragment;
+    "cherry-blossom petal"?:  AquariusFragment;
+    "blue roses"?:            AquariusFragment;
+    campfire?:                AquariusFragment;
+    "cherry-blossom bonsai"?: AquariusFragment;
+    "pine bonsai tree"?:      AquariusFragment;
+    "flimsy shovel"?:         AquariusFragment;
+    "log stakes"?:            AquariusFragment;
+    "tree branch"?:           AquariusFragment;
+    "cardboard box"?:         AquariusFragment;
+    cherry?:                  AquariusFragment;
+    "black cosmos"?:          AquariusFragment;
+    "purple mums"?:           AquariusFragment;
+    "pink mums"?:             AquariusFragment;
+    "purple roses"?:          AquariusFragment;
+    "black roses"?:           AquariusFragment;
+    "purple tulips"?:         AquariusFragment;
+    "pink tulips"?:           AquariusFragment;
+    "orange tulips"?:         AquariusFragment;
+    "purple windflowers"?:    AquariusFragment;
+    book?:                    AquariusFragment;
+    coconut?:                 AquariusFragment;
+    "blue hyacinths"?:        AquariusFragment;
+    "pink hyacinths"?:        AquariusFragment;
+    "orange hyacinths"?:      AquariusFragment;
+    "orange pansies"?:        AquariusFragment;
+    "blue pansies"?:          AquariusFragment;
+    "purple pansies"?:        AquariusFragment;
+    "blue windflowers"?:      AquariusFragment;
+    "pink windflowers"?:      AquariusFragment;
+    "white windflowers"?:     AquariusFragment;
+    "red cosmos"?:            AquariusFragment;
+    "yellow cosmos"?:         AquariusFragment;
+    "white cosmos"?:          AquariusFragment;
+    "pink cosmos"?:           AquariusFragment;
+    "large star fragment"?:   AquariusFragment;
+    "pink lilies"?:           AquariusFragment;
+    "orange lilies"?:         AquariusFragment;
+    "white lilies"?:          AquariusFragment;
+    "pink roses"?:            AquariusFragment;
+    "orange roses"?:          AquariusFragment;
+    "black lilies"?:          AquariusFragment;
+    "black tulips"?:          AquariusFragment;
+    "scattered papers"?:      AquariusFragment;
+    "yellow lilies"?:         AquariusFragment;
+    "red mums"?:              AquariusFragment;
+    "yellow roses"?:          AquariusFragment;
+    "manila clam"?:           AquariusFragment;
+    "flimsy fishing rod"?:    AquariusFragment;
+    "red roses"?:             AquariusFragment;
+    "rare mushroom"?:         AquariusFragment;
+    "round mushroom"?:        AquariusFragment;
+    "skinny mushroom"?:       AquariusFragment;
+    "flat mushroom"?:         AquariusFragment;
+    "elegant mushroom"?:      AquariusFragment;
+    fossil?:                  AquariusFragment;
+    "drinking fountain"?:     AquariusFragment;
+    "large snowflake"?:       AquariusFragment;
+    snowflake?:               AquariusFragment;
+    pear?:                    AquariusFragment;
+    orange?:                  AquariusFragment;
+    peach?:                   Comfy;
+    "empty can"?:             AquariusFragment;
+    boot?:                    AquariusFragment;
+    "old tire"?:              AquariusFragment;
+    "white hyacinths"?:       AquariusFragment;
+    "Papa bear"?:             AquariusFragment;
+    "Mama bear"?:             AquariusFragment;
+    "Baby bear"?:             AquariusFragment;
+    "gold roses"?:            AquariusFragment;
+    "screen wall"?:           AquariusFragment;
+    axe?:                     AquariusFragment;
+    net?:                     AquariusFragment;
+    "fishing rod"?:           AquariusFragment;
+    shovel?:                  AquariusFragment;
+    slingshot?:               AquariusFragment;
+    "watering can"?:          AquariusFragment;
+    "red hyacinths"?:         AquariusFragment;
+    "yellow hyacinths"?:      AquariusFragment;
+    "purple hyacinths"?:      AquariusFragment;
+    "ironwood dresser"?:      AquariusFragment;
+    "cutting board"?:         AquariusFragment;
+    "pine cone"?:             AquariusFragment;
+    "red lilies"?:            AquariusFragment;
+    "log bench"?:             AquariusFragment;
+    "log chair"?:             AquariusFragment;
+    "orange cosmos"?:         AquariusFragment;
+    "lucky cat"?:             AquariusFragment;
+    magazine?:                AquariusFragment;
+    pearl?:                   AquariusFragment;
+    "giant clam"?:            AquariusFragment;
+    "sand dollar"?:           AquariusFragment;
+    coral?:                   AquariusFragment;
+    conch?:                   AquariusFragment;
+    "sea snail"?:             AquariusFragment;
+    cowrie?:                  AquariusFragment;
+    bells?:                   null;
+    "yellow mums"?:           AquariusFragment;
+    "white mums"?:            AquariusFragment;
+    "log stool"?:             AquariusFragment;
+    "green mums"?:            AquariusFragment;
+    "flimsy net"?:            AquariusFragment;
+    "oil barrel"?:            AquariusFragment;
+    "red pansies"?:           AquariusFragment;
+    "yellow pansies"?:        AquariusFragment;
+    "white pansies"?:         AquariusFragment;
+    "zen cushion"?:           AquariusFragment;
+    rocket?:                  AquariusFragment;
+    "gold armor"?:            VariantTranslations;
+    "rusted part"?:           AquariusFragment;
+    "white roses"?:           AquariusFragment;
+    "venus comb"?:            AquariusFragment;
+    "document stack"?:        AquariusFragment;
+    "summer shell"?:          AquariusFragment;
+    "sandy-beach flooring"?:  AquariusFragment;
+    "upright piano"?:         AquariusFragment;
+    "painting set"?:          AquariusFragment;
+    "red tulips"?:            AquariusFragment;
+    "yellow tulips"?:         AquariusFragment;
+    "white tulips"?:          AquariusFragment;
+    "flimsy watering can"?:   AquariusFragment;
+    "wedding flower stand"?:  AquariusFragment;
+    "red windflowers"?:       AquariusFragment;
+    "orange windflowers"?:    AquariusFragment;
+    "wooden-block toy"?:      AquariusFragment;
+}
+
+export interface AquariusFragment {
+    sourceSheet?:       AquariusFragmentSourceSheet;
     id?:                string;
-    furnitureName?:     string;
+    version?:           Version;
     english:            string;
     englishEurope:      string;
     german:             string;
@@ -235,10 +466,11 @@ export interface PatternTranslations {
     russian:            string;
     plural:             boolean;
     internalIds?:       number[];
-    version?:           Version;
+    variantId?:         number;
+    furnitureName?:     string;
 }
 
-export enum PatternTranslationsSourceSheet {
+export enum AquariusFragmentSourceSheet {
     Accessories = "Accessories",
     Art = "Art",
     Bags = "Bags",
@@ -276,6 +508,7 @@ export enum PatternTranslationsSourceSheet {
 }
 
 export enum Version {
+    Empty = "",
     The100 = "1.0.0",
     The110 = "1.1.0",
     The110A = "1.1.0a",
@@ -285,229 +518,6 @@ export enum Version {
     The121C = "1.2.1c",
     The130 = "1.3.0",
     The140 = "1.4.0",
-}
-
-export enum PrimaryShape {
-    ALine = "A-line",
-    ALong = "A-long",
-    BLong = "B-long",
-    Balloon = "Balloon",
-    Box = "Box",
-    Dress = "Dress",
-    Kimono = "Kimono",
-    Marinesuit = "Marinesuit",
-    Overall = "Overall",
-    Rib = "Rib",
-    Robe = "Robe",
-    Salopette = "Salopette",
-}
-
-export interface Recipe {
-    sourceSheet:           RecipeSourceSheet;
-    name:                  string;
-    image:                 string;
-    buy:                   number;
-    sell:                  number | null;
-    milesPrice:            number | null;
-    source:                string[];
-    sourceNotes:           null | string;
-    versionAdded:          Version;
-    versionUnlocked:       Version;
-    recipesToUnlock:       number;
-    category:              Category;
-    craftedItemInternalId: number;
-    cardColor:             CardColor | null;
-    serialId:              number;
-    internalId:            number;
-    uniqueEntryId:         string;
-    translations:          RecipeTranslations;
-    materials:             { [key: string]: number };
-    materialsTranslations: MaterialsTranslations;
-}
-
-export enum CardColor {
-    Beige = "beige",
-    Blue = "blue",
-    Brick = "brick",
-    Brown = "brown",
-    DarkGray = "dark gray",
-    Gold = "gold",
-    Green = "green",
-    LightGray = "light gray",
-    Orange = "orange",
-    Pink = "pink",
-    Red = "red",
-    Silver = "silver",
-    White = "white",
-    Yellow = "yellow",
-}
-
-export interface MaterialsTranslations {
-    "star fragment"?:         PatternTranslations;
-    "Aquarius fragment"?:     PatternTranslations;
-    "gold nugget"?:           PatternTranslations;
-    stone?:                   PatternTranslations;
-    "Aries fragment"?:        PatternTranslations;
-    "earth egg"?:             PatternTranslations;
-    "stone egg"?:             PatternTranslations;
-    "leaf egg"?:              PatternTranslations;
-    "wood egg"?:              PatternTranslations;
-    "sky egg"?:               PatternTranslations;
-    "water egg"?:             PatternTranslations;
-    "wobbling Zipper toy"?:   PatternTranslations;
-    "Cancer fragment"?:       PatternTranslations;
-    "Capricorn fragment"?:    PatternTranslations;
-    wood?:                    PatternTranslations;
-    hardwood?:                PatternTranslations;
-    softwood?:                PatternTranslations;
-    "iron nugget"?:           PatternTranslations;
-    "mini DIY workbench"?:    PatternTranslations;
-    "Gemini fragment"?:       PatternTranslations;
-    "red ornament"?:          PatternTranslations;
-    "blue ornament"?:         PatternTranslations;
-    "gold ornament"?:         PatternTranslations;
-    clay?:                    PatternTranslations;
-    "Leo fragment"?:          PatternTranslations;
-    "Libra fragment"?:        PatternTranslations;
-    "Pisces fragment"?:       PatternTranslations;
-    "Sagittarius fragment"?:  PatternTranslations;
-    "Scorpius fragment"?:     PatternTranslations;
-    "Taurus fragment"?:       PatternTranslations;
-    "Virgo fragment"?:        PatternTranslations;
-    acorn?:                   PatternTranslations;
-    apple?:                   PatternTranslations;
-    "maple leaf"?:            PatternTranslations;
-    "clump of weeds"?:        PatternTranslations;
-    "flimsy axe"?:            PatternTranslations;
-    "bamboo piece"?:          PatternTranslations;
-    "young spring bamboo"?:   PatternTranslations;
-    "bamboo shoot"?:          PatternTranslations;
-    "wasp nest"?:             PatternTranslations;
-    "cherry-blossom petal"?:  PatternTranslations;
-    "blue roses"?:            PatternTranslations;
-    campfire?:                PatternTranslations;
-    "cherry-blossom bonsai"?: PatternTranslations;
-    "pine bonsai tree"?:      PatternTranslations;
-    "flimsy shovel"?:         PatternTranslations;
-    "log stakes"?:            PatternTranslations;
-    "tree branch"?:           PatternTranslations;
-    "cardboard box"?:         PatternTranslations;
-    cherry?:                  PatternTranslations;
-    "black cosmos"?:          PatternTranslations;
-    "purple mums"?:           PatternTranslations;
-    "pink mums"?:             PatternTranslations;
-    "purple roses"?:          PatternTranslations;
-    "black roses"?:           PatternTranslations;
-    "purple tulips"?:         PatternTranslations;
-    "pink tulips"?:           PatternTranslations;
-    "orange tulips"?:         PatternTranslations;
-    "purple windflowers"?:    PatternTranslations;
-    book?:                    PatternTranslations;
-    coconut?:                 PatternTranslations;
-    "blue hyacinths"?:        PatternTranslations;
-    "pink hyacinths"?:        PatternTranslations;
-    "orange hyacinths"?:      PatternTranslations;
-    "orange pansies"?:        PatternTranslations;
-    "blue pansies"?:          PatternTranslations;
-    "purple pansies"?:        PatternTranslations;
-    "blue windflowers"?:      PatternTranslations;
-    "pink windflowers"?:      PatternTranslations;
-    "white windflowers"?:     PatternTranslations;
-    "red cosmos"?:            PatternTranslations;
-    "yellow cosmos"?:         PatternTranslations;
-    "white cosmos"?:          PatternTranslations;
-    "pink cosmos"?:           PatternTranslations;
-    "large star fragment"?:   PatternTranslations;
-    "pink lilies"?:           PatternTranslations;
-    "orange lilies"?:         PatternTranslations;
-    "white lilies"?:          PatternTranslations;
-    "pink roses"?:            PatternTranslations;
-    "orange roses"?:          PatternTranslations;
-    "black lilies"?:          PatternTranslations;
-    "black tulips"?:          PatternTranslations;
-    "scattered papers"?:      PatternTranslations;
-    "yellow lilies"?:         PatternTranslations;
-    "red mums"?:              PatternTranslations;
-    "yellow roses"?:          PatternTranslations;
-    "manila clam"?:           PatternTranslations;
-    "flimsy fishing rod"?:    PatternTranslations;
-    "red roses"?:             PatternTranslations;
-    "rare mushroom"?:         PatternTranslations;
-    "round mushroom"?:        PatternTranslations;
-    "skinny mushroom"?:       PatternTranslations;
-    "flat mushroom"?:         PatternTranslations;
-    "elegant mushroom"?:      PatternTranslations;
-    fossil?:                  PatternTranslations;
-    "drinking fountain"?:     PatternTranslations;
-    "large snowflake"?:       PatternTranslations;
-    snowflake?:               PatternTranslations;
-    pear?:                    PatternTranslations;
-    orange?:                  PatternTranslations;
-    peach?:                   Comfy;
-    "empty can"?:             PatternTranslations;
-    boot?:                    PatternTranslations;
-    "old tire"?:              PatternTranslations;
-    "white hyacinths"?:       PatternTranslations;
-    "Papa bear"?:             PatternTranslations;
-    "Mama bear"?:             PatternTranslations;
-    "Baby bear"?:             PatternTranslations;
-    "gold roses"?:            PatternTranslations;
-    "screen wall"?:           PatternTranslations;
-    axe?:                     PatternTranslations;
-    net?:                     PatternTranslations;
-    "fishing rod"?:           PatternTranslations;
-    shovel?:                  PatternTranslations;
-    slingshot?:               PatternTranslations;
-    "watering can"?:          PatternTranslations;
-    "red hyacinths"?:         PatternTranslations;
-    "yellow hyacinths"?:      PatternTranslations;
-    "purple hyacinths"?:      PatternTranslations;
-    "ironwood dresser"?:      PatternTranslations;
-    "cutting board"?:         PatternTranslations;
-    "pine cone"?:             PatternTranslations;
-    "red lilies"?:            PatternTranslations;
-    "log bench"?:             PatternTranslations;
-    "log chair"?:             PatternTranslations;
-    "orange cosmos"?:         PatternTranslations;
-    "lucky cat"?:             PatternTranslations;
-    magazine?:                PatternTranslations;
-    pearl?:                   PatternTranslations;
-    "giant clam"?:            PatternTranslations;
-    "sand dollar"?:           PatternTranslations;
-    coral?:                   PatternTranslations;
-    Stone?:                   null;
-    conch?:                   PatternTranslations;
-    "sea snail"?:             PatternTranslations;
-    cowrie?:                  PatternTranslations;
-    bells?:                   null;
-    "yellow mums"?:           PatternTranslations;
-    "white mums"?:            PatternTranslations;
-    "log stool"?:             PatternTranslations;
-    "green mums"?:            PatternTranslations;
-    "flimsy net"?:            PatternTranslations;
-    "oil barrel"?:            PatternTranslations;
-    "red pansies"?:           PatternTranslations;
-    "yellow pansies"?:        PatternTranslations;
-    "white pansies"?:         PatternTranslations;
-    "zen cushion"?:           PatternTranslations;
-    rocket?:                  PatternTranslations;
-    "gold armor"?:            VariantTranslations;
-    "rusted part"?:           PatternTranslations;
-    "white roses"?:           PatternTranslations;
-    "venus comb"?:            PatternTranslations;
-    "document stack"?:        PatternTranslations;
-    "summer shell"?:          PatternTranslations;
-    "sandy-beach flooring"?:  PatternTranslations;
-    "upright piano"?:         PatternTranslations;
-    "painting set"?:          PatternTranslations;
-    "red tulips"?:            PatternTranslations;
-    "yellow tulips"?:         PatternTranslations;
-    "white tulips"?:          PatternTranslations;
-    "flimsy watering can"?:   PatternTranslations;
-    "wedding flower stand"?:  PatternTranslations;
-    "red windflowers"?:       PatternTranslations;
-    "orange windflowers"?:    PatternTranslations;
-    "wooden-block toy"?:      PatternTranslations;
 }
 
 export interface VariantTranslations {
@@ -765,7 +775,7 @@ export enum RecipeSourceSheet {
 }
 
 export interface RecipeTranslations {
-    sourceSheet:        PatternTranslationsSourceSheet;
+    sourceSheet:        AquariusFragmentSourceSheet;
     id:                 number | string;
     version:            Version;
     english:            string;
@@ -866,7 +876,7 @@ export interface ThemesTranslations {
 }
 
 export interface ItemTranslations {
-    sourceSheet:        PatternTranslationsSourceSheet;
+    sourceSheet:        AquariusFragmentSourceSheet;
     id:                 number | string;
     version?:           Version;
     english:            string;
@@ -970,9 +980,11 @@ export interface VariationElement {
     colors:               Color[];
     image?:               string;
     pattern?:             null | string;
-    patternTitle?:        PatternTitle | null;
+    patternTitle?:        null | string;
     variantId?:           VariantID;
-    patternTranslations?: PatternTranslations | null;
+    patternTranslations?: AquariusFragment | null;
+    exchangePrice?:       number | null;
+    exchangeCurrency?:    ExchangeCurrency | null;
     surface?:             boolean;
     hhaCategory?:         HhaCategory | null;
     concepts?:            Concept[];
@@ -981,66 +993,22 @@ export interface VariationElement {
     stackSize?:           number;
 }
 
-export enum PatternTitle {
-    AdvertisementPanel = "Advertisement panel",
-    BassDrumHead = "Bass drum head",
-    BedMat = "Bed mat",
-    Bedding = "Bedding",
-    Board = "Board",
-    ClockFace = "Clock face",
-    Cloth = "Cloth",
-    Curtain = "Curtain",
-    Cushion = "Cushion",
-    Cushions = "Cushions",
-    Design = "Design",
-    DrawingPaper = "Drawing paper",
-    DryingShirt = "Drying shirt",
-    Fabric = "Fabric",
-    FavoriteCard = "Favorite card",
-    FavoriteUmbrella = "Favorite umbrella",
-    Flag = "Flag",
-    Flier = "Flier",
-    Lamp = "Lamp",
-    Lampshade = "Lampshade",
-    Magazine = "Magazine",
-    ManuscriptPaper = "Manuscript paper",
-    Mat = "Mat",
-    PanelDesign = "Panel design",
-    Paper = "Paper",
-    Pillow = "Pillow",
-    Placemat = "Placemat",
-    Placemats = "Placemats",
-    Printout = "Printout",
-    Ribbon = "Ribbon",
-    Screen = "Screen",
-    Seat = "Seat",
-    Shawl = "Shawl",
-    Shirt = "Shirt",
-    Signature = "Signature",
-    Sticker = "Sticker",
-    StickerArea = "Sticker area",
-    Table = "Table",
-    Tablecloth = "Tablecloth",
-    Towel = "Towel",
-    Tray = "Tray",
-}
-
 export interface VariationVariantTranslations {
     sourceSheet?:       VariantTranslationsSourceSheet;
     variantId?:         number;
     id?:                number | string;
     clothName?:         string;
-    english:            number | string;
-    englishEurope:      number | string;
-    german:             number | string;
-    spanish:            number | string;
-    spanishUs:          number | string;
-    french:             number | string;
-    frenchUs:           number | string;
-    italian:            number | string;
-    dutch:              number | string;
-    chinese:            string;
-    chineseTraditional: string;
+    english:            number | null | string;
+    englishEurope:      number | null | string;
+    german:             number | null | string;
+    spanish:            number | null | string;
+    spanishUs:          number | null | string;
+    french:             number | null | string;
+    frenchUs:           number | null | string;
+    italian:            number | null | string;
+    dutch:              number | null | string;
+    chinese:            null | string;
+    chineseTraditional: null | string;
     japanese:           null | string;
     korean:             null | string;
     russian:            number | null | string;
@@ -1058,7 +1026,6 @@ export enum InternalIDEnum {
 
 export enum VfxType {
     LightOff = "LightOff",
-    Parallax = "Parallax",
     Random = "Random",
     Synchro = "Synchro",
 }
@@ -1066,8 +1033,8 @@ export enum VfxType {
 export enum WindowColor {
     BlackMetal = "Black Metal",
     DarkWood = "Dark Wood",
-    GrayMetal = "Gray Metal",
-    GrayWood = "Gray Wood",
+    GreyMetal = "Grey Metal",
+    GreyWood = "Grey Wood",
     LightWood = "Light Wood",
     NaturalWood = "Natural Wood",
     WhiteMetal = "White Metal",

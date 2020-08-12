@@ -61,6 +61,7 @@ export enum Version {
 }
 
 export enum Color {
+    Aqua = "Aqua",
     Beige = "Beige",
     Black = "Black",
     Blue = "Blue",
@@ -68,7 +69,6 @@ export enum Color {
     Colorful = "Colorful",
     Gray = "Gray",
     Green = "Green",
-    LightBlue = "Light blue",
     Orange = "Orange",
     Pink = "Pink",
     Purple = "Purple",
