@@ -6,6 +6,7 @@
 
 ### Enumeration members
 
+* [Empty](_item_.version.md#empty)
 * [The100](_item_.version.md#the100)
 * [The110](_item_.version.md#the110)
 * [The110A](_item_.version.md#the110a)
@@ -18,11 +19,19 @@
 
 ## Enumeration members
 
+###  Empty
+
+• **Empty**: = ""
+
+*Defined in [Item.ts:511](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L511)*
+
+___
+
 ###  The100
 
 • **The100**: = "1.0.0"
 
-*Defined in [Item.ts:279](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L279)*
+*Defined in [Item.ts:512](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L512)*
 
 ___
 
@@ -30,7 +39,7 @@ ___
 
 • **The110**: = "1.1.0"
 
-*Defined in [Item.ts:280](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L280)*
+*Defined in [Item.ts:513](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L513)*
 
 ___
 
@@ -38,7 +47,7 @@ ___
 
 • **The110A**: = "1.1.0a"
 
-*Defined in [Item.ts:281](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L281)*
+*Defined in [Item.ts:514](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L514)*
 
 ___
 
@@ -46,7 +55,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Item.ts:282](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L282)*
+*Defined in [Item.ts:515](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L515)*
 
 ___
 
@@ -54,7 +63,7 @@ ___
 
 • **The120A**: = "1.2.0a"
 
-*Defined in [Item.ts:283](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L283)*
+*Defined in [Item.ts:516](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L516)*
 
 ___
 
@@ -62,7 +71,7 @@ ___
 
 • **The120B**: = "1.2.0b"
 
-*Defined in [Item.ts:284](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L284)*
+*Defined in [Item.ts:517](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L517)*
 
 ___
 
@@ -70,7 +79,7 @@ ___
 
 • **The121C**: = "1.2.1c"
 
-*Defined in [Item.ts:285](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L285)*
+*Defined in [Item.ts:518](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L518)*
 
 ___
 
@@ -78,7 +87,7 @@ ___
 
 • **The130**: = "1.3.0"
 
-*Defined in [Item.ts:286](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L286)*
+*Defined in [Item.ts:519](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L519)*
 
 ___
 
@@ -86,4 +95,4 @@ ___
 
 • **The140**: = "1.4.0"
 
-*Defined in [Item.ts:287](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L287)*
+*Defined in [Item.ts:520](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L520)*

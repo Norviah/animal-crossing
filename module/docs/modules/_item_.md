@@ -6,6 +6,7 @@
 
 ### Enumerations
 
+* [AquariusFragmentSourceSheet](../enums/_item_.aquariusfragmentsourcesheet.md)
 * [CardColor](../enums/_item_.cardcolor.md)
 * [Catalog](../enums/_item_.catalog.md)
 * [Category](../enums/_item_.category.md)
@@ -17,6 +18,7 @@
 * [Concept](../enums/_item_.concept.md)
 * [CurtainType](../enums/_item_.curtaintype.md)
 * [Dutch](../enums/_item_.dutch.md)
+* [ExchangeCurrency](../enums/_item_.exchangecurrency.md)
 * [French](../enums/_item_.french.md)
 * [German](../enums/_item_.german.md)
 * [HhaCategory](../enums/_item_.hhacategory.md)
@@ -29,8 +31,6 @@
 * [LightingType](../enums/_item_.lightingtype.md)
 * [Museum](../enums/_item_.museum.md)
 * [PaneType](../enums/_item_.panetype.md)
-* [PatternTitle](../enums/_item_.patterntitle.md)
-* [PatternTranslationsSourceSheet](../enums/_item_.patterntranslationssourcesheet.md)
 * [PrimaryShape](../enums/_item_.primaryshape.md)
 * [RecipeSourceSheet](../enums/_item_.recipesourcesheet.md)
 * [Russian](../enums/_item_.russian.md)
@@ -51,11 +51,11 @@
 
 ### Interfaces
 
+* [AquariusFragment](../interfaces/_item_.aquariusfragment.md)
 * [Comfy](../interfaces/_item_.comfy.md)
 * [Item](../interfaces/_item_.item.md)
 * [ItemTranslations](../interfaces/_item_.itemtranslations.md)
 * [MaterialsTranslations](../interfaces/_item_.materialstranslations.md)
-* [PatternTranslations](../interfaces/_item_.patterntranslations.md)
 * [Recipe](../interfaces/_item_.recipe.md)
 * [RecipeTranslations](../interfaces/_item_.recipetranslations.md)
 * [ThemesTranslations](../interfaces/_item_.themestranslations.md)

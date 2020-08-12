@@ -15,7 +15,7 @@
 
 • **DressesVariants**: = "Dresses Variants"
 
-*Defined in [Reaction.ts:13](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Reaction.ts#L13)*
+*Defined in [Reaction.ts:13](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Reaction.ts#L13)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Reactions**: = "Reactions"
 
-*Defined in [Reaction.ts:14](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Reaction.ts#L14)*
+*Defined in [Reaction.ts:14](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Reaction.ts#L14)*

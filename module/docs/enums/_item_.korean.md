@@ -25,7 +25,7 @@
 
 • **데일리**: = "데일리"
 
-*Defined in [Item.ts:712](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L712)*
+*Defined in [Item.ts:722](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L722)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **두근**: = "두근"
 
-*Defined in [Item.ts:713](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L713)*
+*Defined in [Item.ts:723](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L723)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **릴랙스**: = "릴랙스"
 
-*Defined in [Item.ts:714](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L714)*
+*Defined in [Item.ts:724](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L724)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 • **메르헨**: = "메르헨"
 
-*Defined in [Item.ts:715](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L715)*
+*Defined in [Item.ts:725](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L725)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 • **바캉스**: = "바캉스"
 
-*Defined in [Item.ts:716](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L716)*
+*Defined in [Item.ts:726](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L726)*
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 • **비즈니스**: = "비즈니스"
 
-*Defined in [Item.ts:717](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L717)*
+*Defined in [Item.ts:727](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L727)*
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 • **스테이지**: = "스테이지"
 
-*Defined in [Item.ts:718](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L718)*
+*Defined in [Item.ts:728](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L728)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 • **스포츠**: = "스포츠"
 
-*Defined in [Item.ts:719](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L719)*
+*Defined in [Item.ts:729](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L729)*
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 • **아웃도어**: = "아웃도어"
 
-*Defined in [Item.ts:720](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L720)*
+*Defined in [Item.ts:730](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L730)*
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 • **파티**: = "파티"
 
-*Defined in [Item.ts:721](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L721)*
+*Defined in [Item.ts:731](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L731)*
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 • **포멀**: = "포멀"
 
-*Defined in [Item.ts:722](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L722)*
+*Defined in [Item.ts:732](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L732)*
 
 ___
 
@@ -113,4 +113,4 @@ ___
 
 • **호러**: = "호러"
 
-*Defined in [Item.ts:723](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Item.ts#L723)*
+*Defined in [Item.ts:733](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L733)*

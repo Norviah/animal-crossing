@@ -6,6 +6,7 @@
 
 ### Enumeration members
 
+* [Aqua](_villager_.color.md#aqua)
 * [Beige](_villager_.color.md#beige)
 * [Black](_villager_.color.md#black)
 * [Blue](_villager_.color.md#blue)
@@ -13,7 +14,6 @@
 * [Colorful](_villager_.color.md#colorful)
 * [Gray](_villager_.color.md#gray)
 * [Green](_villager_.color.md#green)
-* [LightBlue](_villager_.color.md#lightblue)
 * [Orange](_villager_.color.md#orange)
 * [Pink](_villager_.color.md#pink)
 * [Purple](_villager_.color.md#purple)
@@ -23,11 +23,19 @@
 
 ## Enumeration members
 
+###  Aqua
+
+• **Aqua**: = "Aqua"
+
+*Defined in [Villager.ts:64](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L64)*
+
+___
+
 ###  Beige
 
 • **Beige**: = "Beige"
 
-*Defined in [Villager.ts:64](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L64)*
+*Defined in [Villager.ts:65](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L65)*
 
 ___
 
@@ -35,7 +43,7 @@ ___
 
 • **Black**: = "Black"
 
-*Defined in [Villager.ts:65](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L65)*
+*Defined in [Villager.ts:66](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L66)*
 
 ___
 
@@ -43,7 +51,7 @@ ___
 
 • **Blue**: = "Blue"
 
-*Defined in [Villager.ts:66](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L66)*
+*Defined in [Villager.ts:67](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L67)*
 
 ___
 
@@ -51,7 +59,7 @@ ___
 
 • **Brown**: = "Brown"
 
-*Defined in [Villager.ts:67](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L67)*
+*Defined in [Villager.ts:68](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L68)*
 
 ___
 
@@ -59,7 +67,7 @@ ___
 
 • **Colorful**: = "Colorful"
 
-*Defined in [Villager.ts:68](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L68)*
+*Defined in [Villager.ts:69](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L69)*
 
 ___
 
@@ -67,7 +75,7 @@ ___
 
 • **Gray**: = "Gray"
 
-*Defined in [Villager.ts:69](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L69)*
+*Defined in [Villager.ts:70](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L70)*
 
 ___
 
@@ -75,15 +83,7 @@ ___
 
 • **Green**: = "Green"
 
-*Defined in [Villager.ts:70](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L70)*
-
-___
-
-###  LightBlue
-
-• **LightBlue**: = "Light blue"
-
-*Defined in [Villager.ts:71](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L71)*
+*Defined in [Villager.ts:71](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L71)*
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 • **Orange**: = "Orange"
 
-*Defined in [Villager.ts:72](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L72)*
+*Defined in [Villager.ts:72](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L72)*
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 • **Pink**: = "Pink"
 
-*Defined in [Villager.ts:73](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L73)*
+*Defined in [Villager.ts:73](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L73)*
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 • **Purple**: = "Purple"
 
-*Defined in [Villager.ts:74](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L74)*
+*Defined in [Villager.ts:74](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L74)*
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 • **Red**: = "Red"
 
-*Defined in [Villager.ts:75](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L75)*
+*Defined in [Villager.ts:75](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L75)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 • **White**: = "White"
 
-*Defined in [Villager.ts:76](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L76)*
+*Defined in [Villager.ts:76](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L76)*
 
 ___
 
@@ -131,4 +131,4 @@ ___
 
 • **Yellow**: = "Yellow"
 
-*Defined in [Villager.ts:77](https://github.com/Norviah/animal-crossing/blob/37a256e/module/types/Villager.ts#L77)*
+*Defined in [Villager.ts:77](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Villager.ts#L77)*
