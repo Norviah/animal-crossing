@@ -25,7 +25,7 @@
 
 • **Готический**: = "готический"
 
-*Defined in [Item.ts:737](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L737)*
+*Defined in [Item.ts:737](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L737)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Отпускной**: = "отпускной"
 
-*Defined in [Item.ts:738](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L738)*
+*Defined in [Item.ts:738](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L738)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **Персик**: = "персик"
 
-*Defined in [Item.ts:739](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L739)*
+*Defined in [Item.ts:739](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L739)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 • **Повседневный**: = "повседневный"
 
-*Defined in [Item.ts:740](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L740)*
+*Defined in [Item.ts:740](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L740)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 • **Походный**: = "походный"
 
-*Defined in [Item.ts:741](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L741)*
+*Defined in [Item.ts:741](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L741)*
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 • **Праздничный**: = "праздничный"
 
-*Defined in [Item.ts:742](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L742)*
+*Defined in [Item.ts:742](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L742)*
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 • **Рабочий**: = "рабочий"
 
-*Defined in [Item.ts:743](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L743)*
+*Defined in [Item.ts:743](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L743)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 • **Спортивный**: = "спортивный"
 
-*Defined in [Item.ts:744](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L744)*
+*Defined in [Item.ts:744](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L744)*
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 • **Удобный**: = "удобный"
 
-*Defined in [Item.ts:745](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L745)*
+*Defined in [Item.ts:745](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L745)*
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 • **Фантазийный**: = "фантазийный"
 
-*Defined in [Item.ts:746](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L746)*
+*Defined in [Item.ts:746](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L746)*
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 • **Формальный**: = "формальный"
 
-*Defined in [Item.ts:747](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L747)*
+*Defined in [Item.ts:747](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L747)*
 
 ___
 
@@ -113,4 +113,4 @@ ___
 
 • **Эффектный**: = "эффектный"
 
-*Defined in [Item.ts:748](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Item.ts#L748)*
+*Defined in [Item.ts:748](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L748)*

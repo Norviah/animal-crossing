@@ -17,7 +17,7 @@
 
 • **AllDay**: = "All day"
 
-*Defined in [Event.ts:21](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L21)*
+*Defined in [Event.ts:21](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L21)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **The11Pm2Am**: = "11 PM – 2 AM"
 
-*Defined in [Event.ts:22](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L22)*
+*Defined in [Event.ts:22](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L22)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **The7PMMidnight**: = "7 PM – Midnight"
 
-*Defined in [Event.ts:23](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L23)*
+*Defined in [Event.ts:23](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L23)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **The9Am6Pm**: = "9 AM – 6 PM"
 
-*Defined in [Event.ts:24](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Event.ts#L24)*
+*Defined in [Event.ts:24](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Event.ts#L24)*

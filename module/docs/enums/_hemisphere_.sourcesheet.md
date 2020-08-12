@@ -15,7 +15,7 @@
 
 • **NorthernHemisphere**: = "Northern Hemisphere"
 
-*Defined in [Hemisphere.ts:58](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Hemisphere.ts#L58)*
+*Defined in [Hemisphere.ts:58](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Hemisphere.ts#L58)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **SouthernHemisphere**: = "Southern Hemisphere"
 
-*Defined in [Hemisphere.ts:59](https://github.com/Norviah/animal-crossing/blob/fbef868/module/types/Hemisphere.ts#L59)*
+*Defined in [Hemisphere.ts:59](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Hemisphere.ts#L59)*
