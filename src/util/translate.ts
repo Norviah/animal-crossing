@@ -126,7 +126,9 @@ function translate(item: obj): void {
       translation = translation ? omit(translation, uniqueValues) : undefined;
     }
 
-    item.variantTranslations = translation ?? null;
+    // Some translations have 'null' as their name, so we must make sure that a
+    // valid translation was found before setting it to the item.
+    item.variantTranslations = translation?.english ? translation : null;
   }
 
   // And do the same for the item's pattern.
@@ -148,7 +150,9 @@ function translate(item: obj): void {
       translation = findUniqueTranslation(item.pattern, ['Furniture Patterns']);
     }
 
-    item.patternTranslations = translation;
+    // Some translations have 'null' as their name, so we must make sure that a
+    // valid translation was found before setting it to the item.
+    item.patternTranslations = translation?.english ? translation : null;
   }
 
   // Set translations for each theme of the item.
