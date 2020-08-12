@@ -54,7 +54,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 700,
-    "source": [ "Nook Miles Shop" ],
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "villagerEquippable": true,
     "catalog": "Not for sale",
@@ -188,6 +188,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 9948,
       "cardColor": "red",
+      "diyIconFilename": "UmbrellaApple0",
       "serialId": 1780,
       "internalId": 623,
       "uniqueEntryId": "N2aQCn6hYqjw2ijPX",
@@ -779,6 +780,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 9949,
       "cardColor": "yellow",
+      "diyIconFilename": "UmbrellaCherry0",
       "serialId": 1480,
       "internalId": 614,
       "uniqueEntryId": "pKzsdzbBmNX3hZd7R",
@@ -886,6 +888,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 9945,
       "cardColor": "pink",
+      "diyIconFilename": "UmbrellaCherryblossom0",
       "serialId": 2680,
       "internalId": 629,
       "uniqueEntryId": "Ss2QnC4nP26NFyexM",
@@ -1109,7 +1112,7 @@
       "plural": false,
       "internalIds": [ 8768 ]
     },
-    "colors": [ "Blue", "Light blue" ],
+    "colors": [ "Blue", "Aqua" ],
     "recipe": null
   },
   {
@@ -1417,7 +1420,7 @@
       "plural": false,
       "internalIds": [ 6906 ]
     },
-    "colors": [ "Light blue", "White" ],
+    "colors": [ "Aqua", "White" ],
     "recipe": null
   },
   {
@@ -1653,6 +1656,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 6840,
       "cardColor": "green",
+      "diyIconFilename": "UmbrellaLeaf0",
       "serialId": 1282,
       "internalId": 456,
       "uniqueEntryId": "DyPomQRjemr3vjDQt",
@@ -1848,6 +1852,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7169,
       "cardColor": "brown",
+      "diyIconFilename": "UmbrellaAutumn0",
       "serialId": 2980,
       "internalId": 541,
       "uniqueEntryId": "MWAN27apJPewSFHiR",
@@ -2087,6 +2092,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7174,
       "cardColor": "orange",
+      "diyIconFilename": "UmbrellaMushroom0",
       "serialId": 3080,
       "internalId": 648,
       "uniqueEntryId": "PT3wRG87hdFbt8kgG",
@@ -2194,6 +2200,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 6912,
       "cardColor": "orange",
+      "diyIconFilename": "UmbrellaOrange0",
       "serialId": 1380,
       "internalId": 625,
       "uniqueEntryId": "ZFxY5TXjBeThpDkjy",
@@ -2433,6 +2440,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 9947,
       "cardColor": "pink",
+      "diyIconFilename": "UmbrellaPeach0",
       "serialId": 1580,
       "internalId": 620,
       "uniqueEntryId": "bpoAgczMK3d6dmtte",
@@ -2540,6 +2548,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 9950,
       "cardColor": "green",
+      "diyIconFilename": "UmbrellaPear0",
       "serialId": 1680,
       "internalId": 617,
       "uniqueEntryId": "Z4yN2HWQNGM9HYBZo",
@@ -2983,7 +2992,7 @@
       "plural": false,
       "internalIds": [ 6913 ]
     },
-    "colors": [ "Yellow", "Light blue" ],
+    "colors": [ "Yellow", "Aqua" ],
     "recipe": null
   },
   {
@@ -3115,7 +3124,7 @@
       "plural": false,
       "internalIds": [ 6905 ]
     },
-    "colors": [ "Light blue", "Light blue" ],
+    "colors": [ "Aqua", "Aqua" ],
     "recipe": null
   },
   {

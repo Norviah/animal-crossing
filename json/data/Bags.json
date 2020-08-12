@@ -149,6 +149,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 12447,
       "cardColor": "yellow",
+      "diyIconFilename": "BagBackpackEgg0",
       "serialId": 3781,
       "internalId": 694,
       "uniqueEntryId": "9njGw9d2nxaB5RiGR",
@@ -684,7 +685,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Beige" ]
+        "colors": [ "Aqua", "Beige" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt5.png",
@@ -769,7 +770,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 800,
-    "source": [ "Nook Miles Shop" ],
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "seasonalAvailability": "All Year",
     "sortOrder": 1,
@@ -960,6 +961,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7492,
       "cardColor": "brown",
+      "diyIconFilename": "BagShoulderAcorn0",
       "serialId": 2982,
       "internalId": 632,
       "uniqueEntryId": "a9FFbP64fTcJ3Cn5E",
@@ -1139,6 +1141,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7506,
       "cardColor": "green",
+      "diyIconFilename": "BagBackpackBasket0",
       "serialId": 2580,
       "internalId": 645,
       "uniqueEntryId": "j2a3p7Gtpy8fW2Z5S",
@@ -1645,6 +1648,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7490,
       "cardColor": "pink",
+      "diyIconFilename": "BagShoulderCherryblossoms0",
       "serialId": 2681,
       "internalId": 630,
       "uniqueEntryId": "vh9iLeDKLo3LR8T4G",
@@ -1853,7 +1857,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       }
     ],
     "styles": [ "Simple" ],
@@ -3096,7 +3100,7 @@
       "plural": false,
       "internalIds": [ 7477 ]
     },
-    "colors": [ "Light blue", "Blue" ],
+    "colors": [ "Aqua", "Blue" ],
     "styles": [ "Cute" ],
     "themes": [ "formal", "party" ],
     "recipe": null
@@ -3313,7 +3317,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Blue", "Light blue" ]
+        "colors": [ "Blue", "Aqua" ]
       }
     ],
     "styles": [ "Active" ],
@@ -3624,7 +3628,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Purple", "Light blue" ]
+        "colors": [ "Purple", "Aqua" ]
       }
     ],
     "styles": [ "Simple" ],
@@ -4273,6 +4277,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7511,
       "cardColor": "green",
+      "diyIconFilename": "BagBackpackGrass0",
       "serialId": 1288,
       "internalId": 636,
       "uniqueEntryId": "CoEssbnPs7xhuMbTF",
@@ -4452,6 +4457,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7498,
       "cardColor": "brown",
+      "diyIconFilename": "BagBackpackWood0",
       "serialId": 570,
       "internalId": 638,
       "uniqueEntryId": "fGoNxEDmgeZRehXXj",
@@ -4631,6 +4637,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7491,
       "cardColor": "brown",
+      "diyIconFilename": "BagShoulderMaple0",
       "serialId": 2981,
       "internalId": 631,
       "uniqueEntryId": "7uFqbJaQoW2doC3B3",
@@ -6229,6 +6236,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7494,
       "cardColor": "white",
+      "diyIconFilename": "BagShoulderShell0",
       "serialId": 2880,
       "internalId": 634,
       "uniqueEntryId": "yArwqRFy5soMedxMk",
@@ -6432,7 +6440,7 @@
       "plural": false,
       "internalIds": [ 7493 ]
     },
-    "colors": [ "Light blue", "White" ],
+    "colors": [ "Aqua", "White" ],
     "styles": [ "Elegant" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
@@ -6450,6 +6458,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7493,
       "cardColor": "blue",
+      "diyIconFilename": "BagShoulderSnow0",
       "serialId": 3380,
       "internalId": 633,
       "uniqueEntryId": "8b7zapAg4LJDda6Tk",
@@ -6857,6 +6866,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 7489,
       "cardColor": "silver",
+      "diyIconFilename": "BagShoulderStar0",
       "serialId": 2281,
       "internalId": 627,
       "uniqueEntryId": "4fJpnNtzwpyCgJcNg",
@@ -7827,7 +7837,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Black" ]
+        "colors": [ "Aqua", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTravel3.png",

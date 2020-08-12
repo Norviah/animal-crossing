@@ -11,7 +11,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 800,
-    "source": [ "Nook Miles Shop" ],
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
@@ -611,7 +611,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Black" ]
+        "colors": [ "Aqua", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard1.png",
