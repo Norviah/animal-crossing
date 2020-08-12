@@ -32,7 +32,7 @@ export interface Item {
     clothGroupId?:         number;
     internalId?:           number;
     uniqueEntryId?:        string;
-    variantTranslations?:  VariantTranslations;
+    variantTranslations?:  SeriesTranslations | null;
     colors?:               Color[];
     image?:                string;
     bodyTitle?:            null | string;
@@ -50,7 +50,7 @@ export interface Item {
     lightingType?:         LightingType | null;
     variantId?:            VariantID | null;
     patternTranslations?:  null;
-    seriesTranslations?:   VariantTranslations | null;
+    seriesTranslations?:   SeriesTranslations | null;
     concepts?:             Concept[];
     set?:                  null | string;
     series?:               null | string;
@@ -427,7 +427,7 @@ export interface MaterialsTranslations {
     "white pansies"?:         AquariusFragment;
     "zen cushion"?:           AquariusFragment;
     rocket?:                  AquariusFragment;
-    "gold armor"?:            VariantTranslations;
+    "gold armor"?:            SeriesTranslations;
     "rusted part"?:           AquariusFragment;
     "white roses"?:           AquariusFragment;
     "venus comb"?:            AquariusFragment;
@@ -520,31 +520,31 @@ export enum Version {
     The140 = "1.4.0",
 }
 
-export interface VariantTranslations {
-    sourceSheet?:       VariantTranslationsSourceSheet;
-    id?:                number;
+export interface SeriesTranslations {
+    sourceSheet:        SeriesTranslationsSourceSheet;
+    id:                 number;
     version?:           Version;
-    english:            null | string;
-    englishEurope:      null | string;
-    german:             null | string;
-    spanish:            null | string;
-    spanishUs:          null | string;
-    french:             null | string;
-    frenchUs:           null | string;
-    italian:            null | string;
-    dutch:              null | string;
-    chinese:            null | string;
-    chineseTraditional: null | string;
-    japanese:           null | string;
-    korean:             null | string;
-    russian:            null | string;
+    english:            string;
+    englishEurope:      string;
+    german:             string;
+    spanish:            string;
+    spanishUs:          string;
+    french:             string;
+    frenchUs:           string;
+    italian:            string;
+    dutch:              string;
+    chinese:            string;
+    chineseTraditional: string;
+    japanese:           string;
+    korean:             string;
+    russian:            string;
     plural:             boolean;
-    internalIds?:       number[];
+    internalIds:        number[];
     variantId?:         number;
     clothName?:         string;
 }
 
-export enum VariantTranslationsSourceSheet {
+export enum SeriesTranslationsSourceSheet {
     AccessoriesVariants = "Accessories Variants",
     BagsVariants = "Bags Variants",
     BottomsVariants = "Bottoms Variants",
@@ -976,7 +976,7 @@ export interface VariationElement {
     clothGroupId?:        number;
     internalId:           number;
     uniqueEntryId:        string;
-    variantTranslations:  VariationVariantTranslations | null;
+    variantTranslations:  VariantTranslations | null;
     colors:               Color[];
     image?:               string;
     pattern?:             null | string;
@@ -993,22 +993,22 @@ export interface VariationElement {
     stackSize?:           number;
 }
 
-export interface VariationVariantTranslations {
-    sourceSheet?:       VariantTranslationsSourceSheet;
+export interface VariantTranslations {
+    sourceSheet?:       SeriesTranslationsSourceSheet;
     variantId?:         number;
     id?:                number | string;
     clothName?:         string;
-    english:            number | null | string;
-    englishEurope:      number | null | string;
-    german:             number | null | string;
-    spanish:            number | null | string;
-    spanishUs:          number | null | string;
-    french:             number | null | string;
-    frenchUs:           number | null | string;
-    italian:            number | null | string;
-    dutch:              number | null | string;
-    chinese:            null | string;
-    chineseTraditional: null | string;
+    english:            number | string;
+    englishEurope:      number | string;
+    german:             number | string;
+    spanish:            number | string;
+    spanishUs:          number | string;
+    french:             number | string;
+    frenchUs:           number | string;
+    italian:            number | string;
+    dutch:              number | string;
+    chinese:            string;
+    chineseTraditional: string;
     japanese:           null | string;
     korean:             null | string;
     russian:            number | null | string;
