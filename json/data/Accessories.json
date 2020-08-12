@@ -834,7 +834,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 400,
-    "source": [ "Nook Miles Shop" ],
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
@@ -931,7 +931,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 500,
-    "source": [ "Nook Miles Shop" ],
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
@@ -1553,7 +1553,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Green" ]
+        "colors": [ "Aqua", "Green" ]
       }
     ],
     "styles": [ "Gorgeous" ],
@@ -2361,7 +2361,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       }
     ],
     "styles": [ "Simple" ],
@@ -2918,7 +2918,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "White", "Light blue" ]
+        "colors": [ "White", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthCatrina0.png",
@@ -4531,7 +4531,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       }
     ],
     "styles": [ "Active" ],
@@ -5709,7 +5709,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Black" ]
+        "colors": [ "Aqua", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassEyes0.png",
@@ -6832,7 +6832,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Blue" ]
+        "colors": [ "Aqua", "Blue" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart3.png",
@@ -7604,6 +7604,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 4682,
       "cardColor": "green",
+      "diyIconFilename": "AccessoryMouthLeafGreen",
       "serialId": 1280,
       "internalId": 261,
       "uniqueEntryId": "cJ9rqxsr9oZKrjHXJ",
@@ -8367,7 +8368,7 @@
       "plural": false,
       "internalIds": [ 5833 ]
     },
-    "colors": [ "Light blue", "Light blue" ],
+    "colors": [ "Aqua", "Aqua" ],
     "styles": [ "Simple" ],
     "themes": [ "comfy" ],
     "recipe": null
@@ -8936,7 +8937,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval3.png",
@@ -9275,7 +9276,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier6.png",
@@ -10849,7 +10850,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Green" ]
+        "colors": [ "Aqua", "Green" ]
       }
     ],
     "styles": [ "Elegant" ],
@@ -12182,7 +12183,7 @@
       "plural": false,
       "internalIds": [ 4337 ]
     },
-    "colors": [ "Black", "Light blue" ],
+    "colors": [ "Black", "Aqua" ],
     "styles": [ "Simple" ],
     "themes": [ "goth" ],
     "recipe": null
@@ -12404,7 +12405,7 @@
           "plural": false,
           "internalIds": [ 2214 ]
         },
-        "colors": [ "Light blue", "Orange" ]
+        "colors": [ "Aqua", "Orange" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski4.png",
@@ -12806,7 +12807,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Blue" ]
+        "colors": [ "Aqua", "Blue" ]
       }
     ],
     "styles": [ "Active" ],
@@ -13030,7 +13031,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Green", "Light blue" ]
+        "colors": [ "Green", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports4.png",
@@ -13064,7 +13065,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Blue" ]
+        "colors": [ "Aqua", "Blue" ]
       }
     ],
     "styles": [ "Active" ],
@@ -13689,7 +13690,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Black" ]
+        "colors": [ "Aqua", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar3.png",
@@ -14787,7 +14788,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Purple" ]
+        "colors": [ "Aqua", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle3.png",

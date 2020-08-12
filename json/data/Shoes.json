@@ -794,7 +794,7 @@
     "hhaBasePoints": 151,
     "size": "1x1",
     "milesPrice": 400,
-    "source": [ "Nook Miles Shop" ],
+    "source": [ "Nook Miles Redemption" ],
     "sourceNotes": null,
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
@@ -1197,6 +1197,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 5472,
       "cardColor": "dark gray",
+      "diyIconFilename": "ShoesKneeKnightIron",
       "serialId": 982,
       "internalId": 642,
       "uniqueEntryId": "zbzh6s369wZ3anypo",
@@ -1565,7 +1566,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "White" ]
+        "colors": [ "Aqua", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalBaboush5.png",
@@ -1898,7 +1899,7 @@
           "plural": false,
           "internalIds": [ "squ09" ]
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutBallet2.png",
@@ -2257,7 +2258,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Black" ]
+        "colors": [ "Aqua", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutBasket4.png",
@@ -3374,7 +3375,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Gray" ]
+        "colors": [ "Aqua", "Gray" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutSpike0.png",
@@ -4066,7 +4067,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Brown" ]
+        "colors": [ "Aqua", "Brown" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeWestern0.png",
@@ -4614,7 +4615,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Pink" ]
+        "colors": [ "Aqua", "Pink" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutCute5.png",
@@ -4840,6 +4841,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 12455,
       "cardColor": "yellow",
+      "diyIconFilename": "ShoesLowcutEggground0",
       "serialId": 3762,
       "internalId": 675,
       "uniqueEntryId": "usLoxmkjFnPhxs9nr",
@@ -5106,7 +5108,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Pink" ]
+        "colors": [ "Aqua", "Pink" ]
       }
     ],
     "styles": [ "Elegant" ],
@@ -5927,7 +5929,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "White" ]
+        "colors": [ "Aqua", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutSuede1.png",
@@ -6396,7 +6398,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Orange" ]
+        "colors": [ "Aqua", "Orange" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalBeachborder0.png",
@@ -6430,7 +6432,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Blue", "Light blue" ]
+        "colors": [ "Blue", "Aqua" ]
       }
     ],
     "styles": [ "Active" ],
@@ -6742,7 +6744,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Blue", "Light blue" ]
+        "colors": [ "Blue", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalFlower3.png",
@@ -7333,6 +7335,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 5524,
       "cardColor": "gold",
+      "diyIconFilename": "ShoesKneeKnightGold",
       "serialId": 1182,
       "internalId": 643,
       "uniqueEntryId": "4nY6xoTSqFMjzsTLp",
@@ -7565,7 +7568,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Green", "Light blue" ]
+        "colors": [ "Green", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutHightech3.png",
@@ -7599,7 +7602,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Purple" ]
+        "colors": [ "Aqua", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutHightech4.png",
@@ -8304,7 +8307,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "White" ]
+        "colors": [ "Aqua", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalRoomborder1.png",
@@ -8983,7 +8986,7 @@
     "diy": false,
     "size": "1x1",
     "milesPrice": null,
-    "sourceNotes": null,
+    "sourceNotes": "May appear in Able Sisters on Sundays during August",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "catalog": "For sale",
@@ -9010,7 +9013,7 @@
       "plural": false,
       "internalIds": [ 10965, 3704, 10962, 10963, 10967, 10968, 10964, 10966 ]
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Able Sisters" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -9848,6 +9851,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 12457,
       "cardColor": "yellow",
+      "diyIconFilename": "ShoesLowcutEggleaf0",
       "serialId": 3768,
       "internalId": 681,
       "uniqueEntryId": "wKxwrd3MDWZDidSGp",
@@ -10793,7 +10797,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Blue", "Light blue" ]
+        "colors": [ "Blue", "Aqua" ]
       }
     ],
     "styles": [ "Cool" ],
@@ -11181,7 +11185,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutStrap5.png",
@@ -11412,7 +11416,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "White" ]
+        "colors": [ "Aqua", "White" ]
       }
     ],
     "styles": [ "Cute" ],
@@ -11690,7 +11694,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Beige" ]
+        "colors": [ "Aqua", "Beige" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutMoccasin6.png",
@@ -12083,7 +12087,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Brown" ]
+        "colors": [ "Aqua", "Brown" ]
       }
     ],
     "styles": [ "Elegant" ],
@@ -12707,7 +12711,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutAnimal1.png",
@@ -13469,7 +13473,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "White" ]
+        "colors": [ "Aqua", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutLeathersneker4.png",
@@ -14547,6 +14551,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 12326,
       "cardColor": "dark gray",
+      "diyIconFilename": "ShoesKneeRecyclingboots0",
       "serialId": 690,
       "internalId": 664,
       "uniqueEntryId": "yqYz3fPAdv4nDcv9X",
@@ -14792,7 +14797,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutToilet0.png",
@@ -15856,7 +15861,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "White" ]
+        "colors": [ "Aqua", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutRubbertoe6.png",
@@ -17083,7 +17088,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Yellow" ]
+        "colors": [ "Aqua", "Yellow" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeSki5.png",
@@ -17275,6 +17280,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 12459,
       "cardColor": "yellow",
+      "diyIconFilename": "ShoesLowcutEggsky0",
       "serialId": 3774,
       "internalId": 687,
       "uniqueEntryId": "EHXPk3QeW6EZy7pF9",
@@ -17609,7 +17615,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "White" ]
+        "colors": [ "Aqua", "White" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutSlipon2.png",
@@ -17968,7 +17974,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalResin4.png",
@@ -18652,7 +18658,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       }
     ],
     "styles": [ "Simple" ],
@@ -19068,7 +19074,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Black" ]
+        "colors": [ "Aqua", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalSports2.png",
@@ -19619,6 +19625,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 12456,
       "cardColor": "yellow",
+      "diyIconFilename": "ShoesLowcutEggrock0",
       "serialId": 3765,
       "internalId": 678,
       "uniqueEntryId": "qjuG3PA8rJWbnu5Qp",
@@ -20556,7 +20563,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Purple" ]
+        "colors": [ "Aqua", "Purple" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutTrekking5.png",
@@ -21222,7 +21229,7 @@
           "plural": false,
           "internalIds": [ "squ09" ]
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutEnamelpumps2.png",
@@ -21950,7 +21957,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Light blue" ]
+        "colors": [ "Aqua", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalAqua1.png",
@@ -22364,7 +22371,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "Light blue", "Black" ]
+        "colors": [ "Aqua", "Black" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutMarine4.png",
@@ -22538,7 +22545,7 @@
       "plural": false,
       "internalIds": [ 12460 ]
     },
-    "colors": [ "Light blue", "Red" ],
+    "colors": [ "Aqua", "Red" ],
     "styles": [ "Active" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
@@ -22556,6 +22563,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 12460,
       "cardColor": "yellow",
+      "diyIconFilename": "ShoesLowcutEggfish0",
       "serialId": 3777,
       "internalId": 690,
       "uniqueEntryId": "Bg9geKwGApyACyXEx",
@@ -23665,6 +23673,7 @@
       "category": "Equipment",
       "craftedItemInternalId": 12458,
       "cardColor": "yellow",
+      "diyIconFilename": "ShoesLowcutEggforest0",
       "serialId": 3771,
       "internalId": 684,
       "uniqueEntryId": "cEawPHH27B36anZsf",
@@ -24895,7 +24904,7 @@
           "plural": false,
           "internalIds": []
         },
-        "colors": [ "White", "Light blue" ]
+        "colors": [ "White", "Aqua" ]
       },
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalZori5.png",

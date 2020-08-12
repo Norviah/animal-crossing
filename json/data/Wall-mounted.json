@@ -109,6 +109,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 12417,
       "cardColor": "yellow",
+      "diyIconFilename": "FtrEggLampWall",
       "serialId": 3731,
       "internalId": 700,
       "uniqueEntryId": "o4dxxDMeguMH8zQzx",
@@ -362,7 +363,7 @@
       "plural": false,
       "internalIds": [ 12418 ]
     },
-    "colors": [ "Light blue", "Colorful" ],
+    "colors": [ "Aqua", "Colorful" ],
     "concepts": [ "fancy" ],
     "set": null,
     "series": "Bunny Day",
@@ -381,6 +382,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 12418,
       "cardColor": "yellow",
+      "diyIconFilename": "FtrEggClock",
       "serialId": 3730,
       "internalId": 701,
       "uniqueEntryId": "CYdX8kEStsmMXX96v",
@@ -541,6 +543,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 12517,
       "cardColor": "yellow",
+      "diyIconFilename": "FtrDoorOrnamentWreathEaster",
       "serialId": 3740,
       "internalId": 707,
       "uniqueEntryId": "296Ws5ikbL8hMv3ZC",
@@ -890,6 +893,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5964,
       "cardColor": "silver",
+      "diyIconFilename": "FtrZodiacLeo",
       "serialId": 2304,
       "internalId": 407,
       "uniqueEntryId": "5QHREHAwKLPzLmmDi",
@@ -1769,6 +1773,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5958,
       "cardColor": "silver",
+      "diyIconFilename": "FtrZodiacSagittarius",
       "serialId": 2308,
       "internalId": 376,
       "uniqueEntryId": "E3TJjo97BMNgHWPAH",
@@ -2087,7 +2092,7 @@
           "internalIds": [ 929 ]
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "Light blue" ],
+        "colors": [ "Aqua", "Aqua" ],
         "concepts": [ "office", "facility" ]
       },
       {
@@ -3018,6 +3023,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 3558,
       "cardColor": "green",
+      "diyIconFilename": "FtrBambooFlowerwall",
       "serialId": 2430,
       "internalId": 151,
       "uniqueEntryId": "Xb2ywJv5tsDeSKG2H",
@@ -3375,6 +3381,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5772,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathRoseUrtraRare",
       "serialId": 3555,
       "internalId": 447,
       "uniqueEntryId": "XbGbAr5htMNb6h4mr",
@@ -3743,6 +3750,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4751,
       "cardColor": "brown",
+      "diyIconFilename": "FtrDoorPlateBone",
       "serialId": 500,
       "internalId": 467,
       "uniqueEntryId": "jbvhjbWecrky57s9e",
@@ -4019,7 +4027,7 @@
           "internalIds": [ 682 ]
         },
         "patternTranslations": null,
-        "colors": [ "White", "Light blue" ],
+        "colors": [ "White", "Aqua" ],
         "concepts": [ "child's room" ]
       }
     ],
@@ -4040,6 +4048,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 682,
       "cardColor": "brown",
+      "diyIconFilename": "FtrBoomerang",
       "serialId": 481,
       "internalId": 171,
       "uniqueEntryId": "rMasSCDby69z84Fai",
@@ -4751,6 +4760,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4012,
       "cardColor": "yellow",
+      "diyIconFilename": "FtrFruitsLampW",
       "serialId": 1430,
       "internalId": 162,
       "uniqueEntryId": "6hBjge6rn7Sxd5sr7",
@@ -4978,6 +4988,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 6832,
       "cardColor": "pink",
+      "diyIconFilename": "FtrSakuraClockW",
       "serialId": 2630,
       "internalId": 426,
       "uniqueEntryId": "9kPKbzAAQzJTu9758",
@@ -5159,6 +5170,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5764,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathCosmosRare",
       "serialId": 3548,
       "internalId": 444,
       "uniqueEntryId": "XgThrnxG75cqkssWt",
@@ -5319,6 +5331,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5765,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathAnemoneRare",
       "serialId": 3542,
       "internalId": 440,
       "uniqueEntryId": "2W5Pa9MKWHhknBENu",
@@ -5459,6 +5472,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4130,
       "cardColor": "green",
+      "diyIconFilename": "FtrPlanterPalm",
       "serialId": 1830,
       "internalId": 405,
       "uniqueEntryId": "tw8LKPHQrkMZwgAua",
@@ -5640,6 +5654,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5750,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathHyacinthMix",
       "serialId": 3561,
       "internalId": 453,
       "uniqueEntryId": "HaC5frhoXCDpy5YYj",
@@ -5842,6 +5857,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5767,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathPansyRare",
       "serialId": 3559,
       "internalId": 450,
       "uniqueEntryId": "RxiJe64ebSZy3dsHg",
@@ -6002,6 +6018,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5746,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathAnemoneMix",
       "serialId": 3541,
       "internalId": 441,
       "uniqueEntryId": "Aer6cEdrENAWFD4TP",
@@ -6775,6 +6792,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4293,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathCosmos",
       "serialId": 3546,
       "internalId": 227,
       "uniqueEntryId": "KwujCjwLcpr42PGb3",
@@ -7073,6 +7091,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5717,
       "cardColor": "dark gray",
+      "diyIconFilename": "FtrDoorOrnamentCrest",
       "serialId": 941,
       "internalId": 469,
       "uniqueEntryId": "rBCZK2XaMKZ4jXrNH",
@@ -7566,7 +7585,7 @@
           "internalIds": [ 3996 ]
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "Blue" ],
+        "colors": [ "Aqua", "Blue" ],
         "concepts": [ "fancy" ]
       },
       {
@@ -7795,6 +7814,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5770,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathYuriRare",
       "serialId": 3565,
       "internalId": 454,
       "uniqueEntryId": "ExWh3urifQgJTCCH3",
@@ -7955,6 +7975,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5766,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathRoseRare",
       "serialId": 3554,
       "internalId": 446,
       "uniqueEntryId": "utyr7MwFDwd8syFcW",
@@ -8136,6 +8157,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5771,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathTulipRare",
       "serialId": 3551,
       "internalId": 362,
       "uniqueEntryId": "oCnpF6D3PyAJ5kGz8",
@@ -8433,6 +8455,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 3340,
       "cardColor": "brown",
+      "diyIconFilename": "FtrHuntingtrophy",
       "serialId": 482,
       "internalId": 378,
       "uniqueEntryId": "BTF82ckDtSkknQmua",
@@ -9959,7 +9982,7 @@
           "internalIds": [ 4133 ]
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "White" ],
+        "colors": [ "Aqua", "White" ],
         "concepts": [ "facility" ]
       },
       {
@@ -10348,6 +10371,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5677,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathYuriMix",
       "serialId": 3564,
       "internalId": 455,
       "uniqueEntryId": "yj4Z2oGDi6Thvm89d",
@@ -10550,6 +10574,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5749,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathMumMix",
       "serialId": 3544,
       "internalId": 443,
       "uniqueEntryId": "qW3wgimoN7XhG5BvD",
@@ -10752,6 +10777,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5747,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathRoseMix",
       "serialId": 3553,
       "internalId": 448,
       "uniqueEntryId": "vr9dDrXLQuDSwfDdy",
@@ -10917,7 +10943,7 @@
           "plural": false
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "White" ],
+        "colors": [ "Aqua", "White" ],
         "concepts": [ "child's room", "fancy" ]
       },
       {
@@ -11809,7 +11835,7 @@
           "internalIds": [ 4027 ]
         },
         "patternTranslations": null,
-        "colors": [ "Yellow", "Light blue" ],
+        "colors": [ "Yellow", "Aqua" ],
         "concepts": [ "living room" ]
       },
       {
@@ -11978,6 +12004,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4027,
       "cardColor": "green",
+      "diyIconFilename": "FtrFlowerSwag",
       "serialId": 1230,
       "internalId": 121,
       "uniqueEntryId": "d2brTtEXPaFRfbcFh",
@@ -12314,6 +12341,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5719,
       "cardColor": "light gray",
+      "diyIconFilename": "FtrDoorOrnamentFossil",
       "serialId": 840,
       "internalId": 464,
       "uniqueEntryId": "eig2yBncaDeGLkfKP",
@@ -12572,6 +12600,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4378,
       "cardColor": "white",
+      "diyIconFilename": "FtrDoorOrnamentWreathFruit",
       "serialId": 1940,
       "internalId": 223,
       "uniqueEntryId": "FPCNEvg2aBDZZkjxu",
@@ -13127,6 +13156,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5820,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathRoseGold",
       "serialId": 3556,
       "internalId": 449,
       "uniqueEntryId": "fYHqu9bGpt2ivTWRt",
@@ -13287,6 +13317,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 11261,
       "cardColor": "gold",
+      "diyIconFilename": "FtrGearWallGold",
       "serialId": 1130,
       "internalId": 595,
       "uniqueEntryId": "5JDaCQoYazbP4QkGN",
@@ -14404,7 +14435,7 @@
           "plural": false,
           "internalIds": [ 7282 ]
         },
-        "colors": [ "Light blue", "White" ],
+        "colors": [ "Aqua", "White" ],
         "concepts": [ "zen-style", "expensive" ]
       },
       {
@@ -14462,7 +14493,7 @@
           "plural": false,
           "internalIds": [ 7282 ]
         },
-        "colors": [ "Light blue", "Gray" ],
+        "colors": [ "Aqua", "Gray" ],
         "concepts": [ "zen-style", "expensive" ]
       },
       {
@@ -14520,7 +14551,7 @@
           "plural": false,
           "internalIds": [ 7282 ]
         },
-        "colors": [ "Light blue", "Orange" ],
+        "colors": [ "Aqua", "Orange" ],
         "concepts": [ "zen-style", "expensive" ]
       },
       {
@@ -14578,7 +14609,7 @@
           "plural": false,
           "internalIds": [ 7282 ]
         },
-        "colors": [ "Light blue", "Orange" ],
+        "colors": [ "Aqua", "Orange" ],
         "concepts": [ "zen-style", "expensive" ]
       },
       {
@@ -14636,7 +14667,7 @@
           "plural": false,
           "internalIds": [ 7282 ]
         },
-        "colors": [ "Light blue", "Beige" ],
+        "colors": [ "Aqua", "Beige" ],
         "concepts": [ "zen-style", "expensive" ]
       },
       {
@@ -15107,6 +15138,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 3775,
       "cardColor": "green",
+      "diyIconFilename": "FtrTerrariumWall",
       "serialId": 1232,
       "internalId": 396,
       "uniqueEntryId": "GNtJWEuH8EoLwwi2a",
@@ -15283,7 +15315,7 @@
           "plural": false
         },
         "patternTranslations": null,
-        "colors": [ "Gray", "Light blue" ],
+        "colors": [ "Gray", "Aqua" ],
         "concepts": [ "fancy" ]
       },
       {
@@ -15347,7 +15379,7 @@
           "plural": false
         },
         "patternTranslations": null,
-        "colors": [ "Blue", "Light blue" ],
+        "colors": [ "Blue", "Aqua" ],
         "concepts": [ "fancy" ]
       },
       {
@@ -15593,6 +15625,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5468,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathHyacinth",
       "serialId": 3560,
       "internalId": 232,
       "uniqueEntryId": "ysyo8kjy4NBvj929M",
@@ -16514,6 +16547,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4752,
       "cardColor": "dark gray",
+      "diyIconFilename": "FtrDoorOrnamentIron",
       "serialId": 940,
       "internalId": 468,
       "uniqueEntryId": "ckD6nctsXhWjtaRmJ",
@@ -16720,6 +16754,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 3559,
       "cardColor": "dark gray",
+      "diyIconFilename": "FtrIronLampW",
       "serialId": 930,
       "internalId": 122,
       "uniqueEntryId": "b9KAgbNSetaJieTKp",
@@ -16947,6 +16982,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 3562,
       "cardColor": "dark gray",
+      "diyIconFilename": "FtrIronShelfW",
       "serialId": 931,
       "internalId": 123,
       "uniqueEntryId": "DYTTSvnJoQAtBqSpL",
@@ -17285,6 +17321,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 3275,
       "cardColor": "blue",
+      "diyIconFilename": "FtrIronwoodClockW",
       "serialId": 1040,
       "internalId": 94,
       "uniqueEntryId": "vWYzQ9pTSBH5Wbmmk",
@@ -17566,6 +17603,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 3992,
       "cardColor": "brown",
+      "diyIconFilename": "FtrKeyhanger",
       "serialId": 480,
       "internalId": 437,
       "uniqueEntryId": "cXTKSu7vAHz2c3tmD",
@@ -17944,6 +17982,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5641,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathYuri",
       "serialId": 3563,
       "internalId": 438,
       "uniqueEntryId": "T79DghfmPpWspJ9Eq",
@@ -18266,6 +18305,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4037,
       "cardColor": "brown",
+      "diyIconFilename": "FtrLogClockWall",
       "serialId": 340,
       "internalId": 115,
       "uniqueEntryId": "qAiYovJGN6oxwXWqY",
@@ -18526,7 +18566,7 @@
           "internalIds": [ 4119 ]
         },
         "patternTranslations": null,
-        "colors": [ "Beige", "Light blue" ],
+        "colors": [ "Beige", "Aqua" ],
         "concepts": [ "living room" ]
       }
     ],
@@ -18820,7 +18860,27 @@
       "plural": false
     },
     "patternTranslations": null,
-    "seriesTranslations": null,
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 30,
+      "version": "",
+      "english": "mermaid",
+      "englishEurope": "mermaid",
+      "german": "Nixen",
+      "spanish": "sirena",
+      "spanishUs": "sirena",
+      "french": "sirène",
+      "frenchUs": "sirène",
+      "italian": "sirena",
+      "dutch": "meerminnenstijl",
+      "chinese": "人鱼",
+      "chineseTraditional": "人魚",
+      "japanese": "マーメイド",
+      "korean": "머메이드",
+      "russian": "Русалка",
+      "plural": false,
+      "internalIds": []
+    },
     "translations": {
       "sourceSheet": "Furniture",
       "id": "Ftr_12557",
@@ -18842,7 +18902,7 @@
       "plural": false,
       "internalIds": [ 12557 ]
     },
-    "colors": [ "Pink", "Light blue" ],
+    "colors": [ "Pink", "Aqua" ],
     "concepts": [ "ocean", "fancy" ],
     "set": null,
     "series": "mermaid",
@@ -18861,6 +18921,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 12557,
       "cardColor": "white",
+      "diyIconFilename": "FtrMermaidclockWall",
       "serialId": 2730,
       "internalId": 722,
       "uniqueEntryId": "5ofhYTXth4c5AKdau",
@@ -19472,6 +19533,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5467,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathMum",
       "serialId": 3543,
       "internalId": 231,
       "uniqueEntryId": "LS93qbKCcMQLExqMG",
@@ -19674,6 +19736,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4726,
       "cardColor": "orange",
+      "diyIconFilename": "FtrDoorOrnamentWreathMushroom",
       "serialId": 3040,
       "internalId": 221,
       "uniqueEntryId": "5XfaKLorByDHGp9pi",
@@ -19902,6 +19965,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5768,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathMumRare",
       "serialId": 3545,
       "internalId": 442,
       "uniqueEntryId": "p7kG7qim9jPGSwxtz",
@@ -20108,6 +20172,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 3976,
       "cardColor": "orange",
+      "diyIconFilename": "FtrFruitsClockW",
       "serialId": 1330,
       "internalId": 184,
       "uniqueEntryId": "rJaAL5N8CQQ5dPd9y",
@@ -20483,6 +20548,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 6818,
       "cardColor": "white",
+      "diyIconFilename": "FtrOrnamentMobile",
       "serialId": 3430,
       "internalId": 433,
       "uniqueEntryId": "RaotMSgnPsgG6PKLu",
@@ -20694,7 +20760,7 @@
           "plural": false
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "Blue" ],
+        "colors": [ "Aqua", "Blue" ],
         "concepts": [ "fancy" ]
       },
       {
@@ -20939,6 +21005,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4377,
       "cardColor": "white",
+      "diyIconFilename": "FtrDoorOrnamentWreathOrnament",
       "serialId": 3440,
       "internalId": 226,
       "uniqueEntryId": "rLcgugWkG2sntC7Lh",
@@ -21120,6 +21187,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5466,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathPansy",
       "serialId": 3557,
       "internalId": 230,
       "uniqueEntryId": "qPZnLEKoAZbQxXQiG",
@@ -21364,7 +21432,7 @@
           "internalIds": [ 4077 ]
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "White" ],
+        "colors": [ "Aqua", "White" ],
         "concepts": [ "party", "fancy" ]
       },
       {
@@ -21588,7 +21656,7 @@
           "plural": false
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "Orange" ],
+        "colors": [ "Aqua", "Orange" ],
         "concepts": [ "living room", "fancy" ]
       },
       {
@@ -21748,7 +21816,7 @@
           "plural": false
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "Blue" ],
+        "colors": [ "Aqua", "Blue" ],
         "concepts": [ "living room", "fancy" ]
       },
       {
@@ -21801,6 +21869,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5716,
       "cardColor": "brown",
+      "diyIconFilename": "FtrDoorOrnamentPaw",
       "serialId": 501,
       "internalId": 466,
       "uniqueEntryId": "S3f74cedig2pCxFHu",
@@ -22532,6 +22601,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 3785,
       "cardColor": "green",
+      "diyIconFilename": "FtrLeafWall",
       "serialId": 1231,
       "internalId": 214,
       "uniqueEntryId": "PRZpskqoyoPoT6g3c",
@@ -22713,6 +22783,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5745,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathCosmosMix",
       "serialId": 3547,
       "internalId": 445,
       "uniqueEntryId": "sSXrhgXnaQfP53KFk",
@@ -22915,6 +22986,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5751,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathTulipMix",
       "serialId": 3550,
       "internalId": 361,
       "uniqueEntryId": "z4k9YXZrLp9x6TXXF",
@@ -23117,6 +23189,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5769,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathHyacinthRare",
       "serialId": 3562,
       "internalId": 452,
       "uniqueEntryId": "QXWyxbAncQeicP3xY",
@@ -23354,6 +23427,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5437,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathRose",
       "serialId": 3552,
       "internalId": 229,
       "uniqueEntryId": "Swx6c6NHk94Htn86t",
@@ -23556,6 +23630,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4376,
       "cardColor": "white",
+      "diyIconFilename": "FtrDoorOrnamentWreathShell",
       "serialId": 2840,
       "internalId": 219,
       "uniqueEntryId": "k7dondWtbpmYBYHaX",
@@ -24215,6 +24290,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5748,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathPansyMix",
       "serialId": 3558,
       "internalId": 451,
       "uniqueEntryId": "vyxRpZbkGm3iZo9FG",
@@ -24378,7 +24454,7 @@
       "plural": false,
       "internalIds": [ 4375 ]
     },
-    "colors": [ "Light blue", "White" ],
+    "colors": [ "Aqua", "White" ],
     "concepts": [ "freezing cold", "fancy" ],
     "set": null,
     "series": null,
@@ -24397,6 +24473,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4375,
       "cardColor": "blue",
+      "diyIconFilename": "FtrDoorOrnamentWreathIce",
       "serialId": 3340,
       "internalId": 222,
       "uniqueEntryId": "syeDkgGnge76zBJ5y",
@@ -24616,7 +24693,7 @@
           "plural": false
         },
         "patternTranslations": null,
-        "colors": [ "Pink", "Light blue" ],
+        "colors": [ "Pink", "Aqua" ],
         "concepts": [ "child's room", "horror" ]
       },
       {
@@ -25001,7 +25078,7 @@
           "internalIds": [ 6827 ]
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "Light blue" ],
+        "colors": [ "Aqua", "Aqua" ],
         "concepts": [ "space", "fancy" ]
       },
       {
@@ -25170,6 +25247,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 6827,
       "cardColor": "silver",
+      "diyIconFilename": "FtrStarDecorationWall",
       "serialId": 2231,
       "internalId": 430,
       "uniqueEntryId": "9LShEjECc39Sdyxzt",
@@ -25670,7 +25748,7 @@
           "plural": false
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "Colorful" ],
+        "colors": [ "Aqua", "Colorful" ],
         "concepts": [ "child's room", "school" ]
       },
       {
@@ -25897,7 +25975,7 @@
           "internalIds": [ 704 ]
         },
         "patternTranslations": null,
-        "colors": [ "Red", "Light blue" ],
+        "colors": [ "Red", "Aqua" ],
         "concepts": [ "living room" ]
       },
       {
@@ -26082,7 +26160,7 @@
           "internalIds": [ 704 ]
         },
         "patternTranslations": null,
-        "colors": [ "Blue", "Light blue" ],
+        "colors": [ "Blue", "Aqua" ],
         "concepts": [ "living room" ]
       }
     ],
@@ -26736,6 +26814,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5718,
       "cardColor": "brown",
+      "diyIconFilename": "FtrDoorOrnamentLog",
       "serialId": 502,
       "internalId": 465,
       "uniqueEntryId": "bk8JqAgdSKtw6EdC8",
@@ -26897,6 +26976,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 4727,
       "cardColor": "brown",
+      "diyIconFilename": "FtrDoorOrnamentWreathBranch",
       "serialId": 240,
       "internalId": 225,
       "uniqueEntryId": "JnbW5panqjR2iWknX",
@@ -27083,6 +27163,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 6075,
       "cardColor": "brown",
+      "diyIconFilename": "FtrNutMobile",
       "serialId": 2930,
       "internalId": 414,
       "uniqueEntryId": "F6WehkKZG7sSwRLBo",
@@ -27285,6 +27366,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5670,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathTulip",
       "serialId": 3549,
       "internalId": 360,
       "uniqueEntryId": "jpfWEEc78PXeP26Js",
@@ -27960,7 +28042,7 @@
           "internalIds": [ 3431 ]
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "White" ],
+        "colors": [ "Aqua", "White" ],
         "concepts": [ "office", "school" ]
       },
       {
@@ -28527,7 +28609,7 @@
           "internalIds": [ 3986 ]
         },
         "patternTranslations": null,
-        "colors": [ "Light blue", "Light blue" ],
+        "colors": [ "Aqua", "Aqua" ],
         "concepts": [ "living room" ]
       }
     ],
@@ -29912,6 +29994,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5436,
       "cardColor": "green",
+      "diyIconFilename": "FtrDoorOrnamentWreathAnemone",
       "serialId": 3540,
       "internalId": 228,
       "uniqueEntryId": "xGTRnSEqPTzYGDwjT",
@@ -30275,6 +30358,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 3208,
       "cardColor": "brown",
+      "diyIconFilename": "FtrBlockClock",
       "serialId": 359,
       "internalId": 90,
       "uniqueEntryId": "g9N9eFwC48vsPWz5e",
@@ -30577,6 +30661,7 @@
       "category": "Wall-mounted",
       "craftedItemInternalId": 5636,
       "cardColor": "brown",
+      "diyIconFilename": "FtrSignboardWood",
       "serialId": 483,
       "internalId": 279,
       "uniqueEntryId": "EbrmatJDLMcc2oexh",
