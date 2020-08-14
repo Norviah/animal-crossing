@@ -12,7 +12,8 @@
     "birthday": "2/8",
     "nameColor": "#fe8885",
     "bubbleColor": "#ffffff",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpMka",
     "uniqueEntryId": "Ndgae4bSokoBtb97u",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -49,7 +50,8 @@
     "birthday": "9/24",
     "nameColor": "#f7f0c2",
     "bubbleColor": "#7d593c",
-    "filename": "owl",
+    "iconFilename": "owl",
+    "photoFilename": "NpcSpOwl",
     "uniqueEntryId": "LXqTqy94M9Yt7yaAb",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -86,7 +88,8 @@
     "birthday": "4/23",
     "nameColor": "#fffce9",
     "bubbleColor": "#c67022",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpDgb",
     "uniqueEntryId": "ucw3urkmPQzYh6s9i",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -123,7 +126,8 @@
     "birthday": "10/15",
     "nameColor": "#333333",
     "bubbleColor": "#689a8b",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpPge",
     "uniqueEntryId": "RkbTSEruyBcEyMjDX",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -160,7 +164,8 @@
     "birthday": "3/7",
     "nameColor": "#f9db2f",
     "bubbleColor": "#a99d6e",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": null,
     "uniqueEntryId": "ztkxCvQbcCJYQEgJ7",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -197,7 +202,8 @@
     "birthday": "9/7",
     "nameColor": "#f7f0c2",
     "bubbleColor": "#81280a",
-    "filename": "ows",
+    "iconFilename": "ows",
+    "photoFilename": "NpcSpOws",
     "uniqueEntryId": "7t6ZNPqsvE22CsyMw",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -234,7 +240,8 @@
     "birthday": "12/9",
     "nameColor": "#fffce9",
     "bubbleColor": "#77614c",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpBev",
     "uniqueEntryId": "XGGxy4Wx86EDDH57S",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -271,7 +278,8 @@
     "birthday": "6/28",
     "nameColor": "#fffce9",
     "bubbleColor": "#e69111",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpDga",
     "uniqueEntryId": "jdNK4NrvZmRC82yJ5",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -308,7 +316,8 @@
     "birthday": "1/26",
     "nameColor": "#fffce9",
     "bubbleColor": "#4ddcd9",
-    "filename": "alp",
+    "iconFilename": "alp",
+    "photoFilename": "NpcSpAlp",
     "uniqueEntryId": "yJQuzNGtgcSbWw47g",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -335,7 +344,7 @@
   {
     "sourceSheet": "Special NPCs",
     "name": "DJ KK",
-    "iconImage": null,
+    "iconImage": "https://acnhapi.com/1.0.0/NpcIcon/tkkB.png",
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpTkkB.png",
     "gender": "Male",
     "genderAsia": "Male",
@@ -345,7 +354,8 @@
     "birthday": "8/23",
     "nameColor": "#545259",
     "bubbleColor": "#ffffff",
-    "filename": null,
+    "iconFilename": "tkkB",
+    "photoFilename": "NpcSpTkkB",
     "uniqueEntryId": "eQgLgRTaBTQy6LQLS",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -382,7 +392,8 @@
     "birthday": "5/5",
     "nameColor": "#ab2629",
     "bubbleColor": "#ff9b43",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": null,
     "uniqueEntryId": "cGKq9qsGALbSyfgbR",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -419,7 +430,8 @@
     "birthday": "12/20",
     "nameColor": "#664734",
     "bubbleColor": "#c1a081",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpSzo",
     "uniqueEntryId": "8Mwo7kmFeM9iRxXmb",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -456,7 +468,8 @@
     "birthday": "5/1",
     "nameColor": "#612f0a",
     "bubbleColor": "#d97012",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpMob",
     "uniqueEntryId": "pE6as787paJEWhgbX",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -493,7 +506,8 @@
     "birthday": "5/10",
     "nameColor": "#fb646b",
     "bubbleColor": "#25251a",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": null,
     "uniqueEntryId": "iN2YPaidM5d8aCFpa",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -530,7 +544,8 @@
     "birthday": "10/10",
     "nameColor": "#4b4496",
     "bubbleColor": "#ff97ca",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpTuk",
     "uniqueEntryId": "dFbRDi2FGNmHZvuRM",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -567,7 +582,8 @@
     "birthday": "11/14",
     "nameColor": "#d254c7",
     "bubbleColor": "#ffffc1",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpGrf",
     "uniqueEntryId": "chZz2xBGZBy2g9L8e",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -604,7 +620,8 @@
     "birthday": "4/15",
     "nameColor": "#fff364",
     "bubbleColor": "#7dcc00",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpKpg",
     "uniqueEntryId": "6Cj4smgBhJ7moa4JN",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -641,7 +658,8 @@
     "birthday": "5/25",
     "nameColor": "#fffbe8",
     "bubbleColor": "#f52c2c",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": null,
     "uniqueEntryId": "Qy6ZZFjpN2BNWP4gB",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -678,7 +696,8 @@
     "birthday": "5/25",
     "nameColor": "#fffce9",
     "bubbleColor": "#0073ff",
-    "filename": "gul",
+    "iconFilename": "gul",
+    "photoFilename": "NpcSpGul",
     "uniqueEntryId": "uf2Phk2T4fnoaqY2A",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -715,7 +734,8 @@
     "birthday": "1/31",
     "nameColor": "#fffce9",
     "bubbleColor": "#fc81d9",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpPoo",
     "uniqueEntryId": "bRAwDjRF3s5EifuXo",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -752,7 +772,8 @@
     "birthday": "8/2",
     "nameColor": "#714f31",
     "bubbleColor": "#ebc83c",
-    "filename": "spn",
+    "iconFilename": "spn",
+    "photoFilename": null,
     "uniqueEntryId": "XHGYT3WfbiboMAQHE",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -789,7 +810,8 @@
     "birthday": "12/20",
     "nameColor": "#f4aa16",
     "bubbleColor": "#fff98f",
-    "filename": "sza",
+    "iconFilename": "sza",
+    "photoFilename": "NpcSpSza",
     "uniqueEntryId": "ZgSyBa8uRm7uupcQw",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -826,7 +848,8 @@
     "birthday": "10/31",
     "nameColor": "#080800",
     "bubbleColor": "#ff6d00",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpPkn",
     "uniqueEntryId": "v8rBscHZN8BuL6vho",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -863,7 +886,8 @@
     "birthday": "12/24",
     "nameColor": "#fffe69",
     "bubbleColor": "#d6781a",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpRei",
     "uniqueEntryId": "nnnCFTFp2CxKM8Kps",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -900,7 +924,8 @@
     "birthday": "1/8",
     "nameColor": "#f3af18",
     "bubbleColor": "#a04c27",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpBoa",
     "uniqueEntryId": "g489RXNAdbSB7Jdtf",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -937,7 +962,8 @@
     "birthday": "8/23",
     "nameColor": "#595757",
     "bubbleColor": "#ffffff",
-    "filename": "tkkA",
+    "iconFilename": "tkkA",
+    "photoFilename": "NpcSpTkkA",
     "uniqueEntryId": "8kgdqqyBHHe7Cq8jm",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -974,7 +1000,8 @@
     "birthday": "7/12",
     "nameColor": "#fff364",
     "bubbleColor": "#7dcc00",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpKpp",
     "uniqueEntryId": "AKDnsnCJwk4Yj96ZR",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1011,7 +1038,8 @@
     "birthday": "10/22",
     "nameColor": "#9c4e00",
     "bubbleColor": "#feff4f",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpLom",
     "uniqueEntryId": "froBkd4rfuHvsgNuB",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1048,7 +1076,8 @@
     "birthday": "10/28",
     "nameColor": "#fffce9",
     "bubbleColor": "#1c2f60",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpBpt",
     "uniqueEntryId": "He3BpCnsFZo9yjTZc",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1085,7 +1114,8 @@
     "birthday": "11/30",
     "nameColor": "#78b3c7",
     "bubbleColor": "#2a4869",
-    "filename": "skk",
+    "iconFilename": "skk",
+    "photoFilename": "NpcSpSkk",
     "uniqueEntryId": "qmGXCtGtjukpiS8Fs",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1122,7 +1152,8 @@
     "birthday": "10/31",
     "nameColor": "#fffee0",
     "bubbleColor": "#7f5174",
-    "filename": "hgc",
+    "iconFilename": "hgc",
+    "photoFilename": "NpcSpHgc",
     "uniqueEntryId": "ueB44Z45DNkoQSZnL",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1159,7 +1190,8 @@
     "birthday": "8/8",
     "nameColor": "#fffce9",
     "bubbleColor": "#c0ab72",
-    "filename": "slo",
+    "iconFilename": "slo",
+    "photoFilename": "NpcSpSlo",
     "uniqueEntryId": "sK5zwmKLL8HNKZhYt",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1196,7 +1228,8 @@
     "birthday": "8/16",
     "nameColor": "#fff364",
     "bubbleColor": "#7dcc00",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpKps",
     "uniqueEntryId": "MkkTcwbmJmGXnGA6P",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1233,7 +1266,8 @@
     "birthday": "9/26",
     "nameColor": "#fff364",
     "bubbleColor": "#7dcc00",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpKpm",
     "uniqueEntryId": "D9fj5XxQmDR7ABnws",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1270,7 +1304,8 @@
     "birthday": "9/12",
     "nameColor": "#5e2818",
     "bubbleColor": "#ffa6aa",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpOtg",
     "uniqueEntryId": "Z2YMj6fmLnowD4XnN",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1307,7 +1342,8 @@
     "birthday": "2/29",
     "nameColor": "#ffceff",
     "bubbleColor": "#bc40a9",
-    "filename": "tap",
+    "iconFilename": "tap",
+    "photoFilename": "NpcSpTap",
     "uniqueEntryId": "mTzz444C5LkcH4W9T",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1344,7 +1380,8 @@
     "birthday": "6/6",
     "nameColor": "#fffad4",
     "bubbleColor": "#506b94",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpOtt",
     "uniqueEntryId": "R6sNbgmgSCgpyFYRf",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1381,7 +1418,8 @@
     "birthday": "5/22",
     "nameColor": "#fffad4",
     "bubbleColor": "#3c4c78",
-    "filename": "hgh",
+    "iconFilename": "hgh",
+    "photoFilename": "NpcSpHgh",
     "uniqueEntryId": "swWzSCwrBNYkgTEWK",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1418,7 +1456,8 @@
     "birthday": "7/25",
     "nameColor": "#f3f338",
     "bubbleColor": "#72aa1c",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpChm",
     "uniqueEntryId": "KvScWdYZwL2e7kGNn",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1455,7 +1494,8 @@
     "birthday": "10/2",
     "nameColor": "#38889e",
     "bubbleColor": "#ffdf50",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": null,
     "uniqueEntryId": "9ifp3YpYMgGyei58b",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1492,7 +1532,8 @@
     "birthday": "7/19",
     "nameColor": "#fffd87",
     "bubbleColor": "#f44957",
-    "filename": "seo",
+    "iconFilename": "seo",
+    "photoFilename": "NpcSpSeo",
     "uniqueEntryId": "MgTEFSvyfd2mQFefo",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1529,7 +1570,8 @@
     "birthday": "3/3",
     "nameColor": "#edebd6",
     "bubbleColor": "#0a96ae",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpPck",
     "uniqueEntryId": "ddz6FRgy2kCp2TF6A",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1566,7 +1608,8 @@
     "birthday": "3/19",
     "nameColor": "#fffce9",
     "bubbleColor": "#fe9ee0",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpPlk",
     "uniqueEntryId": "ydQXw58arpJoRxsao",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1603,7 +1646,8 @@
     "birthday": "3/8",
     "nameColor": "#fffce9",
     "bubbleColor": "#44c04f",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpPlo",
     "uniqueEntryId": "iptnwW8oAu3bE5E3L",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1640,7 +1684,8 @@
     "birthday": "6/20",
     "nameColor": "#feffca",
     "bubbleColor": "#d38856",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpFsl",
     "uniqueEntryId": "AQJEzmjGKShfyCyqX",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1677,7 +1722,8 @@
     "birthday": "11/21",
     "nameColor": "#fffce9",
     "bubbleColor": "#dd8dfa",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpPlm",
     "uniqueEntryId": "9WgCsffJgLsDTcs5Y",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1714,7 +1760,8 @@
     "birthday": "4/17",
     "nameColor": "#efe956",
     "bubbleColor": "#3e54cf",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpMnk",
     "uniqueEntryId": "XhqSyrq7fjmcNe5N3",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1751,7 +1798,8 @@
     "birthday": "10/18",
     "nameColor": "#4f1904",
     "bubbleColor": "#ebb020",
-    "filename": "fox",
+    "iconFilename": "fox",
+    "photoFilename": "NpcSpFox",
     "uniqueEntryId": "iRkXJeZqaWApHk92x",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1788,7 +1836,8 @@
     "birthday": "7/5",
     "nameColor": "#fffce9",
     "bubbleColor": "#ffaad1",
-    "filename": "alw",
+    "iconFilename": "alw",
+    "photoFilename": "NpcSpAlw",
     "uniqueEntryId": "MKLPGvYfpDwWCEWQ7",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1825,7 +1874,8 @@
     "birthday": "4/6",
     "nameColor": "#612f0a",
     "bubbleColor": "#d97012",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpMol",
     "uniqueEntryId": "BMtksEYHbtBLC6aww",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1862,7 +1912,8 @@
     "birthday": "2/1",
     "nameColor": "#fffce9",
     "bubbleColor": "#5a66d2",
-    "filename": "xct",
+    "iconFilename": "xct",
+    "photoFilename": "NpcSpXct",
     "uniqueEntryId": "riMH36iDWKc3gQAkT",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1890,7 +1941,7 @@
     "sourceSheet": "Special NPCs",
     "name": "Sable",
     "iconImage": "https://acnhcdn.com/latest/NpcIcon/hgs.png",
-    "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSp\"&PROPER(G53)&\".png",
+    "photoImage": "https://acnhcdn.com/latest/NpcBromide/NpcSpHgs.png",
     "gender": "Female",
     "genderAsia": "Female",
     "versionAdded": "1.0.0",
@@ -1899,7 +1950,8 @@
     "birthday": "11/22",
     "nameColor": "#fffee0",
     "bubbleColor": "#895452",
-    "filename": "hgs",
+    "iconFilename": "hgs",
+    "photoFilename": "NpcSpHgs",
     "uniqueEntryId": "WQnJq8BHMee2XKQ2i",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1936,7 +1988,8 @@
     "birthday": "11/10",
     "nameColor": "#954f07",
     "bubbleColor": "#fcbb3a",
-    "filename": "cml",
+    "iconFilename": "cml",
+    "photoFilename": "NpcSpCml",
     "uniqueEntryId": "x753Z7JdmLFZRCwGr",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -1973,7 +2026,8 @@
     "birthday": "1/2",
     "nameColor": "#a90d0a",
     "bubbleColor": "#ffb0b0",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpUpa",
     "uniqueEntryId": "qvhSuN7wnc75GysSb",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2010,7 +2064,8 @@
     "birthday": "6/7",
     "nameColor": "#4d2a20",
     "bubbleColor": "#de8735",
-    "filename": "rcm",
+    "iconFilename": "rcm",
+    "photoFilename": "NpcSpRcm",
     "uniqueEntryId": "XQGqJDnh2hRg4unt3",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2047,7 +2102,8 @@
     "birthday": "5/30",
     "nameColor": "#4d2a20",
     "bubbleColor": "#de8735",
-    "filename": "rco",
+    "iconFilename": "rco",
+    "photoFilename": "NpcSpRco",
     "uniqueEntryId": "QNw2aQsR5dmgXCrhY",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2084,7 +2140,8 @@
     "birthday": "6/7",
     "nameColor": "#4d2a20",
     "bubbleColor": "#de8735",
-    "filename": "rct",
+    "iconFilename": "rct",
+    "photoFilename": "NpcSpRct",
     "uniqueEntryId": "uCvDxaDCp8FnAnmce",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2121,7 +2178,8 @@
     "birthday": "12/31",
     "nameColor": "#705800",
     "bubbleColor": "#ffea6b",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpTtlA",
     "uniqueEntryId": "BPPkKQ5BYRSZhk6Bc",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2158,7 +2216,8 @@
     "birthday": "2/25",
     "nameColor": "#fffce9",
     "bubbleColor": "#8c99fd",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": "NpcSpWrl",
     "uniqueEntryId": "LZAjSZiZWt9QQsE3n",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2195,7 +2254,8 @@
     "birthday": "12/17",
     "nameColor": "#38889e",
     "bubbleColor": "#ffdf50",
-    "filename": "doc",
+    "iconFilename": "doc",
+    "photoFilename": null,
     "uniqueEntryId": "ShygyMGDR4dAFDXN6",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2232,7 +2292,8 @@
     "birthday": "2/26",
     "nameColor": "#7490c2",
     "bubbleColor": "#e3ecf5",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": null,
     "uniqueEntryId": "SnDQ7nvg5wHmjY6Fg",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2269,7 +2330,8 @@
     "birthday": "2/26",
     "nameColor": "#7490c2",
     "bubbleColor": "#e3ecf5",
-    "filename": null,
+    "iconFilename": null,
+    "photoFilename": null,
     "uniqueEntryId": "tJZGzhrXiu2Ft7Fj7",
     "translations": {
       "sourceSheet": "Special NPCs",
@@ -2306,7 +2368,8 @@
     "birthday": "3/11",
     "nameColor": "#0ea8c7",
     "bubbleColor": "#ffe20b",
-    "filename": "pyn",
+    "iconFilename": "pyn",
+    "photoFilename": "NpcSpPyn",
     "uniqueEntryId": "MxHc7P8664FtCcd2y",
     "translations": {
       "sourceSheet": "Special NPCs",
