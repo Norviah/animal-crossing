@@ -6,21 +6,21 @@
 
 ### Enumeration members
 
-* [DressesVariants](_reaction_.sourcesheet.md#dressesvariants)
 * [Reactions](_reaction_.sourcesheet.md#reactions)
+* [TopsVariants](_reaction_.sourcesheet.md#topsvariants)
 
 ## Enumeration members
-
-###  DressesVariants
-
-• **DressesVariants**: = "Dresses Variants"
-
-*Defined in [Reaction.ts:13](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Reaction.ts#L13)*
-
-___
 
 ###  Reactions
 
 • **Reactions**: = "Reactions"
 
-*Defined in [Reaction.ts:14](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Reaction.ts#L14)*
+*Defined in [Reaction.ts:13](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Reaction.ts#L13)*
+
+___
+
+###  TopsVariants
+
+• **TopsVariants**: = "Tops Variants"
+
+*Defined in [Reaction.ts:14](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Reaction.ts#L14)*

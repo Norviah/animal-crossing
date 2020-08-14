@@ -44,6 +44,7 @@
 * [Style](../enums/_item_.style.md)
 * [Theme](../enums/_item_.theme.md)
 * [VariantID](../enums/_item_.variantid.md)
+* [VariantTranslationsSourceSheet](../enums/_item_.varianttranslationssourcesheet.md)
 * [Version](../enums/_item_.version.md)
 * [VfxType](../enums/_item_.vfxtype.md)
 * [WindowColor](../enums/_item_.windowcolor.md)
