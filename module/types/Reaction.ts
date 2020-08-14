@@ -10,8 +10,8 @@ export interface Reaction {
 }
 
 export enum SourceSheet {
-    DressesVariants = "Dresses Variants",
     Reactions = "Reactions",
+    TopsVariants = "Tops Variants",
 }
 
 export interface Translations {

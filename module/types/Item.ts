@@ -3,7 +3,6 @@ export interface Item {
     name:                  string;
     diy?:                  boolean;
     size?:                 Size;
-    milesPrice?:           number | null;
     sourceNotes?:          null | string;
     versionAdded?:         Version;
     versionUnlocked?:      Version | null;
@@ -32,7 +31,7 @@ export interface Item {
     clothGroupId?:         number;
     internalId?:           number;
     uniqueEntryId?:        string;
-    variantTranslations?:  SeriesTranslations | null;
+    variantTranslations?:  null;
     colors?:               Color[];
     image?:                string;
     bodyTitle?:            null | string;
@@ -59,7 +58,6 @@ export interface Item {
     albumImage?:           null | string;
     inventoryImage?:       null | string;
     stackSize?:            number;
-    exchange?:             number | null;
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
@@ -177,7 +175,6 @@ export enum CurtainType {
 }
 
 export enum ExchangeCurrency {
-    BEEPBoop = "beep boop",
     HeartCrystals = "Heart Crystals",
     NookMiles = "Nook Miles",
 }
@@ -244,7 +241,8 @@ export interface Recipe {
     image:                 string;
     buy:                   number;
     sell:                  number | null;
-    milesPrice:            number | null;
+    exchangePrice:         number | null;
+    exchangeCurrency:      ExchangeCurrency | null;
     source:                string[];
     sourceNotes:           null | string;
     versionAdded:          Version;
@@ -283,7 +281,7 @@ export interface MaterialsTranslations {
     "star fragment"?:         AquariusFragment;
     "Aquarius fragment"?:     AquariusFragment;
     "gold nugget"?:           AquariusFragment;
-    stone?:                   AquariusFragment;
+    stone?:                   SeriesTranslations;
     "Aries fragment"?:        AquariusFragment;
     "earth egg"?:             AquariusFragment;
     "stone egg"?:             AquariusFragment;
@@ -490,6 +488,7 @@ export enum AquariusFragmentSourceSheet {
     Furniture = "Furniture",
     FurniturePatterns = "Furniture Patterns",
     FurnitureVariants = "Furniture Variants",
+    HHASet = "HHA Set",
     KKAlbums = "K.K. Albums",
     MarineSuit = "Marine Suit",
     Masks = "Masks",
@@ -523,7 +522,7 @@ export enum Version {
 export interface SeriesTranslations {
     sourceSheet:        SeriesTranslationsSourceSheet;
     id:                 number;
-    version?:           Version;
+    version:            Version;
     english:            string;
     englishEurope:      string;
     german:             string;
@@ -540,24 +539,12 @@ export interface SeriesTranslations {
     russian:            string;
     plural:             boolean;
     internalIds:        number[];
-    variantId?:         number;
-    clothName?:         string;
 }
 
 export enum SeriesTranslationsSourceSheet {
-    AccessoriesVariants = "Accessories Variants",
-    BagsVariants = "Bags Variants",
-    BottomsVariants = "Bottoms Variants",
-    CapsVariants = "Caps Variants",
     Dresses = "Dresses",
-    DressesVariants = "Dresses Variants",
-    FurnitureVariants = "Furniture Variants",
+    HHASet = "HHA Set",
     HHAThemes = "HHA Themes",
-    MarineSuitVariants = "Marine Suit Variants",
-    MasksVariants = "Masks Variants",
-    ShoesVariants = "Shoes Variants",
-    SocksVariants = "Socks Variants",
-    TopsVariants = "Tops Variants",
 }
 
 export interface Comfy {
@@ -970,6 +957,8 @@ export interface VariationElement {
     closetImage?:         string;
     storageImage?:        string;
     variation:            number | null | string;
+    exchangePrice?:       number | null;
+    exchangeCurrency?:    ExchangeCurrency | null;
     mannequinPiece?:      boolean | null;
     sortOrder?:           number;
     filename:             string;
@@ -983,8 +972,6 @@ export interface VariationElement {
     patternTitle?:        null | string;
     variantId?:           VariantID;
     patternTranslations?: AquariusFragment | null;
-    exchangePrice?:       number | null;
-    exchangeCurrency?:    ExchangeCurrency | null;
     surface?:             boolean;
     hhaCategory?:         HhaCategory | null;
     concepts?:            Concept[];
@@ -994,7 +981,7 @@ export interface VariationElement {
 }
 
 export interface VariantTranslations {
-    sourceSheet?:       SeriesTranslationsSourceSheet;
+    sourceSheet?:       VariantTranslationsSourceSheet;
     variantId?:         number;
     id?:                number | string;
     clothName?:         string;
@@ -1009,9 +996,9 @@ export interface VariantTranslations {
     dutch:              number | string;
     chinese:            string;
     chineseTraditional: string;
-    japanese:           null | string;
-    korean:             null | string;
-    russian:            number | null | string;
+    japanese:           string;
+    korean:             string;
+    russian:            number | string;
     plural:             boolean;
     internalIds?:       Array<InternalIDEnum | number>;
     furnitureName?:     string;
@@ -1022,6 +1009,20 @@ export enum InternalIDEnum {
     Der06 = "der06",
     Love = "Love",
     Squ09 = "squ09",
+}
+
+export enum VariantTranslationsSourceSheet {
+    AccessoriesVariants = "Accessories Variants",
+    BagsVariants = "Bags Variants",
+    BottomsVariants = "Bottoms Variants",
+    CapsVariants = "Caps Variants",
+    DressesVariants = "Dresses Variants",
+    FurnitureVariants = "Furniture Variants",
+    MarineSuitVariants = "Marine Suit Variants",
+    MasksVariants = "Masks Variants",
+    ShoesVariants = "Shoes Variants",
+    SocksVariants = "Socks Variants",
+    TopsVariants = "Tops Variants",
 }
 
 export enum VfxType {
