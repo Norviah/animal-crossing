@@ -181,7 +181,7 @@
 
 • **Aquarius fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:284](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L284)*
+*Defined in [Item.ts:282](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L282)*
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 • **Aries fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:287](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L287)*
+*Defined in [Item.ts:285](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L285)*
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 • **Baby bear**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:390](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L390)*
+*Defined in [Item.ts:388](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L388)*
 
 ___
 
@@ -205,7 +205,7 @@ ___
 
 • **Cancer fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:295](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L295)*
+*Defined in [Item.ts:293](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L293)*
 
 ___
 
@@ -213,7 +213,7 @@ ___
 
 • **Capricorn fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:296](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L296)*
+*Defined in [Item.ts:294](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L294)*
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 • **Gemini fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:302](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L302)*
+*Defined in [Item.ts:300](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L300)*
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 • **Leo fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:307](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L307)*
+*Defined in [Item.ts:305](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L305)*
 
 ___
 
@@ -237,7 +237,7 @@ ___
 
 • **Libra fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:308](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L308)*
+*Defined in [Item.ts:306](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L306)*
 
 ___
 
@@ -245,7 +245,7 @@ ___
 
 • **Mama bear**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:389](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L389)*
+*Defined in [Item.ts:387](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L387)*
 
 ___
 
@@ -253,7 +253,7 @@ ___
 
 • **Papa bear**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:388](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L388)*
+*Defined in [Item.ts:386](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L386)*
 
 ___
 
@@ -261,7 +261,7 @@ ___
 
 • **Pisces fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:309](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L309)*
+*Defined in [Item.ts:307](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L307)*
 
 ___
 
@@ -269,7 +269,7 @@ ___
 
 • **Sagittarius fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:310](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L310)*
+*Defined in [Item.ts:308](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L308)*
 
 ___
 
@@ -277,7 +277,7 @@ ___
 
 • **Scorpius fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:311](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L311)*
+*Defined in [Item.ts:309](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L309)*
 
 ___
 
@@ -285,7 +285,7 @@ ___
 
 • **Taurus fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:312](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L312)*
+*Defined in [Item.ts:310](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L310)*
 
 ___
 
@@ -293,7 +293,7 @@ ___
 
 • **Virgo fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:313](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L313)*
+*Defined in [Item.ts:311](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L311)*
 
 ___
 
@@ -301,7 +301,7 @@ ___
 
 • **acorn**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:314](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L314)*
+*Defined in [Item.ts:312](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L312)*
 
 ___
 
@@ -309,7 +309,7 @@ ___
 
 • **apple**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:315](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L315)*
+*Defined in [Item.ts:313](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L313)*
 
 ___
 
@@ -317,7 +317,7 @@ ___
 
 • **axe**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:393](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L393)*
+*Defined in [Item.ts:391](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L391)*
 
 ___
 
@@ -325,7 +325,7 @@ ___
 
 • **bamboo piece**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:319](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L319)*
+*Defined in [Item.ts:317](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L317)*
 
 ___
 
@@ -333,7 +333,7 @@ ___
 
 • **bamboo shoot**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:321](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L321)*
+*Defined in [Item.ts:319](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L319)*
 
 ___
 
@@ -341,7 +341,7 @@ ___
 
 • **bells**? : *undefined | null*
 
-*Defined in [Item.ts:418](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L418)*
+*Defined in [Item.ts:416](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L416)*
 
 ___
 
@@ -349,7 +349,7 @@ ___
 
 • **black cosmos**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:333](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L333)*
+*Defined in [Item.ts:331](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L331)*
 
 ___
 
@@ -357,7 +357,7 @@ ___
 
 • **black lilies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:363](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L363)*
+*Defined in [Item.ts:361](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L361)*
 
 ___
 
@@ -365,7 +365,7 @@ ___
 
 • **black roses**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:337](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L337)*
+*Defined in [Item.ts:335](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L335)*
 
 ___
 
@@ -373,7 +373,7 @@ ___
 
 • **black tulips**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:364](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L364)*
+*Defined in [Item.ts:362](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L362)*
 
 ___
 
@@ -381,7 +381,7 @@ ___
 
 • **blue hyacinths**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:344](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L344)*
+*Defined in [Item.ts:342](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L342)*
 
 ___
 
@@ -389,7 +389,7 @@ ___
 
 • **blue ornament**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:304](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L304)*
+*Defined in [Item.ts:302](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L302)*
 
 ___
 
@@ -397,7 +397,7 @@ ___
 
 • **blue pansies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:348](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L348)*
+*Defined in [Item.ts:346](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L346)*
 
 ___
 
@@ -405,7 +405,7 @@ ___
 
 • **blue roses**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:324](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L324)*
+*Defined in [Item.ts:322](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L322)*
 
 ___
 
@@ -413,7 +413,7 @@ ___
 
 • **blue windflowers**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:350](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L350)*
+*Defined in [Item.ts:348](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L348)*
 
 ___
 
@@ -421,7 +421,7 @@ ___
 
 • **book**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:342](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L342)*
+*Defined in [Item.ts:340](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L340)*
 
 ___
 
@@ -429,7 +429,7 @@ ___
 
 • **boot**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:385](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L385)*
+*Defined in [Item.ts:383](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L383)*
 
 ___
 
@@ -437,7 +437,7 @@ ___
 
 • **campfire**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:325](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L325)*
+*Defined in [Item.ts:323](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L323)*
 
 ___
 
@@ -445,7 +445,7 @@ ___
 
 • **cardboard box**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:331](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L331)*
+*Defined in [Item.ts:329](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L329)*
 
 ___
 
@@ -453,7 +453,7 @@ ___
 
 • **cherry**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:332](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L332)*
+*Defined in [Item.ts:330](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L330)*
 
 ___
 
@@ -461,7 +461,7 @@ ___
 
 • **cherry-blossom bonsai**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:326](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L326)*
+*Defined in [Item.ts:324](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L324)*
 
 ___
 
@@ -469,7 +469,7 @@ ___
 
 • **cherry-blossom petal**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:323](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L323)*
+*Defined in [Item.ts:321](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L321)*
 
 ___
 
@@ -477,7 +477,7 @@ ___
 
 • **clay**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:306](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L306)*
+*Defined in [Item.ts:304](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L304)*
 
 ___
 
@@ -485,7 +485,7 @@ ___
 
 • **clump of weeds**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:317](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L317)*
+*Defined in [Item.ts:315](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L315)*
 
 ___
 
@@ -493,7 +493,7 @@ ___
 
 • **coconut**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:343](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L343)*
+*Defined in [Item.ts:341](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L341)*
 
 ___
 
@@ -501,7 +501,7 @@ ___
 
 • **conch**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:415](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L415)*
+*Defined in [Item.ts:413](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L413)*
 
 ___
 
@@ -509,7 +509,7 @@ ___
 
 • **coral**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:414](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L414)*
+*Defined in [Item.ts:412](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L412)*
 
 ___
 
@@ -517,7 +517,7 @@ ___
 
 • **cowrie**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:417](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L417)*
+*Defined in [Item.ts:415](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L415)*
 
 ___
 
@@ -525,7 +525,7 @@ ___
 
 • **cutting board**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:403](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L403)*
+*Defined in [Item.ts:401](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L401)*
 
 ___
 
@@ -533,7 +533,7 @@ ___
 
 • **document stack**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:434](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L434)*
+*Defined in [Item.ts:432](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L432)*
 
 ___
 
@@ -541,7 +541,7 @@ ___
 
 • **drinking fountain**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:378](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L378)*
+*Defined in [Item.ts:376](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L376)*
 
 ___
 
@@ -549,7 +549,7 @@ ___
 
 • **earth egg**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:288](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L288)*
+*Defined in [Item.ts:286](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L286)*
 
 ___
 
@@ -557,7 +557,7 @@ ___
 
 • **elegant mushroom**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:376](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L376)*
+*Defined in [Item.ts:374](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L374)*
 
 ___
 
@@ -565,7 +565,7 @@ ___
 
 • **empty can**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:384](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L384)*
+*Defined in [Item.ts:382](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L382)*
 
 ___
 
@@ -573,7 +573,7 @@ ___
 
 • **fishing rod**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:395](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L395)*
+*Defined in [Item.ts:393](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L393)*
 
 ___
 
@@ -581,7 +581,7 @@ ___
 
 • **flat mushroom**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:375](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L375)*
+*Defined in [Item.ts:373](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L373)*
 
 ___
 
@@ -589,7 +589,7 @@ ___
 
 • **flimsy axe**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:318](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L318)*
+*Defined in [Item.ts:316](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L316)*
 
 ___
 
@@ -597,7 +597,7 @@ ___
 
 • **flimsy fishing rod**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:370](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L370)*
+*Defined in [Item.ts:368](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L368)*
 
 ___
 
@@ -605,7 +605,7 @@ ___
 
 • **flimsy net**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:423](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L423)*
+*Defined in [Item.ts:421](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L421)*
 
 ___
 
@@ -613,7 +613,7 @@ ___
 
 • **flimsy shovel**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:328](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L328)*
+*Defined in [Item.ts:326](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L326)*
 
 ___
 
@@ -621,7 +621,7 @@ ___
 
 • **flimsy watering can**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:442](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L442)*
+*Defined in [Item.ts:440](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L440)*
 
 ___
 
@@ -629,7 +629,7 @@ ___
 
 • **fossil**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:377](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L377)*
+*Defined in [Item.ts:375](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L375)*
 
 ___
 
@@ -637,7 +637,7 @@ ___
 
 • **giant clam**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:412](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L412)*
+*Defined in [Item.ts:410](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L410)*
 
 ___
 
@@ -645,7 +645,7 @@ ___
 
 • **gold armor**? : *[SeriesTranslations](_item_.seriestranslations.md)*
 
-*Defined in [Item.ts:430](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L430)*
+*Defined in [Item.ts:428](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L428)*
 
 ___
 
@@ -653,7 +653,7 @@ ___
 
 • **gold nugget**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:285](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L285)*
+*Defined in [Item.ts:283](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L283)*
 
 ___
 
@@ -661,7 +661,7 @@ ___
 
 • **gold ornament**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:305](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L305)*
+*Defined in [Item.ts:303](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L303)*
 
 ___
 
@@ -669,7 +669,7 @@ ___
 
 • **gold roses**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:391](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L391)*
+*Defined in [Item.ts:389](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L389)*
 
 ___
 
@@ -677,7 +677,7 @@ ___
 
 • **green mums**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:422](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L422)*
+*Defined in [Item.ts:420](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L420)*
 
 ___
 
@@ -685,7 +685,7 @@ ___
 
 • **hardwood**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:298](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L298)*
+*Defined in [Item.ts:296](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L296)*
 
 ___
 
@@ -693,7 +693,7 @@ ___
 
 • **iron nugget**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:300](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L300)*
+*Defined in [Item.ts:298](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L298)*
 
 ___
 
@@ -701,7 +701,7 @@ ___
 
 • **ironwood dresser**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:402](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L402)*
+*Defined in [Item.ts:400](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L400)*
 
 ___
 
@@ -709,7 +709,7 @@ ___
 
 • **large snowflake**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:379](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L379)*
+*Defined in [Item.ts:377](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L377)*
 
 ___
 
@@ -717,7 +717,7 @@ ___
 
 • **large star fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:357](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L357)*
+*Defined in [Item.ts:355](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L355)*
 
 ___
 
@@ -725,7 +725,7 @@ ___
 
 • **leaf egg**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:290](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L290)*
+*Defined in [Item.ts:288](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L288)*
 
 ___
 
@@ -733,7 +733,7 @@ ___
 
 • **log bench**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:406](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L406)*
+*Defined in [Item.ts:404](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L404)*
 
 ___
 
@@ -741,7 +741,7 @@ ___
 
 • **log chair**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:407](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L407)*
+*Defined in [Item.ts:405](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L405)*
 
 ___
 
@@ -749,7 +749,7 @@ ___
 
 • **log stakes**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:329](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L329)*
+*Defined in [Item.ts:327](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L327)*
 
 ___
 
@@ -757,7 +757,7 @@ ___
 
 • **log stool**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:421](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L421)*
+*Defined in [Item.ts:419](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L419)*
 
 ___
 
@@ -765,7 +765,7 @@ ___
 
 • **lucky cat**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:409](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L409)*
+*Defined in [Item.ts:407](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L407)*
 
 ___
 
@@ -773,7 +773,7 @@ ___
 
 • **magazine**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:410](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L410)*
+*Defined in [Item.ts:408](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L408)*
 
 ___
 
@@ -781,7 +781,7 @@ ___
 
 • **manila clam**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:369](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L369)*
+*Defined in [Item.ts:367](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L367)*
 
 ___
 
@@ -789,7 +789,7 @@ ___
 
 • **maple leaf**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:316](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L316)*
+*Defined in [Item.ts:314](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L314)*
 
 ___
 
@@ -797,7 +797,7 @@ ___
 
 • **mini DIY workbench**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:301](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L301)*
+*Defined in [Item.ts:299](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L299)*
 
 ___
 
@@ -805,7 +805,7 @@ ___
 
 • **net**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:394](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L394)*
+*Defined in [Item.ts:392](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L392)*
 
 ___
 
@@ -813,7 +813,7 @@ ___
 
 • **oil barrel**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:424](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L424)*
+*Defined in [Item.ts:422](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L422)*
 
 ___
 
@@ -821,7 +821,7 @@ ___
 
 • **old tire**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:386](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L386)*
+*Defined in [Item.ts:384](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L384)*
 
 ___
 
@@ -829,7 +829,7 @@ ___
 
 • **orange**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:382](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L382)*
+*Defined in [Item.ts:380](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L380)*
 
 ___
 
@@ -837,7 +837,7 @@ ___
 
 • **orange cosmos**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:408](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L408)*
+*Defined in [Item.ts:406](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L406)*
 
 ___
 
@@ -845,7 +845,7 @@ ___
 
 • **orange hyacinths**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:346](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L346)*
+*Defined in [Item.ts:344](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L344)*
 
 ___
 
@@ -853,7 +853,7 @@ ___
 
 • **orange lilies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:359](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L359)*
+*Defined in [Item.ts:357](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L357)*
 
 ___
 
@@ -861,7 +861,7 @@ ___
 
 • **orange pansies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:347](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L347)*
+*Defined in [Item.ts:345](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L345)*
 
 ___
 
@@ -869,7 +869,7 @@ ___
 
 • **orange roses**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:362](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L362)*
+*Defined in [Item.ts:360](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L360)*
 
 ___
 
@@ -877,7 +877,7 @@ ___
 
 • **orange tulips**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:340](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L340)*
+*Defined in [Item.ts:338](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L338)*
 
 ___
 
@@ -885,7 +885,7 @@ ___
 
 • **orange windflowers**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:445](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L445)*
+*Defined in [Item.ts:443](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L443)*
 
 ___
 
@@ -893,7 +893,7 @@ ___
 
 • **painting set**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:438](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L438)*
+*Defined in [Item.ts:436](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L436)*
 
 ___
 
@@ -901,7 +901,7 @@ ___
 
 • **peach**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:383](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L383)*
+*Defined in [Item.ts:381](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L381)*
 
 ___
 
@@ -909,7 +909,7 @@ ___
 
 • **pear**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:381](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L381)*
+*Defined in [Item.ts:379](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L379)*
 
 ___
 
@@ -917,7 +917,7 @@ ___
 
 • **pearl**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:411](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L411)*
+*Defined in [Item.ts:409](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L409)*
 
 ___
 
@@ -925,7 +925,7 @@ ___
 
 • **pine bonsai tree**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:327](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L327)*
+*Defined in [Item.ts:325](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L325)*
 
 ___
 
@@ -933,7 +933,7 @@ ___
 
 • **pine cone**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:404](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L404)*
+*Defined in [Item.ts:402](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L402)*
 
 ___
 
@@ -941,7 +941,7 @@ ___
 
 • **pink cosmos**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:356](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L356)*
+*Defined in [Item.ts:354](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L354)*
 
 ___
 
@@ -949,7 +949,7 @@ ___
 
 • **pink hyacinths**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:345](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L345)*
+*Defined in [Item.ts:343](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L343)*
 
 ___
 
@@ -957,7 +957,7 @@ ___
 
 • **pink lilies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:358](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L358)*
+*Defined in [Item.ts:356](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L356)*
 
 ___
 
@@ -965,7 +965,7 @@ ___
 
 • **pink mums**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:335](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L335)*
+*Defined in [Item.ts:333](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L333)*
 
 ___
 
@@ -973,7 +973,7 @@ ___
 
 • **pink roses**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:361](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L361)*
+*Defined in [Item.ts:359](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L359)*
 
 ___
 
@@ -981,7 +981,7 @@ ___
 
 • **pink tulips**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:339](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L339)*
+*Defined in [Item.ts:337](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L337)*
 
 ___
 
@@ -989,7 +989,7 @@ ___
 
 • **pink windflowers**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:351](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L351)*
+*Defined in [Item.ts:349](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L349)*
 
 ___
 
@@ -997,7 +997,7 @@ ___
 
 • **purple hyacinths**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:401](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L401)*
+*Defined in [Item.ts:399](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L399)*
 
 ___
 
@@ -1005,7 +1005,7 @@ ___
 
 • **purple mums**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:334](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L334)*
+*Defined in [Item.ts:332](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L332)*
 
 ___
 
@@ -1013,7 +1013,7 @@ ___
 
 • **purple pansies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:349](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L349)*
+*Defined in [Item.ts:347](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L347)*
 
 ___
 
@@ -1021,7 +1021,7 @@ ___
 
 • **purple roses**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:336](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L336)*
+*Defined in [Item.ts:334](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L334)*
 
 ___
 
@@ -1029,7 +1029,7 @@ ___
 
 • **purple tulips**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:338](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L338)*
+*Defined in [Item.ts:336](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L336)*
 
 ___
 
@@ -1037,7 +1037,7 @@ ___
 
 • **purple windflowers**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:341](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L341)*
+*Defined in [Item.ts:339](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L339)*
 
 ___
 
@@ -1045,7 +1045,7 @@ ___
 
 • **rare mushroom**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:372](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L372)*
+*Defined in [Item.ts:370](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L370)*
 
 ___
 
@@ -1053,7 +1053,7 @@ ___
 
 • **red cosmos**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:353](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L353)*
+*Defined in [Item.ts:351](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L351)*
 
 ___
 
@@ -1061,7 +1061,7 @@ ___
 
 • **red hyacinths**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:399](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L399)*
+*Defined in [Item.ts:397](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L397)*
 
 ___
 
@@ -1069,7 +1069,7 @@ ___
 
 • **red lilies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:405](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L405)*
+*Defined in [Item.ts:403](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L403)*
 
 ___
 
@@ -1077,7 +1077,7 @@ ___
 
 • **red mums**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:367](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L367)*
+*Defined in [Item.ts:365](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L365)*
 
 ___
 
@@ -1085,7 +1085,7 @@ ___
 
 • **red ornament**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:303](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L303)*
+*Defined in [Item.ts:301](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L301)*
 
 ___
 
@@ -1093,7 +1093,7 @@ ___
 
 • **red pansies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:425](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L425)*
+*Defined in [Item.ts:423](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L423)*
 
 ___
 
@@ -1101,7 +1101,7 @@ ___
 
 • **red roses**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:371](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L371)*
+*Defined in [Item.ts:369](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L369)*
 
 ___
 
@@ -1109,7 +1109,7 @@ ___
 
 • **red tulips**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:439](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L439)*
+*Defined in [Item.ts:437](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L437)*
 
 ___
 
@@ -1117,7 +1117,7 @@ ___
 
 • **red windflowers**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:444](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L444)*
+*Defined in [Item.ts:442](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L442)*
 
 ___
 
@@ -1125,7 +1125,7 @@ ___
 
 • **rocket**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:429](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L429)*
+*Defined in [Item.ts:427](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L427)*
 
 ___
 
@@ -1133,7 +1133,7 @@ ___
 
 • **round mushroom**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:373](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L373)*
+*Defined in [Item.ts:371](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L371)*
 
 ___
 
@@ -1141,7 +1141,7 @@ ___
 
 • **rusted part**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:431](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L431)*
+*Defined in [Item.ts:429](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L429)*
 
 ___
 
@@ -1149,7 +1149,7 @@ ___
 
 • **sand dollar**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:413](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L413)*
+*Defined in [Item.ts:411](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L411)*
 
 ___
 
@@ -1157,7 +1157,7 @@ ___
 
 • **sandy-beach flooring**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:436](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L436)*
+*Defined in [Item.ts:434](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L434)*
 
 ___
 
@@ -1165,7 +1165,7 @@ ___
 
 • **scattered papers**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:365](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L365)*
+*Defined in [Item.ts:363](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L363)*
 
 ___
 
@@ -1173,7 +1173,7 @@ ___
 
 • **screen wall**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:392](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L392)*
+*Defined in [Item.ts:390](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L390)*
 
 ___
 
@@ -1181,7 +1181,7 @@ ___
 
 • **sea snail**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:416](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L416)*
+*Defined in [Item.ts:414](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L414)*
 
 ___
 
@@ -1189,7 +1189,7 @@ ___
 
 • **shovel**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:396](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L396)*
+*Defined in [Item.ts:394](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L394)*
 
 ___
 
@@ -1197,7 +1197,7 @@ ___
 
 • **skinny mushroom**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:374](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L374)*
+*Defined in [Item.ts:372](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L372)*
 
 ___
 
@@ -1205,7 +1205,7 @@ ___
 
 • **sky egg**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:292](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L292)*
+*Defined in [Item.ts:290](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L290)*
 
 ___
 
@@ -1213,7 +1213,7 @@ ___
 
 • **slingshot**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:397](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L397)*
+*Defined in [Item.ts:395](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L395)*
 
 ___
 
@@ -1221,7 +1221,7 @@ ___
 
 • **snowflake**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:380](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L380)*
+*Defined in [Item.ts:378](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L378)*
 
 ___
 
@@ -1229,7 +1229,7 @@ ___
 
 • **softwood**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:299](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L299)*
+*Defined in [Item.ts:297](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L297)*
 
 ___
 
@@ -1237,15 +1237,15 @@ ___
 
 • **star fragment**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:283](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L283)*
+*Defined in [Item.ts:281](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L281)*
 
 ___
 
 ### `Optional` stone
 
-• **stone**? : *[AquariusFragment](_item_.aquariusfragment.md)*
+• **stone**? : *[SeriesTranslations](_item_.seriestranslations.md)*
 
-*Defined in [Item.ts:286](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L286)*
+*Defined in [Item.ts:284](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L284)*
 
 ___
 
@@ -1253,7 +1253,7 @@ ___
 
 • **stone egg**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:289](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L289)*
+*Defined in [Item.ts:287](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L287)*
 
 ___
 
@@ -1261,7 +1261,7 @@ ___
 
 • **summer shell**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:435](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L435)*
+*Defined in [Item.ts:433](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L433)*
 
 ___
 
@@ -1269,7 +1269,7 @@ ___
 
 • **tree branch**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:330](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L330)*
+*Defined in [Item.ts:328](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L328)*
 
 ___
 
@@ -1277,7 +1277,7 @@ ___
 
 • **upright piano**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:437](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L437)*
+*Defined in [Item.ts:435](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L435)*
 
 ___
 
@@ -1285,7 +1285,7 @@ ___
 
 • **venus comb**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:433](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L433)*
+*Defined in [Item.ts:431](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L431)*
 
 ___
 
@@ -1293,7 +1293,7 @@ ___
 
 • **wasp nest**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:322](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L322)*
+*Defined in [Item.ts:320](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L320)*
 
 ___
 
@@ -1301,7 +1301,7 @@ ___
 
 • **water egg**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:293](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L293)*
+*Defined in [Item.ts:291](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L291)*
 
 ___
 
@@ -1309,7 +1309,7 @@ ___
 
 • **watering can**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:398](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L398)*
+*Defined in [Item.ts:396](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L396)*
 
 ___
 
@@ -1317,7 +1317,7 @@ ___
 
 • **wedding flower stand**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:443](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L443)*
+*Defined in [Item.ts:441](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L441)*
 
 ___
 
@@ -1325,7 +1325,7 @@ ___
 
 • **white cosmos**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:355](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L355)*
+*Defined in [Item.ts:353](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L353)*
 
 ___
 
@@ -1333,7 +1333,7 @@ ___
 
 • **white hyacinths**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:387](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L387)*
+*Defined in [Item.ts:385](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L385)*
 
 ___
 
@@ -1341,7 +1341,7 @@ ___
 
 • **white lilies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:360](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L360)*
+*Defined in [Item.ts:358](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L358)*
 
 ___
 
@@ -1349,7 +1349,7 @@ ___
 
 • **white mums**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:420](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L420)*
+*Defined in [Item.ts:418](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L418)*
 
 ___
 
@@ -1357,7 +1357,7 @@ ___
 
 • **white pansies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:427](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L427)*
+*Defined in [Item.ts:425](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L425)*
 
 ___
 
@@ -1365,7 +1365,7 @@ ___
 
 • **white roses**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:432](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L432)*
+*Defined in [Item.ts:430](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L430)*
 
 ___
 
@@ -1373,7 +1373,7 @@ ___
 
 • **white tulips**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:441](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L441)*
+*Defined in [Item.ts:439](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L439)*
 
 ___
 
@@ -1381,7 +1381,7 @@ ___
 
 • **white windflowers**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:352](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L352)*
+*Defined in [Item.ts:350](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L350)*
 
 ___
 
@@ -1389,7 +1389,7 @@ ___
 
 • **wobbling Zipper toy**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:294](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L294)*
+*Defined in [Item.ts:292](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L292)*
 
 ___
 
@@ -1397,7 +1397,7 @@ ___
 
 • **wood**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:297](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L297)*
+*Defined in [Item.ts:295](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L295)*
 
 ___
 
@@ -1405,7 +1405,7 @@ ___
 
 • **wood egg**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:291](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L291)*
+*Defined in [Item.ts:289](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L289)*
 
 ___
 
@@ -1413,7 +1413,7 @@ ___
 
 • **wooden-block toy**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:446](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L446)*
+*Defined in [Item.ts:444](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L444)*
 
 ___
 
@@ -1421,7 +1421,7 @@ ___
 
 • **yellow cosmos**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:354](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L354)*
+*Defined in [Item.ts:352](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L352)*
 
 ___
 
@@ -1429,7 +1429,7 @@ ___
 
 • **yellow hyacinths**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:400](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L400)*
+*Defined in [Item.ts:398](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L398)*
 
 ___
 
@@ -1437,7 +1437,7 @@ ___
 
 • **yellow lilies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:366](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L366)*
+*Defined in [Item.ts:364](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L364)*
 
 ___
 
@@ -1445,7 +1445,7 @@ ___
 
 • **yellow mums**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:419](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L419)*
+*Defined in [Item.ts:417](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L417)*
 
 ___
 
@@ -1453,7 +1453,7 @@ ___
 
 • **yellow pansies**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:426](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L426)*
+*Defined in [Item.ts:424](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L424)*
 
 ___
 
@@ -1461,7 +1461,7 @@ ___
 
 • **yellow roses**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:368](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L368)*
+*Defined in [Item.ts:366](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L366)*
 
 ___
 
@@ -1469,7 +1469,7 @@ ___
 
 • **yellow tulips**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:440](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L440)*
+*Defined in [Item.ts:438](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L438)*
 
 ___
 
@@ -1477,7 +1477,7 @@ ___
 
 • **young spring bamboo**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:320](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L320)*
+*Defined in [Item.ts:318](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L318)*
 
 ___
 
@@ -1485,4 +1485,4 @@ ___
 
 • **zen cushion**? : *[AquariusFragment](_item_.aquariusfragment.md)*
 
-*Defined in [Item.ts:428](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L428)*
+*Defined in [Item.ts:426](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L426)*

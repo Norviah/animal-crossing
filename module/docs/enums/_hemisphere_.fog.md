@@ -15,7 +15,7 @@
 
 • **HeavyFog**: = "heavy fog"
 
-*Defined in [Hemisphere.ts:22](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Hemisphere.ts#L22)*
+*Defined in [Hemisphere.ts:22](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Hemisphere.ts#L22)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **RiverSeaFog**: = "river/sea fog"
 
-*Defined in [Hemisphere.ts:23](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Hemisphere.ts#L23)*
+*Defined in [Hemisphere.ts:23](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Hemisphere.ts#L23)*

@@ -25,7 +25,7 @@
 
 • **Cbr00**: = "cbr00"
 
-*Defined in [Item.ts:677](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L677)*
+*Defined in [Item.ts:664](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L664)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Daily**: = "Daily"
 
-*Defined in [Item.ts:678](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L678)*
+*Defined in [Item.ts:665](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L665)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **Fairyland**: = "Fairyland"
 
-*Defined in [Item.ts:679](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L679)*
+*Defined in [Item.ts:666](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L666)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 • **Fomal**: = "Fomal"
 
-*Defined in [Item.ts:680](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L680)*
+*Defined in [Item.ts:667](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L667)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 • **Horror**: = "Horror"
 
-*Defined in [Item.ts:681](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L681)*
+*Defined in [Item.ts:668](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L668)*
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 • **Outdoor**: = "Outdoor"
 
-*Defined in [Item.ts:682](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L682)*
+*Defined in [Item.ts:669](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L669)*
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 • **Party**: = "Party"
 
-*Defined in [Item.ts:683](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L683)*
+*Defined in [Item.ts:670](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L670)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 • **Relax**: = "Relax"
 
-*Defined in [Item.ts:684](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L684)*
+*Defined in [Item.ts:671](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L671)*
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 • **Sport**: = "Sport"
 
-*Defined in [Item.ts:685](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L685)*
+*Defined in [Item.ts:672](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L672)*
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 • **Stage**: = "Stage"
 
-*Defined in [Item.ts:686](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L686)*
+*Defined in [Item.ts:673](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L673)*
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 • **Vacation**: = "Vacation"
 
-*Defined in [Item.ts:687](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L687)*
+*Defined in [Item.ts:674](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L674)*
 
 ___
 
@@ -113,4 +113,4 @@ ___
 
 • **Work**: = "Work"
 
-*Defined in [Item.ts:688](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L688)*
+*Defined in [Item.ts:675](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L675)*

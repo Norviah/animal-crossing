@@ -6,25 +6,16 @@
 
 ### Enumeration members
 
-* [BEEPBoop](_item_.exchangecurrency.md#beepboop)
 * [HeartCrystals](_item_.exchangecurrency.md#heartcrystals)
 * [NookMiles](_item_.exchangecurrency.md#nookmiles)
 
 ## Enumeration members
 
-###  BEEPBoop
-
-• **BEEPBoop**: = "beep boop"
-
-*Defined in [Item.ts:180](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L180)*
-
-___
-
 ###  HeartCrystals
 
 • **HeartCrystals**: = "Heart Crystals"
 
-*Defined in [Item.ts:181](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L181)*
+*Defined in [Item.ts:178](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L178)*
 
 ___
 
@@ -32,4 +23,4 @@ ___
 
 • **NookMiles**: = "Nook Miles"
 
-*Defined in [Item.ts:182](https://github.com/Norviah/animal-crossing/blob/fc7c924/module/types/Item.ts#L182)*
+*Defined in [Item.ts:179](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L179)*
