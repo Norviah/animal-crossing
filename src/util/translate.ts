@@ -89,9 +89,13 @@ function translate(item: obj): void {
   // If the item has a variation, set the translation for the variation.
   if (item.hasOwnProperty('variation')) {
     let translation = translations.find((translation: any) => {
-      // Make sure the translation is for variations, and that the translation
-      // has the same name as the item's variation.
-      if (!translation.sourceSheet.includes('Variants') && translation.english !== item.variation) {
+      // Make sure the translation is for variations,
+      if (!translation.sourceSheet.includes('Variants')) {
+        return;
+      }
+
+      // And the translation is for the item's variation.
+      else if (translation.english !== item.variation) {
         return;
       }
 
