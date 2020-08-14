@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.6.1](https://github.com/Norviah/animal-crossing/compare/v6.6.0...v6.6.1) (2020-08-14)
+
+
+### Bug Fixes
+
+* **translations:** separate the checks when looking for variations so both checks are ensured ([738a792](https://github.com/Norviah/animal-crossing/commit/738a792681dd3c44d973fa939a1cf7aaf1e6ac29))
+
 ## [6.6.0](https://github.com/Norviah/animal-crossing/compare/v6.5.0...v6.6.0) (2020-08-12)
 
 
