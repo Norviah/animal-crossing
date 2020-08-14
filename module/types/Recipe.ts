@@ -4,7 +4,8 @@ export interface Recipe {
     image:                 string;
     buy:                   number;
     sell:                  number | null;
-    milesPrice:            number | null;
+    exchangePrice:         number | null;
+    exchangeCurrency:      ExchangeCurrency | null;
     source:                string[];
     sourceNotes:           null | string;
     versionAdded:          Version;
@@ -51,11 +52,15 @@ export enum Category {
     Wallpaper = "Wallpaper",
 }
 
+export enum ExchangeCurrency {
+    NookMiles = "Nook Miles",
+}
+
 export interface MaterialsTranslations {
     "star fragment"?:         AquariusFragment;
     "Aquarius fragment"?:     AquariusFragment;
     "gold nugget"?:           AquariusFragment;
-    stone?:                   AquariusFragment;
+    stone?:                   GoldArmor;
     "Aries fragment"?:        AquariusFragment;
     "earth egg"?:             AquariusFragment;
     "stone egg"?:             AquariusFragment;
@@ -267,83 +272,123 @@ export interface GoldArmor {
     sourceSheet:        GoldArmorSourceSheet;
     id:                 number;
     version:            Version;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
+    english:            GoldArmorEnglish;
+    englishEurope:      GoldArmorEnglish;
+    german:             GoldArmorGerman;
+    spanish:            SpanishUsEnum;
+    spanishUs:          SpanishUsEnum;
+    french:             GoldArmorFrench;
+    frenchUs:           GoldArmorFrench;
+    italian:            GoldArmorItalian;
+    dutch:              GoldArmorDutch;
+    chinese:            GoldArmorChinese;
+    chineseTraditional: ChineseTraditional;
+    japanese:           GoldArmorJapanese;
+    korean:             GoldArmorKorean;
+    russian:            GoldArmorRussian;
     plural:             boolean;
     internalIds:        number[];
 }
 
+export enum GoldArmorChinese {
+    石头 = "石头",
+    金盔甲 = "金盔甲",
+}
+
+export enum ChineseTraditional {
+    石頭 = "石頭",
+    金盔甲 = "金盔甲",
+}
+
+export enum GoldArmorDutch {
+    GoudenHarnas = "gouden harnas",
+    StenenSet = "stenen set",
+}
+
+export enum GoldArmorEnglish {
+    GoldArmor = "gold armor",
+    Stone = "stone",
+}
+
+export enum GoldArmorFrench {
+    ArmureEnOr = "armure en or",
+    Pierre = "pierre",
+}
+
+export enum GoldArmorGerman {
+    Goldrüstung = "Goldrüstung",
+    Stein = "Stein",
+}
+
+export enum GoldArmorItalian {
+    ArmaturaDorata = "armatura dorata",
+    Pietra = "pietra",
+}
+
+export enum GoldArmorJapanese {
+    いし = "いし",
+    ゴールデンアーマー = "ゴールデンアーマー",
+}
+
+export enum GoldArmorKorean {
+    골든아머 = "골든 아머",
+    돌 = "돌",
+}
+
+export enum GoldArmorRussian {
+    ЗолотыеДоспехи = "золотые доспехи",
+    Камень = "Камень",
+}
+
 export enum GoldArmorSourceSheet {
-    Accessories = "Accessories",
-    Bags = "Bags",
-    Bottoms = "Bottoms",
-    Caps = "Caps",
-    Doorplates = "Doorplates",
     Dresses = "Dresses",
-    Etc = "ETC",
-    Fence = "Fence",
-    Floors = "Floors",
-    Furniture = "Furniture",
-    Masks = "Masks",
-    Rugs = "Rugs",
-    Shoes = "Shoes",
-    Tools = "Tools",
-    Tops = "Tops",
-    Umbrella = "Umbrella",
-    Walls = "Walls",
+    HHASet = "HHA Set",
+}
+
+export enum SpanishUsEnum {
+    ArmaduraDeOro = "armadura de oro",
+    Piedra = "piedra",
 }
 
 export interface Peach {
     sourceSheet:        PeachSourceSheet;
     id:                 IDEnum;
     version:            Version;
-    english:            English;
-    englishEurope:      English;
-    german:             German;
-    spanish:            Spanish;
+    english:            PeachEnglish;
+    englishEurope:      PeachEnglish;
+    german:             PeachGerman;
+    spanish:            PeachSpanish;
     spanishUs:          SpanishUs;
-    french:             French;
-    frenchUs:           French;
-    italian:            Italian;
-    dutch:              Dutch;
-    chinese:            Chinese;
-    chineseTraditional: Chinese;
-    japanese:           Japanese;
-    korean:             Korean;
-    russian:            Russian;
+    french:             PeachFrench;
+    frenchUs:           PeachFrench;
+    italian:            PeachItalian;
+    dutch:              PeachDutch;
+    chinese:            ChineseTraditionalEnum;
+    chineseTraditional: ChineseTraditionalEnum;
+    japanese:           PeachJapanese;
+    korean:             PeachKorean;
+    russian:            PeachRussian;
     plural:             boolean;
     internalIds:        IDEnum[];
 }
 
-export enum Chinese {
+export enum ChineseTraditionalEnum {
     怦怦 = "怦怦",
 }
 
-export enum Dutch {
+export enum PeachDutch {
     Perzik = "perzik",
 }
 
-export enum English {
+export enum PeachEnglish {
     Peach = "peach",
 }
 
-export enum French {
+export enum PeachFrench {
     Prune = "prune",
 }
 
-export enum German {
+export enum PeachGerman {
     Früchtchen = "früchtchen",
 }
 
@@ -351,19 +396,19 @@ export enum IDEnum {
     Cbr00 = "cbr00",
 }
 
-export enum Italian {
+export enum PeachItalian {
     Pepè = "pepè",
 }
 
-export enum Japanese {
+export enum PeachJapanese {
     キュン = "キュン",
 }
 
-export enum Korean {
+export enum PeachKorean {
     두근 = "두근",
 }
 
-export enum Russian {
+export enum PeachRussian {
     Персик = "персик",
 }
 
@@ -371,7 +416,7 @@ export enum PeachSourceSheet {
     VillagersCatchPhrase = "Villagers Catch Phrase",
 }
 
-export enum Spanish {
+export enum PeachSpanish {
     Cielito = "cielito",
 }
 
@@ -384,7 +429,7 @@ export enum RecipeSourceSheet {
 }
 
 export interface Translations {
-    sourceSheet:        GoldArmorSourceSheet;
+    sourceSheet:        TranslationsSourceSheet;
     id:                 number | string;
     version:            Version;
     english:            string;
@@ -403,4 +448,24 @@ export interface Translations {
     russian:            string;
     plural:             boolean;
     internalIds:        number[];
+}
+
+export enum TranslationsSourceSheet {
+    Accessories = "Accessories",
+    Bags = "Bags",
+    Bottoms = "Bottoms",
+    Caps = "Caps",
+    Doorplates = "Doorplates",
+    Dresses = "Dresses",
+    Etc = "ETC",
+    Fence = "Fence",
+    Floors = "Floors",
+    Furniture = "Furniture",
+    Masks = "Masks",
+    Rugs = "Rugs",
+    Shoes = "Shoes",
+    Tools = "Tools",
+    Tops = "Tops",
+    Umbrella = "Umbrella",
+    Walls = "Walls",
 }
