@@ -15,7 +15,7 @@
 
 • **ЗолотыеДоспехи**: = "золотые доспехи"
 
-*Defined in [Recipe.ts:339](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Recipe.ts#L339)*
+*Defined in [Recipe.ts:339](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L339)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Камень**: = "Камень"
 
-*Defined in [Recipe.ts:340](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Recipe.ts#L340)*
+*Defined in [Recipe.ts:340](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L340)*
