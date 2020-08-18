@@ -415,7 +415,7 @@
     "name": "Labelle sunglasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": null,
+    "sourceNotes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "catalog": "For sale",
@@ -442,7 +442,7 @@
       "plural": false,
       "internalIds": [ 11776, 11777, 11780, 11779, 11778, 9887 ]
     },
-    "source": [ "Labelle" ],
+    "source": [ "Label" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -11821,7 +11821,7 @@
     "size": "1x1",
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Recycle bin" ],
+    "source": [ "Recycle box" ],
     "sourceNotes": null,
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
