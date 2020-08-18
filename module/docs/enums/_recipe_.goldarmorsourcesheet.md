@@ -15,7 +15,7 @@
 
 • **Dresses**: = "Dresses"
 
-*Defined in [Recipe.ts:344](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Recipe.ts#L344)*
+*Defined in [Recipe.ts:344](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L344)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **HHASet**: = "HHA Set"
 
-*Defined in [Recipe.ts:345](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Recipe.ts#L345)*
+*Defined in [Recipe.ts:345](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L345)*

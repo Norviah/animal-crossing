@@ -14,4 +14,4 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Reaction.ts:42](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Reaction.ts#L42)*
+*Defined in [Reaction.ts:42](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Reaction.ts#L42)*

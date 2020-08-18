@@ -39,7 +39,7 @@
 
 • **buy**: *number*
 
-*Defined in [Item.ts:242](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L242)*
+*Defined in [Item.ts:242](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L242)*
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 • **cardColor**: *[CardColor](../enums/_item_.cardcolor.md) | null*
 
-*Defined in [Item.ts:253](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L253)*
+*Defined in [Item.ts:253](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L253)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **category**: *[Category](../enums/_item_.category.md)*
 
-*Defined in [Item.ts:251](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L251)*
+*Defined in [Item.ts:251](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L251)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 • **craftedItemInternalId**: *number*
 
-*Defined in [Item.ts:252](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L252)*
+*Defined in [Item.ts:252](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L252)*
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 • **diyIconFilename**: *string*
 
-*Defined in [Item.ts:254](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L254)*
+*Defined in [Item.ts:254](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L254)*
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 • **exchangeCurrency**: *[ExchangeCurrency](../enums/_item_.exchangecurrency.md) | null*
 
-*Defined in [Item.ts:245](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L245)*
+*Defined in [Item.ts:245](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L245)*
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 • **exchangePrice**: *number | null*
 
-*Defined in [Item.ts:244](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L244)*
+*Defined in [Item.ts:244](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L244)*
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 • **image**: *string*
 
-*Defined in [Item.ts:241](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L241)*
+*Defined in [Item.ts:241](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L241)*
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 • **internalId**: *number*
 
-*Defined in [Item.ts:256](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L256)*
+*Defined in [Item.ts:256](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L256)*
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 • **materials**: *object*
 
-*Defined in [Item.ts:259](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L259)*
+*Defined in [Item.ts:259](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L259)*
 
 #### Type declaration:
 
@@ -123,7 +123,7 @@ ___
 
 • **materialsTranslations**: *[MaterialsTranslations](_item_.materialstranslations.md)*
 
-*Defined in [Item.ts:260](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L260)*
+*Defined in [Item.ts:260](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L260)*
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [Item.ts:240](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L240)*
+*Defined in [Item.ts:240](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L240)*
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 • **recipesToUnlock**: *number*
 
-*Defined in [Item.ts:250](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L250)*
+*Defined in [Item.ts:250](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L250)*
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 • **sell**: *number | null*
 
-*Defined in [Item.ts:243](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L243)*
+*Defined in [Item.ts:243](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L243)*
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 • **serialId**: *number*
 
-*Defined in [Item.ts:255](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L255)*
+*Defined in [Item.ts:255](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L255)*
 
 ___
 
@@ -163,7 +163,7 @@ ___
 
 • **source**: *string[]*
 
-*Defined in [Item.ts:246](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L246)*
+*Defined in [Item.ts:246](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L246)*
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 • **sourceNotes**: *null | string*
 
-*Defined in [Item.ts:247](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L247)*
+*Defined in [Item.ts:247](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L247)*
 
 ___
 
@@ -179,7 +179,7 @@ ___
 
 • **sourceSheet**: *[RecipeSourceSheet](../enums/_item_.recipesourcesheet.md)*
 
-*Defined in [Item.ts:239](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L239)*
+*Defined in [Item.ts:239](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L239)*
 
 ___
 
@@ -187,7 +187,7 @@ ___
 
 • **translations**: *[RecipeTranslations](_item_.recipetranslations.md)*
 
-*Defined in [Item.ts:258](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L258)*
+*Defined in [Item.ts:258](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L258)*
 
 ___
 
@@ -195,7 +195,7 @@ ___
 
 • **uniqueEntryId**: *string*
 
-*Defined in [Item.ts:257](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L257)*
+*Defined in [Item.ts:257](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L257)*
 
 ___
 
@@ -203,7 +203,7 @@ ___
 
 • **versionAdded**: *[Version](../enums/_item_.version.md)*
 
-*Defined in [Item.ts:248](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L248)*
+*Defined in [Item.ts:248](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L248)*
 
 ___
 
@@ -211,4 +211,4 @@ ___
 
 • **versionUnlocked**: *[Version](../enums/_item_.version.md)*
 
-*Defined in [Item.ts:249](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Item.ts#L249)*
+*Defined in [Item.ts:249](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L249)*

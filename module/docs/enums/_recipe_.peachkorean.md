@@ -14,4 +14,4 @@
 
 • **두근**: = "두근"
 
-*Defined in [Recipe.ts:408](https://github.com/Norviah/animal-crossing/blob/738a792/module/types/Recipe.ts#L408)*
+*Defined in [Recipe.ts:408](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L408)*
