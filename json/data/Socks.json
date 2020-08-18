@@ -306,7 +306,7 @@
     "name": "Labelle socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": null,
+    "sourceNotes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "catalog": "For sale",
@@ -333,7 +333,7 @@
       "plural": false,
       "internalIds": [ 11761, 11762, 11765, 11764, 11763, 9883 ]
     },
-    "source": [ "Labelle" ],
+    "source": [ "Label" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -650,7 +650,7 @@
     "name": "Labelle tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": null,
+    "sourceNotes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "catalog": "For sale",
@@ -677,7 +677,7 @@
       "plural": false,
       "internalIds": [ 11756, 11757, 11760, 11759, 11758, 9882 ]
     },
-    "source": [ "Labelle" ],
+    "source": [ "Label" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -7094,7 +7094,7 @@
       "plural": false,
       "internalIds": [ 5178, 9070, 9071 ]
     },
-    "source": [ "Recycle bin" ],
+    "source": [ "Recycle box" ],
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",

@@ -4,7 +4,7 @@
     "name": "Labelle shorts",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": null,
+    "sourceNotes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "catalog": "For sale",
@@ -31,7 +31,7 @@
       "plural": false,
       "internalIds": [ 11736, 11737, 11740, 11739, 11738, 9878 ]
     },
-    "source": [ "Labelle" ],
+    "source": [ "Label" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -315,7 +315,7 @@
     "name": "Labelle skirt",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": null,
+    "sourceNotes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
     "versionAdded": "1.0.0",
     "versionUnlocked": "1.0.0",
     "catalog": "For sale",
@@ -342,7 +342,7 @@
       "plural": false,
       "internalIds": [ 11741, 11742, 11745, 11744, 11743, 9879 ]
     },
-    "source": [ "Labelle" ],
+    "source": [ "Label" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -34251,7 +34251,7 @@
       "plural": false,
       "internalIds": [ 9282, 9281, 5701 ]
     },
-    "source": [ "Recycle bin" ],
+    "source": [ "Recycle box" ],
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
