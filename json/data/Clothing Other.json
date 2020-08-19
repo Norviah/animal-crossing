@@ -136,7 +136,7 @@
       "internalIds": [ 12970 ]
     },
     "colors": [ "Black", "Green" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Simple" ],
     "themes": [ "outdoorsy", "sporty", "vacation", "work" ],
     "recipe": null
   },
@@ -389,7 +389,7 @@
         "colors": [ "Blue", "White" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
@@ -642,7 +642,7 @@
         "colors": [ "Purple", "Black" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Gorgeous" ],
     "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   }

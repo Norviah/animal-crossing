@@ -247,7 +247,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Elegant" ],
     "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
@@ -366,7 +366,7 @@
       "internalIds": [ 12445 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -662,7 +662,7 @@
       "internalIds": [ 12132 ]
     },
     "colors": [ "Blue", "Yellow" ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Gorgeous" ],
     "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
@@ -914,7 +914,7 @@
         "colors": [ "Blue", "Gray" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Cool" ],
     "themes": [ "everyday", "comfy", "sporty" ],
     "recipe": null
   },
@@ -1054,7 +1054,7 @@
       "internalIds": [ 5607 ]
     },
     "colors": [ "Yellow", "Blue" ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Gorgeous" ],
     "themes": [ "formal", "goth", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -1443,7 +1443,7 @@
         "colors": [ "Purple", "Black" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Active" ],
     "themes": [ "everyday", "sporty", "theatrical" ],
     "recipe": null
   },
@@ -1788,7 +1788,7 @@
         "colors": [ "Purple", "Black" ]
       }
     ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Elegant" ],
     "themes": [ "everyday", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -2163,7 +2163,7 @@
         "colors": [ "Purple", "Yellow" ]
       }
     ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Gorgeous" ],
     "themes": [ "party", "theatrical" ],
     "recipe": null
   },
@@ -2538,7 +2538,7 @@
         "colors": [ "Purple", "Yellow" ]
       }
     ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Gorgeous" ],
     "themes": [ "party", "theatrical" ],
     "recipe": null
   },
@@ -2636,7 +2636,7 @@
       "internalIds": [ 6036 ]
     },
     "colors": [ "Beige", "Black" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Gorgeous" ],
     "themes": [ "goth", "theatrical" ],
     "recipe": null
   },
@@ -2734,7 +2734,7 @@
       "internalIds": [ 5628 ]
     },
     "colors": [ "Orange", "Yellow" ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Cute" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -2832,7 +2832,7 @@
       "internalIds": [ 5627 ]
     },
     "colors": [ "Green", "White" ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -2909,7 +2909,7 @@
       "internalIds": [ 12424 ]
     },
     "colors": [ "White", "Blue" ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -3212,7 +3212,7 @@
         "colors": [ "Beige", "Beige" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Active" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -3407,7 +3407,7 @@
         "colors": [ "Blue", "Aqua" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Elegant" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -3505,7 +3505,7 @@
       "internalIds": [ 6048 ]
     },
     "colors": [ "Black", "Black" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -3624,7 +3624,7 @@
       "internalIds": [ 9871 ]
     },
     "colors": [ "Red", "Yellow" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -4043,7 +4043,7 @@
         "colors": [ "Beige", "White" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -4274,7 +4274,7 @@
         "colors": [ "Colorful", "Colorful" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "party", "theatrical" ],
     "recipe": null
   },
@@ -4372,7 +4372,7 @@
       "internalIds": [ 5143 ]
     },
     "colors": [ "Beige", "Beige" ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Active" ],
     "themes": [ "fairy tale", "outdoorsy" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -4556,7 +4556,7 @@
       "internalIds": [ 9860 ]
     },
     "colors": [ "Pink", "White" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Cute" ],
     "themes": [ "everyday", "fairy tale", "party" ],
     "recipe": null
   },
@@ -4844,7 +4844,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "outdoorsy", "sporty", "work" ],
     "recipe": null
   },
@@ -5111,7 +5111,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -5363,7 +5363,7 @@
         "colors": [ "Aqua", "White" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -5687,7 +5687,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "everyday", "formal", "party" ],
     "recipe": null
   },
@@ -6041,7 +6041,7 @@
         "colors": [ "Purple", "Black" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "sporty" ],
     "recipe": null
   },
@@ -6215,7 +6215,7 @@
         "colors": [ "Aqua", "White" ]
       }
     ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Gorgeous" ],
     "themes": [ "party" ],
     "recipe": null
   },
@@ -6334,7 +6334,7 @@
       "internalIds": [ 7377 ]
     },
     "colors": [ "Blue", "Blue" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cool" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -6687,7 +6687,7 @@
         "colors": [ "Beige", "Beige" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "fairy tale", "formal", "party" ],
     "recipe": null
   },
@@ -6827,7 +6827,7 @@
       "internalIds": [ 5692 ]
     },
     "colors": [ "White", "Colorful" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Gorgeous" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -6946,7 +6946,7 @@
       "internalIds": [ 9857 ]
     },
     "colors": [ "Green", "Gray" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Gorgeous" ],
     "themes": [ "fairy tale", "party", "sporty" ],
     "recipe": null
   },
@@ -7264,7 +7264,7 @@
         "colors": [ "Purple", "Colorful" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -7516,7 +7516,7 @@
         "colors": [ "Aqua", "Aqua" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cool" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -7711,7 +7711,7 @@
         "colors": [ "Yellow", "Yellow" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party" ],
     "recipe": null
   },
@@ -7809,7 +7809,7 @@
       "internalIds": [ 5332 ]
     },
     "colors": [ "White", "Black" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -8025,7 +8025,7 @@
         "colors": [ "Brown", "Pink" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -8292,7 +8292,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -8487,7 +8487,7 @@
         "colors": [ "Blue", "Yellow" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Cool" ],
     "themes": [ "fairy tale", "theatrical" ],
     "recipe": null
   },
@@ -8564,7 +8564,7 @@
       "internalIds": [ 5140 ]
     },
     "colors": [ "White", "White" ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -8683,7 +8683,7 @@
       "internalIds": [ 9873 ]
     },
     "colors": [ "Red", "Green" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -8867,7 +8867,7 @@
       "internalIds": [ 5118 ]
     },
     "colors": [ "Pink", "Purple" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Elegant" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -9072,7 +9072,7 @@
       "internalIds": [ 5113 ]
     },
     "colors": [ "Purple", "Black" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Elegant" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -9277,7 +9277,7 @@
       "internalIds": [ 5103 ]
     },
     "colors": [ "Purple", "Pink" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Elegant" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -9461,7 +9461,7 @@
       "internalIds": [ 6091 ]
     },
     "colors": [ "Yellow", "Colorful" ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Elegant" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -9764,7 +9764,7 @@
         "colors": [ "Purple", "Colorful" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -9902,7 +9902,7 @@
         "colors": [ "Green", "Green" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cool" ],
     "themes": [ "outdoorsy" ],
     "recipe": null
   },
@@ -10063,7 +10063,7 @@
       "internalIds": [ 5696 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -10182,7 +10182,7 @@
       "internalIds": [ 5097 ]
     },
     "colors": [ "Blue", "Orange" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cool" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -10408,7 +10408,7 @@
       "internalIds": [ 5106 ]
     },
     "colors": [ "Red", "Blue" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cool" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -10613,7 +10613,7 @@
       "internalIds": [ 5100 ]
     },
     "colors": [ "Pink", "Blue" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cool" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -10818,7 +10818,7 @@
       "internalIds": [ 5108 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -11065,7 +11065,7 @@
       "internalIds": [ 8000 ]
     },
     "colors": [ "Yellow", "Yellow" ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Elegant" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -11184,7 +11184,7 @@
       "internalIds": [ 5115 ]
     },
     "colors": [ "Pink", "Orange" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -11410,7 +11410,7 @@
       "internalIds": [ 5112 ]
     },
     "colors": [ "Pink", "Orange" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -11871,7 +11871,7 @@
         "colors": [ "Purple", "Green" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -12153,7 +12153,7 @@
         "colors": [ "Brown", "Brown" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -12272,7 +12272,7 @@
       "internalIds": [ 5110 ]
     },
     "colors": [ "Red", "Red" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cool" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -12456,7 +12456,7 @@
       "internalIds": [ 5116 ]
     },
     "colors": [ "Red", "Black" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cool" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -12640,7 +12640,7 @@
       "internalIds": [ 5104 ]
     },
     "colors": [ "Red", "Black" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cool" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -12957,7 +12957,7 @@
         "colors": [ "Aqua", "Aqua" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Active" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -13131,7 +13131,7 @@
         "colors": [ "Beige", "Beige" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Cool" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -13485,7 +13485,7 @@
         "colors": [ "Beige", "White" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -13623,7 +13623,7 @@
         "colors": [ "Aqua", "Aqua" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Cute" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -13742,7 +13742,7 @@
       "internalIds": [ 12439 ]
     },
     "colors": [ "Red", "Yellow" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -13926,7 +13926,7 @@
       "internalIds": [ 12446 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -14222,7 +14222,7 @@
       "internalIds": [ 5642 ]
     },
     "colors": [ "White", "White" ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -14320,7 +14320,7 @@
       "internalIds": [ 6035 ]
     },
     "colors": [ "Beige", "Black" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Cool" ],
     "themes": [ "goth", "theatrical" ],
     "recipe": null
   },
@@ -14629,7 +14629,7 @@
         "colors": [ "Purple", "Purple" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -14860,7 +14860,7 @@
         "colors": [ "Beige", "Beige" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Simple" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -15235,7 +15235,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "theatrical" ],
     "recipe": null
   },
@@ -15595,7 +15595,7 @@
         "colors": [ "Beige", "Beige" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Simple" ],
     "themes": [ "everyday", "formal", "party" ],
     "recipe": null
   },
@@ -15919,7 +15919,7 @@
         "colors": [ "Beige", "Brown" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Elegant" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -16165,7 +16165,7 @@
         "colors": [ "Brown", "Black" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -16525,7 +16525,7 @@
         "colors": [ "Purple", "Purple" ]
       }
     ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Elegant" ],
     "themes": [ "everyday", "party", "theatrical" ],
     "recipe": null
   },
@@ -16792,7 +16792,7 @@
         "colors": [ "Purple", "Purple" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "everyday", "fairy tale" ],
     "recipe": null
   },
@@ -16911,7 +16911,7 @@
       "internalIds": [ 9858 ]
     },
     "colors": [ "Aqua", "Gray" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Gorgeous" ],
     "themes": [ "fairy tale", "party", "sporty" ],
     "recipe": null
   },
@@ -17286,7 +17286,7 @@
         "colors": [ "Blue", "White" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -17445,7 +17445,7 @@
         "colors": [ "Black", "Red" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "goth", "theatrical" ],
     "recipe": null
   },
@@ -17697,7 +17697,7 @@
         "colors": [ "Aqua", "Aqua" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Active" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -17892,7 +17892,7 @@
         "colors": [ "Brown", "Brown" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "fairy tale", "goth" ],
     "recipe": null
   },
@@ -18231,7 +18231,7 @@
         "colors": [ "Purple", "Colorful" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Elegant" ],
     "themes": [ "theatrical", "work" ],
     "recipe": null
   },
@@ -18627,7 +18627,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -18725,7 +18725,7 @@
       "internalIds": [ 6049 ]
     },
     "colors": [ "Black", "Red" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -18823,7 +18823,7 @@
       "internalIds": [ 5346 ]
     },
     "colors": [ "Yellow", "Red" ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Gorgeous" ],
     "themes": [ "fairy tale", "goth" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -19007,7 +19007,7 @@
       "internalIds": [ 7378 ]
     },
     "colors": [ "Yellow", "Yellow" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Gorgeous" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -19396,7 +19396,7 @@
         "colors": [ "Purple", "Colorful" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -19515,7 +19515,7 @@
       "internalIds": [ 5278 ]
     },
     "colors": [ "Purple", "Green" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -19634,7 +19634,7 @@
       "internalIds": [ 6921 ]
     },
     "colors": [ "Yellow", "Yellow" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Gorgeous" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -19732,7 +19732,7 @@
       "internalIds": [ 12576 ]
     },
     "colors": [ "Red", "Colorful" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cool" ],
     "themes": [ "fairy tale", "theatrical" ],
     "recipe": null
   },
@@ -19942,7 +19942,7 @@
         "colors": [ "Purple", "Colorful" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "comfy" ],
     "recipe": null
   },
@@ -20137,7 +20137,7 @@
         "colors": [ "Blue", "Colorful" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -20235,7 +20235,7 @@
       "internalIds": [ 5322 ]
     },
     "colors": [ "Green", "Green" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Active" ],
     "themes": [ "goth", "outdoorsy" ],
     "recipe": null
   },
@@ -20354,7 +20354,7 @@
       "internalIds": [ 9859 ]
     },
     "colors": [ "Pink", "Gray" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Gorgeous" ],
     "themes": [ "fairy tale", "party", "sporty" ],
     "recipe": null
   },
@@ -20621,7 +20621,7 @@
         "colors": [ "Blue", "Yellow" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "everyday", "fairy tale" ],
     "recipe": null
   },
@@ -20996,7 +20996,7 @@
         "colors": [ "Purple", "Black" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cute" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -21227,7 +21227,7 @@
         "colors": [ "Yellow", "Green" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Cute" ],
     "themes": [ "fairy tale", "vacation" ],
     "recipe": null
   },
@@ -21346,7 +21346,7 @@
       "internalIds": [ 6041 ]
     },
     "colors": [ "White", "White" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Active" ],
     "themes": [ "goth", "sporty", "work" ],
     "recipe": null
   },
@@ -21444,7 +21444,7 @@
       "internalIds": [ 5369 ]
     },
     "colors": [ "Red", "Red" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "party", "theatrical" ],
     "recipe": null
   },
@@ -21563,7 +21563,7 @@
       "internalIds": [ 5096 ]
     },
     "colors": [ "Red", "Yellow" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -21768,7 +21768,7 @@
       "internalIds": [ 5447 ]
     },
     "colors": [ "White", "White" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "goth", "theatrical" ],
     "recipe": null
   },
@@ -21948,7 +21948,7 @@
         "colors": [ "Red", "Red" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cute" ],
     "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
@@ -22242,7 +22242,7 @@
         "colors": [ "Purple", "Yellow" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Gorgeous" ],
     "themes": [ "fairy tale", "goth", "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -22617,7 +22617,7 @@
         "colors": [ "Blue", "Black" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "sporty", "work" ],
     "recipe": null
   },
@@ -22812,7 +22812,7 @@
         "colors": [ "Red", "Black" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Cool" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -22992,7 +22992,7 @@
         "colors": [ "Pink", "Pink" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Active" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -23111,7 +23111,7 @@
       "internalIds": [ 5276 ]
     },
     "colors": [ "Brown", "Green" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -23209,7 +23209,7 @@
       "internalIds": [ 5334 ]
     },
     "colors": [ "Gray", "Gray" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Gorgeous" ],
     "themes": [ "fairy tale", "goth" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -23613,7 +23613,7 @@
         "colors": [ "Beige", "Pink" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Active" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -24009,7 +24009,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "everyday", "outdoorsy", "comfy" ],
     "recipe": null
   },
@@ -24107,7 +24107,7 @@
       "internalIds": [ 7291 ]
     },
     "colors": [ "Green", "Green" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cool" ],
     "themes": [ "goth", "outdoorsy" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -24291,7 +24291,7 @@
       "internalIds": [ 12441 ]
     },
     "colors": [ "Green", "Green" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -24572,7 +24572,7 @@
         "colors": [ "Beige", "White" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -24691,7 +24691,7 @@
       "internalIds": [ 5114 ]
     },
     "colors": [ "Red", "Yellow" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -24917,7 +24917,7 @@
       "internalIds": [ 5109 ]
     },
     "colors": [ "Pink", "Orange" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -25234,7 +25234,7 @@
         "colors": [ "Blue", "Aqua" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cute" ],
     "themes": [ "fairy tale", "goth" ],
     "recipe": null
   },
@@ -25429,7 +25429,7 @@
         "colors": [ "Brown", "Aqua" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Elegant" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -25506,7 +25506,7 @@
       "internalIds": [ 5691 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -25646,7 +25646,7 @@
       "internalIds": [ 12661 ]
     },
     "colors": [ "White", "Pink" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Elegant" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -26027,7 +26027,7 @@
         "colors": [ "Purple", "White" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Simple" ],
     "themes": [ "formal", "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -26125,7 +26125,7 @@
       "internalIds": [ 5365 ]
     },
     "colors": [ "White", "White" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Simple" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -26202,7 +26202,7 @@
       "internalIds": [ 5688 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -26321,7 +26321,7 @@
       "internalIds": [ 5117 ]
     },
     "colors": [ "Red", "Yellow" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -26547,7 +26547,7 @@
       "internalIds": [ 5324 ]
     },
     "colors": [ "White", "White" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
@@ -26922,7 +26922,7 @@
         "colors": [ "Purple", "Gray" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Active" ],
     "themes": [ "fairy tale", "work" ],
     "recipe": null
   },
@@ -27096,7 +27096,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -27215,7 +27215,7 @@
       "internalIds": [ 5275 ]
     },
     "colors": [ "Orange", "Green" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -27568,7 +27568,7 @@
         "colors": [ "Beige", "Gray" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Cool" ],
     "themes": [ "everyday", "outdoorsy", "work" ],
     "recipe": null
   },
@@ -27943,7 +27943,7 @@
         "colors": [ "Beige", "Red" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -28174,7 +28174,7 @@
         "colors": [ "Green", "Black" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -28528,7 +28528,7 @@
         "colors": [ "Purple", "White" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Simple" ],
     "themes": [ "outdoorsy" ],
     "recipe": null
   },
@@ -28647,7 +28647,7 @@
       "internalIds": [ 5105 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -28831,7 +28831,7 @@
       "internalIds": [ 5840 ]
     },
     "colors": [ "Beige", "Beige" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "goth" ],
     "recipe": null
   },
@@ -29119,7 +29119,7 @@
         "colors": [ "Brown", "Brown" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Elegant" ],
     "themes": [ "everyday", "formal", "work" ],
     "recipe": null
   },
@@ -29335,7 +29335,7 @@
         "colors": [ "Blue", "Beige" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
@@ -29454,7 +29454,7 @@
       "internalIds": [ 9874 ]
     },
     "colors": [ "Pink", "Yellow" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -29638,7 +29638,7 @@
       "internalIds": [ 9872 ]
     },
     "colors": [ "Green", "Brown" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -29780,7 +29780,7 @@
       "internalIds": [ 5819 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Active" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -29975,7 +29975,7 @@
         "colors": [ "Brown", "Black" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Active" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -30170,7 +30170,7 @@
         "colors": [ "Blue", "Yellow" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cool" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -30310,7 +30310,7 @@
       "internalIds": [ 5279 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical", "vacation" ],
     "recipe": null
   },
@@ -30526,7 +30526,7 @@
         "colors": [ "Blue", "White" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Active" ],
     "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
@@ -30666,7 +30666,7 @@
       "internalIds": [ 5142 ]
     },
     "colors": [ "Black", "Yellow" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Gorgeous" ],
     "themes": [ "fairy tale", "formal", "goth", "theatrical" ],
     "recipe": null
   },
@@ -30806,7 +30806,7 @@
       "internalIds": [ 12980 ]
     },
     "colors": [ "Gray", "Red" ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Gorgeous" ],
     "themes": [ "fairy tale", "formal", "goth", "theatrical" ],
     "recipe": null
   },
@@ -31073,7 +31073,7 @@
         "colors": [ "Beige", "Beige" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Active" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -31171,7 +31171,7 @@
       "internalIds": [ 5141 ]
     },
     "colors": [ "Blue", "Black" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cool" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -31474,7 +31474,7 @@
         "colors": [ "Brown", "Brown" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "everyday", "comfy" ],
     "recipe": null
   },
@@ -31551,7 +31551,7 @@
       "internalIds": [ 5689 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -31803,7 +31803,7 @@
         "colors": [ "Blue", "Green" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cool" ],
     "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
@@ -31922,7 +31922,7 @@
       "internalIds": [ 5098 ]
     },
     "colors": [ "Purple", "Purple" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -32106,7 +32106,7 @@
       "internalIds": [ 5107 ]
     },
     "colors": [ "Purple", "Purple" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -32290,7 +32290,7 @@
       "internalIds": [ 5101 ]
     },
     "colors": [ "Purple", "Purple" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -32751,7 +32751,7 @@
         "colors": [ "Purple", "Pink" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "outdoorsy", "sporty", "work" ],
     "recipe": null
   },
@@ -33126,7 +33126,7 @@
         "colors": [ "Beige", "Beige" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -33543,7 +33543,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "everyday", "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -33795,7 +33795,7 @@
         "colors": [ "Beige", "Aqua" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
@@ -34011,7 +34011,7 @@
         "colors": [ "Beige", "Aqua" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -34130,7 +34130,7 @@
       "internalIds": [ 5111 ]
     },
     "colors": [ "Red", "Yellow" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -34356,7 +34356,7 @@
       "internalIds": [ 5307 ]
     },
     "colors": [ "Red", "Yellow" ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Gorgeous" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -34602,7 +34602,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Simple" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -34797,7 +34797,7 @@
         "colors": [ "Blue", "White" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "vacation", "work" ],
     "recipe": null
   },
@@ -35064,7 +35064,7 @@
         "colors": [ "Blue", "Yellow" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Gorgeous" ],
     "themes": [ "theatrical", "work" ],
     "recipe": null
   },
@@ -35141,7 +35141,7 @@
       "internalIds": [ 5690 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Gorgeous" ],
     "themes": [ "theatrical" ],
     "recipe": null
   },
@@ -35372,7 +35372,7 @@
         "colors": [ "Black", "Blue" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Elegant" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -35510,7 +35510,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "everyday" ],
     "recipe": null
   },
@@ -35849,7 +35849,7 @@
         "colors": [ "Beige", "Beige" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -36101,7 +36101,7 @@
         "colors": [ "Brown", "Brown" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -36332,7 +36332,7 @@
         "colors": [ "Red", "Blue" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Gorgeous" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -36451,7 +36451,7 @@
       "internalIds": [ 5119 ]
     },
     "colors": [ "Green", "Green" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -36762,7 +36762,7 @@
         "colors": [ "Aqua", "Aqua" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "sporty" ],
     "recipe": null
   },
@@ -36881,7 +36881,7 @@
       "internalIds": [ 5328 ]
     },
     "colors": [ "Gray", "Gray" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "fairy tale", "goth", "theatrical" ],
     "recipe": null
   },
@@ -37127,7 +37127,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Active" ],
     "themes": [ "goth" ],
     "recipe": null
   },
@@ -37246,7 +37246,7 @@
       "internalIds": [ 12443 ]
     },
     "colors": [ "Aqua", "Red" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -37527,7 +37527,7 @@
         "colors": [ "Purple", "Purple" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Elegant" ],
     "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -37625,7 +37625,7 @@
       "internalIds": [ 8609 ]
     },
     "colors": [ "White", "Orange" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -38086,7 +38086,7 @@
         "colors": [ "Brown", "White" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Cute" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -38482,7 +38482,7 @@
         "colors": [ "Brown", "Brown" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -38878,7 +38878,7 @@
         "colors": [ "Beige", "Green" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -38955,7 +38955,7 @@
       "internalIds": [ 5394 ]
     },
     "colors": [ "White", "White" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -39165,7 +39165,7 @@
         "colors": [ "Blue", "White" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Active" ],
     "themes": [ "sporty" ],
     "recipe": null
   },
@@ -39263,7 +39263,7 @@
       "internalIds": [ 6053 ]
     },
     "colors": [ "Black", "Black" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "theatrical", "work" ],
     "recipe": null
   },
@@ -39382,7 +39382,7 @@
       "internalIds": [ 2611 ]
     },
     "colors": [ "Yellow", "Gray" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Gorgeous" ],
     "themes": [ "fairy tale", "party", "sporty" ],
     "recipe": null
   },
@@ -39649,7 +39649,7 @@
         "colors": [ "Purple", "Yellow" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "everyday", "fairy tale" ],
     "recipe": null
   },
@@ -39768,7 +39768,7 @@
       "internalIds": [ 9862 ]
     },
     "colors": [ "Yellow", "Yellow" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -39952,7 +39952,7 @@
       "internalIds": [ 12440 ]
     },
     "colors": [ "Yellow", "Orange" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -40413,7 +40413,7 @@
         "colors": [ "Beige", "Blue" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Elegant" ],
     "themes": [ "everyday", "fairy tale", "vacation" ],
     "recipe": null
   },
@@ -40629,7 +40629,7 @@
         "colors": [ "Beige", "Brown" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Active" ],
     "themes": [ "everyday", "comfy", "vacation" ],
     "recipe": null
   },
@@ -40727,7 +40727,7 @@
       "internalIds": [ 7254 ]
     },
     "colors": [ "Beige", "Beige" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "fairy tale", "outdoorsy" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -40911,7 +40911,7 @@
       "internalIds": [ 5277 ]
     },
     "colors": [ "Pink", "Green" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": null
   },
@@ -41250,7 +41250,7 @@
         "colors": [ "Purple", "Purple" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -41369,7 +41369,7 @@
       "internalIds": [ 12577 ]
     },
     "colors": [ "Yellow", "Green" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cute" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": null
   },
@@ -41507,7 +41507,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "work" ],
     "recipe": null
   },
@@ -41903,7 +41903,7 @@
         "colors": [ "Blue", "Blue" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "outdoorsy", "sporty", "vacation" ],
     "recipe": null
   },
@@ -42134,7 +42134,7 @@
         "colors": [ "Blue", "Aqua" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "formal", "work" ],
     "recipe": null
   },
@@ -42479,7 +42479,7 @@
         "colors": [ "Brown", "Brown" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Simple" ],
     "themes": [ "outdoorsy", "comfy", "sporty", "work" ],
     "recipe": null
   },
@@ -42854,7 +42854,7 @@
         "colors": [ "Purple", "White" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "comfy" ],
     "recipe": null
   },
@@ -43091,7 +43091,7 @@
         "colors": [ "Yellow", "Green" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Gorgeous" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -43328,7 +43328,7 @@
         "colors": [ "Yellow", "Colorful" ]
       }
     ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Elegant" ],
     "themes": [ "fairy tale", "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -43652,7 +43652,7 @@
         "colors": [ "Brown", "Red" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Cool" ],
     "themes": [ "everyday", "outdoorsy", "sporty" ],
     "recipe": null
   },
@@ -43940,7 +43940,7 @@
         "colors": [ "Blue", "Yellow" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "outdoorsy", "comfy", "vacation" ],
     "recipe": null
   },
@@ -44171,7 +44171,7 @@
         "colors": [ "Purple", "Pink" ]
       }
     ],
-    "styles": [ "Gorgeous" ],
+    "styles": [ "Gorgeous", "Elegant" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -44290,7 +44290,7 @@
       "internalIds": [ 5102 ]
     },
     "colors": [ "Red", "Yellow" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -44592,7 +44592,7 @@
         "colors": [ "Brown", "Brown" ]
       }
     ],
-    "styles": [ "Simple" ],
+    "styles": [ "Simple", "Active" ],
     "themes": [ "outdoorsy", "comfy" ],
     "recipe": null
   },
@@ -44823,7 +44823,7 @@
         "colors": [ "White", "Purple" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "everyday", "formal" ],
     "recipe": null
   },
@@ -45018,7 +45018,7 @@
         "colors": [ "Brown", "Beige" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Simple" ],
     "themes": [ "everyday", "outdoorsy" ],
     "recipe": null
   },
@@ -45270,7 +45270,7 @@
         "colors": [ "Purple", "Yellow" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "formal", "party", "theatrical" ],
     "recipe": null
   },
@@ -45537,7 +45537,7 @@
         "colors": [ "Purple", "White" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "outdoorsy", "work" ],
     "recipe": null
   },
@@ -45711,7 +45711,7 @@
         "colors": [ "Brown", "Gray" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "fairy tale" ],
     "recipe": null
   },
@@ -45830,7 +45830,7 @@
       "internalIds": [ 5832 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Cool" ],
+    "styles": [ "Cool", "Cool" ],
     "themes": [ "party", "theatrical", "work" ],
     "recipe": null
   },
@@ -45949,7 +45949,7 @@
       "internalIds": [ 12444 ]
     },
     "colors": [ "Purple", "Beige" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -46154,7 +46154,7 @@
       "internalIds": [ 5280 ]
     },
     "colors": [ "Green", "Red" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical", "vacation" ],
     "recipe": null
   },
@@ -46252,7 +46252,7 @@
       "internalIds": [ 5381 ]
     },
     "colors": [ "Red", "Black" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "goth", "work" ],
     "recipe": null
   },
@@ -46447,7 +46447,7 @@
         "colors": [ "Beige", "White" ]
       }
     ],
-    "styles": [ "Elegant" ],
+    "styles": [ "Elegant", "Elegant" ],
     "themes": [ "party", "vacation" ],
     "recipe": null
   },
@@ -46566,7 +46566,7 @@
       "internalIds": [ 5099 ]
     },
     "colors": [ "Colorful", "Colorful" ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Simple" ],
     "themes": [ "fairy tale", "party", "vacation" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -46836,7 +46836,7 @@
         "colors": [ "Purple", "Yellow" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cute" ],
     "themes": [ "fairy tale", "party" ],
     "recipe": null
   },
@@ -46955,7 +46955,7 @@
       "internalIds": [ 12442 ]
     },
     "colors": [ "Orange", "Brown" ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Cute" ],
     "themes": [ "fairy tale", "party", "theatrical" ],
     "recipe": {
       "sourceSheet": "Recipes",
@@ -47344,7 +47344,7 @@
         "colors": [ "Blue", "Aqua" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "sporty", "theatrical", "work" ],
     "recipe": null
   },
@@ -47740,7 +47740,7 @@
         "colors": [ "Blue", "Yellow" ]
       }
     ],
-    "styles": [ "Active" ],
+    "styles": [ "Active", "Active" ],
     "themes": [ "fairy tale", "theatrical", "work" ],
     "recipe": null
   },
@@ -48115,7 +48115,7 @@
         "colors": [ "Purple", "White" ]
       }
     ],
-    "styles": [ "Cute" ],
+    "styles": [ "Cute", "Elegant" ],
     "themes": [ "formal", "party" ],
     "recipe": null
   }
