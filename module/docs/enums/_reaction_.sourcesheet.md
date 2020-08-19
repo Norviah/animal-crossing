@@ -15,7 +15,7 @@
 
 • **Reactions**: = "Reactions"
 
-*Defined in [Reaction.ts:13](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Reaction.ts#L13)*
+*Defined in [Reaction.ts:13](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Reaction.ts#L13)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **TopsVariants**: = "Tops Variants"
 
-*Defined in [Reaction.ts:14](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Reaction.ts#L14)*
+*Defined in [Reaction.ts:14](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Reaction.ts#L14)*
