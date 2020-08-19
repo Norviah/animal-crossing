@@ -7,7 +7,8 @@ import { width } from '../util/width';
 
 // Represents the keys to delete from items after we joined values.
 const keys: string[] = [
-  'style',
+  'style1',
+  'style2',
   'color1',
   'color2',
   'hhaConcept1',
@@ -38,8 +39,8 @@ function sanitize(object: obj): void {
     object.series = object.hhaSeries;
   }
 
-  if (object.hasOwnProperty('style')) {
-    object.styles = object.style;
+  if (object.hasOwnProperty('style1')) {
+    object.styles = [object.style1, object.style2].filter((style) => !!style);
   }
 
   if (object.hasOwnProperty('labelThemes')) {

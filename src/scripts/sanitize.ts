@@ -67,7 +67,8 @@ const duplicateValues: string[] = [
   'translations',
   'labelThemes',
   'source',
-  'style',
+  'style1',
+  'style2',
   'hhaSeries',
   'hhaSet',
   'themesTranslations',
@@ -96,7 +97,6 @@ const separateValues: string[] = [
   'specialClouds',
   'description',
   'catchPhrase',
-  'style',
 ];
 
 // This array contains the absolute paths of the files that we'll sanitize,
