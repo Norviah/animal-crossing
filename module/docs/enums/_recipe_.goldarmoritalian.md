@@ -15,7 +15,7 @@
 
 • **ArmaturaDorata**: = "armatura dorata"
 
-*Defined in [Recipe.ts:324](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L324)*
+*Defined in [Recipe.ts:324](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L324)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Pietra**: = "pietra"
 
-*Defined in [Recipe.ts:325](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L325)*
+*Defined in [Recipe.ts:325](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L325)*

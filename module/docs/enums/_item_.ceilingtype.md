@@ -19,7 +19,7 @@
 
 • **Cloth**: = "Cloth"
 
-*Defined in [Item.ts:118](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L118)*
+*Defined in [Item.ts:118](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L118)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **Gold**: = "Gold"
 
-*Defined in [Item.ts:119](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L119)*
+*Defined in [Item.ts:119](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L119)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Plain**: = "Plain"
 
-*Defined in [Item.ts:120](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L120)*
+*Defined in [Item.ts:120](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L120)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **Stone**: = "Stone"
 
-*Defined in [Item.ts:121](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L121)*
+*Defined in [Item.ts:121](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L121)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **Tile**: = "Tile"
 
-*Defined in [Item.ts:122](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L122)*
+*Defined in [Item.ts:122](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L122)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **Wood**: = "Wood"
 
-*Defined in [Item.ts:123](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Item.ts#L123)*
+*Defined in [Item.ts:123](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L123)*

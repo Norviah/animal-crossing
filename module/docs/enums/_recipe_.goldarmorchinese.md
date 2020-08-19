@@ -15,7 +15,7 @@
 
 • **石头**: = "石头"
 
-*Defined in [Recipe.ts:294](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L294)*
+*Defined in [Recipe.ts:294](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L294)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **金盔甲**: = "金盔甲"
 
-*Defined in [Recipe.ts:295](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L295)*
+*Defined in [Recipe.ts:295](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L295)*

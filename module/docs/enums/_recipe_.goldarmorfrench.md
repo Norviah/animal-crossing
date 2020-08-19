@@ -15,7 +15,7 @@
 
 • **ArmureEnOr**: = "armure en or"
 
-*Defined in [Recipe.ts:314](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L314)*
+*Defined in [Recipe.ts:314](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L314)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Pierre**: = "pierre"
 
-*Defined in [Recipe.ts:315](https://github.com/Norviah/animal-crossing/blob/4ad5c16/module/types/Recipe.ts#L315)*
+*Defined in [Recipe.ts:315](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L315)*
