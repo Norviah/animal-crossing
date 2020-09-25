@@ -79,6 +79,7 @@ const duplicateValues: string[] = [
   'villagerEquippable',
   'seasonalAvailability',
   'type',
+  'unlocked',
 ];
 
 // Some items in the various spreadsheets have multiple values for them, for
