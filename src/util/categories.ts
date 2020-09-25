@@ -11,6 +11,7 @@ const categories = {
     'Fossils',
     'Headwear',
     'Housewares',
+    'Message Cards',
     'Miscellaneous',
     'Music',
     'Other',
