@@ -3,6 +3,10 @@
   "releaseCommitMessageFormat": "chore(release): {{currentTag}}",
   "types": [
     {
+      "type": "additions",
+      "section": "Additions"
+    },
+    {
       "type": "feat",
       "section": "Features"
     },
