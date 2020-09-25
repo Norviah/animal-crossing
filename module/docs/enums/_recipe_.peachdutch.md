@@ -14,4 +14,4 @@
 
 • **Perzik**: = "perzik"
 
-*Defined in [Recipe.ts:380](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L380)*
+*Defined in [Recipe.ts:382](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L382)*

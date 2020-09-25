@@ -18,7 +18,7 @@
 
 • **Arch**: = "Arch"
 
-*Defined in [Item.ts:1047](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L1047)*
+*Defined in [Item.ts:1077](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1077)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **Circle**: = "Circle"
 
-*Defined in [Item.ts:1048](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L1048)*
+*Defined in [Item.ts:1078](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1078)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **FourPane**: = "Four Pane"
 
-*Defined in [Item.ts:1049](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L1049)*
+*Defined in [Item.ts:1079](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1079)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **SinglePane**: = "Single Pane"
 
-*Defined in [Item.ts:1050](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L1050)*
+*Defined in [Item.ts:1080](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1080)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **SlidingPane**: = "Sliding Pane"
 
-*Defined in [Item.ts:1051](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L1051)*
+*Defined in [Item.ts:1081](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1081)*

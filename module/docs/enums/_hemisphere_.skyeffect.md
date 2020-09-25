@@ -15,7 +15,7 @@
 
 • **Aurora**: = "aurora"
 
-*Defined in [Hemisphere.ts:53](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Hemisphere.ts#L53)*
+*Defined in [Hemisphere.ts:53](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Hemisphere.ts#L53)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Rainbow**: = "rainbow"
 
-*Defined in [Hemisphere.ts:54](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Hemisphere.ts#L54)*
+*Defined in [Hemisphere.ts:54](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Hemisphere.ts#L54)*

@@ -15,7 +15,7 @@
 
 • **GoldArmor**: = "gold armor"
 
-*Defined in [Recipe.ts:309](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L309)*
+*Defined in [Recipe.ts:311](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L311)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Stone**: = "stone"
 
-*Defined in [Recipe.ts:310](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L310)*
+*Defined in [Recipe.ts:312](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L312)*

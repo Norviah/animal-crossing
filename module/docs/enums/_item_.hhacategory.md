@@ -26,7 +26,7 @@
 
 • **AC**: = "AC"
 
-*Defined in [Item.ts:183](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L183)*
+*Defined in [Item.ts:202](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L202)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **Appliance**: = "Appliance"
 
-*Defined in [Item.ts:184](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L184)*
+*Defined in [Item.ts:203](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L203)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **Audio**: = "Audio"
 
-*Defined in [Item.ts:185](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L185)*
+*Defined in [Item.ts:204](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L204)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **Clock**: = "Clock"
 
-*Defined in [Item.ts:186](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L186)*
+*Defined in [Item.ts:205](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L205)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **Doll**: = "Doll"
 
-*Defined in [Item.ts:187](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L187)*
+*Defined in [Item.ts:206](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L206)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **Dresser**: = "Dresser"
 
-*Defined in [Item.ts:188](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L188)*
+*Defined in [Item.ts:207](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L207)*
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 • **Lighting**: = "Lighting"
 
-*Defined in [Item.ts:189](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L189)*
+*Defined in [Item.ts:208](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L208)*
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 • **MusicalInstrument**: = "MusicalInstrument"
 
-*Defined in [Item.ts:190](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L190)*
+*Defined in [Item.ts:209](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L209)*
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 • **Pet**: = "Pet"
 
-*Defined in [Item.ts:191](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L191)*
+*Defined in [Item.ts:210](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L210)*
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 • **Plant**: = "Plant"
 
-*Defined in [Item.ts:192](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L192)*
+*Defined in [Item.ts:211](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L211)*
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 • **SmallGoods**: = "SmallGoods"
 
-*Defined in [Item.ts:193](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L193)*
+*Defined in [Item.ts:212](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L212)*
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 • **Trash**: = "Trash"
 
-*Defined in [Item.ts:194](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L194)*
+*Defined in [Item.ts:213](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L213)*
 
 ___
 
@@ -122,4 +122,4 @@ ___
 
 • **Tv**: = "TV"
 
-*Defined in [Item.ts:195](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L195)*
+*Defined in [Item.ts:214](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L214)*

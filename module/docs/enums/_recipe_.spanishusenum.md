@@ -15,7 +15,7 @@
 
 • **ArmaduraDeOro**: = "armadura de oro"
 
-*Defined in [Recipe.ts:349](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L349)*
+*Defined in [Recipe.ts:351](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L351)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Piedra**: = "piedra"
 
-*Defined in [Recipe.ts:350](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L350)*
+*Defined in [Recipe.ts:352](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L352)*

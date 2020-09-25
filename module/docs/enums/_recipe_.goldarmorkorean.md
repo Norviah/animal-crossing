@@ -15,7 +15,7 @@
 
 • **골든아머**: = "골든 아머"
 
-*Defined in [Recipe.ts:334](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L334)*
+*Defined in [Recipe.ts:336](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L336)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **돌**: = "돌"
 
-*Defined in [Recipe.ts:335](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L335)*
+*Defined in [Recipe.ts:337](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L337)*

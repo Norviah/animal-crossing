@@ -15,7 +15,7 @@
 
 • **GoudenHarnas**: = "gouden harnas"
 
-*Defined in [Recipe.ts:304](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L304)*
+*Defined in [Recipe.ts:306](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L306)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **StenenSet**: = "stenen set"
 
-*Defined in [Recipe.ts:305](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L305)*
+*Defined in [Recipe.ts:307](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L307)*
