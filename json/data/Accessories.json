@@ -59,6 +59,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThreed0.png",
@@ -159,6 +160,7 @@
     "villagerEquippable": true,
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassDalmask0",
     "clothGroupId": 1182,
@@ -257,6 +259,7 @@
     "villagerEquippable": true,
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassDalglass0",
     "clothGroupId": 1183,
@@ -355,6 +358,7 @@
     "villagerEquippable": true,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassHmdWhite",
     "clothGroupId": 614,
@@ -554,6 +558,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate1.png",
@@ -659,7 +664,7 @@
           "korean": "러브",
           "russian": "Любовь",
           "plural": false,
-          "internalIds": [ "Love" ]
+          "internalIds": [ null ]
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -798,6 +803,7 @@
     "villagerEquippable": true,
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassNook0",
     "clothGroupId": 1148,
@@ -875,6 +881,7 @@
     "villagerEquippable": false,
     "catalog": "Not for sale",
     "versionAdded": "1.3.0",
+    "unlocked": true,
     "versionUnlocked": "1.3.0",
     "filename": "AccessoryGlassmouthNook0",
     "clothGroupId": 1300,
@@ -1015,6 +1022,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBandageSkin",
     "clothGroupId": 503,
@@ -1134,6 +1142,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeakYellow",
     "clothGroupId": 184,
@@ -1291,6 +1300,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBirthday2.png",
@@ -1543,6 +1553,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose6.png",
@@ -1882,6 +1893,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmont3.png",
@@ -2092,6 +2104,7 @@
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
     "type": "AccessoryMouth",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBubblegum4.png",
@@ -2380,6 +2393,7 @@
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
     "type": "AccessoryMouthInvisibleNose",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthRabbit2.png",
@@ -2554,6 +2568,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassButterfly0.png",
@@ -2770,6 +2785,7 @@
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEyeMouthInvisibleNose",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthCatrina1.png",
@@ -2986,6 +3002,7 @@
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
     "type": "AccessoryMouthInvisibleNose",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthCat0.png",
@@ -3122,6 +3139,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthCucumber",
     "clothGroupId": 405,
@@ -3199,6 +3217,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthRollingmustacheBlack",
     "clothGroupId": 498,
@@ -3377,6 +3396,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber2.png",
@@ -3621,6 +3641,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthMaskWhite",
     "clothGroupId": 375,
@@ -3820,6 +3841,7 @@
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
     "type": "AccessoryMouthInvisibleNose",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthDog0.png",
@@ -4036,6 +4058,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDoublebridge2.png",
@@ -4288,6 +4311,7 @@
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
     "type": "AcceEyeMouth",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthStraw3.png",
@@ -4498,6 +4522,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask2.png",
@@ -4742,6 +4767,7 @@
     "villagerEquippable": true,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassPatchBlack",
     "clothGroupId": 380,
@@ -4840,6 +4866,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassmouthPackWhite",
     "clothGroupId": 417,
@@ -4938,6 +4965,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassmouthNoseRed",
     "clothGroupId": 407,
@@ -5116,6 +5144,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassFlower0.png",
@@ -5324,6 +5353,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthPasta",
     "clothGroupId": 904,
@@ -5481,6 +5511,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassEyes1.png",
@@ -5676,6 +5707,7 @@
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
     "type": "AcceEyeMouth",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthGasmask0.png",
@@ -5776,6 +5808,7 @@
     "villagerEquippable": true,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassBottleBlack",
     "clothGroupId": 286,
@@ -5874,6 +5907,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeardChinBlack",
     "clothGroupId": 502,
@@ -6073,6 +6107,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "Summer",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles0.png",
@@ -6317,6 +6352,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeardBlack",
     "clothGroupId": 185,
@@ -6495,6 +6531,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart0.png",
@@ -6825,6 +6862,7 @@
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEyeMouthInvisibleNose",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthPierrot0.png",
@@ -7056,6 +7094,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind0.png",
@@ -7300,6 +7339,7 @@
     "villagerEquippable": false,
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthLeafGreen",
     "clothGroupId": 508,
@@ -7406,6 +7446,8 @@
       "source": [ "Jock villagers" ],
       "sourceNotes": null,
       "versionAdded": "1.0.0",
+      "unlocked": true,
+      "unlockNotes": null,
       "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
@@ -7564,6 +7606,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian1.png",
@@ -7888,6 +7931,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryOneEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMonocle2.png",
@@ -8024,6 +8068,7 @@
     "villagerEquippable": true,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassNightvisionBlack",
     "clothGroupId": 615,
@@ -8101,6 +8146,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthJokeDripCyan",
     "clothGroupId": 899,
@@ -8258,6 +8304,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOctagon0.png",
@@ -8525,6 +8572,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval6.png",
@@ -8843,6 +8891,7 @@
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
     "type": "AccessoryMouth",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier5.png",
@@ -9159,6 +9208,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthPigPink",
     "clothGroupId": 485,
@@ -9337,6 +9387,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassPilot0.png",
@@ -9437,6 +9488,7 @@
     "villagerEquippable": false,
     "catalog": "Not for sale",
     "versionAdded": "1.3.0",
+    "unlocked": true,
     "versionUnlocked": "1.3.0",
     "filename": "AccessoryMouthPirates0",
     "clothGroupId": 1226,
@@ -9556,6 +9608,7 @@
     "villagerEquippable": true,
     "catalog": "Not for sale",
     "versionAdded": "1.3.0",
+    "unlocked": true,
     "versionUnlocked": "1.3.0",
     "filename": "AccessoryGlassPiratespatch0",
     "clothGroupId": 1225,
@@ -9734,6 +9787,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDot3.png",
@@ -9906,6 +9960,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthLeatherBlack",
     "clothGroupId": 922,
@@ -9983,6 +10038,7 @@
     "villagerEquippable": true,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassEyepatchWhite",
     "clothGroupId": 376,
@@ -10060,6 +10116,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthCrowBlack",
     "clothGroupId": 497,
@@ -10179,6 +10236,7 @@
     "villagerEquippable": true,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassMirrorGray",
     "clothGroupId": 921,
@@ -10336,6 +10394,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro0.png",
@@ -10660,6 +10719,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRhinestone0.png",
@@ -10876,6 +10936,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCircle2.png",
@@ -11164,6 +11225,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston6.png",
@@ -11539,6 +11601,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRound0.png",
@@ -11711,6 +11774,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeardRoundBlack",
     "clothGroupId": 505,
@@ -11830,6 +11894,7 @@
     "villagerEquippable": true,
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassCrackBlack",
     "clothGroupId": 315,
@@ -11966,6 +12031,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "Winter",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski1.png",
@@ -12311,6 +12377,7 @@
     "villagerEquippable": false,
     "seasonalAvailability": "Summer",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver5.png",
@@ -12614,6 +12681,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports1.png",
@@ -12902,6 +12970,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSquare2.png",
@@ -13133,6 +13202,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AcceEyeMouth",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthBeard0.png",
@@ -13292,6 +13362,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar1.png",
@@ -13559,6 +13630,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSteampunk0.png",
@@ -13659,6 +13731,7 @@
     "villagerEquippable": false,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthRice",
     "clothGroupId": 489,
@@ -13736,6 +13809,7 @@
     "villagerEquippable": true,
     "catalog": "For sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassHeromaskBlack",
     "clothGroupId": 510,
@@ -13914,6 +13988,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMini1.png",
@@ -14109,6 +14184,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTortoiseshell2.png",
@@ -14304,6 +14380,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle5.png",
@@ -14664,6 +14741,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "AccessoryEye",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassWood0.png",

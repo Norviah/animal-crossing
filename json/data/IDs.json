@@ -44,6 +44,13 @@
     "sourceSheet": "Miscellaneous"
   },
   {
+    "name": "Acorn card",
+    "uniqueID": "oWdfeTEzWt8puvKW3",
+    "id": 433,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Active Island Resident",
     "uniqueID": "QgGe5XTYJhjfgbMHW",
     "id": 21,
@@ -216,7 +223,7 @@
   {
     "name": "Aggravation",
     "uniqueID": "6suhKYAAhh5QMKt64",
-    "id": "Outraged",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -301,9 +308,16 @@
   {
     "name": "Agreement",
     "uniqueID": "7smqwK9J7eFBxta28",
-    "id": "Nodding",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
+  },
+  {
+    "name": "Airmail card",
+    "uniqueID": "FfCPKSQkxM64FZ2nd",
+    "id": 0,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Al",
@@ -627,7 +641,7 @@
   {
     "name": "Amazed",
     "uniqueID": "vosig4bbr4kPq57AT",
-    "id": "Shocked",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -1428,7 +1442,7 @@
   {
     "name": "Apologetic",
     "uniqueID": "jBKsQYCAd7PtymQeB",
-    "id": "Apologize",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -2473,6 +2487,20 @@
     "sourceSheet": "Miscellaneous"
   },
   {
+    "name": "Baby-goods card",
+    "uniqueID": "TDuhkjRtw7KAQakP2",
+    "id": 388,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Balloons card",
+    "uniqueID": "AdTRESNSb7JfssoCt",
+    "id": 391,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Bam",
     "uniqueID": "2yvPukPn4ZSamngmb",
     "id": null,
@@ -2549,6 +2577,13 @@
     "id": 10456,
     "filename": "PosterNpcNmlDer01",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Bandage card",
+    "uniqueID": "p5cZtRuvvHRk4nETq",
+    "id": 363,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Bangle",
@@ -2709,7 +2744,7 @@
   {
     "name": "Bashfulness",
     "uniqueID": "wzvKbFrEJCseTohoz",
-    "id": "Blushing",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -2790,6 +2825,13 @@
     "id": 10632,
     "filename": "PosterNpcNmlDog10",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Beach card",
+    "uniqueID": "jEjPnzF6G3hDkq8P4",
+    "id": 432,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Beardo",
@@ -3446,7 +3488,7 @@
   {
     "name": "Bewilderment",
     "uniqueID": "WRSSRZMtM6rXfXBrR",
-    "id": "Pardon",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -3848,6 +3890,13 @@
     "sourceSheet": "Achievements"
   },
   {
+    "name": "Birthday-cake card",
+    "uniqueID": "rRnBoDeMhYutyWtqD",
+    "id": 389,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Biskit",
     "uniqueID": "nfeef6XSSstGwrbWo",
     "id": null,
@@ -4193,6 +4242,13 @@
     "id": 2755,
     "filename": "MuseumTent",
     "sourceSheet": "Other"
+  },
+  {
+    "name": "Blue-sky card",
+    "uniqueID": "meW8u7nvBuTdJpCeG",
+    "id": 405,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Bluebear",
@@ -5664,6 +5720,13 @@
     "sourceSheet": "Housewares"
   },
   {
+    "name": "Bunny Day card",
+    "uniqueID": "bmD2rpkaq8gdBi8TZ",
+    "id": 395,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Bunny Day crown",
     "uniqueID": "ARB6gWR7MFyiPoP3b",
     "id": 693,
@@ -6136,6 +6199,13 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Camo card",
+    "uniqueID": "Pa6BykAvEjxAgrNmB",
+    "id": 382,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Camofrog",
     "uniqueID": "5akmmJeoXXhcpdf8e",
     "id": null,
@@ -6412,6 +6482,76 @@
     "sourceSheet": "Housewares"
   },
   {
+    "name": "Card from",
+    "uniqueID": "K7N64yJH3NpwKk6BY",
+    "id": 403,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Card from Bank of Nook",
+    "uniqueID": "q4KoqTjC22ghtvuu4",
+    "id": 429,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Card from C.J.",
+    "uniqueID": "pyhPqjY5seC6N2EPP",
+    "id": 427,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Card from Flick",
+    "uniqueID": "8H9YnYnz44vYZBTzd",
+    "id": 428,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Card from Happy Home Academy",
+    "uniqueID": "9SnHEWxApcQCBiefK",
+    "id": 387,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Card from Jolly Redd's",
+    "uniqueID": "eD6D9pW3A6a8YM5Es",
+    "id": 435,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Card from K.K.",
+    "uniqueID": "pK5n68w5djRAXGrBR",
+    "id": 411,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Card from Nintendo",
+    "uniqueID": "CRrysKXYPecdavppY",
+    "id": 402,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Card from Nook Mileage Program",
+    "uniqueID": "aFfbn4p7DAQDEfLnB",
+    "id": 430,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Card from Your pals at Dodo Airlines",
+    "uniqueID": "jmD477wFpZYTyg7JW",
+    "id": 431,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Carmen",
     "uniqueID": "pAFu4JyZ333Ysoezk",
     "id": null,
@@ -6566,6 +6706,13 @@
     "id": 10507,
     "filename": "PosterNpcNmlSqu06",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Carpet-of-leaves card",
+    "uniqueID": "4gutEbpyCGQJywuqR",
+    "id": 375,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Carrie",
@@ -7213,6 +7360,13 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Cherry-blossoms card",
+    "uniqueID": "CePQFE2nenXK2nS8W",
+    "id": 379,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Chester",
     "uniqueID": "46bDn76rBA3hNjFZu",
     "id": null,
@@ -7491,6 +7645,20 @@
     "id": 10345,
     "filename": "PosterNpcSpBev",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Chocolate card",
+    "uniqueID": "ek9h3bN59WHc4c9ee",
+    "id": 364,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Chocolate-heart card",
+    "uniqueID": "EwqiNdRrQJFLjEPTD",
+    "id": 412,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Chops",
@@ -8374,7 +8542,7 @@
   {
     "name": "Cold Chill",
     "uniqueID": "K62u2owKFDLmPCB3Q",
-    "id": "ColdChill",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -8535,6 +8703,13 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Common card",
+    "uniqueID": "shuuoFNypR6Fgntq5",
+    "id": 368,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Comrade K.K.",
     "uniqueID": "5ufeoTSFwRxQTrXdq",
     "id": 2448,
@@ -8544,7 +8719,7 @@
   {
     "name": "Confident",
     "uniqueID": "TGifHTbyLBh4f3gDQ",
-    "id": "Assent",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -8625,6 +8800,13 @@
     "id": 10367,
     "filename": "PosterNpcNmlDog08",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Cool-cool card",
+    "uniqueID": "tGtbK6hWXFuDDtEQY",
+    "id": 393,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Copper",
@@ -8976,7 +9158,7 @@
   {
     "name": "Curiosity",
     "uniqueID": "SskgipgnKzm5TsK7d",
-    "id": "QuestionMark",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -10011,9 +10193,16 @@
     "variation": "Red"
   },
   {
+    "name": "Dandelion card",
+    "uniqueID": "qBukA5CtCMxwiuQs2",
+    "id": 406,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Daydreaming",
     "uniqueID": "JFrTBJCEaX5R4kABT",
-    "id": "AbsentMindedness",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -10023,6 +10212,13 @@
     "id": 40,
     "filename": null,
     "sourceSheet": "Achievements"
+  },
+  {
+    "name": "Decorative card",
+    "uniqueID": "tWZFw2DJ85cJhfyJE",
+    "id": 360,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Deena",
@@ -10346,7 +10542,7 @@
   {
     "name": "Delight",
     "uniqueID": "F9DpGeqZzDeSTh2bq",
-    "id": "Clapping",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -10523,14 +10719,14 @@
   {
     "name": "Disagreement",
     "uniqueID": "Bw5YBM6iuWgMzutWq",
-    "id": "Negative",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
   {
     "name": "Distress",
     "uniqueID": "vsSjQBZXPeSK6uDTK",
-    "id": "Frantic",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -11097,7 +11293,7 @@
   {
     "name": "Dozing",
     "uniqueID": "2vvgAacGjthcFW5Qa",
-    "id": "Sleep",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -11534,6 +11730,13 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Elegant-roses card",
+    "uniqueID": "yQ4NKsgLyQyaxonn6",
+    "id": 396,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Elise",
     "uniqueID": "taRZ4jRFMGPkxCZo4",
     "id": null,
@@ -11926,7 +12129,7 @@
   {
     "name": "Encouraging",
     "uniqueID": "fomfML4NWdY8x6adv",
-    "id": "Cheering",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -12186,6 +12389,13 @@
     "sourceSheet": "Achievements"
   },
   {
+    "name": "Fanciful card",
+    "uniqueID": "LDXqDQmHJmGTvgRcf",
+    "id": 378,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Fang",
     "uniqueID": "PFvvq6NGpsRgCwg2z",
     "id": null,
@@ -12264,11 +12474,25 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Fantasy-stars card",
+    "uniqueID": "y6pgsRhjp7BEJufqM",
+    "id": 394,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Farewell",
     "uniqueID": "diprrz97SbCJGzXM3",
     "id": 4313,
     "filename": "mjk_Sayonara",
     "sourceSheet": "Music"
+  },
+  {
+    "name": "Father's Day card",
+    "uniqueID": "hFxBjcAtSZGc4b6Ef",
+    "id": 376,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Fauna",
@@ -12351,7 +12575,7 @@
   {
     "name": "Fearful",
     "uniqueID": "noKrWYCMSWcH4jwvi",
-    "id": "Shaking",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -12432,6 +12656,13 @@
     "id": 10348,
     "filename": "PosterNpcNmlCat17",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Festive-tree card",
+    "uniqueID": "SKZtd2YWveniGktxw",
+    "id": 392,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Filbert",
@@ -12783,7 +13014,7 @@
   {
     "name": "Flourish",
     "uniqueID": "5QDD3DcwdPhbGoJAf",
-    "id": "Dance",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -12800,6 +13031,20 @@
     "id": 23,
     "filename": null,
     "sourceSheet": "Achievements"
+  },
+  {
+    "name": "Flower-bouquet card",
+    "uniqueID": "B6M3bgwNGuhfojaAv",
+    "id": 410,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Fluffy-clouds card",
+    "uniqueID": "soTMti7GC6DBuNTTQ",
+    "id": 366,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Flurry",
@@ -13539,6 +13784,13 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Full-bloom card",
+    "uniqueID": "XuiGAQaASmhbhaYQR",
+    "id": 373,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Fun with Fences",
     "uniqueID": "fNCiNgcTMxFwqAzxN",
     "id": 89,
@@ -13865,6 +14117,20 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Gears card",
+    "uniqueID": "d8JvDkZmHn7fa25nd",
+    "id": 372,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Gem card",
+    "uniqueID": "8u6GWaqqKowKDaQMc",
+    "id": 384,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Gemini closet",
     "uniqueID": "jD3cfJDgrgBozKYnz",
     "id": 377,
@@ -13962,6 +14228,13 @@
     "id": 10469,
     "filename": "PosterNpcNmlRbt08",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Gift card",
+    "uniqueID": "Lg9oDxdeWQoiqSDfa",
+    "id": 434,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Gigi",
@@ -14122,7 +14395,7 @@
   {
     "name": "Glee",
     "uniqueID": "8nAwdhzZfotqpLC9R",
-    "id": "HappyDance",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -14224,6 +14497,13 @@
     "id": 39,
     "filename": null,
     "sourceSheet": "Achievements"
+  },
+  {
+    "name": "Goldfish card",
+    "uniqueID": "LYSrW8P9Qtbgjp6Fo",
+    "id": 408,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Goldie",
@@ -14481,6 +14761,20 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Graduation card",
+    "uniqueID": "KNgFTS9DnY2yDj3Po",
+    "id": 361,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "Graffiti card",
+    "uniqueID": "jADvDRLmF5dHJkBZP",
+    "id": 365,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Graham",
     "uniqueID": "D86CPtiT7ssiFexPE",
     "id": null,
@@ -14589,7 +14883,7 @@
   {
     "name": "Greetings",
     "uniqueID": "oE6uqhZYjYfuqb55n",
-    "id": "Greeting",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -15033,6 +15327,13 @@
     "sourceSheet": "Accessories"
   },
   {
+    "name": "Halloween card",
+    "uniqueID": "whjFSsXWHv75vvXwH",
+    "id": 399,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Hamlet",
     "uniqueID": "LA2HHrtZ6beHgmKpL",
     "id": null,
@@ -15269,7 +15570,7 @@
   {
     "name": "Happiness",
     "uniqueID": "TWENXBbBENgnFiGq3",
-    "id": "Smiling",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -15279,6 +15580,13 @@
     "id": 46,
     "filename": null,
     "sourceSheet": "Achievements"
+  },
+  {
+    "name": "Happy-clovers card",
+    "uniqueID": "Lzhq6cyapSuGRsuvu",
+    "id": 397,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Harriet",
@@ -15371,6 +15679,13 @@
     "id": 10353,
     "filename": "PosterNpcNmlHip08",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Harvest Festival card",
+    "uniqueID": "eMmoyy8BfudhMeZvW",
+    "id": 357,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Harvey",
@@ -15488,7 +15803,7 @@
   {
     "name": "Heartbreak",
     "uniqueID": "ex6gKZu6zsyd6MgDr",
-    "id": "BrokenHeart",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -15576,6 +15891,13 @@
     "id": 10321,
     "filename": "PosterNpcNmlFlg19",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Hibiscus card",
+    "uniqueID": "DpdwLMqmxy4cCKNfZ",
+    "id": 409,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Hikoboshi outfit",
@@ -15668,6 +15990,13 @@
     "id": 78,
     "filename": null,
     "sourceSheet": "Achievements"
+  },
+  {
+    "name": "Holiday card",
+    "uniqueID": "yBe5TtK8cowF38QFo",
+    "id": 377,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Hopkins",
@@ -16246,14 +16575,14 @@
   {
     "name": "Inspiration",
     "uniqueID": "8ux4ddfibJQR2EuWW",
-    "id": "IdeaBulb",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
   {
     "name": "Intense",
     "uniqueID": "X2kzqTaPwtG6SGNT8",
-    "id": "Silent",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -16918,7 +17247,7 @@
   {
     "name": "Joy",
     "uniqueID": "fSNyHJHgLKac5mSLT",
-    "id": "HappyFlower",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -19633,7 +19962,7 @@
   {
     "name": "Laughter",
     "uniqueID": "EBenMHMpwnkMgS6eg",
-    "id": "Laughing",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -20447,9 +20776,16 @@
   {
     "name": "Love",
     "uniqueID": "GvAsErCFuGAcMAeXM",
-    "id": "Love",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
+  },
+  {
+    "name": "Lovely hearts card",
+    "uniqueID": "qKHdMdrTEFdQvQTNy",
+    "id": 371,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Lucha",
@@ -22630,14 +22966,14 @@
   {
     "name": "Mischief",
     "uniqueID": "E7it7yLfFaddFvEhQ",
-    "id": "Scheming",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
   {
     "name": "Mistaken",
     "uniqueID": "DPR7WWkmR36Bsf2LG",
-    "id": "Oops",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -23778,6 +24114,13 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Mother's Day card",
+    "uniqueID": "ztwWJo7Rv4RLuHcjK",
+    "id": 381,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Mott",
     "uniqueID": "upZ67GQyTzKPGCLm8",
     "id": null,
@@ -24063,6 +24406,13 @@
     "id": 10624,
     "filename": "PosterNpcNmlCbr07",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Mushroom card",
+    "uniqueID": "eK9QMfBwFzoc9DvBc",
+    "id": 386,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "My Melody poster",
@@ -27692,7 +28042,7 @@
   {
     "name": "Pleased",
     "uniqueID": "Z3MuKfQMaH3D8vkPA",
-    "id": "Hello",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -28234,7 +28584,7 @@
   {
     "name": "Pride",
     "uniqueID": "xKoQpdJMtocNFRckm",
-    "id": "SmugFace",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -28549,6 +28899,13 @@
     "id": 10676,
     "filename": "PosterNpcNmlCbr03",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Pumpkin card",
+    "uniqueID": "nznxAbGCBPW97Nibg",
+    "id": 398,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Punchy",
@@ -29125,6 +29482,13 @@
     "sourceSheet": "Achievements"
   },
   {
+    "name": "Red-dragonflies card",
+    "uniqueID": "iyFNtujivporYgfva",
+    "id": 385,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Redd",
     "uniqueID": "iRkXJeZqaWApHk92x",
     "id": 9,
@@ -29387,7 +29751,7 @@
   {
     "name": "Resignation",
     "uniqueID": "7YdF3ZMr95XP3FaoW",
-    "id": "OhGeez",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -29546,6 +29910,13 @@
     "id": 10383,
     "filename": "PosterNpcNmlRhn01",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Ribbon card",
+    "uniqueID": "pfp4eHBrZzYJXao2v",
+    "id": 390,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Ribbot",
@@ -31010,7 +31381,7 @@
   {
     "name": "Sadness",
     "uniqueID": "Wo8q6KhPtL2CYwat4",
-    "id": "SadSpiral",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -31489,6 +31860,13 @@
     "sourceSheet": "Achievements"
   },
   {
+    "name": "Shapes card",
+    "uniqueID": "HH9MTDZSbQjSLMdvM",
+    "id": 380,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Shari",
     "uniqueID": "sR4EndxJk6uqcQKxB",
     "id": null,
@@ -31569,7 +31947,7 @@
   {
     "name": "Sheepishness",
     "uniqueID": "5cRnCPDJRdRpPJF8D",
-    "id": "WrySmile",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -31810,9 +32188,16 @@
   {
     "name": "Shocked",
     "uniqueID": "bn29da8SNdMYYyWAa",
-    "id": "Surprised",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
+  },
+  {
+    "name": "Shooting-stars card",
+    "uniqueID": "tfxwrM9jHukBqzcMe",
+    "id": 407,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Shop to It",
@@ -31824,7 +32209,7 @@
   {
     "name": "Showmanship",
     "uniqueID": "Bj5iG7kc6tLND9bjn",
-    "id": "Shaki",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -31852,14 +32237,14 @@
   {
     "name": "Shyness",
     "uniqueID": "9H7jt7AGKbh6mW4y8",
-    "id": "Hesitate",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
   {
     "name": "Sighing",
     "uniqueID": "ntjLqg82EQNsgnzYA",
-    "id": "Sighing",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -32022,7 +32407,7 @@
   {
     "name": "Sleepy",
     "uniqueID": "9e5BhxmqtMurNWqW4",
-    "id": "Sleepy",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -32114,7 +32499,7 @@
   {
     "name": "Smirking",
     "uniqueID": "KDAWT9zDKpufEWgaW",
-    "id": "Grin",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -32199,7 +32584,7 @@
   {
     "name": "Sneezing",
     "uniqueID": "F6Dkk4PGtjDMCgry3",
-    "id": "Sneezing",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -32282,11 +32667,32 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Snowflake card",
+    "uniqueID": "emawdP4yt2aKdjG5v",
+    "id": 367,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Snowmaestro",
     "uniqueID": "XcwvgbKXNWiLjmJDX",
     "id": 45,
     "filename": null,
     "sourceSheet": "Achievements"
+  },
+  {
+    "name": "Snowperson card",
+    "uniqueID": "CKTiJB94AipapsMyQ",
+    "id": 374,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
+    "name": "So-many-hearts card",
+    "uniqueID": "uMreu3ZFwHpPAPCiH",
+    "id": 404,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Soleil",
@@ -32369,7 +32775,7 @@
   {
     "name": "Sorrow",
     "uniqueID": "W8nngMS98uwpHHW4m",
-    "id": "Crying",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -32799,6 +33205,13 @@
     "sourceSheet": "Music"
   },
   {
+    "name": "Star card",
+    "uniqueID": "2MfR4So6XB8X5btra",
+    "id": 356,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Static",
     "uniqueID": "vqPjvoChWTNpj2t6E",
     "id": null,
@@ -32875,6 +33288,13 @@
     "id": 10567,
     "filename": "PosterNpcNmlSqu08",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Stationery-goods card",
+    "uniqueID": "XNi8ib3tkDKRD3h9W",
+    "id": 362,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Statue of Liberty",
@@ -33297,7 +33717,7 @@
   {
     "name": "Surprise",
     "uniqueID": "7jmkZiSxrYT7MMm4P",
-    "id": "Aha",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -34404,7 +34824,7 @@
   {
     "name": "Thought",
     "uniqueID": "HEFCeCGtJ7Bkb5PXG",
-    "id": "Thinking",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -34890,6 +35310,13 @@
     "sourceSheet": "Other"
   },
   {
+    "name": "Torn card",
+    "uniqueID": "Xj9q2wzes2bAzEGSz",
+    "id": 358,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Tortimer",
     "uniqueID": "BPPkKQ5BYRSZhk6Bc",
     "id": 39,
@@ -34909,6 +35336,13 @@
     "id": 700,
     "filename": "FtrPisa",
     "sourceSheet": "Housewares"
+  },
+  {
+    "name": "Town-view card",
+    "uniqueID": "sYi9GYXt3svjcEFBA",
+    "id": 414,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Trash Fishin'",
@@ -35528,6 +35962,13 @@
     "id": 10449,
     "filename": "PosterNpcNmlGoa06",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Velvety card",
+    "uniqueID": "vHZqSxqW4WRAyb3Qw",
+    "id": 416,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Venus' flower basket",
@@ -36322,6 +36763,13 @@
     "sourceSheet": "Music"
   },
   {
+    "name": "Warm-sweater card",
+    "uniqueID": "qjuD4YWMv86AkwRp6",
+    "id": 383,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Wart Jr.",
     "uniqueID": "HCbj4RPsBexGWd2Sy",
     "id": null,
@@ -36476,6 +36924,13 @@
     "id": 10636,
     "filename": "PosterNpcNmlDuk11",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Wedding card",
+    "uniqueID": "iBqa4MMzucwejjWmm",
+    "id": 413,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Welcome Horizons",
@@ -36853,6 +37308,13 @@
     "sourceSheet": "Posters"
   },
   {
+    "name": "Winter-camellia card",
+    "uniqueID": "ptYcfxZjk4CnCpPRp",
+    "id": 370,
+    "filename": null,
+    "sourceSheet": "Message Cards"
+  },
+  {
     "name": "Wishes Come True",
     "uniqueID": "WcKhJsbYhwKKkCLqd",
     "id": 85,
@@ -36968,7 +37430,7 @@
   {
     "name": "Worry",
     "uniqueID": "TygKeKxvotLEzWqvY",
-    "id": "Worried",
+    "id": null,
     "filename": null,
     "sourceSheet": "Reactions"
   },
@@ -37141,6 +37603,13 @@
     "id": 10389,
     "filename": "PosterNpcNmlDer02",
     "sourceSheet": "Posters"
+  },
+  {
+    "name": "Zen card",
+    "uniqueID": "3sCFGDHSNaYD5rhhZ",
+    "id": 359,
+    "filename": null,
+    "sourceSheet": "Message Cards"
   },
   {
     "name": "Zipper",

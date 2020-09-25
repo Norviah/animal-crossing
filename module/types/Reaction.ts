@@ -4,7 +4,7 @@ export interface Reaction {
     image:         string;
     source:        string[];
     sourceNotes:   null | string;
-    internalId:    string;
+    iconFilename:  string;
     uniqueEntryId: string;
     translations:  Translations;
 }
@@ -33,7 +33,7 @@ export interface Translations {
     korean:             string;
     russian:            string;
     plural:             boolean;
-    internalIds:        string[];
+    internalIds:        Array<null | string>;
     variantId?:         number;
     clothName?:         string;
 }

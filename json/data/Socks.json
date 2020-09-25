@@ -79,6 +79,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "Winter",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAlan1.png",
@@ -423,6 +424,7 @@
     "hhaBasePoints": 351,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatesocks1.png",
@@ -528,7 +530,7 @@
           "korean": "러브",
           "russian": "Любовь",
           "plural": false,
-          "internalIds": [ "Love" ]
+          "internalIds": [ null ]
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -767,6 +769,7 @@
     "hhaBasePoints": 351,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatetights1.png",
@@ -872,7 +875,7 @@
           "korean": "러브",
           "russian": "Любовь",
           "plural": false,
-          "internalIds": [ "Love" ]
+          "internalIds": [ null ]
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -1010,6 +1013,7 @@
     "villagerEquippable": false,
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
+    "unlocked": true,
     "versionUnlocked": "1.0.0",
     "filename": "SocksTexBorderRco",
     "clothGroupId": 1144,
@@ -1166,6 +1170,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAerobics0.png",
@@ -1453,6 +1458,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexArgyle5.png",
@@ -1869,6 +1875,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "Spring",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRibbon3.png",
@@ -2171,6 +2178,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFolded0.png",
@@ -2380,6 +2388,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMultiblock5.png",
@@ -2775,6 +2784,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCompression4.png",
@@ -3041,6 +3051,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCountry3.png",
@@ -3271,6 +3282,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCrocheting1.png",
@@ -3522,6 +3534,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDenimleggings1.png",
@@ -3731,6 +3744,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDotknee3.png",
@@ -3982,6 +3996,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexEmbroidery1.png",
@@ -4284,6 +4299,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailysocks5.png",
@@ -4586,6 +4602,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailytights3.png",
@@ -4888,6 +4905,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAmitights1.png",
@@ -5124,6 +5142,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFlowerdot0.png",
@@ -5432,6 +5451,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "Spring",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilledknee0.png",
@@ -5848,6 +5868,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilled0.png",
@@ -6150,6 +6171,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "Summer",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCharacter4.png",
@@ -6437,6 +6459,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexGarter1.png",
@@ -6646,6 +6669,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexChimayo4.png",
@@ -6948,6 +6972,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHandknit2.png",
@@ -7142,6 +7167,7 @@
     "hhaBasePoints": 53,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHole0.png",
@@ -7357,6 +7383,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHoletights0.png",
@@ -7773,6 +7800,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKids7.png",
@@ -8189,6 +8217,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLace0.png",
@@ -8455,6 +8484,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "Winter",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SockstTexOverlapping4.png",
@@ -8757,6 +8787,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "Winter",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLegwarmer2.png",
@@ -9059,6 +9090,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMixtweed0.png",
@@ -9454,6 +9486,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeonleggings1.png",
@@ -9720,6 +9753,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeontights1.png",
@@ -10028,6 +10062,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSneakerin1.png",
@@ -10423,6 +10458,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "Winter",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNordic4.png",
@@ -10803,6 +10839,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripedot1.png",
@@ -10982,6 +11019,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "Winter",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBobble0.png",
@@ -11227,6 +11265,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexPucker1.png",
@@ -11514,6 +11553,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRun0.png",
@@ -11723,6 +11763,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancesocks1.png",
@@ -12076,6 +12117,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancetights6.png",
@@ -12450,6 +12492,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSequins4.png",
@@ -12845,6 +12888,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "Fall",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSeethrough5.png",
@@ -13126,6 +13170,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSimpleknee1.png",
@@ -13356,6 +13401,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexOnepoint2.png",
@@ -13730,6 +13776,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootball6.png",
@@ -14089,6 +14136,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "Fall",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSpider1.png",
@@ -14319,6 +14367,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTights2.png",
@@ -14606,6 +14655,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLeggings3.png",
@@ -14944,6 +14994,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorder0.png",
@@ -15318,6 +15369,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripe1.png",
@@ -15713,6 +15765,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTabi0.png",
@@ -15907,6 +15960,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "Winter",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFluffy6.png",
@@ -16266,6 +16320,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLine3.png",
@@ -16661,6 +16716,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootcover7.png",
@@ -17056,6 +17112,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividleggings2.png",
@@ -17451,6 +17508,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividsocks0.png",
@@ -17825,6 +17883,7 @@
     "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividtights2.png",
@@ -18178,6 +18237,7 @@
     "hhaBasePoints": 23,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexWave4.png",
