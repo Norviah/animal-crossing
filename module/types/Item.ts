@@ -5,17 +5,18 @@ export interface Item {
     size?:                 Size;
     sourceNotes?:          null | string;
     versionAdded?:         Version;
-    versionUnlocked?:      Version | null;
+    versionUnlocked?:      Version;
     catalog?:              Catalog | null;
     buy:                   number;
-    sell:                  number | null;
+    sell?:                 number | null;
     translations:          ItemTranslations | null;
-    source:                string[];
+    source?:               string[];
     themesTranslations?:   ThemesTranslations;
     hhaBasePoints?:        number;
     villagerEquippable?:   boolean;
     seasonalAvailability?: SeasonalAvailability;
     type?:                 string;
+    unlocked?:             boolean;
     variations?:           VariationElement[];
     styles?:               Style[];
     themes?:               Theme[];
@@ -27,6 +28,7 @@ export interface Item {
     exchangeCurrency?:     ExchangeCurrency | null;
     mannequinPiece?:       boolean;
     sortOrder?:            number;
+    unlockNotes?:          Array<Date | UnlockNoteEnum> | null;
     filename?:             string;
     clothGroupId?:         number;
     internalId?:           number;
@@ -53,11 +55,27 @@ export interface Item {
     concepts?:             Concept[];
     set?:                  null | string;
     series?:               null | string;
+    backColor?:            null | string;
+    bodyColor?:            string;
+    headColor?:            string;
+    footColor?:            string;
+    penColor1?:            string;
+    penColor2?:            string;
+    penColor3?:            string;
+    penColor4?:            string;
+    startDate?:            null | string;
+    endDate?:              null | string;
+    nhStartDate?:          null | string;
+    nhEndDate?:            null | string;
+    shStartDate?:          null | string;
+    shEndDate?:            null | string;
     customize?:            boolean;
     framedImage?:          null | string;
     albumImage?:           null | string;
     inventoryImage?:       null | string;
     stackSize?:            number;
+    inventoryFilename?:    null | string;
+    storageFilename?:      null | string;
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
@@ -99,6 +117,7 @@ export enum Category {
     Fossils = "Fossils",
     Headwear = "Headwear",
     Housewares = "Housewares",
+    MessageCards = "Message Cards",
     Miscellaneous = "Miscellaneous",
     Music = "Music",
     Other = "Other",
@@ -246,6 +265,8 @@ export interface Recipe {
     source:                string[];
     sourceNotes:           null | string;
     versionAdded:          Version;
+    unlocked:              boolean;
+    unlockNotes:           Array<Date | UnlockNoteEnum> | null;
     versionUnlocked:       Version;
     recipesToUnlock:       number;
     category:              Category;
@@ -783,6 +804,15 @@ export interface RecipeTranslations {
     internalIds:        number[];
 }
 
+export enum UnlockNoteEnum {
+    Bcat = "BCAT",
+    NTP = "NTP",
+    The110A = "1.1.0a",
+    The120A = "1.2.0a",
+    The120B = "1.2.0b",
+    The121C = "1.2.1c",
+}
+
 export enum SeasonalAvailability {
     AllYear = "All Year",
     Fall = "Fall",
@@ -972,6 +1002,7 @@ export interface VariationElement {
     patternTitle?:        null | string;
     variantId?:           VariantID;
     patternTranslations?: AquariusFragment | null;
+    unlockNotes?:         Array<Date | UnlockNoteEnum> | null;
     surface?:             boolean;
     hhaCategory?:         HhaCategory | null;
     concepts?:            Concept[];
@@ -1000,14 +1031,13 @@ export interface VariantTranslations {
     korean:             string;
     russian:            number | string;
     plural:             boolean;
-    internalIds?:       Array<InternalIDEnum | number>;
+    internalIds?:       Array<InternalIDEnum | number | null>;
     furnitureName?:     string;
 }
 
 export enum InternalIDEnum {
     Cbr09 = "cbr09",
     Der06 = "der06",
-    Love = "Love",
     Squ09 = "squ09",
 }
 

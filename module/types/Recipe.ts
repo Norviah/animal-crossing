@@ -9,6 +9,8 @@ export interface Recipe {
     source:                string[];
     sourceNotes:           null | string;
     versionAdded:          Version;
+    unlocked:              boolean;
+    unlockNotes:           Array<Date | UnlockNoteEnum> | null;
     versionUnlocked:       Version;
     recipesToUnlock:       number;
     category:              Category;
@@ -468,4 +470,10 @@ export enum TranslationsSourceSheet {
     Tops = "Tops",
     Umbrella = "Umbrella",
     Walls = "Walls",
+}
+
+export enum UnlockNoteEnum {
+    Bcat = "BCAT",
+    The110A = "1.1.0a",
+    The121C = "1.2.1c",
 }

@@ -17,7 +17,7 @@ export interface Translation {
     korean:             string;
     russian:            number | null | string;
     plural:             boolean;
-    internalIds:        Array<number | string>;
+    internalIds:        Array<number | null | string>;
     variantId?:         number;
     clothName?:         string;
     furnitureName?:     string;

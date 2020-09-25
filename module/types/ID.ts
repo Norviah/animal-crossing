@@ -1,7 +1,7 @@
 export interface ID {
     name:        string;
     uniqueID:    string;
-    id:          number | null | string;
+    id:          number | null;
     filename:    null | string;
     sourceSheet: SourceSheet;
     variation?:  number | string;
@@ -23,6 +23,7 @@ export enum SourceSheet {
     Headwear = "Headwear",
     Housewares = "Housewares",
     Insects = "Insects",
+    MessageCards = "Message Cards",
     Miscellaneous = "Miscellaneous",
     Music = "Music",
     Other = "Other",

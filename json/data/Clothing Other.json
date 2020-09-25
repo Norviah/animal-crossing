@@ -22,6 +22,7 @@
     "secondaryShape": "L",
     "catalog": "Not for sale",
     "versionAdded": "1.3.0",
+    "unlocked": true,
     "versionUnlocked": "1.3.0",
     "filename": "TopsTexMarinesuitNormalLNook0",
     "clothGroupId": 1258,
@@ -243,6 +244,7 @@
     "secondaryShape": "N",
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco3.png",
@@ -425,7 +427,7 @@
       "plural": false,
       "internalIds": [ 13099, 13100, 12981, 13098 ]
     },
-    "source": [ "Nook Shopping Catalog" ],
+    "source": [ "Nook Shopping Daily Selection" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -496,6 +498,7 @@
     "secondaryShape": "L",
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard2.png",

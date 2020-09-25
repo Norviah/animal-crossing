@@ -28,6 +28,7 @@ export interface Creature {
     movementSpeed?:       MovementSpeed;
     lightingType?:        LightingType | null;
     versionAdded?:        Version;
+    unlocked?:            boolean;
     versionUnlocked?:     Version;
     catchDifficulty?:     CatchDifficulty;
     vision?:              Vision;

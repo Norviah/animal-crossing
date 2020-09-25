@@ -14,6 +14,7 @@ export interface Villager {
     favoriteSong:              string;
     favoriteSaying:            string;
     defaultClothing:           string;
+    defaultUmbrella:           string;
     wallpaper:                 string;
     flooring:                  string;
     furnitureList:             number[];
