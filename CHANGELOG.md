@@ -1,6 +1,24 @@
-# Changelog
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+## [6.7.0](https://github.com/Norviah/animal-crossing/compare/v6.6.1...v6.7.0) (2020-09-25)
+
+
+### Features
+
+* separate values from the key 'unlockNotes' ([457a971](https://github.com/Norviah/animal-crossing/commit/457a971c06f9f00b5663015df4f70799a90d07e9))
+* **categories:** add the tab 'Message Cards' to items ([52bbd3f](https://github.com/Norviah/animal-crossing/commit/52bbd3fcfe9fed255f8bd902e409df48edcf9672))
+* **items:** set the 'unlock' key to the base object for items with variations ([79f1637](https://github.com/Norviah/animal-crossing/commit/79f1637da760a65e3aabd087dfde9c1f5a9d9522))
+* support two styles for items ([ac736df](https://github.com/Norviah/animal-crossing/commit/ac736df1093e66c3ca011a4612c2b5282f3ca408))
+
+
+### Additions
+
+* implement additions/changes from 8/14 to 9/17 ([9f9e9e4](https://github.com/Norviah/animal-crossing/commit/9f9e9e4767772d82ec4e6f2efe302301cdb2b3d2))
+
+
+### Build System
+
+* implement a config file for building changelogs ([682361d](https://github.com/Norviah/animal-crossing/commit/682361d0a0d7ad7fff5051c8ce1ff2331c840216))
+* implement a new section for additions/changes ([bd50236](https://github.com/Norviah/animal-crossing/commit/bd50236a325efb86275c49fafa41c0a81f861d23))
 
 ### [6.6.1](https://github.com/Norviah/animal-crossing/compare/v6.6.0...v6.6.1) (2020-08-14)
 
