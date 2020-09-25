@@ -58,10 +58,6 @@
 
 * **categories:** added support for the tab 'Nook Shopping Seasonal' ([4ac4ba9](https://github.com/Norviah/animal-crossing/commit/4ac4ba97ebd4cc1967e61d31daa816c0f0fb05bf))
 
-## [6.3.0](https://github.com/Norviah/animal-crossing/compare/v6.2.0...v6.3.0) (2020-07-27)
-
-## [6.2.0](https://github.com/Norviah/animal-crossing/compare/v6.1.0...v6.2.0) (2020-07-24)
-
 ## [6.1.0](https://github.com/Norviah/animal-crossing/compare/v6.0.0...v6.1.0) (2020-07-17)
 
 
@@ -79,8 +75,6 @@
 ### Features
 
 * **items:** moved repetitive values from variations to the base object ([0f4888a](https://github.com/Norviah/animal-crossing/commit/0f4888a1f680855d3a801d685648952bb0c5220a))
-
-## [5.2.0](https://github.com/Norviah/animal-crossing/compare/v5.1.0...v5.2.0) (2020-07-12)
 
 ## [5.1.0](https://github.com/Norviah/animal-crossing/compare/v5.0.0...v5.1.0) (2020-07-10)
 
@@ -116,8 +110,6 @@
 
 * **items:** correctly set translations for patterns ([caec6ad](https://github.com/Norviah/animal-crossing/commit/caec6ada78d9ca29745e9e0e9f594312eac698ba))
 
-## [4.4.0](https://github.com/Norviah/animal-crossing/compare/v4.3.0...v4.4.0) (2020-07-07)
-
 ## [4.3.0](https://github.com/Norviah/animal-crossing/compare/v4.2.0...v4.3.0) (2020-07-06)
 
 
@@ -131,8 +123,6 @@
 ### Features
 
 * **villagers:** changed the array furnitureList to numbers ([95a2959](https://github.com/Norviah/animal-crossing/commit/95a2959f02f94a76f1977efabd20ade7a166fa69))
-
-## [4.1.0](https://github.com/Norviah/animal-crossing/compare/v4.0.0...v4.1.0) (2020-07-05)
 
 ## [4.0.0](https://github.com/Norviah/animal-crossing/compare/v3.0.0...v4.0.0) (2020-07-04)
 
@@ -162,8 +152,6 @@
 ### Features
 
 * **villagers:** changed the key 'defaultClothingID' to 'defaultClothingInternalId' ([821b23e](https://github.com/Norviah/animal-crossing/commit/821b23e8e008dcdd163a7aa3f64aa8cf505c4ac5))
-
-### [1.2.1](https://github.com/Norviah/animal-crossing/compare/v1.2.0...v1.2.1) (2020-06-19)
 
 ## [1.2.0](https://github.com/Norviah/animal-crossing/compare/v1.1.1...v1.2.0) (2020-06-19)
 
