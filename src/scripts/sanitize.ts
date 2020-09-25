@@ -98,6 +98,7 @@ const separateValues: string[] = [
   'specialClouds',
   'description',
   'catchPhrase',
+  'unlockNotes',
 ];
 
 // This array contains the absolute paths of the files that we'll sanitize,
