@@ -13,10 +13,9 @@
     "build:docs": "/bin/rm -rf ./module/docs; ./node_modules/typedoc/bin/typedoc --plugin typedoc-plugin-markdown --includes ./module/**/* --exclude \"./src/**/*.ts\" --out ./module/docs && sed -i '' '4d;5d' ./module/docs/README.md",
     "build:module-src": "./node_modules/typescript/bin/tsc --outDir lib -p module",
     "build:module": "npm run build:src && npm run start ; /bin/rm -rf ./module/data &>/dev/null ; cp -r ./json/combined ./module/data &>/dev/null ; npm run build:types && npm run build:module-src && npm run build:docs",
-    "build:repo": "npm run build:module && git add json module/data && git commit -m 'chore(json): regenerated json' && git add module/docs && git commit -m 'docs(module): regenerated documentation' && git add module/types && git commit -m 'chore(module): regenerated types' && git push",
-    "publish:patch": "npm run build:repo && ./node_modules/standard-version/bin/cli.js --release-as patch && npm run publish",
-    "publish:minor": "npm run build:repo && ./node_modules/standard-version/bin/cli.js --release-as minor && npm run publish",
-    "publish:major": "npm run build:repo && ./node_modules/standard-version/bin/cli.js --release-as major && npm run publish",
+    "publish:patch": "./node_modules/standard-version/bin/cli.js --release-as patch && npm run publish",
+    "publish:minor": "./node_modules/standard-version/bin/cli.js --release-as minor && npm run publish",
+    "publish:major": "./node_modules/standard-version/bin/cli.js --release-as major && npm run publish",
     "publish": "git push --follow-tags origin master && npm publish",
     "start": "/bin/rm -rf ./json/combined ./json/data ./json/raw; node ./build/index.js"
   },
