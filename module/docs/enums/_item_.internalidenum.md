@@ -8,7 +8,6 @@
 
 * [Cbr09](_item_.internalidenum.md#cbr09)
 * [Der06](_item_.internalidenum.md#der06)
-* [Love](_item_.internalidenum.md#love)
 * [Squ09](_item_.internalidenum.md#squ09)
 
 ## Enumeration members
@@ -17,7 +16,7 @@
 
 • **Cbr09**: = "cbr09"
 
-*Defined in [Item.ts:1008](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L1008)*
+*Defined in [Item.ts:1039](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1039)*
 
 ___
 
@@ -25,15 +24,7 @@ ___
 
 • **Der06**: = "der06"
 
-*Defined in [Item.ts:1009](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L1009)*
-
-___
-
-###  Love
-
-• **Love**: = "Love"
-
-*Defined in [Item.ts:1010](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L1010)*
+*Defined in [Item.ts:1040](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1040)*
 
 ___
 
@@ -41,4 +32,4 @@ ___
 
 • **Squ09**: = "squ09"
 
-*Defined in [Item.ts:1011](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L1011)*
+*Defined in [Item.ts:1041](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1041)*

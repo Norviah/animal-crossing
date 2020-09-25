@@ -15,7 +15,7 @@
 
 • **Goldrüstung**: = "Goldrüstung"
 
-*Defined in [Recipe.ts:319](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L319)*
+*Defined in [Recipe.ts:321](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L321)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Stein**: = "Stein"
 
-*Defined in [Recipe.ts:320](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L320)*
+*Defined in [Recipe.ts:322](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L322)*

@@ -18,7 +18,7 @@
 
 • **AllYear**: = "All Year"
 
-*Defined in [Item.ts:787](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L787)*
+*Defined in [Item.ts:817](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L817)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **Fall**: = "Fall"
 
-*Defined in [Item.ts:788](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L788)*
+*Defined in [Item.ts:818](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L818)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **Spring**: = "Spring"
 
-*Defined in [Item.ts:789](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L789)*
+*Defined in [Item.ts:819](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L819)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **Summer**: = "Summer"
 
-*Defined in [Item.ts:790](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L790)*
+*Defined in [Item.ts:820](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L820)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **Winter**: = "Winter"
 
-*Defined in [Item.ts:791](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Item.ts#L791)*
+*Defined in [Item.ts:821](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L821)*

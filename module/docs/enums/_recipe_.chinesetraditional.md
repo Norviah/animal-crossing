@@ -15,7 +15,7 @@
 
 • **石頭**: = "石頭"
 
-*Defined in [Recipe.ts:299](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L299)*
+*Defined in [Recipe.ts:301](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L301)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **金盔甲**: = "金盔甲"
 
-*Defined in [Recipe.ts:300](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L300)*
+*Defined in [Recipe.ts:302](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L302)*

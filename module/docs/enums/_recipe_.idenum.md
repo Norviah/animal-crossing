@@ -14,4 +14,4 @@
 
 • **Cbr00**: = "cbr00"
 
-*Defined in [Recipe.ts:396](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L396)*
+*Defined in [Recipe.ts:398](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L398)*

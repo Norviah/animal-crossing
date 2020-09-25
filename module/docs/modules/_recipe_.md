@@ -37,6 +37,7 @@
 * [SpanishUs](../enums/_recipe_.spanishus.md)
 * [SpanishUsEnum](../enums/_recipe_.spanishusenum.md)
 * [TranslationsSourceSheet](../enums/_recipe_.translationssourcesheet.md)
+* [UnlockNoteEnum](../enums/_recipe_.unlocknoteenum.md)
 * [Version](../enums/_recipe_.version.md)
 
 ### Interfaces

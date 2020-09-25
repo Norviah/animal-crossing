@@ -14,4 +14,4 @@
 
 • **怦怦**: = "怦怦"
 
-*Defined in [Recipe.ts:376](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L376)*
+*Defined in [Recipe.ts:378](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L378)*

@@ -31,7 +31,7 @@
 
 • **achievementCriteria**: *string*
 
-*Defined in [Achievement.ts:5](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L5)*
+*Defined in [Achievement.ts:5](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L5)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **achievementDescription**: *string*
 
-*Defined in [Achievement.ts:4](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L4)*
+*Defined in [Achievement.ts:4](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L4)*
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 • **internalCategory**: *string*
 
-*Defined in [Achievement.ts:9](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L9)*
+*Defined in [Achievement.ts:9](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L9)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **internalId**: *number*
 
-*Defined in [Achievement.ts:7](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L7)*
+*Defined in [Achievement.ts:7](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L7)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 • **internalName**: *string*
 
-*Defined in [Achievement.ts:8](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L8)*
+*Defined in [Achievement.ts:8](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L8)*
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [Achievement.ts:3](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L3)*
+*Defined in [Achievement.ts:3](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L3)*
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 • **num**: *number*
 
-*Defined in [Achievement.ts:6](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L6)*
+*Defined in [Achievement.ts:6](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L6)*
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 • **numOfTiers**: *number | string*
 
-*Defined in [Achievement.ts:10](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L10)*
+*Defined in [Achievement.ts:10](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L10)*
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 • **sequential**: *boolean*
 
-*Defined in [Achievement.ts:11](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L11)*
+*Defined in [Achievement.ts:11](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L11)*
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 • **sourceSheet**: *[SourceSheet](../enums/_achievement_.sourcesheet.md)*
 
-*Defined in [Achievement.ts:2](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L2)*
+*Defined in [Achievement.ts:2](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L2)*
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 • **tiers**: *object*
 
-*Defined in [Achievement.ts:15](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L15)*
+*Defined in [Achievement.ts:15](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L15)*
 
 #### Type declaration:
 
@@ -123,7 +123,7 @@ ___
 
 • **translations**: *null*
 
-*Defined in [Achievement.ts:14](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L14)*
+*Defined in [Achievement.ts:14](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L14)*
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 • **uniqueEntryId**: *string*
 
-*Defined in [Achievement.ts:13](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L13)*
+*Defined in [Achievement.ts:13](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L13)*
 
 ___
 
@@ -139,4 +139,4 @@ ___
 
 • **versionAdded**: *[VersionAdded](../enums/_achievement_.versionadded.md)*
 
-*Defined in [Achievement.ts:12](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Achievement.ts#L12)*
+*Defined in [Achievement.ts:12](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Achievement.ts#L12)*

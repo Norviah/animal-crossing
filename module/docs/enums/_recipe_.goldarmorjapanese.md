@@ -15,7 +15,7 @@
 
 • **いし**: = "いし"
 
-*Defined in [Recipe.ts:329](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L329)*
+*Defined in [Recipe.ts:331](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L331)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **ゴールデンアーマー**: = "ゴールデンアーマー"
 
-*Defined in [Recipe.ts:330](https://github.com/Norviah/animal-crossing/blob/ac736df/module/types/Recipe.ts#L330)*
+*Defined in [Recipe.ts:332](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L332)*
