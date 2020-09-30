@@ -7,7 +7,7 @@
 * improve mapping translations to items ([67a582e](https://github.com/Norviah/animal-crossing/commit/67a582e001334da06fa1deef24465142f79b2175))
 
 
-### Dependencies
+### Removals
 
 * remove 'ids' ([08652a4](https://github.com/Norviah/animal-crossing/commit/08652a411b64bf7640b7aeb50c90f4d3ed0adcbd))
 
