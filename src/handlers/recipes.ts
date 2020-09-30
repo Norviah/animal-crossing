@@ -4,7 +4,7 @@ import { zipObject } from 'lodash';
 import { category } from '../util/category';
 import { directories } from '../util/directories';
 import { write } from '../util/write';
-import { findTranslation } from '../util/translate';
+import { find } from '../util/translate';
 import { width } from '../util/width';
 
 // Obviously, there are craftiable items in Animal Crossing, with each recipe
@@ -42,7 +42,7 @@ for (const recipe of recipes) {
   }
 
   // Find translations for each material,
-  const translations: (obj | null)[] = names.map((name: string) => findTranslation(name));
+  const translations: (obj | null)[] = names.map((name: string) => find(name));
 
   // and use lodash to initialize an object containing translations for
   // materials, with the names as keys.
