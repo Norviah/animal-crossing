@@ -5,6 +5,7 @@ import { files } from '../util/category';
 import { get } from '../util/get';
 import { separate } from '../util/separate';
 import { timeArray } from '../util/timeArray';
+import { validate } from '../util/validate';
 import { write } from '../util/write';
 import { width } from '../util/width';
 
@@ -62,26 +63,6 @@ function activeMonths(months: obj): string[] {
   return available.map((months: string[]) =>
     months.length > 1 ? `${months[0]} - ${months[months.length - 1]}` : months[0]
   );
-}
-
-/**
- * Returns an object copied from the given object with every non-truthy value
- * removed.
- * @param  object The object to validate.
- * @return        The given object copied with no falsy values.
- */
-function validate(object: obj): obj {
-  // Initialize a new array referencing the keys from the given object filtered
-  // to remove any key that results to a non falsy value.
-  const keys: string[] = Object.keys(object).filter((key: string) => object[key]);
-
-  const result: obj = {};
-
-  for (const key of keys) {
-    result[key] = object[key];
-  }
-
-  return result;
 }
 
 /**
