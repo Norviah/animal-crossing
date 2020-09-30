@@ -4,9 +4,8 @@
     "name": "Aran-knit socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -28,8 +27,7 @@
       "japanese": "アランニットのソックス",
       "korean": "아란 니트 양말",
       "russian": "носки аранской вязки",
-      "plural": false,
-      "internalIds": [ 9058, 9062, 9059, 9060, 9061, 4742 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -51,8 +49,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -72,8 +69,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -113,7 +109,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 536
         },
         "colors": [ "White", "White" ]
       },
@@ -149,7 +145,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 536
         },
         "colors": [ "Black", "Black" ]
       },
@@ -185,7 +181,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 536
         },
         "colors": [ "Red", "Red" ]
       },
@@ -221,7 +217,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 536
         },
         "colors": [ "Green", "Green" ]
       },
@@ -257,7 +253,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 536
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -293,7 +289,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 536
         },
         "colors": [ "Beige", "Beige" ]
       }
@@ -307,9 +303,10 @@
     "name": "Labelle socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
+    "sourceNotes": [
+      "Added to Able Sisters stock rotation the day after receiving this item from Label"
+    ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 940,
     "sell": 235,
@@ -331,8 +328,7 @@
       "japanese": "ケイトのソックス",
       "korean": "케이트의 양말",
       "russian": "носки «Лэйблеск»",
-      "plural": false,
-      "internalIds": [ 11761, 11762, 11765, 11764, 11763, 9883 ]
+      "plural": false
     },
     "source": [ "Label" ],
     "themesTranslations": {
@@ -354,8 +350,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -375,8 +370,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -396,8 +390,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -417,8 +410,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 351,
@@ -458,7 +450,7 @@
           "korean": "미드나이트",
           "russian": "Полночь",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1134
         },
         "colors": [ "Black", "Black" ]
       },
@@ -494,7 +486,7 @@
           "korean": "바이올렛",
           "russian": "Темперамент",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1134
         },
         "colors": [ "Red", "Red" ]
       },
@@ -530,7 +522,7 @@
           "korean": "러브",
           "russian": "Любовь",
           "plural": false,
-          "internalIds": [ null ]
+          "clothGroup": 1134
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -566,7 +558,7 @@
           "korean": "선셋",
           "russian": "Закат",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1134
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -602,7 +594,7 @@
           "korean": "오션",
           "russian": "Океан",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1134
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -638,7 +630,7 @@
           "korean": "트와일라잇",
           "russian": "Сумерки",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1134
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -652,9 +644,10 @@
     "name": "Labelle tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
+    "sourceNotes": [
+      "Added to Able Sisters stock rotation the day after receiving this item from Label"
+    ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1240,
     "sell": 310,
@@ -676,8 +669,7 @@
       "japanese": "ケイトのタイツ",
       "korean": "케이트의 타이츠",
       "russian": "чулки «Лэйблеск»",
-      "plural": false,
-      "internalIds": [ 11756, 11757, 11760, 11759, 11758, 9882 ]
+      "plural": false
     },
     "source": [ "Label" ],
     "themesTranslations": {
@@ -699,8 +691,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -720,29 +711,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -762,8 +751,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 351,
@@ -803,7 +791,7 @@
           "korean": "미드나이트",
           "russian": "Полночь",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1133
         },
         "colors": [ "Black", "Black" ]
       },
@@ -839,7 +827,7 @@
           "korean": "바이올렛",
           "russian": "Темперамент",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1133
         },
         "colors": [ "Red", "Red" ]
       },
@@ -875,7 +863,7 @@
           "korean": "러브",
           "russian": "Любовь",
           "plural": false,
-          "internalIds": [ null ]
+          "clothGroup": 1133
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -911,7 +899,7 @@
           "korean": "선셋",
           "russian": "Закат",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1133
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -947,7 +935,7 @@
           "korean": "오션",
           "russian": "Океан",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1133
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -983,7 +971,7 @@
           "korean": "트와일라잇",
           "russian": "Сумерки",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1133
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -1014,12 +1002,10 @@
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "SocksTexBorderRco",
     "clothGroupId": 1144,
     "internalId": 5629,
     "uniqueEntryId": "9aX93qfqKjkA3Ah4F",
-    "variantTranslations": null,
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -1039,8 +1025,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -1060,8 +1045,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -1081,8 +1065,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "translations": {
@@ -1103,8 +1086,7 @@
       "japanese": "たぬきかいはつソックス",
       "korean": "Nook Inc. 양말",
       "russian": "носки Nook Inc.",
-      "plural": false,
-      "internalIds": [ 5629 ]
+      "plural": false
     },
     "colors": [ "Yellow", "Orange" ],
     "styles": [ "Active", "Simple" ],
@@ -1118,7 +1100,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 700,
     "sell": 175,
@@ -1140,8 +1121,7 @@
       "japanese": "エアロビレギンス",
       "korean": "에어로빅 레깅스",
       "russian": "леггинсы для аэробики",
-      "plural": false,
-      "internalIds": [ 5197, 9796, 9795, 9794, 9797 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -1163,8 +1143,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -1204,7 +1183,7 @@
           "korean": "레드×핑크",
           "russian": "Красно-розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 621
         },
         "colors": [ "Pink", "Red" ]
       },
@@ -1240,7 +1219,7 @@
           "korean": "라이트 블루×살몬 핑크",
           "russian": "Голубой с лососевым",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 621
         },
         "colors": [ "Pink", "Aqua" ]
       },
@@ -1276,7 +1255,7 @@
           "korean": "퍼플×오렌지",
           "russian": "Фиолетово-оранжевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 621
         },
         "colors": [ "Orange", "Purple" ]
       },
@@ -1312,7 +1291,7 @@
           "korean": "에메랄드×라임",
           "russian": "Изумрудно-лаймовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 621
         },
         "colors": [ "Green", "Aqua" ]
       },
@@ -1348,7 +1327,7 @@
           "korean": "옐로×블루",
           "russian": "Сине-желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 621
         },
         "colors": [ "Blue", "Yellow" ]
       }
@@ -1362,9 +1341,8 @@
     "name": "argyle crew socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -1386,8 +1364,7 @@
       "japanese": "アーガイルソックス",
       "korean": "아가일 양말",
       "russian": "носки аргайл",
-      "plural": false,
-      "internalIds": [ 9925, 9924, 9921, 9927, 9926, 9922, 5806, 9923 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -1409,8 +1386,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -1430,8 +1406,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -1451,8 +1426,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -1492,7 +1466,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 880
         },
         "colors": [ "White", "Red" ]
       },
@@ -1528,7 +1502,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 880
         },
         "colors": [ "Gray", "Pink" ]
       },
@@ -1564,7 +1538,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 880
         },
         "colors": [ "Red", "White" ]
       },
@@ -1600,7 +1574,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 880
         },
         "colors": [ "Pink", "White" ]
       },
@@ -1636,7 +1610,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 880
         },
         "colors": [ "Orange", "White" ]
       },
@@ -1672,7 +1646,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 880
         },
         "colors": [ "Green", "Yellow" ]
       },
@@ -1708,7 +1682,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 880
         },
         "colors": [ "Blue", "Aqua" ]
       },
@@ -1744,7 +1718,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 880
         },
         "colors": [ "Beige", "Brown" ]
       }
@@ -1760,7 +1734,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -1782,8 +1755,7 @@
       "japanese": "リボンソックス",
       "korean": "리본 양말",
       "russian": "носки с бантиком сзади",
-      "plural": false,
-      "internalIds": [ 9055, 9054, 4718, 9053, 9057, 9056 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -1805,50 +1777,48 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -1868,8 +1838,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -1909,7 +1878,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 519
         },
         "colors": [ "White", "Pink" ]
       },
@@ -1945,7 +1914,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 519
         },
         "colors": [ "Black", "White" ]
       },
@@ -1981,7 +1950,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 519
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -2017,7 +1986,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 519
         },
         "colors": [ "Yellow", "Green" ]
       },
@@ -2053,7 +2022,7 @@
           "korean": "피콕 블루",
           "russian": "Сиренево-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 519
         },
         "colors": [ "Green", "Pink" ]
       },
@@ -2089,7 +2058,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 519
         },
         "colors": [ "Aqua", "Yellow" ]
       }
@@ -2103,9 +2072,8 @@
     "name": "bobby socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 480,
     "sell": 120,
@@ -2127,8 +2095,7 @@
       "japanese": "みつおりソックス",
       "korean": "접는 양말",
       "russian": "короткие белые носки",
-      "plural": false,
-      "internalIds": [ 5171, 10017, 10018, 10019 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -2150,8 +2117,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -2171,8 +2137,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -2212,7 +2177,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 604
         },
         "colors": [ "White", "White" ]
       },
@@ -2248,7 +2213,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 604
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -2284,7 +2249,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 604
         },
         "colors": [ "Black", "Black" ]
       },
@@ -2320,7 +2285,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 604
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -2336,7 +2301,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 840,
     "sell": 210,
@@ -2358,8 +2322,7 @@
       "japanese": "マルチブロックソックス",
       "korean": "컬러 블록 양말",
       "russian": "носки в цветную клетку",
-      "plural": false,
-      "internalIds": [ 9899, 9901, 9900, 9895, 9897, 5180, 9896, 9898 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -2381,8 +2344,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -2422,7 +2384,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 612
         },
         "colors": [ "White", "Colorful" ]
       },
@@ -2458,7 +2420,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 612
         },
         "colors": [ "Pink", "Colorful" ]
       },
@@ -2494,7 +2456,7 @@
           "korean": "라임",
           "russian": "Лаймовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 612
         },
         "colors": [ "Green", "Colorful" ]
       },
@@ -2530,7 +2492,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 612
         },
         "colors": [ "Green", "Colorful" ]
       },
@@ -2566,7 +2528,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 612
         },
         "colors": [ "Blue", "Colorful" ]
       },
@@ -2602,7 +2564,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 612
         },
         "colors": [ "Purple", "Colorful" ]
       },
@@ -2638,7 +2600,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 612
         },
         "colors": [ "Brown", "Colorful" ]
       },
@@ -2674,7 +2636,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 612
         },
         "colors": [ "Beige", "Colorful" ]
       }
@@ -2690,7 +2652,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -2712,8 +2673,7 @@
       "japanese": "コンプレッションタイツ",
       "korean": "압박 타이츠",
       "russian": "компрессионные чулки",
-      "plural": false,
-      "internalIds": [ 9793, 9791, 9790, 9792, 5170 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -2735,8 +2695,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -2756,8 +2715,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -2777,8 +2735,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -2818,7 +2775,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 603
         },
         "colors": [ "Black", "Red" ]
       },
@@ -2854,7 +2811,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 603
         },
         "colors": [ "Black", "Pink" ]
       },
@@ -2890,7 +2847,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 603
         },
         "colors": [ "Black", "Yellow" ]
       },
@@ -2926,7 +2883,7 @@
           "korean": "민트",
           "russian": "Мятный",
           "plural": false,
-          "internalIds": [ "squ09" ]
+          "clothGroup": 603
         },
         "colors": [ "Black", "Green" ]
       },
@@ -2962,7 +2919,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 603
         },
         "colors": [ "Black", "Blue" ]
       }
@@ -2976,9 +2933,8 @@
     "name": "country socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -3000,8 +2956,7 @@
       "japanese": "カントリーソックス",
       "korean": "컨트리 양말",
       "russian": "кантри-носки",
-      "plural": false,
-      "internalIds": [ 8944, 6044, 8942, 8943 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -3023,8 +2978,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -3044,8 +2998,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -3085,7 +3038,7 @@
           "korean": "블랙 리본",
           "russian": "Черная ленточка",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 926
         },
         "colors": [ "White", "Black" ]
       },
@@ -3121,7 +3074,7 @@
           "korean": "레드 리본",
           "russian": "Красная ленточка",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 926
         },
         "colors": [ "White", "Red" ]
       },
@@ -3157,7 +3110,7 @@
           "korean": "그린 리본",
           "russian": "Зеленая ленточка",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 926
         },
         "colors": [ "White", "Green" ]
       },
@@ -3193,7 +3146,7 @@
           "korean": "블루 리본",
           "russian": "Синяя ленточка",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 926
         },
         "colors": [ "White", "Blue" ]
       }
@@ -3207,9 +3160,8 @@
     "name": "crocheted socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -3231,8 +3183,7 @@
       "japanese": "かぎばりあみソックス",
       "korean": "손뜨개 양말",
       "russian": "вязаные крючком носки",
-      "plural": false,
-      "internalIds": [ 8939, 8940, 8941, 5202 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -3254,8 +3205,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -3275,8 +3225,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -3316,7 +3265,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 626
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -3352,7 +3301,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 626
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -3388,7 +3337,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 626
         },
         "colors": [ "Aqua", "Aqua" ]
       },
@@ -3424,7 +3373,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 626
         },
         "colors": [ "Beige", "Beige" ]
       }
@@ -3438,9 +3387,8 @@
     "name": "denim leggings",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 540,
     "sell": 135,
@@ -3462,8 +3410,7 @@
       "japanese": "デニムレギンス",
       "korean": "데님 레깅스",
       "russian": "джеггинсы",
-      "plural": false,
-      "internalIds": [ 9782, 9784, 9783, 4745 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -3485,8 +3432,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -3506,8 +3452,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -3527,8 +3472,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -3568,7 +3512,7 @@
           "korean": "인디고 블루",
           "russian": "Индиго",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 539
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -3604,7 +3548,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 539
         },
         "colors": [ "Aqua", "Aqua" ]
       },
@@ -3640,7 +3584,7 @@
           "korean": "색슨 블루",
           "russian": "Темно-голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 539
         },
         "colors": [ "Aqua", "Aqua" ]
       },
@@ -3676,7 +3620,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 539
         },
         "colors": [ "Blue", "Blue" ]
       }
@@ -3690,9 +3634,8 @@
     "name": "dotted knee-high socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -3714,8 +3657,7 @@
       "japanese": "ドットのニーハイソックス",
       "korean": "도트 니하이 삭스",
       "russian": "гольфы в горох",
-      "plural": false,
-      "internalIds": [ 12181, 12174, 12179, 12180 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -3737,8 +3679,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -3778,7 +3719,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1188
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -3814,7 +3755,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1188
         },
         "colors": [ "Black", "Black" ]
       },
@@ -3850,7 +3791,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1188
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -3886,7 +3827,7 @@
           "korean": "시안",
           "russian": "Сине-зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1188
         },
         "colors": [ "Green", "Green" ]
       }
@@ -3900,9 +3841,8 @@
     "name": "embroidered-flower tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1000,
     "sell": 250,
@@ -3924,8 +3864,7 @@
       "japanese": "はながらししゅうのタイツ",
       "korean": "꽃무늬 자수 타이츠",
       "russian": "расшитые цветами чулки",
-      "plural": false,
-      "internalIds": [ 9907, 9908, 9910, 9911, 5204, 9909 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -3947,50 +3886,48 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -4030,7 +3967,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 628
         },
         "colors": [ "Black", "White" ]
       },
@@ -4066,7 +4003,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 628
         },
         "colors": [ "Green", "Yellow" ]
       },
@@ -4102,7 +4039,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 628
         },
         "colors": [ "Blue", "Orange" ]
       },
@@ -4138,7 +4075,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 628
         },
         "colors": [ "Purple", "Pink" ]
       },
@@ -4174,7 +4111,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 628
         },
         "colors": [ "Brown", "Red" ]
       },
@@ -4210,7 +4147,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 628
         },
         "colors": [ "Beige", "Red" ]
       }
@@ -4224,9 +4161,8 @@
     "name": "everyday socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -4248,8 +4184,7 @@
       "japanese": "デイリーソックス",
       "korean": "데일리 양말",
       "russian": "повседневные носки",
-      "plural": false,
-      "internalIds": [ 10038, 10036, 10034, 10035, 9645, 10037 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -4271,8 +4206,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -4292,8 +4226,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -4333,7 +4266,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1059
         },
         "colors": [ "White", "White" ]
       },
@@ -4369,7 +4302,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1059
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -4405,7 +4338,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1059
         },
         "colors": [ "Black", "Black" ]
       },
@@ -4441,7 +4374,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1059
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -4477,7 +4410,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1059
         },
         "colors": [ "Brown", "Brown" ]
       },
@@ -4513,7 +4446,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1059
         },
         "colors": [ "Beige", "Beige" ]
       }
@@ -4527,9 +4460,8 @@
     "name": "everyday tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -4551,8 +4483,7 @@
       "japanese": "デイリータイツ",
       "korean": "데일리 타이츠",
       "russian": "повседневные чулки",
-      "plural": false,
-      "internalIds": [ 9684, 9682, 9683, 9581, 9685, 9686 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -4574,8 +4505,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -4595,8 +4525,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -4636,7 +4565,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1050
         },
         "colors": [ "White", "White" ]
       },
@@ -4672,7 +4601,7 @@
           "korean": "라이트 그레이",
           "russian": "Светло-серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1050
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -4708,7 +4637,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1050
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -4744,7 +4673,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1050
         },
         "colors": [ "Black", "Black" ]
       },
@@ -4780,7 +4709,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1050
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -4816,7 +4745,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1050
         },
         "colors": [ "Beige", "Beige" ]
       }
@@ -4830,9 +4759,8 @@
     "name": "fishnet tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 480,
     "sell": 120,
@@ -4854,31 +4782,29 @@
       "japanese": "あみタイツ",
       "korean": "망사 타이츠",
       "russian": "чулки в сеточку",
-      "plural": false,
-      "internalIds": [ 9659, 3096, 9660 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -4898,8 +4824,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -4939,7 +4864,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 48
         },
         "colors": [ "White", "White" ]
       },
@@ -4975,7 +4900,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 48
         },
         "colors": [ "Black", "Black" ]
       },
@@ -5011,7 +4936,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 48
         },
         "colors": [ "Red", "Red" ]
       }
@@ -5025,9 +4950,8 @@
     "name": "flowery-dot tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -5049,31 +4973,30 @@
       "japanese": "フラワードットタイツ",
       "korean": "플라워 도트 타이츠",
       "russian": "чулки в цветочек",
-      "plural": false,
-      "internalIds": [ 5804, 9920, 9917, 9919, 9918 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -5093,29 +5016,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -5135,8 +5056,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -5176,7 +5096,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 879
         },
         "colors": [ "White", "White" ]
       },
@@ -5212,7 +5132,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 879
         },
         "colors": [ "Black", "Black" ]
       },
@@ -5248,7 +5168,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 879
         },
         "colors": [ "Pink", "White" ]
       },
@@ -5284,7 +5204,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 879
         },
         "colors": [ "Yellow", "White" ]
       },
@@ -5320,7 +5240,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 879
         },
         "colors": [ "Aqua", "White" ]
       }
@@ -5336,7 +5256,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 840,
     "sell": 210,
@@ -5358,8 +5277,7 @@
       "japanese": "フリルつきニーハイソックス",
       "korean": "프릴 니하이 삭스",
       "russian": "гольфы с оборками",
-      "plural": false,
-      "internalIds": [ 5172, 11590, 11593, 11591, 11595, 11589, 11592, 11594 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -5381,50 +5299,48 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -5444,8 +5360,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -5485,7 +5400,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 605
         },
         "colors": [ "Black", "White" ]
       },
@@ -5521,7 +5436,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 605
         },
         "colors": [ "Red", "White" ]
       },
@@ -5557,7 +5472,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 605
         },
         "colors": [ "Pink", "White" ]
       },
@@ -5593,7 +5508,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 605
         },
         "colors": [ "Orange", "White" ]
       },
@@ -5629,7 +5544,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 605
         },
         "colors": [ "Yellow", "White" ]
       },
@@ -5665,7 +5580,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 605
         },
         "colors": [ "Green", "White" ]
       },
@@ -5701,7 +5616,7 @@
           "korean": "민트",
           "russian": "Мятный",
           "plural": false,
-          "internalIds": [ "squ09" ]
+          "clothGroup": 605
         },
         "colors": [ "Aqua", "White" ]
       },
@@ -5737,7 +5652,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 605
         },
         "colors": [ "Purple", "White" ]
       }
@@ -5751,9 +5666,8 @@
     "name": "frilly socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -5775,8 +5689,7 @@
       "japanese": "フリルソックス",
       "korean": "프릴 양말",
       "russian": "носки с оборками",
-      "plural": false,
-      "internalIds": [ 5174, 8935, 8934, 8936, 8938, 8937 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -5798,29 +5711,28 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -5840,29 +5752,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -5902,7 +5812,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 607
         },
         "colors": [ "White", "White" ]
       },
@@ -5938,7 +5848,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 607
         },
         "colors": [ "Pink", "White" ]
       },
@@ -5974,7 +5884,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 607
         },
         "colors": [ "Yellow", "White" ]
       },
@@ -6010,7 +5920,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 607
         },
         "colors": [ "Green", "White" ]
       },
@@ -6046,7 +5956,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 607
         },
         "colors": [ "Aqua", "White" ]
       },
@@ -6082,7 +5992,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 607
         },
         "colors": [ "Purple", "White" ]
       }
@@ -6098,7 +6008,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -6120,8 +6029,7 @@
       "japanese": "キャラクターソックス",
       "korean": "캐릭터 양말",
       "russian": "носки с рожицами",
-      "plural": false,
-      "internalIds": [ 9995, 9993, 5406, 9994, 9992 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -6143,8 +6051,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -6164,8 +6071,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -6205,7 +6111,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 723
         },
         "colors": [ "Black", "Gray" ]
       },
@@ -6241,7 +6147,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 723
         },
         "colors": [ "Red", "Yellow" ]
       },
@@ -6277,7 +6183,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 723
         },
         "colors": [ "Pink", "Aqua" ]
       },
@@ -6313,7 +6219,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 723
         },
         "colors": [ "Green", "Blue" ]
       },
@@ -6349,7 +6255,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 723
         },
         "colors": [ "Blue", "Green" ]
       }
@@ -6365,7 +6271,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 980,
     "sell": 245,
@@ -6387,8 +6292,7 @@
       "japanese": "ガーターつきストッキング",
       "korean": "가터 스타킹",
       "russian": "носки с подтяжками",
-      "plural": false,
-      "internalIds": [ 9661, 4747, 9663, 9662 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -6410,29 +6314,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -6452,8 +6354,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -6493,7 +6394,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 541
         },
         "colors": [ "White", "White" ]
       },
@@ -6529,7 +6430,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 541
         },
         "colors": [ "Black", "Black" ]
       },
@@ -6565,7 +6466,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 541
         },
         "colors": [ "Red", "Red" ]
       },
@@ -6601,7 +6502,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 541
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -6615,9 +6516,8 @@
     "name": "geometric-print socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 950,
     "sell": 237,
@@ -6639,8 +6539,7 @@
       "japanese": "チマヨがらソックス",
       "korean": "치마요무늬 양말",
       "russian": "абстрактные носки",
-      "plural": false,
-      "internalIds": [ 9915, 5444, 9916, 9912, 9913, 9914 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -6662,8 +6561,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -6703,7 +6601,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 749
         },
         "colors": [ "Pink", "Colorful" ]
       },
@@ -6739,7 +6637,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 749
         },
         "colors": [ "Yellow", "Colorful" ]
       },
@@ -6775,7 +6673,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 749
         },
         "colors": [ "Green", "Colorful" ]
       },
@@ -6811,7 +6709,7 @@
           "korean": "피콕 블루",
           "russian": "Сиренево-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 749
         },
         "colors": [ "Aqua", "Colorful" ]
       },
@@ -6847,7 +6745,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 749
         },
         "colors": [ "Purple", "Colorful" ]
       },
@@ -6883,7 +6781,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 749
         },
         "colors": [ "Beige", "Colorful" ]
       }
@@ -6897,9 +6795,8 @@
     "name": "hand-knit socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 700,
     "sell": 175,
@@ -6921,8 +6818,7 @@
       "japanese": "てあみのソックス",
       "korean": "털실 양말",
       "russian": "вязаные носки",
-      "plural": false,
-      "internalIds": [ 9077, 5196, 9076 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -6944,8 +6840,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -6965,8 +6860,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -7006,7 +6900,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 620
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -7042,7 +6936,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 620
         },
         "colors": [ "Green", "Green" ]
       },
@@ -7078,7 +6972,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 620
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -7094,7 +6988,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "Not for sale",
     "buy": -1,
     "sell": 10,
@@ -7116,8 +7009,7 @@
       "japanese": "あなあきソックス",
       "korean": "구멍 난 양말",
       "russian": "дырявые носки",
-      "plural": false,
-      "internalIds": [ 5178, 9070, 9071 ]
+      "plural": false
     },
     "source": [ "Recycle box" ],
     "themesTranslations": {
@@ -7139,8 +7031,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -7160,8 +7051,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 53,
@@ -7201,7 +7091,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 610
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -7237,7 +7127,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 610
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -7273,7 +7163,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 610
         },
         "colors": [ "Beige", "Beige" ]
       }
@@ -7287,9 +7177,8 @@
     "name": "holey tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 350,
     "sell": 87,
@@ -7311,8 +7200,7 @@
       "japanese": "あなあきタイツ",
       "korean": "구멍 난 타이츠",
       "russian": "дырявые чулки",
-      "plural": false,
-      "internalIds": [ 5176, 9666, 9664, 9670, 9668, 9665, 9669, 9667 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -7334,8 +7222,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -7355,8 +7242,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -7376,8 +7262,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -7417,7 +7302,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 608
         },
         "colors": [ "Black", "Black" ]
       },
@@ -7453,7 +7338,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 608
         },
         "colors": [ "Red", "Red" ]
       },
@@ -7489,7 +7374,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 608
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -7525,7 +7410,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 608
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -7561,7 +7446,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 608
         },
         "colors": [ "Green", "Green" ]
       },
@@ -7597,7 +7482,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 608
         },
         "colors": [ "Aqua", "Aqua" ]
       },
@@ -7633,7 +7518,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 608
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -7669,7 +7554,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 608
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -7680,12 +7565,294 @@
   },
   {
     "sourceSheet": "Socks",
+    "name": "horizontal-striped tights",
+    "diy": false,
+    "size": "1x1",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
+    "versionAdded": "1.5.0",
+    "catalog": "For sale",
+    "buy": 720,
+    "sell": 180,
+    "translations": {
+      "sourceSheet": "Socks",
+      "id": 1275,
+      "version": "1.5.0",
+      "english": "horizontal-striped tights",
+      "englishEurope": "horizontal-striped tights",
+      "german": "Paar Ringel-Kniestrümpfe",
+      "spanish": "media rayas horizontales",
+      "spanishUs": "media rayas horizontales",
+      "french": "collant rayures horizontales",
+      "frenchUs": "collant rayures horizontales",
+      "italian": "paio di calze a righe oriz.",
+      "dutch": "horizontale-strepen-panty",
+      "chinese": "粗横纹长袜",
+      "chineseTraditional": "粗橫紋褲襪",
+      "japanese": "ボーダータイツ",
+      "korean": "줄무늬 타이츠",
+      "russian": "чулки в полоску",
+      "plural": false
+    },
+    "source": [ "Able Sisters" ],
+    "themesTranslations": {
+      "everyday": {
+        "sourceSheet": "Fashion Themes",
+        "id": "Daily",
+        "version": "1.0.0",
+        "english": "everyday",
+        "englishEurope": "everyday",
+        "german": "Alltagskleidung",
+        "spanish": "todoterreno",
+        "spanishUs": "todoterreno",
+        "french": "tenue de tous les jours",
+        "frenchUs": "tenue de tous les jours",
+        "italian": "per tutti i giorni",
+        "dutch": "alledaags thema",
+        "chinese": "日常",
+        "chineseTraditional": "日常生活",
+        "japanese": "デイリー",
+        "korean": "데일리",
+        "russian": "повседневный",
+        "plural": false
+      },
+      "goth": {
+        "sourceSheet": "Fashion Themes",
+        "id": "Horror",
+        "version": "1.0.0",
+        "english": "goth",
+        "englishEurope": "goth",
+        "german": "Horrorkleidung",
+        "spanish": "gótico",
+        "spanishUs": "gótico",
+        "french": "tenue effrayante",
+        "frenchUs": "tenue effrayante",
+        "italian": "horror",
+        "dutch": "griezelthema",
+        "chinese": "恐怖",
+        "chineseTraditional": "恐怖",
+        "japanese": "ホラー",
+        "korean": "호러",
+        "russian": "готический",
+        "plural": false
+      },
+      "party": {
+        "sourceSheet": "HHA Situation",
+        "id": 13,
+        "version": "1.0.0",
+        "english": "party",
+        "englishEurope": "party",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
+        "chinese": "派对",
+        "chineseTraditional": "派對",
+        "japanese": "パーティー",
+        "korean": "파티",
+        "russian": "Вечеринка",
+        "plural": false
+      }
+    },
+    "hhaBasePoints": 231,
+    "villagerEquippable": false,
+    "seasonalAvailability": "All Year",
+    "unlocked": true,
+    "variations": [
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween2.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween2.png",
+        "variation": "White",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "mannequinPiece": false,
+        "sortOrder": 1,
+        "filename": "SocksTexHalloween2",
+        "clothGroupId": 1275,
+        "internalId": 13373,
+        "uniqueEntryId": "iK4EJqE7E77gmjvvQ",
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый"
+        },
+        "colors": [ "White", "Gray" ]
+      },
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween5.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween5.png",
+        "variation": "Black",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "mannequinPiece": false,
+        "sortOrder": 2,
+        "filename": "SocksTexHalloween5",
+        "clothGroupId": 1275,
+        "internalId": 13376,
+        "uniqueEntryId": "5xyRgKDWLF4wqhWjK",
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "ブラック",
+          "korean": "블랙",
+          "russian": "Черный"
+        },
+        "colors": [ "Black", "Gray" ]
+      },
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween4.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween4.png",
+        "variation": "Red",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "mannequinPiece": false,
+        "sortOrder": 3,
+        "filename": "SocksTexHalloween4",
+        "clothGroupId": 1275,
+        "internalId": 13375,
+        "uniqueEntryId": "ARTENukN9A9baPyxd",
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный"
+        },
+        "colors": [ "Red", "Purple" ]
+      },
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween0.png",
+        "variation": "Orange",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "mannequinPiece": false,
+        "sortOrder": 4,
+        "filename": "SocksTexHalloween0",
+        "clothGroupId": 1275,
+        "internalId": 13029,
+        "uniqueEntryId": "4MQf429YhyaisAstM",
+        "variantTranslations": {
+          "english": "Orange",
+          "englishEurope": "Orange",
+          "german": "Orange",
+          "spanish": "Naranja",
+          "spanishUs": "Naranja",
+          "french": "Orange",
+          "frenchUs": "Orange",
+          "italian": "Arancio",
+          "dutch": "Oranje",
+          "chinese": "橘色",
+          "chineseTraditional": "橘色",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "Оранжевый"
+        },
+        "colors": [ "Orange", "Red" ]
+      },
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween3.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween3.png",
+        "variation": "Green",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "mannequinPiece": false,
+        "sortOrder": 5,
+        "filename": "SocksTexHalloween3",
+        "clothGroupId": 1275,
+        "internalId": 13374,
+        "uniqueEntryId": "iqz4SqaFfDAQNxbM6",
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый"
+        },
+        "colors": [ "Green", "Green" ]
+      },
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween1.png",
+        "variation": "Purple",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "mannequinPiece": false,
+        "sortOrder": 6,
+        "filename": "SocksTexHalloween1",
+        "clothGroupId": 1275,
+        "internalId": 13372,
+        "uniqueEntryId": "tNzNuZEXQyvThB6zx",
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый"
+        },
+        "colors": [ "Purple", "Pink" ]
+      }
+    ],
+    "styles": [ "Simple", "Active" ],
+    "themes": [ "everyday", "goth", "party" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Socks",
     "name": "kiddie socks",
     "diy": false,
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -7707,8 +7874,7 @@
       "japanese": "キッズソックス",
       "korean": "어린이용 양말",
       "russian": "детские носки",
-      "plural": false,
-      "internalIds": [ 9991, 5201, 9990, 9987, 9986, 9988, 9985, 9989 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -7730,8 +7896,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -7751,8 +7916,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -7772,8 +7936,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -7793,8 +7956,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -7834,7 +7996,7 @@
           "korean": "블랙×그레이",
           "russian": "Черный с серым",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 625
         },
         "colors": [ "Black", "Gray" ]
       },
@@ -7870,7 +8032,7 @@
           "korean": "레드×라이트 블루",
           "russian": "Красный с голубым",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 625
         },
         "colors": [ "Red", "Aqua" ]
       },
@@ -7906,7 +8068,7 @@
           "korean": "핑크×옐로",
           "russian": "Розовый с желтым",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 625
         },
         "colors": [ "Pink", "Yellow" ]
       },
@@ -7942,7 +8104,7 @@
           "korean": "옐로×퍼플",
           "russian": "Желтый с фиолетовым",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 625
         },
         "colors": [ "Yellow", "Purple" ]
       },
@@ -7978,7 +8140,7 @@
           "korean": "라임×핑크",
           "russian": "Лаймовый с розовым",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 625
         },
         "colors": [ "Green", "Pink" ]
       },
@@ -8014,7 +8176,7 @@
           "korean": "라이트 블루×레드",
           "russian": "Голубой с красным",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 625
         },
         "colors": [ "Aqua", "Red" ]
       },
@@ -8050,7 +8212,7 @@
           "korean": "블루×오렌 지",
           "russian": "Синий с оранжевым",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 625
         },
         "colors": [ "Blue", "Orange" ]
       },
@@ -8086,7 +8248,7 @@
           "korean": "퍼플×그린",
           "russian": "Фиолетовый с зеленым",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 625
         },
         "colors": [ "Purple", "Green" ]
       }
@@ -8100,9 +8262,8 @@
     "name": "lace socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -8124,8 +8285,7 @@
       "japanese": "レースのソックス",
       "korean": "레이스 양말",
       "russian": "носки с кружевами",
-      "plural": false,
-      "internalIds": [ 5173, 8933, 8931, 8932, 10170 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -8147,29 +8307,28 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -8189,29 +8348,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -8251,7 +8408,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 606
         },
         "colors": [ "White", "White" ]
       },
@@ -8287,7 +8444,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 606
         },
         "colors": [ "Black", "White" ]
       },
@@ -8323,7 +8480,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 606
         },
         "colors": [ "Pink", "White" ]
       },
@@ -8359,7 +8516,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 606
         },
         "colors": [ "Green", "White" ]
       },
@@ -8395,7 +8552,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 606
         },
         "colors": [ "Beige", "White" ]
       }
@@ -8409,9 +8566,8 @@
     "name": "layered socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -8433,8 +8589,7 @@
       "japanese": "かさねばきソックス",
       "korean": "레이어드 양말",
       "russian": "многослойные носки",
-      "plural": false,
-      "internalIds": [ 9905, 9906, 9903, 9904, 9902, 5195 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -8456,8 +8611,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -8477,8 +8631,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -8518,7 +8671,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 619
         },
         "colors": [ "Gray", "Red" ]
       },
@@ -8554,7 +8707,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 619
         },
         "colors": [ "Gray", "Orange" ]
       },
@@ -8590,7 +8743,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 619
         },
         "colors": [ "Gray", "Yellow" ]
       },
@@ -8626,7 +8779,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 619
         },
         "colors": [ "Gray", "Green" ]
       },
@@ -8662,7 +8815,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 619
         },
         "colors": [ "Gray", "Blue" ]
       },
@@ -8698,7 +8851,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 619
         },
         "colors": [ "Gray", "Purple" ]
       }
@@ -8712,9 +8865,8 @@
     "name": "leg warmers",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 440,
     "sell": 110,
@@ -8736,8 +8888,7 @@
       "japanese": "レッグウォーマー",
       "korean": "발 토시",
       "russian": "гетры",
-      "plural": false,
-      "internalIds": [ 9786, 9785, 9787, 9789, 5169, 9788 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -8759,8 +8910,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -8780,8 +8930,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -8821,7 +8970,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 602
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -8857,7 +9006,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 602
         },
         "colors": [ "Black", "Black" ]
       },
@@ -8893,7 +9042,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 602
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -8929,7 +9078,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 602
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -8965,7 +9114,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 602
         },
         "colors": [ "Purple", "Purple" ]
       },
@@ -9001,7 +9150,7 @@
           "korean": "라이트 퍼플",
           "russian": "Светло-фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 602
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -9015,9 +9164,8 @@
     "name": "mixed-tweed socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 800,
     "sell": 200,
@@ -9039,8 +9187,7 @@
       "japanese": "ミックスツイードソックス",
       "korean": "믹스 트위드 양말",
       "russian": "мелированные носки",
-      "plural": false,
-      "internalIds": [ 5168, 9067, 9068, 9063, 9064, 9066, 9065, 9069 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -9062,8 +9209,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -9083,8 +9229,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -9124,7 +9269,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 601
         },
         "colors": [ "Red", "Red" ]
       },
@@ -9160,7 +9305,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 601
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -9196,7 +9341,7 @@
           "korean": "라임",
           "russian": "Лаймовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 601
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -9232,7 +9377,7 @@
           "korean": "카키",
           "russian": "Защитный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 601
         },
         "colors": [ "Green", "Green" ]
       },
@@ -9268,7 +9413,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 601
         },
         "colors": [ "Aqua", "Aqua" ]
       },
@@ -9304,7 +9449,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 601
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -9340,7 +9485,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 601
         },
         "colors": [ "Purple", "Purple" ]
       },
@@ -9376,7 +9521,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 601
         },
         "colors": [ "Beige", "Beige" ]
       }
@@ -9390,9 +9535,8 @@
     "name": "neon leggings",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 540,
     "sell": 135,
@@ -9414,8 +9558,7 @@
       "japanese": "ネオンレギンス",
       "korean": "네온 레깅스",
       "russian": "неоновые леггинсы",
-      "plural": false,
-      "internalIds": [ 9808, 9809, 9586, 9810, 9811 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -9437,29 +9580,27 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -9479,8 +9620,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -9520,7 +9660,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1054
         },
         "colors": [ "Pink", "Purple" ]
       },
@@ -9556,7 +9696,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 1054
         },
         "colors": [ "Orange", "Pink" ]
       },
@@ -9592,7 +9732,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1054
         },
         "colors": [ "Yellow", "Orange" ]
       },
@@ -9628,7 +9768,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1054
         },
         "colors": [ "Green", "Aqua" ]
       },
@@ -9664,7 +9804,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1054
         },
         "colors": [ "Purple", "Blue" ]
       }
@@ -9678,9 +9818,8 @@
     "name": "neon tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -9702,31 +9841,29 @@
       "japanese": "ネオンタイツ",
       "korean": "네온 타이츠",
       "russian": "неоновые чулки",
-      "plural": false,
-      "internalIds": [ 9694, 9695, 9583, 9696, 9697 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -9746,8 +9883,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -9787,7 +9923,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1052
         },
         "colors": [ "Pink", "Purple" ]
       },
@@ -9823,7 +9959,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 1052
         },
         "colors": [ "Orange", "Pink" ]
       },
@@ -9859,7 +9995,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1052
         },
         "colors": [ "Yellow", "Orange" ]
       },
@@ -9895,7 +10031,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1052
         },
         "colors": [ "Green", "Aqua" ]
       },
@@ -9931,7 +10067,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1052
         },
         "colors": [ "Purple", "Blue" ]
       }
@@ -9945,9 +10081,8 @@
     "name": "no-show socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 480,
     "sell": 120,
@@ -9969,8 +10104,7 @@
       "japanese": "スニーカーインソックス",
       "korean": "발목 양말",
       "russian": "невидимые носки",
-      "plural": false,
-      "internalIds": [ 10003, 4741, 10004, 10006, 10009, 10007, 10005, 10008 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -9992,8 +10126,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -10013,8 +10146,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -10034,8 +10166,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -10055,8 +10186,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -10096,7 +10226,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 535
         },
         "colors": [ "White", "Red" ]
       },
@@ -10132,7 +10262,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 535
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -10168,7 +10298,7 @@
           "korean": "와인 레드",
           "russian": "Ягодно-красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 535
         },
         "colors": [ "Red", "Gray" ]
       },
@@ -10204,7 +10334,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 535
         },
         "colors": [ "Orange", "Purple" ]
       },
@@ -10240,7 +10370,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 535
         },
         "colors": [ "Yellow", "Aqua" ]
       },
@@ -10276,7 +10406,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 535
         },
         "colors": [ "Green", "Blue" ]
       },
@@ -10312,7 +10442,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 535
         },
         "colors": [ "Aqua", "White" ]
       },
@@ -10348,7 +10478,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 535
         },
         "colors": [ "Blue", "Yellow" ]
       }
@@ -10362,9 +10492,8 @@
     "name": "nordic socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 840,
     "sell": 210,
@@ -10386,8 +10515,7 @@
       "japanese": "ノルディックなソックス",
       "korean": "노르딕풍 양말",
       "russian": "северные носки",
-      "plural": false,
-      "internalIds": [ 9892, 9890, 9893, 9894, 9891, 4748, 9889 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -10409,8 +10537,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -10430,8 +10557,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -10451,8 +10577,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -10492,7 +10617,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 542
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -10528,7 +10653,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 542
         },
         "colors": [ "Red", "Black" ]
       },
@@ -10564,7 +10689,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 542
         },
         "colors": [ "Green", "Black" ]
       },
@@ -10600,7 +10725,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 542
         },
         "colors": [ "Aqua", "Black" ]
       },
@@ -10636,7 +10761,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 542
         },
         "colors": [ "Blue", "Black" ]
       },
@@ -10672,7 +10797,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 542
         },
         "colors": [ "Blue", "Black" ]
       },
@@ -10708,7 +10833,7 @@
           "korean": "아이보리",
           "russian": "Цвет слоновой кости",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 542
         },
         "colors": [ "Beige", "Black" ]
       }
@@ -10722,9 +10847,8 @@
     "name": "patterned stockings",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 940,
     "sell": 235,
@@ -10746,8 +10870,7 @@
       "japanese": "デザインストッキング",
       "korean": "디자인 스타킹",
       "russian": "чулки с узором",
-      "plural": false,
-      "internalIds": [ 9674, 6046 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -10769,8 +10892,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -10790,29 +10912,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -10832,8 +10952,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -10873,7 +10992,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 928
         },
         "colors": [ "White", "White" ]
       },
@@ -10909,7 +11028,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 928
         },
         "colors": [ "Black", "Black" ]
       }
@@ -10923,9 +11042,8 @@
     "name": "pom-pom socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -10947,8 +11065,7 @@
       "japanese": "ポンポンソックス",
       "korean": "폼폼 양말",
       "russian": "носки с помпонами",
-      "plural": false,
-      "internalIds": [ 5179, 9074, 9073, 9072, 9075 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -10970,29 +11087,28 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -11012,8 +11128,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -11053,7 +11168,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 611
         },
         "colors": [ "Pink", "White" ]
       },
@@ -11089,7 +11204,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 611
         },
         "colors": [ "Orange", "White" ]
       },
@@ -11125,7 +11240,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 611
         },
         "colors": [ "Green", "White" ]
       },
@@ -11161,7 +11276,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 611
         },
         "colors": [ "Aqua", "White" ]
       },
@@ -11197,7 +11312,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 611
         },
         "colors": [ "Purple", "White" ]
       }
@@ -11211,9 +11326,8 @@
     "name": "puckered socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -11235,8 +11349,7 @@
       "japanese": "くしゅくしゅソックス",
       "korean": "꾸깃꾸깃한 양말",
       "russian": "носки пико",
-      "plural": false,
-      "internalIds": [ 9078, 5198, 9080, 9079, 9081 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -11258,8 +11371,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -11299,7 +11411,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 622
         },
         "colors": [ "Red", "Red" ]
       },
@@ -11335,7 +11447,7 @@
           "korean": "머스터드",
           "russian": "Горчичный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 622
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -11371,7 +11483,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 622
         },
         "colors": [ "Green", "Green" ]
       },
@@ -11407,7 +11519,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 622
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -11443,7 +11555,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 622
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -11457,9 +11569,8 @@
     "name": "running tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 550,
     "sell": 137,
@@ -11481,8 +11592,7 @@
       "japanese": "ランニングタイツ",
       "korean": "러닝 타이츠",
       "russian": "чулки для пробежек",
-      "plural": false,
-      "internalIds": [ 5214, 9798, 9800, 9799 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -11504,8 +11614,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -11525,8 +11634,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -11546,8 +11654,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -11587,7 +11694,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 629
         },
         "colors": [ "Black", "Pink" ]
       },
@@ -11623,7 +11730,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 629
         },
         "colors": [ "Black", "Yellow" ]
       },
@@ -11659,7 +11766,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 629
         },
         "colors": [ "Black", "Green" ]
       },
@@ -11695,7 +11802,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 629
         },
         "colors": [ "Black", "Blue" ]
       }
@@ -11709,9 +11816,8 @@
     "name": "semi-opaque socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 480,
     "sell": 120,
@@ -11733,8 +11839,7 @@
       "japanese": "ニュアンスソックス",
       "korean": "반투명 양말",
       "russian": "полупрозрачные носки",
-      "plural": false,
-      "internalIds": [ 10027, 10030, 10031, 10032, 9644, 10028, 10029, 10033 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -11756,8 +11861,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -11797,7 +11901,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1060
         },
         "colors": [ "Red", "Red" ]
       },
@@ -11833,7 +11937,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1060
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -11869,7 +11973,7 @@
           "korean": "캐멀",
           "russian": "Светло-коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1060
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -11905,7 +12009,7 @@
           "korean": "카키",
           "russian": "Защитный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1060
         },
         "colors": [ "Green", "Green" ]
       },
@@ -11941,7 +12045,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1060
         },
         "colors": [ "Green", "Green" ]
       },
@@ -11977,7 +12081,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1060
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -12013,7 +12117,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1060
         },
         "colors": [ "Purple", "Purple" ]
       },
@@ -12049,7 +12153,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1060
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -12063,9 +12167,8 @@
     "name": "semi-opaque tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -12087,8 +12190,7 @@
       "japanese": "ニュアンスタイツ",
       "korean": "반투명 타이츠",
       "russian": "полупрозрачные чулки",
-      "plural": false,
-      "internalIds": [ 9680, 9679, 9580, 9675, 9681, 9676, 9678, 9677 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -12110,8 +12212,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -12151,7 +12252,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1049
         },
         "colors": [ "Red", "Red" ]
       },
@@ -12187,7 +12288,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1049
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -12223,7 +12324,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1049
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -12259,7 +12360,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1049
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -12295,7 +12396,7 @@
           "korean": "옐로 그린",
           "russian": "Желто-зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1049
         },
         "colors": [ "Green", "Green" ]
       },
@@ -12331,7 +12432,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1049
         },
         "colors": [ "Green", "Green" ]
       },
@@ -12367,7 +12468,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1049
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -12403,7 +12504,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1049
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -12419,7 +12520,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 940,
     "sell": 235,
@@ -12441,31 +12541,29 @@
       "japanese": "スパンコールレギンス",
       "korean": "스팽글 레깅스",
       "russian": "леггинсы с пайетками",
-      "plural": false,
-      "internalIds": [ 11583, 11581, 11580, 4743, 11582, 11586, 11584, 11585 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -12485,8 +12583,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -12526,7 +12623,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 537
         },
         "colors": [ "White", "White" ]
       },
@@ -12562,7 +12659,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 537
         },
         "colors": [ "Black", "Black" ]
       },
@@ -12598,7 +12695,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 537
         },
         "colors": [ "Red", "Red" ]
       },
@@ -12634,7 +12731,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 537
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -12670,7 +12767,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 537
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -12706,7 +12803,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 537
         },
         "colors": [ "Green", "Green" ]
       },
@@ -12742,7 +12839,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 537
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -12778,7 +12875,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 537
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -12794,7 +12891,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -12816,8 +12912,7 @@
       "japanese": "シースルーソックス",
       "korean": "시스루 양말",
       "russian": "тонкие носки",
-      "plural": false,
-      "internalIds": [ 9932, 9928, 9930, 9931, 5812, 9929 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -12839,8 +12934,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -12860,29 +12954,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -12922,7 +13014,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 886
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -12958,7 +13050,7 @@
           "korean": "와인 레드",
           "russian": "Ягодно-красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 886
         },
         "colors": [ "Red", "Red" ]
       },
@@ -12994,7 +13086,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 886
         },
         "colors": [ "Green", "Green" ]
       },
@@ -13030,7 +13122,7 @@
           "korean": "올리브",
           "russian": "Оливковый",
           "plural": false,
-          "internalIds": [ "cbr09" ]
+          "clothGroup": 886
         },
         "colors": [ "Green", "Green" ]
       },
@@ -13066,7 +13158,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 886
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -13102,7 +13194,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 886
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -13118,7 +13210,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -13140,8 +13231,7 @@
       "japanese": "シンプルなニーハイソックス",
       "korean": "심플 니하이 삭스",
       "russian": "простые гольфы",
-      "plural": false,
-      "internalIds": [ 12182, 12183, 12175, 12184 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -13163,8 +13253,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -13204,7 +13293,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1189
         },
         "colors": [ "White", "White" ]
       },
@@ -13240,7 +13329,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1189
         },
         "colors": [ "Red", "Red" ]
       },
@@ -13276,7 +13365,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1189
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -13312,7 +13401,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1189
         },
         "colors": [ "Aqua", "Aqua" ]
       }
@@ -13326,9 +13415,8 @@
     "name": "simple-accent socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -13350,8 +13438,7 @@
       "japanese": "ワンポイントソックス",
       "korean": "원포인트 양말",
       "russian": "носки с акцентом",
-      "plural": false,
-      "internalIds": [ 9083, 9084, 9082, 9087, 9088, 9086, 5200, 9085 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -13373,8 +13460,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -13394,8 +13480,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -13435,7 +13520,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 624
         },
         "colors": [ "White", "Black" ]
       },
@@ -13471,7 +13556,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 624
         },
         "colors": [ "Gray", "Aqua" ]
       },
@@ -13507,7 +13592,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 624
         },
         "colors": [ "Black", "White" ]
       },
@@ -13543,7 +13628,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 624
         },
         "colors": [ "Red", "Black" ]
       },
@@ -13579,7 +13664,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 624
         },
         "colors": [ "Pink", "White" ]
       },
@@ -13615,7 +13700,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 624
         },
         "colors": [ "Orange", "Yellow" ]
       },
@@ -13651,7 +13736,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 624
         },
         "colors": [ "Blue", "Red" ]
       },
@@ -13687,7 +13772,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 624
         },
         "colors": [ "Blue", "Aqua" ]
       }
@@ -13703,7 +13788,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 800,
     "sell": 200,
@@ -13725,8 +13809,7 @@
       "japanese": "サッカーソックス",
       "korean": "축구 양말",
       "russian": "футбольные носки",
-      "plural": false,
-      "internalIds": [ 9978, 9976, 9973, 9977, 9974, 9975, 5177 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -13748,8 +13831,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -13769,8 +13851,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -13810,7 +13891,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 609
         },
         "colors": [ "White", "Black" ]
       },
@@ -13846,7 +13927,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 609
         },
         "colors": [ "Black", "White" ]
       },
@@ -13882,7 +13963,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 609
         },
         "colors": [ "Red", "White" ]
       },
@@ -13918,7 +13999,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 609
         },
         "colors": [ "Orange", "White" ]
       },
@@ -13954,7 +14035,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 609
         },
         "colors": [ "Green", "White" ]
       },
@@ -13990,7 +14071,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 609
         },
         "colors": [ "Aqua", "White" ]
       },
@@ -14026,7 +14107,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 609
         },
         "colors": [ "Blue", "White" ]
       }
@@ -14042,7 +14123,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -14064,8 +14144,7 @@
       "japanese": "スパイダーなタイツ",
       "korean": "거미줄 타이츠",
       "russian": "чулки с узором-паутиной",
-      "plural": false,
-      "internalIds": [ 9671, 5203, 9672, 9673 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -14087,29 +14166,27 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -14129,8 +14206,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -14170,7 +14246,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 627
         },
         "colors": [ "White", "White" ]
       },
@@ -14206,7 +14282,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 627
         },
         "colors": [ "Black", "Black" ]
       },
@@ -14242,7 +14318,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 627
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -14278,7 +14354,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 627
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -14292,9 +14368,8 @@
     "name": "stockings",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 480,
     "sell": 120,
@@ -14316,8 +14391,7 @@
       "japanese": "ストッキング",
       "korean": "스타킹",
       "russian": "чулки",
-      "plural": false,
-      "internalIds": [ 9656, 9655, 3095, 9657, 9658 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -14339,8 +14413,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -14360,8 +14433,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -14401,7 +14473,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 47
         },
         "colors": [ "White", "White" ]
       },
@@ -14437,7 +14509,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 47
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -14473,7 +14545,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 47
         },
         "colors": [ "Black", "Black" ]
       },
@@ -14509,7 +14581,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 47
         },
         "colors": [ "Brown", "Brown" ]
       },
@@ -14545,7 +14617,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 47
         },
         "colors": [ "Beige", "Beige" ]
       }
@@ -14559,9 +14631,8 @@
     "name": "stretch leggings",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 450,
     "sell": 112,
@@ -14583,8 +14654,7 @@
       "japanese": "ストレッチレギンス",
       "korean": "스트레치 레깅스",
       "russian": "эластичные леггинсы",
-      "plural": false,
-      "internalIds": [ 9778, 9776, 9777, 9779, 9781, 4744, 9780 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -14606,8 +14676,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -14627,8 +14696,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -14648,8 +14716,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -14689,7 +14756,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 538
         },
         "colors": [ "White", "White" ]
       },
@@ -14725,7 +14792,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 538
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -14761,7 +14828,7 @@
           "korean": "다크 그레이",
           "russian": "Темно-серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 538
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -14797,7 +14864,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 538
         },
         "colors": [ "Black", "Black" ]
       },
@@ -14833,7 +14900,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 538
         },
         "colors": [ "Green", "Green" ]
       },
@@ -14869,7 +14936,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 538
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -14905,7 +14972,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 538
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -14919,9 +14986,8 @@
     "name": "striped socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -14943,8 +15009,7 @@
       "japanese": "ボーダーソックス",
       "korean": "가로 줄무늬 양말",
       "russian": "полосатые носки",
-      "plural": false,
-      "internalIds": [ 5199, 9999, 9998, 9997, 9996, 6902, 10001, 10000 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -14966,8 +15031,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -14987,8 +15051,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -15028,7 +15091,7 @@
           "korean": "모노톤",
           "russian": "Черно-белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 623
         },
         "colors": [ "Black", "White" ]
       },
@@ -15064,7 +15127,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 623
         },
         "colors": [ "Red", "White" ]
       },
@@ -15100,7 +15163,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 623
         },
         "colors": [ "Orange", "White" ]
       },
@@ -15136,7 +15199,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 623
         },
         "colors": [ "Yellow", "White" ]
       },
@@ -15172,7 +15235,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 623
         },
         "colors": [ "Green", "White" ]
       },
@@ -15208,7 +15271,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 623
         },
         "colors": [ "Aqua", "White" ]
       },
@@ -15244,7 +15307,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 623
         },
         "colors": [ "Blue", "White" ]
       },
@@ -15280,7 +15343,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 623
         },
         "colors": [ "Purple", "White" ]
       }
@@ -15294,9 +15357,8 @@
     "name": "striped tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -15312,37 +15374,35 @@
       "french": "collant à rayures verticales",
       "frenchUs": "collant à rayures verticales",
       "italian": "paio di calze a strisce",
-      "dutch": "gestreepte panty",
+      "dutch": "verticale-strepen-panty",
       "chinese": "条纹袜子",
       "chineseTraditional": "條紋襪子",
       "japanese": "ストライプソックス",
       "korean": "세로 줄무늬 양말",
       "russian": "полосатые чулки",
-      "plural": false,
-      "internalIds": [ 9937, 6045, 9938, 9943, 9940, 9942, 9939, 9941 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -15362,8 +15422,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -15403,7 +15462,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 927
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -15439,7 +15498,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 927
         },
         "colors": [ "Red", "Black" ]
       },
@@ -15475,7 +15534,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 927
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -15511,7 +15570,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 927
         },
         "colors": [ "Orange", "Black" ]
       },
@@ -15547,7 +15606,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 927
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -15583,7 +15642,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 927
         },
         "colors": [ "Green", "Black" ]
       },
@@ -15619,7 +15678,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 927
         },
         "colors": [ "Aqua", "Black" ]
       },
@@ -15655,7 +15714,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 927
         },
         "colors": [ "Purple", "Black" ]
       }
@@ -15669,9 +15728,8 @@
     "name": "tabi",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1200,
     "sell": 300,
@@ -15693,8 +15751,7 @@
       "japanese": "たび",
       "korean": "일본풍 버선",
       "russian": "носки таби",
-      "plural": false,
-      "internalIds": [ 4749, 8929, 8930 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -15716,8 +15773,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -15737,29 +15793,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -15799,7 +15853,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 543
         },
         "colors": [ "White", "White" ]
       },
@@ -15835,7 +15889,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 543
         },
         "colors": [ "Black", "Black" ]
       },
@@ -15871,7 +15925,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 543
         },
         "colors": [ "Blue", "Blue" ]
       }
@@ -15885,9 +15939,8 @@
     "name": "terry-cloth socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -15909,31 +15962,30 @@
       "japanese": "もこもこソックス",
       "korean": "수면 양말",
       "russian": "махровые носки",
-      "plural": false,
-      "internalIds": [ 9984, 9983, 5181, 9981, 9980, 9979, 9982 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -15953,8 +16005,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -15994,7 +16045,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 613
         },
         "colors": [ "Gray", "White" ]
       },
@@ -16030,7 +16081,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 613
         },
         "colors": [ "Red", "White" ]
       },
@@ -16066,7 +16117,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 613
         },
         "colors": [ "Pink", "White" ]
       },
@@ -16102,7 +16153,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 613
         },
         "colors": [ "Green", "White" ]
       },
@@ -16138,7 +16189,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 613
         },
         "colors": [ "Aqua", "White" ]
       },
@@ -16174,7 +16225,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 613
         },
         "colors": [ "Purple", "White" ]
       },
@@ -16210,7 +16261,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 613
         },
         "colors": [ "Beige", "White" ]
       }
@@ -16224,9 +16275,8 @@
     "name": "tube socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 480,
     "sell": 120,
@@ -16248,8 +16298,7 @@
       "japanese": "ラインソックス",
       "korean": "라인 양말",
       "russian": "носки без пятки",
-      "plural": false,
-      "internalIds": [ 9968, 9966, 9967, 4746, 9970, 9971, 9969, 9972 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -16271,8 +16320,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -16292,8 +16340,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -16313,8 +16360,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -16354,7 +16400,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 540
         },
         "colors": [ "White", "Red" ]
       },
@@ -16390,7 +16436,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 540
         },
         "colors": [ "White", "Orange" ]
       },
@@ -16426,7 +16472,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 540
         },
         "colors": [ "White", "Green" ]
       },
@@ -16462,7 +16508,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 540
         },
         "colors": [ "White", "Blue" ]
       },
@@ -16498,7 +16544,7 @@
           "korean": "와인 레드",
           "russian": "Ягодно-красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 540
         },
         "colors": [ "Gray", "Red" ]
       },
@@ -16534,7 +16580,7 @@
           "korean": "다크 그린",
           "russian": "Темно-зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 540
         },
         "colors": [ "Gray", "Green" ]
       },
@@ -16570,7 +16616,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 540
         },
         "colors": [ "Gray", "Blue" ]
       },
@@ -16606,7 +16652,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 540
         },
         "colors": [ "Gray", "Purple" ]
       }
@@ -16620,9 +16666,8 @@
     "name": "ultra no-show socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 480,
     "sell": 120,
@@ -16644,8 +16689,7 @@
       "japanese": "フットカバー",
       "korean": "덧양말",
       "russian": "следки",
-      "plural": false,
-      "internalIds": [ 10016, 10015, 10010, 10012, 10013, 5167, 10014, 10011 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -16667,8 +16711,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -16688,8 +16731,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -16709,8 +16751,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -16750,7 +16791,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 600
         },
         "colors": [ "White", "White" ]
       },
@@ -16786,7 +16827,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 600
         },
         "colors": [ "Black", "Black" ]
       },
@@ -16822,7 +16863,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 600
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -16858,7 +16899,7 @@
           "korean": "올리브",
           "russian": "Оливковый",
           "plural": false,
-          "internalIds": [ "cbr09" ]
+          "clothGroup": 600
         },
         "colors": [ "Green", "Green" ]
       },
@@ -16894,7 +16935,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 600
         },
         "colors": [ "Green", "Green" ]
       },
@@ -16930,7 +16971,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 600
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -16966,7 +17007,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 600
         },
         "colors": [ "Purple", "Purple" ]
       },
@@ -17002,7 +17043,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 600
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -17016,9 +17057,8 @@
     "name": "vivid leggings",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 450,
     "sell": 112,
@@ -17040,8 +17080,7 @@
       "japanese": "ビビッドなレギンス",
       "korean": "비비드 레깅스",
       "russian": "яркие леггинсы",
-      "plural": false,
-      "internalIds": [ 9802, 9803, 9807, 9805, 9806, 9585, 9804, 9801 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -17063,29 +17102,27 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -17105,8 +17142,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -17146,7 +17182,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1053
         },
         "colors": [ "Red", "Red" ]
       },
@@ -17182,7 +17218,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1053
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -17218,7 +17254,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 1053
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -17254,7 +17290,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1053
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -17290,7 +17326,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1053
         },
         "colors": [ "Green", "Green" ]
       },
@@ -17326,7 +17362,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1053
         },
         "colors": [ "Aqua", "Aqua" ]
       },
@@ -17362,7 +17398,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1053
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -17398,7 +17434,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1053
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -17412,9 +17448,8 @@
     "name": "vivid socks",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 480,
     "sell": 120,
@@ -17436,8 +17471,7 @@
       "japanese": "ビビッドなソックス",
       "korean": "비비드 양말",
       "russian": "яркие носки",
-      "plural": false,
-      "internalIds": [ 9643, 10024, 10025, 10026, 6898, 10021, 10022, 10023 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -17459,29 +17493,27 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -17501,8 +17533,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -17542,7 +17573,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1002
         },
         "colors": [ "Red", "Red" ]
       },
@@ -17578,7 +17609,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1002
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -17614,7 +17645,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 1002
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -17650,7 +17681,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1002
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -17686,7 +17717,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1002
         },
         "colors": [ "Green", "Green" ]
       },
@@ -17722,7 +17753,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1002
         },
         "colors": [ "Aqua", "Aqua" ]
       },
@@ -17758,7 +17789,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1002
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -17794,7 +17825,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1002
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -17808,9 +17839,8 @@
     "name": "vivid tights",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 720,
     "sell": 180,
@@ -17832,31 +17862,29 @@
       "japanese": "ビビッドなタイツ",
       "korean": "비비드 타이츠",
       "russian": "яркие чулки",
-      "plural": false,
-      "internalIds": [ 9688, 9689, 9693, 9691, 9692, 9582, 9690, 9687 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -17876,8 +17904,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -17917,7 +17944,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1051
         },
         "colors": [ "Red", "Red" ]
       },
@@ -17953,7 +17980,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1051
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -17989,7 +18016,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 1051
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -18025,7 +18052,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1051
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -18061,7 +18088,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1051
         },
         "colors": [ "Green", "Green" ]
       },
@@ -18097,7 +18124,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1051
         },
         "colors": [ "Aqua", "Aqua" ]
       },
@@ -18133,7 +18160,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1051
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -18169,7 +18196,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1051
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -18185,7 +18212,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 600,
     "sell": 150,
@@ -18207,8 +18233,7 @@
       "japanese": "せいがいはソックス",
       "korean": "파도무늬 양말",
       "russian": "носки с волнами",
-      "plural": false,
-      "internalIds": [ 9936, 9935, 5813, 9934, 9933 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -18230,8 +18255,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -18271,7 +18295,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 887
         },
         "colors": [ "Black", "Gray" ]
       },
@@ -18307,7 +18331,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 887
         },
         "colors": [ "Green", "Green" ]
       },
@@ -18343,7 +18367,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 887
         },
         "colors": [ "Blue", "Aqua" ]
       },
@@ -18379,7 +18403,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 887
         },
         "colors": [ "Purple", "Pink" ]
       },
@@ -18415,7 +18439,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 887
         },
         "colors": [ "Brown", "Beige" ]
       }

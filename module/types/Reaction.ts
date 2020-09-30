@@ -3,10 +3,16 @@ export interface Reaction {
     name:          string;
     image:         string;
     source:        string[];
-    sourceNotes:   null | string;
+    sourceNotes:   SourceNote[] | null;
+    versionAdded:  Version;
     iconFilename:  string;
     uniqueEntryId: string;
     translations:  Translations;
+}
+
+export enum SourceNote {
+    OnlyObtainableOnHalloween = "Only obtainable on Halloween",
+    RequiresAHighLevelOfFriendship = "Requires a high level of friendship",
 }
 
 export enum SourceSheet {
@@ -33,11 +39,12 @@ export interface Translations {
     korean:             string;
     russian:            string;
     plural:             boolean;
-    internalIds:        Array<null | string>;
     variantId?:         number;
     clothName?:         string;
+    clothGroup?:        number;
 }
 
 export enum Version {
     The100 = "1.0.0",
+    The150 = "1.5.0",
 }

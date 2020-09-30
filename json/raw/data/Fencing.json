@@ -12,7 +12,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceBamboo",
     "Internal ID": 3403,
     "Unique Entry ID": "XaLnmQsQ47HfHQ9g5"
@@ -30,7 +29,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceBarbedWire",
     "Internal ID": 5213,
     "Unique Entry ID": "dNgibaR9jFqaDwuDZ"
@@ -48,7 +46,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceWallRenga",
     "Internal ID": 3080,
     "Unique Entry ID": "WAzanA7e5MREzJdMh"
@@ -66,7 +63,6 @@
     "Version Added": "1.1.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "2020-04-01; BCAT; 1.1.0a",
-    "Version Unlocked": "1.1.0a",
     "Filename": "ItemFenceEgg",
     "Internal ID": 12630,
     "Unique Entry ID": "CLQGhAfSNykpxrh3a"
@@ -84,7 +80,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceHorizontalWood",
     "Internal ID": 4349,
     "Unique Entry ID": "rqwqYy7Aphvh5zBSA"
@@ -102,7 +97,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceLog",
     "Internal ID": 4350,
     "Unique Entry ID": "twwkbWJ8YsoJEy3j8"
@@ -120,7 +114,6 @@
     "Version Added": "1.2.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.2.0",
     "Filename": "ItemFenceIkegaki",
     "Internal ID": 12758,
     "Unique Entry ID": "TphLYSh2MdogHdheg"
@@ -138,7 +131,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceChinese",
     "Internal ID": 4354,
     "Unique Entry ID": "fHqt7TXfbhfKnPbwG"
@@ -156,7 +148,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceSteel",
     "Internal ID": 4357,
     "Unique Entry ID": "RL5hL24NbwzE7zv3R"
@@ -174,7 +165,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceIronAndStone",
     "Internal ID": 5206,
     "Unique Entry ID": "kjSa4R6JQz2DtWQ2C"
@@ -192,7 +182,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceLatiiceNatural",
     "Internal ID": 11712,
     "Unique Entry ID": "qBrhYgaCnEiQYouP6"
@@ -210,7 +199,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFencePegRope",
     "Internal ID": 4352,
     "Unique Entry ID": "TpruAQnqeeYcDxPRj"
@@ -228,7 +216,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceNatural",
     "Internal ID": 11711,
     "Unique Entry ID": "bxF62vutvYBw9BTDT"
@@ -246,10 +233,26 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceSharply",
     "Internal ID": 4358,
     "Unique Entry ID": "gYccyRpBzpFCLLW56"
+  },
+  {
+    "SourceSheet": "Fencing",
+    "Name": "spooky fence",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceHalloween.png\")",
+    "DIY": "Yes",
+    "Stack Size": 50,
+    "Buy": "NFS",
+    "Sell": 585,
+    "Source": "Crafting",
+    "Source Notes": "",
+    "Version Added": "1.5.0",
+    "Unlocked?": "Yes",
+    "Unlock Notes": "",
+    "Filename": "ItemFenceHalloween",
+    "Internal ID": 13275,
+    "Unique Entry ID": "yHsjxz9cexo9WbDaK"
   },
   {
     "SourceSheet": "Fencing",
@@ -264,7 +267,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceStone",
     "Internal ID": 5212,
     "Unique Entry ID": "ECNmTH3oh3SEDpHCr"
@@ -282,7 +284,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceDriedStraw",
     "Internal ID": 4356,
     "Unique Entry ID": "yp69uEZTdfS9CkisA"
@@ -300,7 +301,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceVerticalWood",
     "Internal ID": 3402,
     "Unique Entry ID": "M9pkSgdAaKgQELi3E"
@@ -318,7 +318,6 @@
     "Version Added": "1.2.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "2020-06-01; BCAT; 1.2.1c",
-    "Version Unlocked": "1.2.1c",
     "Filename": "ItemFenceJuneBride",
     "Internal ID": 12894,
     "Unique Entry ID": "68uMh2zjCmeJukYhv"
@@ -336,7 +335,6 @@
     "Version Added": "1.0.0",
     "Unlocked?": "Yes",
     "Unlock Notes": "",
-    "Version Unlocked": "1.0.0",
     "Filename": "ItemFenceJapanese",
     "Internal ID": 5207,
     "Unique Entry ID": "yZeqREzefxeSiLAaP"

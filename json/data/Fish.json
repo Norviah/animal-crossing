@@ -29,7 +29,7 @@
     "uniqueEntryId": "dm4THC3AYR6CZ8bvJ",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02260",
+      "id": 2260,
       "version": "1.0.0",
       "english": "Napoleonfish",
       "englishEurope": "Napoleonfish",
@@ -45,8 +45,7 @@
       "japanese": "ナポレオンフィッシュ",
       "korean": "나폴레옹피시",
       "russian": "рыба-наполеон",
-      "plural": false,
-      "internalIds": [ 2260 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -94,7 +93,7 @@
     "uniqueEntryId": "LzuWkSQP55uEpRCP5",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04201",
+      "id": 4201,
       "version": "1.0.0",
       "english": "anchovy",
       "englishEurope": "anchovy",
@@ -110,8 +109,7 @@
       "japanese": "アンチョビ",
       "korean": "멸치",
       "russian": "хамса",
-      "plural": false,
-      "internalIds": [ 4201 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -159,7 +157,7 @@
     "uniqueEntryId": "XTCFCk2SiuY5YXLZ7",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02247",
+      "id": 2247,
       "version": "1.0.0",
       "english": "angelfish",
       "englishEurope": "angelfish",
@@ -175,8 +173,7 @@
       "japanese": "エンゼルフィッシュ",
       "korean": "천사어",
       "russian": "скалярия",
-      "plural": false,
-      "internalIds": [ 2247 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -224,7 +221,7 @@
     "uniqueEntryId": "mZy4BES54bqwi97br",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02253",
+      "id": 2253,
       "version": "1.0.0",
       "english": "arapaima",
       "englishEurope": "arapaima",
@@ -240,8 +237,7 @@
       "japanese": "ピラルク",
       "korean": "피라루쿠",
       "russian": "арапаима",
-      "plural": false,
-      "internalIds": [ 2253 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -289,7 +285,7 @@
     "uniqueEntryId": "F68AvCaqddBJL7ZSN",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02250",
+      "id": 2250,
       "version": "1.0.0",
       "english": "arowana",
       "englishEurope": "arowana",
@@ -305,8 +301,7 @@
       "japanese": "アロワナ",
       "korean": "아로와나",
       "russian": "аравана",
-      "plural": false,
-      "internalIds": [ 2250 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -354,7 +349,7 @@
     "uniqueEntryId": "X3R9SFSAaDzBF4fE3",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02265",
+      "id": 2265,
       "version": "1.0.0",
       "english": "barred knifejaw",
       "englishEurope": "barred knifejaw",
@@ -370,8 +365,7 @@
       "japanese": "イシダイ",
       "korean": "돌돔",
       "russian": "полосатый оплегнат",
-      "plural": false,
-      "internalIds": [ 2265 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -419,7 +413,7 @@
     "uniqueEntryId": "BpqTa4zmTjv3Nm4wE",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04204",
+      "id": 4204,
       "version": "1.0.0",
       "english": "barreleye",
       "englishEurope": "barreleye",
@@ -435,8 +429,7 @@
       "japanese": "デメニギス",
       "korean": "데메니기스",
       "russian": "опистопрокт",
-      "plural": false,
-      "internalIds": [ 4204 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -484,7 +477,7 @@
     "uniqueEntryId": "7QcQXzwZoNGiNA94k",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04191",
+      "id": 4191,
       "version": "1.0.0",
       "english": "betta",
       "englishEurope": "betta",
@@ -500,8 +493,7 @@
       "japanese": "ベタ",
       "korean": "베타",
       "russian": "сиамский петушок",
-      "plural": false,
-      "internalIds": [ 4191 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -549,7 +541,7 @@
     "uniqueEntryId": "Drj6eLRBgg4T9KhNx",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02215",
+      "id": 2215,
       "version": "1.0.0",
       "english": "bitterling",
       "englishEurope": "bitterling",
@@ -565,8 +557,7 @@
       "japanese": "タナゴ",
       "korean": "납줄개",
       "russian": "горчак",
-      "plural": false,
-      "internalIds": [ 2215 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -614,7 +605,7 @@
     "uniqueEntryId": "wAZvfTca7GyaTtLcQ",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02234",
+      "id": 2234,
       "version": "1.0.0",
       "english": "black bass",
       "englishEurope": "black bass",
@@ -630,8 +621,7 @@
       "japanese": "ブラックバス",
       "korean": "큰입배스",
       "russian": "большеротый окунь",
-      "plural": false,
-      "internalIds": [ 2234 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -679,7 +669,7 @@
     "uniqueEntryId": "aDsmTcByApycafxTa",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02262",
+      "id": 2262,
       "version": "1.0.0",
       "english": "blowfish",
       "englishEurope": "blowfish",
@@ -695,8 +685,7 @@
       "japanese": "フグ",
       "korean": "복어",
       "russian": "бурый скалозуб",
-      "plural": false,
-      "internalIds": [ 2262 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -744,7 +733,7 @@
     "uniqueEntryId": "jhtsYRHydAcZnd6bJ",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02275",
+      "id": 2275,
       "version": "1.0.0",
       "english": "blue marlin",
       "englishEurope": "blue marlin",
@@ -760,8 +749,7 @@
       "japanese": "カジキ",
       "korean": "청새치",
       "russian": "голубой марлин",
-      "plural": false,
-      "internalIds": [ 2275 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -809,7 +797,7 @@
     "uniqueEntryId": "8ygccYFCrWf4hwYGR",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02232",
+      "id": 2232,
       "version": "1.0.0",
       "english": "bluegill",
       "englishEurope": "bluegill",
@@ -825,8 +813,7 @@
       "japanese": "ブルーギル",
       "korean": "블루길",
       "russian": "солнечник",
-      "plural": false,
-      "internalIds": [ 2232 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -874,7 +861,7 @@
     "uniqueEntryId": "S4rkio2M3WB5cyy8Y",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02259",
+      "id": 2259,
       "version": "1.0.0",
       "english": "butterfly fish",
       "englishEurope": "butterfly fish",
@@ -890,8 +877,7 @@
       "japanese": "チョウチョウウオ",
       "korean": "나비고기",
       "russian": "рыба-бабочка",
-      "plural": false,
-      "internalIds": [ 2259 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -939,7 +925,7 @@
     "uniqueEntryId": "4DwwvGDwPQvZTn9Fb",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02219",
+      "id": 2219,
       "version": "1.0.0",
       "english": "carp",
       "englishEurope": "carp",
@@ -955,8 +941,7 @@
       "japanese": "コイ",
       "korean": "잉어",
       "russian": "сазан",
-      "plural": false,
-      "internalIds": [ 2219 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1004,7 +989,7 @@
     "uniqueEntryId": "nbPtvwf7HCQxA9Nc4",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02229",
+      "id": 2229,
       "version": "1.0.0",
       "english": "catfish",
       "englishEurope": "catfish",
@@ -1020,8 +1005,7 @@
       "japanese": "ナマズ",
       "korean": "메기",
       "russian": "сом",
-      "plural": false,
-      "internalIds": [ 2229 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1069,7 +1053,7 @@
     "uniqueEntryId": "ahbnwCqp3EZXa96KC",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02239",
+      "id": 2239,
       "version": "1.0.0",
       "english": "char",
       "englishEurope": "char",
@@ -1085,8 +1069,7 @@
       "japanese": "オオイワナ",
       "korean": "열목어",
       "russian": "голец",
-      "plural": false,
-      "internalIds": [ 2239 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1134,7 +1117,7 @@
     "uniqueEntryId": "sJyBbeLbpzn7LyzFr",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02238",
+      "id": 2238,
       "version": "1.0.0",
       "english": "cherry salmon",
       "englishEurope": "cherry salmon",
@@ -1150,8 +1133,7 @@
       "japanese": "ヤマメ",
       "korean": "산천어",
       "russian": "сима",
-      "plural": false,
-      "internalIds": [ 2238 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1199,7 +1181,7 @@
     "uniqueEntryId": "L9qxZaMoBhwxvpMyh",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02257",
+      "id": 2257,
       "version": "1.0.0",
       "english": "clown fish",
       "englishEurope": "clown fish",
@@ -1215,8 +1197,7 @@
       "japanese": "クマノミ",
       "korean": "흰동가리",
       "russian": "рыба-клоун",
-      "plural": false,
-      "internalIds": [ 2257 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1264,7 +1245,7 @@
     "uniqueEntryId": "NjMZQ6Xi9NswEXnHH",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02284",
+      "id": 2284,
       "version": "1.0.0",
       "english": "coelacanth",
       "englishEurope": "coelacanth",
@@ -1280,8 +1261,7 @@
       "japanese": "シーラカンス",
       "korean": "실러캔스",
       "russian": "латимерия",
-      "plural": false,
-      "internalIds": [ 2284 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1329,7 +1309,7 @@
     "uniqueEntryId": "W7TrwpycmfgniZipi",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02223",
+      "id": 2223,
       "version": "1.0.0",
       "english": "crawfish",
       "englishEurope": "crawfish",
@@ -1345,8 +1325,7 @@
       "japanese": "ザリガニ",
       "korean": "가재",
       "russian": "рак",
-      "plural": false,
-      "internalIds": [ 2223 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1394,7 +1373,7 @@
     "uniqueEntryId": "Pdw7vmJz9PRM4ggbf",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_00328",
+      "id": 328,
       "version": "1.0.0",
       "english": "crucian carp",
       "englishEurope": "crucian carp",
@@ -1410,8 +1389,7 @@
       "japanese": "フナ",
       "korean": "붕어",
       "russian": "карась",
-      "plural": false,
-      "internalIds": [ 328 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1459,7 +1437,7 @@
     "uniqueEntryId": "noA2Kfp8TaFgaLs5n",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02268",
+      "id": 2268,
       "version": "1.0.0",
       "english": "dab",
       "englishEurope": "dab",
@@ -1475,8 +1453,7 @@
       "japanese": "カレイ",
       "korean": "가자미",
       "russian": "камбала",
-      "plural": false,
-      "internalIds": [ 2268 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1524,7 +1501,7 @@
     "uniqueEntryId": "dWmXFdnjByWT5nEok",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02217",
+      "id": 2217,
       "version": "1.0.0",
       "english": "dace",
       "englishEurope": "dace",
@@ -1540,8 +1517,7 @@
       "japanese": "ウグイ",
       "korean": "황어",
       "russian": "елец",
-      "plural": false,
-      "internalIds": [ 2217 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1589,7 +1565,7 @@
     "uniqueEntryId": "G7ZwD67cRMHBwTSKH",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02251",
+      "id": 2251,
       "version": "1.0.0",
       "english": "dorado",
       "englishEurope": "dorado",
@@ -1605,8 +1581,7 @@
       "japanese": "ドラド",
       "korean": "도라도",
       "russian": "дорадо",
-      "plural": false,
-      "internalIds": [ 2251 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1654,7 +1629,7 @@
     "uniqueEntryId": "vQHfve6DygtcYqwdi",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02273",
+      "id": 2273,
       "version": "1.0.0",
       "english": "football fish",
       "englishEurope": "football fish",
@@ -1670,8 +1645,7 @@
       "japanese": "チョウチンアンコウ",
       "korean": "초롱아귀",
       "russian": "гимантолоф",
-      "plural": false,
-      "internalIds": [ 2273 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1719,7 +1693,7 @@
     "uniqueEntryId": "SfXYNdtaid6hdQhvZ",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02227",
+      "id": 2227,
       "version": "1.0.0",
       "english": "freshwater goby",
       "englishEurope": "freshwater goby",
@@ -1735,8 +1709,7 @@
       "japanese": "ドンコ",
       "korean": "동사리",
       "russian": "одонтобутис",
-      "plural": false,
-      "internalIds": [ 2227 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1783,26 +1756,24 @@
     "internalId": 2226,
     "uniqueEntryId": "LcQLs85qPPdLajLje",
     "translations": {
-      "sourceSheet": "Tops Variants",
-      "variantId": 10899,
-      "id": 10899,
-      "clothName": "kids' smock",
-      "english": "Frog",
-      "englishEurope": "Frog",
+      "sourceSheet": "Fish",
+      "id": 2226,
+      "version": "1.0.0",
+      "english": "frog",
+      "englishEurope": "frog",
       "german": "Frosch",
-      "spanish": "Rana",
-      "spanishUs": "Rana",
-      "french": "Grenouille",
-      "frenchUs": "Grenouille",
-      "italian": "Rana",
-      "dutch": "Kikker",
+      "spanish": "rana",
+      "spanishUs": "rana",
+      "french": "grenouille",
+      "frenchUs": "grenouille",
+      "italian": "rana",
+      "dutch": "kikker",
       "chinese": "青蛙",
       "chineseTraditional": "青蛙",
       "japanese": "カエル",
       "korean": "개구리",
-      "russian": "Лягушка",
-      "plural": false,
-      "internalIds": [ 2226 ]
+      "russian": "лягушка",
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1850,7 +1821,7 @@
     "uniqueEntryId": "x5yAYQgMJW9Kf7WyM",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02252",
+      "id": 2252,
       "version": "1.0.0",
       "english": "gar",
       "englishEurope": "gar",
@@ -1866,8 +1837,7 @@
       "japanese": "ガー",
       "korean": "가아",
       "russian": "панцирная щука",
-      "plural": false,
-      "internalIds": [ 2252 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1915,7 +1885,7 @@
     "uniqueEntryId": "KyWQRd8W2FePM42wB",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02231",
+      "id": 2231,
       "version": "1.0.0",
       "english": "giant snakehead",
       "englishEurope": "giant snakehead",
@@ -1931,8 +1901,7 @@
       "japanese": "ライギョ",
       "korean": "가물치",
       "russian": "змееголов",
-      "plural": false,
-      "internalIds": [ 2231 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1980,7 +1949,7 @@
     "uniqueEntryId": "53qtm8cMH4RfqJiAH",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02276",
+      "id": 2276,
       "version": "1.0.0",
       "english": "giant trevally",
       "englishEurope": "giant trevally",
@@ -1996,8 +1965,7 @@
       "japanese": "ロウニンアジ",
       "korean": "무명갈전갱이",
       "russian": "гигантский каранкс",
-      "plural": false,
-      "internalIds": [ 2276 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2045,7 +2013,7 @@
     "uniqueEntryId": "wwGzR7FzWNJ7cDz9X",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04193",
+      "id": 4193,
       "version": "1.0.0",
       "english": "golden trout",
       "englishEurope": "golden trout",
@@ -2061,8 +2029,7 @@
       "japanese": "ゴールデントラウト",
       "korean": "금송어",
       "russian": "золотая форель",
-      "plural": false,
-      "internalIds": [ 4193 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2110,7 +2077,7 @@
     "uniqueEntryId": "5NwmwhEQxBNZCPiBR",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_00329",
+      "id": 329,
       "version": "1.0.0",
       "english": "goldfish",
       "englishEurope": "goldfish",
@@ -2126,8 +2093,7 @@
       "japanese": "キンギョ",
       "korean": "금붕어",
       "russian": "золотая рыбка",
-      "plural": false,
-      "internalIds": [ 329 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2175,7 +2141,7 @@
     "uniqueEntryId": "EPypAeJGuTDGFJRnx",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02280",
+      "id": 2280,
       "version": "1.0.0",
       "english": "great white shark",
       "englishEurope": "great white shark",
@@ -2191,8 +2157,7 @@
       "japanese": "サメ",
       "korean": "상어",
       "russian": "большая белая акула",
-      "plural": false,
-      "internalIds": [ 2280 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2240,7 +2205,7 @@
     "uniqueEntryId": "WtdZnARNxnWRobej2",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02245",
+      "id": 2245,
       "version": "1.0.0",
       "english": "guppy",
       "englishEurope": "guppy",
@@ -2256,8 +2221,7 @@
       "japanese": "グッピー",
       "korean": "구피",
       "russian": "гуппи",
-      "plural": false,
-      "internalIds": [ 2245 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2305,7 +2269,7 @@
     "uniqueEntryId": "guHT5g6H7tJEyqYzf",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02279",
+      "id": 2279,
       "version": "1.0.0",
       "english": "hammerhead shark",
       "englishEurope": "hammerhead shark",
@@ -2321,8 +2285,7 @@
       "japanese": "シュモクザメ",
       "korean": "귀상어",
       "russian": "рыба-молот",
-      "plural": false,
-      "internalIds": [ 2279 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2370,7 +2333,7 @@
     "uniqueEntryId": "L24RYPaEcm9ZXkTui",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02264",
+      "id": 2264,
       "version": "1.0.0",
       "english": "horse mackerel",
       "englishEurope": "horse mackerel",
@@ -2386,8 +2349,7 @@
       "japanese": "アジ",
       "korean": "전갱이",
       "russian": "ставрида",
-      "plural": false,
-      "internalIds": [ 2264 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2435,7 +2397,7 @@
     "uniqueEntryId": "ZR9dsEApEXCjtXu3k",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02222",
+      "id": 2222,
       "version": "1.0.0",
       "english": "killifish",
       "englishEurope": "killifish",
@@ -2451,8 +2413,7 @@
       "japanese": "メダカ",
       "korean": "송사리",
       "russian": "оризия",
-      "plural": false,
-      "internalIds": [ 2222 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2500,7 +2461,7 @@
     "uniqueEntryId": "Pf5cXKo8pzdB45rAA",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02243",
+      "id": 2243,
       "version": "1.0.0",
       "english": "king salmon",
       "englishEurope": "king salmon",
@@ -2516,8 +2477,7 @@
       "japanese": "キングサーモン",
       "korean": "왕연어",
       "russian": "чавыча",
-      "plural": false,
-      "internalIds": [ 2243 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2565,7 +2525,7 @@
     "uniqueEntryId": "kNwjLeqjg8bFevfiG",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02220",
+      "id": 2220,
       "version": "1.0.0",
       "english": "koi",
       "englishEurope": "koi",
@@ -2581,8 +2541,7 @@
       "japanese": "ニシキゴイ",
       "korean": "비단잉어",
       "russian": "карп кои",
-      "plural": false,
-      "internalIds": [ 2220 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2631,7 +2590,7 @@
     "uniqueEntryId": "95yBKrQ4tdyWj4H25",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02228",
+      "id": 2228,
       "version": "1.0.0",
       "english": "loach",
       "englishEurope": "loach",
@@ -2647,8 +2606,7 @@
       "japanese": "ドジョウ",
       "korean": "미꾸라지",
       "russian": "вьюн",
-      "plural": false,
-      "internalIds": [ 2228 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2696,7 +2654,7 @@
     "uniqueEntryId": "D7gY39QDo8BBNs2Ne",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04202",
+      "id": 4202,
       "version": "1.0.0",
       "english": "mahi-mahi",
       "englishEurope": "mahi-mahi",
@@ -2712,8 +2670,7 @@
       "japanese": "シイラ",
       "korean": "만새기",
       "russian": "корифена",
-      "plural": false,
-      "internalIds": [ 4202 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2761,7 +2718,7 @@
     "uniqueEntryId": "s2jqSYbMWBX6qCLDm",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02244",
+      "id": 2244,
       "version": "1.0.0",
       "english": "mitten crab",
       "englishEurope": "mitten crab",
@@ -2777,8 +2734,7 @@
       "japanese": "シャンハイガニ",
       "korean": "참게",
       "russian": "мохнорукий краб",
-      "plural": false,
-      "internalIds": [ 2244 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2826,7 +2782,7 @@
     "uniqueEntryId": "4nLynLTMRtoqcCfh4",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02271",
+      "id": 2271,
       "version": "1.0.0",
       "english": "moray eel",
       "englishEurope": "moray eel",
@@ -2842,8 +2798,7 @@
       "japanese": "ウツボ",
       "korean": "곰치",
       "russian": "мурена",
-      "plural": false,
-      "internalIds": [ 2271 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2891,7 +2846,7 @@
     "uniqueEntryId": "aEyRb96wcz9m8yjFN",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02248",
+      "id": 2248,
       "version": "1.0.0",
       "english": "neon tetra",
       "englishEurope": "neon tetra",
@@ -2907,8 +2862,7 @@
       "japanese": "ネオンテトラ",
       "korean": "네온테트라",
       "russian": "голубой неон",
-      "plural": false,
-      "internalIds": [ 2248 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2956,7 +2910,7 @@
     "uniqueEntryId": "pkPKYsMiXsTWNz4L4",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02246",
+      "id": 2246,
       "version": "1.0.0",
       "english": "nibble fish",
       "englishEurope": "nibble fish",
@@ -2972,8 +2926,7 @@
       "japanese": "ドクターフィッシュ",
       "korean": "닥터피시",
       "russian": "рыба-доктор",
-      "plural": false,
-      "internalIds": [ 2246 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3021,7 +2974,7 @@
     "uniqueEntryId": "qgvEPGk759xaBqwXP",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02283",
+      "id": 2283,
       "version": "1.0.0",
       "english": "oarfish",
       "englishEurope": "oarfish",
@@ -3037,8 +2990,7 @@
       "japanese": "リュウグウノツカイ",
       "korean": "산갈치",
       "russian": "сельдяной король",
-      "plural": false,
-      "internalIds": [ 2283 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3086,7 +3038,7 @@
     "uniqueEntryId": "6BwK6LHbjFAKzgE82",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02278",
+      "id": 2278,
       "version": "1.0.0",
       "english": "ocean sunfish",
       "englishEurope": "ocean sunfish",
@@ -3102,8 +3054,7 @@
       "japanese": "マンボウ",
       "korean": "개복치",
       "russian": "луна-рыба",
-      "plural": false,
-      "internalIds": [ 2278 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3151,7 +3102,7 @@
     "uniqueEntryId": "TXSteKMHuQ9ZfqPXm",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02269",
+      "id": 2269,
       "version": "1.0.0",
       "english": "olive flounder",
       "englishEurope": "olive flounder",
@@ -3167,8 +3118,7 @@
       "japanese": "ヒラメ",
       "korean": "넙치",
       "russian": "ложный палтус",
-      "plural": false,
-      "internalIds": [ 2269 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3216,7 +3166,7 @@
     "uniqueEntryId": "pCn9TLap3rWiLYfnF",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02216",
+      "id": 2216,
       "version": "1.0.0",
       "english": "pale chub",
       "englishEurope": "pale chub",
@@ -3232,8 +3182,7 @@
       "japanese": "オイカワ",
       "korean": "피라미",
       "russian": "светлый закко",
-      "plural": false,
-      "internalIds": [ 2216 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3281,7 +3230,7 @@
     "uniqueEntryId": "XxrB6iKQPhBkYKaXD",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02235",
+      "id": 2235,
       "version": "1.0.0",
       "english": "pike",
       "englishEurope": "pike",
@@ -3297,8 +3246,7 @@
       "japanese": "パイク",
       "korean": "강꼬치고기",
       "russian": "щука",
-      "plural": false,
-      "internalIds": [ 2235 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3346,7 +3294,7 @@
     "uniqueEntryId": "5C59HAFxmwNSjH4Zq",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02249",
+      "id": 2249,
       "version": "1.0.0",
       "english": "piranha",
       "englishEurope": "piranha",
@@ -3362,8 +3310,7 @@
       "japanese": "ピラニア",
       "korean": "피라니아",
       "russian": "пиранья",
-      "plural": false,
-      "internalIds": [ 2249 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3411,7 +3358,7 @@
     "uniqueEntryId": "DDb2GPEjapPmbYbWG",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02236",
+      "id": 2236,
       "version": "1.0.0",
       "english": "pond smelt",
       "englishEurope": "pond smelt",
@@ -3427,8 +3374,7 @@
       "japanese": "ワカサギ",
       "korean": "빙어",
       "russian": "малая корюшка",
-      "plural": false,
-      "internalIds": [ 2236 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3476,7 +3422,7 @@
     "uniqueEntryId": "RvqzuA438gGqRJ7NG",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02221",
+      "id": 2221,
       "version": "1.0.0",
       "english": "pop-eyed goldfish",
       "englishEurope": "pop-eyed goldfish",
@@ -3492,8 +3438,7 @@
       "japanese": "デメキン",
       "korean": "툭눈금붕어",
       "russian": "телескоп",
-      "plural": false,
-      "internalIds": [ 2221 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3541,7 +3486,7 @@
     "uniqueEntryId": "jNkgaybfSsv8MkaQ2",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02263",
+      "id": 2263,
       "version": "1.0.0",
       "english": "puffer fish",
       "englishEurope": "puffer fish",
@@ -3557,8 +3502,7 @@
       "japanese": "ハリセンボン",
       "korean": "가시복",
       "russian": "еж-рыба",
-      "plural": false,
-      "internalIds": [ 2263 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3606,7 +3550,7 @@
     "uniqueEntryId": "XJfkdS4C2MPYiscST",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04194",
+      "id": 4194,
       "version": "1.0.0",
       "english": "rainbowfish",
       "englishEurope": "rainbowfish",
@@ -3622,8 +3566,7 @@
       "japanese": "レインボーフィッシュ",
       "korean": "레인보우피시",
       "russian": "радужница",
-      "plural": false,
-      "internalIds": [ 4194 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3671,7 +3614,7 @@
     "uniqueEntryId": "4NE2SteWKEaBYjgWb",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_05254",
+      "id": 5254,
       "version": "1.0.0",
       "english": "ranchu goldfish",
       "englishEurope": "ranchu goldfish",
@@ -3687,8 +3630,7 @@
       "japanese": "ランチュウ",
       "korean": "난주",
       "russian": "ранчу",
-      "plural": false,
-      "internalIds": [ 5254 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3736,7 +3678,7 @@
     "uniqueEntryId": "gP5F7wWFvFqiZzuGw",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02277",
+      "id": 2277,
       "version": "1.0.0",
       "english": "ray",
       "englishEurope": "ray",
@@ -3752,8 +3694,7 @@
       "japanese": "エイ",
       "korean": "가오리",
       "russian": "красный хвостокол",
-      "plural": false,
-      "internalIds": [ 2277 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3801,7 +3742,7 @@
     "uniqueEntryId": "iY4zfgojAfLskW4CQ",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02267",
+      "id": 2267,
       "version": "1.0.0",
       "english": "red snapper",
       "englishEurope": "red snapper",
@@ -3817,8 +3758,7 @@
       "japanese": "タイ",
       "korean": "도미",
       "russian": "красный луциан",
-      "plural": false,
-      "internalIds": [ 2267 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3866,7 +3806,7 @@
     "uniqueEntryId": "T9zeSBHpB5qyAZTxu",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02272",
+      "id": 2272,
       "version": "1.0.0",
       "english": "ribbon eel",
       "englishEurope": "ribbon eel",
@@ -3882,8 +3822,7 @@
       "japanese": "ハナヒゲウツボ",
       "korean": "리본장어",
       "russian": "носатая мурена",
-      "plural": false,
-      "internalIds": [ 2272 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3931,7 +3870,7 @@
     "uniqueEntryId": "bcTmnwZxrw2iJsQmf",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02254",
+      "id": 2254,
       "version": "1.0.0",
       "english": "saddled bichir",
       "englishEurope": "saddled bichir",
@@ -3947,8 +3886,7 @@
       "japanese": "エンドリケリー",
       "korean": "엔드리케리",
       "russian": "многопер Эндлихера",
-      "plural": false,
-      "internalIds": [ 2254 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3996,7 +3934,7 @@
     "uniqueEntryId": "iwXhnZcSezNxqdNQf",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02242",
+      "id": 2242,
       "version": "1.0.0",
       "english": "salmon",
       "englishEurope": "salmon",
@@ -4012,8 +3950,7 @@
       "japanese": "サケ",
       "korean": "연어",
       "russian": "лосось",
-      "plural": false,
-      "internalIds": [ 2242 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4061,7 +3998,7 @@
     "uniqueEntryId": "tsrT7a8cbtwZrmJTz",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02281",
+      "id": 2281,
       "version": "1.0.0",
       "english": "saw shark",
       "englishEurope": "saw shark",
@@ -4077,8 +4014,7 @@
       "japanese": "ノコギリザメ",
       "korean": "톱상어",
       "russian": "акула-пилонос",
-      "plural": false,
-      "internalIds": [ 2281 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4126,7 +4062,7 @@
     "uniqueEntryId": "LkA5hzibm6uiHDB9g",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02266",
+      "id": 2266,
       "version": "1.0.0",
       "english": "sea bass",
       "englishEurope": "sea bass",
@@ -4142,8 +4078,7 @@
       "japanese": "スズキ",
       "korean": "농어",
       "russian": "морской судак",
-      "plural": false,
-      "internalIds": [ 2266 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4191,7 +4126,7 @@
     "uniqueEntryId": "kd5beizyQGeyjeM79",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02255",
+      "id": 2255,
       "version": "1.0.0",
       "english": "sea butterfly",
       "englishEurope": "sea butterfly",
@@ -4207,8 +4142,7 @@
       "japanese": "クリオネ",
       "korean": "클리오네",
       "russian": "морской ангел",
-      "plural": false,
-      "internalIds": [ 2255 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4256,7 +4190,7 @@
     "uniqueEntryId": "Pw5oZqC29NWEGRfyS",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02256",
+      "id": 2256,
       "version": "1.0.0",
       "english": "sea horse",
       "englishEurope": "sea horse",
@@ -4272,8 +4206,7 @@
       "japanese": "タツノオトシゴ",
       "korean": "해마",
       "russian": "морской конек",
-      "plural": false,
-      "internalIds": [ 2256 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4321,7 +4254,7 @@
     "uniqueEntryId": "SJa3LLde3Yuz4H3D7",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04192",
+      "id": 4192,
       "version": "1.0.0",
       "english": "snapping turtle",
       "englishEurope": "snapping turtle",
@@ -4337,8 +4270,7 @@
       "japanese": "カミツキガメ",
       "korean": "늑대거북",
       "russian": "каймановая черепаха",
-      "plural": false,
-      "internalIds": [ 4192 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4389,7 +4321,7 @@
     "uniqueEntryId": "izuY2f4GtEGT3BtuR",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02224",
+      "id": 2224,
       "version": "1.0.0",
       "english": "soft-shelled turtle",
       "englishEurope": "soft-shelled turtle",
@@ -4405,8 +4337,7 @@
       "japanese": "スッポン",
       "korean": "자라",
       "russian": "трионикс",
-      "plural": false,
-      "internalIds": [ 2224 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4458,7 +4389,7 @@
     "uniqueEntryId": "qxHJ6BGgyQujkC28w",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02270",
+      "id": 2270,
       "version": "1.0.0",
       "english": "squid",
       "englishEurope": "squid",
@@ -4474,8 +4405,7 @@
       "japanese": "イカ",
       "korean": "오징어",
       "russian": "кальмар",
-      "plural": false,
-      "internalIds": [ 2270 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4523,7 +4453,7 @@
     "uniqueEntryId": "APXg8kSzjcmoGGWSP",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02241",
+      "id": 2241,
       "version": "1.0.0",
       "english": "stringfish",
       "englishEurope": "stringfish",
@@ -4539,8 +4469,7 @@
       "japanese": "イトウ",
       "korean": "일본연어",
       "russian": "таймень",
-      "plural": false,
-      "internalIds": [ 2241 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4588,7 +4517,7 @@
     "uniqueEntryId": "XabKYtzYDNSNrFvpw",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04189",
+      "id": 4189,
       "version": "1.0.0",
       "english": "sturgeon",
       "englishEurope": "sturgeon",
@@ -4604,8 +4533,7 @@
       "japanese": "チョウザメ",
       "korean": "철갑상어",
       "russian": "осетр",
-      "plural": false,
-      "internalIds": [ 4189 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4653,7 +4581,7 @@
     "uniqueEntryId": "FPpwmMDn9rYAJazyS",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04203",
+      "id": 4203,
       "version": "1.0.0",
       "english": "suckerfish",
       "englishEurope": "suckerfish",
@@ -4669,8 +4597,7 @@
       "japanese": "コバンザメ",
       "korean": "빨판상어",
       "russian": "прилипала",
-      "plural": false,
-      "internalIds": [ 4203 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4718,7 +4645,7 @@
     "uniqueEntryId": "s7iioofF5C7PzCZyF",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02258",
+      "id": 2258,
       "version": "1.0.0",
       "english": "surgeonfish",
       "englishEurope": "surgeonfish",
@@ -4734,8 +4661,7 @@
       "japanese": "ナンヨウハギ",
       "korean": "블루탱",
       "russian": "флаговый хирург",
-      "plural": false,
-      "internalIds": [ 2258 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4783,7 +4709,7 @@
     "uniqueEntryId": "dWgg2bjCicuiZjXW6",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02237",
+      "id": 2237,
       "version": "1.0.0",
       "english": "sweetfish",
       "englishEurope": "sweetfish",
@@ -4799,8 +4725,7 @@
       "japanese": "アユ",
       "korean": "은어",
       "russian": "айю",
-      "plural": false,
-      "internalIds": [ 2237 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4848,7 +4773,7 @@
     "uniqueEntryId": "rb8MsjWopKYWuQK8s",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02225",
+      "id": 2225,
       "version": "1.0.0",
       "english": "tadpole",
       "englishEurope": "tadpole",
@@ -4864,8 +4789,7 @@
       "japanese": "オタマジャクシ",
       "korean": "올챙이",
       "russian": "головастик",
-      "plural": false,
-      "internalIds": [ 2225 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4913,7 +4837,7 @@
     "uniqueEntryId": "as78rnkwY3ahrTkBY",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04190",
+      "id": 4190,
       "version": "1.0.0",
       "english": "tilapia",
       "englishEurope": "tilapia",
@@ -4929,8 +4853,7 @@
       "japanese": "ティラピア",
       "korean": "틸라피아",
       "russian": "тилапия",
-      "plural": false,
-      "internalIds": [ 4190 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4978,7 +4901,7 @@
     "uniqueEntryId": "4PnGXx9DSb866AeCM",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02274",
+      "id": 2274,
       "version": "1.0.0",
       "english": "tuna",
       "englishEurope": "tuna",
@@ -4994,8 +4917,7 @@
       "japanese": "マグロ",
       "korean": "다랑어",
       "russian": "тунец",
-      "plural": false,
-      "internalIds": [ 2274 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5043,7 +4965,7 @@
     "uniqueEntryId": "r3RAtJsXENwnFvQh7",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02282",
+      "id": 2282,
       "version": "1.0.0",
       "english": "whale shark",
       "englishEurope": "whale shark",
@@ -5059,8 +4981,7 @@
       "japanese": "ジンベエザメ",
       "korean": "고래상어",
       "russian": "китовая акула",
-      "plural": false,
-      "internalIds": [ 2282 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5108,7 +5029,7 @@
     "uniqueEntryId": "bLgE5dicZniF5zZDW",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02233",
+      "id": 2233,
       "version": "1.0.0",
       "english": "yellow perch",
       "englishEurope": "yellow perch",
@@ -5124,8 +5045,7 @@
       "japanese": "イエローパーチ",
       "korean": "옐로우퍼치",
       "russian": "желтый окунь",
-      "plural": false,
-      "internalIds": [ 2233 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5173,7 +5093,7 @@
     "uniqueEntryId": "h7fa7Fh3Ay7vAxgE2",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02261",
+      "id": 2261,
       "version": "1.0.0",
       "english": "zebra turkeyfish",
       "englishEurope": "zebra turkeyfish",
@@ -5189,8 +5109,7 @@
       "japanese": "ミノカサゴ",
       "korean": "쏠배감펭",
       "russian": "крылатка",
-      "plural": false,
-      "internalIds": [ 2261 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {

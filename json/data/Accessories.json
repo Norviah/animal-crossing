@@ -4,9 +4,8 @@
     "name": "3D glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 490,
     "sell": 122,
@@ -28,31 +27,29 @@
       "japanese": "3Dめがね",
       "korean": "3D안경",
       "russian": "3D-очки",
-      "plural": false,
-      "internalIds": [ 4463, 11020 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -93,7 +90,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 386
         },
         "colors": [ "White", "Colorful" ]
       },
@@ -129,7 +126,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 386
         },
         "colors": [ "Black", "Colorful" ]
       }
@@ -152,7 +149,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Dodo Airlines" ],
-    "sourceNotes": "Received in mail from DAL after 15 flights",
+    "sourceNotes": [ "Received in mail from DAL after 15 flights" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -161,12 +158,10 @@
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassDalmask0",
     "clothGroupId": 1182,
     "internalId": 12128,
     "uniqueEntryId": "sbkqQrHpJWMEEZLSR",
-    "variantTranslations": null,
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -186,8 +181,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -207,8 +201,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "translations": {
@@ -229,8 +222,7 @@
       "japanese": "ＤＡＬアイマスク",
       "korean": "DAL 안대",
       "russian": "маска для сна DAL",
-      "plural": false,
-      "internalIds": [ 12128 ]
+      "plural": false
     },
     "colors": [ "Blue", "Blue" ],
     "styles": [ "Simple", "Cute" ],
@@ -251,7 +243,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Dodo Airlines" ],
-    "sourceNotes": "Received in mail from DAL after 75 flights",
+    "sourceNotes": [ "Received in mail from DAL after 75 flights" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -260,12 +252,10 @@
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassDalglass0",
     "clothGroupId": 1183,
     "internalId": 12129,
     "uniqueEntryId": "zRnkH9B3rYNMLpiTP",
-    "variantTranslations": null,
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -285,8 +275,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -306,8 +295,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "translations": {
@@ -328,8 +316,7 @@
       "japanese": "ＤＡＬサングラス",
       "korean": "DAL 선글라스",
       "russian": "солнечные очки DAL",
-      "plural": false,
-      "internalIds": [ 12129 ]
+      "plural": false
     },
     "colors": [ "Yellow", "Blue" ],
     "styles": [ "Gorgeous", "Simple" ],
@@ -350,7 +337,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -359,12 +346,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassHmdWhite",
     "clothGroupId": 614,
     "internalId": 5182,
     "uniqueEntryId": "Hkcb2b5RCvgcXrHvc",
-    "variantTranslations": null,
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -384,8 +369,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "translations": {
@@ -406,8 +390,7 @@
       "japanese": "HMD",
       "korean": "HMD",
       "russian": "цифровой шлем",
-      "plural": false,
-      "internalIds": [ 5182 ]
+      "plural": false
     },
     "colors": [ "White", "Black" ],
     "styles": [ "Cool", "Cool" ],
@@ -419,9 +402,10 @@
     "name": "Labelle sunglasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
+    "sourceNotes": [
+      "Added to Able Sisters stock rotation the day after receiving this item from Label"
+    ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 2000,
     "sell": 500,
@@ -443,8 +427,7 @@
       "japanese": "ケイトのサングラス",
       "korean": "케이트의 선글라스",
       "russian": "очки «Лэйблеск»",
-      "plural": false,
-      "internalIds": [ 11776, 11777, 11780, 11779, 11778, 9887 ]
+      "plural": false
     },
     "source": [ "Label" ],
     "themesTranslations": {
@@ -466,8 +449,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -487,29 +469,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -529,8 +509,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -550,8 +529,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 351,
@@ -592,7 +570,7 @@
           "korean": "미드나이트",
           "russian": "Полночь",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1137
         },
         "colors": [ "Black", "Black" ]
       },
@@ -628,7 +606,7 @@
           "korean": "바이올렛",
           "russian": "Темперамент",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1137
         },
         "colors": [ "Red", "Red" ]
       },
@@ -664,7 +642,7 @@
           "korean": "러브",
           "russian": "Любовь",
           "plural": false,
-          "internalIds": [ null ]
+          "clothGroup": 1137
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -700,7 +678,7 @@
           "korean": "선셋",
           "russian": "Закат",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1137
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -736,7 +714,7 @@
           "korean": "오션",
           "russian": "Океан",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1137
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -772,7 +750,7 @@
           "korean": "트와일라잇",
           "russian": "Сумерки",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1137
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -804,12 +782,10 @@
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassNook0",
     "clothGroupId": 1148,
     "internalId": 9654,
     "uniqueEntryId": "n8j5gx4zjuK7tkYKq",
-    "variantTranslations": null,
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -829,8 +805,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "translations": {
@@ -851,8 +826,7 @@
       "japanese": "たぬきかいはつアイマスク",
       "korean": "Nook Inc. 안대",
       "russian": "маска для сна Nook Inc.",
-      "plural": false,
-      "internalIds": [ 9654 ]
+      "plural": false
     },
     "colors": [ "Green", "White" ],
     "styles": [ "Simple", "Cute" ],
@@ -882,12 +856,10 @@
     "catalog": "Not for sale",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "filename": "AccessoryGlassmouthNook0",
     "clothGroupId": 1300,
     "internalId": 13215,
     "uniqueEntryId": "cg2tZnttCZ9Wj3k9S",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -907,8 +879,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -928,8 +899,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -949,8 +919,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -970,8 +939,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "translations": {
@@ -992,12 +960,126 @@
       "japanese": "たぬきかいはつシュノーケル",
       "korean": "Nook Inc. 스노클",
       "russian": "подводная маска Nook Inc.",
-      "plural": false,
-      "internalIds": [ 13215 ]
+      "plural": false
     },
     "colors": [ "Green", "Black" ],
     "styles": [ "Active", "Active" ],
     "themes": [ "outdoorsy", "sporty", "vacation", "work" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Accessories",
+    "name": "animal nose",
+    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthHalloween0.png",
+    "storageImage": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthHalloween0.png",
+    "variation": null,
+    "diy": false,
+    "buy": 560,
+    "sell": 140,
+    "hhaBasePoints": 231,
+    "size": "1x1",
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Able Sisters" ],
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
+    "seasonalAvailability": "All Year",
+    "mannequinPiece": false,
+    "sortOrder": 1,
+    "type": "AccessoryMouthInvisibleNose",
+    "villagerEquippable": false,
+    "catalog": "For sale",
+    "versionAdded": "1.5.0",
+    "unlocked": true,
+    "filename": "AccessoryMouthHalloween0",
+    "clothGroupId": 1271,
+    "internalId": 13018,
+    "uniqueEntryId": "6RJgfodWEebvmWTN9",
+    "themesTranslations": {
+      "fairy tale": {
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
+        "japanese": "メルヘン",
+        "korean": "메르헨",
+        "russian": "Сказка",
+        "plural": false
+      },
+      "goth": {
+        "sourceSheet": "Fashion Themes",
+        "id": "Horror",
+        "version": "1.0.0",
+        "english": "goth",
+        "englishEurope": "goth",
+        "german": "Horrorkleidung",
+        "spanish": "gótico",
+        "spanishUs": "gótico",
+        "french": "tenue effrayante",
+        "frenchUs": "tenue effrayante",
+        "italian": "horror",
+        "dutch": "griezelthema",
+        "chinese": "恐怖",
+        "chineseTraditional": "恐怖",
+        "japanese": "ホラー",
+        "korean": "호러",
+        "russian": "готический",
+        "plural": false
+      },
+      "party": {
+        "sourceSheet": "HHA Situation",
+        "id": 13,
+        "version": "1.0.0",
+        "english": "party",
+        "englishEurope": "party",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
+        "chinese": "派对",
+        "chineseTraditional": "派對",
+        "japanese": "パーティー",
+        "korean": "파티",
+        "russian": "Вечеринка",
+        "plural": false
+      }
+    },
+    "translations": {
+      "sourceSheet": "Accessories",
+      "id": 1271,
+      "version": "1.5.0",
+      "english": "animal nose",
+      "englishEurope": "animal nose",
+      "german": "Tiernase",
+      "spanish": "nariz de animal",
+      "spanishUs": "nariz de animal",
+      "french": "nez d'animal",
+      "frenchUs": "nez d'animal",
+      "italian": "muso animale",
+      "dutch": "dierensnuit",
+      "chinese": "动物假鼻子",
+      "chineseTraditional": "動物鼻子道具",
+      "japanese": "アニマルなつけばな",
+      "korean": "동물 코",
+      "russian": "звериная мордочка",
+      "plural": false
+    },
+    "colors": [ "Black", "Black" ],
+    "styles": [ "Cute", "Cute" ],
+    "themes": [ "fairy tale", "goth", "party" ],
     "recipe": null
   },
   {
@@ -1014,7 +1096,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": true,
     "sortOrder": 1,
@@ -1023,12 +1105,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBandageSkin",
     "clothGroupId": 503,
     "internalId": 4677,
     "uniqueEntryId": "2qFT5iPkk8bREvpkj",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -1048,8 +1128,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -1069,8 +1148,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -1090,8 +1168,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "translations": {
@@ -1112,8 +1189,7 @@
       "japanese": "ばんそうこう",
       "korean": "반창고",
       "russian": "кусочки пластыря",
-      "plural": false,
-      "internalIds": [ 4677 ]
+      "plural": false
     },
     "colors": [ "Beige", "White" ],
     "styles": [ "Active", "Simple" ],
@@ -1134,7 +1210,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": true,
     "sortOrder": 1,
@@ -1143,54 +1219,51 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeakYellow",
     "clothGroupId": 184,
     "internalId": 3549,
     "uniqueEntryId": "T5CpsJi4xBSachNL5",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -1210,8 +1283,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "translations": {
@@ -1232,8 +1304,7 @@
       "japanese": "くちばし",
       "korean": "부리",
       "russian": "клюв",
-      "plural": false,
-      "internalIds": [ 3549 ]
+      "plural": false
     },
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute", "Cute" ],
@@ -1247,7 +1318,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "Not for sale",
     "buy": -1,
     "sell": 620,
@@ -1269,31 +1339,29 @@
       "japanese": "バースデーサングラス",
       "korean": "생일 선글라스",
       "russian": "именинные очки",
-      "plural": false,
-      "internalIds": [ 11218, 11217, 4510, 11219 ]
+      "plural": false
     },
     "source": [ "Birthday" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 573,
@@ -1334,7 +1402,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 415
         },
         "colors": [ "Red", "Pink" ]
       },
@@ -1370,7 +1438,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 415
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -1406,7 +1474,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 415
         },
         "colors": [ "Yellow", "Red" ]
       },
@@ -1442,7 +1510,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 415
         },
         "colors": [ "Aqua", "Green" ]
       }
@@ -1456,9 +1524,8 @@
     "name": "bottom-rimmed glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1100,
     "sell": 275,
@@ -1480,8 +1547,7 @@
       "japanese": "アンダーリムめがね",
       "korean": "역반무테 안경",
       "russian": "очки-половинки",
-      "plural": false,
-      "internalIds": [ 11086, 4597, 11085, 11084, 11082, 11083, 11081 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -1503,8 +1569,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -1524,8 +1589,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -1545,8 +1609,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -1587,7 +1650,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 463
         },
         "colors": [ "Black", "Black" ]
       },
@@ -1623,7 +1686,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 463
         },
         "colors": [ "Red", "Red" ]
       },
@@ -1659,7 +1722,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 463
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -1695,7 +1758,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 463
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -1731,7 +1794,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 463
         },
         "colors": [ "Green", "Green" ]
       },
@@ -1767,7 +1830,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 463
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -1803,7 +1866,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 463
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -1817,9 +1880,8 @@
     "name": "browline glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1040,
     "sell": 260,
@@ -1841,8 +1903,7 @@
       "japanese": "サーモントめがね",
       "korean": "하금테 안경",
       "russian": "броулайнеры",
-      "plural": false,
-      "internalIds": [ 11071, 4238, 11070, 11069 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -1864,8 +1925,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -1885,8 +1945,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -1927,7 +1986,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 260
         },
         "colors": [ "Gray", "Yellow" ]
       },
@@ -1963,7 +2022,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 260
         },
         "colors": [ "Black", "Yellow" ]
       },
@@ -1999,7 +2058,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 260
         },
         "colors": [ "Green", "Gray" ]
       },
@@ -2035,7 +2094,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 260
         },
         "colors": [ "Brown", "Yellow" ]
       }
@@ -2049,9 +2108,8 @@
     "name": "bubblegum",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 140,
     "sell": 35,
@@ -2073,8 +2131,7 @@
       "japanese": "ふうせんガム",
       "korean": "풍선껌",
       "russian": "жвачка",
-      "plural": false,
-      "internalIds": [ 11030, 5738, 11028, 11029, 11027 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -2096,8 +2153,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -2138,7 +2194,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 856
         },
         "colors": [ "White", "White" ]
       },
@@ -2174,7 +2230,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 856
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -2210,7 +2266,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 856
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -2246,7 +2302,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 856
         },
         "colors": [ "Green", "Green" ]
       },
@@ -2282,7 +2338,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 856
         },
         "colors": [ "Aqua", "Aqua" ]
       }
@@ -2296,9 +2352,8 @@
     "name": "bunny nose",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 560,
     "sell": 140,
@@ -2320,52 +2375,50 @@
       "japanese": "ウサギのつけばな",
       "korean": "토끼 코",
       "russian": "мордочка зайки",
-      "plural": false,
-      "internalIds": [ 11024, 4600, 11023 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -2385,8 +2438,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -2427,7 +2479,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 466
         },
         "colors": [ "White", "Red" ]
       },
@@ -2463,7 +2515,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 466
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -2499,7 +2551,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 466
         },
         "colors": [ "Yellow", "Orange" ]
       }
@@ -2513,9 +2565,8 @@
     "name": "butterfly shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1040,
     "sell": 260,
@@ -2537,8 +2588,7 @@
       "japanese": "バタフライサングラス",
       "korean": "나비 선글라스",
       "russian": "очки-бабочки",
-      "plural": false,
-      "internalIds": [ 4608, 11503, 11504 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -2560,8 +2610,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -2602,7 +2651,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 474
         },
         "colors": [ "Black", "Blue" ]
       },
@@ -2638,7 +2687,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 474
         },
         "colors": [ "Red", "Brown" ]
       },
@@ -2674,7 +2723,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 474
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -2690,7 +2739,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "Not for sale",
     "buy": -1,
     "sell": 800,
@@ -2712,8 +2760,7 @@
       "japanese": "スカルキャンディマスク",
       "korean": "슈가스컬 가면",
       "russian": "маска «Сахарный череп»",
-      "plural": false,
-      "internalIds": [ 11169, 11170, 5666 ]
+      "plural": false
     },
     "source": [ "Gulliver" ],
     "themesTranslations": {
@@ -2735,29 +2782,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -2777,8 +2822,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 451,
@@ -2819,7 +2863,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 819
         },
         "colors": [ "White", "Orange" ]
       },
@@ -2855,7 +2899,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 819
         },
         "colors": [ "White", "Aqua" ]
       },
@@ -2891,7 +2935,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 819
         },
         "colors": [ "White", "Purple" ]
       }
@@ -2905,9 +2949,8 @@
     "name": "cat nose",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 560,
     "sell": 140,
@@ -2929,52 +2972,50 @@
       "japanese": "ネコのつけばな",
       "korean": "고양이 코",
       "russian": "кошачья мордочка",
-      "plural": false,
-      "internalIds": [ 4483, 11022, 11021 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -2994,8 +3035,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -3036,7 +3076,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 397
         },
         "colors": [ "White", "Pink" ]
       },
@@ -3072,7 +3112,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 397
         },
         "colors": [ "Blue", "Black" ]
       },
@@ -3108,7 +3148,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 397
         },
         "colors": [ "Brown", "Beige" ]
       }
@@ -3131,7 +3171,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": true,
     "sortOrder": 1,
@@ -3140,12 +3180,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthCucumber",
     "clothGroupId": 405,
     "internalId": 4491,
     "uniqueEntryId": "MhbCBrYX5fHxZWDuA",
-    "variantTranslations": null,
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -3165,8 +3203,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "translations": {
@@ -3187,8 +3224,7 @@
       "japanese": "きゅうりパック",
       "korean": "오이 팩",
       "russian": "огуречная маска",
-      "plural": false,
-      "internalIds": [ 4491 ]
+      "plural": false
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Simple", "Cute" ],
@@ -3209,7 +3245,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -3218,33 +3254,31 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthRollingmustacheBlack",
     "clothGroupId": 498,
     "internalId": 4672,
     "uniqueEntryId": "9tyCrNPeibcu5NLo8",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -3264,29 +3298,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "translations": {
@@ -3307,8 +3339,7 @@
       "japanese": "まきヒゲ",
       "korean": "꼬부랑 수염",
       "russian": "закрученные усы",
-      "plural": false,
-      "internalIds": [ 4672 ]
+      "plural": false
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Simple", "Gorgeous" ],
@@ -3320,9 +3351,8 @@
     "name": "cyber shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1300,
     "sell": 325,
@@ -3344,31 +3374,29 @@
       "japanese": "サイバーサングラス",
       "korean": "사이버 선글라스",
       "russian": "киберочки",
-      "plural": false,
-      "internalIds": [ 11499, 11498, 4552, 11502, 11501, 11500 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -3388,8 +3416,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -3430,7 +3457,7 @@
           "korean": "실버",
           "russian": "Серебряный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 433
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -3466,7 +3493,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 433
         },
         "colors": [ "Black", "Black" ]
       },
@@ -3502,7 +3529,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 433
         },
         "colors": [ "Red", "Black" ]
       },
@@ -3538,7 +3565,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 433
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -3574,7 +3601,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 433
         },
         "colors": [ "Green", "Black" ]
       },
@@ -3610,7 +3637,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 433
         },
         "colors": [ "Purple", "Black" ]
       }
@@ -3633,7 +3660,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -3642,12 +3669,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthMaskWhite",
     "clothGroupId": 375,
     "internalId": 4451,
     "uniqueEntryId": "vZDsrDRdgrbbiwi8N",
-    "variantTranslations": null,
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -3667,8 +3692,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -3688,8 +3712,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -3709,8 +3732,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "translations": {
@@ -3731,8 +3753,7 @@
       "japanese": "マスク",
       "korean": "마스크",
       "russian": "маска врача",
-      "plural": false,
-      "internalIds": [ 4451 ]
+      "plural": false
     },
     "colors": [ "White", "White" ],
     "styles": [ "Simple", "Simple" ],
@@ -3744,9 +3765,8 @@
     "name": "dog nose",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 560,
     "sell": 140,
@@ -3768,52 +3788,50 @@
       "japanese": "イヌのつけばな",
       "korean": "강아지 코",
       "russian": "собачья мордочка",
-      "plural": false,
-      "internalIds": [ 5244, 11026, 11025 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -3833,8 +3851,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -3875,7 +3892,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 630
         },
         "colors": [ "White", "Black" ]
       },
@@ -3911,7 +3928,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 630
         },
         "colors": [ "Black", "Black" ]
       },
@@ -3947,7 +3964,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 630
         },
         "colors": [ "Orange", "Black" ]
       }
@@ -3961,9 +3978,8 @@
     "name": "double-bridge glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1100,
     "sell": 275,
@@ -3985,8 +4001,7 @@
       "japanese": "ダブルブリッジめがね",
       "korean": "더블 브리지 안경",
       "russian": "очки с двойным мостом",
-      "plural": false,
-      "internalIds": [ 11077, 4263, 11078, 11076 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -4008,8 +4023,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -4029,8 +4043,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -4050,8 +4063,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -4092,7 +4104,7 @@
           "korean": "실버",
           "russian": "Серебряный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 277
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -4128,7 +4140,7 @@
           "korean": "골드",
           "russian": "Золотой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 277
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -4164,7 +4176,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 277
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -4200,7 +4212,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 277
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -4214,9 +4226,8 @@
     "name": "drinking-straw glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 560,
     "sell": 140,
@@ -4238,8 +4249,7 @@
       "japanese": "ストローメガネ",
       "korean": "빨대 안경",
       "russian": "очки из трубочки",
-      "plural": false,
-      "internalIds": [ 11012, 11011, 5773, 11010 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -4261,8 +4271,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -4282,8 +4291,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -4303,8 +4311,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -4326,10 +4333,10 @@
         "internalId": 11012,
         "uniqueEntryId": "bQ67Xe7cQZ4PcXnNe",
         "variantTranslations": {
-          "sourceSheet": "Accessories Variants",
-          "variantId": 11012,
-          "id": 11012,
-          "clothName": "drinking-straw glasses",
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 865,
+          "furnitureName": "birdcage",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -4344,8 +4351,7 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false,
-          "internalIds": []
+          "plural": false
         },
         "colors": [ "White", "White" ]
       },
@@ -4362,10 +4368,10 @@
         "internalId": 11011,
         "uniqueEntryId": "b4G7SFYMTs5YWJ4i5",
         "variantTranslations": {
-          "sourceSheet": "Accessories Variants",
-          "variantId": 11011,
-          "id": 11011,
-          "clothName": "drinking-straw glasses",
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 865,
+          "furnitureName": "birdcage",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -4380,8 +4386,7 @@
           "japanese": "ピンク",
           "korean": "핑크",
           "russian": "Розовый",
-          "plural": false,
-          "internalIds": []
+          "plural": false
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -4417,7 +4422,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 865
         },
         "colors": [ "Green", "Green" ]
       },
@@ -4434,10 +4439,10 @@
         "internalId": 11010,
         "uniqueEntryId": "DNij9RhiMW39MtKWF",
         "variantTranslations": {
-          "sourceSheet": "Accessories Variants",
-          "variantId": 11010,
-          "id": 11010,
-          "clothName": "drinking-straw glasses",
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 865,
+          "furnitureName": "birdcage",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -4452,8 +4457,7 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false,
-          "internalIds": []
+          "plural": false
         },
         "colors": [ "Aqua", "Aqua" ]
       }
@@ -4467,9 +4471,8 @@
     "name": "eye mask",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 560,
     "sell": 140,
@@ -4491,8 +4494,7 @@
       "japanese": "アイマスク",
       "korean": "아이마스크",
       "russian": "маска для сна",
-      "plural": false,
-      "internalIds": [ 11155, 11158, 11154, 11157, 11156, 4425 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -4514,8 +4516,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -4556,7 +4557,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 358
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -4592,7 +4593,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 358
         },
         "colors": [ "Red", "Black" ]
       },
@@ -4628,7 +4629,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 358
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -4664,7 +4665,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 358
         },
         "colors": [ "Orange", "Black" ]
       },
@@ -4700,7 +4701,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 358
         },
         "colors": [ "Green", "Black" ]
       },
@@ -4736,7 +4737,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 358
         },
         "colors": [ "Blue", "Black" ]
       }
@@ -4759,7 +4760,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -4768,33 +4769,31 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassPatchBlack",
     "clothGroupId": 380,
     "internalId": 4457,
     "uniqueEntryId": "iZoTNGb8htGE8JWEw",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -4814,8 +4813,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       }
     },
     "translations": {
@@ -4836,8 +4834,7 @@
       "japanese": "アイパッチ",
       "korean": "검정 안대",
       "russian": "глазная повязка",
-      "plural": false,
-      "internalIds": [ 4457 ]
+      "plural": false
     },
     "colors": [ "Black", "Black" ],
     "styles": [ "Cool", "Cool" ],
@@ -4858,7 +4855,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -4867,12 +4864,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassmouthPackWhite",
     "clothGroupId": 417,
     "internalId": 4512,
     "uniqueEntryId": "KzBY9kLtwTHhHGzR3",
-    "variantTranslations": null,
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -4892,8 +4887,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -4913,8 +4907,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "translations": {
@@ -4935,8 +4928,7 @@
       "japanese": "パック",
       "korean": "팩",
       "russian": "косметическая маска",
-      "plural": false,
-      "internalIds": [ 4512 ]
+      "plural": false
     },
     "colors": [ "White", "White" ],
     "styles": [ "Simple", "Simple" ],
@@ -4957,7 +4949,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -4966,54 +4958,51 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassmouthNoseRed",
     "clothGroupId": 407,
     "internalId": 4496,
     "uniqueEntryId": "chP2wAyDtdSTS3XrF",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -5033,8 +5022,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "translations": {
@@ -5055,8 +5043,7 @@
       "japanese": "つけばな",
       "korean": "가짜 코",
       "russian": "нос клоуна",
-      "plural": false,
-      "internalIds": [ 4496 ]
+      "plural": false
     },
     "colors": [ "Red", "Red" ],
     "styles": [ "Cute", "Cute" ],
@@ -5068,9 +5055,8 @@
     "name": "flower sunglasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 770,
     "sell": 192,
@@ -5092,31 +5078,29 @@
       "japanese": "フラワーサングラス",
       "korean": "플라워 선글라스",
       "russian": "очки-цветы",
-      "plural": false,
-      "internalIds": [ 5739, 11228, 11231, 11229, 11230 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -5136,8 +5120,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -5178,7 +5161,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 857
         },
         "colors": [ "Red", "Black" ]
       },
@@ -5214,7 +5197,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 857
         },
         "colors": [ "Orange", "Black" ]
       },
@@ -5250,7 +5233,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 857
         },
         "colors": [ "Green", "Black" ]
       },
@@ -5286,7 +5269,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 857
         },
         "colors": [ "Blue", "Black" ]
       },
@@ -5322,7 +5305,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 857
         },
         "colors": [ "Purple", "Black" ]
       }
@@ -5345,7 +5328,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -5354,12 +5337,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthPasta",
     "clothGroupId": 904,
     "internalId": 5857,
     "uniqueEntryId": "ErTpS7LHoG7hZ4bvn",
-    "variantTranslations": null,
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -5379,8 +5360,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "translations": {
@@ -5401,8 +5381,7 @@
       "japanese": "たべこぼし",
       "korean": "음식 부스러기",
       "russian": "остатки еды",
-      "plural": false,
-      "internalIds": [ 5857 ]
+      "plural": false
     },
     "colors": [ "Orange", "Beige" ],
     "styles": [ "Simple", "Cute" ],
@@ -5414,9 +5393,8 @@
     "name": "funny glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1100,
     "sell": 275,
@@ -5438,52 +5416,50 @@
       "japanese": "をかしなめがね",
       "korean": "코믹한 안경",
       "russian": "забавные очки",
-      "plural": false,
-      "internalIds": [ 11008, 11009, 4513 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -5503,8 +5479,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -5545,7 +5520,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 418
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -5581,7 +5556,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 418
         },
         "colors": [ "Aqua", "Black" ]
       },
@@ -5617,7 +5592,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 418
         },
         "colors": [ "Brown", "Black" ]
       }
@@ -5631,9 +5606,8 @@
     "name": "gas mask",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1100,
     "sell": 275,
@@ -5655,8 +5629,7 @@
       "japanese": "ガスマスク",
       "korean": "가스 마스크",
       "russian": "противогаз",
-      "plural": false,
-      "internalIds": [ 4649, 11160 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -5678,8 +5651,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -5699,8 +5671,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -5741,7 +5712,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 487
         },
         "colors": [ "Black", "Black" ]
       },
@@ -5777,7 +5748,7 @@
           "korean": "카키",
           "russian": "Защитный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 487
         },
         "colors": [ "Green", "Green" ]
       }
@@ -5800,7 +5771,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -5809,12 +5780,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassBottleBlack",
     "clothGroupId": 286,
     "internalId": 4282,
     "uniqueEntryId": "JFtffcGH7WnPnJKtc",
-    "variantTranslations": null,
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -5834,8 +5803,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -5855,8 +5823,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "translations": {
@@ -5877,8 +5844,7 @@
       "japanese": "ビンぞこめがね",
       "korean": "두꺼운 안경",
       "russian": "очки с толстыми линзами",
-      "plural": false,
-      "internalIds": [ 4282 ]
+      "plural": false
     },
     "colors": [ "Black", "Gray" ],
     "styles": [ "Simple", "Simple" ],
@@ -5899,7 +5865,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": true,
     "sortOrder": 1,
@@ -5908,12 +5874,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeardChinBlack",
     "clothGroupId": 502,
     "internalId": 4676,
     "uniqueEntryId": "W5S7BC9qA4QMCQEFR",
-    "variantTranslations": null,
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -5933,8 +5897,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -5954,8 +5917,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -5975,8 +5937,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "translations": {
@@ -5997,8 +5958,7 @@
       "japanese": "アゴひげ",
       "korean": "턱수염",
       "russian": "козлиная бородка",
-      "plural": false,
-      "internalIds": [ 4676 ]
+      "plural": false
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cool", "Simple" ],
@@ -6010,9 +5970,8 @@
     "name": "goggles",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 560,
     "sell": 140,
@@ -6034,8 +5993,7 @@
       "japanese": "すいえいゴーグル",
       "korean": "물안경",
       "russian": "очки для плавания",
-      "plural": false,
-      "internalIds": [ 4454, 11488, 11485, 11486, 11484, 11487 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -6057,8 +6015,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -6078,8 +6035,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -6099,8 +6055,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -6141,7 +6096,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 378
         },
         "colors": [ "Black", "Black" ]
       },
@@ -6177,7 +6132,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 378
         },
         "colors": [ "Red", "Red" ]
       },
@@ -6213,7 +6168,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 378
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -6249,7 +6204,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 378
         },
         "colors": [ "Green", "Green" ]
       },
@@ -6285,7 +6240,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 378
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -6321,7 +6276,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 378
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -6344,7 +6299,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": true,
     "sortOrder": 1,
@@ -6353,33 +6308,31 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeardBlack",
     "clothGroupId": 185,
     "internalId": 3550,
     "uniqueEntryId": "HJfvmuhPDFMN8eRB2",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -6399,8 +6352,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -6420,8 +6372,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "translations": {
@@ -6442,8 +6393,7 @@
       "japanese": "カイゼルひげ",
       "korean": "콧수염",
       "russian": "большие усы",
-      "plural": false,
-      "internalIds": [ 3550 ]
+      "plural": false
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Elegant", "Gorgeous" ],
@@ -6455,9 +6405,8 @@
     "name": "heart shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1040,
     "sell": 260,
@@ -6479,31 +6428,29 @@
       "japanese": "ハートのサングラス",
       "korean": "하트 선글라스",
       "russian": "очки-сердечки",
-      "plural": false,
-      "internalIds": [ 4237, 11188, 11191, 11189, 11190 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -6523,8 +6470,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -6565,7 +6511,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 259
         },
         "colors": [ "Pink", "Blue" ]
       },
@@ -6601,7 +6547,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 259
         },
         "colors": [ "Yellow", "Blue" ]
       },
@@ -6637,7 +6583,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 259
         },
         "colors": [ "Green", "Blue" ]
       },
@@ -6673,7 +6619,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 259
         },
         "colors": [ "Aqua", "Blue" ]
       },
@@ -6709,7 +6655,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 259
         },
         "colors": [ "Purple", "Blue" ]
       }
@@ -6723,9 +6669,8 @@
     "name": "jester's mask",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1760,
     "sell": 440,
@@ -6747,31 +6692,30 @@
       "japanese": "ピエロのかめん",
       "korean": "피에로 가면",
       "russian": "маска шута",
-      "plural": false,
-      "internalIds": [ 4678, 11166, 11167, 11168 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -6791,29 +6735,27 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -6833,8 +6775,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -6854,8 +6795,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -6896,7 +6836,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 504
         },
         "colors": [ "Black", "White" ]
       },
@@ -6932,7 +6872,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 504
         },
         "colors": [ "Red", "White" ]
       },
@@ -6968,7 +6908,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 504
         },
         "colors": [ "Green", "White" ]
       },
@@ -7004,7 +6944,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 504
         },
         "colors": [ "Blue", "White" ]
       }
@@ -7018,9 +6958,8 @@
     "name": "ladder shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 880,
     "sell": 220,
@@ -7042,31 +6981,29 @@
       "japanese": "ブラインドサングラス",
       "korean": "블라인드 선글라스",
       "russian": "очки-решетки",
-      "plural": false,
-      "internalIds": [ 4464, 11004, 11005, 11003, 11002, 11006 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -7086,8 +7023,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -7128,7 +7064,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 387
         },
         "colors": [ "Red", "Red" ]
       },
@@ -7164,7 +7100,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 387
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -7200,7 +7136,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 387
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -7236,7 +7172,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 387
         },
         "colors": [ "Green", "Green" ]
       },
@@ -7272,7 +7208,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 387
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -7308,7 +7244,7 @@
           "korean": "골드",
           "russian": "Золотой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 387
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -7340,12 +7276,10 @@
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthLeafGreen",
     "clothGroupId": 508,
     "internalId": 4682,
     "uniqueEntryId": "XrpTjwp94FwmvXjmE",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -7365,8 +7299,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -7386,8 +7319,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -7407,8 +7339,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "translations": {
@@ -7429,8 +7360,7 @@
       "japanese": "はっぱ",
       "korean": "나뭇잎",
       "russian": "листик",
-      "plural": false,
-      "internalIds": [ 4682 ]
+      "plural": false
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Simple", "Simple" ],
@@ -7448,7 +7378,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 4682,
@@ -7475,14 +7404,13 @@
         "japanese": "はっぱ",
         "korean": "나뭇잎",
         "russian": "листик",
-        "plural": false,
-        "internalIds": [ 4682 ]
+        "plural": false
       },
       "materials": { "clump of weeds": 5 },
       "materialsTranslations": {
         "clump of weeds": {
           "sourceSheet": "Plants",
-          "id": "Weed_02624",
+          "id": 2624,
           "version": "1.0.0",
           "english": "clump of weeds",
           "englishEurope": "clump of weeds",
@@ -7498,8 +7426,7 @@
           "japanese": "ざっそう",
           "korean": "잡초",
           "russian": "сорняк",
-          "plural": false,
-          "internalIds": [ 2624 ]
+          "plural": false
         }
       }
     }
@@ -7509,9 +7436,8 @@
     "name": "masquerade mask",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 910,
     "sell": 227,
@@ -7533,52 +7459,50 @@
       "japanese": "ベネチアンマスク",
       "korean": "베네치안 마스크",
       "russian": "маскарадная маска",
-      "plural": false,
-      "internalIds": [ 11161, 11163, 4667, 11165, 11164, 11162 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -7598,8 +7522,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -7640,7 +7563,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 494
         },
         "colors": [ "Black", "Yellow" ]
       },
@@ -7676,7 +7599,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 494
         },
         "colors": [ "Red", "Yellow" ]
       },
@@ -7712,7 +7635,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 494
         },
         "colors": [ "Pink", "Yellow" ]
       },
@@ -7748,7 +7671,7 @@
           "korean": "골드",
           "russian": "Золотой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 494
         },
         "colors": [ "Orange", "Yellow" ]
       },
@@ -7784,7 +7707,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 494
         },
         "colors": [ "Green", "Yellow" ]
       },
@@ -7820,7 +7743,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 494
         },
         "colors": [ "Blue", "Yellow" ]
       }
@@ -7834,9 +7757,8 @@
     "name": "monocle",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1100,
     "sell": 275,
@@ -7858,31 +7780,30 @@
       "japanese": "モノクル",
       "korean": "모노클",
       "russian": "монокль",
-      "plural": false,
-      "internalIds": [ 11001, 4462, 11000 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -7902,8 +7823,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -7923,8 +7843,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -7965,7 +7884,7 @@
           "korean": "실버",
           "russian": "Серебряный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 385
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -8001,7 +7920,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 385
         },
         "colors": [ "Black", "Black" ]
       },
@@ -8037,7 +7956,7 @@
           "korean": "골드",
           "russian": "Золотой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 385
         },
         "colors": [ "Yellow", "Yellow" ]
       }
@@ -8060,7 +7979,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -8069,12 +7988,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassNightvisionBlack",
     "clothGroupId": 615,
     "internalId": 5261,
     "uniqueEntryId": "sMdtidR3zypRsgSCW",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -8094,8 +8011,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       }
     },
     "translations": {
@@ -8116,8 +8032,7 @@
       "japanese": "ナイトビジョン",
       "korean": "나이트 비전 고글",
       "russian": "очки ночного видения",
-      "plural": false,
-      "internalIds": [ 5261 ]
+      "plural": false
     },
     "colors": [ "Black", "Green" ],
     "styles": [ "Active", "Cool" ],
@@ -8138,7 +8053,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -8147,12 +8062,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthJokeDripCyan",
     "clothGroupId": 899,
     "internalId": 5833,
     "uniqueEntryId": "9YbFJqBD3hmQkW4Gq",
-    "variantTranslations": null,
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -8172,8 +8085,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "translations": {
@@ -8194,8 +8106,7 @@
       "japanese": "はなみず",
       "korean": "콧물",
       "russian": "сопля",
-      "plural": false,
-      "internalIds": [ 5833 ]
+      "plural": false
     },
     "colors": [ "Aqua", "Aqua" ],
     "styles": [ "Simple", "Simple" ],
@@ -8207,9 +8118,8 @@
     "name": "octagonal glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1100,
     "sell": 275,
@@ -8231,8 +8141,7 @@
       "japanese": "オクタゴンめがね",
       "korean": "팔각 안경",
       "russian": "восьмиугольные очки",
-      "plural": false,
-      "internalIds": [ 4239, 11075, 11072, 11073, 11074 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -8254,8 +8163,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -8275,8 +8183,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -8296,8 +8203,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -8338,7 +8244,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 261
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -8374,7 +8280,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 261
         },
         "colors": [ "Black", "Black" ]
       },
@@ -8410,7 +8316,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 261
         },
         "colors": [ "Green", "Green" ]
       },
@@ -8446,7 +8352,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 261
         },
         "colors": [ "Purple", "Purple" ]
       },
@@ -8482,7 +8388,7 @@
           "korean": "골드",
           "russian": "Золотой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 261
         },
         "colors": [ "Beige", "Beige" ]
       }
@@ -8496,9 +8402,8 @@
     "name": "oval glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 880,
     "sell": 220,
@@ -8520,8 +8425,7 @@
       "japanese": "オーバルめがね",
       "korean": "타원 안경",
       "russian": "овальные очки",
-      "plural": false,
-      "internalIds": [ 11092, 11090, 11087, 11091, 4609, 11088, 11089 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -8543,8 +8447,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -8564,8 +8467,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -8606,7 +8508,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 475
         },
         "colors": [ "Black", "Black" ]
       },
@@ -8642,7 +8544,7 @@
           "korean": "마젠타",
           "russian": "Малиновый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 475
         },
         "colors": [ "Red", "Red" ]
       },
@@ -8678,7 +8580,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 475
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -8714,7 +8616,7 @@
           "korean": "머스터드",
           "russian": "Горчичный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 475
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -8750,7 +8652,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 475
         },
         "colors": [ "Green", "Green" ]
       },
@@ -8786,7 +8688,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 475
         },
         "colors": [ "Aqua", "Aqua" ]
       },
@@ -8822,7 +8724,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 475
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -8836,9 +8738,8 @@
     "name": "pacifier",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 560,
     "sell": 140,
@@ -8860,8 +8761,7 @@
       "japanese": "おしゃぶり",
       "korean": "노리개젖꼭지",
       "russian": "соска-пустышка",
-      "plural": false,
-      "internalIds": [ 11017, 11016, 2298, 11019, 11014, 11015, 11013, 11018 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -8883,8 +8783,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -8925,7 +8824,7 @@
           "korean": "베이비 그레이",
           "russian": "Нежно-серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1055
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -8961,7 +8860,7 @@
           "korean": "베이비 핑크",
           "russian": "Нежно-розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1055
         },
         "colors": [ "Red", "Red" ]
       },
@@ -8997,7 +8896,7 @@
           "korean": "베이비 퍼플",
           "russian": "Нежно-фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1055
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -9033,7 +8932,7 @@
           "korean": "베이비 오렌지",
           "russian": "Нежно-оранжевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1055
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -9069,7 +8968,7 @@
           "korean": "베이비 옐로",
           "russian": "Нежно-желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1055
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -9105,7 +9004,7 @@
           "korean": "베이비 그린",
           "russian": "Нежно-зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1055
         },
         "colors": [ "Green", "Green" ]
       },
@@ -9141,7 +9040,7 @@
           "korean": "베이비 민트",
           "russian": "Нежно-мятный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1055
         },
         "colors": [ "Aqua", "Aqua" ]
       },
@@ -9177,7 +9076,7 @@
           "korean": "베이비 블루",
           "russian": "Нежно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1055
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -9200,7 +9099,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -9209,54 +9108,51 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthPigPink",
     "clothGroupId": 485,
     "internalId": 4647,
     "uniqueEntryId": "H2JSW7YDoTdLr6GTK",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -9276,8 +9172,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "translations": {
@@ -9298,8 +9193,7 @@
       "japanese": "ブタのつけばな",
       "korean": "돼지 코",
       "russian": "свиной пятачок",
-      "plural": false,
-      "internalIds": [ 4647 ]
+      "plural": false
     },
     "colors": [ "Pink", "Pink" ],
     "styles": [ "Cute", "Cute" ],
@@ -9311,9 +9205,8 @@
     "name": "pilot shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1300,
     "sell": 325,
@@ -9335,8 +9228,7 @@
       "japanese": "パイロットサングラス",
       "korean": "파일럿 선글라스",
       "russian": "авиаторы",
-      "plural": false,
-      "internalIds": [ 4459, 11214 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -9358,8 +9250,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -9379,8 +9270,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -9421,7 +9311,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 382
         },
         "colors": [ "Black", "Brown" ]
       },
@@ -9457,7 +9347,7 @@
           "korean": "골드",
           "russian": "Золотой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 382
         },
         "colors": [ "Yellow", "Black" ]
       }
@@ -9489,33 +9379,31 @@
     "catalog": "Not for sale",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "filename": "AccessoryMouthPirates0",
     "clothGroupId": 1226,
     "internalId": 12663,
     "uniqueEntryId": "isFLrwBtByekpKuLB",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -9535,8 +9423,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -9556,8 +9443,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "translations": {
@@ -9578,8 +9464,7 @@
       "japanese": "かいぞくのひげ",
       "korean": "해적 수염",
       "russian": "пиратская борода",
-      "plural": false,
-      "internalIds": [ 12663 ]
+      "plural": false
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cool", "Gorgeous" ],
@@ -9609,33 +9494,31 @@
     "catalog": "Not for sale",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "filename": "AccessoryGlassPiratespatch0",
     "clothGroupId": 1225,
     "internalId": 12662,
     "uniqueEntryId": "pm3izhYzmdHRwnoWR",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -9655,8 +9538,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -9676,8 +9558,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "translations": {
@@ -9698,8 +9579,7 @@
       "japanese": "かいぞくのアイパッチ",
       "korean": "해적 안대",
       "russian": "пиратская повязка",
-      "plural": false,
-      "internalIds": [ 12662 ]
+      "plural": false
     },
     "colors": [ "Black", "Gray" ],
     "styles": [ "Cool", "Cool" ],
@@ -9711,9 +9591,8 @@
     "name": "pixel shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1320,
     "sell": 330,
@@ -9735,31 +9614,29 @@
       "japanese": "ドットサングラス",
       "korean": "도트 선글라스",
       "russian": "пиксельные очки",
-      "plural": false,
-      "internalIds": [ 11225, 4646, 11223, 11224 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -9779,8 +9656,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -9821,7 +9697,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 484
         },
         "colors": [ "Black", "Black" ]
       },
@@ -9857,7 +9733,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 484
         },
         "colors": [ "Red", "Black" ]
       },
@@ -9893,7 +9769,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 484
         },
         "colors": [ "Green", "Black" ]
       },
@@ -9929,7 +9805,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 484
         },
         "colors": [ "Blue", "Black" ]
       }
@@ -9952,7 +9828,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": true,
     "sortOrder": 1,
@@ -9961,12 +9837,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthLeatherBlack",
     "clothGroupId": 922,
     "internalId": 6040,
     "uniqueEntryId": "aN6Wsxguggh39oBiF",
-    "variantTranslations": null,
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -9986,8 +9860,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       }
     },
     "translations": {
@@ -10008,8 +9881,7 @@
       "japanese": "レザーマスク",
       "korean": "가죽 마스크",
       "russian": "маска из кожзама",
-      "plural": false,
-      "internalIds": [ 6040 ]
+      "plural": false
     },
     "colors": [ "Black", "Gray" ],
     "styles": [ "Cool", "Cool" ],
@@ -10030,7 +9902,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -10039,12 +9911,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassEyepatchWhite",
     "clothGroupId": 376,
     "internalId": 4452,
     "uniqueEntryId": "8Qgoizxz547DtMNd7",
-    "variantTranslations": null,
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -10064,8 +9934,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       }
     },
     "translations": {
@@ -10086,8 +9955,7 @@
       "japanese": "がんたい",
       "korean": "안대",
       "russian": "глазной пластырь",
-      "plural": false,
-      "internalIds": [ 4452 ]
+      "plural": false
     },
     "colors": [ "White", "White" ],
     "styles": [ "Simple", "Simple" ],
@@ -10108,7 +9976,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": true,
     "sortOrder": 1,
@@ -10117,12 +9985,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthCrowBlack",
     "clothGroupId": 497,
     "internalId": 4671,
     "uniqueEntryId": "4GDJFfMNHhsaXXrAN",
-    "variantTranslations": null,
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -10142,8 +10008,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -10163,8 +10028,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -10184,8 +10048,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "translations": {
@@ -10206,8 +10069,7 @@
       "japanese": "カラスマスク",
       "korean": "블랙 마스크",
       "russian": "маска анонимности",
-      "plural": false,
-      "internalIds": [ 4671 ]
+      "plural": false
     },
     "colors": [ "Black", "Black" ],
     "styles": [ "Cool", "Cool" ],
@@ -10228,7 +10090,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -10237,12 +10099,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassMirrorGray",
     "clothGroupId": 921,
     "internalId": 6039,
     "uniqueEntryId": "J4EgETRkyeSESkRB7",
-    "variantTranslations": null,
     "themesTranslations": {
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -10262,8 +10122,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "translations": {
@@ -10284,8 +10143,7 @@
       "japanese": "はんしゃきょう",
       "korean": "반사경",
       "russian": "лобный рефлектор",
-      "plural": false,
-      "internalIds": [ 6039 ]
+      "plural": false
     },
     "colors": [ "Gray", "Black" ],
     "styles": [ "Cool", "Simple" ],
@@ -10297,9 +10155,8 @@
     "name": "retro shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1560,
     "sell": 390,
@@ -10321,8 +10178,7 @@
       "japanese": "レトロなサングラス",
       "korean": "레트로 선글라스",
       "russian": "солнечные ретро-очки",
-      "plural": false,
-      "internalIds": [ 4456, 11213, 11210, 11211, 11209, 11212 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -10344,29 +10200,27 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -10386,8 +10240,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -10428,7 +10281,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 379
         },
         "colors": [ "White", "Orange" ]
       },
@@ -10464,7 +10317,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 379
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -10500,7 +10353,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 379
         },
         "colors": [ "Pink", "Red" ]
       },
@@ -10536,7 +10389,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 379
         },
         "colors": [ "Pink", "Purple" ]
       },
@@ -10572,7 +10425,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 379
         },
         "colors": [ "Green", "Green" ]
       },
@@ -10608,7 +10461,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 379
         },
         "colors": [ "Aqua", "Green" ]
       }
@@ -10622,9 +10475,8 @@
     "name": "rhinestone shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1040,
     "sell": 260,
@@ -10646,31 +10498,29 @@
       "japanese": "ラインストーンめがね",
       "korean": "라인스톤 안경",
       "russian": "очки со стразами",
-      "plural": false,
-      "internalIds": [ 4683, 11227, 11226 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -10690,8 +10540,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -10711,8 +10560,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -10753,7 +10601,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 509
         },
         "colors": [ "Red", "Red" ]
       },
@@ -10789,7 +10637,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 509
         },
         "colors": [ "Purple", "Black" ]
       },
@@ -10825,7 +10673,7 @@
           "korean": "황토색",
           "russian": "Охряный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 509
         },
         "colors": [ "Brown", "Black" ]
       }
@@ -10839,9 +10687,8 @@
     "name": "rimmed glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 630,
     "sell": 157,
@@ -10863,8 +10710,7 @@
       "japanese": "まるめがね",
       "korean": "동글 안경",
       "russian": "очки в роговой оправе",
-      "plural": false,
-      "internalIds": [ 11185, 4235, 11184, 11187, 11186 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -10886,8 +10732,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -10907,8 +10752,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -10928,8 +10772,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -10970,7 +10813,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 257
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -11006,7 +10849,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 257
         },
         "colors": [ "Black", "Black" ]
       },
@@ -11042,7 +10885,7 @@
           "korean": "골드",
           "russian": "Золотой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 257
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -11078,7 +10921,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 257
         },
         "colors": [ "Purple", "Purple" ]
       },
@@ -11114,7 +10957,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 257
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -11128,9 +10971,8 @@
     "name": "round shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1560,
     "sell": 390,
@@ -11152,8 +10994,7 @@
       "japanese": "ボストンめがね",
       "korean": "둥근 선글라스",
       "russian": "очки «Кошачий глаз»",
-      "plural": false,
-      "internalIds": [ 11201, 4241, 11200, 11199, 11198, 11196, 11197, 11202 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -11175,29 +11016,27 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -11217,8 +11056,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -11259,7 +11097,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 263
         },
         "colors": [ "White", "Black" ]
       },
@@ -11295,7 +11133,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 263
         },
         "colors": [ "Black", "Black" ]
       },
@@ -11331,7 +11169,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 263
         },
         "colors": [ "Red", "Black" ]
       },
@@ -11367,7 +11205,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 263
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -11403,7 +11241,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 263
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -11439,7 +11277,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 263
         },
         "colors": [ "Green", "Black" ]
       },
@@ -11475,7 +11313,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 263
         },
         "colors": [ "Blue", "Black" ]
       },
@@ -11511,7 +11349,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 263
         },
         "colors": [ "Purple", "Black" ]
       }
@@ -11525,9 +11363,8 @@
     "name": "round tinted shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 880,
     "sell": 220,
@@ -11549,8 +11386,7 @@
       "japanese": "ラウンドサングラス",
       "korean": "얇은 테 둥근 선글라스",
       "russian": "тонированные очки",
-      "plural": false,
-      "internalIds": [ 4607, 11220, 11222, 11221 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -11572,8 +11408,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -11593,8 +11428,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -11635,7 +11469,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 473
         },
         "colors": [ "Orange", "Brown" ]
       },
@@ -11671,7 +11505,7 @@
           "korean": "라이트 브라운",
           "russian": "Светло-коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 473
         },
         "colors": [ "Orange", "Brown" ]
       },
@@ -11707,7 +11541,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 473
         },
         "colors": [ "Green", "Brown" ]
       },
@@ -11743,7 +11577,7 @@
           "korean": "다크 브라운",
           "russian": "Темно-коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 473
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -11766,7 +11600,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -11775,12 +11609,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthBeardRoundBlack",
     "clothGroupId": 505,
     "internalId": 4679,
     "uniqueEntryId": "As4RR5kDBbDWqHP69",
-    "variantTranslations": null,
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -11800,8 +11632,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -11821,8 +11652,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -11842,8 +11672,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "translations": {
@@ -11864,8 +11693,7 @@
       "japanese": "ラウンドひげ",
       "korean": "둥근 수염",
       "russian": "борода «Короб»",
-      "plural": false,
-      "internalIds": [ 4679 ]
+      "plural": false
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Cool", "Simple" ],
@@ -11895,12 +11723,10 @@
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassCrackBlack",
     "clothGroupId": 315,
     "internalId": 4337,
     "uniqueEntryId": "9nxh9LSDKZoYjygJg",
-    "variantTranslations": null,
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -11920,8 +11746,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       }
     },
     "translations": {
@@ -11942,8 +11767,7 @@
       "japanese": "ヒビわれめがね",
       "korean": "금이 간 안경",
       "russian": "очки с трещинами",
-      "plural": false,
-      "internalIds": [ 4337 ]
+      "plural": false
     },
     "colors": [ "Black", "Aqua" ],
     "styles": [ "Simple", "Active" ],
@@ -11955,9 +11779,8 @@
     "name": "ski goggles",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 980,
     "sell": 245,
@@ -11979,8 +11802,7 @@
       "japanese": "スキーゴーグル",
       "korean": "스키 고글",
       "russian": "лыжные очки",
-      "plural": false,
-      "internalIds": [ 11479, 4453, 11480, 11483, 11482, 11481 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -12002,8 +11824,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -12023,8 +11844,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -12065,7 +11885,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 377
         },
         "colors": [ "Pink", "Yellow" ]
       },
@@ -12101,7 +11921,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 377
         },
         "colors": [ "Orange", "White" ]
       },
@@ -12137,7 +11957,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 377
         },
         "colors": [ "Green", "Blue" ]
       },
@@ -12173,7 +11993,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 377
         },
         "colors": [ "Aqua", "Orange" ]
       },
@@ -12209,7 +12029,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 377
         },
         "colors": [ "Blue", "Green" ]
       },
@@ -12245,7 +12065,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 377
         },
         "colors": [ "Purple", "Pink" ]
       }
@@ -12259,9 +12079,8 @@
     "name": "snorkel mask",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.3.0",
-    "versionUnlocked": "1.3.0",
     "catalog": "For sale",
     "buy": 700,
     "sell": 175,
@@ -12283,8 +12102,7 @@
       "japanese": "シュノーケル",
       "korean": "스노클",
       "russian": "маска для ныряния",
-      "plural": false,
-      "internalIds": [ 11497, 11494, 11495, 11493, 11496, 4551 ]
+      "plural": false
     },
     "source": [ "Nintendo", "Able Sisters" ],
     "themesTranslations": {
@@ -12306,8 +12124,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -12327,8 +12144,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -12348,8 +12164,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -12369,8 +12184,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -12411,7 +12225,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 432
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -12447,7 +12261,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 432
         },
         "colors": [ "Red", "Red" ]
       },
@@ -12483,7 +12297,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 432
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -12519,7 +12333,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 432
         },
         "colors": [ "Yellow", "Orange" ]
       },
@@ -12555,7 +12369,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 432
         },
         "colors": [ "Green", "Green" ]
       },
@@ -12591,7 +12405,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 432
         },
         "colors": [ "Aqua", "Blue" ]
       }
@@ -12605,9 +12419,8 @@
     "name": "sporty shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1300,
     "sell": 325,
@@ -12629,8 +12442,7 @@
       "japanese": "スポーツサングラス",
       "korean": "스포츠 선글라스",
       "russian": "спортивные очки",
-      "plural": false,
-      "internalIds": [ 11489, 4458, 11490, 11491, 11492 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -12652,8 +12464,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -12673,8 +12484,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -12715,7 +12525,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 381
         },
         "colors": [ "White", "Orange" ]
       },
@@ -12751,7 +12561,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 381
         },
         "colors": [ "Black", "Orange" ]
       },
@@ -12787,7 +12597,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 381
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -12823,7 +12633,7 @@
           "korean": "라임",
           "russian": "Лаймовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 381
         },
         "colors": [ "Green", "Aqua" ]
       },
@@ -12859,7 +12669,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 381
         },
         "colors": [ "Aqua", "Blue" ]
       }
@@ -12873,9 +12683,8 @@
     "name": "square glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 880,
     "sell": 220,
@@ -12897,8 +12706,7 @@
       "japanese": "スクエアめがね",
       "korean": "사각 안경",
       "russian": "прямоугольные очки",
-      "plural": false,
-      "internalIds": [ 11067, 11066, 11068, 4236 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -12920,8 +12728,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -12941,8 +12748,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -12962,8 +12768,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -13004,7 +12809,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 258
         },
         "colors": [ "Gray", "Gray" ]
       },
@@ -13040,7 +12845,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 258
         },
         "colors": [ "Black", "Black" ]
       },
@@ -13076,7 +12881,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 258
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -13112,7 +12917,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 258
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -13126,9 +12931,8 @@
     "name": "stache & glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 770,
     "sell": 192,
@@ -13150,31 +12954,29 @@
       "japanese": "ヒゲメガネ",
       "korean": "수염 안경",
       "russian": "очки с усами",
-      "plural": false,
-      "internalIds": [ 4501, 11007 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -13194,8 +12996,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -13236,7 +13037,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 408
         },
         "colors": [ "Black", "Orange" ]
       },
@@ -13272,7 +13073,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 408
         },
         "colors": [ "Red", "Black" ]
       }
@@ -13286,9 +13087,8 @@
     "name": "star shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 880,
     "sell": 220,
@@ -13310,31 +13110,29 @@
       "japanese": "ほしのサングラス",
       "korean": "별 선글라스",
       "russian": "очки-звездочки",
-      "plural": false,
-      "internalIds": [ 11192, 4240, 11195, 11193, 11194 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -13354,8 +13152,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -13396,7 +13193,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 262
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -13432,7 +13229,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 262
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -13468,7 +13265,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 262
         },
         "colors": [ "Green", "Black" ]
       },
@@ -13504,7 +13301,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 262
         },
         "colors": [ "Aqua", "Black" ]
       },
@@ -13540,7 +13337,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 262
         },
         "colors": [ "Purple", "Black" ]
       }
@@ -13554,9 +13351,8 @@
     "name": "steampunk glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1300,
     "sell": 325,
@@ -13578,31 +13374,30 @@
       "japanese": "スチームパンクなゴーグル",
       "korean": "스팀펑크 안경",
       "russian": "очки «Стимпанк»",
-      "plural": false,
-      "internalIds": [ 4685, 11505 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -13622,8 +13417,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -13664,7 +13458,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 511
         },
         "colors": [ "Brown", "Green" ]
       },
@@ -13700,7 +13494,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 511
         },
         "colors": [ "Brown", "Purple" ]
       }
@@ -13723,7 +13517,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -13732,12 +13526,10 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryMouthRice",
     "clothGroupId": 489,
     "internalId": 4652,
     "uniqueEntryId": "isnXDFfGkHKKB8bMP",
-    "variantTranslations": null,
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -13757,8 +13549,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "translations": {
@@ -13779,8 +13570,7 @@
       "japanese": "ごはんつぶ",
       "korean": "밥풀",
       "russian": "зернышки риса",
-      "plural": false,
-      "internalIds": [ 4652 ]
+      "plural": false
     },
     "colors": [ "White", "White" ],
     "styles": [ "Simple", "Cute" ],
@@ -13801,7 +13591,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Able Sisters" ],
-    "sourceNotes": "Available from Able Sisters shop only",
+    "sourceNotes": [ "Available from Able Sisters shop only" ],
     "seasonalAvailability": "All Year",
     "mannequinPiece": false,
     "sortOrder": 1,
@@ -13810,33 +13600,31 @@
     "catalog": "For sale",
     "versionAdded": "1.0.0",
     "unlocked": true,
-    "versionUnlocked": "1.0.0",
     "filename": "AccessoryGlassHeromaskBlack",
     "clothGroupId": 510,
     "internalId": 4684,
     "uniqueEntryId": "fK2Xz8nxAebSkWNdE",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -13856,8 +13644,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -13877,8 +13664,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "translations": {
@@ -13899,8 +13685,7 @@
       "japanese": "ヒーローマスク",
       "korean": "히어로 마스크",
       "russian": "маска супергероя",
-      "plural": false,
-      "internalIds": [ 4684 ]
+      "plural": false
     },
     "colors": [ "Black", "Black" ],
     "styles": [ "Cool", "Active" ],
@@ -13912,9 +13697,8 @@
     "name": "tiny shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1100,
     "sell": 275,
@@ -13936,31 +13720,30 @@
       "japanese": "ちいさいサングラス",
       "korean": "작은 선글라스",
       "russian": "мини-очки",
-      "plural": false,
-      "internalIds": [ 11215, 11216, 4461 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -13980,8 +13763,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -14022,7 +13804,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 384
         },
         "colors": [ "Black", "Black" ]
       },
@@ -14058,7 +13840,7 @@
           "korean": "와인 레드",
           "russian": "Ягодно-красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 384
         },
         "colors": [ "Red", "Black" ]
       },
@@ -14094,7 +13876,7 @@
           "korean": "골드",
           "russian": "Золотой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 384
         },
         "colors": [ "Yellow", "Black" ]
       }
@@ -14108,9 +13890,8 @@
     "name": "tortoise specs",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1040,
     "sell": 260,
@@ -14132,8 +13913,7 @@
       "japanese": "べっこうめがね",
       "korean": "거북이 등껍질 안경",
       "russian": "черепаховые очки",
-      "plural": false,
-      "internalIds": [ 11080, 11079, 4460 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -14155,8 +13935,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -14176,8 +13955,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -14199,10 +13977,10 @@
         "internalId": 11080,
         "uniqueEntryId": "fEshNAFDwcyo9v2fX",
         "variantTranslations": {
-          "sourceSheet": "Accessories Variants",
-          "variantId": 11080,
-          "id": 11080,
-          "clothName": "tortoise specs",
+          "sourceSheet": "Furniture Variants",
+          "variantId": 5,
+          "id": 383,
+          "furnitureName": "acoustic guitar",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
@@ -14217,8 +13995,7 @@
           "japanese": "ブラック",
           "korean": "블랙",
           "russian": "Черный",
-          "plural": false,
-          "internalIds": []
+          "plural": false
         },
         "colors": [ "Black", "Beige" ]
       },
@@ -14254,7 +14031,7 @@
           "korean": "베이지",
           "russian": "Бежевый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 383
         },
         "colors": [ "Orange", "Beige" ]
       },
@@ -14271,10 +14048,10 @@
         "internalId": 4460,
         "uniqueEntryId": "kqomsYL33TB7zaNtY",
         "variantTranslations": {
-          "sourceSheet": "Accessories Variants",
-          "variantId": 4460,
-          "id": 4460,
-          "clothName": "tortoise specs",
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 383,
+          "furnitureName": "acoustic guitar",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -14289,8 +14066,7 @@
           "japanese": "ブラウン",
           "korean": "브라운",
           "russian": "Коричневый",
-          "plural": false,
-          "internalIds": []
+          "plural": false
         },
         "colors": [ "Brown", "Orange" ]
       }
@@ -14304,9 +14080,8 @@
     "name": "triangle shades",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 880,
     "sell": 220,
@@ -14328,31 +14103,29 @@
       "japanese": "さんかくサングラス",
       "korean": "삼각 선글라스",
       "russian": "треугольные очки",
-      "plural": false,
-      "internalIds": [ 11207, 11208, 4242, 11203, 11206, 11204, 11205 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -14372,8 +14145,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -14414,7 +14186,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 264
         },
         "colors": [ "White", "Purple" ]
       },
@@ -14450,7 +14222,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 264
         },
         "colors": [ "Black", "Purple" ]
       },
@@ -14486,7 +14258,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 264
         },
         "colors": [ "Red", "Purple" ]
       },
@@ -14522,7 +14294,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 264
         },
         "colors": [ "Orange", "Purple" ]
       },
@@ -14558,7 +14330,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 264
         },
         "colors": [ "Green", "Purple" ]
       },
@@ -14594,7 +14366,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 264
         },
         "colors": [ "Aqua", "Purple" ]
       },
@@ -14630,7 +14402,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 264
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -14644,9 +14416,8 @@
     "name": "wooden-frame glasses",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "sourceNotes": [ "Available from either Mabel's temporary shop or Able Sisters shop" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1560,
     "sell": 390,
@@ -14668,8 +14439,7 @@
       "japanese": "ウッドフレームめがね",
       "korean": "나무 프레임 안경",
       "russian": "очки в дерев. оправе",
-      "plural": false,
-      "internalIds": [ 4669, 11093 ]
+      "plural": false
     },
     "source": [ "Able Sisters" ],
     "themesTranslations": {
@@ -14691,8 +14461,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -14712,8 +14481,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -14733,8 +14501,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -14775,7 +14542,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 496
         },
         "colors": [ "Brown", "Gray" ]
       },
@@ -14811,7 +14578,7 @@
           "korean": "다크 브라운",
           "russian": "Темно-коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 496
         },
         "colors": [ "Brown", "Yellow" ]
       }

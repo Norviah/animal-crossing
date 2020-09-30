@@ -26,7 +26,7 @@
     "uniqueEntryId": "u2GhYQJXDCQKp7AQ8",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00652",
+      "id": 652,
       "version": "1.0.0",
       "english": "Atlas moth",
       "englishEurope": "Atlas moth",
@@ -42,8 +42,7 @@
       "japanese": "ヨナグニサン",
       "korean": "아틀라스나방",
       "russian": "павлиноглазка атлас",
-      "plural": false,
-      "internalIds": [ 652 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -88,7 +87,7 @@
     "uniqueEntryId": "EFWMygLqnJinFoXSW",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03484",
+      "id": 3484,
       "version": "1.0.0",
       "english": "Madagascan sunset moth",
       "englishEurope": "Madagascan sunset moth",
@@ -104,8 +103,7 @@
       "japanese": "ニシキオオツバメガ",
       "korean": "마다가스카르비단제비나방",
       "russian": "урания мадагаскарская",
-      "plural": false,
-      "internalIds": [ 3484 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -150,7 +148,7 @@
     "uniqueEntryId": "PbNXeN9GZuJuow7jv",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00586",
+      "id": 586,
       "version": "1.0.0",
       "english": "Queen Alexandra's birdwing",
       "englishEurope": "Queen Alexandra's birdwing",
@@ -166,8 +164,7 @@
       "japanese": "アレキサンドラトリバネアゲハ",
       "korean": "알렉산드라비단제비나비",
       "russian": "птицекрылка Александры",
-      "plural": false,
-      "internalIds": [ 586 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -212,7 +209,7 @@
     "uniqueEntryId": "gLpHgXT4pPXP4XfWQ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00584",
+      "id": 584,
       "version": "1.0.0",
       "english": "Rajah Brooke's birdwing",
       "englishEurope": "Rajah Brooke's birdwing",
@@ -228,8 +225,7 @@
       "japanese": "アカエリトリバネアゲハ",
       "korean": "붉은목도리비단나비",
       "russian": "трогоноптера Брука",
-      "plural": false,
-      "internalIds": [ 584 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -274,7 +270,7 @@
     "uniqueEntryId": "aj95rMzdbSbvZy9A2",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00620",
+      "id": 620,
       "version": "1.0.0",
       "english": "agrias butterfly",
       "englishEurope": "agrias butterfly",
@@ -290,8 +286,7 @@
       "japanese": "ミイロタテハ",
       "korean": "아그리아스나비",
       "russian": "агриас клаудина",
-      "plural": false,
-      "internalIds": [ 620 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -336,7 +331,7 @@
     "uniqueEntryId": "QZpmczZu4hW2a4Rpv",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00588",
+      "id": 588,
       "version": "1.0.0",
       "english": "ant",
       "englishEurope": "ant",
@@ -352,8 +347,7 @@
       "japanese": "アリ",
       "korean": "개미",
       "russian": "муравей",
-      "plural": false,
-      "internalIds": [ 588 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -398,7 +392,7 @@
     "uniqueEntryId": "QvxgCm82JqHsDknY4",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00622",
+      "id": 622,
       "version": "1.0.0",
       "english": "bagworm",
       "englishEurope": "bagworm",
@@ -414,8 +408,7 @@
       "japanese": "ミノムシ",
       "korean": "도롱이벌레",
       "russian": "мешочница",
-      "plural": false,
-      "internalIds": [ 622 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -460,7 +453,7 @@
     "uniqueEntryId": "pCFep58D6QusMSvR7",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00635",
+      "id": 635,
       "version": "1.0.0",
       "english": "banded dragonfly",
       "englishEurope": "banded dragonfly",
@@ -476,8 +469,7 @@
       "japanese": "オニヤンマ",
       "korean": "장수잠자리",
       "russian": "кордулегастер",
-      "plural": false,
-      "internalIds": [ 635 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -522,7 +514,7 @@
     "uniqueEntryId": "d5EQqbQsip82G2CZE",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00642",
+      "id": 642,
       "version": "1.0.0",
       "english": "bell cricket",
       "englishEurope": "bell cricket",
@@ -538,8 +530,7 @@
       "japanese": "スズムシ",
       "korean": "방울벌레",
       "russian": "домашний сверчок",
-      "plural": false,
-      "internalIds": [ 642 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -584,7 +575,7 @@
     "uniqueEntryId": "qocWy6r5RXjeThdYy",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03485",
+      "id": 3485,
       "version": "1.0.0",
       "english": "blue weevil beetle",
       "englishEurope": "blue weevil beetle",
@@ -600,8 +591,7 @@
       "japanese": "ホウセキゾウムシ",
       "korean": "유포루스바구미",
       "russian": "синий долгоносик",
-      "plural": false,
-      "internalIds": [ 3485 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -646,7 +636,7 @@
     "uniqueEntryId": "gBLRZ2J2R2wwYWFCk",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00582",
+      "id": 582,
       "version": "1.0.0",
       "english": "brown cicada",
       "englishEurope": "brown cicada",
@@ -662,8 +652,7 @@
       "japanese": "アブラゼミ",
       "korean": "유지매미",
       "russian": "коричневая цикада",
-      "plural": false,
-      "internalIds": [ 582 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -708,7 +697,7 @@
     "uniqueEntryId": "ubStMQwHMJJcYje38",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00628",
+      "id": 628,
       "version": "1.0.0",
       "english": "centipede",
       "englishEurope": "centipede",
@@ -724,8 +713,7 @@
       "japanese": "ムカデ",
       "korean": "지네",
       "russian": "многоножка",
-      "plural": false,
-      "internalIds": [ 628 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -770,7 +758,7 @@
     "uniqueEntryId": "6s3MCahAroqpjGybW",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00641",
+      "id": 641,
       "version": "1.0.0",
       "english": "cicada shell",
       "englishEurope": "cicada shell",
@@ -786,8 +774,7 @@
       "japanese": "セミのぬけがら",
       "korean": "매미 허물",
       "russian": "кокон цикады",
-      "plural": false,
-      "internalIds": [ 641 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -832,7 +819,7 @@
     "uniqueEntryId": "QR88MPLzYxSCHWZJb",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00609",
+      "id": 609,
       "version": "1.0.0",
       "english": "citrus long-horned beetle",
       "englishEurope": "citrus long-horned beetle",
@@ -848,8 +835,7 @@
       "japanese": "ゴマダラカミキリ",
       "korean": "알락하늘소",
       "russian": "цитрусовый усач",
-      "plural": false,
-      "internalIds": [ 609 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -894,7 +880,7 @@
     "uniqueEntryId": "vgkW2eovbpxNuGsFZ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03477",
+      "id": 3477,
       "version": "1.0.0",
       "english": "common bluebottle",
       "englishEurope": "common bluebottle",
@@ -910,8 +896,7 @@
       "japanese": "アオスジアゲハ",
       "korean": "청띠제비나비",
       "russian": "графиум сарпедон",
-      "plural": false,
-      "internalIds": [ 3477 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -956,7 +941,7 @@
     "uniqueEntryId": "tRJxp5N9XbwAGQHZc",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00626",
+      "id": 626,
       "version": "1.0.0",
       "english": "common butterfly",
       "englishEurope": "common butterfly",
@@ -972,8 +957,7 @@
       "japanese": "モンシロチョウ",
       "korean": "배추흰나비",
       "russian": "белянка",
-      "plural": false,
-      "internalIds": [ 626 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1018,7 +1002,7 @@
     "uniqueEntryId": "Lr7eFJzJJZpWRWekm",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00617",
+      "id": 617,
       "version": "1.0.0",
       "english": "cricket",
       "englishEurope": "cricket",
@@ -1034,8 +1018,7 @@
       "japanese": "コオロギ",
       "korean": "귀뚜라미",
       "russian": "сверчок",
-      "plural": false,
-      "internalIds": [ 617 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1080,7 +1063,7 @@
     "uniqueEntryId": "moBevd7J5hwpHeLcs",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00602",
+      "id": 602,
       "version": "1.0.0",
       "english": "cyclommatus stag",
       "englishEurope": "cyclommatus stag",
@@ -1096,8 +1079,7 @@
       "japanese": "ホソアカクワガタ",
       "korean": "엘라푸스가위사슴벌레",
       "russian": "жук-рогач",
-      "plural": false,
-      "internalIds": [ 602 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1142,7 +1124,7 @@
     "uniqueEntryId": "pBmqsa7CyeKzyRjDT",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_05339",
+      "id": 5339,
       "version": "1.0.0",
       "english": "damselfly",
       "englishEurope": "damselfly",
@@ -1158,8 +1140,7 @@
       "japanese": "イトトンボ",
       "korean": "실잠자리",
       "russian": "равнокрылая стрекоза",
-      "plural": false,
-      "internalIds": [ 5339 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1204,7 +1185,7 @@
     "uniqueEntryId": "723NiWMh4iY9RJtAM",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00595",
+      "id": 595,
       "version": "1.0.0",
       "english": "darner dragonfly",
       "englishEurope": "darner dragonfly",
@@ -1220,8 +1201,7 @@
       "japanese": "ギンヤンマ",
       "korean": "왕잠자리",
       "russian": "дозорщик",
-      "plural": false,
-      "internalIds": [ 595 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1266,7 +1246,7 @@
     "uniqueEntryId": "CBjt7itnPqEtNznrX",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00594",
+      "id": 594,
       "version": "1.0.0",
       "english": "diving beetle",
       "englishEurope": "diving beetle",
@@ -1282,8 +1262,7 @@
       "japanese": "ゲンゴロウ",
       "korean": "물방개",
       "russian": "плавунец",
-      "plural": false,
-      "internalIds": [ 594 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1328,7 +1307,7 @@
     "uniqueEntryId": "uXmtRAQgY3g596tov",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03480",
+      "id": 3480,
       "version": "1.0.0",
       "english": "drone beetle",
       "englishEurope": "drone beetle",
@@ -1344,8 +1323,7 @@
       "japanese": "カナブン",
       "korean": "풍이",
       "russian": "бронзовка",
-      "plural": false,
-      "internalIds": [ 3480 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1390,7 +1368,7 @@
     "uniqueEntryId": "p9RhE8wLWpHtcoq5G",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00604",
+      "id": 604,
       "version": "1.0.0",
       "english": "dung beetle",
       "englishEurope": "dung beetle",
@@ -1406,8 +1384,7 @@
       "japanese": "フンコロガシ",
       "korean": "쇠똥구리",
       "russian": "жук-навозник",
-      "plural": false,
-      "internalIds": [ 604 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1452,7 +1429,7 @@
     "uniqueEntryId": "k2fqxdYnTF8BpHB7u",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00614",
+      "id": 614,
       "version": "1.0.0",
       "english": "earth-boring dung beetle",
       "englishEurope": "earth-boring dung beetle",
@@ -1468,8 +1445,7 @@
       "japanese": "オオセンチコガネ",
       "korean": "보라금풍뎅이",
       "russian": "навозник-землерой",
-      "plural": false,
-      "internalIds": [ 614 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1514,7 +1490,7 @@
     "uniqueEntryId": "Lwkf7oQ3mcWYm6eEY",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00627",
+      "id": 627,
       "version": "1.0.0",
       "english": "emperor butterfly",
       "englishEurope": "emperor butterfly",
@@ -1530,8 +1506,7 @@
       "japanese": "モルフォチョウ",
       "korean": "몰포나비",
       "russian": "морфо менелай",
-      "plural": false,
-      "internalIds": [ 627 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1579,7 +1554,7 @@
     "uniqueEntryId": "kzX4apD9C3Nq8khzR",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00601",
+      "id": 601,
       "version": "1.0.0",
       "english": "evening cicada",
       "englishEurope": "evening cicada",
@@ -1595,8 +1570,7 @@
       "japanese": "ヒグラシ",
       "korean": "쓰르라미",
       "russian": "ночная цикада",
-      "plural": false,
-      "internalIds": [ 601 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1641,7 +1615,7 @@
     "uniqueEntryId": "PgiwPqykwafyz5EL6",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00603",
+      "id": 603,
       "version": "1.0.0",
       "english": "firefly",
       "englishEurope": "firefly",
@@ -1657,8 +1631,7 @@
       "japanese": "ホタル",
       "korean": "반디",
       "russian": "светлячок",
-      "plural": false,
-      "internalIds": [ 603 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1703,7 +1676,7 @@
     "uniqueEntryId": "QzDywoJEAJDcjGfEF",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00633",
+      "id": 633,
       "version": "1.0.0",
       "english": "flea",
       "englishEurope": "flea",
@@ -1719,8 +1692,7 @@
       "japanese": "ノミ",
       "korean": "벼룩",
       "russian": "блоха",
-      "plural": false,
-      "internalIds": [ 633 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1746,7 +1718,7 @@
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHaeCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHaeCropped.png",
     "sell": 60,
-    "whereHow": "Flying near trash (boots, tires, cans) or rotten turnips",
+    "whereHow": "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "0",
@@ -1765,7 +1737,7 @@
     "uniqueEntryId": "xdBmuMgXJ6jGxpabK",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00597",
+      "id": 597,
       "version": "1.0.0",
       "english": "fly",
       "englishEurope": "fly",
@@ -1781,8 +1753,7 @@
       "japanese": "ハエ",
       "korean": "파리",
       "russian": "муха",
-      "plural": false,
-      "internalIds": [ 597 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1830,7 +1801,7 @@
     "uniqueEntryId": "nPm2r7idGshQW87MN",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00618",
+      "id": 618,
       "version": "1.0.0",
       "english": "giant cicada",
       "englishEurope": "giant cicada",
@@ -1846,8 +1817,7 @@
       "japanese": "クマゼミ",
       "korean": "곰매미",
       "russian": "гигантская цикада",
-      "plural": false,
-      "internalIds": [ 618 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1892,7 +1862,7 @@
     "uniqueEntryId": "KhrTLzayFz23zz2kn",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00637",
+      "id": 637,
       "version": "1.0.0",
       "english": "giant stag",
       "englishEurope": "giant stag",
@@ -1908,8 +1878,7 @@
       "japanese": "オオクワガタ",
       "korean": "왕사슴벌레",
       "russian": "гигантский жук-олень",
-      "plural": false,
-      "internalIds": [ 637 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1954,7 +1923,7 @@
     "uniqueEntryId": "ZsDdBvqAjZMG8EQkZ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_05157",
+      "id": 5157,
       "version": "1.0.0",
       "english": "giant water bug",
       "englishEurope": "giant water bug",
@@ -1970,8 +1939,7 @@
       "japanese": "タガメ",
       "korean": "물장군",
       "russian": "водяной клоп-гигант",
-      "plural": false,
-      "internalIds": [ 5157 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2016,7 +1984,7 @@
     "uniqueEntryId": "PSChjzMhGwhnsHTs4",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03482",
+      "id": 3482,
       "version": "1.0.0",
       "english": "giraffe stag",
       "englishEurope": "giraffe stag",
@@ -2032,8 +2000,7 @@
       "japanese": "ギラファノコギリクワガタ",
       "korean": "기라파톱사슴벌레",
       "russian": "рогач-жираф",
-      "plural": false,
-      "internalIds": [ 3482 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2078,7 +2045,7 @@
     "uniqueEntryId": "2C8cSphidFCBPxYEe",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00638",
+      "id": 638,
       "version": "1.0.0",
       "english": "golden stag",
       "englishEurope": "golden stag",
@@ -2094,8 +2061,7 @@
       "japanese": "オウゴンオニクワガタ",
       "korean": "황금사슴벌레",
       "russian": "ламприма",
-      "plural": false,
-      "internalIds": [ 638 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2140,7 +2106,7 @@
     "uniqueEntryId": "wZQMZfhtRyPFAapmF",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00596",
+      "id": 596,
       "version": "1.0.0",
       "english": "goliath beetle",
       "englishEurope": "goliath beetle",
@@ -2156,8 +2122,7 @@
       "japanese": "ゴライアスオオツノハナムグリ",
       "korean": "골리앗왕꽃무지",
       "russian": "жук-голиаф",
-      "plural": false,
-      "internalIds": [ 596 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2202,7 +2167,7 @@
     "uniqueEntryId": "zkzSLJPkkcwXwShKc",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00613",
+      "id": 613,
       "version": "1.0.0",
       "english": "grasshopper",
       "englishEurope": "grasshopper",
@@ -2218,8 +2183,7 @@
       "japanese": "キリギリス",
       "korean": "여치",
       "russian": "кузнечик",
-      "plural": false,
-      "internalIds": [ 613 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2264,7 +2228,7 @@
     "uniqueEntryId": "ZSre7sheZoRqsJwHQ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03479",
+      "id": 3479,
       "version": "1.0.0",
       "english": "great purple emperor",
       "englishEurope": "great purple emperor",
@@ -2280,8 +2244,7 @@
       "japanese": "オオムラサキ",
       "korean": "왕오색나비",
       "russian": "сасакия харонда",
-      "plural": false,
-      "internalIds": [ 3479 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2326,7 +2289,7 @@
     "uniqueEntryId": "TzbsfYgE4k2qo7fHN",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00651",
+      "id": 651,
       "version": "1.0.0",
       "english": "hermit crab",
       "englishEurope": "hermit crab",
@@ -2342,8 +2305,7 @@
       "japanese": "ヤドカリ",
       "korean": "소라게",
       "russian": "рак-отшельник",
-      "plural": false,
-      "internalIds": [ 651 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2388,7 +2350,7 @@
     "uniqueEntryId": "yeWiAiqDRwinvumDm",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00623",
+      "id": 623,
       "version": "1.0.0",
       "english": "honeybee",
       "englishEurope": "honeybee",
@@ -2404,8 +2366,7 @@
       "japanese": "ミツバチ",
       "korean": "꿀벌",
       "russian": "восковая пчела",
-      "plural": false,
-      "internalIds": [ 623 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2450,7 +2411,7 @@
     "uniqueEntryId": "S93y8gxrSHFNCFmwJ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00615",
+      "id": 615,
       "version": "1.0.0",
       "english": "horned atlas",
       "englishEurope": "horned atlas",
@@ -2466,8 +2427,7 @@
       "japanese": "コーカサスオオカブト",
       "korean": "코카서스장수풍뎅이",
       "russian": "жук-атлас",
-      "plural": false,
-      "internalIds": [ 615 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2512,7 +2472,7 @@
     "uniqueEntryId": "zaG8qsKLpbTjysx7D",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00612",
+      "id": 612,
       "version": "1.0.0",
       "english": "horned dynastid",
       "englishEurope": "horned dynastid",
@@ -2528,8 +2488,7 @@
       "japanese": "カブトムシ",
       "korean": "장수풍뎅이",
       "russian": "дупляк",
-      "plural": false,
-      "internalIds": [ 612 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2574,7 +2533,7 @@
     "uniqueEntryId": "M7SHXNEMf78nJD6fE",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00653",
+      "id": 653,
       "version": "1.0.0",
       "english": "horned elephant",
       "englishEurope": "horned elephant",
@@ -2590,8 +2549,7 @@
       "japanese": "ゾウカブト",
       "korean": "코끼리장수풍뎅이",
       "russian": "жук-слон",
-      "plural": false,
-      "internalIds": [ 653 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2636,7 +2594,7 @@
     "uniqueEntryId": "TqhEomNEMDZ2wcTpk",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00600",
+      "id": 600,
       "version": "1.0.0",
       "english": "horned hercules",
       "englishEurope": "horned hercules",
@@ -2652,8 +2610,7 @@
       "japanese": "ヘラクレスオオカブト",
       "korean": "헤라클레스장수풍뎅이",
       "russian": "жук-геркулес",
-      "plural": false,
-      "internalIds": [ 600 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2698,7 +2655,7 @@
     "uniqueEntryId": "TYFowxRG4ydcvotkQ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00645",
+      "id": 645,
       "version": "1.0.0",
       "english": "jewel beetle",
       "englishEurope": "jewel beetle",
@@ -2714,8 +2671,7 @@
       "japanese": "タマムシ",
       "korean": "비단벌레",
       "russian": "златка",
-      "plural": false,
-      "internalIds": [ 645 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2760,7 +2716,7 @@
     "uniqueEntryId": "pYSSbvXzkuFneRvQ7",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00647",
+      "id": 647,
       "version": "1.0.0",
       "english": "ladybug",
       "englishEurope": "ladybug",
@@ -2776,8 +2732,7 @@
       "japanese": "テントウムシ",
       "korean": "무당벌레",
       "russian": "божья коровка",
-      "plural": false,
-      "internalIds": [ 647 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2822,7 +2777,7 @@
     "uniqueEntryId": "Q57sgq4hQTNZAqWXj",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00644",
+      "id": 644,
       "version": "1.0.0",
       "english": "long locust",
       "englishEurope": "long locust",
@@ -2838,8 +2793,7 @@
       "japanese": "ショウリョウバッタ",
       "korean": "방아깨비",
       "russian": "акрида",
-      "plural": false,
-      "internalIds": [ 644 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2884,7 +2838,7 @@
     "uniqueEntryId": "zvr84Jvf4s6K23XJ5",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03483",
+      "id": 3483,
       "version": "1.0.0",
       "english": "man-faced stink bug",
       "englishEurope": "man-faced stink bug",
@@ -2900,8 +2854,7 @@
       "japanese": "ジンメンカメムシ",
       "korean": "인면노린재",
       "russian": "щитник с лицом",
-      "plural": false,
-      "internalIds": [ 3483 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2946,7 +2899,7 @@
     "uniqueEntryId": "Qko2mfz7SaESpMcCv",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00607",
+      "id": 607,
       "version": "1.0.0",
       "english": "mantis",
       "englishEurope": "mantis",
@@ -2962,8 +2915,7 @@
       "japanese": "カマキリ",
       "korean": "사마귀",
       "russian": "богомол",
-      "plural": false,
-      "internalIds": [ 607 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3008,7 +2960,7 @@
     "uniqueEntryId": "dkGagcjd7aZwFEszw",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00648",
+      "id": 648,
       "version": "1.0.0",
       "english": "migratory locust",
       "englishEurope": "migratory locust",
@@ -3024,8 +2976,7 @@
       "japanese": "トノサマバッタ",
       "korean": "섬풀무치",
       "russian": "перелетная саранча",
-      "plural": false,
-      "internalIds": [ 648 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3070,7 +3021,7 @@
     "uniqueEntryId": "qRGGm6MfuP4Aqdk3M",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00624",
+      "id": 624,
       "version": "1.0.0",
       "english": "miyama stag",
       "englishEurope": "miyama stag",
@@ -3086,8 +3037,7 @@
       "japanese": "ミヤマクワガタ",
       "korean": "사슴벌레",
       "russian": "горный жук-олень",
-      "plural": false,
-      "internalIds": [ 624 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3132,7 +3082,7 @@
     "uniqueEntryId": "HMWPGeeKw9LP6ucSq",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00634",
+      "id": 634,
       "version": "1.0.0",
       "english": "mole cricket",
       "englishEurope": "mole cricket",
@@ -3148,8 +3098,7 @@
       "japanese": "オケラ",
       "korean": "땅강아지",
       "russian": "медведка",
-      "plural": false,
-      "internalIds": [ 634 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3194,7 +3143,7 @@
     "uniqueEntryId": "BJPKSZMZ2tkLXkWjL",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00636",
+      "id": 636,
       "version": "1.0.0",
       "english": "monarch butterfly",
       "englishEurope": "monarch butterfly",
@@ -3210,8 +3159,7 @@
       "japanese": "オオカバマダラ",
       "korean": "왕나비",
       "russian": "монарх",
-      "plural": false,
-      "internalIds": [ 636 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3256,7 +3204,7 @@
     "uniqueEntryId": "3mMZ74qpWWnoizJHh",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00606",
+      "id": 606,
       "version": "1.0.0",
       "english": "mosquito",
       "englishEurope": "mosquito",
@@ -3272,8 +3220,7 @@
       "japanese": "カ",
       "korean": "모기",
       "russian": "комар",
-      "plural": false,
-      "internalIds": [ 606 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3318,7 +3265,7 @@
     "uniqueEntryId": "7Kd97rqbYBuzuCHgf",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00592",
+      "id": 592,
       "version": "1.0.0",
       "english": "moth",
       "englishEurope": "moth",
@@ -3334,8 +3281,7 @@
       "japanese": "ガ",
       "korean": "나방",
       "russian": "павлиноглазка",
-      "plural": false,
-      "internalIds": [ 592 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3380,7 +3326,7 @@
     "uniqueEntryId": "9b4v6nMrrThHEtNbB",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00598",
+      "id": 598,
       "version": "1.0.0",
       "english": "orchid mantis",
       "englishEurope": "orchid mantis",
@@ -3396,8 +3342,7 @@
       "japanese": "ハナカマキリ",
       "korean": "연꽃사마귀",
       "russian": "орхидейный богомол",
-      "plural": false,
-      "internalIds": [ 598 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3442,7 +3387,7 @@
     "uniqueEntryId": "hzwridDJE99rPHLrZ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03478",
+      "id": 3478,
       "version": "1.0.0",
       "english": "paper kite butterfly",
       "englishEurope": "paper kite butterfly",
@@ -3458,8 +3403,7 @@
       "japanese": "オオゴマダラ",
       "korean": "왕얼룩나비",
       "russian": "идея левконоя",
-      "plural": false,
-      "internalIds": [ 3478 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3504,7 +3448,7 @@
     "uniqueEntryId": "rguKzmnRkGmBMKzyE",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00610",
+      "id": 610,
       "version": "1.0.0",
       "english": "peacock butterfly",
       "englishEurope": "peacock butterfly",
@@ -3520,8 +3464,7 @@
       "japanese": "カラスアゲハ",
       "korean": "제비나비",
       "russian": "бианор",
-      "plural": false,
-      "internalIds": [ 610 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3566,7 +3509,7 @@
     "uniqueEntryId": "SGHXhcTzaNJD2z926",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00590",
+      "id": 590,
       "version": "1.0.0",
       "english": "pill bug",
       "englishEurope": "pill bug",
@@ -3582,8 +3525,7 @@
       "japanese": "ダンゴムシ",
       "korean": "공벌레",
       "russian": "мокрица",
-      "plural": false,
-      "internalIds": [ 590 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3628,7 +3570,7 @@
     "uniqueEntryId": "eSBNwiuZforpxNYem",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00587",
+      "id": 587,
       "version": "1.0.0",
       "english": "pondskater",
       "englishEurope": "pondskater",
@@ -3644,8 +3586,7 @@
       "japanese": "アメンボ",
       "korean": "소금쟁이",
       "russian": "водомерка",
-      "plural": false,
-      "internalIds": [ 587 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3690,7 +3631,7 @@
     "uniqueEntryId": "Egfv6BDtFMeGZPmfh",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00631",
+      "id": 631,
       "version": "1.0.0",
       "english": "rainbow stag",
       "englishEurope": "rainbow stag",
@@ -3706,8 +3647,7 @@
       "japanese": "ニジイロクワガタ",
       "korean": "뮤엘러리사슴벌레",
       "russian": "радужный жук-олень",
-      "plural": false,
-      "internalIds": [ 631 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3752,7 +3692,7 @@
     "uniqueEntryId": "PKSHvkPphXteXHKuG",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00585",
+      "id": 585,
       "version": "1.0.0",
       "english": "red dragonfly",
       "englishEurope": "red dragonfly",
@@ -3768,8 +3708,7 @@
       "japanese": "アキアカネ",
       "korean": "고추잠자리",
       "russian": "красная стрекоза",
-      "plural": false,
-      "internalIds": [ 585 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3814,7 +3753,7 @@
     "uniqueEntryId": "ZxXDxrgPvXEHz24Ni",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00605",
+      "id": 605,
       "version": "1.0.0",
       "english": "rice grasshopper",
       "englishEurope": "rice grasshopper",
@@ -3830,8 +3769,7 @@
       "japanese": "イナゴ",
       "korean": "메뚜기",
       "russian": "рисовая кобылка",
-      "plural": false,
-      "internalIds": [ 605 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3879,7 +3817,7 @@
     "uniqueEntryId": "cd5ymnRmRvT4n4yjB",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00621",
+      "id": 621,
       "version": "1.0.0",
       "english": "robust cicada",
       "englishEurope": "robust cicada",
@@ -3895,8 +3833,7 @@
       "japanese": "ミンミンゼミ",
       "korean": "참매미",
       "russian": "певчая цикада",
-      "plural": false,
-      "internalIds": [ 621 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3941,7 +3878,7 @@
     "uniqueEntryId": "MSTA9vdJmGoDDADrF",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03487",
+      "id": 3487,
       "version": "1.0.0",
       "english": "rosalia batesi beetle",
       "englishEurope": "rosalia batesi beetle",
@@ -3957,8 +3894,7 @@
       "japanese": "ルリボシカミキリ",
       "korean": "루리하늘소",
       "russian": "розалия",
-      "plural": false,
-      "internalIds": [ 3487 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4003,7 +3939,7 @@
     "uniqueEntryId": "YQq3iSiBcBAHTWxc2",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00632",
+      "id": 632,
       "version": "1.0.0",
       "english": "saw stag",
       "englishEurope": "saw stag",
@@ -4019,8 +3955,7 @@
       "japanese": "ノコギリクワガタ",
       "korean": "톱사슴벌레",
       "russian": "жук-олень",
-      "plural": false,
-      "internalIds": [ 632 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4065,7 +4000,7 @@
     "uniqueEntryId": "2HXdFD8s6BmYYMf4u",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00639",
+      "id": 639,
       "version": "1.0.0",
       "english": "scarab beetle",
       "englishEurope": "scarab beetle",
@@ -4081,8 +4016,7 @@
       "japanese": "プラチナコガネ",
       "korean": "보석풍뎅이",
       "russian": "золотой скарабей",
-      "plural": false,
-      "internalIds": [ 639 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4127,7 +4061,7 @@
     "uniqueEntryId": "xMzHsHbjvvicZvYxg",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00640",
+      "id": 640,
       "version": "1.0.0",
       "english": "scorpion",
       "englishEurope": "scorpion",
@@ -4143,8 +4077,7 @@
       "japanese": "サソリ",
       "korean": "전갈",
       "russian": "скорпион",
-      "plural": false,
-      "internalIds": [ 640 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4189,7 +4122,7 @@
     "uniqueEntryId": "rDNLeQnmJQGxsHpmL",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00611",
+      "id": 611,
       "version": "1.0.0",
       "english": "snail",
       "englishEurope": "snail",
@@ -4205,8 +4138,7 @@
       "japanese": "カタツムリ",
       "korean": "달팽이",
       "russian": "улитка",
-      "plural": false,
-      "internalIds": [ 611 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4251,7 +4183,7 @@
     "uniqueEntryId": "s2u8kDoMQx7GbAJTR",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00619",
+      "id": 619,
       "version": "1.0.0",
       "english": "spider",
       "englishEurope": "spider",
@@ -4267,8 +4199,7 @@
       "japanese": "クモ",
       "korean": "거미",
       "russian": "паук",
-      "plural": false,
-      "internalIds": [ 619 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4313,7 +4244,7 @@
     "uniqueEntryId": "4u5GZ4z3CyaHhMgqj",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00608",
+      "id": 608,
       "version": "1.0.0",
       "english": "stinkbug",
       "englishEurope": "stinkbug",
@@ -4329,8 +4260,7 @@
       "japanese": "カメムシ",
       "korean": "노린재",
       "russian": "щитник",
-      "plural": false,
-      "internalIds": [ 608 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4375,7 +4305,7 @@
     "uniqueEntryId": "4mto3ZvrZYpJxbm4c",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00646",
+      "id": 646,
       "version": "1.0.0",
       "english": "tarantula",
       "englishEurope": "tarantula",
@@ -4391,8 +4321,7 @@
       "japanese": "タランチュラ",
       "korean": "타란툴라",
       "russian": "паук-птицеед",
-      "plural": false,
-      "internalIds": [ 646 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4437,7 +4366,7 @@
     "uniqueEntryId": "zzGvu3797KnMb4LCD",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00599",
+      "id": 599,
       "version": "1.0.0",
       "english": "tiger beetle",
       "englishEurope": "tiger beetle",
@@ -4453,8 +4382,7 @@
       "japanese": "ハンミョウ",
       "korean": "길앞잡이",
       "russian": "жук-скакун",
-      "plural": false,
-      "internalIds": [ 599 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4499,7 +4427,7 @@
     "uniqueEntryId": "GcSpepwg536mYnNuu",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00583",
+      "id": 583,
       "version": "1.0.0",
       "english": "tiger butterfly",
       "englishEurope": "tiger butterfly",
@@ -4515,8 +4443,7 @@
       "japanese": "アゲハチョウ",
       "korean": "호랑나비",
       "russian": "махаон",
-      "plural": false,
-      "internalIds": [ 583 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4561,7 +4488,7 @@
     "uniqueEntryId": "poAcys5Mr35ELp5PS",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00650",
+      "id": 650,
       "version": "1.0.0",
       "english": "violin beetle",
       "englishEurope": "violin beetle",
@@ -4577,8 +4504,7 @@
       "japanese": "バイオリンムシ",
       "korean": "바이올린벌레",
       "russian": "листовидная жужелица",
-      "plural": false,
-      "internalIds": [ 650 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4626,7 +4552,7 @@
     "uniqueEntryId": "QdrL4K7seJHvd4ZZM",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00649",
+      "id": 649,
       "version": "1.0.0",
       "english": "walker cicada",
       "englishEurope": "walker cicada",
@@ -4642,8 +4568,7 @@
       "japanese": "ツクツクホウシ",
       "korean": "애매미",
       "russian": "горная цикада",
-      "plural": false,
-      "internalIds": [ 649 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4688,7 +4613,7 @@
     "uniqueEntryId": "kuZaMcg2E7ZX56nio",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00616",
+      "id": 616,
       "version": "1.0.0",
       "english": "walking leaf",
       "englishEurope": "walking leaf",
@@ -4704,8 +4629,7 @@
       "japanese": "コノハムシ",
       "korean": "잎사귀벌레",
       "russian": "листотел",
-      "plural": false,
-      "internalIds": [ 616 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4750,7 +4674,7 @@
     "uniqueEntryId": "WQjgrjYotbwH59vXG",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00630",
+      "id": 630,
       "version": "1.0.0",
       "english": "walking stick",
       "englishEurope": "walking stick",
@@ -4766,8 +4690,7 @@
       "japanese": "ナナフシ",
       "korean": "긴수염대벌레",
       "russian": "палочник",
-      "plural": false,
-      "internalIds": [ 630 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4812,7 +4735,7 @@
     "uniqueEntryId": "ZEfBHqM6pFEddBezw",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00643",
+      "id": 643,
       "version": "1.0.0",
       "english": "wasp",
       "englishEurope": "wasp",
@@ -4828,8 +4751,7 @@
       "japanese": "ハチ",
       "korean": "벌",
       "russian": "оса",
-      "plural": false,
-      "internalIds": [ 643 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4874,7 +4796,7 @@
     "uniqueEntryId": "2fp9ChfPuPdYefTK3",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00591",
+      "id": 591,
       "version": "1.0.0",
       "english": "wharf roach",
       "englishEurope": "wharf roach",
@@ -4890,8 +4812,7 @@
       "japanese": "フナムシ",
       "korean": "갯강구",
       "russian": "морской таракан",
-      "plural": false,
-      "internalIds": [ 591 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4936,7 +4857,7 @@
     "uniqueEntryId": "9d92MqgcnGao8wQjB",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00625",
+      "id": 625,
       "version": "1.0.0",
       "english": "yellow butterfly",
       "englishEurope": "yellow butterfly",
@@ -4952,8 +4873,7 @@
       "japanese": "モンキチョウ",
       "korean": "노랑나비",
       "russian": "желтушка",
-      "plural": false,
-      "internalIds": [ 625 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {

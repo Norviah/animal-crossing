@@ -29,7 +29,6 @@ export interface Creature {
     lightingType?:        LightingType | null;
     versionAdded?:        Version;
     unlocked?:            boolean;
-    versionUnlocked?:     Version;
     catchDifficulty?:     CatchDifficulty;
     vision?:              Vision;
 }
@@ -114,8 +113,8 @@ export enum CreatureSourceSheet {
 
 export interface Translations {
     sourceSheet:        TranslationsSourceSheet;
-    id:                 number | string;
-    version?:           Version;
+    id:                 number;
+    version:            Version;
     english:            string;
     englishEurope:      string;
     german:             string;
@@ -131,16 +130,12 @@ export interface Translations {
     korean:             string;
     russian:            string;
     plural:             boolean;
-    internalIds:        number[];
-    variantId?:         number;
-    clothName?:         string;
 }
 
 export enum TranslationsSourceSheet {
     Bugs = "Bugs",
     Fish = "Fish",
     SeaCreatures = "Sea Creatures",
-    TopsVariants = "Tops Variants",
 }
 
 export enum Version {

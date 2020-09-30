@@ -22,15 +22,13 @@
     "versionAdded": "1.1.0",
     "unlocked": true,
     "unlockNotes": [ "2020-04-01", "BCAT", "1.1.0a" ],
-    "versionUnlocked": "1.1.0a",
     "filename": "ToolStickEgg",
     "variantId": null,
     "internalId": 12578,
     "uniqueEntryId": "26wk773sY75rKY2P4",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_12578",
+      "id": 12578,
       "version": "1.1.0",
       "english": "Bunny Day wand",
       "englishEurope": "Bunny Day wand",
@@ -46,8 +44,7 @@
       "japanese": "イースターなステッキ",
       "korean": "이스터 지팡이",
       "russian": "палочка на День зайцев",
-      "plural": false,
-      "internalIds": [ 12578 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -59,11 +56,13 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Zipper" ],
-      "sourceNotes": "Reward from Zipper after crafting wobbling Zipper toy; Only available during Bunny Day",
+      "sourceNotes": [
+        "Reward from Zipper after crafting wobbling Zipper toy",
+        "Only available during Bunny Day"
+      ],
       "versionAdded": "1.1.0",
       "unlocked": true,
       "unlockNotes": [ "2020-04-01", "BCAT", "1.1.0a" ],
-      "versionUnlocked": "1.1.0a",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 12578,
@@ -74,7 +73,7 @@
       "uniqueEntryId": "ySsGKkX7k5TFeytzQ",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_12578",
+        "id": 12578,
         "version": "1.1.0",
         "english": "Bunny Day wand",
         "englishEurope": "Bunny Day wand",
@@ -90,14 +89,13 @@
         "japanese": "イースターなステッキ",
         "korean": "이스터 지팡이",
         "russian": "палочка на День зайцев",
-        "plural": false,
-        "internalIds": [ 12578 ]
+        "plural": false
       },
       "materials": { "wobbling Zipper toy": 1, "star fragment": 3 },
       "materialsTranslations": {
         "wobbling Zipper toy": {
           "sourceSheet": "Furniture",
-          "id": "Ftr_12412",
+          "id": 12412,
           "version": "1.1.0",
           "english": "wobbling Zipper toy",
           "englishEurope": "wobbling Zipper toy",
@@ -113,12 +111,11 @@
           "japanese": "ぴょんたろうのおきあがりこぼし",
           "korean": "토빗 오뚝이",
           "russian": "неваляшка-Зиппер",
-          "plural": false,
-          "internalIds": [ 12412 ]
+          "plural": false
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -134,8 +131,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -163,15 +159,13 @@
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolPennantRcm",
     "variantId": null,
     "internalId": 13128,
     "uniqueEntryId": "C5sMrB792zhZekeqW",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "HandheldPennant_13128",
+      "id": 13128,
       "version": "1.4.0",
       "english": "Nook Inc. handheld pennant",
       "englishEurope": "Nook Inc. handheld pennant",
@@ -187,8 +181,7 @@
       "japanese": "たぬきかいはつのてもちペナント",
       "korean": "Nook Inc. 손 깃발",
       "russian": "флажок Nook Inc.",
-      "plural": false,
-      "internalIds": [ 13128 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -216,15 +209,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolFanNook0",
     "variantId": null,
     "internalId": 9762,
     "uniqueEntryId": "Qwfx3obKdwCDKr4WG",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Uchiwa_09762",
+      "id": 9762,
       "version": "1.0.0",
       "english": "Nook Inc. uchiwa fan",
       "englishEurope": "Nook Inc. uchiwa fan",
@@ -240,8 +231,7 @@
       "japanese": "たぬきかいはつうちわ",
       "korean": "Nook Inc. 둥글부채",
       "russian": "веер утива Nook Inc.",
-      "plural": false,
-      "internalIds": [ 9762 ]
+      "plural": false
     },
     "colors": [ "Green", "White" ],
     "recipe": null
@@ -269,15 +259,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolAxe",
     "variantId": null,
     "internalId": 2100,
     "uniqueEntryId": "iR9zzEhzpbXTGdkR4",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Axe_02100",
+      "id": 2100,
       "version": "1.0.0",
       "english": "axe",
       "englishEurope": "axe",
@@ -293,8 +281,7 @@
       "japanese": "オノ",
       "korean": "도끼",
       "russian": "топор",
-      "plural": false,
-      "internalIds": [ 2100 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -306,11 +293,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Pretty Good Tools Recipes" ],
-      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "sourceNotes": [ "Purchase Pretty Good Tools Recipes via Nook Miles Redemption" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 2100,
@@ -321,7 +307,7 @@
       "uniqueEntryId": "b3QE9sXE7w5KCXkS5",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Axe_02100",
+        "id": 2100,
         "version": "1.0.0",
         "english": "axe",
         "englishEurope": "axe",
@@ -337,14 +323,13 @@
         "japanese": "オノ",
         "korean": "도끼",
         "russian": "топор",
-        "plural": false,
-        "internalIds": [ 2100 ]
+        "plural": false
       },
       "materials": { "flimsy axe": 1, "wood": 3, "iron nugget": 1 },
       "materialsTranslations": {
         "flimsy axe": {
           "sourceSheet": "Tools",
-          "id": "Axe_03068",
+          "id": 3068,
           "version": "1.0.0",
           "english": "flimsy axe",
           "englishEurope": "flimsy axe",
@@ -360,33 +345,32 @@
           "japanese": "ショボいオノ",
           "korean": "엉성한 도끼",
           "russian": "непрочный топор",
-          "plural": false,
-          "internalIds": [ 3068 ]
+          "plural": false
         },
         "wood": {
-          "sourceSheet": "Craft",
-          "id": "CraftMaterial_02768",
-          "version": "1.0.0",
-          "english": "wood",
-          "englishEurope": "wood",
-          "german": "Holz",
-          "spanish": "tabla normal",
-          "spanishUs": "tabla normal",
-          "french": "bois",
-          "frenchUs": "bois",
-          "italian": "legno normale",
-          "dutch": "hout",
-          "chinese": "木材",
-          "chineseTraditional": "木材",
-          "japanese": "もくざい",
-          "korean": "목재",
-          "russian": "древесина",
-          "plural": false,
-          "internalIds": [ 2768 ]
+          "sourceSheet": "Furniture Patterns",
+          "variantId": 4,
+          "id": 3307,
+          "furnitureName": "digital scale",
+          "english": "Wood",
+          "englishEurope": "Wood",
+          "german": "Gelbe Streifen",
+          "spanish": "Madera",
+          "spanishUs": "Madera",
+          "french": "Bois",
+          "frenchUs": "Bois",
+          "italian": "Legno",
+          "dutch": "Hout",
+          "chinese": "黄色条纹",
+          "chineseTraditional": "黃色條紋",
+          "japanese": "イエローストライプ",
+          "korean": "옐로 스트라이프",
+          "russian": "Под дерево",
+          "plural": false
         },
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -402,8 +386,7 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         }
       }
     }
@@ -431,15 +414,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickBamboo",
     "variantId": null,
     "internalId": 7590,
     "uniqueEntryId": "YLjDYt9NhwTgoXhLD",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_07590",
+      "id": 7590,
       "version": "1.0.0",
       "english": "bamboo wand",
       "englishEurope": "bamboo wand",
@@ -455,8 +436,7 @@
       "japanese": "たけのステッキ",
       "korean": "대나무 지팡이",
       "russian": "палочка из бамбука",
-      "plural": false,
-      "internalIds": [ 7590 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -468,11 +448,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Spring",
+      "sourceNotes": [ "Only available during Spring" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 7590,
@@ -483,7 +462,7 @@
       "uniqueEntryId": "Z5FSewP6wM2McqRCJ",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_07590",
+        "id": 7590,
         "version": "1.0.0",
         "english": "bamboo wand",
         "englishEurope": "bamboo wand",
@@ -499,35 +478,33 @@
         "japanese": "たけのステッキ",
         "korean": "대나무 지팡이",
         "russian": "палочка из бамбука",
-        "plural": false,
-        "internalIds": [ 7590 ]
+        "plural": false
       },
       "materials": { "young spring bamboo": 6, "star fragment": 3 },
       "materialsTranslations": {
         "young spring bamboo": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_05729",
+          "id": 5729,
           "version": "1.0.0",
           "english": "young spring bamboo",
           "englishEurope": "young spring bamboo",
           "german": "Frühlingsbambus",
-          "spanish": "tallo de bambú primaveral",
-          "spanishUs": "tallo de bambú primaveral",
-          "french": "jeune bambou printemps",
-          "frenchUs": "jeune bambou printemps",
-          "italian": "bambù giovane primavera",
+          "spanish": "tallos de bambú primaveral",
+          "spanishUs": "tallos de bambú primaveral",
+          "french": "jeunes bambous printemps",
+          "frenchUs": "jeunes bambous printemps",
+          "italian": "bambù giovani primavera",
           "dutch": "jonge lentebamboe",
           "chinese": "春笋",
           "chineseTraditional": "春筍",
           "japanese": "はるのわかたけ",
           "korean": "봄의 대나무",
           "russian": "весенний бамбук",
-          "plural": false,
-          "internalIds": [ 5729 ]
+          "plural": true
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -543,8 +520,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -568,19 +544,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolBalloonNormal",
     "variantId": null,
     "internalId": 7869,
     "uniqueEntryId": "wZi9GW6MbpePQpvKY",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Balloon_07869",
+      "id": 7869,
       "version": "1.4.0",
       "english": "blue balloon",
       "englishEurope": "blue balloon",
@@ -596,8 +573,7 @@
       "japanese": "あおいふうせん",
       "korean": "파란색 풍선",
       "russian": "синий шарик",
-      "plural": false,
-      "internalIds": [ 7869 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -621,19 +597,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolFireworks1",
     "variantId": null,
     "internalId": 12974,
     "uniqueEntryId": "nX6tAkPNA4xgzbhon",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "FierworkHand_12974",
+      "id": 12974,
       "version": "1.4.0",
       "english": "blue sparkler",
       "englishEurope": "blue sparkler",
@@ -649,8 +626,7 @@
       "japanese": "あおいてもちはなび",
       "korean": "파란색 스파클러",
       "russian": "син. бенгальский огонь",
-      "plural": false,
-      "internalIds": [ 12974 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -674,19 +650,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolBubblesNormal",
     "variantId": null,
     "internalId": 4386,
     "uniqueEntryId": "CQmL5dEmhYEGkCJCF",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "BlowBubble_04386",
+      "id": 4386,
       "version": "1.4.0",
       "english": "bubble blower",
       "englishEurope": "bubble blower",
@@ -702,8 +679,7 @@
       "japanese": "シャボンだま",
       "korean": "비눗방울",
       "russian": "набор для пузырей",
-      "plural": false,
-      "internalIds": [ 4386 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -731,15 +707,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStcikInsect",
     "variantId": null,
     "internalId": 8769,
     "uniqueEntryId": "vqp4KBeWgZjYbFj7Z",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_08769",
+      "id": 8769,
       "version": "1.0.0",
       "english": "bug wand",
       "englishEurope": "bug wand",
@@ -755,8 +729,7 @@
       "japanese": "ムシのステッキ",
       "korean": "곤충 지팡이",
       "russian": "палочка с насекомым",
-      "plural": false,
-      "internalIds": [ 8769 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -784,15 +757,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickCherryblossom",
     "variantId": null,
     "internalId": 7589,
     "uniqueEntryId": "WHHbg5ZqTMu4J2wm5",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_07589",
+      "id": 7589,
       "version": "1.0.0",
       "english": "cherry-blossom wand",
       "englishEurope": "cherry-blossom wand",
@@ -808,8 +779,7 @@
       "japanese": "さくらのステッキ",
       "korean": "벚꽃 지팡이",
       "russian": "палочка с сакурой",
-      "plural": false,
-      "internalIds": [ 7589 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -821,11 +791,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Cherry-Blossom Season",
+      "sourceNotes": [ "Only available during Cherry-Blossom Season" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 7589,
@@ -836,7 +805,7 @@
       "uniqueEntryId": "TRZ2p8L58k3FvGpPJ",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_07589",
+        "id": 7589,
         "version": "1.0.0",
         "english": "cherry-blossom wand",
         "englishEurope": "cherry-blossom wand",
@@ -852,14 +821,13 @@
         "japanese": "さくらのステッキ",
         "korean": "벚꽃 지팡이",
         "russian": "палочка с сакурой",
-        "plural": false,
-        "internalIds": [ 7589 ]
+        "plural": false
       },
       "materials": { "cherry-blossom petal": 3, "star fragment": 3 },
       "materialsTranslations": {
         "cherry-blossom petal": {
           "sourceSheet": "Craft",
-          "id": "Sakurapetal_05859",
+          "id": 5859,
           "version": "1.0.0",
           "english": "cherry-blossom petal",
           "englishEurope": "cherry-blossom petal",
@@ -875,12 +843,11 @@
           "japanese": "さくらのはなびら",
           "korean": "벚꽃잎",
           "russian": "лепесток вишни",
-          "plural": false,
-          "internalIds": [ 5859 ]
+          "plural": false
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -896,8 +863,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -908,9 +874,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": "Colorful Tools",
     "bodyTitle": "Color",
     "buy": 2500,
@@ -918,7 +883,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "FishingRod_08472",
+      "id": 8472,
       "version": "1.0.0",
       "english": "colorful fishing rod",
       "englishEurope": "colorful fishing rod",
@@ -934,8 +899,7 @@
       "japanese": "カラフルなつりざお",
       "korean": "컬러풀 낚싯대",
       "russian": "яркая удочка",
-      "plural": false,
-      "internalIds": [ 8472 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -967,8 +931,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -998,8 +961,7 @@
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
+          "russian": "Оранжевый"
         },
         "colors": []
       },
@@ -1029,8 +991,7 @@
           "chineseTraditional": "淺藍色",
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
+          "russian": "Голубой"
         },
         "colors": []
       },
@@ -1060,8 +1021,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -1091,8 +1051,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -1122,8 +1081,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -1153,8 +1111,7 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
+          "russian": "Белый"
         },
         "colors": []
       },
@@ -1184,8 +1141,7 @@
           "chineseTraditional": "灰色",
           "japanese": "グレー",
           "korean": "그레이",
-          "russian": "Серый",
-          "plural": false
+          "russian": "Серый"
         },
         "colors": []
       }
@@ -1198,9 +1154,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": "Colorful Tools",
     "bodyTitle": "Color",
     "buy": 2500,
@@ -1208,7 +1163,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Net_08177",
+      "id": 8177,
       "version": "1.0.0",
       "english": "colorful net",
       "englishEurope": "colorful net",
@@ -1224,8 +1179,7 @@
       "japanese": "カラフルなあみ",
       "korean": "컬러풀 잠자리채",
       "russian": "яркий сачок",
-      "plural": false,
-      "internalIds": [ 8177 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -1272,8 +1226,7 @@
           "chineseTraditional": "紅色×黃色",
           "japanese": "レッド×イエロー",
           "korean": "레드×옐로",
-          "russian": "Красный с желтым",
-          "plural": false
+          "russian": "Красный с желтым"
         },
         "colors": []
       },
@@ -1318,8 +1271,7 @@
           "chineseTraditional": "粉紅色×黃色",
           "japanese": "ピンク×イエロー",
           "korean": "핑크×옐로",
-          "russian": "Розовый с желтым",
-          "plural": false
+          "russian": "Розовый с желтым"
         },
         "colors": []
       },
@@ -1349,8 +1301,7 @@
           "chineseTraditional": "綠色×藍色",
           "japanese": "グリーン×ブルー",
           "korean": "그린×블루",
-          "russian": "Зеленый с синим",
-          "plural": false
+          "russian": "Зеленый с синим"
         },
         "colors": []
       },
@@ -1380,8 +1331,7 @@
           "chineseTraditional": "紫色×粉紅色",
           "japanese": "パープル×ピンク",
           "korean": "퍼플×핑크",
-          "russian": "Фиолетово-розовый",
-          "plural": false
+          "russian": "Фиолетово-розовый"
         },
         "colors": []
       },
@@ -1411,8 +1361,7 @@
           "chineseTraditional": "白色×藍色",
           "japanese": "ホワイト×ブルー",
           "korean": "화이트×블루",
-          "russian": "Белый с синим",
-          "plural": false
+          "russian": "Белый с синим"
         },
         "colors": []
       },
@@ -1440,9 +1389,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": "Colorful Tools",
     "bodyTitle": "Color",
     "buy": 2500,
@@ -1450,7 +1398,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Shovel_08577",
+      "id": 8577,
       "version": "1.0.0",
       "english": "colorful shovel",
       "englishEurope": "colorful shovel",
@@ -1466,8 +1414,7 @@
       "japanese": "カラフルなスコップ",
       "korean": "컬러풀 삽",
       "russian": "яркая лопата",
-      "plural": false,
-      "internalIds": [ 8577 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -1499,8 +1446,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -1530,8 +1476,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -1561,8 +1506,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -1592,8 +1536,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -1623,8 +1566,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -1654,8 +1596,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -1685,8 +1626,7 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
+          "russian": "Белый"
         },
         "colors": []
       },
@@ -1716,8 +1656,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -1730,9 +1669,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": "Colorful Tools",
     "bodyTitle": "Color",
     "buy": 2500,
@@ -1740,7 +1678,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Slingshot_08580",
+      "id": 8580,
       "version": "1.0.0",
       "english": "colorful slingshot",
       "englishEurope": "colorful slingshot",
@@ -1756,8 +1694,7 @@
       "japanese": "カラフルなパチンコ",
       "korean": "컬러풀 새총",
       "russian": "яркая рогатка",
-      "plural": false,
-      "internalIds": [ 8580 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -1789,8 +1726,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -1820,8 +1756,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -1851,8 +1786,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -1882,8 +1816,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -1913,8 +1846,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -1944,8 +1876,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -1975,8 +1906,7 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
+          "russian": "Белый"
         },
         "colors": []
       },
@@ -2006,8 +1936,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -2020,9 +1949,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": "Colorful Tools",
     "bodyTitle": "Color",
     "buy": 2500,
@@ -2030,7 +1958,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Watering_08534",
+      "id": 8534,
       "version": "1.0.0",
       "english": "colorful watering can",
       "englishEurope": "colorful watering can",
@@ -2046,8 +1974,7 @@
       "japanese": "カラフルなジョウロ",
       "korean": "컬러풀 물뿌리개",
       "russian": "яркая лейка",
-      "plural": false,
-      "internalIds": [ 8534 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -2079,8 +2006,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -2110,8 +2036,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -2141,8 +2066,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -2172,8 +2096,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -2203,8 +2126,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -2234,8 +2156,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -2265,8 +2186,7 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
+          "russian": "Белый"
         },
         "colors": []
       },
@@ -2296,8 +2216,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -2327,15 +2246,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickCosmos",
     "variantId": null,
     "internalId": 5092,
     "uniqueEntryId": "vNqGM6xMEtteYKoza",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_05092",
+      "id": 5092,
       "version": "1.0.0",
       "english": "cosmos wand",
       "englishEurope": "cosmos wand",
@@ -2351,8 +2268,7 @@
       "japanese": "コスモスのステッキ",
       "korean": "코스모스 지팡이",
       "russian": "палочка с космеей",
-      "plural": false,
-      "internalIds": [ 5092 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -2368,7 +2284,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 5092,
@@ -2379,7 +2294,7 @@
       "uniqueEntryId": "qw6sc7YjNoXFjQt7J",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_05092",
+        "id": 5092,
         "version": "1.0.0",
         "english": "cosmos wand",
         "englishEurope": "cosmos wand",
@@ -2395,35 +2310,33 @@
         "japanese": "コスモスのステッキ",
         "korean": "코스모스 지팡이",
         "russian": "палочка с космеей",
-        "plural": false,
-        "internalIds": [ 5092 ]
+        "plural": false
       },
       "materials": { "white cosmos": 1, "star fragment": 3 },
       "materialsTranslations": {
         "white cosmos": {
           "sourceSheet": "Plants",
-          "id": "Flower_02305",
+          "id": 2305,
           "version": "1.0.0",
           "english": "white cosmos",
           "englishEurope": "white cosmos",
-          "german": "Weißcosmea",
-          "spanish": "cosmos blanco",
-          "spanishUs": "cosmos blanco",
-          "french": "cosmos blanc",
-          "frenchUs": "cosmos blanc",
-          "italian": "cosmea bianca",
-          "dutch": "witte cosmea",
+          "german": "Weißcosmeen",
+          "spanish": "cosmos blancos",
+          "spanishUs": "cosmos blancos",
+          "french": "cosmos blancs",
+          "frenchUs": "cosmos blancs",
+          "italian": "cosmee bianche",
+          "dutch": "witte cosmea's",
           "chinese": "白色波斯菊",
           "chineseTraditional": "白色波斯菊",
           "japanese": "しろいコスモス",
           "korean": "하얀 코스모스",
-          "russian": "белая космея",
-          "plural": false,
-          "internalIds": [ 2305 ]
+          "russian": "белые космеи",
+          "plural": true
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -2439,8 +2352,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -2451,9 +2363,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": null,
     "bodyTitle": "Color",
     "buy": 2500,
@@ -2461,7 +2372,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Watering_08535",
+      "id": 8535,
       "version": "1.0.0",
       "english": "elephant watering can",
       "englishEurope": "elephant watering can",
@@ -2477,8 +2388,7 @@
       "japanese": "ゾウさんジョウロ",
       "korean": "코끼리 물뿌리개",
       "russian": "лейка-слон",
-      "plural": false,
-      "internalIds": [ 8535 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -2510,8 +2420,7 @@
           "chineseTraditional": "灰色",
           "japanese": "グレー",
           "korean": "그레이",
-          "russian": "Серый",
-          "plural": false
+          "russian": "Серый"
         },
         "colors": []
       },
@@ -2541,8 +2450,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -2572,8 +2480,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -2603,8 +2510,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -2634,8 +2540,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -2665,8 +2570,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -2696,8 +2600,7 @@
           "chineseTraditional": "淺藍色",
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
+          "russian": "Голубой"
         },
         "colors": []
       },
@@ -2727,8 +2630,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -2741,9 +2643,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": null,
     "bodyTitle": "Color",
     "buy": 2500,
@@ -2751,7 +2652,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "FishingRod_08471",
+      "id": 8471,
       "version": "1.0.0",
       "english": "fish fishing rod",
       "englishEurope": "fish fishing rod",
@@ -2767,8 +2668,7 @@
       "japanese": "おサカナつりざお",
       "korean": "물고기 낚싯대",
       "russian": "удочка с уткой",
-      "plural": false,
-      "internalIds": [ 8471 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -2800,8 +2700,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -2831,8 +2730,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -2862,8 +2760,7 @@
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
+          "russian": "Оранжевый"
         },
         "colors": []
       },
@@ -2893,8 +2790,7 @@
           "chineseTraditional": "淺藍色",
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
+          "russian": "Голубой"
         },
         "colors": []
       },
@@ -2924,8 +2820,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -2955,8 +2850,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -2986,8 +2880,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -3017,8 +2910,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       }
@@ -3048,15 +2940,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickFish",
     "variantId": null,
     "internalId": 8770,
     "uniqueEntryId": "HrGFzby54HCv326PJ",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_08770",
+      "id": 8770,
       "version": "1.0.0",
       "english": "fish wand",
       "englishEurope": "fish wand",
@@ -3072,8 +2962,7 @@
       "japanese": "おサカナのステッキ",
       "korean": "물고기 지팡이",
       "russian": "палочка с рыбой",
-      "plural": false,
-      "internalIds": [ 8770 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -3086,7 +2975,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": null,
     "bodyTitle": "Color",
     "buy": -1,
@@ -3094,7 +2982,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "FishingRod_02377",
+      "id": 2377,
       "version": "1.0.0",
       "english": "fishing rod",
       "englishEurope": "fishing rod",
@@ -3110,8 +2998,7 @@
       "japanese": "つりざお",
       "korean": "낚싯대",
       "russian": "удочка",
-      "plural": false,
-      "internalIds": [ 2377 ]
+      "plural": false
     },
     "source": [ "Crafting" ],
     "hhaBasePoints": 0,
@@ -3143,8 +3030,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -3174,8 +3060,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -3205,8 +3090,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -3236,8 +3120,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -3267,8 +3150,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -3298,8 +3180,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -3329,8 +3210,7 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
+          "russian": "Белый"
         },
         "colors": []
       },
@@ -3360,8 +3240,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -3375,11 +3254,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Pretty Good Tools Recipes" ],
-      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "sourceNotes": [ "Purchase Pretty Good Tools Recipes via Nook Miles Redemption" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 2377,
@@ -3390,7 +3268,7 @@
       "uniqueEntryId": "FeccEGBoFMHyMM75Q",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "FishingRod_02377",
+        "id": 2377,
         "version": "1.0.0",
         "english": "fishing rod",
         "englishEurope": "fishing rod",
@@ -3406,14 +3284,13 @@
         "japanese": "つりざお",
         "korean": "낚싯대",
         "russian": "удочка",
-        "plural": false,
-        "internalIds": [ 2377 ]
+        "plural": false
       },
       "materials": { "flimsy fishing rod": 1, "iron nugget": 1 },
       "materialsTranslations": {
         "flimsy fishing rod": {
           "sourceSheet": "Tools",
-          "id": "FishingRod_03084",
+          "id": 3084,
           "version": "1.0.0",
           "english": "flimsy fishing rod",
           "englishEurope": "flimsy fishing rod",
@@ -3429,12 +3306,11 @@
           "japanese": "ショボいつりざお",
           "korean": "엉성한 낚싯대",
           "russian": "непрочная удочка",
-          "plural": false,
-          "internalIds": [ 3084 ]
+          "plural": false
         },
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -3450,8 +3326,7 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         }
       }
     }
@@ -3475,19 +3350,17 @@
     "exchangePrice": 100,
     "exchangeCurrency": "Nook Miles",
     "source": [ "Nook's Cranny", "Crafting", "Wilbur" ],
-    "sourceNotes": "Available after unlocking the axe in the story",
+    "sourceNotes": [ "Available after unlocking the axe in the story" ],
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolAxeStone",
     "variantId": null,
     "internalId": 3068,
     "uniqueEntryId": "L79jandXPjEAoQScd",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Axe_03068",
+      "id": 3068,
       "version": "1.0.0",
       "english": "flimsy axe",
       "englishEurope": "flimsy axe",
@@ -3503,8 +3376,7 @@
       "japanese": "ショボいオノ",
       "korean": "엉성한 도끼",
       "russian": "непрочный топор",
-      "plural": false,
-      "internalIds": [ 3068 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -3516,11 +3388,12 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Tom Nook", "Nook's Cranny" ],
-      "sourceNotes": "Obtained through Tom Nook's DIY Workshop at the beginning of the game and can also be purchased at Nook's Cranny",
+      "sourceNotes": [
+        "Obtained through Tom Nook's DIY Workshop at the beginning of the game and can also be purchased at Nook's Cranny"
+      ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 3068,
@@ -3531,7 +3404,7 @@
       "uniqueEntryId": "6WFHd6r74ZDND9eCx",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Axe_03068",
+        "id": 3068,
         "version": "1.0.0",
         "english": "flimsy axe",
         "englishEurope": "flimsy axe",
@@ -3547,14 +3420,13 @@
         "japanese": "ショボいオノ",
         "korean": "엉성한 도끼",
         "russian": "непрочный топор",
-        "plural": false,
-        "internalIds": [ 3068 ]
+        "plural": false
       },
       "materials": { "tree branch": 5, "stone": 1 },
       "materialsTranslations": {
         "tree branch": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02500",
+          "id": 2500,
           "version": "1.0.0",
           "english": "tree branch",
           "englishEurope": "tree branch",
@@ -3570,8 +3442,7 @@
           "japanese": "きのえだ",
           "korean": "나뭇가지",
           "russian": "ветка",
-          "plural": false,
-          "internalIds": [ 2500 ]
+          "plural": false
         },
         "stone": {
           "sourceSheet": "HHA Set",
@@ -3591,8 +3462,7 @@
           "japanese": "いし",
           "korean": "돌",
           "russian": "Камень",
-          "plural": false,
-          "internalIds": [ 2502 ]
+          "plural": false
         }
       }
     }
@@ -3616,19 +3486,19 @@
     "exchangePrice": 100,
     "exchangeCurrency": "Nook Miles",
     "source": [ "Nook's Cranny", "Crafting", "Wilbur" ],
-    "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
+    "sourceNotes": [
+      "Available in all tiers of shops, including Timmy & Tommy before the shop is opened"
+    ],
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolFishingrodWood",
     "variantId": null,
     "internalId": 3084,
     "uniqueEntryId": "qtA9zfSRuaCkmmQXr",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "FishingRod_03084",
+      "id": 3084,
       "version": "1.0.0",
       "english": "flimsy fishing rod",
       "englishEurope": "flimsy fishing rod",
@@ -3644,8 +3514,7 @@
       "japanese": "ショボいつりざお",
       "korean": "엉성한 낚싯대",
       "russian": "непрочная удочка",
-      "plural": false,
-      "internalIds": [ 3084 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -3657,11 +3526,12 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Tom Nook" ],
-      "sourceNotes": "Obtained through Tom Nook's DIY Workshop at the beginning of the game",
+      "sourceNotes": [
+        "Obtained through Tom Nook's DIY Workshop at the beginning of the game"
+      ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 3084,
@@ -3672,7 +3542,7 @@
       "uniqueEntryId": "9JboJHudaWqqbQxbZ",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "FishingRod_03084",
+        "id": 3084,
         "version": "1.0.0",
         "english": "flimsy fishing rod",
         "englishEurope": "flimsy fishing rod",
@@ -3688,14 +3558,13 @@
         "japanese": "ショボいつりざお",
         "korean": "엉성한 낚싯대",
         "russian": "непрочная удочка",
-        "plural": false,
-        "internalIds": [ 3084 ]
+        "plural": false
       },
       "materials": { "tree branch": 5 },
       "materialsTranslations": {
         "tree branch": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02500",
+          "id": 2500,
           "version": "1.0.0",
           "english": "tree branch",
           "englishEurope": "tree branch",
@@ -3711,8 +3580,7 @@
           "japanese": "きのえだ",
           "korean": "나뭇가지",
           "russian": "ветка",
-          "plural": false,
-          "internalIds": [ 2500 ]
+          "plural": false
         }
       }
     }
@@ -3736,19 +3604,19 @@
     "exchangePrice": 100,
     "exchangeCurrency": "Nook Miles",
     "source": [ "Nook's Cranny", "Crafting", "Wilbur" ],
-    "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
+    "sourceNotes": [
+      "Available in all tiers of shops, including Timmy & Tommy before the shop is opened"
+    ],
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolNet",
     "variantId": null,
     "internalId": 2376,
     "uniqueEntryId": "PHe3aaN2nsXFcQXxN",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Net_02376",
+      "id": 2376,
       "version": "1.0.0",
       "english": "flimsy net",
       "englishEurope": "flimsy net",
@@ -3764,8 +3632,7 @@
       "japanese": "ショボいあみ",
       "korean": "엉성한 잠자리채",
       "russian": "непрочный сачок",
-      "plural": false,
-      "internalIds": [ 2376 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -3777,11 +3644,12 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Tom Nook" ],
-      "sourceNotes": "Obtained from Tom Nook after completing his DIY Workshop at the beginning of the game",
+      "sourceNotes": [
+        "Obtained from Tom Nook after completing his DIY Workshop at the beginning of the game"
+      ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 2376,
@@ -3792,7 +3660,7 @@
       "uniqueEntryId": "jF9AD5TZekwWomWwJ",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Net_02376",
+        "id": 2376,
         "version": "1.0.0",
         "english": "flimsy net",
         "englishEurope": "flimsy net",
@@ -3808,14 +3676,13 @@
         "japanese": "ショボいあみ",
         "korean": "엉성한 잠자리채",
         "russian": "непрочный сачок",
-        "plural": false,
-        "internalIds": [ 2376 ]
+        "plural": false
       },
       "materials": { "tree branch": 5 },
       "materialsTranslations": {
         "tree branch": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02500",
+          "id": 2500,
           "version": "1.0.0",
           "english": "tree branch",
           "englishEurope": "tree branch",
@@ -3831,8 +3698,7 @@
           "japanese": "きのえだ",
           "korean": "나뭇가지",
           "russian": "ветка",
-          "plural": false,
-          "internalIds": [ 2500 ]
+          "plural": false
         }
       }
     }
@@ -3856,19 +3722,17 @@
     "exchangePrice": 100,
     "exchangeCurrency": "Nook Miles",
     "source": [ "Nook's Cranny", "Crafting", "Wilbur" ],
-    "sourceNotes": "Available after unlocking the shovel in the story",
+    "sourceNotes": [ "Available after unlocking the shovel in the story" ],
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolShovelWood",
     "variantId": null,
     "internalId": 3082,
     "uniqueEntryId": "PnLgMCQ34R3HxWqcT",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Shovel_03082",
+      "id": 3082,
       "version": "1.0.0",
       "english": "flimsy shovel",
       "englishEurope": "flimsy shovel",
@@ -3884,8 +3748,7 @@
       "japanese": "ショボいスコップ",
       "korean": "엉성한 삽",
       "russian": "непрочная лопата",
-      "plural": false,
-      "internalIds": [ 3082 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -3901,7 +3764,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 3082,
@@ -3912,7 +3774,7 @@
       "uniqueEntryId": "bPp3TpiueJDRte9wT",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Shovel_03082",
+        "id": 3082,
         "version": "1.0.0",
         "english": "flimsy shovel",
         "englishEurope": "flimsy shovel",
@@ -3928,31 +3790,29 @@
         "japanese": "ショボいスコップ",
         "korean": "엉성한 삽",
         "russian": "непрочная лопата",
-        "plural": false,
-        "internalIds": [ 3082 ]
+        "plural": false
       },
       "materials": { "hardwood": 5 },
       "materialsTranslations": {
         "hardwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02769",
+          "id": 2769,
           "version": "1.0.0",
           "english": "hardwood",
           "englishEurope": "hardwood",
           "german": "Hartholz",
-          "spanish": "tabla rígida",
-          "spanishUs": "tabla rígida",
+          "spanish": "tablas rígidas",
+          "spanishUs": "tablas rígidas",
           "french": "bois dur",
           "frenchUs": "bois dur",
-          "italian": "legno duro",
+          "italian": "legna dura",
           "dutch": "hardhout",
           "chinese": "硬木材",
           "chineseTraditional": "硬木材",
           "japanese": "かたいもくざい",
           "korean": "단단한 목재",
           "russian": "твердая древесина",
-          "plural": false,
-          "internalIds": [ 2769 ]
+          "plural": true
         }
       }
     }
@@ -3976,19 +3836,19 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Nook's Cranny", "Crafting" ],
-    "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
+    "sourceNotes": [
+      "Available in all tiers of shops, including Timmy & Tommy before the shop is opened"
+    ],
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolWateringWood",
     "variantId": null,
     "internalId": 3083,
     "uniqueEntryId": "BdRyC6atcvz3KJnnM",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Watering_03083",
+      "id": 3083,
       "version": "1.0.0",
       "english": "flimsy watering can",
       "englishEurope": "flimsy watering can",
@@ -4004,8 +3864,7 @@
       "japanese": "ショボいジョウロ",
       "korean": "엉성한 물뿌리개",
       "russian": "непрочная лейка",
-      "plural": false,
-      "internalIds": [ 3083 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -4021,7 +3880,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 3083,
@@ -4032,7 +3890,7 @@
       "uniqueEntryId": "FnnhLbn7KQdg2Xqey",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Watering_03083",
+        "id": 3083,
         "version": "1.0.0",
         "english": "flimsy watering can",
         "englishEurope": "flimsy watering can",
@@ -4048,31 +3906,29 @@
         "japanese": "ショボいジョウロ",
         "korean": "엉성한 물뿌리개",
         "russian": "непрочная лейка",
-        "plural": false,
-        "internalIds": [ 3083 ]
+        "plural": false
       },
       "materials": { "softwood": 5 },
       "materialsTranslations": {
         "softwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02767",
+          "id": 2767,
           "version": "1.0.0",
           "english": "softwood",
           "englishEurope": "softwood",
           "german": "Weichholz",
-          "spanish": "tabla flexible",
-          "spanishUs": "tabla flexible",
+          "spanish": "tablas flexibles",
+          "spanishUs": "tablas flexibles",
           "french": "bois tendre",
           "frenchUs": "bois tendre",
-          "italian": "legno morbido",
+          "italian": "legna morbida",
           "dutch": "zachthout",
           "chinese": "软木材",
           "chineseTraditional": "軟木材",
           "japanese": "やわらかいもくざい",
           "korean": "부드러운 목재",
           "russian": "мягкая древесина",
-          "plural": false,
-          "internalIds": [ 2767 ]
+          "plural": true
         }
       }
     }
@@ -4100,15 +3956,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolAxeGold",
     "variantId": null,
     "internalId": 9617,
     "uniqueEntryId": "eX9RXzQHaaZX89zoN",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Axe_09617",
+      "id": 9617,
       "version": "1.0.0",
       "english": "golden axe",
       "englishEurope": "golden axe",
@@ -4124,8 +3978,7 @@
       "japanese": "きんのオノ",
       "korean": "금도끼",
       "russian": "золотой топор",
-      "plural": false,
-      "internalIds": [ 9617 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -4141,7 +3994,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 9617,
@@ -4152,7 +4004,7 @@
       "uniqueEntryId": "M67DJhFjbWusf3xXk",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Axe_09617",
+        "id": 9617,
         "version": "1.0.0",
         "english": "golden axe",
         "englishEurope": "golden axe",
@@ -4168,14 +4020,13 @@
         "japanese": "きんのオノ",
         "korean": "금도끼",
         "russian": "золотой топор",
-        "plural": false,
-        "internalIds": [ 9617 ]
+        "plural": false
       },
       "materials": { "axe": 1, "gold nugget": 1 },
       "materialsTranslations": {
         "axe": {
           "sourceSheet": "Tools",
-          "id": "Axe_02100",
+          "id": 2100,
           "version": "1.0.0",
           "english": "axe",
           "englishEurope": "axe",
@@ -4191,12 +4042,11 @@
           "japanese": "オノ",
           "korean": "도끼",
           "russian": "топор",
-          "plural": false,
-          "internalIds": [ 2100 ]
+          "plural": false
         },
         "gold nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02505",
+          "id": 2505,
           "version": "1.0.0",
           "english": "gold nugget",
           "englishEurope": "gold nugget",
@@ -4212,8 +4062,7 @@
           "japanese": "きんこうせき",
           "korean": "금광석",
           "russian": "золотой самородок",
-          "plural": false,
-          "internalIds": [ 2505 ]
+          "plural": false
         }
       }
     }
@@ -4241,15 +4090,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolNetGold",
     "variantId": null,
     "internalId": 8179,
     "uniqueEntryId": "aKMTWuywGTuorriEg",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Net_08179",
+      "id": 8179,
       "version": "1.0.0",
       "english": "golden net",
       "englishEurope": "golden net",
@@ -4265,8 +4112,7 @@
       "japanese": "きんのあみ",
       "korean": "금 잠자리채",
       "russian": "золотой сачок",
-      "plural": false,
-      "internalIds": [ 8179 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -4282,7 +4128,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 8179,
@@ -4293,7 +4138,7 @@
       "uniqueEntryId": "cnQ4qLNgFDK7F4NQJ",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Net_08179",
+        "id": 8179,
         "version": "1.0.0",
         "english": "golden net",
         "englishEurope": "golden net",
@@ -4309,14 +4154,13 @@
         "japanese": "きんのあみ",
         "korean": "금 잠자리채",
         "russian": "золотой сачок",
-        "plural": false,
-        "internalIds": [ 8179 ]
+        "plural": false
       },
       "materials": { "net": 1, "gold nugget": 1 },
       "materialsTranslations": {
         "net": {
           "sourceSheet": "Tools",
-          "id": "Net_05784",
+          "id": 5784,
           "version": "1.0.0",
           "english": "net",
           "englishEurope": "net",
@@ -4332,12 +4176,11 @@
           "japanese": "あみ",
           "korean": "잠자리채",
           "russian": "сачок",
-          "plural": false,
-          "internalIds": [ 5784 ]
+          "plural": false
         },
         "gold nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02505",
+          "id": 2505,
           "version": "1.0.0",
           "english": "gold nugget",
           "englishEurope": "gold nugget",
@@ -4353,8 +4196,7 @@
           "japanese": "きんこうせき",
           "korean": "금광석",
           "russian": "золотой самородок",
-          "plural": false,
-          "internalIds": [ 2505 ]
+          "plural": false
         }
       }
     }
@@ -4382,15 +4224,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolFishingrodGold",
     "variantId": null,
     "internalId": 8660,
     "uniqueEntryId": "Tt5YeqejtuW3T7Cbq",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "FishingRod_08660",
+      "id": 8660,
       "version": "1.0.0",
       "english": "golden rod",
       "englishEurope": "golden rod",
@@ -4406,8 +4246,7 @@
       "japanese": "きんのつりざお",
       "korean": "금 낚싯대",
       "russian": "золотая удочка",
-      "plural": false,
-      "internalIds": [ 8660 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -4423,7 +4262,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 8660,
@@ -4434,7 +4272,7 @@
       "uniqueEntryId": "FTWgTtoCgm3jNGhM4",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "FishingRod_08660",
+        "id": 8660,
         "version": "1.0.0",
         "english": "golden rod",
         "englishEurope": "golden rod",
@@ -4450,14 +4288,13 @@
         "japanese": "きんのつりざお",
         "korean": "금 낚싯대",
         "russian": "золотая удочка",
-        "plural": false,
-        "internalIds": [ 8660 ]
+        "plural": false
       },
       "materials": { "fishing rod": 1, "gold nugget": 1 },
       "materialsTranslations": {
         "fishing rod": {
           "sourceSheet": "Tools",
-          "id": "FishingRod_02377",
+          "id": 2377,
           "version": "1.0.0",
           "english": "fishing rod",
           "englishEurope": "fishing rod",
@@ -4473,12 +4310,11 @@
           "japanese": "つりざお",
           "korean": "낚싯대",
           "russian": "удочка",
-          "plural": false,
-          "internalIds": [ 2377 ]
+          "plural": false
         },
         "gold nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02505",
+          "id": 2505,
           "version": "1.0.0",
           "english": "gold nugget",
           "englishEurope": "gold nugget",
@@ -4494,8 +4330,7 @@
           "japanese": "きんこうせき",
           "korean": "금광석",
           "russian": "золотой самородок",
-          "plural": false,
-          "internalIds": [ 2505 ]
+          "plural": false
         }
       }
     }
@@ -4523,15 +4358,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolScoopGold",
     "variantId": null,
     "internalId": 8574,
     "uniqueEntryId": "EMzMphvPgdhguM4Ku",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Shovel_08574",
+      "id": 8574,
       "version": "1.0.0",
       "english": "golden shovel",
       "englishEurope": "golden shovel",
@@ -4547,8 +4380,7 @@
       "japanese": "きんのスコップ",
       "korean": "금 삽",
       "russian": "золотая лопата",
-      "plural": false,
-      "internalIds": [ 8574 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -4564,7 +4396,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 8574,
@@ -4575,7 +4406,7 @@
       "uniqueEntryId": "aEtPEYkwgj9BJ48Et",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Shovel_08574",
+        "id": 8574,
         "version": "1.0.0",
         "english": "golden shovel",
         "englishEurope": "golden shovel",
@@ -4591,14 +4422,13 @@
         "japanese": "きんのスコップ",
         "korean": "금 삽",
         "russian": "золотая лопата",
-        "plural": false,
-        "internalIds": [ 8574 ]
+        "plural": false
       },
       "materials": { "shovel": 1, "gold nugget": 1 },
       "materialsTranslations": {
         "shovel": {
           "sourceSheet": "Tools",
-          "id": "Shovel_02099",
+          "id": 2099,
           "version": "1.0.0",
           "english": "shovel",
           "englishEurope": "shovel",
@@ -4614,12 +4444,11 @@
           "japanese": "スコップ",
           "korean": "삽",
           "russian": "лопата",
-          "plural": false,
-          "internalIds": [ 2099 ]
+          "plural": false
         },
         "gold nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02505",
+          "id": 2505,
           "version": "1.0.0",
           "english": "gold nugget",
           "englishEurope": "gold nugget",
@@ -4635,8 +4464,7 @@
           "japanese": "きんこうせき",
           "korean": "금광석",
           "russian": "золотой самородок",
-          "plural": false,
-          "internalIds": [ 2505 ]
+          "plural": false
         }
       }
     }
@@ -4664,15 +4492,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolSlingshotGold",
     "variantId": null,
     "internalId": 8578,
     "uniqueEntryId": "tx3MMcGrZPHeyoLeY",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Slingshot_08578",
+      "id": 8578,
       "version": "1.0.0",
       "english": "golden slingshot",
       "englishEurope": "golden slingshot",
@@ -4688,8 +4514,7 @@
       "japanese": "きんのパチンコ",
       "korean": "금 새총",
       "russian": "золотая рогатка",
-      "plural": false,
-      "internalIds": [ 8578 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -4701,11 +4526,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Gold balloon" ],
-      "sourceNotes": "Balloon appears after shooting 300 balloons",
+      "sourceNotes": [ "Balloon appears after shooting 300 balloons" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 8578,
@@ -4716,7 +4540,7 @@
       "uniqueEntryId": "W7WY5fpjB4Lc36YYs",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Slingshot_08578",
+        "id": 8578,
         "version": "1.0.0",
         "english": "golden slingshot",
         "englishEurope": "golden slingshot",
@@ -4732,14 +4556,13 @@
         "japanese": "きんのパチンコ",
         "korean": "금 새총",
         "russian": "золотая рогатка",
-        "plural": false,
-        "internalIds": [ 8578 ]
+        "plural": false
       },
       "materials": { "slingshot": 1, "gold nugget": 1 },
       "materialsTranslations": {
         "slingshot": {
           "sourceSheet": "Tools",
-          "id": "Slingshot_02822",
+          "id": 2822,
           "version": "1.0.0",
           "english": "slingshot",
           "englishEurope": "slingshot",
@@ -4755,12 +4578,11 @@
           "japanese": "パチンコ",
           "korean": "새총",
           "russian": "рогатка",
-          "plural": false,
-          "internalIds": [ 2822 ]
+          "plural": false
         },
         "gold nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02505",
+          "id": 2505,
           "version": "1.0.0",
           "english": "gold nugget",
           "englishEurope": "gold nugget",
@@ -4776,8 +4598,7 @@
           "japanese": "きんこうせき",
           "korean": "금광석",
           "russian": "золотой самородок",
-          "plural": false,
-          "internalIds": [ 2505 ]
+          "plural": false
         }
       }
     }
@@ -4805,15 +4626,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickGolden",
     "variantId": null,
     "internalId": 7591,
     "uniqueEntryId": "fdDGHvQBc5AhtExnt",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_07591",
+      "id": 7591,
       "version": "1.0.0",
       "english": "golden wand",
       "englishEurope": "golden wand",
@@ -4829,8 +4648,7 @@
       "japanese": "おうごんのステッキ",
       "korean": "황금 지팡이",
       "russian": "золотая палочка",
-      "plural": false,
-      "internalIds": [ 7591 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -4846,7 +4664,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 7591,
@@ -4857,7 +4674,7 @@
       "uniqueEntryId": "RgNWgCdnAK2qjJTmo",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_07591",
+        "id": 7591,
         "version": "1.0.0",
         "english": "golden wand",
         "englishEurope": "golden wand",
@@ -4873,14 +4690,13 @@
         "japanese": "おうごんのステッキ",
         "korean": "황금 지팡이",
         "russian": "золотая палочка",
-        "plural": false,
-        "internalIds": [ 7591 ]
+        "plural": false
       },
       "materials": { "gold nugget": 2, "star fragment": 3 },
       "materialsTranslations": {
         "gold nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02505",
+          "id": 2505,
           "version": "1.0.0",
           "english": "gold nugget",
           "englishEurope": "gold nugget",
@@ -4896,12 +4712,11 @@
           "japanese": "きんこうせき",
           "korean": "금광석",
           "russian": "золотой самородок",
-          "plural": false,
-          "internalIds": [ 2505 ]
+          "plural": false
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -4917,8 +4732,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -4946,15 +4760,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolWateringGold",
     "variantId": null,
     "internalId": 8533,
     "uniqueEntryId": "bzEwTDjTeK4gKSsZa",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Watering_08533",
+      "id": 8533,
       "version": "1.0.0",
       "english": "golden watering can",
       "englishEurope": "golden watering can",
@@ -4970,8 +4782,7 @@
       "japanese": "きんのジョウロ",
       "korean": "금 물뿌리개",
       "russian": "золотая лейка",
-      "plural": false,
-      "internalIds": [ 8533 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -4983,11 +4794,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Isabelle" ],
-      "sourceNotes": "Obtained after the 5-star island evaluation",
+      "sourceNotes": [ "Obtained after the 5-star island evaluation" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 8533,
@@ -4998,7 +4808,7 @@
       "uniqueEntryId": "HShnyCLB3cPL5xNTx",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Watering_08533",
+        "id": 8533,
         "version": "1.0.0",
         "english": "golden watering can",
         "englishEurope": "golden watering can",
@@ -5014,14 +4824,13 @@
         "japanese": "きんのジョウロ",
         "korean": "금 물뿌리개",
         "russian": "золотая лейка",
-        "plural": false,
-        "internalIds": [ 8533 ]
+        "plural": false
       },
       "materials": { "watering can": 1, "gold nugget": 1 },
       "materialsTranslations": {
         "watering can": {
           "sourceSheet": "Tools",
-          "id": "Watering_02379",
+          "id": 2379,
           "version": "1.0.0",
           "english": "watering can",
           "englishEurope": "watering can",
@@ -5037,12 +4846,11 @@
           "japanese": "ジョウロ",
           "korean": "물뿌리개",
           "russian": "лейка",
-          "plural": false,
-          "internalIds": [ 2379 ]
+          "plural": false
         },
         "gold nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02505",
+          "id": 2505,
           "version": "1.0.0",
           "english": "gold nugget",
           "englishEurope": "gold nugget",
@@ -5058,8 +4866,7 @@
           "japanese": "きんこうせき",
           "korean": "금광석",
           "russian": "золотой самородок",
-          "plural": false,
-          "internalIds": [ 2505 ]
+          "plural": false
         }
       }
     }
@@ -5083,19 +4890,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolBalloonNormal3",
     "variantId": null,
     "internalId": 13125,
     "uniqueEntryId": "6xF5xbt7WxTdqMYaH",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Balloon_13125",
+      "id": 13125,
       "version": "1.4.0",
       "english": "green balloon",
       "englishEurope": "green balloon",
@@ -5111,8 +4919,7 @@
       "japanese": "みどりのふうせん",
       "korean": "초록색 풍선",
       "russian": "зеленый шарик",
-      "plural": false,
-      "internalIds": [ 13125 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -5140,15 +4947,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickHyacinth",
     "variantId": null,
     "internalId": 5083,
     "uniqueEntryId": "aBPEFn5NehSoQ428E",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_05083",
+      "id": 5083,
       "version": "1.0.0",
       "english": "hyacinth wand",
       "englishEurope": "hyacinth wand",
@@ -5164,8 +4969,7 @@
       "japanese": "ヒヤシンスのステッキ",
       "korean": "히아신스 지팡이",
       "russian": "палочка с гиацинтом",
-      "plural": false,
-      "internalIds": [ 5083 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -5181,7 +4985,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 5083,
@@ -5192,7 +4995,7 @@
       "uniqueEntryId": "SfyT7DJYnMvjQmSRX",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_05083",
+        "id": 5083,
         "version": "1.0.0",
         "english": "hyacinth wand",
         "englishEurope": "hyacinth wand",
@@ -5208,35 +5011,33 @@
         "japanese": "ヒヤシンスのステッキ",
         "korean": "히아신스 지팡이",
         "russian": "палочка с гиацинтом",
-        "plural": false,
-        "internalIds": [ 5083 ]
+        "plural": false
       },
       "materials": { "pink hyacinths": 1, "star fragment": 3 },
       "materialsTranslations": {
         "pink hyacinths": {
           "sourceSheet": "Plants",
-          "id": "Flower_03738",
+          "id": 3738,
           "version": "1.0.0",
           "english": "pink hyacinths",
           "englishEurope": "pink hyacinths",
-          "german": "Rosahyazinthe",
-          "spanish": "jacinto rosa",
-          "spanishUs": "jacinto rosa",
-          "french": "jacinthe rose",
-          "frenchUs": "jacinthe rose",
-          "italian": "giacinto rosa",
-          "dutch": "roze hyacint",
+          "german": "Rosahyazinthen",
+          "spanish": "jacintos rosas",
+          "spanishUs": "jacintos rosas",
+          "french": "jacinthes roses",
+          "frenchUs": "jacinthes roses",
+          "italian": "giacinti rosa",
+          "dutch": "roze hyacinten",
           "chinese": "粉红风信子",
           "chineseTraditional": "粉紅風信子",
           "japanese": "ピンクのヒヤシンス",
           "korean": "핑크색 히아신스",
-          "russian": "розовый гиацинт",
-          "plural": false,
-          "internalIds": [ 3738 ]
+          "russian": "розовые гиацинты",
+          "plural": true
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -5252,8 +5053,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -5281,15 +5081,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickSnow",
     "variantId": null,
     "internalId": 7585,
     "uniqueEntryId": "pQCDsY6gvHXL2SAff",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_07585",
+      "id": 7585,
       "version": "1.0.0",
       "english": "ice wand",
       "englishEurope": "ice wand",
@@ -5305,8 +5103,7 @@
       "japanese": "こおりのステッキ",
       "korean": "얼음 지팡이",
       "russian": "ледяная палочка",
-      "plural": false,
-      "internalIds": [ 7585 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -5318,11 +5115,13 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Snowboy" ],
-      "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
+      "sourceNotes": [
+        "Reward for making a perfect Snowboy",
+        "Only available during Winter"
+      ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 7585,
@@ -5333,7 +5132,7 @@
       "uniqueEntryId": "pfuLcy3eLoxPsFMQy",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_07585",
+        "id": 7585,
         "version": "1.0.0",
         "english": "ice wand",
         "englishEurope": "ice wand",
@@ -5349,14 +5148,13 @@
         "japanese": "こおりのステッキ",
         "korean": "얼음 지팡이",
         "russian": "ледяная палочка",
-        "plural": false,
-        "internalIds": [ 7585 ]
+        "plural": false
       },
       "materials": { "large snowflake": 1, "star fragment": 3 },
       "materialsTranslations": {
         "large snowflake": {
           "sourceSheet": "Craft",
-          "id": "SnowCrystal_03540",
+          "id": 3540,
           "version": "1.0.0",
           "english": "large snowflake",
           "englishEurope": "large snowflake",
@@ -5372,12 +5170,11 @@
           "japanese": "ゆきのだいけっしょう",
           "korean": "커다란 눈의 결정",
           "russian": "крупная снежинка",
-          "plural": false,
-          "internalIds": [ 3540 ]
+          "plural": false
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -5393,8 +5190,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -5422,15 +5218,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickIron",
     "variantId": null,
     "internalId": 7592,
     "uniqueEntryId": "5JC2q7xYFFCBhX2mS",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_07592",
+      "id": 7592,
       "version": "1.0.0",
       "english": "iron wand",
       "englishEurope": "iron wand",
@@ -5446,8 +5240,7 @@
       "japanese": "てつのステッキ",
       "korean": "철 지팡이",
       "russian": "железная палочка",
-      "plural": false,
-      "internalIds": [ 7592 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -5463,7 +5256,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 7592,
@@ -5474,7 +5266,7 @@
       "uniqueEntryId": "MYYovLTdmLov8y2hL",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_07592",
+        "id": 7592,
         "version": "1.0.0",
         "english": "iron wand",
         "englishEurope": "iron wand",
@@ -5490,14 +5282,13 @@
         "japanese": "てつのステッキ",
         "korean": "철 지팡이",
         "russian": "железная палочка",
-        "plural": false,
-        "internalIds": [ 7592 ]
+        "plural": false
       },
       "materials": { "iron nugget": 3, "star fragment": 3 },
       "materialsTranslations": {
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -5513,12 +5304,11 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -5534,8 +5324,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -5563,15 +5352,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolLadder",
     "variantId": null,
     "internalId": 2615,
     "uniqueEntryId": "TxFCim9KyNE7edcXH",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Ladder_02615",
+      "id": 2615,
       "version": "1.0.0",
       "english": "ladder",
       "englishEurope": "ladder",
@@ -5587,8 +5374,7 @@
       "japanese": "はしご",
       "korean": "사다리",
       "russian": "лестница",
-      "plural": false,
-      "internalIds": [ 2615 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -5600,11 +5386,12 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Tom Nook", "Nook's Cranny" ],
-      "sourceNotes": "Obtained during the main storyline during the villager house development quest",
+      "sourceNotes": [
+        "Obtained during the main storyline during the villager house development quest"
+      ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 2615,
@@ -5615,7 +5402,7 @@
       "uniqueEntryId": "QHAFqRRLE65RSvmQh",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Ladder_02615",
+        "id": 2615,
         "version": "1.0.0",
         "english": "ladder",
         "englishEurope": "ladder",
@@ -5631,73 +5418,70 @@
         "japanese": "はしご",
         "korean": "사다리",
         "russian": "лестница",
-        "plural": false,
-        "internalIds": [ 2615 ]
+        "plural": false
       },
       "materials": { "wood": 4, "hardwood": 4, "softwood": 4 },
       "materialsTranslations": {
         "wood": {
-          "sourceSheet": "Craft",
-          "id": "CraftMaterial_02768",
-          "version": "1.0.0",
-          "english": "wood",
-          "englishEurope": "wood",
-          "german": "Holz",
-          "spanish": "tabla normal",
-          "spanishUs": "tabla normal",
-          "french": "bois",
-          "frenchUs": "bois",
-          "italian": "legno normale",
-          "dutch": "hout",
-          "chinese": "木材",
-          "chineseTraditional": "木材",
-          "japanese": "もくざい",
-          "korean": "목재",
-          "russian": "древесина",
-          "plural": false,
-          "internalIds": [ 2768 ]
+          "sourceSheet": "Furniture Patterns",
+          "variantId": 4,
+          "id": 3307,
+          "furnitureName": "digital scale",
+          "english": "Wood",
+          "englishEurope": "Wood",
+          "german": "Gelbe Streifen",
+          "spanish": "Madera",
+          "spanishUs": "Madera",
+          "french": "Bois",
+          "frenchUs": "Bois",
+          "italian": "Legno",
+          "dutch": "Hout",
+          "chinese": "黄色条纹",
+          "chineseTraditional": "黃色條紋",
+          "japanese": "イエローストライプ",
+          "korean": "옐로 스트라이프",
+          "russian": "Под дерево",
+          "plural": false
         },
         "hardwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02769",
+          "id": 2769,
           "version": "1.0.0",
           "english": "hardwood",
           "englishEurope": "hardwood",
           "german": "Hartholz",
-          "spanish": "tabla rígida",
-          "spanishUs": "tabla rígida",
+          "spanish": "tablas rígidas",
+          "spanishUs": "tablas rígidas",
           "french": "bois dur",
           "frenchUs": "bois dur",
-          "italian": "legno duro",
+          "italian": "legna dura",
           "dutch": "hardhout",
           "chinese": "硬木材",
           "chineseTraditional": "硬木材",
           "japanese": "かたいもくざい",
           "korean": "단단한 목재",
           "russian": "твердая древесина",
-          "plural": false,
-          "internalIds": [ 2769 ]
+          "plural": true
         },
         "softwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02767",
+          "id": 2767,
           "version": "1.0.0",
           "english": "softwood",
           "englishEurope": "softwood",
           "german": "Weichholz",
-          "spanish": "tabla flexible",
-          "spanishUs": "tabla flexible",
+          "spanish": "tablas flexibles",
+          "spanishUs": "tablas flexibles",
           "french": "bois tendre",
           "frenchUs": "bois tendre",
-          "italian": "legno morbido",
+          "italian": "legna morbida",
           "dutch": "zachthout",
           "chinese": "软木材",
           "chineseTraditional": "軟木材",
           "japanese": "やわらかいもくざい",
           "korean": "부드러운 목재",
           "russian": "мягкая древесина",
-          "plural": false,
-          "internalIds": [ 2767 ]
+          "plural": true
         }
       }
     }
@@ -5721,19 +5505,17 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Isabelle" ],
-    "sourceNotes": "Obtained by speaking to Isabelle on New Year's Eve",
+    "sourceNotes": [ "Obtained by speaking to Isabelle on New Year's Eve" ],
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolSticklight",
     "variantId": null,
     "internalId": 5741,
     "uniqueEntryId": "9HpdmfZcEfuXtR8ey",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "StickLight_05741",
+      "id": 5741,
       "version": "1.0.0",
       "english": "light stick",
       "englishEurope": "light stick",
@@ -5749,8 +5531,7 @@
       "japanese": "スティックライト",
       "korean": "형광봉",
       "russian": "светящаяся палочка",
-      "plural": false,
-      "internalIds": [ 5741 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -5778,15 +5559,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickYuri",
     "variantId": null,
     "internalId": 5094,
     "uniqueEntryId": "rX7Dget4dZzprkSY4",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_05094",
+      "id": 5094,
       "version": "1.0.0",
       "english": "lily wand",
       "englishEurope": "lily wand",
@@ -5802,8 +5581,7 @@
       "japanese": "ユリのステッキ",
       "korean": "백합 지팡이",
       "russian": "палочка с лилией",
-      "plural": false,
-      "internalIds": [ 5094 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -5819,7 +5597,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 5094,
@@ -5830,7 +5607,7 @@
       "uniqueEntryId": "sKXdSX9eDXe7mEpxG",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_05094",
+        "id": 5094,
         "version": "1.0.0",
         "english": "lily wand",
         "englishEurope": "lily wand",
@@ -5846,35 +5623,33 @@
         "japanese": "ユリのステッキ",
         "korean": "백합 지팡이",
         "russian": "палочка с лилией",
-        "plural": false,
-        "internalIds": [ 5094 ]
+        "plural": false
       },
       "materials": { "white lilies": 1, "star fragment": 3 },
       "materialsTranslations": {
         "white lilies": {
           "sourceSheet": "Plants",
-          "id": "Flower_02979",
+          "id": 2979,
           "version": "1.0.0",
           "english": "white lilies",
           "englishEurope": "white lilies",
-          "german": "Osterlilie",
-          "spanish": "lirio blanco",
-          "spanishUs": "lirio blanco",
-          "french": "lys blanc",
-          "frenchUs": "lys blanc",
-          "italian": "giglio bianco",
-          "dutch": "witte lelie",
+          "german": "Osterlilien",
+          "spanish": "lirios blancos",
+          "spanishUs": "lirios blancos",
+          "french": "lys blancs",
+          "frenchUs": "lys blancs",
+          "italian": "gigli bianchi",
+          "dutch": "witte lelies",
           "chinese": "白色百合",
           "chineseTraditional": "白色百合",
           "japanese": "しろいユリ",
           "korean": "하얀 백합",
-          "russian": "белая лилия",
-          "plural": false,
-          "internalIds": [ 2979 ]
+          "russian": "белые лилии",
+          "plural": true
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -5890,8 +5665,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -5919,15 +5693,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickChrysanthemum",
     "variantId": null,
     "internalId": 5095,
     "uniqueEntryId": "9sd3YGxf9jmuGBrGw",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_05095",
+      "id": 5095,
       "version": "1.0.0",
       "english": "mums wand",
       "englishEurope": "mums wand",
@@ -5943,8 +5715,7 @@
       "japanese": "キクのステッキ",
       "korean": "국화 지팡이",
       "russian": "палочка с хризантемой",
-      "plural": false,
-      "internalIds": [ 5095 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -5960,7 +5731,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 5095,
@@ -5971,7 +5741,7 @@
       "uniqueEntryId": "jbWRPr9kP6jXS3SLW",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_05095",
+        "id": 5095,
         "version": "1.0.0",
         "english": "mums wand",
         "englishEurope": "mums wand",
@@ -5987,35 +5757,33 @@
         "japanese": "キクのステッキ",
         "korean": "국화 지팡이",
         "russian": "палочка с хризантемой",
-        "plural": false,
-        "internalIds": [ 5095 ]
+        "plural": false
       },
       "materials": { "yellow mums": 1, "star fragment": 3 },
       "materialsTranslations": {
         "yellow mums": {
           "sourceSheet": "Plants",
-          "id": "Flower_03758",
+          "id": 3758,
           "version": "1.0.0",
           "english": "yellow mums",
           "englishEurope": "yellow mums",
-          "german": "Gelbchrysantheme",
-          "spanish": "crisantemo amarillo",
-          "spanishUs": "crisantemo amarillo",
-          "french": "chrysanthème jaune",
-          "frenchUs": "chrysanthème jaune",
-          "italian": "crisantemo giallo",
-          "dutch": "gele chrysant",
+          "german": "Gelbchrysanthemen",
+          "spanish": "crisantemos amarillos",
+          "spanishUs": "crisantemos amarillos",
+          "french": "chrysanthèmes jaunes",
+          "frenchUs": "chrysanthèmes jaunes",
+          "italian": "crisantemi gialli",
+          "dutch": "gele chrysanten",
           "chinese": "黄色菊花",
           "chineseTraditional": "黃色菊花",
           "japanese": "きいろいキク",
           "korean": "노란 국화",
-          "russian": "желтая хризантема",
-          "plural": false,
-          "internalIds": [ 3758 ]
+          "russian": "желтые хризантемы",
+          "plural": true
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -6031,8 +5799,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -6045,7 +5812,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": null,
     "bodyTitle": "Mushroom type",
     "buy": -1,
@@ -6053,7 +5819,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_07588",
+      "id": 7588,
       "version": "1.0.0",
       "english": "mushroom wand",
       "englishEurope": "mushroom wand",
@@ -6069,8 +5835,7 @@
       "japanese": "キノコのステッキ",
       "korean": "버섯 지팡이",
       "russian": "грибная палочка",
-      "plural": false,
-      "internalIds": [ 7588 ]
+      "plural": false
     },
     "source": [ "Crafting" ],
     "hhaBasePoints": 0,
@@ -6102,8 +5867,7 @@
           "chineseTraditional": "常見蘑菇",
           "japanese": "よくあるキノコ",
           "korean": "흔한 버섯",
-          "russian": "Обычный гриб",
-          "plural": false
+          "russian": "Обычный гриб"
         },
         "colors": []
       },
@@ -6133,8 +5897,7 @@
           "chineseTraditional": "白色蘑菇",
           "japanese": "しろキノコ",
           "korean": "하얀색 버섯",
-          "russian": "Белый гриб",
-          "plural": false
+          "russian": "Белый гриб"
         },
         "colors": []
       },
@@ -6164,8 +5927,7 @@
           "chineseTraditional": "奇怪蘑菇",
           "japanese": "あやしいキノコ",
           "korean": "수상한 버섯",
-          "russian": "Странный гриб",
-          "plural": false
+          "russian": "Странный гриб"
         },
         "colors": []
       },
@@ -6195,8 +5957,7 @@
           "chineseTraditional": "紅色蘑菇",
           "japanese": "あかキノコ",
           "korean": "빨간색 버섯",
-          "russian": "Красный гриб",
-          "plural": false
+          "russian": "Красный гриб"
         },
         "colors": []
       },
@@ -6226,8 +5987,7 @@
           "chineseTraditional": "黃色蘑菇",
           "japanese": "きいろキノコ",
           "korean": "노란색 버섯",
-          "russian": "Желтый гриб",
-          "plural": false
+          "russian": "Желтый гриб"
         },
         "colors": []
       }
@@ -6241,11 +6001,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Mushroom Season",
+      "sourceNotes": [ "Only available during Mushroom Season" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 7588,
@@ -6256,7 +6015,7 @@
       "uniqueEntryId": "N9He3qRD3RjrqQeGG",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_07588",
+        "id": 7588,
         "version": "1.0.0",
         "english": "mushroom wand",
         "englishEurope": "mushroom wand",
@@ -6272,14 +6031,13 @@
         "japanese": "キノコのステッキ",
         "korean": "버섯 지팡이",
         "russian": "грибная палочка",
-        "plural": false,
-        "internalIds": [ 7588 ]
+        "plural": false
       },
       "materials": { "skinny mushroom": 3, "star fragment": 3 },
       "materialsTranslations": {
         "skinny mushroom": {
           "sourceSheet": "Plants",
-          "id": "Mushroom_03278",
+          "id": 3278,
           "version": "1.0.0",
           "english": "skinny mushroom",
           "englishEurope": "skinny mushroom",
@@ -6295,12 +6053,11 @@
           "japanese": "ほそいキノコ",
           "korean": "가는 버섯",
           "russian": "тощенок",
-          "plural": false,
-          "internalIds": [ 3278 ]
+          "plural": false
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -6316,8 +6073,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -6328,9 +6084,10 @@
     "diy": true,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
+    "sourceNotes": [
+      "Available in all tiers of shops, including Timmy & Tommy before the shop is opened"
+    ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": null,
     "bodyTitle": "Color",
     "buy": 900,
@@ -6338,7 +6095,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Net_05784",
+      "id": 5784,
       "version": "1.0.0",
       "english": "net",
       "englishEurope": "net",
@@ -6354,8 +6111,7 @@
       "japanese": "あみ",
       "korean": "잠자리채",
       "russian": "сачок",
-      "plural": false,
-      "internalIds": [ 5784 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny", "Crafting" ],
     "hhaBasePoints": 0,
@@ -6387,8 +6143,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -6418,8 +6173,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -6449,8 +6203,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -6480,8 +6233,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -6511,8 +6263,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -6542,8 +6293,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -6573,8 +6323,7 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
+          "russian": "Белый"
         },
         "colors": []
       },
@@ -6604,8 +6353,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -6619,11 +6367,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Pretty Good Tools Recipes" ],
-      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "sourceNotes": [ "Purchase Pretty Good Tools Recipes via Nook Miles Redemption" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 5784,
@@ -6634,7 +6381,7 @@
       "uniqueEntryId": "FZBFrFQRtepzzWPFp",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Net_05784",
+        "id": 5784,
         "version": "1.0.0",
         "english": "net",
         "englishEurope": "net",
@@ -6650,14 +6397,13 @@
         "japanese": "あみ",
         "korean": "잠자리채",
         "russian": "сачок",
-        "plural": false,
-        "internalIds": [ 5784 ]
+        "plural": false
       },
       "materials": { "flimsy net": 1, "iron nugget": 1 },
       "materialsTranslations": {
         "flimsy net": {
           "sourceSheet": "Tools",
-          "id": "Net_02376",
+          "id": 2376,
           "version": "1.0.0",
           "english": "flimsy net",
           "englishEurope": "flimsy net",
@@ -6673,12 +6419,11 @@
           "japanese": "ショボいあみ",
           "korean": "엉성한 잠자리채",
           "russian": "непрочный сачок",
-          "plural": false,
-          "internalIds": [ 2376 ]
+          "plural": false
         },
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -6694,8 +6439,7 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         }
       }
     }
@@ -6723,15 +6467,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolOcarina",
     "variantId": null,
     "internalId": 5320,
     "uniqueEntryId": "xN5tB3m4aXnm94RLL",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Ocarina_05320",
+      "id": 5320,
       "version": "1.0.0",
       "english": "ocarina",
       "englishEurope": "ocarina",
@@ -6747,8 +6489,7 @@
       "japanese": "オカリナ",
       "korean": "오카리나",
       "russian": "окарина",
-      "plural": false,
-      "internalIds": [ 5320 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -6760,11 +6501,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "DIY for Beginners" ],
-      "sourceNotes": "Purchase DIY for Beginners at Nook's Cranny",
+      "sourceNotes": [ "Purchase DIY for Beginners at Nook's Cranny" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 5320,
@@ -6775,7 +6515,7 @@
       "uniqueEntryId": "QzhL3j8Tgv2cNDZQe",
       "translations": {
         "sourceSheet": "ETC",
-        "id": "Ocarina_05320",
+        "id": 5320,
         "version": "1.0.0",
         "english": "ocarina",
         "englishEurope": "ocarina",
@@ -6791,31 +6531,29 @@
         "japanese": "オカリナ",
         "korean": "오카리나",
         "russian": "окарина",
-        "plural": false,
-        "internalIds": [ 5320 ]
+        "plural": false
       },
       "materials": { "clay": 5 },
       "materialsTranslations": {
         "clay": {
-          "sourceSheet": "Craft",
-          "id": "Ore_03090",
+          "sourceSheet": "Villagers",
+          "id": "ham05",
           "version": "1.0.0",
-          "english": "clay",
-          "englishEurope": "clay",
-          "german": "Lehm",
-          "spanish": "bola de arcilla",
-          "spanishUs": "bola de arcilla",
-          "french": "argile",
-          "frenchUs": "argile",
-          "italian": "pezzo di argilla",
-          "dutch": "kleihomp",
-          "chinese": "黏土",
-          "chineseTraditional": "黏土",
-          "japanese": "ねんど",
-          "korean": "점토",
-          "russian": "кусок глины",
-          "plural": false,
-          "internalIds": [ 3090 ]
+          "english": "Clay",
+          "englishEurope": "Clay",
+          "german": "Dietmar",
+          "spanish": "Boliche",
+          "spanishUs": "Boliche",
+          "french": "Guido",
+          "frenchUs": "Guido",
+          "italian": "Carmelo",
+          "dutch": "Clay",
+          "chinese": "子墨",
+          "chineseTraditional": "子墨",
+          "japanese": "どぐろう",
+          "korean": "햄둥",
+          "russian": "Клэй",
+          "plural": false
         }
       }
     }
@@ -6826,9 +6564,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": "Outdoor Tools",
     "bodyTitle": "Color",
     "buy": 2500,
@@ -6836,7 +6573,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "FishingRod_08473",
+      "id": 8473,
       "version": "1.0.0",
       "english": "outdoorsy fishing rod",
       "englishEurope": "outdoorsy fishing rod",
@@ -6852,8 +6589,7 @@
       "japanese": "アウトドアなつりざお",
       "korean": "아웃도어 낚싯대",
       "russian": "походная удочка",
-      "plural": false,
-      "internalIds": [ 8473 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -6885,8 +6621,7 @@
           "chineseTraditional": "卡其色",
           "japanese": "カーキ",
           "korean": "카키",
-          "russian": "Защитный",
-          "plural": false
+          "russian": "Защитный"
         },
         "colors": []
       },
@@ -6916,8 +6651,7 @@
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
+          "russian": "Оранжевый"
         },
         "colors": []
       },
@@ -6947,8 +6681,7 @@
           "chineseTraditional": "淺藍色",
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
+          "russian": "Голубой"
         },
         "colors": []
       },
@@ -6978,8 +6711,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -7009,8 +6741,7 @@
           "chineseTraditional": "米色",
           "japanese": "ベージュ",
           "korean": "베이지",
-          "russian": "Бежевый",
-          "plural": false
+          "russian": "Бежевый"
         },
         "colors": []
       },
@@ -7040,8 +6771,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -7071,8 +6801,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -7102,8 +6831,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -7116,9 +6844,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": "Outdoor Tools",
     "bodyTitle": "Color",
     "buy": 2500,
@@ -7126,7 +6853,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Net_08178",
+      "id": 8178,
       "version": "1.0.0",
       "english": "outdoorsy net",
       "englishEurope": "outdoorsy net",
@@ -7142,8 +6869,7 @@
       "japanese": "アウトドアなあみ",
       "korean": "아웃도어 잠자리채",
       "russian": "походный сачок",
-      "plural": false,
-      "internalIds": [ 8178 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -7175,8 +6901,7 @@
           "chineseTraditional": "卡其色",
           "japanese": "カーキ",
           "korean": "카키",
-          "russian": "Защитный",
-          "plural": false
+          "russian": "Защитный"
         },
         "colors": []
       },
@@ -7206,8 +6931,7 @@
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
+          "russian": "Оранжевый"
         },
         "colors": []
       },
@@ -7237,8 +6961,7 @@
           "chineseTraditional": "淺藍色",
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
+          "russian": "Голубой"
         },
         "colors": []
       },
@@ -7268,8 +6991,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -7299,8 +7021,7 @@
           "chineseTraditional": "米色",
           "japanese": "ベージュ",
           "korean": "베이지",
-          "russian": "Бежевый",
-          "plural": false
+          "russian": "Бежевый"
         },
         "colors": []
       },
@@ -7330,8 +7051,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -7361,8 +7081,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -7392,8 +7111,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -7406,9 +7124,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": "Outdoor Tools",
     "bodyTitle": "Color",
     "buy": 2500,
@@ -7416,7 +7133,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Shovel_08575",
+      "id": 8575,
       "version": "1.0.0",
       "english": "outdoorsy shovel",
       "englishEurope": "outdoorsy shovel",
@@ -7432,8 +7149,7 @@
       "japanese": "アウトドアなスコップ",
       "korean": "아웃도어 삽",
       "russian": "походная лопата",
-      "plural": false,
-      "internalIds": [ 8575 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -7465,8 +7181,7 @@
           "chineseTraditional": "卡其色",
           "japanese": "カーキ",
           "korean": "카키",
-          "russian": "Защитный",
-          "plural": false
+          "russian": "Защитный"
         },
         "colors": []
       },
@@ -7496,8 +7211,7 @@
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
+          "russian": "Оранжевый"
         },
         "colors": []
       },
@@ -7527,8 +7241,7 @@
           "chineseTraditional": "淺藍色",
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
+          "russian": "Голубой"
         },
         "colors": []
       },
@@ -7558,8 +7271,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -7589,8 +7301,7 @@
           "chineseTraditional": "米色",
           "japanese": "ベージュ",
           "korean": "베이지",
-          "russian": "Бежевый",
-          "plural": false
+          "russian": "Бежевый"
         },
         "colors": []
       },
@@ -7620,8 +7331,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -7651,8 +7361,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -7682,8 +7391,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -7696,9 +7404,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": "Outdoor Tools",
     "bodyTitle": "Color",
     "buy": 2500,
@@ -7706,7 +7413,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Slingshot_08579",
+      "id": 8579,
       "version": "1.0.0",
       "english": "outdoorsy slingshot",
       "englishEurope": "outdoorsy slingshot",
@@ -7722,8 +7429,7 @@
       "japanese": "アウトドアなパチンコ",
       "korean": "아웃도어 새총",
       "russian": "походная рогатка",
-      "plural": false,
-      "internalIds": [ 8579 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -7755,8 +7461,7 @@
           "chineseTraditional": "卡其色",
           "japanese": "カーキ",
           "korean": "카키",
-          "russian": "Защитный",
-          "plural": false
+          "russian": "Защитный"
         },
         "colors": []
       },
@@ -7786,8 +7491,7 @@
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
+          "russian": "Оранжевый"
         },
         "colors": []
       },
@@ -7817,8 +7521,7 @@
           "chineseTraditional": "淺藍色",
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
+          "russian": "Голубой"
         },
         "colors": []
       },
@@ -7848,8 +7551,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -7879,8 +7581,7 @@
           "chineseTraditional": "米色",
           "japanese": "ベージュ",
           "korean": "베이지",
-          "russian": "Бежевый",
-          "plural": false
+          "russian": "Бежевый"
         },
         "colors": []
       },
@@ -7910,8 +7611,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -7941,8 +7641,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -7972,8 +7671,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -7986,9 +7684,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": "Outdoor Tools",
     "bodyTitle": "Color",
     "buy": 2500,
@@ -7996,7 +7693,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Watering_08536",
+      "id": 8536,
       "version": "1.0.0",
       "english": "outdoorsy watering can",
       "englishEurope": "outdoorsy watering can",
@@ -8012,8 +7709,7 @@
       "japanese": "アウトドアなジョウロ",
       "korean": "아웃도어 물뿌리개",
       "russian": "походная лейка",
-      "plural": false,
-      "internalIds": [ 8536 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -8045,8 +7741,7 @@
           "chineseTraditional": "卡其色",
           "japanese": "カーキ",
           "korean": "카키",
-          "russian": "Защитный",
-          "plural": false
+          "russian": "Защитный"
         },
         "colors": []
       },
@@ -8076,8 +7771,7 @@
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
+          "russian": "Оранжевый"
         },
         "colors": []
       },
@@ -8107,8 +7801,7 @@
           "chineseTraditional": "淺藍色",
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
+          "russian": "Голубой"
         },
         "colors": []
       },
@@ -8138,8 +7831,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -8169,8 +7861,7 @@
           "chineseTraditional": "米色",
           "japanese": "ベージュ",
           "korean": "베이지",
-          "russian": "Бежевый",
-          "plural": false
+          "russian": "Бежевый"
         },
         "colors": []
       },
@@ -8200,8 +7891,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -8231,8 +7921,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -8262,8 +7951,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -8293,15 +7981,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolPanpipe",
     "variantId": null,
     "internalId": 5517,
     "uniqueEntryId": "7LjdexM2bmrbxDaCG",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Panflute_05517",
+      "id": 5517,
       "version": "1.0.0",
       "english": "pan flute",
       "englishEurope": "pan flute",
@@ -8317,8 +8003,7 @@
       "japanese": "パンフルート",
       "korean": "팬파이프",
       "russian": "многоствольная флейта",
-      "plural": false,
-      "internalIds": [ 5517 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -8330,11 +8015,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Spring",
+      "sourceNotes": [ "Only available during Spring" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 5517,
@@ -8345,7 +8029,7 @@
       "uniqueEntryId": "oEeGqoaMP9XdQE3NF",
       "translations": {
         "sourceSheet": "ETC",
-        "id": "Panflute_05517",
+        "id": 5517,
         "version": "1.0.0",
         "english": "pan flute",
         "englishEurope": "pan flute",
@@ -8361,31 +8045,29 @@
         "japanese": "パンフルート",
         "korean": "팬파이프",
         "russian": "многоствольная флейта",
-        "plural": false,
-        "internalIds": [ 5517 ]
+        "plural": false
       },
       "materials": { "young spring bamboo": 7 },
       "materialsTranslations": {
         "young spring bamboo": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_05729",
+          "id": 5729,
           "version": "1.0.0",
           "english": "young spring bamboo",
           "englishEurope": "young spring bamboo",
           "german": "Frühlingsbambus",
-          "spanish": "tallo de bambú primaveral",
-          "spanishUs": "tallo de bambú primaveral",
-          "french": "jeune bambou printemps",
-          "frenchUs": "jeune bambou printemps",
-          "italian": "bambù giovane primavera",
+          "spanish": "tallos de bambú primaveral",
+          "spanishUs": "tallos de bambú primaveral",
+          "french": "jeunes bambous printemps",
+          "frenchUs": "jeunes bambous printemps",
+          "italian": "bambù giovani primavera",
           "dutch": "jonge lentebamboe",
           "chinese": "春笋",
           "chineseTraditional": "春筍",
           "japanese": "はるのわかたけ",
           "korean": "봄의 대나무",
           "russian": "весенний бамбук",
-          "plural": false,
-          "internalIds": [ 5729 ]
+          "plural": true
         }
       }
     }
@@ -8413,15 +8095,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickPansy",
     "variantId": null,
     "internalId": 5091,
     "uniqueEntryId": "kPAMdHZaM8oHFjjyg",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_05091",
+      "id": 5091,
       "version": "1.0.0",
       "english": "pansy wand",
       "englishEurope": "pansy wand",
@@ -8437,8 +8117,7 @@
       "japanese": "パンジーのステッキ",
       "korean": "팬지 지팡이",
       "russian": "палочка с фиалкой",
-      "plural": false,
-      "internalIds": [ 5091 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -8454,7 +8133,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 5091,
@@ -8465,7 +8143,7 @@
       "uniqueEntryId": "5NPaTGzE9ZCAryFmE",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_05091",
+        "id": 5091,
         "version": "1.0.0",
         "english": "pansy wand",
         "englishEurope": "pansy wand",
@@ -8481,35 +8159,33 @@
         "japanese": "パンジーのステッキ",
         "korean": "팬지 지팡이",
         "russian": "палочка с фиалкой",
-        "plural": false,
-        "internalIds": [ 5091 ]
+        "plural": false
       },
       "materials": { "yellow pansies": 1, "star fragment": 3 },
       "materialsTranslations": {
         "yellow pansies": {
           "sourceSheet": "Plants",
-          "id": "Flower_02915",
+          "id": 2915,
           "version": "1.0.0",
           "english": "yellow pansies",
           "englishEurope": "yellow pansies",
           "german": "Hornveilchen",
-          "spanish": "viola amarilla",
-          "spanishUs": "viola amarilla",
-          "french": "pensée jaune",
-          "frenchUs": "pensée jaune",
-          "italian": "viola gialla",
-          "dutch": "geel viooltje",
+          "spanish": "violas amarillas",
+          "spanishUs": "violas amarillas",
+          "french": "pensées jaunes",
+          "frenchUs": "pensées jaunes",
+          "italian": "viole gialle",
+          "dutch": "gele viooltjes",
           "chinese": "黄色三色堇",
           "chineseTraditional": "黃色三色堇",
           "japanese": "きいろいパンジー",
           "korean": "노란 팬지",
-          "russian": "желтая фиалка",
-          "plural": false,
-          "internalIds": [ 2915 ]
+          "russian": "желтые фиалки",
+          "plural": true
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -8525,8 +8201,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -8550,19 +8225,17 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Nook's Cranny" ],
-    "sourceNotes": "Only available close to new year holiday",
+    "sourceNotes": [ "Only available close to new year holiday" ],
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolCracker",
     "variantId": null,
     "internalId": 2753,
     "uniqueEntryId": "Wo8iqf7JZZ7egzmLf",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "PartyPopper_02753",
+      "id": 2753,
       "version": "1.0.0",
       "english": "party popper",
       "englishEurope": "party popper",
@@ -8578,8 +8251,7 @@
       "japanese": "クラッカー",
       "korean": "파티용 폭죽",
       "russian": "хлопушка",
-      "plural": false,
-      "internalIds": [ 2753 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -8603,19 +8275,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolBalloonNormal4",
     "variantId": null,
     "internalId": 13126,
     "uniqueEntryId": "jJkSMbhxX3ekBkWZK",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Balloon_13126",
+      "id": 13126,
       "version": "1.4.0",
       "english": "pink balloon",
       "englishEurope": "pink balloon",
@@ -8631,8 +8304,7 @@
       "japanese": "ピンクのふうせん",
       "korean": "핑크색 풍선",
       "russian": "розовый шарик",
-      "plural": false,
-      "internalIds": [ 13126 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -8656,19 +8328,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolWindmill",
     "variantId": null,
     "internalId": 5744,
     "uniqueEntryId": "ixfo3W4miuTh5zvSP",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Windmill_05744",
+      "id": 5744,
       "version": "1.4.0",
       "english": "pinwheel",
       "englishEurope": "pinwheel",
@@ -8684,8 +8357,7 @@
       "japanese": "かざぐるま",
       "korean": "바람개비",
       "russian": "вертушка",
-      "plural": false,
-      "internalIds": [ 5744 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -8696,9 +8368,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": null,
     "bodyTitle": "Color",
     "buy": 2500,
@@ -8706,7 +8377,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Shovel_08576",
+      "id": 8576,
       "version": "1.0.0",
       "english": "printed-design shovel",
       "englishEurope": "printed-design shovel",
@@ -8722,8 +8393,7 @@
       "japanese": "がらものスコップ",
       "korean": "꽃무늬 삽",
       "russian": "лопата с рисунком",
-      "plural": false,
-      "internalIds": [ 8576 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -8755,8 +8425,7 @@
           "chineseTraditional": "淺藍色",
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
+          "russian": "Голубой"
         },
         "colors": []
       },
@@ -8786,8 +8455,7 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
+          "russian": "Белый"
         },
         "colors": []
       },
@@ -8817,8 +8485,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -8848,8 +8515,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -8879,8 +8545,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -8910,8 +8575,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -8941,8 +8605,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -8972,8 +8635,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -8999,19 +8661,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolBalloonNormal1",
     "variantId": null,
     "internalId": 13123,
     "uniqueEntryId": "93qC6sGCBMeknRuJ7",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Balloon_13123",
+      "id": 13123,
       "version": "1.4.0",
       "english": "red balloon",
       "englishEurope": "red balloon",
@@ -9027,8 +8690,7 @@
       "japanese": "あかいふうせん",
       "korean": "빨간색 풍선",
       "russian": "красный шарик",
-      "plural": false,
-      "internalIds": [ 13123 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -9052,19 +8714,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolFireworks",
     "variantId": null,
     "internalId": 5743,
     "uniqueEntryId": "5YyG34qEdmAuABqHd",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "FierworkHand_05743",
+      "id": 5743,
       "version": "1.4.0",
       "english": "red sparkler",
       "englishEurope": "red sparkler",
@@ -9080,8 +8743,7 @@
       "japanese": "あかいてもちはなび",
       "korean": "빨간색 스파클러",
       "russian": "красн. бенгальский огонь",
-      "plural": false,
-      "internalIds": [ 5743 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -9109,15 +8771,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickRose",
     "variantId": null,
     "internalId": 5093,
     "uniqueEntryId": "RB9jk9eLFLJdokFjG",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_05093",
+      "id": 5093,
       "version": "1.0.0",
       "english": "rose wand",
       "englishEurope": "rose wand",
@@ -9133,8 +8793,7 @@
       "japanese": "バラのステッキ",
       "korean": "장미 지팡이",
       "russian": "палочка с розой",
-      "plural": false,
-      "internalIds": [ 5093 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -9150,7 +8809,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 5093,
@@ -9161,7 +8819,7 @@
       "uniqueEntryId": "hH9qJNGJpxbY2TYTt",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_05093",
+        "id": 5093,
         "version": "1.0.0",
         "english": "rose wand",
         "englishEurope": "rose wand",
@@ -9177,35 +8835,33 @@
         "japanese": "バラのステッキ",
         "korean": "장미 지팡이",
         "russian": "палочка с розой",
-        "plural": false,
-        "internalIds": [ 5093 ]
+        "plural": false
       },
       "materials": { "red roses": 1, "star fragment": 3 },
       "materialsTranslations": {
         "red roses": {
           "sourceSheet": "Plants",
-          "id": "Flower_02935",
+          "id": 2935,
           "version": "1.0.0",
           "english": "red roses",
           "englishEurope": "red roses",
-          "german": "Liebesrose",
-          "spanish": "rosa roja",
-          "spanishUs": "rosa roja",
-          "french": "rose rouge",
-          "frenchUs": "rose rouge",
-          "italian": "rosa rossa",
-          "dutch": "rode roos",
+          "german": "Liebesrosen",
+          "spanish": "rosas rojas",
+          "spanishUs": "rosas rojas",
+          "french": "roses rouges",
+          "frenchUs": "roses rouges",
+          "italian": "rose rosse",
+          "dutch": "rode rozen",
           "chinese": "红色玫瑰",
           "chineseTraditional": "紅色玫瑰",
           "japanese": "あかいバラ",
           "korean": "빨간 장미",
-          "russian": "красная роза",
-          "plural": false,
-          "internalIds": [ 2935 ]
+          "russian": "красные розы",
+          "plural": true
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -9221,8 +8877,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -9250,15 +8905,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickShell",
     "variantId": null,
     "internalId": 7586,
     "uniqueEntryId": "EsdC3wFYpzqXB7RRi",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_07586",
+      "id": 7586,
       "version": "1.0.0",
       "english": "shell wand",
       "englishEurope": "shell wand",
@@ -9274,8 +8927,7 @@
       "japanese": "かいがらのステッキ",
       "korean": "조개껍데기 지팡이",
       "russian": "палочка с ракушкой",
-      "plural": false,
-      "internalIds": [ 7586 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -9287,11 +8939,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Summer",
+      "sourceNotes": [ "Only available during Summer" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 7586,
@@ -9302,7 +8953,7 @@
       "uniqueEntryId": "ZTaYhxtmS2F575QLd",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_07586",
+        "id": 7586,
         "version": "1.0.0",
         "english": "shell wand",
         "englishEurope": "shell wand",
@@ -9318,14 +8969,13 @@
         "japanese": "かいがらのステッキ",
         "korean": "조개껍데기 지팡이",
         "russian": "палочка с ракушкой",
-        "plural": false,
-        "internalIds": [ 7586 ]
+        "plural": false
       },
       "materials": { "summer shell": 3, "star fragment": 3 },
       "materialsTranslations": {
         "summer shell": {
           "sourceSheet": "Shells",
-          "id": "ShellDrift_05982",
+          "id": 5982,
           "version": "1.0.0",
           "english": "summer shell",
           "englishEurope": "summer shell",
@@ -9341,12 +8991,11 @@
           "japanese": "なつのかいがら",
           "korean": "여름 조개껍데기",
           "russian": "летняя ракушка",
-          "plural": false,
-          "internalIds": [ 5982 ]
+          "plural": false
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -9362,8 +9011,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -9376,7 +9024,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": null,
     "bodyTitle": "Color",
     "buy": 2400,
@@ -9384,7 +9031,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Shovel_02099",
+      "id": 2099,
       "version": "1.0.0",
       "english": "shovel",
       "englishEurope": "shovel",
@@ -9400,8 +9047,7 @@
       "japanese": "スコップ",
       "korean": "삽",
       "russian": "лопата",
-      "plural": false,
-      "internalIds": [ 2099 ]
+      "plural": false
     },
     "source": [ "Crafting" ],
     "hhaBasePoints": 0,
@@ -9433,8 +9079,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -9464,8 +9109,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -9495,8 +9139,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -9526,8 +9169,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -9557,8 +9199,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -9588,8 +9229,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -9619,8 +9259,7 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
+          "russian": "Белый"
         },
         "colors": []
       },
@@ -9650,8 +9289,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -9665,11 +9303,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Pretty Good Tools Recipes" ],
-      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "sourceNotes": [ "Purchase Pretty Good Tools Recipes via Nook Miles Redemption" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 2099,
@@ -9680,7 +9317,7 @@
       "uniqueEntryId": "M3RrgtikixGSNWq24",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Shovel_02099",
+        "id": 2099,
         "version": "1.0.0",
         "english": "shovel",
         "englishEurope": "shovel",
@@ -9696,14 +9333,13 @@
         "japanese": "スコップ",
         "korean": "삽",
         "russian": "лопата",
-        "plural": false,
-        "internalIds": [ 2099 ]
+        "plural": false
       },
       "materials": { "flimsy shovel": 1, "iron nugget": 1 },
       "materialsTranslations": {
         "flimsy shovel": {
           "sourceSheet": "Tools",
-          "id": "Shovel_03082",
+          "id": 3082,
           "version": "1.0.0",
           "english": "flimsy shovel",
           "englishEurope": "flimsy shovel",
@@ -9719,12 +9355,11 @@
           "japanese": "ショボいスコップ",
           "korean": "엉성한 삽",
           "russian": "непрочная лопата",
-          "plural": false,
-          "internalIds": [ 3082 ]
+          "plural": false
         },
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -9740,8 +9375,7 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         }
       }
     }
@@ -9752,9 +9386,10 @@
     "diy": true,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
+    "sourceNotes": [
+      "Available in all tiers of shops, including Timmy & Tommy before the shop is opened"
+    ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": null,
     "bodyTitle": "Color",
     "buy": 900,
@@ -9762,7 +9397,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Slingshot_02822",
+      "id": 2822,
       "version": "1.0.0",
       "english": "slingshot",
       "englishEurope": "slingshot",
@@ -9778,8 +9413,7 @@
       "japanese": "パチンコ",
       "korean": "새총",
       "russian": "рогатка",
-      "plural": false,
-      "internalIds": [ 2822 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny", "Crafting" ],
     "hhaBasePoints": 0,
@@ -9811,8 +9445,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -9842,8 +9475,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -9873,8 +9505,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -9904,8 +9535,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -9935,8 +9565,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -9966,8 +9595,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -9997,8 +9625,7 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
+          "russian": "Белый"
         },
         "colors": []
       },
@@ -10028,8 +9655,7 @@
           "chineseTraditional": "灰色",
           "japanese": "グレー",
           "korean": "그레이",
-          "russian": "Серый",
-          "plural": false
+          "russian": "Серый"
         },
         "colors": []
       }
@@ -10047,7 +9673,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 2822,
@@ -10058,7 +9683,7 @@
       "uniqueEntryId": "Bbew7NAtvtH9wLJrD",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Slingshot_02822",
+        "id": 2822,
         "version": "1.0.0",
         "english": "slingshot",
         "englishEurope": "slingshot",
@@ -10074,31 +9699,165 @@
         "japanese": "パチンコ",
         "korean": "새총",
         "russian": "рогатка",
-        "plural": false,
-        "internalIds": [ 2822 ]
+        "plural": false
       },
       "materials": { "hardwood": 5 },
       "materialsTranslations": {
         "hardwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02769",
+          "id": 2769,
           "version": "1.0.0",
           "english": "hardwood",
           "englishEurope": "hardwood",
           "german": "Hartholz",
-          "spanish": "tabla rígida",
-          "spanishUs": "tabla rígida",
+          "spanish": "tablas rígidas",
+          "spanishUs": "tablas rígidas",
           "french": "bois dur",
           "frenchUs": "bois dur",
-          "italian": "legno duro",
+          "italian": "legna dura",
           "dutch": "hardhout",
           "chinese": "硬木材",
           "chineseTraditional": "硬木材",
           "japanese": "かたいもくざい",
           "korean": "단단한 목재",
           "russian": "твердая древесина",
-          "plural": false,
-          "internalIds": [ 2769 ]
+          "plural": true
+        }
+      }
+    }
+  },
+  {
+    "sourceSheet": "Tools",
+    "name": "spooky wand",
+    "image": "https://acnhcdn.com/latest/FtrIcon/ToolStickHalloween.png",
+    "variation": null,
+    "bodyTitle": null,
+    "diy": true,
+    "customize": false,
+    "kitCost": null,
+    "uses": -1,
+    "stackSize": 1,
+    "buy": -1,
+    "sell": 4300,
+    "hhaBasePoints": 0,
+    "size": "1x1",
+    "set": null,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Crafting" ],
+    "sourceNotes": null,
+    "versionAdded": "1.5.0",
+    "unlocked": true,
+    "unlockNotes": null,
+    "filename": "ToolStickHalloween",
+    "variantId": null,
+    "internalId": 13237,
+    "uniqueEntryId": "M8JtabnRsijZu4RqN",
+    "translations": {
+      "sourceSheet": "Tools",
+      "id": 13237,
+      "version": "1.5.0",
+      "english": "spooky wand",
+      "englishEurope": "spooky wand",
+      "german": "Kürbisstab",
+      "spanish": "varita calabaza",
+      "spanishUs": "varita calabaza",
+      "french": "baguette Halloween",
+      "frenchUs": "baguette Halloween",
+      "italian": "bacchetta brividi",
+      "dutch": "pompoenstaf",
+      "chinese": "万圣节棒",
+      "chineseTraditional": "萬聖節棒",
+      "japanese": "ハロウィンなステッキ",
+      "korean": "할로윈 지팡이",
+      "russian": "жуткая палочка",
+      "plural": false
+    },
+    "colors": [],
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "spooky wand",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickHalloween.png",
+      "buy": -1,
+      "sell": 200,
+      "exchangePrice": null,
+      "exchangeCurrency": null,
+      "source": [ "All villagers", "Jack" ],
+      "sourceNotes": [
+        "Obtained from crafting villagers during October or as a reward for gifting candy on Halloween."
+      ],
+      "versionAdded": "1.5.0",
+      "unlocked": true,
+      "unlockNotes": null,
+      "recipesToUnlock": 0,
+      "category": "Tools",
+      "craftedItemInternalId": 13237,
+      "cardColor": 44,
+      "diyIconFilename": "ToolStickHalloween",
+      "serialId": 3191,
+      "internalId": 736,
+      "uniqueEntryId": "NezqnbME9DWhuM88n",
+      "translations": {
+        "sourceSheet": "Tools",
+        "id": 13237,
+        "version": "1.5.0",
+        "english": "spooky wand",
+        "englishEurope": "spooky wand",
+        "german": "Kürbisstab",
+        "spanish": "varita calabaza",
+        "spanishUs": "varita calabaza",
+        "french": "baguette Halloween",
+        "frenchUs": "baguette Halloween",
+        "italian": "bacchetta brividi",
+        "dutch": "pompoenstaf",
+        "chinese": "万圣节棒",
+        "chineseTraditional": "萬聖節棒",
+        "japanese": "ハロウィンなステッキ",
+        "korean": "할로윈 지팡이",
+        "russian": "жуткая палочка",
+        "plural": false
+      },
+      "materials": { "spooky lantern": 1, "star fragment": 3 },
+      "materialsTranslations": {
+        "spooky lantern": {
+          "sourceSheet": "Furniture",
+          "id": 4088,
+          "version": "1.5.0",
+          "english": "spooky lantern",
+          "englishEurope": "spooky lantern",
+          "german": "Kürbislaterne",
+          "spanish": "farol calabaza",
+          "spanishUs": "farol calabaza",
+          "french": "lanterne Halloween",
+          "frenchUs": "lanterne frisson",
+          "italian": "lanterna brividi",
+          "dutch": "pompoenlantaarn",
+          "chinese": "万圣节灯笼",
+          "chineseTraditional": "萬聖節燈籠",
+          "japanese": "ハロウィンなランタン",
+          "korean": "할로윈 랜턴",
+          "russian": "жуткий светильник",
+          "plural": false
+        },
+        "star fragment": {
+          "sourceSheet": "Craft",
+          "id": 5983,
+          "version": "1.0.0",
+          "english": "star fragment",
+          "englishEurope": "star fragment",
+          "german": "Sternensplitter",
+          "spanish": "fragmento de estrella",
+          "spanishUs": "fragmento de estrella",
+          "french": "fragment d'étoile",
+          "frenchUs": "fragment d'étoile",
+          "italian": "frammento di stella",
+          "dutch": "sterrenfragment",
+          "chinese": "星星碎片",
+          "chineseTraditional": "星星碎片",
+          "japanese": "ほしのかけら",
+          "korean": "별의 조각",
+          "russian": "осколок звезды",
+          "plural": false
         }
       }
     }
@@ -10109,9 +9868,8 @@
     "diy": false,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "sourceNotes": [ "Available in Nook's Cranny (upgraded only)" ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": null,
     "bodyTitle": "Color",
     "buy": 2500,
@@ -10119,7 +9877,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Net_08176",
+      "id": 8176,
       "version": "1.0.0",
       "english": "star net",
       "englishEurope": "star net",
@@ -10135,8 +9893,7 @@
       "japanese": "スターなあみ",
       "korean": "별모양 잠자리채",
       "russian": "сачок со звездой",
-      "plural": false,
-      "internalIds": [ 8176 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
@@ -10168,8 +9925,7 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый",
-          "plural": false
+          "russian": "Желтый"
         },
         "colors": []
       },
@@ -10199,8 +9955,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -10230,8 +9985,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -10261,8 +10015,7 @@
           "chineseTraditional": "淺綠色",
           "japanese": "ライトグリーン",
           "korean": "라이트 그린",
-          "russian": "Светло-зеленый",
-          "plural": false
+          "russian": "Светло-зеленый"
         },
         "colors": []
       },
@@ -10292,8 +10045,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -10323,8 +10075,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -10354,8 +10105,7 @@
           "chineseTraditional": "淺藍色",
           "japanese": "ライトブルー",
           "korean": "라이트 블루",
-          "russian": "Голубой",
-          "plural": false
+          "russian": "Голубой"
         },
         "colors": []
       },
@@ -10385,8 +10135,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       }
@@ -10416,15 +10165,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolChangeStick",
     "variantId": null,
     "internalId": 2544,
     "uniqueEntryId": "mMwQ96ZbuiBMzgutd",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_02544",
+      "id": 2544,
       "version": "1.0.0",
       "english": "star wand",
       "englishEurope": "star wand",
@@ -10440,8 +10187,7 @@
       "japanese": "スターなステッキ",
       "korean": "별 지팡이",
       "russian": "палочка со звездой",
-      "plural": false,
-      "internalIds": [ 2544 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -10457,7 +10203,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 2544,
@@ -10468,7 +10213,7 @@
       "uniqueEntryId": "yv5a3yQPS9tmBjhaP",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_02544",
+        "id": 2544,
         "version": "1.0.0",
         "english": "star wand",
         "englishEurope": "star wand",
@@ -10484,14 +10229,13 @@
         "japanese": "スターなステッキ",
         "korean": "별 지팡이",
         "russian": "палочка со звездой",
-        "plural": false,
-        "internalIds": [ 2544 ]
+        "plural": false
       },
       "materials": { "large star fragment": 1, "star fragment": 3 },
       "materialsTranslations": {
         "large star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05984",
+          "id": 5984,
           "version": "1.0.0",
           "english": "large star fragment",
           "englishEurope": "large star fragment",
@@ -10507,12 +10251,11 @@
           "japanese": "おおきなほしのかけら",
           "korean": "커다란 별의 조각",
           "russian": "крупный осколок звезды",
-          "plural": false,
-          "internalIds": [ 5984 ]
+          "plural": false
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -10528,8 +10271,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -10557,15 +10299,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolAxeStoneNormal",
     "variantId": null,
     "internalId": 5856,
     "uniqueEntryId": "NKHsBuYu25RHWjMBx",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Axe_05856",
+      "id": 5856,
       "version": "1.0.0",
       "english": "stone axe",
       "englishEurope": "stone axe",
@@ -10581,8 +10321,7 @@
       "japanese": "いしのオノ",
       "korean": "돌도끼",
       "russian": "каменный топор",
-      "plural": false,
-      "internalIds": [ 5856 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -10594,11 +10333,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Pretty Good Tools Recipes" ],
-      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "sourceNotes": [ "Purchase Pretty Good Tools Recipes via Nook Miles Redemption" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 5856,
@@ -10609,7 +10347,7 @@
       "uniqueEntryId": "RYD96qHETZn2ex3EP",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Axe_05856",
+        "id": 5856,
         "version": "1.0.0",
         "english": "stone axe",
         "englishEurope": "stone axe",
@@ -10625,14 +10363,13 @@
         "japanese": "いしのオノ",
         "korean": "돌도끼",
         "russian": "каменный топор",
-        "plural": false,
-        "internalIds": [ 5856 ]
+        "plural": false
       },
       "materials": { "flimsy axe": 1, "wood": 3 },
       "materialsTranslations": {
         "flimsy axe": {
           "sourceSheet": "Tools",
-          "id": "Axe_03068",
+          "id": 3068,
           "version": "1.0.0",
           "english": "flimsy axe",
           "englishEurope": "flimsy axe",
@@ -10648,29 +10385,28 @@
           "japanese": "ショボいオノ",
           "korean": "엉성한 도끼",
           "russian": "непрочный топор",
-          "plural": false,
-          "internalIds": [ 3068 ]
+          "plural": false
         },
         "wood": {
-          "sourceSheet": "Craft",
-          "id": "CraftMaterial_02768",
-          "version": "1.0.0",
-          "english": "wood",
-          "englishEurope": "wood",
-          "german": "Holz",
-          "spanish": "tabla normal",
-          "spanishUs": "tabla normal",
-          "french": "bois",
-          "frenchUs": "bois",
-          "italian": "legno normale",
-          "dutch": "hout",
-          "chinese": "木材",
-          "chineseTraditional": "木材",
-          "japanese": "もくざい",
-          "korean": "목재",
-          "russian": "древесина",
-          "plural": false,
-          "internalIds": [ 2768 ]
+          "sourceSheet": "Furniture Patterns",
+          "variantId": 4,
+          "id": 3307,
+          "furnitureName": "digital scale",
+          "english": "Wood",
+          "englishEurope": "Wood",
+          "german": "Gelbe Streifen",
+          "spanish": "Madera",
+          "spanishUs": "Madera",
+          "french": "Bois",
+          "frenchUs": "Bois",
+          "italian": "Legno",
+          "dutch": "Hout",
+          "chinese": "黄色条纹",
+          "chineseTraditional": "黃色條紋",
+          "japanese": "イエローストライプ",
+          "korean": "옐로 스트라이프",
+          "russian": "Под дерево",
+          "plural": false
         }
       }
     }
@@ -10694,19 +10430,17 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Nook's Cranny" ],
-    "sourceNotes": "Available in the re-buyable slot in Nook's Cranny",
+    "sourceNotes": [ "Available in the re-buyable slot in Nook's Cranny" ],
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolTambourine",
     "variantId": null,
     "internalId": 5430,
     "uniqueEntryId": "eYwGmK6fQwz2XJcht",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Tambourine_05430",
+      "id": 5430,
       "version": "1.0.0",
       "english": "tambourine",
       "englishEurope": "tambourine",
@@ -10722,8 +10456,7 @@
       "japanese": "タンバリン",
       "korean": "탬버린",
       "russian": "бубен",
-      "plural": false,
-      "internalIds": [ 5430 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -10751,15 +10484,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolTimer",
     "variantId": null,
     "internalId": 3331,
     "uniqueEntryId": "vEEPnFx9FEcKKuzg2",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Timer_03331",
+      "id": 3331,
       "version": "1.0.0",
       "english": "timer",
       "englishEurope": "timer",
@@ -10775,8 +10506,7 @@
       "japanese": "タイマー",
       "korean": "타이머",
       "russian": "таймер",
-      "plural": false,
-      "internalIds": [ 3331 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -10804,15 +10534,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickTree",
     "variantId": null,
     "internalId": 7587,
     "uniqueEntryId": "KnHhJXtuXEhqcPMTx",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_07587",
+      "id": 7587,
       "version": "1.0.0",
       "english": "tree-branch wand",
       "englishEurope": "tree-branch wand",
@@ -10828,8 +10556,7 @@
       "japanese": "きのえだのステッキ",
       "korean": "나뭇가지 지팡이",
       "russian": "палочка из ветки",
-      "plural": false,
-      "internalIds": [ 7587 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -10845,7 +10572,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 7587,
@@ -10856,7 +10582,7 @@
       "uniqueEntryId": "8WNAJXXX3Dn4Ggv5T",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_07587",
+        "id": 7587,
         "version": "1.0.0",
         "english": "tree-branch wand",
         "englishEurope": "tree-branch wand",
@@ -10872,14 +10598,13 @@
         "japanese": "きのえだのステッキ",
         "korean": "나뭇가지 지팡이",
         "russian": "палочка из ветки",
-        "plural": false,
-        "internalIds": [ 7587 ]
+        "plural": false
       },
       "materials": { "tree branch": 5, "star fragment": 3 },
       "materialsTranslations": {
         "tree branch": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02500",
+          "id": 2500,
           "version": "1.0.0",
           "english": "tree branch",
           "englishEurope": "tree branch",
@@ -10895,12 +10620,11 @@
           "japanese": "きのえだ",
           "korean": "나뭇가지",
           "russian": "ветка",
-          "plural": false,
-          "internalIds": [ 2500 ]
+          "plural": false
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -10916,8 +10640,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -10945,15 +10668,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickTulip",
     "variantId": null,
     "internalId": 5085,
     "uniqueEntryId": "u7ZfCMpDYtPRbK2vc",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_05085",
+      "id": 5085,
       "version": "1.0.0",
       "english": "tulip wand",
       "englishEurope": "tulip wand",
@@ -10969,8 +10690,7 @@
       "japanese": "チューリップのステッキ",
       "korean": "튤립 지팡이",
       "russian": "палочка с тюльпаном",
-      "plural": false,
-      "internalIds": [ 5085 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -10986,7 +10706,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 5085,
@@ -10997,7 +10716,7 @@
       "uniqueEntryId": "Hzq4v5JtEKASys3vY",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_05085",
+        "id": 5085,
         "version": "1.0.0",
         "english": "tulip wand",
         "englishEurope": "tulip wand",
@@ -11013,35 +10732,33 @@
         "japanese": "チューリップのステッキ",
         "korean": "튤립 지팡이",
         "russian": "палочка с тюльпаном",
-        "plural": false,
-        "internalIds": [ 5085 ]
+        "plural": false
       },
       "materials": { "red tulips": 1, "star fragment": 3 },
       "materialsTranslations": {
         "red tulips": {
           "sourceSheet": "Plants",
-          "id": "Flower_02883",
+          "id": 2883,
           "version": "1.0.0",
           "english": "red tulips",
           "englishEurope": "red tulips",
-          "german": "Papageitulpe",
-          "spanish": "tulipán rojo",
-          "spanishUs": "tulipán rojo",
-          "french": "tulipe rouge",
-          "frenchUs": "tulipe rouge",
-          "italian": "tulipano rosso",
-          "dutch": "rode tulp",
+          "german": "Papageitulpen",
+          "spanish": "tulipanes rojos",
+          "spanishUs": "tulipanes rojos",
+          "french": "tulipes rouges",
+          "frenchUs": "tulipes rouges",
+          "italian": "tulipani rossi",
+          "dutch": "rode tulpen",
           "chinese": "红色郁金香",
           "chineseTraditional": "紅色鬱金香",
           "japanese": "あかいチューリップ",
           "korean": "빨간 튤립",
-          "russian": "красный тюльпан",
-          "plural": false,
-          "internalIds": [ 2883 ]
+          "russian": "красные тюльпаны",
+          "plural": true
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -11057,8 +10774,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -11082,19 +10798,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolBlowouts",
     "variantId": null,
     "internalId": 5742,
     "uniqueEntryId": "QxaQCNrLi393nadSQ",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Partyhorn_05742",
+      "id": 5742,
       "version": "1.4.0",
       "english": "tweeter",
       "englishEurope": "tweeter",
@@ -11110,8 +10827,7 @@
       "japanese": "ふきもどし",
       "korean": "코끼리 피리",
       "russian": "пищалка",
-      "plural": false,
-      "internalIds": [ 5742 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -11135,19 +10851,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolPaperFan",
     "variantId": null,
     "internalId": 5319,
     "uniqueEntryId": "bPKsESXK5jLNWXAof",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Uchiwa_05319",
+      "id": 5319,
       "version": "1.4.0",
       "english": "uchiwa fan",
       "englishEurope": "uchiwa fan",
@@ -11163,8 +10880,7 @@
       "japanese": "うちわ",
       "korean": "둥글부채",
       "russian": "веер утива",
-      "plural": false,
-      "internalIds": [ 5319 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -11192,15 +10908,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "LongWoodenStick",
     "variantId": null,
     "internalId": 4703,
     "uniqueEntryId": "2vD5XPKHSCCSjy882",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "WoodenStickTool_04703",
+      "id": 4703,
       "version": "1.0.0",
       "english": "vaulting pole",
       "englishEurope": "vaulting pole",
@@ -11216,8 +10930,7 @@
       "japanese": "たかとびぼう",
       "korean": "높이뛰기 장대",
       "russian": "шест",
-      "plural": false,
-      "internalIds": [ 4703 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -11233,7 +10946,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 4703,
@@ -11244,7 +10956,7 @@
       "uniqueEntryId": "osL5JbW5XpPxQZR6b",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "WoodenStickTool_04703",
+        "id": 4703,
         "version": "1.0.0",
         "english": "vaulting pole",
         "englishEurope": "vaulting pole",
@@ -11260,31 +10972,29 @@
         "japanese": "たかとびぼう",
         "korean": "높이뛰기 장대",
         "russian": "шест",
-        "plural": false,
-        "internalIds": [ 4703 ]
+        "plural": false
       },
       "materials": { "softwood": 5 },
       "materialsTranslations": {
         "softwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02767",
+          "id": 2767,
           "version": "1.0.0",
           "english": "softwood",
           "englishEurope": "softwood",
           "german": "Weichholz",
-          "spanish": "tabla flexible",
-          "spanishUs": "tabla flexible",
+          "spanish": "tablas flexibles",
+          "spanishUs": "tablas flexibles",
           "french": "bois tendre",
           "frenchUs": "bois tendre",
-          "italian": "legno morbido",
+          "italian": "legna morbida",
           "dutch": "zachthout",
           "chinese": "软木材",
           "chineseTraditional": "軟木材",
           "japanese": "やわらかいもくざい",
           "korean": "부드러운 목재",
           "russian": "мягкая древесина",
-          "plural": false,
-          "internalIds": [ 2767 ]
+          "plural": true
         }
       }
     }
@@ -11312,15 +11022,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickWood",
     "variantId": null,
     "internalId": 7584,
     "uniqueEntryId": "2Re2yBHTfLRDiTWRb",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_07584",
+      "id": 7584,
       "version": "1.0.0",
       "english": "wand",
       "englishEurope": "wand",
@@ -11336,8 +11044,7 @@
       "japanese": "ステッキ",
       "korean": "지팡이",
       "russian": "палочка",
-      "plural": false,
-      "internalIds": [ 7584 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -11353,7 +11060,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 7584,
@@ -11364,7 +11070,7 @@
       "uniqueEntryId": "8vcfcHLWY7MLbb9Hn",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_07584",
+        "id": 7584,
         "version": "1.0.0",
         "english": "wand",
         "englishEurope": "wand",
@@ -11380,14 +11086,13 @@
         "japanese": "ステッキ",
         "korean": "지팡이",
         "russian": "палочка",
-        "plural": false,
-        "internalIds": [ 7584 ]
+        "plural": false
       },
       "materials": { "star fragment": 2 },
       "materialsTranslations": {
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -11403,8 +11108,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -11417,7 +11121,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "set": null,
     "bodyTitle": "Color",
     "buy": 2400,
@@ -11425,7 +11128,7 @@
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Watering_02379",
+      "id": 2379,
       "version": "1.0.0",
       "english": "watering can",
       "englishEurope": "watering can",
@@ -11441,8 +11144,7 @@
       "japanese": "ジョウロ",
       "korean": "물뿌리개",
       "russian": "лейка",
-      "plural": false,
-      "internalIds": [ 2379 ]
+      "plural": false
     },
     "source": [ "Crafting" ],
     "hhaBasePoints": 0,
@@ -11474,8 +11176,7 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий",
-          "plural": false
+          "russian": "Синий"
         },
         "colors": []
       },
@@ -11505,8 +11206,7 @@
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый",
-          "plural": false
+          "russian": "Оранжевый"
         },
         "colors": []
       },
@@ -11536,8 +11236,7 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый",
-          "plural": false
+          "russian": "Зеленый"
         },
         "colors": []
       },
@@ -11567,8 +11266,7 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный",
-          "plural": false
+          "russian": "Красный"
         },
         "colors": []
       },
@@ -11598,8 +11296,7 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый",
-          "plural": false
+          "russian": "Фиолетовый"
         },
         "colors": []
       },
@@ -11629,8 +11326,7 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый",
-          "plural": false
+          "russian": "Розовый"
         },
         "colors": []
       },
@@ -11660,8 +11356,7 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый",
-          "plural": false
+          "russian": "Белый"
         },
         "colors": []
       },
@@ -11691,8 +11386,7 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный",
-          "plural": false
+          "russian": "Черный"
         },
         "colors": []
       }
@@ -11706,11 +11400,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Pretty Good Tools Recipes" ],
-      "sourceNotes": "Purchase Pretty Good Tools Recipes via Nook Miles Redemption",
+      "sourceNotes": [ "Purchase Pretty Good Tools Recipes via Nook Miles Redemption" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 2379,
@@ -11721,7 +11414,7 @@
       "uniqueEntryId": "2AGD3mCFzDSDNNZoK",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "Watering_02379",
+        "id": 2379,
         "version": "1.0.0",
         "english": "watering can",
         "englishEurope": "watering can",
@@ -11737,14 +11430,13 @@
         "japanese": "ジョウロ",
         "korean": "물뿌리개",
         "russian": "лейка",
-        "plural": false,
-        "internalIds": [ 2379 ]
+        "plural": false
       },
       "materials": { "flimsy watering can": 1, "iron nugget": 1 },
       "materialsTranslations": {
         "flimsy watering can": {
           "sourceSheet": "Tools",
-          "id": "Watering_03083",
+          "id": 3083,
           "version": "1.0.0",
           "english": "flimsy watering can",
           "englishEurope": "flimsy watering can",
@@ -11760,12 +11452,11 @@
           "japanese": "ショボいジョウロ",
           "korean": "엉성한 물뿌리개",
           "russian": "непрочная лейка",
-          "plural": false,
-          "internalIds": [ 3083 ]
+          "plural": false
         },
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -11781,8 +11472,7 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         }
       }
     }
@@ -11810,15 +11500,13 @@
     "versionAdded": "1.2.0",
     "unlocked": true,
     "unlockNotes": [ "2020-06-01", "BCAT", "1.2.1c" ],
-    "versionUnlocked": "1.2.1c",
     "filename": "ToolStickJune",
     "variantId": null,
     "internalId": 12695,
     "uniqueEntryId": "syPb2baTrP3zqi66f",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_12695",
+      "id": 12695,
       "version": "1.2.0",
       "english": "wedding wand",
       "englishEurope": "wedding wand",
@@ -11834,8 +11522,7 @@
       "japanese": "ウェディングなステッキ",
       "korean": "웨딩 지팡이",
       "russian": "свадебная палочка",
-      "plural": false,
-      "internalIds": [ 12695 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -11847,11 +11534,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Cyrus" ],
-      "sourceNotes": "Only available during Wedding Season",
+      "sourceNotes": [ "Only available during Wedding Season" ],
       "versionAdded": "1.2.0",
       "unlocked": true,
       "unlockNotes": [ "2020-06-01", "BCAT", "1.2.1c" ],
-      "versionUnlocked": "1.2.1c",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 12695,
@@ -11862,7 +11548,7 @@
       "uniqueEntryId": "LokHc5XaxADprKGWJ",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_12695",
+        "id": 12695,
         "version": "1.2.0",
         "english": "wedding wand",
         "englishEurope": "wedding wand",
@@ -11878,14 +11564,13 @@
         "japanese": "ウェディングなステッキ",
         "korean": "웨딩 지팡이",
         "russian": "свадебная палочка",
-        "plural": false,
-        "internalIds": [ 12695 ]
+        "plural": false
       },
       "materials": { "wedding flower stand": 1, "star fragment": 3 },
       "materialsTranslations": {
         "wedding flower stand": {
           "sourceSheet": "Furniture",
-          "id": "Ftr_12411",
+          "id": 12411,
           "version": "1.2.0",
           "english": "wedding flower stand",
           "englishEurope": "wedding flower stand",
@@ -11901,12 +11586,11 @@
           "japanese": "ウェディングなフラワースタンド",
           "korean": "웨딩 플라워 스탠드",
           "russian": "свадебная жардиньерка",
-          "plural": false,
-          "internalIds": [ 12411 ]
+          "plural": false
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -11922,8 +11606,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -11951,15 +11634,13 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ToolStickAnemones",
     "variantId": null,
     "internalId": 5084,
     "uniqueEntryId": "ERMKczYuvS6Eff7C9",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "ChangeStick_05084",
+      "id": 5084,
       "version": "1.0.0",
       "english": "windflower wand",
       "englishEurope": "windflower wand",
@@ -11975,8 +11656,7 @@
       "japanese": "アネモネのステッキ",
       "korean": "아네모네 지팡이",
       "russian": "палочка с ветреницей",
-      "plural": false,
-      "internalIds": [ 5084 ]
+      "plural": false
     },
     "colors": [],
     "recipe": {
@@ -11992,7 +11672,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Tools",
       "craftedItemInternalId": 5084,
@@ -12003,7 +11682,7 @@
       "uniqueEntryId": "GFM7MzdiDKiqhBb9X",
       "translations": {
         "sourceSheet": "Tools",
-        "id": "ChangeStick_05084",
+        "id": 5084,
         "version": "1.0.0",
         "english": "windflower wand",
         "englishEurope": "windflower wand",
@@ -12019,35 +11698,33 @@
         "japanese": "アネモネのステッキ",
         "korean": "아네모네 지팡이",
         "russian": "палочка с ветреницей",
-        "plural": false,
-        "internalIds": [ 5084 ]
+        "plural": false
       },
       "materials": { "orange windflowers": 1, "star fragment": 3 },
       "materialsTranslations": {
         "orange windflowers": {
           "sourceSheet": "Plants",
-          "id": "Flower_03713",
+          "id": 3713,
           "version": "1.0.0",
           "english": "orange windflowers",
           "englishEurope": "orange windflowers",
-          "german": "Orangeanemone",
-          "spanish": "anémona naranja",
-          "spanishUs": "anémona naranja",
-          "french": "anémone orange",
-          "frenchUs": "anémone orange",
-          "italian": "anemone arancione",
-          "dutch": "oranje anemoon",
+          "german": "Orangeanemonen",
+          "spanish": "anémonas naranjas",
+          "spanishUs": "anémonas naranjas",
+          "french": "anémones orange",
+          "frenchUs": "anémones orange",
+          "italian": "anemoni arancioni",
+          "dutch": "oranje anemonen",
           "chinese": "橘色银莲花",
           "chineseTraditional": "橘色銀蓮花",
           "japanese": "オレンジのアネモネ",
           "korean": "오렌지색 아네모네",
-          "russian": "оранжевая ветреница",
-          "plural": false,
-          "internalIds": [ 3713 ]
+          "russian": "оранжевые ветреницы",
+          "plural": true
         },
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -12063,8 +11740,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -12088,19 +11764,17 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "May Day Tour" ],
-    "sourceNotes": "Only available during May Day Tour",
+    "sourceNotes": [ "Only available during May Day Tour" ],
     "versionAdded": "1.2.0",
     "unlocked": true,
     "unlockNotes": [ "2020-05-01", "BCAT", "1.2.0a" ],
-    "versionUnlocked": "1.2.0a",
     "filename": "ToolAxeFragile",
     "variantId": null,
     "internalId": 12615,
     "uniqueEntryId": "xqXJch47cQrNT65jG",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "Tools",
-      "id": "Axe_12615",
+      "id": 12615,
       "version": "1.2.0",
       "english": "worn axe",
       "englishEurope": "worn axe",
@@ -12116,8 +11790,7 @@
       "japanese": "こわれかけのオノ",
       "korean": "튼튼하지 않은 도끼",
       "russian": "видавший виды топор",
-      "plural": false,
-      "internalIds": [ 12615 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null
@@ -12141,19 +11814,20 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Redd's Raffle", "Nook's Cranny" ],
-    "sourceNotes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
+    "sourceNotes": [
+      "Only available during a fireworks display",
+      "Available in rotating cabinet stock after August"
+    ],
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.4.0",
     "filename": "ToolBalloonNormal2",
     "variantId": null,
     "internalId": 13124,
     "uniqueEntryId": "dF8pTGMJY5465vatR",
-    "variantTranslations": null,
     "translations": {
       "sourceSheet": "ETC",
-      "id": "Balloon_13124",
+      "id": 13124,
       "version": "1.4.0",
       "english": "yellow balloon",
       "englishEurope": "yellow balloon",
@@ -12169,8 +11843,7 @@
       "japanese": "きいろのふうせん",
       "korean": "노란색 풍선",
       "russian": "желтый шарик",
-      "plural": false,
-      "internalIds": [ 13124 ]
+      "plural": false
     },
     "colors": [],
     "recipe": null

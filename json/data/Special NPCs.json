@@ -33,8 +33,7 @@
       "japanese": "あやしいネコ",
       "korean": "아트고양이",
       "russian": "Бланка",
-      "plural": false,
-      "internalIds": [ "mka" ]
+      "plural": false
     }
   },
   {
@@ -71,8 +70,7 @@
       "japanese": "フータ",
       "korean": "부엉",
       "russian": "Блезерс",
-      "plural": false,
-      "internalIds": [ "owl" ]
+      "plural": false
     }
   },
   {
@@ -109,8 +107,7 @@
       "japanese": "おまわりさん",
       "korean": "경찰관",
       "russian": "Букер",
-      "plural": false,
-      "internalIds": [ "dgb" ]
+      "plural": false
     }
   },
   {
@@ -147,8 +144,7 @@
       "japanese": "マスター",
       "korean": "마스터",
       "russian": "Брюстер",
-      "plural": false,
-      "internalIds": [ "pge" ]
+      "plural": false
     }
   },
   {
@@ -185,8 +181,7 @@
       "japanese": "ジャスティン",
       "korean": "저스틴",
       "russian": "Си-Джей",
-      "plural": false,
-      "internalIds": [ "bey" ]
+      "plural": false
     }
   },
   {
@@ -223,8 +218,7 @@
       "japanese": "フーコ",
       "korean": "부옥",
       "russian": "Селеста",
-      "plural": false,
-      "internalIds": [ "ows" ]
+      "plural": false
     }
   },
   {
@@ -261,8 +255,7 @@
       "japanese": "うおまさ",
       "korean": "뚱달",
       "russian": "Чип",
-      "plural": false,
-      "internalIds": [ "bev" ]
+      "plural": false
     }
   },
   {
@@ -299,8 +292,7 @@
       "japanese": "おまわりさん",
       "korean": "경찰관",
       "russian": "Коппер",
-      "plural": false,
-      "internalIds": [ "dga" ]
+      "plural": false
     }
   },
   {
@@ -337,14 +329,13 @@
       "japanese": "カイゾー",
       "korean": "리포",
       "russian": "Сайрус",
-      "plural": false,
-      "internalIds": [ "alp" ]
+      "plural": false
     }
   },
   {
     "sourceSheet": "Special NPCs",
     "name": "DJ KK",
-    "iconImage": "https://acnhapi.com/1.0.0/NpcIcon/tkkB.png",
+    "iconImage": "https://acnhcdn.com/1.0.0/NpcIcon/tkkB.png",
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpTkkB.png",
     "gender": "Male",
     "genderAsia": "Male",
@@ -375,8 +366,7 @@
       "japanese": "DJ K.K",
       "korean": "DJ K.K.",
       "russian": "DJ KK",
-      "plural": false,
-      "internalIds": [ "tkkB" ]
+      "plural": false
     }
   },
   {
@@ -413,8 +403,7 @@
       "japanese": "ウリ",
       "korean": "무파니",
       "russian": "Дейзи-Мей",
-      "plural": false,
-      "internalIds": [ "boc" ]
+      "plural": false
     }
   },
   {
@@ -451,8 +440,7 @@
       "japanese": "ケント",
       "korean": "켄트",
       "russian": "Дигби",
-      "plural": false,
-      "internalIds": [ "szo" ]
+      "plural": false
     }
   },
   {
@@ -489,8 +477,7 @@
       "japanese": "ラケットさん",
       "korean": "오루묵씨",
       "russian": "Дон",
-      "plural": false,
-      "internalIds": [ "mob" ]
+      "plural": false
     }
   },
   {
@@ -527,8 +514,7 @@
       "japanese": "レックス",
       "korean": "레온",
       "russian": "Флик",
-      "plural": false,
-      "internalIds": [ "chy" ]
+      "plural": false
     }
   },
   {
@@ -565,8 +551,7 @@
       "japanese": "フランクリン",
       "korean": "프랭클린",
       "russian": "Франклин",
-      "plural": false,
-      "internalIds": [ "tuk" ]
+      "plural": false
     }
   },
   {
@@ -603,8 +588,7 @@
       "japanese": "グレース",
       "korean": "그레이스",
       "russian": "Грейси",
-      "plural": false,
-      "internalIds": [ "grf" ]
+      "plural": false
     }
   },
   {
@@ -641,8 +625,7 @@
       "japanese": "ゲコ",
       "korean": "귀녀",
       "russian": "Грэмс",
-      "plural": false,
-      "internalIds": [ "kpg" ]
+      "plural": false
     }
   },
   {
@@ -679,8 +662,7 @@
       "japanese": "かいぞく",
       "korean": "해적",
       "russian": "Гулливарр",
-      "plural": false,
-      "internalIds": [ "gulB" ]
+      "plural": false
     }
   },
   {
@@ -717,8 +699,7 @@
       "japanese": "ジョニー",
       "korean": "죠니",
       "russian": "Гулливер",
-      "plural": false,
-      "internalIds": [ "gul" ]
+      "plural": false
     }
   },
   {
@@ -755,8 +736,7 @@
       "japanese": "カットリーヌ",
       "korean": "카트리나",
       "russian": "Харриет",
-      "plural": false,
-      "internalIds": [ "poo" ]
+      "plural": false
     }
   },
   {
@@ -793,8 +773,7 @@
       "japanese": "パニエル",
       "korean": "파니엘",
       "russian": "Харви",
-      "plural": false,
-      "internalIds": [ "spn" ]
+      "plural": false
     }
   },
   {
@@ -831,18 +810,17 @@
       "japanese": "しずえ",
       "korean": "여울",
       "russian": "Изабель",
-      "plural": false,
-      "internalIds": [ "sza" ]
+      "plural": false
     }
   },
   {
     "sourceSheet": "Special NPCs",
     "name": "Jack",
-    "iconImage": null,
+    "iconImage": "https://acnhcdn.com/latest/NpcIcon/pkn.png",
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpPkn.png",
     "gender": "Male",
     "genderAsia": "Male",
-    "versionAdded": null,
+    "versionAdded": "1.5.0",
     "npcId": "pkn",
     "internalId": 57,
     "birthday": "10/31",
@@ -869,8 +847,7 @@
       "japanese": "パンプキング",
       "korean": "펌킹",
       "russian": "Джек",
-      "plural": false,
-      "internalIds": [ "pkn" ]
+      "plural": false
     }
   },
   {
@@ -907,8 +884,7 @@
       "japanese": "ジングル",
       "korean": "루돌",
       "russian": "Джингл",
-      "plural": false,
-      "internalIds": [ "rei" ]
+      "plural": false
     }
   },
   {
@@ -945,8 +921,7 @@
       "japanese": "カブリバ",
       "korean": "무파라",
       "russian": "Джоан",
-      "plural": false,
-      "internalIds": [ "boa" ]
+      "plural": false
     }
   },
   {
@@ -983,8 +958,7 @@
       "japanese": "とたけけ",
       "korean": "K.K.",
       "russian": "К. К.",
-      "plural": false,
-      "internalIds": [ "tkkA" ]
+      "plural": false
     }
   },
   {
@@ -1021,8 +995,7 @@
       "japanese": "かっぺい",
       "korean": "갑돌",
       "russian": "Кэпн",
-      "plural": false,
-      "internalIds": [ "kpp" ]
+      "plural": false
     }
   },
   {
@@ -1059,8 +1032,7 @@
       "japanese": "まいこちゃん",
       "korean": "미야",
       "russian": "Кейти",
-      "plural": false,
-      "internalIds": [ "lom" ]
+      "plural": false
     }
   },
   {
@@ -1097,8 +1069,7 @@
       "japanese": "ハッケミィ",
       "korean": "마추릴라",
       "russian": "Катрина",
-      "plural": false,
-      "internalIds": [ "bpt" ]
+      "plural": false
     }
   },
   {
@@ -1135,8 +1106,7 @@
       "japanese": "シャンク",
       "korean": "패트릭",
       "russian": "Кикс",
-      "plural": false,
-      "internalIds": [ "skk" ]
+      "plural": false
     }
   },
   {
@@ -1173,8 +1143,7 @@
       "japanese": "ことの",
       "korean": "고숙이",
       "russian": "Лэйбл",
-      "plural": false,
-      "internalIds": [ "hgc" ]
+      "plural": false
     }
   },
   {
@@ -1211,8 +1180,7 @@
       "japanese": "レイジ",
       "korean": "늘봉",
       "russian": "Лейф",
-      "plural": false,
-      "internalIds": [ "slo" ]
+      "plural": false
     }
   },
   {
@@ -1249,8 +1217,7 @@
       "japanese": "クク",
       "korean": "꼬미",
       "russian": "Лейла",
-      "plural": false,
-      "internalIds": [ "kps" ]
+      "plural": false
     }
   },
   {
@@ -1287,8 +1254,7 @@
       "japanese": "クーコ",
       "korean": "갑순",
       "russian": "Лейлани",
-      "plural": false,
-      "internalIds": [ "kpm" ]
+      "plural": false
     }
   },
   {
@@ -1325,8 +1291,7 @@
       "japanese": "タクミ",
       "korean": "솜이",
       "russian": "Лотти",
-      "plural": false,
-      "internalIds": [ "otg" ]
+      "plural": false
     }
   },
   {
@@ -1363,8 +1328,7 @@
       "japanese": "ゆめみ",
       "korean": "몽셰르",
       "russian": "Луна",
-      "plural": false,
-      "internalIds": [ "tap" ]
+      "plural": false
     }
   },
   {
@@ -1401,8 +1365,7 @@
       "japanese": "ホンマさん",
       "korean": "안심해씨",
       "russian": "Лайл",
-      "plural": false,
-      "internalIds": [ "ott" ]
+      "plural": false
     }
   },
   {
@@ -1439,8 +1402,7 @@
       "japanese": "きぬよ",
       "korean": "고순이",
       "russian": "Мэйбл",
-      "plural": false,
-      "internalIds": [ "hgh" ]
+      "plural": false
     }
   },
   {
@@ -1477,8 +1439,7 @@
       "japanese": "カメヤマさん",
       "korean": "멜레옹",
       "russian": "Нат",
-      "plural": false,
-      "internalIds": [ "chm" ]
+      "plural": false
     }
   },
   {
@@ -1515,8 +1476,7 @@
       "japanese": "モーリー",
       "korean": "모리",
       "russian": "Орвилл",
-      "plural": false,
-      "internalIds": [ "dod" ]
+      "plural": false
     }
   },
   {
@@ -1553,8 +1513,7 @@
       "japanese": "ラコスケ",
       "korean": "해탈한",
       "russian": "Паскаль",
-      "plural": false,
-      "internalIds": [ "seo" ]
+      "plural": false
     }
   },
   {
@@ -1591,8 +1550,7 @@
       "japanese": "ベルリーナ",
       "korean": "베르리나",
       "russian": "Паве",
-      "plural": false,
-      "internalIds": [ "pck" ]
+      "plural": false
     }
   },
   {
@@ -1629,8 +1587,7 @@
       "japanese": "ぺりこ",
       "korean": "펠리",
       "russian": "Пелли",
-      "plural": false,
-      "internalIds": [ "plk" ]
+      "plural": false
     }
   },
   {
@@ -1667,8 +1624,7 @@
       "japanese": "ぺりお",
       "korean": "펠리오",
       "russian": "Пит",
-      "plural": false,
-      "internalIds": [ "plo" ]
+      "plural": false
     }
   },
   {
@@ -1705,8 +1661,7 @@
       "japanese": "パロンチーノ",
       "korean": "파론티노",
       "russian": "Финеас",
-      "plural": false,
-      "internalIds": [ "fsl" ]
+      "plural": false
     }
   },
   {
@@ -1743,8 +1698,7 @@
       "japanese": "ぺりみ",
       "korean": "펠리미",
       "russian": "Филлис",
-      "plural": false,
-      "internalIds": [ "plm" ]
+      "plural": false
     }
   },
   {
@@ -1781,8 +1735,7 @@
       "japanese": "えきいんさん",
       "korean": "역무원",
       "russian": "Портер",
-      "plural": false,
-      "internalIds": [ "mnk" ]
+      "plural": false
     }
   },
   {
@@ -1819,8 +1772,7 @@
       "japanese": "つねきち",
       "korean": "여욱",
       "russian": "Рэдд",
-      "plural": false,
-      "internalIds": [ "fox" ]
+      "plural": false
     }
   },
   {
@@ -1857,8 +1809,7 @@
       "japanese": "リサ",
       "korean": "리사",
       "russian": "Риз",
-      "plural": false,
-      "internalIds": [ "alw" ]
+      "plural": false
     }
   },
   {
@@ -1895,8 +1846,7 @@
       "japanese": "リセットさん",
       "korean": "도루묵씨",
       "russian": "Ресетти",
-      "plural": false,
-      "internalIds": [ "mol" ]
+      "plural": false
     }
   },
   {
@@ -1933,8 +1883,7 @@
       "japanese": "みしらぬネコ",
       "korean": "낯선고양이",
       "russian": "Ровер",
-      "plural": false,
-      "internalIds": [ "xct" ]
+      "plural": false
     }
   },
   {
@@ -1971,8 +1920,7 @@
       "japanese": "あさみ",
       "korean": "고옥이",
       "russian": "Сэйбл",
-      "plural": false,
-      "internalIds": [ "hgs" ]
+      "plural": false
     }
   },
   {
@@ -2009,8 +1957,7 @@
       "japanese": "ローラン",
       "korean": "사하라",
       "russian": "Сахара",
-      "plural": false,
-      "internalIds": [ "cml" ]
+      "plural": false
     }
   },
   {
@@ -2047,8 +1994,7 @@
       "japanese": "ししょー",
       "korean": "스승",
       "russian": "Шранк",
-      "plural": false,
-      "internalIds": [ "upa" ]
+      "plural": false
     }
   },
   {
@@ -2085,8 +2031,7 @@
       "japanese": "まめきち",
       "korean": "콩돌이",
       "russian": "Тимми",
-      "plural": false,
-      "internalIds": [ "rcm" ]
+      "plural": false
     }
   },
   {
@@ -2123,8 +2068,7 @@
       "japanese": "たぬきち",
       "korean": "너굴",
       "russian": "Том Нук",
-      "plural": false,
-      "internalIds": [ "rco" ]
+      "plural": false
     }
   },
   {
@@ -2161,8 +2105,7 @@
       "japanese": "つぶきち",
       "korean": "밤돌이",
       "russian": "Томми",
-      "plural": false,
-      "internalIds": [ "rct" ]
+      "plural": false
     }
   },
   {
@@ -2199,8 +2142,7 @@
       "japanese": "コトブキ",
       "korean": "고북",
       "russian": "Тортимер",
-      "plural": false,
-      "internalIds": [ "ttlA" ]
+      "plural": false
     }
   },
   {
@@ -2237,8 +2179,7 @@
       "japanese": "セイイチ",
       "korean": "고파유",
       "russian": "Уэнделл",
-      "plural": false,
-      "internalIds": [ "wrl" ]
+      "plural": false
     }
   },
   {
@@ -2275,8 +2216,7 @@
       "japanese": "ロドリー",
       "korean": "로드리",
       "russian": "Уилбур",
-      "plural": false,
-      "internalIds": [ "doc" ]
+      "plural": false
     }
   },
   {
@@ -2313,8 +2253,7 @@
       "japanese": "ゆうたろう",
       "korean": "깨빈",
       "russian": "Уисп",
-      "plural": false,
-      "internalIds": [ "gst" ]
+      "plural": false
     }
   },
   {
@@ -2351,8 +2290,7 @@
       "japanese": "ゆうたろう",
       "korean": "깨빈",
       "russian": "Уисп",
-      "plural": false,
-      "internalIds": [ "gst" ]
+      "plural": false
     }
   },
   {
@@ -2389,8 +2327,7 @@
       "japanese": "ぴょんたろう",
       "korean": "토빗",
       "russian": "Зиппер",
-      "plural": false,
-      "internalIds": [ "pyn" ]
+      "plural": false
     }
   }
 ]

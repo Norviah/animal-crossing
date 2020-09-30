@@ -24,8 +24,7 @@
       "japanese": "ムシとりたいかい大会",
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
-      "plural": false,
-      "internalIds": [ "InsectConvention4" ]
+      "plural": false
     }
   },
   {
@@ -53,8 +52,7 @@
       "japanese": "ムシとりたいかい大会",
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
-      "plural": false,
-      "internalIds": [ "InsectConvention4" ]
+      "plural": false
     }
   },
   {
@@ -82,8 +80,7 @@
       "japanese": "ムシとりたいかい大会",
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
-      "plural": false,
-      "internalIds": [ "InsectConvention4" ]
+      "plural": false
     }
   },
   {
@@ -111,15 +108,14 @@
       "japanese": "ムシとりたいかい大会",
       "korean": "곤충채집대회",
       "russian": "Турнир «Мастер сачка»",
-      "plural": false,
-      "internalIds": [ "InsectConvention4" ]
+      "plural": false
     }
   },
   {
     "sourceSheet": "Events",
     "event": "Bunny Day",
-    "northernHemisphereDates": "Easter Sunday and the preceding 11 days\n\n2020: April 1–12\n2021: March 24 – April 4\n2022: April 6–17\n2023: March 29 – April 9\n2024: March 20–31\n2025: April 9–20",
-    "southernHemisphereDates": "Easter Sunday and the preceding 11 days\n(same as northern hemisphere)",
+    "northernHemisphereDates": "Easter Sunday\nEvent activities start 11 days prior\n\n2020: April 1–12\n2021: March 24 – April 4\n2022: April 6–17\n2023: March 29 – April 9\n2024: March 20–31\n2025: April 9–20",
+    "southernHemisphereDates": "Easter Sunday\nEvent activities start 11 days prior\n\n(same as northern hemisphere)",
     "times": "All day",
     "versionAdded": "1.1.0",
     "translations": {
@@ -140,8 +136,7 @@
       "japanese": "イースター",
       "korean": "이스터",
       "russian": "День зайцев",
-      "plural": false,
-      "internalIds": []
+      "plural": false
     }
   },
   {
@@ -169,8 +164,7 @@
       "japanese": "カウントダウン",
       "korean": "카운트다운",
       "russian": "Отсчет",
-      "plural": false,
-      "internalIds": [ "Countdown" ]
+      "plural": false
     }
   },
   {
@@ -198,8 +192,7 @@
       "japanese": "あき秋のつ釣りたいかい大会",
       "korean": "가을 낚시대회",
       "russian": "Осенний турнир «Мастер удочки»",
-      "plural": false,
-      "internalIds": [ "FishingConventionAutumn" ]
+      "plural": false
     }
   },
   {
@@ -209,6 +202,15 @@
     "southernHemisphereDates": "Every Sunday in August",
     "times": "7 PM – Midnight",
     "versionAdded": "1.4.0",
+    "translations": null
+  },
+  {
+    "sourceSheet": "Events",
+    "event": "Halloween",
+    "northernHemisphereDates": "October 31\nEvent activities start 30 days prior (Oct 1)",
+    "southernHemisphereDates": "October 31\nEvent activities start 30 days prior (Oct 1)",
+    "times": "5 PM – Midnight",
+    "versionAdded": "1.5.0",
     "translations": null
   },
   {
@@ -281,8 +283,7 @@
       "japanese": "はる春のつ釣りたいかい大会",
       "korean": "봄 낚시대회",
       "russian": "Весенний турнир «Мастер удочки»",
-      "plural": false,
-      "internalIds": [ "FishingConventionSpring" ]
+      "plural": false
     }
   },
   {
@@ -310,8 +311,7 @@
       "japanese": "なつ夏のつ釣りたいかい大会",
       "korean": "여름 낚시대회",
       "russian": "Летний турнир «Мастер удочки»",
-      "plural": false,
-      "internalIds": [ "FishingConventionSummer" ]
+      "plural": false
     }
   },
   {
@@ -348,8 +348,7 @@
       "japanese": "ふゆ冬のつ釣りたいかい大会",
       "korean": "겨울 낚시대회",
       "russian": "Зимний турнир «Мастер удочки»",
-      "plural": false,
-      "internalIds": [ "FishingConventionWinter" ]
+      "plural": false
     }
   }
 ]
