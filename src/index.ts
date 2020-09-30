@@ -3,7 +3,7 @@ import { existsSync, mkdirSync } from 'fs';
 import { join } from 'path';
 
 import { directories } from './util/directories';
-import { readdir } from './util/get';
+import { readdir } from './util/readdir';
 import { spreadsheets } from './util/spreadsheets';
 
 async function main(): Promise<void> {
@@ -12,20 +12,19 @@ async function main(): Promise<void> {
     if (!existsSync(directory)) mkdirSync(directory, { recursive: true });
   }
 
-  // Convert each spreadsheet into JSON, the files are saved under the
-  // sub-directory 'raw' under the project's root directory, it's considered
-  // raw as the files are straight from the spreadsheets.
+  // Convert and download each spreadsheet as a JSON file, which is saved under
+  // the sub-directory 'json' in the project's root directory.
   await sheets(spreadsheets, { verbose: true });
 
-  // Generate a JSON file containing the IDs for all items.
-  await import('./scripts/ids');
-
-  // Combine every translation into a single file.
+  // Once the spreadsheets are downloaded, we'll edit and change the data a bit
+  // in order to make it much easier for someone to work with it. First off,
+  // we'll create a new file combining every translation into a single file.
   await import('./scripts/translations');
 
-  // Sanitize the JSON files generated from the spreadsheets. This script
-  // sanitizes the files in blanket style, meaning it sanitizes the items in a
-  // way that is non-specific to a certain file or category.
+  // Once all the translations are combined, we'll sanitize each JSON file
+  // downloaded from the various spreadsheets. This script sanitizes each
+  // category in a way that is non-specific, i.e. setting translations and
+  // changing each key into camelCase for simple access.
   await import('./scripts/sanitize');
 
   // Each script in the 'handlers' sub-directory sanitizes each file in a way
@@ -36,10 +35,10 @@ async function main(): Promise<void> {
     await import(handler);
   }
 
-  // Merge items with recipes.
+  // Merges items with recipes.
   await import('./scripts/recipes');
 
-  // Combine every file via categories.
+  // Combines every JSON file via categories.
   await import('./scripts/combine');
 }
 
