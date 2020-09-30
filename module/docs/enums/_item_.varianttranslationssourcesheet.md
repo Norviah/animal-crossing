@@ -24,7 +24,7 @@
 
 • **AccessoriesVariants**: = "Accessories Variants"
 
-*Defined in [Item.ts:1045](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1045)*
+*Defined in [Item.ts:1031](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1031)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • **BagsVariants**: = "Bags Variants"
 
-*Defined in [Item.ts:1046](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1046)*
+*Defined in [Item.ts:1032](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1032)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **BottomsVariants**: = "Bottoms Variants"
 
-*Defined in [Item.ts:1047](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1047)*
+*Defined in [Item.ts:1033](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1033)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **CapsVariants**: = "Caps Variants"
 
-*Defined in [Item.ts:1048](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1048)*
+*Defined in [Item.ts:1034](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1034)*
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 • **DressesVariants**: = "Dresses Variants"
 
-*Defined in [Item.ts:1049](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1049)*
+*Defined in [Item.ts:1035](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1035)*
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 • **FurnitureVariants**: = "Furniture Variants"
 
-*Defined in [Item.ts:1050](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1050)*
+*Defined in [Item.ts:1036](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1036)*
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 • **MarineSuitVariants**: = "Marine Suit Variants"
 
-*Defined in [Item.ts:1051](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1051)*
+*Defined in [Item.ts:1037](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1037)*
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 • **MasksVariants**: = "Masks Variants"
 
-*Defined in [Item.ts:1052](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1052)*
+*Defined in [Item.ts:1038](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1038)*
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 • **ShoesVariants**: = "Shoes Variants"
 
-*Defined in [Item.ts:1053](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1053)*
+*Defined in [Item.ts:1039](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1039)*
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 • **SocksVariants**: = "Socks Variants"
 
-*Defined in [Item.ts:1054](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1054)*
+*Defined in [Item.ts:1040](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1040)*
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 • **TopsVariants**: = "Tops Variants"
 
-*Defined in [Item.ts:1055](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L1055)*
+*Defined in [Item.ts:1041](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L1041)*

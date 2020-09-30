@@ -6,26 +6,43 @@
 
 ### Enumeration members
 
+* [The４ごう](_item_.japanese.md#the４ごう)
 * [おしごと仕事](_item_.japanese.md#おしごと仕事)
+* [どぐろう](_item_.japanese.md#どぐろう)
 * [アウトドア](_item_.japanese.md#アウトドア)
-* [キュン](_item_.japanese.md#キュン)
+* [アップル](_item_.japanese.md#アップル)
 * [ステージ](_item_.japanese.md#ステージ)
 * [スポーツ](_item_.japanese.md#スポーツ)
 * [デイリー](_item_.japanese.md#デイリー)
+* [ハンナ](_item_.japanese.md#ハンナ)
 * [バカンス](_item_.japanese.md#バカンス)
-* [パーティー](_item_.japanese.md#パーティー)
 * [フォーマル](_item_.japanese.md#フォーマル)
 * [ホラー](_item_.japanese.md#ホラー)
-* [メルヘン](_item_.japanese.md#メルヘン)
 * [リラックス](_item_.japanese.md#リラックス)
 
 ## Enumeration members
+
+###  The４ごう
+
+• **The４ごう**: = "４ごう"
+
+*Defined in [Item.ts:699](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L699)*
+
+___
 
 ###  おしごと仕事
 
 • **おしごと仕事**: = "おしごと仕事"
 
-*Defined in [Item.ts:715](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L715)*
+*Defined in [Item.ts:700](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L700)*
+
+___
+
+###  どぐろう
+
+• **どぐろう**: = "どぐろう"
+
+*Defined in [Item.ts:701](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L701)*
 
 ___
 
@@ -33,15 +50,15 @@ ___
 
 • **アウトドア**: = "アウトドア"
 
-*Defined in [Item.ts:716](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L716)*
+*Defined in [Item.ts:702](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L702)*
 
 ___
 
-###  キュン
+###  アップル
 
-• **キュン**: = "キュン"
+• **アップル**: = "アップル"
 
-*Defined in [Item.ts:717](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L717)*
+*Defined in [Item.ts:703](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L703)*
 
 ___
 
@@ -49,7 +66,7 @@ ___
 
 • **ステージ**: = "ステージ"
 
-*Defined in [Item.ts:718](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L718)*
+*Defined in [Item.ts:704](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L704)*
 
 ___
 
@@ -57,7 +74,7 @@ ___
 
 • **スポーツ**: = "スポーツ"
 
-*Defined in [Item.ts:719](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L719)*
+*Defined in [Item.ts:705](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L705)*
 
 ___
 
@@ -65,7 +82,15 @@ ___
 
 • **デイリー**: = "デイリー"
 
-*Defined in [Item.ts:720](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L720)*
+*Defined in [Item.ts:706](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L706)*
+
+___
+
+###  ハンナ
+
+• **ハンナ**: = "ハンナ"
+
+*Defined in [Item.ts:707](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L707)*
 
 ___
 
@@ -73,15 +98,7 @@ ___
 
 • **バカンス**: = "バカンス"
 
-*Defined in [Item.ts:721](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L721)*
-
-___
-
-###  パーティー
-
-• **パーティー**: = "パーティー"
-
-*Defined in [Item.ts:722](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L722)*
+*Defined in [Item.ts:708](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L708)*
 
 ___
 
@@ -89,7 +106,7 @@ ___
 
 • **フォーマル**: = "フォーマル"
 
-*Defined in [Item.ts:723](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L723)*
+*Defined in [Item.ts:709](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L709)*
 
 ___
 
@@ -97,15 +114,7 @@ ___
 
 • **ホラー**: = "ホラー"
 
-*Defined in [Item.ts:724](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L724)*
-
-___
-
-###  メルヘン
-
-• **メルヘン**: = "メルヘン"
-
-*Defined in [Item.ts:725](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L725)*
+*Defined in [Item.ts:710](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L710)*
 
 ___
 
@@ -113,4 +122,4 @@ ___
 
 • **リラックス**: = "リラックス"
 
-*Defined in [Item.ts:726](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L726)*
+*Defined in [Item.ts:711](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L711)*

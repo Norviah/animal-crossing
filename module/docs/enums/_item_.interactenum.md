@@ -6,17 +6,26 @@
 
 ### Enumeration members
 
+* [Chair](_item_.interactenum.md#chair)
 * [Trash](_item_.interactenum.md#trash)
 * [Wardrobe](_item_.interactenum.md#wardrobe)
 * [Workbench](_item_.interactenum.md#workbench)
 
 ## Enumeration members
 
+###  Chair
+
+• **Chair**: = "Chair"
+
+*Defined in [Item.ts:215](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L215)*
+
+___
+
 ###  Trash
 
 • **Trash**: = "Trash"
 
-*Defined in [Item.ts:218](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L218)*
+*Defined in [Item.ts:216](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L216)*
 
 ___
 
@@ -24,7 +33,7 @@ ___
 
 • **Wardrobe**: = "Wardrobe"
 
-*Defined in [Item.ts:219](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L219)*
+*Defined in [Item.ts:217](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L217)*
 
 ___
 
@@ -32,4 +41,4 @@ ___
 
 • **Workbench**: = "Workbench"
 
-*Defined in [Item.ts:220](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L220)*
+*Defined in [Item.ts:218](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L218)*

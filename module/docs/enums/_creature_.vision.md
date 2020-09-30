@@ -18,7 +18,7 @@
 
 • **Medium**: = "Medium"
 
-*Defined in [Creature.ts:152](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Creature.ts#L152)*
+*Defined in [Creature.ts:147](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Creature.ts#L147)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **Narrow**: = "Narrow"
 
-*Defined in [Creature.ts:153](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Creature.ts#L153)*
+*Defined in [Creature.ts:148](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Creature.ts#L148)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **VeryNarrow**: = "Very Narrow"
 
-*Defined in [Creature.ts:154](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Creature.ts#L154)*
+*Defined in [Creature.ts:149](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Creature.ts#L149)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **VeryWide**: = "Very Wide"
 
-*Defined in [Creature.ts:155](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Creature.ts#L155)*
+*Defined in [Creature.ts:150](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Creature.ts#L150)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **Wide**: = "Wide"
 
-*Defined in [Creature.ts:156](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Creature.ts#L156)*
+*Defined in [Creature.ts:151](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Creature.ts#L151)*
