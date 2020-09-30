@@ -43,6 +43,10 @@
       "section": "Dependencies"
     },
     {
+      "type": "remove",
+      "section": "Dependencies"
+    },
+    {
       "type": "chore",
       "hidden": true
     },
