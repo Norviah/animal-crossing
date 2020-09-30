@@ -5,108 +5,57 @@ import { directories } from '../util/directories';
 import { get } from '../util/get';
 import { write } from '../util/write';
 
-// This script combines all translations into a single file and tries to link
-// translations to the items spreadsheet by applying the item's internal ID to
-// the translation.
-
-// In the translations spreadsheet, the 'READ ME' tab states that you can link
-// translations to the item spreadsheet as the ID for translations is the
-// internal ID on the item spreadsheet. The problem being that you can't
-// directly link using IDs as translations has their IDs as a number or a
-// string in the form of 'category_ID', with 'ID' being a 5 digit number, for
-// example, if a translation's ID is 2, the ID will be 'category_00002'.
-
-// From my experience, the translations with strings for IDs correctly link with
-// the item spreadsheet, with the ID being the 5 digit number, but we can ignore
-// the the translations with numbers as their ID as those have nothing to do
-// with the item spreadsheet.
-
-// So to correctly get the internal IDs, we have to do a couple of checks.
-// First, if the ID is a number, ignore it completely. Next, we know that the ID
-// is a string, so we have it match with the regex: /^.*_(\d{5}).*$/. This regex
-// simply checks to see if the ID is in the proper form and has 5 digits. If the
-// regex doesn't have any matches, we assume that the ID is correct as some
-// items on the item spreadsheet has their internal ID as their filename, for
-// example, villagers.
-
-// Matches a string if it has 5 digits.
-const idRegex: RegExp = /^.*_(\d{5}).*$/;
-
-// Matches the ID for variations.
-const variantRegex: RegExp = /.*_(\d+)$/;
-
-// When manually trying to find IDs of translations, we'll ignore these tabs as
-// they have internal IDs that are the same of other items, and we shouldn't get
-// the IDs from these tabs as 'Recipes' have a property representing the ID of
-// the item it represents, and achievements shouldn't/don't have translations.
-const ignore: string[] = ['Recipes', 'Achievements'];
-
-// Import all items from the AC: NH spreadsheet.
-const items: obj[] = get(directories.raw);
+// This scripts reads and combines all translations into a single file and edits
+// the IDs of some translations to a number over a string when possible.
 
 const translations: obj[] = [];
-
-/**
- * Searches for a match from the given string and, if a match is found, the
- * first group is returned in the form a Number. If a match isn't found, the
- * original string is returned instead.
- * @param  string The string to match.
- * @param  regex  The regex used to find a match.
- * @return        A
- */
-function match(string: string | number, regex: RegExp) {
-  if (typeof string === 'number') {
-    return null;
-  }
-
-  // Find all matches in the given string.
-  const matches: RegExpMatchArray | null = string.match(regex);
-
-  return matches ? Number(matches[1]) : string;
-}
 
 for (let translation of get(directories.translations)) {
   // Map the keys to camelCase before continuing.
   translation = mapKeys(translation, (value: any, key: string): string => camelCase(key));
 
-  // Some translations represent the plural form of an item, if that makes
-  // sense, for example, there's a translation for the item 'earth egg' and
-  // there's a translation for the item's plural form, 'earth eggs'. We
-  // determine if a translation represents the plural form if the ID ends with
-  // '_pl'.
-
-  // As the ID can end with '_pl' only if it is a string, we set the property
-  // outside of any checks to be consistent with all translations.
+  // Some translations represents the plural form of an item, if so, the ID will
+  // end in '_pl'. We'll instead have a property to determine this, so we'll set
+  // it initially to false, so every translation has this property.
   translation.plural = false;
 
-  const { id, variantId } = translation;
+  if (typeof translation.id === 'string') {
+    // If the ID of the translation is a string, we have to do multiple things,
+    // first, we'll determine if the translation is for the plural variation of
+    // the item, we can determine this by checking if the ID ends with '_pl'.
+    translation.plural = translation.id.endsWith('_pl');
 
-  // If the translation has an ID for the variation, grab it.
-  translation.variantId = variantId ? match(variantId, variantRegex) : undefined;
+    // If so, we'll have a property determine if the translation is for the
+    // plural variation and we'll remove the '_pl' from the ID.
+    translation.id = translation.id.replace(/_pl$/, '');
 
-  // If the translation's ID is a string, we know that the ID correctly links to
-  // an internal ID of an entry in the item spreadsheet, so all we need to do is
-  // get the 5 digits from the string, or, set the internal ID to the string.
-  if (typeof id === 'string') {
-    // Initialize an array containing the internal ID of the item it represents.
-    translation.internalIds = [match(id, idRegex)];
-
-    // Determine if the translation represents the plural form of the item.
-    translation.plural = id.endsWith('_pl');
+    // Next, we'll change the ID a bit, some translations have their ID in a
+    // format similar to '[name]_[5 digit number]', with the ending numbers
+    // representing the internal ID of the translation. If the ID is in this
+    // format, we'll remove everything other than the ending numbers.
+    if (/^.*_(\d{5}).*$/.test(translation.id)) {
+      translation.id = Number(/^.*_(\d{5}).*$/.exec(translation.id)![1]);
+    }
   }
 
-  // If the ID is a number, we can't do anything with it so we must try to find
-  // the internal ID of the item the translation represents manually.
-  else {
-    // Find all items that shares the same name with the translation.
-    const matches: obj[] = items.filter(
-      (item: any) =>
-        !ignore.includes(item.SourceSheet) && item.Name.toLowerCase() === `${translation.english}`.toLowerCase()
-    );
+  // Similar to the translation's ID, if the translation is for a
+  // variation/pattern of an item, we'll edit it's ID. IDs for
+  // variations/patterns are in the format of
+  // '[category]_[internal id]_[id of variation]', so we'll extract the
+  // ending numbers that represent the ID of the variation/pattern.
 
-    // Set the internal ID for the translation to the IDs of the items that were
-    // matched. Some items may not have IDs so we'll use the item's filename.
-    translation.internalIds = matches.map((item: any) => item['Internal ID'] ?? item['Filename']);
+  // If the translation is for one of a clothing item, the ID will be in the
+  // format of '[cloth group]_[internal id]_[id of variation]', cloth group
+  // represents the ID of the ID of a group of the same clothing item, with the
+  // variation id changing for each variation, so we'll split these values into
+  // their own property.
+
+  if (typeof translation.variantId === 'string') {
+    // As the cloth group depends on the translation's variantId, we'll set this
+    // property before changing the translation's variantId.
+    translation.clothGroup = Number(/^(\d+)_.*$|^.*_(\d+)$/.exec(translation.variantId)![1]) || undefined;
+
+    translation.variantId = Number(/^.*_(\d+)$/.exec(translation.variantId)![1]);
   }
 
   translations.push(translation);
