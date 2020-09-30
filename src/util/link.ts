@@ -5,8 +5,6 @@
  * @param  value The value to grab a link from.
  * @return       The link from the value if a link exists, otherwise, the value.
  */
-function link(value: any): typeof value {
-  return typeof value === 'string' ? value.replace(/^=(image|IMAGE)\(\"(.*)\"\)$/g, '$2') : value;
+export function link(value: any): typeof value {
+  return typeof value === 'string' ? value.replace(/^=IMAGE\(\"(.*)\"\)$/gi, '$1') : value;
 }
-
-export { link };

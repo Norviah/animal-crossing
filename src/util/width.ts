@@ -3,10 +3,7 @@ import { categories } from './categories';
 /**
  * A list of character width for specific categories.
  */
-const characterWidth: { [key: string]: number } = {
-  Creatures: 120,
-  Villagers: 120,
-};
+const characterWidth: { [key: string]: number } = { Creatures: 120, Villagers: 120 };
 
 /**
  * Tries to find a category based off of the file name.
@@ -26,7 +23,7 @@ function find(filename: string): string | undefined {
  * @param  key The key to get the character width of.
  * @return     The character width for the key.
  */
-function width(key: string): number | undefined {
+export function width(key: string): number | undefined {
   // If the given key is a category, return it's entry within the object.
   if (categories.hasOwnProperty(key)) {
     return characterWidth[key];
@@ -38,5 +35,3 @@ function width(key: string): number | undefined {
 
   return category ? characterWidth[category] : undefined;
 }
-
-export { width };

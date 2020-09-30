@@ -1,4 +1,7 @@
-const categories = {
+/**
+ * Represents a list of categories and the tabs for each category.
+ */
+export const categories = {
   Items: [
     'Accessories',
     'Art',
@@ -32,12 +35,9 @@ const categories = {
   Villagers: ['Villagers'],
   Construction: ['Construction'],
   Reactions: ['Reactions'],
-  IDs: ['IDs'],
   Translations: ['Translations'],
   Events: ['Events', 'Nook Shopping Seasonal'],
   SouthernHemisphere: ['Southern Hemisphere'],
   NorthernHemisphere: ['Northern Hemisphere'],
   NPCs: ['Special NPCs'],
 };
-
-export { categories };

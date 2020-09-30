@@ -6,7 +6,7 @@ import { directories } from './directories';
  * spreadsheets being: The Animal Crossing: New Horizons spreadsheet, the
  * Translations spreadsheet, and the Events/Seasons spreadsheet.
  */
-const spreadsheets: Spreadsheet[] = [
+export const spreadsheets: Spreadsheet[] = [
   {
     id: '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM',
     exclude: ['Editor Read Me', 'Read Me', 'Unused Unique IDs'],
@@ -25,5 +25,3 @@ const spreadsheets: Spreadsheet[] = [
     data: directories.seasons,
   },
 ];
-
-export { spreadsheets };
