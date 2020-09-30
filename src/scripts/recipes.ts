@@ -3,9 +3,9 @@ import { directories } from '../util/directories';
 import { get } from '../util/get';
 import { write } from '../util/write';
 
-// Each recipe has the property 'craftedItemInternalId', which represents the
-// internal ID of the item the recipe represents, so we'll use that property to
-// set recipes for items.
+// Recipes have the property 'craftedItemInternalId', which represents the
+// internal ID of the item that the recipe is for, we'll use this property to
+// merge recipes into items.
 
 const recipes: obj[] = category('Recipes', directories.sanitized);
 
@@ -13,14 +13,13 @@ for (const file of files('Items', directories.sanitized)) {
   const items: obj[] = get(file);
 
   for (const item of items) {
-    // Remember that some items have variations, and if they do, the internal
-    // IDs are in the array, so we'll have to check for this possibility.
-    const id: number = item.internalId ?? item.variations[0].internalId;
+    // Remember that some items have variations, if they do, the internal
+    // IDs are in the array, so we'll have to check for this as well.
+    const id: number = (item.variations ? item.variations[0] : item).internalId;
 
-    // Try to find the recipe for this item.
-    const recipe: obj | undefined = recipes.find((recipe: any) => recipe.craftedItemInternalId === id);
-
-    item.recipe = recipe ?? null;
+    // Next, we'll try to find a recipe that shares the same ID under the
+    // property 'craftedItemInternalId', and set the recipe to the item if so.
+    item.recipe = recipes.find((recipe: obj) => recipe.craftedItemInternalId === id) ?? null;
   }
 
   write(file, items);

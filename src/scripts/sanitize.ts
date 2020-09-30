@@ -2,8 +2,9 @@ import { camelCase, flatten, omit, pick, zipObject } from 'lodash';
 import { basename, join } from 'path';
 
 import { directories } from '../util/directories';
-import { get, readdir } from '../util/get';
+import { get } from '../util/get';
 import { link } from '../util/link';
+import { readdir } from '../util/readdir';
 import { separate } from '../util/separate';
 import { translate } from '../util/translate';
 import { width } from '../util/width';
@@ -99,26 +100,25 @@ const separateValues: string[] = [
   'description',
   'catchPhrase',
   'unlockNotes',
+  'sourceNotes',
 ];
 
-// This array contains the absolute paths of the files that we'll sanitize,
-// which are the JSON files from the AC: NH and seasons spreadsheet.
+// Contains the absolute paths of the files that we'll sanitize, which are the
+// JSON files from the Animal Crossing and Seasons spreadsheet.
 const files: string[] = flatten([readdir(directories.raw), readdir(directories.seasons)]);
 
 for (const file of files) {
   const items: obj[] = get(file);
 
-  // The names of every item that has a variation will be added to this set. A
-  // set is used in lieu of an array as sets don't keep duplicate values. We
-  // determine if an item has variations by checking to see if the 'variation'
-  // property evaluates to a truthy value, as some items do have this property
-  // but the item itself may possibly not have any variations.
+  // The names of every item that has multiple variations or patterns will be
+  // added to this set. A set is used in lieu of an array as sets don't keep
+  // duplicate values.
   const variationNames: Set<string> = new Set();
 
-  // Once each item is sanitized, it will be stored in this array.
+  // Once an item it sanitized, it'll be stored here.
   let sanitized: obj[] = [];
 
-  // This array will hold the items that have variations.
+  // Items that has variations/patterns will be stored here.
   const variations: obj[] = [];
 
   for (const item of items) {
@@ -134,7 +134,7 @@ for (const file of files) {
 
     // zipObject takes two arrays and initializes a new object, the first array
     // represents the keys of the object and the second represents the values.
-    const object = zipObject(keys, values);
+    const object: obj = zipObject(keys, values);
 
     // Separate specific values from the object.
     for (const value of separateValues) {
@@ -146,12 +146,15 @@ for (const file of files) {
 
     sanitized.push(object);
 
+    // If the item has multiple variations/patterns, we'll add the name into the
+    // global container to later combine all variations into a single object.
     if (object.variation || object.pattern) {
       variationNames.add(object.name);
     }
   }
 
-  // After we sanitize the items, we handle variations.
+  // After the items have been sanitized, we'll handle items with multiple
+  // variations or patterns, combining each variation into an array.
   for (const name of variationNames) {
     // Initialize an array containing every item with the same name.
     const duplicates: obj[] = sanitized.filter((item: any) => item.name === name);
