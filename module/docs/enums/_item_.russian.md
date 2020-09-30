@@ -7,16 +7,17 @@
 ### Enumeration members
 
 * [Готический](_item_.russian.md#готический)
+* [Клэй](_item_.russian.md#клэй)
 * [Отпускной](_item_.russian.md#отпускной)
-* [Персик](_item_.russian.md#персик)
 * [Повседневный](_item_.russian.md#повседневный)
 * [Походный](_item_.russian.md#походный)
-* [Праздничный](_item_.russian.md#праздничный)
 * [Рабочий](_item_.russian.md#рабочий)
+* [Рокет](_item_.russian.md#рокет)
 * [Спортивный](_item_.russian.md#спортивный)
 * [Удобный](_item_.russian.md#удобный)
-* [Фантазийный](_item_.russian.md#фантазийный)
 * [Формальный](_item_.russian.md#формальный)
+* [Черри](_item_.russian.md#черри)
+* [Эпл](_item_.russian.md#эпл)
 * [Эффектный](_item_.russian.md#эффектный)
 
 ## Enumeration members
@@ -25,7 +26,15 @@
 
 • **Готический**: = "готический"
 
-*Defined in [Item.ts:745](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L745)*
+*Defined in [Item.ts:731](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L731)*
+
+___
+
+###  Клэй
+
+• **Клэй**: = "Клэй"
+
+*Defined in [Item.ts:732](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L732)*
 
 ___
 
@@ -33,15 +42,7 @@ ___
 
 • **Отпускной**: = "отпускной"
 
-*Defined in [Item.ts:746](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L746)*
-
-___
-
-###  Персик
-
-• **Персик**: = "персик"
-
-*Defined in [Item.ts:747](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L747)*
+*Defined in [Item.ts:733](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L733)*
 
 ___
 
@@ -49,7 +50,7 @@ ___
 
 • **Повседневный**: = "повседневный"
 
-*Defined in [Item.ts:748](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L748)*
+*Defined in [Item.ts:734](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L734)*
 
 ___
 
@@ -57,15 +58,7 @@ ___
 
 • **Походный**: = "походный"
 
-*Defined in [Item.ts:749](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L749)*
-
-___
-
-###  Праздничный
-
-• **Праздничный**: = "праздничный"
-
-*Defined in [Item.ts:750](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L750)*
+*Defined in [Item.ts:735](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L735)*
 
 ___
 
@@ -73,7 +66,15 @@ ___
 
 • **Рабочий**: = "рабочий"
 
-*Defined in [Item.ts:751](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L751)*
+*Defined in [Item.ts:736](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L736)*
+
+___
+
+###  Рокет
+
+• **Рокет**: = "Рокет"
+
+*Defined in [Item.ts:737](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L737)*
 
 ___
 
@@ -81,7 +82,7 @@ ___
 
 • **Спортивный**: = "спортивный"
 
-*Defined in [Item.ts:752](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L752)*
+*Defined in [Item.ts:738](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L738)*
 
 ___
 
@@ -89,15 +90,7 @@ ___
 
 • **Удобный**: = "удобный"
 
-*Defined in [Item.ts:753](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L753)*
-
-___
-
-###  Фантазийный
-
-• **Фантазийный**: = "фантазийный"
-
-*Defined in [Item.ts:754](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L754)*
+*Defined in [Item.ts:739](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L739)*
 
 ___
 
@@ -105,7 +98,23 @@ ___
 
 • **Формальный**: = "формальный"
 
-*Defined in [Item.ts:755](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L755)*
+*Defined in [Item.ts:740](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L740)*
+
+___
+
+###  Черри
+
+• **Черри**: = "Черри"
+
+*Defined in [Item.ts:741](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L741)*
+
+___
+
+###  Эпл
+
+• **Эпл**: = "Эпл"
+
+*Defined in [Item.ts:742](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L742)*
 
 ___
 
@@ -113,4 +122,4 @@ ___
 
 • **Эффектный**: = "эффектный"
 
-*Defined in [Item.ts:756](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L756)*
+*Defined in [Item.ts:743](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L743)*

@@ -7,7 +7,7 @@
 ### Enumeration members
 
 * [FashionThemes](_item_.comfysourcesheet.md#fashionthemes)
-* [VillagersCatchPhrase](_item_.comfysourcesheet.md#villagerscatchphrase)
+* [Villagers](_item_.comfysourcesheet.md#villagers)
 
 ## Enumeration members
 
@@ -15,12 +15,12 @@
 
 • **FashionThemes**: = "Fashion Themes"
 
-*Defined in [Item.ts:760](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L760)*
+*Defined in [Item.ts:747](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L747)*
 
 ___
 
-###  VillagersCatchPhrase
+###  Villagers
 
-• **VillagersCatchPhrase**: = "Villagers Catch Phrase"
+• **Villagers**: = "Villagers"
 
-*Defined in [Item.ts:761](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L761)*
+*Defined in [Item.ts:748](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L748)*

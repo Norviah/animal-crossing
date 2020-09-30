@@ -6,25 +6,27 @@
 
 ### Enumeration members
 
-* [Dresses](_item_.seriestranslationssourcesheet.md#dresses)
-* [HHASet](_item_.seriestranslationssourcesheet.md#hhaset)
+* [DressesVariants](_item_.seriestranslationssourcesheet.md#dressesvariants)
+* [FurnitureVariants](_item_.seriestranslationssourcesheet.md#furniturevariants)
 * [HHAThemes](_item_.seriestranslationssourcesheet.md#hhathemes)
+* [TopsVariants](_item_.seriestranslationssourcesheet.md#topsvariants)
+* [VillagersCatchPhrase](_item_.seriestranslationssourcesheet.md#villagerscatchphrase)
 
 ## Enumeration members
 
-###  Dresses
+###  DressesVariants
 
-• **Dresses**: = "Dresses"
+• **DressesVariants**: = "Dresses Variants"
 
-*Defined in [Item.ts:566](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L566)*
+*Defined in [Item.ts:838](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L838)*
 
 ___
 
-###  HHASet
+###  FurnitureVariants
 
-• **HHASet**: = "HHA Set"
+• **FurnitureVariants**: = "Furniture Variants"
 
-*Defined in [Item.ts:567](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L567)*
+*Defined in [Item.ts:839](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L839)*
 
 ___
 
@@ -32,4 +34,20 @@ ___
 
 • **HHAThemes**: = "HHA Themes"
 
-*Defined in [Item.ts:568](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L568)*
+*Defined in [Item.ts:840](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L840)*
+
+___
+
+###  TopsVariants
+
+• **TopsVariants**: = "Tops Variants"
+
+*Defined in [Item.ts:841](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L841)*
+
+___
+
+###  VillagersCatchPhrase
+
+• **VillagersCatchPhrase**: = "Villagers Catch Phrase"
+
+*Defined in [Item.ts:842](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L842)*

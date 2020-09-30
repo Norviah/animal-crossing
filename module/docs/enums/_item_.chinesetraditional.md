@@ -6,26 +6,35 @@
 
 ### Enumeration members
 
+* [子墨](_item_.chinesetraditional.md#子墨)
 * [工作](_item_.chinesetraditional.md#工作)
 * [度假](_item_.chinesetraditional.md#度假)
-* [怦怦](_item_.chinesetraditional.md#怦怦)
 * [恐怖](_item_.chinesetraditional.md#恐怖)
 * [悠閒](_item_.chinesetraditional.md#悠閒)
 * [戶外活動](_item_.chinesetraditional.md#戶外活動)
 * [日常生活](_item_.chinesetraditional.md#日常生活)
 * [正式](_item_.chinesetraditional.md#正式)
-* [派對](_item_.chinesetraditional.md#派對)
-* [童話世界](_item_.chinesetraditional.md#童話世界)
 * [舞台](_item_.chinesetraditional.md#舞台)
+* [花娜](_item_.chinesetraditional.md#花娜)
+* [蘋果](_item_.chinesetraditional.md#蘋果)
 * [運動](_item_.chinesetraditional.md#運動)
+* [阿四](_item_.chinesetraditional.md#阿四)
 
 ## Enumeration members
+
+###  子墨
+
+• **子墨**: = "子墨"
+
+*Defined in [Item.ts:585](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L585)*
+
+___
 
 ###  工作
 
 • **工作**: = "工作"
 
-*Defined in [Item.ts:609](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L609)*
+*Defined in [Item.ts:586](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L586)*
 
 ___
 
@@ -33,15 +42,7 @@ ___
 
 • **度假**: = "度假"
 
-*Defined in [Item.ts:610](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L610)*
-
-___
-
-###  怦怦
-
-• **怦怦**: = "怦怦"
-
-*Defined in [Item.ts:611](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L611)*
+*Defined in [Item.ts:587](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L587)*
 
 ___
 
@@ -49,7 +50,7 @@ ___
 
 • **恐怖**: = "恐怖"
 
-*Defined in [Item.ts:612](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L612)*
+*Defined in [Item.ts:588](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L588)*
 
 ___
 
@@ -57,7 +58,7 @@ ___
 
 • **悠閒**: = "悠閒"
 
-*Defined in [Item.ts:613](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L613)*
+*Defined in [Item.ts:589](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L589)*
 
 ___
 
@@ -65,7 +66,7 @@ ___
 
 • **戶外活動**: = "戶外活動"
 
-*Defined in [Item.ts:614](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L614)*
+*Defined in [Item.ts:590](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L590)*
 
 ___
 
@@ -73,7 +74,7 @@ ___
 
 • **日常生活**: = "日常生活"
 
-*Defined in [Item.ts:615](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L615)*
+*Defined in [Item.ts:591](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L591)*
 
 ___
 
@@ -81,23 +82,7 @@ ___
 
 • **正式**: = "正式"
 
-*Defined in [Item.ts:616](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L616)*
-
-___
-
-###  派對
-
-• **派對**: = "派對"
-
-*Defined in [Item.ts:617](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L617)*
-
-___
-
-###  童話世界
-
-• **童話世界**: = "童話世界"
-
-*Defined in [Item.ts:618](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L618)*
+*Defined in [Item.ts:592](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L592)*
 
 ___
 
@@ -105,7 +90,23 @@ ___
 
 • **舞台**: = "舞台"
 
-*Defined in [Item.ts:619](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L619)*
+*Defined in [Item.ts:593](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L593)*
+
+___
+
+###  花娜
+
+• **花娜**: = "花娜"
+
+*Defined in [Item.ts:594](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L594)*
+
+___
+
+###  蘋果
+
+• **蘋果**: = "蘋果"
+
+*Defined in [Item.ts:595](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L595)*
 
 ___
 
@@ -113,4 +114,12 @@ ___
 
 • **運動**: = "運動"
 
-*Defined in [Item.ts:620](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Item.ts#L620)*
+*Defined in [Item.ts:596](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L596)*
+
+___
+
+###  阿四
+
+• **阿四**: = "阿四"
+
+*Defined in [Item.ts:597](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L597)*

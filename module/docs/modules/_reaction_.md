@@ -6,6 +6,7 @@
 
 ### Enumerations
 
+* [SourceNote](../enums/_reaction_.sourcenote.md)
 * [SourceSheet](../enums/_reaction_.sourcesheet.md)
 * [Version](../enums/_reaction_.version.md)
 

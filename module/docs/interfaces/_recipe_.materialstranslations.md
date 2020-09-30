@@ -43,6 +43,7 @@
 * [book](_recipe_.materialstranslations.md#optional-book)
 * [boot](_recipe_.materialstranslations.md#optional-boot)
 * [campfire](_recipe_.materialstranslations.md#optional-campfire)
+* [candy](_recipe_.materialstranslations.md#optional-candy)
 * [cardboard box](_recipe_.materialstranslations.md#optional-cardboard-box)
 * [cherry](_recipe_.materialstranslations.md#optional-cherry)
 * [cherry-blossom bonsai](_recipe_.materialstranslations.md#optional-cherry-blossom-bonsai)
@@ -96,6 +97,7 @@
 * [orange hyacinths](_recipe_.materialstranslations.md#optional-orange-hyacinths)
 * [orange lilies](_recipe_.materialstranslations.md#optional-orange-lilies)
 * [orange pansies](_recipe_.materialstranslations.md#optional-orange-pansies)
+* [orange pumpkin](_recipe_.materialstranslations.md#optional-orange-pumpkin)
 * [orange roses](_recipe_.materialstranslations.md#optional-orange-roses)
 * [orange tulips](_recipe_.materialstranslations.md#optional-orange-tulips)
 * [orange windflowers](_recipe_.materialstranslations.md#optional-orange-windflowers)
@@ -142,6 +144,7 @@
 * [slingshot](_recipe_.materialstranslations.md#optional-slingshot)
 * [snowflake](_recipe_.materialstranslations.md#optional-snowflake)
 * [softwood](_recipe_.materialstranslations.md#optional-softwood)
+* [spooky lantern](_recipe_.materialstranslations.md#optional-spooky-lantern)
 * [star fragment](_recipe_.materialstranslations.md#optional-star-fragment)
 * [stone](_recipe_.materialstranslations.md#optional-stone)
 * [stone egg](_recipe_.materialstranslations.md#optional-stone-egg)
@@ -179,161 +182,161 @@
 
 ### `Optional` Aquarius fragment
 
-• **Aquarius fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Aquarius fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:63](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L63)*
+*Defined in [Recipe.ts:62](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L62)*
 
 ___
 
 ### `Optional` Aries fragment
 
-• **Aries fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Aries fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:66](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L66)*
+*Defined in [Recipe.ts:65](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L65)*
 
 ___
 
 ### `Optional` Baby bear
 
-• **Baby bear**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Baby bear**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:169](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L169)*
+*Defined in [Recipe.ts:168](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L168)*
 
 ___
 
 ### `Optional` Cancer fragment
 
-• **Cancer fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Cancer fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:74](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L74)*
+*Defined in [Recipe.ts:73](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L73)*
 
 ___
 
 ### `Optional` Capricorn fragment
 
-• **Capricorn fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Capricorn fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:75](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L75)*
+*Defined in [Recipe.ts:74](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L74)*
 
 ___
 
 ### `Optional` Gemini fragment
 
-• **Gemini fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Gemini fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:81](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L81)*
+*Defined in [Recipe.ts:80](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L80)*
 
 ___
 
 ### `Optional` Leo fragment
 
-• **Leo fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Leo fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:86](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L86)*
+*Defined in [Recipe.ts:85](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L85)*
 
 ___
 
 ### `Optional` Libra fragment
 
-• **Libra fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Libra fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:87](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L87)*
+*Defined in [Recipe.ts:86](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L86)*
 
 ___
 
 ### `Optional` Mama bear
 
-• **Mama bear**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Mama bear**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:168](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L168)*
+*Defined in [Recipe.ts:167](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L167)*
 
 ___
 
 ### `Optional` Papa bear
 
-• **Papa bear**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Papa bear**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:167](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L167)*
+*Defined in [Recipe.ts:166](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L166)*
 
 ___
 
 ### `Optional` Pisces fragment
 
-• **Pisces fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Pisces fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:88](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L88)*
+*Defined in [Recipe.ts:87](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L87)*
 
 ___
 
 ### `Optional` Sagittarius fragment
 
-• **Sagittarius fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Sagittarius fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:89](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L89)*
+*Defined in [Recipe.ts:88](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L88)*
 
 ___
 
 ### `Optional` Scorpius fragment
 
-• **Scorpius fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Scorpius fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:90](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L90)*
+*Defined in [Recipe.ts:89](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L89)*
 
 ___
 
 ### `Optional` Taurus fragment
 
-• **Taurus fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Taurus fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:91](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L91)*
+*Defined in [Recipe.ts:90](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L90)*
 
 ___
 
 ### `Optional` Virgo fragment
 
-• **Virgo fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **Virgo fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:92](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L92)*
+*Defined in [Recipe.ts:91](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L91)*
 
 ___
 
 ### `Optional` acorn
 
-• **acorn**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **acorn**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:93](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L93)*
+*Defined in [Recipe.ts:92](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L92)*
 
 ___
 
 ### `Optional` apple
 
-• **apple**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **apple**? : *[Apple](_recipe_.apple.md)*
 
-*Defined in [Recipe.ts:94](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L94)*
+*Defined in [Recipe.ts:93](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L93)*
 
 ___
 
 ### `Optional` axe
 
-• **axe**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **axe**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:172](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L172)*
+*Defined in [Recipe.ts:171](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L171)*
 
 ___
 
 ### `Optional` bamboo piece
 
-• **bamboo piece**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **bamboo piece**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:98](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L98)*
+*Defined in [Recipe.ts:97](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L97)*
 
 ___
 
 ### `Optional` bamboo shoot
 
-• **bamboo shoot**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **bamboo shoot**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:100](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L100)*
+*Defined in [Recipe.ts:99](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L99)*
 
 ___
 
@@ -341,1148 +344,1172 @@ ___
 
 • **bells**? : *undefined | null*
 
-*Defined in [Recipe.ts:197](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L197)*
+*Defined in [Recipe.ts:196](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L196)*
 
 ___
 
 ### `Optional` black cosmos
 
-• **black cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **black cosmos**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:112](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L112)*
+*Defined in [Recipe.ts:111](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L111)*
 
 ___
 
 ### `Optional` black lilies
 
-• **black lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **black lilies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:142](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L142)*
+*Defined in [Recipe.ts:141](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L141)*
 
 ___
 
 ### `Optional` black roses
 
-• **black roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **black roses**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:116](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L116)*
+*Defined in [Recipe.ts:115](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L115)*
 
 ___
 
 ### `Optional` black tulips
 
-• **black tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **black tulips**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:143](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L143)*
+*Defined in [Recipe.ts:142](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L142)*
 
 ___
 
 ### `Optional` blue hyacinths
 
-• **blue hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **blue hyacinths**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:123](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L123)*
+*Defined in [Recipe.ts:122](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L122)*
 
 ___
 
 ### `Optional` blue ornament
 
-• **blue ornament**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **blue ornament**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:83](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L83)*
+*Defined in [Recipe.ts:82](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L82)*
 
 ___
 
 ### `Optional` blue pansies
 
-• **blue pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **blue pansies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:127](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L127)*
+*Defined in [Recipe.ts:126](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L126)*
 
 ___
 
 ### `Optional` blue roses
 
-• **blue roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **blue roses**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:103](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L103)*
+*Defined in [Recipe.ts:102](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L102)*
 
 ___
 
 ### `Optional` blue windflowers
 
-• **blue windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **blue windflowers**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:129](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L129)*
+*Defined in [Recipe.ts:128](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L128)*
 
 ___
 
 ### `Optional` book
 
-• **book**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **book**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:121](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L121)*
+*Defined in [Recipe.ts:120](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L120)*
 
 ___
 
 ### `Optional` boot
 
-• **boot**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **boot**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:164](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L164)*
+*Defined in [Recipe.ts:163](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L163)*
 
 ___
 
 ### `Optional` campfire
 
-• **campfire**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **campfire**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:104](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L104)*
+*Defined in [Recipe.ts:103](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L103)*
+
+___
+
+### `Optional` candy
+
+• **candy**? : *[Translations](_recipe_.translations.md)*
+
+*Defined in [Recipe.ts:215](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L215)*
 
 ___
 
 ### `Optional` cardboard box
 
-• **cardboard box**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **cardboard box**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:110](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L110)*
+*Defined in [Recipe.ts:109](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L109)*
 
 ___
 
 ### `Optional` cherry
 
-• **cherry**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **cherry**? : *[Apple](_recipe_.apple.md)*
 
-*Defined in [Recipe.ts:111](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L111)*
+*Defined in [Recipe.ts:110](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L110)*
 
 ___
 
 ### `Optional` cherry-blossom bonsai
 
-• **cherry-blossom bonsai**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **cherry-blossom bonsai**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:105](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L105)*
+*Defined in [Recipe.ts:104](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L104)*
 
 ___
 
 ### `Optional` cherry-blossom petal
 
-• **cherry-blossom petal**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **cherry-blossom petal**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:102](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L102)*
+*Defined in [Recipe.ts:101](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L101)*
 
 ___
 
 ### `Optional` clay
 
-• **clay**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **clay**? : *[Apple](_recipe_.apple.md)*
 
-*Defined in [Recipe.ts:85](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L85)*
+*Defined in [Recipe.ts:84](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L84)*
 
 ___
 
 ### `Optional` clump of weeds
 
-• **clump of weeds**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **clump of weeds**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:96](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L96)*
+*Defined in [Recipe.ts:95](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L95)*
 
 ___
 
 ### `Optional` coconut
 
-• **coconut**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **coconut**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:122](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L122)*
+*Defined in [Recipe.ts:121](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L121)*
 
 ___
 
 ### `Optional` conch
 
-• **conch**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **conch**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:194](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L194)*
+*Defined in [Recipe.ts:193](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L193)*
 
 ___
 
 ### `Optional` coral
 
-• **coral**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **coral**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:193](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L193)*
+*Defined in [Recipe.ts:192](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L192)*
 
 ___
 
 ### `Optional` cowrie
 
-• **cowrie**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **cowrie**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:196](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L196)*
+*Defined in [Recipe.ts:195](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L195)*
 
 ___
 
 ### `Optional` cutting board
 
-• **cutting board**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **cutting board**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:182](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L182)*
+*Defined in [Recipe.ts:181](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L181)*
 
 ___
 
 ### `Optional` document stack
 
-• **document stack**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **document stack**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:213](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L213)*
+*Defined in [Recipe.ts:212](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L212)*
 
 ___
 
 ### `Optional` drinking fountain
 
-• **drinking fountain**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **drinking fountain**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:157](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L157)*
+*Defined in [Recipe.ts:156](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L156)*
 
 ___
 
 ### `Optional` earth egg
 
-• **earth egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **earth egg**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:67](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L67)*
+*Defined in [Recipe.ts:66](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L66)*
 
 ___
 
 ### `Optional` elegant mushroom
 
-• **elegant mushroom**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **elegant mushroom**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:155](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L155)*
+*Defined in [Recipe.ts:154](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L154)*
 
 ___
 
 ### `Optional` empty can
 
-• **empty can**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **empty can**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:163](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L163)*
+*Defined in [Recipe.ts:162](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L162)*
 
 ___
 
 ### `Optional` fishing rod
 
-• **fishing rod**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **fishing rod**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:174](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L174)*
+*Defined in [Recipe.ts:173](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L173)*
 
 ___
 
 ### `Optional` flat mushroom
 
-• **flat mushroom**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **flat mushroom**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:154](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L154)*
+*Defined in [Recipe.ts:153](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L153)*
 
 ___
 
 ### `Optional` flimsy axe
 
-• **flimsy axe**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **flimsy axe**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:97](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L97)*
+*Defined in [Recipe.ts:96](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L96)*
 
 ___
 
 ### `Optional` flimsy fishing rod
 
-• **flimsy fishing rod**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **flimsy fishing rod**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:149](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L149)*
+*Defined in [Recipe.ts:148](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L148)*
 
 ___
 
 ### `Optional` flimsy net
 
-• **flimsy net**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **flimsy net**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:202](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L202)*
+*Defined in [Recipe.ts:201](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L201)*
 
 ___
 
 ### `Optional` flimsy shovel
 
-• **flimsy shovel**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **flimsy shovel**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:107](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L107)*
+*Defined in [Recipe.ts:106](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L106)*
 
 ___
 
 ### `Optional` flimsy watering can
 
-• **flimsy watering can**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **flimsy watering can**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:221](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L221)*
+*Defined in [Recipe.ts:223](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L223)*
 
 ___
 
 ### `Optional` fossil
 
-• **fossil**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **fossil**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:156](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L156)*
+*Defined in [Recipe.ts:155](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L155)*
 
 ___
 
 ### `Optional` giant clam
 
-• **giant clam**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **giant clam**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:191](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L191)*
+*Defined in [Recipe.ts:190](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L190)*
 
 ___
 
 ### `Optional` gold armor
 
-• **gold armor**? : *[GoldArmor](_recipe_.goldarmor.md)*
+• **gold armor**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:209](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L209)*
+*Defined in [Recipe.ts:208](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L208)*
 
 ___
 
 ### `Optional` gold nugget
 
-• **gold nugget**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **gold nugget**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:64](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L64)*
+*Defined in [Recipe.ts:63](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L63)*
 
 ___
 
 ### `Optional` gold ornament
 
-• **gold ornament**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **gold ornament**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:84](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L84)*
+*Defined in [Recipe.ts:83](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L83)*
 
 ___
 
 ### `Optional` gold roses
 
-• **gold roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **gold roses**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:170](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L170)*
+*Defined in [Recipe.ts:169](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L169)*
 
 ___
 
 ### `Optional` green mums
 
-• **green mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **green mums**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:201](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L201)*
+*Defined in [Recipe.ts:200](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L200)*
 
 ___
 
 ### `Optional` hardwood
 
-• **hardwood**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **hardwood**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:77](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L77)*
+*Defined in [Recipe.ts:76](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L76)*
 
 ___
 
 ### `Optional` iron nugget
 
-• **iron nugget**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **iron nugget**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:79](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L79)*
+*Defined in [Recipe.ts:78](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L78)*
 
 ___
 
 ### `Optional` ironwood dresser
 
-• **ironwood dresser**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **ironwood dresser**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:181](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L181)*
+*Defined in [Recipe.ts:180](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L180)*
 
 ___
 
 ### `Optional` large snowflake
 
-• **large snowflake**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **large snowflake**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:158](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L158)*
+*Defined in [Recipe.ts:157](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L157)*
 
 ___
 
 ### `Optional` large star fragment
 
-• **large star fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **large star fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:136](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L136)*
+*Defined in [Recipe.ts:135](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L135)*
 
 ___
 
 ### `Optional` leaf egg
 
-• **leaf egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **leaf egg**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:69](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L69)*
+*Defined in [Recipe.ts:68](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L68)*
 
 ___
 
 ### `Optional` log bench
 
-• **log bench**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **log bench**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:185](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L185)*
+*Defined in [Recipe.ts:184](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L184)*
 
 ___
 
 ### `Optional` log chair
 
-• **log chair**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **log chair**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:186](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L186)*
+*Defined in [Recipe.ts:185](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L185)*
 
 ___
 
 ### `Optional` log stakes
 
-• **log stakes**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **log stakes**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:108](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L108)*
+*Defined in [Recipe.ts:107](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L107)*
 
 ___
 
 ### `Optional` log stool
 
-• **log stool**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **log stool**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:200](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L200)*
+*Defined in [Recipe.ts:199](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L199)*
 
 ___
 
 ### `Optional` lucky cat
 
-• **lucky cat**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **lucky cat**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:188](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L188)*
+*Defined in [Recipe.ts:187](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L187)*
 
 ___
 
 ### `Optional` magazine
 
-• **magazine**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **magazine**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:189](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L189)*
+*Defined in [Recipe.ts:188](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L188)*
 
 ___
 
 ### `Optional` manila clam
 
-• **manila clam**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **manila clam**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:148](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L148)*
+*Defined in [Recipe.ts:147](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L147)*
 
 ___
 
 ### `Optional` maple leaf
 
-• **maple leaf**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **maple leaf**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:95](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L95)*
+*Defined in [Recipe.ts:94](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L94)*
 
 ___
 
 ### `Optional` mini DIY workbench
 
-• **mini DIY workbench**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **mini DIY workbench**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:80](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L80)*
+*Defined in [Recipe.ts:79](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L79)*
 
 ___
 
 ### `Optional` net
 
-• **net**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **net**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:173](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L173)*
+*Defined in [Recipe.ts:172](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L172)*
 
 ___
 
 ### `Optional` oil barrel
 
-• **oil barrel**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **oil barrel**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:203](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L203)*
+*Defined in [Recipe.ts:202](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L202)*
 
 ___
 
 ### `Optional` old tire
 
-• **old tire**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **old tire**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:165](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L165)*
+*Defined in [Recipe.ts:164](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L164)*
 
 ___
 
 ### `Optional` orange
 
-• **orange**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **orange**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:161](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L161)*
+*Defined in [Recipe.ts:160](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L160)*
 
 ___
 
 ### `Optional` orange cosmos
 
-• **orange cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **orange cosmos**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:187](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L187)*
+*Defined in [Recipe.ts:186](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L186)*
 
 ___
 
 ### `Optional` orange hyacinths
 
-• **orange hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **orange hyacinths**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:125](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L125)*
+*Defined in [Recipe.ts:124](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L124)*
 
 ___
 
 ### `Optional` orange lilies
 
-• **orange lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **orange lilies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:138](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L138)*
+*Defined in [Recipe.ts:137](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L137)*
 
 ___
 
 ### `Optional` orange pansies
 
-• **orange pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **orange pansies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:126](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L126)*
+*Defined in [Recipe.ts:125](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L125)*
+
+___
+
+### `Optional` orange pumpkin
+
+• **orange pumpkin**? : *[Translations](_recipe_.translations.md)*
+
+*Defined in [Recipe.ts:214](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L214)*
 
 ___
 
 ### `Optional` orange roses
 
-• **orange roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **orange roses**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:141](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L141)*
+*Defined in [Recipe.ts:140](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L140)*
 
 ___
 
 ### `Optional` orange tulips
 
-• **orange tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **orange tulips**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:119](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L119)*
+*Defined in [Recipe.ts:118](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L118)*
 
 ___
 
 ### `Optional` orange windflowers
 
-• **orange windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **orange windflowers**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:224](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L224)*
+*Defined in [Recipe.ts:226](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L226)*
 
 ___
 
 ### `Optional` painting set
 
-• **painting set**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **painting set**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:217](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L217)*
+*Defined in [Recipe.ts:219](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L219)*
 
 ___
 
 ### `Optional` peach
 
-• **peach**? : *[Peach](_recipe_.peach.md)*
+• **peach**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:162](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L162)*
+*Defined in [Recipe.ts:161](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L161)*
 
 ___
 
 ### `Optional` pear
 
-• **pear**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pear**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:160](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L160)*
+*Defined in [Recipe.ts:159](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L159)*
 
 ___
 
 ### `Optional` pearl
 
-• **pearl**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pearl**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:190](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L190)*
+*Defined in [Recipe.ts:189](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L189)*
 
 ___
 
 ### `Optional` pine bonsai tree
 
-• **pine bonsai tree**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pine bonsai tree**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:106](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L106)*
+*Defined in [Recipe.ts:105](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L105)*
 
 ___
 
 ### `Optional` pine cone
 
-• **pine cone**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pine cone**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:183](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L183)*
+*Defined in [Recipe.ts:182](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L182)*
 
 ___
 
 ### `Optional` pink cosmos
 
-• **pink cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pink cosmos**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:135](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L135)*
+*Defined in [Recipe.ts:134](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L134)*
 
 ___
 
 ### `Optional` pink hyacinths
 
-• **pink hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pink hyacinths**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:124](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L124)*
+*Defined in [Recipe.ts:123](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L123)*
 
 ___
 
 ### `Optional` pink lilies
 
-• **pink lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pink lilies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:137](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L137)*
+*Defined in [Recipe.ts:136](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L136)*
 
 ___
 
 ### `Optional` pink mums
 
-• **pink mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pink mums**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:114](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L114)*
+*Defined in [Recipe.ts:113](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L113)*
 
 ___
 
 ### `Optional` pink roses
 
-• **pink roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pink roses**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:140](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L140)*
+*Defined in [Recipe.ts:139](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L139)*
 
 ___
 
 ### `Optional` pink tulips
 
-• **pink tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pink tulips**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:118](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L118)*
+*Defined in [Recipe.ts:117](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L117)*
 
 ___
 
 ### `Optional` pink windflowers
 
-• **pink windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **pink windflowers**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:130](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L130)*
+*Defined in [Recipe.ts:129](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L129)*
 
 ___
 
 ### `Optional` purple hyacinths
 
-• **purple hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **purple hyacinths**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:180](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L180)*
+*Defined in [Recipe.ts:179](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L179)*
 
 ___
 
 ### `Optional` purple mums
 
-• **purple mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **purple mums**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:113](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L113)*
+*Defined in [Recipe.ts:112](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L112)*
 
 ___
 
 ### `Optional` purple pansies
 
-• **purple pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **purple pansies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:128](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L128)*
+*Defined in [Recipe.ts:127](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L127)*
 
 ___
 
 ### `Optional` purple roses
 
-• **purple roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **purple roses**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:115](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L115)*
+*Defined in [Recipe.ts:114](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L114)*
 
 ___
 
 ### `Optional` purple tulips
 
-• **purple tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **purple tulips**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:117](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L117)*
+*Defined in [Recipe.ts:116](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L116)*
 
 ___
 
 ### `Optional` purple windflowers
 
-• **purple windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **purple windflowers**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:120](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L120)*
+*Defined in [Recipe.ts:119](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L119)*
 
 ___
 
 ### `Optional` rare mushroom
 
-• **rare mushroom**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **rare mushroom**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:151](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L151)*
+*Defined in [Recipe.ts:150](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L150)*
 
 ___
 
 ### `Optional` red cosmos
 
-• **red cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **red cosmos**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:132](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L132)*
+*Defined in [Recipe.ts:131](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L131)*
 
 ___
 
 ### `Optional` red hyacinths
 
-• **red hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **red hyacinths**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:178](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L178)*
+*Defined in [Recipe.ts:177](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L177)*
 
 ___
 
 ### `Optional` red lilies
 
-• **red lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **red lilies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:184](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L184)*
+*Defined in [Recipe.ts:183](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L183)*
 
 ___
 
 ### `Optional` red mums
 
-• **red mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **red mums**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:146](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L146)*
+*Defined in [Recipe.ts:145](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L145)*
 
 ___
 
 ### `Optional` red ornament
 
-• **red ornament**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **red ornament**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:82](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L82)*
+*Defined in [Recipe.ts:81](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L81)*
 
 ___
 
 ### `Optional` red pansies
 
-• **red pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **red pansies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:204](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L204)*
+*Defined in [Recipe.ts:203](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L203)*
 
 ___
 
 ### `Optional` red roses
 
-• **red roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **red roses**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:150](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L150)*
+*Defined in [Recipe.ts:149](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L149)*
 
 ___
 
 ### `Optional` red tulips
 
-• **red tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **red tulips**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:218](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L218)*
+*Defined in [Recipe.ts:220](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L220)*
 
 ___
 
 ### `Optional` red windflowers
 
-• **red windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **red windflowers**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:223](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L223)*
+*Defined in [Recipe.ts:225](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L225)*
 
 ___
 
 ### `Optional` rocket
 
-• **rocket**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **rocket**? : *[Apple](_recipe_.apple.md)*
 
-*Defined in [Recipe.ts:208](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L208)*
+*Defined in [Recipe.ts:207](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L207)*
 
 ___
 
 ### `Optional` round mushroom
 
-• **round mushroom**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **round mushroom**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:152](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L152)*
+*Defined in [Recipe.ts:151](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L151)*
 
 ___
 
 ### `Optional` rusted part
 
-• **rusted part**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **rusted part**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:210](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L210)*
+*Defined in [Recipe.ts:209](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L209)*
 
 ___
 
 ### `Optional` sand dollar
 
-• **sand dollar**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **sand dollar**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:192](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L192)*
+*Defined in [Recipe.ts:191](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L191)*
 
 ___
 
 ### `Optional` sandy-beach flooring
 
-• **sandy-beach flooring**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **sandy-beach flooring**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:215](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L215)*
+*Defined in [Recipe.ts:217](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L217)*
 
 ___
 
 ### `Optional` scattered papers
 
-• **scattered papers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **scattered papers**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:144](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L144)*
+*Defined in [Recipe.ts:143](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L143)*
 
 ___
 
 ### `Optional` screen wall
 
-• **screen wall**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **screen wall**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:171](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L171)*
+*Defined in [Recipe.ts:170](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L170)*
 
 ___
 
 ### `Optional` sea snail
 
-• **sea snail**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **sea snail**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:195](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L195)*
+*Defined in [Recipe.ts:194](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L194)*
 
 ___
 
 ### `Optional` shovel
 
-• **shovel**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **shovel**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:175](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L175)*
+*Defined in [Recipe.ts:174](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L174)*
 
 ___
 
 ### `Optional` skinny mushroom
 
-• **skinny mushroom**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **skinny mushroom**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:153](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L153)*
+*Defined in [Recipe.ts:152](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L152)*
 
 ___
 
 ### `Optional` sky egg
 
-• **sky egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **sky egg**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:71](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L71)*
+*Defined in [Recipe.ts:70](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L70)*
 
 ___
 
 ### `Optional` slingshot
 
-• **slingshot**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **slingshot**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:176](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L176)*
+*Defined in [Recipe.ts:175](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L175)*
 
 ___
 
 ### `Optional` snowflake
 
-• **snowflake**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **snowflake**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:159](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L159)*
+*Defined in [Recipe.ts:158](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L158)*
 
 ___
 
 ### `Optional` softwood
 
-• **softwood**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **softwood**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:78](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L78)*
+*Defined in [Recipe.ts:77](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L77)*
+
+___
+
+### `Optional` spooky lantern
+
+• **spooky lantern**? : *[Translations](_recipe_.translations.md)*
+
+*Defined in [Recipe.ts:216](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L216)*
 
 ___
 
 ### `Optional` star fragment
 
-• **star fragment**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **star fragment**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:62](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L62)*
+*Defined in [Recipe.ts:61](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L61)*
 
 ___
 
 ### `Optional` stone
 
-• **stone**? : *[GoldArmor](_recipe_.goldarmor.md)*
+• **stone**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:65](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L65)*
+*Defined in [Recipe.ts:64](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L64)*
 
 ___
 
 ### `Optional` stone egg
 
-• **stone egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **stone egg**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:68](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L68)*
+*Defined in [Recipe.ts:67](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L67)*
 
 ___
 
 ### `Optional` summer shell
 
-• **summer shell**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **summer shell**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:214](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L214)*
+*Defined in [Recipe.ts:213](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L213)*
 
 ___
 
 ### `Optional` tree branch
 
-• **tree branch**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **tree branch**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:109](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L109)*
+*Defined in [Recipe.ts:108](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L108)*
 
 ___
 
 ### `Optional` upright piano
 
-• **upright piano**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **upright piano**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:216](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L216)*
+*Defined in [Recipe.ts:218](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L218)*
 
 ___
 
 ### `Optional` venus comb
 
-• **venus comb**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **venus comb**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:212](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L212)*
+*Defined in [Recipe.ts:211](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L211)*
 
 ___
 
 ### `Optional` wasp nest
 
-• **wasp nest**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **wasp nest**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:101](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L101)*
+*Defined in [Recipe.ts:100](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L100)*
 
 ___
 
 ### `Optional` water egg
 
-• **water egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **water egg**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:72](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L72)*
+*Defined in [Recipe.ts:71](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L71)*
 
 ___
 
 ### `Optional` watering can
 
-• **watering can**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **watering can**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:177](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L177)*
+*Defined in [Recipe.ts:176](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L176)*
 
 ___
 
 ### `Optional` wedding flower stand
 
-• **wedding flower stand**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **wedding flower stand**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:222](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L222)*
+*Defined in [Recipe.ts:224](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L224)*
 
 ___
 
 ### `Optional` white cosmos
 
-• **white cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **white cosmos**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:134](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L134)*
+*Defined in [Recipe.ts:133](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L133)*
 
 ___
 
 ### `Optional` white hyacinths
 
-• **white hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **white hyacinths**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:166](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L166)*
+*Defined in [Recipe.ts:165](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L165)*
 
 ___
 
 ### `Optional` white lilies
 
-• **white lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **white lilies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:139](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L139)*
+*Defined in [Recipe.ts:138](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L138)*
 
 ___
 
 ### `Optional` white mums
 
-• **white mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **white mums**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:199](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L199)*
+*Defined in [Recipe.ts:198](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L198)*
 
 ___
 
 ### `Optional` white pansies
 
-• **white pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **white pansies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:206](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L206)*
+*Defined in [Recipe.ts:205](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L205)*
 
 ___
 
 ### `Optional` white roses
 
-• **white roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **white roses**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:211](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L211)*
+*Defined in [Recipe.ts:210](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L210)*
 
 ___
 
 ### `Optional` white tulips
 
-• **white tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **white tulips**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:220](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L220)*
+*Defined in [Recipe.ts:222](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L222)*
 
 ___
 
 ### `Optional` white windflowers
 
-• **white windflowers**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **white windflowers**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:131](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L131)*
+*Defined in [Recipe.ts:130](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L130)*
 
 ___
 
 ### `Optional` wobbling Zipper toy
 
-• **wobbling Zipper toy**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **wobbling Zipper toy**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:73](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L73)*
+*Defined in [Recipe.ts:72](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L72)*
 
 ___
 
 ### `Optional` wood
 
-• **wood**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **wood**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:76](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L76)*
+*Defined in [Recipe.ts:75](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L75)*
 
 ___
 
 ### `Optional` wood egg
 
-• **wood egg**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **wood egg**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:70](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L70)*
+*Defined in [Recipe.ts:69](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L69)*
 
 ___
 
 ### `Optional` wooden-block toy
 
-• **wooden-block toy**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **wooden-block toy**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:225](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L225)*
+*Defined in [Recipe.ts:227](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L227)*
 
 ___
 
 ### `Optional` yellow cosmos
 
-• **yellow cosmos**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **yellow cosmos**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:133](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L133)*
+*Defined in [Recipe.ts:132](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L132)*
 
 ___
 
 ### `Optional` yellow hyacinths
 
-• **yellow hyacinths**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **yellow hyacinths**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:179](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L179)*
+*Defined in [Recipe.ts:178](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L178)*
 
 ___
 
 ### `Optional` yellow lilies
 
-• **yellow lilies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **yellow lilies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:145](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L145)*
+*Defined in [Recipe.ts:144](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L144)*
 
 ___
 
 ### `Optional` yellow mums
 
-• **yellow mums**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **yellow mums**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:198](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L198)*
+*Defined in [Recipe.ts:197](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L197)*
 
 ___
 
 ### `Optional` yellow pansies
 
-• **yellow pansies**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **yellow pansies**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:205](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L205)*
+*Defined in [Recipe.ts:204](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L204)*
 
 ___
 
 ### `Optional` yellow roses
 
-• **yellow roses**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **yellow roses**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:147](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L147)*
+*Defined in [Recipe.ts:146](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L146)*
 
 ___
 
 ### `Optional` yellow tulips
 
-• **yellow tulips**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **yellow tulips**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:219](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L219)*
+*Defined in [Recipe.ts:221](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L221)*
 
 ___
 
 ### `Optional` young spring bamboo
 
-• **young spring bamboo**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **young spring bamboo**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:99](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L99)*
+*Defined in [Recipe.ts:98](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L98)*
 
 ___
 
 ### `Optional` zen cushion
 
-• **zen cushion**? : *[AquariusFragment](_recipe_.aquariusfragment.md)*
+• **zen cushion**? : *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:207](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Recipe.ts#L207)*
+*Defined in [Recipe.ts:206](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L206)*

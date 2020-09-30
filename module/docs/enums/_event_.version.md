@@ -9,7 +9,6 @@
 * [The100](_event_.version.md#the100)
 * [The110](_event_.version.md#the110)
 * [The120](_event_.version.md#the120)
-* [The130](_event_.version.md#the130)
 * [The140](_event_.version.md#the140)
 
 ## Enumeration members
@@ -18,7 +17,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Event.ts:55](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Event.ts#L55)*
+*Defined in [Event.ts:47](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L47)*
 
 ___
 
@@ -26,7 +25,7 @@ ___
 
 • **The110**: = "1.1.0"
 
-*Defined in [Event.ts:56](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Event.ts#L56)*
+*Defined in [Event.ts:48](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L48)*
 
 ___
 
@@ -34,15 +33,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Event.ts:57](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Event.ts#L57)*
-
-___
-
-###  The130
-
-• **The130**: = "1.3.0"
-
-*Defined in [Event.ts:58](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Event.ts#L58)*
+*Defined in [Event.ts:49](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L49)*
 
 ___
 
@@ -50,4 +41,4 @@ ___
 
 • **The140**: = "1.4.0"
 
-*Defined in [Event.ts:59](https://github.com/Norviah/animal-crossing/blob/682361d/module/types/Event.ts#L59)*
+*Defined in [Event.ts:50](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L50)*
