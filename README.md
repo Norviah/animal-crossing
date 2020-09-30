@@ -23,7 +23,6 @@ The following items are available from this module:
   - `construction`
   - `creatures`
   - `events`
-  - `ids`
   - `items`
   - `northenHemisphere`
   - `southernHemisphere`
@@ -38,7 +37,6 @@ Along with types, for those using TypeScript:
   - `IConstruction`
   - `ICreature`
   - `IEvent`
-  - `IID`
   - `IItem`
   - `IHemisphere`
   - `IReaction`
