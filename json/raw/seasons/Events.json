@@ -90,8 +90,8 @@
   {
     "SourceSheet": "Events",
     "Event": "Bunny Day",
-    "Northern Hemisphere Dates": "Easter Sunday and the preceding 11 days\n\n2020: April 1–12\n2021: March 24 – April 4\n2022: April 6–17\n2023: March 29 – April 9\n2024: March 20–31\n2025: April 9–20",
-    "Southern Hemisphere Dates": "Easter Sunday and the preceding 11 days\n(same as northern hemisphere)",
+    "Northern Hemisphere Dates": "Easter Sunday\nEvent activities start 11 days prior\n\n2020: April 1–12\n2021: March 24 – April 4\n2022: April 6–17\n2023: March 29 – April 9\n2024: March 20–31\n2025: April 9–20",
+    "Southern Hemisphere Dates": "Easter Sunday\nEvent activities start 11 days prior\n\n(same as northern hemisphere)",
     "Times": "All day",
     "Version Added": "1.1.0"
   },
@@ -134,5 +134,13 @@
     "Southern Hemisphere Dates": "Every Sunday in August",
     "Times": "7 PM – Midnight",
     "Version Added": "1.4.0"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Halloween",
+    "Northern Hemisphere Dates": "October 31\nEvent activities start 30 days prior (Oct 1)",
+    "Southern Hemisphere Dates": "October 31\nEvent activities start 30 days prior (Oct 1)",
+    "Times": "5 PM – Midnight",
+    "Version Added": "1.5.0"
   }
 ]

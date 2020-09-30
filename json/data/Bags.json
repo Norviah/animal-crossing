@@ -21,54 +21,51 @@
     "versionAdded": "1.1.0",
     "unlocked": true,
     "unlockNotes": [ "2020-04-01", "BCAT", "1.1.0a" ],
-    "versionUnlocked": "1.1.0a",
     "filename": "BagBackpackEgg0",
     "clothGroupId": 1203,
     "internalId": 12447,
     "uniqueEntryId": "YGofzAZknSTYWmfWM",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "theatrical": {
         "sourceSheet": "Fashion Themes",
@@ -88,8 +85,7 @@
         "japanese": "ステージ",
         "korean": "스테이지",
         "russian": "эффектный",
-        "plural": false,
-        "internalIds": [ "Stage" ]
+        "plural": false
       }
     },
     "translations": {
@@ -110,8 +106,7 @@
       "japanese": "イースターなバッグ",
       "korean": "이스터 가방",
       "russian": "сумка на День зайцев",
-      "plural": false,
-      "internalIds": [ 12447 ]
+      "plural": false
     },
     "colors": [ "Colorful", "Colorful" ],
     "styles": [ "Active", "Cute" ],
@@ -125,11 +120,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "All villagers" ],
-      "sourceNotes": "Only available during Bunny Day",
+      "sourceNotes": [ "Only available during Bunny Day" ],
       "versionAdded": "1.1.0",
       "unlocked": true,
       "unlockNotes": [ "2020-04-01", "BCAT", "1.1.0a" ],
-      "versionUnlocked": "1.1.0a",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 12447,
@@ -156,8 +150,7 @@
         "japanese": "イースターなバッグ",
         "korean": "이스터 가방",
         "russian": "сумка на День зайцев",
-        "plural": false,
-        "internalIds": [ 12447 ]
+        "plural": false
       },
       "materials": {
         "earth egg": 1,
@@ -170,7 +163,7 @@
       "materialsTranslations": {
         "earth egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12509",
+          "id": 12509,
           "version": "1.1.0",
           "english": "earth egg",
           "englishEurope": "earth egg",
@@ -186,12 +179,11 @@
           "japanese": "じめんのたまご",
           "korean": "땅 달걀",
           "russian": "земляное яйцо",
-          "plural": false,
-          "internalIds": [ 12509 ]
+          "plural": false
         },
         "stone egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12510",
+          "id": 12510,
           "version": "1.1.0",
           "english": "stone egg",
           "englishEurope": "stone egg",
@@ -207,12 +199,11 @@
           "japanese": "いわのたまご",
           "korean": "바위 달걀",
           "russian": "каменное яйцо",
-          "plural": false,
-          "internalIds": [ 12510 ]
+          "plural": false
         },
         "leaf egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12511",
+          "id": 12511,
           "version": "1.1.0",
           "english": "leaf egg",
           "englishEurope": "leaf egg",
@@ -228,12 +219,11 @@
           "japanese": "はっぱのたまご",
           "korean": "나뭇잎 달걀",
           "russian": "лиственное яйцо",
-          "plural": false,
-          "internalIds": [ 12511 ]
+          "plural": false
         },
         "wood egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12512",
+          "id": 12512,
           "version": "1.1.0",
           "english": "wood egg",
           "englishEurope": "wood egg",
@@ -249,12 +239,11 @@
           "japanese": "ウッディなたまご",
           "korean": "나무 달걀",
           "russian": "лесное яйцо",
-          "plural": false,
-          "internalIds": [ 12512 ]
+          "plural": false
         },
         "sky egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12513",
+          "id": 12513,
           "version": "1.1.0",
           "english": "sky egg",
           "englishEurope": "sky egg",
@@ -270,12 +259,11 @@
           "japanese": "そらとぶたまご",
           "korean": "하늘을 나는 달걀",
           "russian": "небесное яйцо",
-          "plural": false,
-          "internalIds": [ 12513 ]
+          "plural": false
         },
         "water egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12514",
+          "id": 12514,
           "version": "1.1.0",
           "english": "water egg",
           "englishEurope": "water egg",
@@ -291,8 +279,7 @@
           "japanese": "サカナのたまご",
           "korean": "물고기 달걀",
           "russian": "водяное яйцо",
-          "plural": false,
-          "internalIds": [ 12514 ]
+          "plural": false
         }
       }
     }
@@ -311,7 +298,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Dodo Airlines" ],
-    "sourceNotes": "Received in mail from DAL after 200 flights",
+    "sourceNotes": [ "Received in mail from DAL after 200 flights" ],
     "seasonalAvailability": "All Year",
     "sortOrder": 1,
     "villagerEquippable": false,
@@ -319,12 +306,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagBackpackDal0",
     "clothGroupId": 1185,
     "internalId": 12131,
     "uniqueEntryId": "3mGmqSPj5YPujiDgD",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -344,8 +329,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -365,8 +349,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "translations": {
@@ -387,8 +370,7 @@
       "japanese": "ＤＡＬのバッグ",
       "korean": "DAL 가방",
       "russian": "рюкзак DAL",
-      "plural": false,
-      "internalIds": [ 12131 ]
+      "plural": false
     },
     "colors": [ "Blue", "Black" ],
     "styles": [ "Cool", "Active" ],
@@ -400,9 +382,10 @@
     "name": "Mom's knapsack",
     "diy": false,
     "size": "1x1",
-    "sourceNotes": "Received in May in the Northern Hemisphere and received in November in the Southern Hemisphere",
+    "sourceNotes": [
+      "Received in May in the Northern Hemisphere and received in November in the Southern Hemisphere"
+    ],
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "Not for sale",
     "buy": -1,
     "sell": 175,
@@ -424,8 +407,7 @@
       "japanese": "ははのナップサック",
       "korean": "엄마의 주머니 가방",
       "russian": "мамин рюкзак",
-      "plural": false,
-      "internalIds": [ 12153, 12148, 12149, 12154, 7510, 12151, 12152, 12150 ]
+      "plural": false
     },
     "source": [ "Mom" ],
     "themesTranslations": {
@@ -447,8 +429,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 365,
@@ -488,7 +469,7 @@
           "korean": "포레스트",
           "russian": "Лес",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 999
         },
         "colors": [ "White", "Beige" ]
       },
@@ -524,7 +505,7 @@
           "korean": "플라워",
           "russian": "Цветы",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 999
         },
         "colors": [ "Gray", "Beige" ]
       },
@@ -560,7 +541,7 @@
           "korean": "도트",
           "russian": "В горошек",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 999
         },
         "colors": [ "Pink", "Beige" ]
       },
@@ -596,7 +577,7 @@
           "korean": "병아리",
           "russian": "Цыпленок",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 999
         },
         "colors": [ "Orange", "Beige" ]
       },
@@ -632,7 +613,7 @@
           "korean": "M",
           "russian": "М",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 999
         },
         "colors": [ "Yellow", "Beige" ]
       },
@@ -668,7 +649,7 @@
           "korean": "체리",
           "russian": "Вишня",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 999
         },
         "colors": [ "Aqua", "Beige" ]
       },
@@ -704,7 +685,7 @@
           "korean": "데님 스트라이프",
           "russian": "Деним в полоску",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 999
         },
         "colors": [ "Blue", "Beige" ]
       },
@@ -740,7 +721,7 @@
           "korean": "컬러풀 퀼트",
           "russian": "Пестрая мозаика",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 999
         },
         "colors": [ "Colorful", "Beige" ]
       }
@@ -771,12 +752,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagBackpackNook0",
     "clothGroupId": 1150,
     "internalId": 9761,
     "uniqueEntryId": "zQh6chGG66h4f5JbX",
-    "variantTranslations": null,
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -796,8 +775,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       }
     },
     "translations": {
@@ -818,8 +796,7 @@
       "japanese": "たぬきかいはつナップサック",
       "korean": "Nook Inc. 주머니 가방",
       "russian": "рюкзак Nook Inc.",
-      "plural": false,
-      "internalIds": [ 9761 ]
+      "plural": false
     },
     "colors": [ "Brown", "Yellow" ],
     "styles": [ "Gorgeous", "Active" ],
@@ -848,33 +825,31 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderAcorn0",
     "clothGroupId": 980,
     "internalId": 7492,
     "uniqueEntryId": "XiC7bNzTBAdb8zWwr",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       }
     },
     "translations": {
@@ -895,8 +870,7 @@
       "japanese": "どんぐりポシェット",
       "korean": "도토리 미니백",
       "russian": "сумочка-желудь",
-      "plural": false,
-      "internalIds": [ 7492 ]
+      "plural": false
     },
     "colors": [ "Brown", "Green" ],
     "styles": [ "Cute", "Cute" ],
@@ -910,11 +884,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Fall",
+      "sourceNotes": [ "Only available during Fall" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 7492,
@@ -941,14 +914,13 @@
         "japanese": "どんぐりポシェット",
         "korean": "도토리 미니백",
         "russian": "сумочка-желудь",
-        "plural": false,
-        "internalIds": [ 7492 ]
+        "plural": false
       },
       "materials": { "acorn": 6 },
       "materialsTranslations": {
         "acorn": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_05727",
+          "id": 5727,
           "version": "1.0.0",
           "english": "acorn",
           "englishEurope": "acorn",
@@ -964,8 +936,7 @@
           "japanese": "どんぐり",
           "korean": "도토리",
           "russian": "желудь",
-          "plural": false,
-          "internalIds": [ 5727 ]
+          "plural": false
         }
       }
     }
@@ -992,12 +963,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagBackpackBasket0",
     "clothGroupId": 995,
     "internalId": 7506,
     "uniqueEntryId": "BW764rj9aH3QL6GRH",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -1017,8 +986,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -1038,8 +1006,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "translations": {
@@ -1060,8 +1027,7 @@
       "japanese": "しょいこ",
       "korean": "바구니 가방",
       "russian": "заплечная корзина",
-      "plural": false,
-      "internalIds": [ 7506 ]
+      "plural": false
     },
     "colors": [ "Green", "Green" ],
     "styles": [ "Simple", "Simple" ],
@@ -1075,11 +1041,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Spring",
+      "sourceNotes": [ "Only available during Spring" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 7506,
@@ -1106,31 +1071,29 @@
         "japanese": "しょいこ",
         "korean": "바구니 가방",
         "russian": "заплечная корзина",
-        "plural": false,
-        "internalIds": [ 7506 ]
+        "plural": false
       },
       "materials": { "young spring bamboo": 6 },
       "materialsTranslations": {
         "young spring bamboo": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_05729",
+          "id": 5729,
           "version": "1.0.0",
           "english": "young spring bamboo",
           "englishEurope": "young spring bamboo",
           "german": "Frühlingsbambus",
-          "spanish": "tallo de bambú primaveral",
-          "spanishUs": "tallo de bambú primaveral",
-          "french": "jeune bambou printemps",
-          "frenchUs": "jeune bambou printemps",
-          "italian": "bambù giovane primavera",
+          "spanish": "tallos de bambú primaveral",
+          "spanishUs": "tallos de bambú primaveral",
+          "french": "jeunes bambous printemps",
+          "frenchUs": "jeunes bambous printemps",
+          "italian": "bambù giovani primavera",
           "dutch": "jonge lentebamboe",
           "chinese": "春笋",
           "chineseTraditional": "春筍",
           "japanese": "はるのわかたけ",
           "korean": "봄의 대나무",
           "russian": "весенний бамбук",
-          "plural": false,
-          "internalIds": [ 5729 ]
+          "plural": true
         }
       }
     }
@@ -1157,12 +1120,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderCage0",
     "clothGroupId": 967,
     "internalId": 7479,
     "uniqueEntryId": "nrkEKkL46YsQYcYjp",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -1182,8 +1143,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -1203,8 +1163,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "translations": {
@@ -1225,8 +1184,7 @@
       "japanese": "ムシかご",
       "korean": "채집통",
       "russian": "коробочка для насекомых",
-      "plural": false,
-      "internalIds": [ 7479 ]
+      "plural": false
     },
     "colors": [ "Green", "White" ],
     "styles": [ "Active", "Active" ],
@@ -1255,12 +1213,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagBackpackButterfly0",
     "clothGroupId": 991,
     "internalId": 7502,
     "uniqueEntryId": "unsmeHZemRaTnq62z",
-    "variantTranslations": null,
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -1280,8 +1236,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -1301,29 +1256,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "translations": {
@@ -1344,8 +1297,7 @@
       "japanese": "ちょうちょのバッグ",
       "korean": "나비 가방",
       "russian": "рюкзак-бабочка",
-      "plural": false,
-      "internalIds": [ 7502 ]
+      "plural": false
     },
     "colors": [ "Pink", "Yellow" ],
     "styles": [ "Cute", "Cute" ],
@@ -1374,12 +1326,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagBackpackTote0",
     "clothGroupId": 998,
     "internalId": 7509,
     "uniqueEntryId": "ZtgYddBwpZfGMjewu",
-    "variantTranslations": null,
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -1399,8 +1349,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       }
     },
     "translations": {
@@ -1421,8 +1370,7 @@
       "japanese": "はんぷリュック",
       "korean": "옥스퍼드 배낭",
       "russian": "матерчатый рюкзак",
-      "plural": false,
-      "internalIds": [ 7509 ]
+      "plural": false
     },
     "colors": [ "White", "Orange" ],
     "styles": [ "Simple", "Simple" ],
@@ -1451,33 +1399,31 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderCherryblossoms0",
     "clothGroupId": 978,
     "internalId": 7490,
     "uniqueEntryId": "wwkZdhj9HzxZiqHys",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       }
     },
     "translations": {
@@ -1498,8 +1444,7 @@
       "japanese": "さくらのポシェット",
       "korean": "벚꽃 미니백",
       "russian": "сумочка «Лепестки вишни»",
-      "plural": false,
-      "internalIds": [ 7490 ]
+      "plural": false
     },
     "colors": [ "Pink", "Pink" ],
     "styles": [ "Cute", "Cute" ],
@@ -1513,11 +1458,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Cherry-Blossom Season",
+      "sourceNotes": [ "Only available during Cherry-Blossom Season" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 7490,
@@ -1544,14 +1488,13 @@
         "japanese": "さくらのポシェット",
         "korean": "벚꽃 미니백",
         "russian": "сумочка «Лепестки вишни»",
-        "plural": false,
-        "internalIds": [ 7490 ]
+        "plural": false
       },
       "materials": { "cherry-blossom petal": 6 },
       "materialsTranslations": {
         "cherry-blossom petal": {
           "sourceSheet": "Craft",
-          "id": "Sakurapetal_05859",
+          "id": 5859,
           "version": "1.0.0",
           "english": "cherry-blossom petal",
           "englishEurope": "cherry-blossom petal",
@@ -1567,8 +1510,7 @@
           "japanese": "さくらのはなびら",
           "korean": "벚꽃잎",
           "russian": "лепесток вишни",
-          "plural": false,
-          "internalIds": [ 5859 ]
+          "plural": false
         }
       }
     }
@@ -1580,7 +1522,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1400,
     "sell": 350,
@@ -1602,8 +1543,7 @@
       "japanese": "はんぷショルダー",
       "korean": "옥스퍼드 숄더백",
       "russian": "наплечная сумка из ткани",
-      "plural": false,
-      "internalIds": [ 12014, 12013, 7487 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -1625,8 +1565,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -1666,7 +1605,7 @@
           "korean": "아이보리",
           "russian": "Цвет слоновой кости",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 975
         },
         "colors": [ "White", "White" ]
       },
@@ -1702,7 +1641,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 975
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -1738,7 +1677,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 975
         },
         "colors": [ "Aqua", "Aqua" ]
       }
@@ -1754,7 +1693,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 700,
     "sell": 175,
@@ -1776,8 +1714,7 @@
       "japanese": "ボディバッグ",
       "korean": "슬링백",
       "russian": "сумка кросс-боди",
-      "plural": false,
-      "internalIds": [ 11982, 7483, 11981, 11980 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -1799,8 +1736,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -1820,8 +1756,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -1841,8 +1776,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -1863,10 +1797,10 @@
         "internalId": 11982,
         "uniqueEntryId": "FsyHb5QAf8DDvPC7y",
         "variantTranslations": {
-          "sourceSheet": "Bags Variants",
-          "variantId": 11982,
-          "id": 11982,
-          "clothName": "crossbody bag",
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 971,
+          "furnitureName": "snack machine",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -1881,8 +1815,7 @@
           "japanese": "ホワイト",
           "korean": "화이트",
           "russian": "Белый",
-          "plural": false,
-          "internalIds": []
+          "plural": false
         },
         "colors": [ "White", "Black" ]
       },
@@ -1918,7 +1851,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 971
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -1954,7 +1887,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 971
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -1990,7 +1923,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 971
         },
         "colors": [ "Green", "Black" ]
       }
@@ -2006,7 +1939,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1680,
     "sell": 420,
@@ -2028,8 +1960,7 @@
       "japanese": "ななめかけボストン",
       "korean": "크로스 보스턴백",
       "russian": "кросс-боди с ручками",
-      "plural": false,
-      "internalIds": [ 7485, 12011 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -2051,8 +1982,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -2072,8 +2002,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -2093,8 +2022,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -2134,7 +2062,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 973
         },
         "colors": [ "Red", "Black" ]
       },
@@ -2170,7 +2098,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 973
         },
         "colors": [ "Blue", "Black" ]
       }
@@ -2186,7 +2114,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1040,
     "sell": 260,
@@ -2208,8 +2135,7 @@
       "japanese": "ドライサック",
       "korean": "드라이백",
       "russian": "непромокаемый мешок",
-      "plural": false,
-      "internalIds": [ 7471, 11964 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -2231,8 +2157,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -2252,8 +2177,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -2293,7 +2217,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 963
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -2329,7 +2253,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 963
         },
         "colors": [ "Blue", "Black" ]
       }
@@ -2345,7 +2269,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1250,
     "sell": 312,
@@ -2367,8 +2290,7 @@
       "japanese": "パーティーバッグ",
       "korean": "파티 가방",
       "russian": "вечерняя сумочка",
-      "plural": false,
-      "internalIds": [ 11977, 7305, 11976 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -2390,29 +2312,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -2452,7 +2372,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 986
         },
         "colors": [ "Black", "Yellow" ]
       },
@@ -2488,7 +2408,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 986
         },
         "colors": [ "Pink", "Yellow" ]
       },
@@ -2524,7 +2444,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 986
         },
         "colors": [ "Blue", "Yellow" ]
       }
@@ -2540,7 +2460,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 2100,
     "sell": 525,
@@ -2562,8 +2481,7 @@
       "japanese": "おおきめザック",
       "korean": "커다란 배낭",
       "russian": "макси-рюкзак",
-      "plural": false,
-      "internalIds": [ 11972, 7505, 11971, 11973 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -2585,8 +2503,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -2606,8 +2523,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -2647,7 +2563,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 994
         },
         "colors": [ "Black", "Black" ]
       },
@@ -2683,7 +2599,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 994
         },
         "colors": [ "Red", "Red" ]
       },
@@ -2719,7 +2635,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 994
         },
         "colors": [ "Green", "Green" ]
       },
@@ -2755,7 +2671,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 994
         },
         "colors": [ "Blue", "Blue" ]
       }
@@ -2771,7 +2687,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1400,
     "sell": 350,
@@ -2793,8 +2708,7 @@
       "japanese": "フェイクファーバッグ",
       "korean": "인조털 가방",
       "russian": "сумка «под мех»",
-      "plural": false,
-      "internalIds": [ 7480, 12003 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -2816,29 +2730,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -2878,7 +2790,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 968
         },
         "colors": [ "Pink", "Yellow" ]
       },
@@ -2914,7 +2826,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 968
         },
         "colors": [ "Purple", "Yellow" ]
       }
@@ -2945,12 +2857,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderFish0",
     "clothGroupId": 965,
     "internalId": 7477,
     "uniqueEntryId": "CrFcdF3rXiaiiajEB",
-    "variantTranslations": null,
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -2970,29 +2880,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "translations": {
@@ -3013,8 +2921,7 @@
       "japanese": "おさかなポシェット",
       "korean": "물고기 미니백",
       "russian": "сумочка-рыба",
-      "plural": false,
-      "internalIds": [ 7477 ]
+      "plural": false
     },
     "colors": [ "Aqua", "Blue" ],
     "styles": [ "Cute", "Cute" ],
@@ -3028,7 +2935,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1300,
     "sell": 325,
@@ -3050,8 +2956,7 @@
       "japanese": "ふたつきリュック",
       "korean": "폴드오버 배낭",
       "russian": "рюкзак «роллтоп»",
-      "plural": false,
-      "internalIds": [ 12017, 12018, 7507, 12016 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -3073,8 +2978,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -3094,8 +2998,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -3135,7 +3038,7 @@
           "korean": "그레이",
           "russian": "Серый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 996
         },
         "colors": [ "Gray", "White" ]
       },
@@ -3171,7 +3074,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 996
         },
         "colors": [ "Pink", "Purple" ]
       },
@@ -3207,7 +3110,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 996
         },
         "colors": [ "Green", "Beige" ]
       },
@@ -3243,7 +3146,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 996
         },
         "colors": [ "Blue", "Aqua" ]
       }
@@ -3266,7 +3169,7 @@
     "exchangePrice": null,
     "exchangeCurrency": null,
     "source": [ "Nook Shopping Seasonal" ],
-    "sourceNotes": "Only available during September, for the Grape Harvest Festival",
+    "sourceNotes": [ "Only available during September, for the Grape Harvest Festival" ],
     "seasonalAvailability": "All Year",
     "sortOrder": 1,
     "villagerEquippable": false,
@@ -3274,12 +3177,10 @@
     "versionAdded": "1.4.0",
     "unlocked": true,
     "unlockNotes": [ "2020-09-01", "NTP" ],
-    "versionUnlocked": "1.4.0",
     "filename": "BagBackpackHarvest0",
     "clothGroupId": 1233,
     "internalId": 12797,
     "uniqueEntryId": "w3sCtnjHaNJwLD3vk",
-    "variantTranslations": null,
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -3299,29 +3200,28 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -3341,29 +3241,27 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "translations": {
@@ -3384,8 +3282,7 @@
       "japanese": "ぶどうのしゅうかくおけ",
       "korean": "포도 수확 바구니",
       "russian": "кузовок для винограда",
-      "plural": false,
-      "internalIds": [ 12797 ]
+      "plural": false
     },
     "colors": [ "Brown", "Purple" ],
     "styles": [ "Simple", "Active" ],
@@ -3399,7 +3296,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 2000,
     "sell": 500,
@@ -3421,8 +3317,7 @@
       "japanese": "はるのみずたまショルダー",
       "korean": "봄의 물방울 숄더백",
       "russian": "наплечная сумка в горох",
-      "plural": false,
-      "internalIds": [ 7486, 12012 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -3444,8 +3339,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -3465,8 +3359,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -3506,7 +3399,7 @@
           "korean": "팝",
           "russian": "Яркий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 974
         },
         "colors": [ "Pink", "Green" ]
       },
@@ -3542,7 +3435,7 @@
           "korean": "쿨",
           "russian": "Модный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 974
         },
         "colors": [ "Purple", "Aqua" ]
       }
@@ -3558,7 +3451,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1250,
     "sell": 312,
@@ -3580,8 +3472,7 @@
       "japanese": "てあみポーチ",
       "korean": "손뜨개 파우치",
       "russian": "сумка макраме",
-      "plural": false,
-      "internalIds": [ 7482, 12004 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -3603,8 +3494,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -3644,7 +3534,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 970
         },
         "colors": [ "Green", "Green" ]
       },
@@ -3680,7 +3570,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 970
         },
         "colors": [ "Purple", "Purple" ]
       }
@@ -3696,7 +3586,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1680,
     "sell": 420,
@@ -3718,8 +3607,7 @@
       "japanese": "ハードシェルリュック",
       "korean": "하드 케이스 배낭",
       "russian": "твердый рюкзак",
-      "plural": false,
-      "internalIds": [ 11946, 10184, 7512 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -3741,8 +3629,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -3762,8 +3649,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -3803,7 +3689,7 @@
           "korean": "실버",
           "russian": "Серебряный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1001
         },
         "colors": [ "Gray", "Black" ]
       },
@@ -3839,7 +3725,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1001
         },
         "colors": [ "Red", "Black" ]
       },
@@ -3875,7 +3761,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1001
         },
         "colors": [ "Blue", "Black" ]
       }
@@ -3886,12 +3772,295 @@
   },
   {
     "sourceSheet": "Bags",
+    "name": "impish wings",
+    "diy": false,
+    "size": "1x1",
+    "sourceNotes": null,
+    "versionAdded": "1.5.0",
+    "catalog": "For sale",
+    "buy": 1000,
+    "sell": 250,
+    "translations": {
+      "sourceSheet": "Bags",
+      "id": 1268,
+      "version": "1.5.0",
+      "english": "impish wings",
+      "englishEurope": "impish wings",
+      "german": "Dämonenflügel-Rucksack",
+      "spanish": "par de alas de diablillo",
+      "spanishUs": "par de alas de diablito",
+      "french": "paire d'ailes de diablotin",
+      "frenchUs": "paire d'ailes de diablotin",
+      "italian": "paio di ali da diavoletto",
+      "dutch": "duivelse vleugelrugzak",
+      "chinese": "小恶魔翅膀背包",
+      "chineseTraditional": "小惡魔翅膀包包",
+      "japanese": "こあくまなつばさバッグ",
+      "korean": "꼬마 악마 날개 가방",
+      "russian": "крылышки бесенка",
+      "plural": false
+    },
+    "source": [ "Kicks" ],
+    "themesTranslations": {
+      "fairy tale": {
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
+        "japanese": "メルヘン",
+        "korean": "메르헨",
+        "russian": "Сказка",
+        "plural": false
+      },
+      "goth": {
+        "sourceSheet": "Fashion Themes",
+        "id": "Horror",
+        "version": "1.0.0",
+        "english": "goth",
+        "englishEurope": "goth",
+        "german": "Horrorkleidung",
+        "spanish": "gótico",
+        "spanishUs": "gótico",
+        "french": "tenue effrayante",
+        "frenchUs": "tenue effrayante",
+        "italian": "horror",
+        "dutch": "griezelthema",
+        "chinese": "恐怖",
+        "chineseTraditional": "恐怖",
+        "japanese": "ホラー",
+        "korean": "호러",
+        "russian": "готический",
+        "plural": false
+      },
+      "party": {
+        "sourceSheet": "HHA Situation",
+        "id": 13,
+        "version": "1.0.0",
+        "english": "party",
+        "englishEurope": "party",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
+        "chinese": "派对",
+        "chineseTraditional": "派對",
+        "japanese": "パーティー",
+        "korean": "파티",
+        "russian": "Вечеринка",
+        "plural": false
+      }
+    },
+    "hhaBasePoints": 231,
+    "villagerEquippable": false,
+    "seasonalAvailability": "All Year",
+    "unlocked": true,
+    "variations": [
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween2.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween2.png",
+        "variation": "White",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "sortOrder": 1,
+        "unlockNotes": null,
+        "filename": "BagBackpackHalloween2",
+        "clothGroupId": 1268,
+        "internalId": 13409,
+        "uniqueEntryId": "CcDoJoDqXaXyMYBEx",
+        "variantTranslations": {
+          "english": "White",
+          "englishEurope": "White",
+          "german": "Weiß",
+          "spanish": "Blanco",
+          "spanishUs": "Blanco",
+          "french": "Blanc",
+          "frenchUs": "Blanc",
+          "italian": "Bianco",
+          "dutch": "Wit",
+          "chinese": "白色",
+          "chineseTraditional": "白色",
+          "japanese": "ホワイト",
+          "korean": "화이트",
+          "russian": "Белый"
+        },
+        "colors": [ "White", "White" ]
+      },
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween5.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween5.png",
+        "variation": "Black",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "sortOrder": 2,
+        "unlockNotes": null,
+        "filename": "BagBackpackHalloween5",
+        "clothGroupId": 1268,
+        "internalId": 13412,
+        "uniqueEntryId": "8v2gEqEZYuMibTdvv",
+        "variantTranslations": {
+          "english": "Black",
+          "englishEurope": "Black",
+          "german": "Schwarz",
+          "spanish": "Negro",
+          "spanishUs": "Negro",
+          "french": "Noir",
+          "frenchUs": "Noir",
+          "italian": "Nero",
+          "dutch": "Zwart",
+          "chinese": "黑色",
+          "chineseTraditional": "黑色",
+          "japanese": "ブラック",
+          "korean": "블랙",
+          "russian": "Черный"
+        },
+        "colors": [ "Black", "Black" ]
+      },
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween4.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween4.png",
+        "variation": "Red",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "sortOrder": 3,
+        "unlockNotes": null,
+        "filename": "BagBackpackHalloween4",
+        "clothGroupId": 1268,
+        "internalId": 13411,
+        "uniqueEntryId": "FZZmBDBcsCn9cx29J",
+        "variantTranslations": {
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный"
+        },
+        "colors": [ "Red", "Red" ]
+      },
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween0.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween0.png",
+        "variation": "Orange",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "sortOrder": 4,
+        "unlockNotes": null,
+        "filename": "BagBackpackHalloween0",
+        "clothGroupId": 1268,
+        "internalId": 13015,
+        "uniqueEntryId": "N5Ydq8EZ3TTsKv34c",
+        "variantTranslations": {
+          "english": "Orange",
+          "englishEurope": "Orange",
+          "german": "Orange",
+          "spanish": "Naranja",
+          "spanishUs": "Naranja",
+          "french": "Orange",
+          "frenchUs": "Orange",
+          "italian": "Arancio",
+          "dutch": "Oranje",
+          "chinese": "橘色",
+          "chineseTraditional": "橘色",
+          "japanese": "オレンジ",
+          "korean": "오렌지",
+          "russian": "Оранжевый"
+        },
+        "colors": [ "Orange", "Orange" ]
+      },
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween3.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween3.png",
+        "variation": "Green",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "sortOrder": 5,
+        "unlockNotes": null,
+        "filename": "BagBackpackHalloween3",
+        "clothGroupId": 1268,
+        "internalId": 13410,
+        "uniqueEntryId": "spWkjYsT4mKfBijAz",
+        "variantTranslations": {
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый"
+        },
+        "colors": [ "Green", "Green" ]
+      },
+      {
+        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween1.png",
+        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween1.png",
+        "variation": "Purple",
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "sortOrder": 6,
+        "unlockNotes": null,
+        "filename": "BagBackpackHalloween1",
+        "clothGroupId": 1268,
+        "internalId": 13408,
+        "uniqueEntryId": "BqyY8XSWSswej9Lap",
+        "variantTranslations": {
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый"
+        },
+        "colors": [ "Purple", "Purple" ]
+      }
+    ],
+    "styles": [ "Cool", "Cool" ],
+    "themes": [ "fairy tale", "goth", "party" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Bags",
     "name": "knapsack",
     "diy": false,
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 630,
     "sell": 157,
@@ -3913,8 +4082,7 @@
       "japanese": "ナップサック",
       "korean": "주머니 가방",
       "russian": "заплечный мешок",
-      "plural": false,
-      "internalIds": [ 12019, 7508 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -3936,8 +4104,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -3957,8 +4124,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -3978,8 +4144,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -4019,7 +4184,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 997
         },
         "colors": [ "Black", "Black" ]
       },
@@ -4055,7 +4220,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 997
         },
         "colors": [ "Blue", "Black" ]
       }
@@ -4086,12 +4251,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagBackpackGrass0",
     "clothGroupId": 1000,
     "internalId": 7511,
     "uniqueEntryId": "xM5iaYn4gbZoR94Qm",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -4111,8 +4274,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -4132,8 +4294,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -4153,8 +4314,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "translations": {
@@ -4175,8 +4335,7 @@
       "japanese": "くさあみリュック",
       "korean": "풀잎 니트 배낭",
       "russian": "плетеный рюкзак",
-      "plural": false,
-      "internalIds": [ 7511 ]
+      "plural": false
     },
     "colors": [ "Green", "Brown" ],
     "styles": [ "Elegant", "Simple" ],
@@ -4194,7 +4353,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 7511,
@@ -4221,14 +4379,13 @@
         "japanese": "くさあみリュック",
         "korean": "풀잎 니트 배낭",
         "russian": "плетеный рюкзак",
-        "plural": false,
-        "internalIds": [ 7511 ]
+        "plural": false
       },
       "materials": { "clump of weeds": 20 },
       "materialsTranslations": {
         "clump of weeds": {
           "sourceSheet": "Plants",
-          "id": "Weed_02624",
+          "id": 2624,
           "version": "1.0.0",
           "english": "clump of weeds",
           "englishEurope": "clump of weeds",
@@ -4244,8 +4401,7 @@
           "japanese": "ざっそう",
           "korean": "잡초",
           "russian": "сорняк",
-          "plural": false,
-          "internalIds": [ 2624 ]
+          "plural": false
         }
       }
     }
@@ -4272,33 +4428,31 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagBackpackWood0",
     "clothGroupId": 987,
     "internalId": 7498,
     "uniqueEntryId": "rDDM48hSfsSbcp92u",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -4318,8 +4472,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       }
     },
     "translations": {
@@ -4340,8 +4493,7 @@
       "japanese": "せおいばしご",
       "korean": "지게",
       "russian": "вязанка дров",
-      "plural": false,
-      "internalIds": [ 7498 ]
+      "plural": false
     },
     "colors": [ "Brown", "Beige" ],
     "styles": [ "Simple", "Simple" ],
@@ -4359,7 +4511,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 7498,
@@ -4386,52 +4537,50 @@
         "japanese": "せおいばしご",
         "korean": "지게",
         "russian": "вязанка дров",
-        "plural": false,
-        "internalIds": [ 7498 ]
+        "plural": false
       },
       "materials": { "wood": 3, "hardwood": 5 },
       "materialsTranslations": {
         "wood": {
-          "sourceSheet": "Craft",
-          "id": "CraftMaterial_02768",
-          "version": "1.0.0",
-          "english": "wood",
-          "englishEurope": "wood",
-          "german": "Holz",
-          "spanish": "tabla normal",
-          "spanishUs": "tabla normal",
-          "french": "bois",
-          "frenchUs": "bois",
-          "italian": "legno normale",
-          "dutch": "hout",
-          "chinese": "木材",
-          "chineseTraditional": "木材",
-          "japanese": "もくざい",
-          "korean": "목재",
-          "russian": "древесина",
-          "plural": false,
-          "internalIds": [ 2768 ]
+          "sourceSheet": "Furniture Patterns",
+          "variantId": 4,
+          "id": 3307,
+          "furnitureName": "digital scale",
+          "english": "Wood",
+          "englishEurope": "Wood",
+          "german": "Gelbe Streifen",
+          "spanish": "Madera",
+          "spanishUs": "Madera",
+          "french": "Bois",
+          "frenchUs": "Bois",
+          "italian": "Legno",
+          "dutch": "Hout",
+          "chinese": "黄色条纹",
+          "chineseTraditional": "黃色條紋",
+          "japanese": "イエローストライプ",
+          "korean": "옐로 스트라이프",
+          "russian": "Под дерево",
+          "plural": false
         },
         "hardwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02769",
+          "id": 2769,
           "version": "1.0.0",
           "english": "hardwood",
           "englishEurope": "hardwood",
           "german": "Hartholz",
-          "spanish": "tabla rígida",
-          "spanishUs": "tabla rígida",
+          "spanish": "tablas rígidas",
+          "spanishUs": "tablas rígidas",
           "french": "bois dur",
           "frenchUs": "bois dur",
-          "italian": "legno duro",
+          "italian": "legna dura",
           "dutch": "hardhout",
           "chinese": "硬木材",
           "chineseTraditional": "硬木材",
           "japanese": "かたいもくざい",
           "korean": "단단한 목재",
           "russian": "твердая древесина",
-          "plural": false,
-          "internalIds": [ 2769 ]
+          "plural": true
         }
       }
     }
@@ -4458,33 +4607,31 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderMaple0",
     "clothGroupId": 979,
     "internalId": 7491,
     "uniqueEntryId": "HJDH4dCPMQY9qQanL",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       }
     },
     "translations": {
@@ -4505,8 +4652,7 @@
       "japanese": "もみじのポシェット",
       "korean": "단풍 미니백",
       "russian": "сумочка «Кленовый лист»",
-      "plural": false,
-      "internalIds": [ 7491 ]
+      "plural": false
     },
     "colors": [ "Orange", "Orange" ],
     "styles": [ "Simple", "Cute" ],
@@ -4520,11 +4666,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Maple Leaf Season",
+      "sourceNotes": [ "Only available during Maple Leaf Season" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 7491,
@@ -4551,14 +4696,13 @@
         "japanese": "もみじのポシェット",
         "korean": "단풍 미니백",
         "russian": "сумочка «Кленовый лист»",
-        "plural": false,
-        "internalIds": [ 7491 ]
+        "plural": false
       },
       "materials": { "maple leaf": 6 },
       "materialsTranslations": {
         "maple leaf": {
           "sourceSheet": "Craft",
-          "id": "AutumnLeaf_07374",
+          "id": 7374,
           "version": "1.0.0",
           "english": "maple leaf",
           "englishEurope": "maple leaf",
@@ -4574,8 +4718,7 @@
           "japanese": "もみじのはっぱ",
           "korean": "단풍잎",
           "russian": "кленовый лист",
-          "plural": false,
-          "internalIds": [ 7374 ]
+          "plural": false
         }
       }
     }
@@ -4587,7 +4730,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 840,
     "sell": 210,
@@ -4609,8 +4751,7 @@
       "japanese": "メッセンジャーバッグ",
       "korean": "메신저백",
       "russian": "курьерская сумка",
-      "plural": false,
-      "internalIds": [ 11979, 11978, 7470 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -4632,8 +4773,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -4653,8 +4793,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -4674,8 +4813,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -4715,7 +4853,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 962
         },
         "colors": [ "Black", "Black" ]
       },
@@ -4751,7 +4889,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 962
         },
         "colors": [ "Orange", "Black" ]
       },
@@ -4787,7 +4925,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 962
         },
         "colors": [ "Green", "Black" ]
       }
@@ -4803,7 +4941,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1600,
     "sell": 400,
@@ -4825,8 +4962,7 @@
       "japanese": "ミニレザーバッグ",
       "korean": "미니 가죽 가방",
       "russian": "рюкзак из кожзама",
-      "plural": false,
-      "internalIds": [ 7504, 12015 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -4848,8 +4984,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -4869,29 +5004,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -4931,7 +5064,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 993
         },
         "colors": [ "White", "White" ]
       },
@@ -4967,7 +5100,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 993
         },
         "colors": [ "Black", "Black" ]
       }
@@ -4983,7 +5116,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1560,
     "sell": 390,
@@ -5005,8 +5137,7 @@
       "japanese": "アウトドアリュック",
       "korean": "아웃도어 배낭",
       "russian": "походный рюкзак",
-      "plural": false,
-      "internalIds": [ 11969, 7501, 11970 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -5028,8 +5159,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -5049,8 +5179,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -5090,7 +5219,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 990
         },
         "colors": [ "Orange", "Black" ]
       },
@@ -5126,7 +5255,7 @@
           "korean": "카키",
           "russian": "Защитный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 990
         },
         "colors": [ "Green", "Black" ]
       },
@@ -5162,7 +5291,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 990
         },
         "colors": [ "Blue", "Black" ]
       }
@@ -5178,7 +5307,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1120,
     "sell": 280,
@@ -5200,8 +5328,7 @@
       "japanese": "レザーボディバッグ",
       "korean": "가죽 슬링백",
       "russian": "кросс-боди из кожзама",
-      "plural": false,
-      "internalIds": [ 12005, 7484 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -5223,8 +5350,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -5244,8 +5370,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -5285,7 +5410,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 972
         },
         "colors": [ "Black", "White" ]
       },
@@ -5321,7 +5446,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 972
         },
         "colors": [ "Blue", "Brown" ]
       }
@@ -5337,7 +5462,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 2400,
     "sell": 600,
@@ -5359,8 +5483,7 @@
       "japanese": "フリンジレザーバッグ",
       "korean": "가죽 프린지백",
       "russian": "сумка с бахромой",
-      "plural": false,
-      "internalIds": [ 12010, 7481 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -5382,8 +5505,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -5403,29 +5525,27 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -5465,7 +5585,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 969
         },
         "colors": [ "White", "White" ]
       },
@@ -5501,7 +5621,7 @@
           "korean": "캐멀",
           "russian": "Светло-коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 969
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -5517,7 +5637,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 2400,
     "sell": 600,
@@ -5539,8 +5658,7 @@
       "japanese": "レザーショルダー",
       "korean": "가죽 숄더백",
       "russian": "плечевая сумка",
-      "plural": false,
-      "internalIds": [ 12009, 7476 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -5562,8 +5680,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -5583,8 +5700,7 @@
         "japanese": "フォーマル",
         "korean": "포멀",
         "russian": "формальный",
-        "plural": false,
-        "internalIds": [ "Fomal" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -5624,7 +5740,7 @@
           "korean": "네이비",
           "russian": "Черно-синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 964
         },
         "colors": [ "Blue", "Blue" ]
       },
@@ -5660,7 +5776,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 964
         },
         "colors": [ "Brown", "Brown" ]
       }
@@ -5676,7 +5792,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1400,
     "sell": 350,
@@ -5698,8 +5813,7 @@
       "japanese": "スポーツバッグ",
       "korean": "스포츠백",
       "russian": "спортивная ретро-сумка",
-      "plural": false,
-      "internalIds": [ 12007, 7302, 12008 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -5721,8 +5835,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -5742,8 +5855,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -5783,7 +5895,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 984
         },
         "colors": [ "White", "Red" ]
       },
@@ -5819,7 +5931,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 984
         },
         "colors": [ "White", "Blue" ]
       },
@@ -5855,7 +5967,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 984
         },
         "colors": [ "Black", "Yellow" ]
       }
@@ -5871,7 +5983,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 980,
     "sell": 245,
@@ -5893,8 +6004,7 @@
       "japanese": "サコッシュ",
       "korean": "사코슈",
       "russian": "мягкая сумочка",
-      "plural": false,
-      "internalIds": [ 11975, 11974, 7304 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -5916,8 +6026,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -5937,8 +6046,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -5978,7 +6086,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 985
         },
         "colors": [ "Black", "White" ]
       },
@@ -6014,7 +6122,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 985
         },
         "colors": [ "Red", "Yellow" ]
       },
@@ -6050,7 +6158,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 985
         },
         "colors": [ "Blue", "Green" ]
       }
@@ -6081,33 +6189,31 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderShell0",
     "clothGroupId": 982,
     "internalId": 7494,
     "uniqueEntryId": "XEsQxMf7k9qvjYxPF",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -6127,8 +6233,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "translations": {
@@ -6149,8 +6254,7 @@
       "japanese": "かいがらポシェット",
       "korean": "조개 미니백",
       "russian": "сумочка-моллюск",
-      "plural": false,
-      "internalIds": [ 7494 ]
+      "plural": false
     },
     "colors": [ "White", "White" ],
     "styles": [ "Cute", "Elegant" ],
@@ -6164,11 +6268,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Summer",
+      "sourceNotes": [ "Only available during Summer" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 7494,
@@ -6195,14 +6298,13 @@
         "japanese": "かいがらポシェット",
         "korean": "조개 미니백",
         "russian": "сумочка-моллюск",
-        "plural": false,
-        "internalIds": [ 7494 ]
+        "plural": false
       },
       "materials": { "giant clam": 2, "summer shell": 6 },
       "materialsTranslations": {
         "giant clam": {
           "sourceSheet": "Shells",
-          "id": "ShellDrift_01381",
+          "id": 1381,
           "version": "1.0.0",
           "english": "giant clam",
           "englishEurope": "giant clam",
@@ -6218,12 +6320,11 @@
           "japanese": "シャコガイ",
           "korean": "거거",
           "russian": "раковина тридакны",
-          "plural": false,
-          "internalIds": [ 1381 ]
+          "plural": false
         },
         "summer shell": {
           "sourceSheet": "Shells",
-          "id": "ShellDrift_05982",
+          "id": 5982,
           "version": "1.0.0",
           "english": "summer shell",
           "englishEurope": "summer shell",
@@ -6239,8 +6340,7 @@
           "japanese": "なつのかいがら",
           "korean": "여름 조개껍데기",
           "russian": "летняя ракушка",
-          "plural": false,
-          "internalIds": [ 5982 ]
+          "plural": false
         }
       }
     }
@@ -6267,54 +6367,51 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderSnow0",
     "clothGroupId": 981,
     "internalId": 7493,
     "uniqueEntryId": "gW7R4HX8hjZEHAFtB",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -6334,8 +6431,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "translations": {
@@ -6356,8 +6452,7 @@
       "japanese": "スノーフレークポシェット",
       "korean": "눈꽃 미니백",
       "russian": "сумочка-снежинка",
-      "plural": false,
-      "internalIds": [ 7493 ]
+      "plural": false
     },
     "colors": [ "Aqua", "White" ],
     "styles": [ "Elegant", "Cool" ],
@@ -6371,11 +6466,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
-      "sourceNotes": "Only available during Winter",
+      "sourceNotes": [ "Only available during Winter" ],
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 7493,
@@ -6402,14 +6496,13 @@
         "japanese": "スノーフレークポシェット",
         "korean": "눈꽃 미니백",
         "russian": "сумочка-снежинка",
-        "plural": false,
-        "internalIds": [ 7493 ]
+        "plural": false
       },
       "materials": { "snowflake": 6 },
       "materialsTranslations": {
         "snowflake": {
           "sourceSheet": "Craft",
-          "id": "SnowCrystal_03539",
+          "id": 3539,
           "version": "1.0.0",
           "english": "snowflake",
           "englishEurope": "snowflake",
@@ -6425,8 +6518,7 @@
           "japanese": "ゆきのけっしょう",
           "korean": "눈의 결정",
           "russian": "снежинка",
-          "plural": false,
-          "internalIds": [ 3539 ]
+          "plural": false
         }
       }
     }
@@ -6438,7 +6530,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1300,
     "sell": 325,
@@ -6460,8 +6551,7 @@
       "japanese": "しかくいリュック",
       "korean": "사각 배낭",
       "russian": "квадратный рюкзак",
-      "plural": false,
-      "internalIds": [ 11967, 7500, 11968 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -6483,8 +6573,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -6504,8 +6593,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -6525,8 +6613,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -6566,7 +6653,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 989
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -6602,7 +6689,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 989
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -6638,7 +6725,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 989
         },
         "colors": [ "Green", "Black" ]
       }
@@ -6669,54 +6756,51 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderStar0",
     "clothGroupId": 977,
     "internalId": 7489,
     "uniqueEntryId": "3WQ8vSWtHMjZ6YPtR",
-    "variantTranslations": null,
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "party": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Party",
+        "sourceSheet": "HHA Situation",
+        "id": 13,
         "version": "1.0.0",
         "english": "party",
         "englishEurope": "party",
-        "german": "Partykleidung",
-        "spanish": "de fiesta",
-        "spanishUs": "de fiesta",
-        "french": "tenue de fête",
-        "frenchUs": "tenue de fête",
-        "italian": "da festa",
-        "dutch": "feestthema",
+        "german": "Party",
+        "spanish": "en una fiesta",
+        "spanishUs": "en una fiesta",
+        "french": "festif",
+        "frenchUs": "festif",
+        "italian": "a una festa",
+        "dutch": "een feest",
         "chinese": "派对",
         "chineseTraditional": "派對",
         "japanese": "パーティー",
         "korean": "파티",
-        "russian": "праздничный",
-        "plural": false,
-        "internalIds": [ "Party" ]
+        "russian": "Вечеринка",
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -6736,8 +6820,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "translations": {
@@ -6758,8 +6841,7 @@
       "japanese": "スターなポシェット",
       "korean": "별무늬 미니백",
       "russian": "сумочка-звезда",
-      "plural": false,
-      "internalIds": [ 7489 ]
+      "plural": false
     },
     "colors": [ "Yellow", "Yellow" ],
     "styles": [ "Cute", "Gorgeous" ],
@@ -6777,7 +6859,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Equipment",
       "craftedItemInternalId": 7489,
@@ -6804,14 +6885,13 @@
         "japanese": "スターなポシェット",
         "korean": "별무늬 미니백",
         "russian": "сумочка-звезда",
-        "plural": false,
-        "internalIds": [ 7489 ]
+        "plural": false
       },
       "materials": { "star fragment": 6 },
       "materialsTranslations": {
         "star fragment": {
           "sourceSheet": "Craft",
-          "id": "StarPiece_05983",
+          "id": 5983,
           "version": "1.0.0",
           "english": "star fragment",
           "englishEurope": "star fragment",
@@ -6827,8 +6907,7 @@
           "japanese": "ほしのかけら",
           "korean": "별의 조각",
           "russian": "осколок звезды",
-          "plural": false,
-          "internalIds": [ 5983 ]
+          "plural": false
         }
       }
     }
@@ -6855,12 +6934,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderRattan0",
     "clothGroupId": 976,
     "internalId": 7488,
     "uniqueEntryId": "CGs3z4dKEkH82FDyq",
-    "variantTranslations": null,
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -6880,8 +6957,7 @@
         "japanese": "リラックス",
         "korean": "릴랙스",
         "russian": "удобный",
-        "plural": false,
-        "internalIds": [ "Relax" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -6901,8 +6977,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "translations": {
@@ -6923,8 +6998,7 @@
       "japanese": "ラタンポシェット",
       "korean": "라탄 미니백",
       "russian": "плетеная сумочка",
-      "plural": false,
-      "internalIds": [ 7488 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "styles": [ "Simple", "Elegant" ],
@@ -6938,7 +7012,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1560,
     "sell": 390,
@@ -6960,8 +7033,7 @@
       "japanese": "スタッズリュック",
       "korean": "스터드 배낭",
       "russian": "рюкзак с заклепками",
-      "plural": false,
-      "internalIds": [ 12006, 7503 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -6983,8 +7055,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -7004,8 +7075,7 @@
         "japanese": "ホラー",
         "korean": "호러",
         "russian": "готический",
-        "plural": false,
-        "internalIds": [ "Horror" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -7045,7 +7115,7 @@
           "korean": "화이트",
           "russian": "Белый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 992
         },
         "colors": [ "White", "Gray" ]
       },
@@ -7081,7 +7151,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 992
         },
         "colors": [ "Black", "Yellow" ]
       }
@@ -7112,12 +7182,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderFishing0",
     "clothGroupId": 966,
     "internalId": 7478,
     "uniqueEntryId": "prkWCjgn7gTK4X8QH",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -7137,8 +7205,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -7158,8 +7225,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -7179,8 +7245,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "translations": {
@@ -7201,8 +7266,7 @@
       "japanese": "フィッシングバッグ",
       "korean": "낚시 가방",
       "russian": "ящик для наживки",
-      "plural": false,
-      "internalIds": [ 7478 ]
+      "plural": false
     },
     "colors": [ "Blue", "Orange" ],
     "styles": [ "Active", "Active" ],
@@ -7231,12 +7295,10 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "BagShoulderTool0",
     "clothGroupId": 983,
     "internalId": 7497,
     "uniqueEntryId": "KiXvv8fvv7CN5sFDx",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -7256,8 +7318,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -7277,8 +7338,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "translations": {
@@ -7299,8 +7359,7 @@
       "japanese": "ツールバッグ",
       "korean": "공구 가방",
       "russian": "сумка для инструментов",
-      "plural": false,
-      "internalIds": [ 7497 ]
+      "plural": false
     },
     "colors": [ "Black", "Yellow" ],
     "styles": [ "Active", "Active" ],
@@ -7314,7 +7373,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 1040,
     "sell": 260,
@@ -7336,8 +7394,7 @@
       "japanese": "タウンリュック",
       "korean": "타운 배낭",
       "russian": "городской рюкзак",
-      "plural": false,
-      "internalIds": [ 11945, 6839, 6838, 11944 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -7359,8 +7416,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -7380,8 +7436,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -7421,7 +7476,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 957
         },
         "colors": [ "Red", "Red" ]
       },
@@ -7438,10 +7493,10 @@
         "internalId": 6839,
         "uniqueEntryId": "aZasytqebQRikaZZZ",
         "variantTranslations": {
-          "sourceSheet": "Bags Variants",
-          "variantId": 6839,
-          "id": 6839,
-          "clothName": "town backpack",
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 957,
+          "furnitureName": "ventilation fan",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -7456,8 +7511,7 @@
           "japanese": "オレンジ",
           "korean": "오렌지",
           "russian": "Оранжевый",
-          "plural": false,
-          "internalIds": [ 2214 ]
+          "plural": false
         },
         "colors": [ "Orange", "Orange" ]
       },
@@ -7474,10 +7528,10 @@
         "internalId": 6838,
         "uniqueEntryId": "sm5eKnwyeNyKGXQLC",
         "variantTranslations": {
-          "sourceSheet": "Bags Variants",
-          "variantId": 6838,
-          "id": 6838,
-          "clothName": "town backpack",
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 957,
+          "furnitureName": "ventilation fan",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -7492,8 +7546,7 @@
           "japanese": "グリーン",
           "korean": "그린",
           "russian": "Зеленый",
-          "plural": false,
-          "internalIds": []
+          "plural": false
         },
         "colors": [ "Green", "Green" ]
       },
@@ -7510,10 +7563,10 @@
         "internalId": 11944,
         "uniqueEntryId": "WGhvofsBw6pFs5c93",
         "variantTranslations": {
-          "sourceSheet": "Bags Variants",
-          "variantId": 11944,
-          "id": 11944,
-          "clothName": "town backpack",
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 957,
+          "furnitureName": "ventilation fan",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -7528,8 +7581,7 @@
           "japanese": "ブルー",
           "korean": "블루",
           "russian": "Синий",
-          "plural": false,
-          "internalIds": []
+          "plural": false
         },
         "colors": [ "Blue", "Blue" ]
       }
@@ -7545,7 +7597,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 840,
     "sell": 210,
@@ -7567,8 +7618,7 @@
       "japanese": "トラベルポーチ",
       "korean": "여행 파우치",
       "russian": "сумочка туриста",
-      "plural": false,
-      "internalIds": [ 2550, 12000, 12001, 12002 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
@@ -7590,8 +7640,7 @@
         "japanese": "デイリー",
         "korean": "데일리",
         "russian": "повседневный",
-        "plural": false,
-        "internalIds": [ "Daily" ]
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -7611,8 +7660,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -7652,7 +7700,7 @@
           "korean": "핑크",
           "russian": "Розовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 958
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -7688,7 +7736,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 958
         },
         "colors": [ "Green", "Black" ]
       },
@@ -7724,7 +7772,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 958
         },
         "colors": [ "Aqua", "Black" ]
       },
@@ -7760,7 +7808,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 958
         },
         "colors": [ "Purple", "Black" ]
       }
@@ -7776,7 +7824,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
-    "versionUnlocked": "1.0.0",
     "catalog": "For sale",
     "buy": 2940,
     "sell": 735,
@@ -7798,31 +7845,30 @@
       "japanese": "たびびとのリュック",
       "korean": "여행자의 배낭",
       "russian": "рюкзак туриста",
-      "plural": false,
-      "internalIds": [ 7499, 11965, 11966 ]
+      "plural": false
     },
     "source": [ "Kicks" ],
     "themesTranslations": {
       "fairy tale": {
-        "sourceSheet": "Fashion Themes",
-        "id": "Fairyland",
-        "version": "1.0.0",
-        "english": "fairy tale",
-        "englishEurope": "fairy tale",
-        "german": "Märchenkleidung",
-        "spanish": "de fantasía",
-        "spanishUs": "de fantasía",
-        "french": "tenue féerique",
-        "frenchUs": "tenue féérique",
-        "italian": "da fiaba",
-        "dutch": "sprookjesthema",
-        "chinese": "童话世界",
-        "chineseTraditional": "童話世界",
+        "sourceSheet": "Furniture Variants",
+        "variantId": 4,
+        "id": 7145,
+        "furnitureName": "Mom's embroidery",
+        "english": "Fairy tale",
+        "englishEurope": "Fairy tale",
+        "german": "Märchen",
+        "spanish": "Cuento de hadas",
+        "spanishUs": "Cuento de hadas",
+        "french": "Conte de fée",
+        "frenchUs": "Féérique",
+        "italian": "Fiaba",
+        "dutch": "Sprookje",
+        "chinese": "童话",
+        "chineseTraditional": "童話",
         "japanese": "メルヘン",
         "korean": "메르헨",
-        "russian": "фантазийный",
-        "plural": false,
-        "internalIds": [ "Fairyland" ]
+        "russian": "Сказка",
+        "plural": false
       },
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -7842,8 +7888,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -7863,8 +7908,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 23,
@@ -7904,7 +7948,7 @@
           "korean": "오렌지",
           "russian": "Оранжевый",
           "plural": false,
-          "internalIds": [ 2214 ]
+          "clothGroup": 988
         },
         "colors": [ "Orange", "Beige" ]
       },
@@ -7940,7 +7984,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 988
         },
         "colors": [ "Blue", "Beige" ]
       },
@@ -7976,7 +8020,7 @@
           "korean": "브라운",
           "russian": "Коричневый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 988
         },
         "colors": [ "Brown", "Beige" ]
       }

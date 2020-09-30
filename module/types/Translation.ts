@@ -17,9 +17,9 @@ export interface Translation {
     korean:             string;
     russian:            number | null | string;
     plural:             boolean;
-    internalIds:        Array<number | null | string>;
     variantId?:         number;
     clothName?:         string;
+    clothGroup?:        number;
     furnitureName?:     string;
 }
 
@@ -94,4 +94,5 @@ export enum Version {
     The120 = "1.2.0",
     The130 = "1.3.0",
     The140 = "1.4.0",
+    The150 = "1.5.0",
 }

@@ -23,12 +23,10 @@
     "catalog": "Not for sale",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "filename": "TopsTexMarinesuitNormalLNook0",
     "clothGroupId": 1258,
     "internalId": 12970,
     "uniqueEntryId": "jjwdLhmb3X42fvtHa",
-    "variantTranslations": null,
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -48,8 +46,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -69,8 +66,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -90,8 +86,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       },
       "work": {
         "sourceSheet": "Fashion Themes",
@@ -111,8 +106,7 @@
         "japanese": "おしごと仕事",
         "korean": "비즈니스",
         "russian": "рабочий",
-        "plural": false,
-        "internalIds": [ "Work" ]
+        "plural": false
       }
     },
     "translations": {
@@ -133,8 +127,7 @@
       "japanese": "たぬきかいはつマリンスーツ",
       "korean": "Nook Inc. 잠수복",
       "russian": "гидрокостюм Nook Inc.",
-      "plural": false,
-      "internalIds": [ 12970 ]
+      "plural": false
     },
     "colors": [ "Black", "Green" ],
     "styles": [ "Active", "Simple" ],
@@ -148,7 +141,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.3.0",
-    "versionUnlocked": "1.3.0",
     "catalog": "For sale",
     "buy": 3000,
     "sell": 750,
@@ -170,8 +162,7 @@
       "japanese": "ボーダーのマリンスーツ",
       "korean": "줄무늬 잠수복",
       "russian": "гидрокостюм в полоску",
-      "plural": false,
-      "internalIds": [ 13103, 12986, 13102, 13101 ]
+      "plural": false
     },
     "source": [ "Nook's Cranny" ],
     "themesTranslations": {
@@ -193,8 +184,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -214,8 +204,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -235,8 +224,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 0,
@@ -278,7 +266,7 @@
           "korean": "블랙",
           "russian": "Черный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1260
         },
         "colors": [ "Black", "White" ]
       },
@@ -314,7 +302,7 @@
           "korean": "레드",
           "russian": "Красный",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1260
         },
         "colors": [ "Red", "White" ]
       },
@@ -350,7 +338,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1260
         },
         "colors": [ "Yellow", "White" ]
       },
@@ -386,7 +374,7 @@
           "korean": "블루",
           "russian": "Синий",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1260
         },
         "colors": [ "Blue", "White" ]
       }
@@ -402,7 +390,6 @@
     "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.3.0",
-    "versionUnlocked": "1.3.0",
     "catalog": "For sale",
     "buy": 3000,
     "sell": 750,
@@ -424,8 +411,7 @@
       "japanese": "はっぱがらマリンスーツ",
       "korean": "나뭇잎 잠수복",
       "russian": "гидрокостюм с листьями",
-      "plural": false,
-      "internalIds": [ 13099, 13100, 12981, 13098 ]
+      "plural": false
     },
     "source": [ "Nook Shopping Daily Selection" ],
     "themesTranslations": {
@@ -447,8 +433,7 @@
         "japanese": "アウトドア",
         "korean": "아웃도어",
         "russian": "походный",
-        "plural": false,
-        "internalIds": [ "Outdoor" ]
+        "plural": false
       },
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -468,8 +453,7 @@
         "japanese": "スポーツ",
         "korean": "스포츠",
         "russian": "спортивный",
-        "plural": false,
-        "internalIds": [ "Sport" ]
+        "plural": false
       },
       "vacation": {
         "sourceSheet": "Fashion Themes",
@@ -489,8 +473,7 @@
         "japanese": "バカンス",
         "korean": "바캉스",
         "russian": "отпускной",
-        "plural": false,
-        "internalIds": [ "Vacation" ]
+        "plural": false
       }
     },
     "hhaBasePoints": 51,
@@ -532,7 +515,7 @@
           "korean": "옐로",
           "russian": "Желтый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1259
         },
         "colors": [ "Yellow", "Black" ]
       },
@@ -568,7 +551,7 @@
           "korean": "그린",
           "russian": "Зеленый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1259
         },
         "colors": [ "Green", "Black" ]
       },
@@ -604,7 +587,7 @@
           "korean": "라이트 블루",
           "russian": "Голубой",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1259
         },
         "colors": [ "Aqua", "Black" ]
       },
@@ -640,7 +623,7 @@
           "korean": "퍼플",
           "russian": "Фиолетовый",
           "plural": false,
-          "internalIds": []
+          "clothGroup": 1259
         },
         "colors": [ "Purple", "Black" ]
       }

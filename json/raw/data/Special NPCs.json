@@ -189,7 +189,7 @@
   {
     "SourceSheet": "Special NPCs",
     "Name": "DJ KK",
-    "Icon Image": "=IMAGE(\"https://acnhapi.com/1.0.0/NpcIcon/tkkB.png\")",
+    "Icon Image": "=IMAGE(\"https://acnhcdn.com/1.0.0/NpcIcon/tkkB.png\")",
     "Photo Image": "=IMAGE(\"https://acnhcdn.com/latest/NpcPoster/NpcSpTkkB.png\")",
     "Gender": "Male",
     "Gender (Asia)": "Male",
@@ -376,11 +376,11 @@
   {
     "SourceSheet": "Special NPCs",
     "Name": "Jack",
-    "Icon Image": "NA",
+    "Icon Image": "=IMAGE(\"https://acnhcdn.com/latest/NpcIcon/pkn.png\")",
     "Photo Image": "=IMAGE(\"https://acnhcdn.com/latest/NpcPoster/NpcSpPkn.png\")",
     "Gender": "Male",
     "Gender (Asia)": "Male",
-    "Version Added": "NA",
+    "Version Added": "1.5.0",
     "NPC ID": "pkn",
     "Internal ID": 57,
     "Birthday": "10/31",

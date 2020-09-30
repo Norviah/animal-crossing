@@ -49,7 +49,6 @@ export interface Catchphrases {
     korean:             string;
     russian:            string;
     plural:             boolean;
-    internalIds:        string[];
 }
 
 export enum SourceSheet {

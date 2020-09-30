@@ -34,7 +34,7 @@ export enum ConstructionSourceSheet {
 
 export interface Translations {
     sourceSheet:        TranslationsSourceSheet;
-    id:                 number | string;
+    id:                 number;
     version:            Version;
     english:            string;
     englishEurope:      string;
@@ -51,7 +51,6 @@ export interface Translations {
     korean:             string;
     russian:            string;
     plural:             boolean;
-    internalIds:        Array<number | string>;
 }
 
 export enum TranslationsSourceSheet {

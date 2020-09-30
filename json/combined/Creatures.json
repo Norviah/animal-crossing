@@ -26,7 +26,7 @@
     "uniqueEntryId": "u2GhYQJXDCQKp7AQ8",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00652",
+      "id": 652,
       "version": "1.0.0",
       "english": "Atlas moth",
       "englishEurope": "Atlas moth",
@@ -42,8 +42,7 @@
       "japanese": "ヨナグニサン",
       "korean": "아틀라스나방",
       "russian": "павлиноглазка атлас",
-      "plural": false,
-      "internalIds": [ 652 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -87,12 +86,11 @@
     "furnitureFilename": "FtrDiveFishDungenessCrab",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7308,
     "uniqueEntryId": "jTP553H6DNuKBSAKa",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07308",
+      "id": 7308,
       "version": "1.3.0",
       "english": "Dungeness crab",
       "englishEurope": "Dungeness crab",
@@ -108,8 +106,7 @@
       "japanese": "ダンジネスクラブ",
       "korean": "던지니스크랩",
       "russian": "данженесский краб",
-      "plural": false,
-      "internalIds": [ 7308 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -154,7 +151,7 @@
     "uniqueEntryId": "EFWMygLqnJinFoXSW",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03484",
+      "id": 3484,
       "version": "1.0.0",
       "english": "Madagascan sunset moth",
       "englishEurope": "Madagascan sunset moth",
@@ -170,8 +167,7 @@
       "japanese": "ニシキオオツバメガ",
       "korean": "마다가스카르비단제비나방",
       "russian": "урания мадагаскарская",
-      "plural": false,
-      "internalIds": [ 3484 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -219,7 +215,7 @@
     "uniqueEntryId": "dm4THC3AYR6CZ8bvJ",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02260",
+      "id": 2260,
       "version": "1.0.0",
       "english": "Napoleonfish",
       "englishEurope": "Napoleonfish",
@@ -235,8 +231,7 @@
       "japanese": "ナポレオンフィッシュ",
       "korean": "나폴레옹피시",
       "russian": "рыба-наполеон",
-      "plural": false,
-      "internalIds": [ 2260 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -281,7 +276,7 @@
     "uniqueEntryId": "PbNXeN9GZuJuow7jv",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00586",
+      "id": 586,
       "version": "1.0.0",
       "english": "Queen Alexandra's birdwing",
       "englishEurope": "Queen Alexandra's birdwing",
@@ -297,8 +292,7 @@
       "japanese": "アレキサンドラトリバネアゲハ",
       "korean": "알렉산드라비단제비나비",
       "russian": "птицекрылка Александры",
-      "plural": false,
-      "internalIds": [ 586 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -343,7 +337,7 @@
     "uniqueEntryId": "gLpHgXT4pPXP4XfWQ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00584",
+      "id": 584,
       "version": "1.0.0",
       "english": "Rajah Brooke's birdwing",
       "englishEurope": "Rajah Brooke's birdwing",
@@ -359,8 +353,7 @@
       "japanese": "アカエリトリバネアゲハ",
       "korean": "붉은목도리비단나비",
       "russian": "трогоноптера Брука",
-      "plural": false,
-      "internalIds": [ 584 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -404,12 +397,11 @@
     "furnitureFilename": "FtrDiveFishKairoudouketsu",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7318,
     "uniqueEntryId": "mSvTRhay8tmGXseMt",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07318",
+      "id": 7318,
       "version": "1.3.0",
       "english": "Venus' flower basket",
       "englishEurope": "Venus' flower basket",
@@ -425,8 +417,7 @@
       "japanese": "カイロウドウケツ",
       "korean": "해로동혈",
       "russian": "корзинка Венеры",
-      "plural": false,
-      "internalIds": [ 7318 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -470,12 +461,11 @@
     "furnitureFilename": "FtrDiveFishAwabi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2835,
     "uniqueEntryId": "LnurTYKDSPtsiQr62",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02835",
+      "id": 2835,
       "version": "1.3.0",
       "english": "abalone",
       "englishEurope": "abalone",
@@ -491,8 +481,7 @@
       "japanese": "アワビ",
       "korean": "전복",
       "russian": "абалон",
-      "plural": false,
-      "internalIds": [ 2835 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -536,12 +525,11 @@
     "furnitureFilename": "FtrDiveFishFujitsubo",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2832,
     "uniqueEntryId": "QjvNJrjo5pNqZzuGq",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02832",
+      "id": 2832,
       "version": "1.3.0",
       "english": "acorn barnacle",
       "englishEurope": "acorn barnacle",
@@ -557,8 +545,7 @@
       "japanese": "フジツボ",
       "korean": "따개비",
       "russian": "морской желудь",
-      "plural": false,
-      "internalIds": [ 2832 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -603,7 +590,7 @@
     "uniqueEntryId": "aj95rMzdbSbvZy9A2",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00620",
+      "id": 620,
       "version": "1.0.0",
       "english": "agrias butterfly",
       "englishEurope": "agrias butterfly",
@@ -619,8 +606,7 @@
       "japanese": "ミイロタテハ",
       "korean": "아그리아스나비",
       "russian": "агриас клаудина",
-      "plural": false,
-      "internalIds": [ 620 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -668,7 +654,7 @@
     "uniqueEntryId": "LzuWkSQP55uEpRCP5",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04201",
+      "id": 4201,
       "version": "1.0.0",
       "english": "anchovy",
       "englishEurope": "anchovy",
@@ -684,8 +670,7 @@
       "japanese": "アンチョビ",
       "korean": "멸치",
       "russian": "хамса",
-      "plural": false,
-      "internalIds": [ 4201 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -733,7 +718,7 @@
     "uniqueEntryId": "XTCFCk2SiuY5YXLZ7",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02247",
+      "id": 2247,
       "version": "1.0.0",
       "english": "angelfish",
       "englishEurope": "angelfish",
@@ -749,8 +734,7 @@
       "japanese": "エンゼルフィッシュ",
       "korean": "천사어",
       "russian": "скалярия",
-      "plural": false,
-      "internalIds": [ 2247 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -795,7 +779,7 @@
     "uniqueEntryId": "QZpmczZu4hW2a4Rpv",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00588",
+      "id": 588,
       "version": "1.0.0",
       "english": "ant",
       "englishEurope": "ant",
@@ -811,8 +795,7 @@
       "japanese": "アリ",
       "korean": "개미",
       "russian": "муравей",
-      "plural": false,
-      "internalIds": [ 588 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -860,7 +843,7 @@
     "uniqueEntryId": "mZy4BES54bqwi97br",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02253",
+      "id": 2253,
       "version": "1.0.0",
       "english": "arapaima",
       "englishEurope": "arapaima",
@@ -876,8 +859,7 @@
       "japanese": "ピラルク",
       "korean": "피라루쿠",
       "russian": "арапаима",
-      "plural": false,
-      "internalIds": [ 2253 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -925,7 +907,7 @@
     "uniqueEntryId": "F68AvCaqddBJL7ZSN",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02250",
+      "id": 2250,
       "version": "1.0.0",
       "english": "arowana",
       "englishEurope": "arowana",
@@ -941,8 +923,7 @@
       "japanese": "アロワナ",
       "korean": "아로와나",
       "russian": "аравана",
-      "plural": false,
-      "internalIds": [ 2250 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -987,7 +968,7 @@
     "uniqueEntryId": "QvxgCm82JqHsDknY4",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00622",
+      "id": 622,
       "version": "1.0.0",
       "english": "bagworm",
       "englishEurope": "bagworm",
@@ -1003,8 +984,7 @@
       "japanese": "ミノムシ",
       "korean": "도롱이벌레",
       "russian": "мешочница",
-      "plural": false,
-      "internalIds": [ 622 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1049,7 +1029,7 @@
     "uniqueEntryId": "pCFep58D6QusMSvR7",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00635",
+      "id": 635,
       "version": "1.0.0",
       "english": "banded dragonfly",
       "englishEurope": "banded dragonfly",
@@ -1065,8 +1045,7 @@
       "japanese": "オニヤンマ",
       "korean": "장수잠자리",
       "russian": "кордулегастер",
-      "plural": false,
-      "internalIds": [ 635 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1114,7 +1093,7 @@
     "uniqueEntryId": "X3R9SFSAaDzBF4fE3",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02265",
+      "id": 2265,
       "version": "1.0.0",
       "english": "barred knifejaw",
       "englishEurope": "barred knifejaw",
@@ -1130,8 +1109,7 @@
       "japanese": "イシダイ",
       "korean": "돌돔",
       "russian": "полосатый оплегнат",
-      "plural": false,
-      "internalIds": [ 2265 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1179,7 +1157,7 @@
     "uniqueEntryId": "BpqTa4zmTjv3Nm4wE",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04204",
+      "id": 4204,
       "version": "1.0.0",
       "english": "barreleye",
       "englishEurope": "barreleye",
@@ -1195,8 +1173,7 @@
       "japanese": "デメニギス",
       "korean": "데메니기스",
       "russian": "опистопрокт",
-      "plural": false,
-      "internalIds": [ 4204 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1241,7 +1218,7 @@
     "uniqueEntryId": "d5EQqbQsip82G2CZE",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00642",
+      "id": 642,
       "version": "1.0.0",
       "english": "bell cricket",
       "englishEurope": "bell cricket",
@@ -1257,8 +1234,7 @@
       "japanese": "スズムシ",
       "korean": "방울벌레",
       "russian": "домашний сверчок",
-      "plural": false,
-      "internalIds": [ 642 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1306,7 +1282,7 @@
     "uniqueEntryId": "7QcQXzwZoNGiNA94k",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04191",
+      "id": 4191,
       "version": "1.0.0",
       "english": "betta",
       "englishEurope": "betta",
@@ -1322,8 +1298,7 @@
       "japanese": "ベタ",
       "korean": "베타",
       "russian": "сиамский петушок",
-      "plural": false,
-      "internalIds": [ 4191 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1371,7 +1346,7 @@
     "uniqueEntryId": "Drj6eLRBgg4T9KhNx",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02215",
+      "id": 2215,
       "version": "1.0.0",
       "english": "bitterling",
       "englishEurope": "bitterling",
@@ -1387,8 +1362,7 @@
       "japanese": "タナゴ",
       "korean": "납줄개",
       "russian": "горчак",
-      "plural": false,
-      "internalIds": [ 2215 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1436,7 +1410,7 @@
     "uniqueEntryId": "wAZvfTca7GyaTtLcQ",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02234",
+      "id": 2234,
       "version": "1.0.0",
       "english": "black bass",
       "englishEurope": "black bass",
@@ -1452,8 +1426,7 @@
       "japanese": "ブラックバス",
       "korean": "큰입배스",
       "russian": "большеротый окунь",
-      "plural": false,
-      "internalIds": [ 2234 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1501,7 +1474,7 @@
     "uniqueEntryId": "aDsmTcByApycafxTa",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02262",
+      "id": 2262,
       "version": "1.0.0",
       "english": "blowfish",
       "englishEurope": "blowfish",
@@ -1517,8 +1490,7 @@
       "japanese": "フグ",
       "korean": "복어",
       "russian": "бурый скалозуб",
-      "plural": false,
-      "internalIds": [ 2262 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1566,7 +1538,7 @@
     "uniqueEntryId": "jhtsYRHydAcZnd6bJ",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02275",
+      "id": 2275,
       "version": "1.0.0",
       "english": "blue marlin",
       "englishEurope": "blue marlin",
@@ -1582,8 +1554,7 @@
       "japanese": "カジキ",
       "korean": "청새치",
       "russian": "голубой марлин",
-      "plural": false,
-      "internalIds": [ 2275 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1628,7 +1599,7 @@
     "uniqueEntryId": "qocWy6r5RXjeThdYy",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03485",
+      "id": 3485,
       "version": "1.0.0",
       "english": "blue weevil beetle",
       "englishEurope": "blue weevil beetle",
@@ -1644,8 +1615,7 @@
       "japanese": "ホウセキゾウムシ",
       "korean": "유포루스바구미",
       "russian": "синий долгоносик",
-      "plural": false,
-      "internalIds": [ 3485 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1693,7 +1663,7 @@
     "uniqueEntryId": "8ygccYFCrWf4hwYGR",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02232",
+      "id": 2232,
       "version": "1.0.0",
       "english": "bluegill",
       "englishEurope": "bluegill",
@@ -1709,8 +1679,7 @@
       "japanese": "ブルーギル",
       "korean": "블루길",
       "russian": "солнечник",
-      "plural": false,
-      "internalIds": [ 2232 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1755,7 +1724,7 @@
     "uniqueEntryId": "gBLRZ2J2R2wwYWFCk",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00582",
+      "id": 582,
       "version": "1.0.0",
       "english": "brown cicada",
       "englishEurope": "brown cicada",
@@ -1771,8 +1740,7 @@
       "japanese": "アブラゼミ",
       "korean": "유지매미",
       "russian": "коричневая цикада",
-      "plural": false,
-      "internalIds": [ 582 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1820,7 +1788,7 @@
     "uniqueEntryId": "S4rkio2M3WB5cyy8Y",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02259",
+      "id": 2259,
       "version": "1.0.0",
       "english": "butterfly fish",
       "englishEurope": "butterfly fish",
@@ -1836,8 +1804,7 @@
       "japanese": "チョウチョウウオ",
       "korean": "나비고기",
       "russian": "рыба-бабочка",
-      "plural": false,
-      "internalIds": [ 2259 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1885,7 +1852,7 @@
     "uniqueEntryId": "4DwwvGDwPQvZTn9Fb",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02219",
+      "id": 2219,
       "version": "1.0.0",
       "english": "carp",
       "englishEurope": "carp",
@@ -1901,8 +1868,7 @@
       "japanese": "コイ",
       "korean": "잉어",
       "russian": "сазан",
-      "plural": false,
-      "internalIds": [ 2219 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1950,7 +1916,7 @@
     "uniqueEntryId": "nbPtvwf7HCQxA9Nc4",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02229",
+      "id": 2229,
       "version": "1.0.0",
       "english": "catfish",
       "englishEurope": "catfish",
@@ -1966,8 +1932,7 @@
       "japanese": "ナマズ",
       "korean": "메기",
       "russian": "сом",
-      "plural": false,
-      "internalIds": [ 2229 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2012,7 +1977,7 @@
     "uniqueEntryId": "ubStMQwHMJJcYje38",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00628",
+      "id": 628,
       "version": "1.0.0",
       "english": "centipede",
       "englishEurope": "centipede",
@@ -2028,8 +1993,7 @@
       "japanese": "ムカデ",
       "korean": "지네",
       "russian": "многоножка",
-      "plural": false,
-      "internalIds": [ 628 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2073,12 +2037,11 @@
     "furnitureFilename": "FtrDiveFishOumugai",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2856,
     "uniqueEntryId": "cmNawSTGaZZjRi5sp",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02856",
+      "id": 2856,
       "version": "1.3.0",
       "english": "chambered nautilus",
       "englishEurope": "chambered nautilus",
@@ -2094,8 +2057,7 @@
       "japanese": "オウムガイ",
       "korean": "앵무조개",
       "russian": "наутилус",
-      "plural": false,
-      "internalIds": [ 2856 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2143,7 +2105,7 @@
     "uniqueEntryId": "ahbnwCqp3EZXa96KC",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02239",
+      "id": 2239,
       "version": "1.0.0",
       "english": "char",
       "englishEurope": "char",
@@ -2159,8 +2121,7 @@
       "japanese": "オオイワナ",
       "korean": "열목어",
       "russian": "голец",
-      "plural": false,
-      "internalIds": [ 2239 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2208,7 +2169,7 @@
     "uniqueEntryId": "sJyBbeLbpzn7LyzFr",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02238",
+      "id": 2238,
       "version": "1.0.0",
       "english": "cherry salmon",
       "englishEurope": "cherry salmon",
@@ -2224,8 +2185,7 @@
       "japanese": "ヤマメ",
       "korean": "산천어",
       "russian": "сима",
-      "plural": false,
-      "internalIds": [ 2238 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2270,7 +2230,7 @@
     "uniqueEntryId": "6s3MCahAroqpjGybW",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00641",
+      "id": 641,
       "version": "1.0.0",
       "english": "cicada shell",
       "englishEurope": "cicada shell",
@@ -2286,8 +2246,7 @@
       "japanese": "セミのぬけがら",
       "korean": "매미 허물",
       "russian": "кокон цикады",
-      "plural": false,
-      "internalIds": [ 641 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2332,7 +2291,7 @@
     "uniqueEntryId": "QR88MPLzYxSCHWZJb",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00609",
+      "id": 609,
       "version": "1.0.0",
       "english": "citrus long-horned beetle",
       "englishEurope": "citrus long-horned beetle",
@@ -2348,8 +2307,7 @@
       "japanese": "ゴマダラカミキリ",
       "korean": "알락하늘소",
       "russian": "цитрусовый усач",
-      "plural": false,
-      "internalIds": [ 609 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2397,7 +2355,7 @@
     "uniqueEntryId": "L9qxZaMoBhwxvpMyh",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02257",
+      "id": 2257,
       "version": "1.0.0",
       "english": "clown fish",
       "englishEurope": "clown fish",
@@ -2413,8 +2371,7 @@
       "japanese": "クマノミ",
       "korean": "흰동가리",
       "russian": "рыба-клоун",
-      "plural": false,
-      "internalIds": [ 2257 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2462,7 +2419,7 @@
     "uniqueEntryId": "NjMZQ6Xi9NswEXnHH",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02284",
+      "id": 2284,
       "version": "1.0.0",
       "english": "coelacanth",
       "englishEurope": "coelacanth",
@@ -2478,8 +2435,7 @@
       "japanese": "シーラカンス",
       "korean": "실러캔스",
       "russian": "латимерия",
-      "plural": false,
-      "internalIds": [ 2284 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2524,7 +2480,7 @@
     "uniqueEntryId": "vgkW2eovbpxNuGsFZ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03477",
+      "id": 3477,
       "version": "1.0.0",
       "english": "common bluebottle",
       "englishEurope": "common bluebottle",
@@ -2540,8 +2496,7 @@
       "japanese": "アオスジアゲハ",
       "korean": "청띠제비나비",
       "russian": "графиум сарпедон",
-      "plural": false,
-      "internalIds": [ 3477 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2586,7 +2541,7 @@
     "uniqueEntryId": "tRJxp5N9XbwAGQHZc",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00626",
+      "id": 626,
       "version": "1.0.0",
       "english": "common butterfly",
       "englishEurope": "common butterfly",
@@ -2602,8 +2557,7 @@
       "japanese": "モンシロチョウ",
       "korean": "배추흰나비",
       "russian": "белянка",
-      "plural": false,
-      "internalIds": [ 626 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2651,7 +2605,7 @@
     "uniqueEntryId": "W7TrwpycmfgniZipi",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02223",
+      "id": 2223,
       "version": "1.0.0",
       "english": "crawfish",
       "englishEurope": "crawfish",
@@ -2667,8 +2621,7 @@
       "japanese": "ザリガニ",
       "korean": "가재",
       "russian": "рак",
-      "plural": false,
-      "internalIds": [ 2223 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2713,7 +2666,7 @@
     "uniqueEntryId": "Lr7eFJzJJZpWRWekm",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00617",
+      "id": 617,
       "version": "1.0.0",
       "english": "cricket",
       "englishEurope": "cricket",
@@ -2729,8 +2682,7 @@
       "japanese": "コオロギ",
       "korean": "귀뚜라미",
       "russian": "сверчок",
-      "plural": false,
-      "internalIds": [ 617 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2778,7 +2730,7 @@
     "uniqueEntryId": "Pdw7vmJz9PRM4ggbf",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_00328",
+      "id": 328,
       "version": "1.0.0",
       "english": "crucian carp",
       "englishEurope": "crucian carp",
@@ -2794,8 +2746,7 @@
       "japanese": "フナ",
       "korean": "붕어",
       "russian": "карась",
-      "plural": false,
-      "internalIds": [ 328 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2840,7 +2791,7 @@
     "uniqueEntryId": "moBevd7J5hwpHeLcs",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00602",
+      "id": 602,
       "version": "1.0.0",
       "english": "cyclommatus stag",
       "englishEurope": "cyclommatus stag",
@@ -2856,8 +2807,7 @@
       "japanese": "ホソアカクワガタ",
       "korean": "엘라푸스가위사슴벌레",
       "russian": "жук-рогач",
-      "plural": false,
-      "internalIds": [ 602 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2905,7 +2855,7 @@
     "uniqueEntryId": "noA2Kfp8TaFgaLs5n",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02268",
+      "id": 2268,
       "version": "1.0.0",
       "english": "dab",
       "englishEurope": "dab",
@@ -2921,8 +2871,7 @@
       "japanese": "カレイ",
       "korean": "가자미",
       "russian": "камбала",
-      "plural": false,
-      "internalIds": [ 2268 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2970,7 +2919,7 @@
     "uniqueEntryId": "dWmXFdnjByWT5nEok",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02217",
+      "id": 2217,
       "version": "1.0.0",
       "english": "dace",
       "englishEurope": "dace",
@@ -2986,8 +2935,7 @@
       "japanese": "ウグイ",
       "korean": "황어",
       "russian": "елец",
-      "plural": false,
-      "internalIds": [ 2217 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3032,7 +2980,7 @@
     "uniqueEntryId": "pBmqsa7CyeKzyRjDT",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_05339",
+      "id": 5339,
       "version": "1.0.0",
       "english": "damselfly",
       "englishEurope": "damselfly",
@@ -3048,8 +2996,7 @@
       "japanese": "イトトンボ",
       "korean": "실잠자리",
       "russian": "равнокрылая стрекоза",
-      "plural": false,
-      "internalIds": [ 5339 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3094,7 +3041,7 @@
     "uniqueEntryId": "723NiWMh4iY9RJtAM",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00595",
+      "id": 595,
       "version": "1.0.0",
       "english": "darner dragonfly",
       "englishEurope": "darner dragonfly",
@@ -3110,8 +3057,7 @@
       "japanese": "ギンヤンマ",
       "korean": "왕잠자리",
       "russian": "дозорщик",
-      "plural": false,
-      "internalIds": [ 595 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3156,7 +3102,7 @@
     "uniqueEntryId": "CBjt7itnPqEtNznrX",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00594",
+      "id": 594,
       "version": "1.0.0",
       "english": "diving beetle",
       "englishEurope": "diving beetle",
@@ -3172,8 +3118,7 @@
       "japanese": "ゲンゴロウ",
       "korean": "물방개",
       "russian": "плавунец",
-      "plural": false,
-      "internalIds": [ 594 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3221,7 +3166,7 @@
     "uniqueEntryId": "G7ZwD67cRMHBwTSKH",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02251",
+      "id": 2251,
       "version": "1.0.0",
       "english": "dorado",
       "englishEurope": "dorado",
@@ -3237,8 +3182,7 @@
       "japanese": "ドラド",
       "korean": "도라도",
       "russian": "дорадо",
-      "plural": false,
-      "internalIds": [ 2251 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3283,7 +3227,7 @@
     "uniqueEntryId": "uXmtRAQgY3g596tov",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03480",
+      "id": 3480,
       "version": "1.0.0",
       "english": "drone beetle",
       "englishEurope": "drone beetle",
@@ -3299,8 +3243,7 @@
       "japanese": "カナブン",
       "korean": "풍이",
       "russian": "бронзовка",
-      "plural": false,
-      "internalIds": [ 3480 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3345,7 +3288,7 @@
     "uniqueEntryId": "p9RhE8wLWpHtcoq5G",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00604",
+      "id": 604,
       "version": "1.0.0",
       "english": "dung beetle",
       "englishEurope": "dung beetle",
@@ -3361,8 +3304,7 @@
       "japanese": "フンコロガシ",
       "korean": "쇠똥구리",
       "russian": "жук-навозник",
-      "plural": false,
-      "internalIds": [ 604 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3407,7 +3349,7 @@
     "uniqueEntryId": "k2fqxdYnTF8BpHB7u",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00614",
+      "id": 614,
       "version": "1.0.0",
       "english": "earth-boring dung beetle",
       "englishEurope": "earth-boring dung beetle",
@@ -3423,8 +3365,7 @@
       "japanese": "オオセンチコガネ",
       "korean": "보라금풍뎅이",
       "russian": "навозник-землерой",
-      "plural": false,
-      "internalIds": [ 614 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3469,7 +3410,7 @@
     "uniqueEntryId": "Lwkf7oQ3mcWYm6eEY",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00627",
+      "id": 627,
       "version": "1.0.0",
       "english": "emperor butterfly",
       "englishEurope": "emperor butterfly",
@@ -3485,8 +3426,7 @@
       "japanese": "モルフォチョウ",
       "korean": "몰포나비",
       "russian": "морфо менелай",
-      "plural": false,
-      "internalIds": [ 627 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3534,7 +3474,7 @@
     "uniqueEntryId": "kzX4apD9C3Nq8khzR",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00601",
+      "id": 601,
       "version": "1.0.0",
       "english": "evening cicada",
       "englishEurope": "evening cicada",
@@ -3550,8 +3490,7 @@
       "japanese": "ヒグラシ",
       "korean": "쓰르라미",
       "russian": "ночная цикада",
-      "plural": false,
-      "internalIds": [ 601 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3596,7 +3535,7 @@
     "uniqueEntryId": "PgiwPqykwafyz5EL6",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00603",
+      "id": 603,
       "version": "1.0.0",
       "english": "firefly",
       "englishEurope": "firefly",
@@ -3612,8 +3551,7 @@
       "japanese": "ホタル",
       "korean": "반디",
       "russian": "светлячок",
-      "plural": false,
-      "internalIds": [ 603 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3657,12 +3595,11 @@
     "furnitureFilename": "FtrDiveFishHotaruika",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 6920,
     "uniqueEntryId": "ETuWxdyZNpqeFCYby",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_06920",
+      "id": 6920,
       "version": "1.3.0",
       "english": "firefly squid",
       "englishEurope": "firefly squid",
@@ -3678,8 +3615,7 @@
       "japanese": "ホタルイカ",
       "korean": "반딧불오징어",
       "russian": "сверкающий кальмар",
-      "plural": false,
-      "internalIds": [ 6920 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3723,12 +3659,11 @@
     "furnitureFilename": "FtrDiveFishHiramushi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2844,
     "uniqueEntryId": "4LAq9YXXj4ZdfkSuK",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02844",
+      "id": 2844,
       "version": "1.3.0",
       "english": "flatworm",
       "englishEurope": "flatworm",
@@ -3744,8 +3679,7 @@
       "japanese": "ヒラムシ",
       "korean": "납작벌레",
       "russian": "плоский червь",
-      "plural": false,
-      "internalIds": [ 2844 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3790,7 +3724,7 @@
     "uniqueEntryId": "QzDywoJEAJDcjGfEF",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00633",
+      "id": 633,
       "version": "1.0.0",
       "english": "flea",
       "englishEurope": "flea",
@@ -3806,8 +3740,7 @@
       "japanese": "ノミ",
       "korean": "벼룩",
       "russian": "блоха",
-      "plural": false,
-      "internalIds": [ 633 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3833,7 +3766,7 @@
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHaeCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHaeCropped.png",
     "sell": 60,
-    "whereHow": "Flying near trash (boots, tires, cans) or rotten turnips",
+    "whereHow": "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "0",
@@ -3852,7 +3785,7 @@
     "uniqueEntryId": "xdBmuMgXJ6jGxpabK",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00597",
+      "id": 597,
       "version": "1.0.0",
       "english": "fly",
       "englishEurope": "fly",
@@ -3868,8 +3801,7 @@
       "japanese": "ハエ",
       "korean": "파리",
       "russian": "муха",
-      "plural": false,
-      "internalIds": [ 597 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3917,7 +3849,7 @@
     "uniqueEntryId": "vQHfve6DygtcYqwdi",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02273",
+      "id": 2273,
       "version": "1.0.0",
       "english": "football fish",
       "englishEurope": "football fish",
@@ -3933,8 +3865,7 @@
       "japanese": "チョウチンアンコウ",
       "korean": "초롱아귀",
       "russian": "гимантолоф",
-      "plural": false,
-      "internalIds": [ 2273 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -3982,7 +3913,7 @@
     "uniqueEntryId": "SfXYNdtaid6hdQhvZ",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02227",
+      "id": 2227,
       "version": "1.0.0",
       "english": "freshwater goby",
       "englishEurope": "freshwater goby",
@@ -3998,8 +3929,7 @@
       "japanese": "ドンコ",
       "korean": "동사리",
       "russian": "одонтобутис",
-      "plural": false,
-      "internalIds": [ 2227 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4046,26 +3976,24 @@
     "internalId": 2226,
     "uniqueEntryId": "LcQLs85qPPdLajLje",
     "translations": {
-      "sourceSheet": "Tops Variants",
-      "variantId": 10899,
-      "id": 10899,
-      "clothName": "kids' smock",
-      "english": "Frog",
-      "englishEurope": "Frog",
+      "sourceSheet": "Fish",
+      "id": 2226,
+      "version": "1.0.0",
+      "english": "frog",
+      "englishEurope": "frog",
       "german": "Frosch",
-      "spanish": "Rana",
-      "spanishUs": "Rana",
-      "french": "Grenouille",
-      "frenchUs": "Grenouille",
-      "italian": "Rana",
-      "dutch": "Kikker",
+      "spanish": "rana",
+      "spanishUs": "rana",
+      "french": "grenouille",
+      "frenchUs": "grenouille",
+      "italian": "rana",
+      "dutch": "kikker",
       "chinese": "青蛙",
       "chineseTraditional": "青蛙",
       "japanese": "カエル",
       "korean": "개구리",
-      "russian": "Лягушка",
-      "plural": false,
-      "internalIds": [ 2226 ]
+      "russian": "лягушка",
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4113,7 +4041,7 @@
     "uniqueEntryId": "x5yAYQgMJW9Kf7WyM",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02252",
+      "id": 2252,
       "version": "1.0.0",
       "english": "gar",
       "englishEurope": "gar",
@@ -4129,8 +4057,7 @@
       "japanese": "ガー",
       "korean": "가아",
       "russian": "панцирная щука",
-      "plural": false,
-      "internalIds": [ 2252 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4174,12 +4101,11 @@
     "furnitureFilename": "FtrDiveFishGazami",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7191,
     "uniqueEntryId": "ruLaEghgv3y3obBA2",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07191",
+      "id": 7191,
       "version": "1.3.0",
       "english": "gazami crab",
       "englishEurope": "gazami crab",
@@ -4195,8 +4121,7 @@
       "japanese": "ガザミ",
       "korean": "꽃게",
       "russian": "газами-краб",
-      "plural": false,
-      "internalIds": [ 7191 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4244,7 +4169,7 @@
     "uniqueEntryId": "nPm2r7idGshQW87MN",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00618",
+      "id": 618,
       "version": "1.0.0",
       "english": "giant cicada",
       "englishEurope": "giant cicada",
@@ -4260,8 +4185,7 @@
       "japanese": "クマゼミ",
       "korean": "곰매미",
       "russian": "гигантская цикада",
-      "plural": false,
-      "internalIds": [ 618 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4305,12 +4229,11 @@
     "furnitureFilename": "FtrDiveFishDaiougusokumushi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2858,
     "uniqueEntryId": "eGLoSDD4EWD2c6SGs",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02858",
+      "id": 2858,
       "version": "1.3.0",
       "english": "giant isopod",
       "englishEurope": "giant isopod",
@@ -4326,8 +4249,7 @@
       "japanese": "ダイオウグソクムシ",
       "korean": "자이언트 이소포드",
       "russian": "гигантская изопода",
-      "plural": false,
-      "internalIds": [ 2858 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4375,7 +4297,7 @@
     "uniqueEntryId": "KyWQRd8W2FePM42wB",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02231",
+      "id": 2231,
       "version": "1.0.0",
       "english": "giant snakehead",
       "englishEurope": "giant snakehead",
@@ -4391,8 +4313,7 @@
       "japanese": "ライギョ",
       "korean": "가물치",
       "russian": "змееголов",
-      "plural": false,
-      "internalIds": [ 2231 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4437,7 +4358,7 @@
     "uniqueEntryId": "KhrTLzayFz23zz2kn",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00637",
+      "id": 637,
       "version": "1.0.0",
       "english": "giant stag",
       "englishEurope": "giant stag",
@@ -4453,8 +4374,7 @@
       "japanese": "オオクワガタ",
       "korean": "왕사슴벌레",
       "russian": "гигантский жук-олень",
-      "plural": false,
-      "internalIds": [ 637 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4502,7 +4422,7 @@
     "uniqueEntryId": "53qtm8cMH4RfqJiAH",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02276",
+      "id": 2276,
       "version": "1.0.0",
       "english": "giant trevally",
       "englishEurope": "giant trevally",
@@ -4518,8 +4438,7 @@
       "japanese": "ロウニンアジ",
       "korean": "무명갈전갱이",
       "russian": "гигантский каранкс",
-      "plural": false,
-      "internalIds": [ 2276 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4564,7 +4483,7 @@
     "uniqueEntryId": "ZsDdBvqAjZMG8EQkZ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_05157",
+      "id": 5157,
       "version": "1.0.0",
       "english": "giant water bug",
       "englishEurope": "giant water bug",
@@ -4580,8 +4499,7 @@
       "japanese": "タガメ",
       "korean": "물장군",
       "russian": "водяной клоп-гигант",
-      "plural": false,
-      "internalIds": [ 5157 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4625,12 +4543,11 @@
     "furnitureFilename": "FtrDiveFishShakogai",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7214,
     "uniqueEntryId": "EQmRaHjokMEGTDC7G",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07214",
+      "id": 7214,
       "version": "1.3.0",
       "english": "gigas giant clam",
       "englishEurope": "gigas giant clam",
@@ -4646,8 +4563,7 @@
       "japanese": "オオシャコガイ",
       "korean": "대왕거거",
       "russian": "гигантская тридакна",
-      "plural": false,
-      "internalIds": [ 7214 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4692,7 +4608,7 @@
     "uniqueEntryId": "PSChjzMhGwhnsHTs4",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03482",
+      "id": 3482,
       "version": "1.0.0",
       "english": "giraffe stag",
       "englishEurope": "giraffe stag",
@@ -4708,8 +4624,7 @@
       "japanese": "ギラファノコギリクワガタ",
       "korean": "기라파톱사슴벌레",
       "russian": "рогач-жираф",
-      "plural": false,
-      "internalIds": [ 3482 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4754,7 +4669,7 @@
     "uniqueEntryId": "2C8cSphidFCBPxYEe",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00638",
+      "id": 638,
       "version": "1.0.0",
       "english": "golden stag",
       "englishEurope": "golden stag",
@@ -4770,8 +4685,7 @@
       "japanese": "オウゴンオニクワガタ",
       "korean": "황금사슴벌레",
       "russian": "ламприма",
-      "plural": false,
-      "internalIds": [ 638 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4819,7 +4733,7 @@
     "uniqueEntryId": "wwGzR7FzWNJ7cDz9X",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04193",
+      "id": 4193,
       "version": "1.0.0",
       "english": "golden trout",
       "englishEurope": "golden trout",
@@ -4835,8 +4749,7 @@
       "japanese": "ゴールデントラウト",
       "korean": "금송어",
       "russian": "золотая форель",
-      "plural": false,
-      "internalIds": [ 4193 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4884,7 +4797,7 @@
     "uniqueEntryId": "5NwmwhEQxBNZCPiBR",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_00329",
+      "id": 329,
       "version": "1.0.0",
       "english": "goldfish",
       "englishEurope": "goldfish",
@@ -4900,8 +4813,7 @@
       "japanese": "キンギョ",
       "korean": "금붕어",
       "russian": "золотая рыбка",
-      "plural": false,
-      "internalIds": [ 329 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -4946,7 +4858,7 @@
     "uniqueEntryId": "wZQMZfhtRyPFAapmF",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00596",
+      "id": 596,
       "version": "1.0.0",
       "english": "goliath beetle",
       "englishEurope": "goliath beetle",
@@ -4962,8 +4874,7 @@
       "japanese": "ゴライアスオオツノハナムグリ",
       "korean": "골리앗왕꽃무지",
       "russian": "жук-голиаф",
-      "plural": false,
-      "internalIds": [ 596 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5008,7 +4919,7 @@
     "uniqueEntryId": "zkzSLJPkkcwXwShKc",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00613",
+      "id": 613,
       "version": "1.0.0",
       "english": "grasshopper",
       "englishEurope": "grasshopper",
@@ -5024,8 +4935,7 @@
       "japanese": "キリギリス",
       "korean": "여치",
       "russian": "кузнечик",
-      "plural": false,
-      "internalIds": [ 613 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5070,7 +4980,7 @@
     "uniqueEntryId": "ZSre7sheZoRqsJwHQ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03479",
+      "id": 3479,
       "version": "1.0.0",
       "english": "great purple emperor",
       "englishEurope": "great purple emperor",
@@ -5086,8 +4996,7 @@
       "japanese": "オオムラサキ",
       "korean": "왕오색나비",
       "russian": "сасакия харонда",
-      "plural": false,
-      "internalIds": [ 3479 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5135,7 +5044,7 @@
     "uniqueEntryId": "EPypAeJGuTDGFJRnx",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02280",
+      "id": 2280,
       "version": "1.0.0",
       "english": "great white shark",
       "englishEurope": "great white shark",
@@ -5151,8 +5060,7 @@
       "japanese": "サメ",
       "korean": "상어",
       "russian": "большая белая акула",
-      "plural": false,
-      "internalIds": [ 2280 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5200,7 +5108,7 @@
     "uniqueEntryId": "WtdZnARNxnWRobej2",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02245",
+      "id": 2245,
       "version": "1.0.0",
       "english": "guppy",
       "englishEurope": "guppy",
@@ -5216,8 +5124,7 @@
       "japanese": "グッピー",
       "korean": "구피",
       "russian": "гуппи",
-      "plural": false,
-      "internalIds": [ 2245 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5265,7 +5172,7 @@
     "uniqueEntryId": "guHT5g6H7tJEyqYzf",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02279",
+      "id": 2279,
       "version": "1.0.0",
       "english": "hammerhead shark",
       "englishEurope": "hammerhead shark",
@@ -5281,8 +5188,7 @@
       "japanese": "シュモクザメ",
       "korean": "귀상어",
       "russian": "рыба-молот",
-      "plural": false,
-      "internalIds": [ 2279 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5327,7 +5233,7 @@
     "uniqueEntryId": "TzbsfYgE4k2qo7fHN",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00651",
+      "id": 651,
       "version": "1.0.0",
       "english": "hermit crab",
       "englishEurope": "hermit crab",
@@ -5343,8 +5249,7 @@
       "japanese": "ヤドカリ",
       "korean": "소라게",
       "russian": "рак-отшельник",
-      "plural": false,
-      "internalIds": [ 651 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5389,7 +5294,7 @@
     "uniqueEntryId": "yeWiAiqDRwinvumDm",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00623",
+      "id": 623,
       "version": "1.0.0",
       "english": "honeybee",
       "englishEurope": "honeybee",
@@ -5405,8 +5310,7 @@
       "japanese": "ミツバチ",
       "korean": "꿀벌",
       "russian": "восковая пчела",
-      "plural": false,
-      "internalIds": [ 623 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5451,7 +5355,7 @@
     "uniqueEntryId": "S93y8gxrSHFNCFmwJ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00615",
+      "id": 615,
       "version": "1.0.0",
       "english": "horned atlas",
       "englishEurope": "horned atlas",
@@ -5467,8 +5371,7 @@
       "japanese": "コーカサスオオカブト",
       "korean": "코카서스장수풍뎅이",
       "russian": "жук-атлас",
-      "plural": false,
-      "internalIds": [ 615 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5513,7 +5416,7 @@
     "uniqueEntryId": "zaG8qsKLpbTjysx7D",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00612",
+      "id": 612,
       "version": "1.0.0",
       "english": "horned dynastid",
       "englishEurope": "horned dynastid",
@@ -5529,8 +5432,7 @@
       "japanese": "カブトムシ",
       "korean": "장수풍뎅이",
       "russian": "дупляк",
-      "plural": false,
-      "internalIds": [ 612 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5575,7 +5477,7 @@
     "uniqueEntryId": "M7SHXNEMf78nJD6fE",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00653",
+      "id": 653,
       "version": "1.0.0",
       "english": "horned elephant",
       "englishEurope": "horned elephant",
@@ -5591,8 +5493,7 @@
       "japanese": "ゾウカブト",
       "korean": "코끼리장수풍뎅이",
       "russian": "жук-слон",
-      "plural": false,
-      "internalIds": [ 653 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5637,7 +5538,7 @@
     "uniqueEntryId": "TqhEomNEMDZ2wcTpk",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00600",
+      "id": 600,
       "version": "1.0.0",
       "english": "horned hercules",
       "englishEurope": "horned hercules",
@@ -5653,8 +5554,7 @@
       "japanese": "ヘラクレスオオカブト",
       "korean": "헤라클레스장수풍뎅이",
       "russian": "жук-геркулес",
-      "plural": false,
-      "internalIds": [ 600 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5702,7 +5602,7 @@
     "uniqueEntryId": "L24RYPaEcm9ZXkTui",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02264",
+      "id": 2264,
       "version": "1.0.0",
       "english": "horse mackerel",
       "englishEurope": "horse mackerel",
@@ -5718,8 +5618,7 @@
       "japanese": "アジ",
       "korean": "전갱이",
       "russian": "ставрида",
-      "plural": false,
-      "internalIds": [ 2264 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5763,12 +5662,11 @@
     "furnitureFilename": "FtrDiveFishKabutogani",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2857,
     "uniqueEntryId": "bbhHaiT2qwcTy46X5",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02857",
+      "id": 2857,
       "version": "1.3.0",
       "english": "horseshoe crab",
       "englishEurope": "horseshoe crab",
@@ -5784,8 +5682,7 @@
       "japanese": "カブトガニ",
       "korean": "투구게",
       "russian": "мечехвост",
-      "plural": false,
-      "internalIds": [ 2857 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5830,7 +5727,7 @@
     "uniqueEntryId": "TYFowxRG4ydcvotkQ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00645",
+      "id": 645,
       "version": "1.0.0",
       "english": "jewel beetle",
       "englishEurope": "jewel beetle",
@@ -5846,8 +5743,7 @@
       "japanese": "タマムシ",
       "korean": "비단벌레",
       "russian": "златка",
-      "plural": false,
-      "internalIds": [ 645 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5895,7 +5791,7 @@
     "uniqueEntryId": "ZR9dsEApEXCjtXu3k",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02222",
+      "id": 2222,
       "version": "1.0.0",
       "english": "killifish",
       "englishEurope": "killifish",
@@ -5911,8 +5807,7 @@
       "japanese": "メダカ",
       "korean": "송사리",
       "russian": "оризия",
-      "plural": false,
-      "internalIds": [ 2222 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -5960,7 +5855,7 @@
     "uniqueEntryId": "Pf5cXKo8pzdB45rAA",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02243",
+      "id": 2243,
       "version": "1.0.0",
       "english": "king salmon",
       "englishEurope": "king salmon",
@@ -5976,8 +5871,7 @@
       "japanese": "キングサーモン",
       "korean": "왕연어",
       "russian": "чавыча",
-      "plural": false,
-      "internalIds": [ 2243 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6025,7 +5919,7 @@
     "uniqueEntryId": "kNwjLeqjg8bFevfiG",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02220",
+      "id": 2220,
       "version": "1.0.0",
       "english": "koi",
       "englishEurope": "koi",
@@ -6041,8 +5935,7 @@
       "japanese": "ニシキゴイ",
       "korean": "비단잉어",
       "russian": "карп кои",
-      "plural": false,
-      "internalIds": [ 2220 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6087,7 +5980,7 @@
     "uniqueEntryId": "pYSSbvXzkuFneRvQ7",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00647",
+      "id": 647,
       "version": "1.0.0",
       "english": "ladybug",
       "englishEurope": "ladybug",
@@ -6103,8 +5996,7 @@
       "japanese": "テントウムシ",
       "korean": "무당벌레",
       "russian": "божья коровка",
-      "plural": false,
-      "internalIds": [ 647 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6153,7 +6045,7 @@
     "uniqueEntryId": "95yBKrQ4tdyWj4H25",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02228",
+      "id": 2228,
       "version": "1.0.0",
       "english": "loach",
       "englishEurope": "loach",
@@ -6169,8 +6061,7 @@
       "japanese": "ドジョウ",
       "korean": "미꾸라지",
       "russian": "вьюн",
-      "plural": false,
-      "internalIds": [ 2228 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6214,12 +6105,11 @@
     "furnitureFilename": "FtrDiveFishLobster",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2849,
     "uniqueEntryId": "5DadWMEddJREFyXKo",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02849",
+      "id": 2849,
       "version": "1.3.0",
       "english": "lobster",
       "englishEurope": "lobster",
@@ -6235,8 +6125,7 @@
       "japanese": "ロブスター",
       "korean": "바닷가재",
       "russian": "омар",
-      "plural": false,
-      "internalIds": [ 2849 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6281,7 +6170,7 @@
     "uniqueEntryId": "Q57sgq4hQTNZAqWXj",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00644",
+      "id": 644,
       "version": "1.0.0",
       "english": "long locust",
       "englishEurope": "long locust",
@@ -6297,8 +6186,7 @@
       "japanese": "ショウリョウバッタ",
       "korean": "방아깨비",
       "russian": "акрида",
-      "plural": false,
-      "internalIds": [ 644 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6346,7 +6234,7 @@
     "uniqueEntryId": "D7gY39QDo8BBNs2Ne",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04202",
+      "id": 4202,
       "version": "1.0.0",
       "english": "mahi-mahi",
       "englishEurope": "mahi-mahi",
@@ -6362,8 +6250,7 @@
       "japanese": "シイラ",
       "korean": "만새기",
       "russian": "корифена",
-      "plural": false,
-      "internalIds": [ 4202 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6408,7 +6295,7 @@
     "uniqueEntryId": "zvr84Jvf4s6K23XJ5",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03483",
+      "id": 3483,
       "version": "1.0.0",
       "english": "man-faced stink bug",
       "englishEurope": "man-faced stink bug",
@@ -6424,8 +6311,7 @@
       "japanese": "ジンメンカメムシ",
       "korean": "인면노린재",
       "russian": "щитник с лицом",
-      "plural": false,
-      "internalIds": [ 3483 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6470,7 +6356,7 @@
     "uniqueEntryId": "Qko2mfz7SaESpMcCv",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00607",
+      "id": 607,
       "version": "1.0.0",
       "english": "mantis",
       "englishEurope": "mantis",
@@ -6486,8 +6372,7 @@
       "japanese": "カマキリ",
       "korean": "사마귀",
       "russian": "богомол",
-      "plural": false,
-      "internalIds": [ 607 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6531,12 +6416,11 @@
     "furnitureFilename": "FtrDiveFishShako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2845,
     "uniqueEntryId": "WvZWyzkotj6WQ3tLy",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02845",
+      "id": 2845,
       "version": "1.3.0",
       "english": "mantis shrimp",
       "englishEurope": "mantis shrimp",
@@ -6552,8 +6436,7 @@
       "japanese": "シャコ",
       "korean": "갯가재",
       "russian": "рак-богомол",
-      "plural": false,
-      "internalIds": [ 2845 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6598,7 +6481,7 @@
     "uniqueEntryId": "dkGagcjd7aZwFEszw",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00648",
+      "id": 648,
       "version": "1.0.0",
       "english": "migratory locust",
       "englishEurope": "migratory locust",
@@ -6614,8 +6497,7 @@
       "japanese": "トノサマバッタ",
       "korean": "섬풀무치",
       "russian": "перелетная саранча",
-      "plural": false,
-      "internalIds": [ 648 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6663,7 +6545,7 @@
     "uniqueEntryId": "s2jqSYbMWBX6qCLDm",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02244",
+      "id": 2244,
       "version": "1.0.0",
       "english": "mitten crab",
       "englishEurope": "mitten crab",
@@ -6679,8 +6561,7 @@
       "japanese": "シャンハイガニ",
       "korean": "참게",
       "russian": "мохнорукий краб",
-      "plural": false,
-      "internalIds": [ 2244 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6725,7 +6606,7 @@
     "uniqueEntryId": "qRGGm6MfuP4Aqdk3M",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00624",
+      "id": 624,
       "version": "1.0.0",
       "english": "miyama stag",
       "englishEurope": "miyama stag",
@@ -6741,8 +6622,7 @@
       "japanese": "ミヤマクワガタ",
       "korean": "사슴벌레",
       "russian": "горный жук-олень",
-      "plural": false,
-      "internalIds": [ 624 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6787,7 +6667,7 @@
     "uniqueEntryId": "HMWPGeeKw9LP6ucSq",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00634",
+      "id": 634,
       "version": "1.0.0",
       "english": "mole cricket",
       "englishEurope": "mole cricket",
@@ -6803,8 +6683,7 @@
       "japanese": "オケラ",
       "korean": "땅강아지",
       "russian": "медведка",
-      "plural": false,
-      "internalIds": [ 634 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6849,7 +6728,7 @@
     "uniqueEntryId": "BJPKSZMZ2tkLXkWjL",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00636",
+      "id": 636,
       "version": "1.0.0",
       "english": "monarch butterfly",
       "englishEurope": "monarch butterfly",
@@ -6865,8 +6744,7 @@
       "japanese": "オオカバマダラ",
       "korean": "왕나비",
       "russian": "монарх",
-      "plural": false,
-      "internalIds": [ 636 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6910,12 +6788,11 @@
     "furnitureFilename": "FtrDiveFishMizukurage",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7245,
     "uniqueEntryId": "iugx8EqNWqiwv73C7",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07245",
+      "id": 7245,
       "version": "1.3.0",
       "english": "moon jellyfish",
       "englishEurope": "moon jellyfish",
@@ -6931,8 +6808,7 @@
       "japanese": "ミズクラゲ",
       "korean": "보름달물해파리",
       "russian": "ушастая аурелия",
-      "plural": false,
-      "internalIds": [ 7245 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -6980,7 +6856,7 @@
     "uniqueEntryId": "4nLynLTMRtoqcCfh4",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02271",
+      "id": 2271,
       "version": "1.0.0",
       "english": "moray eel",
       "englishEurope": "moray eel",
@@ -6996,8 +6872,7 @@
       "japanese": "ウツボ",
       "korean": "곰치",
       "russian": "мурена",
-      "plural": false,
-      "internalIds": [ 2271 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7042,7 +6917,7 @@
     "uniqueEntryId": "3mMZ74qpWWnoizJHh",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00606",
+      "id": 606,
       "version": "1.0.0",
       "english": "mosquito",
       "englishEurope": "mosquito",
@@ -7058,8 +6933,7 @@
       "japanese": "カ",
       "korean": "모기",
       "russian": "комар",
-      "plural": false,
-      "internalIds": [ 606 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7104,7 +6978,7 @@
     "uniqueEntryId": "7Kd97rqbYBuzuCHgf",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00592",
+      "id": 592,
       "version": "1.0.0",
       "english": "moth",
       "englishEurope": "moth",
@@ -7120,8 +6994,7 @@
       "japanese": "ガ",
       "korean": "나방",
       "russian": "павлиноглазка",
-      "plural": false,
-      "internalIds": [ 592 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7165,12 +7038,11 @@
     "furnitureFilename": "FtrDiveFishMuhrugai",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7411,
     "uniqueEntryId": "M784h47XqSbBSthgT",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07411",
+      "id": 7411,
       "version": "1.3.0",
       "english": "mussel",
       "englishEurope": "mussel",
@@ -7186,8 +7058,7 @@
       "japanese": "ムールガイ",
       "korean": "지중해담치",
       "russian": "мидия",
-      "plural": false,
-      "internalIds": [ 7411 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7235,7 +7106,7 @@
     "uniqueEntryId": "aEyRb96wcz9m8yjFN",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02248",
+      "id": 2248,
       "version": "1.0.0",
       "english": "neon tetra",
       "englishEurope": "neon tetra",
@@ -7251,8 +7122,7 @@
       "japanese": "ネオンテトラ",
       "korean": "네온테트라",
       "russian": "голубой неон",
-      "plural": false,
-      "internalIds": [ 2248 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7300,7 +7170,7 @@
     "uniqueEntryId": "pkPKYsMiXsTWNz4L4",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02246",
+      "id": 2246,
       "version": "1.0.0",
       "english": "nibble fish",
       "englishEurope": "nibble fish",
@@ -7316,8 +7186,7 @@
       "japanese": "ドクターフィッシュ",
       "korean": "닥터피시",
       "russian": "рыба-доктор",
-      "plural": false,
-      "internalIds": [ 2246 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7365,7 +7234,7 @@
     "uniqueEntryId": "qgvEPGk759xaBqwXP",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02283",
+      "id": 2283,
       "version": "1.0.0",
       "english": "oarfish",
       "englishEurope": "oarfish",
@@ -7381,8 +7250,7 @@
       "japanese": "リュウグウノツカイ",
       "korean": "산갈치",
       "russian": "сельдяной король",
-      "plural": false,
-      "internalIds": [ 2283 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7430,7 +7298,7 @@
     "uniqueEntryId": "6BwK6LHbjFAKzgE82",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02278",
+      "id": 2278,
       "version": "1.0.0",
       "english": "ocean sunfish",
       "englishEurope": "ocean sunfish",
@@ -7446,8 +7314,7 @@
       "japanese": "マンボウ",
       "korean": "개복치",
       "russian": "луна-рыба",
-      "plural": false,
-      "internalIds": [ 2278 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7491,12 +7358,11 @@
     "furnitureFilename": "FtrDiveFishTako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2854,
     "uniqueEntryId": "f7amqwd7b3fHnvPFA",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02854",
+      "id": 2854,
       "version": "1.3.0",
       "english": "octopus",
       "englishEurope": "octopus",
@@ -7512,8 +7378,7 @@
       "japanese": "タコ",
       "korean": "문어",
       "russian": "осьминог",
-      "plural": false,
-      "internalIds": [ 2854 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7561,7 +7426,7 @@
     "uniqueEntryId": "TXSteKMHuQ9ZfqPXm",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02269",
+      "id": 2269,
       "version": "1.0.0",
       "english": "olive flounder",
       "englishEurope": "olive flounder",
@@ -7577,8 +7442,7 @@
       "japanese": "ヒラメ",
       "korean": "넙치",
       "russian": "ложный палтус",
-      "plural": false,
-      "internalIds": [ 2269 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7623,7 +7487,7 @@
     "uniqueEntryId": "9b4v6nMrrThHEtNbB",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00598",
+      "id": 598,
       "version": "1.0.0",
       "english": "orchid mantis",
       "englishEurope": "orchid mantis",
@@ -7639,8 +7503,7 @@
       "japanese": "ハナカマキリ",
       "korean": "연꽃사마귀",
       "russian": "орхидейный богомол",
-      "plural": false,
-      "internalIds": [ 598 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7684,12 +7547,11 @@
     "furnitureFilename": "FtrDiveFishKaki",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2833,
     "uniqueEntryId": "aacYapCp5wKdQDCmB",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02833",
+      "id": 2833,
       "version": "1.3.0",
       "english": "oyster",
       "englishEurope": "oyster",
@@ -7705,8 +7567,7 @@
       "japanese": "オイスター",
       "korean": "굴",
       "russian": "устрица",
-      "plural": false,
-      "internalIds": [ 2833 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7754,7 +7615,7 @@
     "uniqueEntryId": "pCn9TLap3rWiLYfnF",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02216",
+      "id": 2216,
       "version": "1.0.0",
       "english": "pale chub",
       "englishEurope": "pale chub",
@@ -7770,8 +7631,7 @@
       "japanese": "オイカワ",
       "korean": "피라미",
       "russian": "светлый закко",
-      "plural": false,
-      "internalIds": [ 2216 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7816,7 +7676,7 @@
     "uniqueEntryId": "hzwridDJE99rPHLrZ",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03478",
+      "id": 3478,
       "version": "1.0.0",
       "english": "paper kite butterfly",
       "englishEurope": "paper kite butterfly",
@@ -7832,8 +7692,7 @@
       "japanese": "オオゴマダラ",
       "korean": "왕얼룩나비",
       "russian": "идея левконоя",
-      "plural": false,
-      "internalIds": [ 3478 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7878,7 +7737,7 @@
     "uniqueEntryId": "rguKzmnRkGmBMKzyE",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00610",
+      "id": 610,
       "version": "1.0.0",
       "english": "peacock butterfly",
       "englishEurope": "peacock butterfly",
@@ -7894,8 +7753,7 @@
       "japanese": "カラスアゲハ",
       "korean": "제비나비",
       "russian": "бианор",
-      "plural": false,
-      "internalIds": [ 610 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -7939,12 +7797,11 @@
     "furnitureFilename": "FtrDiveFishAkoyagai",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2838,
     "uniqueEntryId": "Hr2jZ9XybS3jYFw8H",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02838",
+      "id": 2838,
       "version": "1.3.0",
       "english": "pearl oyster",
       "englishEurope": "pearl oyster",
@@ -7960,8 +7817,7 @@
       "japanese": "アコヤガイ",
       "korean": "진주조개",
       "russian": "жемчужница",
-      "plural": false,
-      "internalIds": [ 2838 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8009,7 +7865,7 @@
     "uniqueEntryId": "XxrB6iKQPhBkYKaXD",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02235",
+      "id": 2235,
       "version": "1.0.0",
       "english": "pike",
       "englishEurope": "pike",
@@ -8025,8 +7881,7 @@
       "japanese": "パイク",
       "korean": "강꼬치고기",
       "russian": "щука",
-      "plural": false,
-      "internalIds": [ 2235 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8071,7 +7926,7 @@
     "uniqueEntryId": "SGHXhcTzaNJD2z926",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00590",
+      "id": 590,
       "version": "1.0.0",
       "english": "pill bug",
       "englishEurope": "pill bug",
@@ -8087,8 +7942,7 @@
       "japanese": "ダンゴムシ",
       "korean": "공벌레",
       "russian": "мокрица",
-      "plural": false,
-      "internalIds": [ 590 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8136,7 +7990,7 @@
     "uniqueEntryId": "5C59HAFxmwNSjH4Zq",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02249",
+      "id": 2249,
       "version": "1.0.0",
       "english": "piranha",
       "englishEurope": "piranha",
@@ -8152,8 +8006,7 @@
       "japanese": "ピラニア",
       "korean": "피라니아",
       "russian": "пиранья",
-      "plural": false,
-      "internalIds": [ 2249 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8201,7 +8054,7 @@
     "uniqueEntryId": "DDb2GPEjapPmbYbWG",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02236",
+      "id": 2236,
       "version": "1.0.0",
       "english": "pond smelt",
       "englishEurope": "pond smelt",
@@ -8217,8 +8070,7 @@
       "japanese": "ワカサギ",
       "korean": "빙어",
       "russian": "малая корюшка",
-      "plural": false,
-      "internalIds": [ 2236 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8263,7 +8115,7 @@
     "uniqueEntryId": "eSBNwiuZforpxNYem",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00587",
+      "id": 587,
       "version": "1.0.0",
       "english": "pondskater",
       "englishEurope": "pondskater",
@@ -8279,8 +8131,7 @@
       "japanese": "アメンボ",
       "korean": "소금쟁이",
       "russian": "водомерка",
-      "plural": false,
-      "internalIds": [ 587 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8328,7 +8179,7 @@
     "uniqueEntryId": "RvqzuA438gGqRJ7NG",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02221",
+      "id": 2221,
       "version": "1.0.0",
       "english": "pop-eyed goldfish",
       "englishEurope": "pop-eyed goldfish",
@@ -8344,8 +8195,7 @@
       "japanese": "デメキン",
       "korean": "툭눈금붕어",
       "russian": "телескоп",
-      "plural": false,
-      "internalIds": [ 2221 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8393,7 +8243,7 @@
     "uniqueEntryId": "jNkgaybfSsv8MkaQ2",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02263",
+      "id": 2263,
       "version": "1.0.0",
       "english": "puffer fish",
       "englishEurope": "puffer fish",
@@ -8409,8 +8259,7 @@
       "japanese": "ハリセンボン",
       "korean": "가시복",
       "russian": "еж-рыба",
-      "plural": false,
-      "internalIds": [ 2263 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8455,7 +8304,7 @@
     "uniqueEntryId": "Egfv6BDtFMeGZPmfh",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00631",
+      "id": 631,
       "version": "1.0.0",
       "english": "rainbow stag",
       "englishEurope": "rainbow stag",
@@ -8471,8 +8320,7 @@
       "japanese": "ニジイロクワガタ",
       "korean": "뮤엘러리사슴벌레",
       "russian": "радужный жук-олень",
-      "plural": false,
-      "internalIds": [ 631 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8520,7 +8368,7 @@
     "uniqueEntryId": "XJfkdS4C2MPYiscST",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04194",
+      "id": 4194,
       "version": "1.0.0",
       "english": "rainbowfish",
       "englishEurope": "rainbowfish",
@@ -8536,8 +8384,7 @@
       "japanese": "レインボーフィッシュ",
       "korean": "레인보우피시",
       "russian": "радужница",
-      "plural": false,
-      "internalIds": [ 4194 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8585,7 +8432,7 @@
     "uniqueEntryId": "4NE2SteWKEaBYjgWb",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_05254",
+      "id": 5254,
       "version": "1.0.0",
       "english": "ranchu goldfish",
       "englishEurope": "ranchu goldfish",
@@ -8601,8 +8448,7 @@
       "japanese": "ランチュウ",
       "korean": "난주",
       "russian": "ранчу",
-      "plural": false,
-      "internalIds": [ 5254 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8650,7 +8496,7 @@
     "uniqueEntryId": "gP5F7wWFvFqiZzuGw",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02277",
+      "id": 2277,
       "version": "1.0.0",
       "english": "ray",
       "englishEurope": "ray",
@@ -8666,8 +8512,7 @@
       "japanese": "エイ",
       "korean": "가오리",
       "russian": "красный хвостокол",
-      "plural": false,
-      "internalIds": [ 2277 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8712,7 +8557,7 @@
     "uniqueEntryId": "PKSHvkPphXteXHKuG",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00585",
+      "id": 585,
       "version": "1.0.0",
       "english": "red dragonfly",
       "englishEurope": "red dragonfly",
@@ -8728,8 +8573,7 @@
       "japanese": "アキアカネ",
       "korean": "고추잠자리",
       "russian": "красная стрекоза",
-      "plural": false,
-      "internalIds": [ 585 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8773,12 +8617,11 @@
     "furnitureFilename": "FtrDiveFishTarabagani",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2852,
     "uniqueEntryId": "F3XTwHJQcfdrJk4vk",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02852",
+      "id": 2852,
       "version": "1.3.0",
       "english": "red king crab",
       "englishEurope": "red king crab",
@@ -8794,8 +8637,7 @@
       "japanese": "タラバガニ",
       "korean": "왕게",
       "russian": "камчатский краб",
-      "plural": false,
-      "internalIds": [ 2852 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8843,7 +8685,7 @@
     "uniqueEntryId": "iY4zfgojAfLskW4CQ",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02267",
+      "id": 2267,
       "version": "1.0.0",
       "english": "red snapper",
       "englishEurope": "red snapper",
@@ -8859,8 +8701,7 @@
       "japanese": "タイ",
       "korean": "도미",
       "russian": "красный луциан",
-      "plural": false,
-      "internalIds": [ 2267 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8908,7 +8749,7 @@
     "uniqueEntryId": "T9zeSBHpB5qyAZTxu",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02272",
+      "id": 2272,
       "version": "1.0.0",
       "english": "ribbon eel",
       "englishEurope": "ribbon eel",
@@ -8924,8 +8765,7 @@
       "japanese": "ハナヒゲウツボ",
       "korean": "리본장어",
       "russian": "носатая мурена",
-      "plural": false,
-      "internalIds": [ 2272 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -8970,7 +8810,7 @@
     "uniqueEntryId": "ZxXDxrgPvXEHz24Ni",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00605",
+      "id": 605,
       "version": "1.0.0",
       "english": "rice grasshopper",
       "englishEurope": "rice grasshopper",
@@ -8986,8 +8826,7 @@
       "japanese": "イナゴ",
       "korean": "메뚜기",
       "russian": "рисовая кобылка",
-      "plural": false,
-      "internalIds": [ 605 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9035,7 +8874,7 @@
     "uniqueEntryId": "cd5ymnRmRvT4n4yjB",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00621",
+      "id": 621,
       "version": "1.0.0",
       "english": "robust cicada",
       "englishEurope": "robust cicada",
@@ -9051,8 +8890,7 @@
       "japanese": "ミンミンゼミ",
       "korean": "참매미",
       "russian": "певчая цикада",
-      "plural": false,
-      "internalIds": [ 621 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9097,7 +8935,7 @@
     "uniqueEntryId": "MSTA9vdJmGoDDADrF",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_03487",
+      "id": 3487,
       "version": "1.0.0",
       "english": "rosalia batesi beetle",
       "englishEurope": "rosalia batesi beetle",
@@ -9113,8 +8951,7 @@
       "japanese": "ルリボシカミキリ",
       "korean": "루리하늘소",
       "russian": "розалия",
-      "plural": false,
-      "internalIds": [ 3487 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9162,7 +8999,7 @@
     "uniqueEntryId": "bcTmnwZxrw2iJsQmf",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02254",
+      "id": 2254,
       "version": "1.0.0",
       "english": "saddled bichir",
       "englishEurope": "saddled bichir",
@@ -9178,8 +9015,7 @@
       "japanese": "エンドリケリー",
       "korean": "엔드리케리",
       "russian": "многопер Эндлихера",
-      "plural": false,
-      "internalIds": [ 2254 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9227,7 +9063,7 @@
     "uniqueEntryId": "iwXhnZcSezNxqdNQf",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02242",
+      "id": 2242,
       "version": "1.0.0",
       "english": "salmon",
       "englishEurope": "salmon",
@@ -9243,8 +9079,7 @@
       "japanese": "サケ",
       "korean": "연어",
       "russian": "лосось",
-      "plural": false,
-      "internalIds": [ 2242 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9292,7 +9127,7 @@
     "uniqueEntryId": "tsrT7a8cbtwZrmJTz",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02281",
+      "id": 2281,
       "version": "1.0.0",
       "english": "saw shark",
       "englishEurope": "saw shark",
@@ -9308,8 +9143,7 @@
       "japanese": "ノコギリザメ",
       "korean": "톱상어",
       "russian": "акула-пилонос",
-      "plural": false,
-      "internalIds": [ 2281 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9354,7 +9188,7 @@
     "uniqueEntryId": "YQq3iSiBcBAHTWxc2",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00632",
+      "id": 632,
       "version": "1.0.0",
       "english": "saw stag",
       "englishEurope": "saw stag",
@@ -9370,8 +9204,7 @@
       "japanese": "ノコギリクワガタ",
       "korean": "톱사슴벌레",
       "russian": "жук-олень",
-      "plural": false,
-      "internalIds": [ 632 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9415,12 +9248,11 @@
     "furnitureFilename": "FtrDiveFishHotate",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2839,
     "uniqueEntryId": "fMwWEu3Zwy6tZdX2X",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02839",
+      "id": 2839,
       "version": "1.3.0",
       "english": "scallop",
       "englishEurope": "scallop",
@@ -9436,8 +9268,7 @@
       "japanese": "ホタテ",
       "korean": "가리비",
       "russian": "гребешок",
-      "plural": false,
-      "internalIds": [ 2839 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9482,7 +9313,7 @@
     "uniqueEntryId": "2HXdFD8s6BmYYMf4u",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00639",
+      "id": 639,
       "version": "1.0.0",
       "english": "scarab beetle",
       "englishEurope": "scarab beetle",
@@ -9498,8 +9329,7 @@
       "japanese": "プラチナコガネ",
       "korean": "보석풍뎅이",
       "russian": "золотой скарабей",
-      "plural": false,
-      "internalIds": [ 639 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9544,7 +9374,7 @@
     "uniqueEntryId": "xMzHsHbjvvicZvYxg",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00640",
+      "id": 640,
       "version": "1.0.0",
       "english": "scorpion",
       "englishEurope": "scorpion",
@@ -9560,8 +9390,7 @@
       "japanese": "サソリ",
       "korean": "전갈",
       "russian": "скорпион",
-      "plural": false,
-      "internalIds": [ 640 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9605,12 +9434,11 @@
     "furnitureFilename": "FtrDiveFishIsogintyaku",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2840,
     "uniqueEntryId": "fre7kn6ALvnpnH8yC",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02840",
+      "id": 2840,
       "version": "1.3.0",
       "english": "sea anemone",
       "englishEurope": "sea anemone",
@@ -9626,8 +9454,7 @@
       "japanese": "イソギンチャク",
       "korean": "말미잘",
       "russian": "актиния",
-      "plural": false,
-      "internalIds": [ 2840 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9675,7 +9502,7 @@
     "uniqueEntryId": "LkA5hzibm6uiHDB9g",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02266",
+      "id": 2266,
       "version": "1.0.0",
       "english": "sea bass",
       "englishEurope": "sea bass",
@@ -9691,8 +9518,7 @@
       "japanese": "スズキ",
       "korean": "농어",
       "russian": "морской судак",
-      "plural": false,
-      "internalIds": [ 2266 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9740,7 +9566,7 @@
     "uniqueEntryId": "kd5beizyQGeyjeM79",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02255",
+      "id": 2255,
       "version": "1.0.0",
       "english": "sea butterfly",
       "englishEurope": "sea butterfly",
@@ -9756,8 +9582,7 @@
       "japanese": "クリオネ",
       "korean": "클리오네",
       "russian": "морской ангел",
-      "plural": false,
-      "internalIds": [ 2255 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9801,12 +9626,11 @@
     "furnitureFilename": "FtrDiveFishNamako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2842,
     "uniqueEntryId": "2jxxcGooLMwyyiNQc",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02842",
+      "id": 2842,
       "version": "1.3.0",
       "english": "sea cucumber",
       "englishEurope": "sea cucumber",
@@ -9822,8 +9646,7 @@
       "japanese": "ナマコ",
       "korean": "해삼",
       "russian": "морской огурец",
-      "plural": false,
-      "internalIds": [ 2842 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9867,12 +9690,11 @@
     "furnitureFilename": "FtrDiveFishUmibudou",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2830,
     "uniqueEntryId": "eBdtw3eCrMuP9LWyn",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02830",
+      "id": 2830,
       "version": "1.3.0",
       "english": "sea grapes",
       "englishEurope": "sea grapes",
@@ -9888,8 +9710,7 @@
       "japanese": "ウミブドウ",
       "korean": "바다포도",
       "russian": "морской виноград",
-      "plural": false,
-      "internalIds": [ 2830 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9937,7 +9758,7 @@
     "uniqueEntryId": "Pw5oZqC29NWEGRfyS",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02256",
+      "id": 2256,
       "version": "1.0.0",
       "english": "sea horse",
       "englishEurope": "sea horse",
@@ -9953,8 +9774,7 @@
       "japanese": "タツノオトシゴ",
       "korean": "해마",
       "russian": "морской конек",
-      "plural": false,
-      "internalIds": [ 2256 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -9998,12 +9818,11 @@
     "furnitureFilename": "FtrDiveFishSenjunamako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7303,
     "uniqueEntryId": "kxxguvYvS4G3o7E5x",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07303",
+      "id": 7303,
       "version": "1.3.0",
       "english": "sea pig",
       "englishEurope": "sea pig",
@@ -10019,8 +9838,7 @@
       "japanese": "センジュナマコ",
       "korean": "바다돼지",
       "russian": "скотопланес",
-      "plural": false,
-      "internalIds": [ 7303 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10064,12 +9882,11 @@
     "furnitureFilename": "FtrDiveFishHoya",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7228,
     "uniqueEntryId": "e29uLe7tkErhipLfS",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07228",
+      "id": 7228,
       "version": "1.3.0",
       "english": "sea pineapple",
       "englishEurope": "sea pineapple",
@@ -10085,8 +9902,7 @@
       "japanese": "ホヤ",
       "korean": "멍게",
       "russian": "морской ананас",
-      "plural": false,
-      "internalIds": [ 7228 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10130,12 +9946,11 @@
     "furnitureFilename": "FtrDiveFishUmiushi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2843,
     "uniqueEntryId": "3YjdEG93fagcXpiuf",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02843",
+      "id": 2843,
       "version": "1.3.0",
       "english": "sea slug",
       "englishEurope": "sea slug",
@@ -10151,8 +9966,7 @@
       "japanese": "ウミウシ",
       "korean": "갯민숭달팽이",
       "russian": "голожаберник",
-      "plural": false,
-      "internalIds": [ 2843 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10196,12 +10010,11 @@
     "furnitureFilename": "FtrDiveFishHitode",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2841,
     "uniqueEntryId": "vAF9BcZt5q8gBQJmj",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02841",
+      "id": 2841,
       "version": "1.3.0",
       "english": "sea star",
       "englishEurope": "sea star",
@@ -10217,8 +10030,7 @@
       "japanese": "ヒトデ",
       "korean": "불가사리",
       "russian": "морская звезда",
-      "plural": false,
-      "internalIds": [ 2841 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10262,12 +10074,11 @@
     "furnitureFilename": "FtrDiveFishUni",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2831,
     "uniqueEntryId": "3emjFCipv2bgQ6HaM",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02831",
+      "id": 2831,
       "version": "1.3.0",
       "english": "sea urchin",
       "englishEurope": "sea urchin",
@@ -10283,8 +10094,7 @@
       "japanese": "ウニ",
       "korean": "성게",
       "russian": "морской еж",
-      "plural": false,
-      "internalIds": [ 2831 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10328,12 +10138,11 @@
     "furnitureFilename": "FtrDiveFishWakame",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2620,
     "uniqueEntryId": "KM4dfXCZ6CvZjEyw9",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02620",
+      "id": 2620,
       "version": "1.3.0",
       "english": "seaweed",
       "englishEurope": "seaweed",
@@ -10349,8 +10158,7 @@
       "japanese": "ワカメ",
       "korean": "미역",
       "russian": "морские водоросли",
-      "plural": false,
-      "internalIds": [ 2620 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10394,12 +10202,11 @@
     "furnitureFilename": "FtrDiveFishPaipuuni",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7267,
     "uniqueEntryId": "TMftNBRmEGkvhpfnC",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07267",
+      "id": 7267,
       "version": "1.3.0",
       "english": "slate pencil urchin",
       "englishEurope": "slate pencil urchin",
@@ -10415,8 +10222,7 @@
       "japanese": "パイプウニ",
       "korean": "연필성게",
       "russian": "грифельный морск. еж",
-      "plural": false,
-      "internalIds": [ 7267 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10461,7 +10267,7 @@
     "uniqueEntryId": "rDNLeQnmJQGxsHpmL",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00611",
+      "id": 611,
       "version": "1.0.0",
       "english": "snail",
       "englishEurope": "snail",
@@ -10477,8 +10283,7 @@
       "japanese": "カタツムリ",
       "korean": "달팽이",
       "russian": "улитка",
-      "plural": false,
-      "internalIds": [ 611 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10526,7 +10331,7 @@
     "uniqueEntryId": "SJa3LLde3Yuz4H3D7",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04192",
+      "id": 4192,
       "version": "1.0.0",
       "english": "snapping turtle",
       "englishEurope": "snapping turtle",
@@ -10542,8 +10347,7 @@
       "japanese": "カミツキガメ",
       "korean": "늑대거북",
       "russian": "каймановая черепаха",
-      "plural": false,
-      "internalIds": [ 4192 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10587,12 +10391,11 @@
     "furnitureFilename": "FtrDiveFishZuwaigani",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2850,
     "uniqueEntryId": "bQNma5vbcs7wWRqY7",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02850",
+      "id": 2850,
       "version": "1.3.0",
       "english": "snow crab",
       "englishEurope": "snow crab",
@@ -10608,8 +10411,7 @@
       "japanese": "ズワイガニ",
       "korean": "대게",
       "russian": "краб-стригун",
-      "plural": false,
-      "internalIds": [ 2850 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10660,7 +10462,7 @@
     "uniqueEntryId": "izuY2f4GtEGT3BtuR",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02224",
+      "id": 2224,
       "version": "1.0.0",
       "english": "soft-shelled turtle",
       "englishEurope": "soft-shelled turtle",
@@ -10676,8 +10478,7 @@
       "japanese": "スッポン",
       "korean": "자라",
       "russian": "трионикс",
-      "plural": false,
-      "internalIds": [ 2224 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10722,7 +10523,7 @@
     "uniqueEntryId": "s2u8kDoMQx7GbAJTR",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00619",
+      "id": 619,
       "version": "1.0.0",
       "english": "spider",
       "englishEurope": "spider",
@@ -10738,8 +10539,7 @@
       "japanese": "クモ",
       "korean": "거미",
       "russian": "паук",
-      "plural": false,
-      "internalIds": [ 619 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10783,12 +10583,11 @@
     "furnitureFilename": "FtrDiveFishTakaashigani",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2853,
     "uniqueEntryId": "gp2XNvGKNGmR6buT3",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02853",
+      "id": 2853,
       "version": "1.3.0",
       "english": "spider crab",
       "englishEurope": "spider crab",
@@ -10804,8 +10603,7 @@
       "japanese": "タカアシガニ",
       "korean": "키다리게",
       "russian": "краб-паук",
-      "plural": false,
-      "internalIds": [ 2853 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10849,12 +10647,11 @@
     "furnitureFilename": "FtrDiveFishIseebi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2848,
     "uniqueEntryId": "9n5iphC8vQe6Rar72",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02848",
+      "id": 2848,
       "version": "1.3.0",
       "english": "spiny lobster",
       "englishEurope": "spiny lobster",
@@ -10870,8 +10667,7 @@
       "japanese": "イセエビ",
       "korean": "닭새우",
       "russian": "колючий лангуст",
-      "plural": false,
-      "internalIds": [ 2848 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10915,12 +10711,11 @@
     "furnitureFilename": "FtrDiveFishChinanago",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2855,
     "uniqueEntryId": "zYEHNF5Svak8ZARMW",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02855",
+      "id": 2855,
       "version": "1.3.0",
       "english": "spotted garden eel",
       "englishEurope": "spotted garden eel",
@@ -10936,8 +10731,7 @@
       "japanese": "チンアナゴ",
       "korean": "가든일",
       "russian": "леопардовый угорь",
-      "plural": false,
-      "internalIds": [ 2855 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -10989,7 +10783,7 @@
     "uniqueEntryId": "qxHJ6BGgyQujkC28w",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02270",
+      "id": 2270,
       "version": "1.0.0",
       "english": "squid",
       "englishEurope": "squid",
@@ -11005,8 +10799,7 @@
       "japanese": "イカ",
       "korean": "오징어",
       "russian": "кальмар",
-      "plural": false,
-      "internalIds": [ 2270 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11051,7 +10844,7 @@
     "uniqueEntryId": "4u5GZ4z3CyaHhMgqj",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00608",
+      "id": 608,
       "version": "1.0.0",
       "english": "stinkbug",
       "englishEurope": "stinkbug",
@@ -11067,8 +10860,7 @@
       "japanese": "カメムシ",
       "korean": "노린재",
       "russian": "щитник",
-      "plural": false,
-      "internalIds": [ 608 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11116,7 +10908,7 @@
     "uniqueEntryId": "APXg8kSzjcmoGGWSP",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02241",
+      "id": 2241,
       "version": "1.0.0",
       "english": "stringfish",
       "englishEurope": "stringfish",
@@ -11132,8 +10924,7 @@
       "japanese": "イトウ",
       "korean": "일본연어",
       "russian": "таймень",
-      "plural": false,
-      "internalIds": [ 2241 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11181,7 +10972,7 @@
     "uniqueEntryId": "XabKYtzYDNSNrFvpw",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04189",
+      "id": 4189,
       "version": "1.0.0",
       "english": "sturgeon",
       "englishEurope": "sturgeon",
@@ -11197,8 +10988,7 @@
       "japanese": "チョウザメ",
       "korean": "철갑상어",
       "russian": "осетр",
-      "plural": false,
-      "internalIds": [ 4189 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11246,7 +11036,7 @@
     "uniqueEntryId": "FPpwmMDn9rYAJazyS",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04203",
+      "id": 4203,
       "version": "1.0.0",
       "english": "suckerfish",
       "englishEurope": "suckerfish",
@@ -11262,8 +11052,7 @@
       "japanese": "コバンザメ",
       "korean": "빨판상어",
       "russian": "прилипала",
-      "plural": false,
-      "internalIds": [ 4203 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11311,7 +11100,7 @@
     "uniqueEntryId": "s7iioofF5C7PzCZyF",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02258",
+      "id": 2258,
       "version": "1.0.0",
       "english": "surgeonfish",
       "englishEurope": "surgeonfish",
@@ -11327,8 +11116,7 @@
       "japanese": "ナンヨウハギ",
       "korean": "블루탱",
       "russian": "флаговый хирург",
-      "plural": false,
-      "internalIds": [ 2258 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11372,12 +11160,11 @@
     "furnitureFilename": "FtrDiveFishAmaebi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2846,
     "uniqueEntryId": "5v5X2ipAYLaALxMsw",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02846",
+      "id": 2846,
       "version": "1.3.0",
       "english": "sweet shrimp",
       "englishEurope": "sweet shrimp",
@@ -11393,8 +11180,7 @@
       "japanese": "アマエビ",
       "korean": "북쪽분홍새우",
       "russian": "северная креветка",
-      "plural": false,
-      "internalIds": [ 2846 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11442,7 +11228,7 @@
     "uniqueEntryId": "dWgg2bjCicuiZjXW6",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02237",
+      "id": 2237,
       "version": "1.0.0",
       "english": "sweetfish",
       "englishEurope": "sweetfish",
@@ -11458,8 +11244,7 @@
       "japanese": "アユ",
       "korean": "은어",
       "russian": "айю",
-      "plural": false,
-      "internalIds": [ 2237 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11507,7 +11292,7 @@
     "uniqueEntryId": "rb8MsjWopKYWuQK8s",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02225",
+      "id": 2225,
       "version": "1.0.0",
       "english": "tadpole",
       "englishEurope": "tadpole",
@@ -11523,8 +11308,7 @@
       "japanese": "オタマジャクシ",
       "korean": "올챙이",
       "russian": "головастик",
-      "plural": false,
-      "internalIds": [ 2225 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11569,7 +11353,7 @@
     "uniqueEntryId": "4mto3ZvrZYpJxbm4c",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00646",
+      "id": 646,
       "version": "1.0.0",
       "english": "tarantula",
       "englishEurope": "tarantula",
@@ -11585,8 +11369,7 @@
       "japanese": "タランチュラ",
       "korean": "타란툴라",
       "russian": "паук-птицеед",
-      "plural": false,
-      "internalIds": [ 646 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11631,7 +11414,7 @@
     "uniqueEntryId": "zzGvu3797KnMb4LCD",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00599",
+      "id": 599,
       "version": "1.0.0",
       "english": "tiger beetle",
       "englishEurope": "tiger beetle",
@@ -11647,8 +11430,7 @@
       "japanese": "ハンミョウ",
       "korean": "길앞잡이",
       "russian": "жук-скакун",
-      "plural": false,
-      "internalIds": [ 599 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11693,7 +11475,7 @@
     "uniqueEntryId": "GcSpepwg536mYnNuu",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00583",
+      "id": 583,
       "version": "1.0.0",
       "english": "tiger butterfly",
       "englishEurope": "tiger butterfly",
@@ -11709,8 +11491,7 @@
       "japanese": "アゲハチョウ",
       "korean": "호랑나비",
       "russian": "махаон",
-      "plural": false,
-      "internalIds": [ 583 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11754,12 +11535,11 @@
     "furnitureFilename": "FtrDiveFishKurumaebi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2847,
     "uniqueEntryId": "EaMd8ansu3qtzAGbv",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02847",
+      "id": 2847,
       "version": "1.3.0",
       "english": "tiger prawn",
       "englishEurope": "tiger prawn",
@@ -11775,8 +11555,7 @@
       "japanese": "クルマエビ",
       "korean": "보리새우",
       "russian": "тигровая креветка",
-      "plural": false,
-      "internalIds": [ 2847 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11824,7 +11603,7 @@
     "uniqueEntryId": "as78rnkwY3ahrTkBY",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_04190",
+      "id": 4190,
       "version": "1.0.0",
       "english": "tilapia",
       "englishEurope": "tilapia",
@@ -11840,8 +11619,7 @@
       "japanese": "ティラピア",
       "korean": "틸라피아",
       "russian": "тилапия",
-      "plural": false,
-      "internalIds": [ 4190 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11889,7 +11667,7 @@
     "uniqueEntryId": "4PnGXx9DSb866AeCM",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02274",
+      "id": 2274,
       "version": "1.0.0",
       "english": "tuna",
       "englishEurope": "tuna",
@@ -11905,8 +11683,7 @@
       "japanese": "マグロ",
       "korean": "다랑어",
       "russian": "тунец",
-      "plural": false,
-      "internalIds": [ 2274 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -11950,12 +11727,11 @@
     "furnitureFilename": "FtrDiveFishSazae",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2834,
     "uniqueEntryId": "efXQqEuT2yZApwmGB",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02834",
+      "id": 2834,
       "version": "1.3.0",
       "english": "turban shell",
       "englishEurope": "turban shell",
@@ -11971,8 +11747,7 @@
       "japanese": "サザエ",
       "korean": "소라",
       "russian": "рогатый тюрбан",
-      "plural": false,
-      "internalIds": [ 2834 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12016,12 +11791,11 @@
     "furnitureFilename": "FtrDiveFishMendako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7252,
     "uniqueEntryId": "kXFeaEJCCEkQ58T2e",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07252",
+      "id": 7252,
       "version": "1.3.0",
       "english": "umbrella octopus",
       "englishEurope": "umbrella octopus",
@@ -12037,8 +11811,7 @@
       "japanese": "メンダコ",
       "korean": "우무문어",
       "russian": "опистотейтис",
-      "plural": false,
-      "internalIds": [ 7252 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12082,12 +11855,11 @@
     "furnitureFilename": "FtrDiveFishKoumoridako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7203,
     "uniqueEntryId": "deJZZk2rxAnePwfzq",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07203",
+      "id": 7203,
       "version": "1.3.0",
       "english": "vampire squid",
       "englishEurope": "vampire squid",
@@ -12103,8 +11875,7 @@
       "japanese": "コウモリダコ",
       "korean": "흡혈오징어",
       "russian": "адский кальмар-вампир",
-      "plural": false,
-      "internalIds": [ 7203 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12149,7 +11920,7 @@
     "uniqueEntryId": "poAcys5Mr35ELp5PS",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00650",
+      "id": 650,
       "version": "1.0.0",
       "english": "violin beetle",
       "englishEurope": "violin beetle",
@@ -12165,8 +11936,7 @@
       "japanese": "バイオリンムシ",
       "korean": "바이올린벌레",
       "russian": "листовидная жужелица",
-      "plural": false,
-      "internalIds": [ 650 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12214,7 +11984,7 @@
     "uniqueEntryId": "QdrL4K7seJHvd4ZZM",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00649",
+      "id": 649,
       "version": "1.0.0",
       "english": "walker cicada",
       "englishEurope": "walker cicada",
@@ -12230,8 +12000,7 @@
       "japanese": "ツクツクホウシ",
       "korean": "애매미",
       "russian": "горная цикада",
-      "plural": false,
-      "internalIds": [ 649 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12276,7 +12045,7 @@
     "uniqueEntryId": "kuZaMcg2E7ZX56nio",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00616",
+      "id": 616,
       "version": "1.0.0",
       "english": "walking leaf",
       "englishEurope": "walking leaf",
@@ -12292,8 +12061,7 @@
       "japanese": "コノハムシ",
       "korean": "잎사귀벌레",
       "russian": "листотел",
-      "plural": false,
-      "internalIds": [ 616 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12338,7 +12106,7 @@
     "uniqueEntryId": "WQjgrjYotbwH59vXG",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00630",
+      "id": 630,
       "version": "1.0.0",
       "english": "walking stick",
       "englishEurope": "walking stick",
@@ -12354,8 +12122,7 @@
       "japanese": "ナナフシ",
       "korean": "긴수염대벌레",
       "russian": "палочник",
-      "plural": false,
-      "internalIds": [ 630 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12400,7 +12167,7 @@
     "uniqueEntryId": "ZEfBHqM6pFEddBezw",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00643",
+      "id": 643,
       "version": "1.0.0",
       "english": "wasp",
       "englishEurope": "wasp",
@@ -12416,8 +12183,7 @@
       "japanese": "ハチ",
       "korean": "벌",
       "russian": "оса",
-      "plural": false,
-      "internalIds": [ 643 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12465,7 +12231,7 @@
     "uniqueEntryId": "r3RAtJsXENwnFvQh7",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02282",
+      "id": 2282,
       "version": "1.0.0",
       "english": "whale shark",
       "englishEurope": "whale shark",
@@ -12481,8 +12247,7 @@
       "japanese": "ジンベエザメ",
       "korean": "고래상어",
       "russian": "китовая акула",
-      "plural": false,
-      "internalIds": [ 2282 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12527,7 +12292,7 @@
     "uniqueEntryId": "2fp9ChfPuPdYefTK3",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00591",
+      "id": 591,
       "version": "1.0.0",
       "english": "wharf roach",
       "englishEurope": "wharf roach",
@@ -12543,8 +12308,7 @@
       "japanese": "フナムシ",
       "korean": "갯강구",
       "russian": "морской таракан",
-      "plural": false,
-      "internalIds": [ 591 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12588,12 +12352,11 @@
     "furnitureFilename": "FtrDiveFishBaigai",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7278,
     "uniqueEntryId": "jSidvLMAXdiDAQNs6",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07278",
+      "id": 7278,
       "version": "1.3.0",
       "english": "whelk",
       "englishEurope": "whelk",
@@ -12609,8 +12372,7 @@
       "japanese": "バイガイ",
       "korean": "수랑",
       "russian": "моллюск-трубач",
-      "plural": false,
-      "internalIds": [ 7278 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12655,7 +12417,7 @@
     "uniqueEntryId": "9d92MqgcnGao8wQjB",
     "translations": {
       "sourceSheet": "Bugs",
-      "id": "Insect_00625",
+      "id": 625,
       "version": "1.0.0",
       "english": "yellow butterfly",
       "englishEurope": "yellow butterfly",
@@ -12671,8 +12433,7 @@
       "japanese": "モンキチョウ",
       "korean": "노랑나비",
       "russian": "желтушка",
-      "plural": false,
-      "internalIds": [ 625 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12720,7 +12481,7 @@
     "uniqueEntryId": "bLgE5dicZniF5zZDW",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02233",
+      "id": 2233,
       "version": "1.0.0",
       "english": "yellow perch",
       "englishEurope": "yellow perch",
@@ -12736,8 +12497,7 @@
       "japanese": "イエローパーチ",
       "korean": "옐로우퍼치",
       "russian": "желтый окунь",
-      "plural": false,
-      "internalIds": [ 2233 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -12785,7 +12545,7 @@
     "uniqueEntryId": "h7fa7Fh3Ay7vAxgE2",
     "translations": {
       "sourceSheet": "Fish",
-      "id": "Fish_02261",
+      "id": 2261,
       "version": "1.0.0",
       "english": "zebra turkeyfish",
       "englishEurope": "zebra turkeyfish",
@@ -12801,8 +12561,7 @@
       "japanese": "ミノカサゴ",
       "korean": "쏠배감펭",
       "russian": "крылатка",
-      "plural": false,
-      "internalIds": [ 2261 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {

@@ -26,8 +26,7 @@
       "japanese": "みずいろのかわらやね",
       "korean": "하늘색 기와지붕",
       "russian": "аквамар. черепичн. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StandardE" ]
+      "plural": false
     }
   },
   {
@@ -57,8 +56,7 @@
       "japanese": "まるまどのドア",
       "korean": "둥근 창문이 달린 문",
       "russian": "стандартная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCercleWindowAR" ]
+      "plural": false
     }
   },
   {
@@ -88,8 +86,7 @@
       "japanese": "ベージュなまるまどのドア",
       "korean": "베이지색 둥근 창문이 달린 문",
       "russian": "бежевая типовая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCercleWindowGR" ]
+      "plural": false
     }
   },
   {
@@ -119,8 +116,7 @@
       "japanese": "ベージュのようがわらのやね",
       "korean": "베이지색 서양식 기와지붕",
       "russian": "кругл. бежевая черепица",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04WesterntileF" ]
+      "plural": false
     }
   },
   {
@@ -150,8 +146,7 @@
       "japanese": "ベージュのシンプルなドア",
       "korean": "베이지색 심플한 문",
       "russian": "бежевая обычная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimpleBR" ]
+      "plural": false
     }
   },
   {
@@ -181,8 +176,7 @@
       "japanese": "ベージュのいしのやね",
       "korean": "베이지색 돌 지붕",
       "russian": "бежевая каменная крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StoneB" ]
+      "plural": false
     }
   },
   {
@@ -212,8 +206,7 @@
       "japanese": "ベージュのしっくいぬりのかべ",
       "korean": "베이지색 석회 외벽",
       "russian": "фасад с бежев. отделкой",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StuccoB" ]
+      "plural": false
     }
   },
   {
@@ -243,8 +236,7 @@
       "japanese": "ベージュのまどつきのドア",
       "korean": "베이지색 창문이 달린 문",
       "russian": "бежевая дверь с окном",
-      "plural": false,
-      "internalIds": [ "HouseDoorWindowGR" ]
+      "plural": false
     }
   },
   {
@@ -274,8 +266,7 @@
       "japanese": "ベージュのきぐみのドア",
       "korean": "베이지색 목제 문",
       "russian": "бежев. деревянная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorStandardGR" ]
+      "plural": false
     }
   },
   {
@@ -305,8 +296,7 @@
       "japanese": "くろいきわくのかべ",
       "korean": "검은색 나이테 외벽",
       "russian": "черный фасад шале",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04WoodframeH" ]
+      "plural": false
     }
   },
   {
@@ -336,8 +326,7 @@
       "japanese": "くろいよくあるドア",
       "korean": "검은색 평범한 문",
       "russian": "черная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorReliefHR" ]
+      "plural": false
     }
   },
   {
@@ -367,8 +356,7 @@
       "japanese": "くろいよくあるかべ",
       "korean": "검은색 평범한 외벽",
       "russian": "простой черный фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StandardH" ]
+      "plural": false
     }
   },
   {
@@ -398,8 +386,7 @@
       "japanese": "くろいようがわらのやね",
       "korean": "검은색 서양식 기와지붕",
       "russian": "кругл. черная черепица",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04WesterntileH" ]
+      "plural": false
     }
   },
   {
@@ -429,8 +416,7 @@
       "japanese": "ブラックリッチなドア",
       "korean": "블랙 고급스러운 문",
       "russian": "черная стильная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCarvingBR" ]
+      "plural": false
     }
   },
   {
@@ -460,8 +446,7 @@
       "japanese": "くろいちゅうかなドア",
       "korean": "검은색 중국풍 문",
       "russian": "черная азиатская дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorChineseHR" ]
+      "plural": false
     }
   },
   {
@@ -475,7 +460,7 @@
     "uniqueEntryId": "MfwnWmtJuJDAvc2Lz",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08678",
+      "id": 8678,
       "version": "1.0.0",
       "english": "black large mailbox",
       "englishEurope": "black large mailbox",
@@ -491,8 +476,7 @@
       "japanese": "くろいおおきなポスト",
       "korean": "검은색 커다란 우편함",
       "russian": "большой черный ящик",
-      "plural": false,
-      "internalIds": [ 8678 ]
+      "plural": false
     }
   },
   {
@@ -522,8 +506,7 @@
       "japanese": "くろいこうしのドア",
       "korean": "검은색 격자문",
       "russian": "черная решетчатая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorLatticeHR" ]
+      "plural": false
     }
   },
   {
@@ -537,7 +520,7 @@
     "uniqueEntryId": "mrnKiTGF6ra4B8X2T",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08667",
+      "id": 8667,
       "version": "1.0.0",
       "english": "black ordinary mailbox",
       "englishEurope": "black ordinary mailbox",
@@ -553,8 +536,7 @@
       "japanese": "くろいふつうのポスト",
       "korean": "검은색 일반 우편함",
       "russian": "простой черный ящик",
-      "plural": false,
-      "internalIds": [ 8667 ]
+      "plural": false
     }
   },
   {
@@ -584,8 +566,7 @@
       "japanese": "くろいそぼくなドア",
       "korean": "검은색 소박한 문",
       "russian": "черная простая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimplicityDR" ]
+      "plural": false
     }
   },
   {
@@ -599,7 +580,7 @@
     "uniqueEntryId": "EePwSJwYCpQZacFqi",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08833",
+      "id": 8833,
       "version": "1.0.0",
       "english": "black square mailbox",
       "englishEurope": "black square mailbox",
@@ -615,8 +596,7 @@
       "japanese": "くろいしかくいポスト",
       "korean": "검은색 사각 우편함",
       "russian": "черный ящик-куб",
-      "plural": false,
-      "internalIds": [ 8833 ]
+      "plural": false
     }
   },
   {
@@ -646,8 +626,7 @@
       "japanese": "くろいいしのやね",
       "korean": "검은색 돌 지붕",
       "russian": "черная каменная крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StoneH" ]
+      "plural": false
     }
   },
   {
@@ -677,8 +656,7 @@
       "japanese": "くろいしっくいぬりのかべ",
       "korean": "검은색 석회 외벽",
       "russian": "фасад с черной отделкой",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StuccoH" ]
+      "plural": false
     }
   },
   {
@@ -708,8 +686,7 @@
       "japanese": "くろいかやぶきやね",
       "korean": "검은색 초가지붕",
       "russian": "черная соломен. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04ThatchedH" ]
+      "plural": false
     }
   },
   {
@@ -739,8 +716,7 @@
       "japanese": "くろいかわらやね",
       "korean": "검은색 기와지붕",
       "russian": "черная черепичн. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StandardH" ]
+      "plural": false
     }
   },
   {
@@ -770,8 +746,7 @@
       "japanese": "くろいたてながまどのドア",
       "korean": "검은색 긴 창문이 달린 문",
       "russian": "черная дверь с панелями",
-      "plural": false,
-      "internalIds": [ "HouseDoorVerticalWindowHR" ]
+      "plural": false
     }
   },
   {
@@ -801,8 +776,7 @@
       "japanese": "くろいわふうなドア",
       "korean": "검은색 일본풍 문",
       "russian": "черная дзен-дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorJapaneseER" ]
+      "plural": false
     }
   },
   {
@@ -832,8 +806,7 @@
       "japanese": "あおいまるまどのドア",
       "korean": "파란색 둥근 창문이 달린 문",
       "russian": "синяя типовая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCercleWindowER" ]
+      "plural": false
     }
   },
   {
@@ -863,8 +836,7 @@
       "japanese": "あおいいしのかべ",
       "korean": "파란색 돌 외벽",
       "russian": "синий каменный фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StoneF" ]
+      "plural": false
     }
   },
   {
@@ -894,8 +866,7 @@
       "japanese": "あおいよくあるドア",
       "korean": "파란색 평범한 문",
       "russian": "синяя дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorReliefCR" ]
+      "plural": false
     }
   },
   {
@@ -925,8 +896,7 @@
       "japanese": "あおいようがわらのやね",
       "korean": "파란색 서양식 기와지붕",
       "russian": "кругл. синяя черепица",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04WesterntileE" ]
+      "plural": false
     }
   },
   {
@@ -956,8 +926,7 @@
       "japanese": "ブルーリッチなドア",
       "korean": "블루 고급스러운 문",
       "russian": "синяя стильная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCarvingER" ]
+      "plural": false
     }
   },
   {
@@ -987,8 +956,7 @@
       "japanese": "あおいてつのドア",
       "korean": "파란색 철제 문",
       "russian": "синяя железная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronCR" ]
+      "plural": false
     }
   },
   {
@@ -1002,7 +970,7 @@
     "uniqueEntryId": "PXyHoT3WdZxgZNngW",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08676",
+      "id": 8676,
       "version": "1.0.0",
       "english": "blue large mailbox",
       "englishEurope": "blue large mailbox",
@@ -1018,8 +986,7 @@
       "japanese": "あおいおおきなポスト",
       "korean": "파란색 커다란 우편함",
       "russian": "большой синий ящик",
-      "plural": false,
-      "internalIds": [ 8676 ]
+      "plural": false
     }
   },
   {
@@ -1049,8 +1016,7 @@
       "japanese": "あおいこうしのドア",
       "korean": "파란색 격자문",
       "russian": "синяя решетчатая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorLatticeFR" ]
+      "plural": false
     }
   },
   {
@@ -1080,8 +1046,7 @@
       "japanese": "あおいかなぐのドア",
       "korean": "파란색 금속 장식 문",
       "russian": "синяя клепаная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronpartsCR" ]
+      "plural": false
     }
   },
   {
@@ -1095,7 +1060,7 @@
     "uniqueEntryId": "RzqDEHhw3HSGjpavY",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08665",
+      "id": 8665,
       "version": "1.0.0",
       "english": "blue ordinary mailbox",
       "englishEurope": "blue ordinary mailbox",
@@ -1111,8 +1076,7 @@
       "japanese": "あおいふつうのポスト",
       "korean": "파란색 일반 우편함",
       "russian": "простой синий ящик",
-      "plural": false,
-      "internalIds": [ 8665 ]
+      "plural": false
     }
   },
   {
@@ -1142,8 +1106,7 @@
       "japanese": "あおいそぼくなドア",
       "korean": "파란색 소박한 문",
       "russian": "синяя простая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimplicityFR" ]
+      "plural": false
     }
   },
   {
@@ -1173,8 +1136,7 @@
       "japanese": "あおいシンプルなドア",
       "korean": "파란색 심플한 문",
       "russian": "синяя обычная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimpleDR" ]
+      "plural": false
     }
   },
   {
@@ -1188,7 +1150,7 @@
     "uniqueEntryId": "cP7bYmszxmrmW2ygL",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08831",
+      "id": 8831,
       "version": "1.0.0",
       "english": "blue square mailbox",
       "englishEurope": "blue square mailbox",
@@ -1204,8 +1166,7 @@
       "japanese": "あおいしかくいポスト",
       "korean": "파란색 사각 우편함",
       "russian": "синий ящик-куб",
-      "plural": false,
-      "internalIds": [ 8831 ]
+      "plural": false
     }
   },
   {
@@ -1219,7 +1180,7 @@
     "uniqueEntryId": "wEC52Lc5cf8TcamMB",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "SlopeItem_05869",
+      "id": 5869,
       "version": "1.0.0",
       "english": "blue steel staircase",
       "englishEurope": "blue steel staircase",
@@ -1235,8 +1196,7 @@
       "japanese": "あおいてっこつかいだん",
       "korean": "파란 철골 계단",
       "russian": "синяя стальная лестница",
-      "plural": false,
-      "internalIds": [ 5869 ]
+      "plural": false
     }
   },
   {
@@ -1266,8 +1226,7 @@
       "japanese": "あおいいしのやね",
       "korean": "파란색 돌 지붕",
       "russian": "синяя каменная крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StoneE" ]
+      "plural": false
     }
   },
   {
@@ -1297,8 +1256,7 @@
       "japanese": "あおいしっくいぬりのかべ",
       "korean": "파란색 석회 외벽",
       "russian": "фасад с синей отделкой",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StuccoE" ]
+      "plural": false
     }
   },
   {
@@ -1328,8 +1286,7 @@
       "japanese": "あおいかわらやね",
       "korean": "파란색 기와지붕",
       "russian": "синяя черепичн. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StandardF" ]
+      "plural": false
     }
   },
   {
@@ -1359,8 +1316,7 @@
       "japanese": "あおいたてながまどのドア",
       "korean": "파란색 긴 창문이 달린 문",
       "russian": "синяя дверь с панелями",
-      "plural": false,
-      "internalIds": [ "HouseDoorVerticalWindowDR" ]
+      "plural": false
     }
   },
   {
@@ -1390,8 +1346,7 @@
       "japanese": "あおいまどつきのドア",
       "korean": "파란색 창문이 달린 문",
       "russian": "синяя дверь с окном",
-      "plural": false,
-      "internalIds": [ "HouseDoorWindowER" ]
+      "plural": false
     }
   },
   {
@@ -1421,8 +1376,7 @@
       "japanese": "あおいきぐみのドア",
       "korean": "파란색 목제 문",
       "russian": "синяя деревянная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorStandardER" ]
+      "plural": false
     }
   },
   {
@@ -1436,7 +1390,7 @@
     "uniqueEntryId": "hc333N34upcNjSabw",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08902",
+      "id": 8902,
       "version": "1.0.0",
       "english": "blue wooden mailbox",
       "englishEurope": "blue wooden mailbox",
@@ -1452,8 +1406,7 @@
       "japanese": "あおいきのポスト",
       "korean": "파란색 나무 우편함",
       "russian": "синий ящик из дерева",
-      "plural": false,
-      "internalIds": [ 8902 ]
+      "plural": false
     }
   },
   {
@@ -1467,7 +1420,7 @@
     "uniqueEntryId": "gHnYrhHS9A7MrPdpr",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "SlopeItem_05868",
+      "id": 5868,
       "version": "1.0.0",
       "english": "blue-plank ramp",
       "englishEurope": "blue-plank ramp",
@@ -1483,8 +1436,7 @@
       "japanese": "あおいいたのスロープ",
       "korean": "파란 널빤지 슬로프",
       "russian": "рампа из синих досок",
-      "plural": false,
-      "internalIds": [ 5868 ]
+      "plural": false
     }
   },
   {
@@ -1514,8 +1466,7 @@
       "japanese": "あおいわくのよくあるかべ",
       "korean": "파란 틀 평범한 외벽",
       "russian": "фасад с синим кантом",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StandardC" ]
+      "plural": false
     }
   },
   {
@@ -1529,7 +1480,7 @@
     "uniqueEntryId": "Rvkrg9tcubTMakcBS",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "BridgeItem_05915",
+      "id": 5915,
       "version": "1.0.0",
       "english": "brick bridge",
       "englishEurope": "brick bridge",
@@ -1545,8 +1496,7 @@
       "japanese": "レンガのはし",
       "korean": "벽돌 다리",
       "russian": "кирпичный мост",
-      "plural": false,
-      "internalIds": [ 5915 ]
+      "plural": false
     }
   },
   {
@@ -1560,7 +1510,7 @@
     "uniqueEntryId": "A8AfTzxqpvzfcMeC5",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "SlopeItem_05870",
+      "id": 5870,
       "version": "1.0.0",
       "english": "brick staircase",
       "englishEurope": "brick staircase",
@@ -1576,8 +1526,7 @@
       "japanese": "レンガのかいだん",
       "korean": "벽돌 계단",
       "russian": "кирпичная лестница",
-      "plural": false,
-      "internalIds": [ 5870 ]
+      "plural": false
     }
   },
   {
@@ -1607,8 +1556,7 @@
       "japanese": "ちゃいろいきわくのかべ",
       "korean": "갈색 나이테 외벽",
       "russian": "коричневый фасад шале",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04WoodframeB" ]
+      "plural": false
     }
   },
   {
@@ -1638,8 +1586,7 @@
       "japanese": "ちゃいろいいしのかべ",
       "korean": "갈색 돌 외벽",
       "russian": "коричн. каменный фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StoneC" ]
+      "plural": false
     }
   },
   {
@@ -1669,8 +1616,7 @@
       "japanese": "ちゃいろいようがわらのやね",
       "korean": "갈색 서양식 기와지붕",
       "russian": "кругл. коричнев. черепица",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04WesterntileG" ]
+      "plural": false
     }
   },
   {
@@ -1700,8 +1646,7 @@
       "japanese": "ちゃいろいちゅうかなドア",
       "korean": "갈색 중국풍 문",
       "russian": "бурая азиатская дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorChineseBR" ]
+      "plural": false
     }
   },
   {
@@ -1731,8 +1676,7 @@
       "japanese": "ちゃいろいこうしのドア",
       "korean": "갈색 격자문",
       "russian": "коричн. решетчатая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorLatticeAR" ]
+      "plural": false
     }
   },
   {
@@ -1762,8 +1706,7 @@
       "japanese": "グレーなかなぐのドア",
       "korean": "회색 금속 장식 문",
       "russian": "серая клепаная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronpartsFR" ]
+      "plural": false
     }
   },
   {
@@ -1793,8 +1736,7 @@
       "japanese": "ちゃいろいいしのやね",
       "korean": "갈색 돌 지붕",
       "russian": "коричневая камен. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StoneG" ]
+      "plural": false
     }
   },
   {
@@ -1824,8 +1766,7 @@
       "japanese": "ちゃいろいかやぶきやね",
       "korean": "갈색 초가지붕",
       "russian": "темная соломен. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04ThatchedB" ]
+      "plural": false
     }
   },
   {
@@ -1855,8 +1796,7 @@
       "japanese": "ちゃいろいわふうなドア",
       "korean": "갈색 일본풍 문",
       "russian": "коричневая дзен-дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorJapaneseCR" ]
+      "plural": false
     }
   },
   {
@@ -1886,8 +1826,7 @@
       "japanese": "むらさきのまるまどのドア",
       "korean": "보라색 둥근 창문이 달린 문",
       "russian": "фиолет. типовая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCercleWindowDR" ]
+      "plural": false
     }
   },
   {
@@ -1917,8 +1856,7 @@
       "japanese": "きわくのかべ",
       "korean": "나이테 외벽",
       "russian": "фасад шале",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04WoodframeA" ]
+      "plural": false
     }
   },
   {
@@ -1948,8 +1886,7 @@
       "japanese": "シックないしのかべ",
       "korean": "시크한 돌 외벽",
       "russian": "стильн. каменный фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StoneB" ]
+      "plural": false
     }
   },
   {
@@ -1963,7 +1900,7 @@
     "uniqueEntryId": "f2YBipw25G8BAxwSt",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08897",
+      "id": 8897,
       "version": "1.0.0",
       "english": "chic wooden mailbox",
       "englishEurope": "chic wooden mailbox",
@@ -1979,8 +1916,7 @@
       "japanese": "シックなきのポスト",
       "korean": "세련된 나무 우편함",
       "russian": "ящик-люкс из дерева",
-      "plural": false,
-      "internalIds": [ 8897 ]
+      "plural": false
     }
   },
   {
@@ -2010,8 +1946,7 @@
       "japanese": "いしのかべ",
       "korean": "돌 외벽",
       "russian": "каменный фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StoneA" ]
+      "plural": false
     }
   },
   {
@@ -2041,8 +1976,7 @@
       "japanese": "よくあるドア",
       "korean": "평범한 문",
       "russian": "дверь с вставками",
-      "plural": false,
-      "internalIds": [ "HouseDoorReliefAR" ]
+      "plural": false
     }
   },
   {
@@ -2072,8 +2006,7 @@
       "japanese": "よくあるかべ",
       "korean": "평범한 외벽",
       "russian": "простой фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StandardA" ]
+      "plural": false
     }
   },
   {
@@ -2103,8 +2036,7 @@
       "japanese": "しろいきわくのかべ",
       "korean": "하얀색 나이테 외벽",
       "russian": "кремовый фасад шале",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04WoodframeG" ]
+      "plural": false
     }
   },
   {
@@ -2134,8 +2066,7 @@
       "japanese": "きみどりのたてながまどのドア",
       "korean": "연두색 긴 창문이 달린 문",
       "russian": "син.-зел. дверь (панели)",
-      "plural": false,
-      "internalIds": [ "HouseDoorVerticalWindowJR" ]
+      "plural": false
     }
   },
   {
@@ -2165,8 +2096,7 @@
       "japanese": "こげちゃのアイアングリルなドア",
       "korean": "고동색 아이언 그릴 문",
       "russian": "каштанов. дверь с ковкой",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGrillGR" ]
+      "plural": false
     }
   },
   {
@@ -2196,8 +2126,7 @@
       "japanese": "ふかみどりのシンプルなドア",
       "korean": "진녹색 심플한 문",
       "russian": "темно-зел. обычная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimpleGR" ]
+      "plural": false
     }
   },
   {
@@ -2227,8 +2156,7 @@
       "japanese": "ふかみどりのかやぶきやね",
       "korean": "진녹색 초가지붕",
       "russian": "зеленая соломен. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04ThatchedG" ]
+      "plural": false
     }
   },
   {
@@ -2258,8 +2186,7 @@
       "japanese": "わかくさいろのかやぶきやね",
       "korean": "연두색 초가지붕",
       "russian": "крыша из свежей травы",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04ThatchedD" ]
+      "plural": false
     }
   },
   {
@@ -2289,8 +2216,7 @@
       "japanese": "きつねいろのかやぶきやね",
       "korean": "연갈색 초가지붕",
       "russian": "светлая соломен. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04ThatchedA" ]
+      "plural": false
     }
   },
   {
@@ -2320,8 +2246,7 @@
       "japanese": "グレーのいしのかべ",
       "korean": "회색 돌 외벽",
       "russian": "серый каменный фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StoneH" ]
+      "plural": false
     }
   },
   {
@@ -2351,8 +2276,7 @@
       "japanese": "グレーなよくあるドア",
       "korean": "회색 평범한 문",
       "russian": "серая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorReliefFR" ]
+      "plural": false
     }
   },
   {
@@ -2382,8 +2306,7 @@
       "japanese": "グレーのてつのドア",
       "korean": "회색 철제 문",
       "russian": "серая железная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGR" ]
+      "plural": false
     }
   },
   {
@@ -2413,8 +2336,7 @@
       "japanese": "グレーのアイアングリルなドア",
       "korean": "회색 아이언 그릴 문",
       "russian": "серая дверь с ковкой",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGrillHR" ]
+      "plural": false
     }
   },
   {
@@ -2444,8 +2366,7 @@
       "japanese": "グレーなこうしのドア",
       "korean": "회색 격자문",
       "russian": "серая решетчатая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorLatticeER" ]
+      "plural": false
     }
   },
   {
@@ -2475,8 +2396,7 @@
       "japanese": "グレーなシンプルなドア",
       "korean": "회색 심플한 문",
       "russian": "серая обычная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimpleCR" ]
+      "plural": false
     }
   },
   {
@@ -2506,8 +2426,7 @@
       "japanese": "グレーないしのやね",
       "korean": "회색 돌 지붕",
       "russian": "серая каменная крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StoneA" ]
+      "plural": false
     }
   },
   {
@@ -2537,8 +2456,7 @@
       "japanese": "グレーなしっくいぬりのかべ",
       "korean": "회색 석회 외벽",
       "russian": "фасад с серой отделкой",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StuccoC" ]
+      "plural": false
     }
   },
   {
@@ -2568,8 +2486,7 @@
       "japanese": "はいいろのかやぶきやね",
       "korean": "회색 초가지붕",
       "russian": "серая соломен. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04ThatchedE" ]
+      "plural": false
     }
   },
   {
@@ -2599,8 +2516,7 @@
       "japanese": "グレーなまどつきのドア",
       "korean": "회색 창문이 달린 문",
       "russian": "серая дверь с окном",
-      "plural": false,
-      "internalIds": [ "HouseDoorWindowFR" ]
+      "plural": false
     }
   },
   {
@@ -2630,8 +2546,7 @@
       "japanese": "グレーなきぐみのドア",
       "korean": "회색 목제 문",
       "russian": "серая деревянная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorStandardFR" ]
+      "plural": false
     }
   },
   {
@@ -2661,8 +2576,7 @@
       "japanese": "グレーなよくあるかべ",
       "korean": "회색 평범한 외벽",
       "russian": "фасад с серым кантом",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StandardD" ]
+      "plural": false
     }
   },
   {
@@ -2692,8 +2606,7 @@
       "japanese": "みどりのまるまどのドア",
       "korean": "초록색 둥근 창문이 달린 문",
       "russian": "зеленая типовая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCercleWindowBR" ]
+      "plural": false
     }
   },
   {
@@ -2723,8 +2636,7 @@
       "japanese": "みどりのいしのかべ",
       "korean": "초록색 돌 외벽",
       "russian": "зелен. каменный фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StoneG" ]
+      "plural": false
     }
   },
   {
@@ -2754,8 +2666,7 @@
       "japanese": "みどりのよくあるドア",
       "korean": "초록색 평범한 문",
       "russian": "зеленая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorReliefDR" ]
+      "plural": false
     }
   },
   {
@@ -2785,8 +2696,7 @@
       "japanese": "みどりのようがわらのやね",
       "korean": "초록색 서양식 기와지붕",
       "russian": "кругл. зеленая черепица",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04WesterntileD" ]
+      "plural": false
     }
   },
   {
@@ -2816,8 +2726,7 @@
       "japanese": "みどりのちゅうかなドア",
       "korean": "초록색 중국풍 문",
       "russian": "зеленая азиатская дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorChineseER" ]
+      "plural": false
     }
   },
   {
@@ -2847,8 +2756,7 @@
       "japanese": "みどりのてつのドア",
       "korean": "초록색 철제 문",
       "russian": "зеленая железная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronER" ]
+      "plural": false
     }
   },
   {
@@ -2878,8 +2786,7 @@
       "japanese": "みどりのアイアングリルなドア",
       "korean": "초록색 아이언 그릴 문",
       "russian": "зеленая дверь с ковкой",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGrillCR" ]
+      "plural": false
     }
   },
   {
@@ -2893,7 +2800,7 @@
     "uniqueEntryId": "MkQ6G3TQ7YqhQToAi",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08675",
+      "id": 8675,
       "version": "1.0.0",
       "english": "green large mailbox",
       "englishEurope": "green large mailbox",
@@ -2909,8 +2816,7 @@
       "japanese": "みどりのおおきなポスト",
       "korean": "초록색 커다란 우편함",
       "russian": "большой зеленый ящик",
-      "plural": false,
-      "internalIds": [ 8675 ]
+      "plural": false
     }
   },
   {
@@ -2940,8 +2846,7 @@
       "japanese": "みどりのかなぐのドア",
       "korean": "초록색 금속 장식 문",
       "russian": "зеленая клепаная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronpartsDR" ]
+      "plural": false
     }
   },
   {
@@ -2955,7 +2860,7 @@
     "uniqueEntryId": "ujFMEsLrnERfkwfP9",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08664",
+      "id": 8664,
       "version": "1.0.0",
       "english": "green ordinary mailbox",
       "englishEurope": "green ordinary mailbox",
@@ -2971,8 +2876,7 @@
       "japanese": "みどりのふつうのポスト",
       "korean": "초록색 일반 우편함",
       "russian": "простой зеленый ящик",
-      "plural": false,
-      "internalIds": [ 8664 ]
+      "plural": false
     }
   },
   {
@@ -3002,8 +2906,7 @@
       "japanese": "みどりのそぼくなドア",
       "korean": "초록색 소박한 문",
       "russian": "зеленая простая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimplicityJR" ]
+      "plural": false
     }
   },
   {
@@ -3017,7 +2920,7 @@
     "uniqueEntryId": "xuTEi6Do6tN46d3q5",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08830",
+      "id": 8830,
       "version": "1.0.0",
       "english": "green square mailbox",
       "englishEurope": "green square mailbox",
@@ -3033,8 +2936,7 @@
       "japanese": "みどりのしかくいポスト",
       "korean": "초록색 사각 우편함",
       "russian": "зеленый ящик-куб",
-      "plural": false,
-      "internalIds": [ 8830 ]
+      "plural": false
     }
   },
   {
@@ -3064,8 +2966,7 @@
       "japanese": "みどりのいしのやね",
       "korean": "초록색 돌 지붕",
       "russian": "зеленая каменная крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StoneF" ]
+      "plural": false
     }
   },
   {
@@ -3095,8 +2996,7 @@
       "japanese": "みどりのかわらやね",
       "korean": "초록색 기와지붕",
       "russian": "зеленая черепичн. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StandardD" ]
+      "plural": false
     }
   },
   {
@@ -3126,8 +3026,7 @@
       "japanese": "みどりのたてながまどのドア",
       "korean": "초록색 긴 창문이 달린 문",
       "russian": "зеленая дверь с панелями",
-      "plural": false,
-      "internalIds": [ "HouseDoorVerticalWindowCR" ]
+      "plural": false
     }
   },
   {
@@ -3157,8 +3056,7 @@
       "japanese": "みどりのまどつきのドア",
       "korean": "초록색 창문이 달린 문",
       "russian": "зеленая дверь с окном",
-      "plural": false,
-      "internalIds": [ "HouseDoorWindowDR" ]
+      "plural": false
     }
   },
   {
@@ -3188,8 +3086,7 @@
       "japanese": "みどりのきぐみのドア",
       "korean": "초록색 목제 문",
       "russian": "зелен. деревянная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorStandardDR" ]
+      "plural": false
     }
   },
   {
@@ -3203,7 +3100,7 @@
     "uniqueEntryId": "6bxdrutijtpzKv39F",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08901",
+      "id": 8901,
       "version": "1.0.0",
       "english": "green wooden mailbox",
       "englishEurope": "green wooden mailbox",
@@ -3219,8 +3116,7 @@
       "japanese": "みどりのきのポスト",
       "korean": "초록색 나무 우편함",
       "russian": "зеленый ящик из дерева",
-      "plural": false,
-      "internalIds": [ 8901 ]
+      "plural": false
     }
   },
   {
@@ -3250,8 +3146,7 @@
       "japanese": "きみどりのまるまどのドア",
       "korean": "연두색 둥근 창문이 달린 문",
       "russian": "желт.-зел. типовая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCercleWindowJR" ]
+      "plural": false
     }
   },
   {
@@ -3281,8 +3176,7 @@
       "japanese": "きみどりのよくあるドア",
       "korean": "연두색 평범한 문",
       "russian": "желто-зеленая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorReliefIR" ]
+      "plural": false
     }
   },
   {
@@ -3312,8 +3206,7 @@
       "japanese": "ちゅうかなドア",
       "korean": "중국풍 문",
       "russian": "азиатская дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorChineseAR" ]
+      "plural": false
     }
   },
   {
@@ -3327,7 +3220,7 @@
     "uniqueEntryId": "RmQ6iiKkFf3Sy4iSQ",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "BridgeItem_05919",
+      "id": 5919,
       "version": "1.0.0",
       "english": "iron bridge",
       "englishEurope": "iron bridge",
@@ -3343,8 +3236,7 @@
       "japanese": "てつのはし",
       "korean": "철제 다리",
       "russian": "железный мост",
-      "plural": false,
-      "internalIds": [ 5919 ]
+      "plural": false
     }
   },
   {
@@ -3374,8 +3266,7 @@
       "japanese": "てつのドア",
       "korean": "철제 문",
       "russian": "железная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronAR" ]
+      "plural": false
     }
   },
   {
@@ -3405,8 +3296,7 @@
       "japanese": "アイアングリルなドア",
       "korean": "아이언 그릴 문",
       "russian": "дверь с ковкой",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGrillAR" ]
+      "plural": false
     }
   },
   {
@@ -3436,8 +3326,7 @@
       "japanese": "うるしぬりのわふうなドア",
       "korean": "옻칠한 일본풍 문",
       "russian": "лакированная дзен-дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorJapaneseFR" ]
+      "plural": false
     }
   },
   {
@@ -3451,7 +3340,7 @@
     "uniqueEntryId": "9mei7SoYtX9WhJqBx",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_05344",
+      "id": 5344,
       "version": "1.0.0",
       "english": "large mailbox",
       "englishEurope": "large mailbox",
@@ -3467,8 +3356,7 @@
       "japanese": "おおきなポスト",
       "korean": "커다란 우편함",
       "russian": "большой ящик",
-      "plural": false,
-      "internalIds": [ 5344 ]
+      "plural": false
     }
   },
   {
@@ -3498,8 +3386,7 @@
       "japanese": "こうしのドア",
       "korean": "격자문",
       "russian": "решетчатая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorLatticeDR" ]
+      "plural": false
     }
   },
   {
@@ -3529,8 +3416,7 @@
       "japanese": "みずいろのきわくのかべ",
       "korean": "하늘색 나이테 외벽",
       "russian": "голубой фасад шале",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04WoodframeD" ]
+      "plural": false
     }
   },
   {
@@ -3560,8 +3446,7 @@
       "japanese": "うすみどりのそぼくなドア",
       "korean": "연녹색 소박한 문",
       "russian": "зеленая простая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimplicityGR" ]
+      "plural": false
     }
   },
   {
@@ -3575,7 +3460,7 @@
     "uniqueEntryId": "Px55sTfjKSbbMtjAK",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "BridgeItem_05917",
+      "id": 5917,
       "version": "1.0.0",
       "english": "log bridge",
       "englishEurope": "log bridge",
@@ -3591,8 +3476,7 @@
       "japanese": "まるたのはし",
       "korean": "통나무 다리",
       "russian": "мост из поленьев",
-      "plural": false,
-      "internalIds": [ 5917 ]
+      "plural": false
     }
   },
   {
@@ -3606,7 +3490,7 @@
     "uniqueEntryId": "wk6oQREwMmRAmkTWJ",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "SlopeItem_05867",
+      "id": 5867,
       "version": "1.0.0",
       "english": "log staircase",
       "englishEurope": "log staircase",
@@ -3622,8 +3506,7 @@
       "japanese": "まるたのかいだん",
       "korean": "통나무 계단",
       "russian": "лестница из поленьев",
-      "plural": false,
-      "internalIds": [ 5867 ]
+      "plural": false
     }
   },
   {
@@ -3653,8 +3536,7 @@
       "japanese": "メープルのアイアングリルなドア",
       "korean": "메이플 아이언 그릴 문",
       "russian": "кленовая дверь с ковкой",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGrillBR" ]
+      "plural": false
     }
   },
   {
@@ -3684,8 +3566,7 @@
       "japanese": "メープルのそぼくなドア",
       "korean": "메이플 소박한 문",
       "russian": "кленовая простая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimplicityCR" ]
+      "plural": false
     }
   },
   {
@@ -3715,8 +3596,7 @@
       "japanese": "メープルなたてながまどのドア",
       "korean": "메이플 긴 창문이 달린 문",
       "russian": "кленов. дверь с панелями",
-      "plural": false,
-      "internalIds": [ "HouseDoorVerticalWindowBR" ]
+      "plural": false
     }
   },
   {
@@ -3746,8 +3626,7 @@
       "japanese": "メープルなまどつきのドア",
       "korean": "메이플 창문이 달린 문",
       "russian": "кленовая дверь с окном",
-      "plural": false,
-      "internalIds": [ "HouseDoorWindowBR" ]
+      "plural": false
     }
   },
   {
@@ -3777,8 +3656,7 @@
       "japanese": "メープルなきぐみのドア",
       "korean": "메이플 목제 문",
       "russian": "кленов. деревянная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorStandardBR" ]
+      "plural": false
     }
   },
   {
@@ -3808,8 +3686,7 @@
       "japanese": "かなぐのドア",
       "korean": "금속 장식 문",
       "russian": "клепаная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronpartsAR" ]
+      "plural": false
     }
   },
   {
@@ -3823,7 +3700,7 @@
     "uniqueEntryId": "m7jAPxsGCRgSWo6Ng",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "SlopeItem_05866",
+      "id": 5866,
       "version": "1.0.0",
       "english": "natural ramp",
       "englishEurope": "natural ramp",
@@ -3839,8 +3716,7 @@
       "japanese": "ナチュラルなスロープ",
       "korean": "내추럴 슬로프",
       "russian": "естественный склон",
-      "plural": false,
-      "internalIds": [ 5866 ]
+      "plural": false
     }
   },
   {
@@ -3870,8 +3746,7 @@
       "japanese": "オレンジいろのきわくのかべ",
       "korean": "오렌지색 나이테 외벽",
       "russian": "оранжевый фасад шале",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04WoodframeF" ]
+      "plural": false
     }
   },
   {
@@ -3901,8 +3776,7 @@
       "japanese": "オレンジいろのいしのかべ",
       "korean": "오렌지색 돌 외벽",
       "russian": "оранж. каменный фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StoneE" ]
+      "plural": false
     }
   },
   {
@@ -3932,8 +3806,7 @@
       "japanese": "オレンジいろのようがわらのやね",
       "korean": "오렌지색 서양식 기와지붕",
       "russian": "круглая оранж. черепица",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04WesterntileA" ]
+      "plural": false
     }
   },
   {
@@ -3963,8 +3836,7 @@
       "japanese": "オレンジのいしのやね",
       "korean": "오렌지색 돌 지붕",
       "russian": "оранжевая камен. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StoneC" ]
+      "plural": false
     }
   },
   {
@@ -3994,8 +3866,7 @@
       "japanese": "オレンジいろのかやぶきやね",
       "korean": "주황색 초가지붕",
       "russian": "оранжевая солом. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04ThatchedC" ]
+      "plural": false
     }
   },
   {
@@ -4009,7 +3880,7 @@
     "uniqueEntryId": "WiXx9pYfimxQTSAuF",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_02571",
+      "id": 2571,
       "version": "1.0.0",
       "english": "ordinary mailbox",
       "englishEurope": "ordinary mailbox",
@@ -4025,8 +3896,7 @@
       "japanese": "ふつうのポスト",
       "korean": "일반 우편함",
       "russian": "простой ящик",
-      "plural": false,
-      "internalIds": [ 2571 ]
+      "plural": false
     }
   },
   {
@@ -4056,8 +3926,7 @@
       "japanese": "みずいろのまるまどのドア",
       "korean": "하늘색 둥근 창문이 달린 문",
       "russian": "аквамар. типовая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCercleWindowFR" ]
+      "plural": false
     }
   },
   {
@@ -4087,8 +3956,7 @@
       "japanese": "みずいろのアイアングリルなドア",
       "korean": "하늘색 아이언 그릴 문",
       "russian": "голубая дверь с ковкой",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGrillDR" ]
+      "plural": false
     }
   },
   {
@@ -4118,8 +3986,7 @@
       "japanese": "うすむらさきのそぼくなドア",
       "korean": "연보라색 소박한 문",
       "russian": "сиреневая простая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimplicityIR" ]
+      "plural": false
     }
   },
   {
@@ -4149,8 +4016,7 @@
       "japanese": "ピンクなまるまどのドア",
       "korean": "핑크색 둥근 창문이 달린 문",
       "russian": "розовая типовая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCercleWindowIR" ]
+      "plural": false
     }
   },
   {
@@ -4180,8 +4046,7 @@
       "japanese": "ピンクのよくあるかべ",
       "korean": "핑크색 평범한 외벽",
       "russian": "простой розовый фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StandardF" ]
+      "plural": false
     }
   },
   {
@@ -4211,8 +4076,7 @@
       "japanese": "ピンクなようがわらのやね",
       "korean": "핑크색 서양식 기와지붕",
       "russian": "кругл. розовая черепица",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04WesterntileB" ]
+      "plural": false
     }
   },
   {
@@ -4242,8 +4106,7 @@
       "japanese": "ピンクリッチなドア",
       "korean": "핑크 고급스러운 문",
       "russian": "розовая стильная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCarvingDR" ]
+      "plural": false
     }
   },
   {
@@ -4273,8 +4136,7 @@
       "japanese": "ピンクなてつのドア",
       "korean": "핑크색 철제 문",
       "russian": "розовая железная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronFR" ]
+      "plural": false
     }
   },
   {
@@ -4304,8 +4166,7 @@
       "japanese": "ピンクのアイアングリルなドア",
       "korean": "핑크색 아이언 그릴 문",
       "russian": "розовая дверь с ковкой",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGrillER" ]
+      "plural": false
     }
   },
   {
@@ -4319,7 +4180,7 @@
     "uniqueEntryId": "442cvvb6XZ2ykmMy9",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08673",
+      "id": 8673,
       "version": "1.0.0",
       "english": "pink large mailbox",
       "englishEurope": "pink large mailbox",
@@ -4335,8 +4196,7 @@
       "japanese": "ピンクのおおきなポスト",
       "korean": "핑크색 커다란 우편함",
       "russian": "большой розовый ящик",
-      "plural": false,
-      "internalIds": [ 8673 ]
+      "plural": false
     }
   },
   {
@@ -4366,8 +4226,7 @@
       "japanese": "ピンクなかなぐのドア",
       "korean": "핑크색 금속 장식 문",
       "russian": "розовая клепаная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronpartsER" ]
+      "plural": false
     }
   },
   {
@@ -4381,7 +4240,7 @@
     "uniqueEntryId": "TimXNFMGAu2gEdSHg",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08662",
+      "id": 8662,
       "version": "1.0.0",
       "english": "pink ordinary mailbox",
       "englishEurope": "pink ordinary mailbox",
@@ -4397,8 +4256,7 @@
       "japanese": "ピンクのふつうのポスト",
       "korean": "핑크색 일반 우편함",
       "russian": "простой розовый ящик",
-      "plural": false,
-      "internalIds": [ 8662 ]
+      "plural": false
     }
   },
   {
@@ -4428,8 +4286,7 @@
       "japanese": "ピンクのそぼくなドア",
       "korean": "핑크색 소박한 문",
       "russian": "розовая простая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimplicityHR" ]
+      "plural": false
     }
   },
   {
@@ -4459,8 +4316,7 @@
       "japanese": "ピンクのシンプルなドア",
       "korean": "핑크색 심플한 문",
       "russian": "розовая обычная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimpleER" ]
+      "plural": false
     }
   },
   {
@@ -4474,7 +4330,7 @@
     "uniqueEntryId": "wM9frkMp4Bw3j8siW",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08828",
+      "id": 8828,
       "version": "1.0.0",
       "english": "pink square mailbox",
       "englishEurope": "pink square mailbox",
@@ -4490,8 +4346,7 @@
       "japanese": "ピンクのしかくいポスト",
       "korean": "핑크색 사각 우편함",
       "russian": "розовый ящик-куб",
-      "plural": false,
-      "internalIds": [ 8828 ]
+      "plural": false
     }
   },
   {
@@ -4521,8 +4376,7 @@
       "japanese": "ピンクなしっくいぬりのかべ",
       "korean": "핑크색 석회 외벽",
       "russian": "фасад с розов. отделкой",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StuccoG" ]
+      "plural": false
     }
   },
   {
@@ -4552,8 +4406,7 @@
       "japanese": "ピンクのかわらやね",
       "korean": "핑크색 기와지붕",
       "russian": "розовая черепичн. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StandardB" ]
+      "plural": false
     }
   },
   {
@@ -4583,8 +4436,7 @@
       "japanese": "ピンクなまどつきのドア",
       "korean": "핑크색 창문이 달린 문",
       "russian": "розовая дверь с окном",
-      "plural": false,
-      "internalIds": [ "HouseDoorWindowIR" ]
+      "plural": false
     }
   },
   {
@@ -4614,8 +4466,7 @@
       "japanese": "ピンクなきぐみのドア",
       "korean": "핑크색 목제 문",
       "russian": "розов. деревянная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorStandardIR" ]
+      "plural": false
     }
   },
   {
@@ -4629,7 +4480,7 @@
     "uniqueEntryId": "rFbXYtTBoJmXaHs8o",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08899",
+      "id": 8899,
       "version": "1.0.0",
       "english": "pink wooden mailbox",
       "englishEurope": "pink wooden mailbox",
@@ -4645,8 +4496,7 @@
       "japanese": "ピンクのきのポスト",
       "korean": "핑크색 나무 우편함",
       "russian": "розовый ящик из дерева",
-      "plural": false,
-      "internalIds": [ 8899 ]
+      "plural": false
     }
   },
   {
@@ -4676,8 +4526,7 @@
       "japanese": "むらさきのよくあるドア",
       "korean": "보라색 평범한 문",
       "russian": "фиолетовая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorReliefJR" ]
+      "plural": false
     }
   },
   {
@@ -4707,8 +4556,7 @@
       "japanese": "むらさきのアイアングリルなドア",
       "korean": "보라색 아이언 그릴 문",
       "russian": "фиолетов. дверь с ковкой",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGrillJR" ]
+      "plural": false
     }
   },
   {
@@ -4738,8 +4586,7 @@
       "japanese": "むらさきのかなぐのドア",
       "korean": "보라색 금속 장식 문",
       "russian": "фиолет. клепаная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronpartsGR" ]
+      "plural": false
     }
   },
   {
@@ -4769,8 +4616,7 @@
       "japanese": "むらさきのシンプルなドア",
       "korean": "보라색 심플한 문",
       "russian": "фиолет. обычная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimpleHR" ]
+      "plural": false
     }
   },
   {
@@ -4800,8 +4646,7 @@
       "japanese": "むらさきのかわらやね",
       "korean": "보라색 기와지붕",
       "russian": "фиолет. черепичн. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StandardG" ]
+      "plural": false
     }
   },
   {
@@ -4831,8 +4676,7 @@
       "japanese": "むらさきのたてながまどのドア",
       "korean": "보라색 긴 창문이 달린 문",
       "russian": "фиолет. дверь с панелями",
-      "plural": false,
-      "internalIds": [ "HouseDoorVerticalWindowIR" ]
+      "plural": false
     }
   },
   {
@@ -4862,8 +4706,7 @@
       "japanese": "むらさきのまどつきのドア",
       "korean": "보라색 창문이 달린 문",
       "russian": "фиолет. дверь с окном",
-      "plural": false,
-      "internalIds": [ "HouseDoorWindowJR" ]
+      "plural": false
     }
   },
   {
@@ -4893,8 +4736,7 @@
       "japanese": "むらさきのきぐみのドア",
       "korean": "보라색 목제 문",
       "russian": "фиолет. деревянная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorStandardJR" ]
+      "plural": false
     }
   },
   {
@@ -4924,8 +4766,7 @@
       "japanese": "あかいきわくのかべ",
       "korean": "빨간색 나이테 외벽",
       "russian": "красный фасад шале",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04WoodframeC" ]
+      "plural": false
     }
   },
   {
@@ -4955,8 +4796,7 @@
       "japanese": "あかいいしのかべ",
       "korean": "빨간색 돌 외벽",
       "russian": "красн. каменный фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StoneD" ]
+      "plural": false
     }
   },
   {
@@ -4986,8 +4826,7 @@
       "japanese": "あかいよくあるドア",
       "korean": "빨간색 평범한 문",
       "russian": "красная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorReliefBR" ]
+      "plural": false
     }
   },
   {
@@ -5017,8 +4856,7 @@
       "japanese": "あかいよくあるかべ",
       "korean": "빨간색 평범한 외벽",
       "russian": "простой красный фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StandardG" ]
+      "plural": false
     }
   },
   {
@@ -5048,8 +4886,7 @@
       "japanese": "レッドリッチなドア",
       "korean": "레드 고급스러운 문",
       "russian": "красная стильная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCarvingCR" ]
+      "plural": false
     }
   },
   {
@@ -5079,8 +4916,7 @@
       "japanese": "あかいちゅうかなドア",
       "korean": "빨간색 중국풍 문",
       "russian": "красная азиатская дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorChineseCR" ]
+      "plural": false
     }
   },
   {
@@ -5110,8 +4946,7 @@
       "japanese": "あかいてつのドア",
       "korean": "빨간색 철제 문",
       "russian": "красная железная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronBR" ]
+      "plural": false
     }
   },
   {
@@ -5141,8 +4976,7 @@
       "japanese": "あかいアイアングリルなドア",
       "korean": "빨간색 아이언 그릴 문",
       "russian": "красная дверь с ковкой",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGrillIR" ]
+      "plural": false
     }
   },
   {
@@ -5156,7 +4990,7 @@
     "uniqueEntryId": "dd7zAjPBuZzeepDg4",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08672",
+      "id": 8672,
       "version": "1.0.0",
       "english": "red large mailbox",
       "englishEurope": "red large mailbox",
@@ -5172,8 +5006,7 @@
       "japanese": "あかいおおきなポスト",
       "korean": "빨간색 커다란 우편함",
       "russian": "большой красный ящик",
-      "plural": false,
-      "internalIds": [ 8672 ]
+      "plural": false
     }
   },
   {
@@ -5203,8 +5036,7 @@
       "japanese": "あかいこうしのドア",
       "korean": "빨간색 격자문",
       "russian": "красная решетчатая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorLatticeCR" ]
+      "plural": false
     }
   },
   {
@@ -5234,8 +5066,7 @@
       "japanese": "あかいかなぐのドア",
       "korean": "빨간색 금속 장식 문",
       "russian": "красная клепаная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronpartsBR" ]
+      "plural": false
     }
   },
   {
@@ -5249,7 +5080,7 @@
     "uniqueEntryId": "TBRuBdRZM6YmQPNHp",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08661",
+      "id": 8661,
       "version": "1.0.0",
       "english": "red ordinary mailbox",
       "englishEurope": "red ordinary mailbox",
@@ -5265,8 +5096,7 @@
       "japanese": "あかいふつうのポスト",
       "korean": "빨간색 일반 우편함",
       "russian": "простой красный ящик",
-      "plural": false,
-      "internalIds": [ 8661 ]
+      "plural": false
     }
   },
   {
@@ -5296,8 +5126,7 @@
       "japanese": "あかいそぼくなドア",
       "korean": "빨간색 소박한 문",
       "russian": "красная простая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimplicityER" ]
+      "plural": false
     }
   },
   {
@@ -5311,7 +5140,7 @@
     "uniqueEntryId": "hnC7jsEoSKbk5RsEy",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08827",
+      "id": 8827,
       "version": "1.0.0",
       "english": "red square mailbox",
       "englishEurope": "red square mailbox",
@@ -5327,8 +5156,7 @@
       "japanese": "あかいしかくいポスト",
       "korean": "빨간색 사각 우편함",
       "russian": "красный ящик-куб",
-      "plural": false,
-      "internalIds": [ 8827 ]
+      "plural": false
     }
   },
   {
@@ -5342,7 +5170,7 @@
     "uniqueEntryId": "2nygbmutbmBfuzEXp",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "SlopeItem_05864",
+      "id": 5864,
       "version": "1.0.0",
       "english": "red steel staircase",
       "englishEurope": "red steel staircase",
@@ -5358,8 +5186,7 @@
       "japanese": "あかいてっこつかいだん",
       "korean": "빨간 철골 계단",
       "russian": "красная стальн. лестница",
-      "plural": false,
-      "internalIds": [ 5864 ]
+      "plural": false
     }
   },
   {
@@ -5389,8 +5216,7 @@
       "japanese": "あかいいしのやね",
       "korean": "빨간색 돌 지붕",
       "russian": "красная каменная крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StoneD" ]
+      "plural": false
     }
   },
   {
@@ -5420,8 +5246,7 @@
       "japanese": "あかいしっくいぬりのかべ",
       "korean": "빨간색 석회 외벽",
       "russian": "фасад с красн. отделкой",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StuccoD" ]
+      "plural": false
     }
   },
   {
@@ -5451,8 +5276,7 @@
       "japanese": "あかいかわらやね",
       "korean": "빨간색 기와지붕",
       "russian": "красная черепичн. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StandardA" ]
+      "plural": false
     }
   },
   {
@@ -5482,8 +5306,7 @@
       "japanese": "あかいたてながまどのドア",
       "korean": "빨간색 긴 창문이 달린 문",
       "russian": "красная дверь с панелями",
-      "plural": false,
-      "internalIds": [ "HouseDoorVerticalWindowFR" ]
+      "plural": false
     }
   },
   {
@@ -5513,8 +5336,7 @@
       "japanese": "あかいまどつきのドア",
       "korean": "빨간색 창문이 달린 문",
       "russian": "красная дверь с окном",
-      "plural": false,
-      "internalIds": [ "HouseDoorWindowCR" ]
+      "plural": false
     }
   },
   {
@@ -5544,8 +5366,7 @@
       "japanese": "あかいきぐみのドア",
       "korean": "빨간색 목제 문",
       "russian": "красн. деревянная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorStandardCR" ]
+      "plural": false
     }
   },
   {
@@ -5559,7 +5380,7 @@
     "uniqueEntryId": "wuakRPNugQ72t832X",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08898",
+      "id": 8898,
       "version": "1.0.0",
       "english": "red wooden mailbox",
       "englishEurope": "red wooden mailbox",
@@ -5575,8 +5396,7 @@
       "japanese": "あかいきのポスト",
       "korean": "빨간색 나무 우편함",
       "russian": "красный ящик из дерева",
-      "plural": false,
-      "internalIds": [ 8898 ]
+      "plural": false
     }
   },
   {
@@ -5590,7 +5410,7 @@
     "uniqueEntryId": "jTziEHXkeYaugKDQQ",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "BridgeItem_05918",
+      "id": 5918,
       "version": "1.0.0",
       "english": "red zen bridge",
       "englishEurope": "red zen bridge",
@@ -5606,8 +5426,7 @@
       "japanese": "あかいわふうのはし",
       "korean": "빨간 동양풍 다리",
       "russian": "красный мост «Дзен»",
-      "plural": false,
-      "internalIds": [ 5918 ]
+      "plural": false
     }
   },
   {
@@ -5637,8 +5456,7 @@
       "japanese": "あかいわふうなドア",
       "korean": "빨간색 일본풍 문",
       "russian": "красная дзен-дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorJapaneseDR" ]
+      "plural": false
     }
   },
   {
@@ -5668,8 +5486,7 @@
       "japanese": "あかとみどりのちゅうかなドア",
       "korean": "빨강 초록 중국풍 문",
       "russian": "кр.-зел. азиатская дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorChineseFR" ]
+      "plural": false
     }
   },
   {
@@ -5699,8 +5516,7 @@
       "japanese": "あかいわくのよくあるかべ",
       "korean": "빨간 틀 평범한 외벽",
       "russian": "фасад с красным кантом",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StandardB" ]
+      "plural": false
     }
   },
   {
@@ -5730,8 +5546,7 @@
       "japanese": "そぼくなドア",
       "korean": "소박한 문",
       "russian": "простая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimplicityAR" ]
+      "plural": false
     }
   },
   {
@@ -5745,7 +5560,7 @@
     "uniqueEntryId": "vhd8waS64LR47ty8Q",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_05802",
+      "id": 5802,
       "version": "1.0.0",
       "english": "rustic mailbox",
       "englishEurope": "rustic mailbox",
@@ -5761,8 +5576,7 @@
       "japanese": "そぼくなポスト",
       "korean": "소박한 우편함",
       "russian": "грубый ящик",
-      "plural": false,
-      "internalIds": [ 5802 ]
+      "plural": false
     }
   },
   {
@@ -5776,7 +5590,7 @@
     "uniqueEntryId": "BKJKu7xjhMajA2aFy",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_05342",
+      "id": 5342,
       "version": "1.0.0",
       "english": "square mailbox",
       "englishEurope": "square mailbox",
@@ -5792,8 +5606,7 @@
       "japanese": "しかくいポスト",
       "korean": "사각 우편함",
       "russian": "ящик-куб",
-      "plural": false,
-      "internalIds": [ 5342 ]
+      "plural": false
     }
   },
   {
@@ -5807,7 +5620,7 @@
     "uniqueEntryId": "JmrwC2tRRCCgbZnrp",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "BridgeItem_05912",
+      "id": 5912,
       "version": "1.0.0",
       "english": "stone bridge",
       "englishEurope": "stone bridge",
@@ -5823,8 +5636,7 @@
       "japanese": "いしのはし",
       "korean": "돌 다리",
       "russian": "каменный мост",
-      "plural": false,
-      "internalIds": [ 5912 ]
+      "plural": false
     }
   },
   {
@@ -5838,7 +5650,7 @@
     "uniqueEntryId": "4zszj8KsBNe2XgeGq",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "SlopeItem_05863",
+      "id": 5863,
       "version": "1.0.0",
       "english": "stone staircase",
       "englishEurope": "stone staircase",
@@ -5854,8 +5666,7 @@
       "japanese": "いしのかいだん",
       "korean": "돌 계단",
       "russian": "каменная лестница",
-      "plural": false,
-      "internalIds": [ 5863 ]
+      "plural": false
     }
   },
   {
@@ -5869,7 +5680,7 @@
     "uniqueEntryId": "q52JebMTHDqHJKBba",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "BridgeItem_05913",
+      "id": 5913,
       "version": "1.0.0",
       "english": "suspension bridge",
       "englishEurope": "suspension bridge",
@@ -5885,8 +5696,7 @@
       "japanese": "つりばし",
       "korean": "출렁다리",
       "russian": "подвесной мост",
-      "plural": false,
-      "internalIds": [ 5913 ]
+      "plural": false
     }
   },
   {
@@ -5916,8 +5726,7 @@
       "japanese": "たてながまどのドア",
       "korean": "긴 창문이 달린 문",
       "russian": "дверь с панелями",
-      "plural": false,
-      "internalIds": [ "HouseDoorVerticalWindowAR" ]
+      "plural": false
     }
   },
   {
@@ -5947,8 +5756,7 @@
       "japanese": "こげちゃのこうしのドア",
       "korean": "고동색 격자문",
       "russian": "каштановая решетч. дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorLatticeBR" ]
+      "plural": false
     }
   },
   {
@@ -5978,8 +5786,7 @@
       "japanese": "しろいまるまどのドア",
       "korean": "하얀색 둥근 창문이 달린 문",
       "russian": "белая типовая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCercleWindowHR" ]
+      "plural": false
     }
   },
   {
@@ -6009,8 +5816,7 @@
       "japanese": "しろいよくあるドア",
       "korean": "하얀색 평범한 문",
       "russian": "белая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorReliefGR" ]
+      "plural": false
     }
   },
   {
@@ -6040,8 +5846,7 @@
       "japanese": "ホワイトリッチなドア",
       "korean": "화이트 고급스러운 문",
       "russian": "белая стильная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCarvingAR" ]
+      "plural": false
     }
   },
   {
@@ -6071,8 +5876,7 @@
       "japanese": "しろいちゅうかなドア",
       "korean": "하얀색 중국풍 문",
       "russian": "белая азиатская дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorChineseGR" ]
+      "plural": false
     }
   },
   {
@@ -6102,8 +5906,7 @@
       "japanese": "しろいてつのドア",
       "korean": "하얀색 철제 문",
       "russian": "белая железная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronHR" ]
+      "plural": false
     }
   },
   {
@@ -6133,8 +5936,7 @@
       "japanese": "しろいアイアングリルなドア",
       "korean": "하얀색 아이언 그릴 문",
       "russian": "белая дверь с ковкой",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronGrillFR" ]
+      "plural": false
     }
   },
   {
@@ -6148,7 +5950,7 @@
     "uniqueEntryId": "uEXJbNeCvpXGjCokH",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08677",
+      "id": 8677,
       "version": "1.0.0",
       "english": "white large mailbox",
       "englishEurope": "white large mailbox",
@@ -6164,8 +5966,7 @@
       "japanese": "しろいおおきなポスト",
       "korean": "하얀색 커다란 우편함",
       "russian": "большой белый ящик",
-      "plural": false,
-      "internalIds": [ 8677 ]
+      "plural": false
     }
   },
   {
@@ -6195,8 +5996,7 @@
       "japanese": "しろいこうしのドア",
       "korean": "하얀색 격자문",
       "russian": "белая решетчатая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorLatticeGR" ]
+      "plural": false
     }
   },
   {
@@ -6226,8 +6026,7 @@
       "japanese": "しろいかなぐのドア",
       "korean": "하얀색 금속 장식 문",
       "russian": "белая клепаная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronpartsHR" ]
+      "plural": false
     }
   },
   {
@@ -6241,7 +6040,7 @@
     "uniqueEntryId": "QYJ4Xh4GSSi4iYzMb",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08666",
+      "id": 8666,
       "version": "1.0.0",
       "english": "white ordinary mailbox",
       "englishEurope": "white ordinary mailbox",
@@ -6257,8 +6056,7 @@
       "japanese": "しろいふつうのポスト",
       "korean": "하얀색 일반 우편함",
       "russian": "простой белый ящик",
-      "plural": false,
-      "internalIds": [ 8666 ]
+      "plural": false
     }
   },
   {
@@ -6288,8 +6086,7 @@
       "japanese": "しろいそぼくなドア",
       "korean": "하얀색 소박한 문",
       "russian": "белая простая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimplicityBR" ]
+      "plural": false
     }
   },
   {
@@ -6319,8 +6116,7 @@
       "japanese": "しろいシンプルなドア",
       "korean": "하얀색 심플한 문",
       "russian": "белая обычная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimpleAR" ]
+      "plural": false
     }
   },
   {
@@ -6334,7 +6130,7 @@
     "uniqueEntryId": "62DZnrMMYjrk5jbS5",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08832",
+      "id": 8832,
       "version": "1.0.0",
       "english": "white square mailbox",
       "englishEurope": "white square mailbox",
@@ -6350,8 +6146,7 @@
       "japanese": "しろいしかくいポスト",
       "korean": "하얀색 사각 우편함",
       "russian": "белый ящик-куб",
-      "plural": false,
-      "internalIds": [ 8832 ]
+      "plural": false
     }
   },
   {
@@ -6381,8 +6176,7 @@
       "japanese": "しろいしっくいぬりのかべ",
       "korean": "하얀색 석회 외벽",
       "russian": "фасад с белой отделкой",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StuccoA" ]
+      "plural": false
     }
   },
   {
@@ -6412,8 +6206,7 @@
       "japanese": "しろいかやぶきやね",
       "korean": "하얀색 초가지붕",
       "russian": "белая соломенная крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04ThatchedF" ]
+      "plural": false
     }
   },
   {
@@ -6443,8 +6236,7 @@
       "japanese": "しろいたてながまどのドア",
       "korean": "하얀색 긴 창문이 달린 문",
       "russian": "белая дверь с панелями",
-      "plural": false,
-      "internalIds": [ "HouseDoorVerticalWindowGR" ]
+      "plural": false
     }
   },
   {
@@ -6474,8 +6266,7 @@
       "japanese": "しろいまどつきのドア",
       "korean": "하얀색 창문이 달린 문",
       "russian": "белая дверь с окном",
-      "plural": false,
-      "internalIds": [ "HouseDoorWindowHR" ]
+      "plural": false
     }
   },
   {
@@ -6505,8 +6296,7 @@
       "japanese": "しろいきぐみのドア",
       "korean": "하얀색 목제 문",
       "russian": "белая деревянная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorStandardHR" ]
+      "plural": false
     }
   },
   {
@@ -6520,7 +6310,7 @@
     "uniqueEntryId": "hs8QMbn7caa6z85ha",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08903",
+      "id": 8903,
       "version": "1.0.0",
       "english": "white wooden mailbox",
       "englishEurope": "white wooden mailbox",
@@ -6536,8 +6326,7 @@
       "japanese": "しろいきのポスト",
       "korean": "하얀색 나무 우편함",
       "russian": "белый ящик из дерева",
-      "plural": false,
-      "internalIds": [ 8903 ]
+      "plural": false
     }
   },
   {
@@ -6567,8 +6356,7 @@
       "japanese": "しろいわふうなドア",
       "korean": "하얀색 일본풍 문",
       "russian": "белая дзен-дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorJapaneseGR" ]
+      "plural": false
     }
   },
   {
@@ -6582,7 +6370,7 @@
     "uniqueEntryId": "aR8pTDNtanxDQt7MY",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "SlopeItem_05865",
+      "id": 5865,
       "version": "1.0.0",
       "english": "white-plank ramp",
       "englishEurope": "white-plank ramp",
@@ -6598,8 +6386,7 @@
       "japanese": "しろいいたのスロープ",
       "korean": "하얀 널빤지 슬로프",
       "russian": "рампа из белых досок",
-      "plural": false,
-      "internalIds": [ 5865 ]
+      "plural": false
     }
   },
   {
@@ -6629,8 +6416,7 @@
       "japanese": "まどつきのドア",
       "korean": "창문이 달린 문",
       "russian": "дверь с окном",
-      "plural": false,
-      "internalIds": [ "HouseDoorWindowAR" ]
+      "plural": false
     }
   },
   {
@@ -6644,7 +6430,7 @@
     "uniqueEntryId": "7oZ7FMrJEpBLZzsmw",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "BridgeItem_05914",
+      "id": 5914,
       "version": "1.0.0",
       "english": "wooden bridge",
       "englishEurope": "wooden bridge",
@@ -6660,8 +6446,7 @@
       "japanese": "もくせいのはし",
       "korean": "목제 다리",
       "russian": "деревянный мост",
-      "plural": false,
-      "internalIds": [ 5914 ]
+      "plural": false
     }
   },
   {
@@ -6691,8 +6476,7 @@
       "japanese": "きぐみのドア",
       "korean": "목제 문",
       "russian": "деревянная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorStandardAR" ]
+      "plural": false
     }
   },
   {
@@ -6706,7 +6490,7 @@
     "uniqueEntryId": "iqx2M7qtMQjSr73dq",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_05343",
+      "id": 5343,
       "version": "1.0.0",
       "english": "wooden mailbox",
       "englishEurope": "wooden mailbox",
@@ -6722,8 +6506,7 @@
       "japanese": "きのポスト",
       "korean": "나무 우편함",
       "russian": "ящик из дерева",
-      "plural": false,
-      "internalIds": [ 5343 ]
+      "plural": false
     }
   },
   {
@@ -6753,8 +6536,7 @@
       "japanese": "きいろいまるまどのドア",
       "korean": "노란색 둥근 창문이 달린 문",
       "russian": "желтая типовая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCercleWindowCR" ]
+      "plural": false
     }
   },
   {
@@ -6784,8 +6566,7 @@
       "japanese": "きいろいきわくのかべ",
       "korean": "노란색 나이테 외벽",
       "russian": "желтый фасад шале",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04WoodframeE" ]
+      "plural": false
     }
   },
   {
@@ -6815,8 +6596,7 @@
       "japanese": "きいろいよくあるドア",
       "korean": "노란색 평범한 문",
       "russian": "желтая дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorReliefER" ]
+      "plural": false
     }
   },
   {
@@ -6846,8 +6626,7 @@
       "japanese": "きいろいよくあるかべ",
       "korean": "노란색 평범한 외벽",
       "russian": "простой желтый фасад",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StandardE" ]
+      "plural": false
     }
   },
   {
@@ -6877,8 +6656,7 @@
       "japanese": "きいろいようがわらのやね",
       "korean": "노란색 서양식 기와지붕",
       "russian": "кругл. желтая черепица",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04WesterntileC" ]
+      "plural": false
     }
   },
   {
@@ -6908,8 +6686,7 @@
       "japanese": "イエローリッチなドア",
       "korean": "옐로 고급스러운 문",
       "russian": "желтая стильная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorCarvingFR" ]
+      "plural": false
     }
   },
   {
@@ -6939,8 +6716,7 @@
       "japanese": "きいろいちゅうかなドア",
       "korean": "노란색 중국풍 문",
       "russian": "желтая азиатская дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorChineseDR" ]
+      "plural": false
     }
   },
   {
@@ -6970,8 +6746,7 @@
       "japanese": "きいろいてつのドア",
       "korean": "노란색 철제 문",
       "russian": "желтая железная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorIronDR" ]
+      "plural": false
     }
   },
   {
@@ -6985,7 +6760,7 @@
     "uniqueEntryId": "Ed6P9B4Y7y6TA99YS",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08674",
+      "id": 8674,
       "version": "1.0.0",
       "english": "yellow large mailbox",
       "englishEurope": "yellow large mailbox",
@@ -7001,8 +6776,7 @@
       "japanese": "きいろいおおきなポスト",
       "korean": "노란색 커다란 우편함",
       "russian": "большой желтый ящик",
-      "plural": false,
-      "internalIds": [ 8674 ]
+      "plural": false
     }
   },
   {
@@ -7016,7 +6790,7 @@
     "uniqueEntryId": "egLw54yP3orauEyFd",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08663",
+      "id": 8663,
       "version": "1.0.0",
       "english": "yellow ordinary mailbox",
       "englishEurope": "yellow ordinary mailbox",
@@ -7032,8 +6806,7 @@
       "japanese": "きいろいふつうのポスト",
       "korean": "노란색 일반 우편함",
       "russian": "простой желтый ящик",
-      "plural": false,
-      "internalIds": [ 8663 ]
+      "plural": false
     }
   },
   {
@@ -7063,8 +6836,7 @@
       "japanese": "きいろいシンプルなドア",
       "korean": "노란색 심플한 문",
       "russian": "желтая обычная дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorSimpleFR" ]
+      "plural": false
     }
   },
   {
@@ -7078,7 +6850,7 @@
     "uniqueEntryId": "Me97eMZ28yf3j8S8v",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08829",
+      "id": 8829,
       "version": "1.0.0",
       "english": "yellow square mailbox",
       "englishEurope": "yellow square mailbox",
@@ -7094,8 +6866,7 @@
       "japanese": "きいろいしかくいポスト",
       "korean": "노란색 사각 우편함",
       "russian": "желтый ящик-куб",
-      "plural": false,
-      "internalIds": [ 8829 ]
+      "plural": false
     }
   },
   {
@@ -7125,8 +6896,7 @@
       "japanese": "きいろいしっくいぬりのかべ",
       "korean": "노란색 석회 외벽",
       "russian": "фасад с желтой отделкой",
-      "plural": false,
-      "internalIds": [ "HouseWallPA04StuccoF" ]
+      "plural": false
     }
   },
   {
@@ -7156,8 +6926,7 @@
       "japanese": "きいろいかわらやね",
       "korean": "노란색 기와지붕",
       "russian": "желтая черепичн. крыша",
-      "plural": false,
-      "internalIds": [ "HouseRoofPA04StandardC" ]
+      "plural": false
     }
   },
   {
@@ -7187,8 +6956,7 @@
       "japanese": "きいろいたてながまどのドア",
       "korean": "노란색 긴 창문이 달린 문",
       "russian": "желтая дверь с панелями",
-      "plural": false,
-      "internalIds": [ "HouseDoorVerticalWindowER" ]
+      "plural": false
     }
   },
   {
@@ -7202,7 +6970,7 @@
     "uniqueEntryId": "ZDcPaCBz24tNYiGe4",
     "translations": {
       "sourceSheet": "House Mailbox",
-      "id": "HousePost_08900",
+      "id": 8900,
       "version": "1.0.0",
       "english": "yellow wooden mailbox",
       "englishEurope": "yellow wooden mailbox",
@@ -7218,8 +6986,7 @@
       "japanese": "きいろいきのポスト",
       "korean": "노란색 나무 우편함",
       "russian": "желтый ящик из дерева",
-      "plural": false,
-      "internalIds": [ 8900 ]
+      "plural": false
     }
   },
   {
@@ -7249,8 +7016,7 @@
       "japanese": "きいろいわふうなドア",
       "korean": "노란색 일본풍 문",
       "russian": "желтая дзен-дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorJapaneseBR" ]
+      "plural": false
     }
   },
   {
@@ -7264,7 +7030,7 @@
     "uniqueEntryId": "TbKbHzJM8j8ezmAEF",
     "translations": {
       "sourceSheet": "Bridge & Inclines",
-      "id": "BridgeItem_05916",
+      "id": 5916,
       "version": "1.0.0",
       "english": "zen bridge",
       "englishEurope": "zen bridge",
@@ -7280,8 +7046,7 @@
       "japanese": "わふうのはし",
       "korean": "동양풍 다리",
       "russian": "мост «Дзен»",
-      "plural": false,
-      "internalIds": [ 5916 ]
+      "plural": false
     }
   },
   {
@@ -7311,8 +7076,7 @@
       "japanese": "わふうなドア",
       "korean": "일본풍 문",
       "russian": "дзен-дверь",
-      "plural": false,
-      "internalIds": [ "HouseDoorJapaneseAR" ]
+      "plural": false
     }
   }
 ]

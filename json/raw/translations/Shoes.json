@@ -1689,5 +1689,43 @@
     "Japanese": "かいぞくのブーツ",
     "Korean": "해적 부츠",
     "Russian": "пиратские сапоги"
+  },
+  {
+    "SourceSheet": "Shoes",
+    "id": 1269,
+    "Version": "1.5.0",
+    "English": "flashy animal boots",
+    "English (Europe)": "flashy animal boots",
+    "German": "Paar Tierkostüm-Schuhe",
+    "Spanish": "bota de animal",
+    "Spanish (US)": "bota de animal",
+    "French": "p. de bottes animal flashy",
+    "French (US)": "p. de bottes animal flashy",
+    "Italian": "paio di stivali da animale",
+    "Dutch": "dierenlaarzen",
+    "Chinese": "鲜艳动物玩偶服靴子",
+    "Chinese (Traditional)": "鮮豔動物玩偶裝靴子",
+    "Japanese": "ハデなアニマルきぐるみブーツ",
+    "Korean": "화려한 동물 인형 옷 부츠",
+    "Russian": "броские звериные сапоги"
+  },
+  {
+    "SourceSheet": "Shoes",
+    "id": 1270,
+    "Version": "1.5.0",
+    "English": "mage's boots",
+    "English (Europe)": "mage's boots",
+    "German": "Paar Zauberschuhe",
+    "Spanish": "bota de hechicería",
+    "Spanish (US)": "bota de hechicería",
+    "French": "paire de bottes de mage",
+    "French (US)": "paire de bottes de mage",
+    "Italian": "paio di stivali stregoneschi",
+    "Dutch": "heksenlaarzen",
+    "Chinese": "魔法师靴子",
+    "Chinese (Traditional)": "魔法師靴子",
+    "Japanese": "まほうつかいのブーツ",
+    "Korean": "마법사 부츠",
+    "Russian": "полусапоги мага"
   }
 ]

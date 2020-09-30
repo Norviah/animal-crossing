@@ -25,12 +25,11 @@
     "furnitureFilename": "FtrDiveFishDungenessCrab",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7308,
     "uniqueEntryId": "jTP553H6DNuKBSAKa",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07308",
+      "id": 7308,
       "version": "1.3.0",
       "english": "Dungeness crab",
       "englishEurope": "Dungeness crab",
@@ -46,8 +45,7 @@
       "japanese": "ダンジネスクラブ",
       "korean": "던지니스크랩",
       "russian": "данженесский краб",
-      "plural": false,
-      "internalIds": [ 7308 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -91,12 +89,11 @@
     "furnitureFilename": "FtrDiveFishKairoudouketsu",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7318,
     "uniqueEntryId": "mSvTRhay8tmGXseMt",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07318",
+      "id": 7318,
       "version": "1.3.0",
       "english": "Venus' flower basket",
       "englishEurope": "Venus' flower basket",
@@ -112,8 +109,7 @@
       "japanese": "カイロウドウケツ",
       "korean": "해로동혈",
       "russian": "корзинка Венеры",
-      "plural": false,
-      "internalIds": [ 7318 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -157,12 +153,11 @@
     "furnitureFilename": "FtrDiveFishAwabi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2835,
     "uniqueEntryId": "LnurTYKDSPtsiQr62",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02835",
+      "id": 2835,
       "version": "1.3.0",
       "english": "abalone",
       "englishEurope": "abalone",
@@ -178,8 +173,7 @@
       "japanese": "アワビ",
       "korean": "전복",
       "russian": "абалон",
-      "plural": false,
-      "internalIds": [ 2835 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -223,12 +217,11 @@
     "furnitureFilename": "FtrDiveFishFujitsubo",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2832,
     "uniqueEntryId": "QjvNJrjo5pNqZzuGq",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02832",
+      "id": 2832,
       "version": "1.3.0",
       "english": "acorn barnacle",
       "englishEurope": "acorn barnacle",
@@ -244,8 +237,7 @@
       "japanese": "フジツボ",
       "korean": "따개비",
       "russian": "морской желудь",
-      "plural": false,
-      "internalIds": [ 2832 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -289,12 +281,11 @@
     "furnitureFilename": "FtrDiveFishOumugai",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2856,
     "uniqueEntryId": "cmNawSTGaZZjRi5sp",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02856",
+      "id": 2856,
       "version": "1.3.0",
       "english": "chambered nautilus",
       "englishEurope": "chambered nautilus",
@@ -310,8 +301,7 @@
       "japanese": "オウムガイ",
       "korean": "앵무조개",
       "russian": "наутилус",
-      "plural": false,
-      "internalIds": [ 2856 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -355,12 +345,11 @@
     "furnitureFilename": "FtrDiveFishHotaruika",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 6920,
     "uniqueEntryId": "ETuWxdyZNpqeFCYby",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_06920",
+      "id": 6920,
       "version": "1.3.0",
       "english": "firefly squid",
       "englishEurope": "firefly squid",
@@ -376,8 +365,7 @@
       "japanese": "ホタルイカ",
       "korean": "반딧불오징어",
       "russian": "сверкающий кальмар",
-      "plural": false,
-      "internalIds": [ 6920 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -421,12 +409,11 @@
     "furnitureFilename": "FtrDiveFishHiramushi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2844,
     "uniqueEntryId": "4LAq9YXXj4ZdfkSuK",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02844",
+      "id": 2844,
       "version": "1.3.0",
       "english": "flatworm",
       "englishEurope": "flatworm",
@@ -442,8 +429,7 @@
       "japanese": "ヒラムシ",
       "korean": "납작벌레",
       "russian": "плоский червь",
-      "plural": false,
-      "internalIds": [ 2844 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -487,12 +473,11 @@
     "furnitureFilename": "FtrDiveFishGazami",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7191,
     "uniqueEntryId": "ruLaEghgv3y3obBA2",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07191",
+      "id": 7191,
       "version": "1.3.0",
       "english": "gazami crab",
       "englishEurope": "gazami crab",
@@ -508,8 +493,7 @@
       "japanese": "ガザミ",
       "korean": "꽃게",
       "russian": "газами-краб",
-      "plural": false,
-      "internalIds": [ 7191 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -553,12 +537,11 @@
     "furnitureFilename": "FtrDiveFishDaiougusokumushi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2858,
     "uniqueEntryId": "eGLoSDD4EWD2c6SGs",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02858",
+      "id": 2858,
       "version": "1.3.0",
       "english": "giant isopod",
       "englishEurope": "giant isopod",
@@ -574,8 +557,7 @@
       "japanese": "ダイオウグソクムシ",
       "korean": "자이언트 이소포드",
       "russian": "гигантская изопода",
-      "plural": false,
-      "internalIds": [ 2858 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -619,12 +601,11 @@
     "furnitureFilename": "FtrDiveFishShakogai",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7214,
     "uniqueEntryId": "EQmRaHjokMEGTDC7G",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07214",
+      "id": 7214,
       "version": "1.3.0",
       "english": "gigas giant clam",
       "englishEurope": "gigas giant clam",
@@ -640,8 +621,7 @@
       "japanese": "オオシャコガイ",
       "korean": "대왕거거",
       "russian": "гигантская тридакна",
-      "plural": false,
-      "internalIds": [ 7214 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -685,12 +665,11 @@
     "furnitureFilename": "FtrDiveFishKabutogani",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2857,
     "uniqueEntryId": "bbhHaiT2qwcTy46X5",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02857",
+      "id": 2857,
       "version": "1.3.0",
       "english": "horseshoe crab",
       "englishEurope": "horseshoe crab",
@@ -706,8 +685,7 @@
       "japanese": "カブトガニ",
       "korean": "투구게",
       "russian": "мечехвост",
-      "plural": false,
-      "internalIds": [ 2857 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -751,12 +729,11 @@
     "furnitureFilename": "FtrDiveFishLobster",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2849,
     "uniqueEntryId": "5DadWMEddJREFyXKo",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02849",
+      "id": 2849,
       "version": "1.3.0",
       "english": "lobster",
       "englishEurope": "lobster",
@@ -772,8 +749,7 @@
       "japanese": "ロブスター",
       "korean": "바닷가재",
       "russian": "омар",
-      "plural": false,
-      "internalIds": [ 2849 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -817,12 +793,11 @@
     "furnitureFilename": "FtrDiveFishShako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2845,
     "uniqueEntryId": "WvZWyzkotj6WQ3tLy",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02845",
+      "id": 2845,
       "version": "1.3.0",
       "english": "mantis shrimp",
       "englishEurope": "mantis shrimp",
@@ -838,8 +813,7 @@
       "japanese": "シャコ",
       "korean": "갯가재",
       "russian": "рак-богомол",
-      "plural": false,
-      "internalIds": [ 2845 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -883,12 +857,11 @@
     "furnitureFilename": "FtrDiveFishMizukurage",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7245,
     "uniqueEntryId": "iugx8EqNWqiwv73C7",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07245",
+      "id": 7245,
       "version": "1.3.0",
       "english": "moon jellyfish",
       "englishEurope": "moon jellyfish",
@@ -904,8 +877,7 @@
       "japanese": "ミズクラゲ",
       "korean": "보름달물해파리",
       "russian": "ушастая аурелия",
-      "plural": false,
-      "internalIds": [ 7245 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -949,12 +921,11 @@
     "furnitureFilename": "FtrDiveFishMuhrugai",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7411,
     "uniqueEntryId": "M784h47XqSbBSthgT",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07411",
+      "id": 7411,
       "version": "1.3.0",
       "english": "mussel",
       "englishEurope": "mussel",
@@ -970,8 +941,7 @@
       "japanese": "ムールガイ",
       "korean": "지중해담치",
       "russian": "мидия",
-      "plural": false,
-      "internalIds": [ 7411 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1015,12 +985,11 @@
     "furnitureFilename": "FtrDiveFishTako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2854,
     "uniqueEntryId": "f7amqwd7b3fHnvPFA",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02854",
+      "id": 2854,
       "version": "1.3.0",
       "english": "octopus",
       "englishEurope": "octopus",
@@ -1036,8 +1005,7 @@
       "japanese": "タコ",
       "korean": "문어",
       "russian": "осьминог",
-      "plural": false,
-      "internalIds": [ 2854 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1081,12 +1049,11 @@
     "furnitureFilename": "FtrDiveFishKaki",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2833,
     "uniqueEntryId": "aacYapCp5wKdQDCmB",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02833",
+      "id": 2833,
       "version": "1.3.0",
       "english": "oyster",
       "englishEurope": "oyster",
@@ -1102,8 +1069,7 @@
       "japanese": "オイスター",
       "korean": "굴",
       "russian": "устрица",
-      "plural": false,
-      "internalIds": [ 2833 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1147,12 +1113,11 @@
     "furnitureFilename": "FtrDiveFishAkoyagai",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2838,
     "uniqueEntryId": "Hr2jZ9XybS3jYFw8H",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02838",
+      "id": 2838,
       "version": "1.3.0",
       "english": "pearl oyster",
       "englishEurope": "pearl oyster",
@@ -1168,8 +1133,7 @@
       "japanese": "アコヤガイ",
       "korean": "진주조개",
       "russian": "жемчужница",
-      "plural": false,
-      "internalIds": [ 2838 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1213,12 +1177,11 @@
     "furnitureFilename": "FtrDiveFishTarabagani",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2852,
     "uniqueEntryId": "F3XTwHJQcfdrJk4vk",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02852",
+      "id": 2852,
       "version": "1.3.0",
       "english": "red king crab",
       "englishEurope": "red king crab",
@@ -1234,8 +1197,7 @@
       "japanese": "タラバガニ",
       "korean": "왕게",
       "russian": "камчатский краб",
-      "plural": false,
-      "internalIds": [ 2852 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1279,12 +1241,11 @@
     "furnitureFilename": "FtrDiveFishHotate",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2839,
     "uniqueEntryId": "fMwWEu3Zwy6tZdX2X",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02839",
+      "id": 2839,
       "version": "1.3.0",
       "english": "scallop",
       "englishEurope": "scallop",
@@ -1300,8 +1261,7 @@
       "japanese": "ホタテ",
       "korean": "가리비",
       "russian": "гребешок",
-      "plural": false,
-      "internalIds": [ 2839 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1345,12 +1305,11 @@
     "furnitureFilename": "FtrDiveFishIsogintyaku",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2840,
     "uniqueEntryId": "fre7kn6ALvnpnH8yC",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02840",
+      "id": 2840,
       "version": "1.3.0",
       "english": "sea anemone",
       "englishEurope": "sea anemone",
@@ -1366,8 +1325,7 @@
       "japanese": "イソギンチャク",
       "korean": "말미잘",
       "russian": "актиния",
-      "plural": false,
-      "internalIds": [ 2840 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1411,12 +1369,11 @@
     "furnitureFilename": "FtrDiveFishNamako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2842,
     "uniqueEntryId": "2jxxcGooLMwyyiNQc",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02842",
+      "id": 2842,
       "version": "1.3.0",
       "english": "sea cucumber",
       "englishEurope": "sea cucumber",
@@ -1432,8 +1389,7 @@
       "japanese": "ナマコ",
       "korean": "해삼",
       "russian": "морской огурец",
-      "plural": false,
-      "internalIds": [ 2842 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1477,12 +1433,11 @@
     "furnitureFilename": "FtrDiveFishUmibudou",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2830,
     "uniqueEntryId": "eBdtw3eCrMuP9LWyn",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02830",
+      "id": 2830,
       "version": "1.3.0",
       "english": "sea grapes",
       "englishEurope": "sea grapes",
@@ -1498,8 +1453,7 @@
       "japanese": "ウミブドウ",
       "korean": "바다포도",
       "russian": "морской виноград",
-      "plural": false,
-      "internalIds": [ 2830 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1543,12 +1497,11 @@
     "furnitureFilename": "FtrDiveFishSenjunamako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7303,
     "uniqueEntryId": "kxxguvYvS4G3o7E5x",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07303",
+      "id": 7303,
       "version": "1.3.0",
       "english": "sea pig",
       "englishEurope": "sea pig",
@@ -1564,8 +1517,7 @@
       "japanese": "センジュナマコ",
       "korean": "바다돼지",
       "russian": "скотопланес",
-      "plural": false,
-      "internalIds": [ 7303 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1609,12 +1561,11 @@
     "furnitureFilename": "FtrDiveFishHoya",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7228,
     "uniqueEntryId": "e29uLe7tkErhipLfS",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07228",
+      "id": 7228,
       "version": "1.3.0",
       "english": "sea pineapple",
       "englishEurope": "sea pineapple",
@@ -1630,8 +1581,7 @@
       "japanese": "ホヤ",
       "korean": "멍게",
       "russian": "морской ананас",
-      "plural": false,
-      "internalIds": [ 7228 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1675,12 +1625,11 @@
     "furnitureFilename": "FtrDiveFishUmiushi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2843,
     "uniqueEntryId": "3YjdEG93fagcXpiuf",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02843",
+      "id": 2843,
       "version": "1.3.0",
       "english": "sea slug",
       "englishEurope": "sea slug",
@@ -1696,8 +1645,7 @@
       "japanese": "ウミウシ",
       "korean": "갯민숭달팽이",
       "russian": "голожаберник",
-      "plural": false,
-      "internalIds": [ 2843 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1741,12 +1689,11 @@
     "furnitureFilename": "FtrDiveFishHitode",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2841,
     "uniqueEntryId": "vAF9BcZt5q8gBQJmj",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02841",
+      "id": 2841,
       "version": "1.3.0",
       "english": "sea star",
       "englishEurope": "sea star",
@@ -1762,8 +1709,7 @@
       "japanese": "ヒトデ",
       "korean": "불가사리",
       "russian": "морская звезда",
-      "plural": false,
-      "internalIds": [ 2841 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1807,12 +1753,11 @@
     "furnitureFilename": "FtrDiveFishUni",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2831,
     "uniqueEntryId": "3emjFCipv2bgQ6HaM",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02831",
+      "id": 2831,
       "version": "1.3.0",
       "english": "sea urchin",
       "englishEurope": "sea urchin",
@@ -1828,8 +1773,7 @@
       "japanese": "ウニ",
       "korean": "성게",
       "russian": "морской еж",
-      "plural": false,
-      "internalIds": [ 2831 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1873,12 +1817,11 @@
     "furnitureFilename": "FtrDiveFishWakame",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2620,
     "uniqueEntryId": "KM4dfXCZ6CvZjEyw9",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02620",
+      "id": 2620,
       "version": "1.3.0",
       "english": "seaweed",
       "englishEurope": "seaweed",
@@ -1894,8 +1837,7 @@
       "japanese": "ワカメ",
       "korean": "미역",
       "russian": "морские водоросли",
-      "plural": false,
-      "internalIds": [ 2620 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -1939,12 +1881,11 @@
     "furnitureFilename": "FtrDiveFishPaipuuni",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7267,
     "uniqueEntryId": "TMftNBRmEGkvhpfnC",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07267",
+      "id": 7267,
       "version": "1.3.0",
       "english": "slate pencil urchin",
       "englishEurope": "slate pencil urchin",
@@ -1960,8 +1901,7 @@
       "japanese": "パイプウニ",
       "korean": "연필성게",
       "russian": "грифельный морск. еж",
-      "plural": false,
-      "internalIds": [ 7267 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2005,12 +1945,11 @@
     "furnitureFilename": "FtrDiveFishZuwaigani",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2850,
     "uniqueEntryId": "bQNma5vbcs7wWRqY7",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02850",
+      "id": 2850,
       "version": "1.3.0",
       "english": "snow crab",
       "englishEurope": "snow crab",
@@ -2026,8 +1965,7 @@
       "japanese": "ズワイガニ",
       "korean": "대게",
       "russian": "краб-стригун",
-      "plural": false,
-      "internalIds": [ 2850 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2071,12 +2009,11 @@
     "furnitureFilename": "FtrDiveFishTakaashigani",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2853,
     "uniqueEntryId": "gp2XNvGKNGmR6buT3",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02853",
+      "id": 2853,
       "version": "1.3.0",
       "english": "spider crab",
       "englishEurope": "spider crab",
@@ -2092,8 +2029,7 @@
       "japanese": "タカアシガニ",
       "korean": "키다리게",
       "russian": "краб-паук",
-      "plural": false,
-      "internalIds": [ 2853 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2137,12 +2073,11 @@
     "furnitureFilename": "FtrDiveFishIseebi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2848,
     "uniqueEntryId": "9n5iphC8vQe6Rar72",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02848",
+      "id": 2848,
       "version": "1.3.0",
       "english": "spiny lobster",
       "englishEurope": "spiny lobster",
@@ -2158,8 +2093,7 @@
       "japanese": "イセエビ",
       "korean": "닭새우",
       "russian": "колючий лангуст",
-      "plural": false,
-      "internalIds": [ 2848 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2203,12 +2137,11 @@
     "furnitureFilename": "FtrDiveFishChinanago",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2855,
     "uniqueEntryId": "zYEHNF5Svak8ZARMW",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02855",
+      "id": 2855,
       "version": "1.3.0",
       "english": "spotted garden eel",
       "englishEurope": "spotted garden eel",
@@ -2224,8 +2157,7 @@
       "japanese": "チンアナゴ",
       "korean": "가든일",
       "russian": "леопардовый угорь",
-      "plural": false,
-      "internalIds": [ 2855 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2269,12 +2201,11 @@
     "furnitureFilename": "FtrDiveFishAmaebi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2846,
     "uniqueEntryId": "5v5X2ipAYLaALxMsw",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02846",
+      "id": 2846,
       "version": "1.3.0",
       "english": "sweet shrimp",
       "englishEurope": "sweet shrimp",
@@ -2290,8 +2221,7 @@
       "japanese": "アマエビ",
       "korean": "북쪽분홍새우",
       "russian": "северная креветка",
-      "plural": false,
-      "internalIds": [ 2846 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2335,12 +2265,11 @@
     "furnitureFilename": "FtrDiveFishKurumaebi",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2847,
     "uniqueEntryId": "EaMd8ansu3qtzAGbv",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02847",
+      "id": 2847,
       "version": "1.3.0",
       "english": "tiger prawn",
       "englishEurope": "tiger prawn",
@@ -2356,8 +2285,7 @@
       "japanese": "クルマエビ",
       "korean": "보리새우",
       "russian": "тигровая креветка",
-      "plural": false,
-      "internalIds": [ 2847 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2401,12 +2329,11 @@
     "furnitureFilename": "FtrDiveFishSazae",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 2834,
     "uniqueEntryId": "efXQqEuT2yZApwmGB",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_02834",
+      "id": 2834,
       "version": "1.3.0",
       "english": "turban shell",
       "englishEurope": "turban shell",
@@ -2422,8 +2349,7 @@
       "japanese": "サザエ",
       "korean": "소라",
       "russian": "рогатый тюрбан",
-      "plural": false,
-      "internalIds": [ 2834 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2467,12 +2393,11 @@
     "furnitureFilename": "FtrDiveFishMendako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7252,
     "uniqueEntryId": "kXFeaEJCCEkQ58T2e",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07252",
+      "id": 7252,
       "version": "1.3.0",
       "english": "umbrella octopus",
       "englishEurope": "umbrella octopus",
@@ -2488,8 +2413,7 @@
       "japanese": "メンダコ",
       "korean": "우무문어",
       "russian": "опистотейтис",
-      "plural": false,
-      "internalIds": [ 7252 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2533,12 +2457,11 @@
     "furnitureFilename": "FtrDiveFishKoumoridako",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7203,
     "uniqueEntryId": "deJZZk2rxAnePwfzq",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07203",
+      "id": 7203,
       "version": "1.3.0",
       "english": "vampire squid",
       "englishEurope": "vampire squid",
@@ -2554,8 +2477,7 @@
       "japanese": "コウモリダコ",
       "korean": "흡혈오징어",
       "russian": "адский кальмар-вампир",
-      "plural": false,
-      "internalIds": [ 7203 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {
@@ -2599,12 +2521,11 @@
     "furnitureFilename": "FtrDiveFishBaigai",
     "versionAdded": "1.3.0",
     "unlocked": true,
-    "versionUnlocked": "1.3.0",
     "internalId": 7278,
     "uniqueEntryId": "jSidvLMAXdiDAQNs6",
     "translations": {
       "sourceSheet": "Sea Creatures",
-      "id": "DiveFish_07278",
+      "id": 7278,
       "version": "1.3.0",
       "english": "whelk",
       "englishEurope": "whelk",
@@ -2620,8 +2541,7 @@
       "japanese": "バイガイ",
       "korean": "수랑",
       "russian": "моллюск-трубач",
-      "plural": false,
-      "internalIds": [ 7278 ]
+      "plural": false
     },
     "hemipsheres": {
       "north": {

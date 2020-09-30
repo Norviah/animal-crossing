@@ -12,13 +12,12 @@
     "versionAdded": "1.1.0",
     "unlocked": true,
     "unlockNotes": [ "2020-04-01", "BCAT", "1.1.0a" ],
-    "versionUnlocked": "1.1.0a",
     "filename": "ItemFenceEgg",
     "internalId": 12630,
     "uniqueEntryId": "CLQGhAfSNykpxrh3a",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_12630",
+      "id": 12630,
       "version": "1.1.0",
       "english": "Bunny Day fence",
       "englishEurope": "Bunny Day fence",
@@ -34,8 +33,7 @@
       "japanese": "イースターなさく",
       "korean": "이스터 울타리",
       "russian": "забор «День зайцев»",
-      "plural": false,
-      "internalIds": [ 12630 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -46,11 +44,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Egg bottle", "Egg balloon" ],
-      "sourceNotes": "Only available during Bunny Day",
+      "sourceNotes": [ "Only available during Bunny Day" ],
       "versionAdded": "1.1.0",
       "unlocked": true,
       "unlockNotes": [ "2020-04-01", "BCAT", "1.1.0a" ],
-      "versionUnlocked": "1.1.0a",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 12630,
@@ -61,7 +58,7 @@
       "uniqueEntryId": "4Kdig9tWPTr4Xx6Kv",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_12630",
+        "id": 12630,
         "version": "1.1.0",
         "english": "Bunny Day fence",
         "englishEurope": "Bunny Day fence",
@@ -77,8 +74,7 @@
         "japanese": "イースターなさく",
         "korean": "이스터 울타리",
         "russian": "забор «День зайцев»",
-        "plural": false,
-        "internalIds": [ 12630 ]
+        "plural": false
       },
       "materials": {
         "earth egg": 1,
@@ -91,7 +87,7 @@
       "materialsTranslations": {
         "earth egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12509",
+          "id": 12509,
           "version": "1.1.0",
           "english": "earth egg",
           "englishEurope": "earth egg",
@@ -107,12 +103,11 @@
           "japanese": "じめんのたまご",
           "korean": "땅 달걀",
           "russian": "земляное яйцо",
-          "plural": false,
-          "internalIds": [ 12509 ]
+          "plural": false
         },
         "stone egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12510",
+          "id": 12510,
           "version": "1.1.0",
           "english": "stone egg",
           "englishEurope": "stone egg",
@@ -128,12 +123,11 @@
           "japanese": "いわのたまご",
           "korean": "바위 달걀",
           "russian": "каменное яйцо",
-          "plural": false,
-          "internalIds": [ 12510 ]
+          "plural": false
         },
         "leaf egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12511",
+          "id": 12511,
           "version": "1.1.0",
           "english": "leaf egg",
           "englishEurope": "leaf egg",
@@ -149,12 +143,11 @@
           "japanese": "はっぱのたまご",
           "korean": "나뭇잎 달걀",
           "russian": "лиственное яйцо",
-          "plural": false,
-          "internalIds": [ 12511 ]
+          "plural": false
         },
         "wood egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12512",
+          "id": 12512,
           "version": "1.1.0",
           "english": "wood egg",
           "englishEurope": "wood egg",
@@ -170,12 +163,11 @@
           "japanese": "ウッディなたまご",
           "korean": "나무 달걀",
           "russian": "лесное яйцо",
-          "plural": false,
-          "internalIds": [ 12512 ]
+          "plural": false
         },
         "sky egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12513",
+          "id": 12513,
           "version": "1.1.0",
           "english": "sky egg",
           "englishEurope": "sky egg",
@@ -191,12 +183,11 @@
           "japanese": "そらとぶたまご",
           "korean": "하늘을 나는 달걀",
           "russian": "небесное яйцо",
-          "plural": false,
-          "internalIds": [ 12513 ]
+          "plural": false
         },
         "water egg": {
           "sourceSheet": "Event Items",
-          "id": "EasterEgg_12514",
+          "id": 12514,
           "version": "1.1.0",
           "english": "water egg",
           "englishEurope": "water egg",
@@ -212,8 +203,7 @@
           "japanese": "サカナのたまご",
           "korean": "물고기 달걀",
           "russian": "водяное яйцо",
-          "plural": false,
-          "internalIds": [ 12514 ]
+          "plural": false
         }
       }
     }
@@ -231,13 +221,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceBamboo",
     "internalId": 3403,
     "uniqueEntryId": "XaLnmQsQ47HfHQ9g5",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_03403",
+      "id": 3403,
       "version": "1.0.0",
       "english": "bamboo lattice fence",
       "englishEurope": "bamboo lattice fence",
@@ -253,8 +242,7 @@
       "japanese": "たけがき",
       "korean": "대나무 울타리",
       "russian": "забор из бамбука",
-      "plural": false,
-      "internalIds": [ 3403 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -269,7 +257,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 3403,
@@ -280,7 +267,7 @@
       "uniqueEntryId": "kFi2XW9eoPkAoWdS5",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_03403",
+        "id": 3403,
         "version": "1.0.0",
         "english": "bamboo lattice fence",
         "englishEurope": "bamboo lattice fence",
@@ -296,14 +283,13 @@
         "japanese": "たけがき",
         "korean": "대나무 울타리",
         "russian": "забор из бамбука",
-        "plural": false,
-        "internalIds": [ 3403 ]
+        "plural": false
       },
       "materials": { "bamboo piece": 6 },
       "materialsTranslations": {
         "bamboo piece": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02501",
+          "id": 2501,
           "version": "1.0.0",
           "english": "bamboo piece",
           "englishEurope": "bamboo piece",
@@ -319,8 +305,7 @@
           "japanese": "バンブー",
           "korean": "대나무 토막",
           "russian": "часть бамбука",
-          "plural": false,
-          "internalIds": [ 2501 ]
+          "plural": false
         }
       }
     }
@@ -338,13 +323,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceBarbedWire",
     "internalId": 5213,
     "uniqueEntryId": "dNgibaR9jFqaDwuDZ",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_05213",
+      "id": 5213,
       "version": "1.0.0",
       "english": "barbed-wire fence",
       "englishEurope": "barbed-wire fence",
@@ -360,8 +344,7 @@
       "japanese": "ゆうしてっせん",
       "korean": "가시철조망 울타리",
       "russian": "колючая проволока",
-      "plural": false,
-      "internalIds": [ 5213 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -376,7 +359,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 5213,
@@ -387,7 +369,7 @@
       "uniqueEntryId": "dgW8J3q4JWsyyrDxP",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_05213",
+        "id": 5213,
         "version": "1.0.0",
         "english": "barbed-wire fence",
         "englishEurope": "barbed-wire fence",
@@ -403,35 +385,33 @@
         "japanese": "ゆうしてっせん",
         "korean": "가시철조망 울타리",
         "russian": "колючая проволока",
-        "plural": false,
-        "internalIds": [ 5213 ]
+        "plural": false
       },
       "materials": { "hardwood": 4, "iron nugget": 2 },
       "materialsTranslations": {
         "hardwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02769",
+          "id": 2769,
           "version": "1.0.0",
           "english": "hardwood",
           "englishEurope": "hardwood",
           "german": "Hartholz",
-          "spanish": "tabla rígida",
-          "spanishUs": "tabla rígida",
+          "spanish": "tablas rígidas",
+          "spanishUs": "tablas rígidas",
           "french": "bois dur",
           "frenchUs": "bois dur",
-          "italian": "legno duro",
+          "italian": "legna dura",
           "dutch": "hardhout",
           "chinese": "硬木材",
           "chineseTraditional": "硬木材",
           "japanese": "かたいもくざい",
           "korean": "단단한 목재",
           "russian": "твердая древесина",
-          "plural": false,
-          "internalIds": [ 2769 ]
+          "plural": true
         },
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -447,8 +427,7 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         }
       }
     }
@@ -466,13 +445,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceWallRenga",
     "internalId": 3080,
     "uniqueEntryId": "WAzanA7e5MREzJdMh",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_03080",
+      "id": 3080,
       "version": "1.0.0",
       "english": "brick fence",
       "englishEurope": "brick fence",
@@ -488,8 +466,7 @@
       "japanese": "レンガのカベ",
       "korean": "벽돌 울타리",
       "russian": "кирпичный забор",
-      "plural": false,
-      "internalIds": [ 3080 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -504,7 +481,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 3080,
@@ -515,7 +491,7 @@
       "uniqueEntryId": "F7bg775Kh6niY7gcZ",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_03080",
+        "id": 3080,
         "version": "1.0.0",
         "english": "brick fence",
         "englishEurope": "brick fence",
@@ -531,31 +507,29 @@
         "japanese": "レンガのカベ",
         "korean": "벽돌 울타리",
         "russian": "кирпичный забор",
-        "plural": false,
-        "internalIds": [ 3080 ]
+        "plural": false
       },
       "materials": { "clay": 6 },
       "materialsTranslations": {
         "clay": {
-          "sourceSheet": "Craft",
-          "id": "Ore_03090",
+          "sourceSheet": "Villagers",
+          "id": "ham05",
           "version": "1.0.0",
-          "english": "clay",
-          "englishEurope": "clay",
-          "german": "Lehm",
-          "spanish": "bola de arcilla",
-          "spanishUs": "bola de arcilla",
-          "french": "argile",
-          "frenchUs": "argile",
-          "italian": "pezzo di argilla",
-          "dutch": "kleihomp",
-          "chinese": "黏土",
-          "chineseTraditional": "黏土",
-          "japanese": "ねんど",
-          "korean": "점토",
-          "russian": "кусок глины",
-          "plural": false,
-          "internalIds": [ 3090 ]
+          "english": "Clay",
+          "englishEurope": "Clay",
+          "german": "Dietmar",
+          "spanish": "Boliche",
+          "spanishUs": "Boliche",
+          "french": "Guido",
+          "frenchUs": "Guido",
+          "italian": "Carmelo",
+          "dutch": "Clay",
+          "chinese": "子墨",
+          "chineseTraditional": "子墨",
+          "japanese": "どぐろう",
+          "korean": "햄둥",
+          "russian": "Клэй",
+          "plural": false
         }
       }
     }
@@ -573,13 +547,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceHorizontalWood",
     "internalId": 4349,
     "uniqueEntryId": "rqwqYy7Aphvh5zBSA",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_04349",
+      "id": 4349,
       "version": "1.0.0",
       "english": "corral fence",
       "englishEurope": "corral fence",
@@ -595,8 +568,7 @@
       "japanese": "よこいたのさく",
       "korean": "가로 널빤지 울타리",
       "russian": "дощатый забор",
-      "plural": false,
-      "internalIds": [ 4349 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -611,7 +583,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 4349,
@@ -622,7 +593,7 @@
       "uniqueEntryId": "MRhMdwsDKNuaDfi8s",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_04349",
+        "id": 4349,
         "version": "1.0.0",
         "english": "corral fence",
         "englishEurope": "corral fence",
@@ -638,31 +609,30 @@
         "japanese": "よこいたのさく",
         "korean": "가로 널빤지 울타리",
         "russian": "дощатый забор",
-        "plural": false,
-        "internalIds": [ 4349 ]
+        "plural": false
       },
       "materials": { "wood": 6 },
       "materialsTranslations": {
         "wood": {
-          "sourceSheet": "Craft",
-          "id": "CraftMaterial_02768",
-          "version": "1.0.0",
-          "english": "wood",
-          "englishEurope": "wood",
-          "german": "Holz",
-          "spanish": "tabla normal",
-          "spanishUs": "tabla normal",
-          "french": "bois",
-          "frenchUs": "bois",
-          "italian": "legno normale",
-          "dutch": "hout",
-          "chinese": "木材",
-          "chineseTraditional": "木材",
-          "japanese": "もくざい",
-          "korean": "목재",
-          "russian": "древесина",
-          "plural": false,
-          "internalIds": [ 2768 ]
+          "sourceSheet": "Furniture Patterns",
+          "variantId": 4,
+          "id": 3307,
+          "furnitureName": "digital scale",
+          "english": "Wood",
+          "englishEurope": "Wood",
+          "german": "Gelbe Streifen",
+          "spanish": "Madera",
+          "spanishUs": "Madera",
+          "french": "Bois",
+          "frenchUs": "Bois",
+          "italian": "Legno",
+          "dutch": "Hout",
+          "chinese": "黄色条纹",
+          "chineseTraditional": "黃色條紋",
+          "japanese": "イエローストライプ",
+          "korean": "옐로 스트라이프",
+          "russian": "Под дерево",
+          "plural": false
         }
       }
     }
@@ -680,13 +650,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceLog",
     "internalId": 4350,
     "uniqueEntryId": "twwkbWJ8YsoJEy3j8",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_04350",
+      "id": 4350,
       "version": "1.0.0",
       "english": "country fence",
       "englishEurope": "country fence",
@@ -702,8 +671,7 @@
       "japanese": "まるたのさく",
       "korean": "통나무 울타리",
       "russian": "забор из столбиков",
-      "plural": false,
-      "internalIds": [ 4350 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -718,7 +686,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 4350,
@@ -729,7 +696,7 @@
       "uniqueEntryId": "Wy3TCH3APTHJrpDhg",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_04350",
+        "id": 4350,
         "version": "1.0.0",
         "english": "country fence",
         "englishEurope": "country fence",
@@ -745,31 +712,29 @@
         "japanese": "まるたのさく",
         "korean": "통나무 울타리",
         "russian": "забор из столбиков",
-        "plural": false,
-        "internalIds": [ 4350 ]
+        "plural": false
       },
       "materials": { "hardwood": 6 },
       "materialsTranslations": {
         "hardwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02769",
+          "id": 2769,
           "version": "1.0.0",
           "english": "hardwood",
           "englishEurope": "hardwood",
           "german": "Hartholz",
-          "spanish": "tabla rígida",
-          "spanishUs": "tabla rígida",
+          "spanish": "tablas rígidas",
+          "spanishUs": "tablas rígidas",
           "french": "bois dur",
           "frenchUs": "bois dur",
-          "italian": "legno duro",
+          "italian": "legna dura",
           "dutch": "hardhout",
           "chinese": "硬木材",
           "chineseTraditional": "硬木材",
           "japanese": "かたいもくざい",
           "korean": "단단한 목재",
           "russian": "твердая древесина",
-          "plural": false,
-          "internalIds": [ 2769 ]
+          "plural": true
         }
       }
     }
@@ -787,13 +752,12 @@
     "versionAdded": "1.2.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.2.0",
     "filename": "ItemFenceIkegaki",
     "internalId": 12758,
     "uniqueEntryId": "TphLYSh2MdogHdheg",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_12758",
+      "id": 12758,
       "version": "1.2.0",
       "english": "hedge",
       "englishEurope": "hedge",
@@ -809,8 +773,7 @@
       "japanese": "いけがき",
       "korean": "낮은 나무 울타리",
       "russian": "живая изгородь",
-      "plural": false,
-      "internalIds": [ 12758 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -821,11 +784,13 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Tom Nook", "Leif" ],
-      "sourceNotes": "Obtained from Tom Nook after completing one Nature Day Nook Miles+ task; Obtained from Leif after buying anything from him on three different days",
+      "sourceNotes": [
+        "Obtained from Tom Nook after completing one Nature Day Nook Miles+ task",
+        "Obtained from Leif after buying anything from him on three different days"
+      ],
       "versionAdded": "1.2.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.2.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 12758,
@@ -836,7 +801,7 @@
       "uniqueEntryId": "m9LpprrQ6sP6EnArD",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_12758",
+        "id": 12758,
         "version": "1.2.0",
         "english": "hedge",
         "englishEurope": "hedge",
@@ -852,14 +817,13 @@
         "japanese": "いけがき",
         "korean": "낮은 나무 울타리",
         "russian": "живая изгородь",
-        "plural": false,
-        "internalIds": [ 12758 ]
+        "plural": false
       },
       "materials": { "clump of weeds": 10, "tree branch": 5, "stone": 2 },
       "materialsTranslations": {
         "clump of weeds": {
           "sourceSheet": "Plants",
-          "id": "Weed_02624",
+          "id": 2624,
           "version": "1.0.0",
           "english": "clump of weeds",
           "englishEurope": "clump of weeds",
@@ -875,12 +839,11 @@
           "japanese": "ざっそう",
           "korean": "잡초",
           "russian": "сорняк",
-          "plural": false,
-          "internalIds": [ 2624 ]
+          "plural": false
         },
         "tree branch": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02500",
+          "id": 2500,
           "version": "1.0.0",
           "english": "tree branch",
           "englishEurope": "tree branch",
@@ -896,8 +859,7 @@
           "japanese": "きのえだ",
           "korean": "나뭇가지",
           "russian": "ветка",
-          "plural": false,
-          "internalIds": [ 2500 ]
+          "plural": false
         },
         "stone": {
           "sourceSheet": "HHA Set",
@@ -917,8 +879,7 @@
           "japanese": "いし",
           "korean": "돌",
           "russian": "Камень",
-          "plural": false,
-          "internalIds": [ 2502 ]
+          "plural": false
         }
       }
     }
@@ -936,13 +897,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceChinese",
     "internalId": 4354,
     "uniqueEntryId": "fHqt7TXfbhfKnPbwG",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_04354",
+      "id": 4354,
       "version": "1.0.0",
       "english": "imperial fence",
       "englishEurope": "imperial fence",
@@ -958,8 +918,7 @@
       "japanese": "オリエンタルなさく",
       "korean": "오리엔탈 울타리",
       "russian": "забор в азиатском стиле",
-      "plural": false,
-      "internalIds": [ 4354 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -974,7 +933,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 4354,
@@ -985,7 +943,7 @@
       "uniqueEntryId": "6xscDDXokkLGARAzw",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_04354",
+        "id": 4354,
         "version": "1.0.0",
         "english": "imperial fence",
         "englishEurope": "imperial fence",
@@ -1001,52 +959,50 @@
         "japanese": "オリエンタルなさく",
         "korean": "오리엔탈 울타리",
         "russian": "забор в азиатском стиле",
-        "plural": false,
-        "internalIds": [ 4354 ]
+        "plural": false
       },
       "materials": { "wood": 6, "softwood": 4 },
       "materialsTranslations": {
         "wood": {
-          "sourceSheet": "Craft",
-          "id": "CraftMaterial_02768",
-          "version": "1.0.0",
-          "english": "wood",
-          "englishEurope": "wood",
-          "german": "Holz",
-          "spanish": "tabla normal",
-          "spanishUs": "tabla normal",
-          "french": "bois",
-          "frenchUs": "bois",
-          "italian": "legno normale",
-          "dutch": "hout",
-          "chinese": "木材",
-          "chineseTraditional": "木材",
-          "japanese": "もくざい",
-          "korean": "목재",
-          "russian": "древесина",
-          "plural": false,
-          "internalIds": [ 2768 ]
+          "sourceSheet": "Furniture Patterns",
+          "variantId": 4,
+          "id": 3307,
+          "furnitureName": "digital scale",
+          "english": "Wood",
+          "englishEurope": "Wood",
+          "german": "Gelbe Streifen",
+          "spanish": "Madera",
+          "spanishUs": "Madera",
+          "french": "Bois",
+          "frenchUs": "Bois",
+          "italian": "Legno",
+          "dutch": "Hout",
+          "chinese": "黄色条纹",
+          "chineseTraditional": "黃色條紋",
+          "japanese": "イエローストライプ",
+          "korean": "옐로 스트라이프",
+          "russian": "Под дерево",
+          "plural": false
         },
         "softwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02767",
+          "id": 2767,
           "version": "1.0.0",
           "english": "softwood",
           "englishEurope": "softwood",
           "german": "Weichholz",
-          "spanish": "tabla flexible",
-          "spanishUs": "tabla flexible",
+          "spanish": "tablas flexibles",
+          "spanishUs": "tablas flexibles",
           "french": "bois tendre",
           "frenchUs": "bois tendre",
-          "italian": "legno morbido",
+          "italian": "legna morbida",
           "dutch": "zachthout",
           "chinese": "软木材",
           "chineseTraditional": "軟木材",
           "japanese": "やわらかいもくざい",
           "korean": "부드러운 목재",
           "russian": "мягкая древесина",
-          "plural": false,
-          "internalIds": [ 2767 ]
+          "plural": true
         }
       }
     }
@@ -1064,13 +1020,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceSteel",
     "internalId": 4357,
     "uniqueEntryId": "RL5hL24NbwzE7zv3R",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_04357",
+      "id": 4357,
       "version": "1.0.0",
       "english": "iron fence",
       "englishEurope": "iron fence",
@@ -1086,8 +1041,7 @@
       "japanese": "てつのさく",
       "korean": "철제 울타리",
       "russian": "железный забор",
-      "plural": false,
-      "internalIds": [ 4357 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -1102,7 +1056,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 4357,
@@ -1113,7 +1066,7 @@
       "uniqueEntryId": "6b9c3c3cRkfK3sqXu",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_04357",
+        "id": 4357,
         "version": "1.0.0",
         "english": "iron fence",
         "englishEurope": "iron fence",
@@ -1129,14 +1082,13 @@
         "japanese": "てつのさく",
         "korean": "철제 울타리",
         "russian": "железный забор",
-        "plural": false,
-        "internalIds": [ 4357 ]
+        "plural": false
       },
       "materials": { "iron nugget": 6 },
       "materialsTranslations": {
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -1152,8 +1104,7 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         }
       }
     }
@@ -1171,13 +1122,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceIronAndStone",
     "internalId": 5206,
     "uniqueEntryId": "kjSa4R6JQz2DtWQ2C",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_05206",
+      "id": 5206,
       "version": "1.0.0",
       "english": "iron-and-stone fence",
       "englishEurope": "iron-and-stone fence",
@@ -1193,8 +1143,7 @@
       "japanese": "ようふうのさく",
       "korean": "아이언 스톤 울타리",
       "russian": "кованый забор",
-      "plural": false,
-      "internalIds": [ 5206 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -1209,7 +1158,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 5206,
@@ -1220,7 +1168,7 @@
       "uniqueEntryId": "qe9qWWJB7wDbMLKTG",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_05206",
+        "id": 5206,
         "version": "1.0.0",
         "english": "iron-and-stone fence",
         "englishEurope": "iron-and-stone fence",
@@ -1236,8 +1184,7 @@
         "japanese": "ようふうのさく",
         "korean": "아이언 스톤 울타리",
         "russian": "кованый забор",
-        "plural": false,
-        "internalIds": [ 5206 ]
+        "plural": false
       },
       "materials": { "stone": 6, "iron nugget": 3 },
       "materialsTranslations": {
@@ -1259,12 +1206,11 @@
           "japanese": "いし",
           "korean": "돌",
           "russian": "Камень",
-          "plural": false,
-          "internalIds": [ 2502 ]
+          "plural": false
         },
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -1280,8 +1226,7 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         }
       }
     }
@@ -1299,13 +1244,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceLatiiceNatural",
     "internalId": 11712,
     "uniqueEntryId": "qBrhYgaCnEiQYouP6",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_11712",
+      "id": 11712,
       "version": "1.0.0",
       "english": "lattice fence",
       "englishEurope": "lattice fence",
@@ -1321,8 +1265,7 @@
       "japanese": "ラティス",
       "korean": "격자 울타리",
       "russian": "решетка",
-      "plural": false,
-      "internalIds": [ 11712 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -1337,7 +1280,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 11712,
@@ -1348,7 +1290,7 @@
       "uniqueEntryId": "LRSdBoRQia8MgkGRg",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_11712",
+        "id": 11712,
         "version": "1.0.0",
         "english": "lattice fence",
         "englishEurope": "lattice fence",
@@ -1364,31 +1306,29 @@
         "japanese": "ラティス",
         "korean": "격자 울타리",
         "russian": "решетка",
-        "plural": false,
-        "internalIds": [ 11712 ]
+        "plural": false
       },
       "materials": { "softwood": 8 },
       "materialsTranslations": {
         "softwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02767",
+          "id": 2767,
           "version": "1.0.0",
           "english": "softwood",
           "englishEurope": "softwood",
           "german": "Weichholz",
-          "spanish": "tabla flexible",
-          "spanishUs": "tabla flexible",
+          "spanish": "tablas flexibles",
+          "spanishUs": "tablas flexibles",
           "french": "bois tendre",
           "frenchUs": "bois tendre",
-          "italian": "legno morbido",
+          "italian": "legna morbida",
           "dutch": "zachthout",
           "chinese": "软木材",
           "chineseTraditional": "軟木材",
           "japanese": "やわらかいもくざい",
           "korean": "부드러운 목재",
           "russian": "мягкая древесина",
-          "plural": false,
-          "internalIds": [ 2767 ]
+          "plural": true
         }
       }
     }
@@ -1406,13 +1346,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFencePegRope",
     "internalId": 4352,
     "uniqueEntryId": "TpruAQnqeeYcDxPRj",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_04352",
+      "id": 4352,
       "version": "1.0.0",
       "english": "rope fence",
       "englishEurope": "rope fence",
@@ -1428,8 +1367,7 @@
       "japanese": "ペグとロープ",
       "korean": "페그 울타리",
       "russian": "ограда из веревки",
-      "plural": false,
-      "internalIds": [ 4352 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -1444,7 +1382,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 4352,
@@ -1455,7 +1392,7 @@
       "uniqueEntryId": "376NtDBZyAE9mDtSo",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_04352",
+        "id": 4352,
         "version": "1.0.0",
         "english": "rope fence",
         "englishEurope": "rope fence",
@@ -1471,14 +1408,13 @@
         "japanese": "ペグとロープ",
         "korean": "페그 울타리",
         "russian": "ограда из веревки",
-        "plural": false,
-        "internalIds": [ 4352 ]
+        "plural": false
       },
       "materials": { "iron nugget": 4 },
       "materialsTranslations": {
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -1494,8 +1430,7 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         }
       }
     }
@@ -1509,17 +1444,18 @@
     "buy": -1,
     "sell": 720,
     "source": [ "Crafting", "Tom Nook" ],
-    "sourceNotes": "50 fences are given by Tom Nook after completing the three house plots during the main storyline",
+    "sourceNotes": [
+      "50 fences are given by Tom Nook after completing the three house plots during the main storyline"
+    ],
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceNatural",
     "internalId": 11711,
     "uniqueEntryId": "bxF62vutvYBw9BTDT",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_11711",
+      "id": 11711,
       "version": "1.0.0",
       "english": "simple wooden fence",
       "englishEurope": "simple wooden fence",
@@ -1535,8 +1471,7 @@
       "japanese": "そぼくなもくせいのさく",
       "korean": "소박한 목제 울타리",
       "russian": "простой дерев. забор",
-      "plural": false,
-      "internalIds": [ 11711 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -1551,7 +1486,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 11711,
@@ -1562,7 +1496,7 @@
       "uniqueEntryId": "ZGyfJBiFPk58dPFfn",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_11711",
+        "id": 11711,
         "version": "1.0.0",
         "english": "simple wooden fence",
         "englishEurope": "simple wooden fence",
@@ -1578,31 +1512,29 @@
         "japanese": "そぼくなもくせいのさく",
         "korean": "소박한 목제 울타리",
         "russian": "простой дерев. забор",
-        "plural": false,
-        "internalIds": [ 11711 ]
+        "plural": false
       },
       "materials": { "softwood": 6 },
       "materialsTranslations": {
         "softwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02767",
+          "id": 2767,
           "version": "1.0.0",
           "english": "softwood",
           "englishEurope": "softwood",
           "german": "Weichholz",
-          "spanish": "tabla flexible",
-          "spanishUs": "tabla flexible",
+          "spanish": "tablas flexibles",
+          "spanishUs": "tablas flexibles",
           "french": "bois tendre",
           "frenchUs": "bois tendre",
-          "italian": "legno morbido",
+          "italian": "legna morbida",
           "dutch": "zachthout",
           "chinese": "软木材",
           "chineseTraditional": "軟木材",
           "japanese": "やわらかいもくざい",
           "korean": "부드러운 목재",
           "russian": "мягкая древесина",
-          "plural": false,
-          "internalIds": [ 2767 ]
+          "plural": true
         }
       }
     }
@@ -1620,13 +1552,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceSharply",
     "internalId": 4358,
     "uniqueEntryId": "gYccyRpBzpFCLLW56",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_04358",
+      "id": 4358,
       "version": "1.0.0",
       "english": "spiky fence",
       "englishEurope": "spiky fence",
@@ -1642,8 +1573,7 @@
       "japanese": "トゲトゲのさく",
       "korean": "뾰족뾰족 울타리",
       "russian": "забор из кольев",
-      "plural": false,
-      "internalIds": [ 4358 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -1658,7 +1588,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 4358,
@@ -1669,7 +1598,7 @@
       "uniqueEntryId": "KwQDAafZxyPRLtYFn",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_04358",
+        "id": 4358,
         "version": "1.0.0",
         "english": "spiky fence",
         "englishEurope": "spiky fence",
@@ -1685,31 +1614,153 @@
         "japanese": "トゲトゲのさく",
         "korean": "뾰족뾰족 울타리",
         "russian": "забор из кольев",
-        "plural": false,
-        "internalIds": [ 4358 ]
+        "plural": false
       },
       "materials": { "hardwood": 8 },
       "materialsTranslations": {
         "hardwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02769",
+          "id": 2769,
           "version": "1.0.0",
           "english": "hardwood",
           "englishEurope": "hardwood",
           "german": "Hartholz",
-          "spanish": "tabla rígida",
-          "spanishUs": "tabla rígida",
+          "spanish": "tablas rígidas",
+          "spanishUs": "tablas rígidas",
           "french": "bois dur",
           "frenchUs": "bois dur",
-          "italian": "legno duro",
+          "italian": "legna dura",
           "dutch": "hardhout",
           "chinese": "硬木材",
           "chineseTraditional": "硬木材",
           "japanese": "かたいもくざい",
           "korean": "단단한 목재",
           "russian": "твердая древесина",
-          "plural": false,
-          "internalIds": [ 2769 ]
+          "plural": true
+        }
+      }
+    }
+  },
+  {
+    "sourceSheet": "Fencing",
+    "name": "spooky fence",
+    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceHalloween.png",
+    "diy": true,
+    "stackSize": 50,
+    "buy": -1,
+    "sell": 585,
+    "source": [ "Crafting" ],
+    "sourceNotes": null,
+    "versionAdded": "1.5.0",
+    "unlocked": true,
+    "unlockNotes": null,
+    "filename": "ItemFenceHalloween",
+    "internalId": 13275,
+    "uniqueEntryId": "yHsjxz9cexo9WbDaK",
+    "translations": {
+      "sourceSheet": "Fence",
+      "id": 13275,
+      "version": "1.5.0",
+      "english": "spooky fence",
+      "englishEurope": "spooky fence",
+      "german": "Kürbiszaun",
+      "spanish": "valla calabaza",
+      "spanishUs": "valla calabaza",
+      "french": "clôture Halloween",
+      "frenchUs": "clôture Halloween",
+      "italian": "recinzione brividi",
+      "dutch": "pompoenhek",
+      "chinese": "万圣节栅栏",
+      "chineseTraditional": "萬聖節柵欄",
+      "japanese": "ハロウィンなさく",
+      "korean": "할로윈 울타리",
+      "russian": "жуткий забор",
+      "plural": false
+    },
+    "recipe": {
+      "sourceSheet": "Recipes",
+      "name": "spooky fence",
+      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceHalloween.png",
+      "buy": -1,
+      "sell": 200,
+      "exchangePrice": null,
+      "exchangeCurrency": null,
+      "source": [ "All villagers" ],
+      "sourceNotes": [
+        "Obtained from crafting villagers during October or as a reward for gifting candy on Halloween."
+      ],
+      "versionAdded": "1.5.0",
+      "unlocked": true,
+      "unlockNotes": null,
+      "recipesToUnlock": 0,
+      "category": "Other",
+      "craftedItemInternalId": 13275,
+      "cardColor": 44,
+      "diyIconFilename": "ItemFenceHalloween",
+      "serialId": 3190,
+      "internalId": 737,
+      "uniqueEntryId": "CeZmnyqJzePbykYgb",
+      "translations": {
+        "sourceSheet": "Fence",
+        "id": 13275,
+        "version": "1.5.0",
+        "english": "spooky fence",
+        "englishEurope": "spooky fence",
+        "german": "Kürbiszaun",
+        "spanish": "valla calabaza",
+        "spanishUs": "valla calabaza",
+        "french": "clôture Halloween",
+        "frenchUs": "clôture Halloween",
+        "italian": "recinzione brividi",
+        "dutch": "pompoenhek",
+        "chinese": "万圣节栅栏",
+        "chineseTraditional": "萬聖節柵欄",
+        "japanese": "ハロウィンなさく",
+        "korean": "할로윈 울타리",
+        "russian": "жуткий забор",
+        "plural": false
+      },
+      "materials": { "orange pumpkin": 3, "iron nugget": 5 },
+      "materialsTranslations": {
+        "orange pumpkin": {
+          "sourceSheet": "Plants",
+          "id": 4525,
+          "version": "1.5.0",
+          "english": "orange pumpkin",
+          "englishEurope": "orange pumpkin",
+          "german": "Orangekürbis",
+          "spanish": "calabaza naranja",
+          "spanishUs": "calabaza naranja",
+          "french": "citrouille orange",
+          "frenchUs": "citrouille orange",
+          "italian": "zucca arancione",
+          "dutch": "oranje pompoen",
+          "chinese": "橘色南瓜",
+          "chineseTraditional": "橘色南瓜",
+          "japanese": "オレンジのかぼちゃ",
+          "korean": "주황색 호박",
+          "russian": "оранжевая тыква",
+          "plural": false
+        },
+        "iron nugget": {
+          "sourceSheet": "Craft",
+          "id": 2511,
+          "version": "1.0.0",
+          "english": "iron nugget",
+          "englishEurope": "iron nugget",
+          "german": "Eisenerz",
+          "spanish": "pepita de hierro",
+          "spanishUs": "pepita de hierro",
+          "french": "pépite de fer",
+          "frenchUs": "pépite de fer",
+          "italian": "minerale di ferro",
+          "dutch": "ijzerklompje",
+          "chinese": "铁矿石",
+          "chineseTraditional": "鐵礦石",
+          "japanese": "てっこうせき",
+          "korean": "철광석",
+          "russian": "железный самородок",
+          "plural": false
         }
       }
     }
@@ -1727,13 +1778,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceStone",
     "internalId": 5212,
     "uniqueEntryId": "ECNmTH3oh3SEDpHCr",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_05212",
+      "id": 5212,
       "version": "1.0.0",
       "english": "stone fence",
       "englishEurope": "stone fence",
@@ -1749,8 +1799,7 @@
       "japanese": "いしかべ",
       "korean": "돌 울타리",
       "russian": "каменный забор",
-      "plural": false,
-      "internalIds": [ 5212 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -1765,7 +1814,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 5212,
@@ -1776,7 +1824,7 @@
       "uniqueEntryId": "SeyEuJLjP22oEeN2x",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_05212",
+        "id": 5212,
         "version": "1.0.0",
         "english": "stone fence",
         "englishEurope": "stone fence",
@@ -1792,8 +1840,7 @@
         "japanese": "いしかべ",
         "korean": "돌 울타리",
         "russian": "каменный забор",
-        "plural": false,
-        "internalIds": [ 5212 ]
+        "plural": false
       },
       "materials": { "stone": 4 },
       "materialsTranslations": {
@@ -1815,8 +1862,7 @@
           "japanese": "いし",
           "korean": "돌",
           "russian": "Камень",
-          "plural": false,
-          "internalIds": [ 2502 ]
+          "plural": false
         }
       }
     }
@@ -1834,13 +1880,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceDriedStraw",
     "internalId": 4356,
     "uniqueEntryId": "yp69uEZTdfS9CkisA",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_04356",
+      "id": 4356,
       "version": "1.0.0",
       "english": "straw fence",
       "englishEurope": "straw fence",
@@ -1856,8 +1901,7 @@
       "japanese": "わらぼしのさく",
       "korean": "짚단 울타리",
       "russian": "соломенный забор",
-      "plural": false,
-      "internalIds": [ 4356 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -1872,7 +1916,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 4356,
@@ -1883,7 +1926,7 @@
       "uniqueEntryId": "WpBzuYymcgmxSCn2m",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_04356",
+        "id": 4356,
         "version": "1.0.0",
         "english": "straw fence",
         "englishEurope": "straw fence",
@@ -1899,14 +1942,13 @@
         "japanese": "わらぼしのさく",
         "korean": "짚단 울타리",
         "russian": "соломенный забор",
-        "plural": false,
-        "internalIds": [ 4356 ]
+        "plural": false
       },
       "materials": { "clump of weeds": 10, "wood": 3 },
       "materialsTranslations": {
         "clump of weeds": {
           "sourceSheet": "Plants",
-          "id": "Weed_02624",
+          "id": 2624,
           "version": "1.0.0",
           "english": "clump of weeds",
           "englishEurope": "clump of weeds",
@@ -1922,29 +1964,28 @@
           "japanese": "ざっそう",
           "korean": "잡초",
           "russian": "сорняк",
-          "plural": false,
-          "internalIds": [ 2624 ]
+          "plural": false
         },
         "wood": {
-          "sourceSheet": "Craft",
-          "id": "CraftMaterial_02768",
-          "version": "1.0.0",
-          "english": "wood",
-          "englishEurope": "wood",
-          "german": "Holz",
-          "spanish": "tabla normal",
-          "spanishUs": "tabla normal",
-          "french": "bois",
-          "frenchUs": "bois",
-          "italian": "legno normale",
-          "dutch": "hout",
-          "chinese": "木材",
-          "chineseTraditional": "木材",
-          "japanese": "もくざい",
-          "korean": "목재",
-          "russian": "древесина",
-          "plural": false,
-          "internalIds": [ 2768 ]
+          "sourceSheet": "Furniture Patterns",
+          "variantId": 4,
+          "id": 3307,
+          "furnitureName": "digital scale",
+          "english": "Wood",
+          "englishEurope": "Wood",
+          "german": "Gelbe Streifen",
+          "spanish": "Madera",
+          "spanishUs": "Madera",
+          "french": "Bois",
+          "frenchUs": "Bois",
+          "italian": "Legno",
+          "dutch": "Hout",
+          "chinese": "黄色条纹",
+          "chineseTraditional": "黃色條紋",
+          "japanese": "イエローストライプ",
+          "korean": "옐로 스트라이프",
+          "russian": "Под дерево",
+          "plural": false
         }
       }
     }
@@ -1962,13 +2003,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceVerticalWood",
     "internalId": 3402,
     "uniqueEntryId": "M9pkSgdAaKgQELi3E",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_03402",
+      "id": 3402,
       "version": "1.0.0",
       "english": "vertical-board fence",
       "englishEurope": "vertical-board fence",
@@ -1984,8 +2024,7 @@
       "japanese": "たていたのさく",
       "korean": "세로 널빤지 울타리",
       "russian": "штакетник",
-      "plural": false,
-      "internalIds": [ 3402 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -2000,7 +2039,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 3402,
@@ -2011,7 +2049,7 @@
       "uniqueEntryId": "gJHaHfwkn4dANzaTt",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_03402",
+        "id": 3402,
         "version": "1.0.0",
         "english": "vertical-board fence",
         "englishEurope": "vertical-board fence",
@@ -2027,31 +2065,30 @@
         "japanese": "たていたのさく",
         "korean": "세로 널빤지 울타리",
         "russian": "штакетник",
-        "plural": false,
-        "internalIds": [ 3402 ]
+        "plural": false
       },
       "materials": { "wood": 8 },
       "materialsTranslations": {
         "wood": {
-          "sourceSheet": "Craft",
-          "id": "CraftMaterial_02768",
-          "version": "1.0.0",
-          "english": "wood",
-          "englishEurope": "wood",
-          "german": "Holz",
-          "spanish": "tabla normal",
-          "spanishUs": "tabla normal",
-          "french": "bois",
-          "frenchUs": "bois",
-          "italian": "legno normale",
-          "dutch": "hout",
-          "chinese": "木材",
-          "chineseTraditional": "木材",
-          "japanese": "もくざい",
-          "korean": "목재",
-          "russian": "древесина",
-          "plural": false,
-          "internalIds": [ 2768 ]
+          "sourceSheet": "Furniture Patterns",
+          "variantId": 4,
+          "id": 3307,
+          "furnitureName": "digital scale",
+          "english": "Wood",
+          "englishEurope": "Wood",
+          "german": "Gelbe Streifen",
+          "spanish": "Madera",
+          "spanishUs": "Madera",
+          "french": "Bois",
+          "frenchUs": "Bois",
+          "italian": "Legno",
+          "dutch": "Hout",
+          "chinese": "黄色条纹",
+          "chineseTraditional": "黃色條紋",
+          "japanese": "イエローストライプ",
+          "korean": "옐로 스트라이프",
+          "russian": "Под дерево",
+          "plural": false
         }
       }
     }
@@ -2069,13 +2106,12 @@
     "versionAdded": "1.2.0",
     "unlocked": true,
     "unlockNotes": [ "2020-06-01", "BCAT", "1.2.1c" ],
-    "versionUnlocked": "1.2.1c",
     "filename": "ItemFenceJuneBride",
     "internalId": 12894,
     "uniqueEntryId": "68uMh2zjCmeJukYhv",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_12894",
+      "id": 12894,
       "version": "1.2.0",
       "english": "wedding fence",
       "englishEurope": "wedding fence",
@@ -2091,8 +2127,7 @@
       "japanese": "ウェディングなさく",
       "korean": "웨딩 울타리",
       "russian": "свадебный забор",
-      "plural": false,
-      "internalIds": [ 12894 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -2103,11 +2138,10 @@
       "exchangePrice": null,
       "exchangeCurrency": null,
       "source": [ "Harvey" ],
-      "sourceNotes": "Only available during Wedding Season",
+      "sourceNotes": [ "Only available during Wedding Season" ],
       "versionAdded": "1.2.0",
       "unlocked": true,
       "unlockNotes": [ "2020-06-01", "BCAT", "1.2.1c" ],
-      "versionUnlocked": "1.2.1c",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 12894,
@@ -2118,7 +2152,7 @@
       "uniqueEntryId": "yZNfKe6dESLFFQ8J4",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_12894",
+        "id": 12894,
         "version": "1.2.0",
         "english": "wedding fence",
         "englishEurope": "wedding fence",
@@ -2134,14 +2168,13 @@
         "japanese": "ウェディングなさく",
         "korean": "웨딩 울타리",
         "russian": "свадебный забор",
-        "plural": false,
-        "internalIds": [ 12894 ]
+        "plural": false
       },
       "materials": { "iron nugget": 5, "softwood": 3 },
       "materialsTranslations": {
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -2157,29 +2190,27 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         },
         "softwood": {
           "sourceSheet": "Craft",
-          "id": "CraftMaterial_02767",
+          "id": 2767,
           "version": "1.0.0",
           "english": "softwood",
           "englishEurope": "softwood",
           "german": "Weichholz",
-          "spanish": "tabla flexible",
-          "spanishUs": "tabla flexible",
+          "spanish": "tablas flexibles",
+          "spanishUs": "tablas flexibles",
           "french": "bois tendre",
           "frenchUs": "bois tendre",
-          "italian": "legno morbido",
+          "italian": "legna morbida",
           "dutch": "zachthout",
           "chinese": "软木材",
           "chineseTraditional": "軟木材",
           "japanese": "やわらかいもくざい",
           "korean": "부드러운 목재",
           "russian": "мягкая древесина",
-          "plural": false,
-          "internalIds": [ 2767 ]
+          "plural": true
         }
       }
     }
@@ -2197,13 +2228,12 @@
     "versionAdded": "1.0.0",
     "unlocked": true,
     "unlockNotes": null,
-    "versionUnlocked": "1.0.0",
     "filename": "ItemFenceJapanese",
     "internalId": 5207,
     "uniqueEntryId": "yZeqREzefxeSiLAaP",
     "translations": {
       "sourceSheet": "Fence",
-      "id": "Fence_05207",
+      "id": 5207,
       "version": "1.0.0",
       "english": "zen fence",
       "englishEurope": "zen fence",
@@ -2219,8 +2249,7 @@
       "japanese": "わふうのさく",
       "korean": "동양풍 울타리",
       "russian": "забор-дзен",
-      "plural": false,
-      "internalIds": [ 5207 ]
+      "plural": false
     },
     "recipe": {
       "sourceSheet": "Recipes",
@@ -2235,7 +2264,6 @@
       "versionAdded": "1.0.0",
       "unlocked": true,
       "unlockNotes": null,
-      "versionUnlocked": "1.0.0",
       "recipesToUnlock": 0,
       "category": "Other",
       "craftedItemInternalId": 5207,
@@ -2246,7 +2274,7 @@
       "uniqueEntryId": "i3NJEKs5tNY9dJSCX",
       "translations": {
         "sourceSheet": "Fence",
-        "id": "Fence_05207",
+        "id": 5207,
         "version": "1.0.0",
         "english": "zen fence",
         "englishEurope": "zen fence",
@@ -2262,14 +2290,13 @@
         "japanese": "わふうのさく",
         "korean": "동양풍 울타리",
         "russian": "забор-дзен",
-        "plural": false,
-        "internalIds": [ 5207 ]
+        "plural": false
       },
       "materials": { "iron nugget": 3, "clay": 3, "stone": 3 },
       "materialsTranslations": {
         "iron nugget": {
           "sourceSheet": "Craft",
-          "id": "Ore_02511",
+          "id": 2511,
           "version": "1.0.0",
           "english": "iron nugget",
           "englishEurope": "iron nugget",
@@ -2285,29 +2312,27 @@
           "japanese": "てっこうせき",
           "korean": "철광석",
           "russian": "железный самородок",
-          "plural": false,
-          "internalIds": [ 2511 ]
+          "plural": false
         },
         "clay": {
-          "sourceSheet": "Craft",
-          "id": "Ore_03090",
+          "sourceSheet": "Villagers",
+          "id": "ham05",
           "version": "1.0.0",
-          "english": "clay",
-          "englishEurope": "clay",
-          "german": "Lehm",
-          "spanish": "bola de arcilla",
-          "spanishUs": "bola de arcilla",
-          "french": "argile",
-          "frenchUs": "argile",
-          "italian": "pezzo di argilla",
-          "dutch": "kleihomp",
-          "chinese": "黏土",
-          "chineseTraditional": "黏土",
-          "japanese": "ねんど",
-          "korean": "점토",
-          "russian": "кусок глины",
-          "plural": false,
-          "internalIds": [ 3090 ]
+          "english": "Clay",
+          "englishEurope": "Clay",
+          "german": "Dietmar",
+          "spanish": "Boliche",
+          "spanishUs": "Boliche",
+          "french": "Guido",
+          "frenchUs": "Guido",
+          "italian": "Carmelo",
+          "dutch": "Clay",
+          "chinese": "子墨",
+          "chineseTraditional": "子墨",
+          "japanese": "どぐろう",
+          "korean": "햄둥",
+          "russian": "Клэй",
+          "plural": false
         },
         "stone": {
           "sourceSheet": "HHA Set",
@@ -2327,8 +2352,7 @@
           "japanese": "いし",
           "korean": "돌",
           "russian": "Камень",
-          "plural": false,
-          "internalIds": [ 2502 ]
+          "plural": false
         }
       }
     }

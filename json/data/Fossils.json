@@ -20,7 +20,7 @@
     "uniqueEntryId": "9DunYGEb3QhJLwpPu",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00238",
+      "id": 238,
       "version": "1.0.0",
       "english": "T. rex skull",
       "englishEurope": "T. rex skull",
@@ -36,8 +36,7 @@
       "japanese": "Tレックスのあたま",
       "korean": "티렉스의 머리",
       "russian": "череп тираннозавра",
-      "plural": false,
-      "internalIds": [ 238 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -63,7 +62,7 @@
     "uniqueEntryId": "AfeJAEkmJCdgtMrWj",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00240",
+      "id": 240,
       "version": "1.0.0",
       "english": "T. rex tail",
       "englishEurope": "T. rex tail",
@@ -79,8 +78,7 @@
       "japanese": "Tレックスのしっぽ",
       "korean": "티렉스의 꼬리",
       "russian": "хвост тираннозавра",
-      "plural": false,
-      "internalIds": [ 240 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -106,7 +104,7 @@
     "uniqueEntryId": "q9voJCHs9X5b32TWf",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00239",
+      "id": 239,
       "version": "1.0.0",
       "english": "T. rex torso",
       "englishEurope": "T. rex torso",
@@ -122,8 +120,7 @@
       "japanese": "Tレックスのからだ",
       "korean": "티렉스의 몸통",
       "russian": "торс тираннозавра",
-      "plural": false,
-      "internalIds": [ 239 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -149,7 +146,7 @@
     "uniqueEntryId": "LQkRP3kBn3T2jBboF",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04664",
+      "id": 4664,
       "version": "1.0.0",
       "english": "acanthostega",
       "englishEurope": "acanthostega",
@@ -165,8 +162,7 @@
       "japanese": "アカントステガ",
       "korean": "아칸토스테가",
       "russian": "акантостега",
-      "plural": false,
-      "internalIds": [ 4664 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -192,7 +188,7 @@
     "uniqueEntryId": "ANAhATcHWvAGEhRnt",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00294",
+      "id": 294,
       "version": "1.0.0",
       "english": "amber",
       "englishEurope": "amber",
@@ -208,8 +204,7 @@
       "japanese": "コハク",
       "korean": "호박",
       "russian": "янтарь",
-      "plural": false,
-      "internalIds": [ 294 ]
+      "plural": false
     },
     "colors": [ "Yellow", "Yellow" ],
     "recipe": null
@@ -235,7 +230,7 @@
     "uniqueEntryId": "ojNKnr4YRrmPi2gPo",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00295",
+      "id": 295,
       "version": "1.0.0",
       "english": "ammonite",
       "englishEurope": "ammonite",
@@ -251,8 +246,7 @@
       "japanese": "アンモナイト",
       "korean": "암모나이트",
       "russian": "аммонит",
-      "plural": false,
-      "internalIds": [ 295 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -278,7 +272,7 @@
     "uniqueEntryId": "QQjxKmQ8Aac9cSoM2",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00169",
+      "id": 169,
       "version": "1.0.0",
       "english": "ankylo skull",
       "englishEurope": "ankylo skull",
@@ -294,8 +288,7 @@
       "japanese": "アンキロサウルスのあたま",
       "korean": "안킬로사우루스의 머리",
       "russian": "череп анкилозавра",
-      "plural": false,
-      "internalIds": [ 169 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -321,7 +314,7 @@
     "uniqueEntryId": "wLWBm2R727RC3qSL2",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00171",
+      "id": 171,
       "version": "1.0.0",
       "english": "ankylo tail",
       "englishEurope": "ankylo tail",
@@ -337,8 +330,7 @@
       "japanese": "アンキロサウルスのしっぽ",
       "korean": "안킬로사우루스의 꼬리",
       "russian": "хвост анкилозавра",
-      "plural": false,
-      "internalIds": [ 171 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -364,7 +356,7 @@
     "uniqueEntryId": "5QNzf5buPckabN6cR",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00170",
+      "id": 170,
       "version": "1.0.0",
       "english": "ankylo torso",
       "englishEurope": "ankylo torso",
@@ -380,8 +372,7 @@
       "japanese": "アンキロサウルスのからだ",
       "korean": "안킬로사우루스의 몸통",
       "russian": "торс анкилозавра",
-      "plural": false,
-      "internalIds": [ 170 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -407,7 +398,7 @@
     "uniqueEntryId": "TYX964LM2tNZ3SYKC",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04651",
+      "id": 4651,
       "version": "1.0.0",
       "english": "anomalocaris",
       "englishEurope": "anomalocaris",
@@ -423,8 +414,7 @@
       "japanese": "アノマロカリス",
       "korean": "아노말로카리스",
       "russian": "аномалокарис",
-      "plural": false,
-      "internalIds": [ 4651 ]
+      "plural": false
     },
     "colors": [ "Black", "Gray" ],
     "recipe": null
@@ -450,7 +440,7 @@
     "uniqueEntryId": "ky9pkmc2fmK9thuFH",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00298",
+      "id": 298,
       "version": "1.0.0",
       "english": "archaeopteryx",
       "englishEurope": "archaeopteryx",
@@ -466,8 +456,7 @@
       "japanese": "しそちょう",
       "korean": "시조새",
       "russian": "археоптерикс",
-      "plural": false,
-      "internalIds": [ 298 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -493,7 +482,7 @@
     "uniqueEntryId": "cYZhXfyNiqZy2hgeM",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00177",
+      "id": 177,
       "version": "1.0.0",
       "english": "archelon skull",
       "englishEurope": "archelon skull",
@@ -509,8 +498,7 @@
       "japanese": "アーケロンのあたま",
       "korean": "아르켈론의 머리",
       "russian": "череп архелона",
-      "plural": false,
-      "internalIds": [ 177 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -536,7 +524,7 @@
     "uniqueEntryId": "CtosFxKjG5nzLGi4t",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00178",
+      "id": 178,
       "version": "1.0.0",
       "english": "archelon tail",
       "englishEurope": "archelon tail",
@@ -552,8 +540,7 @@
       "japanese": "アーケロンのからだ",
       "korean": "아르켈론의 몸통",
       "russian": "хвост архелона",
-      "plural": false,
-      "internalIds": [ 178 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -579,7 +566,7 @@
     "uniqueEntryId": "vE5WQNHepjDb36K6g",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00301",
+      "id": 301,
       "version": "1.0.0",
       "english": "australopith",
       "englishEurope": "australopith",
@@ -595,8 +582,7 @@
       "japanese": "アウストラロピテクス",
       "korean": "오스트랄로피테쿠스",
       "russian": "австралопитек",
-      "plural": false,
-      "internalIds": [ 301 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -622,7 +608,7 @@
     "uniqueEntryId": "FykMyEnM2Xhzd54x8",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04689",
+      "id": 4689,
       "version": "1.0.0",
       "english": "brachio chest",
       "englishEurope": "brachio chest",
@@ -638,8 +624,7 @@
       "japanese": "ブラキオサウルスのむね",
       "korean": "브라키오사우루스의 가슴",
       "russian": "грудь брахиозавра",
-      "plural": false,
-      "internalIds": [ 4689 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -665,7 +650,7 @@
     "uniqueEntryId": "5zCdNszyap3Gs7hZY",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04690",
+      "id": 4690,
       "version": "1.0.0",
       "english": "brachio pelvis",
       "englishEurope": "brachio pelvis",
@@ -681,8 +666,7 @@
       "japanese": "ブラキオサウルスのこし",
       "korean": "브라키오사우루스의 허리",
       "russian": "таз брахиозавра",
-      "plural": false,
-      "internalIds": [ 4690 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -708,7 +692,7 @@
     "uniqueEntryId": "bECfoiR8RoGTXmqCL",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04688",
+      "id": 4688,
       "version": "1.0.0",
       "english": "brachio skull",
       "englishEurope": "brachio skull",
@@ -724,8 +708,7 @@
       "japanese": "ブラキオサウルスのあたま",
       "korean": "브라키오사우루스의 머리",
       "russian": "череп брахиозавра",
-      "plural": false,
-      "internalIds": [ 4688 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -751,7 +734,7 @@
     "uniqueEntryId": "RTtavecsrgWSGLm7C",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04691",
+      "id": 4691,
       "version": "1.0.0",
       "english": "brachio tail",
       "englishEurope": "brachio tail",
@@ -767,8 +750,7 @@
       "japanese": "ブラキオサウルスのしっぽ",
       "korean": "브라키오사우루스의 꼬리",
       "russian": "хвост брахиозавра",
-      "plural": false,
-      "internalIds": [ 4691 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -794,7 +776,7 @@
     "uniqueEntryId": "hKbRzACFb4D24W8HJ",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00296",
+      "id": 296,
       "version": "1.0.0",
       "english": "coprolite",
       "englishEurope": "coprolite",
@@ -810,8 +792,7 @@
       "japanese": "ウンコのかせき",
       "korean": "대변 화석",
       "russian": "копролит",
-      "plural": false,
-      "internalIds": [ 296 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -837,7 +818,7 @@
     "uniqueEntryId": "e3NuAF5y9iv7J52Sv",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00211",
+      "id": 211,
       "version": "1.0.0",
       "english": "deinony tail",
       "englishEurope": "deinony tail",
@@ -853,8 +834,7 @@
       "japanese": "ディノニクスのしっぽ",
       "korean": "데이노니쿠스의 꼬리",
       "russian": "хвост дейнониха",
-      "plural": false,
-      "internalIds": [ 211 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -880,7 +860,7 @@
     "uniqueEntryId": "NSe8AQvNigyZqmLzo",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00210",
+      "id": 210,
       "version": "1.0.0",
       "english": "deinony torso",
       "englishEurope": "deinony torso",
@@ -896,8 +876,7 @@
       "japanese": "ディノニクスのあたま",
       "korean": "데이노니쿠스의 머리",
       "russian": "торс дейнониха",
-      "plural": false,
-      "internalIds": [ 210 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -923,7 +902,7 @@
     "uniqueEntryId": "sEuSt7ycajTAqSzKg",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00184",
+      "id": 184,
       "version": "1.0.0",
       "english": "dimetrodon skull",
       "englishEurope": "dimetrodon skull",
@@ -939,8 +918,7 @@
       "japanese": "ディメトロドンのあたま",
       "korean": "디메트로돈의 머리",
       "russian": "череп диметродона",
-      "plural": false,
-      "internalIds": [ 184 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -966,7 +944,7 @@
     "uniqueEntryId": "LcbJqY3JzLcQRoPGT",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00185",
+      "id": 185,
       "version": "1.0.0",
       "english": "dimetrodon torso",
       "englishEurope": "dimetrodon torso",
@@ -982,8 +960,7 @@
       "japanese": "ディメトロドンのからだ",
       "korean": "디메트로돈의 몸통",
       "russian": "торс диметродона",
-      "plural": false,
-      "internalIds": [ 185 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1009,7 +986,7 @@
     "uniqueEntryId": "fJWu7dHhZuKxjRwTy",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00300",
+      "id": 300,
       "version": "1.0.0",
       "english": "dinosaur track",
       "englishEurope": "dinosaur track",
@@ -1025,8 +1002,7 @@
       "japanese": "あしあとのかせき",
       "korean": "발자국 화석",
       "russian": "след динозавра",
-      "plural": false,
-      "internalIds": [ 300 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -1052,7 +1028,7 @@
     "uniqueEntryId": "ZYuR9spddLgaZawiY",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00218",
+      "id": 218,
       "version": "1.0.0",
       "english": "diplo chest",
       "englishEurope": "diplo chest",
@@ -1068,8 +1044,7 @@
       "japanese": "ディプロドクスのむね",
       "korean": "디플로도쿠스의 가슴",
       "russian": "грудь диплодока",
-      "plural": false,
-      "internalIds": [ 218 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1095,7 +1070,7 @@
     "uniqueEntryId": "odxoEbLSduTmarKkm",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00217",
+      "id": 217,
       "version": "1.0.0",
       "english": "diplo neck",
       "englishEurope": "diplo neck",
@@ -1111,8 +1086,7 @@
       "japanese": "ディプロドクスのくび",
       "korean": "디플로도쿠스의 목",
       "russian": "шея диплодока",
-      "plural": false,
-      "internalIds": [ 217 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1138,7 +1112,7 @@
     "uniqueEntryId": "kLYuD5QgNqfKJPfj7",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00219",
+      "id": 219,
       "version": "1.0.0",
       "english": "diplo pelvis",
       "englishEurope": "diplo pelvis",
@@ -1154,8 +1128,7 @@
       "japanese": "ディプロドクスのこし",
       "korean": "디플로도쿠스의 허리",
       "russian": "таз диплодока",
-      "plural": false,
-      "internalIds": [ 219 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1181,7 +1154,7 @@
     "uniqueEntryId": "n6cAybPhTSykws3Mb",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00216",
+      "id": 216,
       "version": "1.0.0",
       "english": "diplo skull",
       "englishEurope": "diplo skull",
@@ -1197,8 +1170,7 @@
       "japanese": "ディプロドクスのあたま",
       "korean": "디플로도쿠스의 머리",
       "russian": "череп диплодока",
-      "plural": false,
-      "internalIds": [ 216 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1224,7 +1196,7 @@
     "uniqueEntryId": "iKsrdn2aAxSfe83qZ",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00220",
+      "id": 220,
       "version": "1.0.0",
       "english": "diplo tail",
       "englishEurope": "diplo tail",
@@ -1240,8 +1212,7 @@
       "japanese": "ディプロドクスのしっぽ",
       "korean": "디플로도쿠스의 꼬리",
       "russian": "хвост диплодока",
-      "plural": false,
-      "internalIds": [ 220 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1267,7 +1238,7 @@
     "uniqueEntryId": "a2r3s8t7bg4uZvdSy",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_07251",
+      "id": 7251,
       "version": "1.0.0",
       "english": "diplo tail tip",
       "englishEurope": "diplo tail tip",
@@ -1283,8 +1254,7 @@
       "japanese": "ディプロドクスのしっぽのさき",
       "korean": "디플로도쿠스의 꼬리 끝",
       "russian": "кончик хвоста диплодока",
-      "plural": false,
-      "internalIds": [ 7251 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1310,7 +1280,7 @@
     "uniqueEntryId": "AtCoTAfo9bKFiGzFD",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04660",
+      "id": 4660,
       "version": "1.0.0",
       "english": "dunkleosteus",
       "englishEurope": "dunkleosteus",
@@ -1326,8 +1296,7 @@
       "japanese": "ダンクルオステウス",
       "korean": "둔클레오스테우스",
       "russian": "дунклеостей",
-      "plural": false,
-      "internalIds": [ 4660 ]
+      "plural": false
     },
     "colors": [ "Gray", "Brown" ],
     "recipe": null
@@ -1353,7 +1322,7 @@
     "uniqueEntryId": "BHhdGwq7YeZuHmkEW",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04663",
+      "id": 4663,
       "version": "1.0.0",
       "english": "eusthenopteron",
       "englishEurope": "eusthenopteron",
@@ -1369,8 +1338,7 @@
       "japanese": "ユーステノプテロン",
       "korean": "에우스테놉테론",
       "russian": "эустеноптерон",
-      "plural": false,
-      "internalIds": [ 4663 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1396,7 +1364,7 @@
     "uniqueEntryId": "pDn2iASHjo7yWKE3k",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00188",
+      "id": 188,
       "version": "1.0.0",
       "english": "iguanodon skull",
       "englishEurope": "iguanodon skull",
@@ -1412,8 +1380,7 @@
       "japanese": "イグアノドンのあたま",
       "korean": "이구아노돈의 머리",
       "russian": "череп игуанодона",
-      "plural": false,
-      "internalIds": [ 188 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1439,7 +1406,7 @@
     "uniqueEntryId": "GL2CuJXa4gYb4E4cE",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00190",
+      "id": 190,
       "version": "1.0.0",
       "english": "iguanodon tail",
       "englishEurope": "iguanodon tail",
@@ -1455,8 +1422,7 @@
       "japanese": "イグアノドンのしっぽ",
       "korean": "이구아노돈의 꼬리",
       "russian": "хвост игуанодона",
-      "plural": false,
-      "internalIds": [ 190 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1482,7 +1448,7 @@
     "uniqueEntryId": "dJRCXccvviu6chWyK",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00189",
+      "id": 189,
       "version": "1.0.0",
       "english": "iguanodon torso",
       "englishEurope": "iguanodon torso",
@@ -1498,8 +1464,7 @@
       "japanese": "イグアノドンのからだ",
       "korean": "이구아노돈의 몸통",
       "russian": "торс игуанодона",
-      "plural": false,
-      "internalIds": [ 189 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1525,7 +1490,7 @@
     "uniqueEntryId": "Ch68dGRXX2mu7ABgC",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04665",
+      "id": 4665,
       "version": "1.0.0",
       "english": "juramaia",
       "englishEurope": "juramaia",
@@ -1541,8 +1506,7 @@
       "japanese": "ジュラマイア",
       "korean": "쥐라마이아",
       "russian": "юрамайя",
-      "plural": false,
-      "internalIds": [ 4665 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -1568,7 +1532,7 @@
     "uniqueEntryId": "7YzSLZWsjXQNp5xRY",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04659",
+      "id": 4659,
       "version": "1.0.0",
       "english": "left megalo side",
       "englishEurope": "left megalo side",
@@ -1584,8 +1548,7 @@
       "japanese": "メガロケロスのひだりはんしん",
       "korean": "메갈로케로스의 왼쪽 반신",
       "russian": "лев. часть гигантск. оленя",
-      "plural": false,
-      "internalIds": [ 4659 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -1611,7 +1574,7 @@
     "uniqueEntryId": "GJtNP9DjAFjGQdMPN",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00208",
+      "id": 208,
       "version": "1.0.0",
       "english": "left ptera wing",
       "englishEurope": "left ptera wing",
@@ -1627,8 +1590,7 @@
       "japanese": "プテラノドンのさよく",
       "korean": "프테라노돈의 왼날개",
       "russian": "л. крыло птеранодона",
-      "plural": false,
-      "internalIds": [ 208 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1654,7 +1616,7 @@
     "uniqueEntryId": "rS4iizyMDxN4yizLT",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04699",
+      "id": 4699,
       "version": "1.0.0",
       "english": "left quetzal wing",
       "englishEurope": "left quetzal wing",
@@ -1670,8 +1632,7 @@
       "japanese": "ケツァルコアトルスのさよく",
       "korean": "케찰코아틀루스의 왼날개",
       "russian": "л. крыло кетцалькоатля",
-      "plural": false,
-      "internalIds": [ 4699 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1697,7 +1658,7 @@
     "uniqueEntryId": "96CTubnHfYqmHyd3s",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00195",
+      "id": 195,
       "version": "1.0.0",
       "english": "mammoth skull",
       "englishEurope": "mammoth skull",
@@ -1713,8 +1674,7 @@
       "japanese": "マンモスのあたま",
       "korean": "매머드의 머리",
       "russian": "череп мамонта",
-      "plural": false,
-      "internalIds": [ 195 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -1740,7 +1700,7 @@
     "uniqueEntryId": "hT68CXm4z8LreXqWS",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00196",
+      "id": 196,
       "version": "1.0.0",
       "english": "mammoth torso",
       "englishEurope": "mammoth torso",
@@ -1756,8 +1716,7 @@
       "japanese": "マンモスのからだ",
       "korean": "매머드의 몸통",
       "russian": "торс мамонта",
-      "plural": false,
-      "internalIds": [ 196 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -1783,7 +1742,7 @@
     "uniqueEntryId": "8CF9fvWstP6cWRbRD",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00180",
+      "id": 180,
       "version": "1.0.0",
       "english": "megacero skull",
       "englishEurope": "megacero skull",
@@ -1799,8 +1758,7 @@
       "japanese": "メガセロプスのあたま",
       "korean": "메가케롭스의 머리",
       "russian": "череп бронтотерия",
-      "plural": false,
-      "internalIds": [ 180 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1826,7 +1784,7 @@
     "uniqueEntryId": "NQcfdw5y6fokTPNGs",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00182",
+      "id": 182,
       "version": "1.0.0",
       "english": "megacero tail",
       "englishEurope": "megacero tail",
@@ -1842,8 +1800,7 @@
       "japanese": "メガセロプスのしっぽ",
       "korean": "메가케롭스의 꼬리",
       "russian": "хвост бронтотерия",
-      "plural": false,
-      "internalIds": [ 182 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1869,7 +1826,7 @@
     "uniqueEntryId": "NcbHKXp9gq6Y96Wtw",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00181",
+      "id": 181,
       "version": "1.0.0",
       "english": "megacero torso",
       "englishEurope": "megacero torso",
@@ -1885,8 +1842,7 @@
       "japanese": "メガセロプスのからだ",
       "korean": "메가케롭스의 몸통",
       "russian": "торс бронтотерия",
-      "plural": false,
-      "internalIds": [ 181 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1912,7 +1868,7 @@
     "uniqueEntryId": "XjLHtDMYXqwjZd4wT",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04662",
+      "id": 4662,
       "version": "1.0.0",
       "english": "myllokunmingia",
       "englishEurope": "myllokunmingia",
@@ -1928,8 +1884,7 @@
       "japanese": "ミロクンミンギア",
       "korean": "밀로쿤밍기아",
       "russian": "миллокунмингия",
-      "plural": false,
-      "internalIds": [ 4662 ]
+      "plural": false
     },
     "colors": [ "Gray", "Gray" ],
     "recipe": null
@@ -1955,7 +1910,7 @@
     "uniqueEntryId": "Sq6yQQ6EH2AMqQo2A",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00192",
+      "id": 192,
       "version": "1.0.0",
       "english": "ophthalmo skull",
       "englishEurope": "ophthalmo skull",
@@ -1971,8 +1926,7 @@
       "japanese": "オフタルモサウルスのあたま",
       "korean": "오프탈모사우루스의 머리",
       "russian": "череп офтальмозавра",
-      "plural": false,
-      "internalIds": [ 192 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -1998,7 +1952,7 @@
     "uniqueEntryId": "8tzwNNwbSKAeWAzfP",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00193",
+      "id": 193,
       "version": "1.0.0",
       "english": "ophthalmo torso",
       "englishEurope": "ophthalmo torso",
@@ -2014,8 +1968,7 @@
       "japanese": "オフタルモサウルスのからだ",
       "korean": "오프탈모사우루스의 몸통",
       "russian": "торс офтальмозавра",
-      "plural": false,
-      "internalIds": [ 193 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2041,7 +1994,7 @@
     "uniqueEntryId": "tgNyyjMaE9GbzMJzQ",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00198",
+      "id": 198,
       "version": "1.0.0",
       "english": "pachy skull",
       "englishEurope": "pachysaurus skull",
@@ -2057,8 +2010,7 @@
       "japanese": "パキケファロのあたま",
       "korean": "파키케팔로사우루스의 머리",
       "russian": "череп пахицефалозавра",
-      "plural": false,
-      "internalIds": [ 198 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2084,7 +2036,7 @@
     "uniqueEntryId": "assKMf95bhB6pe3PM",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00199",
+      "id": 199,
       "version": "1.0.0",
       "english": "pachy tail",
       "englishEurope": "pachysaurus tail",
@@ -2100,8 +2052,7 @@
       "japanese": "パキケファロのからだ",
       "korean": "파키케팔로사우루스의 몸통",
       "russian": "хвост пахицефалозавра",
-      "plural": false,
-      "internalIds": [ 199 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2127,7 +2078,7 @@
     "uniqueEntryId": "6xAZRPKhHNNQLofoE",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00202",
+      "id": 202,
       "version": "1.0.0",
       "english": "parasaur skull",
       "englishEurope": "parasaur skull",
@@ -2143,8 +2094,7 @@
       "japanese": "パラサウロロフスのあたま",
       "korean": "파라사우롤로푸스의 머리",
       "russian": "череп паразауролофа",
-      "plural": false,
-      "internalIds": [ 202 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2170,7 +2120,7 @@
     "uniqueEntryId": "fEFd7AbLQpNwkzC8a",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00204",
+      "id": 204,
       "version": "1.0.0",
       "english": "parasaur tail",
       "englishEurope": "parasaur tail",
@@ -2186,8 +2136,7 @@
       "japanese": "パラサウロロフスのしっぽ",
       "korean": "파라사우롤로푸스의 꼬리",
       "russian": "хвост паразауролофа",
-      "plural": false,
-      "internalIds": [ 204 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2213,7 +2162,7 @@
     "uniqueEntryId": "GgX3Tdgzmf4hjguGF",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00203",
+      "id": 203,
       "version": "1.0.0",
       "english": "parasaur torso",
       "englishEurope": "parasaur torso",
@@ -2229,8 +2178,7 @@
       "japanese": "パラサウロロフスのからだ",
       "korean": "파라사우롤로푸스의 몸통",
       "russian": "торс паразауролофа",
-      "plural": false,
-      "internalIds": [ 203 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2256,7 +2204,7 @@
     "uniqueEntryId": "ioAEHvPecRoCBLJsK",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00234",
+      "id": 234,
       "version": "1.0.0",
       "english": "plesio skull",
       "englishEurope": "plesio skull",
@@ -2272,8 +2220,7 @@
       "japanese": "フタバサウルスのあたま",
       "korean": "후타바사우루스의 머리",
       "russian": "череп плезиозавра",
-      "plural": false,
-      "internalIds": [ 234 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2299,7 +2246,7 @@
     "uniqueEntryId": "7dLqS33KYzWRFvkde",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00236",
+      "id": 236,
       "version": "1.0.0",
       "english": "plesio tail",
       "englishEurope": "plesio tail",
@@ -2315,8 +2262,7 @@
       "japanese": "フタバサウルスのしっぽ",
       "korean": "후타바사우루스의 꼬리",
       "russian": "хвост плезиозавра",
-      "plural": false,
-      "internalIds": [ 236 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2342,7 +2288,7 @@
     "uniqueEntryId": "jbfiPhmAcserk23rm",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00235",
+      "id": 235,
       "version": "1.0.0",
       "english": "plesio torso",
       "englishEurope": "plesio torso",
@@ -2358,8 +2304,7 @@
       "japanese": "フタバサウルスのからだ",
       "korean": "후타바사우루스의 몸통",
       "russian": "торс плезиозавра",
-      "plural": false,
-      "internalIds": [ 235 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2385,7 +2330,7 @@
     "uniqueEntryId": "6oAjXjSy7DqrbifKT",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00206",
+      "id": 206,
       "version": "1.0.0",
       "english": "ptera body",
       "englishEurope": "ptera body",
@@ -2401,8 +2346,7 @@
       "japanese": "プテラノドンのあたま",
       "korean": "프테라노돈의 머리",
       "russian": "торс птеранодона",
-      "plural": false,
-      "internalIds": [ 206 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2428,7 +2372,7 @@
     "uniqueEntryId": "SoS8Q55cyTsEyqeZi",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04697",
+      "id": 4697,
       "version": "1.0.0",
       "english": "quetzal torso",
       "englishEurope": "quetzal torso",
@@ -2444,8 +2388,7 @@
       "japanese": "ケツァルコアトルスのあたま",
       "korean": "케찰코아틀루스의 머리",
       "russian": "торс кетцалькоатля",
-      "plural": false,
-      "internalIds": [ 4697 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2471,7 +2414,7 @@
     "uniqueEntryId": "6qFWqu3vKF9SuPjRE",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04658",
+      "id": 4658,
       "version": "1.0.0",
       "english": "right megalo side",
       "englishEurope": "right megalo side",
@@ -2487,8 +2430,7 @@
       "japanese": "メガロケロスのみぎはんしん",
       "korean": "메갈로케로스의 오른쪽 반신",
       "russian": "пр. часть гигантск. оленя",
-      "plural": false,
-      "internalIds": [ 4658 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -2514,7 +2456,7 @@
     "uniqueEntryId": "z45jBDDaRufwQkiEf",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00207",
+      "id": 207,
       "version": "1.0.0",
       "english": "right ptera wing",
       "englishEurope": "right ptera wing",
@@ -2530,8 +2472,7 @@
       "japanese": "プテラノドンのうよく",
       "korean": "프테라노돈의 오른날개",
       "russian": "п. крыло птеранодона",
-      "plural": false,
-      "internalIds": [ 207 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2557,7 +2498,7 @@
     "uniqueEntryId": "aAXrsXuY5cTjq4yKi",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_04698",
+      "id": 4698,
       "version": "1.0.0",
       "english": "right quetzal wing",
       "englishEurope": "right quetzal wing",
@@ -2573,8 +2514,7 @@
       "japanese": "ケツァルコアトルスのうよく",
       "korean": "케찰코아틀루스의 오른날개",
       "russian": "п. крыло кетцалькоатля",
-      "plural": false,
-      "internalIds": [ 4698 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2600,7 +2540,7 @@
     "uniqueEntryId": "4xkrLpphWXubgtRPw",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00213",
+      "id": 213,
       "version": "1.0.0",
       "english": "sabertooth skull",
       "englishEurope": "sabertooth skull",
@@ -2616,8 +2556,7 @@
       "japanese": "スミロドンのあたま",
       "korean": "스밀로돈의 머리",
       "russian": "череп смилодона",
-      "plural": false,
-      "internalIds": [ 213 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2643,7 +2582,7 @@
     "uniqueEntryId": "iXfTo3dxakDrLZxnv",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00214",
+      "id": 214,
       "version": "1.0.0",
       "english": "sabertooth tail",
       "englishEurope": "sabertooth tail",
@@ -2659,8 +2598,7 @@
       "japanese": "スミロドンのからだ",
       "korean": "스밀로돈의 몸통",
       "russian": "хвост смилодона",
-      "plural": false,
-      "internalIds": [ 214 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2686,7 +2624,7 @@
     "uniqueEntryId": "yKE5xwKL9EeCJdN4D",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00302",
+      "id": 302,
       "version": "1.0.0",
       "english": "shark-tooth pattern",
       "englishEurope": "shark-tooth pattern",
@@ -2702,8 +2640,7 @@
       "japanese": "サメのはのかせき",
       "korean": "상어 이빨 화석",
       "russian": "зубы ископаемой акулы",
-      "plural": false,
-      "internalIds": [ 302 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null
@@ -2729,7 +2666,7 @@
     "uniqueEntryId": "qbzMLGPcJWikeTWAG",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00222",
+      "id": 222,
       "version": "1.0.0",
       "english": "spino skull",
       "englishEurope": "spino skull",
@@ -2745,8 +2682,7 @@
       "japanese": "スピノサウルスのあたま",
       "korean": "스피노사우루스의 머리",
       "russian": "череп спинозавра",
-      "plural": false,
-      "internalIds": [ 222 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2772,7 +2708,7 @@
     "uniqueEntryId": "7gnFZgeb6qq6K34Tb",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00224",
+      "id": 224,
       "version": "1.0.0",
       "english": "spino tail",
       "englishEurope": "spino tail",
@@ -2788,8 +2724,7 @@
       "japanese": "スピノサウルスのしっぽ",
       "korean": "스피노사우루스의 꼬리",
       "russian": "хвост спинозавра",
-      "plural": false,
-      "internalIds": [ 224 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2815,7 +2750,7 @@
     "uniqueEntryId": "Ap8LgQD6Ht4dryTjk",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00223",
+      "id": 223,
       "version": "1.0.0",
       "english": "spino torso",
       "englishEurope": "spino torso",
@@ -2831,8 +2766,7 @@
       "japanese": "スピノサウルスのからだ",
       "korean": "스피노사우루스의 몸통",
       "russian": "торс спинозавра",
-      "plural": false,
-      "internalIds": [ 223 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2858,7 +2792,7 @@
     "uniqueEntryId": "DqsxWDoY5Mue6eQxg",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00226",
+      "id": 226,
       "version": "1.0.0",
       "english": "stego skull",
       "englishEurope": "stego skull",
@@ -2874,8 +2808,7 @@
       "japanese": "ステゴサウルスのあたま",
       "korean": "스테고사우루스의 머리",
       "russian": "череп стегозавра",
-      "plural": false,
-      "internalIds": [ 226 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2901,7 +2834,7 @@
     "uniqueEntryId": "DQgfeZCeApGKBazBL",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00228",
+      "id": 228,
       "version": "1.0.0",
       "english": "stego tail",
       "englishEurope": "stego tail",
@@ -2917,8 +2850,7 @@
       "japanese": "ステゴサウルスのしっぽ",
       "korean": "스테고사우루스의 꼬리",
       "russian": "хвост стегозавра",
-      "plural": false,
-      "internalIds": [ 228 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2944,7 +2876,7 @@
     "uniqueEntryId": "Lv7ChzGsofd3qEjDL",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00227",
+      "id": 227,
       "version": "1.0.0",
       "english": "stego torso",
       "englishEurope": "stego torso",
@@ -2960,8 +2892,7 @@
       "japanese": "ステゴサウルスのからだ",
       "korean": "스테고사우루스의 몸통",
       "russian": "торс стегозавра",
-      "plural": false,
-      "internalIds": [ 227 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -2987,7 +2918,7 @@
     "uniqueEntryId": "ueCYTncJDsf2RYJYx",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00242",
+      "id": 242,
       "version": "1.0.0",
       "english": "tricera skull",
       "englishEurope": "tricera skull",
@@ -3003,8 +2934,7 @@
       "japanese": "トリケラトプスのあたま",
       "korean": "트리케라톱스의 머리",
       "russian": "череп трицератопса",
-      "plural": false,
-      "internalIds": [ 242 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -3030,7 +2960,7 @@
     "uniqueEntryId": "TXbdqeAkhjtqBJAWC",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00244",
+      "id": 244,
       "version": "1.0.0",
       "english": "tricera tail",
       "englishEurope": "tricera tail",
@@ -3046,8 +2976,7 @@
       "japanese": "トリケラトプスのしっぽ",
       "korean": "트리케라톱스의 꼬리",
       "russian": "хвост трицератопса",
-      "plural": false,
-      "internalIds": [ 244 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -3073,7 +3002,7 @@
     "uniqueEntryId": "s2EGQuuStMSwFdT8y",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00243",
+      "id": 243,
       "version": "1.0.0",
       "english": "tricera torso",
       "englishEurope": "tricera torso",
@@ -3089,8 +3018,7 @@
       "japanese": "トリケラトプスのからだ",
       "korean": "트리케라톱스의 몸통",
       "russian": "торс трицератопса",
-      "plural": false,
-      "internalIds": [ 243 ]
+      "plural": false
     },
     "colors": [ "Brown", "Brown" ],
     "recipe": null
@@ -3116,7 +3044,7 @@
     "uniqueEntryId": "qFoqCvDTBd2oyC5Gz",
     "translations": {
       "sourceSheet": "Fossils",
-      "id": "Fossil_00303",
+      "id": 303,
       "version": "1.0.0",
       "english": "trilobite",
       "englishEurope": "trilobite",
@@ -3132,8 +3060,7 @@
       "japanese": "さんようちゅう",
       "korean": "삼엽충",
       "russian": "трилобит",
-      "plural": false,
-      "internalIds": [ 303 ]
+      "plural": false
     },
     "colors": [ "Beige", "Brown" ],
     "recipe": null

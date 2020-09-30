@@ -27,8 +27,7 @@
       "japanese": "カウボーイまつ祭り",
       "korean": "카우보이 축제",
       "russian": "Фестиваль ковбоев",
-      "plural": false,
-      "internalIds": [ "CowBoyFestival" ]
+      "plural": false
     }
   },
   {
@@ -59,8 +58,7 @@
       "japanese": "ぎゅうろうしょくじょ牛郎織女の",
       "korean": "칠석",
       "russian": "День пастуха и ткачихи",
-      "plural": false,
-      "internalIds": [ "GyurouSyokujyo" ]
+      "plural": false
     }
   },
   {
@@ -91,8 +89,7 @@
       "japanese": "ちち父のひ日",
       "korean": "아버지날",
       "russian": "День отца",
-      "plural": false,
-      "internalIds": [ "FathersDay" ]
+      "plural": false
     }
   },
   {
@@ -123,8 +120,7 @@
       "japanese": "ブドウのしゅうかくさい収穫祭",
       "korean": "포도 수확제",
       "russian": "День сбора винограда",
-      "plural": false,
-      "internalIds": [ "GrapeHarvestFestival" ]
+      "plural": false
     }
   },
   {
@@ -155,8 +151,7 @@
       "japanese": "こくさい国際こどものひ日",
       "korean": "국제 어린이날",
       "russian": "Всемирный день детей",
-      "plural": false,
-      "internalIds": [ "WorldChild" ]
+      "plural": false
     }
   },
   {
@@ -187,8 +182,7 @@
       "japanese": "おつきみ月見",
       "korean": "추석",
       "russian": "День луны",
-      "plural": false,
-      "internalIds": [ "MidAutumnFestival" ]
+      "plural": false
     }
   },
   {
@@ -219,8 +213,7 @@
       "japanese": "はは母のひ日",
       "korean": "어머니날",
       "russian": "День матери",
-      "plural": false,
-      "internalIds": [ "MothersDay" ]
+      "plural": false
     }
   },
   {
@@ -251,8 +244,7 @@
       "japanese": "げしさい夏至祭",
       "korean": "하지 축제",
       "russian": "Праздник лета",
-      "plural": false,
-      "internalIds": [ "SummerSolstice" ]
+      "plural": false
     }
   },
   {
@@ -295,8 +287,7 @@
       "japanese": "とうじさい冬至祭",
       "korean": "동지 축제",
       "russian": "Праздник зимы",
-      "plural": false,
-      "internalIds": [ "WinterSolstice" ]
+      "plural": false
     }
   }
 ]

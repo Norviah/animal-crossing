@@ -3,8 +3,8 @@ export interface Event {
     event:                    string;
     northernHemisphereDates?: string;
     southernHemisphereDates?: string;
-    times?:                   Times;
-    versionAdded:             Version;
+    times?:                   string;
+    versionAdded:             string;
     translations:             Translations | null;
     availability?:            string;
     nookShoppingItems?:       string;
@@ -15,13 +15,6 @@ export interface Event {
 export enum EventSourceSheet {
     Events = "Events",
     NookShoppingSeasonal = "Nook Shopping Seasonal",
-}
-
-export enum Times {
-    AllDay = "All day",
-    The11Pm2Am = "11 PM – 2 AM",
-    The7PMMidnight = "7 PM – Midnight",
-    The9Am6Pm = "9 AM – 6 PM",
 }
 
 export interface Translations {
@@ -43,7 +36,6 @@ export interface Translations {
     korean:             string;
     russian:            string;
     plural:             boolean;
-    internalIds:        string[];
 }
 
 export enum TranslationsSourceSheet {
@@ -55,6 +47,5 @@ export enum Version {
     The100 = "1.0.0",
     The110 = "1.1.0",
     The120 = "1.2.0",
-    The130 = "1.3.0",
     The140 = "1.4.0",
 }

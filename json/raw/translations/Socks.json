@@ -847,7 +847,7 @@
     "French": "collant à rayures verticales",
     "French (US)": "collant à rayures verticales",
     "Italian": "paio di calze a strisce",
-    "Dutch": "gestreepte panty",
+    "Dutch": "verticale-strepen-panty",
     "Chinese": "条纹袜子",
     "Chinese (Traditional)": "條紋襪子",
     "Japanese": "ストライプソックス",
@@ -1138,5 +1138,24 @@
     "Japanese": "シンプルなニーハイソックス",
     "Korean": "심플 니하이 삭스",
     "Russian": "простые гольфы"
+  },
+  {
+    "SourceSheet": "Socks",
+    "id": 1275,
+    "Version": "1.5.0",
+    "English": "horizontal-striped tights",
+    "English (Europe)": "horizontal-striped tights",
+    "German": "Paar Ringel-Kniestrümpfe",
+    "Spanish": "media rayas horizontales",
+    "Spanish (US)": "media rayas horizontales",
+    "French": "collant rayures horizontales",
+    "French (US)": "collant rayures horizontales",
+    "Italian": "paio di calze a righe oriz.",
+    "Dutch": "horizontale-strepen-panty",
+    "Chinese": "粗横纹长袜",
+    "Chinese (Traditional)": "粗橫紋褲襪",
+    "Japanese": "ボーダータイツ",
+    "Korean": "줄무늬 타이츠",
+    "Russian": "чулки в полоску"
   }
 ]

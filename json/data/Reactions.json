@@ -5,6 +5,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Outraged.png",
     "source": [ "Peppy villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Outraged",
     "uniqueEntryId": "6suhKYAAhh5QMKt64",
     "translations": {
@@ -25,8 +26,7 @@
       "japanese": "ムカッ",
       "korean": "버럭",
       "russian": "Ярость",
-      "plural": false,
-      "internalIds": [ "Outraged" ]
+      "plural": false
     }
   },
   {
@@ -35,6 +35,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Nodding.png",
     "source": [ "Cranky villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Nodding",
     "uniqueEntryId": "7smqwK9J7eFBxta28",
     "translations": {
@@ -55,8 +56,7 @@
       "japanese": "うんうん",
       "korean": "끄덕끄덕",
       "russian": "Согласие",
-      "plural": false,
-      "internalIds": [ "Nodding" ]
+      "plural": false
     }
   },
   {
@@ -65,6 +65,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Shocked.png",
     "source": [ "Snooty villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Shocked",
     "uniqueEntryId": "vosig4bbr4kPq57AT",
     "translations": {
@@ -85,8 +86,7 @@
       "japanese": "ハッ！",
       "korean": "깜짝!",
       "russian": "Изумление",
-      "plural": false,
-      "internalIds": [ "Shocked" ]
+      "plural": false
     }
   },
   {
@@ -95,6 +95,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Apologize.png",
     "source": [ "Big Sister villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Apologize",
     "uniqueEntryId": "jBKsQYCAd7PtymQeB",
     "translations": {
@@ -115,8 +116,7 @@
       "japanese": "ペコリ",
       "korean": "꾸벅",
       "russian": "Извинение",
-      "plural": false,
-      "internalIds": [ "Apologize" ]
+      "plural": false
     }
   },
   {
@@ -125,6 +125,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Blushing.png",
     "source": [ "Lazy villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Blushing",
     "uniqueEntryId": "wzvKbFrEJCseTohoz",
     "translations": {
@@ -145,8 +146,7 @@
       "japanese": "テレる",
       "korean": "부끄럼",
       "russian": "Робость",
-      "plural": false,
-      "internalIds": [ "Blushing" ]
+      "plural": false
     }
   },
   {
@@ -155,6 +155,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Pardon.png",
     "source": [ "Cranky villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Pardon",
     "uniqueEntryId": "WRSSRZMtM6rXfXBrR",
     "translations": {
@@ -175,8 +176,7 @@
       "japanese": "えっ？",
       "korean": "뭐?",
       "russian": "Недоумение",
-      "plural": false,
-      "internalIds": [ "Pardon" ]
+      "plural": false
     }
   },
   {
@@ -185,6 +185,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/ColdChill.png",
     "source": [ "Big Sister villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "ColdChill",
     "uniqueEntryId": "K62u2owKFDLmPCB3Q",
     "translations": {
@@ -205,8 +206,7 @@
       "japanese": "ヒュー",
       "korean": "씁쓸",
       "russian": "Озноб",
-      "plural": false,
-      "internalIds": [ "ColdChill" ]
+      "plural": false
     }
   },
   {
@@ -214,7 +214,8 @@
     "name": "Confident",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Assent.png",
     "source": [ "Big Sister villagers" ],
-    "sourceNotes": "Requires a high level of friendship",
+    "sourceNotes": [ "Requires a high level of friendship" ],
+    "versionAdded": "1.0.0",
     "iconFilename": "Assent",
     "uniqueEntryId": "TGifHTbyLBh4f3gDQ",
     "translations": {
@@ -235,8 +236,7 @@
       "japanese": "まかせて！",
       "korean": "맡겨줘!",
       "russian": "Решимость",
-      "plural": false,
-      "internalIds": [ "Assent" ]
+      "plural": false
     }
   },
   {
@@ -245,6 +245,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/QuestionMark.png",
     "source": [ "Peppy villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "QuestionMark",
     "uniqueEntryId": "SskgipgnKzm5TsK7d",
     "translations": {
@@ -265,8 +266,7 @@
       "japanese": "はて？",
       "korean": "응?",
       "russian": "Любопытство",
-      "plural": false,
-      "internalIds": [ "QuestionMark" ]
+      "plural": false
     }
   },
   {
@@ -274,7 +274,8 @@
     "name": "Daydreaming",
     "image": "https://acnhcdn.com/latest/ManpuIcon/AbsentMindedness.png",
     "source": [ "Normal villagers" ],
-    "sourceNotes": "Requires a high level of friendship",
+    "sourceNotes": [ "Requires a high level of friendship" ],
+    "versionAdded": "1.0.0",
     "iconFilename": "AbsentMindedness",
     "uniqueEntryId": "JFrTBJCEaX5R4kABT",
     "translations": {
@@ -295,8 +296,7 @@
       "japanese": "そうぞうちゅう",
       "korean": "상상",
       "russian": "Мечтательность",
-      "plural": false,
-      "internalIds": [ "AbsentMindedness" ]
+      "plural": false
     }
   },
   {
@@ -305,6 +305,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Clapping.png",
     "source": [ "All villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Clapping",
     "uniqueEntryId": "F9DpGeqZzDeSTh2bq",
     "translations": {
@@ -325,8 +326,7 @@
       "japanese": "パチパチ",
       "korean": "박수",
       "russian": "Восхищение",
-      "plural": false,
-      "internalIds": [ "Clapping" ]
+      "plural": false
     }
   },
   {
@@ -335,6 +335,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Negative.png",
     "source": [ "Big Sister villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Negative",
     "uniqueEntryId": "Bw5YBM6iuWgMzutWq",
     "translations": {
@@ -355,8 +356,7 @@
       "japanese": "イヤイヤ",
       "korean": "절레절레",
       "russian": "Несогласие",
-      "plural": false,
-      "internalIds": [ "Negative" ]
+      "plural": false
     }
   },
   {
@@ -365,6 +365,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Frantic.png",
     "source": [ "Jock villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Frantic",
     "uniqueEntryId": "vsSjQBZXPeSK6uDTK",
     "translations": {
@@ -385,8 +386,7 @@
       "japanese": "あせる",
       "korean": "당황",
       "russian": "Беспокойство",
-      "plural": false,
-      "internalIds": [ "Frantic" ]
+      "plural": false
     }
   },
   {
@@ -395,6 +395,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sleep.png",
     "source": [ "Smug villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Sleep",
     "uniqueEntryId": "2vvgAacGjthcFW5Qa",
     "translations": {
@@ -415,8 +416,7 @@
       "japanese": "すやすや",
       "korean": "쿨쿨",
       "russian": "Дремота",
-      "plural": false,
-      "internalIds": [ "Sleep" ]
+      "plural": false
     }
   },
   {
@@ -425,6 +425,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Cheering.png",
     "source": [ "Jock villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Cheering",
     "uniqueEntryId": "fomfML4NWdY8x6adv",
     "translations": {
@@ -445,8 +446,7 @@
       "japanese": "ガンバレー！",
       "korean": "힘내!",
       "russian": "Ободрение",
-      "plural": false,
-      "internalIds": [ "Cheering" ]
+      "plural": false
     }
   },
   {
@@ -455,6 +455,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Shaking.png",
     "source": [ "Normal villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Shaking",
     "uniqueEntryId": "noKrWYCMSWcH4jwvi",
     "translations": {
@@ -475,8 +476,7 @@
       "japanese": "ブルブル",
       "korean": "덜덜덜",
       "russian": "Дрожь",
-      "plural": false,
-      "internalIds": [ "Shaking" ]
+      "plural": false
     }
   },
   {
@@ -484,7 +484,8 @@
     "name": "Flourish",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Dance.png",
     "source": [ "Jock villagers" ],
-    "sourceNotes": "Requires a high level of friendship",
+    "sourceNotes": [ "Requires a high level of friendship" ],
+    "versionAdded": "1.0.0",
     "iconFilename": "Dance",
     "uniqueEntryId": "5QDD3DcwdPhbGoJAf",
     "translations": {
@@ -505,8 +506,7 @@
       "japanese": "クルリンパ",
       "korean": "댄스",
       "russian": "Хвастовство",
-      "plural": false,
-      "internalIds": [ "Dance" ]
+      "plural": false
     }
   },
   {
@@ -515,6 +515,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/HappyDance.png",
     "source": [ "Normal villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "HappyDance",
     "uniqueEntryId": "8nAwdhzZfotqpLC9R",
     "translations": {
@@ -535,8 +536,7 @@
       "japanese": "ウキウキ",
       "korean": "신바람",
       "russian": "Ликование",
-      "plural": false,
-      "internalIds": [ "HappyDance" ]
+      "plural": false
     }
   },
   {
@@ -545,6 +545,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Greeting.png",
     "source": [ "All villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Greeting",
     "uniqueEntryId": "oE6uqhZYjYfuqb55n",
     "translations": {
@@ -565,8 +566,7 @@
       "japanese": "やぁ！",
       "korean": "안녕!",
       "russian": "Приветствие",
-      "plural": false,
-      "internalIds": [ "Greeting" ]
+      "plural": false
     }
   },
   {
@@ -575,6 +575,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Smiling.png",
     "source": [ "Peppy villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Smiling",
     "uniqueEntryId": "TWENXBbBENgnFiGq3",
     "translations": {
@@ -595,8 +596,37 @@
       "japanese": "ニコニコ",
       "korean": "싱글벙글",
       "russian": "Счастье",
-      "plural": false,
-      "internalIds": [ "Smiling" ]
+      "plural": false
+    }
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Haunt",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddScaring.png",
+    "source": [ "Jack" ],
+    "sourceNotes": [ "Only obtainable on Halloween" ],
+    "versionAdded": "1.5.0",
+    "iconFilename": "AddScaring",
+    "uniqueEntryId": "fA3nXJsXHNT67zyT2",
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddScaring",
+      "version": "1.5.0",
+      "english": "Haunt",
+      "englishEurope": "Haunt",
+      "german": "Schocken",
+      "spanish": "Espanto",
+      "spanishUs": "Espanto",
+      "french": "Envoûtement",
+      "frenchUs": "Envoûtement",
+      "italian": "Terrore",
+      "dutch": "Spoken",
+      "chinese": "惊吓",
+      "chineseTraditional": "嚇人",
+      "japanese": "こわがらせる",
+      "korean": "겁주기",
+      "russian": "Испуг",
+      "plural": false
     }
   },
   {
@@ -605,6 +635,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/BrokenHeart.png",
     "source": [ "Smug villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "BrokenHeart",
     "uniqueEntryId": "ex6gKZu6zsyd6MgDr",
     "translations": {
@@ -625,8 +656,7 @@
       "japanese": "しつれん",
       "korean": "실연",
       "russian": "Разбитое сердце",
-      "plural": false,
-      "internalIds": [ "BrokenHeart" ]
+      "plural": false
     }
   },
   {
@@ -634,7 +664,8 @@
     "name": "Inspiration",
     "image": "https://acnhcdn.com/latest/ManpuIcon/IdeaBulb.png",
     "source": [ "Cranky villagers" ],
-    "sourceNotes": "Requires a high level of friendship",
+    "sourceNotes": [ "Requires a high level of friendship" ],
+    "versionAdded": "1.0.0",
     "iconFilename": "IdeaBulb",
     "uniqueEntryId": "8ux4ddfibJQR2EuWW",
     "translations": {
@@ -655,8 +686,7 @@
       "japanese": "ひらめく",
       "korean": "번뜩",
       "russian": "Вдохновение",
-      "plural": false,
-      "internalIds": [ "IdeaBulb" ]
+      "plural": false
     }
   },
   {
@@ -665,6 +695,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Silent.png",
     "source": [ "Snooty villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Silent",
     "uniqueEntryId": "X2kzqTaPwtG6SGNT8",
     "translations": {
@@ -685,8 +716,7 @@
       "japanese": "ジロッ",
       "korean": "조용",
       "russian": "Напряжение",
-      "plural": false,
-      "internalIds": [ "Silent" ]
+      "plural": false
     }
   },
   {
@@ -695,6 +725,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/HappyFlower.png",
     "source": [ "All villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "HappyFlower",
     "uniqueEntryId": "fSNyHJHgLKac5mSLT",
     "translations": {
@@ -715,8 +746,7 @@
       "japanese": "ハッピー",
       "korean": "해피",
       "russian": "Радость",
-      "plural": false,
-      "internalIds": [ "HappyFlower" ]
+      "plural": false
     }
   },
   {
@@ -725,6 +755,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Laughing.png",
     "source": [ "Big Sister villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Laughing",
     "uniqueEntryId": "EBenMHMpwnkMgS6eg",
     "translations": {
@@ -745,8 +776,7 @@
       "japanese": "わらう",
       "korean": "웃기",
       "russian": "Смех",
-      "plural": false,
-      "internalIds": [ "Laughing" ]
+      "plural": false
     }
   },
   {
@@ -754,7 +784,8 @@
     "name": "Love",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Love.png",
     "source": [ "Snooty villagers" ],
-    "sourceNotes": "Requires a high level of friendship",
+    "sourceNotes": [ "Requires a high level of friendship" ],
+    "versionAdded": "1.0.0",
     "iconFilename": "Love",
     "uniqueEntryId": "GvAsErCFuGAcMAeXM",
     "translations": {
@@ -777,7 +808,7 @@
       "korean": "러브",
       "russian": "Любовь",
       "plural": false,
-      "internalIds": [ null ]
+      "clothGroup": 1127
     }
   },
   {
@@ -785,7 +816,8 @@
     "name": "Mischief",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Scheming.png",
     "source": [ "Peppy villagers" ],
-    "sourceNotes": "Requires a high level of friendship",
+    "sourceNotes": [ "Requires a high level of friendship" ],
+    "versionAdded": "1.0.0",
     "iconFilename": "Scheming",
     "uniqueEntryId": "E7it7yLfFaddFvEhQ",
     "translations": {
@@ -806,8 +838,7 @@
       "japanese": "わるだくみ",
       "korean": "꿍꿍이",
       "russian": "Озорство",
-      "plural": false,
-      "internalIds": [ "Scheming" ]
+      "plural": false
     }
   },
   {
@@ -816,6 +847,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Oops.png",
     "source": [ "Lazy villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Oops",
     "uniqueEntryId": "DPR7WWkmR36Bsf2LG",
     "translations": {
@@ -836,8 +868,7 @@
       "japanese": "しまった！",
       "korean": "아차!",
       "russian": "Оплошность",
-      "plural": false,
-      "internalIds": [ "Oops" ]
+      "plural": false
     }
   },
   {
@@ -846,6 +877,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Hello.png",
     "source": [ "Normal villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Hello",
     "uniqueEntryId": "Z3MuKfQMaH3D8vkPA",
     "translations": {
@@ -866,8 +898,7 @@
       "japanese": "ねっ",
       "korean": "까딱",
       "russian": "Удовольствие",
-      "plural": false,
-      "internalIds": [ "Hello" ]
+      "plural": false
     }
   },
   {
@@ -875,7 +906,8 @@
     "name": "Pride",
     "image": "https://acnhcdn.com/latest/ManpuIcon/SmugFace.png",
     "source": [ "Lazy villagers" ],
-    "sourceNotes": "Requires a high level of friendship",
+    "sourceNotes": [ "Requires a high level of friendship" ],
+    "versionAdded": "1.0.0",
     "iconFilename": "SmugFace",
     "uniqueEntryId": "xKoQpdJMtocNFRckm",
     "translations": {
@@ -896,8 +928,7 @@
       "japanese": "ドヤ！",
       "korean": "잘난체",
       "russian": "Гордость",
-      "plural": false,
-      "internalIds": [ "SmugFace" ]
+      "plural": false
     }
   },
   {
@@ -906,6 +937,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/OhGeez.png",
     "source": [ "Smug villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "OhGeez",
     "uniqueEntryId": "7YdF3ZMr95XP3FaoW",
     "translations": {
@@ -926,8 +958,7 @@
       "japanese": "ヤレヤレ",
       "korean": "나참…",
       "russian": "Смирение",
-      "plural": false,
-      "internalIds": [ "OhGeez" ]
+      "plural": false
     }
   },
   {
@@ -936,6 +967,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/SadSpiral.png",
     "source": [ "Normal villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "SadSpiral",
     "uniqueEntryId": "Wo8q6KhPtL2CYwat4",
     "translations": {
@@ -956,8 +988,37 @@
       "japanese": "がっくり",
       "korean": "실망",
       "russian": "Грусть",
-      "plural": false,
-      "internalIds": [ "SadSpiral" ]
+      "plural": false
+    }
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Scare",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddPrank.png",
+    "source": [ "All villagers" ],
+    "sourceNotes": [ "Only obtainable on Halloween" ],
+    "versionAdded": "1.5.0",
+    "iconFilename": "AddPrank",
+    "uniqueEntryId": "sBW2mWEs7FW8mN8e5",
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddPrank",
+      "version": "1.5.0",
+      "english": "Scare",
+      "englishEurope": "Scare",
+      "german": "Erschrecken",
+      "spanish": "Susto",
+      "spanishUs": "Susto",
+      "french": "Épouvante",
+      "frenchUs": "Épouvante",
+      "italian": "Spavento",
+      "dutch": "Bang maken",
+      "chinese": "吓唬",
+      "chineseTraditional": "驚嚇",
+      "japanese": "おどかす",
+      "korean": "왁!",
+      "russian": "Устрашение",
+      "plural": false
     }
   },
   {
@@ -966,6 +1027,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/WrySmile.png",
     "source": [ "Cranky villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "WrySmile",
     "uniqueEntryId": "5cRnCPDJRdRpPJF8D",
     "translations": {
@@ -986,8 +1048,7 @@
       "japanese": "にがわらい",
       "korean": "쓴웃음",
       "russian": "Насмешка",
-      "plural": false,
-      "internalIds": [ "WrySmile" ]
+      "plural": false
     }
   },
   {
@@ -996,6 +1057,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Surprised.png",
     "source": [ "Jock villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Surprised",
     "uniqueEntryId": "bn29da8SNdMYYyWAa",
     "translations": {
@@ -1016,8 +1078,7 @@
       "japanese": "ガーン！",
       "korean": "뜨악!",
       "russian": "Шок",
-      "plural": false,
-      "internalIds": [ "Surprised" ]
+      "plural": false
     }
   },
   {
@@ -1025,7 +1086,8 @@
     "name": "Showmanship",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Shaki.png",
     "source": [ "Smug villagers" ],
-    "sourceNotes": "Requires a high level of friendship",
+    "sourceNotes": [ "Requires a high level of friendship" ],
+    "versionAdded": "1.0.0",
     "iconFilename": "Shaki",
     "uniqueEntryId": "Bj5iG7kc6tLND9bjn",
     "translations": {
@@ -1046,8 +1108,7 @@
       "japanese": "シャキーン",
       "korean": "짜잔!",
       "russian": "Бахвальство",
-      "plural": false,
-      "internalIds": [ "Shaki" ]
+      "plural": false
     }
   },
   {
@@ -1056,6 +1117,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Hesitate.png",
     "source": [ "Lazy villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Hesitate",
     "uniqueEntryId": "9H7jt7AGKbh6mW4y8",
     "translations": {
@@ -1076,8 +1138,7 @@
       "japanese": "もじもじ",
       "korean": "머뭇",
       "russian": "Застенчивость",
-      "plural": false,
-      "internalIds": [ "Hesitate" ]
+      "plural": false
     }
   },
   {
@@ -1086,6 +1147,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sighing.png",
     "source": [ "Snooty villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Sighing",
     "uniqueEntryId": "ntjLqg82EQNsgnzYA",
     "translations": {
@@ -1106,8 +1168,7 @@
       "japanese": "ためいき",
       "korean": "한숨",
       "russian": "Вздох",
-      "plural": false,
-      "internalIds": [ "Sighing" ]
+      "plural": false
     }
   },
   {
@@ -1116,6 +1177,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sleepy.png",
     "source": [ "Peppy villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Sleepy",
     "uniqueEntryId": "9e5BhxmqtMurNWqW4",
     "translations": {
@@ -1136,8 +1198,7 @@
       "japanese": "あくび",
       "korean": "하품",
       "russian": "Сонливость",
-      "plural": false,
-      "internalIds": [ "Sleepy" ]
+      "plural": false
     }
   },
   {
@@ -1146,6 +1207,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Grin.png",
     "source": [ "Smug villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Grin",
     "uniqueEntryId": "KDAWT9zDKpufEWgaW",
     "translations": {
@@ -1166,8 +1228,7 @@
       "japanese": "ニヤリ",
       "korean": "씨익",
       "russian": "Ухмылка",
-      "plural": false,
-      "internalIds": [ "Grin" ]
+      "plural": false
     }
   },
   {
@@ -1176,6 +1237,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sneezing.png",
     "source": [ "Jock villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Sneezing",
     "uniqueEntryId": "F6Dkk4PGtjDMCgry3",
     "translations": {
@@ -1196,8 +1258,7 @@
       "japanese": "くしゃみ",
       "korean": "재채기",
       "russian": "Чихание",
-      "plural": false,
-      "internalIds": [ "Sneezing" ]
+      "plural": false
     }
   },
   {
@@ -1206,6 +1267,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Crying.png",
     "source": [ "Lazy villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Crying",
     "uniqueEntryId": "W8nngMS98uwpHHW4m",
     "translations": {
@@ -1226,8 +1288,7 @@
       "japanese": "わーん",
       "korean": "울기",
       "russian": "Плач",
-      "plural": false,
-      "internalIds": [ "Crying" ]
+      "plural": false
     }
   },
   {
@@ -1236,6 +1297,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Aha.png",
     "source": [ "All villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Aha",
     "uniqueEntryId": "7jmkZiSxrYT7MMm4P",
     "translations": {
@@ -1256,8 +1318,7 @@
       "japanese": "あっ！",
       "korean": "아하!",
       "russian": "Удивление",
-      "plural": false,
-      "internalIds": [ "Aha" ]
+      "plural": false
     }
   },
   {
@@ -1266,6 +1327,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Thinking.png",
     "source": [ "Snooty villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Thinking",
     "uniqueEntryId": "HEFCeCGtJ7Bkb5PXG",
     "translations": {
@@ -1286,8 +1348,7 @@
       "japanese": "うーん",
       "korean": "고민",
       "russian": "Размышление",
-      "plural": false,
-      "internalIds": [ "Thinking" ]
+      "plural": false
     }
   },
   {
@@ -1296,6 +1357,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Worried.png",
     "source": [ "Cranky villagers" ],
     "sourceNotes": null,
+    "versionAdded": "1.0.0",
     "iconFilename": "Worried",
     "uniqueEntryId": "TygKeKxvotLEzWqvY",
     "translations": {
@@ -1316,8 +1378,7 @@
       "japanese": "こまる",
       "korean": "곤란",
       "russian": "Расстройство",
-      "plural": false,
-      "internalIds": [ "Worried" ]
+      "plural": false
     }
   }
 ]
