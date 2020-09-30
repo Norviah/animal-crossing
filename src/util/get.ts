@@ -1,8 +1,8 @@
-import { statSync, readdirSync } from 'fs';
-import { join, isAbsolute } from 'path';
+import { statSync } from 'fs';
+import { readdir } from './readdir';
 
 /**
- * Determines if the path is a file.
+ * Determines if the given path is a file.
  * @param  path The path to check.
  * @return      Represents if the given path is a file.
  */
@@ -11,7 +11,7 @@ function isFile(path: string): boolean {
 }
 
 /**
- * A helper for the get function. This function is called on every element in
+ * A helper for the get function, this function is called on every element in
  * the array of paths, it imports the current file and initializes and returns
  * an array consisting of the array from the last loop and the file.
  * @param  array Contains the files from the past loops.
@@ -23,36 +23,26 @@ function loop(array: obj[], file: string): obj[] {
 }
 
 /**
- * Returns an array containing the paths of every file in the directory.
- * @param  path The path to read JSON files from.
- * @return      An array with absolute paths for JSON files in the directory.
- */
-function readdir(path: string): string[] {
-  return readdirSync(path).map((file: string) => join(path, file));
-}
-
-/**
  * Imports every path in the array, or just the path if a string is given, into
- * an array and returns it. If a directory is given instead, every file in that
- * directory is imported into an array and is returned.
+ * an array and returns the result. If a directory is given instead, every file
+ * in that directory is imported into an array and is returned.
  * @param  path The path, or directory, to import.
- * @return      An array containing the contents of the path.
+ * @return      An array containing the contents of the given path.
  */
-function get(path: string[] | string): obj[] {
-  // Make sure that the given path is in absolute form.
-  if (typeof path === 'string' ? !isAbsolute(path) : !path.every((file: string) => isAbsolute(file))) {
-    throw new Error(`'${path}' must be an absolute path.`);
-  }
-
+export function get(path: string[] | string): obj[] {
   let files: string[];
 
-  // If the path is a file we set the string to be an instance of an array, if a
-  // directory is given, get every JSON file from that directory.
+  // If the path is a string, we'll determine if the path is either a file or a
+  // directory. If it's a file, we'll initialize an array with it as the only
+  // element, if not, we'll initialize an array containing the files in the dir.
   if (typeof path === 'string') {
     files = isFile(path) ? [path] : readdir(path);
-  } else files = path;
+  }
+
+  // If the path is an array instead, we'll just set the variable to the param.
+  else {
+    files = path;
+  }
 
   return files.reduce(loop, []);
 }
-
-export { get, readdir };

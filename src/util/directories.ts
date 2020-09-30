@@ -39,6 +39,4 @@ const combined: string = join(root, 'combined');
 /**
  * Represents the directories that are used throughout this project.
  */
-const directories = { root, raw, translations, seasons, sanitized, combined };
-
-export { directories };
+export const directories = { root, raw, translations, seasons, sanitized, combined };

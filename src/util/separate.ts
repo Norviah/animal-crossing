@@ -1,11 +1,9 @@
 /**
  * Separates the string with the given separator and returns the array trimmed.
  * @param  string    The string to separate.
- * @param  separator The string to separate with.
- * @return           The string separated with the separator and trimmed.
+ * @param  separator The character to separate with.
+ * @return           The string separated with the separator.
  */
-function separate(string: string, separator: string): string[] {
+export function separate(string: string, separator: string): string[] {
   return string.split(separator).map((string: string) => string.trim());
 }
-
-export { separate };

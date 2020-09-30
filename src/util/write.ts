@@ -14,8 +14,6 @@ function sort(a: any, b: any): number {
  * @param data  The data to save.
  * @param data  Represents the maximum fixed character width.
  */
-function write(path: string, data: obj[], width?: number): void {
+export function write(path: string, data: obj[], width?: number): void {
   writeFileSync(path, beautify(data.sort(sort), (<unknown>null) as any[], 2, width ?? 80));
 }
-
-export { write };

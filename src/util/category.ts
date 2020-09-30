@@ -10,7 +10,7 @@ import { get } from './get';
  * @param  dir  The base directory of where to get the files from.
  * @return      An array with the absolute paths of the items in the category.
  */
-function files(name: keyof typeof categories, dir: string = directories.sanitized): string[] {
+export function files(name: keyof typeof categories, dir: string = directories.sanitized): string[] {
   return categories[name].map((file: string) => join(dir, `${file}.json`));
 }
 
@@ -20,8 +20,6 @@ function files(name: keyof typeof categories, dir: string = directories.sanitize
  * @param  dir  The base directory of where to get the files from.
  * @return     An array with the data of every file from the category.
  */
-function category(name: keyof typeof categories, dir: string = directories.sanitized): obj[] {
+export function category(name: keyof typeof categories, dir: string = directories.sanitized): obj[] {
   return get(files(name, dir));
 }
-
-export { files, category };
