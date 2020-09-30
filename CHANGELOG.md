@@ -1,4 +1,35 @@
 
+## [6.8.0](https://github.com/Norviah/animal-crossing/compare/v6.7.0...v6.8.0) (2020-09-30)
+
+
+### Features
+
+* improve mapping translations to items ([67a582e](https://github.com/Norviah/animal-crossing/commit/67a582e001334da06fa1deef24465142f79b2175))
+
+
+### Dependencies
+
+* remove 'ids' ([08652a4](https://github.com/Norviah/animal-crossing/commit/08652a411b64bf7640b7aeb50c90f4d3ed0adcbd))
+
+
+### Build System
+
+* implement a new section for aspects that are removed ([f38ccbd](https://github.com/Norviah/animal-crossing/commit/f38ccbdfbcee0dbdf81fa64fdb9a36fc8bf93737))
+
+
+### Refactor
+
+* favor exporting constants ([3e0053e](https://github.com/Norviah/animal-crossing/commit/3e0053e771c1ab00992fa1d3ee8dcabc96d840a4))
+* refactor codebase ([6476932](https://github.com/Norviah/animal-crossing/commit/64769323657c0deb1c753ed0ef31241e2c675e52))
+* refactor codebase ([7246cf6](https://github.com/Norviah/animal-crossing/commit/7246cf68247c990177c7438c495ab0d168e82611))
+* refactor codebase ([a064f15](https://github.com/Norviah/animal-crossing/commit/a064f150e2d5d42e1bdb770df4c3975475afbc24))
+* **util:** move readdir into it's own file ([820f533](https://github.com/Norviah/animal-crossing/commit/820f533ddab15073ac0d09efc278316bde487b9c))
+
+
+### Additions
+
+* implement additions/changes from the halloween update ([5f0fdfb](https://github.com/Norviah/animal-crossing/commit/5f0fdfb5c8b837151cb00b9fafa3a23e223702e6))
+
 ## [6.7.0](https://github.com/Norviah/animal-crossing/compare/v6.6.1...v6.7.0) (2020-09-25)
 
 
