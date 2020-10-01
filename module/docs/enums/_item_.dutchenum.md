@@ -26,7 +26,7 @@
 
 • **AlledaagsThema**: = "alledaags thema"
 
-*Defined in [Item.ts:601](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L601)*
+*Defined in [Item.ts:601](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L601)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **Apple**: = "Apple"
 
-*Defined in [Item.ts:602](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L602)*
+*Defined in [Item.ts:602](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L602)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **Cherry**: = "Cherry"
 
-*Defined in [Item.ts:603](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L603)*
+*Defined in [Item.ts:603](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L603)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **Clay**: = "Clay"
 
-*Defined in [Item.ts:604](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L604)*
+*Defined in [Item.ts:604](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L604)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **FormeThema**: = "forme thema"
 
-*Defined in [Item.ts:605](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L605)*
+*Defined in [Item.ts:605](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L605)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **Griezelthema**: = "griezelthema"
 
-*Defined in [Item.ts:606](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L606)*
+*Defined in [Item.ts:606](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L606)*
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 • **Podiumthema**: = "podiumthema"
 
-*Defined in [Item.ts:607](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L607)*
+*Defined in [Item.ts:607](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L607)*
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 • **Rocket**: = "Rocket"
 
-*Defined in [Item.ts:608](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L608)*
+*Defined in [Item.ts:608](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L608)*
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 • **Sportthema**: = "sportthema"
 
-*Defined in [Item.ts:609](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L609)*
+*Defined in [Item.ts:609](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L609)*
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 • **Vakantiethema**: = "vakantiethema"
 
-*Defined in [Item.ts:610](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L610)*
+*Defined in [Item.ts:610](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L610)*
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 • **Vrijetijdsthema**: = "vrijetijdsthema"
 
-*Defined in [Item.ts:611](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L611)*
+*Defined in [Item.ts:611](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L611)*
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 • **WeersbestendigThema**: = "weersbestendig thema"
 
-*Defined in [Item.ts:612](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L612)*
+*Defined in [Item.ts:612](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L612)*
 
 ___
 
@@ -122,4 +122,4 @@ ___
 
 • **Werkthema**: = "werkthema"
 
-*Defined in [Item.ts:613](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L613)*
+*Defined in [Item.ts:613](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L613)*

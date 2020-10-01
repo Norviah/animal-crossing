@@ -35,7 +35,7 @@
 
 • **chinese**: *string*
 
-*Defined in [Event.ts:33](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L33)*
+*Defined in [Event.ts:33](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L33)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **chineseTraditional**: *string*
 
-*Defined in [Event.ts:34](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L34)*
+*Defined in [Event.ts:34](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L34)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **dutch**: *string*
 
-*Defined in [Event.ts:32](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L32)*
+*Defined in [Event.ts:32](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L32)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **english**: *string*
 
-*Defined in [Event.ts:24](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L24)*
+*Defined in [Event.ts:24](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L24)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **englishEurope**: *string*
 
-*Defined in [Event.ts:25](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L25)*
+*Defined in [Event.ts:25](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L25)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **french**: *string*
 
-*Defined in [Event.ts:29](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L29)*
+*Defined in [Event.ts:29](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L29)*
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 • **frenchUs**: *string*
 
-*Defined in [Event.ts:30](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L30)*
+*Defined in [Event.ts:30](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L30)*
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 • **german**: *string*
 
-*Defined in [Event.ts:26](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L26)*
+*Defined in [Event.ts:26](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L26)*
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 • **id**: *number | string*
 
-*Defined in [Event.ts:22](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L22)*
+*Defined in [Event.ts:22](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L22)*
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 • **italian**: *string*
 
-*Defined in [Event.ts:31](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L31)*
+*Defined in [Event.ts:31](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L31)*
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 • **japanese**: *string*
 
-*Defined in [Event.ts:35](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L35)*
+*Defined in [Event.ts:35](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L35)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 • **korean**: *string*
 
-*Defined in [Event.ts:36](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L36)*
+*Defined in [Event.ts:36](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L36)*
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 • **plural**: *boolean*
 
-*Defined in [Event.ts:38](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L38)*
+*Defined in [Event.ts:38](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L38)*
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 • **russian**: *string*
 
-*Defined in [Event.ts:37](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L37)*
+*Defined in [Event.ts:37](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L37)*
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 • **sourceSheet**: *[TranslationsSourceSheet](../enums/_event_.translationssourcesheet.md)*
 
-*Defined in [Event.ts:21](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L21)*
+*Defined in [Event.ts:21](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L21)*
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 • **spanish**: *string*
 
-*Defined in [Event.ts:27](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L27)*
+*Defined in [Event.ts:27](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L27)*
 
 ___
 
@@ -163,7 +163,7 @@ ___
 
 • **spanishUs**: *string*
 
-*Defined in [Event.ts:28](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L28)*
+*Defined in [Event.ts:28](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L28)*
 
 ___
 
@@ -171,4 +171,4 @@ ___
 
 • **version**: *[Version](../enums/_event_.version.md)*
 
-*Defined in [Event.ts:23](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L23)*
+*Defined in [Event.ts:23](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L23)*

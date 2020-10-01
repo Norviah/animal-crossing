@@ -17,7 +17,7 @@
 
 • **Dog17**: = "dog17"
 
-*Defined in [Recipe.ts:355](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L355)*
+*Defined in [Recipe.ts:355](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L355)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Gor09**: = "gor09"
 
-*Defined in [Recipe.ts:356](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L356)*
+*Defined in [Recipe.ts:356](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L356)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Ham01**: = "ham01"
 
-*Defined in [Recipe.ts:357](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L357)*
+*Defined in [Recipe.ts:357](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L357)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Ham05**: = "ham05"
 
-*Defined in [Recipe.ts:358](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L358)*
+*Defined in [Recipe.ts:358](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L358)*

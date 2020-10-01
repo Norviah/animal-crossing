@@ -17,7 +17,7 @@
 
 • **Amarena**: = "Amarena"
 
-*Defined in [Recipe.ts:362](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L362)*
+*Defined in [Recipe.ts:362](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L362)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Carmelo**: = "Carmelo"
 
-*Defined in [Recipe.ts:363](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L363)*
+*Defined in [Recipe.ts:363](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L363)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Cicci**: = "Cicci"
 
-*Defined in [Recipe.ts:364](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L364)*
+*Defined in [Recipe.ts:364](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L364)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Kinga**: = "Kinga"
 
-*Defined in [Recipe.ts:365](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L365)*
+*Defined in [Recipe.ts:365](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L365)*

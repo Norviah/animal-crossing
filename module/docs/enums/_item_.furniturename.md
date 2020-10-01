@@ -18,7 +18,7 @@
 
 • **Gears**: = "gears"
 
-*Defined in [Item.ts:826](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L826)*
+*Defined in [Item.ts:826](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L826)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **IncenseBurner**: = "incense burner"
 
-*Defined in [Item.ts:827](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L827)*
+*Defined in [Item.ts:827](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L827)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **Screen**: = "screen"
 
-*Defined in [Item.ts:828](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L828)*
+*Defined in [Item.ts:828](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L828)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **TissueBox**: = "tissue box"
 
-*Defined in [Item.ts:829](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L829)*
+*Defined in [Item.ts:829](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L829)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **WeddingFlowerStand**: = "wedding flower stand"
 
-*Defined in [Item.ts:830](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L830)*
+*Defined in [Item.ts:830](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L830)*

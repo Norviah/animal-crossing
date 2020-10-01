@@ -17,7 +17,7 @@
 
 • **Клэй**: = "Клэй"
 
-*Defined in [Recipe.ts:383](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L383)*
+*Defined in [Recipe.ts:383](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L383)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Рокет**: = "Рокет"
 
-*Defined in [Recipe.ts:384](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L384)*
+*Defined in [Recipe.ts:384](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L384)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Черри**: = "Черри"
 
-*Defined in [Recipe.ts:385](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L385)*
+*Defined in [Recipe.ts:385](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L385)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Эпл**: = "Эпл"
 
-*Defined in [Recipe.ts:386](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L386)*
+*Defined in [Recipe.ts:386](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L386)*

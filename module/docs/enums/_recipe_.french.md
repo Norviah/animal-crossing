@@ -17,7 +17,7 @@
 
 • **Anna**: = "Anna"
 
-*Defined in [Recipe.ts:341](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L341)*
+*Defined in [Recipe.ts:341](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L341)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Esther**: = "Esther"
 
-*Defined in [Recipe.ts:342](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L342)*
+*Defined in [Recipe.ts:342](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L342)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Gertrude**: = "Gertrude"
 
-*Defined in [Recipe.ts:343](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L343)*
+*Defined in [Recipe.ts:343](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L343)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Guido**: = "Guido"
 
-*Defined in [Recipe.ts:344](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L344)*
+*Defined in [Recipe.ts:344](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L344)*

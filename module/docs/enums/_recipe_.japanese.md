@@ -17,7 +17,7 @@
 
 • **The４ごう**: = "４ごう"
 
-*Defined in [Recipe.ts:369](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L369)*
+*Defined in [Recipe.ts:369](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L369)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **どぐろう**: = "どぐろう"
 
-*Defined in [Recipe.ts:370](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L370)*
+*Defined in [Recipe.ts:370](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L370)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **アップル**: = "アップル"
 
-*Defined in [Recipe.ts:371](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L371)*
+*Defined in [Recipe.ts:371](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L371)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **ハンナ**: = "ハンナ"
 
-*Defined in [Recipe.ts:372](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L372)*
+*Defined in [Recipe.ts:372](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L372)*
