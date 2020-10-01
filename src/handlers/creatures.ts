@@ -113,7 +113,7 @@ for (const file of files('Creatures', directories.sanitized)) {
   const creatures: obj[] = get(file);
 
   for (const creature of creatures) {
-    creature.hemipsheres = hemisphere(creature);
+    creature.hemispheres = hemisphere(creature);
     creature.colors = [creature.color1, creature.color2].filter((color) => !!color);
 
     for (const key of ['color1', 'color2', ...northHemisphere, ...southHemisphere]) {
