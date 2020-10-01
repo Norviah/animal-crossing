@@ -1,4 +1,16 @@
 
+### [6.8.1](https://github.com/Norviah/animal-crossing/compare/v6.8.0...v6.8.1) (2020-10-01)
+
+
+### Bug Fixes
+
+* **creatures:** fix the misspelling of 'hemisphere' ([06515c1](https://github.com/Norviah/animal-crossing/commit/06515c18f83784b1ba3a69d0119537e9c9a80e01))
+
+
+### Build System
+
+* fix the header for the 'remove' section ([c9eb585](https://github.com/Norviah/animal-crossing/commit/c9eb58565ca5e16441b5d619fb9aba3e7c6970d4))
+
 ## [6.8.0](https://github.com/Norviah/animal-crossing/compare/v6.7.0...v6.8.0) (2020-09-30)
 
 
