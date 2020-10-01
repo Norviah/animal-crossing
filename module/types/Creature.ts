@@ -22,7 +22,7 @@ export interface Creature {
     internalId:           number;
     uniqueEntryId:        string;
     translations:         Translations;
-    hemipsheres:          Hemipsheres;
+    hemispheres:          Hemispheres;
     colors:               Color[];
     shadow?:              Shadow;
     movementSpeed?:       MovementSpeed;
@@ -57,7 +57,7 @@ export enum Color {
     Yellow = "Yellow",
 }
 
-export interface Hemipsheres {
+export interface Hemispheres {
     north: North;
     south: North;
 }

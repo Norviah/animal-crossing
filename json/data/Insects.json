@@ -44,7 +44,7 @@
       "russian": "павлиноглазка атлас",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "7 PM – 4 AM" ],
         "timeArray": [ 19, 20, 21, 22, 23, 0, 1, 2, 3 ],
@@ -105,7 +105,7 @@
       "russian": "урания мадагаскарская",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 4 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15 ],
@@ -166,7 +166,7 @@
       "russian": "птицекрылка Александры",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 4 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15 ],
@@ -227,7 +227,7 @@
       "russian": "трогоноптера Брука",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -288,7 +288,7 @@
       "russian": "агриас клаудина",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -349,7 +349,7 @@
       "russian": "муравей",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -410,7 +410,7 @@
       "russian": "мешочница",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -471,7 +471,7 @@
       "russian": "кордулегастер",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -532,7 +532,7 @@
       "russian": "домашний сверчок",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -593,7 +593,7 @@
       "russian": "синий долгоносик",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -654,7 +654,7 @@
       "russian": "коричневая цикада",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -715,7 +715,7 @@
       "russian": "многоножка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "4 PM – 11 PM" ],
         "timeArray": [ 16, 17, 18, 19, 20, 21, 22 ],
@@ -776,7 +776,7 @@
       "russian": "кокон цикады",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -837,7 +837,7 @@
       "russian": "цитрусовый усач",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -898,7 +898,7 @@
       "russian": "графиум сарпедон",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "4 AM – 7 PM" ],
         "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -959,7 +959,7 @@
       "russian": "белянка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "4 AM – 7 PM" ],
         "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -1020,7 +1020,7 @@
       "russian": "сверчок",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -1081,7 +1081,7 @@
       "russian": "жук-рогач",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -1142,7 +1142,7 @@
       "russian": "равнокрылая стрекоза",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -1203,7 +1203,7 @@
       "russian": "дозорщик",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -1264,7 +1264,7 @@
       "russian": "плавунец",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 7 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -1325,7 +1325,7 @@
       "russian": "бронзовка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -1386,7 +1386,7 @@
       "russian": "жук-навозник",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -1447,7 +1447,7 @@
       "russian": "навозник-землерой",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -1508,7 +1508,7 @@
       "russian": "морфо менелай",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -1572,7 +1572,7 @@
       "russian": "ночная цикада",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "4 AM – 8 AM", "4 PM – 7 PM" ],
         "timeArray": [ [ 4, 5, 6, 7 ], [ 16, 17, 18 ] ],
@@ -1633,7 +1633,7 @@
       "russian": "светлячок",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "7 PM – 4 AM" ],
         "timeArray": [ 19, 20, 21, 22, 23, 0, 1, 2, 3 ],
@@ -1694,7 +1694,7 @@
       "russian": "блоха",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -1755,7 +1755,7 @@
       "russian": "муха",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -1819,7 +1819,7 @@
       "russian": "гигантская цикада",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -1880,7 +1880,7 @@
       "russian": "гигантский жук-олень",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "11 PM – 8 AM" ],
         "timeArray": [ 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -1941,7 +1941,7 @@
       "russian": "водяной клоп-гигант",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "7 PM – 8 AM" ],
         "timeArray": [ 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -2002,7 +2002,7 @@
       "russian": "рогач-жираф",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -2063,7 +2063,7 @@
       "russian": "ламприма",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -2124,7 +2124,7 @@
       "russian": "жук-голиаф",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -2185,7 +2185,7 @@
       "russian": "кузнечик",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -2246,7 +2246,7 @@
       "russian": "сасакия харонда",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "4 AM – 7 PM" ],
         "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -2307,7 +2307,7 @@
       "russian": "рак-отшельник",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "7 PM – 8 AM" ],
         "timeArray": [ 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -2368,7 +2368,7 @@
       "russian": "восковая пчела",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -2429,7 +2429,7 @@
       "russian": "жук-атлас",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -2490,7 +2490,7 @@
       "russian": "дупляк",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -2551,7 +2551,7 @@
       "russian": "жук-слон",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -2612,7 +2612,7 @@
       "russian": "жук-геркулес",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 8 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -2673,7 +2673,7 @@
       "russian": "златка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -2734,7 +2734,7 @@
       "russian": "божья коровка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -2795,7 +2795,7 @@
       "russian": "акрида",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 7 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -2856,7 +2856,7 @@
       "russian": "щитник с лицом",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "7 PM – 8 AM" ],
         "timeArray": [ 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -2917,7 +2917,7 @@
       "russian": "богомол",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -2978,7 +2978,7 @@
       "russian": "перелетная саранча",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 7 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -3039,7 +3039,7 @@
       "russian": "горный жук-олень",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -3100,7 +3100,7 @@
       "russian": "медведка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -3161,7 +3161,7 @@
       "russian": "монарх",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "4 AM – 5 PM" ],
         "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -3222,7 +3222,7 @@
       "russian": "комар",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "5 PM – 4 AM" ],
         "timeArray": [ 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3 ],
@@ -3283,7 +3283,7 @@
       "russian": "павлиноглазка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "7 PM – 4 AM" ],
         "timeArray": [ 19, 20, 21, 22, 23, 0, 1, 2, 3 ],
@@ -3344,7 +3344,7 @@
       "russian": "орхидейный богомол",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -3405,7 +3405,7 @@
       "russian": "идея левконоя",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 7 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -3466,7 +3466,7 @@
       "russian": "бианор",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "4 AM – 7 PM" ],
         "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -3527,7 +3527,7 @@
       "russian": "мокрица",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "11 PM – 4 PM" ],
         "timeArray": [ 23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
@@ -3588,7 +3588,7 @@
       "russian": "водомерка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 7 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -3649,7 +3649,7 @@
       "russian": "радужный жук-олень",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "7 PM – 8 AM" ],
         "timeArray": [ 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -3710,7 +3710,7 @@
       "russian": "красная стрекоза",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 7 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -3771,7 +3771,7 @@
       "russian": "рисовая кобылка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 7 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -3835,7 +3835,7 @@
       "russian": "певчая цикада",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -3896,7 +3896,7 @@
       "russian": "розалия",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -3957,7 +3957,7 @@
       "russian": "жук-олень",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -4018,7 +4018,7 @@
       "russian": "золотой скарабей",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "11 PM – 8 AM" ],
         "timeArray": [ 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -4079,7 +4079,7 @@
       "russian": "скорпион",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "7 PM – 4 AM" ],
         "timeArray": [ 19, 20, 21, 22, 23, 0, 1, 2, 3 ],
@@ -4140,7 +4140,7 @@
       "russian": "улитка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -4201,7 +4201,7 @@
       "russian": "паук",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "7 PM – 8 AM" ],
         "timeArray": [ 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7 ],
@@ -4262,7 +4262,7 @@
       "russian": "щитник",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -4323,7 +4323,7 @@
       "russian": "паук-птицеед",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "7 PM – 4 AM" ],
         "timeArray": [ 19, 20, 21, 22, 23, 0, 1, 2, 3 ],
@@ -4384,7 +4384,7 @@
       "russian": "жук-скакун",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -4445,7 +4445,7 @@
       "russian": "махаон",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "4 AM – 7 PM" ],
         "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
@@ -4506,7 +4506,7 @@
       "russian": "листовидная жужелица",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -4570,7 +4570,7 @@
       "russian": "горная цикада",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "8 AM – 5 PM" ],
         "timeArray": [ 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
@@ -4631,7 +4631,7 @@
       "russian": "листотел",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -4692,7 +4692,7 @@
       "russian": "палочник",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "4 AM – 8 AM", "5 PM – 7 PM" ],
         "timeArray": [ [ 4, 5, 6, 7 ], [ 17, 18 ] ],
@@ -4753,7 +4753,7 @@
       "russian": "оса",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -4814,7 +4814,7 @@
       "russian": "морской таракан",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "All day" ],
         "timeArray": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ],
@@ -4875,7 +4875,7 @@
       "russian": "желтушка",
       "plural": false
     },
-    "hemipsheres": {
+    "hemispheres": {
       "north": {
         "time": [ "4 AM – 7 PM" ],
         "timeArray": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
