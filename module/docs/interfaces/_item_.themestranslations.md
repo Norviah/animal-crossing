@@ -28,7 +28,7 @@
 
 • **comfy**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:900](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L900)*
+*Defined in [Item.ts:900](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L900)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **everyday**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:899](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L899)*
+*Defined in [Item.ts:899](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L899)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **fairy tale**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:903](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L903)*
+*Defined in [Item.ts:903](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L903)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **formal**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:907](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L907)*
+*Defined in [Item.ts:907](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L907)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **goth**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:908](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L908)*
+*Defined in [Item.ts:908](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L908)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **outdoorsy**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:901](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L901)*
+*Defined in [Item.ts:901](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L901)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 • **party**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:898](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L898)*
+*Defined in [Item.ts:898](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L898)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 • **sporty**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:906](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L906)*
+*Defined in [Item.ts:906](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L906)*
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 • **theatrical**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:904](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L904)*
+*Defined in [Item.ts:904](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L904)*
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 • **vacation**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:902](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L902)*
+*Defined in [Item.ts:902](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L902)*
 
 ___
 
@@ -108,4 +108,4 @@ ___
 
 • **work**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:905](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L905)*
+*Defined in [Item.ts:905](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L905)*

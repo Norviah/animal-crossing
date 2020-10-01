@@ -15,7 +15,7 @@
 
 • **Events**: = "Events"
 
-*Defined in [Event.ts:42](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L42)*
+*Defined in [Event.ts:42](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L42)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **HHAThemes**: = "HHA Themes"
 
-*Defined in [Event.ts:43](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Event.ts#L43)*
+*Defined in [Event.ts:43](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Event.ts#L43)*

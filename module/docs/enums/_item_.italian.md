@@ -26,7 +26,7 @@
 
 • **Amarena**: = "Amarena"
 
-*Defined in [Item.ts:683](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L683)*
+*Defined in [Item.ts:683](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L683)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **Carmelo**: = "Carmelo"
 
-*Defined in [Item.ts:684](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L684)*
+*Defined in [Item.ts:684](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L684)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **Cicci**: = "Cicci"
 
-*Defined in [Item.ts:685](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L685)*
+*Defined in [Item.ts:685](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L685)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **Confortevole**: = "confortevole"
 
-*Defined in [Item.ts:686](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L686)*
+*Defined in [Item.ts:686](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L686)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **DaAriaAperta**: = "da aria aperta"
 
-*Defined in [Item.ts:687](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L687)*
+*Defined in [Item.ts:687](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L687)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **DaLavoro**: = "da lavoro"
 
-*Defined in [Item.ts:688](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L688)*
+*Defined in [Item.ts:688](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L688)*
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 • **DaSport**: = "da sport"
 
-*Defined in [Item.ts:689](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L689)*
+*Defined in [Item.ts:689](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L689)*
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 • **DaTeatro**: = "da teatro"
 
-*Defined in [Item.ts:690](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L690)*
+*Defined in [Item.ts:690](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L690)*
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 • **DaVacanza**: = "da vacanza"
 
-*Defined in [Item.ts:691](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L691)*
+*Defined in [Item.ts:691](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L691)*
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 • **Formale**: = "formale"
 
-*Defined in [Item.ts:692](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L692)*
+*Defined in [Item.ts:692](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L692)*
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 • **Horror**: = "horror"
 
-*Defined in [Item.ts:693](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L693)*
+*Defined in [Item.ts:693](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L693)*
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 • **Kinga**: = "Kinga"
 
-*Defined in [Item.ts:694](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L694)*
+*Defined in [Item.ts:694](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L694)*
 
 ___
 
@@ -122,4 +122,4 @@ ___
 
 • **PerTuttiIGiorni**: = "per tutti i giorni"
 
-*Defined in [Item.ts:695](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Item.ts#L695)*
+*Defined in [Item.ts:695](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L695)*

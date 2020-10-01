@@ -17,7 +17,7 @@
 
 • **Boliche**: = "Boliche"
 
-*Defined in [Recipe.ts:394](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L394)*
+*Defined in [Recipe.ts:394](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L394)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Gloria**: = "Gloria"
 
-*Defined in [Recipe.ts:395](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L395)*
+*Defined in [Recipe.ts:395](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L395)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Luna**: = "Luna"
 
-*Defined in [Recipe.ts:396](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L396)*
+*Defined in [Recipe.ts:396](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L396)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Rosi**: = "Rosi"
 
-*Defined in [Recipe.ts:397](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L397)*
+*Defined in [Recipe.ts:397](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L397)*

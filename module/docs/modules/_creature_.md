@@ -22,6 +22,6 @@
 ### Interfaces
 
 * [Creature](../interfaces/_creature_.creature.md)
-* [Hemipsheres](../interfaces/_creature_.hemipsheres.md)
+* [Hemispheres](../interfaces/_creature_.hemispheres.md)
 * [North](../interfaces/_creature_.north.md)
 * [Translations](../interfaces/_creature_.translations.md)

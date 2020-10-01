@@ -17,7 +17,7 @@
 
 • **The4호**: = "4호"
 
-*Defined in [Recipe.ts:376](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L376)*
+*Defined in [Recipe.ts:376](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L376)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **애플**: = "애플"
 
-*Defined in [Recipe.ts:377](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L377)*
+*Defined in [Recipe.ts:377](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L377)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **한나**: = "한나"
 
-*Defined in [Recipe.ts:378](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L378)*
+*Defined in [Recipe.ts:378](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L378)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **햄둥**: = "햄둥"
 
-*Defined in [Recipe.ts:379](https://github.com/Norviah/animal-crossing/blob/6476932/module/types/Recipe.ts#L379)*
+*Defined in [Recipe.ts:379](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L379)*
