@@ -18,7 +18,7 @@
 
 • **子墨**: = "子墨"
 
-*Defined in [Recipe.ts:326](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L326)*
+*Defined in [Recipe.ts:326](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L326)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **花娜**: = "花娜"
 
-*Defined in [Recipe.ts:327](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L327)*
+*Defined in [Recipe.ts:327](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L327)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **苹果**: = "苹果"
 
-*Defined in [Recipe.ts:328](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L328)*
+*Defined in [Recipe.ts:328](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L328)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **蘋果**: = "蘋果"
 
-*Defined in [Recipe.ts:329](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L329)*
+*Defined in [Recipe.ts:329](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L329)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **阿四**: = "阿四"
 
-*Defined in [Recipe.ts:330](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L330)*
+*Defined in [Recipe.ts:330](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L330)*

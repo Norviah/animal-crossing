@@ -14,4 +14,4 @@
 
 • **Cat20**: = "cat20"
 
-*Defined in [Item.ts:834](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L834)*
+*Defined in [Item.ts:833](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L833)*

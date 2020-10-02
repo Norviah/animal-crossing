@@ -19,7 +19,7 @@
 
 • **Fast**: = "Fast"
 
-*Defined in [Creature.ts:82](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Creature.ts#L82)*
+*Defined in [Creature.ts:82](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L82)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **Medium**: = "Medium"
 
-*Defined in [Creature.ts:83](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Creature.ts#L83)*
+*Defined in [Creature.ts:83](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L83)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Slow**: = "Slow"
 
-*Defined in [Creature.ts:84](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Creature.ts#L84)*
+*Defined in [Creature.ts:84](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L84)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **Stationary**: = "Stationary"
 
-*Defined in [Creature.ts:85](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Creature.ts#L85)*
+*Defined in [Creature.ts:85](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L85)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **VeryFast**: = "Very fast"
 
-*Defined in [Creature.ts:86](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Creature.ts#L86)*
+*Defined in [Creature.ts:86](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L86)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **VerySlow**: = "Very slow"
 
-*Defined in [Creature.ts:87](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Creature.ts#L87)*
+*Defined in [Creature.ts:87](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L87)*

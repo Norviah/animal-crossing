@@ -17,7 +17,7 @@
 
 • **Apple**: = "Apple"
 
-*Defined in [Recipe.ts:334](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L334)*
+*Defined in [Recipe.ts:334](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L334)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Cherry**: = "Cherry"
 
-*Defined in [Recipe.ts:335](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L335)*
+*Defined in [Recipe.ts:335](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L335)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Clay**: = "Clay"
 
-*Defined in [Recipe.ts:336](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L336)*
+*Defined in [Recipe.ts:336](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L336)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Rocket**: = "Rocket"
 
-*Defined in [Recipe.ts:337](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L337)*
+*Defined in [Recipe.ts:337](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L337)*

@@ -184,7 +184,7 @@
 
 • **Aquarius fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:300](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L300)*
+*Defined in [Item.ts:299](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L299)*
 
 ___
 
@@ -192,7 +192,7 @@ ___
 
 • **Aries fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:303](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L303)*
+*Defined in [Item.ts:302](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L302)*
 
 ___
 
@@ -200,7 +200,7 @@ ___
 
 • **Baby bear**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:406](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L406)*
+*Defined in [Item.ts:405](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L405)*
 
 ___
 
@@ -208,7 +208,7 @@ ___
 
 • **Cancer fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:311](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L311)*
+*Defined in [Item.ts:310](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L310)*
 
 ___
 
@@ -216,7 +216,7 @@ ___
 
 • **Capricorn fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:312](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L312)*
+*Defined in [Item.ts:311](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L311)*
 
 ___
 
@@ -224,7 +224,7 @@ ___
 
 • **Gemini fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:318](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L318)*
+*Defined in [Item.ts:317](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L317)*
 
 ___
 
@@ -232,7 +232,7 @@ ___
 
 • **Leo fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:323](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L323)*
+*Defined in [Item.ts:322](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L322)*
 
 ___
 
@@ -240,7 +240,7 @@ ___
 
 • **Libra fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:324](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L324)*
+*Defined in [Item.ts:323](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L323)*
 
 ___
 
@@ -248,7 +248,7 @@ ___
 
 • **Mama bear**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:405](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L405)*
+*Defined in [Item.ts:404](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L404)*
 
 ___
 
@@ -256,7 +256,7 @@ ___
 
 • **Papa bear**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:404](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L404)*
+*Defined in [Item.ts:403](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L403)*
 
 ___
 
@@ -264,7 +264,7 @@ ___
 
 • **Pisces fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:325](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L325)*
+*Defined in [Item.ts:324](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L324)*
 
 ___
 
@@ -272,7 +272,7 @@ ___
 
 • **Sagittarius fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:326](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L326)*
+*Defined in [Item.ts:325](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L325)*
 
 ___
 
@@ -280,7 +280,7 @@ ___
 
 • **Scorpius fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:327](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L327)*
+*Defined in [Item.ts:326](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L326)*
 
 ___
 
@@ -288,7 +288,7 @@ ___
 
 • **Taurus fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:328](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L328)*
+*Defined in [Item.ts:327](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L327)*
 
 ___
 
@@ -296,7 +296,7 @@ ___
 
 • **Virgo fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:329](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L329)*
+*Defined in [Item.ts:328](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L328)*
 
 ___
 
@@ -304,7 +304,7 @@ ___
 
 • **acorn**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:330](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L330)*
+*Defined in [Item.ts:329](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L329)*
 
 ___
 
@@ -312,7 +312,7 @@ ___
 
 • **apple**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:331](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L331)*
+*Defined in [Item.ts:330](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L330)*
 
 ___
 
@@ -320,7 +320,7 @@ ___
 
 • **axe**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:409](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L409)*
+*Defined in [Item.ts:408](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L408)*
 
 ___
 
@@ -328,7 +328,7 @@ ___
 
 • **bamboo piece**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:335](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L335)*
+*Defined in [Item.ts:334](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L334)*
 
 ___
 
@@ -336,7 +336,7 @@ ___
 
 • **bamboo shoot**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:337](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L337)*
+*Defined in [Item.ts:336](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L336)*
 
 ___
 
@@ -344,7 +344,7 @@ ___
 
 • **bells**? : *undefined | null*
 
-*Defined in [Item.ts:434](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L434)*
+*Defined in [Item.ts:433](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L433)*
 
 ___
 
@@ -352,7 +352,7 @@ ___
 
 • **black cosmos**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:349](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L349)*
+*Defined in [Item.ts:348](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L348)*
 
 ___
 
@@ -360,7 +360,7 @@ ___
 
 • **black lilies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:379](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L379)*
+*Defined in [Item.ts:378](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L378)*
 
 ___
 
@@ -368,7 +368,7 @@ ___
 
 • **black roses**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:353](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L353)*
+*Defined in [Item.ts:352](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L352)*
 
 ___
 
@@ -376,7 +376,7 @@ ___
 
 • **black tulips**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:380](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L380)*
+*Defined in [Item.ts:379](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L379)*
 
 ___
 
@@ -384,7 +384,7 @@ ___
 
 • **blue hyacinths**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:360](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L360)*
+*Defined in [Item.ts:359](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L359)*
 
 ___
 
@@ -392,7 +392,7 @@ ___
 
 • **blue ornament**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:320](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L320)*
+*Defined in [Item.ts:319](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L319)*
 
 ___
 
@@ -400,7 +400,7 @@ ___
 
 • **blue pansies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:364](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L364)*
+*Defined in [Item.ts:363](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L363)*
 
 ___
 
@@ -408,7 +408,7 @@ ___
 
 • **blue roses**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:340](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L340)*
+*Defined in [Item.ts:339](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L339)*
 
 ___
 
@@ -416,7 +416,7 @@ ___
 
 • **blue windflowers**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:366](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L366)*
+*Defined in [Item.ts:365](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L365)*
 
 ___
 
@@ -424,7 +424,7 @@ ___
 
 • **book**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:358](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L358)*
+*Defined in [Item.ts:357](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L357)*
 
 ___
 
@@ -432,7 +432,7 @@ ___
 
 • **boot**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:401](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L401)*
+*Defined in [Item.ts:400](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L400)*
 
 ___
 
@@ -440,7 +440,7 @@ ___
 
 • **campfire**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:341](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L341)*
+*Defined in [Item.ts:340](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L340)*
 
 ___
 
@@ -448,7 +448,7 @@ ___
 
 • **candy**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:453](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L453)*
+*Defined in [Item.ts:452](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L452)*
 
 ___
 
@@ -456,7 +456,7 @@ ___
 
 • **cardboard box**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:347](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L347)*
+*Defined in [Item.ts:346](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L346)*
 
 ___
 
@@ -464,7 +464,7 @@ ___
 
 • **cherry**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:348](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L348)*
+*Defined in [Item.ts:347](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L347)*
 
 ___
 
@@ -472,7 +472,7 @@ ___
 
 • **cherry-blossom bonsai**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:342](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L342)*
+*Defined in [Item.ts:341](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L341)*
 
 ___
 
@@ -480,7 +480,7 @@ ___
 
 • **cherry-blossom petal**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:339](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L339)*
+*Defined in [Item.ts:338](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L338)*
 
 ___
 
@@ -488,7 +488,7 @@ ___
 
 • **clay**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:322](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L322)*
+*Defined in [Item.ts:321](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L321)*
 
 ___
 
@@ -496,7 +496,7 @@ ___
 
 • **clump of weeds**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:333](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L333)*
+*Defined in [Item.ts:332](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L332)*
 
 ___
 
@@ -504,7 +504,7 @@ ___
 
 • **coconut**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:359](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L359)*
+*Defined in [Item.ts:358](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L358)*
 
 ___
 
@@ -512,7 +512,7 @@ ___
 
 • **conch**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:431](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L431)*
+*Defined in [Item.ts:430](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L430)*
 
 ___
 
@@ -520,7 +520,7 @@ ___
 
 • **coral**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:430](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L430)*
+*Defined in [Item.ts:429](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L429)*
 
 ___
 
@@ -528,7 +528,7 @@ ___
 
 • **cowrie**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:433](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L433)*
+*Defined in [Item.ts:432](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L432)*
 
 ___
 
@@ -536,7 +536,7 @@ ___
 
 • **cutting board**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:419](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L419)*
+*Defined in [Item.ts:418](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L418)*
 
 ___
 
@@ -544,7 +544,7 @@ ___
 
 • **document stack**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:450](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L450)*
+*Defined in [Item.ts:449](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L449)*
 
 ___
 
@@ -552,7 +552,7 @@ ___
 
 • **drinking fountain**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:394](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L394)*
+*Defined in [Item.ts:393](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L393)*
 
 ___
 
@@ -560,7 +560,7 @@ ___
 
 • **earth egg**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:304](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L304)*
+*Defined in [Item.ts:303](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L303)*
 
 ___
 
@@ -568,7 +568,7 @@ ___
 
 • **elegant mushroom**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:392](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L392)*
+*Defined in [Item.ts:391](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L391)*
 
 ___
 
@@ -576,7 +576,7 @@ ___
 
 • **empty can**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:400](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L400)*
+*Defined in [Item.ts:399](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L399)*
 
 ___
 
@@ -584,7 +584,7 @@ ___
 
 • **fishing rod**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:411](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L411)*
+*Defined in [Item.ts:410](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L410)*
 
 ___
 
@@ -592,7 +592,7 @@ ___
 
 • **flat mushroom**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:391](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L391)*
+*Defined in [Item.ts:390](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L390)*
 
 ___
 
@@ -600,7 +600,7 @@ ___
 
 • **flimsy axe**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:334](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L334)*
+*Defined in [Item.ts:333](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L333)*
 
 ___
 
@@ -608,7 +608,7 @@ ___
 
 • **flimsy fishing rod**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:386](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L386)*
+*Defined in [Item.ts:385](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L385)*
 
 ___
 
@@ -616,7 +616,7 @@ ___
 
 • **flimsy net**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:439](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L439)*
+*Defined in [Item.ts:438](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L438)*
 
 ___
 
@@ -624,7 +624,7 @@ ___
 
 • **flimsy shovel**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:344](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L344)*
+*Defined in [Item.ts:343](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L343)*
 
 ___
 
@@ -632,7 +632,7 @@ ___
 
 • **flimsy watering can**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:461](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L461)*
+*Defined in [Item.ts:460](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L460)*
 
 ___
 
@@ -640,7 +640,7 @@ ___
 
 • **fossil**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:393](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L393)*
+*Defined in [Item.ts:392](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L392)*
 
 ___
 
@@ -648,7 +648,7 @@ ___
 
 • **giant clam**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:428](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L428)*
+*Defined in [Item.ts:427](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L427)*
 
 ___
 
@@ -656,7 +656,7 @@ ___
 
 • **gold armor**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:446](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L446)*
+*Defined in [Item.ts:445](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L445)*
 
 ___
 
@@ -664,7 +664,7 @@ ___
 
 • **gold nugget**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:301](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L301)*
+*Defined in [Item.ts:300](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L300)*
 
 ___
 
@@ -672,7 +672,7 @@ ___
 
 • **gold ornament**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:321](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L321)*
+*Defined in [Item.ts:320](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L320)*
 
 ___
 
@@ -680,7 +680,7 @@ ___
 
 • **gold roses**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:407](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L407)*
+*Defined in [Item.ts:406](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L406)*
 
 ___
 
@@ -688,7 +688,7 @@ ___
 
 • **green mums**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:438](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L438)*
+*Defined in [Item.ts:437](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L437)*
 
 ___
 
@@ -696,7 +696,7 @@ ___
 
 • **hardwood**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:314](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L314)*
+*Defined in [Item.ts:313](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L313)*
 
 ___
 
@@ -704,7 +704,7 @@ ___
 
 • **iron nugget**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:316](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L316)*
+*Defined in [Item.ts:315](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L315)*
 
 ___
 
@@ -712,7 +712,7 @@ ___
 
 • **ironwood dresser**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:418](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L418)*
+*Defined in [Item.ts:417](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L417)*
 
 ___
 
@@ -720,7 +720,7 @@ ___
 
 • **large snowflake**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:395](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L395)*
+*Defined in [Item.ts:394](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L394)*
 
 ___
 
@@ -728,7 +728,7 @@ ___
 
 • **large star fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:373](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L373)*
+*Defined in [Item.ts:372](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L372)*
 
 ___
 
@@ -736,7 +736,7 @@ ___
 
 • **leaf egg**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:306](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L306)*
+*Defined in [Item.ts:305](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L305)*
 
 ___
 
@@ -744,7 +744,7 @@ ___
 
 • **log bench**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:422](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L422)*
+*Defined in [Item.ts:421](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L421)*
 
 ___
 
@@ -752,7 +752,7 @@ ___
 
 • **log chair**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:423](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L423)*
+*Defined in [Item.ts:422](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L422)*
 
 ___
 
@@ -760,7 +760,7 @@ ___
 
 • **log stakes**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:345](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L345)*
+*Defined in [Item.ts:344](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L344)*
 
 ___
 
@@ -768,7 +768,7 @@ ___
 
 • **log stool**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:437](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L437)*
+*Defined in [Item.ts:436](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L436)*
 
 ___
 
@@ -776,7 +776,7 @@ ___
 
 • **lucky cat**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:425](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L425)*
+*Defined in [Item.ts:424](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L424)*
 
 ___
 
@@ -784,7 +784,7 @@ ___
 
 • **magazine**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:426](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L426)*
+*Defined in [Item.ts:425](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L425)*
 
 ___
 
@@ -792,7 +792,7 @@ ___
 
 • **manila clam**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:385](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L385)*
+*Defined in [Item.ts:384](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L384)*
 
 ___
 
@@ -800,7 +800,7 @@ ___
 
 • **maple leaf**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:332](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L332)*
+*Defined in [Item.ts:331](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L331)*
 
 ___
 
@@ -808,7 +808,7 @@ ___
 
 • **mini DIY workbench**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:317](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L317)*
+*Defined in [Item.ts:316](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L316)*
 
 ___
 
@@ -816,7 +816,7 @@ ___
 
 • **net**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:410](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L410)*
+*Defined in [Item.ts:409](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L409)*
 
 ___
 
@@ -824,7 +824,7 @@ ___
 
 • **oil barrel**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:440](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L440)*
+*Defined in [Item.ts:439](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L439)*
 
 ___
 
@@ -832,7 +832,7 @@ ___
 
 • **old tire**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:402](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L402)*
+*Defined in [Item.ts:401](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L401)*
 
 ___
 
@@ -840,7 +840,7 @@ ___
 
 • **orange**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:398](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L398)*
+*Defined in [Item.ts:397](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L397)*
 
 ___
 
@@ -848,7 +848,7 @@ ___
 
 • **orange cosmos**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:424](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L424)*
+*Defined in [Item.ts:423](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L423)*
 
 ___
 
@@ -856,7 +856,7 @@ ___
 
 • **orange hyacinths**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:362](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L362)*
+*Defined in [Item.ts:361](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L361)*
 
 ___
 
@@ -864,7 +864,7 @@ ___
 
 • **orange lilies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:375](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L375)*
+*Defined in [Item.ts:374](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L374)*
 
 ___
 
@@ -872,7 +872,7 @@ ___
 
 • **orange pansies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:363](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L363)*
+*Defined in [Item.ts:362](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L362)*
 
 ___
 
@@ -880,7 +880,7 @@ ___
 
 • **orange pumpkin**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:452](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L452)*
+*Defined in [Item.ts:451](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L451)*
 
 ___
 
@@ -888,7 +888,7 @@ ___
 
 • **orange roses**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:378](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L378)*
+*Defined in [Item.ts:377](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L377)*
 
 ___
 
@@ -896,7 +896,7 @@ ___
 
 • **orange tulips**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:356](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L356)*
+*Defined in [Item.ts:355](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L355)*
 
 ___
 
@@ -904,7 +904,7 @@ ___
 
 • **orange windflowers**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:464](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L464)*
+*Defined in [Item.ts:463](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L463)*
 
 ___
 
@@ -912,7 +912,7 @@ ___
 
 • **painting set**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:457](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L457)*
+*Defined in [Item.ts:456](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L456)*
 
 ___
 
@@ -920,7 +920,7 @@ ___
 
 • **peach**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:399](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L399)*
+*Defined in [Item.ts:398](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L398)*
 
 ___
 
@@ -928,7 +928,7 @@ ___
 
 • **pear**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:397](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L397)*
+*Defined in [Item.ts:396](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L396)*
 
 ___
 
@@ -936,7 +936,7 @@ ___
 
 • **pearl**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:427](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L427)*
+*Defined in [Item.ts:426](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L426)*
 
 ___
 
@@ -944,7 +944,7 @@ ___
 
 • **pine bonsai tree**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:343](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L343)*
+*Defined in [Item.ts:342](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L342)*
 
 ___
 
@@ -952,7 +952,7 @@ ___
 
 • **pine cone**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:420](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L420)*
+*Defined in [Item.ts:419](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L419)*
 
 ___
 
@@ -960,7 +960,7 @@ ___
 
 • **pink cosmos**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:372](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L372)*
+*Defined in [Item.ts:371](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L371)*
 
 ___
 
@@ -968,7 +968,7 @@ ___
 
 • **pink hyacinths**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:361](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L361)*
+*Defined in [Item.ts:360](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L360)*
 
 ___
 
@@ -976,7 +976,7 @@ ___
 
 • **pink lilies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:374](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L374)*
+*Defined in [Item.ts:373](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L373)*
 
 ___
 
@@ -984,7 +984,7 @@ ___
 
 • **pink mums**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:351](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L351)*
+*Defined in [Item.ts:350](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L350)*
 
 ___
 
@@ -992,7 +992,7 @@ ___
 
 • **pink roses**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:377](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L377)*
+*Defined in [Item.ts:376](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L376)*
 
 ___
 
@@ -1000,7 +1000,7 @@ ___
 
 • **pink tulips**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:355](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L355)*
+*Defined in [Item.ts:354](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L354)*
 
 ___
 
@@ -1008,7 +1008,7 @@ ___
 
 • **pink windflowers**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:367](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L367)*
+*Defined in [Item.ts:366](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L366)*
 
 ___
 
@@ -1016,7 +1016,7 @@ ___
 
 • **purple hyacinths**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:417](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L417)*
+*Defined in [Item.ts:416](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L416)*
 
 ___
 
@@ -1024,7 +1024,7 @@ ___
 
 • **purple mums**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:350](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L350)*
+*Defined in [Item.ts:349](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L349)*
 
 ___
 
@@ -1032,7 +1032,7 @@ ___
 
 • **purple pansies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:365](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L365)*
+*Defined in [Item.ts:364](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L364)*
 
 ___
 
@@ -1040,7 +1040,7 @@ ___
 
 • **purple roses**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:352](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L352)*
+*Defined in [Item.ts:351](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L351)*
 
 ___
 
@@ -1048,7 +1048,7 @@ ___
 
 • **purple tulips**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:354](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L354)*
+*Defined in [Item.ts:353](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L353)*
 
 ___
 
@@ -1056,7 +1056,7 @@ ___
 
 • **purple windflowers**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:357](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L357)*
+*Defined in [Item.ts:356](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L356)*
 
 ___
 
@@ -1064,7 +1064,7 @@ ___
 
 • **rare mushroom**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:388](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L388)*
+*Defined in [Item.ts:387](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L387)*
 
 ___
 
@@ -1072,7 +1072,7 @@ ___
 
 • **red cosmos**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:369](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L369)*
+*Defined in [Item.ts:368](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L368)*
 
 ___
 
@@ -1080,7 +1080,7 @@ ___
 
 • **red hyacinths**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:415](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L415)*
+*Defined in [Item.ts:414](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L414)*
 
 ___
 
@@ -1088,7 +1088,7 @@ ___
 
 • **red lilies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:421](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L421)*
+*Defined in [Item.ts:420](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L420)*
 
 ___
 
@@ -1096,7 +1096,7 @@ ___
 
 • **red mums**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:383](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L383)*
+*Defined in [Item.ts:382](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L382)*
 
 ___
 
@@ -1104,7 +1104,7 @@ ___
 
 • **red ornament**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:319](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L319)*
+*Defined in [Item.ts:318](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L318)*
 
 ___
 
@@ -1112,7 +1112,7 @@ ___
 
 • **red pansies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:441](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L441)*
+*Defined in [Item.ts:440](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L440)*
 
 ___
 
@@ -1120,7 +1120,7 @@ ___
 
 • **red roses**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:387](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L387)*
+*Defined in [Item.ts:386](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L386)*
 
 ___
 
@@ -1128,7 +1128,7 @@ ___
 
 • **red tulips**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:458](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L458)*
+*Defined in [Item.ts:457](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L457)*
 
 ___
 
@@ -1136,7 +1136,7 @@ ___
 
 • **red windflowers**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:463](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L463)*
+*Defined in [Item.ts:462](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L462)*
 
 ___
 
@@ -1144,7 +1144,7 @@ ___
 
 • **rocket**? : *[Comfy](_item_.comfy.md)*
 
-*Defined in [Item.ts:445](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L445)*
+*Defined in [Item.ts:444](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L444)*
 
 ___
 
@@ -1152,7 +1152,7 @@ ___
 
 • **round mushroom**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:389](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L389)*
+*Defined in [Item.ts:388](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L388)*
 
 ___
 
@@ -1160,7 +1160,7 @@ ___
 
 • **rusted part**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:447](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L447)*
+*Defined in [Item.ts:446](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L446)*
 
 ___
 
@@ -1168,7 +1168,7 @@ ___
 
 • **sand dollar**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:429](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L429)*
+*Defined in [Item.ts:428](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L428)*
 
 ___
 
@@ -1176,7 +1176,7 @@ ___
 
 • **sandy-beach flooring**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:455](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L455)*
+*Defined in [Item.ts:454](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L454)*
 
 ___
 
@@ -1184,7 +1184,7 @@ ___
 
 • **scattered papers**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:381](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L381)*
+*Defined in [Item.ts:380](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L380)*
 
 ___
 
@@ -1192,7 +1192,7 @@ ___
 
 • **screen wall**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:408](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L408)*
+*Defined in [Item.ts:407](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L407)*
 
 ___
 
@@ -1200,7 +1200,7 @@ ___
 
 • **sea snail**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:432](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L432)*
+*Defined in [Item.ts:431](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L431)*
 
 ___
 
@@ -1208,7 +1208,7 @@ ___
 
 • **shovel**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:412](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L412)*
+*Defined in [Item.ts:411](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L411)*
 
 ___
 
@@ -1216,7 +1216,7 @@ ___
 
 • **skinny mushroom**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:390](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L390)*
+*Defined in [Item.ts:389](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L389)*
 
 ___
 
@@ -1224,7 +1224,7 @@ ___
 
 • **sky egg**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:308](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L308)*
+*Defined in [Item.ts:307](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L307)*
 
 ___
 
@@ -1232,7 +1232,7 @@ ___
 
 • **slingshot**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:413](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L413)*
+*Defined in [Item.ts:412](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L412)*
 
 ___
 
@@ -1240,7 +1240,7 @@ ___
 
 • **snowflake**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:396](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L396)*
+*Defined in [Item.ts:395](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L395)*
 
 ___
 
@@ -1248,7 +1248,7 @@ ___
 
 • **softwood**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:315](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L315)*
+*Defined in [Item.ts:314](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L314)*
 
 ___
 
@@ -1256,7 +1256,7 @@ ___
 
 • **spooky lantern**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:454](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L454)*
+*Defined in [Item.ts:453](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L453)*
 
 ___
 
@@ -1264,7 +1264,7 @@ ___
 
 • **star fragment**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:299](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L299)*
+*Defined in [Item.ts:298](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L298)*
 
 ___
 
@@ -1272,7 +1272,7 @@ ___
 
 • **stone**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:302](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L302)*
+*Defined in [Item.ts:301](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L301)*
 
 ___
 
@@ -1280,7 +1280,7 @@ ___
 
 • **stone egg**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:305](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L305)*
+*Defined in [Item.ts:304](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L304)*
 
 ___
 
@@ -1288,7 +1288,7 @@ ___
 
 • **summer shell**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:451](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L451)*
+*Defined in [Item.ts:450](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L450)*
 
 ___
 
@@ -1296,7 +1296,7 @@ ___
 
 • **tree branch**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:346](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L346)*
+*Defined in [Item.ts:345](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L345)*
 
 ___
 
@@ -1304,7 +1304,7 @@ ___
 
 • **upright piano**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:456](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L456)*
+*Defined in [Item.ts:455](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L455)*
 
 ___
 
@@ -1312,7 +1312,7 @@ ___
 
 • **venus comb**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:449](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L449)*
+*Defined in [Item.ts:448](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L448)*
 
 ___
 
@@ -1320,7 +1320,7 @@ ___
 
 • **wasp nest**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:338](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L338)*
+*Defined in [Item.ts:337](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L337)*
 
 ___
 
@@ -1328,7 +1328,7 @@ ___
 
 • **water egg**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:309](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L309)*
+*Defined in [Item.ts:308](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L308)*
 
 ___
 
@@ -1336,7 +1336,7 @@ ___
 
 • **watering can**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:414](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L414)*
+*Defined in [Item.ts:413](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L413)*
 
 ___
 
@@ -1344,7 +1344,7 @@ ___
 
 • **wedding flower stand**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:462](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L462)*
+*Defined in [Item.ts:461](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L461)*
 
 ___
 
@@ -1352,7 +1352,7 @@ ___
 
 • **white cosmos**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:371](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L371)*
+*Defined in [Item.ts:370](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L370)*
 
 ___
 
@@ -1360,7 +1360,7 @@ ___
 
 • **white hyacinths**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:403](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L403)*
+*Defined in [Item.ts:402](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L402)*
 
 ___
 
@@ -1368,7 +1368,7 @@ ___
 
 • **white lilies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:376](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L376)*
+*Defined in [Item.ts:375](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L375)*
 
 ___
 
@@ -1376,7 +1376,7 @@ ___
 
 • **white mums**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:436](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L436)*
+*Defined in [Item.ts:435](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L435)*
 
 ___
 
@@ -1384,7 +1384,7 @@ ___
 
 • **white pansies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:443](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L443)*
+*Defined in [Item.ts:442](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L442)*
 
 ___
 
@@ -1392,7 +1392,7 @@ ___
 
 • **white roses**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:448](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L448)*
+*Defined in [Item.ts:447](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L447)*
 
 ___
 
@@ -1400,7 +1400,7 @@ ___
 
 • **white tulips**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:460](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L460)*
+*Defined in [Item.ts:459](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L459)*
 
 ___
 
@@ -1408,7 +1408,7 @@ ___
 
 • **white windflowers**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:368](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L368)*
+*Defined in [Item.ts:367](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L367)*
 
 ___
 
@@ -1416,7 +1416,7 @@ ___
 
 • **wobbling Zipper toy**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:310](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L310)*
+*Defined in [Item.ts:309](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L309)*
 
 ___
 
@@ -1424,7 +1424,7 @@ ___
 
 • **wood**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:313](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L313)*
+*Defined in [Item.ts:312](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L312)*
 
 ___
 
@@ -1432,7 +1432,7 @@ ___
 
 • **wood egg**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:307](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L307)*
+*Defined in [Item.ts:306](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L306)*
 
 ___
 
@@ -1440,7 +1440,7 @@ ___
 
 • **wooden-block toy**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:465](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L465)*
+*Defined in [Item.ts:464](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L464)*
 
 ___
 
@@ -1448,7 +1448,7 @@ ___
 
 • **yellow cosmos**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:370](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L370)*
+*Defined in [Item.ts:369](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L369)*
 
 ___
 
@@ -1456,7 +1456,7 @@ ___
 
 • **yellow hyacinths**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:416](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L416)*
+*Defined in [Item.ts:415](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L415)*
 
 ___
 
@@ -1464,7 +1464,7 @@ ___
 
 • **yellow lilies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:382](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L382)*
+*Defined in [Item.ts:381](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L381)*
 
 ___
 
@@ -1472,7 +1472,7 @@ ___
 
 • **yellow mums**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:435](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L435)*
+*Defined in [Item.ts:434](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L434)*
 
 ___
 
@@ -1480,7 +1480,7 @@ ___
 
 • **yellow pansies**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:442](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L442)*
+*Defined in [Item.ts:441](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L441)*
 
 ___
 
@@ -1488,7 +1488,7 @@ ___
 
 • **yellow roses**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:384](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L384)*
+*Defined in [Item.ts:383](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L383)*
 
 ___
 
@@ -1496,7 +1496,7 @@ ___
 
 • **yellow tulips**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:459](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L459)*
+*Defined in [Item.ts:458](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L458)*
 
 ___
 
@@ -1504,7 +1504,7 @@ ___
 
 • **young spring bamboo**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:336](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L336)*
+*Defined in [Item.ts:335](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L335)*
 
 ___
 
@@ -1512,4 +1512,4 @@ ___
 
 • **zen cushion**? : *[FairyTale](_item_.fairytale.md)*
 
-*Defined in [Item.ts:444](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L444)*
+*Defined in [Item.ts:443](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L443)*

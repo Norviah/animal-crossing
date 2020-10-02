@@ -16,7 +16,7 @@
 
 • **CareerJacket**: = "career jacket"
 
-*Defined in [Item.ts:494](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L494)*
+*Defined in [Item.ts:493](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L493)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **GinghamPicnicShirt**: = "gingham picnic shirt"
 
-*Defined in [Item.ts:495](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L495)*
+*Defined in [Item.ts:494](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L494)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **OpenCollarShirt**: = "open-collar shirt"
 
-*Defined in [Item.ts:496](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L496)*
+*Defined in [Item.ts:495](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L495)*
