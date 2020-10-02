@@ -8,7 +8,7 @@ export interface Item {
     catalog?:              Catalog | null;
     buy:                   number;
     sell?:                 number | null;
-    translations:          FairyTale | null;
+    translations:          SeriesTranslations | null;
     source?:               string[];
     themesTranslations?:   ThemesTranslations;
     hhaBasePoints?:        number | null;
@@ -274,7 +274,7 @@ export interface Recipe {
     internalId:            number;
     uniqueEntryId:         string;
     materials:             { [key: string]: number };
-    materialsTranslations: MaterialsTranslations;
+    materialsTranslations: { [key: string]: SeriesTranslations | null };
 }
 
 export enum CardColorEnum {
@@ -294,178 +294,8 @@ export enum CardColorEnum {
     Yellow = "yellow",
 }
 
-export interface MaterialsTranslations {
-    "star fragment"?:         FairyTale;
-    "Aquarius fragment"?:     FairyTale;
-    "gold nugget"?:           FairyTale;
-    stone?:                   FairyTale;
-    "Aries fragment"?:        FairyTale;
-    "earth egg"?:             FairyTale;
-    "stone egg"?:             FairyTale;
-    "leaf egg"?:              FairyTale;
-    "wood egg"?:              FairyTale;
-    "sky egg"?:               FairyTale;
-    "water egg"?:             FairyTale;
-    "wobbling Zipper toy"?:   FairyTale;
-    "Cancer fragment"?:       FairyTale;
-    "Capricorn fragment"?:    FairyTale;
-    wood?:                    FairyTale;
-    hardwood?:                FairyTale;
-    softwood?:                FairyTale;
-    "iron nugget"?:           FairyTale;
-    "mini DIY workbench"?:    FairyTale;
-    "Gemini fragment"?:       FairyTale;
-    "red ornament"?:          FairyTale;
-    "blue ornament"?:         FairyTale;
-    "gold ornament"?:         FairyTale;
-    clay?:                    Comfy;
-    "Leo fragment"?:          FairyTale;
-    "Libra fragment"?:        FairyTale;
-    "Pisces fragment"?:       FairyTale;
-    "Sagittarius fragment"?:  FairyTale;
-    "Scorpius fragment"?:     FairyTale;
-    "Taurus fragment"?:       FairyTale;
-    "Virgo fragment"?:        FairyTale;
-    acorn?:                   FairyTale;
-    apple?:                   Comfy;
-    "maple leaf"?:            FairyTale;
-    "clump of weeds"?:        FairyTale;
-    "flimsy axe"?:            FairyTale;
-    "bamboo piece"?:          FairyTale;
-    "young spring bamboo"?:   FairyTale;
-    "bamboo shoot"?:          FairyTale;
-    "wasp nest"?:             FairyTale;
-    "cherry-blossom petal"?:  FairyTale;
-    "blue roses"?:            FairyTale;
-    campfire?:                FairyTale;
-    "cherry-blossom bonsai"?: FairyTale;
-    "pine bonsai tree"?:      FairyTale;
-    "flimsy shovel"?:         FairyTale;
-    "log stakes"?:            FairyTale;
-    "tree branch"?:           FairyTale;
-    "cardboard box"?:         FairyTale;
-    cherry?:                  Comfy;
-    "black cosmos"?:          FairyTale;
-    "purple mums"?:           FairyTale;
-    "pink mums"?:             FairyTale;
-    "purple roses"?:          FairyTale;
-    "black roses"?:           FairyTale;
-    "purple tulips"?:         FairyTale;
-    "pink tulips"?:           FairyTale;
-    "orange tulips"?:         FairyTale;
-    "purple windflowers"?:    FairyTale;
-    book?:                    FairyTale;
-    coconut?:                 FairyTale;
-    "blue hyacinths"?:        FairyTale;
-    "pink hyacinths"?:        FairyTale;
-    "orange hyacinths"?:      FairyTale;
-    "orange pansies"?:        FairyTale;
-    "blue pansies"?:          FairyTale;
-    "purple pansies"?:        FairyTale;
-    "blue windflowers"?:      FairyTale;
-    "pink windflowers"?:      FairyTale;
-    "white windflowers"?:     FairyTale;
-    "red cosmos"?:            FairyTale;
-    "yellow cosmos"?:         FairyTale;
-    "white cosmos"?:          FairyTale;
-    "pink cosmos"?:           FairyTale;
-    "large star fragment"?:   FairyTale;
-    "pink lilies"?:           FairyTale;
-    "orange lilies"?:         FairyTale;
-    "white lilies"?:          FairyTale;
-    "pink roses"?:            FairyTale;
-    "orange roses"?:          FairyTale;
-    "black lilies"?:          FairyTale;
-    "black tulips"?:          FairyTale;
-    "scattered papers"?:      FairyTale;
-    "yellow lilies"?:         FairyTale;
-    "red mums"?:              FairyTale;
-    "yellow roses"?:          FairyTale;
-    "manila clam"?:           FairyTale;
-    "flimsy fishing rod"?:    FairyTale;
-    "red roses"?:             FairyTale;
-    "rare mushroom"?:         FairyTale;
-    "round mushroom"?:        FairyTale;
-    "skinny mushroom"?:       FairyTale;
-    "flat mushroom"?:         FairyTale;
-    "elegant mushroom"?:      FairyTale;
-    fossil?:                  FairyTale;
-    "drinking fountain"?:     FairyTale;
-    "large snowflake"?:       FairyTale;
-    snowflake?:               FairyTale;
-    pear?:                    FairyTale;
-    orange?:                  FairyTale;
-    peach?:                   FairyTale;
-    "empty can"?:             FairyTale;
-    boot?:                    FairyTale;
-    "old tire"?:              FairyTale;
-    "white hyacinths"?:       FairyTale;
-    "Papa bear"?:             FairyTale;
-    "Mama bear"?:             FairyTale;
-    "Baby bear"?:             FairyTale;
-    "gold roses"?:            FairyTale;
-    "screen wall"?:           FairyTale;
-    axe?:                     FairyTale;
-    net?:                     FairyTale;
-    "fishing rod"?:           FairyTale;
-    shovel?:                  FairyTale;
-    slingshot?:               FairyTale;
-    "watering can"?:          FairyTale;
-    "red hyacinths"?:         FairyTale;
-    "yellow hyacinths"?:      FairyTale;
-    "purple hyacinths"?:      FairyTale;
-    "ironwood dresser"?:      FairyTale;
-    "cutting board"?:         FairyTale;
-    "pine cone"?:             FairyTale;
-    "red lilies"?:            FairyTale;
-    "log bench"?:             FairyTale;
-    "log chair"?:             FairyTale;
-    "orange cosmos"?:         FairyTale;
-    "lucky cat"?:             FairyTale;
-    magazine?:                FairyTale;
-    pearl?:                   FairyTale;
-    "giant clam"?:            FairyTale;
-    "sand dollar"?:           FairyTale;
-    coral?:                   FairyTale;
-    conch?:                   FairyTale;
-    "sea snail"?:             FairyTale;
-    cowrie?:                  FairyTale;
-    bells?:                   null;
-    "yellow mums"?:           FairyTale;
-    "white mums"?:            FairyTale;
-    "log stool"?:             FairyTale;
-    "green mums"?:            FairyTale;
-    "flimsy net"?:            FairyTale;
-    "oil barrel"?:            FairyTale;
-    "red pansies"?:           FairyTale;
-    "yellow pansies"?:        FairyTale;
-    "white pansies"?:         FairyTale;
-    "zen cushion"?:           FairyTale;
-    rocket?:                  Comfy;
-    "gold armor"?:            FairyTale;
-    "rusted part"?:           FairyTale;
-    "white roses"?:           FairyTale;
-    "venus comb"?:            FairyTale;
-    "document stack"?:        FairyTale;
-    "summer shell"?:          FairyTale;
-    "orange pumpkin"?:        FairyTale;
-    candy?:                   FairyTale;
-    "spooky lantern"?:        FairyTale;
-    "sandy-beach flooring"?:  FairyTale;
-    "upright piano"?:         FairyTale;
-    "painting set"?:          FairyTale;
-    "red tulips"?:            FairyTale;
-    "yellow tulips"?:         FairyTale;
-    "white tulips"?:          FairyTale;
-    "flimsy watering can"?:   FairyTale;
-    "wedding flower stand"?:  FairyTale;
-    "red windflowers"?:       FairyTale;
-    "orange windflowers"?:    FairyTale;
-    "wooden-block toy"?:      FairyTale;
-}
-
-export interface FairyTale {
-    sourceSheet?:       FairyTaleSourceSheet;
+export interface SeriesTranslations {
+    sourceSheet?:       SeriesTranslationsSourceSheet;
     id?:                number;
     version?:           Version;
     english:            string;
@@ -484,18 +314,10 @@ export interface FairyTale {
     russian:            string;
     plural?:            boolean;
     variantId?:         number;
-    clothName?:         FairyTaleClothName;
-    clothGroup?:        number;
     furnitureName?:     string;
 }
 
-export enum FairyTaleClothName {
-    CareerJacket = "career jacket",
-    GinghamPicnicShirt = "gingham picnic shirt",
-    OpenCollarShirt = "open-collar shirt",
-}
-
-export enum FairyTaleSourceSheet {
+export enum SeriesTranslationsSourceSheet {
     Accessories = "Accessories",
     Art = "Art",
     Bags = "Bags",
@@ -514,8 +336,7 @@ export enum FairyTaleSourceSheet {
     Furniture = "Furniture",
     FurniturePatterns = "Furniture Patterns",
     FurnitureVariants = "Furniture Variants",
-    HHASet = "HHA Set",
-    HHASituation = "HHA Situation",
+    HHAThemes = "HHA Themes",
     KKAlbums = "K.K. Albums",
     MarineSuit = "Marine Suit",
     Masks = "Masks",
@@ -528,7 +349,6 @@ export enum FairyTaleSourceSheet {
     Socks = "Socks",
     Tools = "Tools",
     Tops = "Tops",
-    TopsVariants = "Tops Variants",
     Umbrella = "Umbrella",
     Walls = "Walls",
 }
@@ -541,227 +361,6 @@ export enum Version {
     The130 = "1.3.0",
     The140 = "1.4.0",
     The150 = "1.5.0",
-}
-
-export interface Comfy {
-    sourceSheet:        ComfySourceSheet;
-    id:                 ComfyID;
-    version:            Version;
-    english:            Theme;
-    englishEurope:      Theme;
-    german:             German;
-    spanish:            Spanish;
-    spanishUs:          Spanish;
-    french:             French;
-    frenchUs:           French;
-    italian:            Italian;
-    dutch:              DutchEnum;
-    chinese:            Chinese;
-    chineseTraditional: ChineseTraditional;
-    japanese:           Japanese;
-    korean:             Korean;
-    russian:            Russian;
-    plural:             boolean;
-}
-
-export enum Chinese {
-    休闲 = "休闲",
-    子墨 = "子墨",
-    工作 = "工作",
-    度假 = "度假",
-    恐怖 = "恐怖",
-    户外 = "户外",
-    日常 = "日常",
-    正式 = "正式",
-    舞台 = "舞台",
-    花娜 = "花娜",
-    苹果 = "苹果",
-    运动 = "运动",
-    阿四 = "阿四",
-}
-
-export enum ChineseTraditional {
-    子墨 = "子墨",
-    工作 = "工作",
-    度假 = "度假",
-    恐怖 = "恐怖",
-    悠閒 = "悠閒",
-    戶外活動 = "戶外活動",
-    日常生活 = "日常生活",
-    正式 = "正式",
-    舞台 = "舞台",
-    花娜 = "花娜",
-    蘋果 = "蘋果",
-    運動 = "運動",
-    阿四 = "阿四",
-}
-
-export enum DutchEnum {
-    AlledaagsThema = "alledaags thema",
-    Apple = "Apple",
-    Cherry = "Cherry",
-    Clay = "Clay",
-    FormeThema = "forme thema",
-    Griezelthema = "griezelthema",
-    Podiumthema = "podiumthema",
-    Rocket = "Rocket",
-    Sportthema = "sportthema",
-    Vakantiethema = "vakantiethema",
-    Vrijetijdsthema = "vrijetijdsthema",
-    WeersbestendigThema = "weersbestendig thema",
-    Werkthema = "werkthema",
-}
-
-export enum Theme {
-    Apple = "Apple",
-    Cherry = "Cherry",
-    Clay = "Clay",
-    Comfy = "comfy",
-    Everyday = "everyday",
-    FairyTale = "fairy tale",
-    Formal = "formal",
-    Goth = "goth",
-    Outdoorsy = "outdoorsy",
-    Party = "party",
-    Rocket = "Rocket",
-    Sporty = "sporty",
-    Theatrical = "theatrical",
-    Vacation = "vacation",
-    Work = "work",
-}
-
-export enum French {
-    Anna = "Anna",
-    Esther = "Esther",
-    Gertrude = "Gertrude",
-    Guido = "Guido",
-    TenueDExtérieur = "tenue d'extérieur",
-    TenueDeDétente = "tenue de détente",
-    TenueDeScène = "tenue de scène",
-    TenueDeTousLesJours = "tenue de tous les jours",
-    TenueDeVacances = "tenue de vacances",
-    TenueEffrayante = "tenue effrayante",
-    TenueOfficielle = "tenue officielle",
-    TenueProfessionnelle = "tenue professionnelle",
-    TenueSport = "tenue sport",
-}
-
-export enum German {
-    Alltagskleidung = "Alltagskleidung",
-    Arbeitskleidung = "Arbeitskleidung",
-    Bella = "Bella",
-    Bühnenkleidung = "Bühnenkleidung",
-    Dietmar = "Dietmar",
-    Formellkleidung = "Formellkleidung",
-    Freizeitkleidung = "Freizeitkleidung",
-    Horrorkleidung = "Horrorkleidung",
-    Jessi = "Jessi",
-    Katrin = "Katrin",
-    Outdoorkleidung = "Outdoorkleidung",
-    Sportkleidung = "Sportkleidung",
-    Urlaubskleidung = "Urlaubskleidung",
-}
-
-export enum ComfyID {
-    Daily = "Daily",
-    Dog17 = "dog17",
-    Fomal = "Fomal",
-    Gor09 = "gor09",
-    Ham01 = "ham01",
-    Ham05 = "ham05",
-    Horror = "Horror",
-    Outdoor = "Outdoor",
-    Relax = "Relax",
-    Sport = "Sport",
-    Stage = "Stage",
-    Vacation = "Vacation",
-    Work = "Work",
-}
-
-export enum Italian {
-    Amarena = "Amarena",
-    Carmelo = "Carmelo",
-    Cicci = "Cicci",
-    Confortevole = "confortevole",
-    DaAriaAperta = "da aria aperta",
-    DaLavoro = "da lavoro",
-    DaSport = "da sport",
-    DaTeatro = "da teatro",
-    DaVacanza = "da vacanza",
-    Formale = "formale",
-    Horror = "horror",
-    Kinga = "Kinga",
-    PerTuttiIGiorni = "per tutti i giorni",
-}
-
-export enum Japanese {
-    The４ごう = "４ごう",
-    おしごと仕事 = "おしごと仕事",
-    どぐろう = "どぐろう",
-    アウトドア = "アウトドア",
-    アップル = "アップル",
-    ステージ = "ステージ",
-    スポーツ = "スポーツ",
-    デイリー = "デイリー",
-    ハンナ = "ハンナ",
-    バカンス = "バカンス",
-    フォーマル = "フォーマル",
-    ホラー = "ホラー",
-    リラックス = "リラックス",
-}
-
-export enum Korean {
-    The4호 = "4호",
-    데일리 = "데일리",
-    릴랙스 = "릴랙스",
-    바캉스 = "바캉스",
-    비즈니스 = "비즈니스",
-    스테이지 = "스테이지",
-    스포츠 = "스포츠",
-    아웃도어 = "아웃도어",
-    애플 = "애플",
-    포멀 = "포멀",
-    한나 = "한나",
-    햄둥 = "햄둥",
-    호러 = "호러",
-}
-
-export enum Russian {
-    Готический = "готический",
-    Клэй = "Клэй",
-    Отпускной = "отпускной",
-    Повседневный = "повседневный",
-    Походный = "походный",
-    Рабочий = "рабочий",
-    Рокет = "Рокет",
-    Спортивный = "спортивный",
-    Удобный = "удобный",
-    Формальный = "формальный",
-    Черри = "Черри",
-    Эпл = "Эпл",
-    Эффектный = "эффектный",
-}
-
-export enum ComfySourceSheet {
-    FashionThemes = "Fashion Themes",
-    Villagers = "Villagers",
-}
-
-export enum Spanish {
-    Boliche = "Boliche",
-    Casual = "casual",
-    DeActividadesAlAireLibre = "de actividades al aire libre",
-    Deportivo = "deportivo",
-    Desenfadado = "desenfadado",
-    Formal = "formal",
-    Gloria = "Gloria",
-    Gótico = "gótico",
-    Luna = "Luna",
-    Profesional = "profesional",
-    Rosi = "Rosi",
-    Teatral = "teatral",
-    Todoterreno = "todoterreno",
-    Vacacional = "vacacional",
 }
 
 export enum RecipeSourceSheet {
@@ -789,56 +388,6 @@ export enum SecondaryShape {
     H = "H",
     L = "L",
     N = "N",
-}
-
-export interface SeriesTranslations {
-    sourceSheet:        SeriesTranslationsSourceSheet;
-    variantId?:         number;
-    id:                 IDID | number;
-    clothName?:         SeriesTranslationsClothName;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
-    plural:             boolean;
-    clothGroup?:        number;
-    version?:           Version;
-    furnitureName?:     FurnitureName;
-}
-
-export enum SeriesTranslationsClothName {
-    JockeyUniform = "jockey uniform",
-    MOMSHandmadeApron = "Mom's handmade apron",
-}
-
-export enum FurnitureName {
-    Gears = "gears",
-    IncenseBurner = "incense burner",
-    Screen = "screen",
-    TissueBox = "tissue box",
-    WeddingFlowerStand = "wedding flower stand",
-}
-
-export enum IDID {
-    Cat20 = "cat20",
-}
-
-export enum SeriesTranslationsSourceSheet {
-    DressesVariants = "Dresses Variants",
-    FurnitureVariants = "Furniture Variants",
-    HHAThemes = "HHA Themes",
-    TopsVariants = "Tops Variants",
-    VillagersCatchPhrase = "Villagers Catch Phrase",
 }
 
 export enum Size {
@@ -893,18 +442,213 @@ export enum Style {
     Simple = "Simple",
 }
 
+export enum Theme {
+    Comfy = "comfy",
+    Everyday = "everyday",
+    FairyTale = "fairy tale",
+    Formal = "formal",
+    Goth = "goth",
+    Outdoorsy = "outdoorsy",
+    Party = "party",
+    Sporty = "sporty",
+    Theatrical = "theatrical",
+    Vacation = "vacation",
+    Work = "work",
+}
+
 export interface ThemesTranslations {
-    party?:        FairyTale;
+    party?:        Comfy;
     everyday?:     Comfy;
     comfy?:        Comfy;
     outdoorsy?:    Comfy;
     vacation?:     Comfy;
-    "fairy tale"?: FairyTale;
+    "fairy tale"?: Comfy;
     theatrical?:   Comfy;
     work?:         Comfy;
     sporty?:       Comfy;
     formal?:       Comfy;
     goth?:         Comfy;
+}
+
+export interface Comfy {
+    sourceSheet:        ComfySourceSheet;
+    id:                 ID;
+    version:            Version;
+    english:            Theme;
+    englishEurope:      Theme;
+    german:             German;
+    spanish:            Spanish;
+    spanishUs:          Spanish;
+    french:             French;
+    frenchUs:           French;
+    italian:            Italian;
+    dutch:              DutchEnum;
+    chinese:            Chinese;
+    chineseTraditional: ChineseTraditional;
+    japanese:           Japanese;
+    korean:             Korean;
+    russian:            Russian;
+    plural:             boolean;
+}
+
+export enum Chinese {
+    休闲 = "休闲",
+    工作 = "工作",
+    度假 = "度假",
+    恐怖 = "恐怖",
+    户外 = "户外",
+    日常 = "日常",
+    正式 = "正式",
+    派对 = "派对",
+    童话世界 = "童话世界",
+    舞台 = "舞台",
+    运动 = "运动",
+}
+
+export enum ChineseTraditional {
+    工作 = "工作",
+    度假 = "度假",
+    恐怖 = "恐怖",
+    悠閒 = "悠閒",
+    戶外活動 = "戶外活動",
+    日常生活 = "日常生活",
+    正式 = "正式",
+    派對 = "派對",
+    童話世界 = "童話世界",
+    舞台 = "舞台",
+    運動 = "運動",
+}
+
+export enum DutchEnum {
+    AlledaagsThema = "alledaags thema",
+    Feestthema = "feestthema",
+    FormeThema = "forme thema",
+    Griezelthema = "griezelthema",
+    Podiumthema = "podiumthema",
+    Sportthema = "sportthema",
+    Sprookjesthema = "sprookjesthema",
+    Vakantiethema = "vakantiethema",
+    Vrijetijdsthema = "vrijetijdsthema",
+    WeersbestendigThema = "weersbestendig thema",
+    Werkthema = "werkthema",
+}
+
+export enum French {
+    TenueDExtérieur = "tenue d'extérieur",
+    TenueDeDétente = "tenue de détente",
+    TenueDeFête = "tenue de fête",
+    TenueDeScène = "tenue de scène",
+    TenueDeTousLesJours = "tenue de tous les jours",
+    TenueDeVacances = "tenue de vacances",
+    TenueEffrayante = "tenue effrayante",
+    TenueFéerique = "tenue féerique",
+    TenueFéérique = "tenue féérique",
+    TenueOfficielle = "tenue officielle",
+    TenueProfessionnelle = "tenue professionnelle",
+    TenueSport = "tenue sport",
+}
+
+export enum German {
+    Alltagskleidung = "Alltagskleidung",
+    Arbeitskleidung = "Arbeitskleidung",
+    Bühnenkleidung = "Bühnenkleidung",
+    Formellkleidung = "Formellkleidung",
+    Freizeitkleidung = "Freizeitkleidung",
+    Horrorkleidung = "Horrorkleidung",
+    Märchenkleidung = "Märchenkleidung",
+    Outdoorkleidung = "Outdoorkleidung",
+    Partykleidung = "Partykleidung",
+    Sportkleidung = "Sportkleidung",
+    Urlaubskleidung = "Urlaubskleidung",
+}
+
+export enum ID {
+    Daily = "Daily",
+    Fairyland = "Fairyland",
+    Fomal = "Fomal",
+    Horror = "Horror",
+    Outdoor = "Outdoor",
+    Party = "Party",
+    Relax = "Relax",
+    Sport = "Sport",
+    Stage = "Stage",
+    Vacation = "Vacation",
+    Work = "Work",
+}
+
+export enum Italian {
+    Confortevole = "confortevole",
+    DaAriaAperta = "da aria aperta",
+    DaFesta = "da festa",
+    DaFiaba = "da fiaba",
+    DaLavoro = "da lavoro",
+    DaSport = "da sport",
+    DaTeatro = "da teatro",
+    DaVacanza = "da vacanza",
+    Formale = "formale",
+    Horror = "horror",
+    PerTuttiIGiorni = "per tutti i giorni",
+}
+
+export enum Japanese {
+    おしごと仕事 = "おしごと仕事",
+    アウトドア = "アウトドア",
+    ステージ = "ステージ",
+    スポーツ = "スポーツ",
+    デイリー = "デイリー",
+    バカンス = "バカンス",
+    パーティー = "パーティー",
+    フォーマル = "フォーマル",
+    ホラー = "ホラー",
+    メルヘン = "メルヘン",
+    リラックス = "リラックス",
+}
+
+export enum Korean {
+    데일리 = "데일리",
+    릴랙스 = "릴랙스",
+    메르헨 = "메르헨",
+    바캉스 = "바캉스",
+    비즈니스 = "비즈니스",
+    스테이지 = "스테이지",
+    스포츠 = "스포츠",
+    아웃도어 = "아웃도어",
+    파티 = "파티",
+    포멀 = "포멀",
+    호러 = "호러",
+}
+
+export enum Russian {
+    Готический = "готический",
+    Отпускной = "отпускной",
+    Повседневный = "повседневный",
+    Походный = "походный",
+    Праздничный = "праздничный",
+    Рабочий = "рабочий",
+    Спортивный = "спортивный",
+    Удобный = "удобный",
+    Фантазийный = "фантазийный",
+    Формальный = "формальный",
+    Эффектный = "эффектный",
+}
+
+export enum ComfySourceSheet {
+    FashionThemes = "Fashion Themes",
+}
+
+export enum Spanish {
+    Casual = "casual",
+    DeActividadesAlAireLibre = "de actividades al aire libre",
+    DeFantasía = "de fantasía",
+    DeFiesta = "de fiesta",
+    Deportivo = "deportivo",
+    Desenfadado = "desenfadado",
+    Formal = "formal",
+    Gótico = "gótico",
+    Profesional = "profesional",
+    Teatral = "teatral",
+    Todoterreno = "todoterreno",
+    Vacacional = "vacacional",
 }
 
 export enum VariantID {
@@ -996,7 +740,7 @@ export interface VariationElement {
     surface?:             boolean;
     hhaCategory?:         HhaCategory | null;
     concepts?:            Concept[];
-    patternTranslations?: FairyTale | null;
+    patternTranslations?: SeriesTranslations | null;
     doorDeco?:            boolean;
     uses?:                number;
     stackSize?:           number;
