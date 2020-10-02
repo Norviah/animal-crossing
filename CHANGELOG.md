@@ -1,4 +1,16 @@
 
+## [6.9.0](https://github.com/Norviah/animal-crossing/compare/v6.8.1...v6.9.0) (2020-10-02)
+
+
+### Features
+
+* **items:** remove translations from recipes ([4e70f44](https://github.com/Norviah/animal-crossing/commit/4e70f44b902cababe3cbb63afe19df8be4535997))
+
+
+### Additions
+
+* implement additions/changes from 10/1 ([34a435a](https://github.com/Norviah/animal-crossing/commit/34a435a021ac7dcee74d85568d721ba5c0ef7f0f))
+
 ### [6.8.1](https://github.com/Norviah/animal-crossing/compare/v6.8.0...v6.8.1) (2020-10-01)
 
 
