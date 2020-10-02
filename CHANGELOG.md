@@ -1,4 +1,21 @@
 
+### [6.9.1](https://github.com/Norviah/animal-crossing/compare/v6.9.0...v6.9.1) (2020-10-02)
+
+
+### Features
+
+* **recipe:** ensure translations for materials are picked from the correct source sheets ([8b7fa77](https://github.com/Norviah/animal-crossing/commit/8b7fa77c19e0382d49de86597b426c07ee69c452))
+
+
+### Bug Fixes
+
+* **translations:** ensure translations are picked from desired source sheets ([e51075e](https://github.com/Norviah/animal-crossing/commit/e51075e7a5ee4d17584d9a6c8a8c72411f5555f2))
+
+
+### Additions
+
+* implement changes/fixes ([befe3d4](https://github.com/Norviah/animal-crossing/commit/befe3d4ad94459d67ebee31c93321233365fabd4))
+
 ## [6.9.0](https://github.com/Norviah/animal-crossing/compare/v6.8.1...v6.9.0) (2020-10-02)
 
 
