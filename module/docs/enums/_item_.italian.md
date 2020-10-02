@@ -6,51 +6,25 @@
 
 ### Enumeration members
 
-* [Amarena](_item_.italian.md#amarena)
-* [Carmelo](_item_.italian.md#carmelo)
-* [Cicci](_item_.italian.md#cicci)
 * [Confortevole](_item_.italian.md#confortevole)
 * [DaAriaAperta](_item_.italian.md#daariaaperta)
+* [DaFesta](_item_.italian.md#dafesta)
+* [DaFiaba](_item_.italian.md#dafiaba)
 * [DaLavoro](_item_.italian.md#dalavoro)
 * [DaSport](_item_.italian.md#dasport)
 * [DaTeatro](_item_.italian.md#dateatro)
 * [DaVacanza](_item_.italian.md#davacanza)
 * [Formale](_item_.italian.md#formale)
 * [Horror](_item_.italian.md#horror)
-* [Kinga](_item_.italian.md#kinga)
 * [PerTuttiIGiorni](_item_.italian.md#pertuttiigiorni)
 
 ## Enumeration members
-
-###  Amarena
-
-• **Amarena**: = "Amarena"
-
-*Defined in [Item.ts:682](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L682)*
-
-___
-
-###  Carmelo
-
-• **Carmelo**: = "Carmelo"
-
-*Defined in [Item.ts:683](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L683)*
-
-___
-
-###  Cicci
-
-• **Cicci**: = "Cicci"
-
-*Defined in [Item.ts:684](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L684)*
-
-___
 
 ###  Confortevole
 
 • **Confortevole**: = "confortevole"
 
-*Defined in [Item.ts:685](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L685)*
+*Defined in [Item.ts:580](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L580)*
 
 ___
 
@@ -58,7 +32,23 @@ ___
 
 • **DaAriaAperta**: = "da aria aperta"
 
-*Defined in [Item.ts:686](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L686)*
+*Defined in [Item.ts:581](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L581)*
+
+___
+
+###  DaFesta
+
+• **DaFesta**: = "da festa"
+
+*Defined in [Item.ts:582](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L582)*
+
+___
+
+###  DaFiaba
+
+• **DaFiaba**: = "da fiaba"
+
+*Defined in [Item.ts:583](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L583)*
 
 ___
 
@@ -66,7 +56,7 @@ ___
 
 • **DaLavoro**: = "da lavoro"
 
-*Defined in [Item.ts:687](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L687)*
+*Defined in [Item.ts:584](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L584)*
 
 ___
 
@@ -74,7 +64,7 @@ ___
 
 • **DaSport**: = "da sport"
 
-*Defined in [Item.ts:688](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L688)*
+*Defined in [Item.ts:585](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L585)*
 
 ___
 
@@ -82,7 +72,7 @@ ___
 
 • **DaTeatro**: = "da teatro"
 
-*Defined in [Item.ts:689](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L689)*
+*Defined in [Item.ts:586](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L586)*
 
 ___
 
@@ -90,7 +80,7 @@ ___
 
 • **DaVacanza**: = "da vacanza"
 
-*Defined in [Item.ts:690](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L690)*
+*Defined in [Item.ts:587](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L587)*
 
 ___
 
@@ -98,7 +88,7 @@ ___
 
 • **Formale**: = "formale"
 
-*Defined in [Item.ts:691](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L691)*
+*Defined in [Item.ts:588](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L588)*
 
 ___
 
@@ -106,15 +96,7 @@ ___
 
 • **Horror**: = "horror"
 
-*Defined in [Item.ts:692](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L692)*
-
-___
-
-###  Kinga
-
-• **Kinga**: = "Kinga"
-
-*Defined in [Item.ts:693](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L693)*
+*Defined in [Item.ts:589](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L589)*
 
 ___
 
@@ -122,4 +104,4 @@ ___
 
 • **PerTuttiIGiorni**: = "per tutti i giorni"
 
-*Defined in [Item.ts:694](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L694)*
+*Defined in [Item.ts:590](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L590)*

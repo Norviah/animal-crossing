@@ -7,17 +7,15 @@
 ### Enumeration members
 
 * [Готический](_item_.russian.md#готический)
-* [Клэй](_item_.russian.md#клэй)
 * [Отпускной](_item_.russian.md#отпускной)
 * [Повседневный](_item_.russian.md#повседневный)
 * [Походный](_item_.russian.md#походный)
+* [Праздничный](_item_.russian.md#праздничный)
 * [Рабочий](_item_.russian.md#рабочий)
-* [Рокет](_item_.russian.md#рокет)
 * [Спортивный](_item_.russian.md#спортивный)
 * [Удобный](_item_.russian.md#удобный)
+* [Фантазийный](_item_.russian.md#фантазийный)
 * [Формальный](_item_.russian.md#формальный)
-* [Черри](_item_.russian.md#черри)
-* [Эпл](_item_.russian.md#эпл)
 * [Эффектный](_item_.russian.md#эффектный)
 
 ## Enumeration members
@@ -26,15 +24,7 @@
 
 • **Готический**: = "готический"
 
-*Defined in [Item.ts:730](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L730)*
-
-___
-
-###  Клэй
-
-• **Клэй**: = "Клэй"
-
-*Defined in [Item.ts:731](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L731)*
+*Defined in [Item.ts:622](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L622)*
 
 ___
 
@@ -42,7 +32,7 @@ ___
 
 • **Отпускной**: = "отпускной"
 
-*Defined in [Item.ts:732](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L732)*
+*Defined in [Item.ts:623](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L623)*
 
 ___
 
@@ -50,7 +40,7 @@ ___
 
 • **Повседневный**: = "повседневный"
 
-*Defined in [Item.ts:733](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L733)*
+*Defined in [Item.ts:624](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L624)*
 
 ___
 
@@ -58,7 +48,15 @@ ___
 
 • **Походный**: = "походный"
 
-*Defined in [Item.ts:734](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L734)*
+*Defined in [Item.ts:625](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L625)*
+
+___
+
+###  Праздничный
+
+• **Праздничный**: = "праздничный"
+
+*Defined in [Item.ts:626](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L626)*
 
 ___
 
@@ -66,15 +64,7 @@ ___
 
 • **Рабочий**: = "рабочий"
 
-*Defined in [Item.ts:735](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L735)*
-
-___
-
-###  Рокет
-
-• **Рокет**: = "Рокет"
-
-*Defined in [Item.ts:736](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L736)*
+*Defined in [Item.ts:627](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L627)*
 
 ___
 
@@ -82,7 +72,7 @@ ___
 
 • **Спортивный**: = "спортивный"
 
-*Defined in [Item.ts:737](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L737)*
+*Defined in [Item.ts:628](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L628)*
 
 ___
 
@@ -90,7 +80,15 @@ ___
 
 • **Удобный**: = "удобный"
 
-*Defined in [Item.ts:738](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L738)*
+*Defined in [Item.ts:629](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L629)*
+
+___
+
+###  Фантазийный
+
+• **Фантазийный**: = "фантазийный"
+
+*Defined in [Item.ts:630](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L630)*
 
 ___
 
@@ -98,23 +96,7 @@ ___
 
 • **Формальный**: = "формальный"
 
-*Defined in [Item.ts:739](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L739)*
-
-___
-
-###  Черри
-
-• **Черри**: = "Черри"
-
-*Defined in [Item.ts:740](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L740)*
-
-___
-
-###  Эпл
-
-• **Эпл**: = "Эпл"
-
-*Defined in [Item.ts:741](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L741)*
+*Defined in [Item.ts:631](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L631)*
 
 ___
 
@@ -122,4 +104,4 @@ ___
 
 • **Эффектный**: = "эффектный"
 
-*Defined in [Item.ts:742](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L742)*
+*Defined in [Item.ts:632](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L632)*

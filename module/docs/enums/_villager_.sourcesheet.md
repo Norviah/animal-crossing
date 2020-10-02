@@ -15,7 +15,7 @@
 
 • **Villagers**: = "Villagers"
 
-*Defined in [Villager.ts:55](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Villager.ts#L55)*
+*Defined in [Villager.ts:55](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Villager.ts#L55)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **VillagersCatchPhrase**: = "Villagers Catch Phrase"
 
-*Defined in [Villager.ts:56](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Villager.ts#L56)*
+*Defined in [Villager.ts:56](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Villager.ts#L56)*
