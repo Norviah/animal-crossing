@@ -38,7 +38,7 @@ export function find(name: string, sheets?: string[] | string): obj | null {
     // If the translation doesn't share the same name for the item we're looking
     // for, we'll continue to the next iteration.
     if (translation.english.toString().toLowerCase() !== name.toLowerCase()) {
-      return;
+      return false;
     }
 
     const source: string = translation.sourceSheet;
@@ -50,6 +50,10 @@ export function find(name: string, sheets?: string[] | string): obj | null {
     if (sheets && (typeof sheets === 'string' ? source.includes(sheets) : sheets.includes(source))) {
       return true;
     }
+
+    // If the sheets parameter is given and the current translation isn't from
+    // the desired sourcesheet(s), we'll stop here.
+    else if (sheets) return false;
 
     return true;
   });
