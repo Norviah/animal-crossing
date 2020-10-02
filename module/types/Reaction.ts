@@ -17,13 +17,12 @@ export enum SourceNote {
 
 export enum SourceSheet {
     Reactions = "Reactions",
-    TopsVariants = "Tops Variants",
 }
 
 export interface Translations {
     sourceSheet:        SourceSheet;
-    id:                 number | string;
-    version?:           Version;
+    id:                 string;
+    version:            Version;
     english:            string;
     englishEurope:      string;
     german:             string;
@@ -39,9 +38,6 @@ export interface Translations {
     korean:             string;
     russian:            string;
     plural:             boolean;
-    variantId?:         number;
-    clothName?:         string;
-    clothGroup?:        number;
 }
 
 export enum Version {
