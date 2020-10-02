@@ -14,4 +14,4 @@
 
 • **Villagers**: = "Villagers"
 
-*Defined in [Recipe.ts:390](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L390)*
+*Defined in [Recipe.ts:390](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L390)*

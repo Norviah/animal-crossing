@@ -15,7 +15,7 @@
 
 • **DigitalScale**: = "digital scale"
 
-*Defined in [Recipe.ts:262](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L262)*
+*Defined in [Recipe.ts:262](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L262)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **ShellSpeaker**: = "shell speaker"
 
-*Defined in [Recipe.ts:263](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L263)*
+*Defined in [Recipe.ts:263](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L263)*

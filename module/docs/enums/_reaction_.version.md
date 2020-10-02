@@ -15,7 +15,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Reaction.ts:48](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Reaction.ts#L48)*
+*Defined in [Reaction.ts:48](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L48)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **The150**: = "1.5.0"
 
-*Defined in [Reaction.ts:49](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Reaction.ts#L49)*
+*Defined in [Reaction.ts:49](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L49)*

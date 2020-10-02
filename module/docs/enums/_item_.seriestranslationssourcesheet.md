@@ -18,7 +18,7 @@
 
 • **DressesVariants**: = "Dresses Variants"
 
-*Defined in [Item.ts:838](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L838)*
+*Defined in [Item.ts:837](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L837)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **FurnitureVariants**: = "Furniture Variants"
 
-*Defined in [Item.ts:839](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L839)*
+*Defined in [Item.ts:838](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L838)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **HHAThemes**: = "HHA Themes"
 
-*Defined in [Item.ts:840](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L840)*
+*Defined in [Item.ts:839](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L839)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **TopsVariants**: = "Tops Variants"
 
-*Defined in [Item.ts:841](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L841)*
+*Defined in [Item.ts:840](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L840)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **VillagersCatchPhrase**: = "Villagers Catch Phrase"
 
-*Defined in [Item.ts:842](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L842)*
+*Defined in [Item.ts:841](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L841)*

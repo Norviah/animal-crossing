@@ -15,7 +15,7 @@
 
 • **JockeyUniform**: = "jockey uniform"
 
-*Defined in [Item.ts:821](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L821)*
+*Defined in [Item.ts:820](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L820)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **MOMSHandmadeApron**: = "Mom's handmade apron"
 
-*Defined in [Item.ts:822](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Item.ts#L822)*
+*Defined in [Item.ts:821](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L821)*

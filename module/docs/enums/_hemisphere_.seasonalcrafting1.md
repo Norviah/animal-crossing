@@ -17,7 +17,7 @@
 
 • **AcornsAndPineCones**: = "🌲 acorns and pine cones"
 
-*Defined in [Hemisphere.ts:40](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Hemisphere.ts#L40)*
+*Defined in [Hemisphere.ts:40](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Hemisphere.ts#L40)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Snowflakes**: = "❄️ snowflakes"
 
-*Defined in [Hemisphere.ts:41](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Hemisphere.ts#L41)*
+*Defined in [Hemisphere.ts:41](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Hemisphere.ts#L41)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **SummerShells**: = "🐚 summer shells"
 
-*Defined in [Hemisphere.ts:42](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Hemisphere.ts#L42)*
+*Defined in [Hemisphere.ts:42](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Hemisphere.ts#L42)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **YoungSpringBamboo**: = "🎋 young spring bamboo"
 
-*Defined in [Hemisphere.ts:43](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Hemisphere.ts#L43)*
+*Defined in [Hemisphere.ts:43](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Hemisphere.ts#L43)*

@@ -17,7 +17,7 @@
 
 • **Bella**: = "Bella"
 
-*Defined in [Recipe.ts:348](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L348)*
+*Defined in [Recipe.ts:348](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L348)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Dietmar**: = "Dietmar"
 
-*Defined in [Recipe.ts:349](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L349)*
+*Defined in [Recipe.ts:349](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L349)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Jessi**: = "Jessi"
 
-*Defined in [Recipe.ts:350](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L350)*
+*Defined in [Recipe.ts:350](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L350)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Katrin**: = "Katrin"
 
-*Defined in [Recipe.ts:351](https://github.com/Norviah/animal-crossing/blob/c9eb585/module/types/Recipe.ts#L351)*
+*Defined in [Recipe.ts:351](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Recipe.ts#L351)*
