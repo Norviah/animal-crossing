@@ -18342,26 +18342,6 @@
       "serialId": 1286,
       "internalId": 603,
       "uniqueEntryId": "zuxKqmoD6WAAzheNq",
-      "translations": {
-        "sourceSheet": "Bottoms",
-        "id": 312,
-        "version": "1.0.0",
-        "english": "grass skirt",
-        "englishEurope": "grass skirt",
-        "german": "Baströckchen",
-        "spanish": "falda de paja",
-        "spanishUs": "falda de paja",
-        "french": "jupe savane",
-        "frenchUs": "jupe de feuilles",
-        "italian": "gonna fieno",
-        "dutch": "rieten rokje",
-        "chinese": "草裙",
-        "chineseTraditional": "草裙",
-        "japanese": "こしみの",
-        "korean": "도롱이 하의",
-        "russian": "юбка из сухих листьев",
-        "plural": false
-      },
       "materials": { "clump of weeds": 7 },
       "materialsTranslations": {
         "clump of weeds": {
@@ -18497,26 +18477,6 @@
       "serialId": 1287,
       "internalId": 605,
       "uniqueEntryId": "mzQREt22Mh8reP5WY",
-      "translations": {
-        "sourceSheet": "Bottoms",
-        "id": 1190,
-        "version": "1.0.0",
-        "english": "green grass skirt",
-        "englishEurope": "green grass skirt",
-        "german": "Grasröckchen",
-        "spanish": "falda de hojas",
-        "spanishUs": "falda de hojas",
-        "french": "jupe savane verte",
-        "frenchUs": "jupe de feuilles verte",
-        "italian": "gonna foglie di banano",
-        "dutch": "groengrasrokje",
-        "chinese": "绿色的草裙",
-        "chineseTraditional": "綠色草裙",
-        "japanese": "みどりのこしみの",
-        "korean": "초록색 도롱이 하의",
-        "russian": "юбка из зеленых листьев",
-        "plural": false
-      },
       "materials": { "clump of weeds": 7 },
       "materialsTranslations": {
         "clump of weeds": {

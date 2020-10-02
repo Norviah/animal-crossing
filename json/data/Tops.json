@@ -59910,26 +59910,6 @@
       "serialId": 1285,
       "internalId": 604,
       "uniqueEntryId": "ofx4zP9Qj2tovbm3G",
-      "translations": {
-        "sourceSheet": "Tops",
-        "id": 654,
-        "version": "1.0.0",
-        "english": "traditional straw coat",
-        "englishEurope": "traditional straw coat",
-        "german": "Strohmantel",
-        "spanish": "abrigo de paja",
-        "spanishUs": "abrigo de paja",
-        "french": "manteau en paille",
-        "frenchUs": "manteau en paille",
-        "italian": "giacca di paglia tradizionale",
-        "dutch": "traditionele strojas",
-        "chinese": "蓑衣",
-        "chineseTraditional": "蓑衣",
-        "japanese": "みの",
-        "korean": "도롱이",
-        "russian": "соломенная накидка",
-        "plural": false
-      },
       "materials": { "clump of weeds": 8 },
       "materialsTranslations": {
         "clump of weeds": {

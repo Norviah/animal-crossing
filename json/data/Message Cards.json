@@ -1554,26 +1554,6 @@
       "serialId": 406,
       "internalId": 44,
       "uniqueEntryId": "Y62RymJYgbmZEyQon",
-      "translations": {
-        "sourceSheet": "Furniture",
-        "id": 383,
-        "version": "1.0.0",
-        "english": "acoustic guitar",
-        "englishEurope": "acoustic guitar",
-        "german": "Akustikgitarre",
-        "spanish": "guitarra acústica",
-        "spanishUs": "guitarra acústica",
-        "french": "guitare acoustique",
-        "frenchUs": "guitare acoustique",
-        "italian": "chitarra acustica",
-        "dutch": "akoestische gitaar",
-        "chinese": "木吉他",
-        "chineseTraditional": "木吉他",
-        "japanese": "アコースティックギター",
-        "korean": "어쿠스틱기타",
-        "russian": "акустическая гитара",
-        "plural": false
-      },
       "materials": { "softwood": 8, "iron nugget": 3 },
       "materialsTranslations": {
         "softwood": {
