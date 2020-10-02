@@ -273,7 +273,6 @@ export interface Recipe {
     serialId:              number;
     internalId:            number;
     uniqueEntryId:         string;
-    translations:          FairyTale;
     materials:             { [key: string]: number };
     materialsTranslations: MaterialsTranslations;
 }

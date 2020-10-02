@@ -7386,26 +7386,6 @@
       "serialId": 1280,
       "internalId": 261,
       "uniqueEntryId": "cJ9rqxsr9oZKrjHXJ",
-      "translations": {
-        "sourceSheet": "Accessories",
-        "id": 508,
-        "version": "1.0.0",
-        "english": "leaf",
-        "englishEurope": "leaf",
-        "german": "Blatt",
-        "spanish": "hoja",
-        "spanishUs": "hoja",
-        "french": "feuille",
-        "frenchUs": "feuille",
-        "italian": "foglia",
-        "dutch": "blaadje",
-        "chinese": "叶子",
-        "chineseTraditional": "葉子",
-        "japanese": "はっぱ",
-        "korean": "나뭇잎",
-        "russian": "листик",
-        "plural": false
-      },
       "materials": { "clump of weeds": 5 },
       "materialsTranslations": {
         "clump of weeds": {
