@@ -23,6 +23,21 @@ const materials: string[] = count.map((number: string) => `material${number}`);
 
 const recipes: obj[] = category('Recipes', directories.sanitized);
 
+// Represents a list of tabs that contains translations for materials.
+const tabs: string[] = [
+  'Craft',
+  'Dresses',
+  'Event Items',
+  'ETC',
+  'Furniture',
+  'Floors',
+  'Fossils',
+  'Plants',
+  'Shells',
+  'Tools',
+  'Walls',
+];
+
 for (const recipe of recipes) {
   // Get the names of the materials that the recipes needs, remember that the
   // spreadsheet has entries for all six materials, regardless if all six
@@ -42,7 +57,7 @@ for (const recipe of recipes) {
   }
 
   // Find translations for each material,
-  const translations: (obj | null)[] = names.map((name: string) => find(name));
+  const translations: (obj | null)[] = names.map((name: string) => find(name, tabs));
 
   // and use lodash to initialize an object containing translations for
   // materials, with the names as keys.
