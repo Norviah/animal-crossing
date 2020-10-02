@@ -21,7 +21,7 @@
 
 • **Large**: = "Large"
 
-*Defined in [Creature.ts:91](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L91)*
+*Defined in [Creature.ts:91](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L91)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **Long**: = "Long"
 
-*Defined in [Creature.ts:92](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L92)*
+*Defined in [Creature.ts:92](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L92)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **Medium**: = "Medium"
 
-*Defined in [Creature.ts:93](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L93)*
+*Defined in [Creature.ts:93](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L93)*
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 • **Small**: = "Small"
 
-*Defined in [Creature.ts:94](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L94)*
+*Defined in [Creature.ts:94](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L94)*
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 • **XLarge**: = "X-Large"
 
-*Defined in [Creature.ts:95](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L95)*
+*Defined in [Creature.ts:95](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L95)*
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 • **XLargeWFin**: = "X-Large w/Fin"
 
-*Defined in [Creature.ts:96](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L96)*
+*Defined in [Creature.ts:96](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L96)*
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 • **XSmall**: = "X-Small"
 
-*Defined in [Creature.ts:97](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L97)*
+*Defined in [Creature.ts:97](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L97)*
 
 ___
 
@@ -77,4 +77,4 @@ ___
 
 • **XXLarge**: = "XX-Large"
 
-*Defined in [Creature.ts:98](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Creature.ts#L98)*
+*Defined in [Creature.ts:98](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L98)*

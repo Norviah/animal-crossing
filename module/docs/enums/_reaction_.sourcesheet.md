@@ -7,7 +7,6 @@
 ### Enumeration members
 
 * [Reactions](_reaction_.sourcesheet.md#reactions)
-* [TopsVariants](_reaction_.sourcesheet.md#topsvariants)
 
 ## Enumeration members
 
@@ -15,12 +14,4 @@
 
 • **Reactions**: = "Reactions"
 
-*Defined in [Reaction.ts:19](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L19)*
-
-___
-
-###  TopsVariants
-
-• **TopsVariants**: = "Tops Variants"
-
-*Defined in [Reaction.ts:20](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L20)*
+*Defined in [Reaction.ts:19](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L19)*

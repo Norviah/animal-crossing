@@ -20,7 +20,7 @@
 
 • **Empty**: = ""
 
-*Defined in [Item.ts:537](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L537)*
+*Defined in [Item.ts:357](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L357)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **The100**: = "1.0.0"
 
-*Defined in [Item.ts:538](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L538)*
+*Defined in [Item.ts:358](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L358)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **The110**: = "1.1.0"
 
-*Defined in [Item.ts:539](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L539)*
+*Defined in [Item.ts:359](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L359)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Item.ts:540](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L540)*
+*Defined in [Item.ts:360](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L360)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **The130**: = "1.3.0"
 
-*Defined in [Item.ts:541](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L541)*
+*Defined in [Item.ts:361](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L361)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **The140**: = "1.4.0"
 
-*Defined in [Item.ts:542](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L542)*
+*Defined in [Item.ts:362](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L362)*
 
 ___
 
@@ -68,4 +68,4 @@ ___
 
 • **The150**: = "1.5.0"
 
-*Defined in [Item.ts:543](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L543)*
+*Defined in [Item.ts:363](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L363)*

@@ -20,7 +20,7 @@
 
 • **Empty**: = ""
 
-*Defined in [Translation.ts:91](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Translation.ts#L91)*
+*Defined in [Translation.ts:91](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Translation.ts#L91)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **The100**: = "1.0.0"
 
-*Defined in [Translation.ts:92](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Translation.ts#L92)*
+*Defined in [Translation.ts:92](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Translation.ts#L92)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **The110**: = "1.1.0"
 
-*Defined in [Translation.ts:93](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Translation.ts#L93)*
+*Defined in [Translation.ts:93](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Translation.ts#L93)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Translation.ts:94](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Translation.ts#L94)*
+*Defined in [Translation.ts:94](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Translation.ts#L94)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **The130**: = "1.3.0"
 
-*Defined in [Translation.ts:95](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Translation.ts#L95)*
+*Defined in [Translation.ts:95](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Translation.ts#L95)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **The140**: = "1.4.0"
 
-*Defined in [Translation.ts:96](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Translation.ts#L96)*
+*Defined in [Translation.ts:96](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Translation.ts#L96)*
 
 ___
 
@@ -68,4 +68,4 @@ ___
 
 • **The150**: = "1.5.0"
 
-*Defined in [Translation.ts:97](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Translation.ts#L97)*
+*Defined in [Translation.ts:97](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Translation.ts#L97)*

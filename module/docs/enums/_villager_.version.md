@@ -14,4 +14,4 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Villager.ts:60](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Villager.ts#L60)*
+*Defined in [Villager.ts:60](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Villager.ts#L60)*

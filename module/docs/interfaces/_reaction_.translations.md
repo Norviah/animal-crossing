@@ -12,8 +12,6 @@
 
 * [chinese](_reaction_.translations.md#chinese)
 * [chineseTraditional](_reaction_.translations.md#chinesetraditional)
-* [clothGroup](_reaction_.translations.md#optional-clothgroup)
-* [clothName](_reaction_.translations.md#optional-clothname)
 * [dutch](_reaction_.translations.md#dutch)
 * [english](_reaction_.translations.md#english)
 * [englishEurope](_reaction_.translations.md#englisheurope)
@@ -29,8 +27,7 @@
 * [sourceSheet](_reaction_.translations.md#sourcesheet)
 * [spanish](_reaction_.translations.md#spanish)
 * [spanishUs](_reaction_.translations.md#spanishus)
-* [variantId](_reaction_.translations.md#optional-variantid)
-* [version](_reaction_.translations.md#optional-version)
+* [version](_reaction_.translations.md#version)
 
 ## Properties
 
@@ -38,7 +35,7 @@
 
 • **chinese**: *string*
 
-*Defined in [Reaction.ts:36](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L36)*
+*Defined in [Reaction.ts:35](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L35)*
 
 ___
 
@@ -46,23 +43,7 @@ ___
 
 • **chineseTraditional**: *string*
 
-*Defined in [Reaction.ts:37](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L37)*
-
-___
-
-### `Optional` clothGroup
-
-• **clothGroup**? : *undefined | number*
-
-*Defined in [Reaction.ts:44](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L44)*
-
-___
-
-### `Optional` clothName
-
-• **clothName**? : *undefined | string*
-
-*Defined in [Reaction.ts:43](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L43)*
+*Defined in [Reaction.ts:36](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L36)*
 
 ___
 
@@ -70,7 +51,7 @@ ___
 
 • **dutch**: *string*
 
-*Defined in [Reaction.ts:35](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L35)*
+*Defined in [Reaction.ts:34](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L34)*
 
 ___
 
@@ -78,7 +59,7 @@ ___
 
 • **english**: *string*
 
-*Defined in [Reaction.ts:27](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L27)*
+*Defined in [Reaction.ts:26](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L26)*
 
 ___
 
@@ -86,7 +67,7 @@ ___
 
 • **englishEurope**: *string*
 
-*Defined in [Reaction.ts:28](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L28)*
+*Defined in [Reaction.ts:27](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L27)*
 
 ___
 
@@ -94,7 +75,7 @@ ___
 
 • **french**: *string*
 
-*Defined in [Reaction.ts:32](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L32)*
+*Defined in [Reaction.ts:31](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L31)*
 
 ___
 
@@ -102,7 +83,7 @@ ___
 
 • **frenchUs**: *string*
 
-*Defined in [Reaction.ts:33](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L33)*
+*Defined in [Reaction.ts:32](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L32)*
 
 ___
 
@@ -110,15 +91,15 @@ ___
 
 • **german**: *string*
 
-*Defined in [Reaction.ts:29](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L29)*
+*Defined in [Reaction.ts:28](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L28)*
 
 ___
 
 ###  id
 
-• **id**: *number | string*
+• **id**: *string*
 
-*Defined in [Reaction.ts:25](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L25)*
+*Defined in [Reaction.ts:24](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L24)*
 
 ___
 
@@ -126,7 +107,7 @@ ___
 
 • **italian**: *string*
 
-*Defined in [Reaction.ts:34](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L34)*
+*Defined in [Reaction.ts:33](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L33)*
 
 ___
 
@@ -134,7 +115,7 @@ ___
 
 • **japanese**: *string*
 
-*Defined in [Reaction.ts:38](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L38)*
+*Defined in [Reaction.ts:37](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L37)*
 
 ___
 
@@ -142,7 +123,7 @@ ___
 
 • **korean**: *string*
 
-*Defined in [Reaction.ts:39](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L39)*
+*Defined in [Reaction.ts:38](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L38)*
 
 ___
 
@@ -150,7 +131,7 @@ ___
 
 • **plural**: *boolean*
 
-*Defined in [Reaction.ts:41](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L41)*
+*Defined in [Reaction.ts:40](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L40)*
 
 ___
 
@@ -158,7 +139,7 @@ ___
 
 • **russian**: *string*
 
-*Defined in [Reaction.ts:40](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L40)*
+*Defined in [Reaction.ts:39](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L39)*
 
 ___
 
@@ -166,7 +147,7 @@ ___
 
 • **sourceSheet**: *[SourceSheet](../enums/_reaction_.sourcesheet.md)*
 
-*Defined in [Reaction.ts:24](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L24)*
+*Defined in [Reaction.ts:23](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L23)*
 
 ___
 
@@ -174,7 +155,7 @@ ___
 
 • **spanish**: *string*
 
-*Defined in [Reaction.ts:30](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L30)*
+*Defined in [Reaction.ts:29](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L29)*
 
 ___
 
@@ -182,20 +163,12 @@ ___
 
 • **spanishUs**: *string*
 
-*Defined in [Reaction.ts:31](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L31)*
+*Defined in [Reaction.ts:30](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L30)*
 
 ___
 
-### `Optional` variantId
+###  version
 
-• **variantId**? : *undefined | number*
+• **version**: *[Version](../enums/_reaction_.version.md)*
 
-*Defined in [Reaction.ts:42](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L42)*
-
-___
-
-### `Optional` version
-
-• **version**? : *[Version](../enums/_reaction_.version.md)*
-
-*Defined in [Reaction.ts:26](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Reaction.ts#L26)*
+*Defined in [Reaction.ts:25](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L25)*

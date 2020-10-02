@@ -7,7 +7,6 @@
 ### Enumeration members
 
 * [FashionThemes](_item_.comfysourcesheet.md#fashionthemes)
-* [Villagers](_item_.comfysourcesheet.md#villagers)
 
 ## Enumeration members
 
@@ -15,12 +14,4 @@
 
 • **FashionThemes**: = "Fashion Themes"
 
-*Defined in [Item.ts:746](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L746)*
-
-___
-
-###  Villagers
-
-• **Villagers**: = "Villagers"
-
-*Defined in [Item.ts:747](https://github.com/Norviah/animal-crossing/blob/2c80bbc/module/types/Item.ts#L747)*
+*Defined in [Item.ts:636](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L636)*
