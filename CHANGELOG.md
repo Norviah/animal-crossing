@@ -1,4 +1,11 @@
 
+## [6.10.0](https://github.com/Norviah/animal-crossing/compare/v6.9.1...v6.10.0) (2020-10-19)
+
+
+### Additions
+
+* implement additions/changes from 10/3 to 10/12 ([78b7d91](https://github.com/Norviah/animal-crossing/commit/78b7d91cfb0d511c54e588c4a3241a890246ff48))
+
 ### [6.9.1](https://github.com/Norviah/animal-crossing/compare/v6.9.0...v6.9.1) (2020-10-02)
 
 
