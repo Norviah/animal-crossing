@@ -7500,8 +7500,10 @@
     "sell": 350,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Picking pumpkins" ],
-    "sourceNotes": null,
+    "source": [ "Picking pumpkins", "All villagers" ],
+    "sourceNotes": [
+      "Obtained from crafting villagers during October if player already knows the recipe or as a reward for gifting candy on Halloween."
+    ],
     "hhaBasePoints": 0,
     "tag": "Plants",
     "versionAdded": "1.5.0",

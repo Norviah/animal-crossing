@@ -189,7 +189,7 @@
   {
     "SourceSheet": "Special NPCs",
     "Name": "DJ KK",
-    "Icon Image": "=IMAGE(\"https://acnhcdn.com/1.0.0/NpcIcon/tkkB.png\")",
+    "Icon Image": "=IMAGE(\"https://acnhapi.com/1.0.0/NpcIcon/tkkB.png\")",
     "Photo Image": "=IMAGE(\"https://acnhcdn.com/latest/NpcPoster/NpcSpTkkB.png\")",
     "Gender": "Male",
     "Gender (Asia)": "Male",

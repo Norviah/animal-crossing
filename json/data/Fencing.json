@@ -1405,7 +1405,8 @@
       "exchangeCurrency": null,
       "source": [ "All villagers", "Balloons" ],
       "sourceNotes": [
-        "Only available during October. Obtained from crafting villagers during October or as a reward for gifting candy on Halloween."
+        "Only available during October",
+        "Obtained from crafting villagers during October or as a reward for gifting candy on Halloween"
       ],
       "versionAdded": "1.5.0",
       "unlocked": true,
