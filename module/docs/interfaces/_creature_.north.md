@@ -21,7 +21,7 @@
 
 • **months**: *string[]*
 
-*Defined in [Creature.ts:68](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L68)*
+*Defined in [Creature.ts:68](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Creature.ts#L68)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **monthsArray**: *number[]*
 
-*Defined in [Creature.ts:69](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L69)*
+*Defined in [Creature.ts:69](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Creature.ts#L69)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **time**: *string[]*
 
-*Defined in [Creature.ts:66](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L66)*
+*Defined in [Creature.ts:66](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Creature.ts#L66)*
 
 ___
 
@@ -45,4 +45,4 @@ ___
 
 • **timeArray**: *Array‹number[] | number›*
 
-*Defined in [Creature.ts:67](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Creature.ts#L67)*
+*Defined in [Creature.ts:67](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Creature.ts#L67)*

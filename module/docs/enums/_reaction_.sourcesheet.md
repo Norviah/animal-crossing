@@ -14,4 +14,4 @@
 
 • **Reactions**: = "Reactions"
 
-*Defined in [Reaction.ts:19](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Reaction.ts#L19)*
+*Defined in [Reaction.ts:19](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Reaction.ts#L19)*

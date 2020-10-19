@@ -19,7 +19,7 @@
 
 • **Bcat**: = "BCAT"
 
-*Defined in [Item.ts:371](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L371)*
+*Defined in [Item.ts:381](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L381)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **NTP**: = "NTP"
 
-*Defined in [Item.ts:372](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L372)*
+*Defined in [Item.ts:382](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L382)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **The110A**: = "1.1.0a"
 
-*Defined in [Item.ts:373](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L373)*
+*Defined in [Item.ts:383](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L383)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **The120A**: = "1.2.0a"
 
-*Defined in [Item.ts:374](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L374)*
+*Defined in [Item.ts:384](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L384)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **The120B**: = "1.2.0b"
 
-*Defined in [Item.ts:375](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L375)*
+*Defined in [Item.ts:385](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L385)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **The121C**: = "1.2.1c"
 
-*Defined in [Item.ts:376](https://github.com/Norviah/animal-crossing/blob/ee641cf/module/types/Item.ts#L376)*
+*Defined in [Item.ts:386](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L386)*
