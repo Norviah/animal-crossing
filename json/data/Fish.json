@@ -144,7 +144,7 @@
     "size": "1x1",
     "surface": true,
     "description": [
-      "The angelfish is truly a beautiful creature. Just look at the elegance of those fins!Despite the name, however, these lovelies are known to be rather aggressive. They've no qualms about relentlessly pursuing fish much smaller than themselves! Why, they even attack their own kin! It seems no fish is safe around these \"angelic\" bullies. It makes one wonder who comes up with these names. Appearances— and names— can be deceiving."
+      "The angelfish is truly a beautiful creature. Just look at the elegance of those fins! Despite the name, however, these lovelies are known to be rather aggressive. They've no qualms about relentlessly pursuing fish much smaller than themselves! Why, they even attack their own kin! It seems no fish is safe around these \"angelic\" bullies. It makes one wonder who comes up with these names. Appearances— and names— can be deceiving."
     ],
     "catchPhrase": [ "I caught an angelfish! That other fish told me to do it!" ],
     "hhaBasePoints": 71,
@@ -272,7 +272,7 @@
     "size": "2x1",
     "surface": true,
     "description": [
-      "It would seem your angling expertise knows no bounds! This beauteous arowana fetches a pretty Bell, though I'd venture to say that its true price is beyond measure. The arowana has been on the endangered-species list for some time. It's up to us to remain educated and do all we can to help preserve such magnificent creatures. Not to worry, old bean. This lovely fishy friend is in good wings here! On behalf of the museum, I thank you warmly for your unending generosity!"
+      "It would seem your angling expertise knows no bounds! This beauteous arowana fetches a pretty Bell, though I'd venture to say that its true price is beyond measure. The arowana is an excellent jumper. Some have been seen  leaping six feet out of the water, eh wot! Alas, it has also been on the endangered-species list for some time. It's up to us to do all we can to help preserve such magnificent creatures for the years to come."
     ],
     "catchPhrase": [ "I caught an arowana! I'd make a joke, but I don't 'wana." ],
     "hhaBasePoints": 71,
@@ -914,7 +914,7 @@
     "description": [
       "Oh, the carp... have you ever seen their teeth? For your sake, I hope you have not! Carp have teeth in their throat strong enough to crunch on hard things like shells and fingers! A good rule of thumb when dealing with other species is to keep your fingers out of their mouths. Although, having neither thumbs nor fingers, I am quite safe from this little fellow!"
     ],
-    "catchPhrase": [ "I caught a carp! If I catch another they can carpool!" ],
+    "catchPhrase": [ "I caught a carp! If I catch another, they can carpool!" ],
     "hhaBasePoints": 71,
     "hhaCategory": "Pet",
     "lightingType": "Fluorescent",
@@ -1872,7 +1872,7 @@
     "size": "2x1",
     "surface": true,
     "description": [
-      "The giant snakehead is quite a sight to behold, wot! One glance conjurs up visions of its namesake. This resilient creature can even find a home in the mud, where it is able to breathe. As a matter of fact, it dislikes cold weather, so during wintertime the mud serves as its temporary home. I hear that they eat anything that swims past their head. While odd, I feel a sense of owlship with them."
+      "The giant snakehead is quite a sight to behold, wot! One glance conjures up visions of its namesake. This resilient creature can even find a home in the mud, where it is able to breathe. As a matter of fact, it dislikes cold weather, so during wintertime the mud serves as its temporary home. I hear that they eat anything that swims past their head. While odd, I feel a sense of owlship with them."
     ],
     "catchPhrase": [ "I caught a giant snakehead! Um...but I asked for a medium?" ],
     "hhaBasePoints": 71,
@@ -2384,7 +2384,7 @@
     "size": "1x1",
     "surface": false,
     "description": [
-      "Ah, the magnificent killifish! Did you know there are over 1,000 different species? My own favorite killifish species are the mangrove, which can live on land for weeks, breathing air! And the mummichog, the first fish ever brought to space. I wonder if the killifish you've brought me is related to either those intrepid explorers?"
+      "Ah, the magnificent killifish! Did you know there are over 1,000 different species? My goodness, what a family tree to keep track of! My own favorite killifish species are the mangrove, which can live on land for weeks, breathing air! And the mummichog, the first fish ever brought to space. I wonder if the killifish you've brought me is related to either of those intrepid explorers?"
     ],
     "catchPhrase": [ "I caught a killifish! The streams are safe again." ],
     "hhaBasePoints": 71,
@@ -4241,7 +4241,7 @@
     "size": "1x1",
     "surface": false,
     "description": [
-      "The snapping turtle is a large turtle known for it's crocodile-like body and long claws. No, wait-- it is better known for it's ferocious bite, which it can deliver with shocking speed for a turtle. NO, WAIT-- it is BEST known for that time one chased me across a parking lot and I had to climb on top of a car."
+      "The snapping turtle is a large turtle known for its crocodile-like body and long claws. No, wait—it is better known for its ferocious bite, which it can deliver with shocking speed for a turtle. NO, WAIT—it is BEST known for that time one chased me across a parking lot and I had to climb on top of a car."
     ],
     "catchPhrase": [ "I caught a snapping turtle! How can it snap without fingers?" ],
     "hhaBasePoints": 71,
@@ -4305,7 +4305,7 @@
     "size": "1x1",
     "surface": false,
     "description": [
-      "These relatives of common turtles will not let go when they decide to bite down on something. Although they can be quite shy, they will become a bit aggressive when threatened. They are often found in water and are very good swimmers because of the flat shape of their shells. They swim with their snouts over the surface of the water so they can breathe. Soft-shelled turtles aren't safe to hold because they are so prone to biting at the slightest movement. However, if one bites down on you, it will usually let go when you put it safely back in the water."
+      "The soft-shelled turtle is not one to shy away from biting when provoked. In addition to its powerful bite, this little critter has the ability to breathe both above and below water! It has an unusually long neck which it uses for both breathing and biting. Come to think of it, how did you manage to avoid being bitten? Well, it's a fearsome critter, but just look at that face! Rather silly, wot?"
     ],
     "catchPhrase": [
       "I caught a soft-shelled turtle! It's more sensitive than other turtles.",
@@ -4377,7 +4377,7 @@
     "catchPhrase": [
       "I caught a squid! It's off the hook!",
       "I caught a squid! I had an inkling I might!",
-      "I caught a squid! Do they... not actually \"bloop\"?"
+      "I caught a squid! Do they...not actually \"bloop\"?"
     ],
     "hhaBasePoints": 71,
     "hhaCategory": "Pet",

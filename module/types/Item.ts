@@ -13,7 +13,7 @@ export interface Item {
     themesTranslations?:   ThemesTranslations;
     hhaBasePoints?:        number | null;
     villagerEquippable?:   boolean;
-    seasonalAvailability?: SeasonalAvailability;
+    seasonalAvailability?: Seasonallity;
     type?:                 string;
     unlocked?:             boolean;
     variations?:           VariationElement[];
@@ -25,6 +25,9 @@ export interface Item {
     variation?:            null;
     exchangePrice?:        number | null;
     exchangeCurrency?:     ExchangeCurrency | null;
+    seasonality?:          Seasonallity;
+    gender?:               Gender;
+    villagerGender?:       Gender | null;
     mannequinPiece?:       boolean;
     sortOrder?:            number;
     unlockNotes?:          Array<Date | UnlockNoteEnum> | null;
@@ -40,6 +43,7 @@ export interface Item {
     bodyCustomize?:        boolean;
     patternCustomize?:     boolean;
     kitCost?:              number | null;
+    kitType?:              null;
     surface?:              boolean;
     hhaCategory?:          HhaCategory | null;
     interact?:             boolean | InteractEnum;
@@ -193,6 +197,12 @@ export enum CurtainType {
 export enum ExchangeCurrency {
     HeartCrystals = "Heart Crystals",
     NookMiles = "Nook Miles",
+}
+
+export enum Gender {
+    Free = "Free",
+    Manly = "Manly",
+    Womanly = "Womanly",
 }
 
 export enum HhaCategory {
@@ -376,8 +386,9 @@ export enum UnlockNoteEnum {
     The121C = "1.2.1c",
 }
 
-export enum SeasonalAvailability {
+export enum Seasonallity {
     AllYear = "All Year",
+    Autumn = "Autumn",
     Fall = "Fall",
     Spring = "Spring",
     Summer = "Summer",
@@ -724,6 +735,9 @@ export interface VariationElement {
     variation:            number | null | string;
     exchangePrice?:       number | null;
     exchangeCurrency?:    ExchangeCurrency | null;
+    seasonality?:         Seasonallity;
+    gender?:              Gender;
+    villagerGender?:      Gender | null;
     mannequinPiece?:      boolean | null;
     sortOrder?:           number;
     filename:             string;
@@ -737,6 +751,7 @@ export interface VariationElement {
     patternTitle?:        null | string;
     variantId?:           VariantID;
     unlockNotes?:         Array<Date | UnlockNoteEnum> | null;
+    kitType?:             KitType | null;
     surface?:             boolean;
     hhaCategory?:         HhaCategory | null;
     concepts?:            Concept[];
@@ -744,6 +759,11 @@ export interface VariationElement {
     doorDeco?:            boolean;
     uses?:                number;
     stackSize?:           number;
+}
+
+export enum KitType {
+    Normal = "Normal",
+    Pumpkin = "Pumpkin",
 }
 
 export interface VariantTranslations {
