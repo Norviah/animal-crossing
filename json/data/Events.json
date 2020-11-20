@@ -316,6 +316,24 @@
   },
   {
     "sourceSheet": "Events",
+    "event": "Toy Day",
+    "northernHemisphereDates": "December 24\nEvent activities start 23 days prior (Dec 1)",
+    "southernHemisphereDates": "December 24\nEvent activities start 23 days prior (Dec 1)",
+    "times": "All day",
+    "versionAdded": "1.6.0",
+    "translations": null
+  },
+  {
+    "sourceSheet": "Events",
+    "event": "Turkey Day",
+    "northernHemisphereDates": "4th Thursday of November",
+    "southernHemisphereDates": "4th Thursday of November",
+    "times": "9 AM – Midnight",
+    "versionAdded": "1.6.0",
+    "translations": null
+  },
+  {
+    "sourceSheet": "Events",
     "event": "Wedding Season",
     "northernHemisphereDates": "June",
     "southernHemisphereDates": "June",

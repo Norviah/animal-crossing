@@ -151,6 +151,16 @@
   },
   {
     "SourceSheet": "Reactions",
+    "Name": "Excited",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddExcited.png\")",
+    "Source": "Hip Reaction Collection",
+    "Source Notes": "",
+    "Version Added": "1.6.0",
+    "Icon Filename": "AddExcited",
+    "Unique Entry ID": "n7AxvQcyuPEtdD7uF"
+  },
+  {
+    "SourceSheet": "Reactions",
     "Name": "Fearful",
     "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Shaking.png\")",
     "Source": "Normal villagers",
@@ -218,6 +228,16 @@
     "Version Added": "1.0.0",
     "Icon Filename": "BrokenHeart",
     "Unique Entry ID": "ex6gKZu6zsyd6MgDr"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Here You Go",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddHereYouGo.png\")",
+    "Source": "Hip Reaction Collection",
+    "Source Notes": "",
+    "Version Added": "1.6.0",
+    "Icon Filename": "AddHereYouGo",
+    "Unique Entry ID": "7mskmgbcDnZMfaa8d"
   },
   {
     "SourceSheet": "Reactions",
@@ -391,6 +411,16 @@
   },
   {
     "SourceSheet": "Reactions",
+    "Name": "Sit Down",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddSitDown.png\")",
+    "Source": "Hip Reaction Collection",
+    "Source Notes": "",
+    "Version Added": "1.6.0",
+    "Icon Filename": "AddSitDown",
+    "Unique Entry ID": "vZLdKXLdnjvN4J5Je"
+  },
+  {
+    "SourceSheet": "Reactions",
     "Name": "Sleepy",
     "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Sleepy.png\")",
     "Source": "Peppy villagers",
@@ -421,6 +451,16 @@
   },
   {
     "SourceSheet": "Reactions",
+    "Name": "Sniff Sniff",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddSmell.png\")",
+    "Source": "Hip Reaction Collection",
+    "Source Notes": "",
+    "Version Added": "1.6.0",
+    "Icon Filename": "AddSmell",
+    "Unique Entry ID": "M3JksnoqmWyo9otrd"
+  },
+  {
+    "SourceSheet": "Reactions",
     "Name": "Sorrow",
     "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Crying.png\")",
     "Source": "Lazy villagers",
@@ -441,6 +481,26 @@
   },
   {
     "SourceSheet": "Reactions",
+    "Name": "Ta-da",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddPraise.png\")",
+    "Source": "Hip Reaction Collection",
+    "Source Notes": "",
+    "Version Added": "1.6.0",
+    "Icon Filename": "AddPraise",
+    "Unique Entry ID": "r5knh2R8vmx7J4pxR"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Take a Picture",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddTakePictures.png\")",
+    "Source": "Hip Reaction Collection",
+    "Source Notes": "",
+    "Version Added": "1.6.0",
+    "Icon Filename": "AddTakePictures",
+    "Unique Entry ID": "77uFv5cZp43Rt3LaP"
+  },
+  {
+    "SourceSheet": "Reactions",
     "Name": "Thought",
     "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Thinking.png\")",
     "Source": "Snooty villagers",
@@ -451,6 +511,26 @@
   },
   {
     "SourceSheet": "Reactions",
+    "Name": "Wave Goodbye",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddWaveHands.png\")",
+    "Source": "Hip Reaction Collection",
+    "Source Notes": "",
+    "Version Added": "1.6.0",
+    "Icon Filename": "AddWaveHands",
+    "Unique Entry ID": "dbiQgwwQZxAQw54ur"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Work Out",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddGymnastics.png\")",
+    "Source": "Hip Reaction Collection",
+    "Source Notes": "",
+    "Version Added": "1.6.0",
+    "Icon Filename": "AddGymnastics",
+    "Unique Entry ID": "oXMGkQsnaXyB2WLKp"
+  },
+  {
+    "SourceSheet": "Reactions",
     "Name": "Worry",
     "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Worried.png\")",
     "Source": "Cranky villagers",
@@ -458,5 +538,15 @@
     "Version Added": "1.0.0",
     "Icon Filename": "Worried",
     "Unique Entry ID": "TygKeKxvotLEzWqvY"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "Name": "Yoga",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddYoga.png\")",
+    "Source": "Hip Reaction Collection",
+    "Source Notes": "",
+    "Version Added": "1.6.0",
+    "Icon Filename": "AddYoga",
+    "Unique Entry ID": "yeh2FF6fzMn3BdAi6"
   }
 ]

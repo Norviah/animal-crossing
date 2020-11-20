@@ -760,7 +760,7 @@
     "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAriCropped.png",
     "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAriCropped.png",
     "sell": 80,
-    "whereHow": "On rotten turnips",
+    "whereHow": "On rotten turnips or candy",
     "weather": "Any weather",
     "totalCatchesToUnlock": 0,
     "spawnRates": "0",
@@ -4846,7 +4846,7 @@
     "size": "1x1",
     "surface": true,
     "description": [
-      "Hoo! Ewww! The goliath beetle is a colossal creature that can grow up to four-inches long. Yes, they love to sup on sap and pollen, and frolic among the flowers. But did you know, the goliath beetle has a horn upon its head that it uses to fight its foes? And picture this... Each one of this behemoth's legs ends in pincers! Deep...calming...breaths..."
+      "Hoo! Ewww! The goliath beetle is a colossal creature that can grow up to four inches long. Yes, they love to sup on sap and pollen, and frolic among the flowers. But did you know, the goliath beetle has a horn upon its head that it uses to fight its foes? And picture this... Each one of this behemoth's legs ends in pincers! Deep...calming...breaths..."
     ],
     "catchPhrase": [ "I caught a goliath beetle! Am I a legend or what?" ],
     "hhaBasePoints": 64,
@@ -5526,7 +5526,7 @@
     "size": "1x1",
     "surface": true,
     "description": [
-      "The horned hercules is not only known for its tremendous strength, but for its size as well. It can grow up to seven-inches long and has powerful pincers covered in hair that help with gripping! As if this weren't ghastly enough, these behemoth beetles let loose a foul odor that fends off enemies... And offends my sense of smell."
+      "The horned hercules is not only known for its tremendous strength, but for its size as well. It can grow up to seven inches long and has powerful pincers covered in hair that help with gripping! As if this weren't ghastly enough, these behemoth beetles let loose a foul odor that fends off enemies... And offends my sense of smell."
     ],
     "catchPhrase": [ "I caught a horned hercules! Guess I was stronger!" ],
     "hhaBasePoints": 64,
