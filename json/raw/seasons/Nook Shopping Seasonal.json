@@ -5,6 +5,7 @@
     "Availability": "May",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrThankyouMugM.png\")",
     "Item Name": "thank-you Mom mug",
+    "Price": "600",
     "Region": "Intl.",
     "Description": "Mother's Day is a day for saying \"thank you\" to that warm, loving person who always watches over you. What should go into a gift mug? How about all your love, for starters?",
     "Version Added": "1.2.0"
@@ -15,6 +16,7 @@
     "Availability": "June",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/TopsTexTopCoatHChildren0.png\")",
     "Item Name": "handmade cape",
+    "Price": "500",
     "Region": "Intl.",
     "Description": "This event is for celebrating children growing up in good health, while thanking those who raised them. If you've ever been a good kid or raised one, flip your cape in a superhero way!",
     "Version Added": "1.2.0"
@@ -25,6 +27,7 @@
     "Availability": "June",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/CapOrnamentCChildren0.png\")",
     "Item Name": "handmade crown",
+    "Price": "300",
     "Region": "Intl.",
     "Description": "This event is for celebrating children growing up in good health, while thanking those who raised them. Those who behold your new crown will be compelled to kneel before your royal...royalness.",
     "Version Added": "1.2.0"
@@ -35,6 +38,7 @@
     "Availability": "June",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrThankyouMugF.png\")",
     "Item Name": "thank-you Dad mug",
+    "Price": "600",
     "Region": "Intl.",
     "Description": "Father's Day is when we say, \"Thanks for watching out for me, Dad!\" But what should go into a gift mug for fathers? How about all your love, for starters?",
     "Version Added": "1.2.0"
@@ -45,6 +49,7 @@
     "Availability": "NH: June 7 – July 6\nSH: December",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/CapHatSummer0.png\")",
     "Item Name": "sunflower crown",
+    "Price": "1560",
     "Region": "North Hem.\nSouth Hem.",
     "Description": "The summer solstice is the day with the most daylight all year. Wear this sunflower crown under the never-setting sun and maybe your crush will notice you!",
     "Version Added": "1.2.0"
@@ -55,6 +60,7 @@
     "Availability": "NH: December\nSH: June 7 – July 6",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/TopsTexTopOuterLWintersolstice0.png\")",
     "Item Name": "midwinter sweater",
+    "Price": "1200",
     "Region": "North Hem.\nSouth Hem.",
     "Description": "The winter solstice is the day with the least daylight all year. Put on this sweater to send chilly Old Man Winter running!",
     "Version Added": "1.2.0"
@@ -65,6 +71,7 @@
     "Availability": "July",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrTanabata.png\")",
     "Item Name": "bamboo grass",
+    "Price": "3080",
     "Region": "Japan",
     "Description": "Celebrated on July 7th, this is the one day that the deities Orihime and Hikoboshi—represented by the stars Vega and Altair—can meet. Write a wish on tanzaku paper, hang it from bamboo, and wish on the stars!",
     "Version Added": "1.3.0"
@@ -75,6 +82,7 @@
     "Availability": "August",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpringriderRodeo.png\")",
     "Item Name": "rodeo-style springy ride-on",
+    "Price": "2000",
     "Region": "Brazil",
     "Description": "Many countries have their own cowboy-themed celebrations, but this one is inspired by Brazilian traditions. We hope this springy ride-on toy will help you get into the spirit!",
     "Version Added": "1.4.0"
@@ -85,6 +93,7 @@
     "Availability": "August",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceKimonoLWeaverwomen0.png\")",
     "Item Name": "Orihime outfit",
+    "Price": "2500",
     "Region": "Asia",
     "Description": "Based on the star-crossed story of two lovers who were only allowed to meet once per year. Perhaps you'll think of reuniting with someone dear to you when you wear this special outfit.",
     "Version Added": "1.4.0"
@@ -95,6 +104,7 @@
     "Availability": "August",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceKimonoLWeavermen0.png\")",
     "Item Name": "Hikoboshi outfit",
+    "Price": "2500",
     "Region": "Asia",
     "Description": "Based on the star-crossed story of two lovers who were only allowed to meet once per year. Perhaps you'll think of reuniting with someone dear to you when you wear this special outfit.",
     "Version Added": "1.4.0"
@@ -105,6 +115,7 @@
     "Availability": "September",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/BagBackpackHarvest0.png\")",
     "Item Name": "grape-harvest basket",
+    "Price": "800",
     "Region": "Spain, France, Germany, Italy",
     "Description": "Inspired by festivities in Spain, Italy, France, and Germany, this fun festival sees participants don traditional garb for dancing and a large parade to celebrate the grape harvest. Please enjoy your ceremonial basket!",
     "Version Added": "1.4.0"
@@ -115,6 +126,7 @@
     "Availability": "September 7 – October 8",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundMoonM00.png\")",
     "Item Name": "moon rug",
+    "Price": "2000",
     "Region": "Intl.",
     "Description": "Admiring the moon is a long-held tradition, but our celestial neighbor is especially beautiful as it hangs in the sky at this time of year. Please accept this commemorative moon rug as an event souvenir.",
     "Version Added": "1.4.0"
@@ -125,6 +137,7 @@
     "Availability": "NH: December\nSH: June 7 – July 6",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallAurora00.png\")",
     "Item Name": "aurora wall",
+    "Price": "7000",
     "Region": "North Hem.\nSouth Hem.",
     "Description": "The winter solstice is the day with the least daylight all year. This wallpaper depicts that mystical shining light of clear winter skies, the aurora borealis. It's so magical that you'll forget how cold it is outside!",
     "Version Added": "1.6.0"
@@ -135,6 +148,7 @@
     "Availability": "NH: June 7 – July 6\nSH: December",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherSunflowerM00.png\")",
     "Item Name": "sunflower rug",
+    "Price": "1500",
     "Region": "North Hem.\nSouth Hem.",
     "Description": "The summer solstice is the day with the most daylight all year. But every day is sure to feel sunny and bright with this sunflower-motif rug around!",
     "Version Added": "1.6.0"
@@ -145,6 +159,7 @@
     "Availability": "December 26–31",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSobaNewyears.png\")",
     "Item Name": "New Year's noodles",
+    "Price": "1300",
     "Region": "Japan",
     "Description": "In Japan, many celebrate the new year with toshikoshi-soba (“year-passing soba\") for good luck. The noodles' length is a symbol of long life, and the ease of cutting them represents cutting away misfortunes.",
     "Version Added": "1.6.0"
@@ -155,6 +170,7 @@
     "Availability": "December 26–31",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrBerliner.png\")",
     "Item Name": "berliner",
+    "Price": "1200",
     "Region": "Germany",
     "Description": "A Berliner Pfannkuchen is a type of German pastry filled with jam and topped with sugar—not unlike a jelly donut. They're available year-round, but are a traditional treat in Germany for New Year's celebrations.",
     "Version Added": "1.6.0"
@@ -165,6 +181,7 @@
     "Availability": "December 26–31",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/Ftr12Grapes.png\")",
     "Item Name": "twelve-grape dish",
+    "Price": "1200",
     "Region": "Spain",
     "Description": "You eat las doce uvas de la suerte (\"the 12 grapes of luck\") at midnight on New Year's Eve for good fortune. As the bell tolls 12, you eat one grape for each ring. That's not a lot of time to eat 12 grapes!",
     "Version Added": "1.6.0"
@@ -175,6 +192,7 @@
     "Availability": "December 26–31",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolJuiceFuzzyapple.png\")",
     "Item Name": "sparkling cider",
+    "Price": "1000",
     "Region": "World",
     "Description": "No party to celebrate the new year is complete without everybody raising a glass of sparkling cider together. Reflect on the past year and wish everyone a good year to come… Cheers!",
     "Version Added": "1.6.0"
@@ -185,6 +203,7 @@
     "Availability": "January 1–15",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrKadomatsu.png\")",
     "Item Name": "kadomatsu",
+    "Price": "2580",
     "Region": "Japan",
     "Description": "Japanese tradition has it that Toshigami-sama, a god of the new year, visits each house on the first of the year to bless it. The kadomatsu is like a signpost to welcome him in.",
     "Version Added": "1.6.0"
@@ -195,6 +214,7 @@
     "Availability": "January 1–15",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrKagamimochi.png\")",
     "Item Name": "kagamimochi",
+    "Price": "1800",
     "Region": "Japan",
     "Description": "In Japan, kagami-mochi (“mirror mochi\") is set out as an offering to Toshigami-sama. On January 11th, you break the mochi apart and eat it, sharing out the spirit contained within for good health.",
     "Version Added": "1.6.0"
@@ -205,6 +225,7 @@
     "Availability": "January 1–15",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDoorOrnamentWreathShimenawa.png\")",
     "Item Name": "New Year's shimekazari",
+    "Price": "2000",
     "Region": "Japan",
     "Description": "Shime-kazari are Japanese rope decorations said to purify the home. They welcome Toshigami-sama in and keep impurities out. Place one on your door to protect yourself from misfortune!",
     "Version Added": "1.6.0"
@@ -215,6 +236,7 @@
     "Availability": "January 1–15",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrOliviersalad.png\")",
     "Item Name": "Olivier salad",
+    "Price": "1000",
     "Region": "Russia",
     "Description": "This salad, a staple of New Year’s celebrations in Russia, came about at the end of the 19th century. It was invented by Lucien Olivier, but since his recipe wasn't publicized, nobody knows the \"official\" way to make it.",
     "Version Added": "1.6.0"
@@ -225,6 +247,7 @@
     "Availability": "January 1–15",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/Ftr2021Arch.png\")",
     "Item Name": "2021 celebratory arch",
+    "Price": "2021",
     "Region": "World",
     "Description": "An arch bearing the Gregorian calendar's number for the new year. If you pass beneath this arch while carrying your hopes and dreams in your heart, you're certain to have a good year!",
     "Version Added": "1.6.0"
@@ -235,6 +258,7 @@
     "Availability": "January 1–15",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrYunnori.png\")",
     "Item Name": "Yut Nori",
+    "Price": "1300",
     "Region": "Korea",
     "Description": "Yut Nori is a traditional Korean board game. Instead of dice, it is played with wooden sticks called \"yuts.\" Play it with family on New Year's, but don't get so into it that you have the first fight of the year!",
     "Version Added": "1.6.0"
@@ -245,6 +269,7 @@
     "Availability": "January 1–15",
     "Item Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrEtoOx.png\")",
     "Item Name": "zodiac ox figurine",
+    "Price": "1600",
     "Region": "Asia",
     "Description": "Some folks put out zodiac figurines or statuettes to protect their houses and invite good luck throughout the year. Leave out this decoration for good fortune!",
     "Version Added": "1.6.0"

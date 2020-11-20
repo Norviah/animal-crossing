@@ -458,7 +458,26 @@
     "versionAdded": "1.6.0",
     "iconFilename": "AddExcited",
     "uniqueEntryId": "n7AxvQcyuPEtdD7uF",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddExcited",
+      "version": "1.6.0",
+      "english": "Excited",
+      "englishEurope": "Excited",
+      "german": "Aufregung",
+      "spanish": "Alegría",
+      "spanishUs": "Alegría",
+      "french": "Enthousiasme",
+      "frenchUs": "Enthousiasme",
+      "italian": "Entusiasmo",
+      "dutch": "Voorpret",
+      "chinese": "期待",
+      "chineseTraditional": "期待",
+      "japanese": "ワクワク",
+      "korean": "두근두근",
+      "russian": "Предвкушение",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Reactions",
@@ -679,7 +698,26 @@
     "versionAdded": "1.6.0",
     "iconFilename": "AddHereYouGo",
     "uniqueEntryId": "7mskmgbcDnZMfaa8d",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddHereYouGo",
+      "version": "1.6.0",
+      "english": "Here You Go",
+      "englishEurope": "Here You Go",
+      "german": "Bitte schön",
+      "spanish": "Para ti",
+      "spanishUs": "Para ti",
+      "french": "Et voilà !",
+      "frenchUs": "Et voilà!",
+      "italian": "Ecco qua",
+      "dutch": "Alsjeblieft",
+      "chinese": "请",
+      "chineseTraditional": "請",
+      "japanese": "さぁどうぞ",
+      "korean": "자 여기!",
+      "russian": "Подарок",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Reactions",
@@ -1200,7 +1238,26 @@
     "versionAdded": "1.6.0",
     "iconFilename": "AddSitDown",
     "uniqueEntryId": "vZLdKXLdnjvN4J5Je",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddSitDown",
+      "version": "1.6.0",
+      "english": "Sit Down",
+      "englishEurope": "Sit Down",
+      "german": "Hinsetzen",
+      "spanish": "Asiento",
+      "spanishUs": "Asiento",
+      "french": "S'asseoir",
+      "frenchUs": "S'asseoir",
+      "italian": "Sedersi",
+      "dutch": "Zitten",
+      "chinese": "坐",
+      "chineseTraditional": "坐",
+      "japanese": "すわる",
+      "korean": "앉기",
+      "russian": "Сидение",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Reactions",
@@ -1301,7 +1358,26 @@
     "versionAdded": "1.6.0",
     "iconFilename": "AddSmell",
     "uniqueEntryId": "M3JksnoqmWyo9otrd",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddSmell",
+      "version": "1.6.0",
+      "english": "Sniff Sniff",
+      "englishEurope": "Sniff Sniff",
+      "german": "Schnüffeln",
+      "spanish": "Olfateo",
+      "spanishUs": "Olfateo",
+      "french": "Snif snif",
+      "frenchUs": "Snif snif",
+      "italian": "Annusare",
+      "dutch": "Ruiken",
+      "chinese": "闻闻",
+      "chineseTraditional": "聞",
+      "japanese": "クンクン",
+      "korean": "킁킁",
+      "russian": "Принюхивание",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Reactions",
@@ -1372,7 +1448,26 @@
     "versionAdded": "1.6.0",
     "iconFilename": "AddPraise",
     "uniqueEntryId": "r5knh2R8vmx7J4pxR",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddPraise",
+      "version": "1.6.0",
+      "english": "Ta-da",
+      "englishEurope": "Ta-da",
+      "german": "Loben",
+      "spanish": "Entusiasmo",
+      "spanishUs": "Entusiasmo",
+      "french": "Ta-daaa !",
+      "frenchUs": "Ta-daaa!",
+      "italian": "Lode",
+      "dutch": "Prijzen",
+      "chinese": "夸奖",
+      "chineseTraditional": "誇獎",
+      "japanese": "たたえる",
+      "korean": "대단해!",
+      "russian": "Вуаля",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Reactions",
@@ -1383,7 +1478,26 @@
     "versionAdded": "1.6.0",
     "iconFilename": "AddTakePictures",
     "uniqueEntryId": "77uFv5cZp43Rt3LaP",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddTakePictures",
+      "version": "1.6.0",
+      "english": "Take a Picture",
+      "englishEurope": "Take a Picture",
+      "german": "Fotografieren",
+      "spanish": "Fotografías",
+      "spanishUs": "Fotografías",
+      "french": "Photo",
+      "frenchUs": "Photo",
+      "italian": "Foto",
+      "dutch": "Foto's maken",
+      "chinese": "拍照",
+      "chineseTraditional": "拍照",
+      "japanese": "パシャリ",
+      "korean": "찰칵!",
+      "russian": "Фотосъемка",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Reactions",
@@ -1424,7 +1538,26 @@
     "versionAdded": "1.6.0",
     "iconFilename": "AddWaveHands",
     "uniqueEntryId": "dbiQgwwQZxAQw54ur",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddWaveHands",
+      "version": "1.6.0",
+      "english": "Wave Goodbye",
+      "englishEurope": "Wave Goodbye",
+      "german": "Verabschieden",
+      "spanish": "Despedida",
+      "spanishUs": "Despedida",
+      "french": "Bye bye",
+      "frenchUs": "Bye bye",
+      "italian": "Arrivederci",
+      "dutch": "Uitzwaaien",
+      "chinese": "再见",
+      "chineseTraditional": "掰掰",
+      "japanese": "バイバイ",
+      "korean": "바이바이",
+      "russian": "Прощание",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Reactions",
@@ -1435,7 +1568,26 @@
     "versionAdded": "1.6.0",
     "iconFilename": "AddGymnastics",
     "uniqueEntryId": "oXMGkQsnaXyB2WLKp",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddGymnastics",
+      "version": "1.6.0",
+      "english": "Work Out",
+      "englishEurope": "Work Out",
+      "german": "Trainieren",
+      "spanish": "Gimnasia",
+      "spanishUs": "Gimnasia",
+      "french": "Gymnastique",
+      "frenchUs": "Gymnastique",
+      "italian": "Allenamento",
+      "dutch": "Rekken en strekken",
+      "chinese": "体操",
+      "chineseTraditional": "體操",
+      "japanese": "たいそう",
+      "korean": "체조",
+      "russian": "Тренировка",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Reactions",
@@ -1476,6 +1628,25 @@
     "versionAdded": "1.6.0",
     "iconFilename": "AddYoga",
     "uniqueEntryId": "yeh2FF6fzMn3BdAi6",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddYoga",
+      "version": "1.6.0",
+      "english": "Yoga",
+      "englishEurope": "Yoga",
+      "german": "Yoga",
+      "spanish": "Yoga",
+      "spanishUs": "Yoga",
+      "french": "Yoga",
+      "frenchUs": "Yoga",
+      "italian": "Yoga",
+      "dutch": "Yoga",
+      "chinese": "瑜伽姿势",
+      "chineseTraditional": "瑜珈姿勢",
+      "japanese": "ヨガのポーズ",
+      "korean": "요가",
+      "russian": "Йога",
+      "plural": false
+    }
   }
 ]

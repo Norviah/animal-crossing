@@ -330,7 +330,26 @@
     "southernHemisphereDates": "4th Thursday of November",
     "times": "9 AM – Midnight",
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "HHA Themes",
+      "id": 32,
+      "version": "1.6.0",
+      "english": "Turkey Day",
+      "englishEurope": "Turkey Day",
+      "german": "Schlemmfest",
+      "spanish": "Día del Pavo",
+      "spanishUs": "Día del Pavo",
+      "french": "Fête du partage",
+      "frenchUs": "Fête du partage",
+      "italian": "festival delle primizie",
+      "dutch": "smakenfestijnstijl",
+      "chinese": "感恩节",
+      "chineseTraditional": "感恩節",
+      "japanese": "サンクスギビング",
+      "korean": "하베스트",
+      "russian": "День изобилия",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Events",

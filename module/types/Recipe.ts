@@ -19,7 +19,7 @@ export interface Recipe {
     serialId:              number;
     internalId:            number;
     uniqueEntryId:         string;
-    translations:          Translations | null;
+    translations:          Translations;
     materials:             { [key: string]: number };
     materialsTranslations: { [key: string]: Translations | null };
 }
