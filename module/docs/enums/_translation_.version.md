@@ -6,29 +6,21 @@
 
 ### Enumeration members
 
-* [Empty](_translation_.version.md#empty)
 * [The100](_translation_.version.md#the100)
 * [The110](_translation_.version.md#the110)
 * [The120](_translation_.version.md#the120)
 * [The130](_translation_.version.md#the130)
 * [The140](_translation_.version.md#the140)
 * [The150](_translation_.version.md#the150)
+* [The160](_translation_.version.md#the160)
 
 ## Enumeration members
-
-###  Empty
-
-• **Empty**: = ""
-
-*Defined in [Translation.ts:91](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Translation.ts#L91)*
-
-___
 
 ###  The100
 
 • **The100**: = "1.0.0"
 
-*Defined in [Translation.ts:92](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Translation.ts#L92)*
+*Defined in [Translation.ts:91](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Translation.ts#L91)*
 
 ___
 
@@ -36,7 +28,7 @@ ___
 
 • **The110**: = "1.1.0"
 
-*Defined in [Translation.ts:93](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Translation.ts#L93)*
+*Defined in [Translation.ts:92](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Translation.ts#L92)*
 
 ___
 
@@ -44,7 +36,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Translation.ts:94](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Translation.ts#L94)*
+*Defined in [Translation.ts:93](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Translation.ts#L93)*
 
 ___
 
@@ -52,7 +44,7 @@ ___
 
 • **The130**: = "1.3.0"
 
-*Defined in [Translation.ts:95](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Translation.ts#L95)*
+*Defined in [Translation.ts:94](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Translation.ts#L94)*
 
 ___
 
@@ -60,7 +52,7 @@ ___
 
 • **The140**: = "1.4.0"
 
-*Defined in [Translation.ts:96](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Translation.ts#L96)*
+*Defined in [Translation.ts:95](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Translation.ts#L95)*
 
 ___
 
@@ -68,4 +60,12 @@ ___
 
 • **The150**: = "1.5.0"
 
-*Defined in [Translation.ts:97](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Translation.ts#L97)*
+*Defined in [Translation.ts:96](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Translation.ts#L96)*
+
+___
+
+###  The160
+
+• **The160**: = "1.6.0"
+
+*Defined in [Translation.ts:97](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Translation.ts#L97)*

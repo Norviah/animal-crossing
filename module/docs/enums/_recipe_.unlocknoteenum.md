@@ -16,7 +16,7 @@
 
 • **Bcat**: = "BCAT"
 
-*Defined in [Recipe.ts:122](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L122)*
+*Defined in [Recipe.ts:122](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Recipe.ts#L122)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **The110A**: = "1.1.0a"
 
-*Defined in [Recipe.ts:123](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L123)*
+*Defined in [Recipe.ts:123](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Recipe.ts#L123)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **The121C**: = "1.2.1c"
 
-*Defined in [Recipe.ts:124](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L124)*
+*Defined in [Recipe.ts:124](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Recipe.ts#L124)*
