@@ -15,7 +15,7 @@
 
 • **Events**: = "Events"
 
-*Defined in [Event.ts:16](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Event.ts#L16)*
+*Defined in [Event.ts:17](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L17)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **NookShoppingSeasonal**: = "Nook Shopping Seasonal"
 
-*Defined in [Event.ts:17](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Event.ts#L17)*
+*Defined in [Event.ts:18](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L18)*

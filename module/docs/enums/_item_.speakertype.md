@@ -17,7 +17,7 @@
 
 • **Cheap**: = "Cheap"
 
-*Defined in [Item.ts:441](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L441)*
+*Defined in [Item.ts:443](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L443)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **HiFi**: = "Hi-fi"
 
-*Defined in [Item.ts:442](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L442)*
+*Defined in [Item.ts:444](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L444)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Phono**: = "Phono"
 
-*Defined in [Item.ts:443](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L443)*
+*Defined in [Item.ts:445](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L445)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Retro**: = "Retro"
 
-*Defined in [Item.ts:444](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L444)*
+*Defined in [Item.ts:446](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L446)*

@@ -12,6 +12,7 @@
 * [The130](_recipe_.version.md#the130)
 * [The140](_recipe_.version.md#the140)
 * [The150](_recipe_.version.md#the150)
+* [The160](_recipe_.version.md#the160)
 
 ## Enumeration members
 
@@ -19,7 +20,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Recipe.ts:107](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Recipe.ts#L107)*
+*Defined in [Recipe.ts:108](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L108)*
 
 ___
 
@@ -27,7 +28,7 @@ ___
 
 • **The110**: = "1.1.0"
 
-*Defined in [Recipe.ts:108](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Recipe.ts#L108)*
+*Defined in [Recipe.ts:109](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L109)*
 
 ___
 
@@ -35,7 +36,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [Recipe.ts:109](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Recipe.ts#L109)*
+*Defined in [Recipe.ts:110](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L110)*
 
 ___
 
@@ -43,7 +44,7 @@ ___
 
 • **The130**: = "1.3.0"
 
-*Defined in [Recipe.ts:110](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Recipe.ts#L110)*
+*Defined in [Recipe.ts:111](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L111)*
 
 ___
 
@@ -51,7 +52,7 @@ ___
 
 • **The140**: = "1.4.0"
 
-*Defined in [Recipe.ts:111](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Recipe.ts#L111)*
+*Defined in [Recipe.ts:112](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L112)*
 
 ___
 
@@ -59,4 +60,12 @@ ___
 
 • **The150**: = "1.5.0"
 
-*Defined in [Recipe.ts:112](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Recipe.ts#L112)*
+*Defined in [Recipe.ts:113](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L113)*
+
+___
+
+###  The160
+
+• **The160**: = "1.6.0"
+
+*Defined in [Recipe.ts:114](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L114)*
