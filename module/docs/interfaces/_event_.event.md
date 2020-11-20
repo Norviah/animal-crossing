@@ -16,6 +16,7 @@
 * [itemImage](_event_.event.md#optional-itemimage)
 * [itemName](_event_.event.md#optional-itemname)
 * [northernHemisphereDates](_event_.event.md#optional-northernhemispheredates)
+* [price](_event_.event.md#optional-price)
 * [region](_event_.event.md#optional-region)
 * [sourceSheet](_event_.event.md#sourcesheet)
 * [southernHemisphereDates](_event_.event.md#optional-southernhemispheredates)
@@ -29,7 +30,7 @@
 
 • **availability**? : *undefined | string*
 
-*Defined in [Event.ts:9](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L9)*
+*Defined in [Event.ts:9](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L9)*
 
 ___
 
@@ -37,7 +38,7 @@ ___
 
 • **description**? : *string[]*
 
-*Defined in [Event.ts:13](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L13)*
+*Defined in [Event.ts:14](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L14)*
 
 ___
 
@@ -45,7 +46,7 @@ ___
 
 • **event**: *string*
 
-*Defined in [Event.ts:3](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L3)*
+*Defined in [Event.ts:3](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L3)*
 
 ___
 
@@ -53,7 +54,7 @@ ___
 
 • **itemImage**? : *undefined | string*
 
-*Defined in [Event.ts:10](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L10)*
+*Defined in [Event.ts:10](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L10)*
 
 ___
 
@@ -61,7 +62,7 @@ ___
 
 • **itemName**? : *undefined | string*
 
-*Defined in [Event.ts:11](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L11)*
+*Defined in [Event.ts:11](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L11)*
 
 ___
 
@@ -69,7 +70,15 @@ ___
 
 • **northernHemisphereDates**? : *undefined | string*
 
-*Defined in [Event.ts:4](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L4)*
+*Defined in [Event.ts:4](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L4)*
+
+___
+
+### `Optional` price
+
+• **price**? : *undefined | string*
+
+*Defined in [Event.ts:12](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L12)*
 
 ___
 
@@ -77,7 +86,7 @@ ___
 
 • **region**? : *undefined | string*
 
-*Defined in [Event.ts:12](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L12)*
+*Defined in [Event.ts:13](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L13)*
 
 ___
 
@@ -85,7 +94,7 @@ ___
 
 • **sourceSheet**: *[EventSourceSheet](../enums/_event_.eventsourcesheet.md)*
 
-*Defined in [Event.ts:2](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L2)*
+*Defined in [Event.ts:2](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L2)*
 
 ___
 
@@ -93,7 +102,7 @@ ___
 
 • **southernHemisphereDates**? : *undefined | string*
 
-*Defined in [Event.ts:5](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L5)*
+*Defined in [Event.ts:5](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L5)*
 
 ___
 
@@ -101,7 +110,7 @@ ___
 
 • **times**? : *undefined | string*
 
-*Defined in [Event.ts:6](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L6)*
+*Defined in [Event.ts:6](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L6)*
 
 ___
 
@@ -109,7 +118,7 @@ ___
 
 • **translations**: *[Translations](_event_.translations.md) | null*
 
-*Defined in [Event.ts:8](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L8)*
+*Defined in [Event.ts:8](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L8)*
 
 ___
 
@@ -117,4 +126,4 @@ ___
 
 • **versionAdded**: *string*
 
-*Defined in [Event.ts:7](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Event.ts#L7)*
+*Defined in [Event.ts:7](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Event.ts#L7)*

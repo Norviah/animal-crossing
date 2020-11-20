@@ -14,4 +14,4 @@
 
 • **NookMiles**: = "Nook Miles"
 
-*Defined in [Recipe.ts:58](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Recipe.ts#L58)*
+*Defined in [Recipe.ts:58](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Recipe.ts#L58)*

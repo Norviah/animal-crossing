@@ -15,7 +15,7 @@
 
 • **Normal**: = "Normal"
 
-*Defined in [Item.ts:767](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L767)*
+*Defined in [Item.ts:766](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L766)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **Pumpkin**: = "Pumpkin"
 
-*Defined in [Item.ts:768](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L768)*
+*Defined in [Item.ts:767](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L767)*

@@ -16,7 +16,7 @@
 
 • **Rain**: = "rain"
 
-*Defined in [Hemisphere.ts:27](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L27)*
+*Defined in [Hemisphere.ts:27](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L27)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **Snow**: = "snow"
 
-*Defined in [Hemisphere.ts:28](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L28)*
+*Defined in [Hemisphere.ts:28](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L28)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **SnowCover**: = "snow cover"
 
-*Defined in [Hemisphere.ts:29](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L29)*
+*Defined in [Hemisphere.ts:29](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L29)*

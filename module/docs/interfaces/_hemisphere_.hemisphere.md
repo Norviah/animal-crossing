@@ -34,7 +34,7 @@
 
 • **blossoms**: *string*
 
-*Defined in [Hemisphere.ts:11](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L11)*
+*Defined in [Hemisphere.ts:11](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L11)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **days**: *number*
 
-*Defined in [Hemisphere.ts:5](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L5)*
+*Defined in [Hemisphere.ts:5](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L5)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **fog**: *[Fog](../enums/_hemisphere_.fog.md)[] | null*
 
-*Defined in [Hemisphere.ts:13](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L13)*
+*Defined in [Hemisphere.ts:13](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L13)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **from**: *string*
 
-*Defined in [Hemisphere.ts:3](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L3)*
+*Defined in [Hemisphere.ts:3](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L3)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **petalLeafFall**: *null | string*
 
-*Defined in [Hemisphere.ts:12](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L12)*
+*Defined in [Hemisphere.ts:12](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L12)*
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 • **rainSnow**: *[RainSnow](../enums/_hemisphere_.rainsnow.md)*
 
-*Defined in [Hemisphere.ts:9](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L9)*
+*Defined in [Hemisphere.ts:9](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L9)*
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 • **season**: *[Season](../enums/_hemisphere_.season.md)*
 
-*Defined in [Hemisphere.ts:6](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L6)*
+*Defined in [Hemisphere.ts:6](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L6)*
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 • **seasonalCrafting1**: *[SeasonalCrafting1](../enums/_hemisphere_.seasonalcrafting1.md)*
 
-*Defined in [Hemisphere.ts:15](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L15)*
+*Defined in [Hemisphere.ts:15](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L15)*
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 • **seasonalCrafting2**: *[SeasonalCrafting2](../enums/_hemisphere_.seasonalcrafting2.md) | null*
 
-*Defined in [Hemisphere.ts:16](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L16)*
+*Defined in [Hemisphere.ts:16](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L16)*
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 • **seasonalCrafting3**: *null | string*
 
-*Defined in [Hemisphere.ts:17](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L17)*
+*Defined in [Hemisphere.ts:17](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L17)*
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 • **shops**: *[Season](../enums/_hemisphere_.season.md)*
 
-*Defined in [Hemisphere.ts:7](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L7)*
+*Defined in [Hemisphere.ts:7](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L7)*
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 • **skyEffect**: *[SkyEffect](../enums/_hemisphere_.skyeffect.md) | null*
 
-*Defined in [Hemisphere.ts:10](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L10)*
+*Defined in [Hemisphere.ts:10](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L10)*
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 • **sourceSheet**: *[SourceSheet](../enums/_hemisphere_.sourcesheet.md)*
 
-*Defined in [Hemisphere.ts:2](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L2)*
+*Defined in [Hemisphere.ts:2](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L2)*
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 • **specialClouds**: *[SpecialCloud](../enums/_hemisphere_.specialcloud.md)[] | null*
 
-*Defined in [Hemisphere.ts:14](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L14)*
+*Defined in [Hemisphere.ts:14](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L14)*
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 • **to**: *string*
 
-*Defined in [Hemisphere.ts:4](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L4)*
+*Defined in [Hemisphere.ts:4](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L4)*
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 • **translations**: *null*
 
-*Defined in [Hemisphere.ts:18](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L18)*
+*Defined in [Hemisphere.ts:18](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L18)*
 
 ___
 
@@ -162,4 +162,4 @@ ___
 
 • **weeds**: *string*
 
-*Defined in [Hemisphere.ts:8](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Hemisphere.ts#L8)*
+*Defined in [Hemisphere.ts:8](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Hemisphere.ts#L8)*
