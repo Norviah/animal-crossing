@@ -1098,7 +1098,26 @@
         "plural": false
       }
     },
-    "translations": null,
+    "translations": {
+      "sourceSheet": "Accessories",
+      "id": 406,
+      "version": "1.6.0",
+      "english": "Santa beard",
+      "englishEurope": "Santa beard",
+      "german": "Weihnachtsmannbart",
+      "spanish": "barba Papá Noel",
+      "spanishUs": "barba Papá Noel",
+      "french": "barbe de père Noël",
+      "frenchUs": "barbe de père Noël",
+      "italian": "barba da Babbo Natale",
+      "dutch": "kerstmanbaard",
+      "chinese": "圣诞老人胡子",
+      "chineseTraditional": "聖誕老人鬍子",
+      "japanese": "サンタのヒゲ",
+      "korean": "산타 수염",
+      "russian": "борода Санты",
+      "plural": false
+    },
     "colors": [ "White", "White" ],
     "styles": [ "Simple", "Gorgeous" ],
     "themes": [ "fairy tale", "party", "work" ],

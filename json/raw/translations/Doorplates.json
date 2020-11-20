@@ -815,5 +815,43 @@
     "Japanese": "イースターなリース",
     "Korean": "이스터 리스",
     "Russian": "венок на День зайцев"
+  },
+  {
+    "SourceSheet": "Doorplates",
+    "id": "DoorDeco_13357",
+    "Version": "1.6.0",
+    "English": "festive wreath",
+    "English (Europe)": "festive wreath",
+    "German": "Festtagskranz",
+    "Spanish": "corona festiva",
+    "Spanish (US)": "corona festiva",
+    "French": "couronne de sapin",
+    "French (US)": "couronne de sapin",
+    "Italian": "ghirlanda festiva",
+    "Dutch": "feestkrans",
+    "Chinese": "圣诞节花环",
+    "Chinese (Traditional)": "聖誕節花圈",
+    "Japanese": "クリスマスリース",
+    "Korean": "크리스마스 리스",
+    "Russian": "новогодний венок"
+  },
+  {
+    "SourceSheet": "Doorplates",
+    "id": "DoorDeco_13501",
+    "Version": "1.6.0",
+    "English": "New Year's shimekazari",
+    "English (Europe)": "New Year's shimekazari",
+    "German": "Neujahrs-Shimekazari",
+    "Spanish": "shimekazari de Año Nuevo",
+    "Spanish (US)": "shimekazari de Año Nuevo",
+    "French": "shimekazari de nouvel an",
+    "French (US)": "shimekazari de Nouvel An",
+    "Italian": "shimekazari di Capodanno",
+    "Dutch": "nieuwjaars-shimekazari",
+    "Chinese": "注连绳装饰",
+    "Chinese (Traditional)": "注連繩裝飾",
+    "Japanese": "しめかざり",
+    "Korean": "일본 금줄 장식",
+    "Russian": "новогодний симэкадзари"
   }
 ]

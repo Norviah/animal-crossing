@@ -534,7 +534,7 @@
   {
     "SourceSheet": "HHA Themes",
     "id": 30,
-    "Version": "",
+    "Version": "1.4.0",
     "English": "mermaid",
     "English (Europe)": "mermaid",
     "German": "Nixen",
@@ -549,5 +549,24 @@
     "Japanese": "マーメイド",
     "Korean": "머메이드",
     "Russian": "Русалка"
+  },
+  {
+    "SourceSheet": "HHA Themes",
+    "id": 32,
+    "Version": "1.6.0",
+    "English": "Turkey Day",
+    "English (Europe)": "Turkey Day",
+    "German": "Schlemmfest",
+    "Spanish": "Día del Pavo",
+    "Spanish (US)": "Día del Pavo",
+    "French": "Fête du partage",
+    "French (US)": "Fête du partage",
+    "Italian": "festival delle primizie",
+    "Dutch": "smakenfestijnstijl",
+    "Chinese": "感恩节",
+    "Chinese (Traditional)": "感恩節",
+    "Japanese": "サンクスギビング",
+    "Korean": "하베스트",
+    "Russian": "День изобилия"
   }
 ]

@@ -173,6 +173,7 @@
     "availability": "August",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrSpringriderRodeo.png",
     "itemName": "rodeo-style springy ride-on",
+    "price": "2000",
     "region": "Brazil",
     "description": [
       "Many countries have their own cowboy-themed celebrations, but this one is inspired by Brazilian traditions. We hope this springy ride-on toy will help you get into the spirit!"
@@ -205,6 +206,7 @@
     "availability": "August",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceKimonoLWeaverwomen0.png",
     "itemName": "Orihime outfit",
+    "price": "2500",
     "region": "Asia",
     "description": [
       "Based on the star-crossed story of two lovers who were only allowed to meet once per year. Perhaps you'll think of reuniting with someone dear to you when you wear this special outfit."
@@ -237,6 +239,7 @@
     "availability": "August",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceKimonoLWeavermen0.png",
     "itemName": "Hikoboshi outfit",
+    "price": "2500",
     "region": "Asia",
     "description": [
       "Based on the star-crossed story of two lovers who were only allowed to meet once per year. Perhaps you'll think of reuniting with someone dear to you when you wear this special outfit."
@@ -297,6 +300,7 @@
     "availability": "June",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrThankyouMugF.png",
     "itemName": "thank-you Dad mug",
+    "price": "600",
     "region": "Intl.",
     "description": [
       "Father's Day is when we say, \"Thanks for watching out for me, Dad!\" But what should go into a gift mug for fathers? How about all your love, for starters?"
@@ -338,6 +342,7 @@
     "availability": "September",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHarvest0.png",
     "itemName": "grape-harvest basket",
+    "price": "800",
     "region": "Spain, France, Germany, Italy",
     "description": [
       "Inspired by festivities in Spain, Italy, France, and Germany, this fun festival sees participants don traditional garb for dancing and a large parade to celebrate the grape harvest. Please enjoy your ceremonial basket!"
@@ -379,6 +384,7 @@
     "availability": "June",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexTopCoatHChildren0.png",
     "itemName": "handmade cape",
+    "price": "500",
     "region": "Intl.",
     "description": [
       "This event is for celebrating children growing up in good health, while thanking those who raised them. If you've ever been a good kid or raised one, flip your cape in a superhero way!"
@@ -411,6 +417,7 @@
     "availability": "June",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/CapOrnamentCChildren0.png",
     "itemName": "handmade crown",
+    "price": "300",
     "region": "Intl.",
     "description": [
       "This event is for celebrating children growing up in good health, while thanking those who raised them. Those who behold your new crown will be compelled to kneel before your royal...royalness."
@@ -470,6 +477,7 @@
     "availability": "September 7 – October 8",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/RugRoundMoonM00.png",
     "itemName": "moon rug",
+    "price": "2000",
     "region": "Intl.",
     "description": [
       "Admiring the moon is a long-held tradition, but our celestial neighbor is especially beautiful as it hangs in the sky at this time of year. Please accept this commemorative moon rug as an event souvenir."
@@ -502,6 +510,7 @@
     "availability": "May",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrThankyouMugM.png",
     "itemName": "thank-you Mom mug",
+    "price": "600",
     "region": "Intl.",
     "description": [
       "Mother's Day is a day for saying \"thank you\" to that warm, loving person who always watches over you. What should go into a gift mug? How about all your love, for starters?"
@@ -543,12 +552,32 @@
     "availability": "January 1–15",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrOliviersalad.png",
     "itemName": "Olivier salad",
+    "price": "1000",
     "region": "Russia",
     "description": [
       "This salad, a staple of New Year’s celebrations in Russia, came about at the end of the 19th century. It was invented by Lucien Olivier, but since his recipe wasn't publicized, nobody knows the \"official\" way to make it."
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "WorldNewYear",
+      "version": "1.6.0",
+      "english": "New Year's Day",
+      "englishEurope": "New Year's Day",
+      "german": "Neujahr",
+      "spanish": "Año Nuevo",
+      "spanishUs": "Año Nuevo",
+      "french": "Jour de l'an",
+      "frenchUs": "Jour de l'An",
+      "italian": "Capodanno",
+      "dutch": "Nieuwjaarsdag",
+      "chinese": "New Year",
+      "chineseTraditional": "New Year",
+      "japanese": "New Year",
+      "korean": "새해",
+      "russian": "Новый год",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Nook Shopping Seasonal",
@@ -556,12 +585,32 @@
     "availability": "January 1–15",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/Ftr2021Arch.png",
     "itemName": "2021 celebratory arch",
+    "price": "2021",
     "region": "World",
     "description": [
       "An arch bearing the Gregorian calendar's number for the new year. If you pass beneath this arch while carrying your hopes and dreams in your heart, you're certain to have a good year!"
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "WorldNewYear",
+      "version": "1.6.0",
+      "english": "New Year's Day",
+      "englishEurope": "New Year's Day",
+      "german": "Neujahr",
+      "spanish": "Año Nuevo",
+      "spanishUs": "Año Nuevo",
+      "french": "Jour de l'an",
+      "frenchUs": "Jour de l'An",
+      "italian": "Capodanno",
+      "dutch": "Nieuwjaarsdag",
+      "chinese": "New Year",
+      "chineseTraditional": "New Year",
+      "japanese": "New Year",
+      "korean": "새해",
+      "russian": "Новый год",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Nook Shopping Seasonal",
@@ -569,12 +618,32 @@
     "availability": "January 1–15",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrYunnori.png",
     "itemName": "Yut Nori",
+    "price": "1300",
     "region": "Korea",
     "description": [
       "Yut Nori is a traditional Korean board game. Instead of dice, it is played with wooden sticks called \"yuts.\" Play it with family on New Year's, but don't get so into it that you have the first fight of the year!"
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "WorldNewYear",
+      "version": "1.6.0",
+      "english": "New Year's Day",
+      "englishEurope": "New Year's Day",
+      "german": "Neujahr",
+      "spanish": "Año Nuevo",
+      "spanishUs": "Año Nuevo",
+      "french": "Jour de l'an",
+      "frenchUs": "Jour de l'An",
+      "italian": "Capodanno",
+      "dutch": "Nieuwjaarsdag",
+      "chinese": "New Year",
+      "chineseTraditional": "New Year",
+      "japanese": "New Year",
+      "korean": "새해",
+      "russian": "Новый год",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Nook Shopping Seasonal",
@@ -582,12 +651,32 @@
     "availability": "January 1–15",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrEtoOx.png",
     "itemName": "zodiac ox figurine",
+    "price": "1600",
     "region": "Asia",
     "description": [
       "Some folks put out zodiac figurines or statuettes to protect their houses and invite good luck throughout the year. Leave out this decoration for good fortune!"
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "WorldNewYear",
+      "version": "1.6.0",
+      "english": "New Year's Day",
+      "englishEurope": "New Year's Day",
+      "german": "Neujahr",
+      "spanish": "Año Nuevo",
+      "spanishUs": "Año Nuevo",
+      "french": "Jour de l'an",
+      "frenchUs": "Jour de l'An",
+      "italian": "Capodanno",
+      "dutch": "Nieuwjaarsdag",
+      "chinese": "New Year",
+      "chineseTraditional": "New Year",
+      "japanese": "New Year",
+      "korean": "새해",
+      "russian": "Новый год",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Nook Shopping Seasonal",
@@ -595,12 +684,32 @@
     "availability": "December 26–31",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/ToolJuiceFuzzyapple.png",
     "itemName": "sparkling cider",
+    "price": "1000",
     "region": "World",
     "description": [
       "No party to celebrate the new year is complete without everybody raising a glass of sparkling cider together. Reflect on the past year and wish everyone a good year to come… Cheers!"
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "NewYearsEveWorld",
+      "version": "1.6.0",
+      "english": "New Year's Eve",
+      "englishEurope": "New Year's Eve",
+      "german": "Neujahrsabend",
+      "spanish": "Fin de año",
+      "spanishUs": "Fin de año",
+      "french": "Réveillon du nouvel an",
+      "frenchUs": "Réveillon du Nouvel An",
+      "italian": "Ultimo dell'anno",
+      "dutch": "Oudejaarsavond",
+      "chinese": "New Year's Eve",
+      "chineseTraditional": "New Year's Eve",
+      "japanese": "New Year's Eve",
+      "korean": "새해 전야",
+      "russian": "Канун Нового года",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Events",
@@ -617,12 +726,32 @@
     "availability": "December 26–31",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/Ftr12Grapes.png",
     "itemName": "twelve-grape dish",
+    "price": "1200",
     "region": "Spain",
     "description": [
       "You eat las doce uvas de la suerte (\"the 12 grapes of luck\") at midnight on New Year's Eve for good fortune. As the bell tolls 12, you eat one grape for each ring. That's not a lot of time to eat 12 grapes!"
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "NewYearsEveSpain",
+      "version": "1.6.0",
+      "english": "Nochevieja",
+      "englishEurope": "Nochevieja",
+      "german": "Nochevieja",
+      "spanish": "Nochevieja",
+      "spanishUs": "Nochevieja",
+      "french": "Nochevieja",
+      "frenchUs": "Nochevieja",
+      "italian": "Nochevieja",
+      "dutch": "Nochevieja",
+      "chinese": "New Year's Eve",
+      "chineseTraditional": "New Year's Eve",
+      "japanese": "New Year's Eve",
+      "korean": "노체 비에하",
+      "russian": "Ночевьеха",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Nook Shopping Seasonal",
@@ -630,12 +759,32 @@
     "availability": "January 1–15",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrKadomatsu.png",
     "itemName": "kadomatsu",
+    "price": "2580",
     "region": "Japan",
     "description": [
       "Japanese tradition has it that Toshigami-sama, a god of the new year, visits each house on the first of the year to bless it. The kadomatsu is like a signpost to welcome him in."
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "RegionNewYear3",
+      "version": "1.6.0",
+      "english": "Shōgatsu",
+      "englishEurope": "Shōgatsu",
+      "german": "Shōgatsu",
+      "spanish": "Shōgatsu",
+      "spanishUs": "Shōgatsu",
+      "french": "Shōgatsu",
+      "frenchUs": "Shōgatsu",
+      "italian": "Shōgatsu",
+      "dutch": "Shōgatsu",
+      "chinese": "新年",
+      "chineseTraditional": "新年",
+      "japanese": "しょうがつ正月",
+      "korean": "새해",
+      "russian": "Сёгацу",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Nook Shopping Seasonal",
@@ -643,12 +792,32 @@
     "availability": "January 1–15",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrKagamimochi.png",
     "itemName": "kagamimochi",
+    "price": "1800",
     "region": "Japan",
     "description": [
       "In Japan, kagami-mochi (“mirror mochi\") is set out as an offering to Toshigami-sama. On January 11th, you break the mochi apart and eat it, sharing out the spirit contained within for good health."
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "RegionNewYear3",
+      "version": "1.6.0",
+      "english": "Shōgatsu",
+      "englishEurope": "Shōgatsu",
+      "german": "Shōgatsu",
+      "spanish": "Shōgatsu",
+      "spanishUs": "Shōgatsu",
+      "french": "Shōgatsu",
+      "frenchUs": "Shōgatsu",
+      "italian": "Shōgatsu",
+      "dutch": "Shōgatsu",
+      "chinese": "新年",
+      "chineseTraditional": "新年",
+      "japanese": "しょうがつ正月",
+      "korean": "새해",
+      "russian": "Сёгацу",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Nook Shopping Seasonal",
@@ -656,12 +825,32 @@
     "availability": "January 1–15",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrDoorOrnamentWreathShimenawa.png",
     "itemName": "New Year's shimekazari",
+    "price": "2000",
     "region": "Japan",
     "description": [
       "Shime-kazari are Japanese rope decorations said to purify the home. They welcome Toshigami-sama in and keep impurities out. Place one on your door to protect yourself from misfortune!"
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "RegionNewYear3",
+      "version": "1.6.0",
+      "english": "Shōgatsu",
+      "englishEurope": "Shōgatsu",
+      "german": "Shōgatsu",
+      "spanish": "Shōgatsu",
+      "spanishUs": "Shōgatsu",
+      "french": "Shōgatsu",
+      "frenchUs": "Shōgatsu",
+      "italian": "Shōgatsu",
+      "dutch": "Shōgatsu",
+      "chinese": "新年",
+      "chineseTraditional": "新年",
+      "japanese": "しょうがつ正月",
+      "korean": "새해",
+      "russian": "Сёгацу",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Nook Shopping Seasonal",
@@ -669,12 +858,32 @@
     "availability": "December 26–31",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrBerliner.png",
     "itemName": "berliner",
+    "price": "1200",
     "region": "Germany",
     "description": [
       "A Berliner Pfannkuchen is a type of German pastry filled with jam and topped with sugar—not unlike a jelly donut. They're available year-round, but are a traditional treat in Germany for New Year's celebrations."
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "NewYearsEveGermany",
+      "version": "1.6.0",
+      "english": "Silvester",
+      "englishEurope": "Silvester",
+      "german": "Silvester",
+      "spanish": "Silvester",
+      "spanishUs": "Silvester",
+      "french": "Silvester",
+      "frenchUs": "Silvester",
+      "italian": "Silvester",
+      "dutch": "Silvester",
+      "chinese": "New Year's Eve",
+      "chineseTraditional": "New Year's Eve",
+      "japanese": "New Year's Eve",
+      "korean": "질베스터",
+      "russian": "Сильвестр",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Events",
@@ -738,6 +947,7 @@
     "availability": "NH: June 7 – July 6\nSH: December",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/CapHatSummer0.png",
     "itemName": "sunflower crown",
+    "price": "1560",
     "region": "North Hem.\nSouth Hem.",
     "description": [
       "The summer solstice is the day with the most daylight all year. Wear this sunflower crown under the never-setting sun and maybe your crush will notice you!"
@@ -749,18 +959,18 @@
       "version": "1.2.0",
       "english": "Summer Solstice",
       "englishEurope": "Summer Solstice",
-      "german": "Sommersonnenwende",
+      "german": "Mittsommer",
       "spanish": "Solsticio de verano",
       "spanishUs": "Solsticio de verano",
       "french": "Solstice d'été",
       "frenchUs": "Solstice d'été",
       "italian": "Solstizio d'estate",
       "dutch": "Midzomer",
-      "chinese": "夏至祭典",
-      "chineseTraditional": "夏至祭典",
+      "chinese": "夏至",
+      "chineseTraditional": "夏至",
       "japanese": "げしさい夏至祭",
-      "korean": "하지 축제",
-      "russian": "Праздник лета",
+      "korean": "하지",
+      "russian": "Летнее солнцестояние",
       "plural": false
     }
   },
@@ -770,6 +980,7 @@
     "availability": "NH: June 7 – July 6\nSH: December",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/RugOtherSunflowerM00.png",
     "itemName": "sunflower rug",
+    "price": "1500",
     "region": "North Hem.\nSouth Hem.",
     "description": [
       "The summer solstice is the day with the most daylight all year. But every day is sure to feel sunny and bright with this sunflower-motif rug around!"
@@ -781,18 +992,18 @@
       "version": "1.2.0",
       "english": "Summer Solstice",
       "englishEurope": "Summer Solstice",
-      "german": "Sommersonnenwende",
+      "german": "Mittsommer",
       "spanish": "Solsticio de verano",
       "spanishUs": "Solsticio de verano",
       "french": "Solstice d'été",
       "frenchUs": "Solstice d'été",
       "italian": "Solstizio d'estate",
       "dutch": "Midzomer",
-      "chinese": "夏至祭典",
-      "chineseTraditional": "夏至祭典",
+      "chinese": "夏至",
+      "chineseTraditional": "夏至",
       "japanese": "げしさい夏至祭",
-      "korean": "하지 축제",
-      "russian": "Праздник лета",
+      "korean": "하지",
+      "russian": "Летнее солнцестояние",
       "plural": false
     }
   },
@@ -802,6 +1013,7 @@
     "availability": "July",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrTanabata.png",
     "itemName": "bamboo grass",
+    "price": "3080",
     "region": "Japan",
     "description": [
       "Celebrated on July 7th, this is the one day that the deities Orihime and Hikoboshi—represented by the stars Vega and Altair—can meet. Write a wish on tanzaku paper, hang it from bamboo, and wish on the stars!"
@@ -825,7 +1037,26 @@
     "southernHemisphereDates": "4th Thursday of November",
     "times": "9 AM – Midnight",
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "HHA Themes",
+      "id": 32,
+      "version": "1.6.0",
+      "english": "Turkey Day",
+      "englishEurope": "Turkey Day",
+      "german": "Schlemmfest",
+      "spanish": "Día del Pavo",
+      "spanishUs": "Día del Pavo",
+      "french": "Fête du partage",
+      "frenchUs": "Fête du partage",
+      "italian": "festival delle primizie",
+      "dutch": "smakenfestijnstijl",
+      "chinese": "感恩节",
+      "chineseTraditional": "感恩節",
+      "japanese": "サンクスギビング",
+      "korean": "하베스트",
+      "russian": "День изобилия",
+      "plural": false
+    }
   },
   {
     "sourceSheet": "Events",
@@ -870,6 +1101,7 @@
     "availability": "NH: December\nSH: June 7 – July 6",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexTopOuterLWintersolstice0.png",
     "itemName": "midwinter sweater",
+    "price": "1200",
     "region": "North Hem.\nSouth Hem.",
     "description": [
       "The winter solstice is the day with the least daylight all year. Put on this sweater to send chilly Old Man Winter running!"
@@ -881,18 +1113,18 @@
       "version": "1.2.0",
       "english": "Winter Solstice",
       "englishEurope": "Winter Solstice",
-      "german": "Wintersonnenwende",
+      "german": "Mittwinter",
       "spanish": "Solsticio de invierno",
       "spanishUs": "Solsticio de invierno",
       "french": "Solstice d'hiver",
       "frenchUs": "Solstice d'hiver",
       "italian": "Solstizio d'inverno",
       "dutch": "Midwinter",
-      "chinese": "冬至祭典",
-      "chineseTraditional": "冬至祭典",
+      "chinese": "冬至",
+      "chineseTraditional": "冬至",
       "japanese": "とうじさい冬至祭",
-      "korean": "동지 축제",
-      "russian": "Праздник зимы",
+      "korean": "동지",
+      "russian": "Зимнее солнцестояние",
       "plural": false
     }
   },
@@ -902,6 +1134,7 @@
     "availability": "NH: December\nSH: June 7 – July 6",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallAurora00.png",
     "itemName": "aurora wall",
+    "price": "7000",
     "region": "North Hem.\nSouth Hem.",
     "description": [
       "The winter solstice is the day with the least daylight all year. This wallpaper depicts that mystical shining light of clear winter skies, the aurora borealis. It's so magical that you'll forget how cold it is outside!"
@@ -913,18 +1146,18 @@
       "version": "1.2.0",
       "english": "Winter Solstice",
       "englishEurope": "Winter Solstice",
-      "german": "Wintersonnenwende",
+      "german": "Mittwinter",
       "spanish": "Solsticio de invierno",
       "spanishUs": "Solsticio de invierno",
       "french": "Solstice d'hiver",
       "frenchUs": "Solstice d'hiver",
       "italian": "Solstizio d'inverno",
       "dutch": "Midwinter",
-      "chinese": "冬至祭典",
-      "chineseTraditional": "冬至祭典",
+      "chinese": "冬至",
+      "chineseTraditional": "冬至",
       "japanese": "とうじさい冬至祭",
-      "korean": "동지 축제",
-      "russian": "Праздник зимы",
+      "korean": "동지",
+      "russian": "Зимнее солнцестояние",
       "plural": false
     }
   },
@@ -934,11 +1167,31 @@
     "availability": "December 26–31",
     "itemImage": "https://acnhcdn.com/latest/FtrIcon/FtrSobaNewyears.png",
     "itemName": "New Year's noodles",
+    "price": "1300",
     "region": "Japan",
     "description": [
       "In Japan, many celebrate the new year with toshikoshi-soba (“year-passing soba\") for good luck. The noodles' length is a symbol of long life, and the ease of cutting them represents cutting away misfortunes."
     ],
     "versionAdded": "1.6.0",
-    "translations": null
+    "translations": {
+      "sourceSheet": "Events",
+      "id": "Oomisoka",
+      "version": "1.6.0",
+      "english": "Ōmisoka",
+      "englishEurope": "Ōmisoka",
+      "german": "Ōmisoka",
+      "spanish": "Ōmisoka",
+      "spanishUs": "Ōmisoka",
+      "french": "Ōmisoka",
+      "frenchUs": "Ōmisoka",
+      "italian": "Ōmisoka",
+      "dutch": "Ōmisoka",
+      "chinese": "跨年夜",
+      "chineseTraditional": "跨年夜",
+      "japanese": "おおみそか大晦日",
+      "korean": "오미소카",
+      "russian": "Омисока",
+      "plural": false
+    }
   }
 ]

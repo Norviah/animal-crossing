@@ -7,7 +7,7 @@ export interface Reaction {
     versionAdded:  Version;
     iconFilename:  string;
     uniqueEntryId: string;
-    translations:  Translations | null;
+    translations:  Translations;
 }
 
 export enum SourceNote {

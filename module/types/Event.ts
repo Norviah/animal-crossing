@@ -9,6 +9,7 @@ export interface Event {
     availability?:            string;
     itemImage?:               string;
     itemName?:                string;
+    price?:                   string;
     region?:                  string;
     description?:             string[];
 }
@@ -49,4 +50,5 @@ export enum Version {
     The110 = "1.1.0",
     The120 = "1.2.0",
     The140 = "1.4.0",
+    The160 = "1.6.0",
 }

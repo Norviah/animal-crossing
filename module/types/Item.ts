@@ -76,7 +76,7 @@ export interface Item {
     stackSize?:            number | null;
     inventoryFilename?:    null | string;
     storageFilename?:      null | string;
-    seriesTranslations?:   SeriesTranslations | null;
+    seriesTranslations?:   SeriesTranslations;
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
@@ -365,7 +365,6 @@ export enum SeriesTranslationsSourceSheet {
 }
 
 export enum Version {
-    Empty = "",
     The100 = "1.0.0",
     The110 = "1.1.0",
     The120 = "1.2.0",
