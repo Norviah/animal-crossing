@@ -7,7 +7,8 @@ export interface Event {
     versionAdded:             string;
     translations:             Translations | null;
     availability?:            string;
-    nookShoppingItems?:       string;
+    itemImage?:               string;
+    itemName?:                string;
     region?:                  string;
     description?:             string[];
 }

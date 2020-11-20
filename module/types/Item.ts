@@ -1,60 +1,60 @@
 export interface Item {
     sourceSheet:           Category;
     name:                  string;
-    diy?:                  boolean;
-    size?:                 Size;
-    sourceNotes?:          string[] | null;
-    versionAdded?:         Version;
-    catalog?:              Catalog | null;
-    buy:                   number;
-    sell?:                 number | null;
-    translations:          SeriesTranslations | null;
-    source?:               string[];
-    themesTranslations?:   ThemesTranslations;
-    hhaBasePoints?:        number | null;
-    villagerEquippable?:   boolean;
-    seasonalAvailability?: Seasonallity;
-    type?:                 string;
-    unlocked?:             boolean;
-    variations?:           VariationElement[];
-    styles?:               Style[];
-    themes?:               Theme[];
-    recipe:                Recipe | null;
-    closetImage?:          string;
-    storageImage?:         null | string;
-    variation?:            null;
-    exchangePrice?:        number | null;
-    exchangeCurrency?:     ExchangeCurrency | null;
-    seasonality?:          Seasonallity;
-    gender?:               Gender;
-    villagerGender?:       Gender | null;
-    mannequinPiece?:       boolean;
-    sortOrder?:            number;
-    unlockNotes?:          Array<Date | UnlockNoteEnum> | null;
-    filename?:             string;
-    clothGroupId?:         number;
-    internalId?:           number;
-    uniqueEntryId?:        string;
-    colors?:               Color[];
     image?:                string;
+    variation?:            null;
     bodyTitle?:            null | string;
     pattern?:              null;
     patternTitle?:         null;
-    bodyCustomize?:        boolean;
+    diy?:                  boolean;
+    bodyCustomize?:        boolean | null;
     patternCustomize?:     boolean;
     kitCost?:              number | null;
     kitType?:              null;
+    buy:                   number | null;
+    sell?:                 number | null;
+    size?:                 Size;
     surface?:              boolean;
+    exchangePrice?:        number | null;
+    exchangeCurrency?:     ExchangeCurrency | null;
+    source?:               string[] | null;
+    sourceNotes?:          string[] | null;
+    hhaBasePoints?:        number | null;
     hhaCategory?:          HhaCategory | null;
     interact?:             boolean | InteractEnum;
     tag?:                  null | string;
     outdoor?:              boolean;
     speakerType?:          SpeakerType | null;
     lightingType?:         LightingType | null;
+    catalog?:              Catalog | null;
+    versionAdded?:         Version;
+    unlocked?:             boolean;
+    unlockNotes?:          Array<Date | UnlockNoteEnum> | null;
+    filename?:             string;
     variantId?:            VariantID | null;
+    internalId?:           number;
+    uniqueEntryId?:        string;
+    translations:          SeriesTranslations | null;
+    colors?:               Color[];
     concepts?:             Concept[];
     set?:                  null | string;
     series?:               null | string;
+    recipe:                Recipe | null;
+    themesTranslations?:   ThemesTranslations;
+    villagerEquippable?:   boolean;
+    seasonalAvailability?: Seasonallity;
+    type?:                 string;
+    variations?:           VariationElement[];
+    styles?:               Style[];
+    themes?:               Theme[];
+    closetImage?:          string;
+    storageImage?:         null | string;
+    seasonality?:          Seasonallity;
+    gender?:               Gender;
+    villagerGender?:       Gender | null;
+    mannequinPiece?:       boolean;
+    sortOrder?:            number;
+    clothGroupId?:         number;
     backColor?:            null | string;
     bodyColor?:            string;
     headColor?:            string;
@@ -69,14 +69,14 @@ export interface Item {
     nhEndDate?:            null | string;
     shStartDate?:          null | string;
     shEndDate?:            null | string;
-    customize?:            boolean;
+    customize?:            boolean | null;
     framedImage?:          null | string;
     albumImage?:           null | string;
     inventoryImage?:       null | string;
-    stackSize?:            number;
+    stackSize?:            number | null;
     inventoryFilename?:    null | string;
     storageFilename?:      null | string;
-    seriesTranslations?:   SeriesTranslations;
+    seriesTranslations?:   SeriesTranslations | null;
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
@@ -89,7 +89,7 @@ export interface Item {
     curtainType?:          CurtainType | null;
     curtainColor?:         null | string;
     ceilingType?:          CeilingType;
-    uses?:                 number;
+    uses?:                 number | null;
     fossilGroup?:          string;
     description?:          string[];
     museum?:               Museum;
@@ -298,6 +298,7 @@ export enum CardColorEnum {
     LightGray = "light gray",
     Orange = "orange",
     Pink = "pink",
+    Purple = "purple",
     Red = "red",
     Silver = "silver",
     White = "white",
@@ -371,6 +372,7 @@ export enum Version {
     The130 = "1.3.0",
     The140 = "1.4.0",
     The150 = "1.5.0",
+    The160 = "1.6.0",
 }
 
 export enum RecipeSourceSheet {
@@ -412,7 +414,7 @@ export enum Size {
     Size3X2 = "3x2",
     Size3X3 = "3x3 ",
     Size4X3 = "4x3 ",
-    Size4X4 = "4x4",
+    Size4X4 = "4x4 ",
     The05X1 = "0.5x1 ",
     The15X15 = "1.5x1.5",
     The1X05 = "1x0.5",
@@ -427,7 +429,7 @@ export enum Size {
     The3X2 = "3x2 ",
     The3X3 = "3x3",
     The4X3 = "4x3",
-    The4X4 = "4x4 ",
+    The4X4 = "4x4",
     The5X5 = "5x5 ",
 }
 
