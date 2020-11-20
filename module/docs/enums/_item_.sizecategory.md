@@ -16,7 +16,7 @@
 
 • **Large**: = "Large"
 
-*Defined in [Item.ts:435](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L435)*
+*Defined in [Item.ts:437](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L437)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **Medium**: = "Medium"
 
-*Defined in [Item.ts:436](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L436)*
+*Defined in [Item.ts:438](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L438)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **Small**: = "Small"
 
-*Defined in [Item.ts:437](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L437)*
+*Defined in [Item.ts:439](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L439)*

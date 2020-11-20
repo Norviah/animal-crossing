@@ -18,7 +18,7 @@
 
 • **Candle**: = "Candle"
 
-*Defined in [Item.ts:232](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L232)*
+*Defined in [Item.ts:232](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L232)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **Emission**: = "Emission"
 
-*Defined in [Item.ts:233](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L233)*
+*Defined in [Item.ts:233](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L233)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **Fluorescent**: = "Fluorescent"
 
-*Defined in [Item.ts:234](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L234)*
+*Defined in [Item.ts:234](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L234)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **Monitor**: = "Monitor"
 
-*Defined in [Item.ts:235](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L235)*
+*Defined in [Item.ts:235](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L235)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **Spotlight**: = "Spotlight"
 
-*Defined in [Item.ts:236](https://github.com/Norviah/animal-crossing/blob/7daadc1/module/types/Item.ts#L236)*
+*Defined in [Item.ts:236](https://github.com/Norviah/animal-crossing/blob/e2f78c4/module/types/Item.ts#L236)*
