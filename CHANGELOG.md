@@ -1,4 +1,16 @@
 
+## [6.12.0](https://github.com/Norviah/animal-crossing/compare/v6.11.0...v6.12.0) (2020-11-20)
+
+
+### Build System
+
+* ensure scripts finish successfully before running another script ([8c7d5d0](https://github.com/Norviah/animal-crossing/commit/8c7d5d0e6000d3af5cd92e7920e7a72b7bb99573))
+
+
+### Additions
+
+* implement translations for new items ([e7f6b4e](https://github.com/Norviah/animal-crossing/commit/e7f6b4ebed5b94a04ff4b3b833f2bc5c305a186b))
+
 ## [6.11.0](https://github.com/Norviah/animal-crossing/compare/v6.10.0...v6.11.0) (2020-11-20)
 
 
