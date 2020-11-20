@@ -142,5 +142,21 @@
     "Southern Hemisphere Dates": "October 31\nEvent activities start 30 days prior (Oct 1)",
     "Times": "5 PM – Midnight",
     "Version Added": "1.5.0"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Turkey Day",
+    "Northern Hemisphere Dates": "4th Thursday of November",
+    "Southern Hemisphere Dates": "4th Thursday of November",
+    "Times": "9 AM – Midnight",
+    "Version Added": "1.6.0"
+  },
+  {
+    "SourceSheet": "Events",
+    "Event": "Toy Day",
+    "Northern Hemisphere Dates": "December 24\nEvent activities start 23 days prior (Dec 1)",
+    "Southern Hemisphere Dates": "December 24\nEvent activities start 23 days prior (Dec 1)",
+    "Times": "All day",
+    "Version Added": "1.6.0"
   }
 ]
