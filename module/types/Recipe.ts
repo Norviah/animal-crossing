@@ -14,7 +14,7 @@ export interface Recipe {
     recipesToUnlock:       number;
     category:              Category;
     craftedItemInternalId: number;
-    cardColor:             CardColorEnum | number | null;
+    cardColor:             CardColor | null;
     diyIconFilename:       string;
     serialId:              number;
     internalId:            number;
@@ -24,11 +24,12 @@ export interface Recipe {
     materialsTranslations: { [key: string]: Translations | null };
 }
 
-export enum CardColorEnum {
+export enum CardColor {
     Beige = "beige",
     Blue = "blue",
     Brick = "brick",
     Brown = "brown",
+    Cream = "cream",
     DarkGray = "dark gray",
     Gold = "gold",
     Green = "green",
@@ -122,4 +123,5 @@ export enum UnlockNoteEnum {
     Bcat = "BCAT",
     The110A = "1.1.0a",
     The121C = "1.2.1c",
+    The160A = "1.6.0a",
 }
