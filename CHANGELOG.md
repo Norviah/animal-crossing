@@ -1,4 +1,11 @@
 
+## [6.13.0](https://github.com/Norviah/animal-crossing/compare/v6.12.0...v6.13.0) (2020-11-25)
+
+
+### Additions
+
+* implement additions/changes from the turkey day update ([5291937](https://github.com/Norviah/animal-crossing/commit/52919376585bd0e08d1148ff03a25cc412b679de))
+
 ## [6.12.0](https://github.com/Norviah/animal-crossing/compare/v6.11.0...v6.12.0) (2020-11-20)
 
 
