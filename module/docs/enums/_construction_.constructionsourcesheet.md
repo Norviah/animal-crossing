@@ -14,4 +14,4 @@
 
 • **Construction**: = "Construction"
 
-*Defined in [Construction.ts:32](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Construction.ts#L32)*
+*Defined in [Construction.ts:32](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Construction.ts#L32)*

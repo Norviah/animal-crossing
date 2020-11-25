@@ -6,7 +6,7 @@
 
 ### Enumerations
 
-* [CardColorEnum](../enums/_item_.cardcolorenum.md)
+* [CardColor](../enums/_item_.cardcolor.md)
 * [Catalog](../enums/_item_.catalog.md)
 * [Category](../enums/_item_.category.md)
 * [CeilingType](../enums/_item_.ceilingtype.md)

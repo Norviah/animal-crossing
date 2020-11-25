@@ -9,6 +9,7 @@
 * [Bcat](_recipe_.unlocknoteenum.md#bcat)
 * [The110A](_recipe_.unlocknoteenum.md#the110a)
 * [The121C](_recipe_.unlocknoteenum.md#the121c)
+* [The160A](_recipe_.unlocknoteenum.md#the160a)
 
 ## Enumeration members
 
@@ -16,7 +17,7 @@
 
 • **Bcat**: = "BCAT"
 
-*Defined in [Recipe.ts:122](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Recipe.ts#L122)*
+*Defined in [Recipe.ts:123](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L123)*
 
 ___
 
@@ -24,7 +25,7 @@ ___
 
 • **The110A**: = "1.1.0a"
 
-*Defined in [Recipe.ts:123](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Recipe.ts#L123)*
+*Defined in [Recipe.ts:124](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L124)*
 
 ___
 
@@ -32,4 +33,12 @@ ___
 
 • **The121C**: = "1.2.1c"
 
-*Defined in [Recipe.ts:124](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Recipe.ts#L124)*
+*Defined in [Recipe.ts:125](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L125)*
+
+___
+
+###  The160A
+
+• **The160A**: = "1.6.0a"
+
+*Defined in [Recipe.ts:126](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L126)*
