@@ -46,7 +46,7 @@
 
 • **Accessories**: = "Accessories"
 
-*Defined in [Item.ts:332](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L332)*
+*Defined in [Item.ts:333](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L333)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **Art**: = "Art"
 
-*Defined in [Item.ts:333](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L333)*
+*Defined in [Item.ts:334](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L334)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **Bags**: = "Bags"
 
-*Defined in [Item.ts:334](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L334)*
+*Defined in [Item.ts:335](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L335)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **Bottoms**: = "Bottoms"
 
-*Defined in [Item.ts:335](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L335)*
+*Defined in [Item.ts:336](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L336)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **BugsModels**: = "Bugs Models"
 
-*Defined in [Item.ts:336](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L336)*
+*Defined in [Item.ts:337](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L337)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 • **Caps**: = "Caps"
 
-*Defined in [Item.ts:337](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L337)*
+*Defined in [Item.ts:338](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L338)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 • **Craft**: = "Craft"
 
-*Defined in [Item.ts:338](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L338)*
+*Defined in [Item.ts:339](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L339)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 • **Doorplates**: = "Doorplates"
 
-*Defined in [Item.ts:339](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L339)*
+*Defined in [Item.ts:340](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L340)*
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 • **Dresses**: = "Dresses"
 
-*Defined in [Item.ts:340](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L340)*
+*Defined in [Item.ts:341](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L341)*
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 • **Etc**: = "ETC"
 
-*Defined in [Item.ts:341](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L341)*
+*Defined in [Item.ts:342](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L342)*
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 • **EventItems**: = "Event Items"
 
-*Defined in [Item.ts:342](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L342)*
+*Defined in [Item.ts:343](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L343)*
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 • **Fence**: = "Fence"
 
-*Defined in [Item.ts:343](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L343)*
+*Defined in [Item.ts:344](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L344)*
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 • **FishModels**: = "Fish Models"
 
-*Defined in [Item.ts:344](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L344)*
+*Defined in [Item.ts:345](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L345)*
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 • **Floors**: = "Floors"
 
-*Defined in [Item.ts:345](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L345)*
+*Defined in [Item.ts:346](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L346)*
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 • **Fossils**: = "Fossils"
 
-*Defined in [Item.ts:346](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L346)*
+*Defined in [Item.ts:347](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L347)*
 
 ___
 
@@ -166,7 +166,7 @@ ___
 
 • **Furniture**: = "Furniture"
 
-*Defined in [Item.ts:347](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L347)*
+*Defined in [Item.ts:348](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L348)*
 
 ___
 
@@ -174,7 +174,7 @@ ___
 
 • **FurniturePatterns**: = "Furniture Patterns"
 
-*Defined in [Item.ts:348](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L348)*
+*Defined in [Item.ts:349](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L349)*
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 • **FurnitureVariants**: = "Furniture Variants"
 
-*Defined in [Item.ts:349](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L349)*
+*Defined in [Item.ts:350](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L350)*
 
 ___
 
@@ -190,7 +190,7 @@ ___
 
 • **HHAThemes**: = "HHA Themes"
 
-*Defined in [Item.ts:350](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L350)*
+*Defined in [Item.ts:351](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L351)*
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 • **KKAlbums**: = "K.K. Albums"
 
-*Defined in [Item.ts:351](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L351)*
+*Defined in [Item.ts:352](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L352)*
 
 ___
 
@@ -206,7 +206,7 @@ ___
 
 • **MarineSuit**: = "Marine Suit"
 
-*Defined in [Item.ts:352](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L352)*
+*Defined in [Item.ts:353](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L353)*
 
 ___
 
@@ -214,7 +214,7 @@ ___
 
 • **Masks**: = "Masks"
 
-*Defined in [Item.ts:353](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L353)*
+*Defined in [Item.ts:354](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L354)*
 
 ___
 
@@ -222,7 +222,7 @@ ___
 
 • **Pictures**: = "Pictures"
 
-*Defined in [Item.ts:354](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L354)*
+*Defined in [Item.ts:355](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L355)*
 
 ___
 
@@ -230,7 +230,7 @@ ___
 
 • **Plants**: = "Plants"
 
-*Defined in [Item.ts:355](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L355)*
+*Defined in [Item.ts:356](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L356)*
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 • **Posters**: = "Posters"
 
-*Defined in [Item.ts:356](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L356)*
+*Defined in [Item.ts:357](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L357)*
 
 ___
 
@@ -246,7 +246,7 @@ ___
 
 • **Rugs**: = "Rugs"
 
-*Defined in [Item.ts:357](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L357)*
+*Defined in [Item.ts:358](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L358)*
 
 ___
 
@@ -254,7 +254,7 @@ ___
 
 • **Shells**: = "Shells"
 
-*Defined in [Item.ts:358](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L358)*
+*Defined in [Item.ts:359](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L359)*
 
 ___
 
@@ -262,7 +262,7 @@ ___
 
 • **Shoes**: = "Shoes"
 
-*Defined in [Item.ts:359](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L359)*
+*Defined in [Item.ts:360](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L360)*
 
 ___
 
@@ -270,7 +270,7 @@ ___
 
 • **Socks**: = "Socks"
 
-*Defined in [Item.ts:360](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L360)*
+*Defined in [Item.ts:361](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L361)*
 
 ___
 
@@ -278,7 +278,7 @@ ___
 
 • **Tools**: = "Tools"
 
-*Defined in [Item.ts:361](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L361)*
+*Defined in [Item.ts:362](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L362)*
 
 ___
 
@@ -286,7 +286,7 @@ ___
 
 • **Tops**: = "Tops"
 
-*Defined in [Item.ts:362](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L362)*
+*Defined in [Item.ts:363](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L363)*
 
 ___
 
@@ -294,7 +294,7 @@ ___
 
 • **Umbrella**: = "Umbrella"
 
-*Defined in [Item.ts:363](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L363)*
+*Defined in [Item.ts:364](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L364)*
 
 ___
 
@@ -302,4 +302,4 @@ ___
 
 • **Walls**: = "Walls"
 
-*Defined in [Item.ts:364](https://github.com/Norviah/animal-crossing/blob/26c21f5/module/types/Item.ts#L364)*
+*Defined in [Item.ts:365](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L365)*
