@@ -7,11 +7,11 @@ export interface Item {
     pattern?:              null;
     patternTitle?:         null;
     diy?:                  boolean;
-    bodyCustomize?:        boolean | null;
+    bodyCustomize?:        boolean;
     patternCustomize?:     boolean;
     kitCost?:              number | null;
     kitType?:              null;
-    buy:                   number | null;
+    buy:                   number;
     sell?:                 number | null;
     size?:                 Size;
     surface?:              boolean;
@@ -69,12 +69,12 @@ export interface Item {
     nhEndDate?:            null | string;
     shStartDate?:          null | string;
     shEndDate?:            null | string;
-    customize?:            boolean | null;
+    customize?:            boolean;
     framedImage?:          null | string;
     albumImage?:           null | string;
-    inventoryImage?:       null | string;
-    stackSize?:            number | null;
-    inventoryFilename?:    null | string;
+    inventoryImage?:       string;
+    stackSize?:            number;
+    inventoryFilename?:    string;
     storageFilename?:      null | string;
     seriesTranslations?:   SeriesTranslations;
     sizeCategory?:         SizeCategory;
@@ -89,7 +89,7 @@ export interface Item {
     curtainType?:          CurtainType | null;
     curtainColor?:         null | string;
     ceilingType?:          CeilingType;
-    uses?:                 number | null;
+    uses?:                 number;
     fossilGroup?:          string;
     description?:          string[];
     museum?:               Museum;
@@ -278,7 +278,7 @@ export interface Recipe {
     recipesToUnlock:       number;
     category:              Category;
     craftedItemInternalId: number;
-    cardColor:             CardColorEnum | number | null;
+    cardColor:             CardColor | null;
     diyIconFilename:       string;
     serialId:              number;
     internalId:            number;
@@ -287,11 +287,12 @@ export interface Recipe {
     materialsTranslations: { [key: string]: SeriesTranslations | null };
 }
 
-export enum CardColorEnum {
+export enum CardColor {
     Beige = "beige",
     Blue = "blue",
     Brick = "brick",
     Brown = "brown",
+    Cream = "cream",
     DarkGray = "dark gray",
     Gold = "gold",
     Green = "green",
@@ -385,6 +386,7 @@ export enum UnlockNoteEnum {
     The120A = "1.2.0a",
     The120B = "1.2.0b",
     The121C = "1.2.1c",
+    The160A = "1.6.0a",
 }
 
 export enum Seasonallity {
@@ -741,6 +743,7 @@ export interface VariationElement {
     villagerGender?:      Gender | null;
     mannequinPiece?:      boolean | null;
     sortOrder?:           number;
+    unlockNotes?:         Array<Date | UnlockNoteEnum> | null;
     filename:             string;
     clothGroupId?:        number;
     internalId:           number;
@@ -751,7 +754,6 @@ export interface VariationElement {
     pattern?:             null | string;
     patternTitle?:        null | string;
     variantId?:           VariantID;
-    unlockNotes?:         Array<Date | UnlockNoteEnum> | null;
     kitType?:             KitType | null;
     surface?:             boolean;
     hhaCategory?:         HhaCategory | null;
