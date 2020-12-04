@@ -4,6 +4,7 @@ export interface Reaction {
     image:         string;
     source:        string[];
     sourceNotes:   SourceNote[] | null;
+    seasonEvent:   null | string;
     versionAdded:  Version;
     iconFilename:  string;
     uniqueEntryId: string;

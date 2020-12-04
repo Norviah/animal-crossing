@@ -19,6 +19,7 @@ export interface Item {
     exchangeCurrency?:     ExchangeCurrency | null;
     source?:               string[] | null;
     sourceNotes?:          string[] | null;
+    seasonEvent?:          null | string;
     hhaBasePoints?:        number | null;
     hhaCategory?:          HhaCategory | null;
     interact?:             boolean | InteractEnum;
@@ -42,14 +43,14 @@ export interface Item {
     recipe:                Recipe | null;
     themesTranslations?:   ThemesTranslations;
     villagerEquippable?:   boolean;
-    seasonalAvailability?: Seasonallity;
+    seasonalAvailability?: SeasonalAvailability;
     type?:                 string;
     variations?:           VariationElement[];
     styles?:               Style[];
     themes?:               Theme[];
     closetImage?:          string;
     storageImage?:         null | string;
-    seasonality?:          Seasonallity;
+    seasonality?:          SeasonalAvailability;
     gender?:               Gender;
     villagerGender?:       Gender | null;
     mannequinPiece?:       boolean;
@@ -80,6 +81,7 @@ export interface Item {
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
+    mannequinSeason?:      SeasonalAvailability | null;
     vfx?:                  boolean;
     doorDeco?:             boolean;
     vfxType?:              VfxType | null;
@@ -236,6 +238,16 @@ export enum LightingType {
     Spotlight = "Spotlight",
 }
 
+export enum SeasonalAvailability {
+    AllYear = "All Year",
+    Autumn = "Autumn",
+    Fall = "Fall",
+    Spring = "Spring",
+    Summer = "Summer",
+    SummerWinter = "Summer; Winter",
+    Winter = "Winter",
+}
+
 export enum Museum {
     Room1 = "Room 1",
     Room2 = "Room 2",
@@ -272,6 +284,7 @@ export interface Recipe {
     exchangeCurrency:      ExchangeCurrency | null;
     source:                string[];
     sourceNotes:           string[] | null;
+    seasonEvent:           null | string;
     versionAdded:          Version;
     unlocked:              boolean;
     unlockNotes:           Array<Date | UnlockNoteEnum> | null;
@@ -387,15 +400,7 @@ export enum UnlockNoteEnum {
     The120B = "1.2.0b",
     The121C = "1.2.1c",
     The160A = "1.6.0a",
-}
-
-export enum Seasonallity {
-    AllYear = "All Year",
-    Autumn = "Autumn",
-    Fall = "Fall",
-    Spring = "Spring",
-    Summer = "Summer",
-    Winter = "Winter",
+    The160B = "1.6.0b",
 }
 
 export enum SecondaryShape {
@@ -738,7 +743,8 @@ export interface VariationElement {
     variation:            number | null | string;
     exchangePrice?:       number | null;
     exchangeCurrency?:    ExchangeCurrency | null;
-    seasonality?:         Seasonallity;
+    seasonEvent:          SeasonEvent | null;
+    seasonality?:         SeasonalAvailability;
     gender?:              Gender;
     villagerGender?:      Gender | null;
     mannequinPiece?:      boolean | null;
@@ -754,6 +760,7 @@ export interface VariationElement {
     pattern?:             null | string;
     patternTitle?:        null | string;
     variantId?:           VariantID;
+    mannequinSeason?:     SeasonalAvailability | null;
     kitType?:             KitType | null;
     surface?:             boolean;
     hhaCategory?:         HhaCategory | null;
@@ -767,6 +774,31 @@ export interface VariationElement {
 export enum KitType {
     Normal = "Normal",
     Pumpkin = "Pumpkin",
+}
+
+export enum SeasonEvent {
+    AcornsAndPineCones = "acorns and pine cones",
+    Birthday = "Birthday",
+    BugOff = "Bug-Off",
+    CherryBlossomPetals = "cherry-blossom petals",
+    Countdown = "Countdown",
+    FallShopping = "Fall shopping",
+    FishingTourney = "Fishing Tourney",
+    Halloween = "Halloween",
+    HalloweenReadyDays = "Halloween (ready days)",
+    HalloweenReadyDaysHalloween = "Halloween (ready days); Halloween",
+    MapleLeaves = "maple leaves",
+    Mushrooms = "mushrooms",
+    Ornaments = "ornaments",
+    Snowflakes = "snowflakes",
+    SpringShopping = "Spring shopping",
+    SummerShopping = "Summer shopping",
+    ToyDay = "Toy Day",
+    ToyDayDayAfter = "Toy Day (day after)",
+    ToyDayReadyDaysPhase1ToyDayReadyDaysPhase2 = "Toy Day (ready days phase 1); Toy Day (ready days phase 2)",
+    TurkeyDayTurkeyDayShoppingDays = "Turkey Day; Turkey Day (shopping days)",
+    WeddingSeason = "Wedding Season",
+    WinterShopping = "Winter shopping",
 }
 
 export interface VariantTranslations {
