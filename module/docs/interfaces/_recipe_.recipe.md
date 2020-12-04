@@ -23,6 +23,7 @@
 * [materialsTranslations](_recipe_.recipe.md#materialstranslations)
 * [name](_recipe_.recipe.md#name)
 * [recipesToUnlock](_recipe_.recipe.md#recipestounlock)
+* [seasonEvent](_recipe_.recipe.md#seasonevent)
 * [sell](_recipe_.recipe.md#sell)
 * [serialId](_recipe_.recipe.md#serialid)
 * [source](_recipe_.recipe.md#source)
@@ -40,7 +41,7 @@
 
 • **buy**: *number*
 
-*Defined in [Recipe.ts:5](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L5)*
+*Defined in [Recipe.ts:5](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L5)*
 
 ___
 
@@ -48,7 +49,7 @@ ___
 
 • **cardColor**: *[CardColor](../enums/_recipe_.cardcolor.md) | null*
 
-*Defined in [Recipe.ts:17](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L17)*
+*Defined in [Recipe.ts:18](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L18)*
 
 ___
 
@@ -56,7 +57,7 @@ ___
 
 • **category**: *[Category](../enums/_recipe_.category.md)*
 
-*Defined in [Recipe.ts:15](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L15)*
+*Defined in [Recipe.ts:16](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L16)*
 
 ___
 
@@ -64,7 +65,7 @@ ___
 
 • **craftedItemInternalId**: *number*
 
-*Defined in [Recipe.ts:16](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L16)*
+*Defined in [Recipe.ts:17](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L17)*
 
 ___
 
@@ -72,7 +73,7 @@ ___
 
 • **diyIconFilename**: *string*
 
-*Defined in [Recipe.ts:18](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L18)*
+*Defined in [Recipe.ts:19](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L19)*
 
 ___
 
@@ -80,7 +81,7 @@ ___
 
 • **exchangeCurrency**: *[ExchangeCurrency](../enums/_recipe_.exchangecurrency.md) | null*
 
-*Defined in [Recipe.ts:8](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L8)*
+*Defined in [Recipe.ts:8](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L8)*
 
 ___
 
@@ -88,7 +89,7 @@ ___
 
 • **exchangePrice**: *number | null*
 
-*Defined in [Recipe.ts:7](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L7)*
+*Defined in [Recipe.ts:7](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L7)*
 
 ___
 
@@ -96,7 +97,7 @@ ___
 
 • **image**: *string*
 
-*Defined in [Recipe.ts:4](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L4)*
+*Defined in [Recipe.ts:4](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L4)*
 
 ___
 
@@ -104,7 +105,7 @@ ___
 
 • **internalId**: *number*
 
-*Defined in [Recipe.ts:20](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L20)*
+*Defined in [Recipe.ts:21](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L21)*
 
 ___
 
@@ -112,7 +113,7 @@ ___
 
 • **materials**: *object*
 
-*Defined in [Recipe.ts:23](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L23)*
+*Defined in [Recipe.ts:24](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L24)*
 
 #### Type declaration:
 
@@ -124,7 +125,7 @@ ___
 
 • **materialsTranslations**: *object*
 
-*Defined in [Recipe.ts:24](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L24)*
+*Defined in [Recipe.ts:25](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L25)*
 
 #### Type declaration:
 
@@ -136,7 +137,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [Recipe.ts:3](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L3)*
+*Defined in [Recipe.ts:3](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L3)*
 
 ___
 
@@ -144,7 +145,15 @@ ___
 
 • **recipesToUnlock**: *number*
 
-*Defined in [Recipe.ts:14](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L14)*
+*Defined in [Recipe.ts:15](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L15)*
+
+___
+
+###  seasonEvent
+
+• **seasonEvent**: *null | string*
+
+*Defined in [Recipe.ts:11](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L11)*
 
 ___
 
@@ -152,7 +161,7 @@ ___
 
 • **sell**: *number | null*
 
-*Defined in [Recipe.ts:6](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L6)*
+*Defined in [Recipe.ts:6](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L6)*
 
 ___
 
@@ -160,7 +169,7 @@ ___
 
 • **serialId**: *number*
 
-*Defined in [Recipe.ts:19](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L19)*
+*Defined in [Recipe.ts:20](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L20)*
 
 ___
 
@@ -168,7 +177,7 @@ ___
 
 • **source**: *string[]*
 
-*Defined in [Recipe.ts:9](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L9)*
+*Defined in [Recipe.ts:9](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L9)*
 
 ___
 
@@ -176,7 +185,7 @@ ___
 
 • **sourceNotes**: *string[] | null*
 
-*Defined in [Recipe.ts:10](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L10)*
+*Defined in [Recipe.ts:10](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L10)*
 
 ___
 
@@ -184,7 +193,7 @@ ___
 
 • **sourceSheet**: *[RecipeSourceSheet](../enums/_recipe_.recipesourcesheet.md)*
 
-*Defined in [Recipe.ts:2](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L2)*
+*Defined in [Recipe.ts:2](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L2)*
 
 ___
 
@@ -192,7 +201,7 @@ ___
 
 • **translations**: *[Translations](_recipe_.translations.md)*
 
-*Defined in [Recipe.ts:22](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L22)*
+*Defined in [Recipe.ts:23](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L23)*
 
 ___
 
@@ -200,7 +209,7 @@ ___
 
 • **uniqueEntryId**: *string*
 
-*Defined in [Recipe.ts:21](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L21)*
+*Defined in [Recipe.ts:22](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L22)*
 
 ___
 
@@ -208,7 +217,7 @@ ___
 
 • **unlockNotes**: *Array‹Date | [UnlockNoteEnum](../enums/_recipe_.unlocknoteenum.md)› | null*
 
-*Defined in [Recipe.ts:13](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L13)*
+*Defined in [Recipe.ts:14](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L14)*
 
 ___
 
@@ -216,7 +225,7 @@ ___
 
 • **unlocked**: *boolean*
 
-*Defined in [Recipe.ts:12](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L12)*
+*Defined in [Recipe.ts:13](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L13)*
 
 ___
 
@@ -224,4 +233,4 @@ ___
 
 • **versionAdded**: *[Version](../enums/_recipe_.version.md)*
 
-*Defined in [Recipe.ts:11](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Recipe.ts#L11)*
+*Defined in [Recipe.ts:12](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Recipe.ts#L12)*

@@ -13,6 +13,7 @@
 * [The120B](_item_.unlocknoteenum.md#the120b)
 * [The121C](_item_.unlocknoteenum.md#the121c)
 * [The160A](_item_.unlocknoteenum.md#the160a)
+* [The160B](_item_.unlocknoteenum.md#the160b)
 
 ## Enumeration members
 
@@ -20,7 +21,7 @@
 
 • **Bcat**: = "BCAT"
 
-*Defined in [Item.ts:383](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L383)*
+*Defined in [Item.ts:396](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L396)*
 
 ___
 
@@ -28,7 +29,7 @@ ___
 
 • **NTP**: = "NTP"
 
-*Defined in [Item.ts:384](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L384)*
+*Defined in [Item.ts:397](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L397)*
 
 ___
 
@@ -36,7 +37,7 @@ ___
 
 • **The110A**: = "1.1.0a"
 
-*Defined in [Item.ts:385](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L385)*
+*Defined in [Item.ts:398](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L398)*
 
 ___
 
@@ -44,7 +45,7 @@ ___
 
 • **The120A**: = "1.2.0a"
 
-*Defined in [Item.ts:386](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L386)*
+*Defined in [Item.ts:399](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L399)*
 
 ___
 
@@ -52,7 +53,7 @@ ___
 
 • **The120B**: = "1.2.0b"
 
-*Defined in [Item.ts:387](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L387)*
+*Defined in [Item.ts:400](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L400)*
 
 ___
 
@@ -60,7 +61,7 @@ ___
 
 • **The121C**: = "1.2.1c"
 
-*Defined in [Item.ts:388](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L388)*
+*Defined in [Item.ts:401](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L401)*
 
 ___
 
@@ -68,4 +69,12 @@ ___
 
 • **The160A**: = "1.6.0a"
 
-*Defined in [Item.ts:389](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Item.ts#L389)*
+*Defined in [Item.ts:402](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L402)*
+
+___
+
+###  The160B
+
+• **The160B**: = "1.6.0b"
+
+*Defined in [Item.ts:403](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L403)*
