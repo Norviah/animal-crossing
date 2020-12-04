@@ -12,4 +12,4 @@ location="./module/types"
 ./node_modules/quicktype/dist/cli/index.js "$data/Translations.json"              --just-types -t Translation      -o "$location/Translation.ts"
 ./node_modules/quicktype/dist/cli/index.js "$data/Villagers.json"                 --just-types -t Villager         -o "$location/Villager.ts"
 ./node_modules/quicktype/dist/cli/index.js "$data/NPCs.json"                      --just-types -t NPC              -o "$location/NPC.ts"
-./node_modules/quicktype/dist/cli/index.js "$data/SeasonsAndEvents.json"          --just-types -t SeasonsAndEvents -o "$location/SeasonsAndEvents.ts" --no-date-timesg
+./node_modules/quicktype/dist/cli/index.js "$data/SeasonsAndEvents.json"          --just-types -t SeasonsAndEvents -o "$location/SeasonsAndEvents.ts" --no-date-times
