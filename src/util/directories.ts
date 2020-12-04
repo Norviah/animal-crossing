@@ -22,11 +22,6 @@ const raw: string = join(rawRoot, 'data');
 const translations: string = join(rawRoot, 'translations');
 
 /**
- * The sub-directory that holds the seasons spreadsheet.
- */
-const seasons: string = join(rawRoot, 'seasons');
-
-/**
  * the sub-directory that holds sanitized data.
  */
 const sanitized: string = join(root, 'data');
@@ -39,4 +34,4 @@ const combined: string = join(root, 'combined');
 /**
  * Represents the directories that are used throughout this project.
  */
-export const directories = { root, raw, translations, seasons, sanitized, combined };
+export const directories = { root, raw, translations, sanitized, combined };

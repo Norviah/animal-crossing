@@ -18,10 +18,4 @@ export const spreadsheets: Spreadsheet[] = [
     exclude: ['READ ME', 'Changelog'],
     data: directories.translations,
   },
-
-  {
-    id: '1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI',
-    exclude: ['About'],
-    data: directories.seasons,
-  },
 ];

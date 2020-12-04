@@ -101,11 +101,16 @@ const separateValues: string[] = [
   'catchPhrase',
   'unlockNotes',
   'sourceNotes',
+  'internalLabel',
+  'northernHemisphereDates',
+  'southernHemisphereDates',
+  '2020Dates',
+  '2021Dates',
 ];
 
 // Contains the absolute paths of the files that we'll sanitize, which are the
 // JSON files from the Animal Crossing and Seasons spreadsheet.
-const files: string[] = flatten([readdir(directories.raw), readdir(directories.seasons)]);
+const files: string[] = flatten([readdir(directories.raw)]);
 
 for (const file of files) {
   const items: obj[] = get(file);
