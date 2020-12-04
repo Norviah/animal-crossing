@@ -1,4 +1,27 @@
 
+## [7.0.0](https://github.com/Norviah/animal-crossing/compare/v6.13.0...v7.0.0) (2020-12-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove the seasons spreadsheet in favor of the 'Seasons and Events' tab from the AC spreadsheet
+
+### Features
+
+* generate types for 'seasons and events' ([f22c64d](https://github.com/Norviah/animal-crossing/commit/f22c64d2dd4e5e8ab517e96e489bb03bb14c212f))
+* generate types for 'seasons and events' ([6d5cc14](https://github.com/Norviah/animal-crossing/commit/6d5cc142146ec36393db1a98a0515cf458bf778c))
+* implement a new exported property for the 'Seasons and Events' tab ([a06a85c](https://github.com/Norviah/animal-crossing/commit/a06a85c32ac0e6355bdd9c03a76200751cf06198))
+
+
+### Removals
+
+* remove the seasons spreadsheet in favor of the 'Seasons and Events' tab from the AC spreadsheet ([9170d50](https://github.com/Norviah/animal-crossing/commit/9170d502c950845ddb1853567f2b2f979e9ca01e))
+
+
+### Additions
+
+* implement additions/changes from the december update ([aa33ca0](https://github.com/Norviah/animal-crossing/commit/aa33ca0d3bff6f713b4890993d3a4452c384173e))
+
 ## [6.13.0](https://github.com/Norviah/animal-crossing/compare/v6.12.0...v6.13.0) (2020-11-25)
 
 
