@@ -24,12 +24,12 @@ The following items are available from this module:
   - `achievements`
   - `construction`
   - `creatures`
-  - `events`
   - `items`
   - `northenHemisphere`
   - `southernHemisphere`
   - `reactions`
   - `recipes`
+  - `seasonsAndEvents`
   - `translations`
   - `villagers`
   - `npcs`
@@ -43,6 +43,7 @@ Along with types, for those using TypeScript:
   - `IHemisphere`
   - `IReaction`
   - `IRecipe`
+  - `ISeasonsAndEvents`
   - `ITranslation`
   - `IVillager`
   - `INPC`
@@ -75,9 +76,8 @@ console.log(freya.catchphrases.spanish); // and her catchphrase translated as we
 ### Credit/Thanks
 
 The spreadsheets that were converted and is available through this module are:
-  - the [Animal Crossing: New Horizons](https://docs.google.com/spreadsheets/d/1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM/edit#gid=1397507627) spreadsheet, specifically the editor's copy,
-  - the [Translations](https://tinyurl.com/acnh-translations) spreadsheet, and
-  - the [Seasons](https://tinyurl.com/acnh-calendar) spreadsheet.
+  - the [Animal Crossing: New Horizons](https://docs.google.com/spreadsheets/d/1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM/edit#gid=1397507627) spreadsheet, specifically the editor's copy, and
+  - the [Translations](https://tinyurl.com/acnh-translations) spreadsheet.
 
 If you use any JSON file and/or this module for a project, please credit and link these spreadsheets somewhere in your project.
 

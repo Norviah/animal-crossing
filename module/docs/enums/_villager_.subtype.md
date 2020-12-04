@@ -15,7 +15,7 @@
 
 • **A**: = "A"
 
-*Defined in [Villager.ts:115](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Villager.ts#L115)*
+*Defined in [Villager.ts:115](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Villager.ts#L115)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **B**: = "B"
 
-*Defined in [Villager.ts:116](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Villager.ts#L116)*
+*Defined in [Villager.ts:116](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Villager.ts#L116)*

@@ -15,7 +15,7 @@
 
 • **OnlyObtainableOnHalloween**: = "Only obtainable on Halloween"
 
-*Defined in [Reaction.ts:14](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Reaction.ts#L14)*
+*Defined in [Reaction.ts:15](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Reaction.ts#L15)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **RequiresAHighLevelOfFriendship**: = "Requires a high level of friendship"
 
-*Defined in [Reaction.ts:15](https://github.com/Norviah/animal-crossing/blob/0da76a6/module/types/Reaction.ts#L15)*
+*Defined in [Reaction.ts:16](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Reaction.ts#L16)*
