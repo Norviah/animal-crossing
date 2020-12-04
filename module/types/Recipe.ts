@@ -8,6 +8,7 @@ export interface Recipe {
     exchangeCurrency:      ExchangeCurrency | null;
     source:                string[];
     sourceNotes:           string[] | null;
+    seasonEvent:           null | string;
     versionAdded:          Version;
     unlocked:              boolean;
     unlockNotes:           Array<Date | UnlockNoteEnum> | null;
