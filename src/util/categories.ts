@@ -36,8 +36,6 @@ export const categories = {
   Construction: ['Construction'],
   Reactions: ['Reactions'],
   Translations: ['Translations'],
-  Events: ['Events', 'Nook Shopping Seasonal'],
-  SouthernHemisphere: ['Southern Hemisphere'],
-  NorthernHemisphere: ['Northern Hemisphere'],
+  SeasonsAndEvents: ['Seasons and Events'],
   NPCs: ['Special NPCs'],
 };
