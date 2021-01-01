@@ -1,4 +1,16 @@
 
+## [7.1.0](https://github.com/Norviah/animal-crossing/compare/v7.0.0...v7.1.0) (2021-01-01)
+
+
+### Bug Fixes
+
+* ignore message cards when setting recipes for items ([7dc871b](https://github.com/Norviah/animal-crossing/commit/7dc871b7528d028bca4e41d34049b2005b5a34cb))
+
+
+### Additions
+
+* implement additions/changes from the new year update ([4c72bc9](https://github.com/Norviah/animal-crossing/commit/4c72bc9555c22a079ae880c89dca702c3557ae04))
+
 ## [7.0.0](https://github.com/Norviah/animal-crossing/compare/v6.13.0...v7.0.0) (2020-12-04)
 
 
