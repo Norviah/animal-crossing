@@ -9,9 +9,9 @@ export interface Recipe {
     source:                string[];
     sourceNotes:           string[] | null;
     seasonEvent:           null | string;
+    seasonEventExclusive:  boolean | null;
     versionAdded:          Version;
     unlocked:              boolean;
-    unlockNotes:           Array<Date | UnlockNoteEnum> | null;
     recipesToUnlock:       number;
     category:              Category;
     craftedItemInternalId: number;
@@ -118,11 +118,4 @@ export enum Version {
 
 export enum RecipeSourceSheet {
     Recipes = "Recipes",
-}
-
-export enum UnlockNoteEnum {
-    Bcat = "BCAT",
-    The110A = "1.1.0a",
-    The121C = "1.2.1c",
-    The160A = "1.6.0a",
 }

@@ -19,6 +19,8 @@ export interface SeasonsAndEvents {
 export enum Availability {
     EveryYear = "Every year",
     SpecificYears = "Specific years",
+    SpecificYearsNHOnly = "Specific years (NH only)",
+    SpecificYearsSHOnly = "Specific years (SH only)",
 }
 
 export enum SeasonsAndEventSourceSheet {
