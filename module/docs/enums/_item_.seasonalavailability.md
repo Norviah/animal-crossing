@@ -11,7 +11,6 @@
 * [Fall](_item_.seasonalavailability.md#fall)
 * [Spring](_item_.seasonalavailability.md#spring)
 * [Summer](_item_.seasonalavailability.md#summer)
-* [SummerWinter](_item_.seasonalavailability.md#summerwinter)
 * [Winter](_item_.seasonalavailability.md#winter)
 
 ## Enumeration members
@@ -20,7 +19,7 @@
 
 • **AllYear**: = "All Year"
 
-*Defined in [Item.ts:242](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L242)*
+*Defined in [Item.ts:241](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L241)*
 
 ___
 
@@ -28,7 +27,7 @@ ___
 
 • **Autumn**: = "Autumn"
 
-*Defined in [Item.ts:243](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L243)*
+*Defined in [Item.ts:242](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L242)*
 
 ___
 
@@ -36,7 +35,7 @@ ___
 
 • **Fall**: = "Fall"
 
-*Defined in [Item.ts:244](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L244)*
+*Defined in [Item.ts:243](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L243)*
 
 ___
 
@@ -44,7 +43,7 @@ ___
 
 • **Spring**: = "Spring"
 
-*Defined in [Item.ts:245](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L245)*
+*Defined in [Item.ts:244](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L244)*
 
 ___
 
@@ -52,15 +51,7 @@ ___
 
 • **Summer**: = "Summer"
 
-*Defined in [Item.ts:246](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L246)*
-
-___
-
-###  SummerWinter
-
-• **SummerWinter**: = "Summer; Winter"
-
-*Defined in [Item.ts:247](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L247)*
+*Defined in [Item.ts:245](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L245)*
 
 ___
 
@@ -68,4 +59,4 @@ ___
 
 • **Winter**: = "Winter"
 
-*Defined in [Item.ts:248](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L248)*
+*Defined in [Item.ts:246](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L246)*
