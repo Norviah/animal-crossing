@@ -8,6 +8,8 @@
 
 * [EveryYear](_seasonsandevents_.availability.md#everyyear)
 * [SpecificYears](_seasonsandevents_.availability.md#specificyears)
+* [SpecificYearsNHOnly](_seasonsandevents_.availability.md#specificyearsnhonly)
+* [SpecificYearsSHOnly](_seasonsandevents_.availability.md#specificyearsshonly)
 
 ## Enumeration members
 
@@ -15,7 +17,7 @@
 
 • **EveryYear**: = "Every year"
 
-Defined in SeasonsAndEvents.ts:20
+*Defined in [SeasonsAndEvents.ts:20](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/SeasonsAndEvents.ts#L20)*
 
 ___
 
@@ -23,4 +25,20 @@ ___
 
 • **SpecificYears**: = "Specific years"
 
-Defined in SeasonsAndEvents.ts:21
+*Defined in [SeasonsAndEvents.ts:21](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/SeasonsAndEvents.ts#L21)*
+
+___
+
+###  SpecificYearsNHOnly
+
+• **SpecificYearsNHOnly**: = "Specific years (NH only)"
+
+*Defined in [SeasonsAndEvents.ts:22](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/SeasonsAndEvents.ts#L22)*
+
+___
+
+###  SpecificYearsSHOnly
+
+• **SpecificYearsSHOnly**: = "Specific years (SH only)"
+
+*Defined in [SeasonsAndEvents.ts:23](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/SeasonsAndEvents.ts#L23)*

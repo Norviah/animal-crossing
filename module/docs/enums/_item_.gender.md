@@ -16,7 +16,7 @@
 
 • **Free**: = "Free"
 
-*Defined in [Item.ts:205](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L205)*
+*Defined in [Item.ts:204](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L204)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **Manly**: = "Manly"
 
-*Defined in [Item.ts:206](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L206)*
+*Defined in [Item.ts:205](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L205)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **Womanly**: = "Womanly"
 
-*Defined in [Item.ts:207](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L207)*
+*Defined in [Item.ts:206](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L206)*

@@ -11,7 +11,6 @@
 * [ExchangeCurrency](../enums/_recipe_.exchangecurrency.md)
 * [RecipeSourceSheet](../enums/_recipe_.recipesourcesheet.md)
 * [TranslationsSourceSheet](../enums/_recipe_.translationssourcesheet.md)
-* [UnlockNoteEnum](../enums/_recipe_.unlocknoteenum.md)
 * [Version](../enums/_recipe_.version.md)
 
 ### Interfaces

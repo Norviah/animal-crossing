@@ -24,7 +24,7 @@
 
 • **Confortevole**: = "confortevole"
 
-*Defined in [Item.ts:599](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L599)*
+*Defined in [Item.ts:586](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L586)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • **DaAriaAperta**: = "da aria aperta"
 
-*Defined in [Item.ts:600](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L600)*
+*Defined in [Item.ts:587](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L587)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **DaFesta**: = "da festa"
 
-*Defined in [Item.ts:601](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L601)*
+*Defined in [Item.ts:588](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L588)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **DaFiaba**: = "da fiaba"
 
-*Defined in [Item.ts:602](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L602)*
+*Defined in [Item.ts:589](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L589)*
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 • **DaLavoro**: = "da lavoro"
 
-*Defined in [Item.ts:603](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L603)*
+*Defined in [Item.ts:590](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L590)*
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 • **DaSport**: = "da sport"
 
-*Defined in [Item.ts:604](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L604)*
+*Defined in [Item.ts:591](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L591)*
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 • **DaTeatro**: = "da teatro"
 
-*Defined in [Item.ts:605](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L605)*
+*Defined in [Item.ts:592](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L592)*
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 • **DaVacanza**: = "da vacanza"
 
-*Defined in [Item.ts:606](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L606)*
+*Defined in [Item.ts:593](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L593)*
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 • **Formale**: = "formale"
 
-*Defined in [Item.ts:607](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L607)*
+*Defined in [Item.ts:594](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L594)*
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 • **Horror**: = "horror"
 
-*Defined in [Item.ts:608](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L608)*
+*Defined in [Item.ts:595](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L595)*
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 • **PerTuttiIGiorni**: = "per tutti i giorni"
 
-*Defined in [Item.ts:609](https://github.com/Norviah/animal-crossing/blob/f22c64d/module/types/Item.ts#L609)*
+*Defined in [Item.ts:596](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L596)*
