@@ -17,9 +17,10 @@ export interface Item {
     surface?:              boolean;
     exchangePrice?:        number | null;
     exchangeCurrency?:     ExchangeCurrency | null;
-    source?:               string[] | null;
+    source?:               string[];
     sourceNotes?:          string[] | null;
     seasonEvent?:          null | string;
+    seasonEventExclusive?: boolean | null | string;
     hhaBasePoints?:        number | null;
     hhaCategory?:          HhaCategory | null;
     interact?:             boolean | InteractEnum;
@@ -30,7 +31,6 @@ export interface Item {
     catalog?:              Catalog | null;
     versionAdded?:         Version;
     unlocked?:             boolean;
-    unlockNotes?:          Array<Date | UnlockNoteEnum> | null;
     filename?:             string;
     variantId?:            VariantID | null;
     internalId?:           number;
@@ -51,9 +51,9 @@ export interface Item {
     closetImage?:          string;
     storageImage?:         null | string;
     seasonality?:          SeasonalAvailability;
+    mannequinSeason?:      SeasonalAvailability | null;
     gender?:               Gender;
     villagerGender?:       Gender | null;
-    mannequinPiece?:       boolean;
     sortOrder?:            number;
     clothGroupId?:         number;
     backColor?:            null | string;
@@ -81,7 +81,6 @@ export interface Item {
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
-    mannequinSeason?:      SeasonalAvailability | null;
     vfx?:                  boolean;
     doorDeco?:             boolean;
     vfxType?:              VfxType | null;
@@ -244,7 +243,6 @@ export enum SeasonalAvailability {
     Fall = "Fall",
     Spring = "Spring",
     Summer = "Summer",
-    SummerWinter = "Summer; Winter",
     Winter = "Winter",
 }
 
@@ -285,9 +283,9 @@ export interface Recipe {
     source:                string[];
     sourceNotes:           string[] | null;
     seasonEvent:           null | string;
+    seasonEventExclusive:  boolean | null;
     versionAdded:          Version;
     unlocked:              boolean;
-    unlockNotes:           Array<Date | UnlockNoteEnum> | null;
     recipesToUnlock:       number;
     category:              Category;
     craftedItemInternalId: number;
@@ -390,17 +388,6 @@ export enum Version {
 
 export enum RecipeSourceSheet {
     Recipes = "Recipes",
-}
-
-export enum UnlockNoteEnum {
-    Bcat = "BCAT",
-    NTP = "NTP",
-    The110A = "1.1.0a",
-    The120A = "1.2.0a",
-    The120B = "1.2.0b",
-    The121C = "1.2.1c",
-    The160A = "1.6.0a",
-    The160B = "1.6.0b",
 }
 
 export enum SecondaryShape {
@@ -743,13 +730,13 @@ export interface VariationElement {
     variation:            number | null | string;
     exchangePrice?:       number | null;
     exchangeCurrency?:    ExchangeCurrency | null;
-    seasonEvent:          SeasonEvent | null;
+    seasonEvent:          null | string;
+    seasonEventExclusive: boolean | null | string;
     seasonality?:         SeasonalAvailability;
+    mannequinSeason?:     SeasonalAvailability | null;
     gender?:              Gender;
     villagerGender?:      Gender | null;
-    mannequinPiece?:      boolean | null;
     sortOrder?:           number;
-    unlockNotes?:         Array<Date | UnlockNoteEnum> | null;
     filename:             string;
     clothGroupId?:        number;
     internalId:           number;
@@ -760,7 +747,6 @@ export interface VariationElement {
     pattern?:             null | string;
     patternTitle?:        null | string;
     variantId?:           VariantID;
-    mannequinSeason?:     SeasonalAvailability | null;
     kitType?:             KitType | null;
     surface?:             boolean;
     hhaCategory?:         HhaCategory | null;
@@ -774,31 +760,6 @@ export interface VariationElement {
 export enum KitType {
     Normal = "Normal",
     Pumpkin = "Pumpkin",
-}
-
-export enum SeasonEvent {
-    AcornsAndPineCones = "acorns and pine cones",
-    Birthday = "Birthday",
-    BugOff = "Bug-Off",
-    CherryBlossomPetals = "cherry-blossom petals",
-    Countdown = "Countdown",
-    FallShopping = "Fall shopping",
-    FishingTourney = "Fishing Tourney",
-    Halloween = "Halloween",
-    HalloweenReadyDays = "Halloween (ready days)",
-    HalloweenReadyDaysHalloween = "Halloween (ready days); Halloween",
-    MapleLeaves = "maple leaves",
-    Mushrooms = "mushrooms",
-    Ornaments = "ornaments",
-    Snowflakes = "snowflakes",
-    SpringShopping = "Spring shopping",
-    SummerShopping = "Summer shopping",
-    ToyDay = "Toy Day",
-    ToyDayDayAfter = "Toy Day (day after)",
-    ToyDayReadyDaysPhase1ToyDayReadyDaysPhase2 = "Toy Day (ready days phase 1); Toy Day (ready days phase 2)",
-    TurkeyDayTurkeyDayShoppingDays = "Turkey Day; Turkey Day (shopping days)",
-    WeddingSeason = "Wedding Season",
-    WinterShopping = "Winter shopping",
 }
 
 export interface VariantTranslations {

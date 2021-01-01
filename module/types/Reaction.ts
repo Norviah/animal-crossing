@@ -1,19 +1,16 @@
 export interface Reaction {
-    sourceSheet:   SourceSheet;
-    name:          string;
-    image:         string;
-    source:        string[];
-    sourceNotes:   SourceNote[] | null;
-    seasonEvent:   null | string;
-    versionAdded:  Version;
-    iconFilename:  string;
-    uniqueEntryId: string;
-    translations:  Translations;
-}
-
-export enum SourceNote {
-    OnlyObtainableOnHalloween = "Only obtainable on Halloween",
-    RequiresAHighLevelOfFriendship = "Requires a high level of friendship",
+    sourceSheet:          SourceSheet;
+    num:                  number;
+    name:                 string;
+    image:                string;
+    source:               string[];
+    sourceNotes:          string[] | null;
+    seasonEvent:          null | string;
+    seasonEventExclusive: boolean | null;
+    versionAdded:         Version;
+    iconFilename:         string;
+    uniqueEntryId:        string;
+    translations:         Translations;
 }
 
 export enum SourceSheet {
