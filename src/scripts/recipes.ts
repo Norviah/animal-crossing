@@ -15,6 +15,15 @@ for (const file of files('Items', directories.sanitized)) {
   const items: obj[] = get(file);
 
   for (const item of items) {
+    item.recipe = null;
+
+    // Some message cards share the same ID as another item, which would cause
+    // that card to get the recipe of an unrelated item, in addition, message
+    // cards can't be crafted, so we'll ignore them when assigning recipes.
+    if (item.sourceSheet === 'Message Cards') {
+      continue;
+    }
+
     // Remember that some items have variations, if they do, the internal
     // IDs are in the array, so we'll have to check for this as well.
     const id: number = (item.variations ? item.variations[0] : item).internalId;
