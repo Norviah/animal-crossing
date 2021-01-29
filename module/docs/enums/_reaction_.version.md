@@ -9,6 +9,7 @@
 * [The100](_reaction_.version.md#the100)
 * [The150](_reaction_.version.md#the150)
 * [The160](_reaction_.version.md#the160)
+* [The170](_reaction_.version.md#the170)
 
 ## Enumeration members
 
@@ -16,7 +17,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Reaction.ts:42](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Reaction.ts#L42)*
+*Defined in [Reaction.ts:43](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Reaction.ts#L43)*
 
 ___
 
@@ -24,7 +25,7 @@ ___
 
 • **The150**: = "1.5.0"
 
-*Defined in [Reaction.ts:43](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Reaction.ts#L43)*
+*Defined in [Reaction.ts:44](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Reaction.ts#L44)*
 
 ___
 
@@ -32,4 +33,12 @@ ___
 
 • **The160**: = "1.6.0"
 
-*Defined in [Reaction.ts:44](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Reaction.ts#L44)*
+*Defined in [Reaction.ts:45](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Reaction.ts#L45)*
+
+___
+
+###  The170
+
+• **The170**: = "1.7.0"
+
+*Defined in [Reaction.ts:46](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Reaction.ts#L46)*

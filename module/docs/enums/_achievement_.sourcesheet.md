@@ -14,4 +14,4 @@
 
 • **Achievements**: = "Achievements"
 
-*Defined in [Achievement.ts:19](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Achievement.ts#L19)*
+*Defined in [Achievement.ts:19](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Achievement.ts#L19)*
