@@ -1,4 +1,11 @@
 
+## [7.2.0](https://github.com/Norviah/animal-crossing/compare/v7.1.0...v7.2.0) (2021-01-29)
+
+
+### Additions
+
+* implement additions/changes from the festival update ([0fcac2a](https://github.com/Norviah/animal-crossing/commit/0fcac2abf6974cc8aafde118470f9dd6e9e72d1d))
+
 ## [7.1.0](https://github.com/Norviah/animal-crossing/compare/v7.0.0...v7.1.0) (2021-01-01)
 
 
