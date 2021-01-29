@@ -8,6 +8,7 @@
 
 * [Normal](_item_.kittype.md#normal)
 * [Pumpkin](_item_.kittype.md#pumpkin)
+* [RainbowFeather](_item_.kittype.md#rainbowfeather)
 
 ## Enumeration members
 
@@ -15,7 +16,7 @@
 
 • **Normal**: = "Normal"
 
-*Defined in [Item.ts:761](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L761)*
+*Defined in [Item.ts:764](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Item.ts#L764)*
 
 ___
 
@@ -23,4 +24,12 @@ ___
 
 • **Pumpkin**: = "Pumpkin"
 
-*Defined in [Item.ts:762](https://github.com/Norviah/animal-crossing/blob/7dc871b/module/types/Item.ts#L762)*
+*Defined in [Item.ts:765](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Item.ts#L765)*
+
+___
+
+###  RainbowFeather
+
+• **RainbowFeather**: = "Rainbow feather"
+
+*Defined in [Item.ts:766](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Item.ts#L766)*
