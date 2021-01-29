@@ -1519,11 +1519,11 @@
   {
     "sourceSheet": "Special NPCs",
     "name": "Pavé",
-    "iconImage": null,
+    "iconImage": "https://acnhcdn.com/latest/NpcIcon/pck.png",
     "photoImage": "https://acnhcdn.com/latest/NpcPoster/NpcSpPck.png",
     "gender": "Male",
     "genderAsia": "Male",
-    "versionAdded": null,
+    "versionAdded": "1.7.0",
     "npcId": "pck",
     "internalId": 25,
     "birthday": "3/3",

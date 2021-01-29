@@ -758,5 +758,43 @@
     "Japanese": "ハロウィンなさく",
     "Korean": "할로윈 울타리",
     "Russian": "жуткие заборы"
+  },
+  {
+    "SourceSheet": "Fence",
+    "id": "Fence_14278",
+    "Version": "1.7.0",
+    "English": "mermaid fence",
+    "English (Europe)": "mermaid fence",
+    "German": "Nixenzaun",
+    "Spanish": "valla sirena",
+    "Spanish (US)": "valla sirena",
+    "French": "clôture sirène",
+    "French (US)": "clôture sirène",
+    "Italian": "recinzione sirena",
+    "Dutch": "meerminnenhek",
+    "Chinese": "人鱼栅栏",
+    "Chinese (Traditional)": "人魚柵欄",
+    "Japanese": "マーメイドなさく",
+    "Korean": "머메이드 울타리",
+    "Russian": "забор русалки"
+  },
+  {
+    "SourceSheet": "Fence",
+    "id": "Fence_14278_pl",
+    "Version": "1.7.0",
+    "English": "mermaid fencing",
+    "English (Europe)": "mermaid fencing",
+    "German": "Nixenzaun",
+    "Spanish": "vallas sirena",
+    "Spanish (US)": "vallas sirena",
+    "French": "clôture sirène",
+    "French (US)": "clôture sirène",
+    "Italian": "recinzioni sirena",
+    "Dutch": "meerminnenhek",
+    "Chinese": "人鱼栅栏",
+    "Chinese (Traditional)": "人魚柵欄",
+    "Japanese": "マーメイドなさく",
+    "Korean": "머메이드 울타리",
+    "Russian": "заборы русалки"
   }
 ]

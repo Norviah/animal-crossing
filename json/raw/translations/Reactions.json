@@ -20,6 +20,63 @@
   },
   {
     "SourceSheet": "Reactions",
+    "id": "AddConfetti",
+    "Version": "1.7.0",
+    "English": "Confetti",
+    "English (Europe)": "Confetti",
+    "German": "Konfetti",
+    "Spanish": "Confeti",
+    "Spanish (US)": "Confeti",
+    "French": "Confettis",
+    "French (US)": "Confettis",
+    "Italian": "Coriandoli",
+    "Dutch": "Confetti",
+    "Chinese": "撒纸片",
+    "Chinese (Traditional)": "撒紙片",
+    "Japanese": "かみふぶき",
+    "Korean": "종이 꽃가루",
+    "Russian": "Конфетти"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "AddDance",
+    "Version": "1.7.0",
+    "English": "Feelin' It",
+    "English (Europe)": "Feelin' It",
+    "German": "Rhythmus im Blut",
+    "Spanish": "Coreografía",
+    "Spanish (US)": "Coreografía",
+    "French": "Samba",
+    "French (US)": "En rythme",
+    "Italian": "Ritmo nel sangue",
+    "Dutch": "Swingende heupenpas",
+    "Chinese": "跟着节奏",
+    "Chinese (Traditional)": "跟著節奏",
+    "Japanese": "リズムにのる",
+    "Korean": "리듬 타기",
+    "Russian": "В ритме"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "AddEntice",
+    "Version": "1.7.0",
+    "English": "Let's Go",
+    "English (Europe)": "Let's Go",
+    "German": "Aufforderung zum Tanz",
+    "Spanish": "Vamos",
+    "Spanish (US)": "Vamos",
+    "French": "Avec moi !",
+    "French (US)": "Avec moi!",
+    "Italian": "Coinvolgimento",
+    "Dutch": "Swingende hinkpas",
+    "Chinese": "炒热气氛",
+    "Chinese (Traditional)": "炒熱氣氛",
+    "Japanese": "もりあげる",
+    "Korean": "분위기 업",
+    "Russian": "Танцуем!"
+  },
+  {
+    "SourceSheet": "Reactions",
     "id": "AddExcited",
     "Version": "1.6.0",
     "English": "Excited",
@@ -73,7 +130,7 @@
     "Chinese (Traditional)": "請",
     "Japanese": "さぁどうぞ",
     "Korean": "자 여기!",
-    "Russian": "Подарок"
+    "Russian": "Вуаля"
   },
   {
     "SourceSheet": "Reactions",
@@ -92,7 +149,7 @@
     "Chinese (Traditional)": "誇獎",
     "Japanese": "たたえる",
     "Korean": "대단해!",
-    "Russian": "Вуаля"
+    "Russian": "Похвала"
   },
   {
     "SourceSheet": "Reactions",
@@ -188,6 +245,25 @@
     "Japanese": "パシャリ",
     "Korean": "찰칵!",
     "Russian": "Фотосъемка"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "AddViva",
+    "Version": "1.7.0",
+    "English": "Viva",
+    "English (Europe)": "Viva",
+    "German": "Viva",
+    "Spanish": "Viva",
+    "Spanish (US)": "Viva",
+    "French": "Viva !",
+    "French (US)": "Viva!",
+    "Italian": "Viva",
+    "Dutch": "Pavé-pas",
+    "Chinese": "欢乐！",
+    "Chinese (Traditional)": "歡樂！",
+    "Japanese": "ビバ！",
+    "Korean": "비바!",
+    "Russian": "Вива!"
   },
   {
     "SourceSheet": "Reactions",

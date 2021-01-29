@@ -699,11 +699,11 @@
   {
     "SourceSheet": "Special NPCs",
     "Name": "Pavé",
-    "Icon Image": "NA",
+    "Icon Image": "=IMAGE(\"https://acnhcdn.com/latest/NpcIcon/pck.png\")",
     "Photo Image": "=IMAGE(\"https://acnhcdn.com/latest/NpcPoster/NpcSpPck.png\")",
     "Gender": "Male",
     "Gender (Asia)": "Male",
-    "Version Added": "NA",
+    "Version Added": "1.7.0",
     "NPC ID": "pck",
     "Internal ID": 25,
     "Birthday": "3/3",

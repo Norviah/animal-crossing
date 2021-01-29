@@ -18,9 +18,9 @@ export interface Translation {
     russian:            number | null | string;
     plural:             boolean;
     variantId?:         number;
+    furnitureName?:     string;
     clothName?:         string;
     clothGroup?:        number;
-    furnitureName?:     string;
 }
 
 export enum SourceSheet {
@@ -95,4 +95,5 @@ export enum Version {
     The140 = "1.4.0",
     The150 = "1.5.0",
     The160 = "1.6.0",
+    The170 = "1.7.0",
 }

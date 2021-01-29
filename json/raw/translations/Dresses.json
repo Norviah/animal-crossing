@@ -941,7 +941,7 @@
     "Spanish (US)": "disfraz de kappa",
     "French": "costume de kappa",
     "French (US)": "costume de kappa",
-    "Italian": "costume da tartaruga",
+    "Italian": "costume da kappa",
     "Dutch": "kappa-pak",
     "Chinese": "河童装",
     "Chinese (Traditional)": "河童裝",
@@ -2542,7 +2542,7 @@
     "Chinese": "驯鹿装",
     "Chinese (Traditional)": "馴鹿服",
     "Japanese": "トナカイなふく",
-    "Korean": "루돌프 의상",
+    "Korean": "순록 의상",
     "Russian": "костюм оленя"
   },
   {
@@ -3247,6 +3247,25 @@
     "Japanese": "チャイナドレス",
     "Korean": "차이나 드레스",
     "Russian": "шелковое платье"
+  },
+  {
+    "SourceSheet": "Dresses",
+    "id": 584,
+    "Version": "1.7.0",
+    "English": "ogre costume",
+    "English (Europe)": "ogre costume",
+    "German": "Ogerkostüm",
+    "Spanish": "disfraz de ogro",
+    "Spanish (US)": "disfraz de ogro",
+    "French": "costume d'ogre",
+    "French (US)": "costume d'ogre",
+    "Italian": "costume da orco",
+    "Dutch": "boemanpak",
+    "Chinese": "鬼怪服",
+    "Chinese (Traditional)": "鬼怪服",
+    "Japanese": "オニのふく",
+    "Korean": "도깨비 옷",
+    "Russian": "костюм людоеда"
   },
   {
     "SourceSheet": "Dresses",
@@ -4371,6 +4390,25 @@
   },
   {
     "SourceSheet": "Dresses",
+    "id": 1162,
+    "Version": "1.7.0",
+    "English": "Festivale tank dress",
+    "English (Europe)": "Festivale tank dress",
+    "German": "Karnevalskleid",
+    "Spanish": "vestido de Carnaval",
+    "Spanish (US)": "vestido de Carnaval",
+    "French": "robe d'été carnaval",
+    "French (US)": "robe d'été carnaval",
+    "Italian": "scamiciato Carnevale",
+    "Dutch": "carnavalsjurk",
+    "Chinese": "狂欢节连身裙",
+    "Chinese (Traditional)": "狂歡節連身裙",
+    "Japanese": "カーニバルなワンピース",
+    "Korean": "카니발 원피스",
+    "Russian": "карнавальное платье"
+  },
+  {
+    "SourceSheet": "Dresses",
     "id": 1204,
     "Version": "1.1.0",
     "English": "egg party dress",
@@ -4729,5 +4767,24 @@
     "Japanese": "まほうスクールのローブ",
     "Korean": "마법 학교 로브",
     "Russian": "наряд академии магов"
+  },
+  {
+    "SourceSheet": "Dresses",
+    "id": 1344,
+    "Version": "1.7.0",
+    "English": "Festivale costume",
+    "English (Europe)": "Festivale costume",
+    "German": "Karnevalstracht",
+    "Spanish": "traje de Carnaval",
+    "Spanish (US)": "traje de Carnaval",
+    "French": "costume de carnaval",
+    "French (US)": "costume de carnaval",
+    "Italian": "costume Carnevale",
+    "Dutch": "carnavalskostuum",
+    "Chinese": "狂欢节服装",
+    "Chinese (Traditional)": "狂歡節服裝",
+    "Japanese": "カーニバルなコスチューム",
+    "Korean": "카니발 의상",
+    "Russian": "карнавальный костюм"
   }
 ]
