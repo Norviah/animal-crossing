@@ -19,7 +19,7 @@
       "spanish": "calcetín de punto trenzado",
       "spanishUs": "calcetín tejido trenzado",
       "french": "paire de chaussettes Aran",
-      "frenchUs": "paire de chaussettes Aran",
+      "frenchUs": "paire de bas Aran",
       "italian": "paio di calzini Aran",
       "dutch": "Aran-sokken",
       "chinese": "毛线袜",
@@ -96,7 +96,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9058,
-          "id": 9058,
+          "id": 536,
           "clothName": "Aran-knit socks",
           "english": "White",
           "englishEurope": "White",
@@ -136,7 +136,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9062,
-          "id": 9062,
+          "id": 536,
           "clothName": "Aran-knit socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -176,7 +176,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9059,
-          "id": 9059,
+          "id": 536,
           "clothName": "Aran-knit socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -216,7 +216,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9060,
-          "id": 9060,
+          "id": 536,
           "clothName": "Aran-knit socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -256,7 +256,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9061,
-          "id": 9061,
+          "id": 536,
           "clothName": "Aran-knit socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -296,7 +296,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 4742,
-          "id": 4742,
+          "id": 536,
           "clothName": "Aran-knit socks",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -344,7 +344,7 @@
       "spanish": "calcetín Trini",
       "spanishUs": "calcetín Trini",
       "french": "paire de chaussettes Maria",
-      "frenchUs": "paire de chaussettes Maria",
+      "frenchUs": "paire de bas Maria",
       "italian": "paio di calzini Bice",
       "dutch": "Labelle-sokken",
       "chinese": "凯丝的袜子",
@@ -461,7 +461,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11761,
-          "id": 11761,
+          "id": 1134,
           "clothName": "Labelle socks",
           "english": "Midnight",
           "englishEurope": "Midnight",
@@ -501,7 +501,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11762,
-          "id": 11762,
+          "id": 1134,
           "clothName": "Labelle socks",
           "english": "Passion",
           "englishEurope": "Passion",
@@ -541,7 +541,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11765,
-          "id": 11765,
+          "id": 1134,
           "clothName": "Labelle socks",
           "english": "Love",
           "englishEurope": "Love",
@@ -581,7 +581,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11764,
-          "id": 11764,
+          "id": 1134,
           "clothName": "Labelle socks",
           "english": "Sunset",
           "englishEurope": "Sunset",
@@ -621,7 +621,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11763,
-          "id": 11763,
+          "id": 1134,
           "clothName": "Labelle socks",
           "english": "Ocean",
           "englishEurope": "Ocean",
@@ -661,7 +661,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9883,
-          "id": 9883,
+          "id": 1134,
           "clothName": "Labelle socks",
           "english": "Twilight",
           "englishEurope": "Twilight",
@@ -826,7 +826,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11756,
-          "id": 11756,
+          "id": 1133,
           "clothName": "Labelle tights",
           "english": "Midnight",
           "englishEurope": "Midnight",
@@ -866,7 +866,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11757,
-          "id": 11757,
+          "id": 1133,
           "clothName": "Labelle tights",
           "english": "Passion",
           "englishEurope": "Passion",
@@ -906,7 +906,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11760,
-          "id": 11760,
+          "id": 1133,
           "clothName": "Labelle tights",
           "english": "Love",
           "englishEurope": "Love",
@@ -946,7 +946,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11759,
-          "id": 11759,
+          "id": 1133,
           "clothName": "Labelle tights",
           "english": "Sunset",
           "englishEurope": "Sunset",
@@ -986,7 +986,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11758,
-          "id": 11758,
+          "id": 1133,
           "clothName": "Labelle tights",
           "english": "Ocean",
           "englishEurope": "Ocean",
@@ -1026,7 +1026,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9882,
-          "id": 9882,
+          "id": 1133,
           "clothName": "Labelle tights",
           "english": "Twilight",
           "englishEurope": "Twilight",
@@ -1154,7 +1154,7 @@
       "spanish": "calcetín de Nook Inc.",
       "spanishUs": "calcetín de Nook Inc.",
       "french": "p. de chaussettes Nook Inc.",
-      "frenchUs": "p. de chaussettes Nook Inc.",
+      "frenchUs": "p. de bas Nook Inc",
       "italian": "paio di calzini Nook Inc.",
       "dutch": "Nook Inc.-sokken",
       "chinese": "Nook Inc.袜子",
@@ -1246,7 +1246,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5197,
-          "id": 5197,
+          "id": 621,
           "clothName": "aerobics leggings",
           "english": "Red & pink",
           "englishEurope": "Red & pink",
@@ -1286,7 +1286,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9796,
-          "id": 9796,
+          "id": 621,
           "clothName": "aerobics leggings",
           "english": "Light blue & salmon pink",
           "englishEurope": "Light blue & salmon pink",
@@ -1326,7 +1326,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9795,
-          "id": 9795,
+          "id": 621,
           "clothName": "aerobics leggings",
           "english": "Purple & orange",
           "englishEurope": "Purple & orange",
@@ -1366,7 +1366,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9794,
-          "id": 9794,
+          "id": 621,
           "clothName": "aerobics leggings",
           "english": "Emerald & lime",
           "englishEurope": "Emerald & lime",
@@ -1406,7 +1406,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9797,
-          "id": 9797,
+          "id": 621,
           "clothName": "aerobics leggings",
           "english": "Yellow & blue",
           "englishEurope": "Yellow & blue",
@@ -1452,7 +1452,7 @@
       "spanish": "calcetín pijo",
       "spanishUs": "calcetín rombos alto",
       "french": "p. de chaussettes argyle",
-      "frenchUs": "p. de chaussettes écossaise",
+      "frenchUs": "p. de bas écossais",
       "italian": "paio di calzini a rombi",
       "dutch": "argyle-sokken",
       "chinese": "菱格纹袜",
@@ -1549,7 +1549,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9925,
-          "id": 9925,
+          "id": 880,
           "clothName": "argyle crew socks",
           "english": "White",
           "englishEurope": "White",
@@ -1589,7 +1589,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9924,
-          "id": 9924,
+          "id": 880,
           "clothName": "argyle crew socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -1629,7 +1629,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9921,
-          "id": 9921,
+          "id": 880,
           "clothName": "argyle crew socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -1669,7 +1669,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9927,
-          "id": 9927,
+          "id": 880,
           "clothName": "argyle crew socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -1709,7 +1709,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9926,
-          "id": 9926,
+          "id": 880,
           "clothName": "argyle crew socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -1749,7 +1749,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9922,
-          "id": 9922,
+          "id": 880,
           "clothName": "argyle crew socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -1789,7 +1789,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5806,
-          "id": 5806,
+          "id": 880,
           "clothName": "argyle crew socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -1829,7 +1829,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9923,
-          "id": 9923,
+          "id": 880,
           "clothName": "argyle crew socks",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -1875,7 +1875,7 @@
       "spanish": "calcetín lazo trasero",
       "spanishUs": "calcetín lazo trasero",
       "french": "p. de chaussettes à nœud",
-      "frenchUs": "p. de chaussettes à nœud",
+      "frenchUs": "p. de bas à nœud",
       "italian": "paio di calzini con fiocco",
       "dutch": "sokken met een strikje",
       "chinese": "蝴蝶结袜子",
@@ -1992,7 +1992,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9055,
-          "id": 9055,
+          "id": 519,
           "clothName": "back-bow socks",
           "english": "White",
           "englishEurope": "White",
@@ -2032,7 +2032,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9054,
-          "id": 9054,
+          "id": 519,
           "clothName": "back-bow socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -2072,7 +2072,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 4718,
-          "id": 4718,
+          "id": 519,
           "clothName": "back-bow socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -2112,7 +2112,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9053,
-          "id": 9053,
+          "id": 519,
           "clothName": "back-bow socks",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -2152,7 +2152,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9057,
-          "id": 9057,
+          "id": 519,
           "clothName": "back-bow socks",
           "english": "Peacock blue",
           "englishEurope": "Peacock blue",
@@ -2192,7 +2192,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9056,
-          "id": 9056,
+          "id": 519,
           "clothName": "back-bow socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -2315,7 +2315,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5171,
-          "id": 5171,
+          "id": 604,
           "clothName": "bobby socks",
           "english": "White",
           "englishEurope": "White",
@@ -2355,7 +2355,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10017,
-          "id": 10017,
+          "id": 604,
           "clothName": "bobby socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -2395,7 +2395,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10018,
-          "id": 10018,
+          "id": 604,
           "clothName": "bobby socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -2435,7 +2435,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10019,
-          "id": 10019,
+          "id": 604,
           "clothName": "bobby socks",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -2481,7 +2481,7 @@
       "spanish": "calcetín composición color",
       "spanishUs": "calcetín composición color",
       "french": "paire chaussettes carreaux",
-      "frenchUs": "paire chaussettes carreaux",
+      "frenchUs": "paire de bas à carreaux",
       "italian": "paio di calzini variopinti",
       "dutch": "sokken met kleurvlakken",
       "chinese": "多色格子袜",
@@ -2538,7 +2538,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9899,
-          "id": 9899,
+          "id": 612,
           "clothName": "color-blocked socks",
           "english": "White",
           "englishEurope": "White",
@@ -2578,7 +2578,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9901,
-          "id": 9901,
+          "id": 612,
           "clothName": "color-blocked socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -2618,7 +2618,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9900,
-          "id": 9900,
+          "id": 612,
           "clothName": "color-blocked socks",
           "english": "Lime",
           "englishEurope": "Lime",
@@ -2658,7 +2658,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9895,
-          "id": 9895,
+          "id": 612,
           "clothName": "color-blocked socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -2698,7 +2698,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9897,
-          "id": 9897,
+          "id": 612,
           "clothName": "color-blocked socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -2738,7 +2738,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5180,
-          "id": 5180,
+          "id": 612,
           "clothName": "color-blocked socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -2778,7 +2778,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9896,
-          "id": 9896,
+          "id": 612,
           "clothName": "color-blocked socks",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -2818,7 +2818,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9898,
-          "id": 9898,
+          "id": 612,
           "clothName": "color-blocked socks",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -2961,7 +2961,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9793,
-          "id": 9793,
+          "id": 603,
           "clothName": "compression tights",
           "english": "Red",
           "englishEurope": "Red",
@@ -3001,7 +3001,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9791,
-          "id": 9791,
+          "id": 603,
           "clothName": "compression tights",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -3041,7 +3041,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9790,
-          "id": 9790,
+          "id": 603,
           "clothName": "compression tights",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -3081,7 +3081,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9792,
-          "id": 9792,
+          "id": 603,
           "clothName": "compression tights",
           "english": "Mint",
           "englishEurope": "Mint",
@@ -3121,7 +3121,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5170,
-          "id": 5170,
+          "id": 603,
           "clothName": "compression tights",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -3167,7 +3167,7 @@
       "spanish": "calcetín para kilt",
       "spanishUs": "calcetín para kilt",
       "french": "paire de chaussettes de kilt",
-      "frenchUs": "paire de chaussettes de kilt",
+      "frenchUs": "paire de bas de kilt",
       "italian": "paio di calzini country",
       "dutch": "kiltsokken",
       "chinese": "英国传统服装袜子",
@@ -3244,7 +3244,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8944,
-          "id": 8944,
+          "id": 926,
           "clothName": "country socks",
           "english": "Black ribbons",
           "englishEurope": "Black ribbons",
@@ -3284,7 +3284,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 6044,
-          "id": 6044,
+          "id": 926,
           "clothName": "country socks",
           "english": "Red ribbons",
           "englishEurope": "Red ribbons",
@@ -3324,7 +3324,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8942,
-          "id": 8942,
+          "id": 926,
           "clothName": "country socks",
           "english": "Green ribbons",
           "englishEurope": "Green ribbons",
@@ -3364,7 +3364,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8943,
-          "id": 8943,
+          "id": 926,
           "clothName": "country socks",
           "english": "Blue ribbons",
           "englishEurope": "Blue ribbons",
@@ -3410,7 +3410,7 @@
       "spanish": "calcetín de croché",
       "spanishUs": "calcetín de crochet",
       "french": "paire chaussettes crochet",
-      "frenchUs": "paire chaussettes crochet",
+      "frenchUs": "paire de bas crochet",
       "italian": "paio di calzini all'uncinetto",
       "dutch": "gehaakte sokken",
       "chinese": "钩针编织袜",
@@ -3487,7 +3487,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8939,
-          "id": 8939,
+          "id": 626,
           "clothName": "crocheted socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -3527,7 +3527,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8940,
-          "id": 8940,
+          "id": 626,
           "clothName": "crocheted socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -3567,7 +3567,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8941,
-          "id": 8941,
+          "id": 626,
           "clothName": "crocheted socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -3607,7 +3607,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5202,
-          "id": 5202,
+          "id": 626,
           "clothName": "crocheted socks",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -3750,7 +3750,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9782,
-          "id": 9782,
+          "id": 539,
           "clothName": "denim leggings",
           "english": "Indigo blue",
           "englishEurope": "Indigo blue",
@@ -3790,7 +3790,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9784,
-          "id": 9784,
+          "id": 539,
           "clothName": "denim leggings",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -3830,7 +3830,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9783,
-          "id": 9783,
+          "id": 539,
           "clothName": "denim leggings",
           "english": "Saxon blue",
           "englishEurope": "Saxon blue",
@@ -3870,7 +3870,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 4745,
-          "id": 4745,
+          "id": 539,
           "clothName": "denim leggings",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -3973,7 +3973,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 12181,
-          "id": 12181,
+          "id": 1188,
           "clothName": "dotted knee-high socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -4013,7 +4013,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 12174,
-          "id": 12174,
+          "id": 1188,
           "clothName": "dotted knee-high socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -4053,7 +4053,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 12179,
-          "id": 12179,
+          "id": 1188,
           "clothName": "dotted knee-high socks",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -4093,7 +4093,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 12180,
-          "id": 12180,
+          "id": 1188,
           "clothName": "dotted knee-high socks",
           "english": "Cyan",
           "englishEurope": "Cyan",
@@ -4236,7 +4236,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9907,
-          "id": 9907,
+          "id": 628,
           "clothName": "embroidered-flower tights",
           "english": "Black",
           "englishEurope": "Black",
@@ -4276,7 +4276,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9908,
-          "id": 9908,
+          "id": 628,
           "clothName": "embroidered-flower tights",
           "english": "Green",
           "englishEurope": "Green",
@@ -4316,7 +4316,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9910,
-          "id": 9910,
+          "id": 628,
           "clothName": "embroidered-flower tights",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -4356,7 +4356,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9911,
-          "id": 9911,
+          "id": 628,
           "clothName": "embroidered-flower tights",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -4396,7 +4396,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5204,
-          "id": 5204,
+          "id": 628,
           "clothName": "embroidered-flower tights",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -4436,7 +4436,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9909,
-          "id": 9909,
+          "id": 628,
           "clothName": "embroidered-flower tights",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -4482,7 +4482,7 @@
       "spanish": "calcetín de diario",
       "spanishUs": "calcetín diario",
       "french": "p. chaussettes ordinaires",
-      "frenchUs": "p. chaussettes ordinaires",
+      "frenchUs": "p. de bas ordinaires",
       "italian": "paio di calzini ordinari",
       "dutch": "alledaagse sokken",
       "chinese": "通勤袜子",
@@ -4559,7 +4559,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10038,
-          "id": 10038,
+          "id": 1059,
           "clothName": "everyday socks",
           "english": "White",
           "englishEurope": "White",
@@ -4599,7 +4599,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10036,
-          "id": 10036,
+          "id": 1059,
           "clothName": "everyday socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -4639,7 +4639,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10034,
-          "id": 10034,
+          "id": 1059,
           "clothName": "everyday socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -4679,7 +4679,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10035,
-          "id": 10035,
+          "id": 1059,
           "clothName": "everyday socks",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
@@ -4719,7 +4719,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9645,
-          "id": 9645,
+          "id": 1059,
           "clothName": "everyday socks",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -4759,7 +4759,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10037,
-          "id": 10037,
+          "id": 1059,
           "clothName": "everyday socks",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -4882,7 +4882,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9684,
-          "id": 9684,
+          "id": 1050,
           "clothName": "everyday tights",
           "english": "White",
           "englishEurope": "White",
@@ -4922,7 +4922,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9682,
-          "id": 9682,
+          "id": 1050,
           "clothName": "everyday tights",
           "english": "Light gray",
           "englishEurope": "Light gray",
@@ -4962,7 +4962,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9683,
-          "id": 9683,
+          "id": 1050,
           "clothName": "everyday tights",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -5002,7 +5002,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9581,
-          "id": 9581,
+          "id": 1050,
           "clothName": "everyday tights",
           "english": "Black",
           "englishEurope": "Black",
@@ -5042,7 +5042,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9685,
-          "id": 9685,
+          "id": 1050,
           "clothName": "everyday tights",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
@@ -5082,7 +5082,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9686,
-          "id": 9686,
+          "id": 1050,
           "clothName": "everyday tights",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -5205,7 +5205,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9659,
-          "id": 9659,
+          "id": 48,
           "clothName": "fishnet tights",
           "english": "White",
           "englishEurope": "White",
@@ -5245,7 +5245,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 3096,
-          "id": 3096,
+          "id": 48,
           "clothName": "fishnet tights",
           "english": "Black",
           "englishEurope": "Black",
@@ -5285,7 +5285,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9660,
-          "id": 9660,
+          "id": 48,
           "clothName": "fishnet tights",
           "english": "Red",
           "englishEurope": "Red",
@@ -5448,7 +5448,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5804,
-          "id": 5804,
+          "id": 879,
           "clothName": "flowery-dot tights",
           "english": "White",
           "englishEurope": "White",
@@ -5488,7 +5488,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9920,
-          "id": 9920,
+          "id": 879,
           "clothName": "flowery-dot tights",
           "english": "Black",
           "englishEurope": "Black",
@@ -5528,7 +5528,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9917,
-          "id": 9917,
+          "id": 879,
           "clothName": "flowery-dot tights",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -5568,7 +5568,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9919,
-          "id": 9919,
+          "id": 879,
           "clothName": "flowery-dot tights",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -5608,7 +5608,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9918,
-          "id": 9918,
+          "id": 879,
           "clothName": "flowery-dot tights",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -5771,7 +5771,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5172,
-          "id": 5172,
+          "id": 605,
           "clothName": "frilly knee-high socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -5811,7 +5811,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11590,
-          "id": 11590,
+          "id": 605,
           "clothName": "frilly knee-high socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -5851,7 +5851,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11593,
-          "id": 11593,
+          "id": 605,
           "clothName": "frilly knee-high socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -5891,7 +5891,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11591,
-          "id": 11591,
+          "id": 605,
           "clothName": "frilly knee-high socks",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -5931,7 +5931,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11595,
-          "id": 11595,
+          "id": 605,
           "clothName": "frilly knee-high socks",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -5971,7 +5971,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11589,
-          "id": 11589,
+          "id": 605,
           "clothName": "frilly knee-high socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -6011,7 +6011,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11592,
-          "id": 11592,
+          "id": 605,
           "clothName": "frilly knee-high socks",
           "english": "Mint",
           "englishEurope": "Mint",
@@ -6051,7 +6051,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11594,
-          "id": 11594,
+          "id": 605,
           "clothName": "frilly knee-high socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -6097,7 +6097,7 @@
       "spanish": "calcetín con volantes",
       "spanishUs": "calcetín con volados",
       "french": "paire socquettes à dentelle",
-      "frenchUs": "p. chaussettes à dentelle",
+      "frenchUs": "p. de bas à dentelle",
       "italian": "paio di calzini vezzosi",
       "dutch": "sokken met ruches",
       "chinese": "蕾丝花边袜",
@@ -6214,7 +6214,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5174,
-          "id": 5174,
+          "id": 607,
           "clothName": "frilly socks",
           "english": "White",
           "englishEurope": "White",
@@ -6254,7 +6254,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8935,
-          "id": 8935,
+          "id": 607,
           "clothName": "frilly socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -6294,7 +6294,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8934,
-          "id": 8934,
+          "id": 607,
           "clothName": "frilly socks",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -6334,7 +6334,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8936,
-          "id": 8936,
+          "id": 607,
           "clothName": "frilly socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -6374,7 +6374,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8938,
-          "id": 8938,
+          "id": 607,
           "clothName": "frilly socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -6414,7 +6414,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8937,
-          "id": 8937,
+          "id": 607,
           "clothName": "frilly socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -6460,7 +6460,7 @@
       "spanish": "calcetín caritas",
       "spanishUs": "calcetín caritas",
       "french": "p. de chaussettes rigolotes",
-      "frenchUs": "p. de chaussettes rigolotes",
+      "frenchUs": "p. de bas rigolos",
       "italian": "paio di calzini con faccina",
       "dutch": "sokken met een gezichtje",
       "chinese": "卡通图案袜",
@@ -6537,7 +6537,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9995,
-          "id": 9995,
+          "id": 723,
           "clothName": "funny-face socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -6577,7 +6577,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9993,
-          "id": 9993,
+          "id": 723,
           "clothName": "funny-face socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -6617,7 +6617,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5406,
-          "id": 5406,
+          "id": 723,
           "clothName": "funny-face socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -6657,7 +6657,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9994,
-          "id": 9994,
+          "id": 723,
           "clothName": "funny-face socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -6697,7 +6697,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9992,
-          "id": 9992,
+          "id": 723,
           "clothName": "funny-face socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -6743,7 +6743,7 @@
       "spanish": "calcetín con liguero",
       "spanishUs": "calcetín con liga",
       "french": "paire de fixe-chaussettes",
-      "frenchUs": "paire de fixe-chaussettes",
+      "frenchUs": "paire de fixe-bas",
       "italian": "paio calzini con giarrettiera",
       "dutch": "sokken met ophouders",
       "chinese": "吊带袜",
@@ -6840,7 +6840,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9661,
-          "id": 9661,
+          "id": 541,
           "clothName": "garter socks",
           "english": "White",
           "englishEurope": "White",
@@ -6880,7 +6880,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 4747,
-          "id": 4747,
+          "id": 541,
           "clothName": "garter socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -6920,7 +6920,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9663,
-          "id": 9663,
+          "id": 541,
           "clothName": "garter socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -6960,7 +6960,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9662,
-          "id": 9662,
+          "id": 541,
           "clothName": "garter socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -7006,7 +7006,7 @@
       "spanish": "calcetín Chimayó",
       "spanishUs": "calcetín étnico",
       "french": "p. de chaussettes Chimayo",
-      "frenchUs": "p. de chaussettes Chimayo",
+      "frenchUs": "p. de bas Chimayo",
       "italian": "paio calzini stile geometrico",
       "dutch": "Chimayo-sokken",
       "chinese": "奇马约图腾袜",
@@ -7063,7 +7063,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9915,
-          "id": 9915,
+          "id": 749,
           "clothName": "geometric-print socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -7103,7 +7103,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5444,
-          "id": 5444,
+          "id": 749,
           "clothName": "geometric-print socks",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -7143,7 +7143,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9916,
-          "id": 9916,
+          "id": 749,
           "clothName": "geometric-print socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -7183,7 +7183,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9912,
-          "id": 9912,
+          "id": 749,
           "clothName": "geometric-print socks",
           "english": "Peacock blue",
           "englishEurope": "Peacock blue",
@@ -7223,7 +7223,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9913,
-          "id": 9913,
+          "id": 749,
           "clothName": "geometric-print socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -7263,7 +7263,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9914,
-          "id": 9914,
+          "id": 749,
           "clothName": "geometric-print socks",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -7386,7 +7386,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9077,
-          "id": 9077,
+          "id": 620,
           "clothName": "hand-knit socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -7426,7 +7426,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5196,
-          "id": 5196,
+          "id": 620,
           "clothName": "hand-knit socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -7466,7 +7466,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9076,
-          "id": 9076,
+          "id": 620,
           "clothName": "hand-knit socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -7512,7 +7512,7 @@
       "spanish": "calcetín raído",
       "spanishUs": "calcetín raído",
       "french": "paire chaussettes trouée",
-      "frenchUs": "paire chaussettes trouée",
+      "frenchUs": "paire de bas troués",
       "italian": "paio di calzini strappati",
       "dutch": "sokken met gaten",
       "chinese": "破洞袜",
@@ -7589,7 +7589,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5178,
-          "id": 5178,
+          "id": 610,
           "clothName": "holey socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -7629,7 +7629,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9070,
-          "id": 9070,
+          "id": 610,
           "clothName": "holey socks",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
@@ -7669,7 +7669,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9071,
-          "id": 9071,
+          "id": 610,
           "clothName": "holey socks",
           "english": "White",
           "englishEurope": "White",
@@ -7812,7 +7812,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5176,
-          "id": 5176,
+          "id": 608,
           "clothName": "holey tights",
           "english": "Black",
           "englishEurope": "Black",
@@ -7852,7 +7852,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9666,
-          "id": 9666,
+          "id": 608,
           "clothName": "holey tights",
           "english": "Red",
           "englishEurope": "Red",
@@ -7892,7 +7892,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9664,
-          "id": 9664,
+          "id": 608,
           "clothName": "holey tights",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -7932,7 +7932,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9670,
-          "id": 9670,
+          "id": 608,
           "clothName": "holey tights",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -7972,7 +7972,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9668,
-          "id": 9668,
+          "id": 608,
           "clothName": "holey tights",
           "english": "Green",
           "englishEurope": "Green",
@@ -8012,7 +8012,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9665,
-          "id": 9665,
+          "id": 608,
           "clothName": "holey tights",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -8052,7 +8052,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9669,
-          "id": 9669,
+          "id": 608,
           "clothName": "holey tights",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -8092,7 +8092,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9667,
-          "id": 9667,
+          "id": 608,
           "clothName": "holey tights",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -8233,6 +8233,10 @@
         "internalId": 13373,
         "uniqueEntryId": "iK4EJqE7E77gmjvvQ",
         "variantTranslations": {
+          "sourceSheet": "Socks Variants",
+          "variantId": 13373,
+          "id": 1275,
+          "clothName": "horizontal-striped tights",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -8246,7 +8250,9 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый"
+          "russian": "Белый",
+          "plural": false,
+          "clothGroup": 1275
         },
         "colors": [ "White", "Gray" ]
       },
@@ -8267,6 +8273,10 @@
         "internalId": 13376,
         "uniqueEntryId": "5xyRgKDWLF4wqhWjK",
         "variantTranslations": {
+          "sourceSheet": "Socks Variants",
+          "variantId": 13376,
+          "id": 1275,
+          "clothName": "horizontal-striped tights",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
@@ -8280,7 +8290,9 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный"
+          "russian": "Черный",
+          "plural": false,
+          "clothGroup": 1275
         },
         "colors": [ "Black", "Gray" ]
       },
@@ -8301,6 +8313,10 @@
         "internalId": 13375,
         "uniqueEntryId": "ARTENukN9A9baPyxd",
         "variantTranslations": {
+          "sourceSheet": "Socks Variants",
+          "variantId": 13375,
+          "id": 1275,
+          "clothName": "horizontal-striped tights",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -8314,7 +8330,9 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный"
+          "russian": "Красный",
+          "plural": false,
+          "clothGroup": 1275
         },
         "colors": [ "Red", "Purple" ]
       },
@@ -8335,6 +8353,10 @@
         "internalId": 13029,
         "uniqueEntryId": "4MQf429YhyaisAstM",
         "variantTranslations": {
+          "sourceSheet": "Socks Variants",
+          "variantId": 13029,
+          "id": 1275,
+          "clothName": "horizontal-striped tights",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -8348,7 +8370,9 @@
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый"
+          "russian": "Оранжевый",
+          "plural": false,
+          "clothGroup": 1275
         },
         "colors": [ "Orange", "Red" ]
       },
@@ -8369,6 +8393,10 @@
         "internalId": 13374,
         "uniqueEntryId": "iqz4SqaFfDAQNxbM6",
         "variantTranslations": {
+          "sourceSheet": "Socks Variants",
+          "variantId": 13374,
+          "id": 1275,
+          "clothName": "horizontal-striped tights",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -8382,7 +8410,9 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый"
+          "russian": "Зеленый",
+          "plural": false,
+          "clothGroup": 1275
         },
         "colors": [ "Green", "Green" ]
       },
@@ -8403,6 +8433,10 @@
         "internalId": 13372,
         "uniqueEntryId": "tNzNuZEXQyvThB6zx",
         "variantTranslations": {
+          "sourceSheet": "Socks Variants",
+          "variantId": 13372,
+          "id": 1275,
+          "clothName": "horizontal-striped tights",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -8416,7 +8450,9 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "russian": "Фиолетовый",
+          "plural": false,
+          "clothGroup": 1275
         },
         "colors": [ "Purple", "Pink" ]
       }
@@ -8445,7 +8481,7 @@
       "spanish": "calcetín infantil",
       "spanishUs": "calcetín infantil",
       "french": "paire de socquettes enfant",
-      "frenchUs": "paire de chaussettes enfant",
+      "frenchUs": "paire de bas enfant",
       "italian": "paio di calzini da bimbo",
       "dutch": "kindersokken",
       "chinese": "儿童袜",
@@ -8562,7 +8598,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9991,
-          "id": 9991,
+          "id": 625,
           "clothName": "kiddie socks",
           "english": "Black & gray",
           "englishEurope": "Black & gray",
@@ -8602,7 +8638,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5201,
-          "id": 5201,
+          "id": 625,
           "clothName": "kiddie socks",
           "english": "Red & light blue",
           "englishEurope": "Red & light blue",
@@ -8642,7 +8678,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9990,
-          "id": 9990,
+          "id": 625,
           "clothName": "kiddie socks",
           "english": "Pink & yellow",
           "englishEurope": "Pink & yellow",
@@ -8682,7 +8718,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9987,
-          "id": 9987,
+          "id": 625,
           "clothName": "kiddie socks",
           "english": "Yellow & purple",
           "englishEurope": "Yellow & purple",
@@ -8722,7 +8758,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9986,
-          "id": 9986,
+          "id": 625,
           "clothName": "kiddie socks",
           "english": "Lime & pink",
           "englishEurope": "Lime & pink",
@@ -8762,7 +8798,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9988,
-          "id": 9988,
+          "id": 625,
           "clothName": "kiddie socks",
           "english": "Light blue & red",
           "englishEurope": "Light blue & red",
@@ -8802,7 +8838,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9985,
-          "id": 9985,
+          "id": 625,
           "clothName": "kiddie socks",
           "english": "Blue & orange",
           "englishEurope": "Blue & orange",
@@ -8816,7 +8852,7 @@
           "chinese": "蓝色×橘色",
           "chineseTraditional": "藍色×橘色",
           "japanese": "ブルー×オレンジ",
-          "korean": "블루×오렌 지",
+          "korean": "블루×오렌지",
           "russian": "Синий с оранжевым",
           "plural": false,
           "clothGroup": 625
@@ -8842,7 +8878,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9989,
-          "id": 9989,
+          "id": 625,
           "clothName": "kiddie socks",
           "english": "Purple & green",
           "englishEurope": "Purple & green",
@@ -8888,7 +8924,7 @@
       "spanish": "calcetín encaje",
       "spanishUs": "calcetín encaje",
       "french": "paire chaussettes dentelle",
-      "frenchUs": "paire chaussettes dentelle",
+      "frenchUs": "paire de bas en dentelle",
       "italian": "paio di calzini merlettati",
       "dutch": "sokken met kant",
       "chinese": "蕾丝袜",
@@ -9005,7 +9041,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5173,
-          "id": 5173,
+          "id": 606,
           "clothName": "lace socks",
           "english": "White",
           "englishEurope": "White",
@@ -9045,7 +9081,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8933,
-          "id": 8933,
+          "id": 606,
           "clothName": "lace socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -9085,7 +9121,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8931,
-          "id": 8931,
+          "id": 606,
           "clothName": "lace socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -9125,7 +9161,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8932,
-          "id": 8932,
+          "id": 606,
           "clothName": "lace socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -9165,7 +9201,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10170,
-          "id": 10170,
+          "id": 606,
           "clothName": "lace socks",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -9211,7 +9247,7 @@
       "spanish": "calcetín múltiple",
       "spanishUs": "calcetín múltiple",
       "french": "p. chaussettes superposées",
-      "frenchUs": "p. chaussettes superposées",
+      "frenchUs": "p. de bas superposés",
       "italian": "paio di calzini a strati",
       "dutch": "laagjessokken",
       "chinese": "多层袜",
@@ -9288,7 +9324,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9905,
-          "id": 9905,
+          "id": 619,
           "clothName": "layered socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -9328,7 +9364,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9906,
-          "id": 9906,
+          "id": 619,
           "clothName": "layered socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -9368,7 +9404,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9903,
-          "id": 9903,
+          "id": 619,
           "clothName": "layered socks",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -9408,7 +9444,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9904,
-          "id": 9904,
+          "id": 619,
           "clothName": "layered socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -9448,7 +9484,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9902,
-          "id": 9902,
+          "id": 619,
           "clothName": "layered socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -9488,7 +9524,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5195,
-          "id": 5195,
+          "id": 619,
           "clothName": "layered socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -9611,7 +9647,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9786,
-          "id": 9786,
+          "id": 602,
           "clothName": "leg warmers",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -9651,7 +9687,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9785,
-          "id": 9785,
+          "id": 602,
           "clothName": "leg warmers",
           "english": "Black",
           "englishEurope": "Black",
@@ -9691,7 +9727,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9787,
-          "id": 9787,
+          "id": 602,
           "clothName": "leg warmers",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -9731,7 +9767,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9789,
-          "id": 9789,
+          "id": 602,
           "clothName": "leg warmers",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -9771,7 +9807,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5169,
-          "id": 5169,
+          "id": 602,
           "clothName": "leg warmers",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -9811,7 +9847,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9788,
-          "id": 9788,
+          "id": 602,
           "clothName": "leg warmers",
           "english": "Light purple",
           "englishEurope": "Light purple",
@@ -9857,7 +9893,7 @@
       "spanish": "calcetín de tweed",
       "spanishUs": "calcetín de tweed",
       "french": "p. de chaussettes tweed",
-      "frenchUs": "p. de chaussettes tweed",
+      "frenchUs": "p. de bas en tweed",
       "italian": "paio di calzini di lana mista",
       "dutch": "mêleesokken",
       "chinese": "混色粗花呢袜",
@@ -9934,7 +9970,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5168,
-          "id": 5168,
+          "id": 601,
           "clothName": "mixed-tweed socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -9974,7 +10010,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9067,
-          "id": 9067,
+          "id": 601,
           "clothName": "mixed-tweed socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -10014,7 +10050,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9068,
-          "id": 9068,
+          "id": 601,
           "clothName": "mixed-tweed socks",
           "english": "Lime",
           "englishEurope": "Lime",
@@ -10054,7 +10090,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9063,
-          "id": 9063,
+          "id": 601,
           "clothName": "mixed-tweed socks",
           "english": "Avocado",
           "englishEurope": "Avocado",
@@ -10094,7 +10130,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9064,
-          "id": 9064,
+          "id": 601,
           "clothName": "mixed-tweed socks",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -10134,7 +10170,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9066,
-          "id": 9066,
+          "id": 601,
           "clothName": "mixed-tweed socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -10174,7 +10210,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9065,
-          "id": 9065,
+          "id": 601,
           "clothName": "mixed-tweed socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -10214,7 +10250,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9069,
-          "id": 9069,
+          "id": 601,
           "clothName": "mixed-tweed socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -10357,7 +10393,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9808,
-          "id": 9808,
+          "id": 1054,
           "clothName": "neon leggings",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -10397,7 +10433,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9809,
-          "id": 9809,
+          "id": 1054,
           "clothName": "neon leggings",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -10437,7 +10473,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9586,
-          "id": 9586,
+          "id": 1054,
           "clothName": "neon leggings",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -10477,7 +10513,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9810,
-          "id": 9810,
+          "id": 1054,
           "clothName": "neon leggings",
           "english": "Green",
           "englishEurope": "Green",
@@ -10517,7 +10553,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9811,
-          "id": 9811,
+          "id": 1054,
           "clothName": "neon leggings",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -10640,7 +10676,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9694,
-          "id": 9694,
+          "id": 1052,
           "clothName": "neon tights",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -10680,7 +10716,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9695,
-          "id": 9695,
+          "id": 1052,
           "clothName": "neon tights",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -10720,7 +10756,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9583,
-          "id": 9583,
+          "id": 1052,
           "clothName": "neon tights",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -10760,7 +10796,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9696,
-          "id": 9696,
+          "id": 1052,
           "clothName": "neon tights",
           "english": "Green",
           "englishEurope": "Green",
@@ -10800,7 +10836,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9697,
-          "id": 9697,
+          "id": 1052,
           "clothName": "neon tights",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -10846,7 +10882,7 @@
       "spanish": "calcetín oculto",
       "spanishUs": "calcetín oculto",
       "french": "paire de mini-socquettes",
-      "frenchUs": "p. de mini-chaussettes",
+      "frenchUs": "p. de mini-bas",
       "italian": "paio di calzini corti",
       "dutch": "sneakersokken",
       "chinese": "船型袜",
@@ -10963,7 +10999,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10003,
-          "id": 10003,
+          "id": 535,
           "clothName": "no-show socks",
           "english": "White",
           "englishEurope": "White",
@@ -11003,7 +11039,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 4741,
-          "id": 4741,
+          "id": 535,
           "clothName": "no-show socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -11043,7 +11079,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10004,
-          "id": 10004,
+          "id": 535,
           "clothName": "no-show socks",
           "english": "Berry red",
           "englishEurope": "Berry red",
@@ -11083,7 +11119,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10006,
-          "id": 10006,
+          "id": 535,
           "clothName": "no-show socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -11123,7 +11159,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10009,
-          "id": 10009,
+          "id": 535,
           "clothName": "no-show socks",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -11163,7 +11199,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10007,
-          "id": 10007,
+          "id": 535,
           "clothName": "no-show socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -11203,7 +11239,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10005,
-          "id": 10005,
+          "id": 535,
           "clothName": "no-show socks",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -11243,7 +11279,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10008,
-          "id": 10008,
+          "id": 535,
           "clothName": "no-show socks",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
@@ -11289,7 +11325,7 @@
       "spanish": "calcetín nórdico",
       "spanishUs": "calcetín nórdico",
       "french": "p. de chaussettes nordiques",
-      "frenchUs": "p. de chaussettes nordiques",
+      "frenchUs": "p. de bas nordiques",
       "italian": "paio di calzini yodel",
       "dutch": "Scandinavische sokken",
       "chinese": "北欧风袜子",
@@ -11386,7 +11422,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9892,
-          "id": 9892,
+          "id": 542,
           "clothName": "nordic socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -11426,7 +11462,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9890,
-          "id": 9890,
+          "id": 542,
           "clothName": "nordic socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -11466,7 +11502,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9893,
-          "id": 9893,
+          "id": 542,
           "clothName": "nordic socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -11506,7 +11542,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9894,
-          "id": 9894,
+          "id": 542,
           "clothName": "nordic socks",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -11546,7 +11582,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9891,
-          "id": 9891,
+          "id": 542,
           "clothName": "nordic socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -11586,7 +11622,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 4748,
-          "id": 4748,
+          "id": 542,
           "clothName": "nordic socks",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
@@ -11626,7 +11662,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9889,
-          "id": 9889,
+          "id": 542,
           "clothName": "nordic socks",
           "english": "Ivory",
           "englishEurope": "Ivory",
@@ -11789,7 +11825,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9674,
-          "id": 9674,
+          "id": 928,
           "clothName": "patterned stockings",
           "english": "White",
           "englishEurope": "White",
@@ -11829,7 +11865,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 6046,
-          "id": 6046,
+          "id": 928,
           "clothName": "patterned stockings",
           "english": "Black",
           "englishEurope": "Black",
@@ -11875,7 +11911,7 @@
       "spanish": "calcetín con pompones",
       "spanishUs": "calcetín con pompones",
       "french": "paire chaussettes pompons",
-      "frenchUs": "paire chaussettes pompons",
+      "frenchUs": "paire de bas à pompons",
       "italian": "paio di calzini con pon-pon",
       "dutch": "sokken met pompons",
       "chinese": "毛球袜",
@@ -11972,7 +12008,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5179,
-          "id": 5179,
+          "id": 611,
           "clothName": "pom-pom socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -12012,7 +12048,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9074,
-          "id": 9074,
+          "id": 611,
           "clothName": "pom-pom socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -12052,7 +12088,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9073,
-          "id": 9073,
+          "id": 611,
           "clothName": "pom-pom socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -12092,7 +12128,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9072,
-          "id": 9072,
+          "id": 611,
           "clothName": "pom-pom socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -12132,7 +12168,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9075,
-          "id": 9075,
+          "id": 611,
           "clothName": "pom-pom socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -12178,7 +12214,7 @@
       "spanish": "calcetín plisado",
       "spanishUs": "calcetín plisado",
       "french": "p. chaussettes déformées",
-      "frenchUs": "p. chaussettes déformées",
+      "frenchUs": "p. de bas déformés",
       "italian": "paio di calzini arricciati",
       "dutch": "gerimpelde sokken",
       "chinese": "泡泡袜",
@@ -12235,7 +12271,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9078,
-          "id": 9078,
+          "id": 622,
           "clothName": "puckered socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -12275,7 +12311,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5198,
-          "id": 5198,
+          "id": 622,
           "clothName": "puckered socks",
           "english": "Mustard",
           "englishEurope": "Mustard",
@@ -12315,7 +12351,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9080,
-          "id": 9080,
+          "id": 622,
           "clothName": "puckered socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -12355,7 +12391,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9079,
-          "id": 9079,
+          "id": 622,
           "clothName": "puckered socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -12395,7 +12431,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9081,
-          "id": 9081,
+          "id": 622,
           "clothName": "puckered socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -12538,7 +12574,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5214,
-          "id": 5214,
+          "id": 629,
           "clothName": "running tights",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -12578,7 +12614,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9798,
-          "id": 9798,
+          "id": 629,
           "clothName": "running tights",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -12618,7 +12654,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9800,
-          "id": 9800,
+          "id": 629,
           "clothName": "running tights",
           "english": "Green",
           "englishEurope": "Green",
@@ -12658,7 +12694,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9799,
-          "id": 9799,
+          "id": 629,
           "clothName": "running tights",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -12761,7 +12797,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10027,
-          "id": 10027,
+          "id": 1060,
           "clothName": "semi-opaque socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -12801,7 +12837,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10030,
-          "id": 10030,
+          "id": 1060,
           "clothName": "semi-opaque socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -12841,7 +12877,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10031,
-          "id": 10031,
+          "id": 1060,
           "clothName": "semi-opaque socks",
           "english": "Camel",
           "englishEurope": "Camel",
@@ -12881,7 +12917,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10032,
-          "id": 10032,
+          "id": 1060,
           "clothName": "semi-opaque socks",
           "english": "Avocado",
           "englishEurope": "Avocado",
@@ -12921,7 +12957,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9644,
-          "id": 9644,
+          "id": 1060,
           "clothName": "semi-opaque socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -12961,7 +12997,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10028,
-          "id": 10028,
+          "id": 1060,
           "clothName": "semi-opaque socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -13001,7 +13037,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10029,
-          "id": 10029,
+          "id": 1060,
           "clothName": "semi-opaque socks",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
@@ -13041,7 +13077,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10033,
-          "id": 10033,
+          "id": 1060,
           "clothName": "semi-opaque socks",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -13144,7 +13180,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9680,
-          "id": 9680,
+          "id": 1049,
           "clothName": "semi-opaque tights",
           "english": "Red",
           "englishEurope": "Red",
@@ -13184,7 +13220,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9679,
-          "id": 9679,
+          "id": 1049,
           "clothName": "semi-opaque tights",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -13224,7 +13260,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9580,
-          "id": 9580,
+          "id": 1049,
           "clothName": "semi-opaque tights",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -13264,7 +13300,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9675,
-          "id": 9675,
+          "id": 1049,
           "clothName": "semi-opaque tights",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -13304,7 +13340,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9681,
-          "id": 9681,
+          "id": 1049,
           "clothName": "semi-opaque tights",
           "english": "Yellow-green",
           "englishEurope": "Yellow-green",
@@ -13344,7 +13380,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9676,
-          "id": 9676,
+          "id": 1049,
           "clothName": "semi-opaque tights",
           "english": "Green",
           "englishEurope": "Green",
@@ -13384,7 +13420,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9678,
-          "id": 9678,
+          "id": 1049,
           "clothName": "semi-opaque tights",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -13424,7 +13460,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9677,
-          "id": 9677,
+          "id": 1049,
           "clothName": "semi-opaque tights",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -13547,7 +13583,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11583,
-          "id": 11583,
+          "id": 537,
           "clothName": "sequin leggings",
           "english": "White",
           "englishEurope": "White",
@@ -13587,7 +13623,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11581,
-          "id": 11581,
+          "id": 537,
           "clothName": "sequin leggings",
           "english": "Black",
           "englishEurope": "Black",
@@ -13627,7 +13663,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11580,
-          "id": 11580,
+          "id": 537,
           "clothName": "sequin leggings",
           "english": "Red",
           "englishEurope": "Red",
@@ -13667,7 +13703,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 4743,
-          "id": 4743,
+          "id": 537,
           "clothName": "sequin leggings",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -13707,7 +13743,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11582,
-          "id": 11582,
+          "id": 537,
           "clothName": "sequin leggings",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -13747,7 +13783,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11586,
-          "id": 11586,
+          "id": 537,
           "clothName": "sequin leggings",
           "english": "Green",
           "englishEurope": "Green",
@@ -13787,7 +13823,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11584,
-          "id": 11584,
+          "id": 537,
           "clothName": "sequin leggings",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -13827,7 +13863,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 11585,
-          "id": 11585,
+          "id": 537,
           "clothName": "sequin leggings",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -13873,7 +13909,7 @@
       "spanish": "calcetín traslúcido",
       "spanishUs": "calcetín traslúcido",
       "french": "paires de chaussettes fines",
-      "frenchUs": "paire de chaussettes fines",
+      "frenchUs": "paire de bas fins",
       "italian": "paio di calzini traslucidi",
       "dutch": "doorschijnende sokken",
       "chinese": "透肤袜",
@@ -13970,7 +14006,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9932,
-          "id": 9932,
+          "id": 886,
           "clothName": "sheer socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -14010,7 +14046,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9928,
-          "id": 9928,
+          "id": 886,
           "clothName": "sheer socks",
           "english": "Berry red",
           "englishEurope": "Berry red",
@@ -14050,7 +14086,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9930,
-          "id": 9930,
+          "id": 886,
           "clothName": "sheer socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -14090,7 +14126,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9931,
-          "id": 9931,
+          "id": 886,
           "clothName": "sheer socks",
           "english": "Olive",
           "englishEurope": "Olive",
@@ -14130,7 +14166,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5812,
-          "id": 5812,
+          "id": 886,
           "clothName": "sheer socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -14170,7 +14206,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9929,
-          "id": 9929,
+          "id": 886,
           "clothName": "sheer socks",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -14273,7 +14309,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 12182,
-          "id": 12182,
+          "id": 1189,
           "clothName": "simple knee-high socks",
           "english": "White",
           "englishEurope": "White",
@@ -14313,7 +14349,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 12183,
-          "id": 12183,
+          "id": 1189,
           "clothName": "simple knee-high socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -14353,7 +14389,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 12175,
-          "id": 12175,
+          "id": 1189,
           "clothName": "simple knee-high socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -14393,7 +14429,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 12184,
-          "id": 12184,
+          "id": 1189,
           "clothName": "simple knee-high socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -14439,7 +14475,7 @@
       "spanish": "calcetín con detalle",
       "spanishUs": "calcetín con detalle",
       "french": "paire de chaussettes à logo",
-      "frenchUs": "paire de chaussettes à logo",
+      "frenchUs": "paire de bas à logo",
       "italian": "paio di calzini con logo",
       "dutch": "sokken met detail",
       "chinese": "单一图案袜",
@@ -14516,7 +14552,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9083,
-          "id": 9083,
+          "id": 624,
           "clothName": "simple-accent socks",
           "english": "White",
           "englishEurope": "White",
@@ -14556,7 +14592,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9084,
-          "id": 9084,
+          "id": 624,
           "clothName": "simple-accent socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -14596,7 +14632,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9082,
-          "id": 9082,
+          "id": 624,
           "clothName": "simple-accent socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -14636,7 +14672,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9087,
-          "id": 9087,
+          "id": 624,
           "clothName": "simple-accent socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -14676,7 +14712,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9088,
-          "id": 9088,
+          "id": 624,
           "clothName": "simple-accent socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -14716,7 +14752,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9086,
-          "id": 9086,
+          "id": 624,
           "clothName": "simple-accent socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -14756,7 +14792,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5200,
-          "id": 5200,
+          "id": 624,
           "clothName": "simple-accent socks",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
@@ -14796,7 +14832,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9085,
-          "id": 9085,
+          "id": 624,
           "clothName": "simple-accent socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -14842,7 +14878,7 @@
       "spanish": "media fútbol",
       "spanishUs": "media de fútbol",
       "french": "paire chaussettes de foot",
-      "frenchUs": "paire chaussettes de soccer",
+      "frenchUs": "paire de bas de soccer",
       "italian": "paio di calzettoni da calcio",
       "dutch": "voetbalsokken",
       "chinese": "足球袜",
@@ -14919,7 +14955,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9978,
-          "id": 9978,
+          "id": 609,
           "clothName": "soccer socks",
           "english": "White",
           "englishEurope": "White",
@@ -14959,7 +14995,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9976,
-          "id": 9976,
+          "id": 609,
           "clothName": "soccer socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -14999,7 +15035,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9973,
-          "id": 9973,
+          "id": 609,
           "clothName": "soccer socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -15039,7 +15075,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9977,
-          "id": 9977,
+          "id": 609,
           "clothName": "soccer socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -15079,7 +15115,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9974,
-          "id": 9974,
+          "id": 609,
           "clothName": "soccer socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -15119,7 +15155,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9975,
-          "id": 9975,
+          "id": 609,
           "clothName": "soccer socks",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -15159,7 +15195,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5177,
-          "id": 5177,
+          "id": 609,
           "clothName": "soccer socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -15302,7 +15338,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9671,
-          "id": 9671,
+          "id": 627,
           "clothName": "spider-web tights",
           "english": "White",
           "englishEurope": "White",
@@ -15342,7 +15378,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5203,
-          "id": 5203,
+          "id": 627,
           "clothName": "spider-web tights",
           "english": "Black",
           "englishEurope": "Black",
@@ -15382,7 +15418,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9672,
-          "id": 9672,
+          "id": 627,
           "clothName": "spider-web tights",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -15422,7 +15458,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9673,
-          "id": 9673,
+          "id": 627,
           "clothName": "spider-web tights",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -15545,7 +15581,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9656,
-          "id": 9656,
+          "id": 47,
           "clothName": "stockings",
           "english": "White",
           "englishEurope": "White",
@@ -15585,7 +15621,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9655,
-          "id": 9655,
+          "id": 47,
           "clothName": "stockings",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -15625,7 +15661,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 3095,
-          "id": 3095,
+          "id": 47,
           "clothName": "stockings",
           "english": "Black",
           "englishEurope": "Black",
@@ -15665,7 +15701,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9657,
-          "id": 9657,
+          "id": 47,
           "clothName": "stockings",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -15705,7 +15741,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9658,
-          "id": 9658,
+          "id": 47,
           "clothName": "stockings",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -15848,7 +15884,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9778,
-          "id": 9778,
+          "id": 538,
           "clothName": "stretch leggings",
           "english": "White",
           "englishEurope": "White",
@@ -15888,7 +15924,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9776,
-          "id": 9776,
+          "id": 538,
           "clothName": "stretch leggings",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -15928,7 +15964,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9777,
-          "id": 9777,
+          "id": 538,
           "clothName": "stretch leggings",
           "english": "Dark gray",
           "englishEurope": "Dark gray",
@@ -15968,7 +16004,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9779,
-          "id": 9779,
+          "id": 538,
           "clothName": "stretch leggings",
           "english": "Black",
           "englishEurope": "Black",
@@ -16008,7 +16044,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9781,
-          "id": 9781,
+          "id": 538,
           "clothName": "stretch leggings",
           "english": "Green",
           "englishEurope": "Green",
@@ -16048,7 +16084,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 4744,
-          "id": 4744,
+          "id": 538,
           "clothName": "stretch leggings",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
@@ -16088,7 +16124,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9780,
-          "id": 9780,
+          "id": 538,
           "clothName": "stretch leggings",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -16134,7 +16170,7 @@
       "spanish": "calcetín a rayas",
       "spanishUs": "calcetín a rayas",
       "french": "paire de chaussettes rayées",
-      "frenchUs": "paire de chaussettes rayées",
+      "frenchUs": "paire de bas rayés",
       "italian": "paio di calzini a strisce",
       "dutch": "gestreepte sokken",
       "chinese": "粗横纹袜",
@@ -16211,7 +16247,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5199,
-          "id": 5199,
+          "id": 623,
           "clothName": "striped socks",
           "english": "Monotone",
           "englishEurope": "Monotone",
@@ -16251,7 +16287,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9999,
-          "id": 9999,
+          "id": 623,
           "clothName": "striped socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -16291,7 +16327,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9998,
-          "id": 9998,
+          "id": 623,
           "clothName": "striped socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -16331,7 +16367,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9997,
-          "id": 9997,
+          "id": 623,
           "clothName": "striped socks",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -16371,7 +16407,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9996,
-          "id": 9996,
+          "id": 623,
           "clothName": "striped socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -16411,7 +16447,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 6902,
-          "id": 6902,
+          "id": 623,
           "clothName": "striped socks",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -16451,7 +16487,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10001,
-          "id": 10001,
+          "id": 623,
           "clothName": "striped socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -16491,7 +16527,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10000,
-          "id": 10000,
+          "id": 623,
           "clothName": "striped socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -16614,7 +16650,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9937,
-          "id": 9937,
+          "id": 927,
           "clothName": "striped tights",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -16654,7 +16690,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 6045,
-          "id": 6045,
+          "id": 927,
           "clothName": "striped tights",
           "english": "Red",
           "englishEurope": "Red",
@@ -16694,7 +16730,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9938,
-          "id": 9938,
+          "id": 927,
           "clothName": "striped tights",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -16734,7 +16770,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9943,
-          "id": 9943,
+          "id": 927,
           "clothName": "striped tights",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -16774,7 +16810,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9940,
-          "id": 9940,
+          "id": 927,
           "clothName": "striped tights",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -16814,7 +16850,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9942,
-          "id": 9942,
+          "id": 927,
           "clothName": "striped tights",
           "english": "Green",
           "englishEurope": "Green",
@@ -16854,7 +16890,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9939,
-          "id": 9939,
+          "id": 927,
           "clothName": "striped tights",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -16894,7 +16930,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9941,
-          "id": 9941,
+          "id": 927,
           "clothName": "striped tights",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -17037,7 +17073,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 4749,
-          "id": 4749,
+          "id": 543,
           "clothName": "tabi",
           "english": "White",
           "englishEurope": "White",
@@ -17077,7 +17113,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8929,
-          "id": 8929,
+          "id": 543,
           "clothName": "tabi",
           "english": "Black",
           "englishEurope": "Black",
@@ -17117,7 +17153,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 8930,
-          "id": 8930,
+          "id": 543,
           "clothName": "tabi",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
@@ -17163,7 +17199,7 @@
       "spanish": "calcetín de felpa",
       "spanishUs": "calcetín de felpa",
       "french": "p. chaussettes tissu éponge",
-      "frenchUs": "p. chaussettes tissu éponge",
+      "frenchUs": "p. de bas en tissu éponge",
       "italian": "paio di calzini di spugna",
       "dutch": "badstoffen sokken",
       "chinese": "毛绒袜",
@@ -17240,7 +17276,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9984,
-          "id": 9984,
+          "id": 613,
           "clothName": "terry-cloth socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -17280,7 +17316,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9983,
-          "id": 9983,
+          "id": 613,
           "clothName": "terry-cloth socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -17320,7 +17356,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5181,
-          "id": 5181,
+          "id": 613,
           "clothName": "terry-cloth socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -17360,7 +17396,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9981,
-          "id": 9981,
+          "id": 613,
           "clothName": "terry-cloth socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -17400,7 +17436,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9980,
-          "id": 9980,
+          "id": 613,
           "clothName": "terry-cloth socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -17440,7 +17476,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9979,
-          "id": 9979,
+          "id": 613,
           "clothName": "terry-cloth socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -17480,7 +17516,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9982,
-          "id": 9982,
+          "id": 613,
           "clothName": "terry-cloth socks",
           "english": "Beige",
           "englishEurope": "Beige",
@@ -17526,7 +17562,7 @@
       "spanish": "calcetín cómodo",
       "spanishUs": "calcetín cómodo",
       "french": "paire de chaussettes sport",
-      "frenchUs": "paire de chaussettes sport",
+      "frenchUs": "paire de bas de sport",
       "italian": "paio di calzini con righe",
       "dutch": "sportsokken",
       "chinese": "条纹袜",
@@ -17623,7 +17659,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9968,
-          "id": 9968,
+          "id": 540,
           "clothName": "tube socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -17663,7 +17699,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9966,
-          "id": 9966,
+          "id": 540,
           "clothName": "tube socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -17703,7 +17739,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9967,
-          "id": 9967,
+          "id": 540,
           "clothName": "tube socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -17743,7 +17779,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 4746,
-          "id": 4746,
+          "id": 540,
           "clothName": "tube socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -17783,7 +17819,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9970,
-          "id": 9970,
+          "id": 540,
           "clothName": "tube socks",
           "english": "Berry red",
           "englishEurope": "Berry red",
@@ -17823,7 +17859,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9971,
-          "id": 9971,
+          "id": 540,
           "clothName": "tube socks",
           "english": "Dark green",
           "englishEurope": "Dark green",
@@ -17863,7 +17899,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9969,
-          "id": 9969,
+          "id": 540,
           "clothName": "tube socks",
           "english": "Navy blue",
           "englishEurope": "Navy blue",
@@ -17903,7 +17939,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9972,
-          "id": 9972,
+          "id": 540,
           "clothName": "tube socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -17949,7 +17985,7 @@
       "spanish": "calcetín invisible",
       "spanishUs": "calcetín invisible",
       "french": "p. de chaussettes ballerines",
-      "frenchUs": "p. de chaussettes ballerines",
+      "frenchUs": "p. de bas ballerines",
       "italian": "paio di fantasmini",
       "dutch": "kousenvoetjes",
       "chinese": "隐形袜",
@@ -18046,7 +18082,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10016,
-          "id": 10016,
+          "id": 600,
           "clothName": "ultra no-show socks",
           "english": "White",
           "englishEurope": "White",
@@ -18086,7 +18122,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10015,
-          "id": 10015,
+          "id": 600,
           "clothName": "ultra no-show socks",
           "english": "Black",
           "englishEurope": "Black",
@@ -18126,7 +18162,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10010,
-          "id": 10010,
+          "id": 600,
           "clothName": "ultra no-show socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -18166,7 +18202,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10012,
-          "id": 10012,
+          "id": 600,
           "clothName": "ultra no-show socks",
           "english": "Olive",
           "englishEurope": "Olive",
@@ -18206,7 +18242,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10013,
-          "id": 10013,
+          "id": 600,
           "clothName": "ultra no-show socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -18246,7 +18282,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5167,
-          "id": 5167,
+          "id": 600,
           "clothName": "ultra no-show socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -18286,7 +18322,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10014,
-          "id": 10014,
+          "id": 600,
           "clothName": "ultra no-show socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -18326,7 +18362,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10011,
-          "id": 10011,
+          "id": 600,
           "clothName": "ultra no-show socks",
           "english": "Brown",
           "englishEurope": "Brown",
@@ -18469,7 +18505,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9802,
-          "id": 9802,
+          "id": 1053,
           "clothName": "vivid leggings",
           "english": "Red",
           "englishEurope": "Red",
@@ -18509,7 +18545,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9803,
-          "id": 9803,
+          "id": 1053,
           "clothName": "vivid leggings",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -18549,7 +18585,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9807,
-          "id": 9807,
+          "id": 1053,
           "clothName": "vivid leggings",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -18589,7 +18625,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9805,
-          "id": 9805,
+          "id": 1053,
           "clothName": "vivid leggings",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -18629,7 +18665,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9806,
-          "id": 9806,
+          "id": 1053,
           "clothName": "vivid leggings",
           "english": "Green",
           "englishEurope": "Green",
@@ -18669,7 +18705,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9585,
-          "id": 9585,
+          "id": 1053,
           "clothName": "vivid leggings",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -18709,7 +18745,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9804,
-          "id": 9804,
+          "id": 1053,
           "clothName": "vivid leggings",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -18749,7 +18785,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9801,
-          "id": 9801,
+          "id": 1053,
           "clothName": "vivid leggings",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -18795,7 +18831,7 @@
       "spanish": "calcetín de color vívido",
       "spanishUs": "calcetín de color vívido",
       "french": "paire de socquettes vives",
-      "frenchUs": "p. de chaussettes simples",
+      "frenchUs": "p. de bas simples",
       "italian": "paio di calzini briosi",
       "dutch": "felgekleurde sokken",
       "chinese": "鲜艳袜子",
@@ -18892,7 +18928,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9643,
-          "id": 9643,
+          "id": 1002,
           "clothName": "vivid socks",
           "english": "Red",
           "englishEurope": "Red",
@@ -18932,7 +18968,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10024,
-          "id": 10024,
+          "id": 1002,
           "clothName": "vivid socks",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -18972,7 +19008,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10025,
-          "id": 10025,
+          "id": 1002,
           "clothName": "vivid socks",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -19012,7 +19048,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10026,
-          "id": 10026,
+          "id": 1002,
           "clothName": "vivid socks",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -19052,7 +19088,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 6898,
-          "id": 6898,
+          "id": 1002,
           "clothName": "vivid socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -19092,7 +19128,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10021,
-          "id": 10021,
+          "id": 1002,
           "clothName": "vivid socks",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -19132,7 +19168,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10022,
-          "id": 10022,
+          "id": 1002,
           "clothName": "vivid socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -19172,7 +19208,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 10023,
-          "id": 10023,
+          "id": 1002,
           "clothName": "vivid socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -19295,7 +19331,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9688,
-          "id": 9688,
+          "id": 1051,
           "clothName": "vivid tights",
           "english": "Red",
           "englishEurope": "Red",
@@ -19335,7 +19371,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9689,
-          "id": 9689,
+          "id": 1051,
           "clothName": "vivid tights",
           "english": "Pink",
           "englishEurope": "Pink",
@@ -19375,7 +19411,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9693,
-          "id": 9693,
+          "id": 1051,
           "clothName": "vivid tights",
           "english": "Orange",
           "englishEurope": "Orange",
@@ -19415,7 +19451,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9691,
-          "id": 9691,
+          "id": 1051,
           "clothName": "vivid tights",
           "english": "Yellow",
           "englishEurope": "Yellow",
@@ -19455,7 +19491,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9692,
-          "id": 9692,
+          "id": 1051,
           "clothName": "vivid tights",
           "english": "Green",
           "englishEurope": "Green",
@@ -19495,7 +19531,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9582,
-          "id": 9582,
+          "id": 1051,
           "clothName": "vivid tights",
           "english": "Light blue",
           "englishEurope": "Light blue",
@@ -19535,7 +19571,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9690,
-          "id": 9690,
+          "id": 1051,
           "clothName": "vivid tights",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -19575,7 +19611,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9687,
-          "id": 9687,
+          "id": 1051,
           "clothName": "vivid tights",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -19621,7 +19657,7 @@
       "spanish": "calcetín ondas",
       "spanishUs": "calcetín ondas",
       "french": "paire de socquettes vagues",
-      "frenchUs": "p. de chaussettes vagues",
+      "frenchUs": "p. de bas vagues",
       "italian": "paio di calzini a squame",
       "dutch": "sokken met golvenprint",
       "chinese": "青海波袜子",
@@ -19678,7 +19714,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9936,
-          "id": 9936,
+          "id": 887,
           "clothName": "wave-print socks",
           "english": "Gray",
           "englishEurope": "Gray",
@@ -19718,7 +19754,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9935,
-          "id": 9935,
+          "id": 887,
           "clothName": "wave-print socks",
           "english": "Green",
           "englishEurope": "Green",
@@ -19758,7 +19794,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 5813,
-          "id": 5813,
+          "id": 887,
           "clothName": "wave-print socks",
           "english": "Blue",
           "englishEurope": "Blue",
@@ -19798,7 +19834,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9934,
-          "id": 9934,
+          "id": 887,
           "clothName": "wave-print socks",
           "english": "Purple",
           "englishEurope": "Purple",
@@ -19838,7 +19874,7 @@
         "variantTranslations": {
           "sourceSheet": "Socks Variants",
           "variantId": 9933,
-          "id": 9933,
+          "id": 887,
           "clothName": "wave-print socks",
           "english": "Brown",
           "englishEurope": "Brown",

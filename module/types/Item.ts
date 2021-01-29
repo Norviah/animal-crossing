@@ -7,7 +7,7 @@ export interface Item {
     pattern?:              null;
     patternTitle?:         null;
     diy?:                  boolean;
-    bodyCustomize?:        boolean;
+    bodyCustomize?:        boolean | null;
     patternCustomize?:     boolean;
     kitCost?:              number | null;
     kitType?:              null;
@@ -20,7 +20,7 @@ export interface Item {
     source?:               string[];
     sourceNotes?:          string[] | null;
     seasonEvent?:          null | string;
-    seasonEventExclusive?: boolean | null | string;
+    seasonEventExclusive?: boolean | null;
     hhaBasePoints?:        number | null;
     hhaCategory?:          HhaCategory | null;
     interact?:             boolean | InteractEnum;
@@ -74,7 +74,7 @@ export interface Item {
     framedImage?:          null | string;
     albumImage?:           null | string;
     inventoryImage?:       string;
-    stackSize?:            number;
+    stackSize?:            number | null;
     inventoryFilename?:    string;
     storageFilename?:      null | string;
     seriesTranslations?:   SeriesTranslations;
@@ -90,7 +90,7 @@ export interface Item {
     curtainType?:          CurtainType | null;
     curtainColor?:         null | string;
     ceilingType?:          CeilingType;
-    uses?:                 number;
+    uses?:                 number | null;
     fossilGroup?:          string;
     description?:          string[];
     museum?:               Museum;
@@ -232,6 +232,8 @@ export enum InteractEnum {
 export enum LightingType {
     Candle = "Candle",
     Emission = "Emission",
+    EmissionOnly = "EmissionOnly",
+    FluorLamp = "FluorLamp",
     Fluorescent = "Fluorescent",
     Monitor = "Monitor",
     Spotlight = "Spotlight",
@@ -318,8 +320,8 @@ export enum CardColor {
 }
 
 export interface SeriesTranslations {
-    sourceSheet?:       SeriesTranslationsSourceSheet;
-    id?:                number;
+    sourceSheet:        SeriesTranslationsSourceSheet;
+    id:                 number;
     version?:           Version;
     english:            string;
     englishEurope:      string;
@@ -335,7 +337,7 @@ export interface SeriesTranslations {
     japanese:           string;
     korean:             string;
     russian:            string;
-    plural?:            boolean;
+    plural:             boolean;
     variantId?:         number;
     furnitureName?:     string;
 }
@@ -384,6 +386,7 @@ export enum Version {
     The140 = "1.4.0",
     The150 = "1.5.0",
     The160 = "1.6.0",
+    The170 = "1.7.0",
 }
 
 export enum RecipeSourceSheet {
@@ -404,7 +407,7 @@ export enum Size {
     Size2X1 = "2x1 ",
     Size2X15 = "2x1.5 ",
     Size2X2 = "2x2 ",
-    Size3X2 = "3x2",
+    Size3X2 = "3x2 ",
     Size3X3 = "3x3 ",
     Size4X3 = "4x3 ",
     Size4X4 = "4x4 ",
@@ -419,7 +422,7 @@ export enum Size {
     The2X15 = "2x1.5",
     The2X2 = "2x2",
     The3X1 = "3x1",
-    The3X2 = "3x2 ",
+    The3X2 = "3x2",
     The3X3 = "3x3",
     The4X3 = "4x3",
     The4X4 = "4x4",
@@ -731,7 +734,7 @@ export interface VariationElement {
     exchangePrice?:       number | null;
     exchangeCurrency?:    ExchangeCurrency | null;
     seasonEvent:          null | string;
-    seasonEventExclusive: boolean | null | string;
+    seasonEventExclusive: boolean | null;
     seasonality?:         SeasonalAvailability;
     mannequinSeason?:     SeasonalAvailability | null;
     gender?:              Gender;
@@ -760,6 +763,7 @@ export interface VariationElement {
 export enum KitType {
     Normal = "Normal",
     Pumpkin = "Pumpkin",
+    RainbowFeather = "Rainbow feather",
 }
 
 export interface VariantTranslations {
@@ -792,6 +796,7 @@ export enum VariantTranslationsSourceSheet {
     BottomsVariants = "Bottoms Variants",
     CapsVariants = "Caps Variants",
     DressesVariants = "Dresses Variants",
+    FurniturePatterns = "Furniture Patterns",
     FurnitureVariants = "Furniture Variants",
     MarineSuitVariants = "Marine Suit Variants",
     MasksVariants = "Masks Variants",

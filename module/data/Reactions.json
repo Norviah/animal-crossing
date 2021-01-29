@@ -10,6 +10,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Outraged",
+    "internalId": 25,
     "uniqueEntryId": "6suhKYAAhh5QMKt64",
     "translations": {
       "sourceSheet": "Reactions",
@@ -43,6 +44,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Nodding",
+    "internalId": 39,
     "uniqueEntryId": "7smqwK9J7eFBxta28",
     "translations": {
       "sourceSheet": "Reactions",
@@ -76,6 +78,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Shocked",
+    "internalId": 33,
     "uniqueEntryId": "vosig4bbr4kPq57AT",
     "translations": {
       "sourceSheet": "Reactions",
@@ -109,6 +112,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Apologize",
+    "internalId": 126,
     "uniqueEntryId": "jBKsQYCAd7PtymQeB",
     "translations": {
       "sourceSheet": "Reactions",
@@ -142,6 +146,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Blushing",
+    "internalId": 44,
     "uniqueEntryId": "wzvKbFrEJCseTohoz",
     "translations": {
       "sourceSheet": "Reactions",
@@ -175,6 +180,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Pardon",
+    "internalId": 253,
     "uniqueEntryId": "WRSSRZMtM6rXfXBrR",
     "translations": {
       "sourceSheet": "Reactions",
@@ -208,6 +214,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "ColdChill",
+    "internalId": 37,
     "uniqueEntryId": "K62u2owKFDLmPCB3Q",
     "translations": {
       "sourceSheet": "Reactions",
@@ -232,6 +239,40 @@
   },
   {
     "sourceSheet": "Reactions",
+    "num": 56,
+    "name": "Confetti",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddConfetti.png",
+    "source": [ "Viva Festivale Reaction Set" ],
+    "sourceNotes": null,
+    "seasonEvent": "Festivale (ready days); Festivale",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.7.0",
+    "iconFilename": "AddConfetti",
+    "internalId": 848,
+    "uniqueEntryId": "ZQwAqpKEDkTHTQXEn",
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddConfetti",
+      "version": "1.7.0",
+      "english": "Confetti",
+      "englishEurope": "Confetti",
+      "german": "Konfetti",
+      "spanish": "Confeti",
+      "spanishUs": "Confeti",
+      "french": "Confettis",
+      "frenchUs": "Confettis",
+      "italian": "Coriandoli",
+      "dutch": "Confetti",
+      "chinese": "撒纸片",
+      "chineseTraditional": "撒紙片",
+      "japanese": "かみふぶき",
+      "korean": "종이 꽃가루",
+      "russian": "Конфетти",
+      "plural": false
+    }
+  },
+  {
+    "sourceSheet": "Reactions",
     "num": 10,
     "name": "Confident",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Assent.png",
@@ -241,6 +282,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Assent",
+    "internalId": 127,
     "uniqueEntryId": "TGifHTbyLBh4f3gDQ",
     "translations": {
       "sourceSheet": "Reactions",
@@ -274,6 +316,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "QuestionMark",
+    "internalId": 41,
     "uniqueEntryId": "SskgipgnKzm5TsK7d",
     "translations": {
       "sourceSheet": "Reactions",
@@ -307,6 +350,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "AbsentMindedness",
+    "internalId": 61,
     "uniqueEntryId": "JFrTBJCEaX5R4kABT",
     "translations": {
       "sourceSheet": "Reactions",
@@ -340,6 +384,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Clapping",
+    "internalId": 47,
     "uniqueEntryId": "F9DpGeqZzDeSTh2bq",
     "translations": {
       "sourceSheet": "Reactions",
@@ -373,6 +418,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Negative",
+    "internalId": 58,
     "uniqueEntryId": "Bw5YBM6iuWgMzutWq",
     "translations": {
       "sourceSheet": "Reactions",
@@ -406,6 +452,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Frantic",
+    "internalId": 31,
     "uniqueEntryId": "vsSjQBZXPeSK6uDTK",
     "translations": {
       "sourceSheet": "Reactions",
@@ -439,6 +486,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Sleep",
+    "internalId": 63,
     "uniqueEntryId": "2vvgAacGjthcFW5Qa",
     "translations": {
       "sourceSheet": "Reactions",
@@ -472,6 +520,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Cheering",
+    "internalId": 49,
     "uniqueEntryId": "fomfML4NWdY8x6adv",
     "translations": {
       "sourceSheet": "Reactions",
@@ -505,6 +554,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.6.0",
     "iconFilename": "AddExcited",
+    "internalId": 813,
     "uniqueEntryId": "n7AxvQcyuPEtdD7uF",
     "translations": {
       "sourceSheet": "Reactions",
@@ -538,6 +588,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Shaking",
+    "internalId": 38,
     "uniqueEntryId": "noKrWYCMSWcH4jwvi",
     "translations": {
       "sourceSheet": "Reactions",
@@ -562,6 +613,40 @@
   },
   {
     "sourceSheet": "Reactions",
+    "num": 59,
+    "name": "Feelin' It",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddDance.png",
+    "source": [ "Viva Festivale Reaction Set" ],
+    "sourceNotes": null,
+    "seasonEvent": "Festivale (ready days); Festivale",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.7.0",
+    "iconFilename": "AddDance",
+    "internalId": 856,
+    "uniqueEntryId": "r6wW7uebEBsLwP3XT",
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddDance",
+      "version": "1.7.0",
+      "english": "Feelin' It",
+      "englishEurope": "Feelin' It",
+      "german": "Rhythmus im Blut",
+      "spanish": "Coreografía",
+      "spanishUs": "Coreografía",
+      "french": "Samba",
+      "frenchUs": "En rythme",
+      "italian": "Ritmo nel sangue",
+      "dutch": "Swingende heupenpas",
+      "chinese": "跟着节奏",
+      "chineseTraditional": "跟著節奏",
+      "japanese": "リズムにのる",
+      "korean": "리듬 타기",
+      "russian": "В ритме",
+      "plural": false
+    }
+  },
+  {
+    "sourceSheet": "Reactions",
     "num": 12,
     "name": "Flourish",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Dance.png",
@@ -571,6 +656,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Dance",
+    "internalId": 60,
     "uniqueEntryId": "5QDD3DcwdPhbGoJAf",
     "translations": {
       "sourceSheet": "Reactions",
@@ -604,6 +690,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "HappyDance",
+    "internalId": 23,
     "uniqueEntryId": "8nAwdhzZfotqpLC9R",
     "translations": {
       "sourceSheet": "Reactions",
@@ -637,6 +724,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Greeting",
+    "internalId": 50,
     "uniqueEntryId": "oE6uqhZYjYfuqb55n",
     "translations": {
       "sourceSheet": "Reactions",
@@ -670,6 +758,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Smiling",
+    "internalId": 19,
     "uniqueEntryId": "TWENXBbBENgnFiGq3",
     "translations": {
       "sourceSheet": "Reactions",
@@ -703,6 +792,7 @@
     "seasonEventExclusive": true,
     "versionAdded": "1.5.0",
     "iconFilename": "AddScaring",
+    "internalId": 801,
     "uniqueEntryId": "fA3nXJsXHNT67zyT2",
     "translations": {
       "sourceSheet": "Reactions",
@@ -736,6 +826,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "BrokenHeart",
+    "internalId": 42,
     "uniqueEntryId": "ex6gKZu6zsyd6MgDr",
     "translations": {
       "sourceSheet": "Reactions",
@@ -769,6 +860,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.6.0",
     "iconFilename": "AddHereYouGo",
+    "internalId": 816,
     "uniqueEntryId": "7mskmgbcDnZMfaa8d",
     "translations": {
       "sourceSheet": "Reactions",
@@ -787,7 +879,7 @@
       "chineseTraditional": "請",
       "japanese": "さぁどうぞ",
       "korean": "자 여기!",
-      "russian": "Подарок",
+      "russian": "Вуаля",
       "plural": false
     }
   },
@@ -802,6 +894,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "IdeaBulb",
+    "internalId": 40,
     "uniqueEntryId": "8ux4ddfibJQR2EuWW",
     "translations": {
       "sourceSheet": "Reactions",
@@ -835,6 +928,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Silent",
+    "internalId": 119,
     "uniqueEntryId": "X2kzqTaPwtG6SGNT8",
     "translations": {
       "sourceSheet": "Reactions",
@@ -868,6 +962,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "HappyFlower",
+    "internalId": 21,
     "uniqueEntryId": "fSNyHJHgLKac5mSLT",
     "translations": {
       "sourceSheet": "Reactions",
@@ -901,6 +996,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Laughing",
+    "internalId": 20,
     "uniqueEntryId": "EBenMHMpwnkMgS6eg",
     "translations": {
       "sourceSheet": "Reactions",
@@ -925,6 +1021,40 @@
   },
   {
     "sourceSheet": "Reactions",
+    "num": 58,
+    "name": "Let's Go",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddEntice.png",
+    "source": [ "Viva Festivale Reaction Set" ],
+    "sourceNotes": null,
+    "seasonEvent": "Festivale (ready days); Festivale",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.7.0",
+    "iconFilename": "AddEntice",
+    "internalId": 855,
+    "uniqueEntryId": "mcdAptLF325uqyDKa",
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddEntice",
+      "version": "1.7.0",
+      "english": "Let's Go",
+      "englishEurope": "Let's Go",
+      "german": "Aufforderung zum Tanz",
+      "spanish": "Vamos",
+      "spanishUs": "Vamos",
+      "french": "Avec moi !",
+      "frenchUs": "Avec moi!",
+      "italian": "Coinvolgimento",
+      "dutch": "Swingende hinkpas",
+      "chinese": "炒热气氛",
+      "chineseTraditional": "炒熱氣氛",
+      "japanese": "もりあげる",
+      "korean": "분위기 업",
+      "russian": "Танцуем!",
+      "plural": false
+    }
+  },
+  {
+    "sourceSheet": "Reactions",
     "num": 9,
     "name": "Love",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Love.png",
@@ -934,6 +1064,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Love",
+    "internalId": 22,
     "uniqueEntryId": "GvAsErCFuGAcMAeXM",
     "translations": {
       "sourceSheet": "Reactions",
@@ -967,6 +1098,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Scheming",
+    "internalId": 46,
     "uniqueEntryId": "E7it7yLfFaddFvEhQ",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1000,6 +1132,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Oops",
+    "internalId": 59,
     "uniqueEntryId": "DPR7WWkmR36Bsf2LG",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1033,6 +1166,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Hello",
+    "internalId": 120,
     "uniqueEntryId": "Z3MuKfQMaH3D8vkPA",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1066,6 +1200,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "SmugFace",
+    "internalId": 51,
     "uniqueEntryId": "xKoQpdJMtocNFRckm",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1099,6 +1234,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "OhGeez",
+    "internalId": 45,
     "uniqueEntryId": "7YdF3ZMr95XP3FaoW",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1132,6 +1268,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "SadSpiral",
+    "internalId": 30,
     "uniqueEntryId": "Wo8q6KhPtL2CYwat4",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1165,6 +1302,7 @@
     "seasonEventExclusive": true,
     "versionAdded": "1.5.0",
     "iconFilename": "AddPrank",
+    "internalId": 805,
     "uniqueEntryId": "sBW2mWEs7FW8mN8e5",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1198,6 +1336,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "WrySmile",
+    "internalId": 54,
     "uniqueEntryId": "5cRnCPDJRdRpPJF8D",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1231,6 +1370,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Surprised",
+    "internalId": 36,
     "uniqueEntryId": "bn29da8SNdMYYyWAa",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1264,6 +1404,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Shaki",
+    "internalId": 62,
     "uniqueEntryId": "Bj5iG7kc6tLND9bjn",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1297,6 +1438,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Hesitate",
+    "internalId": 57,
     "uniqueEntryId": "9H7jt7AGKbh6mW4y8",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1330,6 +1472,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Sighing",
+    "internalId": 28,
     "uniqueEntryId": "ntjLqg82EQNsgnzYA",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1363,6 +1506,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.6.0",
     "iconFilename": "AddSitDown",
+    "internalId": 808,
     "uniqueEntryId": "vZLdKXLdnjvN4J5Je",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1396,6 +1540,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Sleepy",
+    "internalId": 43,
     "uniqueEntryId": "9e5BhxmqtMurNWqW4",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1429,6 +1574,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Grin",
+    "internalId": 53,
     "uniqueEntryId": "KDAWT9zDKpufEWgaW",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1462,6 +1608,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Sneezing",
+    "internalId": 48,
     "uniqueEntryId": "F6Dkk4PGtjDMCgry3",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1495,6 +1642,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.6.0",
     "iconFilename": "AddSmell",
+    "internalId": 814,
     "uniqueEntryId": "M3JksnoqmWyo9otrd",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1528,6 +1676,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Crying",
+    "internalId": 32,
     "uniqueEntryId": "W8nngMS98uwpHHW4m",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1561,6 +1710,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Aha",
+    "internalId": 34,
     "uniqueEntryId": "7jmkZiSxrYT7MMm4P",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1594,6 +1744,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.6.0",
     "iconFilename": "AddPraise",
+    "internalId": 817,
     "uniqueEntryId": "r5knh2R8vmx7J4pxR",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1612,7 +1763,7 @@
       "chineseTraditional": "誇獎",
       "japanese": "たたえる",
       "korean": "대단해!",
-      "russian": "Вуаля",
+      "russian": "Похвала",
       "plural": false
     }
   },
@@ -1627,6 +1778,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.6.0",
     "iconFilename": "AddTakePictures",
+    "internalId": 815,
     "uniqueEntryId": "77uFv5cZp43Rt3LaP",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1660,6 +1812,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Thinking",
+    "internalId": 29,
     "uniqueEntryId": "HEFCeCGtJ7Bkb5PXG",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1684,6 +1837,40 @@
   },
   {
     "sourceSheet": "Reactions",
+    "num": 57,
+    "name": "Viva",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddViva.png",
+    "source": [ "Viva Festivale Reaction Set" ],
+    "sourceNotes": null,
+    "seasonEvent": "Festivale (ready days); Festivale",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.7.0",
+    "iconFilename": "AddViva",
+    "internalId": 851,
+    "uniqueEntryId": "awBmqTsqEP6vSyH3k",
+    "translations": {
+      "sourceSheet": "Reactions",
+      "id": "AddViva",
+      "version": "1.7.0",
+      "english": "Viva",
+      "englishEurope": "Viva",
+      "german": "Viva",
+      "spanish": "Viva",
+      "spanishUs": "Viva",
+      "french": "Viva !",
+      "frenchUs": "Viva!",
+      "italian": "Viva",
+      "dutch": "Pavé-pas",
+      "chinese": "欢乐！",
+      "chineseTraditional": "歡樂！",
+      "japanese": "ビバ！",
+      "korean": "비바!",
+      "russian": "Вива!",
+      "plural": false
+    }
+  },
+  {
+    "sourceSheet": "Reactions",
     "num": 48,
     "name": "Wave Goodbye",
     "image": "https://acnhcdn.com/latest/ManpuIcon/AddWaveHands.png",
@@ -1693,6 +1880,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.6.0",
     "iconFilename": "AddWaveHands",
+    "internalId": 809,
     "uniqueEntryId": "dbiQgwwQZxAQw54ur",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1726,6 +1914,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.6.0",
     "iconFilename": "AddGymnastics",
+    "internalId": 804,
     "uniqueEntryId": "oXMGkQsnaXyB2WLKp",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1759,6 +1948,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
     "iconFilename": "Worried",
+    "internalId": 27,
     "uniqueEntryId": "TygKeKxvotLEzWqvY",
     "translations": {
       "sourceSheet": "Reactions",
@@ -1792,6 +1982,7 @@
     "seasonEventExclusive": null,
     "versionAdded": "1.6.0",
     "iconFilename": "AddYoga",
+    "internalId": 802,
     "uniqueEntryId": "yeh2FF6fzMn3BdAi6",
     "translations": {
       "sourceSheet": "Reactions",

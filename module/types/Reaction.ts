@@ -9,6 +9,7 @@ export interface Reaction {
     seasonEventExclusive: boolean | null;
     versionAdded:         Version;
     iconFilename:         string;
+    internalId:           number;
     uniqueEntryId:        string;
     translations:         Translations;
 }
@@ -42,4 +43,5 @@ export enum Version {
     The100 = "1.0.0",
     The150 = "1.5.0",
     The160 = "1.6.0",
+    The170 = "1.7.0",
 }

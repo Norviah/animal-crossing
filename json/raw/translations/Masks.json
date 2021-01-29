@@ -162,7 +162,7 @@
     "Spanish (US)": "gorro de kappa",
     "French": "cagoule kappa",
     "French (US)": "cagoule kappa",
-    "Italian": "cappello da tartaruga",
+    "Italian": "cappello da kappa",
     "Dutch": "kappa-muts",
     "Chinese": "河童头套",
     "Chinese (Traditional)": "河童頭頂",
@@ -207,6 +207,25 @@
     "Japanese": "カエルのかぶりもの",
     "Korean": "개구리 모자",
     "Russian": "шапка лягушки"
+  },
+  {
+    "SourceSheet": "Masks",
+    "id": 691,
+    "Version": "1.7.0",
+    "English": "horned-ogre mask",
+    "English (Europe)": "horned-ogre mask",
+    "German": "Ogermaske",
+    "Spanish": "careta de ogro",
+    "Spanish (US)": "careta de ogro",
+    "French": "masque d'ogre cornu",
+    "French (US)": "masque d'ogre cornu",
+    "Italian": "maschera da orco",
+    "Dutch": "gehoornd boemanmasker",
+    "Chinese": "鬼面具",
+    "Chinese (Traditional)": "鬼面具",
+    "Japanese": "オニのおめん",
+    "Korean": "도깨비 가면",
+    "Russian": "маска великана-людоеда"
   },
   {
     "SourceSheet": "Masks",
@@ -585,7 +604,7 @@
     "Chinese": "驯鹿帽子",
     "Chinese (Traditional)": "馴鹿帽子",
     "Japanese": "トナカイのぼうし",
-    "Korean": "루돌프 모자",
+    "Korean": "순록 모자",
     "Russian": "шапка оленя"
   },
   {
@@ -1252,5 +1271,24 @@
     "Japanese": "パンプキングフェイス",
     "Korean": "펌킹 페이스",
     "Russian": "шлем Джека"
+  },
+  {
+    "SourceSheet": "Masks",
+    "id": 1343,
+    "Version": "1.7.0",
+    "English": "okame mask",
+    "English (Europe)": "okame mask",
+    "German": "Okame-Maske",
+    "Spanish": "máscara de Okame",
+    "Spanish (US)": "máscara de Okame",
+    "French": "masque okame",
+    "French (US)": "masque okame",
+    "Italian": "maschera da Okame",
+    "Dutch": "okame-masker",
+    "Chinese": "阿龟面具",
+    "Chinese (Traditional)": "阿龜面具",
+    "Japanese": "おかめのおめん",
+    "Korean": "복을 부르는 가면",
+    "Russian": "маска окамэ"
   }
 ]
