@@ -35,7 +35,7 @@
 
 • **chinese**: *string*
 
-*Defined in [Recipe.ts:76](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L76)*
+*Defined in [Recipe.ts:78](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L78)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **chineseTraditional**: *string*
 
-*Defined in [Recipe.ts:77](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L77)*
+*Defined in [Recipe.ts:79](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L79)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **dutch**: *string*
 
-*Defined in [Recipe.ts:75](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L75)*
+*Defined in [Recipe.ts:77](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L77)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **english**: *string*
 
-*Defined in [Recipe.ts:67](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L67)*
+*Defined in [Recipe.ts:69](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L69)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **englishEurope**: *string*
 
-*Defined in [Recipe.ts:68](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L68)*
+*Defined in [Recipe.ts:70](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L70)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **french**: *string*
 
-*Defined in [Recipe.ts:72](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L72)*
+*Defined in [Recipe.ts:74](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L74)*
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 • **frenchUs**: *string*
 
-*Defined in [Recipe.ts:73](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L73)*
+*Defined in [Recipe.ts:75](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L75)*
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 • **german**: *string*
 
-*Defined in [Recipe.ts:69](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L69)*
+*Defined in [Recipe.ts:71](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L71)*
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 • **id**: *number*
 
-*Defined in [Recipe.ts:65](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L65)*
+*Defined in [Recipe.ts:67](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L67)*
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 • **italian**: *string*
 
-*Defined in [Recipe.ts:74](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L74)*
+*Defined in [Recipe.ts:76](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L76)*
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 • **japanese**: *string*
 
-*Defined in [Recipe.ts:78](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L78)*
+*Defined in [Recipe.ts:80](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L80)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 • **korean**: *string*
 
-*Defined in [Recipe.ts:79](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L79)*
+*Defined in [Recipe.ts:81](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L81)*
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 • **plural**: *boolean*
 
-*Defined in [Recipe.ts:81](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L81)*
+*Defined in [Recipe.ts:83](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L83)*
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 • **russian**: *string*
 
-*Defined in [Recipe.ts:80](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L80)*
+*Defined in [Recipe.ts:82](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L82)*
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 • **sourceSheet**: *[TranslationsSourceSheet](../enums/_recipe_.translationssourcesheet.md)*
 
-*Defined in [Recipe.ts:64](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L64)*
+*Defined in [Recipe.ts:66](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L66)*
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 • **spanish**: *string*
 
-*Defined in [Recipe.ts:70](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L70)*
+*Defined in [Recipe.ts:72](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L72)*
 
 ___
 
@@ -163,7 +163,7 @@ ___
 
 • **spanishUs**: *string*
 
-*Defined in [Recipe.ts:71](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L71)*
+*Defined in [Recipe.ts:73](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L73)*
 
 ___
 
@@ -171,4 +171,4 @@ ___
 
 • **version**: *[Version](../enums/_recipe_.version.md)*
 
-*Defined in [Recipe.ts:66](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Recipe.ts#L66)*
+*Defined in [Recipe.ts:68](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Recipe.ts#L68)*

@@ -17,7 +17,7 @@
 
 • **EveryYear**: = "Every year"
 
-*Defined in [SeasonsAndEvents.ts:20](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/SeasonsAndEvents.ts#L20)*
+*Defined in [SeasonsAndEvents.ts:20](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L20)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **SpecificYears**: = "Specific years"
 
-*Defined in [SeasonsAndEvents.ts:21](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/SeasonsAndEvents.ts#L21)*
+*Defined in [SeasonsAndEvents.ts:21](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L21)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **SpecificYearsNHOnly**: = "Specific years (NH only)"
 
-*Defined in [SeasonsAndEvents.ts:22](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/SeasonsAndEvents.ts#L22)*
+*Defined in [SeasonsAndEvents.ts:22](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L22)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **SpecificYearsSHOnly**: = "Specific years (SH only)"
 
-*Defined in [SeasonsAndEvents.ts:23](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/SeasonsAndEvents.ts#L23)*
+*Defined in [SeasonsAndEvents.ts:23](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L23)*
