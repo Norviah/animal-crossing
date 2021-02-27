@@ -2,6 +2,7 @@ export interface Recipe {
     sourceSheet:           RecipeSourceSheet;
     name:                  string;
     image:                 string;
+    imageSh:               null | string;
     buy:                   number;
     sell:                  number | null;
     exchangePrice:         number | null;
@@ -17,6 +18,7 @@ export interface Recipe {
     craftedItemInternalId: number;
     cardColor:             CardColor | null;
     diyIconFilename:       string;
+    diyIconFilenameSh:     null | string;
     serialId:              number;
     internalId:            number;
     uniqueEntryId:         string;
@@ -115,6 +117,7 @@ export enum Version {
     The150 = "1.5.0",
     The160 = "1.6.0",
     The170 = "1.7.0",
+    The180 = "1.8.0",
 }
 
 export enum RecipeSourceSheet {

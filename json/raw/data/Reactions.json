@@ -99,6 +99,20 @@
   },
   {
     "SourceSheet": "Reactions",
+    "#": 56,
+    "Name": "Confetti",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddConfetti.png\")",
+    "Source": "Viva Festivale Reaction Set",
+    "Source Notes": "",
+    "Season/Event": "Festivale (ready days); Festivale",
+    "Season/Event Exclusive": "Yes",
+    "Version Added": "1.7.0",
+    "Icon Filename": "AddConfetti",
+    "Internal ID": 848,
+    "Unique Entry ID": "ZQwAqpKEDkTHTQXEn"
+  },
+  {
+    "SourceSheet": "Reactions",
     "#": 10,
     "Name": "Confident",
     "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/Assent.png\")",
@@ -236,6 +250,20 @@
     "Icon Filename": "Shaking",
     "Internal ID": 38,
     "Unique Entry ID": "noKrWYCMSWcH4jwvi"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "#": 59,
+    "Name": "Feelin' It",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddDance.png\")",
+    "Source": "Viva Festivale Reaction Set",
+    "Source Notes": "",
+    "Season/Event": "Festivale (ready days); Festivale",
+    "Season/Event Exclusive": "Yes",
+    "Version Added": "1.7.0",
+    "Icon Filename": "AddDance",
+    "Internal ID": 856,
+    "Unique Entry ID": "r6wW7uebEBsLwP3XT"
   },
   {
     "SourceSheet": "Reactions",
@@ -390,6 +418,20 @@
     "Icon Filename": "Laughing",
     "Internal ID": 20,
     "Unique Entry ID": "EBenMHMpwnkMgS6eg"
+  },
+  {
+    "SourceSheet": "Reactions",
+    "#": 58,
+    "Name": "Let's Go",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddEntice.png\")",
+    "Source": "Viva Festivale Reaction Set",
+    "Source Notes": "",
+    "Season/Event": "Festivale (ready days); Festivale",
+    "Season/Event Exclusive": "Yes",
+    "Version Added": "1.7.0",
+    "Icon Filename": "AddEntice",
+    "Internal ID": 855,
+    "Unique Entry ID": "mcdAptLF325uqyDKa"
   },
   {
     "SourceSheet": "Reactions",
@@ -715,6 +757,20 @@
   },
   {
     "SourceSheet": "Reactions",
+    "#": 57,
+    "Name": "Viva",
+    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddViva.png\")",
+    "Source": "Viva Festivale Reaction Set",
+    "Source Notes": "",
+    "Season/Event": "Festivale (ready days); Festivale",
+    "Season/Event Exclusive": "Yes",
+    "Version Added": "1.7.0",
+    "Icon Filename": "AddViva",
+    "Internal ID": 851,
+    "Unique Entry ID": "awBmqTsqEP6vSyH3k"
+  },
+  {
+    "SourceSheet": "Reactions",
     "#": 48,
     "Name": "Wave Goodbye",
     "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddWaveHands.png\")",
@@ -768,61 +824,5 @@
     "Icon Filename": "AddYoga",
     "Internal ID": 802,
     "Unique Entry ID": "yeh2FF6fzMn3BdAi6"
-  },
-  {
-    "SourceSheet": "Reactions",
-    "#": 59,
-    "Name": "Feelin' It",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddDance.png\")",
-    "Source": "Viva Festivale Reaction Set",
-    "Source Notes": "",
-    "Season/Event": "Festivale (ready days); Festivale",
-    "Season/Event Exclusive": "Yes",
-    "Version Added": "1.7.0",
-    "Icon Filename": "AddDance",
-    "Internal ID": 856,
-    "Unique Entry ID": "r6wW7uebEBsLwP3XT"
-  },
-  {
-    "SourceSheet": "Reactions",
-    "#": 58,
-    "Name": "Let's Go",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddEntice.png\")",
-    "Source": "Viva Festivale Reaction Set",
-    "Source Notes": "",
-    "Season/Event": "Festivale (ready days); Festivale",
-    "Season/Event Exclusive": "Yes",
-    "Version Added": "1.7.0",
-    "Icon Filename": "AddEntice",
-    "Internal ID": 855,
-    "Unique Entry ID": "mcdAptLF325uqyDKa"
-  },
-  {
-    "SourceSheet": "Reactions",
-    "#": 57,
-    "Name": "Viva",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddViva.png\")",
-    "Source": "Viva Festivale Reaction Set",
-    "Source Notes": "",
-    "Season/Event": "Festivale (ready days); Festivale",
-    "Season/Event Exclusive": "Yes",
-    "Version Added": "1.7.0",
-    "Icon Filename": "AddViva",
-    "Internal ID": 851,
-    "Unique Entry ID": "awBmqTsqEP6vSyH3k"
-  },
-  {
-    "SourceSheet": "Reactions",
-    "#": 56,
-    "Name": "Confetti",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/ManpuIcon/AddConfetti.png\")",
-    "Source": "Viva Festivale Reaction Set",
-    "Source Notes": "",
-    "Season/Event": "Festivale (ready days); Festivale",
-    "Season/Event Exclusive": "Yes",
-    "Version Added": "1.7.0",
-    "Icon Filename": "AddConfetti",
-    "Internal ID": 848,
-    "Unique Entry ID": "ZQwAqpKEDkTHTQXEn"
   }
 ]

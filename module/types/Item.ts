@@ -35,6 +35,7 @@ export interface Item {
     variantId?:            VariantID | null;
     internalId?:           number;
     uniqueEntryId?:        string;
+    seriesTranslations?:   SeriesTranslations;
     translations:          SeriesTranslations | null;
     colors?:               Color[];
     concepts?:             Concept[];
@@ -77,7 +78,6 @@ export interface Item {
     stackSize?:            number | null;
     inventoryFilename?:    string;
     storageFilename?:      null | string;
-    seriesTranslations?:   SeriesTranslations;
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
     secondaryShape?:       SecondaryShape | null;
@@ -232,8 +232,6 @@ export enum InteractEnum {
 export enum LightingType {
     Candle = "Candle",
     Emission = "Emission",
-    EmissionOnly = "EmissionOnly",
-    FluorLamp = "FluorLamp",
     Fluorescent = "Fluorescent",
     Monitor = "Monitor",
     Spotlight = "Spotlight",
@@ -278,6 +276,7 @@ export interface Recipe {
     sourceSheet:           RecipeSourceSheet;
     name:                  string;
     image:                 string;
+    imageSh:               null | string;
     buy:                   number;
     sell:                  number | null;
     exchangePrice:         number | null;
@@ -293,6 +292,7 @@ export interface Recipe {
     craftedItemInternalId: number;
     cardColor:             CardColor | null;
     diyIconFilename:       string;
+    diyIconFilenameSh:     null | string;
     serialId:              number;
     internalId:            number;
     uniqueEntryId:         string;
@@ -387,6 +387,7 @@ export enum Version {
     The150 = "1.5.0",
     The160 = "1.6.0",
     The170 = "1.7.0",
+    The180 = "1.8.0",
 }
 
 export enum RecipeSourceSheet {
@@ -400,18 +401,7 @@ export enum SecondaryShape {
 }
 
 export enum Size {
-    Size1X05 = "1x0.5 ",
-    Size1X1 = "1x1 ",
-    Size1X15 = "1x1.5 ",
-    Size1X2 = "1x2 ",
-    Size2X1 = "2x1 ",
-    Size2X15 = "2x1.5 ",
-    Size2X2 = "2x2 ",
-    Size3X2 = "3x2 ",
-    Size3X3 = "3x3 ",
-    Size4X3 = "4x3 ",
-    Size4X4 = "4x4 ",
-    The05X1 = "0.5x1 ",
+    The05X1 = "0.5x1",
     The15X15 = "1.5x1.5",
     The1X05 = "1x0.5",
     The1X1 = "1x1",
@@ -426,7 +416,7 @@ export enum Size {
     The3X3 = "3x3",
     The4X3 = "4x3",
     The4X4 = "4x4",
-    The5X5 = "5x5 ",
+    The5X5 = "5x5",
 }
 
 export enum SizeCategory {
@@ -796,7 +786,6 @@ export enum VariantTranslationsSourceSheet {
     BottomsVariants = "Bottoms Variants",
     CapsVariants = "Caps Variants",
     DressesVariants = "Dresses Variants",
-    FurniturePatterns = "Furniture Patterns",
     FurnitureVariants = "Furniture Variants",
     MarineSuitVariants = "Marine Suit Variants",
     MasksVariants = "Masks Variants",
