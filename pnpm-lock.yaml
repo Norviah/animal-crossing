@@ -18,7 +18,7 @@ devDependencies:
   typedoc: 0.17.7_typescript@3.9.5
   typedoc-plugin-markdown: 2.3.1_typedoc@0.17.7
   typescript: 3.9.5
-lockfileVersion: 5.1
+lockfileVersion: 5.2
 packages:
   /@babel/code-frame/7.10.1:
     dependencies:
