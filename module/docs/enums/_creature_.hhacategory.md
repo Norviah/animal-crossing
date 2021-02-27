@@ -14,4 +14,4 @@
 
 • **Pet**: = "Pet"
 
-*Defined in [Creature.ts:73](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Creature.ts#L73)*
+*Defined in [Creature.ts:73](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Creature.ts#L73)*

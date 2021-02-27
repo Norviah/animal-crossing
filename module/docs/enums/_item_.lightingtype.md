@@ -8,8 +8,6 @@
 
 * [Candle](_item_.lightingtype.md#candle)
 * [Emission](_item_.lightingtype.md#emission)
-* [EmissionOnly](_item_.lightingtype.md#emissiononly)
-* [FluorLamp](_item_.lightingtype.md#fluorlamp)
 * [Fluorescent](_item_.lightingtype.md#fluorescent)
 * [Monitor](_item_.lightingtype.md#monitor)
 * [Spotlight](_item_.lightingtype.md#spotlight)
@@ -20,7 +18,7 @@
 
 • **Candle**: = "Candle"
 
-*Defined in [Item.ts:233](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Item.ts#L233)*
+*Defined in [Item.ts:233](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L233)*
 
 ___
 
@@ -28,23 +26,7 @@ ___
 
 • **Emission**: = "Emission"
 
-*Defined in [Item.ts:234](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Item.ts#L234)*
-
-___
-
-###  EmissionOnly
-
-• **EmissionOnly**: = "EmissionOnly"
-
-*Defined in [Item.ts:235](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Item.ts#L235)*
-
-___
-
-###  FluorLamp
-
-• **FluorLamp**: = "FluorLamp"
-
-*Defined in [Item.ts:236](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Item.ts#L236)*
+*Defined in [Item.ts:234](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L234)*
 
 ___
 
@@ -52,7 +34,7 @@ ___
 
 • **Fluorescent**: = "Fluorescent"
 
-*Defined in [Item.ts:237](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Item.ts#L237)*
+*Defined in [Item.ts:235](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L235)*
 
 ___
 
@@ -60,7 +42,7 @@ ___
 
 • **Monitor**: = "Monitor"
 
-*Defined in [Item.ts:238](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Item.ts#L238)*
+*Defined in [Item.ts:236](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L236)*
 
 ___
 
@@ -68,4 +50,4 @@ ___
 
 • **Spotlight**: = "Spotlight"
 
-*Defined in [Item.ts:239](https://github.com/Norviah/animal-crossing/blob/d0e2651/module/types/Item.ts#L239)*
+*Defined in [Item.ts:237](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L237)*
