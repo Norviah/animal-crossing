@@ -10,7 +10,7 @@ export interface SeasonsAndEvents {
     "2021Dates":             string[] | null;
     displayName:             string;
     internalLabel:           string[] | null;
-    unlockDate:              null | string;
+    unlockDate:              string;
     unlockMethod:            boolean | UnlockMethodEnum;
     uniqueEntryId:           string;
     translations:            Translations | null;
@@ -65,6 +65,7 @@ export enum Version {
     The150 = "1.5.0",
     The160 = "1.6.0",
     The170 = "1.7.0",
+    The180 = "1.8.0",
 }
 
 export enum Type {

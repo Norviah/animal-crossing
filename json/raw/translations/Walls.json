@@ -4824,5 +4824,24 @@
     "Japanese": "オーロラのかべ",
     "Korean": "오로라 벽",
     "Russian": "стена с полярным сиянием"
+  },
+  {
+    "SourceSheet": "Walls",
+    "id": "RoomWall_13805",
+    "Version": "1.8.0",
+    "English": "mushroom mural",
+    "English (Europe)": "mushroom mural",
+    "German": "Pilztapete",
+    "Spanish": "pared champiñón",
+    "Spanish (US)": "pared champiñón",
+    "French": "mur Mario",
+    "French (US)": "mur Mario",
+    "Italian": "muro dei funghi",
+    "Dutch": "Mario-wand",
+    "Chinese": "超级马力欧墙",
+    "Chinese (Traditional)": "超級瑪利歐牆",
+    "Japanese": "スーパーマリオのかべ",
+    "Korean": "슈퍼 마리오 벽",
+    "Russian": "грибная стена"
   }
 ]

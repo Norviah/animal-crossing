@@ -83,6 +83,7 @@
       "sourceSheet": "Recipes",
       "name": "Bunny Day glowy garland",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggLampWall.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -98,6 +99,7 @@
       "craftedItemInternalId": 12417,
       "cardColor": "yellow",
       "diyIconFilename": "FtrEggLampWall",
+      "diyIconFilenameSh": null,
       "serialId": 8631,
       "internalId": 700,
       "uniqueEntryId": "o4dxxDMeguMH8zQzx",
@@ -317,6 +319,7 @@
       "sourceSheet": "Recipes",
       "name": "Bunny Day wall clock",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrEggClock.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -332,6 +335,7 @@
       "craftedItemInternalId": 12418,
       "cardColor": "yellow",
       "diyIconFilename": "FtrEggClock",
+      "diyIconFilenameSh": null,
       "serialId": 8630,
       "internalId": 701,
       "uniqueEntryId": "CYdX8kEStsmMXX96v",
@@ -444,6 +448,7 @@
       "sourceSheet": "Recipes",
       "name": "Bunny Day wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathEaster.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -459,6 +464,7 @@
       "craftedItemInternalId": 12517,
       "cardColor": "yellow",
       "diyIconFilename": "FtrDoorOrnamentWreathEaster",
+      "diyIconFilenameSh": null,
       "serialId": 8640,
       "internalId": 707,
       "uniqueEntryId": "296Ws5ikbL8hMv3ZC",
@@ -611,7 +617,7 @@
     "sell": 375,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "source": [ "HHA" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -735,7 +741,7 @@
     "sell": 21975,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": "Leo",
@@ -802,6 +808,7 @@
       "sourceSheet": "Recipes",
       "name": "Leo sculpture",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacLeo.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -817,6 +824,7 @@
       "craftedItemInternalId": 5964,
       "cardColor": "silver",
       "diyIconFilename": "FtrZodiacLeo",
+      "diyIconFilenameSh": null,
       "serialId": 2304,
       "internalId": 407,
       "uniqueEntryId": "5QHREHAwKLPzLmmDi",
@@ -936,7 +944,7 @@
     "doorDeco": true,
     "catalog": null,
     "versionAdded": "1.7.0",
-    "unlocked": false,
+    "unlocked": true,
     "filename": "FtrDoorOrnamentShunsetsu",
     "variantId": null,
     "internalId": 14032,
@@ -973,7 +981,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [ "Received in January in both Hemipsheres" ],
     "versionAdded": "1.0.0",
     "interact": false,
@@ -1046,6 +1054,10 @@
         "internalId": 7139,
         "uniqueEntryId": "yo9motrTZdsi62wAq",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 7139,
+          "furnitureName": "Mom's art",
           "english": "Still Life",
           "englishEurope": "Still Life",
           "german": "Stillleben",
@@ -1059,7 +1071,8 @@
           "chineseTraditional": "花與香蕉",
           "japanese": "花とバナナ",
           "korean": "꽃과 바나나",
-          "russian": "Натюрморт"
+          "russian": "Натюрморт",
+          "plural": false
         },
         "colors": [ "Colorful", "Brown" ],
         "concepts": [ "living room", "fancy" ]
@@ -1081,6 +1094,10 @@
         "internalId": 7139,
         "uniqueEntryId": "ngzzKQdyD9zhXaKMF",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 7139,
+          "furnitureName": "Mom's art",
           "english": "Street with Trees",
           "englishEurope": "Street with Trees",
           "german": "Allee",
@@ -1094,7 +1111,8 @@
           "chineseTraditional": "路邊的樹",
           "japanese": "街路樹",
           "korean": "가로수",
-          "russian": "Улица и деревья"
+          "russian": "Улица и деревья",
+          "plural": false
         },
         "colors": [ "Colorful", "Beige" ],
         "concepts": [ "living room", "fancy" ]
@@ -1116,6 +1134,10 @@
         "internalId": 7139,
         "uniqueEntryId": "xDMmWCHrvonjL5YGu",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 7139,
+          "furnitureName": "Mom's art",
           "english": "Nostalgia",
           "englishEurope": "Nostalgia",
           "german": "Nostalgie",
@@ -1129,7 +1151,8 @@
           "chineseTraditional": "記憶中的風景",
           "japanese": "追憶の風景",
           "korean": "추억 속 풍경",
-          "russian": "Ностальгия"
+          "russian": "Ностальгия",
+          "plural": false
         },
         "colors": [ "White", "Black" ],
         "concepts": [ "living room", "fancy" ]
@@ -1151,6 +1174,10 @@
         "internalId": 7139,
         "uniqueEntryId": "22zuXPgM8uQw7CGeB",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 7139,
+          "furnitureName": "Mom's art",
           "english": "Angel",
           "englishEurope": "Angel",
           "german": "Engelchen",
@@ -1164,7 +1191,8 @@
           "chineseTraditional": "愛",
           "japanese": "愛",
           "korean": "사랑",
-          "russian": "Ангел"
+          "russian": "Ангел",
+          "plural": false
         },
         "colors": [ "Colorful", "Yellow" ],
         "concepts": [ "living room", "fancy" ]
@@ -1186,6 +1214,10 @@
         "internalId": 7139,
         "uniqueEntryId": "3CMupS6GdJ9J2jJbt",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 7139,
+          "furnitureName": "Mom's art",
           "english": "Sweet Roses",
           "englishEurope": "Sweet Roses",
           "german": "Liebliche Rosen",
@@ -1199,7 +1231,8 @@
           "chineseTraditional": "楚楚可憐",
           "japanese": "可憐",
           "korean": "가련",
-          "russian": "Аромат роз"
+          "russian": "Аромат роз",
+          "plural": false
         },
         "colors": [ "Colorful", "Yellow" ],
         "concepts": [ "living room", "fancy" ]
@@ -1221,6 +1254,10 @@
         "internalId": 7139,
         "uniqueEntryId": "JqDA6bBmadaLF9cDZ",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 5,
+          "id": 7139,
+          "furnitureName": "Mom's art",
           "english": "Field of Flowers",
           "englishEurope": "Field of Flowers",
           "german": "Blumenfeld",
@@ -1234,7 +1271,8 @@
           "chineseTraditional": "花園",
           "japanese": "花園",
           "korean": "화원",
-          "russian": "Цветущее поле"
+          "russian": "Цветущее поле",
+          "plural": false
         },
         "colors": [ "Colorful", "White" ],
         "concepts": [ "living room", "fancy" ]
@@ -1256,20 +1294,25 @@
         "internalId": 7139,
         "uniqueEntryId": "ihDeH8TdgRtew8tEG",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 6,
+          "id": 7139,
+          "furnitureName": "Mom's art",
           "english": "Dog",
           "englishEurope": "Dog",
-          "german": "Hund",
+          "german": "Hündchen",
           "spanish": "Perro",
           "spanishUs": "Perro",
-          "french": "Chien",
-          "frenchUs": "Chien",
+          "french": "Gentil toutou",
+          "frenchUs": "Gentil toutou",
           "italian": "Cane",
-          "dutch": "Hond en rozen",
-          "chinese": "玫瑰",
-          "chineseTraditional": "玫瑰",
-          "japanese": "ローズ",
-          "korean": "로즈",
-          "russian": "Собачка"
+          "dutch": "Hond",
+          "chinese": "家人",
+          "chineseTraditional": "家人",
+          "japanese": "家族",
+          "korean": "강아지",
+          "russian": "Собака",
+          "plural": false
         },
         "colors": [ "Colorful", "Yellow" ],
         "concepts": [ "living room", "fancy" ]
@@ -1291,6 +1334,10 @@
         "internalId": 7139,
         "uniqueEntryId": "nAHXRLWs3Lmpa8aH8",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 7,
+          "id": 7139,
+          "furnitureName": "Mom's art",
           "english": "Blooming",
           "englishEurope": "Blooming",
           "german": "Blütezeit",
@@ -1304,7 +1351,8 @@
           "chineseTraditional": "綻放",
           "japanese": "開花",
           "korean": "만개",
-          "russian": "Букет"
+          "russian": "Букет",
+          "plural": false
         },
         "colors": [ "Colorful", "White" ],
         "concepts": [ "living room", "fancy" ]
@@ -1320,7 +1368,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Received in February in the Northern Hemisphere and received in August in the Southern Hemisphere"
     ],
@@ -1395,20 +1443,25 @@
         "internalId": 7145,
         "uniqueEntryId": "TbXL3d8sfck28KBGM",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 7145,
+          "furnitureName": "Mom's embroidery",
           "english": "Flowers",
           "englishEurope": "Flowers",
           "german": "Blumen",
           "spanish": "Flores",
           "spanishUs": "Flores",
-          "french": "Fleuri",
-          "frenchUs": "Fleuri",
+          "french": "Fleurs",
+          "frenchUs": "Fleurs",
           "italian": "Fiori",
           "dutch": "Bloemen",
           "chinese": "花朵",
           "chineseTraditional": "花朵",
           "japanese": "フラワー",
           "korean": "플라워",
-          "russian": "Цветы"
+          "russian": "Цветы",
+          "plural": false
         },
         "colors": [ "Colorful", "Yellow" ],
         "concepts": [ "living room", "fancy" ]
@@ -1430,6 +1483,10 @@
         "internalId": 7145,
         "uniqueEntryId": "Y7DgNiXjdr7YgKCZ8",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 7145,
+          "furnitureName": "Mom's embroidery",
           "english": "Bird",
           "englishEurope": "Bird",
           "german": "Vogel",
@@ -1438,12 +1495,13 @@
           "french": "Oiseau",
           "frenchUs": "Oiseau",
           "italian": "Uccello",
-          "dutch": "Vogel",
-          "chinese": "小鸟",
-          "chineseTraditional": "小鳥",
+          "dutch": "Vogels",
+          "chinese": "鸭子",
+          "chineseTraditional": "禽鳥",
           "japanese": "バード",
           "korean": "버드",
-          "russian": "Птица"
+          "russian": "Птичка",
+          "plural": false
         },
         "colors": [ "Colorful", "Orange" ],
         "concepts": [ "living room", "fancy" ]
@@ -1465,6 +1523,10 @@
         "internalId": 7145,
         "uniqueEntryId": "gQCeqavpxLFdSGund",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 7145,
+          "furnitureName": "Mom's embroidery",
           "english": "Bouquet",
           "englishEurope": "Bouquet",
           "german": "Bouquet",
@@ -1478,7 +1540,8 @@
           "chineseTraditional": "花束",
           "japanese": "ブーケ",
           "korean": "부케",
-          "russian": "Букет"
+          "russian": "Букет",
+          "plural": false
         },
         "colors": [ "Colorful", "Brown" ],
         "concepts": [ "living room", "fancy" ]
@@ -1500,6 +1563,10 @@
         "internalId": 7145,
         "uniqueEntryId": "y9QqngAQvRFHocS9M",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 7145,
+          "furnitureName": "Mom's embroidery",
           "english": "Girl",
           "englishEurope": "Girl",
           "german": "Mädchen",
@@ -1513,7 +1580,8 @@
           "chineseTraditional": "女孩",
           "japanese": "ガール",
           "korean": "걸",
-          "russian": "Девочка"
+          "russian": "Девочка",
+          "plural": false
         },
         "colors": [ "Colorful", "Pink" ],
         "concepts": [ "living room", "fancy" ]
@@ -1535,6 +1603,10 @@
         "internalId": 7145,
         "uniqueEntryId": "zRXaEpNJJSbKwB5s5",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 7145,
+          "furnitureName": "Mom's embroidery",
           "english": "Fairy tale",
           "englishEurope": "Fairy tale",
           "german": "Märchen",
@@ -1548,7 +1620,8 @@
           "chineseTraditional": "童話",
           "japanese": "メルヘン",
           "korean": "메르헨",
-          "russian": "Сказка"
+          "russian": "Сказка",
+          "plural": false
         },
         "colors": [ "Colorful", "Green" ],
         "concepts": [ "living room", "fancy" ]
@@ -1570,6 +1643,10 @@
         "internalId": 7145,
         "uniqueEntryId": "CAY2n7EhQSME2AnSh",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 5,
+          "id": 7145,
+          "furnitureName": "Mom's embroidery",
           "english": "Trees",
           "englishEurope": "Trees",
           "german": "Bäume",
@@ -1583,7 +1660,8 @@
           "chineseTraditional": "樹木",
           "japanese": "ツリー",
           "korean": "트리",
-          "russian": "Деревья"
+          "russian": "Деревья",
+          "plural": false
         },
         "colors": [ "Colorful", "Brown" ],
         "concepts": [ "living room", "fancy" ]
@@ -1672,7 +1750,7 @@
     "sell": 21750,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": "Sagittarius",
@@ -1739,6 +1817,7 @@
       "sourceSheet": "Recipes",
       "name": "Sagittarius arrow",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrZodiacSagittarius.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -1754,6 +1833,7 @@
       "craftedItemInternalId": 5958,
       "cardColor": "silver",
       "diyIconFilename": "FtrZodiacSagittarius",
+      "diyIconFilenameSh": null,
       "serialId": 2308,
       "internalId": 376,
       "uniqueEntryId": "E3TJjo97BMNgHWPAH",
@@ -1910,7 +1990,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the third unique furniture slot"
     ],
@@ -2199,7 +2279,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the third unique furniture slot"
     ],
@@ -2388,7 +2468,7 @@
     "diy": false,
     "patternCustomize": true,
     "kitCost": 1,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -2925,7 +3005,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "0.5x1 ",
+    "size": "0.5x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -3108,6 +3188,7 @@
       "sourceSheet": "Recipes",
       "name": "bamboo wall decoration",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrBambooFlowerwall.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -3123,6 +3204,7 @@
       "craftedItemInternalId": 3558,
       "cardColor": "green",
       "diyIconFilename": "FtrBambooFlowerwall",
+      "diyIconFilenameSh": null,
       "serialId": 2430,
       "internalId": 151,
       "uniqueEntryId": "Xb2ywJv5tsDeSKG2H",
@@ -3157,7 +3239,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -3377,7 +3459,7 @@
     "sell": 20000,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -3444,6 +3526,7 @@
       "sourceSheet": "Recipes",
       "name": "blue rose wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathRoseUrtraRare.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -3459,6 +3542,7 @@
       "craftedItemInternalId": 5772,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathRoseUrtraRare",
+      "diyIconFilenameSh": null,
       "serialId": 7855,
       "internalId": 447,
       "uniqueEntryId": "XbGbAr5htMNb6h4mr",
@@ -3493,7 +3577,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -3816,6 +3900,7 @@
       "sourceSheet": "Recipes",
       "name": "bone doorplate",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorPlateBone.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -3831,6 +3916,7 @@
       "craftedItemInternalId": 4751,
       "cardColor": "brown",
       "diyIconFilename": "FtrDoorPlateBone",
+      "diyIconFilenameSh": null,
       "serialId": 500,
       "internalId": 467,
       "uniqueEntryId": "jbvhjbWecrky57s9e",
@@ -3865,7 +3951,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x0.5 ",
+    "size": "1x0.5",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -4108,6 +4194,7 @@
       "sourceSheet": "Recipes",
       "name": "boomerang",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrBoomerang.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -4123,6 +4210,7 @@
       "craftedItemInternalId": 682,
       "cardColor": "brown",
       "diyIconFilename": "FtrBoomerang",
+      "diyIconFilenameSh": null,
       "serialId": 481,
       "internalId": 171,
       "uniqueEntryId": "rMasSCDby69z84Fai",
@@ -4168,7 +4256,7 @@
     "sell": 205,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
@@ -4232,7 +4320,7 @@
     "sell": 400,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "HHA" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -4283,7 +4371,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -4567,7 +4655,7 @@
     "sell": 325,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
@@ -4620,7 +4708,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 4,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": true,
@@ -4763,6 +4851,7 @@
       "sourceSheet": "Recipes",
       "name": "cherry lamp",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsLampW.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -4780,6 +4869,7 @@
       "craftedItemInternalId": 4012,
       "cardColor": "yellow",
       "diyIconFilename": "FtrFruitsLampW",
+      "diyIconFilenameSh": null,
       "serialId": 1430,
       "internalId": 162,
       "uniqueEntryId": "6hBjge6rn7Sxd5sr7",
@@ -4834,7 +4924,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 4,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": true,
@@ -4907,6 +4997,10 @@
         "internalId": 6832,
         "uniqueEntryId": "tb9y9v6vrf98WExq7",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 6832,
+          "furnitureName": "cherry-blossom clock",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -4920,7 +5014,8 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый"
+          "russian": "Розовый",
+          "plural": false
         },
         "colors": [ "Pink", "Pink" ],
         "concepts": [ "fancy" ]
@@ -4942,6 +5037,10 @@
         "internalId": 6832,
         "uniqueEntryId": "iw6Qpmkn6qEaenEtP",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 6832,
+          "furnitureName": "cherry-blossom clock",
           "english": "Pink-white",
           "englishEurope": "Pink-white",
           "german": "Rosa-weiß",
@@ -4955,7 +5054,8 @@
           "chineseTraditional": "粉白色",
           "japanese": "ピンクホワイト",
           "korean": "핑크 화이트",
-          "russian": "Бело-розовый"
+          "russian": "Бело-розовый",
+          "plural": false
         },
         "colors": [ "Pink", "White" ],
         "concepts": [ "fancy" ]
@@ -4967,6 +5067,7 @@
       "sourceSheet": "Recipes",
       "name": "cherry-blossom clock",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrSakuraClockW.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -4982,6 +5083,7 @@
       "craftedItemInternalId": 6832,
       "cardColor": "pink",
       "diyIconFilename": "FtrSakuraClockW",
+      "diyIconFilenameSh": null,
       "serialId": 3430,
       "internalId": 426,
       "uniqueEntryId": "9kPKbzAAQzJTu9758",
@@ -5047,7 +5149,7 @@
     "sell": 4800,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -5114,6 +5216,7 @@
       "sourceSheet": "Recipes",
       "name": "chic cosmos wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathCosmosRare.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -5129,6 +5232,7 @@
       "craftedItemInternalId": 5764,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathCosmosRare",
+      "diyIconFilenameSh": null,
       "serialId": 7848,
       "internalId": 444,
       "uniqueEntryId": "XgThrnxG75cqkssWt",
@@ -5174,7 +5278,7 @@
     "sell": 4800,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -5241,6 +5345,7 @@
       "sourceSheet": "Recipes",
       "name": "chic windflower wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathAnemoneRare.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -5256,6 +5361,7 @@
       "craftedItemInternalId": 5765,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathAnemoneRare",
+      "diyIconFilenameSh": null,
       "serialId": 7842,
       "internalId": 440,
       "uniqueEntryId": "2W5Pa9MKWHhknBENu",
@@ -5301,7 +5407,7 @@
     "sell": 600,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -5348,6 +5454,7 @@
       "sourceSheet": "Recipes",
       "name": "coconut wall planter",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrPlanterPalm.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -5363,6 +5470,7 @@
       "craftedItemInternalId": 4130,
       "cardColor": "green",
       "diyIconFilename": "FtrPlanterPalm",
+      "diyIconFilenameSh": null,
       "serialId": 1830,
       "internalId": 405,
       "uniqueEntryId": "tw8LKPHQrkMZwgAua",
@@ -5428,7 +5536,7 @@
     "sell": 1440,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -5495,6 +5603,7 @@
       "sourceSheet": "Recipes",
       "name": "cool hyacinth wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathHyacinthMix.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -5510,6 +5619,7 @@
       "craftedItemInternalId": 5750,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathHyacinthMix",
+      "diyIconFilenameSh": null,
       "serialId": 7861,
       "internalId": 453,
       "uniqueEntryId": "HaC5frhoXCDpy5YYj",
@@ -5595,7 +5705,7 @@
     "sell": 4800,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -5662,6 +5772,7 @@
       "sourceSheet": "Recipes",
       "name": "cool pansy wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathPansyRare.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -5677,6 +5788,7 @@
       "craftedItemInternalId": 5767,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathPansyRare",
+      "diyIconFilenameSh": null,
       "serialId": 7859,
       "internalId": 450,
       "uniqueEntryId": "RxiJe64ebSZy3dsHg",
@@ -5722,7 +5834,7 @@
     "sell": 1200,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -5789,6 +5901,7 @@
       "sourceSheet": "Recipes",
       "name": "cool windflower wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathAnemoneMix.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -5804,6 +5917,7 @@
       "craftedItemInternalId": 5746,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathAnemoneMix",
+      "diyIconFilenameSh": null,
       "serialId": 7841,
       "internalId": 441,
       "uniqueEntryId": "Aer6cEdrENAWFD4TP",
@@ -5878,7 +5992,7 @@
     "diy": false,
     "patternCustomize": true,
     "kitCost": 1,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -6487,7 +6601,7 @@
     "sell": 720,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -6554,6 +6668,7 @@
       "sourceSheet": "Recipes",
       "name": "cosmos wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathCosmos.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -6571,6 +6686,7 @@
       "craftedItemInternalId": 4293,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathCosmos",
+      "diyIconFilenameSh": null,
       "serialId": 7846,
       "internalId": 227,
       "uniqueEntryId": "KwujCjwLcpr42PGb3",
@@ -6645,7 +6761,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -6853,6 +6969,7 @@
       "sourceSheet": "Recipes",
       "name": "crest doorplate",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentCrest.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -6868,6 +6985,7 @@
       "craftedItemInternalId": 5717,
       "cardColor": "dark gray",
       "diyIconFilename": "FtrDoorOrnamentCrest",
+      "diyIconFilenameSh": null,
       "serialId": 941,
       "internalId": 469,
       "uniqueEntryId": "rBCZK2XaMKZ4jXrNH",
@@ -6902,7 +7020,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -7231,7 +7349,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -7511,7 +7629,7 @@
     "sell": 1600,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -7578,6 +7696,7 @@
       "sourceSheet": "Recipes",
       "name": "dark lily wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathYuriRare.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -7593,6 +7712,7 @@
       "craftedItemInternalId": 5770,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathYuriRare",
+      "diyIconFilenameSh": null,
       "serialId": 7865,
       "internalId": 454,
       "uniqueEntryId": "ExWh3urifQgJTCCH3",
@@ -7638,7 +7758,7 @@
     "sell": 4320,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -7705,6 +7825,7 @@
       "sourceSheet": "Recipes",
       "name": "dark rose wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathRoseRare.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -7720,6 +7841,7 @@
       "craftedItemInternalId": 5766,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathRoseRare",
+      "diyIconFilenameSh": null,
       "serialId": 7854,
       "internalId": 446,
       "uniqueEntryId": "utyr7MwFDwd8syFcW",
@@ -7785,7 +7907,7 @@
     "sell": 1600,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -7852,6 +7974,7 @@
       "sourceSheet": "Recipes",
       "name": "dark tulip wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathTulipRare.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -7867,6 +7990,7 @@
       "craftedItemInternalId": 5771,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathTulipRare",
+      "diyIconFilenameSh": null,
       "serialId": 7851,
       "internalId": 362,
       "uniqueEntryId": "oCnpF6D3PyAJ5kGz8",
@@ -7901,7 +8025,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 2,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -8144,6 +8268,7 @@
       "sourceSheet": "Recipes",
       "name": "deer decoration",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrHuntingtrophy.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -8159,6 +8284,7 @@
       "craftedItemInternalId": 3340,
       "cardColor": "brown",
       "diyIconFilename": "FtrHuntingtrophy",
+      "diyIconFilenameSh": null,
       "serialId": 482,
       "internalId": 378,
       "uniqueEntryId": "BTF82ckDtSkknQmua",
@@ -8193,7 +8319,7 @@
     "diy": false,
     "patternCustomize": true,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -9366,6 +9492,10 @@
         "internalId": 4144,
         "uniqueEntryId": "4iiYR67YwbL2FXriM",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 6,
+          "id": 4144,
+          "furnitureName": "diner neon clock",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -9379,7 +9509,8 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "russian": "Фиолетовый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -9422,6 +9553,10 @@
         "internalId": 4144,
         "uniqueEntryId": "JWQaihPLMCkpumxRY",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 6,
+          "id": 4144,
+          "furnitureName": "diner neon clock",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -9435,7 +9570,8 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "russian": "Фиолетовый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -9478,6 +9614,10 @@
         "internalId": 4144,
         "uniqueEntryId": "kuTAXNY67mHKkt8vf",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 6,
+          "id": 4144,
+          "furnitureName": "diner neon clock",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -9491,7 +9631,8 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "russian": "Фиолетовый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -9528,7 +9669,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "0.5x1 ",
+    "size": "0.5x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -9623,6 +9764,10 @@
         "internalId": 4133,
         "uniqueEntryId": "i7Bfrh7N29irz5Yc9",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 4133,
+          "furnitureName": "double-sided wall clock",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -9636,7 +9781,8 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый"
+          "russian": "Белый",
+          "plural": false
         },
         "colors": [ "White", "White" ],
         "concepts": [ "facility" ]
@@ -9659,7 +9805,7 @@
         "uniqueEntryId": "dbiAnWZE7xaHiz4uh",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 1,
+          "variantId": 2,
           "id": 4133,
           "furnitureName": "double-sided wall clock",
           "english": "Silver",
@@ -9698,6 +9844,10 @@
         "internalId": 4133,
         "uniqueEntryId": "sF9NAuPLLFhneX3Kz",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 4133,
+          "furnitureName": "double-sided wall clock",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -9711,7 +9861,8 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый"
+          "russian": "Зеленый",
+          "plural": false
         },
         "colors": [ "Aqua", "White" ],
         "concepts": [ "facility" ]
@@ -9733,6 +9884,10 @@
         "internalId": 4133,
         "uniqueEntryId": "JwANNqWup9x6yPLkM",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 4133,
+          "furnitureName": "double-sided wall clock",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -9746,7 +9901,8 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный"
+          "russian": "Красный",
+          "plural": false
         },
         "colors": [ "Red", "Black" ],
         "concepts": [ "facility" ]
@@ -9768,6 +9924,10 @@
         "internalId": 4133,
         "uniqueEntryId": "6zNYbfhoA4T2hv3TT",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 5,
+          "id": 4133,
+          "furnitureName": "double-sided wall clock",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -9781,7 +9941,8 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый"
+          "russian": "Желтый",
+          "plural": false
         },
         "colors": [ "Yellow", "Red" ],
         "concepts": [ "facility" ]
@@ -9797,7 +9958,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x0.5 ",
+    "size": "1x0.5",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -10017,7 +10178,7 @@
     "sell": 1200,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -10084,6 +10245,7 @@
       "sourceSheet": "Recipes",
       "name": "fancy lily wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathYuriMix.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -10099,6 +10261,7 @@
       "craftedItemInternalId": 5677,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathYuriMix",
+      "diyIconFilenameSh": null,
       "serialId": 7864,
       "internalId": 455,
       "uniqueEntryId": "yj4Z2oGDi6Thvm89d",
@@ -10184,7 +10347,7 @@
     "sell": 1200,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -10251,6 +10414,7 @@
       "sourceSheet": "Recipes",
       "name": "fancy mum wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathMumMix.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -10266,6 +10430,7 @@
       "craftedItemInternalId": 5749,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathMumMix",
+      "diyIconFilenameSh": null,
       "serialId": 7844,
       "internalId": 443,
       "uniqueEntryId": "qW3wgimoN7XhG5BvD",
@@ -10351,7 +10516,7 @@
     "sell": 1200,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -10418,6 +10583,7 @@
       "sourceSheet": "Recipes",
       "name": "fancy rose wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathRoseMix.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -10433,6 +10599,7 @@
       "craftedItemInternalId": 5747,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathRoseMix",
+      "diyIconFilenameSh": null,
       "serialId": 7853,
       "internalId": 448,
       "uniqueEntryId": "vr9dDrXLQuDSwfDdy",
@@ -10589,7 +10756,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -10980,7 +11147,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -11307,7 +11474,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1.5 ",
+    "size": "2x1.5",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -11516,7 +11683,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -11759,6 +11926,7 @@
       "sourceSheet": "Recipes",
       "name": "floral swag",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrFlowerSwag.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -11774,6 +11942,7 @@
       "craftedItemInternalId": 4027,
       "cardColor": "green",
       "diyIconFilename": "FtrFlowerSwag",
+      "diyIconFilenameSh": null,
       "serialId": 1230,
       "internalId": 121,
       "uniqueEntryId": "d2brTtEXPaFRfbcFh",
@@ -11808,7 +11977,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -11863,6 +12032,10 @@
         "internalId": 4099,
         "uniqueEntryId": "BQXoMfr2CcyQetnqz",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 4099,
+          "furnitureName": "formal paper",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -11876,7 +12049,8 @@
           "chineseTraditional": "棕色",
           "japanese": "ブラウン",
           "korean": "브라운",
-          "russian": "Коричневый"
+          "russian": "Коричневый",
+          "plural": false
         },
         "colors": [ "Beige", "Orange" ],
         "concepts": [ "school", "den" ]
@@ -11898,6 +12072,10 @@
         "internalId": 4099,
         "uniqueEntryId": "yPRxJapynrZNcqZ3e",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 4099,
+          "furnitureName": "formal paper",
           "english": "Light brown",
           "englishEurope": "Light brown",
           "german": "Hellbraun",
@@ -11911,7 +12089,8 @@
           "chineseTraditional": "淺棕色",
           "japanese": "ライトブラウン",
           "korean": "라이트 브라운",
-          "russian": "Светло-коричневый"
+          "russian": "Светло-коричневый",
+          "plural": false
         },
         "colors": [ "White", "Yellow" ],
         "concepts": [ "school", "den" ]
@@ -11933,6 +12112,10 @@
         "internalId": 4099,
         "uniqueEntryId": "sMhxWPv3yYTmJgm5k",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 4099,
+          "furnitureName": "formal paper",
           "english": "Dark brown",
           "englishEurope": "Dark brown",
           "german": "Dunkelbraun",
@@ -11946,7 +12129,8 @@
           "chineseTraditional": "深棕色",
           "japanese": "ダークブラウン",
           "korean": "다크 브라운",
-          "russian": "Темно-коричневый"
+          "russian": "Темно-коричневый",
+          "plural": false
         },
         "colors": [ "Beige", "Brown" ],
         "concepts": [ "school", "den" ]
@@ -11962,7 +12146,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -12075,6 +12259,7 @@
       "sourceSheet": "Recipes",
       "name": "fossil doorplate",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentFossil.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -12090,6 +12275,7 @@
       "craftedItemInternalId": 5719,
       "cardColor": "light gray",
       "diyIconFilename": "FtrDoorOrnamentFossil",
+      "diyIconFilenameSh": null,
       "serialId": 840,
       "internalId": 464,
       "uniqueEntryId": "eig2yBncaDeGLkfKP",
@@ -12219,7 +12405,7 @@
     "sell": 2000,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -12286,6 +12472,7 @@
       "sourceSheet": "Recipes",
       "name": "fruit wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathFruit.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -12301,6 +12488,7 @@
       "craftedItemInternalId": 4378,
       "cardColor": "white",
       "diyIconFilename": "FtrDoorOrnamentWreathFruit",
+      "diyIconFilenameSh": null,
       "serialId": 1940,
       "internalId": 223,
       "uniqueEntryId": "FPCNEvg2aBDZZkjxu",
@@ -12415,7 +12603,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -12470,6 +12658,10 @@
         "internalId": 7280,
         "uniqueEntryId": "yC8vuk8WW9jYRDRSM",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 7280,
+          "furnitureName": "gears",
           "english": "Silver",
           "englishEurope": "Silver",
           "german": "Silber",
@@ -12477,13 +12669,14 @@
           "spanishUs": "Plateado",
           "french": "Argent",
           "frenchUs": "Argent",
-          "italian": "Argentato",
+          "italian": "Argento",
           "dutch": "Zilver",
           "chinese": "银色",
           "chineseTraditional": "銀色",
           "japanese": "シルバー",
           "korean": "실버",
-          "russian": "Серебряный"
+          "russian": "Серебро",
+          "plural": false
         },
         "colors": [ "Gray", "Gray" ],
         "concepts": [ "facility", "garage" ]
@@ -12505,6 +12698,10 @@
         "internalId": 7280,
         "uniqueEntryId": "f5aFGh2RWbuSBkCQC",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 7280,
+          "furnitureName": "gears",
           "english": "Copper",
           "englishEurope": "Copper",
           "german": "Kupfer",
@@ -12518,7 +12715,8 @@
           "chineseTraditional": "銅色",
           "japanese": "ブロンズ",
           "korean": "브론즈",
-          "russian": "Медный"
+          "russian": "Медный",
+          "plural": false
         },
         "colors": [ "Brown", "Brown" ],
         "concepts": [ "facility", "garage" ]
@@ -12540,6 +12738,10 @@
         "internalId": 7280,
         "uniqueEntryId": "CHfH8eR7JWCBT6xXd",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 7280,
+          "furnitureName": "gears",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
@@ -12553,7 +12755,8 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный"
+          "russian": "Черный",
+          "plural": false
         },
         "colors": [ "Black", "Black" ],
         "concepts": [ "facility", "garage" ]
@@ -12575,6 +12778,10 @@
         "internalId": 7280,
         "uniqueEntryId": "PX7LD3ypNo3JBbbqz",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 7280,
+          "furnitureName": "gears",
           "english": "Colorful",
           "englishEurope": "Colorful",
           "german": "Bunt",
@@ -12588,7 +12795,8 @@
           "chineseTraditional": "彩色",
           "japanese": "カラフル",
           "korean": "컬러풀",
-          "russian": "Яркий"
+          "russian": "Яркий",
+          "plural": false
         },
         "colors": [ "Colorful", "Colorful" ],
         "concepts": [ "facility", "garage" ]
@@ -12610,6 +12818,10 @@
         "internalId": 7280,
         "uniqueEntryId": "q2Y3Mo68vAwW7YNNg",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 7280,
+          "furnitureName": "gears",
           "english": "Wooden",
           "englishEurope": "Wooden",
           "german": "Hölzern",
@@ -12623,7 +12835,8 @@
           "chineseTraditional": "木製",
           "japanese": "木製",
           "korean": "목제",
-          "russian": "Деревянный"
+          "russian": "Деревянный",
+          "plural": false
         },
         "colors": [ "Brown", "Beige" ],
         "concepts": [ "facility", "garage" ]
@@ -12650,7 +12863,7 @@
     "sell": 450,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "HHA" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -12712,7 +12925,7 @@
     "sell": 20000,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -12779,6 +12992,7 @@
       "sourceSheet": "Recipes",
       "name": "gold rose wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathRoseGold.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -12794,6 +13008,7 @@
       "craftedItemInternalId": 5820,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathRoseGold",
+      "diyIconFilenameSh": null,
       "serialId": 7856,
       "internalId": 449,
       "uniqueEntryId": "fYHqu9bGpt2ivTWRt",
@@ -12839,7 +13054,7 @@
     "sell": 11125,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -12906,6 +13121,7 @@
       "sourceSheet": "Recipes",
       "name": "golden gears",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrGearWallGold.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -12921,6 +13137,7 @@
       "craftedItemInternalId": 11261,
       "cardColor": "gold",
       "diyIconFilename": "FtrGearWallGold",
+      "diyIconFilenameSh": null,
       "serialId": 1130,
       "internalId": 595,
       "uniqueEntryId": "5JDaCQoYazbP4QkGN",
@@ -12986,7 +13203,7 @@
     "sell": 350,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
@@ -13039,7 +13256,7 @@
     "diy": false,
     "patternCustomize": true,
     "kitCost": 7,
-    "size": "1x2 ",
+    "size": "1x2",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the third unique furniture slot"
     ],
@@ -13095,7 +13312,7 @@
         "uniqueEntryId": "B8BxKEKGEEjK88gjM",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 2,
+          "variantId": 0,
           "id": 7282,
           "furnitureName": "hanging scroll",
           "english": "Green",
@@ -13109,8 +13326,8 @@
           "dutch": "Groen",
           "chinese": "绿色",
           "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
+          "japanese": "緑",
+          "korean": "초록색",
           "russian": "Зеленый",
           "plural": false
         },
@@ -13156,7 +13373,7 @@
         "uniqueEntryId": "8XbZoCXwptySvKbQi",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 2,
+          "variantId": 0,
           "id": 7282,
           "furnitureName": "hanging scroll",
           "english": "Green",
@@ -13170,8 +13387,8 @@
           "dutch": "Groen",
           "chinese": "绿色",
           "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
+          "japanese": "緑",
+          "korean": "초록색",
           "russian": "Зеленый",
           "plural": false
         },
@@ -13217,7 +13434,7 @@
         "uniqueEntryId": "Wig7YGk5xFjMaLPwo",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 2,
+          "variantId": 0,
           "id": 7282,
           "furnitureName": "hanging scroll",
           "english": "Green",
@@ -13231,8 +13448,8 @@
           "dutch": "Groen",
           "chinese": "绿色",
           "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
+          "japanese": "緑",
+          "korean": "초록색",
           "russian": "Зеленый",
           "plural": false
         },
@@ -13278,7 +13495,7 @@
         "uniqueEntryId": "BDbRXuPiT4fTTHYL5",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 2,
+          "variantId": 0,
           "id": 7282,
           "furnitureName": "hanging scroll",
           "english": "Green",
@@ -13292,8 +13509,8 @@
           "dutch": "Groen",
           "chinese": "绿色",
           "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
+          "japanese": "緑",
+          "korean": "초록색",
           "russian": "Зеленый",
           "plural": false
         },
@@ -13339,7 +13556,7 @@
         "uniqueEntryId": "iRWSAWzPNwGhcuAPS",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 2,
+          "variantId": 0,
           "id": 7282,
           "furnitureName": "hanging scroll",
           "english": "Green",
@@ -13353,8 +13570,8 @@
           "dutch": "Groen",
           "chinese": "绿色",
           "chineseTraditional": "綠色",
-          "japanese": "グリーン",
-          "korean": "그린",
+          "japanese": "緑",
+          "korean": "초록색",
           "russian": "Зеленый",
           "plural": false
         },
@@ -13399,6 +13616,10 @@
         "internalId": 7282,
         "uniqueEntryId": "ZSaKDBJ3MDZBkjR5M",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -13409,10 +13630,11 @@
           "italian": "Marrone",
           "dutch": "Bruin",
           "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый"
+          "chineseTraditional": "茶色",
+          "japanese": "茶色",
+          "korean": "갈색",
+          "russian": "Коричневый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -13455,6 +13677,10 @@
         "internalId": 7282,
         "uniqueEntryId": "uG6iDJdePfvSACrCJ",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -13465,10 +13691,11 @@
           "italian": "Marrone",
           "dutch": "Bruin",
           "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый"
+          "chineseTraditional": "茶色",
+          "japanese": "茶色",
+          "korean": "갈색",
+          "russian": "Коричневый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -13511,6 +13738,10 @@
         "internalId": 7282,
         "uniqueEntryId": "BYYWmZsWuG9E6EYzN",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -13521,10 +13752,11 @@
           "italian": "Marrone",
           "dutch": "Bruin",
           "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый"
+          "chineseTraditional": "茶色",
+          "japanese": "茶色",
+          "korean": "갈색",
+          "russian": "Коричневый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -13567,6 +13799,10 @@
         "internalId": 7282,
         "uniqueEntryId": "4hQtRfAFgJwFbX6YP",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -13577,10 +13813,11 @@
           "italian": "Marrone",
           "dutch": "Bruin",
           "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый"
+          "chineseTraditional": "茶色",
+          "japanese": "茶色",
+          "korean": "갈색",
+          "russian": "Коричневый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -13623,6 +13860,10 @@
         "internalId": 7282,
         "uniqueEntryId": "iJ66E2e282EHtPQbj",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -13633,10 +13874,11 @@
           "italian": "Marrone",
           "dutch": "Bruin",
           "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый"
+          "chineseTraditional": "茶色",
+          "japanese": "茶色",
+          "korean": "갈색",
+          "russian": "Коричневый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -13680,7 +13922,7 @@
         "uniqueEntryId": "wyKheQr3Dh8bs88yJ",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 1,
+          "variantId": 2,
           "id": 7282,
           "furnitureName": "hanging scroll",
           "english": "Pink",
@@ -13692,10 +13934,10 @@
           "frenchUs": "Rose",
           "italian": "Rosa",
           "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
+          "chinese": "桃红色",
+          "chineseTraditional": "桃紅色",
+          "japanese": "桃色",
+          "korean": "분홍색",
           "russian": "Розовый",
           "plural": false
         },
@@ -13741,7 +13983,7 @@
         "uniqueEntryId": "KjjtFBWRK8xwcpXyW",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 1,
+          "variantId": 2,
           "id": 7282,
           "furnitureName": "hanging scroll",
           "english": "Pink",
@@ -13753,10 +13995,10 @@
           "frenchUs": "Rose",
           "italian": "Rosa",
           "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
+          "chinese": "桃红色",
+          "chineseTraditional": "桃紅色",
+          "japanese": "桃色",
+          "korean": "분홍색",
           "russian": "Розовый",
           "plural": false
         },
@@ -13802,7 +14044,7 @@
         "uniqueEntryId": "N9HRxNfoy2rby5W9e",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 1,
+          "variantId": 2,
           "id": 7282,
           "furnitureName": "hanging scroll",
           "english": "Pink",
@@ -13814,10 +14056,10 @@
           "frenchUs": "Rose",
           "italian": "Rosa",
           "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
+          "chinese": "桃红色",
+          "chineseTraditional": "桃紅色",
+          "japanese": "桃色",
+          "korean": "분홍색",
           "russian": "Розовый",
           "plural": false
         },
@@ -13863,7 +14105,7 @@
         "uniqueEntryId": "4astTwvSDfL28S64u",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 1,
+          "variantId": 2,
           "id": 7282,
           "furnitureName": "hanging scroll",
           "english": "Pink",
@@ -13875,10 +14117,10 @@
           "frenchUs": "Rose",
           "italian": "Rosa",
           "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
+          "chinese": "桃红色",
+          "chineseTraditional": "桃紅色",
+          "japanese": "桃色",
+          "korean": "분홍색",
           "russian": "Розовый",
           "plural": false
         },
@@ -13924,7 +14166,7 @@
         "uniqueEntryId": "RFoXDXCqabwbPFYJA",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 1,
+          "variantId": 2,
           "id": 7282,
           "furnitureName": "hanging scroll",
           "english": "Pink",
@@ -13936,10 +14178,10 @@
           "frenchUs": "Rose",
           "italian": "Rosa",
           "dutch": "Roze",
-          "chinese": "粉红",
-          "chineseTraditional": "粉紅色",
-          "japanese": "ピンク",
-          "korean": "핑크",
+          "chinese": "桃红色",
+          "chineseTraditional": "桃紅色",
+          "japanese": "桃色",
+          "korean": "분홍색",
           "russian": "Розовый",
           "plural": false
         },
@@ -13984,6 +14226,10 @@
         "internalId": 7282,
         "uniqueEntryId": "nENqf7EXKWyepDkio",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -13995,9 +14241,10 @@
           "dutch": "Blauw",
           "chinese": "蓝色",
           "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий"
+          "japanese": "青",
+          "korean": "파란색",
+          "russian": "Синий",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -14040,6 +14287,10 @@
         "internalId": 7282,
         "uniqueEntryId": "8Pn9C5kuJGtQ3WaXp",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -14051,9 +14302,10 @@
           "dutch": "Blauw",
           "chinese": "蓝色",
           "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий"
+          "japanese": "青",
+          "korean": "파란색",
+          "russian": "Синий",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -14096,6 +14348,10 @@
         "internalId": 7282,
         "uniqueEntryId": "rBvy2SBvLo2mcpoKo",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -14107,9 +14363,10 @@
           "dutch": "Blauw",
           "chinese": "蓝色",
           "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий"
+          "japanese": "青",
+          "korean": "파란색",
+          "russian": "Синий",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -14152,6 +14409,10 @@
         "internalId": 7282,
         "uniqueEntryId": "R2dNMNdzTTqDfN4Wy",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -14163,9 +14424,10 @@
           "dutch": "Blauw",
           "chinese": "蓝色",
           "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий"
+          "japanese": "青",
+          "korean": "파란색",
+          "russian": "Синий",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -14208,6 +14470,10 @@
         "internalId": 7282,
         "uniqueEntryId": "KhDQPxetc9jSS9jCS",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -14219,9 +14485,10 @@
           "dutch": "Blauw",
           "chinese": "蓝色",
           "chineseTraditional": "藍色",
-          "japanese": "ブルー",
-          "korean": "블루",
-          "russian": "Синий"
+          "japanese": "青",
+          "korean": "파란색",
+          "russian": "Синий",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -14264,6 +14531,10 @@
         "internalId": 7282,
         "uniqueEntryId": "42B2ejySFK4KksxbE",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -14275,9 +14546,10 @@
           "dutch": "Paars",
           "chinese": "紫色",
           "chineseTraditional": "紫色",
-          "japanese": "パープル",
-          "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "japanese": "紫",
+          "korean": "보라색",
+          "russian": "Фиолетовый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -14320,6 +14592,10 @@
         "internalId": 7282,
         "uniqueEntryId": "Y29udd3SufMiNDrSA",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -14331,9 +14607,10 @@
           "dutch": "Paars",
           "chinese": "紫色",
           "chineseTraditional": "紫色",
-          "japanese": "パープル",
-          "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "japanese": "紫",
+          "korean": "보라색",
+          "russian": "Фиолетовый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -14376,6 +14653,10 @@
         "internalId": 7282,
         "uniqueEntryId": "kHXAZCpLdSWkSjJZ7",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -14387,9 +14668,10 @@
           "dutch": "Paars",
           "chinese": "紫色",
           "chineseTraditional": "紫色",
-          "japanese": "パープル",
-          "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "japanese": "紫",
+          "korean": "보라색",
+          "russian": "Фиолетовый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -14432,6 +14714,10 @@
         "internalId": 7282,
         "uniqueEntryId": "gMsxAKrig7NNmki6v",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -14443,9 +14729,10 @@
           "dutch": "Paars",
           "chinese": "紫色",
           "chineseTraditional": "紫色",
-          "japanese": "パープル",
-          "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "japanese": "紫",
+          "korean": "보라색",
+          "russian": "Фиолетовый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -14488,6 +14775,10 @@
         "internalId": 7282,
         "uniqueEntryId": "C5fSdFpZkmJtzQ2du",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 7282,
+          "furnitureName": "hanging scroll",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -14499,9 +14790,10 @@
           "dutch": "Paars",
           "chinese": "紫色",
           "chineseTraditional": "紫色",
-          "japanese": "パープル",
-          "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "japanese": "紫",
+          "korean": "보라색",
+          "russian": "Фиолетовый",
+          "plural": false
         },
         "patternTranslations": {
           "sourceSheet": "Furniture Patterns",
@@ -14538,7 +14830,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 5,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -14701,6 +14993,7 @@
       "sourceSheet": "Recipes",
       "name": "hanging terrarium",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrTerrariumWall.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -14716,6 +15009,7 @@
       "craftedItemInternalId": 3775,
       "cardColor": "green",
       "diyIconFilename": "FtrTerrariumWall",
+      "diyIconFilenameSh": null,
       "serialId": 1232,
       "internalId": 396,
       "uniqueEntryId": "GNtJWEuH8EoLwwi2a",
@@ -14770,7 +15064,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -15110,7 +15404,7 @@
     "sell": 720,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -15177,6 +15471,7 @@
       "sourceSheet": "Recipes",
       "name": "hyacinth wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathHyacinth.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -15194,6 +15489,7 @@
       "craftedItemInternalId": 5468,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathHyacinth",
+      "diyIconFilenameSh": null,
       "serialId": 7860,
       "internalId": 232,
       "uniqueEntryId": "ysyo8kjy4NBvj929M",
@@ -15268,7 +15564,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1.5 ",
+    "size": "2x1.5",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -15497,7 +15793,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the third unique furniture slot"
     ],
@@ -15552,6 +15848,10 @@
         "internalId": 8415,
         "uniqueEntryId": "8nRurR89dQGH4zwCa",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 8415,
+          "furnitureName": "imperial dining lantern",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -15565,7 +15865,8 @@
           "chineseTraditional": "金色",
           "japanese": "ゴールド",
           "korean": "골드",
-          "russian": "Золотой"
+          "russian": "Золотой",
+          "plural": false
         },
         "colors": [ "Yellow", "Red" ],
         "concepts": [ "shop", "zen-style" ]
@@ -15587,6 +15888,10 @@
         "internalId": 8415,
         "uniqueEntryId": "qtaHjJoKKkKYXyGNS",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 8415,
+          "furnitureName": "imperial dining lantern",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
@@ -15600,7 +15905,8 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный"
+          "russian": "Черный",
+          "plural": false
         },
         "colors": [ "Black", "Red" ],
         "concepts": [ "shop", "zen-style" ]
@@ -15622,6 +15928,10 @@
         "internalId": 8415,
         "uniqueEntryId": "9gcsPPJbpnsjMwjY3",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 8415,
+          "furnitureName": "imperial dining lantern",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -15635,7 +15945,8 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий"
+          "russian": "Синий",
+          "plural": false
         },
         "colors": [ "Blue", "Red" ],
         "concepts": [ "shop", "zen-style" ]
@@ -15657,6 +15968,10 @@
         "internalId": 8415,
         "uniqueEntryId": "SE7mBdQAYSwZGvuq7",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 8415,
+          "furnitureName": "imperial dining lantern",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -15670,7 +15985,8 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный"
+          "russian": "Красный",
+          "plural": false
         },
         "colors": [ "Red", "Yellow" ],
         "concepts": [ "shop", "zen-style" ]
@@ -15697,7 +16013,7 @@
     "sell": 215,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
@@ -15750,7 +16066,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -16093,6 +16409,7 @@
       "sourceSheet": "Recipes",
       "name": "iron doorplate",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentIron.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -16108,6 +16425,7 @@
       "craftedItemInternalId": 4752,
       "cardColor": "dark gray",
       "diyIconFilename": "FtrDoorOrnamentIron",
+      "diyIconFilenameSh": null,
       "serialId": 940,
       "internalId": 468,
       "uniqueEntryId": "ckD6nctsXhWjtaRmJ",
@@ -16142,7 +16460,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 5,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": true,
@@ -16285,6 +16603,7 @@
       "sourceSheet": "Recipes",
       "name": "iron wall lamp",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronLampW.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -16300,6 +16619,7 @@
       "craftedItemInternalId": 3559,
       "cardColor": "dark gray",
       "diyIconFilename": "FtrIronLampW",
+      "diyIconFilenameSh": null,
       "serialId": 930,
       "internalId": 122,
       "uniqueEntryId": "b9KAgbNSetaJieTKp",
@@ -16354,7 +16674,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 4,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -16497,6 +16817,7 @@
       "sourceSheet": "Recipes",
       "name": "iron wall rack",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronShelfW.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -16512,6 +16833,7 @@
       "craftedItemInternalId": 3562,
       "cardColor": "dark gray",
       "diyIconFilename": "FtrIronShelfW",
+      "diyIconFilenameSh": null,
       "serialId": 931,
       "internalId": 123,
       "uniqueEntryId": "DYTTSvnJoQAtBqSpL",
@@ -16566,7 +16888,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 3,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": true,
@@ -16829,6 +17151,7 @@
       "sourceSheet": "Recipes",
       "name": "ironwood clock",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrIronwoodClockW.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -16844,6 +17167,7 @@
       "craftedItemInternalId": 3275,
       "cardColor": "blue",
       "diyIconFilename": "FtrIronwoodClockW",
+      "diyIconFilenameSh": null,
       "serialId": 1040,
       "internalId": 94,
       "uniqueEntryId": "vWYzQ9pTSBH5Wbmmk",
@@ -16898,7 +17222,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 2,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -17101,6 +17425,7 @@
       "sourceSheet": "Recipes",
       "name": "key holder",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrKeyhanger.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -17116,6 +17441,7 @@
       "craftedItemInternalId": 3992,
       "cardColor": "brown",
       "diyIconFilename": "FtrKeyhanger",
+      "diyIconFilenameSh": null,
       "serialId": 480,
       "internalId": 437,
       "uniqueEntryId": "cXTKSu7vAHz2c3tmD",
@@ -17170,7 +17496,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -17390,7 +17716,7 @@
     "sell": 720,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -17457,6 +17783,7 @@
       "sourceSheet": "Recipes",
       "name": "lily wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathYuri.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -17474,6 +17801,7 @@
       "craftedItemInternalId": 5641,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathYuri",
+      "diyIconFilenameSh": null,
       "serialId": 7863,
       "internalId": 438,
       "uniqueEntryId": "T79DghfmPpWspJ9Eq",
@@ -17548,7 +17876,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 2,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": true,
@@ -17771,6 +18099,7 @@
       "sourceSheet": "Recipes",
       "name": "log wall-mounted clock",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrLogClockWall.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -17786,6 +18115,7 @@
       "craftedItemInternalId": 4037,
       "cardColor": "brown",
       "diyIconFilename": "FtrLogClockWall",
+      "diyIconFilenameSh": null,
       "serialId": 340,
       "internalId": 115,
       "uniqueEntryId": "qAiYovJGN6oxwXWqY",
@@ -17840,7 +18170,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -17895,6 +18225,10 @@
         "internalId": 4119,
         "uniqueEntryId": "xLHFMTMSb7wSuaj6i",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 4119,
+          "furnitureName": "macrame tapestry",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -17908,7 +18242,8 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый"
+          "russian": "Белый",
+          "plural": false
         },
         "colors": [ "Beige", "Beige" ],
         "concepts": [ "living room" ]
@@ -17930,6 +18265,10 @@
         "internalId": 4119,
         "uniqueEntryId": "4SzJX5waNijmGpw9F",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 4119,
+          "furnitureName": "macrame tapestry",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -17943,7 +18282,8 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый"
+          "russian": "Зеленый",
+          "plural": false
         },
         "colors": [ "Green", "Green" ],
         "concepts": [ "living room" ]
@@ -17965,6 +18305,10 @@
         "internalId": 4119,
         "uniqueEntryId": "L8qkZyvoDRGY8Z8Ku",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 4119,
+          "furnitureName": "macrame tapestry",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -17978,7 +18322,8 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый"
+          "russian": "Розовый",
+          "plural": false
         },
         "colors": [ "Beige", "Pink" ],
         "concepts": [ "living room" ]
@@ -18000,6 +18345,10 @@
         "internalId": 4119,
         "uniqueEntryId": "4TuY3aK2s3LimFNoS",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 4119,
+          "furnitureName": "macrame tapestry",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -18013,7 +18362,8 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий"
+          "russian": "Синий",
+          "plural": false
         },
         "colors": [ "Beige", "Aqua" ],
         "concepts": [ "living room" ]
@@ -18029,7 +18379,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -18084,6 +18434,10 @@
         "internalId": 4118,
         "uniqueEntryId": "utM3v57qgymPACujB",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 4118,
+          "furnitureName": "magnetic knife rack",
           "english": "Stainless steel",
           "englishEurope": "Stainless steel",
           "german": "Edelstahl",
@@ -18097,7 +18451,8 @@
           "chineseTraditional": "不鏽鋼",
           "japanese": "ステンレス",
           "korean": "스테인리스",
-          "russian": "Из нержавеющей стали"
+          "russian": "Из нержавеющей стали",
+          "plural": false
         },
         "colors": [ "Gray", "Black" ],
         "concepts": [ "kitchen", "shop" ]
@@ -18119,6 +18474,10 @@
         "internalId": 4118,
         "uniqueEntryId": "T74q3Ea6zWxcZQTEd",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 4118,
+          "furnitureName": "magnetic knife rack",
           "english": "Wooden",
           "englishEurope": "Wooden",
           "german": "Hölzern",
@@ -18132,7 +18491,8 @@
           "chineseTraditional": "木製",
           "japanese": "木製",
           "korean": "목제",
-          "russian": "Деревянный"
+          "russian": "Деревянный",
+          "plural": false
         },
         "colors": [ "Beige", "Brown" ],
         "concepts": [ "kitchen", "shop" ]
@@ -18154,6 +18514,10 @@
         "internalId": 4118,
         "uniqueEntryId": "A2WGBqWHo9sA7tp2W",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 4118,
+          "furnitureName": "magnetic knife rack",
           "english": "Pop",
           "englishEurope": "Pop",
           "german": "Pop",
@@ -18167,7 +18531,8 @@
           "chineseTraditional": "繽紛",
           "japanese": "ポップ",
           "korean": "팝",
-          "russian": "Яркий"
+          "russian": "Яркий",
+          "plural": false
         },
         "colors": [ "Orange", "Colorful" ],
         "concepts": [ "kitchen", "shop" ]
@@ -18194,7 +18559,7 @@
     "sell": 375,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
@@ -18325,6 +18690,7 @@
       "sourceSheet": "Recipes",
       "name": "mermaid wall clock",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrMermaidclockWall.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -18340,6 +18706,7 @@
       "craftedItemInternalId": 12557,
       "cardColor": "white",
       "diyIconFilename": "FtrMermaidclockWall",
+      "diyIconFilenameSh": null,
       "serialId": 3830,
       "internalId": 722,
       "uniqueEntryId": "5ofhYTXth4c5AKdau",
@@ -18434,7 +18801,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -18489,6 +18856,10 @@
         "internalId": 9565,
         "uniqueEntryId": "bMEzNi4ZSo3ZPyBnF",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 9565,
+          "furnitureName": "mobile",
           "english": "Hot air balloons",
           "englishEurope": "Hot air balloons",
           "german": "Heißluftballons",
@@ -18502,7 +18873,8 @@
           "chineseTraditional": "氣球",
           "japanese": "気球",
           "korean": "하늘",
-          "russian": "Воздушные шары"
+          "russian": "Воздушные шары",
+          "plural": false
         },
         "colors": [ "Colorful", "Colorful" ],
         "concepts": [ "child's room", "fancy" ]
@@ -18524,6 +18896,10 @@
         "internalId": 9565,
         "uniqueEntryId": "9JEvGjWQrgL375ycv",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 9565,
+          "furnitureName": "mobile",
           "english": "Sheep",
           "englishEurope": "Sheep",
           "german": "Schafe",
@@ -18537,7 +18913,8 @@
           "chineseTraditional": "羊",
           "japanese": "羊",
           "korean": "꿈나라",
-          "russian": "Овцы"
+          "russian": "Овцы",
+          "plural": false
         },
         "colors": [ "Colorful", "Colorful" ],
         "concepts": [ "child's room", "fancy" ]
@@ -18559,6 +18936,10 @@
         "internalId": 9565,
         "uniqueEntryId": "mB2ar9nB67m6hTm7K",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 9565,
+          "furnitureName": "mobile",
           "english": "Ocean creatures",
           "englishEurope": "Ocean creatures",
           "german": "Meerestiere",
@@ -18572,7 +18953,8 @@
           "chineseTraditional": "海洋",
           "japanese": "オーシャン",
           "korean": "바다",
-          "russian": "Океанская фауна"
+          "russian": "Океанская фауна",
+          "plural": false
         },
         "colors": [ "Colorful", "Colorful" ],
         "concepts": [ "child's room", "fancy" ]
@@ -18594,6 +18976,10 @@
         "internalId": 9565,
         "uniqueEntryId": "7scDFwtSabzfahkvJ",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 9565,
+          "furnitureName": "mobile",
           "english": "Space",
           "englishEurope": "Space",
           "german": "Weltraum",
@@ -18607,7 +18993,8 @@
           "chineseTraditional": "太空",
           "japanese": "スペース",
           "korean": "우주",
-          "russian": "Космос"
+          "russian": "Космос",
+          "plural": false
         },
         "colors": [ "Colorful", "Colorful" ],
         "concepts": [ "child's room", "fancy" ]
@@ -18629,6 +19016,10 @@
         "internalId": 9565,
         "uniqueEntryId": "GvgQ3SmQY4yvu8djk",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 9565,
+          "furnitureName": "mobile",
           "english": "Gorgeous",
           "englishEurope": "Gorgeous",
           "german": "Luxus",
@@ -18642,7 +19033,8 @@
           "chineseTraditional": "華麗",
           "japanese": "ゴージャス",
           "korean": "럭셔리",
-          "russian": "Роскошный"
+          "russian": "Роскошный",
+          "plural": false
         },
         "colors": [ "Orange", "Gray" ],
         "concepts": [ "child's room", "fancy" ]
@@ -18669,7 +19061,7 @@
     "sell": 325,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x0.5 ",
+    "size": "1x0.5",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
@@ -18733,7 +19125,7 @@
     "sell": 1250,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
@@ -18797,7 +19189,7 @@
     "sell": 720,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -18864,6 +19256,7 @@
       "sourceSheet": "Recipes",
       "name": "mum wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathMum.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -18881,6 +19274,7 @@
       "craftedItemInternalId": 5467,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathMum",
+      "diyIconFilenameSh": null,
       "serialId": 7843,
       "internalId": 231,
       "uniqueEntryId": "LS93qbKCcMQLExqMG",
@@ -19033,6 +19427,7 @@
       "sourceSheet": "Recipes",
       "name": "mushroom wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathMushroom.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -19048,6 +19443,7 @@
       "craftedItemInternalId": 4726,
       "cardColor": "orange",
       "diyIconFilename": "FtrDoorOrnamentWreathMushroom",
+      "diyIconFilenameSh": null,
       "serialId": 5440,
       "internalId": 221,
       "uniqueEntryId": "5XfaKLorByDHGp9pi",
@@ -19158,7 +19554,7 @@
     "sell": 4800,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -19225,6 +19621,7 @@
       "sourceSheet": "Recipes",
       "name": "natural mum wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathMumRare.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -19240,6 +19637,7 @@
       "craftedItemInternalId": 5768,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathMumRare",
+      "diyIconFilenameSh": null,
       "serialId": 7845,
       "internalId": 442,
       "uniqueEntryId": "p7kG7qim9jPGSwxtz",
@@ -19274,7 +19672,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 3,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": true,
@@ -19417,6 +19815,7 @@
       "sourceSheet": "Recipes",
       "name": "orange wall-mounted clock",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrFruitsClockW.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -19434,6 +19833,7 @@
       "craftedItemInternalId": 3976,
       "cardColor": "orange",
       "diyIconFilename": "FtrFruitsClockW",
+      "diyIconFilenameSh": null,
       "serialId": 1330,
       "internalId": 184,
       "uniqueEntryId": "rJaAL5N8CQQ5dPd9y",
@@ -19488,7 +19888,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": true,
@@ -19561,6 +19961,10 @@
         "internalId": 6818,
         "uniqueEntryId": "EBJQx6sRmZMZMLpKr",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 6818,
+          "furnitureName": "ornament mobile",
           "english": "Colorful",
           "englishEurope": "Colorful",
           "german": "Bunt",
@@ -19574,7 +19978,8 @@
           "chineseTraditional": "彩色",
           "japanese": "カラフル",
           "korean": "컬러풀",
-          "russian": "Яркий"
+          "russian": "Яркий",
+          "plural": false
         },
         "colors": [ "Colorful", "Brown" ],
         "concepts": [ "party", "fancy" ]
@@ -19596,6 +20001,10 @@
         "internalId": 6818,
         "uniqueEntryId": "MHGi8BfRedg39mzoF",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 6818,
+          "furnitureName": "ornament mobile",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -19609,7 +20018,8 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий"
+          "russian": "Синий",
+          "plural": false
         },
         "colors": [ "Blue", "Gray" ],
         "concepts": [ "party", "fancy" ]
@@ -19632,7 +20042,7 @@
         "uniqueEntryId": "sHPGXufduxR9NqX45",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 3,
+          "variantId": 2,
           "id": 6818,
           "furnitureName": "ornament mobile",
           "english": "Red",
@@ -19671,6 +20081,10 @@
         "internalId": 6818,
         "uniqueEntryId": "gkS5B5jzA6kEWjtXe",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 6818,
+          "furnitureName": "ornament mobile",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -19684,7 +20098,8 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый"
+          "russian": "Розовый",
+          "plural": false
         },
         "colors": [ "Pink", "Pink" ],
         "concepts": [ "party", "fancy" ]
@@ -19706,6 +20121,10 @@
         "internalId": 6818,
         "uniqueEntryId": "nnXoHWxC58s7Q27MW",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 6818,
+          "furnitureName": "ornament mobile",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -19719,7 +20138,8 @@
           "chineseTraditional": "金色",
           "japanese": "ゴールド",
           "korean": "골드",
-          "russian": "Золотой"
+          "russian": "Золотой",
+          "plural": false
         },
         "colors": [ "Yellow", "Brown" ],
         "concepts": [ "party", "fancy" ]
@@ -19741,6 +20161,10 @@
         "internalId": 6818,
         "uniqueEntryId": "beNExeXHRdJYaqwhQ",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 5,
+          "id": 6818,
+          "furnitureName": "ornament mobile",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -19754,7 +20178,8 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый"
+          "russian": "Белый",
+          "plural": false
         },
         "colors": [ "White", "Gray" ],
         "concepts": [ "party", "fancy" ]
@@ -19766,6 +20191,7 @@
       "sourceSheet": "Recipes",
       "name": "ornament mobile",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrOrnamentMobile.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -19781,6 +20207,7 @@
       "craftedItemInternalId": 6818,
       "cardColor": "white",
       "diyIconFilename": "FtrOrnamentMobile",
+      "diyIconFilenameSh": null,
       "serialId": 7430,
       "internalId": 433,
       "uniqueEntryId": "RaotMSgnPsgG6PKLu",
@@ -19880,7 +20307,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -20223,6 +20650,7 @@
       "sourceSheet": "Recipes",
       "name": "ornament wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathOrnament.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -20238,6 +20666,7 @@
       "craftedItemInternalId": 4377,
       "cardColor": "white",
       "diyIconFilename": "FtrDoorOrnamentWreathOrnament",
+      "diyIconFilenameSh": null,
       "serialId": 7440,
       "internalId": 226,
       "uniqueEntryId": "rLcgugWkG2sntC7Lh",
@@ -20303,7 +20732,7 @@
     "sell": 720,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -20370,6 +20799,7 @@
       "sourceSheet": "Recipes",
       "name": "pansy wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathPansy.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -20387,6 +20817,7 @@
       "craftedItemInternalId": 5466,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathPansy",
+      "diyIconFilenameSh": null,
       "serialId": 7857,
       "internalId": 230,
       "uniqueEntryId": "qPZnLEKoAZbQxXQiG",
@@ -20461,7 +20892,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -20750,7 +21181,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -21073,6 +21504,7 @@
       "sourceSheet": "Recipes",
       "name": "paw-print doorplate",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentPaw.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -21088,6 +21520,7 @@
       "craftedItemInternalId": 5716,
       "cardColor": "brown",
       "diyIconFilename": "FtrDoorOrnamentPaw",
+      "diyIconFilenameSh": null,
       "serialId": 501,
       "internalId": 466,
       "uniqueEntryId": "S3f74cedig2pCxFHu",
@@ -21133,7 +21566,7 @@
     "sell": 475,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
@@ -21186,7 +21619,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -21435,7 +21868,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -21604,7 +22037,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 2,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -21807,6 +22240,7 @@
       "sourceSheet": "Recipes",
       "name": "potted ivy",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrLeafWall.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -21822,6 +22256,7 @@
       "craftedItemInternalId": 3785,
       "cardColor": "green",
       "diyIconFilename": "FtrLeafWall",
+      "diyIconFilenameSh": null,
       "serialId": 1231,
       "internalId": 214,
       "uniqueEntryId": "PRZpskqoyoPoT6g3c",
@@ -21887,7 +22322,7 @@
     "sell": 1200,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -21954,6 +22389,7 @@
       "sourceSheet": "Recipes",
       "name": "pretty cosmos wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathCosmosMix.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -21969,6 +22405,7 @@
       "craftedItemInternalId": 5745,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathCosmosMix",
+      "diyIconFilenameSh": null,
       "serialId": 7847,
       "internalId": 445,
       "uniqueEntryId": "sSXrhgXnaQfP53KFk",
@@ -22054,7 +22491,7 @@
     "sell": 2400,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -22121,6 +22558,7 @@
       "sourceSheet": "Recipes",
       "name": "pretty tulip wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathTulipMix.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -22136,6 +22574,7 @@
       "craftedItemInternalId": 5751,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathTulipMix",
+      "diyIconFilenameSh": null,
       "serialId": 7850,
       "internalId": 361,
       "uniqueEntryId": "z4k9YXZrLp9x6TXXF",
@@ -22221,7 +22660,7 @@
     "sell": 4800,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -22288,6 +22727,7 @@
       "sourceSheet": "Recipes",
       "name": "purple hyacinth wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathHyacinthRare.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -22303,6 +22743,7 @@
       "craftedItemInternalId": 5769,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathHyacinthRare",
+      "diyIconFilenameSh": null,
       "serialId": 7862,
       "internalId": 452,
       "uniqueEntryId": "QXWyxbAncQeicP3xY",
@@ -22348,7 +22789,7 @@
     "sell": 325,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
@@ -22412,7 +22853,7 @@
     "sell": 720,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -22479,6 +22920,7 @@
       "sourceSheet": "Recipes",
       "name": "rose wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathRose.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -22496,6 +22938,7 @@
       "craftedItemInternalId": 5437,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathRose",
+      "diyIconFilenameSh": null,
       "serialId": 7852,
       "internalId": 229,
       "uniqueEntryId": "Swx6c6NHk94Htn86t",
@@ -22853,6 +23296,68 @@
   },
   {
     "sourceSheet": "Wall-mounted",
+    "name": "shamrock doorplate",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrDoorOrnamentShamrock.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 1200,
+    "sell": 300,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "size": "1x1",
+    "source": [ "Nook Shopping Seasonal" ],
+    "sourceNotes": null,
+    "seasonEvent": "Shamrock Day",
+    "seasonEventExclusive": true,
+    "hhaBasePoints": 201,
+    "hhaCategory": null,
+    "interact": false,
+    "tag": "House Door Decor",
+    "outdoor": false,
+    "lightingType": null,
+    "doorDeco": true,
+    "catalog": null,
+    "versionAdded": "1.8.0",
+    "unlocked": false,
+    "filename": "FtrDoorOrnamentShamrock",
+    "variantId": null,
+    "internalId": 14031,
+    "uniqueEntryId": "9rRA8JrbMKyv7Avy2",
+    "translations": {
+      "sourceSheet": "Doorplates",
+      "id": 14031,
+      "version": "1.8.0",
+      "english": "shamrock doorplate",
+      "englishEurope": "shamrock doorplate",
+      "german": "Kleeblatttürschild",
+      "spanish": "placa trébol",
+      "spanishUs": "placa trébol",
+      "french": "plaque trèfle",
+      "frenchUs": "plaque trèfle",
+      "italian": "targa da porta trifoglio",
+      "dutch": "klaverdeurplaatje",
+      "chinese": "三叶草门牌",
+      "chineseTraditional": "三葉草門牌",
+      "japanese": "シャムロックのドアプレート",
+      "korean": "성 패트릭 문패",
+      "russian": "табличка-трилистник",
+      "plural": false
+    },
+    "colors": [ "Green", "Beige" ],
+    "concepts": [ "fancy", "child's room" ],
+    "set": null,
+    "series": null,
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Wall-mounted",
     "name": "shell wreath",
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrDoorOrnamentWreathShell.png",
     "variation": null,
@@ -22868,7 +23373,7 @@
     "sell": 4720,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": "summer shells",
@@ -22935,6 +23440,7 @@
       "sourceSheet": "Recipes",
       "name": "shell wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathShell.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -22950,6 +23456,7 @@
       "craftedItemInternalId": 4376,
       "cardColor": "white",
       "diyIconFilename": "FtrDoorOrnamentWreathShell",
+      "diyIconFilenameSh": null,
       "serialId": 4240,
       "internalId": 219,
       "uniqueEntryId": "k7dondWtbpmYBYHaX",
@@ -23091,7 +23598,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -23311,7 +23818,7 @@
     "sell": 425,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "HHA" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -23362,7 +23869,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -23492,7 +23999,7 @@
     "sell": 1200,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -23559,6 +24066,7 @@
       "sourceSheet": "Recipes",
       "name": "snazzy pansy wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathPansyMix.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -23574,6 +24082,7 @@
       "craftedItemInternalId": 5748,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathPansyMix",
+      "diyIconFilenameSh": null,
       "serialId": 7858,
       "internalId": 451,
       "uniqueEntryId": "vyxRpZbkGm3iZo9FG",
@@ -23659,7 +24168,7 @@
     "sell": 1600,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": "snowflakes",
@@ -23706,6 +24215,7 @@
       "sourceSheet": "Recipes",
       "name": "snowflake wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathIce.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -23721,6 +24231,7 @@
       "craftedItemInternalId": 4375,
       "cardColor": "blue",
       "diyIconFilename": "FtrDoorOrnamentWreathIce",
+      "diyIconFilenameSh": null,
       "serialId": 7040,
       "internalId": 222,
       "uniqueEntryId": "syeDkgGnge76zBJ5y",
@@ -23755,7 +24266,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -24093,7 +24604,7 @@
     "sell": 25,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "source": [ "Flick" ],
     "sourceNotes": null,
     "seasonEvent": "Bug-Off",
@@ -24367,6 +24878,7 @@
       "sourceSheet": "Recipes",
       "name": "spooky garland",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrHwnDecorationWall.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -24382,6 +24894,7 @@
       "craftedItemInternalId": 13222,
       "cardColor": "purple",
       "diyIconFilename": "FtrHwnDecorationWall",
+      "diyIconFilenameSh": null,
       "serialId": 5830,
       "internalId": 734,
       "uniqueEntryId": "ujn6dXq5em2zphcob",
@@ -24456,7 +24969,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 7,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": true,
@@ -24529,6 +25042,10 @@
         "internalId": 6827,
         "uniqueEntryId": "TLufk7Lr6iMdDXb38",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 6827,
+          "furnitureName": "starry garland",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -24542,7 +25059,8 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый"
+          "russian": "Желтый",
+          "plural": false
         },
         "colors": [ "Yellow", "Yellow" ],
         "concepts": [ "space", "fancy" ]
@@ -24564,6 +25082,10 @@
         "internalId": 6827,
         "uniqueEntryId": "LhpT8K5dju3dprewT",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 6827,
+          "furnitureName": "starry garland",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -24577,7 +25099,8 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый"
+          "russian": "Зеленый",
+          "plural": false
         },
         "colors": [ "Green", "Green" ],
         "concepts": [ "space", "fancy" ]
@@ -24599,6 +25122,10 @@
         "internalId": 6827,
         "uniqueEntryId": "G6tvoRQfvLBahQCkX",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 6827,
+          "furnitureName": "starry garland",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -24612,7 +25139,8 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий"
+          "russian": "Синий",
+          "plural": false
         },
         "colors": [ "Aqua", "Aqua" ],
         "concepts": [ "space", "fancy" ]
@@ -24634,10 +25162,14 @@
         "internalId": 6827,
         "uniqueEntryId": "3WLSFAmJsBmyNmeWo",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 6827,
+          "furnitureName": "starry garland",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
-          "spanish": "Púrpura",
+          "spanish": "Morado",
           "spanishUs": "Morado",
           "french": "Violet",
           "frenchUs": "Mauve",
@@ -24647,7 +25179,8 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "russian": "Фиолетовый",
+          "plural": false
         },
         "colors": [ "Purple", "Purple" ],
         "concepts": [ "space", "fancy" ]
@@ -24669,6 +25202,10 @@
         "internalId": 6827,
         "uniqueEntryId": "tB8TaCLvyDt9SEgj5",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 6827,
+          "furnitureName": "starry garland",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -24678,11 +25215,12 @@
           "frenchUs": "Rose",
           "italian": "Rosa",
           "dutch": "Roze",
-          "chinese": "粉红",
+          "chinese": "粉红色",
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый"
+          "russian": "Розовый",
+          "plural": false
         },
         "colors": [ "Pink", "Pink" ],
         "concepts": [ "space", "fancy" ]
@@ -24704,6 +25242,10 @@
         "internalId": 6827,
         "uniqueEntryId": "DHCxpmAhBsakwJtXF",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 5,
+          "id": 6827,
+          "furnitureName": "starry garland",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -24711,13 +25253,14 @@
           "spanishUs": "Naranja",
           "french": "Orange",
           "frenchUs": "Orange",
-          "italian": "Arancio",
+          "italian": "Arancione",
           "dutch": "Oranje",
           "chinese": "橘色",
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый"
+          "russian": "Оранжевый",
+          "plural": false
         },
         "colors": [ "Orange", "Orange" ],
         "concepts": [ "space", "fancy" ]
@@ -24739,6 +25282,10 @@
         "internalId": 6827,
         "uniqueEntryId": "ymYmGbxEF6KzzFP7c",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 6,
+          "id": 6827,
+          "furnitureName": "starry garland",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -24752,7 +25299,8 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый"
+          "russian": "Белый",
+          "plural": false
         },
         "colors": [ "White", "White" ],
         "concepts": [ "space", "fancy" ]
@@ -24764,6 +25312,7 @@
       "sourceSheet": "Recipes",
       "name": "starry garland",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrStarDecorationWall.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -24779,6 +25328,7 @@
       "craftedItemInternalId": 6827,
       "cardColor": "silver",
       "diyIconFilename": "FtrStarDecorationWall",
+      "diyIconFilenameSh": null,
       "serialId": 2231,
       "internalId": 430,
       "uniqueEntryId": "9LShEjECc39Sdyxzt",
@@ -24813,7 +25363,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -24868,6 +25418,10 @@
         "internalId": 7190,
         "uniqueEntryId": "dZEmxTttRksH6RNr3",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 7190,
+          "furnitureName": "studio wall spotlight",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -24881,7 +25435,8 @@
           "chineseTraditional": "白色",
           "japanese": "ホワイト",
           "korean": "화이트",
-          "russian": "Белый"
+          "russian": "Белый",
+          "plural": false
         },
         "colors": [ "Black", "White" ],
         "concepts": [ "facility", "concert" ]
@@ -24903,6 +25458,10 @@
         "internalId": 7190,
         "uniqueEntryId": "esq6DpHWC3sSyuCZ8",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 7190,
+          "furnitureName": "studio wall spotlight",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -24916,7 +25475,8 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый"
+          "russian": "Желтый",
+          "plural": false
         },
         "colors": [ "Black", "Yellow" ],
         "concepts": [ "facility", "concert" ]
@@ -24938,6 +25498,10 @@
         "internalId": 7190,
         "uniqueEntryId": "eaXb34akv5n9cPgc4",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 7190,
+          "furnitureName": "studio wall spotlight",
           "english": "Orange",
           "englishEurope": "Orange",
           "german": "Orange",
@@ -24951,7 +25515,8 @@
           "chineseTraditional": "橘色",
           "japanese": "オレンジ",
           "korean": "오렌지",
-          "russian": "Оранжевый"
+          "russian": "Оранжевый",
+          "plural": false
         },
         "colors": [ "Black", "Orange" ],
         "concepts": [ "facility", "concert" ]
@@ -24973,6 +25538,10 @@
         "internalId": 7190,
         "uniqueEntryId": "FJHXYbC7vT8ouWau7",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 7190,
+          "furnitureName": "studio wall spotlight",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -24986,7 +25555,8 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный"
+          "russian": "Красный",
+          "plural": false
         },
         "colors": [ "Black", "Red" ],
         "concepts": [ "facility", "concert" ]
@@ -25008,6 +25578,10 @@
         "internalId": 7190,
         "uniqueEntryId": "HQvbfkjjHQkHqiE8q",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 7190,
+          "furnitureName": "studio wall spotlight",
           "english": "Pink",
           "englishEurope": "Pink",
           "german": "Rosa",
@@ -25021,7 +25595,8 @@
           "chineseTraditional": "粉紅色",
           "japanese": "ピンク",
           "korean": "핑크",
-          "russian": "Розовый"
+          "russian": "Розовый",
+          "plural": false
         },
         "colors": [ "Black", "Pink" ],
         "concepts": [ "facility", "concert" ]
@@ -25043,6 +25618,10 @@
         "internalId": 7190,
         "uniqueEntryId": "2ajbEp8rxFpuwDXGS",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 5,
+          "id": 7190,
+          "furnitureName": "studio wall spotlight",
           "english": "Purple",
           "englishEurope": "Purple",
           "german": "Lila",
@@ -25056,7 +25635,8 @@
           "chineseTraditional": "紫色",
           "japanese": "パープル",
           "korean": "퍼플",
-          "russian": "Фиолетовый"
+          "russian": "Фиолетовый",
+          "plural": false
         },
         "colors": [ "Black", "Purple" ],
         "concepts": [ "facility", "concert" ]
@@ -25078,6 +25658,10 @@
         "internalId": 7190,
         "uniqueEntryId": "zkMtS2fshTnxmFRHx",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 6,
+          "id": 7190,
+          "furnitureName": "studio wall spotlight",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -25091,7 +25675,8 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий"
+          "russian": "Синий",
+          "plural": false
         },
         "colors": [ "Black", "Blue" ],
         "concepts": [ "facility", "concert" ]
@@ -25113,6 +25698,10 @@
         "internalId": 7190,
         "uniqueEntryId": "XFQsTNW6NfWDPp4kD",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 7,
+          "id": 7190,
+          "furnitureName": "studio wall spotlight",
           "english": "Green",
           "englishEurope": "Green",
           "german": "Grün",
@@ -25126,7 +25715,8 @@
           "chineseTraditional": "綠色",
           "japanese": "グリーン",
           "korean": "그린",
-          "russian": "Зеленый"
+          "russian": "Зеленый",
+          "plural": false
         },
         "colors": [ "Black", "Green" ],
         "concepts": [ "facility", "concert" ]
@@ -25142,7 +25732,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -25362,7 +25952,7 @@
     "sell": 250,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
@@ -25415,7 +26005,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -25704,7 +26294,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1.5 ",
+    "size": "2x1.5",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -25779,6 +26369,10 @@
         "internalId": 4756,
         "uniqueEntryId": "AiwZ3CvnwHZMsRB4i",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 4756,
+          "furnitureName": "throwback wall clock",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -25792,7 +26386,8 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый"
+          "russian": "Желтый",
+          "plural": false
         },
         "colors": [ "Yellow", "Red" ],
         "concepts": [ "child's room" ]
@@ -25815,7 +26410,7 @@
         "uniqueEntryId": "bQCYRWLLMbh8YHtea",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 0,
+          "variantId": 1,
           "id": 4756,
           "furnitureName": "throwback wall clock",
           "english": "Red",
@@ -25855,7 +26450,7 @@
         "uniqueEntryId": "addfsHMh4AkZyDHt3",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 1,
+          "variantId": 2,
           "id": 4756,
           "furnitureName": "throwback wall clock",
           "english": "Green",
@@ -25895,7 +26490,7 @@
         "uniqueEntryId": "85RJkcyHQGMSjdsy9",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 2,
+          "variantId": 3,
           "id": 4756,
           "furnitureName": "throwback wall clock",
           "english": "Blue",
@@ -25935,7 +26530,7 @@
         "uniqueEntryId": "qEpcZ9oBoiAw3EDq7",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 7,
+          "variantId": 4,
           "id": 4756,
           "furnitureName": "throwback wall clock",
           "english": "White",
@@ -25974,6 +26569,10 @@
         "internalId": 4756,
         "uniqueEntryId": "rTnqWQSDiNczT9yD2",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 5,
+          "id": 4756,
+          "furnitureName": "throwback wall clock",
           "english": "Gray",
           "englishEurope": "Gray",
           "german": "Grau",
@@ -25987,7 +26586,8 @@
           "chineseTraditional": "灰色",
           "japanese": "グレー",
           "korean": "그레이",
-          "russian": "Серый"
+          "russian": "Серый",
+          "plural": false
         },
         "colors": [ "Gray", "White" ],
         "concepts": [ "child's room" ]
@@ -26043,7 +26643,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -26366,6 +26966,7 @@
       "sourceSheet": "Recipes",
       "name": "timber doorplate",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentLog.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -26381,6 +26982,7 @@
       "craftedItemInternalId": 5718,
       "cardColor": "brown",
       "diyIconFilename": "FtrDoorOrnamentLog",
+      "diyIconFilenameSh": null,
       "serialId": 502,
       "internalId": 465,
       "uniqueEntryId": "bk8JqAgdSKtw6EdC8",
@@ -26446,7 +27048,7 @@
     "sell": 100,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -26493,6 +27095,7 @@
       "sourceSheet": "Recipes",
       "name": "tree branch wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathBranch.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -26508,6 +27111,7 @@
       "craftedItemInternalId": 4727,
       "cardColor": "brown",
       "diyIconFilename": "FtrDoorOrnamentWreathBranch",
+      "diyIconFilenameSh": null,
       "serialId": 240,
       "internalId": 225,
       "uniqueEntryId": "JnbW5panqjR2iWknX",
@@ -26542,7 +27146,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 3,
-    "size": "1x1.5 ",
+    "size": "1x1.5",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": true,
@@ -26615,6 +27219,10 @@
         "internalId": 6075,
         "uniqueEntryId": "vu6CcKwJn9TrkHWW3",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 6075,
+          "furnitureName": "tree's bounty mobile",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -26624,11 +27232,12 @@
           "frenchUs": "Brun",
           "italian": "Marrone",
           "dutch": "Bruin",
-          "chinese": "棕色",
-          "chineseTraditional": "棕色",
-          "japanese": "ブラウン",
-          "korean": "브라운",
-          "russian": "Коричневый"
+          "chinese": "棕色坚果",
+          "chineseTraditional": "棕色堅果",
+          "japanese": "ブラウンナッツ",
+          "korean": "브라운 넛츠",
+          "russian": "Коричневый",
+          "plural": false
         },
         "colors": [ "Brown", "Orange" ],
         "concepts": [ "fancy" ]
@@ -26650,6 +27259,10 @@
         "internalId": 6075,
         "uniqueEntryId": "WXmHeyjdtmJraCWii",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 6075,
+          "furnitureName": "tree's bounty mobile",
           "english": "White",
           "englishEurope": "White",
           "german": "Weiß",
@@ -26659,11 +27272,12 @@
           "frenchUs": "Blanc",
           "italian": "Bianco",
           "dutch": "Wit",
-          "chinese": "白色",
-          "chineseTraditional": "白色",
-          "japanese": "ホワイト",
-          "korean": "화이트",
-          "russian": "Белый"
+          "chinese": "白色坚果",
+          "chineseTraditional": "白色堅果",
+          "japanese": "ホワイトナッツ",
+          "korean": "화이트 넛츠",
+          "russian": "Белый",
+          "plural": false
         },
         "colors": [ "White", "Yellow" ],
         "concepts": [ "fancy" ]
@@ -26675,6 +27289,7 @@
       "sourceSheet": "Recipes",
       "name": "tree's bounty mobile",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrNutMobile.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -26690,6 +27305,7 @@
       "craftedItemInternalId": 6075,
       "cardColor": "brown",
       "diyIconFilename": "FtrNutMobile",
+      "diyIconFilenameSh": null,
       "serialId": 4630,
       "internalId": 414,
       "uniqueEntryId": "F6WehkKZG7sSwRLBo",
@@ -26775,7 +27391,7 @@
     "sell": 720,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -26842,6 +27458,7 @@
       "sourceSheet": "Recipes",
       "name": "tulip wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathTulip.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -26859,6 +27476,7 @@
       "craftedItemInternalId": 5670,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathTulip",
+      "diyIconFilenameSh": null,
       "serialId": 7849,
       "internalId": 360,
       "uniqueEntryId": "jpfWEEc78PXeP26Js",
@@ -26933,7 +27551,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -27182,7 +27800,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -27431,7 +28049,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -27800,7 +28418,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the third unique furniture slot"
     ],
@@ -28169,7 +28787,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the third unique furniture slot"
     ],
@@ -28418,7 +29036,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -28473,6 +29091,10 @@
         "internalId": 5165,
         "uniqueEntryId": "TeDcQnwSPdBJH3W5w",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 5165,
+          "furnitureName": "wall-mounted candle",
           "english": "Gold",
           "englishEurope": "Gold",
           "german": "Gold",
@@ -28486,7 +29108,8 @@
           "chineseTraditional": "金色",
           "japanese": "ゴールド",
           "korean": "골드",
-          "russian": "Золотой"
+          "russian": "Золотой",
+          "plural": false
         },
         "colors": [ "Yellow", "White" ],
         "concepts": [ "horror" ]
@@ -28508,6 +29131,10 @@
         "internalId": 5165,
         "uniqueEntryId": "zqHDbqxTbYQFNpzdH",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 5165,
+          "furnitureName": "wall-mounted candle",
           "english": "Silver",
           "englishEurope": "Silver",
           "german": "Silber",
@@ -28521,7 +29148,8 @@
           "chineseTraditional": "銀色",
           "japanese": "シルバー",
           "korean": "실버",
-          "russian": "Серебряный"
+          "russian": "Серебряный",
+          "plural": false
         },
         "colors": [ "Gray", "White" ],
         "concepts": [ "horror" ]
@@ -28543,6 +29171,10 @@
         "internalId": 5165,
         "uniqueEntryId": "6ayNvsZxqe56degFA",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 5165,
+          "furnitureName": "wall-mounted candle",
           "english": "Copper",
           "englishEurope": "Copper",
           "german": "Kupfer",
@@ -28556,7 +29188,8 @@
           "chineseTraditional": "銅色",
           "japanese": "ブロンズ",
           "korean": "브론즈",
-          "russian": "Медный"
+          "russian": "Медный",
+          "plural": false
         },
         "colors": [ "Brown", "White" ],
         "concepts": [ "horror" ]
@@ -28579,7 +29212,7 @@
         "uniqueEntryId": "wZgNHhr67uyENxXXY",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 6,
+          "variantId": 3,
           "id": 5165,
           "furnitureName": "wall-mounted candle",
           "english": "Black",
@@ -28619,7 +29252,7 @@
         "uniqueEntryId": "3o6WMvdTp9FG5rNoA",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 5,
+          "variantId": 4,
           "id": 5165,
           "furnitureName": "wall-mounted candle",
           "english": "White",
@@ -28652,7 +29285,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
     ],
@@ -28941,7 +29574,7 @@
     "diy": false,
     "patternCustomize": false,
     "kitCost": null,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": [
       "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot"
     ],
@@ -29036,6 +29669,10 @@
         "internalId": 8417,
         "uniqueEntryId": "ikaTikFgibQJQoR7B",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 8417,
+          "furnitureName": "wall-mounted tool board",
           "english": "Camel",
           "englishEurope": "Camel",
           "german": "Kamelfarben",
@@ -29049,7 +29686,8 @@
           "chineseTraditional": "駝色",
           "japanese": "キャメル",
           "korean": "캐멀",
-          "russian": "Светло-коричневый"
+          "russian": "Светло-коричневый",
+          "plural": false
         },
         "colors": [ "Brown", "Colorful" ],
         "concepts": [ "garage" ]
@@ -29071,6 +29709,10 @@
         "internalId": 8417,
         "uniqueEntryId": "xcBQagMHuivCh6cXg",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 8417,
+          "furnitureName": "wall-mounted tool board",
           "english": "Yellow",
           "englishEurope": "Yellow",
           "german": "Gelb",
@@ -29084,7 +29726,8 @@
           "chineseTraditional": "黃色",
           "japanese": "イエロー",
           "korean": "옐로",
-          "russian": "Желтый"
+          "russian": "Желтый",
+          "plural": false
         },
         "colors": [ "Yellow", "Colorful" ],
         "concepts": [ "garage" ]
@@ -29107,7 +29750,7 @@
         "uniqueEntryId": "EZaaWiNnWDGuTLXW7",
         "variantTranslations": {
           "sourceSheet": "Furniture Variants",
-          "variantId": 1,
+          "variantId": 3,
           "id": 8417,
           "furnitureName": "wall-mounted tool board",
           "english": "Red",
@@ -29146,6 +29789,10 @@
         "internalId": 8417,
         "uniqueEntryId": "28sbNapNucHSdNf4W",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 8417,
+          "furnitureName": "wall-mounted tool board",
           "english": "Blue",
           "englishEurope": "Blue",
           "german": "Blau",
@@ -29159,7 +29806,8 @@
           "chineseTraditional": "藍色",
           "japanese": "ブルー",
           "korean": "블루",
-          "russian": "Синий"
+          "russian": "Синий",
+          "plural": false
         },
         "colors": [ "Blue", "Colorful" ],
         "concepts": [ "garage" ]
@@ -29181,6 +29829,10 @@
         "internalId": 8417,
         "uniqueEntryId": "e8uRj7TvjkQzoMRju",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 5,
+          "id": 8417,
+          "furnitureName": "wall-mounted tool board",
           "english": "Black",
           "englishEurope": "Black",
           "german": "Schwarz",
@@ -29194,7 +29846,8 @@
           "chineseTraditional": "黑色",
           "japanese": "ブラック",
           "korean": "블랙",
-          "russian": "Черный"
+          "russian": "Черный",
+          "plural": false
         },
         "colors": [ "Black", "Colorful" ],
         "concepts": [ "garage" ]
@@ -29221,7 +29874,7 @@
     "sell": 625,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Nook's Cranny" ],
     "sourceNotes": [
       "Available in Nook's Cranny (upgraded only), in the unique furniture slot"
@@ -29472,7 +30125,7 @@
     "sell": 720,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "size": "1x1 ",
+    "size": "1x1",
     "source": [ "Crafting" ],
     "sourceNotes": null,
     "seasonEvent": null,
@@ -29539,6 +30192,7 @@
       "sourceSheet": "Recipes",
       "name": "windflower wreath",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrDoorOrnamentWreathAnemone.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -29556,6 +30210,7 @@
       "craftedItemInternalId": 5436,
       "cardColor": "green",
       "diyIconFilename": "FtrDoorOrnamentWreathAnemone",
+      "diyIconFilenameSh": null,
       "serialId": 7840,
       "internalId": 228,
       "uniqueEntryId": "xGTRnSEqPTzYGDwjT",
@@ -29634,7 +30289,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 2,
-    "size": "1x1 ",
+    "size": "1x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": true,
@@ -29897,6 +30552,7 @@
       "sourceSheet": "Recipes",
       "name": "wooden-block wall clock",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrBlockClock.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -29912,6 +30568,7 @@
       "craftedItemInternalId": 3208,
       "cardColor": "brown",
       "diyIconFilename": "FtrBlockClock",
+      "diyIconFilenameSh": null,
       "serialId": 359,
       "internalId": 90,
       "uniqueEntryId": "g9N9eFwC48vsPWz5e",
@@ -29986,7 +30643,7 @@
     "diy": true,
     "patternCustomize": false,
     "kitCost": 1,
-    "size": "2x1 ",
+    "size": "2x1",
     "sourceNotes": null,
     "versionAdded": "1.0.0",
     "interact": false,
@@ -30039,6 +30696,10 @@
         "internalId": 5636,
         "uniqueEntryId": "SPEvaBm2nhJdEFirp",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 5636,
+          "furnitureName": "wooden-plank sign",
           "english": "Natural",
           "englishEurope": "Natural",
           "german": "Natur",
@@ -30052,7 +30713,8 @@
           "chineseTraditional": "自然色",
           "japanese": "ナチュラル",
           "korean": "내추럴",
-          "russian": "Натуральный"
+          "russian": "Натуральный",
+          "plural": false
         },
         "colors": [ "Beige", "Black" ],
         "concepts": [ "zen-style" ]
@@ -30074,6 +30736,10 @@
         "internalId": 5636,
         "uniqueEntryId": "frdjb5dXZicpbv3uu",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 5636,
+          "furnitureName": "wooden-plank sign",
           "english": "Dark brown",
           "englishEurope": "Dark brown",
           "german": "Dunkelbraun",
@@ -30087,7 +30753,8 @@
           "chineseTraditional": "深棕色",
           "japanese": "ダークブラウン",
           "korean": "다크 브라운",
-          "russian": "Темно-коричневый"
+          "russian": "Темно-коричневый",
+          "plural": false
         },
         "colors": [ "Black", "Yellow" ],
         "concepts": [ "zen-style" ]
@@ -30109,6 +30776,10 @@
         "internalId": 5636,
         "uniqueEntryId": "dtMZtLS6kRtsCD4Mx",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 5636,
+          "furnitureName": "wooden-plank sign",
           "english": "Brown",
           "englishEurope": "Brown",
           "german": "Braun",
@@ -30122,7 +30793,8 @@
           "chineseTraditional": "棕色",
           "japanese": "ブラウン",
           "korean": "브라운",
-          "russian": "Коричневый"
+          "russian": "Коричневый",
+          "plural": false
         },
         "colors": [ "Brown", "White" ],
         "concepts": [ "zen-style" ]
@@ -30144,6 +30816,10 @@
         "internalId": 5636,
         "uniqueEntryId": "E9JZXGDshMDsAEKZZ",
         "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 5636,
+          "furnitureName": "wooden-plank sign",
           "english": "Red",
           "englishEurope": "Red",
           "german": "Rot",
@@ -30157,7 +30833,8 @@
           "chineseTraditional": "紅色",
           "japanese": "レッド",
           "korean": "레드",
-          "russian": "Красный"
+          "russian": "Красный",
+          "plural": false
         },
         "colors": [ "Red", "Yellow" ],
         "concepts": [ "zen-style" ]
@@ -30169,6 +30846,7 @@
       "sourceSheet": "Recipes",
       "name": "wooden-plank sign",
       "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrSignboardWood.png",
+      "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
@@ -30184,6 +30862,7 @@
       "craftedItemInternalId": 5636,
       "cardColor": "brown",
       "diyIconFilename": "FtrSignboardWood",
+      "diyIconFilenameSh": null,
       "serialId": 483,
       "internalId": 279,
       "uniqueEntryId": "EbrmatJDLMcc2oexh",
