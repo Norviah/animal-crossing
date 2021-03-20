@@ -5,5 +5,5 @@
  * @return           The string separated with the separator.
  */
 export function separate(string: string, separator: string): string[] {
-  return string.split(separator).map((string: string) => string.trim());
+  return (string != null) ? string.split(separator).map((string: string) => string.trim()) : [];
 }
