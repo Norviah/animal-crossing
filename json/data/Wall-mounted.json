@@ -440,7 +440,7 @@
       "russian": "венок на День зайцев",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Colorful", "Yellow" ],
     "concepts": [ "fancy", "party" ],
     "set": null,
     "series": "Bunny Day",
@@ -664,6 +664,88 @@
   },
   {
     "sourceSheet": "Wall-mounted",
+    "name": "Hello Kitty clock",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSanrioKtyClockWall.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 1000,
+    "sell": 250,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "size": "1x1",
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": [ "Scan the associated Sanrio amiibo card" ],
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 201,
+    "hhaCategory": "Clock",
+    "interact": true,
+    "tag": "Hello Kitty",
+    "outdoor": false,
+    "lightingType": null,
+    "doorDeco": false,
+    "catalog": null,
+    "versionAdded": "1.9.0",
+    "unlocked": true,
+    "filename": "FtrSanrioKtyClockWall",
+    "variantId": null,
+    "internalId": 12268,
+    "uniqueEntryId": "FmcgTsmfmz9aW5A4P",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 35,
+      "version": "1.9.0",
+      "english": "Hello Kitty",
+      "englishEurope": "Hello Kitty",
+      "german": "Hello Kitty",
+      "spanish": "Hello Kitty",
+      "spanishUs": "Hello Kitty",
+      "french": "Hello Kitty",
+      "frenchUs": "Hello Kitty",
+      "italian": "Hello Kitty",
+      "dutch": "Hello Kitty",
+      "chinese": "Hello Kitty",
+      "chineseTraditional": "Hello Kitty",
+      "japanese": "ハローキティ",
+      "korean": "헬로키티",
+      "russian": "Hello Kitty",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 12268,
+      "version": "1.9.0",
+      "english": "Hello Kitty clock",
+      "englishEurope": "Hello Kitty clock",
+      "german": "Hello-Kitty-Uhr",
+      "spanish": "reloj Hello Kitty",
+      "spanishUs": "reloj Hello Kitty",
+      "french": "horloge Hello Kitty",
+      "frenchUs": "horloge Hello Kitty",
+      "italian": "orologio Hello Kitty",
+      "dutch": "Hello Kitty-klok",
+      "chinese": "Hello Kitty时钟",
+      "chineseTraditional": "Hello Kitty時鐘",
+      "japanese": "ハローキティなとけい",
+      "korean": "헬로키티 시계",
+      "russian": "часы Hello Kitty",
+      "plural": false
+    },
+    "colors": [ "White", "Red" ],
+    "concepts": [ "fancy" ],
+    "set": null,
+    "series": "Hello Kitty",
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Wall-mounted",
     "name": "Jack's portrait",
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrHwnPortraitWall.png",
     "variation": null,
@@ -722,6 +804,88 @@
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Wall-mounted",
+    "name": "Kiki & Lala clock",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSanrioLtsClockWall.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 1000,
+    "sell": 250,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "size": "1x1",
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": [ "Scan the associated Sanrio amiibo card" ],
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 201,
+    "hhaCategory": "Clock",
+    "interact": true,
+    "tag": "Kiki & Lala",
+    "outdoor": false,
+    "lightingType": null,
+    "doorDeco": false,
+    "catalog": null,
+    "versionAdded": "1.9.0",
+    "unlocked": true,
+    "filename": "FtrSanrioLtsClockWall",
+    "variantId": null,
+    "internalId": 12242,
+    "uniqueEntryId": "BxkwA29WtZEhyhXwS",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 37,
+      "version": "1.9.0",
+      "english": "Kiki & Lala",
+      "englishEurope": "Kiki & Lala",
+      "german": "Kiki & Lala",
+      "spanish": "Kiki & Lala",
+      "spanishUs": "Kiki & Lala",
+      "french": "Kiki & Lala",
+      "frenchUs": "Kiki & Lala",
+      "italian": "Kiki & Lala",
+      "dutch": "Kiki & Lala",
+      "chinese": "Kiki & Lala",
+      "chineseTraditional": "Kiki & Lala",
+      "japanese": "キキ&ララ",
+      "korean": "리틀트윈스타",
+      "russian": "Kiki & Lala",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 12242,
+      "version": "1.9.0",
+      "english": "Kiki & Lala clock",
+      "englishEurope": "Kiki & Lala clock",
+      "german": "Kiki-&-Lala-Uhr",
+      "spanish": "reloj Kiki & Lala",
+      "spanishUs": "reloj Kiki & Lala",
+      "french": "horloge Kiki & Lala",
+      "frenchUs": "horloge Kiki & Lala",
+      "italian": "orologio Kiki & Lala",
+      "dutch": "Kiki-&-Lala-klok",
+      "chinese": "Kiki & Lala时钟",
+      "chineseTraditional": "Kiki & Lala時鐘",
+      "japanese": "キキ&ララなとけい",
+      "korean": "리틀트윈스타 시계",
+      "russian": "часы Kiki & Lala",
+      "plural": false
+    },
+    "colors": [ "Yellow", "Pink" ],
+    "concepts": [ "fancy" ],
+    "set": null,
+    "series": "Kiki & Lala",
     "recipe": null
   },
   {
@@ -970,7 +1134,7 @@
       "plural": false
     },
     "colors": [ "Red", "Yellow" ],
-    "concepts": [ "party", "zen-style" ],
+    "concepts": [ "party", "harmonious" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -1673,6 +1837,88 @@
   },
   {
     "sourceSheet": "Wall-mounted",
+    "name": "My Melody clock",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSanrioMymClockWall.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 1000,
+    "sell": 250,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "size": "1x1",
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": [ "Scan the associated Sanrio amiibo card" ],
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 201,
+    "hhaCategory": "Clock",
+    "interact": true,
+    "tag": "My Melody",
+    "outdoor": false,
+    "lightingType": null,
+    "doorDeco": false,
+    "catalog": null,
+    "versionAdded": "1.9.0",
+    "unlocked": true,
+    "filename": "FtrSanrioMymClockWall",
+    "variantId": null,
+    "internalId": 12266,
+    "uniqueEntryId": "NQNwNypLjQeNNKRrA",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 39,
+      "version": "1.9.0",
+      "english": "My Melody",
+      "englishEurope": "My Melody",
+      "german": "My Melody",
+      "spanish": "My Melody",
+      "spanishUs": "My Melody",
+      "french": "My Melody",
+      "frenchUs": "My Melody",
+      "italian": "My Melody",
+      "dutch": "My Melody",
+      "chinese": "My Melody",
+      "chineseTraditional": "My Melody",
+      "japanese": "マイメロディ",
+      "korean": "마이멜로디",
+      "russian": "My Melody",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 12266,
+      "version": "1.9.0",
+      "english": "My Melody clock",
+      "englishEurope": "My Melody clock",
+      "german": "My-Melody-Uhr",
+      "spanish": "reloj My Melody",
+      "spanishUs": "reloj My Melody",
+      "french": "horloge My Melody",
+      "frenchUs": "horloge My Melody",
+      "italian": "orologio My Melody",
+      "dutch": "My Melody-klok",
+      "chinese": "My Melody时钟",
+      "chineseTraditional": "My Melody時鐘",
+      "japanese": "マイメロディなとけい",
+      "korean": "마이멜로디 시계",
+      "russian": "часы My Melody",
+      "plural": false
+    },
+    "colors": [ "Pink", "White" ],
+    "concepts": [ "fancy" ],
+    "set": null,
+    "series": "My Melody",
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Wall-mounted",
     "name": "New Year's shimekazari",
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrDoorOrnamentWreathShimenawa.png",
     "variation": null,
@@ -1728,9 +1974,215 @@
       "plural": false
     },
     "colors": [ "Beige", "Red" ],
-    "concepts": [ "zen-style" ],
+    "concepts": [ "harmonious" ],
     "set": null,
     "series": null,
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Wall-mounted",
+    "name": "Nook Inc. doorplate",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrDoorOrnamentNooklogo.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 1500,
+    "sell": 375,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "size": "1x1",
+    "source": [ "Nook Link" ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 431,
+    "hhaCategory": null,
+    "interact": false,
+    "tag": "House Door Decor",
+    "outdoor": false,
+    "lightingType": null,
+    "doorDeco": true,
+    "catalog": "Not for sale",
+    "versionAdded": "1.9.0",
+    "unlocked": false,
+    "filename": "FtrDoorOrnamentNooklogo",
+    "variantId": null,
+    "internalId": 14250,
+    "uniqueEntryId": "AnbMEQxtHvMMXWEh3",
+    "translations": {
+      "sourceSheet": "Doorplates",
+      "id": 14250,
+      "version": "1.9.0",
+      "english": "Nook Inc. doorplate",
+      "englishEurope": "Nook Inc. doorplate",
+      "german": "Nook-Inc.-Türschild",
+      "spanish": "placa Nook Inc.",
+      "spanishUs": "placa Nook Inc.",
+      "french": "plaque Nook Inc.",
+      "frenchUs": "plaque Nook Inc.",
+      "italian": "targa da porta Nook Inc.",
+      "dutch": "Nook Inc.-deurplaatje",
+      "chinese": "Nook Inc.门牌",
+      "chineseTraditional": "Nook Inc.門牌",
+      "japanese": "たぬきかいはつのドアプレート",
+      "korean": "Nook Inc. 문패",
+      "russian": "табличка Nook Inc.",
+      "plural": false
+    },
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "living room" ],
+    "set": null,
+    "series": null,
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Wall-mounted",
+    "name": "Nook Inc. poster",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrNookPoster.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 640,
+    "sell": 160,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "size": "2x1",
+    "source": [ "Nook Link" ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 431,
+    "hhaCategory": null,
+    "interact": false,
+    "tag": "Office",
+    "outdoor": false,
+    "lightingType": null,
+    "doorDeco": false,
+    "catalog": "Not for sale",
+    "versionAdded": "1.9.0",
+    "unlocked": false,
+    "filename": "FtrNookPoster",
+    "variantId": null,
+    "internalId": 13315,
+    "uniqueEntryId": "sWc7nHcnfZ9t8ZRNY",
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 13315,
+      "version": "1.9.0",
+      "english": "Nook Inc. poster",
+      "englishEurope": "Nook Inc. poster",
+      "german": "Nook-Inc.-Poster",
+      "spanish": "cartel de Nook Inc.",
+      "spanishUs": "póster de Nook Inc.",
+      "french": "poster Nook Inc.",
+      "frenchUs": "poster Nook Inc.",
+      "italian": "poster della Nook Inc.",
+      "dutch": "Nook Inc.-poster",
+      "chinese": "Nook Inc.的海报",
+      "chineseTraditional": "Nook Inc.的海報",
+      "japanese": "たぬきかいはつのポスター",
+      "korean": "Nook Inc. 포스터",
+      "russian": "постер Nook Inc.",
+      "plural": false
+    },
+    "colors": [ "Blue", "Orange" ],
+    "concepts": [ "facility", "living room" ],
+    "set": null,
+    "series": null,
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Wall-mounted",
+    "name": "Pompompurin TV",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSanrioPppTVWall.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 8000,
+    "sell": 2000,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "size": "2x1",
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": [ "Scan the associated Sanrio amiibo card" ],
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 201,
+    "hhaCategory": "TV",
+    "interact": true,
+    "tag": "Pompompurin",
+    "outdoor": false,
+    "lightingType": "Monitor",
+    "doorDeco": false,
+    "catalog": null,
+    "versionAdded": "1.9.0",
+    "unlocked": true,
+    "filename": "FtrSanrioPppTVWall",
+    "variantId": null,
+    "internalId": 12257,
+    "uniqueEntryId": "SXDdii2JNqqEFfeWT",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 36,
+      "version": "1.9.0",
+      "english": "Pompompurin",
+      "englishEurope": "Pompompurin",
+      "german": "Pompompurin",
+      "spanish": "Pompompurin",
+      "spanishUs": "Pompompurin",
+      "french": "Pompompurin",
+      "frenchUs": "Pompompurin",
+      "italian": "Pompompurin",
+      "dutch": "Pompompurin",
+      "chinese": "Pompompurin",
+      "chineseTraditional": "Pompompurin",
+      "japanese": "ポムポムプリン",
+      "korean": "폼폼푸린",
+      "russian": "Pompompurin",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 12257,
+      "version": "1.9.0",
+      "english": "Pompompurin TV",
+      "englishEurope": "Pompompurin TV",
+      "german": "Pompompurin-TV",
+      "spanish": "tele Pompompurin",
+      "spanishUs": "tele Pompompurin",
+      "french": "télé Pompompurin",
+      "frenchUs": "télé Pompompurin",
+      "italian": "TV Pompompurin",
+      "dutch": "Pompompurin-televisie",
+      "chinese": "Pompompurin电视",
+      "chineseTraditional": "Pompompurin電視",
+      "japanese": "ポムポムプリンなテレビ",
+      "korean": "폼폼푸린 TV",
+      "russian": "телевизор Pompompurin",
+      "plural": false
+    },
+    "colors": [ "Yellow", "Brown" ],
+    "concepts": [ "fancy" ],
+    "set": null,
+    "series": "Pompompurin",
     "recipe": null
   },
   {
@@ -3099,7 +3551,7 @@
           "plural": false
         },
         "colors": [ "Green", "Red" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBambooFlowerwall_Remake_1_0.png",
@@ -3139,7 +3591,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Red" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBambooFlowerwall_Remake_2_0.png",
@@ -3179,7 +3631,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Green" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       }
     ],
     "set": null,
@@ -4298,7 +4750,7 @@
       "plural": false
     },
     "colors": [ "White", "Black" ],
-    "concepts": [ "garage", "facility" ],
+    "concepts": [ "workshop", "facility" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -12679,7 +13131,7 @@
           "plural": false
         },
         "colors": [ "Gray", "Gray" ],
-        "concepts": [ "facility", "garage" ]
+        "concepts": [ "facility", "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrGearWall_Remake_1_0.png",
@@ -12719,7 +13171,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Brown" ],
-        "concepts": [ "facility", "garage" ]
+        "concepts": [ "facility", "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrGearWall_Remake_2_0.png",
@@ -12759,7 +13211,7 @@
           "plural": false
         },
         "colors": [ "Black", "Black" ],
-        "concepts": [ "facility", "garage" ]
+        "concepts": [ "facility", "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrGearWall_Remake_3_0.png",
@@ -12799,7 +13251,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Colorful" ],
-        "concepts": [ "facility", "garage" ]
+        "concepts": [ "facility", "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrGearWall_Remake_4_0.png",
@@ -12839,7 +13291,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Beige" ],
-        "concepts": [ "facility", "garage" ]
+        "concepts": [ "facility", "workshop" ]
       }
     ],
     "set": null,
@@ -13353,7 +13805,7 @@
           "plural": false
         },
         "colors": [ "Green", "White" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_0_1.png",
@@ -13414,7 +13866,7 @@
           "plural": false
         },
         "colors": [ "Green", "Gray" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_0_2.png",
@@ -13475,7 +13927,7 @@
           "plural": false
         },
         "colors": [ "Green", "Orange" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_0_3.png",
@@ -13536,7 +13988,7 @@
           "plural": false
         },
         "colors": [ "Green", "Orange" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_0_4.png",
@@ -13597,7 +14049,7 @@
           "plural": false
         },
         "colors": [ "Green", "Beige" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_1_0.png",
@@ -13658,7 +14110,7 @@
           "plural": false
         },
         "colors": [ "Brown", "White" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_1_1.png",
@@ -13719,7 +14171,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Gray" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_1_2.png",
@@ -13780,7 +14232,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Orange" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_1_3.png",
@@ -13841,7 +14293,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Orange" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_1_4.png",
@@ -13902,7 +14354,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Beige" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_2_0.png",
@@ -13963,7 +14415,7 @@
           "plural": false
         },
         "colors": [ "Pink", "White" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_2_1.png",
@@ -14024,7 +14476,7 @@
           "plural": false
         },
         "colors": [ "Pink", "Gray" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_2_2.png",
@@ -14085,7 +14537,7 @@
           "plural": false
         },
         "colors": [ "Pink", "Orange" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_2_3.png",
@@ -14146,7 +14598,7 @@
           "plural": false
         },
         "colors": [ "Pink", "Orange" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_2_4.png",
@@ -14207,7 +14659,7 @@
           "plural": false
         },
         "colors": [ "Pink", "Beige" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_3_0.png",
@@ -14268,7 +14720,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "White" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_3_1.png",
@@ -14329,7 +14781,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "Gray" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_3_2.png",
@@ -14390,7 +14842,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "Orange" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_3_3.png",
@@ -14451,7 +14903,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "Orange" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_3_4.png",
@@ -14512,7 +14964,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "Beige" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_4_0.png",
@@ -14573,7 +15025,7 @@
           "plural": false
         },
         "colors": [ "Purple", "White" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_4_1.png",
@@ -14634,7 +15086,7 @@
           "plural": false
         },
         "colors": [ "Purple", "Gray" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_4_2.png",
@@ -14695,7 +15147,7 @@
           "plural": false
         },
         "colors": [ "Purple", "Orange" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_4_3.png",
@@ -14756,7 +15208,7 @@
           "plural": false
         },
         "colors": [ "Purple", "Orange" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHangingscroll_Remake_4_4.png",
@@ -14817,7 +15269,7 @@
           "plural": false
         },
         "colors": [ "Purple", "Beige" ],
-        "concepts": [ "zen-style", "expensive" ]
+        "concepts": [ "harmonious", "expensive" ]
       }
     ],
     "set": null,
@@ -15603,20 +16055,20 @@
       "sourceSheet": "HHA Themes",
       "id": 6,
       "version": "1.0.0",
-      "english": "zen",
-      "englishEurope": "zen",
+      "english": "imperial",
+      "englishEurope": "imperial",
       "german": "Asiatisch",
       "spanish": "dinastía",
       "spanishUs": "dinastía",
       "french": "impériale",
       "frenchUs": "impériale",
       "italian": "dinastia",
-      "dutch": "zenstijl",
+      "dutch": "keizerlijke stijl",
       "chinese": "东方风",
       "chineseTraditional": "東方風",
       "japanese": "オリエンタル",
       "korean": "오리엔탈",
-      "russian": "Дзен",
+      "russian": "Азия",
       "plural": false
     },
     "hhaBasePoints": 151,
@@ -15660,7 +16112,7 @@
           "plural": false
         },
         "colors": [ "Red", "Red" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrOrientalShelfWall_Remake_1_0.png",
@@ -15700,7 +16152,7 @@
           "plural": false
         },
         "colors": [ "Blue", "Blue" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrOrientalShelfWall_Remake_2_0.png",
@@ -15740,7 +16192,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Brown" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrOrientalShelfWall_Remake_3_0.png",
@@ -15780,11 +16232,11 @@
           "plural": false
         },
         "colors": [ "Black", "Black" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       }
     ],
     "set": null,
-    "series": "zen",
+    "series": "imperial",
     "recipe": null
   },
   {
@@ -15869,7 +16321,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Red" ],
-        "concepts": [ "shop", "zen-style" ]
+        "concepts": [ "shop", "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrChineseLampWall_Remake_1_0.png",
@@ -15909,7 +16361,7 @@
           "plural": false
         },
         "colors": [ "Black", "Red" ],
-        "concepts": [ "shop", "zen-style" ]
+        "concepts": [ "shop", "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrChineseLampWall_Remake_2_0.png",
@@ -15949,7 +16401,7 @@
           "plural": false
         },
         "colors": [ "Blue", "Red" ],
-        "concepts": [ "shop", "zen-style" ]
+        "concepts": [ "shop", "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrChineseLampWall_Remake_3_0.png",
@@ -15989,7 +16441,7 @@
           "plural": false
         },
         "colors": [ "Red", "Yellow" ],
-        "concepts": [ "shop", "zen-style" ]
+        "concepts": [ "shop", "harmonious" ]
       }
     ],
     "set": "imperial dining",
@@ -16554,7 +17006,7 @@
           "plural": false
         },
         "colors": [ "Black", "Black" ],
-        "concepts": [ "living room", "garage" ]
+        "concepts": [ "living room", "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrIronLampW_Remake_1_0.png",
@@ -16594,7 +17046,7 @@
           "plural": false
         },
         "colors": [ "White", "White" ],
-        "concepts": [ "living room", "garage" ]
+        "concepts": [ "living room", "workshop" ]
       }
     ],
     "set": null,
@@ -16768,7 +17220,7 @@
           "plural": false
         },
         "colors": [ "Black", "Gray" ],
-        "concepts": [ "living room", "garage" ]
+        "concepts": [ "living room", "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrIronShelfW_Remake_1_0.png",
@@ -16808,7 +17260,7 @@
           "plural": false
         },
         "colors": [ "White", "Gray" ],
-        "concepts": [ "living room", "garage" ]
+        "concepts": [ "living room", "workshop" ]
       }
     ],
     "set": null,
@@ -17296,7 +17748,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Brown" ],
-        "concepts": [ "garage", "living room" ]
+        "concepts": [ "workshop", "living room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrKeyhanger_Remake_1_0.png",
@@ -17336,7 +17788,7 @@
           "plural": false
         },
         "colors": [ "Beige", "Beige" ],
-        "concepts": [ "garage", "living room" ]
+        "concepts": [ "workshop", "living room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrKeyhanger_Remake_2_0.png",
@@ -17376,7 +17828,7 @@
           "plural": false
         },
         "colors": [ "White", "White" ],
-        "concepts": [ "garage", "living room" ]
+        "concepts": [ "workshop", "living room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrKeyhanger_Remake_3_0.png",
@@ -17416,7 +17868,7 @@
           "plural": false
         },
         "colors": [ "Black", "Black" ],
-        "concepts": [ "garage", "living room" ]
+        "concepts": [ "workshop", "living room" ]
       }
     ],
     "set": null,
@@ -23325,7 +23777,7 @@
     "doorDeco": true,
     "catalog": null,
     "versionAdded": "1.8.0",
-    "unlocked": false,
+    "unlocked": true,
     "filename": "FtrDoorOrnamentShamrock",
     "variantId": null,
     "internalId": 14031,
@@ -23351,7 +23803,7 @@
       "plural": false
     },
     "colors": [ "Green", "Beige" ],
-    "concepts": [ "fancy", "child's room" ],
+    "concepts": [ "fancy" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -29650,7 +30102,7 @@
           "plural": false
         },
         "colors": [ "White", "Colorful" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolhanger_Remake_1_0.png",
@@ -29690,7 +30142,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Colorful" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolhanger_Remake_2_0.png",
@@ -29730,7 +30182,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Colorful" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolhanger_Remake_3_0.png",
@@ -29770,7 +30222,7 @@
           "plural": false
         },
         "colors": [ "Red", "Colorful" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolhanger_Remake_4_0.png",
@@ -29810,7 +30262,7 @@
           "plural": false
         },
         "colors": [ "Blue", "Colorful" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolhanger_Remake_5_0.png",
@@ -29850,7 +30302,7 @@
           "plural": false
         },
         "colors": [ "Black", "Colorful" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       }
     ],
     "set": null,
@@ -30717,7 +31169,7 @@
           "plural": false
         },
         "colors": [ "Beige", "Black" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrSignboardWood_Remake_1_0.png",
@@ -30757,7 +31209,7 @@
           "plural": false
         },
         "colors": [ "Black", "Yellow" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrSignboardWood_Remake_2_0.png",
@@ -30797,7 +31249,7 @@
           "plural": false
         },
         "colors": [ "Brown", "White" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrSignboardWood_Remake_3_0.png",
@@ -30837,7 +31289,7 @@
           "plural": false
         },
         "colors": [ "Red", "Yellow" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       }
     ],
     "set": null,

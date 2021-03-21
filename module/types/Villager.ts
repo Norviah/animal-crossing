@@ -3,7 +3,7 @@ export interface Villager {
     name:                      string;
     iconImage:                 string;
     photoImage:                string;
-    houseImage:                string;
+    houseImage:                null | string;
     species:                   string;
     gender:                    Gender;
     personality:               Personality;
@@ -19,6 +19,7 @@ export interface Villager {
     flooring:                  string;
     furnitureList:             number[];
     furnitureNameList:         string[];
+    versionAdded:              Version;
     nameColor:                 string;
     bubbleColor:               string;
     filename:                  string;
@@ -58,6 +59,7 @@ export enum SourceSheet {
 
 export enum Version {
     The100 = "1.0.0",
+    The190 = "1.9.0",
 }
 
 export enum Color {
