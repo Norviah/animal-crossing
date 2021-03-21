@@ -12,6 +12,7 @@
 * [Type](../enums/_seasonsandevents_.type.md)
 * [UnlockMethodEnum](../enums/_seasonsandevents_.unlockmethodenum.md)
 * [Version](../enums/_seasonsandevents_.version.md)
+* [YearEnum](../enums/_seasonsandevents_.yearenum.md)
 
 ### Interfaces
 
