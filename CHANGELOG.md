@@ -1,12 +1,21 @@
-
 ## [7.4.0](https://github.com/Norviah/animal-crossing/compare/v7.3.0...v7.4.0) (2021-03-21)
 
 
 ### Features
 
-* **util/separate:** update typings for parameters ([ba83c61](https://github.com/Norviah/animal-crossing/commit/ba83c615b35dac86fbbeb7b418e3449b1ab7b5e1))
+* **util/separate:** update typings for parameters ([55eae51](https://github.com/Norviah/animal-crossing/commit/55eae51a0adcab55faeada9eef9cd1bce5345742))
 
-## [7.3.0](https://github.com/Norviah/animal-crossing/compare/v7.2.0...v7.3.0) (2021-02-27)
+
+### Bug Fixes
+
+* **util/separate:** return an empty array if null is given ([db7b614](https://github.com/Norviah/animal-crossing/commit/db7b61432ab0aaa40c3bead5cf81514ffea8dd5e))
+
+
+### Additions
+
+* implement additions/changes from the 1.9.0 update ([966151a](https://github.com/Norviah/animal-crossing/commit/966151aafe733838a261aebcaa84b1c417dd8aed))
+
+## [7.4.0](https://github.com/Norviah/animal-crossing/compare/v7.3.0...v7.4.0) (2021-03-21)
 
 
 ### Additions
