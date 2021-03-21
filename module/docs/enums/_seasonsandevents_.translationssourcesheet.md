@@ -18,7 +18,7 @@
 
 • **Constellations**: = "Constellations"
 
-*Defined in [SeasonsAndEvents.ts:52](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L52)*
+*Defined in [SeasonsAndEvents.ts:56](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L56)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **Craft**: = "Craft"
 
-*Defined in [SeasonsAndEvents.ts:53](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L53)*
+*Defined in [SeasonsAndEvents.ts:57](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L57)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **Events**: = "Events"
 
-*Defined in [SeasonsAndEvents.ts:54](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L54)*
+*Defined in [SeasonsAndEvents.ts:58](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L58)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **HHAThemes**: = "HHA Themes"
 
-*Defined in [SeasonsAndEvents.ts:55](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L55)*
+*Defined in [SeasonsAndEvents.ts:59](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L59)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **Shells**: = "Shells"
 
-*Defined in [SeasonsAndEvents.ts:56](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L56)*
+*Defined in [SeasonsAndEvents.ts:60](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L60)*

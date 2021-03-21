@@ -13,6 +13,8 @@
 * [2020Dates](_seasonsandevents_.seasonsandevents.md#2020dates)
 * [2021Dates](_seasonsandevents_.seasonsandevents.md#2021dates)
 * [availability](_seasonsandevents_.seasonsandevents.md#availability)
+* [datesNorthernHemisphere](_seasonsandevents_.seasonsandevents.md#datesnorthernhemisphere)
+* [datesSouthernHemisphere](_seasonsandevents_.seasonsandevents.md#datessouthernhemisphere)
 * [displayName](_seasonsandevents_.seasonsandevents.md#displayname)
 * [internalLabel](_seasonsandevents_.seasonsandevents.md#internallabel)
 * [name](_seasonsandevents_.seasonsandevents.md#name)
@@ -25,6 +27,8 @@
 * [unlockDate](_seasonsandevents_.seasonsandevents.md#unlockdate)
 * [unlockMethod](_seasonsandevents_.seasonsandevents.md#unlockmethod)
 * [versionAdded](_seasonsandevents_.seasonsandevents.md#versionadded)
+* [versionLastUpdated](_seasonsandevents_.seasonsandevents.md#versionlastupdated)
+* [year](_seasonsandevents_.seasonsandevents.md#year)
 
 ## Properties
 
@@ -32,7 +36,7 @@
 
 • **2020Dates**: *string[] | null*
 
-*Defined in [SeasonsAndEvents.ts:9](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L9)*
+*Defined in [SeasonsAndEvents.ts:13](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L13)*
 
 ___
 
@@ -40,7 +44,7 @@ ___
 
 • **2021Dates**: *string[] | null*
 
-*Defined in [SeasonsAndEvents.ts:10](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L10)*
+*Defined in [SeasonsAndEvents.ts:14](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L14)*
 
 ___
 
@@ -48,7 +52,23 @@ ___
 
 • **availability**: *[Availability](../enums/_seasonsandevents_.availability.md)*
 
-*Defined in [SeasonsAndEvents.ts:6](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L6)*
+*Defined in [SeasonsAndEvents.ts:10](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L10)*
+
+___
+
+###  datesNorthernHemisphere
+
+• **datesNorthernHemisphere**: *null | string*
+
+*Defined in [SeasonsAndEvents.ts:8](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L8)*
+
+___
+
+###  datesSouthernHemisphere
+
+• **datesSouthernHemisphere**: *null | string*
+
+*Defined in [SeasonsAndEvents.ts:9](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L9)*
 
 ___
 
@@ -56,7 +76,7 @@ ___
 
 • **displayName**: *string*
 
-*Defined in [SeasonsAndEvents.ts:11](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L11)*
+*Defined in [SeasonsAndEvents.ts:15](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L15)*
 
 ___
 
@@ -64,7 +84,7 @@ ___
 
 • **internalLabel**: *string[] | null*
 
-*Defined in [SeasonsAndEvents.ts:12](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L12)*
+*Defined in [SeasonsAndEvents.ts:16](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L16)*
 
 ___
 
@@ -72,7 +92,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [SeasonsAndEvents.ts:3](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L3)*
+*Defined in [SeasonsAndEvents.ts:3](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L3)*
 
 ___
 
@@ -80,7 +100,7 @@ ___
 
 • **northernHemisphereDates**: *string[] | null*
 
-*Defined in [SeasonsAndEvents.ts:7](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L7)*
+*Defined in [SeasonsAndEvents.ts:11](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L11)*
 
 ___
 
@@ -88,7 +108,7 @@ ___
 
 • **sourceSheet**: *[SeasonsAndEventSourceSheet](../enums/_seasonsandevents_.seasonsandeventsourcesheet.md)*
 
-*Defined in [SeasonsAndEvents.ts:2](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L2)*
+*Defined in [SeasonsAndEvents.ts:2](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L2)*
 
 ___
 
@@ -96,7 +116,7 @@ ___
 
 • **southernHemisphereDates**: *string[] | null*
 
-*Defined in [SeasonsAndEvents.ts:8](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L8)*
+*Defined in [SeasonsAndEvents.ts:12](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L12)*
 
 ___
 
@@ -104,7 +124,7 @@ ___
 
 • **translations**: *[Translations](_seasonsandevents_.translations.md) | null*
 
-*Defined in [SeasonsAndEvents.ts:16](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L16)*
+*Defined in [SeasonsAndEvents.ts:20](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L20)*
 
 ___
 
@@ -112,7 +132,7 @@ ___
 
 • **type**: *[Type](../enums/_seasonsandevents_.type.md)*
 
-*Defined in [SeasonsAndEvents.ts:4](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L4)*
+*Defined in [SeasonsAndEvents.ts:4](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L4)*
 
 ___
 
@@ -120,7 +140,7 @@ ___
 
 • **uniqueEntryId**: *string*
 
-*Defined in [SeasonsAndEvents.ts:15](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L15)*
+*Defined in [SeasonsAndEvents.ts:19](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L19)*
 
 ___
 
@@ -128,7 +148,7 @@ ___
 
 • **unlockDate**: *string*
 
-*Defined in [SeasonsAndEvents.ts:13](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L13)*
+*Defined in [SeasonsAndEvents.ts:17](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L17)*
 
 ___
 
@@ -136,7 +156,7 @@ ___
 
 • **unlockMethod**: *boolean | [UnlockMethodEnum](../enums/_seasonsandevents_.unlockmethodenum.md)*
 
-*Defined in [SeasonsAndEvents.ts:14](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L14)*
+*Defined in [SeasonsAndEvents.ts:18](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L18)*
 
 ___
 
@@ -144,4 +164,20 @@ ___
 
 • **versionAdded**: *[Version](../enums/_seasonsandevents_.version.md)*
 
-*Defined in [SeasonsAndEvents.ts:5](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/SeasonsAndEvents.ts#L5)*
+*Defined in [SeasonsAndEvents.ts:5](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L5)*
+
+___
+
+###  versionLastUpdated
+
+• **versionLastUpdated**: *[Version](../enums/_seasonsandevents_.version.md)*
+
+*Defined in [SeasonsAndEvents.ts:6](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L6)*
+
+___
+
+###  year
+
+• **year**: *[YearEnum](../enums/_seasonsandevents_.yearenum.md) | number | null*
+
+*Defined in [SeasonsAndEvents.ts:7](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L7)*

@@ -25,7 +25,7 @@
 
 • **ALine**: = "A-line"
 
-*Defined in [Item.ts:261](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L261)*
+*Defined in [Item.ts:261](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L261)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **ALong**: = "A-long"
 
-*Defined in [Item.ts:262](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L262)*
+*Defined in [Item.ts:262](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L262)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **BLong**: = "B-long"
 
-*Defined in [Item.ts:263](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L263)*
+*Defined in [Item.ts:263](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L263)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 • **Balloon**: = "Balloon"
 
-*Defined in [Item.ts:264](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L264)*
+*Defined in [Item.ts:264](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L264)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 • **Box**: = "Box"
 
-*Defined in [Item.ts:265](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L265)*
+*Defined in [Item.ts:265](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L265)*
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 • **Dress**: = "Dress"
 
-*Defined in [Item.ts:266](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L266)*
+*Defined in [Item.ts:266](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L266)*
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 • **Kimono**: = "Kimono"
 
-*Defined in [Item.ts:267](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L267)*
+*Defined in [Item.ts:267](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L267)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 • **Marinesuit**: = "Marinesuit"
 
-*Defined in [Item.ts:268](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L268)*
+*Defined in [Item.ts:268](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L268)*
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 • **Overall**: = "Overall"
 
-*Defined in [Item.ts:269](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L269)*
+*Defined in [Item.ts:269](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L269)*
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 • **Rib**: = "Rib"
 
-*Defined in [Item.ts:270](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L270)*
+*Defined in [Item.ts:270](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L270)*
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 • **Robe**: = "Robe"
 
-*Defined in [Item.ts:271](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L271)*
+*Defined in [Item.ts:271](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L271)*
 
 ___
 
@@ -113,4 +113,4 @@ ___
 
 • **Salopette**: = "Salopette"
 
-*Defined in [Item.ts:272](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L272)*
+*Defined in [Item.ts:272](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L272)*

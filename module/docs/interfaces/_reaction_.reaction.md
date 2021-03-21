@@ -30,7 +30,7 @@
 
 • **iconFilename**: *string*
 
-*Defined in [Reaction.ts:11](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L11)*
+*Defined in [Reaction.ts:11](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L11)*
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 • **image**: *string*
 
-*Defined in [Reaction.ts:5](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L5)*
+*Defined in [Reaction.ts:5](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L5)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **internalId**: *number*
 
-*Defined in [Reaction.ts:12](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L12)*
+*Defined in [Reaction.ts:12](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L12)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [Reaction.ts:4](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L4)*
+*Defined in [Reaction.ts:4](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L4)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **num**: *number*
 
-*Defined in [Reaction.ts:3](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L3)*
+*Defined in [Reaction.ts:3](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L3)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **seasonEvent**: *null | string*
 
-*Defined in [Reaction.ts:8](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L8)*
+*Defined in [Reaction.ts:8](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L8)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **seasonEventExclusive**: *boolean | null*
 
-*Defined in [Reaction.ts:9](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L9)*
+*Defined in [Reaction.ts:9](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L9)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 • **source**: *string[]*
 
-*Defined in [Reaction.ts:6](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L6)*
+*Defined in [Reaction.ts:6](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L6)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 • **sourceNotes**: *string[] | null*
 
-*Defined in [Reaction.ts:7](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L7)*
+*Defined in [Reaction.ts:7](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L7)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 • **sourceSheet**: *[SourceSheet](../enums/_reaction_.sourcesheet.md)*
 
-*Defined in [Reaction.ts:2](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L2)*
+*Defined in [Reaction.ts:2](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L2)*
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 • **translations**: *[Translations](_reaction_.translations.md)*
 
-*Defined in [Reaction.ts:14](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L14)*
+*Defined in [Reaction.ts:14](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L14)*
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 • **uniqueEntryId**: *string*
 
-*Defined in [Reaction.ts:13](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L13)*
+*Defined in [Reaction.ts:13](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L13)*
 
 ___
 
@@ -126,4 +126,4 @@ ___
 
 • **versionAdded**: *[Version](../enums/_reaction_.version.md)*
 
-*Defined in [Reaction.ts:10](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Reaction.ts#L10)*
+*Defined in [Reaction.ts:10](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Reaction.ts#L10)*

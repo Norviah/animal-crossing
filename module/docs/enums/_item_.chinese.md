@@ -24,7 +24,7 @@
 
 • **休闲**: = "休闲"
 
-*Defined in [Item.ts:494](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L494)*
+*Defined in [Item.ts:495](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L495)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • **工作**: = "工作"
 
-*Defined in [Item.ts:495](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L495)*
+*Defined in [Item.ts:496](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L496)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **度假**: = "度假"
 
-*Defined in [Item.ts:496](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L496)*
+*Defined in [Item.ts:497](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L497)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **恐怖**: = "恐怖"
 
-*Defined in [Item.ts:497](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L497)*
+*Defined in [Item.ts:498](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L498)*
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 • **户外**: = "户外"
 
-*Defined in [Item.ts:498](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L498)*
+*Defined in [Item.ts:499](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L499)*
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 • **日常**: = "日常"
 
-*Defined in [Item.ts:499](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L499)*
+*Defined in [Item.ts:500](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L500)*
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 • **正式**: = "正式"
 
-*Defined in [Item.ts:500](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L500)*
+*Defined in [Item.ts:501](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L501)*
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 • **派对**: = "派对"
 
-*Defined in [Item.ts:501](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L501)*
+*Defined in [Item.ts:502](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L502)*
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 • **童话世界**: = "童话世界"
 
-*Defined in [Item.ts:502](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L502)*
+*Defined in [Item.ts:503](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L503)*
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 • **舞台**: = "舞台"
 
-*Defined in [Item.ts:503](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L503)*
+*Defined in [Item.ts:504](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L504)*
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 • **运动**: = "运动"
 
-*Defined in [Item.ts:504](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L504)*
+*Defined in [Item.ts:505](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L505)*

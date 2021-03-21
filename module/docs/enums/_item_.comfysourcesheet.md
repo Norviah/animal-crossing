@@ -14,4 +14,4 @@
 
 • **FashionThemes**: = "Fashion Themes"
 
-*Defined in [Item.ts:635](https://github.com/Norviah/animal-crossing/blob/cd5681f/module/types/Item.ts#L635)*
+*Defined in [Item.ts:636](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L636)*
