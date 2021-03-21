@@ -1,4 +1,11 @@
 
+## [7.4.0](https://github.com/Norviah/animal-crossing/compare/v7.3.0...v7.4.0) (2021-03-21)
+
+
+### Features
+
+* **util/separate:** update typings for parameters ([ba83c61](https://github.com/Norviah/animal-crossing/commit/ba83c615b35dac86fbbeb7b418e3449b1ab7b5e1))
+
 ## [7.3.0](https://github.com/Norviah/animal-crossing/compare/v7.2.0...v7.3.0) (2021-02-27)
 
 
