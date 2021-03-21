@@ -23,7 +23,7 @@ export interface Item {
     seasonEventExclusive?: boolean | null;
     hhaBasePoints?:        number | null;
     hhaCategory?:          HhaCategory | null;
-    interact?:             boolean | InteractEnum;
+    interact?:             boolean | InteractEnum | null;
     tag?:                  null | string;
     outdoor?:              boolean;
     speakerType?:          SpeakerType | null;
@@ -43,7 +43,7 @@ export interface Item {
     series?:               null | string;
     recipe:                Recipe | null;
     themesTranslations?:   ThemesTranslations;
-    villagerEquippable?:   boolean;
+    villagerEquippable?:   boolean | null;
     seasonalAvailability?: SeasonalAvailability;
     type?:                 string;
     variations?:           VariationElement[];
@@ -75,7 +75,7 @@ export interface Item {
     framedImage?:          null | string;
     albumImage?:           null | string;
     inventoryImage?:       string;
-    stackSize?:            number | null;
+    stackSize?:            number;
     inventoryFilename?:    string;
     storageFilename?:      null | string;
     sizeCategory?:         SizeCategory;
@@ -170,10 +170,10 @@ export enum Concept {
     Facility = "facility",
     Fancy = "fancy",
     Fitness = "fitness",
-    FolkArt = "folk art",
     FreezingCold = "freezing cold",
-    Garage = "garage",
     Garden = "garden",
+    Harmonious = "harmonious",
+    Heritage = "heritage",
     Horror = "horror",
     Kitchen = "kitchen",
     LivingRoom = "living room",
@@ -186,7 +186,7 @@ export enum Concept {
     School = "school",
     Shop = "shop",
     Space = "space",
-    ZenStyle = "zen-style",
+    Workshop = "workshop",
 }
 
 export enum CurtainType {
@@ -388,6 +388,7 @@ export enum Version {
     The160 = "1.6.0",
     The170 = "1.7.0",
     The180 = "1.8.0",
+    The190 = "1.9.0",
 }
 
 export enum RecipeSourceSheet {
@@ -463,9 +464,9 @@ export interface ThemesTranslations {
     vacation?:     Comfy;
     "fairy tale"?: Comfy;
     theatrical?:   Comfy;
+    formal?:       Comfy;
     work?:         Comfy;
     sporty?:       Comfy;
-    formal?:       Comfy;
     goth?:         Comfy;
 }
 

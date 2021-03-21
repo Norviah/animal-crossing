@@ -3,6 +3,10 @@ export interface SeasonsAndEvents {
     name:                    string;
     type:                    Type;
     versionAdded:            Version;
+    versionLastUpdated:      Version;
+    year:                    YearEnum | number | null;
+    datesNorthernHemisphere: null | string;
+    datesSouthernHemisphere: null | string;
     availability:            Availability;
     northernHemisphereDates: string[] | null;
     southernHemisphereDates: string[] | null;
@@ -66,6 +70,7 @@ export enum Version {
     The160 = "1.6.0",
     The170 = "1.7.0",
     The180 = "1.8.0",
+    The190 = "1.9.0",
 }
 
 export enum Type {
@@ -82,4 +87,8 @@ export enum UnlockMethodEnum {
     BCATB = "BCAT (b)",
     BCATC = "BCAT (c)",
     NTP = "NTP",
+}
+
+export enum YearEnum {
+    Any = "Any",
 }

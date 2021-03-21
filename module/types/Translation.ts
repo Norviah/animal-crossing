@@ -97,4 +97,5 @@ export enum Version {
     The160 = "1.6.0",
     The170 = "1.7.0",
     The180 = "1.8.0",
+    The190 = "1.9.0",
 }
