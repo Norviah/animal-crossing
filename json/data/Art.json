@@ -47,7 +47,7 @@
       "russian": "академическая картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Beige", "Beige" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -101,7 +101,7 @@
       "russian": "академическая картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Beige", "Beige" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -155,7 +155,7 @@
       "russian": "потрясающая картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Black" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -209,7 +209,7 @@
       "russian": "потрясающая картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Black" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -263,8 +263,8 @@
       "russian": "древняя статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -317,7 +317,7 @@
       "russian": "древняя статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Gray", "Gray" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -371,7 +371,7 @@
       "russian": "обычная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Blue" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -425,7 +425,7 @@
       "russian": "обычная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Blue" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -479,8 +479,8 @@
       "russian": "прекрасная статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -533,7 +533,7 @@
       "russian": "прекрасная статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "White", "White" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -587,7 +587,7 @@
       "russian": "спокойная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Green", "Gray" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -641,7 +641,7 @@
       "russian": "сельская картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Beige", "White" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -695,7 +695,7 @@
       "russian": "детальная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Yellow", "Green" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -749,7 +749,7 @@
       "russian": "детальная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Yellow", "Green" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -803,7 +803,7 @@
       "russian": "волнительная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Beige", "Beige" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -857,8 +857,8 @@
       "russian": "знакомая статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -911,7 +911,7 @@
       "russian": "знаменитая картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Beige" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -965,7 +965,7 @@
       "russian": "знаменитая картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Beige" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -1019,7 +1019,7 @@
       "russian": "цветочная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Yellow", "Brown" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -1073,8 +1073,8 @@
       "russian": "доблестная статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -1127,7 +1127,7 @@
       "russian": "доблестная статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "White", "White" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -1181,7 +1181,7 @@
       "russian": "сияющая картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Blue", "Gray" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -1235,7 +1235,7 @@
       "russian": "изящная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Yellow", "Red" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -1289,7 +1289,7 @@
       "russian": "изящная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Yellow", "Red" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -1343,8 +1343,8 @@
       "russian": "великая статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "Black", "Yellow" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -1397,8 +1397,8 @@
       "russian": "образовательная статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "Black", "Black" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -1451,7 +1451,7 @@
       "russian": "образовательная статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Blue", "Blue" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -1505,7 +1505,7 @@
       "russian": "веселая картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Yellow" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -1559,7 +1559,7 @@
       "russian": "веселая картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Yellow" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -1613,7 +1613,7 @@
       "russian": "энергичная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Gray" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -1667,8 +1667,8 @@
       "russian": "материнская статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "Black", "Gray" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -1721,7 +1721,7 @@
       "russian": "материнская статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Gray" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -1775,7 +1775,7 @@
       "russian": "трогательная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Aqua", "White" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -1829,7 +1829,7 @@
       "russian": "трогательная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Aqua", "White" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -1883,7 +1883,7 @@
       "russian": "загадочная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Gray" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -1937,8 +1937,8 @@
       "russian": "загадочная статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "Beige", "Black" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -1991,7 +1991,7 @@
       "russian": "загадочная статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Beige", "Black" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -2045,7 +2045,7 @@
       "russian": "приятная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Gray", "Red" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -2099,7 +2099,7 @@
       "russian": "совершенная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Gray" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -2153,7 +2153,7 @@
       "russian": "строгая картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Gray" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -2207,7 +2207,7 @@
       "russian": "старинная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "White", "Gray" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -2261,7 +2261,7 @@
       "russian": "старинная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "White", "Gray" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -2315,8 +2315,8 @@
       "russian": "атлетическая статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -2369,7 +2369,7 @@
       "russian": "атлетическая статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "White", "White" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -2423,8 +2423,8 @@
       "russian": "твердолобая статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -2477,7 +2477,7 @@
       "russian": "твердолобая статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Gray", "Gray" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -2531,7 +2531,7 @@
       "russian": "страшная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Gray", "Gray" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -2585,7 +2585,7 @@
       "russian": "страшная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Gray", "Gray" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -2639,7 +2639,7 @@
       "russian": "живописная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "White", "Aqua" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -2693,7 +2693,7 @@
       "russian": "живописная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "White", "Aqua" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -2747,7 +2747,7 @@
       "russian": "безмятежная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Beige" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -2801,7 +2801,7 @@
       "russian": "безмятежная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Beige" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -2855,7 +2855,7 @@
       "russian": "речная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Green", "White" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -2909,7 +2909,7 @@
       "russian": "торжественная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Beige" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -2963,7 +2963,7 @@
       "russian": "торжественная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Beige" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -3017,8 +3017,8 @@
       "russian": "массивная статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -3071,7 +3071,7 @@
       "russian": "массивная статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Green", "Green" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -3125,7 +3125,7 @@
       "russian": "звездная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Blue", "Black" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -3179,8 +3179,8 @@
       "russian": "героическая статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "White", "White" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -3233,7 +3233,7 @@
       "russian": "героическая статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "White", "White" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -3287,7 +3287,7 @@
       "russian": "романтичная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Gray" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -3335,14 +3335,14 @@
       "italian": "statua guerriera",
       "dutch": "krijgszuchtige standbeeld",
       "chinese": "武士的雕刻",
-      "chineseTraditional": "武士的雕刻",
+      "chineseTraditional": "武士的雕塑",
       "japanese": "もののふのちょうこく",
       "korean": "무사의 조각",
       "russian": "воинственная статуя",
       "plural": false
     },
-    "colors": [],
-    "concepts": [ "expensive", "folk art" ],
+    "colors": [ "Gray", "Gray" ],
+    "concepts": [ "expensive", "heritage" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -3389,13 +3389,13 @@
       "italian": "statua guerriera",
       "dutch": "krijgszuchtige standbeeld",
       "chinese": "武士的雕刻",
-      "chineseTraditional": "武士的雕刻",
+      "chineseTraditional": "武士的雕塑",
       "japanese": "もののふのちょうこく",
       "korean": "무사의 조각",
       "russian": "воинственная статуя",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Gray", "Gray" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -3449,7 +3449,7 @@
       "russian": "лев. часть дикой картины",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Orange", "Brown" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -3503,7 +3503,7 @@
       "russian": "лев. часть дикой картины",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Orange", "Brown" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -3557,7 +3557,7 @@
       "russian": "прав. часть дикой картины",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Beige", "Brown" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -3611,7 +3611,7 @@
       "russian": "прав. часть дикой картины",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Beige", "Brown" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -3665,7 +3665,7 @@
       "russian": "мечтательная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Beige" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,
@@ -3719,7 +3719,7 @@
       "russian": "мечтательная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Beige" ],
     "concepts": [ "horror" ],
     "set": null,
     "series": null,
@@ -3773,7 +3773,7 @@
       "russian": "достойная картина",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Black", "Beige" ],
     "concepts": [ "expensive", "facility" ],
     "set": null,
     "series": null,

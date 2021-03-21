@@ -31,7 +31,7 @@
     "lightingType": null,
     "catalog": null,
     "versionAdded": "1.8.0",
-    "unlocked": false,
+    "unlocked": true,
     "filename": "FtrMarioRoundB",
     "variantId": null,
     "internalId": 13828,
@@ -1681,6 +1681,89 @@
   },
   {
     "sourceSheet": "Miscellaneous",
+    "name": "Bunny Day candy",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrEggSweets.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 1300,
+    "sell": 325,
+    "size": "1x1",
+    "surface": false,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook's Cranny" ],
+    "sourceNotes": null,
+    "seasonEvent": "Bunny Day (ready days); Bunny Day",
+    "seasonEventExclusive": true,
+    "hhaBasePoints": 351,
+    "hhaCategory": "SmallGoods",
+    "interact": false,
+    "tag": "Easter",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": "For sale",
+    "versionAdded": "1.9.0",
+    "unlocked": false,
+    "filename": "FtrEggSweets",
+    "variantId": null,
+    "internalId": 14009,
+    "uniqueEntryId": "6ybbsbGy3QGTwKQ6Z",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 27,
+      "version": "1.1.0",
+      "english": "Bunny Day",
+      "englishEurope": "Bunny Day",
+      "german": "Häschentag",
+      "spanish": "Caza del Huevo",
+      "spanishUs": "Caza del Huevo",
+      "french": "Fête des œufs",
+      "frenchUs": "Fête des œufs",
+      "italian": "caccia all'uovo",
+      "dutch": "eierstijl",
+      "chinese": "复活节",
+      "chineseTraditional": "復活節",
+      "japanese": "イースター",
+      "korean": "이스터",
+      "russian": "День зайцев",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 14009,
+      "version": "1.9.0",
+      "english": "Bunny Day candy",
+      "englishEurope": "Bunny Day candy",
+      "german": "Häschentag-Naschteller",
+      "spanish": "plato dulces Caza del Huevo",
+      "spanishUs": "plato dulces Caza del Huevo",
+      "french": "lot de chocos fête des œufs",
+      "frenchUs": "lot chocolats fête des œufs",
+      "italian": "set dolci caccia all'uovo",
+      "dutch": "konijn-en-eiersnoepgoed",
+      "chinese": "复活节甜点",
+      "chineseTraditional": "復活節甜點",
+      "japanese": "イースターなおかし",
+      "korean": "이스터 디저트",
+      "russian": "сладости на День зайцев",
+      "plural": false
+    },
+    "colors": [ "Brown", "Colorful" ],
+    "concepts": [ "fancy" ],
+    "set": null,
+    "series": "Bunny Day",
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
     "name": "Bunny Day lamp",
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrEggLamp.png",
     "variation": null,
@@ -1808,6 +1891,172 @@
         }
       }
     }
+  },
+  {
+    "sourceSheet": "Miscellaneous",
+    "name": "Bunny Day planter box",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrEggPlanter.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 2300,
+    "sell": 575,
+    "size": "2x1",
+    "surface": false,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook's Cranny" ],
+    "sourceNotes": null,
+    "seasonEvent": "Bunny Day (ready days); Bunny Day",
+    "seasonEventExclusive": true,
+    "hhaBasePoints": 351,
+    "hhaCategory": "Plant",
+    "interact": false,
+    "tag": "Easter",
+    "outdoor": true,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": "For sale",
+    "versionAdded": "1.9.0",
+    "unlocked": false,
+    "filename": "FtrEggPlanter",
+    "variantId": null,
+    "internalId": 14008,
+    "uniqueEntryId": "TKXGeFiLHquAQGptm",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 27,
+      "version": "1.1.0",
+      "english": "Bunny Day",
+      "englishEurope": "Bunny Day",
+      "german": "Häschentag",
+      "spanish": "Caza del Huevo",
+      "spanishUs": "Caza del Huevo",
+      "french": "Fête des œufs",
+      "frenchUs": "Fête des œufs",
+      "italian": "caccia all'uovo",
+      "dutch": "eierstijl",
+      "chinese": "复活节",
+      "chineseTraditional": "復活節",
+      "japanese": "イースター",
+      "korean": "이스터",
+      "russian": "День зайцев",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 14008,
+      "version": "1.9.0",
+      "english": "Bunny Day planter box",
+      "englishEurope": "Bunny Day planter box",
+      "german": "Häschentag-Blumenkasten",
+      "spanish": "macetero Caza del Huevo",
+      "spanishUs": "macetero Caza del Huevo",
+      "french": "jardinière fête des œufs",
+      "frenchUs": "jardinière fête des œufs",
+      "italian": "fioriera caccia all'uovo",
+      "dutch": "eierbloembak",
+      "chinese": "复活节盆栽",
+      "chineseTraditional": "復活節盆栽",
+      "japanese": "イースターなプランター",
+      "korean": "이스터 화분",
+      "russian": "ящик «День зайцев»",
+      "plural": false
+    },
+    "colors": [ "Colorful", "White" ],
+    "concepts": [ "fancy", "garden" ],
+    "set": null,
+    "series": "Bunny Day",
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
+    "name": "Cinnamoroll tray",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSanrioCnmTeaset.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 1300,
+    "sell": 325,
+    "size": "1x1",
+    "surface": false,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": [ "Scan the associated Sanrio amiibo card" ],
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 201,
+    "hhaCategory": "SmallGoods",
+    "interact": false,
+    "tag": "Cinnamoroll",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": null,
+    "versionAdded": "1.9.0",
+    "unlocked": true,
+    "filename": "FtrSanrioCnmTeaset",
+    "variantId": null,
+    "internalId": 12251,
+    "uniqueEntryId": "RJH5GCaEvHzNv2QnK",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 38,
+      "version": "1.9.0",
+      "english": "Cinnamoroll",
+      "englishEurope": "Cinnamoroll",
+      "german": "Cinnamoroll",
+      "spanish": "Cinnamoroll",
+      "spanishUs": "Cinnamoroll",
+      "french": "Cinnamoroll",
+      "frenchUs": "Cinnamoroll",
+      "italian": "Cinnamoroll",
+      "dutch": "Cinnamoroll",
+      "chinese": "Cinnamoroll",
+      "chineseTraditional": "Cinnamoroll",
+      "japanese": "シナモロール",
+      "korean": "시나모롤",
+      "russian": "Cinnamoroll",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 12251,
+      "version": "1.9.0",
+      "english": "Cinnamoroll tray",
+      "englishEurope": "Cinnamoroll tray",
+      "german": "Cinnamoroll-Tablett",
+      "spanish": "bandeja Cinnamoroll",
+      "spanishUs": "bandeja Cinnamoroll",
+      "french": "plateau Cinnamoroll",
+      "frenchUs": "plateau Cinnamoroll",
+      "italian": "vassoio Cinnamoroll",
+      "dutch": "Cinnamoroll-dienblad",
+      "chinese": "Cinnamoroll托盘",
+      "chineseTraditional": "Cinnamoroll托盤",
+      "japanese": "シナモロールなトレー",
+      "korean": "시나모롤 트레이",
+      "russian": "поднос Cinnamoroll",
+      "plural": false
+    },
+    "colors": [ "White", "Beige" ],
+    "concepts": [ "fancy", "shop" ],
+    "set": null,
+    "series": "Cinnamoroll",
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -2161,7 +2410,7 @@
           "plural": false
         },
         "colors": [ "Red", "Colorful" ],
-        "concepts": [ "folk art" ]
+        "concepts": [ "heritage" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrDalecarlianhorse_Remake_1_0.png",
@@ -2201,7 +2450,7 @@
           "plural": false
         },
         "colors": [ "Blue", "Colorful" ],
-        "concepts": [ "folk art" ]
+        "concepts": [ "heritage" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrDalecarlianhorse_Remake_2_0.png",
@@ -2241,7 +2490,7 @@
           "plural": false
         },
         "colors": [ "White", "Colorful" ],
-        "concepts": [ "folk art" ]
+        "concepts": [ "heritage" ]
       }
     ],
     "set": null,
@@ -2509,6 +2758,274 @@
           "plural": false
         },
         "colors": [ "Colorful", "White" ],
+        "concepts": [ "party" ]
+      }
+    ],
+    "set": null,
+    "series": "Festivale",
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
+    "name": "Festivale drum",
+    "diy": false,
+    "patternCustomize": false,
+    "kitCost": 1,
+    "size": "1x1",
+    "sourceNotes": null,
+    "versionAdded": "1.7.0",
+    "interact": true,
+    "tag": "Musical instruments",
+    "outdoor": true,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": "Not for sale",
+    "bodyTitle": "Variation",
+    "bodyCustomize": true,
+    "buy": 2100,
+    "sell": 525,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 13774,
+      "version": "1.7.0",
+      "english": "Festivale drum",
+      "englishEurope": "Festivale drum",
+      "german": "Karnevalstrommel",
+      "spanish": "tambor de Carnaval",
+      "spanishUs": "tambor de Carnaval",
+      "french": "tambour de carnaval",
+      "frenchUs": "tambour de carnaval",
+      "italian": "tamburo Carnevale",
+      "dutch": "carnavalstrommel",
+      "chinese": "狂欢节打击乐器",
+      "chineseTraditional": "狂歡節打擊樂器",
+      "japanese": "カーニバルなパーカッション",
+      "korean": "카니발 퍼커션",
+      "russian": "карнавальный барабан",
+      "plural": false
+    },
+    "source": [ "Nook's Cranny", "Pavé" ],
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 33,
+      "version": "1.7.0",
+      "english": "Festivale",
+      "englishEurope": "Festivale",
+      "german": "Karneval",
+      "spanish": "Carnaval",
+      "spanishUs": "Carnaval",
+      "french": "Carnaval",
+      "frenchUs": "Carnaval",
+      "italian": "Carnevale",
+      "dutch": "carnavalsstijl",
+      "chinese": "狂欢节",
+      "chineseTraditional": "狂歡節",
+      "japanese": "カーニバル",
+      "korean": "카니발",
+      "russian": "Карнавал",
+      "plural": false
+    },
+    "hhaBasePoints": 231,
+    "unlocked": true,
+    "variations": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrCarnivalSurdo_Remake_0_0.png",
+        "variation": "Green",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": "Rainbow feather",
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": "Festivale (ready days); Festivale",
+        "seasonEventExclusive": true,
+        "hhaCategory": "MusicalInstrument",
+        "filename": "FtrCarnivalSurdo_Remake_0_0",
+        "variantId": "0_0",
+        "internalId": 13774,
+        "uniqueEntryId": "MpjXYtQS69przYBj2",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 13774,
+          "furnitureName": "Festivale drum",
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
+        "colors": [ "Orange", "Green" ],
+        "concepts": [ "party" ]
+      },
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrCarnivalSurdo_Remake_1_0.png",
+        "variation": "Red",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": "Rainbow feather",
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": "Festivale (ready days); Festivale",
+        "seasonEventExclusive": true,
+        "hhaCategory": "MusicalInstrument",
+        "filename": "FtrCarnivalSurdo_Remake_1_0",
+        "variantId": "1_0",
+        "internalId": 13774,
+        "uniqueEntryId": "4BEsJZYDJKWwkm8ro",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 13774,
+          "furnitureName": "Festivale drum",
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
+        "colors": [ "Red", "Brown" ],
+        "concepts": [ "party" ]
+      },
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrCarnivalSurdo_Remake_2_0.png",
+        "variation": "Blue",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": "Rainbow feather",
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": "Festivale (ready days); Festivale",
+        "seasonEventExclusive": true,
+        "hhaCategory": "MusicalInstrument",
+        "filename": "FtrCarnivalSurdo_Remake_2_0",
+        "variantId": "2_0",
+        "internalId": 13774,
+        "uniqueEntryId": "gEAvXC9o6spqQgPwp",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 13774,
+          "furnitureName": "Festivale drum",
+          "english": "Blue",
+          "englishEurope": "Blue",
+          "german": "Blau",
+          "spanish": "Azul",
+          "spanishUs": "Azul",
+          "french": "Bleu",
+          "frenchUs": "Bleu",
+          "italian": "Blu",
+          "dutch": "Blauw",
+          "chinese": "蓝色",
+          "chineseTraditional": "藍色",
+          "japanese": "ブルー",
+          "korean": "블루",
+          "russian": "Синий",
+          "plural": false
+        },
+        "colors": [ "Blue", "White" ],
+        "concepts": [ "party" ]
+      },
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrCarnivalSurdo_Remake_3_0.png",
+        "variation": "Purple",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": "Rainbow feather",
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": "Festivale (ready days); Festivale",
+        "seasonEventExclusive": true,
+        "hhaCategory": "MusicalInstrument",
+        "filename": "FtrCarnivalSurdo_Remake_3_0",
+        "variantId": "3_0",
+        "internalId": 13774,
+        "uniqueEntryId": "NTtgSuZJhrphyiTmm",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 13774,
+          "furnitureName": "Festivale drum",
+          "english": "Purple",
+          "englishEurope": "Purple",
+          "german": "Lila",
+          "spanish": "Púrpura",
+          "spanishUs": "Morado",
+          "french": "Violet",
+          "frenchUs": "Mauve",
+          "italian": "Viola",
+          "dutch": "Paars",
+          "chinese": "紫色",
+          "chineseTraditional": "紫色",
+          "japanese": "パープル",
+          "korean": "퍼플",
+          "russian": "Фиолетовый",
+          "plural": false
+        },
+        "colors": [ "Purple", "Pink" ],
+        "concepts": [ "party" ]
+      },
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrCarnivalSurdo_Remake_4_0.png",
+        "variation": "Rainbow",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": "Rainbow feather",
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": "Festivale (ready days); Festivale",
+        "seasonEventExclusive": true,
+        "hhaCategory": "MusicalInstrument",
+        "filename": "FtrCarnivalSurdo_Remake_4_0",
+        "variantId": "4_0",
+        "internalId": 13774,
+        "uniqueEntryId": "z3ueP6KD7NukEoCcR",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 4,
+          "id": 13774,
+          "furnitureName": "Festivale drum",
+          "english": "Rainbow",
+          "englishEurope": "Rainbow",
+          "german": "Regenbogen",
+          "spanish": "Arcoíris",
+          "spanishUs": "Arcoíris",
+          "french": "Arc-en-ciel",
+          "frenchUs": "Arc-en-ciel",
+          "italian": "Arcobaleno",
+          "dutch": "Regenboogkleurig",
+          "chinese": "彩虹色",
+          "chineseTraditional": "彩虹色",
+          "japanese": "レインボー",
+          "korean": "무지개",
+          "russian": "Радужный",
+          "plural": false
+        },
+        "colors": [ "Colorful", "Beige" ],
         "concepts": [ "party" ]
       }
     ],
@@ -2816,7 +3333,7 @@
     "lightingType": null,
     "catalog": null,
     "versionAdded": "1.8.0",
-    "unlocked": false,
+    "unlocked": true,
     "filename": "FtrMarioGrass",
     "variantId": null,
     "internalId": 13826,
@@ -2865,6 +3382,255 @@
     "concepts": [ "fancy", "child's room" ],
     "set": null,
     "series": "Mario",
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
+    "name": "Hello Kitty planter",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSanrioKtyPlanter.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 1800,
+    "sell": 450,
+    "size": "1x1",
+    "surface": false,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": [ "Scan the associated Sanrio amiibo card" ],
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 201,
+    "hhaCategory": null,
+    "interact": false,
+    "tag": "Hello Kitty",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": null,
+    "versionAdded": "1.9.0",
+    "unlocked": true,
+    "filename": "FtrSanrioKtyPlanter",
+    "variantId": null,
+    "internalId": 12272,
+    "uniqueEntryId": "ZJFQtSd3nF64ZD8in",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 35,
+      "version": "1.9.0",
+      "english": "Hello Kitty",
+      "englishEurope": "Hello Kitty",
+      "german": "Hello Kitty",
+      "spanish": "Hello Kitty",
+      "spanishUs": "Hello Kitty",
+      "french": "Hello Kitty",
+      "frenchUs": "Hello Kitty",
+      "italian": "Hello Kitty",
+      "dutch": "Hello Kitty",
+      "chinese": "Hello Kitty",
+      "chineseTraditional": "Hello Kitty",
+      "japanese": "ハローキティ",
+      "korean": "헬로키티",
+      "russian": "Hello Kitty",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 12272,
+      "version": "1.9.0",
+      "english": "Hello Kitty planter",
+      "englishEurope": "Hello Kitty planter",
+      "german": "Hello-Kitty-Bäumchen",
+      "spanish": "maceta Hello Kitty",
+      "spanishUs": "maceta Hello Kitty",
+      "french": "arbuste Hello Kitty",
+      "frenchUs": "arbuste Hello Kitty",
+      "italian": "vaso Hello Kitty",
+      "dutch": "Hello Kitty-boompje",
+      "chinese": "Hello Kitty盆栽",
+      "chineseTraditional": "Hello Kitty盆栽",
+      "japanese": "ハローキティなプランター",
+      "korean": "헬로키티 화분",
+      "russian": "деревце Hello Kitty",
+      "plural": false
+    },
+    "colors": [ "Green", "Blue" ],
+    "concepts": [ "fancy", "garden" ],
+    "set": null,
+    "series": "Hello Kitty",
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
+    "name": "Kerokerokeroppi doll",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSanrioKkkDoll.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 1200,
+    "sell": 300,
+    "size": "1x1",
+    "surface": false,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": [ "Scan the associated Sanrio amiibo card" ],
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 201,
+    "hhaCategory": null,
+    "interact": false,
+    "tag": "Kerokerokeroppi",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": null,
+    "versionAdded": "1.9.0",
+    "unlocked": true,
+    "filename": "FtrSanrioKkkDoll",
+    "variantId": null,
+    "internalId": 12274,
+    "uniqueEntryId": "CBcWLq3nrL7dnfQdC",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 40,
+      "version": "1.9.0",
+      "english": "Kerokerokeroppi",
+      "englishEurope": "Kerokerokeroppi",
+      "german": "Keroppi",
+      "spanish": "Kerokerokeroppi",
+      "spanishUs": "Kerokerokeroppi",
+      "french": "Kerokerokeroppi",
+      "frenchUs": "Kerokerokeroppi",
+      "italian": "Kerokerokeroppi",
+      "dutch": "Kerokerokeroppi",
+      "chinese": "Kerokerokeroppi",
+      "chineseTraditional": "Kerokerokeroppi",
+      "japanese": "けろけろけろっぴ",
+      "korean": "케로케로케로피",
+      "russian": "Kerokerokeroppi",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 12274,
+      "version": "1.9.0",
+      "english": "Kerokerokeroppi doll",
+      "englishEurope": "Kerokerokeroppi doll",
+      "german": "Kerokerokeroppis Puppe",
+      "spanish": "muñeca Kerokerokeroppi",
+      "spanishUs": "muñeca Kerokerokeroppi",
+      "french": "poupée Kerokerokeroppi",
+      "frenchUs": "poupée Kerokerokeroppi",
+      "italian": "amica di Kerokerokeroppi",
+      "dutch": "Kerokerokeroppi-pop",
+      "chinese": "晴天娃娃",
+      "chineseTraditional": "晴天娃娃",
+      "japanese": "てるてるなにんぎょう",
+      "korean": "종이 인형",
+      "russian": "фигурка Kerokerokeroppi",
+      "plural": false
+    },
+    "colors": [ "White", "Black" ],
+    "concepts": [ "garden", "harmonious" ],
+    "set": null,
+    "series": "Kerokerokeroppi",
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
+    "name": "Kerokerokeroppi snack",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSanrioKkkSweets.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 800,
+    "sell": 200,
+    "size": "1x1",
+    "surface": false,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": [ "Scan the associated Sanrio amiibo card" ],
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 201,
+    "hhaCategory": "SmallGoods",
+    "interact": false,
+    "tag": "Kerokerokeroppi",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": null,
+    "versionAdded": "1.9.0",
+    "unlocked": true,
+    "filename": "FtrSanrioKkkSweets",
+    "variantId": null,
+    "internalId": 12253,
+    "uniqueEntryId": "WkpW99v7fQkzowXTN",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 40,
+      "version": "1.9.0",
+      "english": "Kerokerokeroppi",
+      "englishEurope": "Kerokerokeroppi",
+      "german": "Keroppi",
+      "spanish": "Kerokerokeroppi",
+      "spanishUs": "Kerokerokeroppi",
+      "french": "Kerokerokeroppi",
+      "frenchUs": "Kerokerokeroppi",
+      "italian": "Kerokerokeroppi",
+      "dutch": "Kerokerokeroppi",
+      "chinese": "Kerokerokeroppi",
+      "chineseTraditional": "Kerokerokeroppi",
+      "japanese": "けろけろけろっぴ",
+      "korean": "케로케로케로피",
+      "russian": "Kerokerokeroppi",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 12253,
+      "version": "1.9.0",
+      "english": "Kerokerokeroppi snack",
+      "englishEurope": "Kerokerokeroppi snack",
+      "german": "Kerokerokeroppi-Nascherei",
+      "spanish": "pastelito Kerokerokeroppi",
+      "spanishUs": "pastelito Kerokerokeroppi",
+      "french": "en-cas Kerokerokeroppi",
+      "frenchUs": "en-cas Kerokerokeroppi",
+      "italian": "dolcetto Kerokerokeroppi",
+      "dutch": "Kerokerokeroppi-snack",
+      "chinese": "Kerokerokeroppi甜点",
+      "chineseTraditional": "Kerokerokeroppi甜點",
+      "japanese": "けろけろけろっぴなおかし",
+      "korean": "케로케로케로피 과자",
+      "russian": "лакомство Kerokerokeroppi",
+      "plural": false
+    },
+    "colors": [ "Green", "Green" ],
+    "concepts": [ "garden", "harmonious" ],
+    "set": null,
+    "series": "Kerokerokeroppi",
     "recipe": null
   },
   {
@@ -6092,7 +6858,7 @@
     "speakerType": null,
     "lightingType": "Emission",
     "catalog": "For sale",
-    "bodyTitle": null,
+    "bodyTitle": "Joy-Con",
     "bodyCustomize": true,
     "buy": 29980,
     "sell": 7495,
@@ -6207,6 +6973,214 @@
   },
   {
     "sourceSheet": "Miscellaneous",
+    "name": "Nintendo Switch Lite",
+    "diy": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "size": "1x1",
+    "sourceNotes": null,
+    "versionAdded": "1.9.0",
+    "interact": true,
+    "tag": "Game Console",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": "Emission",
+    "catalog": null,
+    "bodyTitle": "Color",
+    "bodyCustomize": false,
+    "buy": 19980,
+    "sell": 4995,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 13927,
+      "version": "1.9.0",
+      "english": "Nintendo Switch Lite",
+      "englishEurope": "Nintendo Switch Lite",
+      "german": "Nintendo Switch Lite",
+      "spanish": "Nintendo Switch Lite",
+      "spanishUs": "Nintendo Switch Lite",
+      "french": "Nintendo Switch Lite",
+      "frenchUs": "Nintendo Switch Lite",
+      "italian": "Nintendo Switch Lite",
+      "dutch": "Nintendo Switch Lite",
+      "chinese": "Nintendo Switch Lite",
+      "chineseTraditional": "Nintendo Switch Lite",
+      "japanese": "Nintendo Switch Lite",
+      "korean": "Nintendo Switch Lite",
+      "russian": "Nintendo Switch Lite",
+      "plural": false
+    },
+    "source": [ "Nook Shopping Daily Selection" ],
+    "hhaBasePoints": 431,
+    "unlocked": true,
+    "variations": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrSwitchLite_Remake_0_0.png",
+        "variation": "Turquoise",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": null,
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": null,
+        "seasonEventExclusive": null,
+        "hhaCategory": "Appliance",
+        "filename": "FtrSwitchLite_Remake_0_0",
+        "variantId": "0_0",
+        "internalId": 13927,
+        "uniqueEntryId": "GDgbsMbaLnmtp5nGz",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 13927,
+          "furnitureName": "Nintendo Switch Lite",
+          "english": "Turquoise",
+          "englishEurope": "Turquoise",
+          "german": "Türkis",
+          "spanish": "Turquesa",
+          "spanishUs": "Turquesa",
+          "french": "Turquoise",
+          "frenchUs": "Turquoise",
+          "italian": "Turchese",
+          "dutch": "Turquoise",
+          "chinese": "绿松石色",
+          "chineseTraditional": "藍綠色",
+          "japanese": "ターコイズ",
+          "korean": "터콰이즈",
+          "russian": "Бирюзовый",
+          "plural": false
+        },
+        "colors": [ "Aqua", "White" ],
+        "concepts": [ "child's room", "living room" ]
+      },
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrSwitchLite_Remake_1_0.png",
+        "variation": "Gray",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": null,
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": null,
+        "seasonEventExclusive": null,
+        "hhaCategory": "Appliance",
+        "filename": "FtrSwitchLite_Remake_1_0",
+        "variantId": "1_0",
+        "internalId": 13927,
+        "uniqueEntryId": "tESus2GHn5HMMJsRh",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 13927,
+          "furnitureName": "Nintendo Switch Lite",
+          "english": "Gray",
+          "englishEurope": "Gray",
+          "german": "Grau",
+          "spanish": "Gris",
+          "spanishUs": "Gris",
+          "french": "Grise",
+          "frenchUs": "Gris",
+          "italian": "Grigio",
+          "dutch": "Grijs",
+          "chinese": "灰色",
+          "chineseTraditional": "灰色",
+          "japanese": "グレー",
+          "korean": "그레이",
+          "russian": "Серый",
+          "plural": false
+        },
+        "colors": [ "Gray", "White" ],
+        "concepts": [ "child's room", "living room" ]
+      },
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrSwitchLite_Remake_2_0.png",
+        "variation": "Coral",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": null,
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": null,
+        "seasonEventExclusive": null,
+        "hhaCategory": "Appliance",
+        "filename": "FtrSwitchLite_Remake_2_0",
+        "variantId": "2_0",
+        "internalId": 13927,
+        "uniqueEntryId": "SHM9Q5T694ysTbHLF",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 13927,
+          "furnitureName": "Nintendo Switch Lite",
+          "english": "Coral",
+          "englishEurope": "Coral",
+          "german": "Koralle",
+          "spanish": "Coral",
+          "spanishUs": "Coral",
+          "french": "Corail",
+          "frenchUs": "Corail",
+          "italian": "Corallo",
+          "dutch": "Koraalrood",
+          "chinese": "珊瑚红",
+          "chineseTraditional": "珊瑚色",
+          "japanese": "コーラル",
+          "korean": "코럴",
+          "russian": "Коралловый",
+          "plural": false
+        },
+        "colors": [ "Pink", "White" ],
+        "concepts": [ "child's room", "living room" ]
+      },
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrSwitchLite_Remake_3_0.png",
+        "variation": "Yellow",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": null,
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": null,
+        "seasonEventExclusive": null,
+        "hhaCategory": "Appliance",
+        "filename": "FtrSwitchLite_Remake_3_0",
+        "variantId": "3_0",
+        "internalId": 13927,
+        "uniqueEntryId": "wyxXKQqhBg4LXL99Z",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 3,
+          "id": 13927,
+          "furnitureName": "Nintendo Switch Lite",
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarilla",
+          "spanishUs": "Amarilla",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
+        "colors": [ "Yellow", "White" ],
+        "concepts": [ "child's room", "living room" ]
+      }
+    ],
+    "set": null,
+    "series": null,
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
     "name": "Olivier salad",
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrOliviersalad.png",
     "variation": null,
@@ -6284,7 +7258,7 @@
     "outdoor": false,
     "speakerType": null,
     "lightingType": null,
-    "catalog": null,
+    "catalog": "For sale",
     "bodyTitle": "Paint",
     "bodyCustomize": true,
     "buy": 1500,
@@ -6574,7 +7548,7 @@
     "outdoor": false,
     "speakerType": null,
     "lightingType": null,
-    "catalog": null,
+    "catalog": "For sale",
     "bodyTitle": "Paint",
     "bodyCustomize": true,
     "buy": 1500,
@@ -6850,6 +7824,89 @@
   },
   {
     "sourceSheet": "Miscellaneous",
+    "name": "Pompompurin pudding",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSanrioPppPudding.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 800,
+    "sell": 200,
+    "size": "1x1",
+    "surface": false,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": [ "Scan the associated Sanrio amiibo card" ],
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 201,
+    "hhaCategory": "SmallGoods",
+    "interact": false,
+    "tag": "Pompompurin",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": null,
+    "versionAdded": "1.9.0",
+    "unlocked": true,
+    "filename": "FtrSanrioPppPudding",
+    "variantId": null,
+    "internalId": 12258,
+    "uniqueEntryId": "M9HobFmAe3sPceHvN",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 36,
+      "version": "1.9.0",
+      "english": "Pompompurin",
+      "englishEurope": "Pompompurin",
+      "german": "Pompompurin",
+      "spanish": "Pompompurin",
+      "spanishUs": "Pompompurin",
+      "french": "Pompompurin",
+      "frenchUs": "Pompompurin",
+      "italian": "Pompompurin",
+      "dutch": "Pompompurin",
+      "chinese": "Pompompurin",
+      "chineseTraditional": "Pompompurin",
+      "japanese": "ポムポムプリン",
+      "korean": "폼폼푸린",
+      "russian": "Pompompurin",
+      "plural": false
+    },
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 12258,
+      "version": "1.9.0",
+      "english": "Pompompurin pudding",
+      "englishEurope": "Pompompurin pudding",
+      "german": "Pompompurin-Pudding",
+      "spanish": "flan Pompompurin",
+      "spanishUs": "flan Pompompurin",
+      "french": "flan Pompompurin",
+      "frenchUs": "flan Pompompurin",
+      "italian": "budino Pompompurin",
+      "dutch": "Pompompurin-pudding",
+      "chinese": "Pompompurin布丁",
+      "chineseTraditional": "Pompompurin布丁",
+      "japanese": "ポムポムプリンなプリン",
+      "korean": "폼폼푸린 푸딩",
+      "russian": "пуддинг Pompompurin",
+      "plural": false
+    },
+    "colors": [ "Yellow", "White" ],
+    "concepts": [ "fancy", "shop" ],
+    "set": null,
+    "series": "Pompompurin",
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
     "name": "R. Brooke's birdwing model",
     "image": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAkaeritoribaneagehaToy.png",
     "variation": null,
@@ -7052,7 +8109,7 @@
       "plural": false
     },
     "colors": [ "Brown", "Orange" ],
-    "concepts": [ "garage" ],
+    "concepts": [ "workshop" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -7439,7 +8496,7 @@
       "plural": false
     },
     "hhaBasePoints": 201,
-    "unlocked": false,
+    "unlocked": true,
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMarioShield_Remake_0_0.png",
@@ -7558,7 +8615,7 @@
     "lightingType": null,
     "catalog": null,
     "versionAdded": "1.8.0",
-    "unlocked": false,
+    "unlocked": true,
     "filename": "FtrMarioRoundA",
     "variantId": null,
     "internalId": 13827,
@@ -7641,7 +8698,7 @@
     "lightingType": "Fluorescent",
     "catalog": null,
     "versionAdded": "1.8.0",
-    "unlocked": false,
+    "unlocked": true,
     "filename": "FtrMarioPentagon",
     "variantId": null,
     "internalId": 13825,
@@ -7732,6 +8789,26 @@
       "plural": false
     },
     "source": [ "Crafting", "Nook's Cranny", "Franklin" ],
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 32,
+      "version": "1.6.0",
+      "english": "Turkey Day",
+      "englishEurope": "Turkey Day",
+      "german": "Schlemmfest",
+      "spanish": "Día del Pavo",
+      "spanishUs": "Día del Pavo",
+      "french": "Fête du partage",
+      "frenchUs": "Fête du partage",
+      "italian": "festival delle primizie",
+      "dutch": "smakenfestijnstijl",
+      "chinese": "感恩节",
+      "chineseTraditional": "感恩節",
+      "japanese": "サンクスギビング",
+      "korean": "하베스트",
+      "russian": "День изобилия",
+      "plural": false
+    },
     "hhaBasePoints": 231,
     "unlocked": true,
     "variations": [
@@ -7817,7 +8894,7 @@
       }
     ],
     "set": null,
-    "series": null,
+    "series": "Turkey Day",
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Turkey Day casserole",
@@ -7929,6 +9006,26 @@
       "plural": false
     },
     "source": [ "Crafting", "Nook's Cranny", "Franklin" ],
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 32,
+      "version": "1.6.0",
+      "english": "Turkey Day",
+      "englishEurope": "Turkey Day",
+      "german": "Schlemmfest",
+      "spanish": "Día del Pavo",
+      "spanishUs": "Día del Pavo",
+      "french": "Fête du partage",
+      "frenchUs": "Fête du partage",
+      "italian": "festival delle primizie",
+      "dutch": "smakenfestijnstijl",
+      "chinese": "感恩节",
+      "chineseTraditional": "感恩節",
+      "japanese": "サンクスギビング",
+      "korean": "하베스트",
+      "russian": "День изобилия",
+      "plural": false
+    },
     "hhaBasePoints": 231,
     "unlocked": true,
     "variations": [
@@ -8014,7 +9111,7 @@
       }
     ],
     "set": null,
-    "series": null,
+    "series": "Turkey Day",
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Turkey Day decorations",
@@ -8146,6 +9243,26 @@
       "plural": false
     },
     "source": [ "Crafting", "Nook's Cranny", "Franklin" ],
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 32,
+      "version": "1.6.0",
+      "english": "Turkey Day",
+      "englishEurope": "Turkey Day",
+      "german": "Schlemmfest",
+      "spanish": "Día del Pavo",
+      "spanishUs": "Día del Pavo",
+      "french": "Fête du partage",
+      "frenchUs": "Fête du partage",
+      "italian": "festival delle primizie",
+      "dutch": "smakenfestijnstijl",
+      "chinese": "感恩节",
+      "chineseTraditional": "感恩節",
+      "japanese": "サンクスギビング",
+      "korean": "하베스트",
+      "russian": "День изобилия",
+      "plural": false
+    },
     "hhaBasePoints": 231,
     "unlocked": true,
     "variations": [
@@ -8231,7 +9348,7 @@
       }
     ],
     "set": null,
-    "series": null,
+    "series": "Turkey Day",
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Turkey Day table setting",
@@ -8343,6 +9460,26 @@
       "plural": false
     },
     "source": [ "Crafting", "Nook's Cranny", "Franklin" ],
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": 32,
+      "version": "1.6.0",
+      "english": "Turkey Day",
+      "englishEurope": "Turkey Day",
+      "german": "Schlemmfest",
+      "spanish": "Día del Pavo",
+      "spanishUs": "Día del Pavo",
+      "french": "Fête du partage",
+      "frenchUs": "Fête du partage",
+      "italian": "festival delle primizie",
+      "dutch": "smakenfestijnstijl",
+      "chinese": "感恩节",
+      "chineseTraditional": "感恩節",
+      "japanese": "サンクスギビング",
+      "korean": "하베스트",
+      "russian": "День изобилия",
+      "plural": false
+    },
     "hhaBasePoints": 231,
     "unlocked": true,
     "variations": [
@@ -8428,7 +9565,7 @@
       }
     ],
     "set": null,
-    "series": null,
+    "series": "Turkey Day",
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Turkey Day wheat decor",
@@ -9118,6 +10255,69 @@
     },
     "colors": [ "Pink", "Purple" ],
     "concepts": [],
+    "set": null,
+    "series": null,
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
+    "name": "aloha-edition carrying case",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSwitchcaseAC.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 2480,
+    "sell": 620,
+    "size": "1x1",
+    "surface": false,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook Link" ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 431,
+    "hhaCategory": null,
+    "interact": null,
+    "tag": "Game Console",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": "Not for sale",
+    "versionAdded": "1.9.0",
+    "unlocked": false,
+    "filename": "FtrSwitchcaseAC",
+    "variantId": null,
+    "internalId": 14298,
+    "uniqueEntryId": "Xst6pYcpfnfw3WKx2",
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 14298,
+      "version": "1.9.0",
+      "english": "aloha-edition carrying case",
+      "englishEurope": "ACNH carrying case",
+      "german": "ACNH-Edition-Tasche",
+      "spanish": "funda edición ACNH",
+      "spanishUs": "funda edición ACNH",
+      "french": "pochette édition ACNH",
+      "frenchUs": "étui ACNH édition Aloha",
+      "italian": "custodia edizione ACNH",
+      "dutch": "etui van ACNH",
+      "chinese": "Nook夏威夷花纹便携包",
+      "chineseTraditional": "Nook夏威夷花紋便攜包",
+      "japanese": "たぬきアロハSwitchケース",
+      "korean": "알로하 에디션 휴대용 케이스",
+      "russian": "чехол (версия ACNH)",
+      "plural": false
+    },
+    "colors": [ "Green", "White" ],
+    "concepts": [ "child's room", "living room" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -11283,7 +12483,7 @@
           "plural": false
         },
         "colors": [ "Green", "Beige" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBambooCandle_Remake_1_0.png",
@@ -11323,7 +12523,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Beige" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBambooCandle_Remake_2_0.png",
@@ -11363,7 +12563,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Beige" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       }
     ],
     "set": null,
@@ -11538,7 +12738,7 @@
           "plural": false
         },
         "colors": [ "Green", "Pink" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBamboodrum_Remake_1_0.png",
@@ -11578,7 +12778,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Orange" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBamboodrum_Remake_2_0.png",
@@ -11618,7 +12818,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Aqua" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       }
     ],
     "set": null,
@@ -11793,7 +12993,7 @@
           "plural": false
         },
         "colors": [ "Green", "Colorful" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBambooLunch_Remake_1_0.png",
@@ -11833,7 +13033,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Colorful" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBambooLunch_Remake_2_0.png",
@@ -11873,7 +13073,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Colorful" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       }
     ],
     "set": null,
@@ -12028,7 +13228,7 @@
           "plural": false
         },
         "colors": [ "Green", "Blue" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBambooBall_Remake_1_0.png",
@@ -12068,7 +13268,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Purple" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBambooBall_Remake_2_0.png",
@@ -12108,7 +13308,7 @@
           "plural": false
         },
         "colors": [ "Brown", "White" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       }
     ],
     "set": null,
@@ -12240,7 +13440,7 @@
       "plural": false
     },
     "colors": [ "Brown", "Beige" ],
-    "concepts": [ "zen-style" ],
+    "concepts": [ "harmonious" ],
     "set": null,
     "series": "bamboo",
     "recipe": {
@@ -13560,7 +14760,7 @@
       "plural": false
     },
     "colors": [ "White", "Black" ],
-    "concepts": [ "party", "zen-style" ],
+    "concepts": [ "party", "harmonious" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -14482,7 +15682,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "White" ],
-        "concepts": [ "ocean", "folk art" ]
+        "concepts": [ "ocean", "heritage" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBottleship_Remake_1_0.png",
@@ -14522,7 +15722,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "Green" ],
-        "concepts": [ "ocean", "folk art" ]
+        "concepts": [ "ocean", "heritage" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrBottleship_Remake_2_0.png",
@@ -14562,7 +15762,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "Black" ],
-        "concepts": [ "ocean", "folk art" ]
+        "concepts": [ "ocean", "heritage" ]
       }
     ],
     "set": null,
@@ -15496,9 +16696,7 @@
     "patternCustomize": false,
     "kitCost": null,
     "size": "1x1",
-    "sourceNotes": [
-      "Available in all tiers of shops, including Timmy & Tommy before the shop is opened"
-    ],
+    "sourceNotes": [ "Available in the re-buyable slot in Nook's Cranny" ],
     "versionAdded": "1.0.0",
     "interact": false,
     "tag": "Desk",
@@ -15592,7 +16790,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Yellow" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrCardboard_Remake_1_0.png",
@@ -15632,7 +16830,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Blue" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrCardboard_Remake_2_0.png",
@@ -15672,7 +16870,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Orange" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrCardboard_Remake_3_0.png",
@@ -15712,7 +16910,7 @@
           "plural": false
         },
         "colors": [ "White", "Red" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrCardboard_Remake_4_0.png",
@@ -15752,7 +16950,7 @@
           "plural": false
         },
         "colors": [ "White", "Pink" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrCardboard_Remake_5_0.png",
@@ -15792,7 +16990,7 @@
           "plural": false
         },
         "colors": [ "White", "Green" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrCardboard_Remake_6_0.png",
@@ -15832,7 +17030,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Red" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       }
     ],
     "set": null,
@@ -17442,7 +18640,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Brown" ],
-        "concepts": [ "horror" ]
+        "concepts": [ "party" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrCelebratoryCandle_Remake_1_0.png",
@@ -17482,7 +18680,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Beige" ],
-        "concepts": [ "horror" ]
+        "concepts": [ "party" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrCelebratoryCandle_Remake_2_0.png",
@@ -17522,7 +18720,7 @@
           "plural": false
         },
         "colors": [ "White", "Black" ],
-        "concepts": [ "horror" ]
+        "concepts": [ "party" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrCelebratoryCandle_Remake_3_0.png",
@@ -17562,7 +18760,7 @@
           "plural": false
         },
         "colors": [ "Blue", "Aqua" ],
-        "concepts": [ "horror" ]
+        "concepts": [ "party" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrCelebratoryCandle_Remake_4_0.png",
@@ -17602,7 +18800,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "White" ],
-        "concepts": [ "horror" ]
+        "concepts": [ "party" ]
       }
     ],
     "set": null,
@@ -18093,7 +19291,7 @@
       "plural": false
     },
     "colors": [ "Pink", "Brown" ],
-    "concepts": [ "zen-style", "fancy" ],
+    "concepts": [ "harmonious", "fancy" ],
     "set": null,
     "series": "cherry blossoms",
     "recipe": {
@@ -19630,7 +20828,7 @@
     "lightingType": null,
     "catalog": null,
     "versionAdded": "1.8.0",
-    "unlocked": false,
+    "unlocked": true,
     "filename": "FtrMarioGold",
     "variantId": null,
     "internalId": 13830,
@@ -19803,6 +21001,69 @@
     },
     "colors": [ "White", "Black" ],
     "concepts": [],
+    "set": null,
+    "series": null,
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
+    "name": "cool globe",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrGlobeAntique.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 2300,
+    "sell": 575,
+    "size": "1x1",
+    "surface": false,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook Shopping Seasonal" ],
+    "sourceNotes": null,
+    "seasonEvent": "Nature Day (Nook Shopping)",
+    "seasonEventExclusive": true,
+    "hhaBasePoints": 201,
+    "hhaCategory": null,
+    "interact": true,
+    "tag": "Space",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": null,
+    "versionAdded": "1.9.0",
+    "unlocked": false,
+    "filename": "FtrGlobeAntique",
+    "variantId": null,
+    "internalId": 14023,
+    "uniqueEntryId": "zoQLPE3AtCuYgqWXf",
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 14023,
+      "version": "1.9.0",
+      "english": "cool globe",
+      "englishEurope": "cool globe",
+      "german": "Globus (cool)",
+      "spanish": "globo terrestre",
+      "spanishUs": "globo terrestre",
+      "french": "globe cool",
+      "frenchUs": "globe cool",
+      "italian": "globo girevole",
+      "dutch": "ouderwetse wereldbol",
+      "chinese": "帅气地球仪",
+      "chineseTraditional": "帥氣地球儀",
+      "japanese": "かっこいいちきゅうぎ",
+      "korean": "멋진 지구의",
+      "russian": "классный глобус",
+      "plural": false
+    },
+    "colors": [ "Yellow", "Brown" ],
+    "concepts": [ "den", "expensive" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -29435,7 +30696,7 @@
       "plural": false
     },
     "colors": [ "Brown", "Beige" ],
-    "concepts": [ "garage", "garden" ],
+    "concepts": [ "workshop", "garden" ],
     "set": null,
     "series": null,
     "recipe": {
@@ -29486,6 +30747,69 @@
         }
       }
     }
+  },
+  {
+    "sourceSheet": "Miscellaneous",
+    "name": "first-anniversary cake",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrAnniversaryCake.png",
+    "variation": null,
+    "bodyTitle": null,
+    "pattern": null,
+    "patternTitle": null,
+    "diy": false,
+    "bodyCustomize": false,
+    "patternCustomize": false,
+    "kitCost": null,
+    "kitType": null,
+    "buy": 20000,
+    "sell": 5000,
+    "size": "1x1",
+    "surface": false,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nintendo" ],
+    "sourceNotes": [ "Mailed to players after the 1.9.0 update in a letter from Nook Inc." ],
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "hhaBasePoints": 777,
+    "hhaCategory": null,
+    "interact": true,
+    "tag": "Seasonal decor",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": "Candle",
+    "catalog": "Not for sale",
+    "versionAdded": "1.9.0",
+    "unlocked": true,
+    "filename": "FtrAnniversaryCake",
+    "variantId": null,
+    "internalId": 14142,
+    "uniqueEntryId": "mEvbcpZEBwxkTpKLi",
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 14142,
+      "version": "1.9.0",
+      "english": "first-anniversary cake",
+      "englishEurope": "first-anniversary cake",
+      "german": "1.-Jubiläum-Kuchen",
+      "spanish": "tarta primer aniversario",
+      "spanishUs": "pastel primer aniversario",
+      "french": "gâteau du 1er anniversaire",
+      "frenchUs": "gâteau du 1er anniversaire",
+      "italian": "torta 1º anniversario",
+      "dutch": "jubileumtaart",
+      "chinese": "一周年蛋糕",
+      "chineseTraditional": "一週年蛋糕",
+      "japanese": "1stアニバーサリーケーキ",
+      "korean": "1주년 케이크",
+      "russian": "юбилейный торт «1 год»",
+      "plural": false
+    },
+    "colors": [ "Colorful", "Green" ],
+    "concepts": [ "party" ],
+    "set": null,
+    "series": null,
+    "recipe": null
   },
   {
     "sourceSheet": "Miscellaneous",
@@ -29843,7 +31167,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Red" ],
-        "concepts": [ "garage", "facility" ]
+        "concepts": [ "workshop", "facility" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrSafetycone_Remake_1_0.png",
@@ -29883,7 +31207,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Red" ],
-        "concepts": [ "garage", "facility" ]
+        "concepts": [ "workshop", "facility" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrSafetycone_Remake_2_0.png",
@@ -29923,7 +31247,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Red" ],
-        "concepts": [ "garage", "facility" ]
+        "concepts": [ "workshop", "facility" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrSafetycone_Remake_3_0.png",
@@ -29963,7 +31287,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Red" ],
-        "concepts": [ "garage", "facility" ]
+        "concepts": [ "workshop", "facility" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrSafetycone_Remake_4_0.png",
@@ -30003,7 +31327,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Red" ],
-        "concepts": [ "garage", "facility" ]
+        "concepts": [ "workshop", "facility" ]
       }
     ],
     "set": null,
@@ -30280,7 +31604,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "Purple" ],
-        "concepts": [ "child's room", "horror" ]
+        "concepts": [ "horror" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrPsychicset_Remake_1_0.png",
@@ -30320,7 +31644,7 @@
           "plural": false
         },
         "colors": [ "Purple", "Black" ],
-        "concepts": [ "child's room", "horror" ]
+        "concepts": [ "horror" ]
       }
     ],
     "set": null,
@@ -36416,7 +37740,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Green" ],
-        "concepts": [ "folk art", "ocean" ]
+        "concepts": [ "heritage", "ocean" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHuladoll_Remake_1_0.png",
@@ -36456,7 +37780,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Red" ],
-        "concepts": [ "folk art", "ocean" ]
+        "concepts": [ "heritage", "ocean" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHuladoll_Remake_2_0.png",
@@ -36496,7 +37820,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Pink" ],
-        "concepts": [ "folk art", "ocean" ]
+        "concepts": [ "heritage", "ocean" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHuladoll_Remake_3_0.png",
@@ -36536,7 +37860,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Aqua" ],
-        "concepts": [ "folk art", "ocean" ]
+        "concepts": [ "heritage", "ocean" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHuladoll_Remake_4_0.png",
@@ -36576,7 +37900,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Yellow" ],
-        "concepts": [ "folk art", "ocean" ]
+        "concepts": [ "heritage", "ocean" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrHuladoll_Remake_5_0.png",
@@ -36616,7 +37940,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Beige" ],
-        "concepts": [ "folk art", "ocean" ]
+        "concepts": [ "heritage", "ocean" ]
       }
     ],
     "set": null,
@@ -37327,7 +38651,7 @@
           "plural": false
         },
         "colors": [ "Black", "Red" ],
-        "concepts": [ "zen-style", "living room" ]
+        "concepts": [ "harmonious", "living room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrIncense_Remake_1_0.png",
@@ -37367,7 +38691,7 @@
           "plural": false
         },
         "colors": [ "White", "Brown" ],
-        "concepts": [ "zen-style", "living room" ]
+        "concepts": [ "harmonious", "living room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrIncense_Remake_2_0.png",
@@ -37407,7 +38731,7 @@
           "plural": false
         },
         "colors": [ "Blue", "Black" ],
-        "concepts": [ "zen-style", "living room" ]
+        "concepts": [ "harmonious", "living room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrIncense_Remake_3_0.png",
@@ -37447,7 +38771,7 @@
           "plural": false
         },
         "colors": [ "Green", "Beige" ],
-        "concepts": [ "zen-style", "living room" ]
+        "concepts": [ "harmonious", "living room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrIncense_Remake_4_0.png",
@@ -37487,7 +38811,7 @@
           "plural": false
         },
         "colors": [ "Pink", "White" ],
-        "concepts": [ "zen-style", "living room" ]
+        "concepts": [ "harmonious", "living room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrIncense_Remake_5_0.png",
@@ -37527,7 +38851,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Green" ],
-        "concepts": [ "zen-style", "living room" ]
+        "concepts": [ "harmonious", "living room" ]
       }
     ],
     "set": null,
@@ -38163,7 +39487,7 @@
       "plural": false
     },
     "colors": [ "White", "Red" ],
-    "concepts": [ "zen-style" ],
+    "concepts": [ "harmonious" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -38249,7 +39573,7 @@
           "plural": false
         },
         "colors": [ "Black", "Brown" ],
-        "concepts": [ "zen-style", "folk art" ]
+        "concepts": [ "harmonious", "heritage" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrJapanSword_Remake_1_0.png",
@@ -38289,7 +39613,7 @@
           "plural": false
         },
         "colors": [ "Blue", "Brown" ],
-        "concepts": [ "zen-style", "folk art" ]
+        "concepts": [ "harmonious", "heritage" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrJapanSword_Remake_2_0.png",
@@ -38329,7 +39653,7 @@
           "plural": false
         },
         "colors": [ "White", "Brown" ],
-        "concepts": [ "zen-style", "folk art" ]
+        "concepts": [ "harmonious", "heritage" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrJapanSword_Remake_3_0.png",
@@ -38369,7 +39693,7 @@
           "plural": false
         },
         "colors": [ "Red", "Brown" ],
-        "concepts": [ "zen-style", "folk art" ]
+        "concepts": [ "harmonious", "heritage" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrJapanSword_Remake_4_0.png",
@@ -38409,7 +39733,7 @@
           "plural": false
         },
         "colors": [ "Beige", "Brown" ],
-        "concepts": [ "zen-style", "folk art" ]
+        "concepts": [ "harmonious", "heritage" ]
       }
     ],
     "set": null,
@@ -42696,7 +44020,7 @@
           "plural": false
         },
         "colors": [ "White", "Yellow" ],
-        "concepts": [ "folk art", "zen-style" ]
+        "concepts": [ "heritage", "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrManekineko_Remake_1_0.png",
@@ -42736,7 +44060,7 @@
           "plural": false
         },
         "colors": [ "Black", "Yellow" ],
-        "concepts": [ "folk art", "zen-style" ]
+        "concepts": [ "heritage", "harmonious" ]
       }
     ],
     "set": null,
@@ -42787,8 +44111,8 @@
       "english": "lucky gold cat",
       "englishEurope": "lucky gold cat",
       "german": "Gold-Glückskatze",
-      "spanish": "gato suerte oro",
-      "spanishUs": "gato suerte oro",
+      "spanish": "gato de la suerte dorado",
+      "spanishUs": "gato de la suerte dorado",
       "french": "chat fétiche doré",
       "frenchUs": "chat fétiche doré",
       "italian": "gatto fortuna oro",
@@ -47158,7 +48482,7 @@
           "plural": false
         },
         "colors": [ "Red", "Yellow" ],
-        "concepts": [ "folk art", "fancy" ]
+        "concepts": [ "heritage", "fancy" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMatryoshka_Remake_1_0.png",
@@ -47198,7 +48522,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "White" ],
-        "concepts": [ "folk art", "fancy" ]
+        "concepts": [ "heritage", "fancy" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMatryoshka_Remake_2_0.png",
@@ -47238,7 +48562,7 @@
           "plural": false
         },
         "colors": [ "Blue", "Aqua" ],
-        "concepts": [ "folk art", "fancy" ]
+        "concepts": [ "heritage", "fancy" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMatryoshka_Remake_3_0.png",
@@ -47278,7 +48602,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Beige" ],
-        "concepts": [ "folk art", "fancy" ]
+        "concepts": [ "heritage", "fancy" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMatryoshka_Remake_4_0.png",
@@ -47318,7 +48642,7 @@
           "plural": false
         },
         "colors": [ "Green", "Yellow" ],
-        "concepts": [ "folk art", "fancy" ]
+        "concepts": [ "heritage", "fancy" ]
       }
     ],
     "set": null,
@@ -47430,7 +48754,7 @@
       "plural": false
     },
     "colors": [ "Gray", "Aqua" ],
-    "concepts": [ "garage" ],
+    "concepts": [ "workshop" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -49572,7 +50896,7 @@
       "plural": false
     },
     "colors": [ "Green", "Green" ],
-    "concepts": [ "zen-style" ],
+    "concepts": [ "harmonious" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -53346,7 +54670,7 @@
           "plural": false
         },
         "colors": [ "Red", "Gray" ],
-        "concepts": [ "folk art" ]
+        "concepts": [ "heritage" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrNutcracker_Remake_1_0.png",
@@ -53386,7 +54710,7 @@
           "plural": false
         },
         "colors": [ "Blue", "Green" ],
-        "concepts": [ "folk art" ]
+        "concepts": [ "heritage" ]
       }
     ],
     "set": null,
@@ -55331,7 +56655,7 @@
       "plural": false
     },
     "colors": [ "Yellow", "Black" ],
-    "concepts": [ "zen-style" ],
+    "concepts": [ "harmonious" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -56572,7 +57896,7 @@
       "plural": false
     },
     "colors": [ "Green", "Brown" ],
-    "concepts": [ "zen-style" ],
+    "concepts": [ "harmonious" ],
     "set": null,
     "series": null,
     "recipe": {
@@ -56853,7 +58177,7 @@
           "plural": false
         },
         "colors": [ "Red", "White" ],
-        "concepts": [ "garage", "garden" ]
+        "concepts": [ "workshop", "garden" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrPolytank_Remake_1_0.png",
@@ -56893,7 +58217,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "White" ],
-        "concepts": [ "garage", "garden" ]
+        "concepts": [ "workshop", "garden" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrPolytank_Remake_2_0.png",
@@ -56933,7 +58257,7 @@
           "plural": false
         },
         "colors": [ "Green", "Gray" ],
-        "concepts": [ "garage", "garden" ]
+        "concepts": [ "workshop", "garden" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrPolytank_Remake_3_0.png",
@@ -56973,7 +58297,7 @@
           "plural": false
         },
         "colors": [ "Beige", "Green" ],
-        "concepts": [ "garage", "garden" ]
+        "concepts": [ "workshop", "garden" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrPolytank_Remake_4_0.png",
@@ -57013,7 +58337,7 @@
           "plural": false
         },
         "colors": [ "Green", "Black" ],
-        "concepts": [ "garage", "garden" ]
+        "concepts": [ "workshop", "garden" ]
       }
     ],
     "set": null,
@@ -58482,7 +59806,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Beige" ],
-        "concepts": [ "zen-style", "garage" ]
+        "concepts": [ "harmonious", "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrKame_Remake_1_0.png",
@@ -58522,7 +59846,7 @@
           "plural": false
         },
         "colors": [ "White", "White" ],
-        "concepts": [ "zen-style", "garage" ]
+        "concepts": [ "harmonious", "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrKame_Remake_2_0.png",
@@ -58562,7 +59886,7 @@
           "plural": false
         },
         "colors": [ "Black", "Black" ],
-        "concepts": [ "zen-style", "garage" ]
+        "concepts": [ "harmonious", "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrKame_Remake_3_0.png",
@@ -58602,7 +59926,7 @@
           "plural": false
         },
         "colors": [ "Beige", "Beige" ],
-        "concepts": [ "zen-style", "garage" ]
+        "concepts": [ "harmonious", "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrKame_Remake_4_0.png",
@@ -58642,7 +59966,7 @@
           "plural": false
         },
         "colors": [ "White", "Blue" ],
-        "concepts": [ "zen-style", "garage" ]
+        "concepts": [ "harmonious", "workshop" ]
       }
     ],
     "set": null,
@@ -58946,7 +60270,7 @@
           "russian": "Обычный",
           "plural": false
         },
-        "colors": [ "Red", "Blue" ],
+        "colors": [ "Red", "Black" ],
         "concepts": [ "kitchen", "fitness" ]
       },
       {
@@ -62516,7 +63840,7 @@
       "cardColor": "dark gray",
       "diyIconFilename": "FtrKalimbaCan",
       "diyIconFilenameSh": null,
-      "serialId": 600,
+      "serialId": 650,
       "internalId": 504,
       "uniqueEntryId": "Wg8fZ2B2HqkvzvHDP",
       "materials": { "empty can": 1, "wood": 1, "iron nugget": 1 },
@@ -69003,7 +70327,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Green" ],
-        "concepts": [ "garage", "child's room" ]
+        "concepts": [ "workshop", "child's room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMagagine_Remake_0_1.png",
@@ -69043,7 +70367,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Red" ],
-        "concepts": [ "garage", "child's room" ]
+        "concepts": [ "workshop", "child's room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMagagine_Remake_0_2.png",
@@ -69083,7 +70407,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Gray" ],
-        "concepts": [ "garage", "child's room" ]
+        "concepts": [ "workshop", "child's room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMagagine_Remake_0_3.png",
@@ -69123,7 +70447,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Colorful" ],
-        "concepts": [ "garage", "child's room" ]
+        "concepts": [ "workshop", "child's room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMagagine_Remake_0_4.png",
@@ -69163,7 +70487,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Colorful" ],
-        "concepts": [ "garage", "child's room" ]
+        "concepts": [ "workshop", "child's room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMagagine_Remake_0_5.png",
@@ -69203,7 +70527,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Pink" ],
-        "concepts": [ "garage", "child's room" ]
+        "concepts": [ "workshop", "child's room" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMagagine_Remake_0_6.png",
@@ -69243,7 +70567,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Colorful" ],
-        "concepts": [ "garage", "child's room" ]
+        "concepts": [ "workshop", "child's room" ]
       }
     ],
     "set": null,
@@ -70058,7 +71382,7 @@
       "plural": false
     },
     "colors": [ "Beige", "Beige" ],
-    "concepts": [ "zen-style", "shop" ],
+    "concepts": [ "harmonious", "shop" ],
     "set": null,
     "series": null,
     "recipe": {
@@ -76496,7 +77820,7 @@
       "plural": false
     },
     "colors": [ "Gray", "Gray" ],
-    "concepts": [ "garage" ],
+    "concepts": [ "workshop" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -77242,7 +78566,7 @@
           "plural": false
         },
         "colors": [ "Red", "Gray" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolbox_Remake_1_0.png",
@@ -77282,7 +78606,7 @@
           "plural": false
         },
         "colors": [ "Green", "Beige" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolbox_Remake_2_0.png",
@@ -77322,7 +78646,7 @@
           "plural": false
         },
         "colors": [ "Blue", "White" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolbox_Remake_3_0.png",
@@ -77362,7 +78686,7 @@
           "plural": false
         },
         "colors": [ "Orange", "Black" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolbox_Remake_4_0.png",
@@ -77393,7 +78717,7 @@
           "french": "Turquoise",
           "frenchUs": "Turquoise",
           "italian": "Turchese",
-          "dutch": "Turkoois",
+          "dutch": "Turquoise",
           "chinese": "绿松石色",
           "chineseTraditional": "綠松色",
           "japanese": "ターコイズ",
@@ -77402,7 +78726,7 @@
           "plural": false
         },
         "colors": [ "Aqua", "Orange" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolbox_Remake_5_0.png",
@@ -77442,7 +78766,7 @@
           "plural": false
         },
         "colors": [ "Pink", "Pink" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       }
     ],
     "set": null,
@@ -78014,7 +79338,7 @@
           "plural": false
         },
         "colors": [ "Orange", "White" ],
-        "concepts": [ "zen-style", "shop" ]
+        "concepts": [ "harmonious", "shop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrTeasetChina_Remake_1_0.png",
@@ -78054,7 +79378,7 @@
           "plural": false
         },
         "colors": [ "Brown", "White" ],
-        "concepts": [ "zen-style", "shop" ]
+        "concepts": [ "harmonious", "shop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrTeasetChina_Remake_2_0.png",
@@ -78094,7 +79418,7 @@
           "plural": false
         },
         "colors": [ "Black", "White" ],
-        "concepts": [ "zen-style", "shop" ]
+        "concepts": [ "harmonious", "shop" ]
       }
     ],
     "set": null,
@@ -78182,7 +79506,7 @@
           "plural": false
         },
         "colors": [ "Black", "Black" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrGarbagebag_Remake_1_0.png",
@@ -78222,7 +79546,7 @@
           "plural": false
         },
         "colors": [ "White", "White" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrGarbagebag_Remake_2_0.png",
@@ -78262,7 +79586,7 @@
           "plural": false
         },
         "colors": [ "Blue", "Blue" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrGarbagebag_Remake_3_0.png",
@@ -78302,7 +79626,7 @@
           "plural": false
         },
         "colors": [ "Yellow", "Yellow" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       }
     ],
     "set": null,
@@ -78328,7 +79652,7 @@
       "cardColor": "dark gray",
       "diyIconFilename": "FtrGarbagebag",
       "diyIconFilenameSh": null,
-      "serialId": 603,
+      "serialId": 653,
       "internalId": 66,
       "uniqueEntryId": "yofDbWxuR2q36otG4",
       "materials": { "empty can": 1, "boot": 1, "old tire": 1 },
@@ -80917,6 +82241,174 @@
   },
   {
     "sourceSheet": "Miscellaneous",
+    "name": "whoopee cushion",
+    "diy": false,
+    "patternCustomize": false,
+    "kitCost": 1,
+    "size": "1x1",
+    "sourceNotes": null,
+    "versionAdded": "1.9.0",
+    "interact": true,
+    "tag": "Chair",
+    "outdoor": false,
+    "speakerType": null,
+    "lightingType": null,
+    "catalog": null,
+    "bodyTitle": "Color",
+    "bodyCustomize": null,
+    "buy": 400,
+    "sell": 100,
+    "translations": {
+      "sourceSheet": "Furniture",
+      "id": 14340,
+      "version": "1.9.0",
+      "english": "whoopee cushion",
+      "englishEurope": "whoopee cushion",
+      "german": "Pupskissen",
+      "spanish": "cojín de broma",
+      "spanishUs": "cojín de broma",
+      "french": "coussin péteur",
+      "frenchUs": "coussin péteur",
+      "italian": "petofono",
+      "dutch": "scheetkussen",
+      "chinese": "放屁坐垫",
+      "chineseTraditional": "放屁坐墊",
+      "japanese": "ブーブークッション",
+      "korean": "방귀 쿠션",
+      "russian": "подушка для розыгрыша",
+      "plural": false
+    },
+    "source": [ "Nook Shopping Seasonal" ],
+    "hhaBasePoints": 201,
+    "unlocked": false,
+    "variations": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrCushionWhoopee_Remake_0_0.png",
+        "variation": "Red",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": "Normal",
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": "April Fools' Day",
+        "seasonEventExclusive": true,
+        "hhaCategory": null,
+        "filename": "FtrCushionWhoopee_Remake_0_0",
+        "variantId": "0_0",
+        "internalId": 14340,
+        "uniqueEntryId": "oYHjku4z8ECGXzZNS",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 0,
+          "id": 14340,
+          "furnitureName": "whoopee cushion",
+          "english": "Red",
+          "englishEurope": "Red",
+          "german": "Rot",
+          "spanish": "Rojo",
+          "spanishUs": "Rojo",
+          "french": "Rouge",
+          "frenchUs": "Rouge",
+          "italian": "Rosso",
+          "dutch": "Rood",
+          "chinese": "红色",
+          "chineseTraditional": "紅色",
+          "japanese": "レッド",
+          "korean": "레드",
+          "russian": "Красный",
+          "plural": false
+        },
+        "colors": [ "Red", "Gray" ],
+        "concepts": [ "child's room", "party" ]
+      },
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrCushionWhoopee_Remake_1_0.png",
+        "variation": "Green",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": "Normal",
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": "April Fools' Day",
+        "seasonEventExclusive": true,
+        "hhaCategory": null,
+        "filename": "FtrCushionWhoopee_Remake_1_0",
+        "variantId": "1_0",
+        "internalId": 14340,
+        "uniqueEntryId": "oDBYd2kAvcSB2ZMcp",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 1,
+          "id": 14340,
+          "furnitureName": "whoopee cushion",
+          "english": "Green",
+          "englishEurope": "Green",
+          "german": "Grün",
+          "spanish": "Verde",
+          "spanishUs": "Verde",
+          "french": "Vert",
+          "frenchUs": "Vert",
+          "italian": "Verde",
+          "dutch": "Groen",
+          "chinese": "绿色",
+          "chineseTraditional": "綠色",
+          "japanese": "グリーン",
+          "korean": "그린",
+          "russian": "Зеленый",
+          "plural": false
+        },
+        "colors": [ "Green", "Gray" ],
+        "concepts": [ "child's room", "party" ]
+      },
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrCushionWhoopee_Remake_2_0.png",
+        "variation": "Yellow",
+        "pattern": null,
+        "patternTitle": null,
+        "kitType": "Normal",
+        "surface": false,
+        "exchangePrice": null,
+        "exchangeCurrency": null,
+        "seasonEvent": "April Fools' Day",
+        "seasonEventExclusive": true,
+        "hhaCategory": null,
+        "filename": "FtrCushionWhoopee_Remake_2_0",
+        "variantId": "2_0",
+        "internalId": 14340,
+        "uniqueEntryId": "czrACC46nWRqbLtSe",
+        "variantTranslations": {
+          "sourceSheet": "Furniture Variants",
+          "variantId": 2,
+          "id": 14340,
+          "furnitureName": "whoopee cushion",
+          "english": "Yellow",
+          "englishEurope": "Yellow",
+          "german": "Gelb",
+          "spanish": "Amarillo",
+          "spanishUs": "Amarillo",
+          "french": "Jaune",
+          "frenchUs": "Jaune",
+          "italian": "Giallo",
+          "dutch": "Geel",
+          "chinese": "黄色",
+          "chineseTraditional": "黃色",
+          "japanese": "イエロー",
+          "korean": "옐로",
+          "russian": "Желтый",
+          "plural": false
+        },
+        "colors": [ "Yellow", "Gray" ],
+        "concepts": [ "child's room", "party" ]
+      }
+    ],
+    "set": null,
+    "series": null,
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Miscellaneous",
     "name": "windflower fan",
     "diy": true,
     "patternCustomize": false,
@@ -81488,7 +82980,7 @@
           "plural": false
         },
         "colors": [ "Orange", "Red" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMokugyo_Remake_1_0.png",
@@ -81528,7 +83020,7 @@
           "plural": false
         },
         "colors": [ "Beige", "Red" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrMokugyo_Remake_2_0.png",
@@ -81568,7 +83060,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Yellow" ],
-        "concepts": [ "zen-style" ]
+        "concepts": [ "harmonious" ]
       }
     ],
     "set": null,
@@ -82178,7 +83670,7 @@
           "plural": false
         },
         "colors": [ "Beige", "Colorful" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolboxWood_Remake_1_0.png",
@@ -82218,7 +83710,7 @@
           "plural": false
         },
         "colors": [ "Brown", "Colorful" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolboxWood_Remake_2_0.png",
@@ -82258,7 +83750,7 @@
           "plural": false
         },
         "colors": [ "Colorful", "Colorful" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrToolboxWood_Remake_3_0.png",
@@ -82298,7 +83790,7 @@
           "plural": false
         },
         "colors": [ "Green", "Colorful" ],
-        "concepts": [ "garage" ]
+        "concepts": [ "workshop" ]
       }
     ],
     "set": null,
@@ -82934,7 +84426,7 @@
       "plural": false
     },
     "colors": [ "Black", "Red" ],
-    "concepts": [ "zen-style" ],
+    "concepts": [ "harmonious" ],
     "set": null,
     "series": null,
     "recipe": null
@@ -82971,7 +84463,7 @@
     "lightingType": null,
     "catalog": null,
     "versionAdded": "1.8.0",
-    "unlocked": false,
+    "unlocked": true,
     "filename": "FtrPiePi",
     "variantId": null,
     "internalId": 14020,
