@@ -15,7 +15,7 @@
 
 * implement additions/changes from the 1.9.0 update ([966151a](https://github.com/Norviah/animal-crossing/commit/966151aafe733838a261aebcaa84b1c417dd8aed))
 
-## [7.4.0](https://github.com/Norviah/animal-crossing/compare/v7.3.0...v7.4.0) (2021-03-21)
+## [7.3.0](https://github.com/Norviah/animal-crossing/compare/v7.3.0...v7.4.0) (2021-03-21)
 
 
 ### Additions
