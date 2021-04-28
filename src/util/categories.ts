@@ -3,7 +3,7 @@
  */
 export const categories = {
   Items: [
-    'Accessories',
+    'Equipment',
     'Art',
     'Bags',
     'Bottoms',
