@@ -19,6 +19,8 @@ export interface Villager {
     flooring:                  string;
     furnitureList:             number[];
     furnitureNameList:         string[];
+    diyWorkbench:              string;
+    kitchenEquipment:          string;
     versionAdded:              Version;
     nameColor:                 string;
     bubbleColor:               string;

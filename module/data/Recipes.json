@@ -21294,28 +21294,8 @@
       "russian": "золотой топор",
       "plural": false
     },
-    "materials": { "axe": 1, "gold nugget": 1 },
+    "materials": { "gold nugget": 1, "axe": 1 },
     "materialsTranslations": {
-      "axe": {
-        "sourceSheet": "Tools",
-        "id": 2100,
-        "version": "1.0.0",
-        "english": "axe",
-        "englishEurope": "axe",
-        "german": "Axt",
-        "spanish": "hacha",
-        "spanishUs": "hacha",
-        "french": "hache",
-        "frenchUs": "hache",
-        "italian": "ascia",
-        "dutch": "bijl",
-        "chinese": "斧头",
-        "chineseTraditional": "斧頭",
-        "japanese": "オノ",
-        "korean": "도끼",
-        "russian": "топор",
-        "plural": false
-      },
       "gold nugget": {
         "sourceSheet": "Craft",
         "id": 2505,
@@ -21334,6 +21314,26 @@
         "japanese": "きんこうせき",
         "korean": "금광석",
         "russian": "золотой самородок",
+        "plural": false
+      },
+      "axe": {
+        "sourceSheet": "Tools",
+        "id": 2100,
+        "version": "1.0.0",
+        "english": "axe",
+        "englishEurope": "axe",
+        "german": "Axt",
+        "spanish": "hacha",
+        "spanishUs": "hacha",
+        "french": "hache",
+        "frenchUs": "hache",
+        "italian": "ascia",
+        "dutch": "bijl",
+        "chinese": "斧头",
+        "chineseTraditional": "斧頭",
+        "japanese": "オノ",
+        "korean": "도끼",
+        "russian": "топор",
         "plural": false
       }
     }
@@ -21810,28 +21810,8 @@
       "russian": "золотой сачок",
       "plural": false
     },
-    "materials": { "net": 1, "gold nugget": 1 },
+    "materials": { "gold nugget": 1, "net": 1 },
     "materialsTranslations": {
-      "net": {
-        "sourceSheet": "Tools",
-        "id": 5784,
-        "version": "1.0.0",
-        "english": "net",
-        "englishEurope": "net",
-        "german": "Kescher",
-        "spanish": "red",
-        "spanishUs": "red",
-        "french": "filet",
-        "frenchUs": "filet",
-        "italian": "retino",
-        "dutch": "net",
-        "chinese": "捕虫网",
-        "chineseTraditional": "捕蟲網",
-        "japanese": "あみ",
-        "korean": "잠자리채",
-        "russian": "сачок",
-        "plural": false
-      },
       "gold nugget": {
         "sourceSheet": "Craft",
         "id": 2505,
@@ -21850,6 +21830,26 @@
         "japanese": "きんこうせき",
         "korean": "금광석",
         "russian": "золотой самородок",
+        "plural": false
+      },
+      "net": {
+        "sourceSheet": "Tools",
+        "id": 5784,
+        "version": "1.0.0",
+        "english": "net",
+        "englishEurope": "net",
+        "german": "Kescher",
+        "spanish": "red",
+        "spanishUs": "red",
+        "french": "filet",
+        "frenchUs": "filet",
+        "italian": "retino",
+        "dutch": "net",
+        "chinese": "捕虫网",
+        "chineseTraditional": "捕蟲網",
+        "japanese": "あみ",
+        "korean": "잠자리채",
+        "russian": "сачок",
         "plural": false
       }
     }
@@ -21898,28 +21898,8 @@
       "russian": "золотая удочка",
       "plural": false
     },
-    "materials": { "fishing rod": 1, "gold nugget": 1 },
+    "materials": { "gold nugget": 1, "fishing rod": 1 },
     "materialsTranslations": {
-      "fishing rod": {
-        "sourceSheet": "Tools",
-        "id": 2377,
-        "version": "1.0.0",
-        "english": "fishing rod",
-        "englishEurope": "fishing rod",
-        "german": "Angel",
-        "spanish": "caña",
-        "spanishUs": "caña",
-        "french": "canne à pêche",
-        "frenchUs": "canne à pêche",
-        "italian": "canna da pesca",
-        "dutch": "hengel",
-        "chinese": "钓竿",
-        "chineseTraditional": "釣竿",
-        "japanese": "つりざお",
-        "korean": "낚싯대",
-        "russian": "удочка",
-        "plural": false
-      },
       "gold nugget": {
         "sourceSheet": "Craft",
         "id": 2505,
@@ -21938,6 +21918,26 @@
         "japanese": "きんこうせき",
         "korean": "금광석",
         "russian": "золотой самородок",
+        "plural": false
+      },
+      "fishing rod": {
+        "sourceSheet": "Tools",
+        "id": 2377,
+        "version": "1.0.0",
+        "english": "fishing rod",
+        "englishEurope": "fishing rod",
+        "german": "Angel",
+        "spanish": "caña",
+        "spanishUs": "caña",
+        "french": "canne à pêche",
+        "frenchUs": "canne à pêche",
+        "italian": "canna da pesca",
+        "dutch": "hengel",
+        "chinese": "钓竿",
+        "chineseTraditional": "釣竿",
+        "japanese": "つりざお",
+        "korean": "낚싯대",
+        "russian": "удочка",
         "plural": false
       }
     }
@@ -22054,28 +22054,8 @@
       "russian": "золотая лопата",
       "plural": false
     },
-    "materials": { "shovel": 1, "gold nugget": 1 },
+    "materials": { "gold nugget": 1, "shovel": 1 },
     "materialsTranslations": {
-      "shovel": {
-        "sourceSheet": "Tools",
-        "id": 2099,
-        "version": "1.0.0",
-        "english": "shovel",
-        "englishEurope": "shovel",
-        "german": "Schaufel",
-        "spanish": "pala",
-        "spanishUs": "pala",
-        "french": "pelle",
-        "frenchUs": "pelle",
-        "italian": "pala",
-        "dutch": "schep",
-        "chinese": "铲子",
-        "chineseTraditional": "鏟子",
-        "japanese": "スコップ",
-        "korean": "삽",
-        "russian": "лопата",
-        "plural": false
-      },
       "gold nugget": {
         "sourceSheet": "Craft",
         "id": 2505,
@@ -22094,6 +22074,26 @@
         "japanese": "きんこうせき",
         "korean": "금광석",
         "russian": "золотой самородок",
+        "plural": false
+      },
+      "shovel": {
+        "sourceSheet": "Tools",
+        "id": 2099,
+        "version": "1.0.0",
+        "english": "shovel",
+        "englishEurope": "shovel",
+        "german": "Schaufel",
+        "spanish": "pala",
+        "spanishUs": "pala",
+        "french": "pelle",
+        "frenchUs": "pelle",
+        "italian": "pala",
+        "dutch": "schep",
+        "chinese": "铲子",
+        "chineseTraditional": "鏟子",
+        "japanese": "スコップ",
+        "korean": "삽",
+        "russian": "лопата",
         "plural": false
       }
     }
@@ -22142,28 +22142,8 @@
       "russian": "золотая рогатка",
       "plural": false
     },
-    "materials": { "slingshot": 1, "gold nugget": 1 },
+    "materials": { "gold nugget": 1, "slingshot": 1 },
     "materialsTranslations": {
-      "slingshot": {
-        "sourceSheet": "Tools",
-        "id": 2822,
-        "version": "1.0.0",
-        "english": "slingshot",
-        "englishEurope": "slingshot",
-        "german": "Schleuder",
-        "spanish": "tirachinas",
-        "spanishUs": "resortera",
-        "french": "lance-pierre",
-        "frenchUs": "lance-pierre",
-        "italian": "fionda",
-        "dutch": "katapult",
-        "chinese": "弹弓",
-        "chineseTraditional": "彈弓",
-        "japanese": "パチンコ",
-        "korean": "새총",
-        "russian": "рогатка",
-        "plural": false
-      },
       "gold nugget": {
         "sourceSheet": "Craft",
         "id": 2505,
@@ -22182,6 +22162,26 @@
         "japanese": "きんこうせき",
         "korean": "금광석",
         "russian": "золотой самородок",
+        "plural": false
+      },
+      "slingshot": {
+        "sourceSheet": "Tools",
+        "id": 2822,
+        "version": "1.0.0",
+        "english": "slingshot",
+        "englishEurope": "slingshot",
+        "german": "Schleuder",
+        "spanish": "tirachinas",
+        "spanishUs": "resortera",
+        "french": "lance-pierre",
+        "frenchUs": "lance-pierre",
+        "italian": "fionda",
+        "dutch": "katapult",
+        "chinese": "弹弓",
+        "chineseTraditional": "彈弓",
+        "japanese": "パチンコ",
+        "korean": "새총",
+        "russian": "рогатка",
         "plural": false
       }
     }
@@ -22454,28 +22454,8 @@
       "russian": "золотая лейка",
       "plural": false
     },
-    "materials": { "watering can": 1, "gold nugget": 1 },
+    "materials": { "gold nugget": 1, "watering can": 1 },
     "materialsTranslations": {
-      "watering can": {
-        "sourceSheet": "Tools",
-        "id": 2379,
-        "version": "1.0.0",
-        "english": "watering can",
-        "englishEurope": "watering can",
-        "german": "Gießkanne",
-        "spanish": "regadera",
-        "spanishUs": "regadera",
-        "french": "arrosoir",
-        "frenchUs": "arrosoir",
-        "italian": "annaffiatoio",
-        "dutch": "gieter",
-        "chinese": "浇花壶",
-        "chineseTraditional": "澆花壺",
-        "japanese": "ジョウロ",
-        "korean": "물뿌리개",
-        "russian": "лейка",
-        "plural": false
-      },
       "gold nugget": {
         "sourceSheet": "Craft",
         "id": 2505,
@@ -22494,6 +22474,26 @@
         "japanese": "きんこうせき",
         "korean": "금광석",
         "russian": "золотой самородок",
+        "plural": false
+      },
+      "watering can": {
+        "sourceSheet": "Tools",
+        "id": 2379,
+        "version": "1.0.0",
+        "english": "watering can",
+        "englishEurope": "watering can",
+        "german": "Gießkanne",
+        "spanish": "regadera",
+        "spanishUs": "regadera",
+        "french": "arrosoir",
+        "frenchUs": "arrosoir",
+        "italian": "annaffiatoio",
+        "dutch": "gieter",
+        "chinese": "浇花壶",
+        "chineseTraditional": "澆花壺",
+        "japanese": "ジョウロ",
+        "korean": "물뿌리개",
+        "russian": "лейка",
         "plural": false
       }
     }
@@ -24728,52 +24728,12 @@
       "plural": false
     },
     "materials": {
-      "gold ornament": 6,
-      "iron nugget": 6,
       "red ornament": 8,
-      "blue ornament": 8
+      "blue ornament": 8,
+      "gold ornament": 6,
+      "iron nugget": 6
     },
     "materialsTranslations": {
-      "gold ornament": {
-        "sourceSheet": "Craft",
-        "id": 5732,
-        "version": "1.0.0",
-        "english": "gold ornament",
-        "englishEurope": "gold ornament",
-        "german": "Goldschmuck",
-        "spanish": "adorno dorado",
-        "spanishUs": "adorno dorado",
-        "french": "boule dorée",
-        "frenchUs": "boule dorée",
-        "italian": "decorazione dorata",
-        "dutch": "gouden versiering",
-        "chinese": "金色装饰品",
-        "chineseTraditional": "金色裝飾品",
-        "japanese": "きんのオーナメント",
-        "korean": "금 오너먼트",
-        "russian": "золотое украшение",
-        "plural": false
-      },
-      "iron nugget": {
-        "sourceSheet": "Craft",
-        "id": 2511,
-        "version": "1.0.0",
-        "english": "iron nugget",
-        "englishEurope": "iron nugget",
-        "german": "Eisenerz",
-        "spanish": "pepita de hierro",
-        "spanishUs": "pepita de hierro",
-        "french": "pépite de fer",
-        "frenchUs": "pépite de fer",
-        "italian": "minerale di ferro",
-        "dutch": "ijzerklompje",
-        "chinese": "铁矿石",
-        "chineseTraditional": "鐵礦石",
-        "japanese": "てっこうせき",
-        "korean": "철광석",
-        "russian": "железный самородок",
-        "plural": false
-      },
       "red ornament": {
         "sourceSheet": "Craft",
         "id": 5730,
@@ -24812,6 +24772,46 @@
         "japanese": "あおいオーナメント",
         "korean": "파란 오너먼트",
         "russian": "синее украшение",
+        "plural": false
+      },
+      "gold ornament": {
+        "sourceSheet": "Craft",
+        "id": 5732,
+        "version": "1.0.0",
+        "english": "gold ornament",
+        "englishEurope": "gold ornament",
+        "german": "Goldschmuck",
+        "spanish": "adorno dorado",
+        "spanishUs": "adorno dorado",
+        "french": "boule dorée",
+        "frenchUs": "boule dorée",
+        "italian": "decorazione dorata",
+        "dutch": "gouden versiering",
+        "chinese": "金色装饰品",
+        "chineseTraditional": "金色裝飾品",
+        "japanese": "きんのオーナメント",
+        "korean": "금 오너먼트",
+        "russian": "золотое украшение",
+        "plural": false
+      },
+      "iron nugget": {
+        "sourceSheet": "Craft",
+        "id": 2511,
+        "version": "1.0.0",
+        "english": "iron nugget",
+        "englishEurope": "iron nugget",
+        "german": "Eisenerz",
+        "spanish": "pepita de hierro",
+        "spanishUs": "pepita de hierro",
+        "french": "pépite de fer",
+        "frenchUs": "pépite de fer",
+        "italian": "minerale di ferro",
+        "dutch": "ijzerklompje",
+        "chinese": "铁矿石",
+        "chineseTraditional": "鐵礦石",
+        "japanese": "てっこうせき",
+        "korean": "철광석",
+        "russian": "железный самородок",
         "plural": false
       }
     }
@@ -45614,7 +45614,7 @@
       "spanish": "set de faroles calabaza",
       "spanishUs": "set de faroles calabaza",
       "french": "set de lanternes Halloween",
-      "frenchUs": "lanternes frisson",
+      "frenchUs": "ensemble lanternes frisson",
       "italian": "set di lanterne brividi",
       "dutch": "pompoenlantaarns",
       "chinese": "万圣节灯笼组合",

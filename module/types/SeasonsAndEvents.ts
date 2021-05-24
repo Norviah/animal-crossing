@@ -2,29 +2,18 @@ export interface SeasonsAndEvents {
     sourceSheet:             SeasonsAndEventSourceSheet;
     name:                    string;
     type:                    Type;
-    versionAdded:            Version;
+    versionAdded:            string;
     versionLastUpdated:      Version;
     year:                    YearEnum | number | null;
     datesNorthernHemisphere: null | string;
     datesSouthernHemisphere: null | string;
-    availability:            Availability;
-    northernHemisphereDates: string[] | null;
-    southernHemisphereDates: string[] | null;
-    "2020Dates":             string[] | null;
-    "2021Dates":             string[] | null;
     displayName:             string;
+    eventNotes:              null | string;
     internalLabel:           string[] | null;
     unlockDate:              string;
     unlockMethod:            boolean | UnlockMethodEnum;
     uniqueEntryId:           string;
     translations:            Translations | null;
-}
-
-export enum Availability {
-    EveryYear = "Every year",
-    SpecificYears = "Specific years",
-    SpecificYearsNHOnly = "Specific years (NH only)",
-    SpecificYearsSHOnly = "Specific years (SH only)",
 }
 
 export enum SeasonsAndEventSourceSheet {
@@ -63,8 +52,8 @@ export enum TranslationsSourceSheet {
 export enum Version {
     The100 = "1.0.0",
     The110 = "1.1.0",
+    The1100 = "1.10.0",
     The120 = "1.2.0",
-    The130 = "1.3.0",
     The140 = "1.4.0",
     The150 = "1.5.0",
     The160 = "1.6.0",

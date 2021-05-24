@@ -1369,6 +1369,25 @@
   },
   {
     "SourceSheet": "Caps",
+    "id": 668,
+    "Version": "1.10.0",
+    "English": "newsprint helmet",
+    "English (Europe)": "newsprint helmet",
+    "German": "Papierhut",
+    "Spanish": "gorro de papel",
+    "Spanish (US)": "gorro de papel",
+    "French": "casque en papier",
+    "French (US)": "casque en papier",
+    "Italian": "elmo di carta",
+    "Dutch": "hoedje van papier",
+    "Chinese": "报纸头盔",
+    "Chinese (Traditional)": "報紙頭盔",
+    "Japanese": "しんぶんしのかぶと",
+    "Korean": "신문지 투구",
+    "Russian": "шлем из газеты"
+  },
+  {
+    "SourceSheet": "Caps",
     "id": 669,
     "Version": "1.0.0",
     "English": "terry-cloth do-rag",
@@ -3247,5 +3266,24 @@
     "Japanese": "プロムなティアラ",
     "Korean": "프롬 티아라",
     "Russian": "тиара к выпускному"
+  },
+  {
+    "SourceSheet": "Caps",
+    "id": 1375,
+    "Version": "1.10.0",
+    "English": "Phrygian cap",
+    "English (Europe)": "Phrygian cap",
+    "German": "Phryger-Mütze",
+    "Spanish": "gorro frigio",
+    "Spanish (US)": "gorro frigio",
+    "French": "bonnet phrygien",
+    "French (US)": "bonnet phrygien",
+    "Italian": "berretto frigio",
+    "Dutch": "Frygische muts",
+    "Chinese": "弗里吉亚帽",
+    "Chinese (Traditional)": "佛里幾亞無邊便帽",
+    "Japanese": "フリジアぼう",
+    "Korean": "프리지아 모자",
+    "Russian": "фригийский колпак"
   }
 ]
