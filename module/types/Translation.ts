@@ -90,6 +90,7 @@ export enum SourceSheet {
 export enum Version {
     The100 = "1.0.0",
     The110 = "1.1.0",
+    The1100 = "1.10.0",
     The120 = "1.2.0",
     The130 = "1.3.0",
     The140 = "1.4.0",

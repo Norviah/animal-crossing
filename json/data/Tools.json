@@ -279,7 +279,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 100,
+    "uses": "100",
     "stackSize": 1,
     "buy": 2500,
     "sell": 625,
@@ -288,7 +288,7 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Nook's Cranny", "Crafting" ],
+    "source": [ "Crafting", "Nook's Cranny" ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
@@ -529,13 +529,13 @@
   {
     "sourceSheet": "Tools",
     "name": "bean-tossing kit",
-    "image": "https://acnhapi.com/latest/FtrIcon/ToolSoy0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/ToolSoy0.png",
     "variation": null,
     "bodyTitle": null,
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": null,
+    "uses": -1,
     "stackSize": 1,
     "buy": 800,
     "sell": 200,
@@ -640,7 +640,7 @@
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": 1,
+    "uses": "1",
     "stackSize": 10,
     "buy": 600,
     "sell": 150,
@@ -694,7 +694,7 @@
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": 1,
+    "uses": "1",
     "stackSize": 10,
     "buy": 150,
     "sell": 37,
@@ -948,7 +948,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_0_0.png",
         "variation": "Yellow",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -979,7 +979,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_1_0.png",
         "variation": "Orange",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1010,7 +1010,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_2_0.png",
         "variation": "Light blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1041,7 +1041,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_3_0.png",
         "variation": "Pink",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1072,7 +1072,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_4_0.png",
         "variation": "Green",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1103,7 +1103,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_5_0.png",
         "variation": "Purple",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1134,7 +1134,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_6_0.png",
         "variation": "White",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1165,7 +1165,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_7_0.png",
         "variation": "Gray",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1236,7 +1236,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_0_0.png",
         "variation": "Yellow & orange",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1252,7 +1252,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_1_0.png",
         "variation": "Red & yellow",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1283,7 +1283,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_2_0.png",
         "variation": "Orange & blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1299,7 +1299,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_3_0.png",
         "variation": "Pink & yellow",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1330,7 +1330,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_4_0.png",
         "variation": "Green & blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1361,7 +1361,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_5_0.png",
         "variation": "Purple & pink",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1392,7 +1392,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_6_0.png",
         "variation": "White & blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1423,7 +1423,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_7_0.png",
         "variation": "Gray & green",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1479,7 +1479,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_0_0.png",
         "variation": "Yellow",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1510,7 +1510,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_1_0.png",
         "variation": "Red",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1541,7 +1541,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_2_0.png",
         "variation": "Blue",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1572,7 +1572,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_3_0.png",
         "variation": "Pink",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1603,7 +1603,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_4_0.png",
         "variation": "Green",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1634,7 +1634,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_5_0.png",
         "variation": "Purple",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1665,7 +1665,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_6_0.png",
         "variation": "White",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1696,7 +1696,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_7_0.png",
         "variation": "Black",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1767,7 +1767,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_0_0.png",
         "variation": "Yellow",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1798,7 +1798,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_1_0.png",
         "variation": "Red",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1829,7 +1829,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_2_0.png",
         "variation": "Blue",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1860,7 +1860,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_3_0.png",
         "variation": "Pink",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1891,7 +1891,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_4_0.png",
         "variation": "Green",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1922,7 +1922,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_5_0.png",
         "variation": "Purple",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1953,7 +1953,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_6_0.png",
         "variation": "White",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1984,7 +1984,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_7_0.png",
         "variation": "Black",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2055,7 +2055,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_0_0.png",
         "variation": "Yellow",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2086,7 +2086,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_1_0.png",
         "variation": "Red",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2117,7 +2117,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_2_0.png",
         "variation": "Blue",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2148,7 +2148,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_3_0.png",
         "variation": "Pink",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2179,7 +2179,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_4_0.png",
         "variation": "Green",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2210,7 +2210,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_5_0.png",
         "variation": "Purple",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2241,7 +2241,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_6_0.png",
         "variation": "White",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2272,7 +2272,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_7_0.png",
         "variation": "Black",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2461,7 +2461,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_0_0.png",
         "variation": "Gray",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2492,7 +2492,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_1_0.png",
         "variation": "Green",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2523,7 +2523,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_2_0.png",
         "variation": "Blue",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2554,7 +2554,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_3_0.png",
         "variation": "Pink",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2585,7 +2585,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_4_0.png",
         "variation": "Red",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2616,7 +2616,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_5_0.png",
         "variation": "Yellow",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2647,7 +2647,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_6_0.png",
         "variation": "Light blue",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2678,7 +2678,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_7_0.png",
         "variation": "Black",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2712,13 +2712,13 @@
   {
     "sourceSheet": "Tools",
     "name": "fiery cheer megaphone",
-    "image": "https://acnhapi.com/latest/FtrIcon/ToolMegaphone1.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/ToolMegaphone1.png",
     "variation": null,
     "bodyTitle": null,
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": null,
+    "uses": -1,
     "stackSize": 1,
     "buy": 1500,
     "sell": 375,
@@ -2800,7 +2800,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_0_0.png",
         "variation": "Green",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2831,7 +2831,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_1_0.png",
         "variation": "Yellow",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2862,7 +2862,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_2_0.png",
         "variation": "Orange",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2893,7 +2893,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_3_0.png",
         "variation": "Light blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2924,7 +2924,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_4_0.png",
         "variation": "Blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2955,7 +2955,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_5_0.png",
         "variation": "Purple",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2986,7 +2986,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_6_0.png",
         "variation": "Pink",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3017,7 +3017,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_7_0.png",
         "variation": "Red",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3139,7 +3139,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_0_0.png",
         "variation": "Blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3170,7 +3170,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_1_0.png",
         "variation": "Yellow",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3201,7 +3201,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_2_0.png",
         "variation": "Green",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3232,7 +3232,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_3_0.png",
         "variation": "Red",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3263,7 +3263,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_4_0.png",
         "variation": "Purple",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3294,7 +3294,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_5_0.png",
         "variation": "Pink",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3325,7 +3325,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_6_0.png",
         "variation": "White",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3356,7 +3356,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_7_0.png",
         "variation": "Black",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3463,7 +3463,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 40,
+    "uses": "40",
     "stackSize": 1,
     "buy": 800,
     "sell": 200,
@@ -3472,7 +3472,7 @@
     "set": null,
     "exchangePrice": 100,
     "exchangeCurrency": "Nook Miles",
-    "source": [ "Nook's Cranny", "Crafting", "Wilbur" ],
+    "source": [ "Crafting", "Nook's Cranny", "Wilbur" ],
     "sourceNotes": [ "Available after unlocking the axe in the story" ],
     "seasonEvent": null,
     "seasonEventExclusive": null,
@@ -3583,7 +3583,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 9.5,
+    "uses": "5-10",
     "stackSize": 1,
     "buy": 400,
     "sell": 100,
@@ -3592,7 +3592,7 @@
     "set": null,
     "exchangePrice": 100,
     "exchangeCurrency": "Nook Miles",
-    "source": [ "Nook's Cranny", "Crafting", "Wilbur" ],
+    "source": [ "Crafting", "Nook's Cranny", "Wilbur" ],
     "sourceNotes": [
       "Available in all tiers of shops, including Timmy & Tommy before the shop is opened"
     ],
@@ -3685,7 +3685,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 10,
+    "uses": "10",
     "stackSize": 1,
     "buy": 400,
     "sell": 100,
@@ -3694,7 +3694,7 @@
     "set": null,
     "exchangePrice": 100,
     "exchangeCurrency": "Nook Miles",
-    "source": [ "Nook's Cranny", "Crafting", "Wilbur" ],
+    "source": [ "Crafting", "Nook's Cranny", "Wilbur" ],
     "sourceNotes": [
       "Available in all tiers of shops, including Timmy & Tommy before the shop is opened"
     ],
@@ -3787,7 +3787,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 40,
+    "uses": "40",
     "stackSize": 1,
     "buy": 800,
     "sell": 200,
@@ -3796,7 +3796,7 @@
     "set": null,
     "exchangePrice": 100,
     "exchangeCurrency": "Nook Miles",
-    "source": [ "Nook's Cranny", "Crafting", "Wilbur" ],
+    "source": [ "Crafting", "Nook's Cranny", "Wilbur" ],
     "sourceNotes": [ "Available after unlocking the shovel in the story" ],
     "seasonEvent": null,
     "seasonEventExclusive": null,
@@ -3885,7 +3885,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 20,
+    "uses": "20",
     "stackSize": 1,
     "buy": 800,
     "sell": 200,
@@ -3894,7 +3894,7 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Nook's Cranny", "Crafting" ],
+    "source": [ "Crafting", "Nook's Cranny" ],
     "sourceNotes": [
       "Available in all tiers of shops, including Timmy & Tommy before the shop is opened"
     ],
@@ -3978,14 +3978,65 @@
   },
   {
     "sourceSheet": "Tools",
-    "name": "football cheer megaphone",
-    "image": "https://acnhapi.com/latest/FtrIcon/ToolMegaphone0.png",
+    "name": "flower-petal basket",
+    "image": "https://acnhcdn.com/latest/FtrIcon/ToolFlowershower.png",
     "variation": null,
     "bodyTitle": null,
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": null,
+    "uses": -1,
+    "stackSize": 1,
+    "buy": 1200,
+    "sell": 300,
+    "hhaBasePoints": 201,
+    "size": "1x1",
+    "set": null,
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook Shopping Seasonal" ],
+    "sourceNotes": null,
+    "seasonEvent": "Wedding Season (Nook Shopping 1)",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.10.0",
+    "unlocked": false,
+    "filename": "ToolFlowershower",
+    "variantId": null,
+    "internalId": 14284,
+    "uniqueEntryId": "metLc5Y6NSKEzRGM6",
+    "translations": {
+      "sourceSheet": "ETC",
+      "id": 14284,
+      "version": "1.10.0",
+      "english": "flower-petal basket",
+      "englishEurope": "flower-petal basket",
+      "german": "Blütenblätterkörbchen",
+      "spanish": "cesta con pétalos",
+      "spanishUs": "cesta con pétalos",
+      "french": "panier de pétales",
+      "frenchUs": "panier de pétales",
+      "italian": "cesta con petali",
+      "dutch": "mand vol bloemblaadjes",
+      "chinese": "花瓣篮",
+      "chineseTraditional": "花瓣籃",
+      "japanese": "フラワーシャワー",
+      "korean": "플라워 샤워",
+      "russian": "корзинка с лепестками",
+      "plural": false
+    },
+    "colors": [ "Brown", "Pink" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Tools",
+    "name": "football cheer megaphone",
+    "image": "https://acnhcdn.com/latest/FtrIcon/ToolMegaphone0.png",
+    "variation": null,
+    "bodyTitle": null,
+    "diy": false,
+    "customize": false,
+    "kitCost": null,
+    "uses": -1,
     "stackSize": 1,
     "buy": 1500,
     "sell": 375,
@@ -4030,13 +4081,13 @@
   {
     "sourceSheet": "Tools",
     "name": "glittery cheer megaphone",
-    "image": "https://acnhapi.com/latest/FtrIcon/ToolMegaphone3.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/ToolMegaphone3.png",
     "variation": null,
     "bodyTitle": null,
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": null,
+    "uses": -1,
     "stackSize": 1,
     "buy": 1500,
     "sell": 375,
@@ -4087,7 +4138,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 200,
+    "uses": "200",
     "stackSize": 1,
     "buy": -1,
     "sell": 10655,
@@ -4151,28 +4202,8 @@
       "serialId": 112,
       "internalId": 663,
       "uniqueEntryId": "M67DJhFjbWusf3xXk",
-      "materials": { "axe": 1, "gold nugget": 1 },
+      "materials": { "gold nugget": 1, "axe": 1 },
       "materialsTranslations": {
-        "axe": {
-          "sourceSheet": "Tools",
-          "id": 2100,
-          "version": "1.0.0",
-          "english": "axe",
-          "englishEurope": "axe",
-          "german": "Axt",
-          "spanish": "hacha",
-          "spanishUs": "hacha",
-          "french": "hache",
-          "frenchUs": "hache",
-          "italian": "ascia",
-          "dutch": "bijl",
-          "chinese": "斧头",
-          "chineseTraditional": "斧頭",
-          "japanese": "オノ",
-          "korean": "도끼",
-          "russian": "топор",
-          "plural": false
-        },
         "gold nugget": {
           "sourceSheet": "Craft",
           "id": 2505,
@@ -4192,6 +4223,26 @@
           "korean": "금광석",
           "russian": "золотой самородок",
           "plural": false
+        },
+        "axe": {
+          "sourceSheet": "Tools",
+          "id": 2100,
+          "version": "1.0.0",
+          "english": "axe",
+          "englishEurope": "axe",
+          "german": "Axt",
+          "spanish": "hacha",
+          "spanishUs": "hacha",
+          "french": "hache",
+          "frenchUs": "hache",
+          "italian": "ascia",
+          "dutch": "bijl",
+          "chinese": "斧头",
+          "chineseTraditional": "斧頭",
+          "japanese": "オノ",
+          "korean": "도끼",
+          "russian": "топор",
+          "plural": false
         }
       }
     }
@@ -4205,7 +4256,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 90,
+    "uses": "90",
     "stackSize": 1,
     "buy": -1,
     "sell": 10400,
@@ -4269,28 +4320,8 @@
       "serialId": 115,
       "internalId": 658,
       "uniqueEntryId": "cnQ4qLNgFDK7F4NQJ",
-      "materials": { "net": 1, "gold nugget": 1 },
+      "materials": { "gold nugget": 1, "net": 1 },
       "materialsTranslations": {
-        "net": {
-          "sourceSheet": "Tools",
-          "id": 5784,
-          "version": "1.0.0",
-          "english": "net",
-          "englishEurope": "net",
-          "german": "Kescher",
-          "spanish": "red",
-          "spanishUs": "red",
-          "french": "filet",
-          "frenchUs": "filet",
-          "italian": "retino",
-          "dutch": "net",
-          "chinese": "捕虫网",
-          "chineseTraditional": "捕蟲網",
-          "japanese": "あみ",
-          "korean": "잠자리채",
-          "russian": "сачок",
-          "plural": false
-        },
         "gold nugget": {
           "sourceSheet": "Craft",
           "id": 2505,
@@ -4310,6 +4341,26 @@
           "korean": "금광석",
           "russian": "золотой самородок",
           "plural": false
+        },
+        "net": {
+          "sourceSheet": "Tools",
+          "id": 5784,
+          "version": "1.0.0",
+          "english": "net",
+          "englishEurope": "net",
+          "german": "Kescher",
+          "spanish": "red",
+          "spanishUs": "red",
+          "french": "filet",
+          "frenchUs": "filet",
+          "italian": "retino",
+          "dutch": "net",
+          "chinese": "捕虫网",
+          "chineseTraditional": "捕蟲網",
+          "japanese": "あみ",
+          "korean": "잠자리채",
+          "russian": "сачок",
+          "plural": false
         }
       }
     }
@@ -4323,7 +4374,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 90,
+    "uses": "90",
     "stackSize": 1,
     "buy": -1,
     "sell": 10400,
@@ -4387,28 +4438,8 @@
       "serialId": 114,
       "internalId": 662,
       "uniqueEntryId": "FTWgTtoCgm3jNGhM4",
-      "materials": { "fishing rod": 1, "gold nugget": 1 },
+      "materials": { "gold nugget": 1, "fishing rod": 1 },
       "materialsTranslations": {
-        "fishing rod": {
-          "sourceSheet": "Tools",
-          "id": 2377,
-          "version": "1.0.0",
-          "english": "fishing rod",
-          "englishEurope": "fishing rod",
-          "german": "Angel",
-          "spanish": "caña",
-          "spanishUs": "caña",
-          "french": "canne à pêche",
-          "frenchUs": "canne à pêche",
-          "italian": "canna da pesca",
-          "dutch": "hengel",
-          "chinese": "钓竿",
-          "chineseTraditional": "釣竿",
-          "japanese": "つりざお",
-          "korean": "낚싯대",
-          "russian": "удочка",
-          "plural": false
-        },
         "gold nugget": {
           "sourceSheet": "Craft",
           "id": 2505,
@@ -4428,6 +4459,26 @@
           "korean": "금광석",
           "russian": "золотой самородок",
           "plural": false
+        },
+        "fishing rod": {
+          "sourceSheet": "Tools",
+          "id": 2377,
+          "version": "1.0.0",
+          "english": "fishing rod",
+          "englishEurope": "fishing rod",
+          "german": "Angel",
+          "spanish": "caña",
+          "spanishUs": "caña",
+          "french": "canne à pêche",
+          "frenchUs": "canne à pêche",
+          "italian": "canna da pesca",
+          "dutch": "hengel",
+          "chinese": "钓竿",
+          "chineseTraditional": "釣竿",
+          "japanese": "つりざお",
+          "korean": "낚싯대",
+          "russian": "удочка",
+          "plural": false
         }
       }
     }
@@ -4441,7 +4492,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 200,
+    "uses": "200",
     "stackSize": 1,
     "buy": -1,
     "sell": 10675,
@@ -4505,28 +4556,8 @@
       "serialId": 113,
       "internalId": 660,
       "uniqueEntryId": "aEtPEYkwgj9BJ48Et",
-      "materials": { "shovel": 1, "gold nugget": 1 },
+      "materials": { "gold nugget": 1, "shovel": 1 },
       "materialsTranslations": {
-        "shovel": {
-          "sourceSheet": "Tools",
-          "id": 2099,
-          "version": "1.0.0",
-          "english": "shovel",
-          "englishEurope": "shovel",
-          "german": "Schaufel",
-          "spanish": "pala",
-          "spanishUs": "pala",
-          "french": "pelle",
-          "frenchUs": "pelle",
-          "italian": "pala",
-          "dutch": "schep",
-          "chinese": "铲子",
-          "chineseTraditional": "鏟子",
-          "japanese": "スコップ",
-          "korean": "삽",
-          "russian": "лопата",
-          "plural": false
-        },
         "gold nugget": {
           "sourceSheet": "Craft",
           "id": 2505,
@@ -4546,6 +4577,26 @@
           "korean": "금광석",
           "russian": "золотой самородок",
           "plural": false
+        },
+        "shovel": {
+          "sourceSheet": "Tools",
+          "id": 2099,
+          "version": "1.0.0",
+          "english": "shovel",
+          "englishEurope": "shovel",
+          "german": "Schaufel",
+          "spanish": "pala",
+          "spanishUs": "pala",
+          "french": "pelle",
+          "frenchUs": "pelle",
+          "italian": "pala",
+          "dutch": "schep",
+          "chinese": "铲子",
+          "chineseTraditional": "鏟子",
+          "japanese": "スコップ",
+          "korean": "삽",
+          "russian": "лопата",
+          "plural": false
         }
       }
     }
@@ -4559,7 +4610,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 60,
+    "uses": "60",
     "stackSize": 1,
     "buy": -1,
     "sell": 10300,
@@ -4623,28 +4674,8 @@
       "serialId": 117,
       "internalId": 661,
       "uniqueEntryId": "W7WY5fpjB4Lc36YYs",
-      "materials": { "slingshot": 1, "gold nugget": 1 },
+      "materials": { "gold nugget": 1, "slingshot": 1 },
       "materialsTranslations": {
-        "slingshot": {
-          "sourceSheet": "Tools",
-          "id": 2822,
-          "version": "1.0.0",
-          "english": "slingshot",
-          "englishEurope": "slingshot",
-          "german": "Schleuder",
-          "spanish": "tirachinas",
-          "spanishUs": "resortera",
-          "french": "lance-pierre",
-          "frenchUs": "lance-pierre",
-          "italian": "fionda",
-          "dutch": "katapult",
-          "chinese": "弹弓",
-          "chineseTraditional": "彈弓",
-          "japanese": "パチンコ",
-          "korean": "새총",
-          "russian": "рогатка",
-          "plural": false
-        },
         "gold nugget": {
           "sourceSheet": "Craft",
           "id": 2505,
@@ -4663,6 +4694,26 @@
           "japanese": "きんこうせき",
           "korean": "금광석",
           "russian": "золотой самородок",
+          "plural": false
+        },
+        "slingshot": {
+          "sourceSheet": "Tools",
+          "id": 2822,
+          "version": "1.0.0",
+          "english": "slingshot",
+          "englishEurope": "slingshot",
+          "german": "Schleuder",
+          "spanish": "tirachinas",
+          "spanishUs": "resortera",
+          "french": "lance-pierre",
+          "frenchUs": "lance-pierre",
+          "italian": "fionda",
+          "dutch": "katapult",
+          "chinese": "弹弓",
+          "chineseTraditional": "彈弓",
+          "japanese": "パチンコ",
+          "korean": "새총",
+          "russian": "рогатка",
           "plural": false
         }
       }
@@ -4795,7 +4846,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 180,
+    "uses": "180",
     "stackSize": 1,
     "buy": -1,
     "sell": 10675,
@@ -4859,28 +4910,8 @@
       "serialId": 116,
       "internalId": 659,
       "uniqueEntryId": "HShnyCLB3cPL5xNTx",
-      "materials": { "watering can": 1, "gold nugget": 1 },
+      "materials": { "gold nugget": 1, "watering can": 1 },
       "materialsTranslations": {
-        "watering can": {
-          "sourceSheet": "Tools",
-          "id": 2379,
-          "version": "1.0.0",
-          "english": "watering can",
-          "englishEurope": "watering can",
-          "german": "Gießkanne",
-          "spanish": "regadera",
-          "spanishUs": "regadera",
-          "french": "arrosoir",
-          "frenchUs": "arrosoir",
-          "italian": "annaffiatoio",
-          "dutch": "gieter",
-          "chinese": "浇花壶",
-          "chineseTraditional": "澆花壺",
-          "japanese": "ジョウロ",
-          "korean": "물뿌리개",
-          "russian": "лейка",
-          "plural": false
-        },
         "gold nugget": {
           "sourceSheet": "Craft",
           "id": 2505,
@@ -4899,6 +4930,26 @@
           "japanese": "きんこうせき",
           "korean": "금광석",
           "russian": "золотой самородок",
+          "plural": false
+        },
+        "watering can": {
+          "sourceSheet": "Tools",
+          "id": 2379,
+          "version": "1.0.0",
+          "english": "watering can",
+          "englishEurope": "watering can",
+          "german": "Gießkanne",
+          "spanish": "regadera",
+          "spanishUs": "regadera",
+          "french": "arrosoir",
+          "frenchUs": "arrosoir",
+          "italian": "annaffiatoio",
+          "dutch": "gieter",
+          "chinese": "浇花壶",
+          "chineseTraditional": "澆花壺",
+          "japanese": "ジョウロ",
+          "korean": "물뿌리개",
+          "russian": "лейка",
           "plural": false
         }
       }
@@ -5632,9 +5683,9 @@
     "kitCost": null,
     "uses": -1,
     "stackSize": 1,
-    "buy": 888,
-    "sell": 222,
-    "hhaBasePoints": 0,
+    "buy": -1,
+    "sell": null,
+    "hhaBasePoints": 351,
     "size": "1x1",
     "set": null,
     "exchangePrice": null,
@@ -5645,7 +5696,7 @@
     "seasonEventExclusive": true,
     "versionAdded": "1.6.0",
     "unlocked": true,
-    "filename": "ToolBigbagPresent",
+    "filename": "SantaSack",
     "variantId": null,
     "internalId": 13836,
     "uniqueEntryId": "DANhu4XN2fNyNnCTz",
@@ -5675,13 +5726,13 @@
   {
     "sourceSheet": "Tools",
     "name": "maracas",
-    "image": "https://acnhapi.com/latest/FtrIcon/ToolMaracasCarnival.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/ToolMaracasCarnival.png",
     "variation": null,
     "bodyTitle": null,
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": null,
+    "uses": -1,
     "stackSize": 1,
     "buy": 2000,
     "sell": 500,
@@ -6109,14 +6160,12 @@
     "diy": true,
     "kitCost": 1,
     "size": "1x1",
-    "sourceNotes": [
-      "Available in all tiers of shops, including Timmy & Tommy before the shop is opened"
-    ],
+    "sourceNotes": null,
     "versionAdded": "1.0.0",
     "set": null,
     "bodyTitle": "Color",
-    "buy": 900,
-    "sell": 225,
+    "buy": -1,
+    "sell": 600,
     "customize": true,
     "translations": {
       "sourceSheet": "Tools",
@@ -6138,14 +6187,14 @@
       "russian": "сачок",
       "plural": false
     },
-    "source": [ "Nook's Cranny", "Crafting" ],
+    "source": [ "Crafting" ],
     "hhaBasePoints": 0,
     "unlocked": true,
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_0_0.png",
         "variation": "Red",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6176,7 +6225,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_1_0.png",
         "variation": "Yellow",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6207,7 +6256,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_2_0.png",
         "variation": "Green",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6238,7 +6287,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_3_0.png",
         "variation": "Blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6269,7 +6318,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_4_0.png",
         "variation": "Purple",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6300,7 +6349,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_5_0.png",
         "variation": "Pink",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6331,7 +6380,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_6_0.png",
         "variation": "White",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6362,7 +6411,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_7_0.png",
         "variation": "Black",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6598,7 +6647,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_0_0.png",
         "variation": "Avocado",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6629,7 +6678,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_1_0.png",
         "variation": "Orange",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6660,7 +6709,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_2_0.png",
         "variation": "Light blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6691,7 +6740,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_3_0.png",
         "variation": "Red",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6722,7 +6771,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_4_0.png",
         "variation": "Beige",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6753,7 +6802,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_5_0.png",
         "variation": "Pink",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6784,7 +6833,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_6_0.png",
         "variation": "Yellow",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6815,7 +6864,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_7_0.png",
         "variation": "Black",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6886,7 +6935,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_0_0.png",
         "variation": "Avocado",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6917,7 +6966,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_1_0.png",
         "variation": "Orange",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6948,7 +6997,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_2_0.png",
         "variation": "Light blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6979,7 +7028,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_3_0.png",
         "variation": "Red",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7010,7 +7059,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_4_0.png",
         "variation": "Beige",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7041,7 +7090,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_5_0.png",
         "variation": "Pink",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7072,7 +7121,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_6_0.png",
         "variation": "Yellow",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7103,7 +7152,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_7_0.png",
         "variation": "Black",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7174,7 +7223,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_0_0.png",
         "variation": "Avocado",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7205,7 +7254,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_1_0.png",
         "variation": "Orange",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7236,7 +7285,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_2_0.png",
         "variation": "Light blue",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7267,7 +7316,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_3_0.png",
         "variation": "Red",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7298,7 +7347,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_4_0.png",
         "variation": "Beige",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7329,7 +7378,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_5_0.png",
         "variation": "Pink",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7360,7 +7409,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_6_0.png",
         "variation": "Yellow",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7391,7 +7440,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_7_0.png",
         "variation": "Black",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7462,7 +7511,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_0_0.png",
         "variation": "Avocado",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7493,7 +7542,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_1_0.png",
         "variation": "Orange",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7524,7 +7573,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_2_0.png",
         "variation": "Light blue",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7555,7 +7604,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_3_0.png",
         "variation": "Red",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7586,7 +7635,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_4_0.png",
         "variation": "Beige",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7617,7 +7666,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_5_0.png",
         "variation": "Pink",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7648,7 +7697,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_6_0.png",
         "variation": "Yellow",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7679,7 +7728,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_7_0.png",
         "variation": "Black",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7750,7 +7799,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_0_0.png",
         "variation": "Avocado",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7781,7 +7830,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_1_0.png",
         "variation": "Orange",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7812,7 +7861,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_2_0.png",
         "variation": "Light blue",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7843,7 +7892,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_3_0.png",
         "variation": "Red",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7874,7 +7923,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_4_0.png",
         "variation": "Beige",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7905,7 +7954,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_5_0.png",
         "variation": "Pink",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7936,7 +7985,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_6_0.png",
         "variation": "Yellow",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7967,7 +8016,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_7_0.png",
         "variation": "Black",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8223,7 +8272,7 @@
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": 1,
+    "uses": "1",
     "stackSize": 10,
     "buy": 100,
     "sell": 25,
@@ -8416,7 +8465,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_0_0.png",
         "variation": "Light blue",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8447,7 +8496,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_1_0.png",
         "variation": "White",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8478,7 +8527,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_2_0.png",
         "variation": "Yellow",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8509,7 +8558,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_3_0.png",
         "variation": "Pink",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8540,7 +8589,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_4_0.png",
         "variation": "Green",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8571,7 +8620,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_5_0.png",
         "variation": "Blue",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8602,7 +8651,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_6_0.png",
         "variation": "Purple",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8633,7 +8682,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_7_0.png",
         "variation": "Black",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8727,7 +8776,7 @@
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": 1,
+    "uses": "1",
     "stackSize": 10,
     "buy": 600,
     "sell": 150,
@@ -8899,7 +8948,7 @@
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": null,
+    "uses": -1,
     "stackSize": 1,
     "buy": 1000,
     "sell": 250,
@@ -8950,7 +8999,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": null,
+    "uses": -1,
     "stackSize": 1,
     "buy": -1,
     "sell": 1560,
@@ -9217,7 +9266,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_0_0.png",
         "variation": "Red",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9248,7 +9297,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_1_0.png",
         "variation": "Yellow",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9279,7 +9328,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_2_0.png",
         "variation": "Green",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9310,7 +9359,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_3_0.png",
         "variation": "Blue",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9341,7 +9390,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_4_0.png",
         "variation": "Purple",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9372,7 +9421,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_5_0.png",
         "variation": "Pink",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9403,7 +9452,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_6_0.png",
         "variation": "White",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9434,7 +9483,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_7_0.png",
         "variation": "Black",
-        "uses": 100,
+        "uses": "100",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9567,14 +9616,14 @@
       "russian": "рогатка",
       "plural": false
     },
-    "source": [ "Nook's Cranny", "Crafting" ],
+    "source": [ "Crafting", "Nook's Cranny" ],
     "hhaBasePoints": 0,
     "unlocked": true,
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_0_0.png",
         "variation": "Red",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9605,7 +9654,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_1_0.png",
         "variation": "Yellow",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9636,7 +9685,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_2_0.png",
         "variation": "Green",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9667,7 +9716,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_3_0.png",
         "variation": "Blue",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9698,7 +9747,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_4_0.png",
         "variation": "Purple",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9729,7 +9778,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_5_0.png",
         "variation": "Pink",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9760,7 +9809,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_6_0.png",
         "variation": "White",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9791,7 +9840,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_7_0.png",
         "variation": "Gray",
-        "uses": 20,
+        "uses": "20",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9917,7 +9966,7 @@
       "russian": "игристый напиток",
       "plural": false
     },
-    "colors": [],
+    "colors": [ "Yellow", "Aqua" ],
     "recipe": null
   },
   {
@@ -9933,12 +9982,12 @@
     "stackSize": 1,
     "buy": -1,
     "sell": 4300,
-    "hhaBasePoints": 0,
+    "hhaBasePoints": 573,
     "size": "1x1",
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Crafting" ],
+    "source": [ "Crafting", "Jack" ],
     "sourceNotes": null,
     "seasonEvent": "Halloween",
     "seasonEventExclusive": true,
@@ -10078,7 +10127,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_0_0.png",
         "variation": "Yellow",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10109,7 +10158,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_1_0.png",
         "variation": "Red",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10140,7 +10189,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_2_0.png",
         "variation": "Blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10171,7 +10220,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_3_0.png",
         "variation": "Light green",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10202,7 +10251,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_4_0.png",
         "variation": "Pink",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10233,7 +10282,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_5_0.png",
         "variation": "Purple",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10264,7 +10313,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_6_0.png",
         "variation": "Light blue",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10295,7 +10344,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_7_0.png",
         "variation": "Green",
-        "uses": 30,
+        "uses": "30",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10447,13 +10496,13 @@
   {
     "sourceSheet": "Tools",
     "name": "starry cheer megaphone",
-    "image": "https://acnhapi.com/latest/FtrIcon/ToolMegaphone2.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/ToolMegaphone2.png",
     "variation": null,
     "bodyTitle": null,
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": null,
+    "uses": -1,
     "stackSize": 1,
     "buy": 1500,
     "sell": 375,
@@ -10504,7 +10553,7 @@
     "diy": true,
     "customize": false,
     "kitCost": null,
-    "uses": 100,
+    "uses": "100",
     "stackSize": 1,
     "buy": -1,
     "sell": 560,
@@ -11295,7 +11344,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_0_0.png",
         "variation": "Blue",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11326,7 +11375,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_1_0.png",
         "variation": "Orange",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11357,7 +11406,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_2_0.png",
         "variation": "Green",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11388,7 +11437,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_3_0.png",
         "variation": "Red",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11419,7 +11468,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_4_0.png",
         "variation": "Purple",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11450,7 +11499,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_5_0.png",
         "variation": "Pink",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11481,7 +11530,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_6_0.png",
         "variation": "White",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11512,7 +11561,7 @@
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_7_0.png",
         "variation": "Black",
-        "uses": 60,
+        "uses": "60",
         "stackSize": 1,
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11855,7 +11904,7 @@
     "diy": false,
     "customize": false,
     "kitCost": null,
-    "uses": 3,
+    "uses": "3",
     "stackSize": 1,
     "buy": -1,
     "sell": 10,

@@ -54,7 +54,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Active Island Resident",
-    "achievementDescription": "Life on the island has lots of promise, hm? To illustrate this, I'll reward you some Nook Miles based on the number of active days you've spent here. Please take them and enjoy them.",
+    "achievementDescription": "Life on the island has lots of promise, hm? To illustrate this, I'll award you some Nook Miles based on the number of active days you've spent here. Please take them and enjoy them.",
     "achievementCriteria": "Number of total unique days you've played the game",
     "num": "87",
     "internalId": "21",
@@ -294,7 +294,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Bugs Don't Bug Me",
-    "achievementDescription": "You can earn miles for filling out your Critterpedia! Can you find every bug and unlock every entry? Yes, yes, you can! And please consider supporting Blathers by donating bugs to the museum.",
+    "achievementDescription": "You can earn miles for filling out your Critterpedia! Can you find every bug and unlock every entry? Yes, yes, you can! And please do consider supporting Blathers by donating bugs to the museum.",
     "achievementCriteria": "Collect a specified number of unique bugs",
     "num": "6",
     "internalId": "4",
@@ -357,14 +357,14 @@
         "required": "1",
         "reward": "300",
         "nouns": [ "Influencer" ],
-        "modifier": "Rumermongering"
+        "modifier": "Rumormongering"
       }
     }
   },
   {
     "sourceSheet": "Achievements",
     "name": "Cast Master",
-    "achievementDescription": "Cast your line carefully if you want to reel in this reward - you'll need to nab a bunch of fish in a row without a single one getting away to earn these miles.",
+    "achievementDescription": "Cast your line carefully if you want to reel in this reward — you'll need to nab a bunch of fish in a row without a single one getting away to earn these miles.",
     "achievementCriteria": "Fish a specified number of fish in a single streak without any getting away",
     "num": "28",
     "internalId": "2",
@@ -516,7 +516,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Countdown Celebration",
-    "achievementDescription": "The only thing better than ringing in the new year is ringing in the new year with some Nook Miles! May you live to see many more-years and miles!",
+    "achievementDescription": "The only thing better than ringing in the new year is ringing in the new year with some Nook Miles! May you live to see many more — years and miles!",
     "achievementCriteria": "Awarded for attending the new year holiday event",
     "num": "78",
     "internalId": "48",
@@ -726,7 +726,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Dream House",
-    "achievementDescription": "A home that you build yourself gives you greater livability - it's on a whole other level! I'll give Nook Miles to those who build or expand their home to taste the good life.",
+    "achievementDescription": "A home that you build yourself gives you greater livability — it's on a whole other level! I'll give Nook Miles to those who build or expand their home to taste the good life.",
     "achievementCriteria": "Expand your home a specified number of times",
     "num": "29",
     "internalId": "82",
@@ -796,7 +796,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Exterior Decorator",
-    "achievementDescription": "You can display furniture outside, right? Well, here's a little incentive for you to show off what you've got - you'll earn Nook Miles based on the number of furniture items you set up outside.",
+    "achievementDescription": "You can display furniture outside, right? Well, here's a little incentive for you to show off what you've got — you'll earn Nook Miles based on the number of furniture items you set up outside.",
     "achievementCriteria": "Awarded the first time you place some furniture outside",
     "num": "65",
     "internalId": "64",
@@ -842,14 +842,14 @@
   {
     "sourceSheet": "Achievements",
     "name": "Faked Out!",
-    "achievementDescription": "Oh my. Did you get hoodwinked? That work of art you purchased turned out to be a forgery, and it stings. Your eye for art is being tested! Yes, yes! Please take some comfort in the miles I'm giving you.",
+    "achievementDescription": "Oh my. Did you get hoodwinked? That work of art you tried to donate turned out to be a forgery, and it stings. Your eye for art is being tested! Yes, yes! Please take some comfort in the miles I'm giving you.",
     "achievementCriteria": "Donated a fake piece of art",
     "num": "59",
     "internalId": "90",
     "internalName": "DonateFake",
     "internalCategory": "Negative",
     "numOfTiers": "1",
-    "sequential": false,
+    "sequential": true,
     "versionAdded": "1.2.0",
     "uniqueEntryId": "vakbzK5ihWAQR2aux",
     "translations": null,
@@ -865,7 +865,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "First Custom Design!",
-    "achievementDescription": "Learning how to use the Custom Design app lets you personalize your clothes and furniture. So much fun to be had, yes, yes!",
+    "achievementDescription": "Learning to use the Custom Design app lets you personalize your clothes and furniture. So much fun to be had, yes, yes!",
     "achievementCriteria": "Awarded the first time you use the Custom Design app to edit or create a design",
     "num": "80",
     "internalId": "35",
@@ -911,7 +911,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Fishing Tourney!",
-    "achievementDescription": "Please participate in the Fishing Tourney, which is held every spring, summer, fall, and winter! I'll give you nook miles as a reward the first time you participate each season.",
+    "achievementDescription": "Please participate in the Fishing Tourney, which is held every spring, summer, fall, and winter! I'll give you Nook Miles as a reward the first time you participate each season.",
     "achievementCriteria": "Awarded the first time you attend a fishing tourney in each season",
     "num": "76",
     "internalId": "41",
@@ -987,7 +987,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Flower Power",
-    "achievementDescription": "Planting flowers makes your island more beautiful and can earn you miles. So...grow wild! Yes, yes!",
+    "achievementDescription": "Planting flowers makes our island more beautiful and can earn you miles. So...grow wild! Yes, yes!",
     "achievementCriteria": "Plant a specified number of flower seeds (digging up and replanting existing flowers does not count)",
     "num": "19",
     "internalId": "6",
@@ -1527,7 +1527,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Happy Birthday!",
-    "achievementDescription": "Happy birthday to you!\nTake some Nook Miles, woo-hoo!\nHappy birthday to you-oo!\nTake some Nook Miles, woo-hoo!\n(Get yourself something nice.)",
+    "achievementDescription": "Happy birthday to you! Take some Nook Miles, woo-hoo! Happy birthday to you-oo! Take some Nook Miles, woo-hoo! (Get yourself something nice.)",
     "achievementCriteria": "Awarded the first time you play on your character's birthday",
     "num": "75",
     "internalId": "46",
@@ -1550,7 +1550,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Have a Nice DIY!",
-    "achievementDescription": "Nook Inc. will reward Nook Miles for the number of DIY recipes you've collected. Think about that. You're earning...for learning! Yes, yes!",
+    "achievementDescription": "Nook Inc. will award Nook Miles for the number of DIY recipes you've collected. Think about that. You're earning...for learning! Yes, yes!",
     "achievementCriteria": "Collect a specified number of DIY recipes",
     "num": "7",
     "internalId": "55",
@@ -1644,7 +1644,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Host the Most",
-    "achievementDescription": "To encourage you to invite plenty of guests to the island, we're offering miles as an incentive. The more the merrier - and that goes for Nook Miles too!",
+    "achievementDescription": "To encourage you to invite plenty of guests to the island, we're offering miles as an incentive. The more the merrier— and that goes for Nook Miles too!",
     "achievementCriteria": "Number of other players that have visited your island",
     "num": "86",
     "internalId": "19",
@@ -1714,7 +1714,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Island Ichthyologist",
-    "achievementDescription": "Fill in your Critterpedia with fish and you can earn miles along the way. Can you categorize each and every type of fish that swims in your island's waters, hm?",
+    "achievementDescription": "Fill in your Critterpedia with fish and earn miles along the way. Can you categorize each and every type of fish that swims in your island's waters, hm?",
     "achievementCriteria": "Collect a specified number of unique fish",
     "num": "3",
     "internalId": "3",
@@ -2006,7 +2006,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Miles for Stalkholders",
-    "achievementDescription": "I have Nook Miles to give any resident who purchases turnips. Buy them low, sell them high, and make a handsome profit! They’ll rot in a week, though, so be careful.",
+    "achievementDescription": "I have Nook Miles to give to any resident who purchases turnips. Buy them low, sell them high, and make a handsome profit! They'll rot in a week, though, so be careful.",
     "achievementCriteria": "Awarded the first time you purchase turnips",
     "num": "47",
     "internalId": "9",
@@ -2052,7 +2052,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Netting Better!",
-    "achievementDescription": "It's so impressive when someone can catch five wasps in a row - so impressive, in fact, that you'll earn some Nook Miles if you can do it!",
+    "achievementDescription": "It's so impressive when someone can catch five wasps in a row — so impressive, in fact, that you'll earn some Nook Miles if you can do it!",
     "achievementCriteria": "Awarded the first time you catch five wasps in a row without running away or getting stung",
     "num": "54",
     "internalId": "71",
@@ -2075,7 +2075,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "No More Loan Payments!",
-    "achievementDescription": "You see how this works? You pay off your loan, get some Nook Miles! Thank you for doing business with Nook Inc.!",
+    "achievementDescription": "You see how this works? You pay off your loan, you get some Nook Miles! Thank you for doing business with Nook Inc.!",
     "achievementCriteria": "Awarded after paying off your first house loan with bells",
     "num": "49",
     "internalId": "34",
@@ -2214,7 +2214,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Pick of the Bunch",
-    "achievementDescription": "You'll get Nook Miles based on the amount of fruit you've sold. Remember: If you sell our island's specialty fruit on other islands, you might be able to get a better price!",
+    "achievementDescription": "You'll get Nook Miles based on the amount of fruit you've sold. Remember: If you sell our island's specialty fruits on other islands, you might be able to get a better price!",
     "achievementCriteria": "Sell a specified number of fruits",
     "num": "22",
     "internalId": "70",
@@ -2260,7 +2260,7 @@
   },
   {
     "sourceSheet": "Achievements",
-    "name": "Pit-y Party!",
+    "name": "Pit-y Party",
     "achievementDescription": "Enjoy some bonus Nook Miles to commemorate the creation of your first pit. Just make sure you don't fall victim to your own handiwork!",
     "achievementCriteria": "Awarded the first time you bury a pitfall seed",
     "num": "55",
@@ -2436,7 +2436,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Rough-hewn",
-    "achievementDescription": "Island development is a Nook Inc. goal. We need a lot of materials to make that happen, so we're giving away Nook Miles based on how much wood you've chopped from trees.",
+    "achievementDescription": "Island development is Nook Inc.'s goal. We need a lot of materials to make that happen, so we're giving away Nook Miles based on how much wood you've chopped from trees.",
     "achievementCriteria": "Chop a specified number of wood from trees",
     "num": "13",
     "internalId": "67",
@@ -2506,7 +2506,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Shady Shakedown",
-    "achievementDescription": "Rumor has it that someone on this island likes to hide furniture in trees. Yes, yes! I'll give you Nook Miles based on the number of furniture items you shake out of trees. So get out of there and shake!",
+    "achievementDescription": "Rumor has it that someone on this island likes to hide furniture in trees. Yes, yes! I'll give you Nook Miles based on the number of furniture items you shake out of trees. So get out there and shake!",
     "achievementCriteria": "Number of furniture pieces you've found from shaking trees",
     "num": "83",
     "internalId": "79",
@@ -2599,7 +2599,7 @@
   },
   {
     "sourceSheet": "Achievements",
-    "name": "Shrubbery Hububbery",
+    "name": "Shrubbery Hubbubbery",
     "achievementDescription": "Different kinds of shrubs usher in the different seasons with their flowers, yes, yes! Folks who plant many shrubs will receive beauty and miles as a reward.",
     "achievementCriteria": "Plant a specified number of shrubs (replanting existing shrubs does not count)",
     "num": "24",
@@ -2619,7 +2619,7 @@
         "modifier": "Verdant"
       },
       "2": {
-        "required": "2",
+        "required": "5",
         "reward": "500",
         "nouns": [ "Sentinel" ],
         "modifier": "Unrestrained"
@@ -2717,7 +2717,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Taking the Sting Out",
-    "achievementDescription": "Getting stung by wasps hurts! Getting stung again before you can recover makes you faint! But at least you get some miles for that. I don't want you to be uncomfortable though, so take some medicine to heal up!",
+    "achievementDescription": "Getting stung by wasps hurts! Getting stung again before you can recover makes you faint! But at least you get some miles for that. I don't want you to be uncomfortable, though, so take some medicine to heal up!",
     "achievementCriteria": "Awarded the first time you get stung by a wasp",
     "num": "56",
     "internalId": "24",
@@ -2798,7 +2798,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Trash Fishin'",
-    "achievementDescription": "You work extra hard to keep out island clean, even going so far as to fish up trash out of our lovely waters. So you're getting some Nook Miles for keeping the island extra tidy, yes, yes!",
+    "achievementDescription": "You work extra hard to keep our island clean, even going so far as to fish up trash out of our lovely waters. So you're getting some Nook Miles for keeping the island extra tidy, yes, yes!",
     "achievementCriteria": "Fish a specified number of trash (cans, tires, or boots)",
     "num": "27",
     "internalId": "32",
@@ -2833,7 +2833,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "Trashed Tools",
-    "achievementDescription": "Using a tool until it breaks if proof of your hard work! In praise of your good deeds, you're getting Nook Miles based on how many tools you've broken.",
+    "achievementDescription": "Using a tool until it breaks is proof of your hard work! In praise of your good deeds, you're getting Nook Miles based on how many tools you've broken.",
     "achievementCriteria": "Break a specified number of tools",
     "num": "14",
     "internalId": "49",
@@ -2915,7 +2915,7 @@
   {
     "sourceSheet": "Achievements",
     "name": "True Patron of the Arts",
-    "achievementDescription": "Collecting artwork contributes to the cultural quality of (island name) and Nook Inc. will give miles to folks who prove themselves discerning connoisseurs.",
+    "achievementDescription": "Collecting artwork contributes to the cultural quality of (island name), and Nook Inc. will give miles to folks who prove themselves discerning connoisseurs.",
     "achievementCriteria": "Number of times you've purchased art that turned out to be real",
     "num": "71",
     "internalId": "91",

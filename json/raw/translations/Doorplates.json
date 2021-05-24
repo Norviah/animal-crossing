@@ -910,5 +910,43 @@
     "Japanese": "たぬきかいはつのドアプレート",
     "Korean": "Nook Inc. 문패",
     "Russian": "табличка Nook Inc."
+  },
+  {
+    "SourceSheet": "Doorplates",
+    "id": "DoorDeco_14358",
+    "Version": "1.10.0",
+    "English": "ship-wheel door decoration",
+    "English (Europe)": "ship-wheel door decoration",
+    "German": "Steuerrad-Türdeko",
+    "Spanish": "timón decorativo de puerta",
+    "Spanish (US)": "timón decorativo de puerta",
+    "French": "gouvernail décoratif",
+    "French (US)": "gouvernail décoratif",
+    "Italian": "decorazione timone",
+    "Dutch": "scheepsroer-deurdecoratie",
+    "Chinese": "船舵门饰",
+    "Chinese (Traditional)": "船舵門飾",
+    "Japanese": "かじのドアかざり",
+    "Korean": "방향키 문장식",
+    "Russian": "декоративный штурвал"
+  },
+  {
+    "SourceSheet": "Doorplates",
+    "id": "DoorDeco_14475",
+    "Version": "1.10.0",
+    "English": "nuptial doorplate",
+    "English (Europe)": "nuptial doorplate",
+    "German": "Vermählungs-Türschild",
+    "Spanish": "corona nupcial",
+    "Spanish (US)": "corona nupcial",
+    "French": "plaque nuptiale",
+    "French (US)": "plaque nuptiale",
+    "Italian": "targa da porta sposini",
+    "Dutch": "liefdesdeurplaatje",
+    "Chinese": "结婚门牌",
+    "Chinese (Traditional)": "結婚門牌",
+    "Japanese": "ウェディングのドアプレート",
+    "Korean": "결혼식 문패",
+    "Russian": "брачный венок на дверь"
   }
 ]

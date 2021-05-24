@@ -7,7 +7,7 @@ export interface Item {
     pattern?:              null;
     patternTitle?:         null;
     diy?:                  boolean;
-    bodyCustomize?:        boolean | null;
+    bodyCustomize?:        boolean;
     patternCustomize?:     boolean;
     kitCost?:              number | null;
     kitType?:              null;
@@ -21,10 +21,10 @@ export interface Item {
     sourceNotes?:          string[] | null;
     seasonEvent?:          null | string;
     seasonEventExclusive?: boolean | null;
-    hhaBasePoints?:        number | null;
+    hhaBasePoints?:        number;
     hhaCategory?:          HhaCategory | null;
-    interact?:             boolean | InteractEnum | null;
-    tag?:                  null | string;
+    interact?:             boolean | InteractEnum;
+    tag?:                  string;
     outdoor?:              boolean;
     speakerType?:          SpeakerType | null;
     lightingType?:         LightingType | null;
@@ -32,7 +32,7 @@ export interface Item {
     versionAdded?:         Version;
     unlocked?:             boolean;
     filename?:             string;
-    variantId?:            VariantID | null;
+    variantId?:            null;
     internalId?:           number;
     uniqueEntryId?:        string;
     seriesTranslations?:   SeriesTranslations;
@@ -43,7 +43,7 @@ export interface Item {
     series?:               null | string;
     recipe:                Recipe | null;
     themesTranslations?:   ThemesTranslations;
-    villagerEquippable?:   boolean | null;
+    villagerEquippable?:   boolean;
     seasonalAvailability?: SeasonalAvailability;
     type?:                 string;
     variations?:           VariationElement[];
@@ -54,7 +54,7 @@ export interface Item {
     seasonality?:          SeasonalAvailability;
     mannequinSeason?:      SeasonalAvailability | null;
     gender?:               Gender;
-    villagerGender?:       Gender | null;
+    villagerGender?:       Gender;
     sortOrder?:            number;
     clothGroupId?:         number;
     backColor?:            null | string;
@@ -74,13 +74,13 @@ export interface Item {
     customize?:            boolean;
     framedImage?:          null | string;
     albumImage?:           null | string;
-    inventoryImage?:       string;
+    inventoryImage?:       null | string;
     stackSize?:            number;
     inventoryFilename?:    string;
-    storageFilename?:      null | string;
+    storageFilename?:      string;
     sizeCategory?:         SizeCategory;
     primaryShape?:         PrimaryShape;
-    secondaryShape?:       SecondaryShape | null;
+    secondaryShape?:       SecondaryShape;
     vfx?:                  boolean;
     doorDeco?:             boolean;
     vfxType?:              VfxType | null;
@@ -90,11 +90,11 @@ export interface Item {
     curtainType?:          CurtainType | null;
     curtainColor?:         null | string;
     ceilingType?:          CeilingType;
-    uses?:                 number | null;
+    uses?:                 number | string;
     fossilGroup?:          string;
     description?:          string[];
     museum?:               Museum;
-    highResTexture?:       null;
+    highResTexture?:       null | string;
     genuine?:              boolean;
     category?:             Category;
     realArtworkTitle?:     string;
@@ -178,7 +178,6 @@ export enum Concept {
     Kitchen = "kitchen",
     LivingRoom = "living room",
     Music = "music",
-    None = "none",
     Ocean = "ocean",
     Office = "office",
     Outdoors = "outdoors",
@@ -198,6 +197,7 @@ export enum CurtainType {
 export enum ExchangeCurrency {
     HeartCrystals = "Heart Crystals",
     NookMiles = "Nook Miles",
+    NookPoints = "Nook Points",
 }
 
 export enum Gender {
@@ -223,8 +223,13 @@ export enum HhaCategory {
 }
 
 export enum InteractEnum {
+    Bed = "Bed",
     Chair = "Chair",
+    Mirror = "Mirror",
+    MusicPlayer = "Music Player",
+    MusicalInstrument = "Musical Instrument",
     Trash = "Trash",
+    Tv = "TV",
     Wardrobe = "Wardrobe",
     Workbench = "Workbench",
 }
@@ -243,6 +248,7 @@ export enum SeasonalAvailability {
     Fall = "Fall",
     Spring = "Spring",
     Summer = "Summer",
+    SummerWinter = "Summer; Winter",
     Winter = "Winter",
 }
 
@@ -320,8 +326,8 @@ export enum CardColor {
 }
 
 export interface SeriesTranslations {
-    sourceSheet:        SeriesTranslationsSourceSheet;
-    id:                 number;
+    sourceSheet?:       SeriesTranslationsSourceSheet;
+    id?:                number;
     version?:           Version;
     english:            string;
     englishEurope:      string;
@@ -337,7 +343,7 @@ export interface SeriesTranslations {
     japanese:           string;
     korean:             string;
     russian:            string;
-    plural:             boolean;
+    plural?:            boolean;
     variantId?:         number;
     furnitureName?:     string;
 }
@@ -381,6 +387,7 @@ export enum SeriesTranslationsSourceSheet {
 export enum Version {
     The100 = "1.0.0",
     The110 = "1.1.0",
+    The1100 = "1.10.0",
     The120 = "1.2.0",
     The130 = "1.3.0",
     The140 = "1.4.0",
@@ -482,7 +489,7 @@ export interface Comfy {
     french:             French;
     frenchUs:           French;
     italian:            Italian;
-    dutch:              DutchEnum;
+    dutch:              Dutch;
     chinese:            Chinese;
     chineseTraditional: ChineseTraditional;
     japanese:           Japanese;
@@ -519,7 +526,7 @@ export enum ChineseTraditional {
     運動 = "運動",
 }
 
-export enum DutchEnum {
+export enum Dutch {
     AlledaagsThema = "alledaags thema",
     Feestthema = "feestthema",
     FormeThema = "forme thema",
@@ -651,6 +658,45 @@ export enum Spanish {
     Vacacional = "vacacional",
 }
 
+export interface VariationElement {
+    closetImage?:         string;
+    storageImage?:        string;
+    variation:            number | null | string;
+    exchangePrice?:       number | null;
+    exchangeCurrency?:    ExchangeCurrency | null;
+    seasonEvent:          null | string;
+    seasonEventExclusive: boolean | null;
+    seasonality?:         SeasonalAvailability;
+    mannequinSeason?:     SeasonalAvailability | null;
+    gender?:              Gender;
+    villagerGender?:      Gender;
+    sortOrder?:           number;
+    filename:             string;
+    clothGroupId?:        number;
+    internalId:           number;
+    uniqueEntryId:        string;
+    variantTranslations?: VariantTranslations | null;
+    colors:               Color[];
+    image?:               string;
+    pattern?:             null | string;
+    patternTitle?:        null | string;
+    variantId?:           VariantID;
+    concepts?:            Concept[];
+    kitType?:             KitType | null;
+    surface?:             boolean;
+    hhaCategory?:         HhaCategory | null;
+    patternTranslations?: SeriesTranslations;
+    doorDeco?:            boolean;
+    uses?:                number | string;
+    stackSize?:           number;
+}
+
+export enum KitType {
+    Normal = "Normal",
+    Pumpkin = "Pumpkin",
+    RainbowFeather = "Rainbow feather",
+}
+
 export enum VariantID {
     The0_0 = "0_0",
     The0_1 = "0_1",
@@ -716,45 +762,6 @@ export enum VariantID {
     The7_5 = "7_5",
     The7_6 = "7_6",
     The7_7 = "7_7",
-}
-
-export interface VariationElement {
-    closetImage?:         string;
-    storageImage?:        string;
-    variation:            number | null | string;
-    exchangePrice?:       number | null;
-    exchangeCurrency?:    ExchangeCurrency | null;
-    seasonEvent:          null | string;
-    seasonEventExclusive: boolean | null;
-    seasonality?:         SeasonalAvailability;
-    mannequinSeason?:     SeasonalAvailability | null;
-    gender?:              Gender;
-    villagerGender?:      Gender | null;
-    sortOrder?:           number;
-    filename:             string;
-    clothGroupId?:        number;
-    internalId:           number;
-    uniqueEntryId:        string;
-    variantTranslations?: VariantTranslations | null;
-    colors:               Color[];
-    image?:               string;
-    pattern?:             null | string;
-    patternTitle?:        null | string;
-    variantId?:           VariantID;
-    kitType?:             KitType | null;
-    surface?:             boolean;
-    hhaCategory?:         HhaCategory | null;
-    concepts?:            Concept[];
-    patternTranslations?: SeriesTranslations | null;
-    doorDeco?:            boolean;
-    uses?:                number;
-    stackSize?:           number;
-}
-
-export enum KitType {
-    Normal = "Normal",
-    Pumpkin = "Pumpkin",
-    RainbowFeather = "Rainbow feather",
 }
 
 export interface VariantTranslations {

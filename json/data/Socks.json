@@ -5066,7 +5066,7 @@
         "seasonEvent": null,
         "seasonEventExclusive": null,
         "seasonality": "All Year",
-        "mannequinSeason": "All Year",
+        "mannequinSeason": "Summer; Winter",
         "gender": "Free",
         "sortOrder": 1,
         "filename": "SocksTexDailytights3",
@@ -8405,7 +8405,7 @@
         "plural": false
       }
     },
-    "hhaBasePoints": 231,
+    "hhaBasePoints": 51,
     "villagerEquippable": false,
     "seasonalAvailability": "All Year",
     "unlocked": true,
