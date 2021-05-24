@@ -15,7 +15,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Villager.ts:61](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Villager.ts#L61)*
+*Defined in [Villager.ts:63](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L63)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **The190**: = "1.9.0"
 
-*Defined in [Villager.ts:62](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Villager.ts#L62)*
+*Defined in [Villager.ts:64](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L64)*

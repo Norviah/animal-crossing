@@ -16,7 +16,7 @@
 * [ComfySourceSheet](../enums/_item_.comfysourcesheet.md)
 * [Concept](../enums/_item_.concept.md)
 * [CurtainType](../enums/_item_.curtaintype.md)
-* [DutchEnum](../enums/_item_.dutchenum.md)
+* [Dutch](../enums/_item_.dutch.md)
 * [ExchangeCurrency](../enums/_item_.exchangecurrency.md)
 * [French](../enums/_item_.french.md)
 * [Gender](../enums/_item_.gender.md)

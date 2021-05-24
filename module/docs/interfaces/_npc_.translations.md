@@ -35,7 +35,7 @@
 
 • **chinese**: *string*
 
-*Defined in [NPC.ts:42](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L42)*
+*Defined in [NPC.ts:42](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L42)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **chineseTraditional**: *string*
 
-*Defined in [NPC.ts:43](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L43)*
+*Defined in [NPC.ts:43](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L43)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **dutch**: *string*
 
-*Defined in [NPC.ts:41](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L41)*
+*Defined in [NPC.ts:41](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L41)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **english**: *string*
 
-*Defined in [NPC.ts:33](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L33)*
+*Defined in [NPC.ts:33](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L33)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **englishEurope**: *string*
 
-*Defined in [NPC.ts:34](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L34)*
+*Defined in [NPC.ts:34](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L34)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **french**: *string*
 
-*Defined in [NPC.ts:38](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L38)*
+*Defined in [NPC.ts:38](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L38)*
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 • **frenchUs**: *string*
 
-*Defined in [NPC.ts:39](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L39)*
+*Defined in [NPC.ts:39](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L39)*
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 • **german**: *string*
 
-*Defined in [NPC.ts:35](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L35)*
+*Defined in [NPC.ts:35](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L35)*
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [NPC.ts:31](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L31)*
+*Defined in [NPC.ts:31](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L31)*
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 • **italian**: *string*
 
-*Defined in [NPC.ts:40](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L40)*
+*Defined in [NPC.ts:40](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L40)*
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 • **japanese**: *string*
 
-*Defined in [NPC.ts:44](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L44)*
+*Defined in [NPC.ts:44](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L44)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 • **korean**: *string*
 
-*Defined in [NPC.ts:45](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L45)*
+*Defined in [NPC.ts:45](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L45)*
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 • **plural**: *boolean*
 
-*Defined in [NPC.ts:47](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L47)*
+*Defined in [NPC.ts:47](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L47)*
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 • **russian**: *string*
 
-*Defined in [NPC.ts:46](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L46)*
+*Defined in [NPC.ts:46](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L46)*
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 • **sourceSheet**: *[SourceSheet](../enums/_npc_.sourcesheet.md)*
 
-*Defined in [NPC.ts:30](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L30)*
+*Defined in [NPC.ts:30](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L30)*
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 • **spanish**: *string*
 
-*Defined in [NPC.ts:36](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L36)*
+*Defined in [NPC.ts:36](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L36)*
 
 ___
 
@@ -163,7 +163,7 @@ ___
 
 • **spanishUs**: *string*
 
-*Defined in [NPC.ts:37](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L37)*
+*Defined in [NPC.ts:37](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L37)*
 
 ___
 
@@ -171,4 +171,4 @@ ___
 
 • **version**: *[Version](../enums/_npc_.version.md)*
 
-*Defined in [NPC.ts:32](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/NPC.ts#L32)*
+*Defined in [NPC.ts:32](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/NPC.ts#L32)*
