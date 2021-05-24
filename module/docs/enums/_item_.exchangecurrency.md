@@ -8,6 +8,7 @@
 
 * [HeartCrystals](_item_.exchangecurrency.md#heartcrystals)
 * [NookMiles](_item_.exchangecurrency.md#nookmiles)
+* [NookPoints](_item_.exchangecurrency.md#nookpoints)
 
 ## Enumeration members
 
@@ -15,7 +16,7 @@
 
 • **HeartCrystals**: = "Heart Crystals"
 
-*Defined in [Item.ts:199](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L199)*
+*Defined in [Item.ts:198](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L198)*
 
 ___
 
@@ -23,4 +24,12 @@ ___
 
 • **NookMiles**: = "Nook Miles"
 
-*Defined in [Item.ts:200](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L200)*
+*Defined in [Item.ts:199](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L199)*
+
+___
+
+###  NookPoints
+
+• **NookPoints**: = "Nook Points"
+
+*Defined in [Item.ts:200](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L200)*

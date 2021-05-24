@@ -19,7 +19,7 @@
 
 • **BasegameEvent**: = "Basegame event"
 
-*Defined in [SeasonsAndEvents.ts:77](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L77)*
+*Defined in [SeasonsAndEvents.ts:66](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L66)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **CraftingSeason**: = "Crafting season"
 
-*Defined in [SeasonsAndEvents.ts:78](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L78)*
+*Defined in [SeasonsAndEvents.ts:67](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L67)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **NookShoppingEvent**: = "Nook Shopping event"
 
-*Defined in [SeasonsAndEvents.ts:79](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L79)*
+*Defined in [SeasonsAndEvents.ts:68](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L68)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **ShoppingSeason**: = "Shopping season"
 
-*Defined in [SeasonsAndEvents.ts:80](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L80)*
+*Defined in [SeasonsAndEvents.ts:69](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L69)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **SpecialEvent**: = "Special event"
 
-*Defined in [SeasonsAndEvents.ts:81](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L81)*
+*Defined in [SeasonsAndEvents.ts:70](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L70)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **ZodiacSeason**: = "Zodiac season"
 
-*Defined in [SeasonsAndEvents.ts:82](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L82)*
+*Defined in [SeasonsAndEvents.ts:71](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L71)*

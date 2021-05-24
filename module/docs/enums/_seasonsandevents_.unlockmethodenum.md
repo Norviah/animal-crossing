@@ -17,7 +17,7 @@
 
 • **BCATA**: = "BCAT (a)"
 
-*Defined in [SeasonsAndEvents.ts:86](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L86)*
+*Defined in [SeasonsAndEvents.ts:75](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L75)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **BCATB**: = "BCAT (b)"
 
-*Defined in [SeasonsAndEvents.ts:87](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L87)*
+*Defined in [SeasonsAndEvents.ts:76](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L76)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **BCATC**: = "BCAT (c)"
 
-*Defined in [SeasonsAndEvents.ts:88](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L88)*
+*Defined in [SeasonsAndEvents.ts:77](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L77)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **NTP**: = "NTP"
 
-*Defined in [SeasonsAndEvents.ts:89](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L89)*
+*Defined in [SeasonsAndEvents.ts:78](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L78)*

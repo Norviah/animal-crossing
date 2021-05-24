@@ -8,8 +8,8 @@
 
 * [The100](_seasonsandevents_.version.md#the100)
 * [The110](_seasonsandevents_.version.md#the110)
+* [The1100](_seasonsandevents_.version.md#the1100)
 * [The120](_seasonsandevents_.version.md#the120)
-* [The130](_seasonsandevents_.version.md#the130)
 * [The140](_seasonsandevents_.version.md#the140)
 * [The150](_seasonsandevents_.version.md#the150)
 * [The160](_seasonsandevents_.version.md#the160)
@@ -23,7 +23,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [SeasonsAndEvents.ts:64](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L64)*
+*Defined in [SeasonsAndEvents.ts:53](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L53)*
 
 ___
 
@@ -31,7 +31,15 @@ ___
 
 • **The110**: = "1.1.0"
 
-*Defined in [SeasonsAndEvents.ts:65](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L65)*
+*Defined in [SeasonsAndEvents.ts:54](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L54)*
+
+___
+
+###  The1100
+
+• **The1100**: = "1.10.0"
+
+*Defined in [SeasonsAndEvents.ts:55](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L55)*
 
 ___
 
@@ -39,15 +47,7 @@ ___
 
 • **The120**: = "1.2.0"
 
-*Defined in [SeasonsAndEvents.ts:66](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L66)*
-
-___
-
-###  The130
-
-• **The130**: = "1.3.0"
-
-*Defined in [SeasonsAndEvents.ts:67](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L67)*
+*Defined in [SeasonsAndEvents.ts:56](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L56)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **The140**: = "1.4.0"
 
-*Defined in [SeasonsAndEvents.ts:68](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L68)*
+*Defined in [SeasonsAndEvents.ts:57](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L57)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 • **The150**: = "1.5.0"
 
-*Defined in [SeasonsAndEvents.ts:69](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L69)*
+*Defined in [SeasonsAndEvents.ts:58](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L58)*
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 • **The160**: = "1.6.0"
 
-*Defined in [SeasonsAndEvents.ts:70](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L70)*
+*Defined in [SeasonsAndEvents.ts:59](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L59)*
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 • **The170**: = "1.7.0"
 
-*Defined in [SeasonsAndEvents.ts:71](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L71)*
+*Defined in [SeasonsAndEvents.ts:60](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L60)*
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 • **The180**: = "1.8.0"
 
-*Defined in [SeasonsAndEvents.ts:72](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L72)*
+*Defined in [SeasonsAndEvents.ts:61](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L61)*
 
 ___
 
@@ -95,4 +95,4 @@ ___
 
 • **The190**: = "1.9.0"
 
-*Defined in [SeasonsAndEvents.ts:73](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/SeasonsAndEvents.ts#L73)*
+*Defined in [SeasonsAndEvents.ts:62](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L62)*

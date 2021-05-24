@@ -16,7 +16,7 @@
 
 • **H**: = "H"
 
-*Defined in [Item.ts:399](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L399)*
+*Defined in [Item.ts:406](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L406)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **L**: = "L"
 
-*Defined in [Item.ts:400](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L400)*
+*Defined in [Item.ts:407](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L407)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **N**: = "N"
 
-*Defined in [Item.ts:401](https://github.com/Norviah/animal-crossing/blob/ba83c61/module/types/Item.ts#L401)*
+*Defined in [Item.ts:408](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L408)*

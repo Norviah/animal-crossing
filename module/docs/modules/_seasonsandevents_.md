@@ -6,7 +6,6 @@
 
 ### Enumerations
 
-* [Availability](../enums/_seasonsandevents_.availability.md)
 * [SeasonsAndEventSourceSheet](../enums/_seasonsandevents_.seasonsandeventsourcesheet.md)
 * [TranslationsSourceSheet](../enums/_seasonsandevents_.translationssourcesheet.md)
 * [Type](../enums/_seasonsandevents_.type.md)
