@@ -22,7 +22,7 @@ export interface Recipe {
     serialId:              number;
     internalId:            number;
     uniqueEntryId:         string;
-    translations:          Translations;
+    translations:          Translations | null;
     materials:             { [key: string]: number };
     materialsTranslations: { [key: string]: Translations | null };
 }
@@ -111,6 +111,7 @@ export enum TranslationsSourceSheet {
 export enum Version {
     The100 = "1.0.0",
     The110 = "1.1.0",
+    The1110 = "1.11.0",
     The120 = "1.2.0",
     The130 = "1.3.0",
     The140 = "1.4.0",

@@ -4216,7 +4216,7 @@
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
     "type": "HeadCap",
-    "unlocked": false,
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/CapHatPhrygian0.png",
@@ -5034,7 +5034,7 @@
         "seasonEvent": null,
         "seasonEventExclusive": null,
         "seasonality": "Autumn",
-        "mannequinSeason": "All Year",
+        "mannequinSeason": "Winter",
         "gender": "Free",
         "villagerGender": "Free",
         "sortOrder": 3,
@@ -30779,7 +30779,7 @@
     "seasonEventExclusive": null,
     "seasonalAvailability": "All Year",
     "seasonality": "All Year",
-    "mannequinSeason": "All Year",
+    "mannequinSeason": "Summer",
     "gender": "Free",
     "villagerGender": "Free",
     "sortOrder": 1,
