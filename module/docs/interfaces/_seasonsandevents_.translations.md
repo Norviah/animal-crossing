@@ -35,7 +35,7 @@
 
 • **chinese**: *string*
 
-*Defined in [SeasonsAndEvents.ts:36](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L36)*
+*Defined in [SeasonsAndEvents.ts:36](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L36)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **chineseTraditional**: *string*
 
-*Defined in [SeasonsAndEvents.ts:37](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L37)*
+*Defined in [SeasonsAndEvents.ts:37](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L37)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **dutch**: *string*
 
-*Defined in [SeasonsAndEvents.ts:35](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L35)*
+*Defined in [SeasonsAndEvents.ts:35](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L35)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **english**: *string*
 
-*Defined in [SeasonsAndEvents.ts:27](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L27)*
+*Defined in [SeasonsAndEvents.ts:27](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L27)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **englishEurope**: *string*
 
-*Defined in [SeasonsAndEvents.ts:28](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L28)*
+*Defined in [SeasonsAndEvents.ts:28](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L28)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **french**: *string*
 
-*Defined in [SeasonsAndEvents.ts:32](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L32)*
+*Defined in [SeasonsAndEvents.ts:32](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L32)*
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 • **frenchUs**: *string*
 
-*Defined in [SeasonsAndEvents.ts:33](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L33)*
+*Defined in [SeasonsAndEvents.ts:33](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L33)*
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 • **german**: *string*
 
-*Defined in [SeasonsAndEvents.ts:29](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L29)*
+*Defined in [SeasonsAndEvents.ts:29](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L29)*
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 • **id**: *number | string*
 
-*Defined in [SeasonsAndEvents.ts:25](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L25)*
+*Defined in [SeasonsAndEvents.ts:25](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L25)*
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 • **italian**: *string*
 
-*Defined in [SeasonsAndEvents.ts:34](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L34)*
+*Defined in [SeasonsAndEvents.ts:34](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L34)*
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 • **japanese**: *string*
 
-*Defined in [SeasonsAndEvents.ts:38](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L38)*
+*Defined in [SeasonsAndEvents.ts:38](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L38)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 • **korean**: *string*
 
-*Defined in [SeasonsAndEvents.ts:39](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L39)*
+*Defined in [SeasonsAndEvents.ts:39](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L39)*
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 • **plural**: *boolean*
 
-*Defined in [SeasonsAndEvents.ts:41](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L41)*
+*Defined in [SeasonsAndEvents.ts:41](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L41)*
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 • **russian**: *string*
 
-*Defined in [SeasonsAndEvents.ts:40](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L40)*
+*Defined in [SeasonsAndEvents.ts:40](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L40)*
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 • **sourceSheet**: *[TranslationsSourceSheet](../enums/_seasonsandevents_.translationssourcesheet.md)*
 
-*Defined in [SeasonsAndEvents.ts:24](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L24)*
+*Defined in [SeasonsAndEvents.ts:24](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L24)*
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 • **spanish**: *string*
 
-*Defined in [SeasonsAndEvents.ts:30](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L30)*
+*Defined in [SeasonsAndEvents.ts:30](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L30)*
 
 ___
 
@@ -163,12 +163,12 @@ ___
 
 • **spanishUs**: *string*
 
-*Defined in [SeasonsAndEvents.ts:31](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L31)*
+*Defined in [SeasonsAndEvents.ts:31](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L31)*
 
 ___
 
 ###  version
 
-• **version**: *[Version](../enums/_seasonsandevents_.version.md)*
+• **version**: *string*
 
-*Defined in [SeasonsAndEvents.ts:26](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L26)*
+*Defined in [SeasonsAndEvents.ts:26](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L26)*
