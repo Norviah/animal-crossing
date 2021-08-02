@@ -20246,7 +20246,7 @@
     },
     "source": [ "Nook Shopping Seasonal" ],
     "hhaBasePoints": 201,
-    "unlocked": false,
+    "unlocked": true,
     "variations": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrDoorOrnamentWreathWedding_Remake_0_0.png",
@@ -24669,7 +24669,7 @@
     "doorDeco": true,
     "catalog": null,
     "versionAdded": "1.10.0",
-    "unlocked": false,
+    "unlocked": true,
     "filename": "FtrDoorOrnamentRudder",
     "variantId": null,
     "internalId": 14358,

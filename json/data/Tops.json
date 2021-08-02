@@ -47407,7 +47407,7 @@
         "seasonEvent": "Winter shopping",
         "seasonEventExclusive": false,
         "seasonality": "Autumn",
-        "mannequinSeason": "All Year",
+        "mannequinSeason": "Winter",
         "gender": "Free",
         "villagerGender": "Free",
         "sortOrder": 1,
@@ -55262,7 +55262,7 @@
         "seasonEvent": "Summer shopping",
         "seasonEventExclusive": false,
         "seasonality": "Summer",
-        "mannequinSeason": "All Year",
+        "mannequinSeason": "Summer",
         "gender": "Free",
         "villagerGender": "Free",
         "sortOrder": 1,
@@ -63095,7 +63095,7 @@
     "hhaBasePoints": 201,
     "villagerEquippable": true,
     "seasonalAvailability": "All Year",
-    "unlocked": false,
+    "unlocked": true,
     "variations": [
       {
         "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexTopCoatLFather4.png",
