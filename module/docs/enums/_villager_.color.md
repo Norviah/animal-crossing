@@ -27,7 +27,7 @@
 
 • **Aqua**: = "Aqua"
 
-*Defined in [Villager.ts:68](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L68)*
+*Defined in [Villager.ts:68](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L68)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **Beige**: = "Beige"
 
-*Defined in [Villager.ts:69](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L69)*
+*Defined in [Villager.ts:69](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L69)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **Black**: = "Black"
 
-*Defined in [Villager.ts:70](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L70)*
+*Defined in [Villager.ts:70](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L70)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **Blue**: = "Blue"
 
-*Defined in [Villager.ts:71](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L71)*
+*Defined in [Villager.ts:71](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L71)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **Brown**: = "Brown"
 
-*Defined in [Villager.ts:72](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L72)*
+*Defined in [Villager.ts:72](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L72)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **Colorful**: = "Colorful"
 
-*Defined in [Villager.ts:73](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L73)*
+*Defined in [Villager.ts:73](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L73)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **Gray**: = "Gray"
 
-*Defined in [Villager.ts:74](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L74)*
+*Defined in [Villager.ts:74](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L74)*
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 • **Green**: = "Green"
 
-*Defined in [Villager.ts:75](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L75)*
+*Defined in [Villager.ts:75](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L75)*
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 • **Orange**: = "Orange"
 
-*Defined in [Villager.ts:76](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L76)*
+*Defined in [Villager.ts:76](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L76)*
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 • **Pink**: = "Pink"
 
-*Defined in [Villager.ts:77](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L77)*
+*Defined in [Villager.ts:77](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L77)*
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 • **Purple**: = "Purple"
 
-*Defined in [Villager.ts:78](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L78)*
+*Defined in [Villager.ts:78](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L78)*
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 • **Red**: = "Red"
 
-*Defined in [Villager.ts:79](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L79)*
+*Defined in [Villager.ts:79](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L79)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 • **White**: = "White"
 
-*Defined in [Villager.ts:80](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L80)*
+*Defined in [Villager.ts:80](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L80)*
 
 ___
 
@@ -131,4 +131,4 @@ ___
 
 • **Yellow**: = "Yellow"
 
-*Defined in [Villager.ts:81](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Villager.ts#L81)*
+*Defined in [Villager.ts:81](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L81)*

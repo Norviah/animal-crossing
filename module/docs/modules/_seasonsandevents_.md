@@ -10,7 +10,7 @@
 * [TranslationsSourceSheet](../enums/_seasonsandevents_.translationssourcesheet.md)
 * [Type](../enums/_seasonsandevents_.type.md)
 * [UnlockMethodEnum](../enums/_seasonsandevents_.unlockmethodenum.md)
-* [Version](../enums/_seasonsandevents_.version.md)
+* [VersionLastUpdated](../enums/_seasonsandevents_.versionlastupdated.md)
 * [YearEnum](../enums/_seasonsandevents_.yearenum.md)
 
 ### Interfaces

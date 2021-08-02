@@ -22,7 +22,7 @@
 
 • **Bed**: = "Bed"
 
-*Defined in [Item.ts:226](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L226)*
+*Defined in [Item.ts:226](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L226)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **Chair**: = "Chair"
 
-*Defined in [Item.ts:227](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L227)*
+*Defined in [Item.ts:227](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L227)*
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 • **Mirror**: = "Mirror"
 
-*Defined in [Item.ts:228](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L228)*
+*Defined in [Item.ts:228](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L228)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **MusicPlayer**: = "Music Player"
 
-*Defined in [Item.ts:229](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L229)*
+*Defined in [Item.ts:229](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L229)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **MusicalInstrument**: = "Musical Instrument"
 
-*Defined in [Item.ts:230](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L230)*
+*Defined in [Item.ts:230](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L230)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **Trash**: = "Trash"
 
-*Defined in [Item.ts:231](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L231)*
+*Defined in [Item.ts:231](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L231)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **Tv**: = "TV"
 
-*Defined in [Item.ts:232](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L232)*
+*Defined in [Item.ts:232](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L232)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **Wardrobe**: = "Wardrobe"
 
-*Defined in [Item.ts:233](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L233)*
+*Defined in [Item.ts:233](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L233)*
 
 ___
 
@@ -86,4 +86,4 @@ ___
 
 • **Workbench**: = "Workbench"
 
-*Defined in [Item.ts:234](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Item.ts#L234)*
+*Defined in [Item.ts:234](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L234)*

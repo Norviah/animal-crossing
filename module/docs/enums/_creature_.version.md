@@ -15,7 +15,7 @@
 
 • **The100**: = "1.0.0"
 
-*Defined in [Creature.ts:142](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Creature.ts#L142)*
+*Defined in [Creature.ts:142](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Creature.ts#L142)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **The130**: = "1.3.0"
 
-*Defined in [Creature.ts:143](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/Creature.ts#L143)*
+*Defined in [Creature.ts:143](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Creature.ts#L143)*

@@ -14,4 +14,4 @@
 
 • **SeasonsAndEvents**: = "Seasons and Events"
 
-*Defined in [SeasonsAndEvents.ts:20](https://github.com/Norviah/animal-crossing/blob/e8c2f7d/module/types/SeasonsAndEvents.ts#L20)*
+*Defined in [SeasonsAndEvents.ts:20](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L20)*
