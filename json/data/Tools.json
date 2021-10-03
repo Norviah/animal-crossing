@@ -22,6 +22,7 @@
     "sourceNotes": null,
     "seasonEvent": "Bunny Day",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.1.0",
     "unlocked": true,
     "filename": "ToolStickEgg",
@@ -49,6 +50,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day wand",
@@ -141,6 +143,7 @@
     "sourceNotes": [ "Scan the associated Sanrio amiibo card" ],
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.9.0",
     "unlocked": true,
     "filename": "ToolStickKikilala0",
@@ -168,6 +171,7 @@
       "plural": false
     },
     "colors": [ "Yellow", "White" ],
+    "concepts": [ "fancy" ],
     "recipe": null
   },
   {
@@ -193,6 +197,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolPennantRcm",
@@ -220,6 +225,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -245,6 +251,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolFanNook0",
@@ -272,6 +279,7 @@
       "plural": false
     },
     "colors": [ "Green", "White" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -297,6 +305,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolAxe",
@@ -324,6 +333,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "axe",
@@ -436,6 +446,7 @@
     "sourceNotes": null,
     "seasonEvent": "young spring bamboo",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickBamboo",
@@ -463,6 +474,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo wand",
@@ -555,6 +567,7 @@
     "sourceNotes": null,
     "seasonEvent": "Setsubun",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.7.0",
     "unlocked": true,
     "filename": "ToolSoy0",
@@ -582,6 +595,7 @@
       "plural": false
     },
     "colors": [ "Beige", "Beige" ],
+    "concepts": [ "harmonious" ],
     "recipe": null
   },
   {
@@ -610,6 +624,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolBalloonNormal",
@@ -637,6 +652,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -665,6 +681,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolFireworks1",
@@ -692,6 +709,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -713,10 +731,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolTapioca4",
@@ -725,6 +744,7 @@
     "uniqueEntryId": "jvf8uw5Mm44Q86cE2",
     "translations": null,
     "colors": [ "Brown", "Black" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -746,10 +766,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolTapioca2",
@@ -758,6 +779,7 @@
     "uniqueEntryId": "c3bvzqk8C5iuuEbpo",
     "translations": null,
     "colors": [ "Green", "Orange" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -779,10 +801,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolTapioca3",
@@ -791,6 +814,7 @@
     "uniqueEntryId": "m7BfnhqvLKr8Ybb6Z",
     "translations": null,
     "colors": [ "Orange", "Purple" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -812,10 +836,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolTapioca0",
@@ -824,6 +849,7 @@
     "uniqueEntryId": "PbsfbtksDomE4a3Tp",
     "translations": null,
     "colors": [ "Beige", "Green" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -845,10 +871,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolTapioca1",
@@ -857,6 +884,7 @@
     "uniqueEntryId": "WNeTxBFbMvah9kNyX",
     "translations": null,
     "colors": [ "Pink", "Blue" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -885,6 +913,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolBubblesNormal",
@@ -912,6 +941,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -937,6 +967,7 @@
     "sourceNotes": null,
     "seasonEvent": "Bug-Off",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStcikInsect",
@@ -964,6 +995,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -989,6 +1021,7 @@
     "sourceNotes": null,
     "seasonEvent": "cherry-blossom petals",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickCherryblossom",
@@ -1016,6 +1049,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom wand",
@@ -1108,6 +1142,7 @@
     "sourceNotes": null,
     "seasonEvent": "Shichi-Go-San",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": false,
     "filename": "ToolChitoseame",
@@ -1116,6 +1151,7 @@
     "uniqueEntryId": "xySaM5pikyagoJnPP",
     "translations": null,
     "colors": [ "White", "Aqua" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -1137,10 +1173,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolIcecandyPlayer2",
@@ -1149,6 +1186,7 @@
     "uniqueEntryId": "bXeMhj9hB8mbcZe2p",
     "translations": null,
     "colors": [ "Brown", "Beige" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -1186,6 +1224,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -1218,7 +1257,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_1_0.png",
@@ -1250,7 +1290,8 @@
           "korean": "오렌지",
           "russian": "Оранжевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_2_0.png",
@@ -1282,7 +1323,8 @@
           "korean": "라이트 블루",
           "russian": "Голубой"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_3_0.png",
@@ -1314,7 +1356,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_4_0.png",
@@ -1346,7 +1389,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_5_0.png",
@@ -1378,7 +1422,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_6_0.png",
@@ -1410,7 +1455,8 @@
           "korean": "화이트",
           "russian": "Белый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_7_0.png",
@@ -1442,7 +1488,8 @@
           "korean": "그레이",
           "russian": "Серый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -1482,6 +1529,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -1499,7 +1547,8 @@
         "internalId": 8177,
         "uniqueEntryId": "5wGjS9fxCaGhWK5Cv",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_1_0.png",
@@ -1531,7 +1580,8 @@
           "korean": "레드×옐로",
           "russian": "Красный с желтым"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_2_0.png",
@@ -1548,7 +1598,8 @@
         "internalId": 8177,
         "uniqueEntryId": "6pJhWYNiuyZKuKvYz",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_3_0.png",
@@ -1580,7 +1631,8 @@
           "korean": "핑크×옐로",
           "russian": "Розовый с желтым"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_4_0.png",
@@ -1612,7 +1664,8 @@
           "korean": "그린×블루",
           "russian": "Зеленый с синим"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_5_0.png",
@@ -1644,7 +1697,8 @@
           "korean": "퍼플×핑크",
           "russian": "Фиолетово-розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_6_0.png",
@@ -1676,7 +1730,8 @@
           "korean": "화이트×블루",
           "russian": "Белый с синим"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_7_0.png",
@@ -1693,7 +1748,8 @@
         "internalId": 8177,
         "uniqueEntryId": "kgBcZghywrT4j47vx",
         "variantTranslations": null,
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -1733,6 +1789,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": false,
     "unlocked": true,
     "variations": [
       {
@@ -1765,7 +1822,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_1_0.png",
@@ -1797,7 +1855,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_2_0.png",
@@ -1829,7 +1888,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_3_0.png",
@@ -1861,7 +1921,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_4_0.png",
@@ -1893,7 +1954,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_5_0.png",
@@ -1925,7 +1987,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_6_0.png",
@@ -1957,7 +2020,8 @@
           "korean": "화이트",
           "russian": "Белый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_7_0.png",
@@ -1989,7 +2053,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -2029,6 +2094,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": false,
     "unlocked": true,
     "variations": [
       {
@@ -2061,7 +2127,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_1_0.png",
@@ -2093,7 +2160,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_2_0.png",
@@ -2125,7 +2193,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_3_0.png",
@@ -2157,7 +2226,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_4_0.png",
@@ -2189,7 +2259,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_5_0.png",
@@ -2221,7 +2292,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_6_0.png",
@@ -2253,7 +2325,8 @@
           "korean": "화이트",
           "russian": "Белый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_7_0.png",
@@ -2285,7 +2358,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -2325,6 +2399,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -2357,7 +2432,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_1_0.png",
@@ -2389,7 +2465,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_2_0.png",
@@ -2421,7 +2498,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_3_0.png",
@@ -2453,7 +2531,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_4_0.png",
@@ -2485,7 +2564,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_5_0.png",
@@ -2517,7 +2597,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_6_0.png",
@@ -2549,7 +2630,8 @@
           "korean": "화이트",
           "russian": "Белый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_7_0.png",
@@ -2581,7 +2663,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -2609,6 +2692,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickCosmos",
@@ -2636,6 +2720,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cosmos wand",
@@ -2740,6 +2825,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -2772,7 +2858,8 @@
           "korean": "그레이",
           "russian": "Серый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_1_0.png",
@@ -2804,7 +2891,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_2_0.png",
@@ -2836,7 +2924,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_3_0.png",
@@ -2868,7 +2957,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_4_0.png",
@@ -2900,7 +2990,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_5_0.png",
@@ -2932,7 +3023,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_6_0.png",
@@ -2964,7 +3056,8 @@
           "korean": "라이트 블루",
           "russian": "Голубой"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_7_0.png",
@@ -2996,7 +3089,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -3024,6 +3118,7 @@
     "sourceNotes": null,
     "seasonEvent": "Big Game Celebration (1)",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.7.0",
     "unlocked": true,
     "filename": "ToolMegaphone1",
@@ -3051,6 +3146,7 @@
       "plural": false
     },
     "colors": [ "Red", "Black" ],
+    "concepts": [ "fitness" ],
     "recipe": null
   },
   {
@@ -3088,6 +3184,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -3120,7 +3217,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_1_0.png",
@@ -3152,7 +3250,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_2_0.png",
@@ -3184,7 +3283,8 @@
           "korean": "오렌지",
           "russian": "Оранжевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_3_0.png",
@@ -3216,7 +3316,8 @@
           "korean": "라이트 블루",
           "russian": "Голубой"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_4_0.png",
@@ -3248,7 +3349,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_5_0.png",
@@ -3280,7 +3382,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_6_0.png",
@@ -3312,7 +3415,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_7_0.png",
@@ -3344,7 +3448,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -3372,6 +3477,7 @@
     "sourceNotes": null,
     "seasonEvent": "Fishing Tourney",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickFish",
@@ -3399,6 +3505,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -3436,6 +3543,7 @@
     },
     "source": [ "Crafting" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -3468,7 +3576,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_1_0.png",
@@ -3500,7 +3609,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_2_0.png",
@@ -3532,7 +3642,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_3_0.png",
@@ -3564,7 +3675,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_4_0.png",
@@ -3596,7 +3708,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_5_0.png",
@@ -3628,7 +3741,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_6_0.png",
@@ -3660,7 +3774,8 @@
           "korean": "화이트",
           "russian": "Белый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_7_0.png",
@@ -3692,7 +3807,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": {
@@ -3787,6 +3903,7 @@
     "sourceNotes": [ "Available after unlocking the axe in the story" ],
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolAxeStone",
@@ -3814,6 +3931,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy axe",
@@ -3910,6 +4028,7 @@
     ],
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": true,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolFishingrodWood",
@@ -3937,6 +4056,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy fishing rod",
@@ -4013,6 +4133,7 @@
     ],
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": true,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolNet",
@@ -4040,6 +4161,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy net",
@@ -4114,6 +4236,7 @@
     "sourceNotes": [ "Available after unlocking the shovel in the story" ],
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolShovelWood",
@@ -4141,6 +4264,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy shovel",
@@ -4215,6 +4339,7 @@
     ],
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": true,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolWateringWood",
@@ -4242,6 +4367,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy watering can",
@@ -4314,6 +4440,7 @@
     "sourceNotes": null,
     "seasonEvent": "Wedding Season (Nook Shopping 1)",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.10.0",
     "unlocked": true,
     "filename": "ToolFlowershower",
@@ -4341,6 +4468,7 @@
       "plural": false
     },
     "colors": [ "Brown", "Pink" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -4366,6 +4494,7 @@
     "sourceNotes": null,
     "seasonEvent": "Big Game Celebration (1)",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.7.0",
     "unlocked": true,
     "filename": "ToolMegaphone0",
@@ -4393,6 +4522,7 @@
       "plural": false
     },
     "colors": [ "Orange", "White" ],
+    "concepts": [ "fitness" ],
     "recipe": null
   },
   {
@@ -4418,6 +4548,7 @@
     "sourceNotes": null,
     "seasonEvent": "Big Game Celebration (1)",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.7.0",
     "unlocked": true,
     "filename": "ToolMegaphone3",
@@ -4445,6 +4576,7 @@
       "plural": false
     },
     "colors": [ "Blue", "Aqua" ],
+    "concepts": [ "fitness" ],
     "recipe": null
   },
   {
@@ -4470,6 +4602,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolAxeGold",
@@ -4497,6 +4630,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden axe",
@@ -4589,6 +4723,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": true,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolNetGold",
@@ -4616,6 +4751,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden net",
@@ -4708,6 +4844,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": true,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolFishingrodGold",
@@ -4735,6 +4872,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden rod",
@@ -4827,6 +4965,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolScoopGold",
@@ -4854,6 +4993,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden shovel",
@@ -4946,6 +5086,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolSlingshotGold",
@@ -4973,6 +5114,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden slingshot",
@@ -5065,6 +5207,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickGolden",
@@ -5092,6 +5235,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden wand",
@@ -5184,6 +5328,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": true,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolWateringGold",
@@ -5211,6 +5356,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden watering can",
@@ -5306,6 +5452,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolBalloonNormal3",
@@ -5333,6 +5480,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -5351,6 +5499,7 @@
     "translations": null,
     "source": [ "Nook Shopping Seasonal" ],
     "hhaBasePoints": 201,
+    "villagerEquippable": false,
     "unlocked": false,
     "variations": [
       {
@@ -5383,7 +5532,8 @@
           "korean": "별무늬",
           "russian": "Звезды"
         },
-        "colors": [ "Black", "Yellow" ]
+        "colors": [ "Black", "Yellow" ],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_1_0.png",
@@ -5400,7 +5550,8 @@
         "internalId": 14414,
         "uniqueEntryId": "fqt573z5JFpZHaxJA",
         "variantTranslations": null,
-        "colors": [ "Black", "Yellow" ]
+        "colors": [ "Black", "Yellow" ],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_2_0.png",
@@ -5417,7 +5568,8 @@
         "internalId": 14414,
         "uniqueEntryId": "C6WCovahHE2WbnvtZ",
         "variantTranslations": null,
-        "colors": [ "Colorful", "Orange" ]
+        "colors": [ "Colorful", "Orange" ],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_3_0.png",
@@ -5434,7 +5586,8 @@
         "internalId": 14414,
         "uniqueEntryId": "9Z9aw5RNmStuhsqN3",
         "variantTranslations": null,
-        "colors": [ "Yellow", "Orange" ]
+        "colors": [ "Yellow", "Orange" ],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_4_0.png",
@@ -5451,7 +5604,8 @@
         "internalId": 14414,
         "uniqueEntryId": "zYPuWTZ6SNmPNSspa",
         "variantTranslations": null,
-        "colors": [ "Yellow", "White" ]
+        "colors": [ "Yellow", "White" ],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_5_0.png",
@@ -5468,7 +5622,8 @@
         "internalId": 14414,
         "uniqueEntryId": "EFnR68jRfzXG5ppas",
         "variantTranslations": null,
-        "colors": [ "Yellow", "Green" ]
+        "colors": [ "Yellow", "Green" ],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -5496,6 +5651,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickHyacinth",
@@ -5523,6 +5679,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hyacinth wand",
@@ -5615,6 +5772,7 @@
     "sourceNotes": null,
     "seasonEvent": "snowflakes",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickSnow",
@@ -5642,6 +5800,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ice wand",
@@ -5734,6 +5893,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickIron",
@@ -5761,6 +5921,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron wand",
@@ -5853,6 +6014,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolLadder",
@@ -5880,6 +6042,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ladder",
@@ -5994,6 +6157,7 @@
     "sourceNotes": [ "Obtained by speaking to Isabelle on New Year's Eve" ],
     "seasonEvent": "Countdown",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolSticklight",
@@ -6021,6 +6185,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -6046,6 +6211,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickYuri",
@@ -6073,6 +6239,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lily wand",
@@ -6165,6 +6332,7 @@
     "sourceNotes": null,
     "seasonEvent": "Toy Day",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.6.0",
     "unlocked": true,
     "filename": "SantaSack",
@@ -6192,6 +6360,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -6217,6 +6386,7 @@
     "sourceNotes": [ "Mailed to players after the 1.7.0 update in a letter from Nintendo" ],
     "seasonEvent": null,
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.7.0",
     "unlocked": true,
     "filename": "ToolMaracasCarnival",
@@ -6244,6 +6414,7 @@
       "plural": false
     },
     "colors": [ "Orange", "Yellow" ],
+    "concepts": [ "party" ],
     "recipe": null
   },
   {
@@ -6265,10 +6436,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolCandyfloss2",
@@ -6277,6 +6449,7 @@
     "uniqueEntryId": "BtJiWNjd29ewLT7Ye",
     "translations": null,
     "colors": [ "Green", "Beige" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -6302,6 +6475,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickChrysanthemum",
@@ -6329,6 +6503,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mums wand",
@@ -6433,6 +6608,7 @@
     },
     "source": [ "Crafting" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": false,
     "unlocked": true,
     "variations": [
       {
@@ -6465,7 +6641,8 @@
           "korean": "흔한 버섯",
           "russian": "Обычный гриб"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_1_0.png",
@@ -6497,7 +6674,8 @@
           "korean": "하얀색 버섯",
           "russian": "Белый гриб"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_2_0.png",
@@ -6529,7 +6707,8 @@
           "korean": "수상한 버섯",
           "russian": "Странный гриб"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_3_0.png",
@@ -6561,7 +6740,8 @@
           "korean": "빨간색 버섯",
           "russian": "Красный гриб"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_4_0.png",
@@ -6593,7 +6773,8 @@
           "korean": "노란색 버섯",
           "russian": "Желтый гриб"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": {
@@ -6700,6 +6881,7 @@
     },
     "source": [ "Crafting" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -6732,7 +6914,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_1_0.png",
@@ -6764,7 +6947,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_2_0.png",
@@ -6796,7 +6980,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_3_0.png",
@@ -6828,7 +7013,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_4_0.png",
@@ -6860,7 +7046,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_5_0.png",
@@ -6892,7 +7079,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_6_0.png",
@@ -6924,7 +7112,8 @@
           "korean": "화이트",
           "russian": "Белый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_7_0.png",
@@ -6956,7 +7145,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": {
@@ -7051,6 +7241,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolOcarina",
@@ -7078,6 +7269,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ocarina",
@@ -7146,10 +7338,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolIcecandyPlayer0",
@@ -7158,6 +7351,7 @@
     "uniqueEntryId": "Bxfse8ejEoGCfxqC7",
     "translations": null,
     "colors": [ "Orange", "Beige" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -7195,6 +7389,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -7227,7 +7422,8 @@
           "korean": "카키",
           "russian": "Защитный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_1_0.png",
@@ -7259,7 +7455,8 @@
           "korean": "오렌지",
           "russian": "Оранжевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_2_0.png",
@@ -7291,7 +7488,8 @@
           "korean": "라이트 블루",
           "russian": "Голубой"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_3_0.png",
@@ -7323,7 +7521,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_4_0.png",
@@ -7355,7 +7554,8 @@
           "korean": "베이지",
           "russian": "Бежевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_5_0.png",
@@ -7387,7 +7587,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_6_0.png",
@@ -7419,7 +7620,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_7_0.png",
@@ -7451,7 +7653,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -7491,6 +7694,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -7523,7 +7727,8 @@
           "korean": "카키",
           "russian": "Защитный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_1_0.png",
@@ -7555,7 +7760,8 @@
           "korean": "오렌지",
           "russian": "Оранжевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_2_0.png",
@@ -7587,7 +7793,8 @@
           "korean": "라이트 블루",
           "russian": "Голубой"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_3_0.png",
@@ -7619,7 +7826,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_4_0.png",
@@ -7651,7 +7859,8 @@
           "korean": "베이지",
           "russian": "Бежевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_5_0.png",
@@ -7683,7 +7892,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_6_0.png",
@@ -7715,7 +7925,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_7_0.png",
@@ -7747,7 +7958,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -7787,6 +7999,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": false,
     "unlocked": true,
     "variations": [
       {
@@ -7819,7 +8032,8 @@
           "korean": "카키",
           "russian": "Защитный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_1_0.png",
@@ -7851,7 +8065,8 @@
           "korean": "오렌지",
           "russian": "Оранжевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_2_0.png",
@@ -7883,7 +8098,8 @@
           "korean": "라이트 블루",
           "russian": "Голубой"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_3_0.png",
@@ -7915,7 +8131,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_4_0.png",
@@ -7947,7 +8164,8 @@
           "korean": "베이지",
           "russian": "Бежевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_5_0.png",
@@ -7979,7 +8197,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_6_0.png",
@@ -8011,7 +8230,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_7_0.png",
@@ -8043,7 +8263,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -8083,6 +8304,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": false,
     "unlocked": true,
     "variations": [
       {
@@ -8115,7 +8337,8 @@
           "korean": "카키",
           "russian": "Защитный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_1_0.png",
@@ -8147,7 +8370,8 @@
           "korean": "오렌지",
           "russian": "Оранжевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_2_0.png",
@@ -8179,7 +8403,8 @@
           "korean": "라이트 블루",
           "russian": "Голубой"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_3_0.png",
@@ -8211,7 +8436,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_4_0.png",
@@ -8243,7 +8469,8 @@
           "korean": "베이지",
           "russian": "Бежевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_5_0.png",
@@ -8275,7 +8502,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_6_0.png",
@@ -8307,7 +8535,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_7_0.png",
@@ -8339,7 +8568,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -8379,6 +8609,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -8411,7 +8642,8 @@
           "korean": "카키",
           "russian": "Защитный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_1_0.png",
@@ -8443,7 +8675,8 @@
           "korean": "오렌지",
           "russian": "Оранжевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_2_0.png",
@@ -8475,7 +8708,8 @@
           "korean": "라이트 블루",
           "russian": "Голубой"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_3_0.png",
@@ -8507,7 +8741,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_4_0.png",
@@ -8539,7 +8774,8 @@
           "korean": "베이지",
           "russian": "Бежевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_5_0.png",
@@ -8571,7 +8807,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_6_0.png",
@@ -8603,7 +8840,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_7_0.png",
@@ -8635,7 +8873,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -8663,6 +8902,7 @@
     "sourceNotes": null,
     "seasonEvent": "young spring bamboo",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolPanpipe",
@@ -8690,6 +8930,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pan flute",
@@ -8762,6 +9003,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickPansy",
@@ -8789,6 +9031,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pansy wand",
@@ -8884,6 +9127,7 @@
     ],
     "seasonEvent": "Countdown",
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolCracker",
@@ -8911,6 +9155,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -8939,6 +9184,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolBalloonNormal4",
@@ -8966,6 +9212,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -8994,6 +9241,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolWindmill",
@@ -9021,6 +9269,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -9042,10 +9291,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolCandyfloss0",
@@ -9054,6 +9304,7 @@
     "uniqueEntryId": "t2RZQ8t2N95TqLqbs",
     "translations": null,
     "colors": [ "White", "Beige" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -9091,6 +9342,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": false,
     "unlocked": true,
     "variations": [
       {
@@ -9123,7 +9375,8 @@
           "korean": "라이트 블루",
           "russian": "Голубой"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_1_0.png",
@@ -9155,7 +9408,8 @@
           "korean": "화이트",
           "russian": "Белый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_2_0.png",
@@ -9187,7 +9441,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_3_0.png",
@@ -9219,7 +9474,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_4_0.png",
@@ -9251,7 +9507,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_5_0.png",
@@ -9283,7 +9540,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_6_0.png",
@@ -9315,7 +9573,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_7_0.png",
@@ -9347,7 +9606,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -9371,10 +9631,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolCandyfloss3",
@@ -9383,6 +9644,7 @@
     "uniqueEntryId": "XZ3KvjcLZCWX38vAe",
     "translations": null,
     "colors": [ "Aqua", "Beige" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -9404,10 +9666,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolIcecandyPlayer1",
@@ -9416,6 +9679,7 @@
     "uniqueEntryId": "5i9FTKgXZ5wANJrLq",
     "translations": null,
     "colors": [ "Aqua", "Beige" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -9444,6 +9708,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolBalloonNormal1",
@@ -9471,6 +9736,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -9499,6 +9765,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolFireworks",
@@ -9526,6 +9793,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -9551,6 +9819,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickRose",
@@ -9578,6 +9847,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rose wand",
@@ -9670,6 +9940,7 @@
     "sourceNotes": null,
     "seasonEvent": "Shamrock Day",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.8.0",
     "unlocked": true,
     "filename": "ToolJuiceShamrock",
@@ -9697,6 +9968,7 @@
       "plural": false
     },
     "colors": [ "Green", "White" ],
+    "concepts": [ "party" ],
     "recipe": null
   },
   {
@@ -9722,6 +9994,7 @@
     "sourceNotes": null,
     "seasonEvent": "Shamrock Day",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.8.0",
     "unlocked": true,
     "filename": "ToolStickShamrock",
@@ -9749,6 +10022,7 @@
       "plural": false
     },
     "colors": [ "Green", "Black" ],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shamrock wand",
@@ -9841,6 +10115,7 @@
     "sourceNotes": null,
     "seasonEvent": "summer shells",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickShell",
@@ -9868,6 +10143,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shell wand",
@@ -9972,6 +10248,7 @@
     },
     "source": [ "Crafting" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": false,
     "unlocked": true,
     "variations": [
       {
@@ -10004,7 +10281,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_1_0.png",
@@ -10036,7 +10314,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_2_0.png",
@@ -10068,7 +10347,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_3_0.png",
@@ -10100,7 +10380,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_4_0.png",
@@ -10132,7 +10413,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_5_0.png",
@@ -10164,7 +10446,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_6_0.png",
@@ -10196,7 +10479,8 @@
           "korean": "화이트",
           "russian": "Белый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_7_0.png",
@@ -10228,7 +10512,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": {
@@ -10337,6 +10622,7 @@
     },
     "source": [ "Crafting", "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": false,
     "unlocked": true,
     "variations": [
       {
@@ -10369,7 +10655,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_1_0.png",
@@ -10401,7 +10688,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_2_0.png",
@@ -10433,7 +10721,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_3_0.png",
@@ -10465,7 +10754,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_4_0.png",
@@ -10497,7 +10787,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_5_0.png",
@@ -10529,7 +10820,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_6_0.png",
@@ -10561,7 +10853,8 @@
           "korean": "화이트",
           "russian": "Белый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_7_0.png",
@@ -10593,7 +10886,8 @@
           "korean": "그레이",
           "russian": "Серый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": {
@@ -10668,6 +10962,7 @@
     "sourceNotes": null,
     "seasonEvent": "New Year's Eve",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.6.0",
     "unlocked": true,
     "filename": "ToolJuiceFuzzyapple",
@@ -10695,6 +10990,7 @@
       "plural": false
     },
     "colors": [ "Yellow", "Aqua" ],
+    "concepts": [ "party" ],
     "recipe": null
   },
   {
@@ -10713,6 +11009,7 @@
     "translations": null,
     "source": [ "Crafting", "Nook's Cranny" ],
     "hhaBasePoints": 201,
+    "villagerEquippable": false,
     "unlocked": true,
     "variations": [
       {
@@ -10745,7 +11042,8 @@
           "korean": "오렌지",
           "russian": "Оранжевый"
         },
-        "colors": [ "Orange", "Black" ]
+        "colors": [ "Orange", "Black" ],
+        "concepts": [ "horror" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolBasketHalloween_Remake_1_0.png",
@@ -10777,7 +11075,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": [ "Yellow", "Black" ]
+        "colors": [ "Yellow", "Black" ],
+        "concepts": [ "horror" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolBasketHalloween_Remake_2_0.png",
@@ -10809,7 +11108,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": [ "Green", "Black" ]
+        "colors": [ "Green", "Black" ],
+        "concepts": [ "horror" ]
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolBasketHalloween_Remake_3_0.png",
@@ -10841,7 +11141,8 @@
           "korean": "모노톤",
           "russian": "Монохромный"
         },
-        "colors": [ "White", "Black" ]
+        "colors": [ "White", "Black" ],
+        "concepts": [ "horror" ]
       }
     ],
     "recipe": {
@@ -10938,6 +11239,7 @@
     "sourceNotes": null,
     "seasonEvent": "Halloween",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.5.0",
     "unlocked": true,
     "filename": "ToolStickHalloween",
@@ -10965,6 +11267,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "spooky wand",
@@ -11069,6 +11372,7 @@
     },
     "source": [ "Nook's Cranny" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -11101,7 +11405,8 @@
           "korean": "옐로",
           "russian": "Желтый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_1_0.png",
@@ -11133,7 +11438,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_2_0.png",
@@ -11165,7 +11471,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_3_0.png",
@@ -11197,7 +11504,8 @@
           "korean": "라이트 그린",
           "russian": "Светло-зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_4_0.png",
@@ -11229,7 +11537,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_5_0.png",
@@ -11261,7 +11570,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_6_0.png",
@@ -11293,7 +11603,8 @@
           "korean": "라이트 블루",
           "russian": "Голубой"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_7_0.png",
@@ -11325,7 +11636,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": null
@@ -11353,6 +11665,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolChangeStick",
@@ -11380,6 +11693,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "star wand",
@@ -11472,6 +11786,7 @@
     "sourceNotes": null,
     "seasonEvent": "Big Game Celebration (1)",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.7.0",
     "unlocked": true,
     "filename": "ToolMegaphone2",
@@ -11499,6 +11814,7 @@
       "plural": false
     },
     "colors": [ "Yellow", "Colorful" ],
+    "concepts": [ "fitness" ],
     "recipe": null
   },
   {
@@ -11524,6 +11840,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolAxeStoneNormal",
@@ -11551,6 +11868,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone axe",
@@ -11639,10 +11957,11 @@
     "set": null,
     "exchangePrice": null,
     "exchangeCurrency": null,
-    "source": [ "Redd's Raffle", "Nook's Cranny" ],
+    "source": [ "Redd's Raffle" ],
     "sourceNotes": null,
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.11.0",
     "unlocked": true,
     "filename": "ToolCandyfloss1",
@@ -11651,6 +11970,7 @@
     "uniqueEntryId": "CdFxYJ9eRjApQfEQM",
     "translations": null,
     "colors": [ "Pink", "Beige" ],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -11676,6 +11996,7 @@
     "sourceNotes": [ "Available in the re-buyable slot in Nook's Cranny" ],
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolTambourine",
@@ -11703,6 +12024,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -11728,6 +12050,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolTimer",
@@ -11755,6 +12078,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -11780,6 +12104,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickTree",
@@ -11807,6 +12132,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tree-branch wand",
@@ -11899,6 +12225,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickTulip",
@@ -11926,6 +12253,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tulip wand",
@@ -12021,6 +12349,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolBlowouts",
@@ -12048,6 +12377,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -12076,6 +12406,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolPaperFan",
@@ -12103,6 +12434,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -12128,6 +12460,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "LongWoodenStick",
@@ -12155,6 +12488,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "vaulting pole",
@@ -12227,6 +12561,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickWood",
@@ -12254,6 +12589,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wand",
@@ -12338,6 +12674,7 @@
     },
     "source": [ "Crafting" ],
     "hhaBasePoints": 0,
+    "villagerEquippable": true,
     "unlocked": true,
     "variations": [
       {
@@ -12370,7 +12707,8 @@
           "korean": "블루",
           "russian": "Синий"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_1_0.png",
@@ -12402,7 +12740,8 @@
           "korean": "오렌지",
           "russian": "Оранжевый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_2_0.png",
@@ -12434,7 +12773,8 @@
           "korean": "그린",
           "russian": "Зеленый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_3_0.png",
@@ -12466,7 +12806,8 @@
           "korean": "레드",
           "russian": "Красный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_4_0.png",
@@ -12498,7 +12839,8 @@
           "korean": "퍼플",
           "russian": "Фиолетовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_5_0.png",
@@ -12530,7 +12872,8 @@
           "korean": "핑크",
           "russian": "Розовый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_6_0.png",
@@ -12562,7 +12905,8 @@
           "korean": "화이트",
           "russian": "Белый"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       },
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_7_0.png",
@@ -12594,7 +12938,8 @@
           "korean": "블랙",
           "russian": "Черный"
         },
-        "colors": []
+        "colors": [],
+        "concepts": []
       }
     ],
     "recipe": {
@@ -12689,6 +13034,7 @@
     "sourceNotes": null,
     "seasonEvent": "Wedding Season",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.2.0",
     "unlocked": true,
     "filename": "ToolStickJune",
@@ -12716,6 +13062,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wedding wand",
@@ -12808,6 +13155,7 @@
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
+    "villagerEquippable": false,
     "versionAdded": "1.0.0",
     "unlocked": true,
     "filename": "ToolStickAnemones",
@@ -12835,6 +13183,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "windflower wand",
@@ -12927,6 +13276,7 @@
     "sourceNotes": null,
     "seasonEvent": "May Day",
     "seasonEventExclusive": true,
+    "villagerEquippable": false,
     "versionAdded": "1.2.0",
     "unlocked": true,
     "filename": "ToolAxeFragile",
@@ -12954,6 +13304,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   },
   {
@@ -12982,6 +13333,7 @@
     ],
     "seasonEvent": "Fireworks Show",
     "seasonEventExclusive": false,
+    "villagerEquippable": false,
     "versionAdded": "1.4.0",
     "unlocked": true,
     "filename": "ToolBalloonNormal2",
@@ -13009,6 +13361,7 @@
       "plural": false
     },
     "colors": [],
+    "concepts": [],
     "recipe": null
   }
 ]

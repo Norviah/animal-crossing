@@ -3,7 +3,7 @@ export interface Villager {
     name:                      string;
     iconImage:                 string;
     photoImage:                string;
-    houseImage:                null | string;
+    houseImage:                string;
     species:                   string;
     gender:                    Gender;
     personality:               Personality;
