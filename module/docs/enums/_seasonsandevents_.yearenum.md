@@ -14,4 +14,4 @@
 
 • **Any**: = "Any"
 
-*Defined in [SeasonsAndEvents.ts:79](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/SeasonsAndEvents.ts#L79)*
+*Defined in [SeasonsAndEvents.ts:79](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/SeasonsAndEvents.ts#L79)*

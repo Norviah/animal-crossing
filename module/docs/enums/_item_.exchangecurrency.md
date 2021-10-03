@@ -16,7 +16,7 @@
 
 • **HeartCrystals**: = "Heart Crystals"
 
-*Defined in [Item.ts:198](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L198)*
+*Defined in [Item.ts:198](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Item.ts#L198)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **NookMiles**: = "Nook Miles"
 
-*Defined in [Item.ts:199](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L199)*
+*Defined in [Item.ts:199](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Item.ts#L199)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **NookPoints**: = "Nook Points"
 
-*Defined in [Item.ts:200](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L200)*
+*Defined in [Item.ts:200](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Item.ts#L200)*

@@ -22,7 +22,7 @@
 
 • **Equipment**: = "Equipment"
 
-*Defined in [Recipe.ts:50](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Recipe.ts#L50)*
+*Defined in [Recipe.ts:50](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Recipe.ts#L50)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **Floors**: = "Floors"
 
-*Defined in [Recipe.ts:51](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Recipe.ts#L51)*
+*Defined in [Recipe.ts:51](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Recipe.ts#L51)*
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 • **Housewares**: = "Housewares"
 
-*Defined in [Recipe.ts:52](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Recipe.ts#L52)*
+*Defined in [Recipe.ts:52](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Recipe.ts#L52)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **Miscellaneous**: = "Miscellaneous"
 
-*Defined in [Recipe.ts:53](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Recipe.ts#L53)*
+*Defined in [Recipe.ts:53](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Recipe.ts#L53)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **Other**: = "Other"
 
-*Defined in [Recipe.ts:54](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Recipe.ts#L54)*
+*Defined in [Recipe.ts:54](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Recipe.ts#L54)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **Rugs**: = "Rugs"
 
-*Defined in [Recipe.ts:55](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Recipe.ts#L55)*
+*Defined in [Recipe.ts:55](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Recipe.ts#L55)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **Tools**: = "Tools"
 
-*Defined in [Recipe.ts:56](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Recipe.ts#L56)*
+*Defined in [Recipe.ts:56](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Recipe.ts#L56)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **WallMounted**: = "Wall-mounted"
 
-*Defined in [Recipe.ts:57](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Recipe.ts#L57)*
+*Defined in [Recipe.ts:57](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Recipe.ts#L57)*
 
 ___
 
@@ -86,4 +86,4 @@ ___
 
 • **Wallpaper**: = "Wallpaper"
 
-*Defined in [Recipe.ts:58](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Recipe.ts#L58)*
+*Defined in [Recipe.ts:58](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Recipe.ts#L58)*

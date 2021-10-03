@@ -14,4 +14,4 @@
 
 • **SpecialNPCS**: = "Special NPCs"
 
-*Defined in [NPC.ts:26](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/NPC.ts#L26)*
+*Defined in [NPC.ts:26](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/NPC.ts#L26)*
