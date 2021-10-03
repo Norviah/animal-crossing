@@ -1,4 +1,11 @@
 
+## [7.8.0](https://github.com/Norviah/animal-crossing/compare/v7.7.0...v7.8.0) (2021-10-03)
+
+
+### Additions
+
+* implement additions/changes up to 10/2 ([fc1c04c](https://github.com/Norviah/animal-crossing/commit/fc1c04cd492d504091e04f122044e933311c9637))
+
 ## [7.7.0](https://github.com/Norviah/animal-crossing/compare/v7.6.0...v7.7.0) (2021-08-02)
 
 

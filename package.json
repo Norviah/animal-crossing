@@ -1,6 +1,6 @@
 {
   "name": "animal-crossing",
-  "version": "7.7.0",
+  "version": "7.8.0",
   "description": "A database for Animal Crossing: New Horizons.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
