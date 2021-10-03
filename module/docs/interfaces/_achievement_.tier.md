@@ -21,7 +21,7 @@
 
 • **modifier**: *string*
 
-*Defined in [Achievement.ts:26](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Achievement.ts#L26)*
+*Defined in [Achievement.ts:26](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Achievement.ts#L26)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **nouns**: *string[]*
 
-*Defined in [Achievement.ts:25](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Achievement.ts#L25)*
+*Defined in [Achievement.ts:25](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Achievement.ts#L25)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **required**: *string*
 
-*Defined in [Achievement.ts:23](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Achievement.ts#L23)*
+*Defined in [Achievement.ts:23](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Achievement.ts#L23)*
 
 ___
 
@@ -45,4 +45,4 @@ ___
 
 • **reward**: *string*
 
-*Defined in [Achievement.ts:24](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Achievement.ts#L24)*
+*Defined in [Achievement.ts:24](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Achievement.ts#L24)*

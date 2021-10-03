@@ -16,7 +16,7 @@
 
 • **Normal**: = "Normal"
 
-*Defined in [Item.ts:696](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L696)*
+*Defined in [Item.ts:696](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Item.ts#L696)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **Pumpkin**: = "Pumpkin"
 
-*Defined in [Item.ts:697](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L697)*
+*Defined in [Item.ts:697](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Item.ts#L697)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **RainbowFeather**: = "Rainbow feather"
 
-*Defined in [Item.ts:698](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Item.ts#L698)*
+*Defined in [Item.ts:698](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Item.ts#L698)*

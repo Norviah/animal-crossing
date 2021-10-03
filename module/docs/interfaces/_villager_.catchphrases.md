@@ -35,7 +35,7 @@
 
 • **chinese**: *string*
 
-*Defined in [Villager.ts:49](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L49)*
+*Defined in [Villager.ts:49](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L49)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **chineseTraditional**: *string*
 
-*Defined in [Villager.ts:50](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L50)*
+*Defined in [Villager.ts:50](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L50)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **dutch**: *string*
 
-*Defined in [Villager.ts:48](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L48)*
+*Defined in [Villager.ts:48](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L48)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **english**: *string*
 
-*Defined in [Villager.ts:40](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L40)*
+*Defined in [Villager.ts:40](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L40)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **englishEurope**: *string*
 
-*Defined in [Villager.ts:41](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L41)*
+*Defined in [Villager.ts:41](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L41)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **french**: *string*
 
-*Defined in [Villager.ts:45](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L45)*
+*Defined in [Villager.ts:45](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L45)*
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 • **frenchUs**: *string*
 
-*Defined in [Villager.ts:46](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L46)*
+*Defined in [Villager.ts:46](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L46)*
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 • **german**: *string*
 
-*Defined in [Villager.ts:42](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L42)*
+*Defined in [Villager.ts:42](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L42)*
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [Villager.ts:38](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L38)*
+*Defined in [Villager.ts:38](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L38)*
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 • **italian**: *string*
 
-*Defined in [Villager.ts:47](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L47)*
+*Defined in [Villager.ts:47](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L47)*
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 • **japanese**: *string*
 
-*Defined in [Villager.ts:51](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L51)*
+*Defined in [Villager.ts:51](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L51)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 • **korean**: *string*
 
-*Defined in [Villager.ts:52](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L52)*
+*Defined in [Villager.ts:52](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L52)*
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 • **plural**: *boolean*
 
-*Defined in [Villager.ts:54](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L54)*
+*Defined in [Villager.ts:54](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L54)*
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 • **russian**: *string*
 
-*Defined in [Villager.ts:53](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L53)*
+*Defined in [Villager.ts:53](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L53)*
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 • **sourceSheet**: *[SourceSheet](../enums/_villager_.sourcesheet.md)*
 
-*Defined in [Villager.ts:37](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L37)*
+*Defined in [Villager.ts:37](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L37)*
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 • **spanish**: *string*
 
-*Defined in [Villager.ts:43](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L43)*
+*Defined in [Villager.ts:43](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L43)*
 
 ___
 
@@ -163,7 +163,7 @@ ___
 
 • **spanishUs**: *string*
 
-*Defined in [Villager.ts:44](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L44)*
+*Defined in [Villager.ts:44](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L44)*
 
 ___
 
@@ -171,4 +171,4 @@ ___
 
 • **version**: *[Version](../enums/_villager_.version.md)*
 
-*Defined in [Villager.ts:39](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L39)*
+*Defined in [Villager.ts:39](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L39)*

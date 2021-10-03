@@ -21,7 +21,7 @@
 
 • **BigSister**: = "Big Sister"
 
-*Defined in [Villager.ts:99](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L99)*
+*Defined in [Villager.ts:99](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L99)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **Cranky**: = "Cranky"
 
-*Defined in [Villager.ts:100](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L100)*
+*Defined in [Villager.ts:100](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L100)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **Jock**: = "Jock"
 
-*Defined in [Villager.ts:101](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L101)*
+*Defined in [Villager.ts:101](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L101)*
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 • **Lazy**: = "Lazy"
 
-*Defined in [Villager.ts:102](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L102)*
+*Defined in [Villager.ts:102](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L102)*
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 • **Normal**: = "Normal"
 
-*Defined in [Villager.ts:103](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L103)*
+*Defined in [Villager.ts:103](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L103)*
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 • **Peppy**: = "Peppy"
 
-*Defined in [Villager.ts:104](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L104)*
+*Defined in [Villager.ts:104](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L104)*
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 • **Smug**: = "Smug"
 
-*Defined in [Villager.ts:105](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L105)*
+*Defined in [Villager.ts:105](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L105)*
 
 ___
 
@@ -77,4 +77,4 @@ ___
 
 • **Snooty**: = "Snooty"
 
-*Defined in [Villager.ts:106](https://github.com/Norviah/animal-crossing/blob/3d769dc/module/types/Villager.ts#L106)*
+*Defined in [Villager.ts:106](https://github.com/Norviah/animal-crossing/blob/267b9fa/module/types/Villager.ts#L106)*
