@@ -4,7 +4,7 @@
 export const categories = {
   Items: [
     'Accessories',
-    'Art',
+    'Artwork',
     'Bags',
     'Bottoms',
     'Clothing Other',
@@ -32,6 +32,7 @@ export const categories = {
   Achievements: ['Achievements'],
   Creatures: ['Fish', 'Insects', 'Sea Creatures'],
   Recipes: ['Recipes'],
+  Gyroids: ['Gyroids'],
   Villagers: ['Villagers'],
   Construction: ['Construction'],
   Reactions: ['Reactions'],

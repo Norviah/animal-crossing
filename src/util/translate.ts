@@ -35,9 +35,13 @@ const translations: obj[] = get(join(directories.sanitized, 'Translations.json')
  */
 export function find(name: string, sheets?: string[] | string): obj | null {
   const translation: obj | undefined = translations.find((translation: obj) => {
+    if (translation.uSen === null) {
+      return false;
+    }
+
     // If the translation doesn't share the same name for the item we're looking
     // for, we'll continue to the next iteration.
-    if (translation.english.toString().toLowerCase() !== name.toLowerCase()) {
+    if (translation.uSen.toString().toLowerCase() !== name.toLowerCase()) {
       return false;
     }
 
@@ -83,7 +87,7 @@ export function translate(item: obj): void {
   // Before we try finding a translation, we'll check to see if every
   // translation in the array relates to the same item, as the internal IDs for
   // some categories may still mix with the IDs for other categories.
-  const identical: boolean = options.every((translation) => translation.english === options[0].english);
+  const identical: boolean = options.every((translation) => translation.uSen === options[0].uSen);
 
   let translation: obj | undefined = options.find((translation) => {
     // This check ensures that the translation isn't from a unwanted tab.
@@ -96,7 +100,7 @@ export function translate(item: obj): void {
     // that isn't from an unwanted tab. If the opposite is true, meaning that
     // the array has translations for atleast two different items, we'll ensure
     // that the translation is for the item by checking the item's name.
-    return identical ? true : translation.english.toString().toLowerCase() === (item.name ?? item.event)?.toLowerCase();
+    return identical ? true : translation.uSen.toString().toLowerCase() === (item.name ?? item.event)?.toLowerCase();
   });
 
   // Translations for villagers are a special case, as they have translations
@@ -118,13 +122,17 @@ export function translate(item: obj): void {
     // variation itself. Since we have an array containing the translations for
     // every variation of the item and the item itself, we'll simply find the
     // translation for the variation.
-    item.variantTranslations = options.find((translation) => translation.english === item.variation) ?? null;
+    item.variantTranslations = options.find((translation) => translation.uSen === item.variation) ?? null;
 
     // Some items don't have a specific translation for their variation, so
     // we'll simply grab a translation for the same variation of another item
     // and we'll remove the values that relate to the item that we got it from.
     if (!item.variantTranslations) {
-      const translation: obj | null = find(item.variation, 'Variants');
+      //try {
+      const translation: obj | null = find(String(item.variation), 'Variants');
+      //} catch (exception) {
+      //  console.log(item);
+      //}
 
       // Remove any values from the translation that points to an item.
       item.variantTranslations = translation ? omit(translation, uniqueValues) : null;
@@ -137,7 +145,7 @@ export function translate(item: obj): void {
     // as the item, so the array will be a container of every translation with
     // the same ID, so in order to find the translation for the pattern, we'll
     // look for one by checking the English translation of every translation.
-    item.patternTranslations = options.find((translation) => translation.english === item.pattern) ?? null;
+    item.patternTranslations = options.find((translation) => translation.uSen === item.pattern) ?? null;
 
     // Again, similar to variations, some items don't have a translation for
     // specific pattern available from the translations spreadsheet, so we'll
@@ -178,7 +186,7 @@ export function translate(item: obj): void {
   // If we can't find a translation using the item's ID, we'll try to find one
   // in a brute-force like attempt by finding a translation with the same name.
   if (!translation) {
-    translation = translations.find((translation: any) => translation.english === (item.name ?? item.event));
+    translation = translations.find((translation: any) => translation.uSen === (item.name ?? item.event));
   }
 
   // The set of IDs for achievements have same entries for IDs of other tabs,
@@ -187,6 +195,13 @@ export function translate(item: obj): void {
   // translations spreadsheet, so we'll set it to undefined.
   if (item.sourceSheet === 'Achievements') {
     translation = undefined;
+  }
+
+  if (item.sourceSheet === 'Artwork') {
+    // As we have both options in the initialized array, we don't need to
+    // research through every translations again, we just need to find the
+    // translation with the correct source sheet name.
+    translation = options.find((translation) => translation.sourceSheet === 'Art');
   }
 
   item.translations = translation ?? null;

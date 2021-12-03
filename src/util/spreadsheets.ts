@@ -14,8 +14,8 @@ export const spreadsheets: Spreadsheet[] = [
   },
 
   {
-    id: '1GwUuCKgJC61qWEjWyeG3nVjkHesszRL6XbPA_dHfLoI',
-    exclude: ['READ ME', 'Changelog'],
+    id: '1MMbsvDfu59OY9YBEAfHhFJ6O8vRTllNFgMrX7RBZuyI',
+    exclude: ['Readme'],
     data: directories.translations,
   },
 ];

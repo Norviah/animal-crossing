@@ -47,8 +47,8 @@
     "json-beautify": "^1.1.1",
     "lodash": "^4.17.15",
     "prettier": "^2.0.5",
-    "quicktype": "^15.0.245",
-    "standard-version": "^8.0.0",
+    "quicktype": "^15.0.240",
+    "standard-version": "^9.3.2",
     "typedoc": "^0.17.7",
     "typedoc-plugin-markdown": "^2.3.1",
     "typescript": "^3.9.5"
