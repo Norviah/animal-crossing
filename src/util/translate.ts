@@ -82,7 +82,8 @@ export function translate(item: obj): void {
 
   // We'll initialize an array containing every translation that shares the same
   // internal ID as the given item.
-  const options: obj[] = translations.filter((translation) => (translation.clothGroup ?? translation.id) === id);
+  const options: obj[] = translations.filter((translation) => (translation.clothGroup ?? translation.id) == id);
+  // IDs can be string or number, so we use a non-strict == comparison
 
   // Before we try finding a translation, we'll check to see if every
   // translation in the array relates to the same item, as the internal IDs for
@@ -128,11 +129,7 @@ export function translate(item: obj): void {
     // we'll simply grab a translation for the same variation of another item
     // and we'll remove the values that relate to the item that we got it from.
     if (!item.variantTranslations) {
-      //try {
       const translation: obj | null = find(String(item.variation), 'Variants');
-      //} catch (exception) {
-      //  console.log(item);
-      //}
 
       // Remove any values from the translation that points to an item.
       item.variantTranslations = translation ? omit(translation, uniqueValues) : null;
