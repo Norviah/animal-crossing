@@ -4,7 +4,7 @@
 export const categories = {
   Items: [
     'Accessories',
-    'Art',
+    'Artwork',
     'Bags',
     'Bottoms',
     'Clothing Other',
@@ -12,6 +12,7 @@ export const categories = {
     'Fencing',
     'Floors',
     'Fossils',
+    'Gyroids',
     'Headwear',
     'Housewares',
     'Message Cards',
@@ -23,7 +24,7 @@ export const categories = {
     'Rugs',
     'Shoes',
     'Socks',
-    'Tools',
+    'Tools-Goods',
     'Tops',
     'Umbrellas',
     'Wall-mounted',

@@ -5,7 +5,7 @@ import beautify from 'json-beautify';
  * Sorts an array based off of the name of each element.
  */
 function sort(a: any, b: any): number {
-  return (a.name ?? a.english ?? a.event) > (b.name ?? b.english ?? b.event) ? 1 : -1;
+  return (a.name ?? a.uSen ?? a.event) > (b.name ?? b.uSen ?? b.event) ? 1 : -1;
 }
 
 /**

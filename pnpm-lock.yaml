@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@norviah/sheets': ^4.1.0
+  '@norviah/sheets': ^4.2.0
   '@types/app-root-path': ^1.2.4
   '@types/lodash': ^4.14.177
   '@types/node': ^16.11.11
@@ -23,7 +23,7 @@ specifiers:
   typescript: ^4.5.2
 
 devDependencies:
-  '@norviah/sheets': 4.1.0
+  '@norviah/sheets': 4.2.0
   '@types/app-root-path': 1.2.4
   '@types/lodash': 4.14.177
   '@types/node': 16.11.11
@@ -141,8 +141,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@norviah/sheets/4.1.0:
-    resolution: {integrity: sha512-tKANB3lte/Xn7l0Z59eg0u2TlnSHQrHlvcI4hbijqTsu/E+Ef8RpJhnKH6QWemQV/oQtcXzkSEW8rqJ5DpIbyw==}
+  /@norviah/sheets/4.2.0:
+    resolution: {integrity: sha512-q1weY9T2xQtAMNJL4DtCAj045qusqfIz53LBQiksdGCXnl3j3q1SEAJQGIq5B4viNLgYBVWviq3PAU+A1lwgwg==}
     dependencies:
       app-root-path: 3.0.0
       exponential-backoff: 3.0.1
@@ -1375,7 +1375,7 @@ packages:
       extend: 3.0.2
       https-proxy-agent: 5.0.0
       is-stream: 2.0.0
-      node-fetch: 2.6.0
+      node-fetch: 2.6.6
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -2156,11 +2156,6 @@ packages:
       is-stream: 1.1.0
     dev: true
 
-  /node-fetch/2.6.0:
-    resolution: {integrity: sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==}
-    engines: {node: 4.x || >=6.0.0}
-    dev: true
-
   /node-fetch/2.6.6:
     resolution: {integrity: sha512-Z8/6vRlTUChSdIgMa51jxQ4lrw/Jy5SOW10ObaA47/RElsAN2c5Pn8bTgFGWn/ibwzXTE8qwr1Yzx28vsecXEA==}
     engines: {node: 4.x || >=6.0.0}
@@ -2265,7 +2260,7 @@ packages:
       is-interactive: 1.0.0
       log-symbols: 3.0.0
       mute-stream: 0.0.8
-      strip-ansi: 6.0.0
+      strip-ansi: 6.0.1
       wcwidth: 1.0.1
     dev: true
 

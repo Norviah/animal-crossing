@@ -13,3 +13,7 @@ location="./module/types"
 ./node_modules/quicktype/dist/cli/index.js "$data/Villagers.json"                 --just-types -t Villager         -o "$location/Villager.ts"
 ./node_modules/quicktype/dist/cli/index.js "$data/NPCs.json"                      --just-types -t NPC              -o "$location/NPC.ts"
 ./node_modules/quicktype/dist/cli/index.js "$data/SeasonsAndEvents.json"          --just-types -t SeasonsAndEvents -o "$location/SeasonsAndEvents.ts" --no-date-times
+
+# After generating TypeScript declaration files, we'll handle the item file specifically
+# as it contains an invalid character for an enum, so we'll wrap it with strings.
+sed -i -e "s/[^'\"]きのみ・おちば[^'\"]/'きのみ・おちば'/g" "$location/Item.ts"

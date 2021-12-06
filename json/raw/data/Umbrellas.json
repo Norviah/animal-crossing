@@ -1807,5 +1807,32 @@
     "Filename": "UmbrellaPacodarace3",
     "Internal ID": 12135,
     "Unique Entry ID": "4btSNLBHRoocAXfgE"
+  },
+  {
+    "SourceSheet": "Umbrellas",
+    "Name": "Paradise Planning umbrella",
+    "Storage Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/UmbrellaTakumi0.png\")",
+    "DIY": "No",
+    "Buy": "NFS",
+    "Sell": 500,
+    "HHA Base Points": 151,
+    "Color 1": "Red",
+    "Color 2": "Red",
+    "Size": "1x1",
+    "Exchange Price": 1800,
+    "Exchange Currency": "Poki",
+    "Source": "Wardell",
+    "Source Notes": "",
+    "Season/Event": "Happy Home Paradise",
+    "Season/Event Exclusive": "Yes",
+    "Gender": "Free",
+    "Villager Gender": "Free",
+    "Villager Equippable": "Yes",
+    "Catalog": "Not for sale",
+    "Version Added": "2.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "UmbrellaTakumi0",
+    "Internal ID": 14464,
+    "Unique Entry ID": "RGq2nBQy9M3REEbrt"
   }
 ]
