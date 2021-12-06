@@ -113,7 +113,7 @@ export function translate(item: obj): void {
     // translation with the correct source sheet name.
     translation = options.find((translation) => translation.sourceSheet === 'Villagers');
 
-    item.catchphrases = options.find((translation) => translation.sourceSheet === 'Villagers Catch Phrase') ?? null;
+    item.catchphrases = options.find((translation) => translation.sourceSheet === 'Villager Catchphrases') ?? null;
   }
 
   // If the item has a variation, we'll try to find translations for it.
