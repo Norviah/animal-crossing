@@ -24,7 +24,7 @@ export const categories = {
     'Rugs',
     'Shoes',
     'Socks',
-    'Tools',
+    'Tools-Goods',
     'Tops',
     'Umbrellas',
     'Wall-mounted',
