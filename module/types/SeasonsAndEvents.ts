@@ -21,30 +21,28 @@ export enum SeasonsAndEventSourceSheet {
 }
 
 export interface Translations {
-    sourceSheet:        TranslationsSourceSheet;
-    id:                 number | string;
-    version:            string;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
-    plural:             boolean;
+    sourceSheet: TranslationsSourceSheet;
+    id:          number | string;
+    eUde:        string;
+    eUen:        string;
+    eUit:        string;
+    eUnl:        string;
+    eUru:        string;
+    eUfr:        string;
+    eUes:        string;
+    uSen:        string;
+    uSfr:        string;
+    uSes:        string;
+    jPja:        string;
+    kRko:        string;
+    tWzh:        string;
+    cNzh:        string;
+    plural:      boolean;
 }
 
 export enum TranslationsSourceSheet {
-    Constellations = "Constellations",
-    Craft = "Craft",
-    Events = "Events",
+    CraftingItems = "Crafting Items",
+    EventNames = "Event Names",
     HHAThemes = "HHA Themes",
     Shells = "Shells",
 }
@@ -73,6 +71,7 @@ export enum VersionLastUpdated {
     The170 = "1.7.0",
     The180 = "1.8.0",
     The190 = "1.9.0",
+    The200 = "2.0.0",
 }
 
 export enum YearEnum {

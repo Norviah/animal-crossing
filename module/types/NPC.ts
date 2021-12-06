@@ -9,8 +9,8 @@ export interface Npc {
     npcId:         string;
     internalId:    number;
     birthday:      string;
-    nameColor:     string;
-    bubbleColor:   string;
+    nameColor:     null | string;
+    bubbleColor:   null | string;
     iconFilename:  null | string;
     photoFilename: null | string;
     uniqueEntryId: string;
@@ -27,27 +27,21 @@ export enum SourceSheet {
 }
 
 export interface Translations {
-    sourceSheet:        SourceSheet;
-    id:                 string;
-    version:            Version;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
-    plural:             boolean;
-}
-
-export enum Version {
-    The100 = "1.0.0",
-    The130 = "1.3.0",
+    sourceSheet: SourceSheet;
+    id:          string;
+    eUde:        string;
+    eUen:        string;
+    eUit:        string;
+    eUnl:        string;
+    eUru:        string;
+    eUfr:        string;
+    eUes:        string;
+    uSen:        string;
+    uSfr:        string;
+    uSes:        string;
+    jPja:        string;
+    kRko:        string;
+    tWzh:        string;
+    cNzh:        string;
+    plural:      boolean;
 }

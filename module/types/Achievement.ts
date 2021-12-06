@@ -3,11 +3,11 @@ export interface Achievement {
     name:                   string;
     achievementDescription: string;
     achievementCriteria:    string;
-    num:                    string;
-    internalId:             string;
+    num:                    number;
+    internalId:             number | string;
     internalName:           string;
     internalCategory:       string;
-    numOfTiers:             string;
+    numOfTiers:             number | string;
     sequential:             boolean;
     versionAdded:           VersionAdded;
     uniqueEntryId:          string;
@@ -20,8 +20,8 @@ export enum SourceSheet {
 }
 
 export interface Tier {
-    required: string;
-    reward:   string;
+    required: number | string;
+    reward:   number | string;
     nouns:    string[];
     modifier: string;
 }
@@ -30,4 +30,5 @@ export enum VersionAdded {
     The100 = "1.0.0",
     The120 = "1.2.0",
     The130 = "1.3.0",
+    The200 = "2.0.0",
 }

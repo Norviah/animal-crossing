@@ -3,7 +3,7 @@ export interface Villager {
     name:                      string;
     iconImage:                 string;
     photoImage:                string;
-    houseImage:                string;
+    houseImage:                null | string;
     species:                   string;
     gender:                    Gender;
     personality:               Personality;
@@ -20,8 +20,8 @@ export interface Villager {
     furnitureList:             number[];
     furnitureNameList:         string[];
     diyWorkbench:              string;
-    kitchenEquipment:          string;
-    versionAdded:              Version;
+    kitchenEquipment:          number | string;
+    versionAdded:              VersionAdded;
     nameColor:                 string;
     bubbleColor:               string;
     filename:                  string;
@@ -34,34 +34,28 @@ export interface Villager {
 }
 
 export interface Catchphrases {
-    sourceSheet:        SourceSheet;
-    id:                 string;
-    version:            Version;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
-    plural:             boolean;
+    sourceSheet: SourceSheet;
+    id:          string;
+    eUde:        string;
+    eUen:        string;
+    eUit:        string;
+    eUnl:        string;
+    eUru:        string;
+    eUfr:        string;
+    eUes:        string;
+    uSen:        string;
+    uSfr:        string;
+    uSes:        string;
+    jPja:        string;
+    kRko:        string;
+    tWzh:        string;
+    cNzh:        string;
+    plural:      boolean;
 }
 
 export enum SourceSheet {
+    VillagerCatchphrases = "Villager Catchphrases",
     Villagers = "Villagers",
-    VillagersCatchPhrase = "Villagers Catch Phrase",
-}
-
-export enum Version {
-    The100 = "1.0.0",
-    The190 = "1.9.0",
 }
 
 export enum Color {
@@ -118,4 +112,10 @@ export enum Style {
 export enum Subtype {
     A = "A",
     B = "B",
+}
+
+export enum VersionAdded {
+    The100 = "1.0.0",
+    The190 = "1.9.0",
+    The200 = "2.0.0",
 }

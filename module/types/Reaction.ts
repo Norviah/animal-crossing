@@ -4,14 +4,25 @@ export interface Reaction {
     name:                 string;
     image:                string;
     source:               string[];
-    sourceNotes:          string[] | null;
-    seasonEvent:          null | string;
+    sourceNotes:          SourceNote[] | null;
+    seasonEvent:          SeasonEvent | null;
     seasonEventExclusive: boolean | null;
-    versionAdded:         Version;
+    versionAdded:         VersionAdded;
     iconFilename:         string;
     internalId:           number;
     uniqueEntryId:        string;
     translations:         Translations;
+}
+
+export enum SeasonEvent {
+    FestivaleReadyDaysFestivale = "Festivale (ready days); Festivale",
+    Halloween = "Halloween",
+    HappyHomeParadise = "Happy Home Paradise",
+}
+
+export enum SourceNote {
+    ReceivedAfterDoingYour50ThGroupStretch = "Received after doing your 50th group stretch",
+    RequiresAHighLevelOfFriendship = "Requires a high level of friendship",
 }
 
 export enum SourceSheet {
@@ -19,29 +30,29 @@ export enum SourceSheet {
 }
 
 export interface Translations {
-    sourceSheet:        SourceSheet;
-    id:                 string;
-    version:            Version;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
-    plural:             boolean;
+    sourceSheet: SourceSheet;
+    id:          string;
+    eUde:        string;
+    eUen:        string;
+    eUit:        string;
+    eUnl:        string;
+    eUru:        string;
+    eUfr:        string;
+    eUes:        string;
+    uSen:        string;
+    uSfr:        string;
+    uSes:        string;
+    jPja:        string;
+    kRko:        string;
+    tWzh:        string;
+    cNzh:        string;
+    plural:      boolean;
 }
 
-export enum Version {
+export enum VersionAdded {
     The100 = "1.0.0",
     The150 = "1.5.0",
     The160 = "1.6.0",
     The170 = "1.7.0",
+    The200 = "2.0.0",
 }

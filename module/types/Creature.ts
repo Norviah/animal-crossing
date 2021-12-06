@@ -27,7 +27,7 @@ export interface Creature {
     shadow?:              Shadow;
     movementSpeed?:       MovementSpeed;
     lightingType?:        LightingType | null;
-    versionAdded?:        Version;
+    versionAdded?:        VersionAdded;
     unlocked?:            boolean;
     catchDifficulty?:     CatchDifficulty;
     vision?:              Vision;
@@ -112,24 +112,23 @@ export enum CreatureSourceSheet {
 }
 
 export interface Translations {
-    sourceSheet:        TranslationsSourceSheet;
-    id:                 number;
-    version:            Version;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
-    plural:             boolean;
+    sourceSheet: TranslationsSourceSheet;
+    id:          number;
+    eUde:        string;
+    eUen:        string;
+    eUit:        string;
+    eUnl:        string;
+    eUru:        string;
+    eUfr:        string;
+    eUes:        string;
+    uSen:        string;
+    uSfr:        string;
+    uSes:        string;
+    jPja:        string;
+    kRko:        string;
+    tWzh:        string;
+    cNzh:        string;
+    plural:      boolean;
 }
 
 export enum TranslationsSourceSheet {
@@ -138,8 +137,7 @@ export enum TranslationsSourceSheet {
     SeaCreatures = "Sea Creatures",
 }
 
-export enum Version {
-    The100 = "1.0.0",
+export enum VersionAdded {
     The130 = "1.3.0",
 }
 

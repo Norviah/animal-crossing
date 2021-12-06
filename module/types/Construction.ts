@@ -1,13 +1,14 @@
 export interface Construction {
-    sourceSheet:   ConstructionSourceSheet;
-    name:          string;
+    sourceSheet:   SourceSheet;
+    name:          null | string;
     image:         string;
-    buy:           number;
-    category:      Category;
-    source:        Source[];
+    buy:           number | null;
+    category:      Category | null;
+    source:        Source[] | null;
     filename:      string;
+    versionAdded:  VersionAdded;
     uniqueEntryId: string;
-    translations:  Translations;
+    translations:  Translations | null;
 }
 
 export enum Category {
@@ -28,39 +29,35 @@ export enum Source {
     The5ThHouseUpgrade2NdFloor = "5th House Upgrade (2nd Floor)",
 }
 
-export enum ConstructionSourceSheet {
+export enum SourceSheet {
     Construction = "Construction",
+    HouseDoors = "House Doors",
+    HouseMailboxes = "House Mailboxes",
+    HouseRoofs = "House Roofs",
+    HouseWalls = "House Walls",
 }
 
 export interface Translations {
-    sourceSheet:        TranslationsSourceSheet;
-    id:                 number;
-    version:            Version;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
-    plural:             boolean;
+    sourceSheet: SourceSheet;
+    id:          number | string;
+    eUde:        string;
+    eUen:        string;
+    eUit:        string;
+    eUnl:        string;
+    eUru:        string;
+    eUfr:        string;
+    eUes:        string;
+    uSen:        string;
+    uSfr:        string;
+    uSes:        string;
+    jPja:        string;
+    kRko:        string;
+    tWzh:        string;
+    cNzh:        string;
+    plural:      boolean;
 }
 
-export enum TranslationsSourceSheet {
-    BridgeInclines = "Bridge & Inclines",
-    HouseDoor = "House Door",
-    HouseMailbox = "House Mailbox",
-    HouseRoof = "House Roof",
-    HouseWall = "House Wall",
-}
-
-export enum Version {
+export enum VersionAdded {
     The100 = "1.0.0",
+    The200 = "2.0.0",
 }
