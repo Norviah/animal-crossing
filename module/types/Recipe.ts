@@ -11,48 +11,32 @@ export interface Recipe {
     sourceNotes:           string[] | null;
     seasonEvent:           null | string;
     seasonEventExclusive:  boolean | null;
-    versionAdded:          Version;
+    versionAdded:          VersionAdded;
     unlocked:              boolean;
     recipesToUnlock:       number;
     category:              Category;
     craftedItemInternalId: number;
-    cardColor:             CardColor | null;
+    cardColor:             null | string;
     diyIconFilename:       string;
     diyIconFilenameSh:     null | string;
     serialId:              number;
     internalId:            number;
     uniqueEntryId:         string;
-    translations:          Translations | null;
+    translations:          Translations;
     materials:             { [key: string]: number };
     materialsTranslations: { [key: string]: Translations | null };
 }
 
-export enum CardColor {
-    Beige = "beige",
-    Blue = "blue",
-    Brick = "brick",
-    Brown = "brown",
-    Cream = "cream",
-    DarkGray = "dark gray",
-    Gold = "gold",
-    Green = "green",
-    LightGray = "light gray",
-    Orange = "orange",
-    Pink = "pink",
-    Purple = "purple",
-    Red = "red",
-    Silver = "silver",
-    White = "white",
-    Yellow = "yellow",
-}
-
 export enum Category {
+    CeilingDecor = "Ceiling Decor",
     Equipment = "Equipment",
     Floors = "Floors",
     Housewares = "Housewares",
     Miscellaneous = "Miscellaneous",
     Other = "Other",
     Rugs = "Rugs",
+    Savory = "Savory",
+    Sweet = "Sweet",
     Tools = "Tools",
     WallMounted = "Wall-mounted",
     Wallpaper = "Wallpaper",
@@ -63,52 +47,55 @@ export enum ExchangeCurrency {
 }
 
 export interface Translations {
-    sourceSheet:        TranslationsSourceSheet;
-    id:                 number;
-    version:            Version;
-    english:            string;
-    englishEurope:      string;
-    german:             string;
-    spanish:            string;
-    spanishUs:          string;
-    french:             string;
-    frenchUs:           string;
-    italian:            string;
-    dutch:              string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            string;
-    plural:             boolean;
+    sourceSheet: TranslationsSourceSheet;
+    id:          number;
+    eUde:        string;
+    eUen:        string;
+    eUit:        string;
+    eUnl:        string;
+    eUru:        string;
+    eUfr:        string;
+    eUes:        string;
+    uSen:        string;
+    uSfr:        string;
+    uSes:        string;
+    jPja:        string;
+    kRko:        string;
+    tWzh:        string;
+    cNzh:        string;
+    plural:      boolean;
 }
 
 export enum TranslationsSourceSheet {
-    Accessories = "Accessories",
-    Bags = "Bags",
-    Bottoms = "Bottoms",
-    Caps = "Caps",
-    Craft = "Craft",
-    Doorplates = "Doorplates",
-    Dresses = "Dresses",
-    Etc = "ETC",
+    AccessoriesVariants = "Accessories Variants",
+    BagsVariants = "Bags Variants",
+    BottomsVariants = "Bottoms Variants",
+    CapsVariants = "Caps Variants",
+    Dishes = "Dishes",
+    DoorDeco = "Door Deco",
+    DressUpVariants = "Dress-Up Variants",
+    Etc = "Etc",
     EventItems = "Event Items",
-    Fence = "Fence",
+    Fencing = "Fencing",
     Floors = "Floors",
     Fossils = "Fossils",
     Furniture = "Furniture",
-    Masks = "Masks",
+    HelmetsVariants = "Helmets Variants",
     Plants = "Plants",
     Rugs = "Rugs",
     Shells = "Shells",
-    Shoes = "Shoes",
+    ShoesVariants = "Shoes Variants",
     Tools = "Tools",
-    Tops = "Tops",
-    Umbrella = "Umbrella",
-    Walls = "Walls",
+    TopsVariants = "Tops Variants",
+    Umbrellas = "Umbrellas",
+    Wallpaper = "Wallpaper",
 }
 
-export enum Version {
+export enum RecipeSourceSheet {
+    Recipes = "Recipes",
+}
+
+export enum VersionAdded {
     The100 = "1.0.0",
     The110 = "1.1.0",
     The1110 = "1.11.0",
@@ -119,8 +106,5 @@ export enum Version {
     The160 = "1.6.0",
     The170 = "1.7.0",
     The180 = "1.8.0",
-}
-
-export enum RecipeSourceSheet {
-    Recipes = "Recipes",
+    The200 = "2.0.0",
 }

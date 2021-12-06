@@ -1,26 +1,21 @@
 export interface Translation {
-    sourceSheet:        SourceSheet;
-    id:                 number | string;
-    version?:           Version;
-    english:            number | string;
-    englishEurope:      number | string;
-    german:             number | string;
-    spanish:            number | string;
-    spanishUs:          number | string;
-    french:             number | string;
-    frenchUs:           number | string;
-    italian:            number | string;
-    dutch:              number | string;
-    chinese:            string;
-    chineseTraditional: string;
-    japanese:           string;
-    korean:             string;
-    russian:            number | null | string;
-    plural:             boolean;
-    variantId?:         number;
-    furnitureName?:     string;
-    clothName?:         string;
-    clothGroup?:        number;
+    sourceSheet: SourceSheet;
+    id:          number | string;
+    eUde:        null | string;
+    eUen:        null | string;
+    eUit:        null | string;
+    eUnl:        null | string;
+    eUru:        null | string;
+    eUfr:        null | string;
+    eUes:        null | string;
+    uSen:        null | string;
+    uSfr:        null | string;
+    uSes:        null | string;
+    jPja:        null | string;
+    kRko:        null | string;
+    tWzh:        null | string;
+    cNzh:        null | string;
+    plural:      boolean;
 }
 
 export enum SourceSheet {
@@ -31,42 +26,47 @@ export enum SourceSheet {
     BagsVariants = "Bags Variants",
     Bottoms = "Bottoms",
     BottomsVariants = "Bottoms Variants",
-    BridgeInclines = "Bridge & Inclines",
+    BugModels = "Bug Models",
     Bugs = "Bugs",
-    BugsModels = "Bugs Models",
     Caps = "Caps",
     CapsVariants = "Caps Variants",
-    Constellations = "Constellations",
-    Craft = "Craft",
-    Dinosaurs = "Dinosaurs",
-    Doorplates = "Doorplates",
-    Dresses = "Dresses",
-    DressesVariants = "Dresses Variants",
-    Etc = "ETC",
+    Construction = "Construction",
+    CraftingItems = "Crafting Items",
+    Dishes = "Dishes",
+    DoorDeco = "Door Deco",
+    DressUp = "Dress-Up",
+    DressUpVariants = "Dress-Up Variants",
+    Etc = "Etc",
     EventItems = "Event Items",
-    Events = "Events",
+    EventNames = "Event Names",
     FashionThemes = "Fashion Themes",
-    Fence = "Fence",
+    Fencing = "Fencing",
     Fish = "Fish",
     FishModels = "Fish Models",
     Floors = "Floors",
+    FossilGroups = "Fossil Groups",
     Fossils = "Fossils",
     Furniture = "Furniture",
-    FurniturePatterns = "Furniture Patterns",
-    FurnitureVariants = "Furniture Variants",
-    HHASet = "HHA Set",
-    HHASituation = "HHA Situation",
+    Gyroids = "Gyroids",
+    HHASets = "HHA Sets",
+    HHASituations = "HHA Situations",
     HHAThemes = "HHA Themes",
-    HouseDoor = "House Door",
-    HouseMailbox = "House Mailbox",
-    HouseRoof = "House Roof",
-    HouseWall = "House Wall",
-    KKAlbums = "K.K. Albums",
-    MarineSuit = "Marine Suit",
-    MarineSuitVariants = "Marine Suit Variants",
-    Masks = "Masks",
-    MasksVariants = "Masks Variants",
-    Pictures = "Pictures",
+    Handbags = "Handbags",
+    HandbagsVariants = "Handbags Variants",
+    HarvSIslandItems = "Harv's Island Items",
+    Helmets = "Helmets",
+    HelmetsVariants = "Helmets Variants",
+    HouseDoors = "House Doors",
+    HouseMailboxes = "House Mailboxes",
+    HouseRoofs = "House Roofs",
+    HouseWalls = "House Walls",
+    ItemPatternNames = "Item Pattern Names",
+    ItemPatternTypes = "Item Pattern Types",
+    ItemVariantNames = "Item Variant Names",
+    ItemVariantTypes = "Item Variant Types",
+    Money = "Money",
+    Music = "Music",
+    Photos = "Photos",
     Plants = "Plants",
     Posters = "Posters",
     Reactions = "Reactions",
@@ -81,22 +81,11 @@ export enum SourceSheet {
     Tools = "Tools",
     Tops = "Tops",
     TopsVariants = "Tops Variants",
-    Umbrella = "Umbrella",
+    Turnips = "Turnips",
+    Umbrellas = "Umbrellas",
+    VillagerCatchphrases = "Villager Catchphrases",
     Villagers = "Villagers",
-    VillagersCatchPhrase = "Villagers Catch Phrase",
-    Walls = "Walls",
-}
-
-export enum Version {
-    The100 = "1.0.0",
-    The110 = "1.1.0",
-    The1100 = "1.10.0",
-    The120 = "1.2.0",
-    The130 = "1.3.0",
-    The140 = "1.4.0",
-    The150 = "1.5.0",
-    The160 = "1.6.0",
-    The170 = "1.7.0",
-    The180 = "1.8.0",
-    The190 = "1.9.0",
+    Wallpaper = "Wallpaper",
+    Wetsuits = "Wetsuits",
+    WetsuitsVariants = "Wetsuits Variants",
 }
