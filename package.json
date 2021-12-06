@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/Norviah/animal-crossing/tree/master/module#readme",
   "devDependencies": {
-    "@norviah/sheets": "^4.1.0",
+    "@norviah/sheets": "^4.2.0",
     "@types/app-root-path": "^1.2.4",
     "@types/lodash": "^4.14.177",
     "@types/node": "^16.11.11",
