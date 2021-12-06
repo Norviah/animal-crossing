@@ -1,6 +1,6 @@
-[animal-crossing](README.md) › [Globals](globals.md)
+animal-crossing / [Exports](modules.md)
 
-# animal-crossing
+## animal-crossing
 
 An Animal Crossing: New Horizons database for npm, the data available through this module is made from various public Google Spreadsheets for Animal Crossing: New Horizons, which is referenced below.
 
@@ -64,8 +64,8 @@ const freya = villagers.find(villager => villager.name === 'Freya');
 // information for said item. For villagers, for example, some
 // properties you can view are translations of their name and catchphrase.
 
-console.log(freya.translations.spanish); // Freya's name translated to Spanish,
-console.log(freya.catchphrases.spanish); // and her catchphrase translated as well.
+console.log(freya.translations.uSes); // Freya's name translated to Spanish,
+console.log(freya.catchphrases.uSes); // and her catchphrase translated as well.
 
 // To view the properties of all items, take a look at the documentation or the JSON files itself.
 ```
@@ -74,7 +74,7 @@ console.log(freya.catchphrases.spanish); // and her catchphrase translated as we
 
 The spreadsheets that were converted and is available through this module are:
   - the [Animal Crossing: New Horizons](https://docs.google.com/spreadsheets/d/1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM/edit#gid=1397507627) spreadsheet, specifically the editor's copy, and
-  - the [Translations](https://tinyurl.com/acnh-translations) spreadsheet.
+  - the [Translations](https://docs.google.com/spreadsheets/d/1MMbsvDfu59OY9YBEAfHhFJ6O8vRTllNFgMrX7RBZuyI/edit#gid=1859660274) spreadsheet.
 
 If you use any JSON file and/or this module for a project, please credit and link these spreadsheets somewhere in your project.
 
