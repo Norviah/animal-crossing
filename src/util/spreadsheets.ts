@@ -10,12 +10,12 @@ export const spreadsheets: Spreadsheet[] = [
   {
     id: '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM',
     exclude: ['Editor Read Me', 'Read Me', 'Unused Unique IDs'],
-    data: directories.raw,
+    dir: directories.raw,
   },
 
   {
     id: '1GwUuCKgJC61qWEjWyeG3nVjkHesszRL6XbPA_dHfLoI',
     exclude: ['READ ME', 'Changelog'],
-    data: directories.translations,
+    dir: directories.translations,
   },
 ];
