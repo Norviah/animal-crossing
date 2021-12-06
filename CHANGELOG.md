@@ -1,4 +1,24 @@
 
+## [8.0.0](https://github.com/Norviah/animal-crossing/compare/v7.8.0...v8.0.0) (2021-12-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* retrieve translations from the new and active spreadsheet
+
+### Features
+
+* **categories:** rename the tools/goods tab as it contains an invalid character ([10c9442](https://github.com/Norviah/animal-crossing/commit/10c9442ecc27812b1f2751b79af97334a768535b))
+* retrieve translations from the new and active spreadsheet ([299da3a](https://github.com/Norviah/animal-crossing/commit/299da3a2d91cc63503f4f0309623833071fe02c1))
+
+
+### Bug Fixes
+
+* **documentation:** fix invalid characters within generated types ([bcfe477](https://github.com/Norviah/animal-crossing/commit/bcfe47782665dfac8fd0456da535ecb839d9ea0c))
+* **spreadsheets:** use the new translation spreadsheet ([8018371](https://github.com/Norviah/animal-crossing/commit/8018371061fbaebc3afa8d9975372b7f8897ec31))
+* **translations:** set the correct name for translations of catchphrases ([d6e407b](https://github.com/Norviah/animal-crossing/commit/d6e407b05e40a4945d6930dc726b1c0f6c7f83a3))
+* update property for the spreadsheet module ([7f067de](https://github.com/Norviah/animal-crossing/commit/7f067de53a57d45db73c4769d43b2092f612df7d))
+
 ## [7.8.0](https://github.com/Norviah/animal-crossing/compare/v7.7.0...v7.8.0) (2021-10-03)
 
 
