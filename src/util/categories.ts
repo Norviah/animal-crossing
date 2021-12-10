@@ -7,6 +7,7 @@ export const categories = {
     'Artwork',
     'Bags',
     'Bottoms',
+    'Ceiling Decor',
     'Clothing Other',
     'Dress-Up',
     'Fencing',
