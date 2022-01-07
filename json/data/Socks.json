@@ -135,8 +135,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -1261,7 +1261,7 @@
       "cNzh": "有氧运动紧身裤",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -1618,8 +1618,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -1686,10 +1686,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "White" ]
       },
@@ -1712,7 +1712,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -1720,8 +1720,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -1863,7 +1863,7 @@
       "cNzh": "蝴蝶结袜子",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -2008,8 +2008,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -2042,10 +2042,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -2292,8 +2292,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -2326,8 +2326,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -2401,7 +2401,7 @@
       "cNzh": "多色格子袜",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -2489,10 +2489,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Colorful" ]
       },
@@ -2734,7 +2734,7 @@
       "cNzh": "压力裤袜",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -2860,10 +2860,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Black", "Pink" ]
       },
@@ -3292,8 +3292,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -3527,8 +3527,8 @@
           "uSen": "Indigo blue",
           "uSfr": "Indigo",
           "uSes": "Índigo",
-          "jPja": "藍色",
-          "kRko": "감색",
+          "jPja": "インディゴブルー",
+          "kRko": "인디고 블루",
           "tWzh": "靛藍色",
           "cNzh": "靛蓝色"
         },
@@ -3724,8 +3724,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -3758,8 +3758,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -3959,8 +3959,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -4277,8 +4277,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -4311,8 +4311,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -4595,8 +4595,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -4629,8 +4629,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -4845,8 +4845,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -5065,8 +5065,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -5099,10 +5099,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "White" ]
       },
@@ -5208,7 +5208,7 @@
       "cNzh": "蕾丝花边膝上袜",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -5319,8 +5319,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -5387,10 +5387,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "White" ]
       },
@@ -5743,10 +5743,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "White" ]
       },
@@ -5920,7 +5920,7 @@
       "cNzh": "卡通图案袜",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -5993,8 +5993,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -6061,10 +6061,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Aqua" ]
       },
@@ -6170,7 +6170,7 @@
       "cNzh": "吊带袜",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "formal": {
         "sourceSheet": "Fashion Themes",
@@ -6296,8 +6296,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -6459,10 +6459,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Colorful" ]
       },
@@ -6735,7 +6735,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -6743,8 +6743,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -7126,8 +7126,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -7194,10 +7194,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -7531,8 +7531,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -7591,7 +7591,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -7599,8 +7599,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -7708,7 +7708,7 @@
       "cNzh": "儿童袜",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -7877,10 +7877,10 @@
         "internalId": 9990,
         "uniqueEntryId": "uDAkFWgcMBdTxrpe7",
         "variantTranslations": {
-          "eUde": "Pink-gelb",
+          "eUde": "Rosa-gelb",
           "eUen": "Pink & yellow",
           "eUit": "Rosa e giallo",
-          "eUnl": "Roze en geel",
+          "eUnl": "Roze-geel",
           "eUru": "Розовый с желтым",
           "eUfr": "Rose et jaune",
           "eUes": "Rosa y amarillo",
@@ -8259,7 +8259,7 @@
           "eUen": "Black & red",
           "eUit": "Nero e rosso",
           "eUnl": "Zwart-rood",
-          "eUru": "Черный с красным",
+          "eUru": "Черно-красный",
           "eUfr": "Noir et rouge",
           "eUes": "Negro y rojo",
           "uSen": "Black & red",
@@ -8293,7 +8293,7 @@
           "eUen": "Black & blue",
           "eUit": "Nero e blu",
           "eUnl": "Zwart-blauw",
-          "eUru": "Черный с синим",
+          "eUru": "Черно-синий",
           "eUfr": "Noir et bleu",
           "eUes": "Negro y azul",
           "uSen": "Black & blue",
@@ -8325,18 +8325,18 @@
         "variantTranslations": {
           "eUde": "Schwarz-gelb",
           "eUen": "Black & yellow",
-          "eUit": "Giallo e nero",
-          "eUnl": "Zwart-geel",
-          "eUru": "Черно-желтый",
-          "eUfr": "Noir et jaune",
+          "eUit": "Nero e giallo",
+          "eUnl": "Zwart en geel",
+          "eUru": "Черный с желтым",
+          "eUfr": "Noire et jaune",
           "eUes": "Negro y amarillo",
           "uSen": "Black & yellow",
-          "uSfr": "Noir et jaune",
+          "uSfr": "Noire et jaune",
           "uSes": "Negro y amarillo",
-          "jPja": "ブラック×イエロー",
-          "kRko": "블랙×옐로",
-          "tWzh": "黑色×黃色",
-          "cNzh": "黑色×黄色"
+          "jPja": "ブラック&イエロー",
+          "kRko": "블랙&옐로",
+          "tWzh": "黑色&黃色",
+          "cNzh": "黑色&黄色"
         },
         "colors": [ "Black", "Yellow" ]
       },
@@ -8587,8 +8587,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -8621,10 +8621,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "White" ]
       },
@@ -8829,7 +8829,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -8837,8 +8837,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -9087,8 +9087,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -9121,8 +9121,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -9155,10 +9155,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -9397,7 +9397,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -9405,8 +9405,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -9609,10 +9609,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Beige", "Beige" ]
       }
@@ -9742,10 +9742,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Purple" ]
       },
@@ -9768,7 +9768,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -9776,8 +9776,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -9992,10 +9992,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Purple" ]
       },
@@ -10018,7 +10018,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -10026,8 +10026,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -10314,8 +10314,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -10374,7 +10374,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -10382,8 +10382,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -10651,8 +10651,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -11044,8 +11044,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -11177,10 +11177,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "White" ]
       },
@@ -11203,7 +11203,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -11211,8 +11211,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -11677,10 +11677,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Black", "Pink" ]
       },
@@ -12241,10 +12241,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -12486,7 +12486,7 @@
       "cNzh": "亮片紧身裤",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "party": {
         "sourceSheet": "Fashion Themes",
@@ -12593,8 +12593,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -12847,7 +12847,7 @@
       "cNzh": "透肤袜",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -12939,8 +12939,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -13150,7 +13150,7 @@
       "cNzh": "简约膝上袜",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -13272,10 +13272,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -13454,8 +13454,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -13488,8 +13488,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -13556,10 +13556,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "White" ]
       },
@@ -13582,7 +13582,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -13590,8 +13590,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -13699,7 +13699,7 @@
       "cNzh": "足球袜",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -13806,8 +13806,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -13866,7 +13866,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -13874,8 +13874,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -14017,7 +14017,7 @@
       "cNzh": "蜘蛛裤袜",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "goth": {
         "sourceSheet": "Fashion Themes",
@@ -14143,8 +14143,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -14169,7 +14169,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -14177,8 +14177,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -14359,8 +14359,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -14393,8 +14393,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -14631,8 +14631,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -14699,8 +14699,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -14978,7 +14978,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -14986,8 +14986,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -15270,8 +15270,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -15338,10 +15338,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -15364,7 +15364,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -15372,8 +15372,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -15675,8 +15675,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -15823,8 +15823,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -15891,10 +15891,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "White" ]
       },
@@ -16186,7 +16186,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -16194,8 +16194,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -16568,8 +16568,8 @@
           "uSen": "Black",
           "uSfr": "Noir",
           "uSes": "Negro",
-          "jPja": "黒",
-          "kRko": "검은색",
+          "jPja": "ブラック",
+          "kRko": "블랙",
           "tWzh": "黑色",
           "cNzh": "黑色"
         },
@@ -16602,10 +16602,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -16939,10 +16939,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -16965,7 +16965,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -16973,8 +16973,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -17310,10 +17310,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "桃色",
-          "kRko": "분홍색",
-          "tWzh": "桃紅色",
-          "cNzh": "桃红色"
+          "jPja": "ピンク",
+          "kRko": "핑크",
+          "tWzh": "粉紅色",
+          "cNzh": "粉红"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -17336,7 +17336,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -17344,8 +17344,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -17694,7 +17694,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancione",
+          "eUit": "Arancio",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -17702,8 +17702,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "橙",
-          "kRko": "귤색",
+          "jPja": "オレンジ",
+          "kRko": "오렌지",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -17922,7 +17922,7 @@
       "cNzh": "青海波袜子",
       "plural": false
     },
-    "source": [ "Kicks" ],
+    "source": [ "Kicks", "Kicks' Co-op" ],
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -17976,8 +17976,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "灰色",
-          "kRko": "회색",
+          "jPja": "グレー",
+          "kRko": "그레이",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
