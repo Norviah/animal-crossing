@@ -9,10 +9,11 @@
   ],
   "scripts": {
     "build:src": "./node_modules/typescript/bin/tsc",
+    "build:minify": "bash ./bin/minify.sh",
     "build:types": "bash ./bin/types.sh",
     "build:docs": "npm run build:src && /bin/rm -rf ./module/docs; ./node_modules/typedoc/bin/typedoc --githubPages false --tsconfig module/tsconfig.json --out ./module/docs module/index.ts",
     "build:module-src": "./node_modules/typescript/bin/tsc --outDir lib -p module",
-    "build:module": "npm run build:src && npm run start && /bin/rm -rf ./module/data &>/dev/null && cp -r ./json/combined ./module/data &>/dev/null && npm run build:types && npm run build:module-src && npm run build:docs",
+    "build:module": "npm run build:src && npm run start && /bin/rm -rf ./module/data &>/dev/null && npm run build:minify && npm run build:types && npm run build:module-src && npm run build:docs",
     "publish:patch": "./node_modules/standard-version/bin/cli.js --release-as patch && npm run publish",
     "publish:minor": "./node_modules/standard-version/bin/cli.js --release-as minor && npm run publish",
     "publish:major": "./node_modules/standard-version/bin/cli.js --release-as major && npm run publish",
