@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[types/NPC.ts:21](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/NPC.ts#L21)
+[types/NPC.ts:21](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/NPC.ts#L21)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[types/NPC.ts:22](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/NPC.ts#L22)
+[types/NPC.ts:22](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/NPC.ts#L22)

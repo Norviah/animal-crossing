@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[types/Reaction.ts:24](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L24)
+[types/Reaction.ts:24](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L24)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:25](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L25)
+[types/Reaction.ts:25](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L25)

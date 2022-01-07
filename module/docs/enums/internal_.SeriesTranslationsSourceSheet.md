@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[types/Item.ts:1122](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L1122)
+[types/Item.ts:1125](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L1125)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[types/Item.ts:1123](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L1123)
+[types/Item.ts:1126](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L1126)

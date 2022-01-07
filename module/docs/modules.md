@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[index.ts:35](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/index.ts#L35)
+[index.ts:35](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/index.ts#L35)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[index.ts:36](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/index.ts#L36)
+[index.ts:36](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/index.ts#L36)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[index.ts:37](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/index.ts#L37)
+[index.ts:37](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/index.ts#L37)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[index.ts:38](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/index.ts#L38)
+[index.ts:38](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/index.ts#L38)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[index.ts:44](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/index.ts#L44)
+[index.ts:44](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/index.ts#L44)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[index.ts:39](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/index.ts#L39)
+[index.ts:39](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/index.ts#L39)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[index.ts:41](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/index.ts#L41)
+[index.ts:41](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/index.ts#L41)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 #### Defined in
 
-[index.ts:40](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/index.ts#L40)
+[index.ts:40](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/index.ts#L40)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[index.ts:42](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/index.ts#L42)
+[index.ts:42](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/index.ts#L42)
 
 ___
 
@@ -132,4 +132,4 @@ ___
 
 #### Defined in
 
-[index.ts:43](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/index.ts#L43)
+[index.ts:43](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/index.ts#L43)

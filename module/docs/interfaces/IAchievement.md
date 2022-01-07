@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[types/Achievement.ts:5](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L5)
+[types/Achievement.ts:5](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L5)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:4](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L4)
+[types/Achievement.ts:4](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L4)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:9](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L9)
+[types/Achievement.ts:9](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L9)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:7](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L7)
+[types/Achievement.ts:7](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L7)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:8](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L8)
+[types/Achievement.ts:8](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L8)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:3](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L3)
+[types/Achievement.ts:3](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L3)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:6](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L6)
+[types/Achievement.ts:6](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L6)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:10](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L10)
+[types/Achievement.ts:10](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L10)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:11](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L11)
+[types/Achievement.ts:11](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L11)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:2](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L2)
+[types/Achievement.ts:2](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L2)
 
 ___
 
@@ -133,7 +133,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:15](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L15)
+[types/Achievement.ts:15](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L15)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:14](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L14)
+[types/Achievement.ts:14](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L14)
 
 ___
 
@@ -153,7 +153,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:13](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L13)
+[types/Achievement.ts:13](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L13)
 
 ___
 
@@ -163,4 +163,4 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:12](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L12)
+[types/Achievement.ts:12](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L12)

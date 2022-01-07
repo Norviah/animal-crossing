@@ -77,7 +77,7 @@
 
 #### Defined in
 
-[types/Item.ts:542](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L542)
+[types/Item.ts:545](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L545)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:543](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L543)
+[types/Item.ts:546](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L546)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:544](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L544)
+[types/Item.ts:547](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L547)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:545](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L545)
+[types/Item.ts:548](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L548)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:546](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L546)
+[types/Item.ts:549](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L549)
 
 ___
 
@@ -127,7 +127,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:547](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L547)
+[types/Item.ts:550](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L550)
 
 ___
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:548](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L548)
+[types/Item.ts:551](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L551)
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:549](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L549)
+[types/Item.ts:552](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L552)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:550](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L550)
+[types/Item.ts:553](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L553)
 
 ___
 
@@ -167,7 +167,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:551](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L551)
+[types/Item.ts:554](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L554)
 
 ___
 
@@ -177,7 +177,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:552](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L552)
+[types/Item.ts:555](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L555)
 
 ___
 
@@ -187,7 +187,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:553](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L553)
+[types/Item.ts:556](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L556)
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:554](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L554)
+[types/Item.ts:557](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L557)
 
 ___
 
@@ -207,7 +207,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:555](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L555)
+[types/Item.ts:558](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L558)
 
 ___
 
@@ -217,7 +217,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:556](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L556)
+[types/Item.ts:559](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L559)
 
 ___
 
@@ -227,7 +227,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:557](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L557)
+[types/Item.ts:560](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L560)
 
 ___
 
@@ -237,7 +237,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:558](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L558)
+[types/Item.ts:561](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L561)
 
 ___
 
@@ -247,7 +247,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:559](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L559)
+[types/Item.ts:562](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L562)
 
 ___
 
@@ -257,7 +257,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:560](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L560)
+[types/Item.ts:563](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L563)
 
 ___
 
@@ -267,7 +267,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:561](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L561)
+[types/Item.ts:564](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L564)
 
 ___
 
@@ -277,7 +277,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:562](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L562)
+[types/Item.ts:565](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L565)
 
 ___
 
@@ -287,7 +287,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:563](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L563)
+[types/Item.ts:566](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L566)
 
 ___
 
@@ -297,7 +297,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:564](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L564)
+[types/Item.ts:567](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L567)
 
 ___
 
@@ -307,7 +307,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:565](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L565)
+[types/Item.ts:568](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L568)
 
 ___
 
@@ -317,7 +317,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:566](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L566)
+[types/Item.ts:569](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L569)
 
 ___
 
@@ -327,7 +327,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:567](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L567)
+[types/Item.ts:570](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L570)
 
 ___
 
@@ -337,7 +337,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:568](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L568)
+[types/Item.ts:571](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L571)
 
 ___
 
@@ -347,7 +347,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:569](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L569)
+[types/Item.ts:572](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L572)
 
 ___
 
@@ -357,7 +357,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:570](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L570)
+[types/Item.ts:573](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L573)
 
 ___
 
@@ -367,7 +367,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:571](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L571)
+[types/Item.ts:574](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L574)
 
 ___
 
@@ -377,7 +377,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:572](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L572)
+[types/Item.ts:575](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L575)
 
 ___
 
@@ -387,7 +387,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:573](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L573)
+[types/Item.ts:576](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L576)
 
 ___
 
@@ -397,7 +397,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:574](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L574)
+[types/Item.ts:577](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L577)
 
 ___
 
@@ -407,7 +407,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:575](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L575)
+[types/Item.ts:578](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L578)
 
 ___
 
@@ -417,7 +417,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:576](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L576)
+[types/Item.ts:579](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L579)
 
 ___
 
@@ -427,7 +427,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:577](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L577)
+[types/Item.ts:580](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L580)
 
 ___
 
@@ -437,7 +437,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:578](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L578)
+[types/Item.ts:581](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L581)
 
 ___
 
@@ -447,7 +447,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:579](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L579)
+[types/Item.ts:582](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L582)
 
 ___
 
@@ -457,7 +457,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:580](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L580)
+[types/Item.ts:583](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L583)
 
 ___
 
@@ -467,7 +467,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:581](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L581)
+[types/Item.ts:584](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L584)
 
 ___
 
@@ -477,7 +477,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:582](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L582)
+[types/Item.ts:585](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L585)
 
 ___
 
@@ -487,7 +487,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:583](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L583)
+[types/Item.ts:586](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L586)
 
 ___
 
@@ -497,7 +497,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:584](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L584)
+[types/Item.ts:587](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L587)
 
 ___
 
@@ -507,7 +507,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:585](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L585)
+[types/Item.ts:588](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L588)
 
 ___
 
@@ -517,7 +517,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:586](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L586)
+[types/Item.ts:589](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L589)
 
 ___
 
@@ -527,7 +527,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:587](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L587)
+[types/Item.ts:590](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L590)
 
 ___
 
@@ -537,7 +537,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:588](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L588)
+[types/Item.ts:591](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L591)
 
 ___
 
@@ -547,7 +547,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:589](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L589)
+[types/Item.ts:592](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L592)
 
 ___
 
@@ -557,7 +557,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:590](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L590)
+[types/Item.ts:593](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L593)
 
 ___
 
@@ -567,7 +567,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:591](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L591)
+[types/Item.ts:594](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L594)
 
 ___
 
@@ -577,7 +577,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:592](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L592)
+[types/Item.ts:595](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L595)
 
 ___
 
@@ -587,7 +587,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:593](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L593)
+[types/Item.ts:596](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L596)
 
 ___
 
@@ -597,7 +597,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:594](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L594)
+[types/Item.ts:597](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L597)
 
 ___
 
@@ -607,7 +607,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:595](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L595)
+[types/Item.ts:598](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L598)
 
 ___
 
@@ -617,7 +617,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:596](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L596)
+[types/Item.ts:599](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L599)
 
 ___
 
@@ -627,7 +627,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:597](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L597)
+[types/Item.ts:600](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L600)
 
 ___
 
@@ -637,7 +637,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:598](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L598)
+[types/Item.ts:601](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L601)
 
 ___
 
@@ -647,7 +647,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:599](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L599)
+[types/Item.ts:602](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L602)
 
 ___
 
@@ -657,7 +657,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:600](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L600)
+[types/Item.ts:603](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L603)
 
 ___
 
@@ -667,4 +667,4 @@ ___
 
 #### Defined in
 
-[types/Item.ts:601](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L601)
+[types/Item.ts:604](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L604)
