@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[types/Recipe.ts:65](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L65)
+[types/Recipe.ts:65](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L65)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:52](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L52)
+[types/Recipe.ts:52](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L52)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:53](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L53)
+[types/Recipe.ts:53](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L53)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:58](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L58)
+[types/Recipe.ts:58](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L58)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:57](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L57)
+[types/Recipe.ts:57](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L57)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:54](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L54)
+[types/Recipe.ts:54](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L54)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:55](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L55)
+[types/Recipe.ts:55](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L55)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:56](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L56)
+[types/Recipe.ts:56](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L56)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:51](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L51)
+[types/Recipe.ts:51](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L51)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:62](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L62)
+[types/Recipe.ts:62](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L62)
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:63](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L63)
+[types/Recipe.ts:63](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L63)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:66](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L66)
+[types/Recipe.ts:66](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L66)
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:50](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L50)
+[types/Recipe.ts:50](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L50)
 
 ___
 
@@ -164,7 +164,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:64](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L64)
+[types/Recipe.ts:64](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L64)
 
 ___
 
@@ -174,7 +174,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:59](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L59)
+[types/Recipe.ts:59](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L59)
 
 ___
 
@@ -184,7 +184,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:61](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L61)
+[types/Recipe.ts:61](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L61)
 
 ___
 
@@ -194,4 +194,4 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:60](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L60)
+[types/Recipe.ts:60](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Recipe.ts#L60)

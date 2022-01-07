@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[types/Achievement.ts:30](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L30)
+[types/Achievement.ts:30](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Achievement.ts#L30)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:31](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L31)
+[types/Achievement.ts:31](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Achievement.ts#L31)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:32](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L32)
+[types/Achievement.ts:32](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Achievement.ts#L32)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[types/Achievement.ts:33](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L33)
+[types/Achievement.ts:33](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Achievement.ts#L33)

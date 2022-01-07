@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:67](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L67)
+[types/SeasonsAndEvents.ts:67](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/SeasonsAndEvents.ts#L67)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:68](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L68)
+[types/SeasonsAndEvents.ts:68](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/SeasonsAndEvents.ts#L68)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:69](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L69)
+[types/SeasonsAndEvents.ts:69](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/SeasonsAndEvents.ts#L69)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:70](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L70)
+[types/SeasonsAndEvents.ts:70](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/SeasonsAndEvents.ts#L70)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:71](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L71)
+[types/SeasonsAndEvents.ts:71](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/SeasonsAndEvents.ts#L71)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:72](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L72)
+[types/SeasonsAndEvents.ts:72](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/SeasonsAndEvents.ts#L72)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:73](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L73)
+[types/SeasonsAndEvents.ts:73](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/SeasonsAndEvents.ts#L73)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:74](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L74)
+[types/SeasonsAndEvents.ts:74](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/SeasonsAndEvents.ts#L74)
 
 ___
 
@@ -106,4 +106,4 @@ ___
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:75](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L75)
+[types/SeasonsAndEvents.ts:75](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/SeasonsAndEvents.ts#L75)
