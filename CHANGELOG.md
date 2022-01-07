@@ -1,4 +1,11 @@
 
+## [8.2.0](https://github.com/Norviah/animal-crossing/compare/v8.1.0...v8.2.0) (2022-01-07)
+
+
+### Features
+
+* minify json files for the package ([199214e](https://github.com/Norviah/animal-crossing/commit/199214ec99880012bff83088fcedb3605de869a4))
+
 ## [8.1.0](https://github.com/Norviah/animal-crossing/compare/v8.0.0...v8.1.0) (2022-01-07)
 
 
