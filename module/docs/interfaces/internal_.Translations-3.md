@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[types/Reaction.ts:48](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L48)
+[types/Reaction.ts:48](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L48)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:35](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L35)
+[types/Reaction.ts:35](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L35)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:36](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L36)
+[types/Reaction.ts:36](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L36)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:41](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L41)
+[types/Reaction.ts:41](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L41)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:40](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L40)
+[types/Reaction.ts:40](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L40)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:37](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L37)
+[types/Reaction.ts:37](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L37)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:38](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L38)
+[types/Reaction.ts:38](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L38)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:39](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L39)
+[types/Reaction.ts:39](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L39)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:34](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L34)
+[types/Reaction.ts:34](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L34)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:45](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L45)
+[types/Reaction.ts:45](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L45)
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:46](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L46)
+[types/Reaction.ts:46](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L46)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:49](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L49)
+[types/Reaction.ts:49](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L49)
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:33](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L33)
+[types/Reaction.ts:33](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L33)
 
 ___
 
@@ -164,7 +164,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:47](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L47)
+[types/Reaction.ts:47](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L47)
 
 ___
 
@@ -174,7 +174,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:42](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L42)
+[types/Reaction.ts:42](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L42)
 
 ___
 
@@ -184,7 +184,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:44](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L44)
+[types/Reaction.ts:44](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L44)
 
 ___
 
@@ -194,4 +194,4 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:43](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L43)
+[types/Reaction.ts:43](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L43)

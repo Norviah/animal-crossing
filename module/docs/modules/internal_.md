@@ -125,7 +125,7 @@
 
 #### Defined in
 
-[types/Achievement.ts:19](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Achievement.ts#L19)
+[types/Achievement.ts:19](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Achievement.ts#L19)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:78](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/SeasonsAndEvents.ts#L78)
+[types/SeasonsAndEvents.ts:79](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L79)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:46](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Recipe.ts#L46)
+[types/Recipe.ts:46](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L46)
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:73](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Creature.ts#L73)
+[types/Creature.ts:73](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L73)
 
 ___
 
@@ -165,7 +165,7 @@ ___
 
 #### Defined in
 
-[types/Reaction.ts:29](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Reaction.ts#L29)
+[types/Reaction.ts:29](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Reaction.ts#L29)
 
 ___
 
@@ -175,7 +175,7 @@ ___
 
 #### Defined in
 
-[types/Recipe.ts:95](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Recipe.ts#L95)
+[types/Recipe.ts:95](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Recipe.ts#L95)
 
 ___
 
@@ -185,7 +185,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:370](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L370)
+[types/Item.ts:372](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L372)
 
 ___
 
@@ -195,7 +195,7 @@ ___
 
 #### Defined in
 
-[types/SeasonsAndEvents.ts:20](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/SeasonsAndEvents.ts#L20)
+[types/SeasonsAndEvents.ts:20](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/SeasonsAndEvents.ts#L20)
 
 ___
 
@@ -205,7 +205,7 @@ ___
 
 #### Defined in
 
-[types/NPC.ts:26](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/NPC.ts#L26)
+[types/NPC.ts:26](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/NPC.ts#L26)
 
 ___
 
@@ -215,4 +215,4 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:141](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Creature.ts#L141)
+[types/Creature.ts:141](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L141)

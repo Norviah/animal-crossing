@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[types/Construction.ts:5](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Construction.ts#L5)
+[types/Construction.ts:5](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Construction.ts#L5)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[types/Construction.ts:6](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Construction.ts#L6)
+[types/Construction.ts:6](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Construction.ts#L6)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[types/Construction.ts:8](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Construction.ts#L8)
+[types/Construction.ts:8](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Construction.ts#L8)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[types/Construction.ts:4](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Construction.ts#L4)
+[types/Construction.ts:4](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Construction.ts#L4)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[types/Construction.ts:3](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Construction.ts#L3)
+[types/Construction.ts:3](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Construction.ts#L3)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[types/Construction.ts:7](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Construction.ts#L7)
+[types/Construction.ts:7](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Construction.ts#L7)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[types/Construction.ts:2](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Construction.ts#L2)
+[types/Construction.ts:2](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Construction.ts#L2)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[types/Construction.ts:11](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Construction.ts#L11)
+[types/Construction.ts:11](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Construction.ts#L11)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[types/Construction.ts:10](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Construction.ts#L10)
+[types/Construction.ts:10](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Construction.ts#L10)
 
 ___
 
@@ -115,4 +115,4 @@ ___
 
 #### Defined in
 
-[types/Construction.ts:9](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Construction.ts#L9)
+[types/Construction.ts:9](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Construction.ts#L9)

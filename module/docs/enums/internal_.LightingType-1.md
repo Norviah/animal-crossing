@@ -12,6 +12,7 @@
 - [Emission](internal_.LightingType-1.md#emission)
 - [Fluorescent](internal_.LightingType-1.md#fluorescent)
 - [Monitor](internal_.LightingType-1.md#monitor)
+- [Shade](internal_.LightingType-1.md#shade)
 - [Spotlight](internal_.LightingType-1.md#spotlight)
 
 ## Enumeration members
@@ -22,7 +23,7 @@
 
 #### Defined in
 
-[types/Item.ts:257](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L257)
+[types/Item.ts:258](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L258)
 
 ___
 
@@ -32,7 +33,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:258](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L258)
+[types/Item.ts:259](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L259)
 
 ___
 
@@ -42,7 +43,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:259](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L259)
+[types/Item.ts:260](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L260)
 
 ___
 
@@ -52,7 +53,17 @@ ___
 
 #### Defined in
 
-[types/Item.ts:260](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L260)
+[types/Item.ts:261](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L261)
+
+___
+
+### Shade
+
+• **Shade** = `"Shade"`
+
+#### Defined in
+
+[types/Item.ts:262](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L262)
 
 ___
 
@@ -62,4 +73,4 @@ ___
 
 #### Defined in
 
-[types/Item.ts:261](https://github.com/Norviah/animal-crossing/blob/d6e407b/module/types/Item.ts#L261)
+[types/Item.ts:263](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L263)
