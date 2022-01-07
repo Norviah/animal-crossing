@@ -72,6 +72,7 @@ export enum VersionLastUpdated {
     The180 = "1.8.0",
     The190 = "1.9.0",
     The200 = "2.0.0",
+    The204 = "2.0.4",
 }
 
 export enum YearEnum {

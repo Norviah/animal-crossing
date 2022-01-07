@@ -112,6 +112,7 @@ export enum Catalog {
 }
 
 export enum Category {
+    CeilingDecor = "Ceiling Decor",
     Equipment = "Equipment",
     Floors = "Floors",
     Housewares = "Housewares",
@@ -258,6 +259,7 @@ export enum LightingType {
     Emission = "Emission",
     Fluorescent = "Fluorescent",
     Monitor = "Monitor",
+    Shade = "Shade",
     Spotlight = "Spotlight",
 }
 
@@ -384,6 +386,7 @@ export enum VersionAdded {
     The180 = "1.8.0",
     The190 = "1.9.0",
     The200 = "2.0.0",
+    The204 = "2.0.4",
 }
 
 export enum SecondaryShape {
@@ -1225,6 +1228,7 @@ export enum ItemSourceSheet {
     Artwork = "Artwork",
     Bags = "Bags",
     Bottoms = "Bottoms",
+    CeilingDecor = "Ceiling Decor",
     ClothingOther = "Clothing Other",
     DressUp = "Dress-Up",
     Fencing = "Fencing",
