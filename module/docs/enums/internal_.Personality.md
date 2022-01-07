@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[types/Villager.ts:93](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Villager.ts#L93)
+[types/Villager.ts:93](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Villager.ts#L93)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[types/Villager.ts:94](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Villager.ts#L94)
+[types/Villager.ts:94](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Villager.ts#L94)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[types/Villager.ts:95](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Villager.ts#L95)
+[types/Villager.ts:95](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Villager.ts#L95)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[types/Villager.ts:96](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Villager.ts#L96)
+[types/Villager.ts:96](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Villager.ts#L96)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[types/Villager.ts:97](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Villager.ts#L97)
+[types/Villager.ts:97](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Villager.ts#L97)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[types/Villager.ts:98](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Villager.ts#L98)
+[types/Villager.ts:98](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Villager.ts#L98)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[types/Villager.ts:99](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Villager.ts#L99)
+[types/Villager.ts:99](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Villager.ts#L99)
 
 ___
 
@@ -95,4 +95,4 @@ ___
 
 #### Defined in
 
-[types/Villager.ts:100](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Villager.ts#L100)
+[types/Villager.ts:100](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Villager.ts#L100)

@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[types/Creature.ts:91](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L91)
+[types/Creature.ts:91](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L91)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:92](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L92)
+[types/Creature.ts:92](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L92)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:93](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L93)
+[types/Creature.ts:93](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L93)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:94](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L94)
+[types/Creature.ts:94](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L94)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:95](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L95)
+[types/Creature.ts:95](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L95)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:96](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L96)
+[types/Creature.ts:96](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L96)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:97](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L97)
+[types/Creature.ts:97](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L97)
 
 ___
 
@@ -95,4 +95,4 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:98](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L98)
+[types/Creature.ts:98](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L98)

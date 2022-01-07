@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[types/Villager.ts:79](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Villager.ts#L79)
+[types/Villager.ts:79](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Villager.ts#L79)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[types/Villager.ts:80](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Villager.ts#L80)
+[types/Villager.ts:80](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Villager.ts#L80)

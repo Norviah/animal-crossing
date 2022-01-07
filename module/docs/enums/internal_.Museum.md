@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[types/Item.ts:277](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L277)
+[types/Item.ts:277](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Item.ts#L277)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[types/Item.ts:278](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L278)
+[types/Item.ts:278](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Item.ts#L278)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[types/Item.ts:279](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Item.ts#L279)
+[types/Item.ts:279](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Item.ts#L279)

@@ -47,7 +47,7 @@
 
 #### Defined in
 
-[types/Creature.ts:32](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L32)
+[types/Creature.ts:32](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L32)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:16](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L16)
+[types/Creature.ts:16](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L16)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:26](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L26)
+[types/Creature.ts:26](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L26)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:20](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L20)
+[types/Creature.ts:20](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L20)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:6](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L6)
+[types/Creature.ts:6](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L6)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:15](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L15)
+[types/Creature.ts:15](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L15)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:21](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L21)
+[types/Creature.ts:21](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L21)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:7](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L7)
+[types/Creature.ts:7](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L7)
 
 ___
 
@@ -127,7 +127,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:25](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L25)
+[types/Creature.ts:25](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L25)
 
 ___
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:17](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L17)
+[types/Creature.ts:17](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L17)
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:18](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L18)
+[types/Creature.ts:18](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L18)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:19](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L19)
+[types/Creature.ts:19](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L19)
 
 ___
 
@@ -167,7 +167,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:5](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L5)
+[types/Creature.ts:5](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L5)
 
 ___
 
@@ -177,7 +177,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:22](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L22)
+[types/Creature.ts:22](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L22)
 
 ___
 
@@ -187,7 +187,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:29](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L29)
+[types/Creature.ts:29](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L29)
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:28](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L28)
+[types/Creature.ts:28](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L28)
 
 ___
 
@@ -207,7 +207,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:4](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L4)
+[types/Creature.ts:4](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L4)
 
 ___
 
@@ -217,7 +217,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:3](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L3)
+[types/Creature.ts:3](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L3)
 
 ___
 
@@ -227,7 +227,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:8](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L8)
+[types/Creature.ts:8](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L8)
 
 ___
 
@@ -237,7 +237,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:27](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L27)
+[types/Creature.ts:27](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L27)
 
 ___
 
@@ -247,7 +247,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:13](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L13)
+[types/Creature.ts:13](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L13)
 
 ___
 
@@ -257,7 +257,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:2](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L2)
+[types/Creature.ts:2](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L2)
 
 ___
 
@@ -267,7 +267,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:12](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L12)
+[types/Creature.ts:12](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L12)
 
 ___
 
@@ -277,7 +277,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:14](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L14)
+[types/Creature.ts:14](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L14)
 
 ___
 
@@ -287,7 +287,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:11](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L11)
+[types/Creature.ts:11](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L11)
 
 ___
 
@@ -297,7 +297,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:24](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L24)
+[types/Creature.ts:24](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L24)
 
 ___
 
@@ -307,7 +307,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:23](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L23)
+[types/Creature.ts:23](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L23)
 
 ___
 
@@ -317,7 +317,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:31](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L31)
+[types/Creature.ts:31](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L31)
 
 ___
 
@@ -327,7 +327,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:30](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L30)
+[types/Creature.ts:30](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L30)
 
 ___
 
@@ -337,7 +337,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:33](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L33)
+[types/Creature.ts:33](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L33)
 
 ___
 
@@ -347,7 +347,7 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:10](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L10)
+[types/Creature.ts:10](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L10)
 
 ___
 
@@ -357,4 +357,4 @@ ___
 
 #### Defined in
 
-[types/Creature.ts:9](https://github.com/Norviah/animal-crossing/blob/4d5e5b0/module/types/Creature.ts#L9)
+[types/Creature.ts:9](https://github.com/Norviah/animal-crossing/blob/3810f6b/module/types/Creature.ts#L9)
