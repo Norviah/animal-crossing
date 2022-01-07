@@ -1,4 +1,11 @@
 
+## [8.1.0](https://github.com/Norviah/animal-crossing/compare/v8.0.0...v8.1.0) (2022-01-07)
+
+
+### Additions
+
+* implement additions/changes up to 1/06 ([281ce9b](https://github.com/Norviah/animal-crossing/commit/281ce9bf5347f5eac3339f8133692a88fc6a27fa))
+
 ## [8.0.0](https://github.com/Norviah/animal-crossing/compare/v7.8.0...v8.0.0) (2021-12-06)
 
 
